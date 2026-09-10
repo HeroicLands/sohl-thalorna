@@ -7,14 +7,14 @@ name:
   title: ""
   given: Daryash
   clan: Shavân
-  home: Zaristan
+  home: zaristan
   aliases: []
 packFolder: sultanateofamradad
 shortcode: daryshshvn
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/daryshshvn-portrait.webp
+  portrait: images/beings/characters/daryshshvn-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Woodcrafter

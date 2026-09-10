@@ -7,12 +7,12 @@ name:
   title: ""
   given: Shárîna
   clan: Thâmîdon
-  home: Athenikos
+  home: athenikos2
   aliases:
     - Eira Stonefist
 packFolder: helladhelionis
 shortcode: sharnthmdn
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
   portrait: images/being/sharnthmdn-portrait.webp

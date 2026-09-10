@@ -5,7 +5,7 @@ tags:
 type: skill
 subType: mystical
 shortcode: ymir
-img: images/affiliation/ymir.webp
+img: images/affiliation/asguardian/ymir.webp
 name:
   full: "Ritual: Ymir"
   aliases:

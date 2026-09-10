@@ -7,14 +7,14 @@ name:
   title: ""
   given: Gunnsteinn
   clan: Vǫrnheim
-  home: Haldrvík
+  home: haldrvik
   aliases: []
 packFolder: ankarisnordlands
 shortcode: gnstnvrnhm
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/gnstnvrnhm-portrait.webp
+  portrait: images/beings/characters/gnstnvrnhm-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Bodyguard
@@ -579,6 +579,8 @@ sohl:
 Gunnsteinn stands 6'2" tall with a heavy build. He has tanned weathered skin, dark brown hair, and blue eyes. His features include a narrow face, an aquiline nose, a broad chin, a slightly downturned mouth, dark brows. A distinguishing mark is a scar on the right forearm.
 
 # Dossier {#dossier}
+
+## Background
 
 ### The Warrior's Birth
 

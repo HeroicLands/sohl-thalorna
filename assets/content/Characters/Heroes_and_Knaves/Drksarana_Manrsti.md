@@ -7,14 +7,14 @@ name:
   title: ""
   given: Drkṣàrana
   clan: Manṛṣṭi
-  home: Chandrapur
+  home: chandrapur2
   aliases: []
 packFolder: ankarisvedyara
 shortcode: drkaranamn
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/drkaranamn-portrait.webp
+  portrait: images/beings/characters/drkaranamn-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Domestic Servant

@@ -8,12 +8,12 @@ name:
   title: ""
   given: Jéthra
   clan: Llýdar
-  home: Ceridwen's Hollow
+  home: cerdwnshlw
   aliases:
     - Cerys de Lune
 packFolder: aureldiaelavendre
 shortcode: jethralydr
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
   portrait: images/being/jethralydr-portrait.webp

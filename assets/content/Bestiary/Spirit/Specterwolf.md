@@ -5,11 +5,11 @@ name:
   full: Specterwolf
   aliases: []
 description: "The spectral remnant of ancient beasts, hunting on both sides of the veil in relentless, coordinated packs that terrorize isolated travelers."
-img: icons/game-icons/lorc/wolf-head.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 shortcode: spctrwlf
 type: being
 data:
-  portrait: images/being/spctrwlf-portrait.webp
+  portrait: images/beings/creatures/spctrwlf-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: null

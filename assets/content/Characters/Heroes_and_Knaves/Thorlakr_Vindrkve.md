@@ -7,14 +7,14 @@ name:
   title: ""
   given: Thorlákr
   clan: Vindrkvé
-  home: Blóth
+  home: bloth
   aliases: []
 packFolder: ankarisnordlands
 shortcode: thrlkrvndrkv
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/thrlkrvndrkv-portrait.webp
+  portrait: images/beings/characters/thrlkrvndrkv-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Miner
@@ -605,6 +605,8 @@ sohl:
 Thorlákr stands 6'1" tall with a medium build. He has tanned ruddy skin, gray hair, and blue eyes. His features include an angular face, a slightly upturned nose, an angular jawline, narrow lips, thick brows, hollow cheeks. A distinguishing mark is a tattoo of a tiger on the forearm.
 
 # Dossier {#dossier}
+
+## Background
 
 ### Life Before the Mines
 

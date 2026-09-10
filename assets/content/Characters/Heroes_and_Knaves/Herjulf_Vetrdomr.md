@@ -7,14 +7,14 @@ name:
   title: ""
   given: Herjúlf
   clan: Vetrdómr
-  home: Skarholme
+  home: skarholme
   aliases: []
 packFolder: ankarisnordlands
 shortcode: hrjlfvtrdmr
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/hrjlfvtrdmr-portrait.webp
+  portrait: images/beings/characters/hrjlfvtrdmr-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Woodcutter

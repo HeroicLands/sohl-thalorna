@@ -8,12 +8,12 @@ name:
   title: ""
   given: Sofíenna
   clan: Torvaleth
-  home: Valdés
+  home: valdes
   aliases:
     - Reslâva Vespera Sunstone
 packFolder: aureldiatarvenia
 shortcode: sofntrvlth
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
   portrait: images/being/sofntrvlth-portrait.webp

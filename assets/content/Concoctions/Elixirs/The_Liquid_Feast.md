@@ -6,7 +6,7 @@ name:
   aliases:
     - Sustenance Elixir
 description: "Thick brown draft; sustains days of active labor and travel."
-img: icons/potion.svg
+img: systems/sohl/assets/icons/other/potion.svg
 shortcode: ElxSus
 type: concoctiongear
 subType: elixir

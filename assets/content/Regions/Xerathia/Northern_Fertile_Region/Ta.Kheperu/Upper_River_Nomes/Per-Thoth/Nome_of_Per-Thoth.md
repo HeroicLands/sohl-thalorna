@@ -109,6 +109,7 @@ data:
     - uperivrnms
   relations:
     kemtnpnthn: aligned
+    thoth: aligned
 sohl:
   templatePriority: null
 packFolder: perthoth
@@ -118,11 +119,11 @@ packFolder: perthoth
 
 ## Overview
 
-Per-Thōth — "the House of Thōth" — is the learned nome of the [[affiliation-uperivrnms|upper river]], the empire's seat of writing, reckoning, and recorded knowledge. At its centre stands [[place-khemenu|Khemenu]], the foremost temple-city of [[affiliation-kemtnpnthn|Thōth]], keeper of sacred wisdom, whose great library-temple holds the deepest archive in [[affiliation-empirtkhpr|The Empire of Ta'Kheperu]] and whose priest-scribes maintain the meticulous king-lists that stretch back, unbroken, to the [[affiliation-empirtkhpr#The Kheperi Calendar and Dating|Sep Tepy]]. Here are the finest scribal schools in the empire, the astronomers who keep the calendar that is the most accurate in the known world, and the archivists, lawyers, mathematicians, and physicians whose training begins under Thōth's wing. The nome's worldly produce is ordinary upper-river grain; its real export is literate, numerate, and learned men, and the records by which the empire knows itself.
+Per-Thōth — "the House of Thōth" — is the learned nome of the [[affiliation-uperivrnms|upper river]], the empire's seat of writing, reckoning, and recorded knowledge. At its centre stands [[place-khemenu|Khemenu]], the foremost temple-city of [[affiliation-kemtnpnthn|Thōth]], keeper of sacred wisdom, whose great library-temple holds the deepest archive in [[affiliation-empirtkhpr|The Empire of Ta'Kheperu]] and whose priest-scribes maintain the meticulous king-lists that stretch back, unbroken, to the [[affiliation-empirtkhpr#the-kheperi-calendar-and-dating|Sep Tepy]]. Here are the finest scribal schools in the empire, the astronomers who keep the calendar that is the most accurate in the known world, and the archivists, lawyers, mathematicians, and physicians whose training begins under Thōth's wing. The nome's worldly produce is ordinary upper-river grain; its real export is literate, numerate, and learned men, and the records by which the empire knows itself.
 
 ## Character
 
-Per-Thōth is the empire's memory and its schoolroom. Its temper is bookish, exacting, and quietly proud: this is the nome that taught the bureaucracy to count and the priesthood to read, and it never quite lets the rest of the empire forget it. The priesthood of Thōth is its dominant power — less wealthy than the great mortuary or solar cults but more influential than its purse, for it controls the archives, certifies the scribes, computes the calendar, and is trusted to keep the king-lists that legitimize every dynasty. The [[affiliation-empirtkhpr#Titles and Forms of Address|Haty'a]] governs the land and the grain; the Wer'Hekau of Thōth governs the word and the number, and in a civilization that runs on records, that is no small thing. The nome draws ambitious youths from every corner of the empire to its schools, and sends them back out as the scribes, accountants, and learned men who actually run Ta'Kheperu.
+Per-Thōth is the empire's memory and its schoolroom. Its temper is bookish, exacting, and quietly proud: this is the nome that taught the bureaucracy to count and the priesthood to read, and it never quite lets the rest of the empire forget it. The priesthood of Thōth is its dominant power — less wealthy than the great mortuary or solar cults but more influential than its purse, for it controls the archives, certifies the scribes, computes the calendar, and is trusted to keep the king-lists that legitimize every dynasty. The [[affiliation-empirtkhpr#titles-and-forms-of-address|Haty'a]] governs the land and the grain; the Wer'Hekau of Thōth governs the word and the number, and in a civilization that runs on records, that is no small thing. The nome draws ambitious youths from every corner of the empire to its schools, and sends them back out as the scribes, accountants, and learned men who actually run Ta'Kheperu.
 
 ## Economy
 

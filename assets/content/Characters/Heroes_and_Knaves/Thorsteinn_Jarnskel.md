@@ -7,14 +7,14 @@ name:
   title: ""
   given: Thorsteinn
   clan: Járnskel
-  home: Járnhavn
+  home: jarnhavn
   aliases: []
 packFolder: ankarisnordlands
 shortcode: thrstnjrnskl
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/thrstnjrnskl-portrait.webp
+  portrait: images/beings/characters/thrstnjrnskl-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Herder
@@ -579,6 +579,8 @@ sohl:
 Thorsteinn stands 6'1" tall with a heavy build. He has tanned weathered skin, black hair, and gray eyes. His features include an oblong face, a straight nose, a heavy jawline, a small mouth, low-set brows.
 
 # Dossier {#dossier}
+
+## Background
 
 ### Origins Among the Herds
 

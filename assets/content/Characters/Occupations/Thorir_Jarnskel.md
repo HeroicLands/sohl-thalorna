@@ -8,12 +8,12 @@ name:
   title: ""
   given: Thórir
   clan: Járnskel
-  home: Greyfjord
+  home: greyfjord
   aliases:
     - Darius Thornveil
 packFolder: ankarisnordlands
 shortcode: thrrjrnskl
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
   portrait: images/being/thrrjrnskl-portrait.webp
@@ -557,7 +557,7 @@ sohl:
 
 # Appearance {#appearance}
 
-Thórir is a compact man, built closer to the squat proportions of the deep mountain dwellers than typical Normen, with the weathered, ruddy face of someone who has spent decades between worlds. His brown eyes are sharp but ringed with shadow, suggesting long nights spent poring over manuscripts or traversing planes of existence most people cannot perceive. His brown hair, pulled back in a tight warrior's knot, shows streaks of gray that speak of age and hard living. But the most striking feature is the tattoo on his left wrist: a dolphin in blue ink, rendered with surprising artistry and entirely at odds with the typical Nordheimn aesthetic. It is a mark of his time in foreign ports and trading ventures—the only visible remnant of a past he does not discuss. Despite his modest stature and quiet demeanor, there is something unsettling about his presence, a sense that he perceives things others do not, that he is only partly in this world.
+Thórir is a compact man, built closer to the squat proportions of the deep mountain dwellers than typical Nordmen, with the weathered, ruddy face of someone who has spent decades between worlds. His brown eyes are sharp but ringed with shadow, suggesting long nights spent poring over manuscripts or traversing planes of existence most people cannot perceive. His brown hair, pulled back in a tight warrior's knot, shows streaks of gray that speak of age and hard living. But the most striking feature is the tattoo on his left wrist: a dolphin in blue ink, rendered with surprising artistry and entirely at odds with the typical Nordheimn aesthetic. It is a mark of his time in foreign ports and trading ventures—the only visible remnant of a past he does not discuss. Despite his modest stature and quiet demeanor, there is something unsettling about his presence, a sense that he perceives things others do not, that he is only partly in this world.
 
 # Dossier {#dossier}
 
@@ -569,7 +569,7 @@ Not the approved, formal contacts that the priests of Óðinn's Order of the All
 
 In Nordheim, for a man to practice seiðr—the shamanic, spirit-walking arts—is to be branded _ergi_, unmanned, a serious cultural transgression. Seiðr is women's work, the domain of völvur and seer-priestesses. The few men who practice it exist in a hidden underground, watched by both the official clergy and by society at large. Thórir understood this immediately, and he chose to hide.
 
-For thirty years, he lived a double life. Publicly, he was a respectable merchant, well-connected in the trading networks that stretched from Nordheim across the northern seas to distant southern ports. He traveled extensively—which provided excuse for his long absences and explained his knowledge of Common Speech (75, far higher than any typical Normen). He brewed beer and cooked; he made friends with foreign merchants and scholars. He kept a workshop ostensibly for metalcraft but actually for the preparation of ritual items: talismans, spirit-vessels, the material infrastructure of hidden practice.
+For thirty years, he lived a double life. Publicly, he was a respectable merchant, well-connected in the trading networks that stretched from Nordheim across the northern seas to distant southern ports. He traveled extensively—which provided excuse for his long absences and explained his knowledge of Common Speech (75, far higher than any typical Nordmen). He brewed beer and cooked; he made friends with foreign merchants and scholars. He kept a workshop ostensibly for metalcraft but actually for the preparation of ritual items: talismans, spirit-vessels, the material infrastructure of hidden practice.
 
 And in the depths of his home, in carefully warded chambers, he walked between worlds.
 
@@ -581,7 +581,7 @@ But living this way has taken its toll. He is paranoid—reasonably so. He trust
 
 Thórir is a man living in constant fear of discovery, and that fear has hollowed him out in subtle ways. He is extraordinarily intelligent (reasoning: 18) and deeply knowledgeable in lore (folklore: 85), but he channels these gifts almost entirely into finding new ways to hide. His will is strong (15), but it is spent on maintaining cover rather than pursuing any positive goal. He is skilled at human discourse and manipulation—his Common is exceptional, and he can charm when he needs to—but these are instruments of concealment rather than genuine connection.
 
-His greatest asset is his awareness (56) and his understanding of hidden things. He perceives the landscape differently than other people—he sees the flows of spirit-power, the thin places where worlds intersect, the places where old knowledge lingers. His high unmodified aura (17) suggests that spirits recognize him as one of their own, that even humans instinctively sense something other about him. His ability to brew and cook reflects competencies most Normen men would never develop, suggesting a flexibility and willingness to learn that sits at odds with his culture.
+His greatest asset is his awareness (56) and his understanding of hidden things. He perceives the landscape differently than other people—he sees the flows of spirit-power, the thin places where worlds intersect, the places where old knowledge lingers. His high unmodified aura (17) suggests that spirits recognize him as one of their own, that even humans instinctively sense something other about him. His ability to brew and cook reflects competencies most Nordmen men would never develop, suggesting a flexibility and willingness to learn that sits at odds with his culture.
 
 But that same awareness that makes him gifted makes him unbearably sensitive to threat. Every conversation carries the risk of exposure. Every encounter with officials is a potential trap. He reads hostility into neutral glances. He has constructed such elaborate mental models of possible threats and cover stories that he sometimes confuses what he actually did with what his fictional persona is supposed to have done. He is deeply lonely, isolated by his necessary secrecy and by the understanding that if anyone truly knew him, he would be destroyed.
 

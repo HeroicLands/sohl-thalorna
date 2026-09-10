@@ -7,12 +7,12 @@ name:
   title: ""
   given: Thaldrá
   clan: Druthgar
-  home: Thornhaven
+  home: thornhaven
   aliases:
     - "Thalia Hart"
 packFolder: ankarisvrystwald
 shortcode: thldrdrthgr
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
   portrait: images/being/thldrdrthgr-portrait.webp

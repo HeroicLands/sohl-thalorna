@@ -7,16 +7,16 @@ name:
   title: ""
   given: Khatah
   clan: Mey'khari
-  home: Ankh-Setûn
+  home: ankhsetun
   aliases:
     - Khatah Meykhari
 packFolder: northernfertileregiontakheperu
 banner: banners/ta-kheperu-banner.webp
 shortcode: khathmykhr
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/khathmykhr-portrait.webp
+  portrait: images/beings/characters/khathmykhr-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Yeoman Archer
@@ -588,6 +588,8 @@ sohl:
 Khatah stands 5'10" tall with a light build. She has dark brown skin, black hair, and black eyes. Her features include a narrow face, a long nose, a pointed chin, well-shaped lips, dark brows, sculpted cheeks. A distinguishing mark is a tattoo of a spider on the shoulder.
 
 # Dossier {#dossier}
+
+## Background
 
 ### Born to the Hunt
 

@@ -8,14 +8,14 @@ name:
   title: ""
   given: Faradûn
   clan: Afrûn
-  home: Tahrodan
+  home: tahrodan
   aliases: []
 packFolder: sultanateofamradad
 shortcode: faradunfrn
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/faradunfrn-portrait.webp
+  portrait: images/beings/characters/faradunfrn-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Teamster

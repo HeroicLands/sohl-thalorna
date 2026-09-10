@@ -7,14 +7,14 @@ name:
   title: ""
   given: Padmàvali
   clan: Dhanurvedakīrtirāja
-  home: Suvarṇagiri
+  home: suvaragiri
   aliases: []
 packFolder: ankarisvedyara
 shortcode: pdmvldhnrvdkrtrj
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/pdmvldhnrvdkrtrj-portrait.webp
+  portrait: images/beings/characters/pdmvldhnrvdkrtrj-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Cartographer/Artist

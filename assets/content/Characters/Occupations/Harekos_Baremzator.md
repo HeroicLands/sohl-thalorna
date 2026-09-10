@@ -7,12 +7,12 @@ name:
   title: ""
   given: Hàrêkôs
   clan: Bàremzâtôr
-  home: Corvinus
+  home: corvinus
   aliases:
     - Elwood Strawbridge
 packFolder: midhalionvylaria
 shortcode: hrksbrmztr
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
   portrait: images/being/hrksbrmztr-portrait.webp

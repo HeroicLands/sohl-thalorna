@@ -7,16 +7,16 @@ name:
   title: ""
   given: Mer'tep
   clan: Ankh'Khes
-  home: Per-Ankhet
+  home: perankhet
   aliases:
     - Mertep AnkhKhes
 packFolder: northernfertileregiontakheperu
 banner: banners/ta-kheperu-banner.webp
 shortcode: mrtpnkhkhs
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/mrtpnkhkhs-portrait.webp
+  portrait: images/beings/characters/mrtpnkhkhs-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Domestic Servant

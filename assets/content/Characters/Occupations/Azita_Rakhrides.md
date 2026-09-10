@@ -7,12 +7,12 @@ name:
   title: ""
   given: Ázîta
   clan: Râkhrîdês
-  home: Kalydria
+  home: kalydria2
   aliases:
     - Fiona Brightwater
 packFolder: helladhelionis
 shortcode: azitrkhrds
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
   portrait: images/being/azitrkhrds-portrait.webp

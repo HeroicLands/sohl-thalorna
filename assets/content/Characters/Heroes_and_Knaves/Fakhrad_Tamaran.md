@@ -8,14 +8,14 @@ name:
   title: ""
   given: Fakhrad
   clan: Tamârân
-  home: Shamsûn
+  home: shamsun
   aliases: []
 packFolder: sultanateofamradad
 shortcode: fakhrdtmrn
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/fakhrdtmrn-portrait.webp
+  portrait: images/beings/characters/fakhrdtmrn-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Astrologer

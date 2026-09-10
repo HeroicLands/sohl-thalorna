@@ -7,14 +7,14 @@ name:
   title: ""
   given: Mithran
   clan: Mazânid
-  home: Shamsûn
+  home: shamsun
   aliases: []
 packFolder: sultanateofamradad
 shortcode: mithrnmznd
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/mithrnmznd-portrait.webp
+  portrait: images/beings/characters/mithrnmznd-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Herder

@@ -7,14 +7,14 @@ name:
   title: ""
   given: Óskunn
   clan: Bjargskorn
-  home: Steinmark
+  home: steinmark
   aliases: []
 packFolder: ankarisnordlands
 shortcode: osknbjrgskrn
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/osknbjrgskrn-portrait.webp
+  portrait: images/beings/characters/osknbjrgskrn-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Clothier

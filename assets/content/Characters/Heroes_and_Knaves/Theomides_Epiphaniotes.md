@@ -7,14 +7,14 @@ name:
   title: ""
   given: Theomídes
   clan: Epiphaniôtês
-  home: Byzaris
+  home: byzaris
   aliases: []
 packFolder: helladbyzaria
 shortcode: thmdspphnts
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/thmdspphnts-portrait.webp
+  portrait: images/beings/characters/thmdspphnts-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Trapper

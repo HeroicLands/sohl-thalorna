@@ -5,11 +5,11 @@ name:
   full: Tānvüran Elephant
   aliases: []
 description: "A massive, highly intelligent tusked megafauna often domesticated for labor and war, yet formidable and deadly in the wild."
-img: icons/game-icons/delapouite/elephant.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 shortcode: tnvrnelp
 type: being
 data:
-  portrait: images/being/tnvrnelp-portrait.webp
+  portrait: images/beings/creatures/tnvrnelp-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: null

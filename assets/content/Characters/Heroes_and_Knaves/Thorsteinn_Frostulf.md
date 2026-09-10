@@ -7,14 +7,14 @@ name:
   title: ""
   given: Thorsteinn
   clan: Frostulf
-  home: Bjornstad
+  home: bjornstad
   aliases: []
 packFolder: ankarisnordlands
 shortcode: thrstnfrstlf
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/thrstnfrstlf-portrait.webp
+  portrait: images/beings/characters/thrstnfrstlf-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Potter
@@ -582,6 +582,8 @@ sohl:
 Thorsteinn stands 6'1" tall with a medium build. He has tanned weathered skin, black hair, and brown eyes. His features include an oval face, a prominent nose, a prominent chin, a small mouth, straight brows.
 
 # Dossier {#dossier}
+
+## Background
 
 ### Early Apprenticeship
 

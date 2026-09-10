@@ -7,12 +7,12 @@ name:
   title: ""
   given: Sánrik
   clan: Jútharen
-  home: Solárden
+  home: solarden
   aliases:
     - Halvard Brightforge
 packFolder: aureldiatarvenia
 shortcode: sanrkjthrn
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
   portrait: images/being/sanrkjthrn-portrait.webp

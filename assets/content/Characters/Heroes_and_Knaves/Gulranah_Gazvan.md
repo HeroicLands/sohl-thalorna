@@ -8,14 +8,14 @@ name:
   title: ""
   given: Gulrânah
   clan: Gazvân
-  home: Shamsûn
+  home: shamsun
   aliases: []
 packFolder: sultanateofamradad
 shortcode: gulrnhgzvn
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/gulrnhgzvn-portrait.webp
+  portrait: images/beings/characters/gulrnhgzvn-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Charcoaler
@@ -588,6 +588,8 @@ sohl:
 Gulrânah stands 6'1" tall with a light build. She has light olive skin, dark brown hair, and warm brown eyes. Her features include a long face, a hawkish nose, an angular jawline, full lips, dark brows, angular cheeks. A distinguishing mark is a scar on the right wrist.
 
 # Dossier {#dossier}
+
+## Background
 
 ### Early Years
 

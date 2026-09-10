@@ -8,14 +8,14 @@ name:
   title: ""
   given: Paryan
   clan: Barmandan
-  home: Golshahr
+  home: golshahr
   aliases: []
 packFolder: sultanateofamradad
 shortcode: prynbrmndn
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/prynbrmndn-portrait.webp
+  portrait: images/beings/characters/prynbrmndn-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Jeweller
@@ -111,12 +111,7 @@ sohl:
         weight: 1.5
         value: 100
         durability: 3
-    - name: Metalworking supplies
-      type: miscgear
-      system:
-        weight: 1.5
-        value: 100
-        durability: 3
+    - { shortcode: metalwrktl, type: miscgear }
     - name: Design sketches (portfolio)
       type: miscgear
       system:

@@ -7,14 +7,14 @@ name:
   title: ""
   given: Muri
   clan: Târikh
-  home: Vashurán
+  home: vashuran
   aliases: []
 packFolder: heroesandknaveskalihara
 shortcode: muritarikh
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/muritarikh-portrait.webp
+  portrait: images/beings/characters/muritarikh-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Caravan Guard
@@ -571,6 +571,8 @@ sohl:
 Muri stands 6'2" tall with a heavy build. He has dark skin, black hair, and dark brown eyes. His features include an angular face, a sharp jawline, full lips, dark brows, angular cheeks. A distinguishing mark is a scar across the bridge of the nose.
 
 # Dossier {#dossier}
+
+## Background
 
 ### Early Years and Training
 

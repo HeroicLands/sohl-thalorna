@@ -7,14 +7,14 @@ name:
   title: ""
   given: Yngvarr
   clan: Blóthǫll
-  home: Ormstead
+  home: ormstead
   aliases: []
 packFolder: ankarisnordlands
 shortcode: yngvrblthl
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/yngvrblthl-portrait.webp
+  portrait: images/beings/characters/yngvrblthl-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Jester
@@ -586,6 +586,8 @@ sohl:
 Yngvarr stands 5'7" tall with a light build. He has light fair skin, red hair, and blue eyes. His features include an oblong face, an aquiline nose, a square jawline, a small mouth, heavy brows.
 
 # Dossier {#dossier}
+
+## Background
 
 ### Early Life and the Jester's Gift
 

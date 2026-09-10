@@ -8,14 +8,14 @@ name:
   title: ""
   given: Ailêmâ
   clan: Kêrîamyês
-  home: Corvinus
+  home: corvinus
   aliases: []
 packFolder: midhalionvylaria
 shortcode: ailemkrmys
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/ailemkrmys-portrait.webp
+  portrait: images/beings/characters/ailemkrmys-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Scribe
@@ -600,6 +600,8 @@ sohl:
 Ailêmâ stands 5'11" tall with a medium build. She has light olive skin, chestnut hair, and brown eyes. Her features include a long face, an aquiline nose, a pointed chin, full lips, heavy brows, sculpted cheeks.
 
 # Dossier {#dossier}
+
+## Background
 
 ### The Child of Letters
 

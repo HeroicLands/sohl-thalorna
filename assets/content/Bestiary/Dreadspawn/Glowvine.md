@@ -5,11 +5,11 @@ name:
   full: Glowvine
   aliases: []
 description: "A dark-magic-corrupted predatory plant that lures unwary prey with bioluminescent beauty in shadowed forests and lightless caves."
-img: icons/game-icons/delapouite/griffin-symbol.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 shortcode: glowvine
 type: being
 data:
-  portrait: images/being/glowvine-portrait.webp
+  portrait: images/beings/creatures/glowvine-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: null

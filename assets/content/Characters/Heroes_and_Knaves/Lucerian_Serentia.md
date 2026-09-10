@@ -11,10 +11,10 @@ name:
 packFolder: midhalionvylaria
 shortcode: lucernsrnt
 banner: banners/tamzir-banner.webp
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/lucernsrnt-portrait.webp
+  portrait: images/beings/characters/lucernsrnt-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Physician
@@ -92,9 +92,9 @@ sohl:
     - { shortcode: WClk, type: armorgear }
     - { shortcode: LtShoe, type: armorgear }
     - { shortcode: bpchmd, type: containergear }
-    - { shortcode: surgtools, type: miscgear }
+    - { shortcode: surgkit, type: miscgear }
     - { shortcode: pence, type: miscgear, system: { quantity: 233 } }
-    - { shortcode: goldcrown, type: miscgear, system: { quantity: 3 } }
+    - { shortcode: gldcrwn, type: miscgear, system: { quantity: 3 } }
   system:
     body:
       structure:
@@ -561,6 +561,8 @@ sohl:
 Lucerian Serentia is a handsome young man whose appearance screams wealth and education in an environment that has neither. His brown hair is neatly trimmed, his green eyes are sharp and analytical behind an expression of perpetual, slightly anxious alertness, and his clothing — though travel-worn — is of noticeably finer quality than anything else aboard the Tamzîr. He maintains his grooming with fastidious care, a habit his crewmates find equal parts admirable and irritating. He carries a large leather medical bag of exquisite craftsmanship, containing surgical instruments of the finest quality and an extensive supply of drugs and herbs. He also carries an eating fork, which the crew considers the height of pretension.
 
 # Dossier {#dossier}
+
+## Background
 
 ### Origin
 

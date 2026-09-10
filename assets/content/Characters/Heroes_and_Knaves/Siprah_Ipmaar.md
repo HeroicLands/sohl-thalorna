@@ -8,17 +8,17 @@ name:
   title: ""
   given: Sip'rah
   clan: Ip'maâr
-  home: Wasetkara
+  home: wasetkara
   aliases:
     - Siprah Ipmaâr
     - Siprah Ipmaar
 packFolder: northernfertileregiontakheperu
 banner: banners/ta-kheperu-banner.webp
 shortcode: siprahipmr
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/siprahipmr-portrait.webp
+  portrait: images/beings/characters/siprahipmr-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Locksmith

@@ -6,7 +6,7 @@ name:
   aliases:
     - Potion, Hallucinogenic, Strong
 description: "Almost indigo draft; obscures vision and conceals drinker."
-img: icons/potion.svg
+img: systems/sohl/assets/icons/other/potion.svg
 shortcode: PtnHalS
 type: concoctiongear
 subType: exotic

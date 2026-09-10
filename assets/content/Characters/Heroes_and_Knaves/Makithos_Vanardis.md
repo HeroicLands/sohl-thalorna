@@ -7,14 +7,14 @@ name:
   title: ""
   given: Màkîthos
   clan: Vânardis
-  home: Valdosta
+  home: valdosta
   aliases: []
 packFolder: midhalionvylaria
 shortcode: mkthsvnrds
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/mkthsvnrds-portrait.webp
+  portrait: images/beings/characters/mkthsvnrds-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Thespian
@@ -588,6 +588,8 @@ sohl:
 Màkîthos stands 5'7" tall with a medium build. He has light tanned skin, black hair, and hazel eyes. His features include an oblong face, an aquiline nose, a pointed chin, a wide mouth, heavy brows, angular cheeks. A distinguishing mark is a scar on the right side of the face.
 
 # Dossier {#dossier}
+
+## Background
 
 ### The Wanderer's Child
 

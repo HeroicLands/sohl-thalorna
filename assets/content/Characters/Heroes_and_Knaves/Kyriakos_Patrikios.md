@@ -7,14 +7,14 @@ name:
   title: ""
   given: Kyriákos
   clan: Patrikîos
-  home: Kostaros
+  home: kostaros
   aliases: []
 packFolder: helladbyzaria
 shortcode: kyrksptrks
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/kyrksptrks-portrait.webp
+  portrait: images/beings/characters/kyrksptrks-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Swordmaster
@@ -585,6 +585,8 @@ sohl:
 Kyriákos stands 6'0" tall with a heavy build. He has tanned weathered skin, gray hair, and brown eyes. His features include a diamond-shaped face, a hawkish nose, a strong jawline, expressive brows. A distinguishing mark is a scar running down the back.
 
 # Dossier {#dossier}
+
+## Background
 
 ### Early Life and the Mercenary Years
 

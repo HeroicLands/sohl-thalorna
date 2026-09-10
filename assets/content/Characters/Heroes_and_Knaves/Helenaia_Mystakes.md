@@ -8,14 +8,14 @@ name:
   title: ""
   given: Hélénaia
   clan: Mystákês
-  home: Karataş
+  home: karatas2
   aliases: []
 packFolder: helladbyzaria
 shortcode: helnmystks
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/helnmystks-portrait.webp
+  portrait: images/beings/characters/helnmystks-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Priest

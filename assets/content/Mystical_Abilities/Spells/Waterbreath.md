@@ -5,7 +5,7 @@ name:
   aliases:
     - Gills
 description: "Grants water-breathing; enables underwater respiration. effect"
-img: icons/water.svg
+img: systems/sohl/assets/icons/game-icons/badges/water.svg
 shortcode: wtrbrth
 type: mysticalability
 subType: arcaneincantation

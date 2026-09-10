@@ -5,7 +5,7 @@ name:
   aliases:
     - Magnet
 description: "Force yanks target toward caster; resists movement with difficulty."
-img: icons/anvil.svg
+img: systems/sohl/assets/icons/game-icons/badges/anvil.svg
 shortcode: pull
 type: mysticalability
 subType: arcaneincantation

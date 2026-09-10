@@ -7,12 +7,12 @@ name:
   title: ""
   given: Bréthar
   clan: Sálthar
-  home: Valdûn
+  home: valdun
   aliases:
     - Beran Rookwood
 packFolder: aureldiaelavendre
 shortcode: brthrslthr
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
   portrait: images/being/brthrslthr-portrait.webp

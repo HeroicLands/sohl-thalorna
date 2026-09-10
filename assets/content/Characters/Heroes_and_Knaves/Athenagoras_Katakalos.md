@@ -7,14 +7,14 @@ name:
   title: ""
   given: Athênagoras
   clan: Katakálos
-  home: Denizara
+  home: denizara2
   aliases: []
 packFolder: helladbyzaria
 shortcode: athngrsktkls
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/athngrsktkls-portrait.webp
+  portrait: images/beings/characters/athngrsktkls-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Yeoman Infantry
@@ -590,6 +590,8 @@ sohl:
 Athênagoras stands 6'0" tall with a heavy build. He has light tanned skin, black hair, and brown eyes. His features include an oval face, a prominent nose, a sharp jawline, an expressive mouth, strong brows. A distinguishing mark is a tattoo of a rose vine on the leg.
 
 # Dossier {#dossier}
+
+## Background
 
 ### The Farmer's Son Drafted
 

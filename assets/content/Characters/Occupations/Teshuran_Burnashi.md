@@ -7,12 +7,12 @@ name:
   title: ""
   given: Teshûran
   clan: Bûrnashî
-  home: Kethara
+  home: kethara2
   aliases:
     - Galen Stonehart
 packFolder: midhalionharad
 shortcode: tshrnbrnsh
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
   portrait: images/being/tshrnbrnsh-portrait.webp

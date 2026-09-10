@@ -7,14 +7,14 @@ name:
   title: ""
   given: Ídrisè
   clan: Kórisvar
-  home: Elanmere
+  home: elanmere
   aliases: []
 packFolder: aureldiaprovenzia
 shortcode: idriskrsvr
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/idriskrsvr-portrait.webp
+  portrait: images/beings/characters/idriskrsvr-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Bodyguard
@@ -581,6 +581,8 @@ sohl:
 Ídrisè stands 6'3" tall with a medium build. She has warm olive skin, brown hair, and green eyes. Her features include an angular face, a strong nose, a pointed chin, full lips, arched brows, angular cheeks.
 
 # Dossier {#dossier}
+
+## Background
 
 ### The Foundling
 

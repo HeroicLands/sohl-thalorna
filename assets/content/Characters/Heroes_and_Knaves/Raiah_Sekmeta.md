@@ -8,16 +8,16 @@ name:
   title: ""
   given: Raiah
   clan: Sekmet'â
-  home: Wasetkara
+  home: wasetkara
   aliases:
     - Raiah Sekmetâ
 packFolder: northernfertileregiontakheperu
 banner: banners/ta-kheperu-banner.webp
 shortcode: raiahsekmt
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/raiahsekmt-portrait.webp
+  portrait: images/beings/characters/raiahsekmt-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Weaponcrafter (Armorer)
@@ -99,32 +99,17 @@ sohl:
     - { shortcode: HsTrsr, type: armorgear }
     - { shortcode: RhShoe, type: armorgear }
     - { shortcode: LtCap, type: armorgear }
-    - name: Metalworking tools (hammer, tongs, chisel set, anvil stone)
+    - { shortcode: metalwrktl, type: miscgear }
+    - name: Whetstone
       type: miscgear
       system:
-        weight: 3.5
-        value: 100
-        durability: 3
-    - { name: Leather tool roll, type: miscgear, system: { weight: 1, value: 100, durability: 3 } }
-    - { name: Whetstone, type: miscgear, system: { weight: 0.5, value: 100, durability: 3 } }
-    - name: Charcoal for forge
-      type: miscgear
-      system:
-        quantity: 5
         weight: 1
-        value: 100
-        durability: 3
+        value: 5
+        durability: 0
     - { shortcode: tndrbx, type: miscgear }
     - { shortcode: StdRtns, type: miscgear, system: { quantity: 3 } }
     - { shortcode: pence, type: miscgear, system: { quantity: 20 } }
     - { shortcode: bktlrg, type: containergear }
-    - { name: Whetstone, type: miscgear, system: { weight: 1, value: 100, durability: 3 } }
-    - name: Ingots of various metals
-      type: miscgear
-      system:
-        weight: 1
-        value: 100
-        durability: 3
   system:
     body:
       structure:

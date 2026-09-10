@@ -21,7 +21,7 @@ packFolder: adventures
 
 # The Lost Relic of Ménavar Abbey
 
-An ancient relic of the Aurèldían faith has been lost in the ruins of [[Menavar_Abbey|Ménavar Abbey]], and both the Church and shadowy interests seek to recover it before the other.
+An ancient relic of the Aurèldían faith has been lost in the ruins of Ménavar Abbey, and both the Church and shadowy interests seek to recover it before the other.
 
 ## Overview
 

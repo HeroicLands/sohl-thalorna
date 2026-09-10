@@ -8,15 +8,15 @@ name:
   title: ""
   given: Shadiq
   clan: Rahman
-  home: Korinthel
+  home: korinthel
   aliases:
     - The Diplomatic Blade Dancer
 packFolder: heroesandknaveskalihara
 shortcode: shdqbnrhmndplmtcblddncr
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/shdqbnrhmndplmtcblddncr-portrait.webp
+  portrait: images/beings/characters/shdqbnrhmndplmtcblddncr-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Nobility (Courtier)
@@ -612,6 +612,8 @@ Shadiq stands 6'0" tall with a light build. He has dark skin, black hair, and da
 Shadiq ibn Rahman hails from the southern deserts of **Zánatu**, a land where the sun scorches the earth and [[affiliation-blackflame|The Black Flame]] burns openly. His family were influential merchants and diplomats, brokering alliances between the desert tribes and the empire, and Shadiq grew up steeped in the Black Flame’s teachings—that strength is virtue, that the strong shape the world, and that fire is the truest expression of Vúlcan’s will. For Shadiq, the faith is not merely spiritual; it is a practical philosophy that governs how he conducts business, forges alliances, and reads the intentions of others.
 
 Shadiq met Kallistratos during a diplomatic mission in Velysâra, where he immediately recognized a kindred spirit in the young mage. Shadiq was drawn to Kallistratos’s fiery ambition and saw in him the embodiment of Vúlcan’s power—a man capable of wielding fire to shape the future. Eager to expand his own influence and advance the Black Flame’s reach, Shadiq offered his services as a diplomat and political advisor, knowing that Kallistratos’s rise would serve both their ambitions and the faith.
+
+## Background
 
 ### Skills and Abilities
 

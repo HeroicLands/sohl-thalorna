@@ -8,12 +8,12 @@ name:
   title: Lady
   given: Glýenna
   clan: Cárdeth
-  home: Port Aelion
+  home: portaelion
   aliases:
     - Aperâni Valeria Firebrand
 packFolder: aureldiaelavendre
 shortcode: glyencrdth
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
   portrait: images/being/glyencrdth-portrait.webp

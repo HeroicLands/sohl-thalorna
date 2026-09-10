@@ -13,10 +13,10 @@ name:
     - Calen
 packFolder: aureldiatarvenia
 shortcode: torniskbry
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/torniskbry-portrait.webp
+  portrait: images/beings/characters/torniskbry-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Scout / Spy
@@ -91,20 +91,20 @@ sohl:
     - { shortcode: BrdSwd, type: weapongear }
     - { shortcode: Dgr, type: weapongear }
     - { shortcode: LBw75, type: weapongear }
-    - { shortcode: Tabri, type: weapongear }
+    - { shortcode: Taburi, type: weapongear }
     - { shortcode: WScoat, type: armorgear }
     - { shortcode: WClk, type: armorgear }
     - { shortcode: WLeg, type: armorgear }
     - { shortcode: PVest, type: armorgear }
     - { shortcode: LtCBoot, type: armorgear }
     - { shortcode: LtGlove, type: armorgear }
-    - { shortcode: Leather satchel, type: miscgear }
+    - { shortcode: bagleather15, type: containergear }
     - { shortcode: tndrbx, type: miscgear }
     - { shortcode: backpk, type: containergear }
     - { shortcode: StdRtns, type: miscgear, system: { quantity: 3 } }
     - { shortcode: LiteBdrl, type: miscgear }
     - { shortcode: wtrskin, type: containergear }
-    - { shortcode: Quiver, type: miscgear }
+    - { shortcode: quiversmsh, type: containergear }
     - { shortcode: ArwLBrd, type: projectilegear, system: { quantity: 12 } }
   system:
     body:
@@ -580,6 +580,8 @@ That life ended in blood. A betrayal within his group led to a massacre, and Cal
 Tórnis presents himself as a simple, affable traveler. He is charming, easy to like, and always ready with a self-deprecating joke. Beneath the surface, however, he trusts no one completely and keeps everyone at a calculated distance. His past haunts him, and he is determined never to be caught off guard again.
 
 Recently, his carefully maintained emotional walls have developed a crack: he has begun developing genuine feelings for Elýsè, and he is not entirely sure what to do about it.
+
+## Background
 
 ### Skills and Abilities
 

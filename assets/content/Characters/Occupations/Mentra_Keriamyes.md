@@ -7,12 +7,12 @@ name:
   title: ""
   given: Mêntrâ
   clan: Kêrîamyês
-  home: Belekos
+  home: belekos
   aliases:
     - Anwen Shardwell
 packFolder: midhalionvylaria
 shortcode: mentrkrmys
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
   portrait: images/being/mentrkrmys-portrait.webp

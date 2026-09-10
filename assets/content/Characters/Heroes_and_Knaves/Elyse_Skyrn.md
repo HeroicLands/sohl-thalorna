@@ -12,10 +12,10 @@ name:
   aliases: []
 packFolder: aureldiaelavendre
 shortcode: elyseskyrn
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/elyseskyrn-portrait.webp
+  portrait: images/beings/characters/elyseskyrn-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Alchemist
@@ -103,27 +103,26 @@ sohl:
     - { shortcode: CCap, type: armorgear }
     - { shortcode: WHClk, type: armorgear }
     - { shortcode: LtKBoot, type: armorgear }
-    - { shortcode: Leather satchel, type: miscgear }
+    - { shortcode: bagleather15, type: containergear }
     - { shortcode: tndrbx, type: miscgear }
-    - { shortcode: srgtls, type: miscgear }
-    - { shortcode: sewing kit, type: miscgear }
-    - { shortcode: personal journal, type: miscgear }
-    - { shortcode: medical journal, type: miscgear }
-    - { shortcode: herbs, type: miscgear }
+    - { shortcode: surgkit, type: miscgear }
+    - { shortcode: sewkit, type: miscgear }
+    - { shortcode: booktrvl, type: miscgear }
+    - { shortcode: bookbase, type: miscgear }
+    - { shortcode: herbkit, type: miscgear }
     - { shortcode: backpk, type: containergear }
     - { shortcode: StdRtns, type: miscgear, system: { quantity: 3 } }
     - { shortcode: LiteBdrl, type: miscgear }
     - { shortcode: medsupil, type: miscgear, system: { quantity: 32 } }
-    - { shortcode: healing elixir, type: miscgear }
+    - { shortcode: ElxHeal, type: concoctiongear }
     - { shortcode: wtrskin, type: containergear }
-    - { shortcode: Candles, type: miscgear, system: { quantity: 12 } }
-    - { shortcode: Parchment, type: miscgear }
-    - { shortcode: Ink, type: miscgear }
-    - { shortcode: Quills, type: miscgear }
+    - { shortcode: candlestal, type: miscgear, system: { quantity: 12 } }
+    - { shortcode: parchment, type: miscgear }
+    - { shortcode: inkblk, type: miscgear }
+    - { shortcode: penquill, type: miscgear }
     - { shortcode: Kni, type: weapongear }
-    - { shortcode: Seal Wax (Red), type: miscgear }
-    - { shortcode: Stamp, type: miscgear }
-    - { shortcode: Portable Alchemist Workshop (wagon and 2 horses), type: miscgear }
+    - { shortcode: waxsealing, type: miscgear }
+    - { shortcode: sealsignat, type: miscgear }
   system:
     body:
       structure:
@@ -598,6 +597,8 @@ Despite her success in Béravel, Elýsè grew restless. Academic study was too s
 What Elýsè does not advertise is that her skills extend beyond conventional healing. She possesses genuine arcane talent—but a bad experience in her past has made her deeply cautious about revealing it. To most people, she is simply a very good healer. She intends to keep it that way.
 
 Her relationship with Tórnis has recently added an unexpected complication to her carefully ordered life.
+
+## Background
 
 ### Skills and Abilities
 

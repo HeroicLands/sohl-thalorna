@@ -19,12 +19,14 @@ name:
   full: Pantheon Aurèldiānum
   aliases:
     - The Pantheon
+    - Temple of the Twelve
+    - The Temple of the Twelve
 shortcode: pnthnrldnm
 ---
 
 # Pantheon Aurèldiānum — The House of the Twelve
 
-At the heart of the [[place-urbsaquiln#Regio Templum — The Temple District|Regio Templum]] of [[place-magnapolis|Magnápolis]], where the crowded forest of domes and pylons and timber halls draws back to leave a single sweep of open pavement, stands the **Pantheon Aurèldiānum** — the greatest temple in the western world, and the supreme house of the [[affiliation-arldnpnthn|Aurèldían Pantheon]], _the Twelve_, state religion of the Empire. It is the one sanctuary that honors no single god but the whole pantheon at once: twelve thrones beneath one roof, the divine order of the cosmos rendered in marble and made the official creed of Vylaria. To a Magnápolitan it is simply **the Pantheon** — the word needs no qualifier in the City, for there is only one that matters.
+At the heart of the [[place-urbsaquiln#regio-templum-the-temple-district|Regio Templum]] of [[place-magnapolis|Magnápolis]], where the crowded forest of domes and pylons and timber halls draws back to leave a single sweep of open pavement, stands the **Pantheon Aurèldiānum** — the greatest temple in the western world, and the supreme house of the [[affiliation-arldnpnthn|Aurèldían Pantheon]], _the Twelve_, state religion of the Empire. It is the one sanctuary that honors no single god but the whole pantheon at once: twelve thrones beneath one roof, the divine order of the cosmos rendered in marble and made the official creed of Vylaria. To a Magnápolitan it is simply **the Pantheon** — the word needs no qualifier in the City, for there is only one that matters.
 
 ## The Dome
 
@@ -47,3 +49,13 @@ The one delicate seam is the niche of **Vúlcan**, the Forge-Lord — for Vúlca
 - [[affiliation-janus|Jánus]] — the keeper-priesthood of the Pantheon · [[affiliation-sacredforge|The Sacred Forge]] · [[affiliation-blackflame|The Black Flame]]
 - [[affiliation-ordoarcanis|Ordo Arcanis]] — whose wards hold the impossible dome
 - [[place-magnapolis|Magnápolis]] · [[affiliation-vylarinmpr|Vylarian Empire]]
+
+## The Altar of Vúlcan
+
+The Pantheon holds a shrine to every one of the Twelve, which makes Vúlcan's altar a standing problem.
+Its fires are tended by the priests of the [[affiliation-sacredforge|Sacred Forge]], who hold the
+Forge-Lord's creative aspect and who regard the altar as theirs by right of being the mainstream faith.
+
+The priests of the [[affiliation-blackflame|Black Flame]] **eschew the Pantheon entirely** and keep
+their own temple elsewhere in the city. They do not dispute the altar; they deny that what is tended on
+it is Vúlcan. See [[lore-vulcanischism|The Vúlcani Schism]].

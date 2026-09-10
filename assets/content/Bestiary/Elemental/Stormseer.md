@@ -5,11 +5,11 @@ name:
   full: Stormseer
   aliases: []
 description: "An arrogant elemental of sky and lightning born from violent storms, heralding severe weather that some believe its very presence conjures."
-img: icons/game-icons/lorc/werewolf.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 shortcode: strmsr
 type: being
 data:
-  portrait: images/being/strmsr-portrait.webp
+  portrait: images/beings/creatures/strmsr-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: null

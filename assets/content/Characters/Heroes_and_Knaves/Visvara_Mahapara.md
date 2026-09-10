@@ -7,14 +7,14 @@ name:
   title: ""
   given: Viśvàra
   clan: Mahâpara
-  home: Vyālendra
+  home: vyalendra3
   aliases: []
 packFolder: ankarisvedyara
 shortcode: visvarmhpr
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/visvarmhpr-portrait.webp
+  portrait: images/beings/characters/visvarmhpr-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Common Seaman
@@ -595,6 +595,8 @@ sohl:
 Viśvàra stands 6'4" tall with a heavy build. He has warm golden brown skin, dark black hair, and warm brown eyes. His features include a soft-featured face, a prominent nose, a tapered chin, full lips, warm golden brows, soft cheeks. A distinguishing mark is a scar on the right calf.
 
 # Dossier {#dossier}
+
+## Background
 
 ### Born to the Waters
 

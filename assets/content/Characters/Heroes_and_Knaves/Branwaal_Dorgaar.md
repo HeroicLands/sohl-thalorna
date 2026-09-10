@@ -11,10 +11,10 @@ name:
   aliases: []
 packFolder: aureldiaprovenzia
 shortcode: branwldrgr
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/branwldrgr-portrait.webp
+  portrait: images/beings/characters/branwldrgr-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Mercenary Captain
@@ -102,16 +102,21 @@ sohl:
     - { shortcode: PCoat, type: armorgear }
     - { shortcode: Pl34Hlm, type: armorgear }
     - { shortcode: wtrskin, type: containergear }
-    - { shortcode: maps, type: miscgear }
-    - { shortcode: family signet ring, type: miscgear }
+    - { shortcode: map, type: miscgear, system: { quantity: 3 } }
+    - { shortcode: ringgold, type: miscgear, name: "Family Signet Ring" }
     - { shortcode: tndrbx, type: miscgear }
     - { shortcode: StdRtns, type: miscgear, system: { quantity: 3 } }
     - { shortcode: LiteBdrl, type: miscgear }
-    - { shortcode: Battle standard, type: miscgear }
-    - { shortcode: Quiver for arrows, type: miscgear }
+    - name: "Battle standard"
+      type: miscgear
+      system:
+        shortcode: batlstd
+        value: 35
+        weight: 20
+    - { shortcode: quiverlgsh, type: containergear }
     - { shortcode: ArwHBrd, type: projectilegear, system: { quantity: 12 } }
     - { shortcode: backpk, type: containergear }
-    - { shortcode: Leather satchel, type: miscgear }
+    - { shortcode: bagleather15, type: containergear }
   system:
     body:
       structure:
@@ -584,6 +589,8 @@ Brànwâal Dôrgaar is the founder and captain of the [[affiliation-slntlncmpny|
 He has led men for more than a decade, and his philosophy is simple: war is a game of wits as much as steel. He prefers to stay two steps ahead of his enemies, and while he has swung a sword plenty of times, he wins his battles before they begin. His charismatic leadership and sharp tactical instincts have attracted a loyal core of companions—Elýsè, Tórnis, Chéleb, and Dôren—who together form the Silent Talon.
 
 Beneath his practical, sometimes cold exterior, Brànwâal cares deeply for his people. He sees the band as the family that replaced the one he lost, and he will take considerable risks to protect them—though he would never admit to sentimentality.
+
+## Background
 
 ### Skills and Abilities
 

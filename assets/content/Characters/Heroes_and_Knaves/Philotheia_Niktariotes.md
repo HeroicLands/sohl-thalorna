@@ -7,14 +7,14 @@ name:
   title: ""
   given: Philothêia
   clan: Niktariôtês
-  home: Thálassos
+  home: thalassos
   aliases: []
 packFolder: helladbyzaria
 shortcode: phlthnktrts
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/phlthnktrts-portrait.webp
+  portrait: images/beings/characters/phlthnktrts-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Musician (Lute)

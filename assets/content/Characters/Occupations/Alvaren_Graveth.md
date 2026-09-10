@@ -7,12 +7,12 @@ name:
   title: ""
   given: Alváren
   clan: Gráveth
-  home: Valdés
+  home: valdes
   aliases:
     - Thaddeus Brine
 packFolder: aureldiatarvenia
 shortcode: alvrngrvth
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
   portrait: images/being/alvrngrvth-portrait.webp

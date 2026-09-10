@@ -7,16 +7,16 @@ name:
   title: Nebet
   given: Hathura
   clan: Ise'fré
-  home: Meru-Hotep
+  home: meruhotep
   aliases:
     - Hathura Isefré
 packFolder: northernfertileregiontakheperu
 banner: banners/ta-kheperu-banner.webp
 shortcode: hathurasfr
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/hathurasfr-portrait.webp
+  portrait: images/beings/characters/hathurasfr-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Priest

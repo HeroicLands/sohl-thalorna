@@ -7,14 +7,14 @@ name:
   title: ""
   given: Zênais
   clan: Philokálos
-  home: Gümüşhisar
+  home: gumushisar2
   aliases: []
 packFolder: helladbyzaria
 shortcode: zensphlkls
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/zensphlkls-portrait.webp
+  portrait: images/beings/characters/zensphlkls-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Animal Trainer
@@ -588,6 +588,8 @@ sohl:
 Zênais stands 5'7" tall with a light build. She has fair freckled skin, auburn hair, and green eyes. Her features include a narrow face, a hawkish nose, a sharp jawline, full lips, expressive brows, sculpted cheeks. A distinguishing mark is a tattoo of a bird on the forearm.
 
 # Dossier {#dossier}
+
+## Background
 
 ### The Merchant's Daughter and the Silent Language
 

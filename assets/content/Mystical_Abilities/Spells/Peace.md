@@ -5,7 +5,7 @@ name:
   aliases:
     - Solace
 description: "Aura of calm; pacifies violent impulses and stops combat."
-img: icons/divination.svg
+img: systems/sohl/assets/icons/noun/divination.svg
 shortcode: peace
 type: mysticalability
 subType: arcaneincantation

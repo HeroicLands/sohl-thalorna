@@ -7,14 +7,14 @@ name:
   title: ""
   given: Ermelína
   clan: Drekanótt
-  home: Valgard
+  home: valgard
   aliases: []
 packFolder: ankarisnordlands
 shortcode: ermlndrknt
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/ermlndrknt-portrait.webp
+  portrait: images/beings/characters/ermlndrknt-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Innkeeper

@@ -5,11 +5,11 @@ name:
   full: Mammoth Centipede
   aliases: []
 description: "A glossy, dark-plated arthropod up to eight feet long, its many-legged segments driving small mandibles and probing antennae through the undergrowth."
-img: icons/game-icons/lorc/centipede.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 shortcode: mmmthcnt
 type: being
 data:
-  portrait: images/being/mmmthcnt-portrait.webp
+  portrait: images/beings/creatures/mmmthcnt-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: null

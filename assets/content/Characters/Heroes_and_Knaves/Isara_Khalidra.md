@@ -11,10 +11,10 @@ name:
 packFolder: helladhelionis
 banner: banners/tamzir-banner.webp
 shortcode: isarakhldr
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/isarakhldr-portrait.webp
+  portrait: images/beings/characters/isarakhldr-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Courtesan
@@ -96,7 +96,7 @@ sohl:
     - { shortcode: LtShoe, type: armorgear }
     - { shortcode: bpchmd, type: containergear }
     - { shortcode: pence, type: miscgear, system: { quantity: 52 } }
-    - { shortcode: goldcrown, type: miscgear, system: { quantity: 4 } }
+    - { shortcode: gldcrwn, type: miscgear, system: { quantity: 4 } }
   system:
     body:
       structure:
@@ -563,6 +563,8 @@ sohl:
 Isâra Khalîdra is beautiful in the way that a finely crafted instrument is beautiful — with purpose and precision behind every line. She is tall and slender, with rich brown hair that falls in carefully maintained waves, hazel eyes that shift between warmth and calculation with mercurial speed, and a complexion that seems untouched by the harshness of shipboard life. She moves with a dancer's grace, carries herself with effortless poise, and possesses a speaking voice of extraordinary beauty — low, musical, and utterly commanding. She dresses in silk and velvet even aboard the Tamzîr, maintaining an island of elegance amid the ship's general squalor. A superb dagger, its handle set with semiprecious stones, is the only concession to her surroundings.
 
 # Dossier {#dossier}
+
+## Background
 
 ### Origin
 

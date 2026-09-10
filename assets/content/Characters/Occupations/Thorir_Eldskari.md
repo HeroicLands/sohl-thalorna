@@ -8,11 +8,11 @@ name:
   title: ""
   given: Thórir
   clan: Eldskari
-  home: Stormveil
+  home: stormveil
   aliases: []
 packFolder: aureldiaaelwyth
 shortcode: thorrldskr
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
   portrait: images/being/thorrldskr-portrait.webp

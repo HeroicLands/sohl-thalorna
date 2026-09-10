@@ -7,12 +7,12 @@ name:
   title: Lady
   given: Ârnela
   clan: Kórisvar
-  home: Fiòrdaure
+  home: fiordaure
   aliases:
     - Lady Seraphina Emberhart
 packFolder: aureldiaprovenzia
 shortcode: arnelkrsvr
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
   portrait: images/being/arnelkrsvr-portrait.webp
@@ -559,6 +559,8 @@ sohl:
 Lady Ârnela Kórisvar is a 42-year-old woman who stands 5'6" tall and is of moderate build. She has an oval face with soft cheekbones, a wide forehead, and an angular jaw that leads to a firm chin. Her wide-set hazel eyes sit beneath arched brows, lending her an open gaze. A straight nose and full lips complete her features. She has medium-toned skin with a smooth complexion. Her auburn hair is hanging in ringlets.
 
 # Dossier {#dossier}
+
+## Background
 
 ### The Kórisvar Name
 

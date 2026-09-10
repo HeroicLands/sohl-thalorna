@@ -21,78 +21,57 @@ data:
   governance:
     model: theocracy
     summary: >-
-      Ordained priesthood under a hierarch, with the lay faithful bound by observance rather
-      than by office.
+      Ordination is to one of the three forms, but every priest must keep the rites of the other two; a temple of middling size seats three Ácāryas, one per form, and only a rare cleric is ordained to serve all three at once.
     ranks:
       - level: 0
-        title: Excommunicate
+        title: Patita
         lore: excmmnctrnk
         description: >-
-          Cut off from the rites, the temples and the burial the tradition promises — the one
-          sentence it can pass that outlives the body.
+          "Fallen" — put out of the tradition, denied its rites and its teaching, and not received
+          again by any of its houses.
       - level: 1
-        title: Catechumen
-        lore: catechumenrnk
-        description: Under instruction and not yet received; permitted to hear and not to partake.
+        title: Upāsaka
+        lore: layfaithfulrnk
+        description: >-
+          The lay follower, who keeps the observances and brings petitions without holding any
+          office in the tradition.
       - level: 2
-        title: Lay Faithful
-        lore: layfaithfulrnk
-        description: >-
-          Of the tradition by profession and observance, keeping its feasts and its prohibitions
-          without office in it.
-      - level: 3
-        title: Devotee
-        lore: layfaithfulrnk
-        description: >-
-          Bound by a private vow — a fast, a pilgrimage, a service — beyond what the lay faithful
-          owe.
-      - level: 4
-        title: Acolyte
+        title: Sevaka
         lore: initiaternk
         description: >-
-          Serving in the temple and learning its rites, on the path to ordination and not yet
-          holding it.
-      - level: 5
-        title: Ordained
+          "Servant" — acolytes and assistants, who train at least five years in all three forms before requesting ordination to one.
+      - level: 3
+        title: Ácārya
         lore: priestrnk
         description: >-
-          Priest or priestess of the tradition, empowered to perform the rites and to bind and
-          loose in its name.
-      - level: 6
-        title: Temple Officer
+          The working priesthood, ordained to one of the three forms but required to keep the rites of the other two.
+      - level: 4
+        title: Triyācārya
         lore: highpriestrnk
-        description: Holding a charge within a temple — its treasury, its schools, its estates,
-          its oracles.
-      - level: 7
-        title: High Priest
-        lore: highpriestrnk
-        description: Head of a temple or a cult, speaking with the voice of the god in matters
-          of its doctrine.
-      - level: 8
-        title: Hierophant
-        lore: grandmasterrnk
         description: >-
-          Head of the whole tradition, whose ruling on doctrine is final and whose sanction
-          every high priest holds at.
+          "Master of the Three" — senior priest of a temple, ordained to serve all three forms at once. The rank is difficult to attain; most priests specialise in one and serve the others.
     offices:
-      Hierophant: >-
-        Head of the tradition, final authority on its doctrine and source of every high priest's
-        sanction.
-      High Priest: Head of a temple or cult, master of its estates and voice of its god on
-        doctrine.
-      Oracle: Speaker of the god's answer, consulted before any undertaking the tradition
-        must bless.
-      Temple Steward: Administrator of a temple's lands, herds, workshops and revenue.
-      Sacristan: Keeper of the sanctuary, its vessels, its vestments and the purity of both.
-      Almoner: Distributor of the temple's charity, and the face the tradition shows the poor.
-      Lector: Reader of the sacred texts in the rites, and teacher of them to acolytes.
-      Exorcist: >-
-        Charged with what the tradition holds should not be present, and with the rites that
-        remove it.
-      Chief Augur: Reader of the signs by which the tradition fixes the hour of its acts.
-      Keeper of the Calendar: Holder of the feast-reckoning, and thereby of when the year's
-        obligations fall due.
-  commonSkills: []
+      Triyācārya: >-
+        "Master of the Three" — senior priest of a temple, ordained to serve all three forms at once. The rank is difficult to attain; most priests specialise in one and serve the others.
+      Ácārya: >-
+        The working priesthood, ordained to one of the three forms but required to keep the rites of the other two.
+      Sevaka: >-
+        "Servant" — acolytes and assistants, who train at least five years in all three forms before requesting ordination to one.
+      Ácārya of a Form: >-
+        A working priest ordained to one of the three, who nonetheless keeps the rites of the other two.
+      Keeper of the Three Rites: >-
+        Charged with the temple's observance of all three forms in their proper proportion, which is what the Sampradāya exists to maintain.
+  commonSkills:
+    - trimurtisampradaya
+    - eng
+    - agri
+    - mrcn
+    - srvl
+    - math
+    - folklr
+    - law
+    - dscr
+    - sing
   seat: null
   domains: []
   population: null

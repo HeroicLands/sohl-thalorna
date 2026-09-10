@@ -7,12 +7,12 @@ name:
   title: ""
   given: Sáfêrús
   clan: Ghôlâris
-  home: Pelagora
+  home: pelagora2
   aliases:
     - Otto Fallowbrook
 packFolder: helladhelionis
 shortcode: safrsghlrs
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
   portrait: images/being/safrsghlrs-portrait.webp

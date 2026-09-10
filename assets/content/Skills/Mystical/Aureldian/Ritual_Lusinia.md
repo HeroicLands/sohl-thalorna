@@ -5,7 +5,7 @@ tags:
 type: skill
 subType: mystical
 shortcode: lusinia
-img: images/affiliation/lusinia.webp
+img: images/affiliation/aureldian/lusinia.webp
 name:
   full: "Ritual: Lusinia"
   aliases:

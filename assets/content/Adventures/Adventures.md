@@ -7,7 +7,7 @@ subType: reference
 shortcode: scenario
 tags:
 description: Playable adventures and modules.
-banner: banners/adventure.webp
+banner: systems/sohl/assets/images/banners/adventure.webp
 ---
 
 # Adventures

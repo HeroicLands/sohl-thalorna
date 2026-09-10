@@ -7,12 +7,12 @@ name:
   title: ""
   given: Sédrik
   clan: Mórlineth
-  home: Liranel
+  home: liranel
   aliases:
     - Edric Stonewall
 packFolder: aureldiaelavendre
 shortcode: sdrkmrlnth
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
   portrait: images/being/sdrkmrlnth-portrait.webp

@@ -3,7 +3,7 @@ tags:
   - reference
   - demographics
   - worldbuilding
-description: "Reference estimate of the population of Thalorna by continent and region — anchored on the Vylarian Empire (~21M) and a pre-industrial, agrarian world of roughly 390 million, with the eastern giants Tánvür and Vedyára holding the majority of humankind."
+description: "Reference estimate of the population of Thalorna by continent and region — anchored on the Vylarian Empire (~21M) and a pre-industrial, agrarian world of roughly 365 million, with the eastern giants Tánvür and Vedyára holding the majority of humankind."
 type: doc
 subType: reference
 name:
@@ -25,17 +25,21 @@ The model is anchored on the one polity worked out in detail: the **[[affiliatio
 
 ### Ankaris — the West ("the civilized world")
 
-| Region                                                                                                            | Population      |
-| ----------------------------------------------------------------------------------------------------------------- | --------------- |
-| [[affiliation-vylarinmpr\|Vylarian Empire]] (4 provinces)                                                         | ~21,000,000     |
-| [[place-helionis\|Heliónis]] (governed, autonomous)                                                               | ~3,000,000      |
-| Aurèldían kingdoms (Tarvénia, Provènzia, Élavendre, Aelwyth, Calypsa)                                             | ~35,000,000     |
-| [[place-byzariargn\|Byzaría]]                                                                                     | ~8,000,000      |
-| [[affiliation-cnfdrtnhrdnstts\|Harad]]                                                                            | ~12,000,000     |
-| The north ([[affiliation-kngdmnrdhm\|Nordheim]], [[place-nrdlndsrgn\|Nordlands]], [[place-vrystwald\|Vrystwald]]) | ~7,000,000      |
-| The deserts ([[place-dunharargn\|Dunhara]], [[place-khzryndsrtrgn\|Khazryn]])                                     | ~6,000,000      |
-| Other minor western regions                                                                                       | ~5,000,000      |
-| **Western Ankaris subtotal**                                                                                      | **~97,000,000** |
+| Region                                                                                                                                    | Population      |
+| ----------------------------------------------------------------------------------------------------------------------------------------- | --------------- |
+| [[affiliation-vylarinmpr\|Vylarian Empire]] (4 provinces)                                                                                 | ~21,000,000     |
+| [[place-helionis\|Heliónis]] (governed, autonomous)                                                                                       | ~3,000,000      |
+| [[place-provenzrgn\|Provènzia]]                                                                                                           | ~5,000,000      |
+| [[place-elavendre\|Élavendre]]                                                                                                            | ~2,000,000      |
+| [[place-tarvenirgn\|Tarvénia]]                                                                                                            | ~5,000,000      |
+| [[place-aelwyth\|Aelwyth]] (Dúnavarre, Tarvenne, Aldorath, Stormveld, Peshtar)                                                            | ~7,000,000      |
+| [[affiliation-calypsa\|Calypsa]] (city-state)                                                                                             | ~45,000         |
+| [[place-byzariargn\|Byzaría]]                                                                                                             | ~8,000,000      |
+| [[affiliation-cnfdrtnhrdnstts\|Harad]]                                                                                                    | ~12,000,000     |
+| The north ([[place-nrdlndsrgn\|Nordlands]] ~2,000,000, [[place-vrystwald\|Vrystwald]] ~500,000, [[place-grkrhlmrgn\|Grukarholm]] ~50,000) | ~2,550,000      |
+| The deserts ([[place-dunharargn\|Dunhara]], [[place-khzryndsrtrgn\|Khazryn]])                                                             | ~6,000,000      |
+| Other minor western regions                                                                                                               | ~5,000,000      |
+| **Western Ankaris subtotal**                                                                                                              | **~71,000,000** |
 
 ### Ankaris — the East (the great powers)
 
@@ -71,16 +75,16 @@ The model is anchored on the one polity worked out in detail: the **[[affiliatio
 
 ## World Total
 
-**≈ 390 million.**
+**≈ 365 million.**
 
 | Continent / bloc     | Population |
 | -------------------- | ---------- |
-| Ankaris (west)       | ~97M       |
+| Ankaris (west)       | ~70M       |
 | Ankaris (east)       | ~230M      |
 | Xerathia             | ~29M       |
 | K'ich'chik           | ~30M       |
 | Kalihara & scattered | ~6M        |
-| **World**            | **~392M**  |
+| **World**            | **~365M**  |
 
 ## Notes and Sanity Checks
 
@@ -89,6 +93,16 @@ The model is anchored on the one polity worked out in detail: the **[[affiliatio
 **Vylaria is a great power, not the great power.** At ~21M the empire is the heavyweight of the west — larger than any single Aurèldían kingdom — but only ~5% of the world, and barely a fifth the size of Tánvür or Vedyára. Its sense of itself as the center of the world is a conceit the numbers do not support: it is a proud, declining state on the world's western edge, while the true giants sit eastward, largely indifferent to it.
 
 **A 1-million capital is feedable.** [[place-magnapolis|Magnápolis]] at ~1M is ~5% of Vylaria proper — high, but sustainable for a primate imperial city supplied by [[affiliation-provnchyln|Hylen]]'s grain, [[affiliation-provincvld|Vald]]'s fisheries and seaborne imports, and the grain-dole run by the [[affiliation-curiaurbis|Curator of the Grain]]. Compare the city of Rome (~1M) atop Roman Italy (~12–14M).
+
+**The Aurèldían kingdoms are itemized, not estimated.** This bloc was formerly carried as a single
+~35,000,000 line. It is now broken out, because Provènzia, Élavendre and Calypsa have worked regional
+figures in their own notes and those figures have to govern. The bloc totals about **12,700,000**, and
+the western subtotal and the world total have been reduced accordingly.
+
+The old figure could not survive the detail: with Provènzia at 5M, Élavendre at 2M, Aelwyth's realms at
+at 625,000 and Calypsa at 45,000, reaching 35M would have required Tarvénia alone to hold some 21
+million — as many as the entire Vylarian Empire, and in flat contradiction of the sanity check above.
+Tarvénia is carried at ~5,000,000 because it and Provènzia hold roughly equal populations.
 
 **Approximate by design.** Every figure here is round and approximate — good to roughly the nearest few million at the regional scale, not the nearest soul — and any may be revised as the setting develops.
 

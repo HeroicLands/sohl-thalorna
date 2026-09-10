@@ -7,12 +7,12 @@ name:
   title: ""
   given: Táldor
   clan: Kálmereth
-  home: Elanmere
+  home: elanmere
   aliases:
     - Harlan Tidewalker
 packFolder: aureldiaelavendre
 shortcode: tldrklmrth
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
   portrait: images/being/tldrklmrth-portrait.webp

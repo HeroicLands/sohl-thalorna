@@ -7,17 +7,17 @@ name:
   title: ""
   given: Renutê
   clan: Re'en'fré
-  home: Wasetkara
+  home: wasetkara
   aliases:
     - Renutê Reenfré
     - Renute Reenfre
 packFolder: northernfertileregiontakheperu
 banner: banners/ta-kheperu-banner.webp
 shortcode: renuternfr
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/renuternfr-portrait.webp
+  portrait: images/beings/characters/renuternfr-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Innkeeper

@@ -7,12 +7,12 @@ name:
   title: ""
   given: Zálren
   clan: Lýskal
-  home: Chastèlclair
+  home: chastelclr
   aliases:
     - Harvin Greenbark
 packFolder: aureldiaprovenzia
 shortcode: zalrnlyskl
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
   portrait: images/being/zalrnlyskl-portrait.webp

@@ -5,7 +5,7 @@ name:
   aliases:
     - Detect
 description: "Detects magical auras; senses active sorcery and presences."
-img: icons/circle.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/circle.svg
 shortcode: seek
 type: mysticalability
 subType: arcaneincantation

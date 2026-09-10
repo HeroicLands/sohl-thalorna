@@ -7,12 +7,12 @@ name:
   title: ""
   given: Tamîtha
   clan: Jâdurîon
-  home: Pelagora
+  home: pelagora2
   aliases:
     - Elysia Stonehewer
 packFolder: helladhelionis
 shortcode: tamithjdrn
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
   portrait: images/being/tamithjdrn-portrait.webp

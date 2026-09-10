@@ -7,12 +7,12 @@ name:
   title: ""
   given: Thésia
   clan: Delvánor
-  home: Eskárath
+  home: null # was: Eskárath
   aliases:
     - Seraphine Steelheart
 packFolder: aureldiatarvenia
 shortcode: thesidlvnr
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
   portrait: images/being/thesidlvnr-portrait.webp

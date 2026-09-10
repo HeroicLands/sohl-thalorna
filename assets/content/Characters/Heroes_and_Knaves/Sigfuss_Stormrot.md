@@ -7,14 +7,14 @@ name:
   title: ""
   given: Sigfúss
   clan: Stormrót
-  home: Bjornstad
+  home: bjornstad
   aliases: []
 packFolder: ankarisnordlands
 shortcode: sigfstrmrt
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/sigfstrmrt-portrait.webp
+  portrait: images/beings/characters/sigfstrmrt-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Common Seaman

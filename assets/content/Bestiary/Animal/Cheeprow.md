@@ -5,11 +5,11 @@ name:
   full: Cheeprow
   aliases: []
 description: "A ten-inch creature of disarming cuteness that lures travelers with innocent charm before revealing itself as a dangerous pack predator."
-img: icons/game-icons/lorc/paw-print.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 shortcode: cheeprow
 type: being
 data:
-  portrait: images/being/cheeprow-portrait.webp
+  portrait: images/beings/creatures/cheeprow-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: null

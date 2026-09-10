@@ -8,12 +8,12 @@ name:
   title: ""
   given: Bárnek
   clan: Lánthrik
-  home: Fiòrdaure
+  home: fiordaure
   aliases:
     - Alaric Fairwind
 packFolder: aureldiaprovenzia
 shortcode: brnklnthrk
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
   portrait: images/being/brnklnthrk-portrait.webp

@@ -5,11 +5,11 @@ name:
   full: Acidtoad
   aliases: []
 description: "A corruption-twisted amphibian of swamps and toxic pools that ambushes prey with sluggish movements and lethally venomous, acidic flesh."
-img: icons/game-icons/lorc/toad-teeth.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 shortcode: acidtoad
 type: being
 data:
-  portrait: images/being/acidtoad-portrait.webp
+  portrait: images/beings/creatures/acidtoad-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: null

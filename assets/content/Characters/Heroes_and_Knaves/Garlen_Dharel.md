@@ -7,14 +7,14 @@ name:
   title: ""
   given: Gârlen
   clan: Dhárel
-  home: Elanmere
+  home: elanmere
   aliases: []
 packFolder: aureldiaelavendre
 shortcode: garlendhrl
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/garlendhrl-portrait.webp
+  portrait: images/beings/characters/garlendhrl-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Hideworker

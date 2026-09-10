@@ -7,12 +7,12 @@ name:
   title: ""
   given: Hilda
   clan: Browning
-  home: Ashford
+  home: ashford
   aliases:
     - Nyssa Shadowveil
 packFolder: aureldiaaelwyth
 shortcode: hildbrwnng
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
   portrait: images/being/hildbrwnng-portrait.webp

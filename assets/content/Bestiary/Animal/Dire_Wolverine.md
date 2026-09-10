@@ -5,11 +5,11 @@ name:
   full: Dire Wolverine
   aliases: []
 description: "A solitary dire mustelid of cold forests and tundra, fearless and unstoppably persistent, among the deadliest predators pound for pound."
-img: icons/game-icons/caro-asercion/badger.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 shortcode: drwlvrn
 type: being
 data:
-  portrait: images/being/drwlvrn-portrait.webp
+  portrait: images/beings/creatures/drwlvrn-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: null
@@ -396,26 +396,6 @@ Dense fur and thick skin provide protection against bites and slashing attacks, 
 - **Reasoning:** 7-10 (1d4+6)
 - **Creativity:** 6-9 (1d4+5)
 
-#### Iron Hide
+### Iron Hide
 
 Its dense fur and skin reduce damage from attacks.
-
-## Attributes
-
-- **Strength:** 24-29 (1d6+23)
-
-- **Endurance:** 22-27 (1d6+21)
-
-- **Dexterity:** 12-17 (1d6+11)
-
-- **Agility:** 12-17 (1d6+11)
-
-- **Perception:** 13-18 (1d6+12)
-
-- **Aura:** 12-17 (1d6+11)
-
-- **Will:** 20-25 (1d6+19)
-
-- **Reasoning:** 7-10 (1d4+6)
-
-- **Creativity:** 6-9 (1d4+5)

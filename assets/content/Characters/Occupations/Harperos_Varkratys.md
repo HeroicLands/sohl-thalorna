@@ -7,12 +7,12 @@ name:
   title: ""
   given: Harpêros
   clan: Vârkrâtys
-  home: Corvinus
+  home: corvinus
   aliases:
     - Orin Swiftbow
 packFolder: midhalionvylaria
 shortcode: hrprsvrkrtys
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
   portrait: images/being/hrprsvrkrtys-portrait.webp

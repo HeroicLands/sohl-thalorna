@@ -8,16 +8,16 @@ name:
   title: Sir
   given: Andrés
   clan: Lorca
-  home: Eskárath
+  home: null # was: Eskárath
   aliases:
     - Knight of the Western Marches
     - Sir Andres Lorca
 packFolder: aureldiatarvenia
 shortcode: srndrslrcknghtwstrnmrchs
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/srndrslrcknghtwstrnmrchs-portrait.webp
+  portrait: images/beings/characters/srndrslrcknghtwstrnmrchs-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Nobility (Knight Bachelor)
@@ -601,6 +601,8 @@ Sir Andrés stands at 6'1", with a broad, muscular build, the result of years of
 Born into a noble family in the Western Marches, Sir Andrés was groomed for knighthood from a young age. The youngest son of a prominent house, he was instilled with a strong sense of duty and loyalty to his family and his kingdom. As a squire, he served under a legendary knight, learning the ways of chivalry, combat, and leadership. His early years were marked by long campaigns defending the borders of his homeland from invaders, and it was here that he earned his reputation as a skilled warrior and a leader of men.
 
 Over the years, Sir Andrés has fought in numerous battles, defending his kingdom and upholding the chivalric code. Though his elder brothers inherited the family’s lands and titles, Sir Andrés forged his own path through his deeds on the battlefield and his unshakeable loyalty to the knightly order. He is now known throughout the Western Marches as a knight of honor and integrity, a man whose sword is at the service of his people and his king.
+
+## Background
 
 ### Skills and Abilities
 

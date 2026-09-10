@@ -8,12 +8,12 @@ name:
   title: ""
   given: Azéndas
   clan: Dâemâtôr
-  home: Tyrellan
+  home: tyrellan
   aliases:
     - Ebaséthè Rowan Thistlewood
 packFolder: midhalionvylaria
 shortcode: azendsdmtr
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
   portrait: images/being/azendsdmtr-portrait.webp

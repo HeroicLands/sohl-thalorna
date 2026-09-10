@@ -5,7 +5,7 @@ name:
   aliases:
     - Suggestion
 description: "Whispers suggestion directly; implants idea in target's mind."
-img: icons/divination.svg
+img: systems/sohl/assets/icons/noun/divination.svg
 shortcode: whsprwll
 type: mysticalability
 subType: arcaneincantation

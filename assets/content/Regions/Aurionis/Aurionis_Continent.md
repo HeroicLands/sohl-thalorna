@@ -33,11 +33,11 @@ The approaches to Aurionis are notoriously difficult. The prevailing currents an
 
 ## Regions
 
-```dataview
+```dataview allow-empty
 TABLE WITHOUT ID
     link(file.path, name.full) AS "Region",
     description AS "Overview"
-WHERE category = "region" and contains(parent.continents, "aurionis")
+WHERE type = "place" and subType = "region" and contains(data.parents, "arnscntnnt")
 SORT name.full ASC
 ```
 

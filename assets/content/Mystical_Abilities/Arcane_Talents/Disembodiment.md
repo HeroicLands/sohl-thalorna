@@ -3,7 +3,7 @@ tags: []
 name:
   full: Disembodiment
   aliases: []
-img: icons/psionics.svg
+img: systems/sohl/assets/icons/noun/psionics.svg
 shortcode: dsbd
 type: mysticalability
 subType: arcanetalent

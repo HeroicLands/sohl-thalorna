@@ -9,14 +9,14 @@ name:
   title: ""
   given: Leónantos
   clan: Stratégopoulos
-  home: Chrysamar
+  home: chrysamar
   aliases: []
 packFolder: helladbyzaria
 shortcode: lnntstrtgpls
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/lnntstrtgpls-portrait.webp
+  portrait: images/beings/characters/lnntstrtgpls-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Priest
@@ -601,6 +601,8 @@ sohl:
 Leónantos stands 6'3" tall with a heavy build. He has light tanned skin, black hair, and brown eyes. His features include an oblong face, a prominent nose, a pointed chin, a wide mouth, heavy brows. A distinguishing mark is a tattoo of a skill and crossbones on the chest.
 
 # Dossier {#dossier}
+
+## Background
 
 ### Early Years
 

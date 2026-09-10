@@ -5,7 +5,7 @@ name:
   aliases:
     - Rest
 description: "Freezes motion; halts all movement within affected area."
-img: icons/water.svg
+img: systems/sohl/assets/icons/game-icons/badges/water.svg
 shortcode: stllnss
 type: mysticalability
 subType: arcaneincantation

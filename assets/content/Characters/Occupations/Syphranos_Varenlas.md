@@ -7,12 +7,12 @@ name:
   title: ""
   given: Syphrânôs
   clan: Vârênlâs
-  home: Belekos
+  home: belekos
   aliases:
     - Marcus Bloodbane
 packFolder: midhalionvylaria
 shortcode: syphrnsvrnls
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
   portrait: images/being/syphrnsvrnls-portrait.webp

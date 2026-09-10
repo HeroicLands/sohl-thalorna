@@ -7,12 +7,12 @@ name:
   title: ""
   given: Edric
   clan: Alverton
-  home: Brynhallow
+  home: brynhallow
   aliases:
     - Bram Hollowhill
 packFolder: aureldiaaelwyth
 shortcode: edriclvrtn
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
   portrait: images/being/edriclvrtn-portrait.webp

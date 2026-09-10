@@ -8,16 +8,16 @@ name:
   title: ""
   given: Sekhemet
   clan: Ka'sekhen
-  home: Khensuret
+  home: khensuret
   aliases:
     - Sekhemet Kasekhen
 packFolder: northernfertileregiontakheperu
 banner: banners/ta-kheperu-banner.webp
 shortcode: skhmtkskhn
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/skhmtkskhn-portrait.webp
+  portrait: images/beings/characters/skhmtkskhn-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Pilot
@@ -104,7 +104,7 @@ sohl:
     - { shortcode: ArwStd, type: projectilegear, system: { quantity: 20 } }
     - name: Quiver (leather)
       type: miscgear
-      img: icons/quiver.svg
+      img: systems/sohl/assets/icons/game-icons/delapouite/quiver.svg
       system:
         weight: 1
         value: 100

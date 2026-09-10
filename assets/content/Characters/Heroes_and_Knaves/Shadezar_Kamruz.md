@@ -7,14 +7,14 @@ name:
   title: ""
   given: Shâdezar
   clan: Kamruz
-  home: Dûn Ashir
+  home: dunashir
   aliases: []
 packFolder: dunharatribes
 shortcode: shadzrkmrz
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/shadzrkmrz-portrait.webp
+  portrait: images/beings/characters/shadzrkmrz-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Chieftain
@@ -95,7 +95,7 @@ sohl:
     - { shortcode: ArwStd, type: projectilegear, system: { quantity: 25 } }
     - name: Quiver (leather, tribal design)
       type: miscgear
-      img: icons/quiver.svg
+      img: systems/sohl/assets/icons/game-icons/delapouite/quiver.svg
       system:
         weight: 1
         value: 100
@@ -591,6 +591,8 @@ sohl:
 Shâdezar stands 6'5" tall with a heavy build. He has tanned ruddy skin, dark brown hair, and brown eyes. His features include a diamond-shaped face, a hawkish nose, a narrow chin, well-defined lips, dark brows, angular cheeks.
 
 # Dossier {#dossier}
+
+## Background
 
 ### Rise to Power
 

@@ -197,7 +197,7 @@ Khávar of Zargandûr's quiet preparations toward an eventual reclamation campai
 
 ## The Blood-Feud
 
-(See [[affiliation-tribestrzd#The Blood-Feud|the Ātárzád article]] for the structural account.)
+(See [[affiliation-tribestrzd#the-blood-feud|the Ātárzád article]] for the structural account.)
 
 The Khazryn view of the blood-feud is that it is not a feud at all — it is a pending case of stolen property, in which the rightful owners are simply waiting for the moment when restitution becomes possible. The Khazryn do not seek revenge; they seek **return**. The exile princes of Shirvan, Ashkarad, Zargandûr, and Kethramír would, if they could, simply walk back into their cities, take possession of the palaces of their forebears, restore the dismantled temples of Āhúrdáén and Zúráthrä, and resume the government their families exercised for centuries before the Catastrophe. They have no interest in retribution against ordinary Ātárzád settlers, whom they would (so they say) tolerate as a subject population in their reclaimed cities — much as the Khazryn have been tolerated under Ātárzád rule, but with somewhat more dignity.
 

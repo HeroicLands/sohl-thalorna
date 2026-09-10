@@ -8,16 +8,16 @@ name:
   title: ""
   given: Satara
   clan: Re'en'Khensu
-  home: Khensuret
+  home: khensuret
   aliases:
     - Satara ReenKhensu
 packFolder: northernfertileregiontakheperu
 banner: banners/ta-kheperu-banner.webp
 shortcode: satrrnkhns
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/satrrnkhns-portrait.webp
+  portrait: images/beings/characters/satrrnkhns-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Timberwright

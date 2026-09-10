@@ -9,15 +9,15 @@ name:
   title: ""
   given: Myrine
   clan: Kalypsos
-  home: Belekos
+  home: belekos
   aliases:
     - The Mendicant Priestess of the Black Flame
 packFolder: midhalionvylaria
 shortcode: myrnklypss
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/myrnklypss-portrait.webp
+  portrait: images/beings/characters/myrnklypss-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Priest
@@ -610,6 +610,8 @@ She moves with the coiled awareness of a trained fighter, but her bearing is war
 Myrine Kalypsos is a mendicant priestess of [[affiliation-blackflame|The Black Flame]], the Aurèldían faith devoted to Vúlcan's destructive aspect — fire as purifier, weapon, and instrument of dominion. In much of western Ankaris the Black Flame is proscribed, its adherents driven underground, its shrines hidden. Vylaria is not much of western Ankaris. The empire's religious policy has always been one of pragmatic tolerance: faiths are permitted so long as they do not threaten imperial stability, and the Black Flame — despite the alarm of [[affiliation-janus|Jánite]] clergy and the bitter hostility of [[affiliation-sacredforge|The Sacred Forge]] — has never been formally suppressed within Vylarian territory. In the empire's frontier provinces and commercial cities, where strength is respected and survival is not guaranteed, the Black Flame's philosophy has roots that go back centuries. Myrine operates in this space — not as a fugitive but as a priestess, walking openly, wearing her symbols without concealment, and meeting hostility with the steady calm of someone who believes the world is proving her right.
 
 The Black Flame teaches that might makes right. This is the doctrine's core, and Myrine embraces it without reservation. But she understands "might" with a sophistication that the faith's detractors rarely credit. Might is not merely the ability to swing a sword. It is the capacity to impose one's will upon the world — through strength, yes, but also through intelligence, persuasion, spiritual authority, wealth, beauty, knowledge, and the force of personality that makes others follow where you lead. A merchant who dominates a market through sharper instincts exercises might. A scholar whose ideas reshape how people think wields might. A priestess who converts the skeptical through charm and reason demonstrates might as surely as a warlord who takes a city by storm. The strong shape the world. The weak suffer it. This is not a moral judgment — it is an observation, as obvious as the sun's rising, and Myrine presents it as such with warmth, apparent reasonableness, and the quiet conviction of someone describing water running downhill.
+
+## Background
 
 ### Origins
 

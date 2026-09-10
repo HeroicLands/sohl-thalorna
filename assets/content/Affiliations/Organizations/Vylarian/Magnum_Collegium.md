@@ -103,7 +103,7 @@ sohl:
 _Vylarian: Magnum Collegium Collegiorum — "The Great Guild of the Guilds"_
 
 - **Type:** Imperial umbrella institution; mandatory federation of chartered guilds
-- **Region:** [[affiliation-vylarinmpr|Vylaria]], the five Aurèldían kingdoms ([[place-tarvenirgn|Tarvénia]], [[place-provenzrgn|Provènzia]], [[place-elavendre|Élavendre]], [[place-aelwyth|Aelwyth]], [[Calypsa_Region|Calypsa]]), and Hellád ([[place-byzariargn|Byzaría]] and [[place-helionis|Heliónis]]). Formerly [[place-haradregin|Harad]] until the recent secession.
+- **Region:** [[affiliation-vylarinmpr|Vylaria]], the five Aurèldían kingdoms ([[place-tarvenirgn|Tarvénia]], [[place-provenzrgn|Provènzia]], [[place-elavendre|Élavendre]], [[place-aelwyth|Aelwyth]], [[affiliation-calypsa|Calypsa]]), and Hellád ([[place-byzariargn|Byzaría]] and [[place-helionis|Heliónis]]). Formerly [[place-haradregin|Harad]] until the recent secession.
 - **Seat:** The **Curia Collegiorum** at [[place-magnapolis|Magnápolis]], the imperial capital
 - **Founded:** By edict of the second Vylarian emperor at the close of the western conquests, three centuries ago
 

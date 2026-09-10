@@ -7,12 +7,12 @@ name:
   title: ""
   given: Sàfîros
   clan: Râkhmônis
-  home: Kalydria
+  home: kalydria2
   aliases:
     - Berwin Greenfield
 packFolder: helladhelionis
 shortcode: sfrsrkhmns
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
   portrait: images/being/sfrsrkhmns-portrait.webp

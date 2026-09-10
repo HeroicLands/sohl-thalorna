@@ -7,12 +7,12 @@ name:
   title: ""
   given: Nûlazî
   clan: Zarrâshî
-  home: Azhûn
+  home: azhun2
   aliases:
     - Elara Birchwood
 packFolder: midhalionharad
 shortcode: nulazizrsh
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
   portrait: images/being/nulazizrsh-portrait.webp

@@ -21,82 +21,101 @@ data:
   governance:
     model: theocracy
     summary: >-
-      Ordained priesthood under a hierarch, with the lay faithful bound by observance rather
-      than by office.
+      One three-rank hierarchy serves every temple in Ta'Kheperu, so ancient the Kheperi hold it divinely
+      ordained: Wab, Hem'Netjer, Wer'Hekau. The Per-Aá stands above all three as nominal supreme priest of
+      every god, and all temple authority is claimed to flow downward from that. The cults are otherwise
+      separate and often rivalrous; the one body where their high priests sit together is the Sêdjet Hâti,
+      the Council of the High Priests that governs the temple-treasury network.
     ranks:
       - level: 0
-        title: Excommunicate
+        title: Rite-Denied
         lore: excmmnctrnk
         description: >-
-          Cut off from the rites, the temples and the burial the tradition promises — the one
-          sentence it can pass that outlives the body.
+          Barred from the temple rites, and with them from the funerary rites every Kheperi eventually
+          requires — a sentence that reaches past the end of the life it is passed in.
       - level: 1
-        title: Catechumen
-        lore: catechumenrnk
-        description: Under instruction and not yet received; permitted to hear and not to partake.
-      - level: 2
         title: Lay Faithful
         lore: layfaithfulrnk
         description: >-
-          Of the tradition by profession and observance, keeping its feasts and its prohibitions
-          without office in it.
-      - level: 3
-        title: Devotee
-        lore: layfaithfulrnk
-        description: >-
-          Bound by a private vow — a fast, a pilgrimage, a service — beyond what the lay faithful
-          owe.
-      - level: 4
-        title: Acolyte
+          Keeps the observances and brings offerings without holding office in any temple. Each nome has its
+          own patron deity and its own local cults, so what the lay faithful actually practise varies
+          considerably beneath the surface of theological orthodoxy — a diversity the priesthoods tolerate
+          and even encourage, holding the gods too vast to be captured by any single cult.
+      - level: 2
+        title: Wab
         lore: initiaternk
         description: >-
-          Serving in the temple and learning its rites, on the path to ordination and not yet
-          holding it.
-      - level: 5
-        title: Ordained
+          "Purified One" — acolytes in the long temple education, entering as a child or youth and studying
+          sacred texts, ritual, history, mathematics, medicine and the reading of omens for years before
+          ordination. The purification the rank is named for is taken seriously: a Wab observes strict
+          dietary, behavioural and hygiene codes that mark them apart from ordinary life. The temple schools
+          are among the finest in the empire, and those who leave before ordination carry skills that serve
+          them well in secular careers.
+      - level: 3
+        title: Hem'Netjer
         lore: priestrnk
         description: >-
-          Priest or priestess of the tradition, empowered to perform the rites and to bind and
-          loose in its name.
-      - level: 6
-        title: Temple Officer
+          "Servant of the God" — the ordained priesthood and the working body of the temple: daily rites,
+          the sanctuary, temple lands and finances, the temple schools, divination for petitioners, and the
+          temple's part in local governance. The rank spans a wide band of seniority, from the newly
+          ordained to veterans of decades who command temple districts and advise nomarchs, and most
+          specialise — in ritual performance, administration, medicine, scholarship or legal arbitration.
+          The internal politics of a major temple are as complex as anything in the Per-Aá's court.
+      - level: 4
+        title: Wer'Hekau
         lore: highpriestrnk
-        description: Holding a charge within a temple — its treasury, its schools, its estates,
-          its oracles.
-      - level: 7
-        title: High Priest
-        lore: highpriestrnk
-        description: Head of a temple or a cult, speaking with the voice of the god in matters
-          of its doctrine.
-      - level: 8
-        title: Hierophant
-        lore: grandmasterrnk
         description: >-
-          Head of the whole tradition, whose ruling on doctrine is final and whose sanction
-          every high priest holds at.
+          "Great of Sacred Power" — the High Priest or High Priestess of a major temple and the supreme
+          religious authority for a single cult. Manages its vast economic holdings, speaks with the voice
+          of the god in matters of doctrine, and as High Ritualist conducts the great seasonal rites and the
+          divinations that guide state policy; in the great temples, only the Wer'Hekau and the Per-Aá may
+          enter the innermost sanctuary where the god's image dwells. The position is not hereditary: a
+          Wer'Hekau is elevated from among the senior Hem'Netjer by a combination of internal temple
+          politics, demonstrated capability and — the priesthood insists — divine revelation. The office
+          commands resources rivalling the wealthiest nomarchs.
+      - level: 5
+        title: Per-Aá
+        lore: sovereignrnk
+        description: >-
+          Nominal supreme priest of every god, standing above the three ranks of every temple at once, and
+          the foundation of all temple authority. In practice religious authority is delegated entirely, but
+          the theological fiction matters: every Wer'Hekau serves at the Per-Aá's pleasure, and a Per-Aá who
+          wished to replace one would have doctrinal justification. Few have tried; fewer have succeeded.
+          The traffic runs the other way at least as often — when a dynasty weakens it is frequently the
+          priesthood that orchestrates the succession, and the Wer'Hekau of Rā have deposed or elevated more
+          Per-Aás than any army.
     offices:
-      Hierophant: >-
-        Head of the tradition, final authority on its doctrine and source of every high priest's
-        sanction.
-      High Priest: Head of a temple or cult, master of its estates and voice of its god on
-        doctrine.
-      Oracle: Speaker of the god's answer, consulted before any undertaking the tradition
-        must bless.
-      Temple Steward: Administrator of a temple's lands, herds, workshops and revenue.
-      Sacristan: Keeper of the sanctuary, its vessels, its vestments and the purity of both.
-      Almoner: Distributor of the temple's charity, and the face the tradition shows the poor.
-      Lector: Reader of the sacred texts in the rites, and teacher of them to acolytes.
-      Exorcist: >-
-        Charged with what the tradition holds should not be present, and with the rites that
-        remove it.
-      Chief Augur: Reader of the signs by which the tradition fixes the hour of its acts.
-      Keeper of the Calendar: Holder of the feast-reckoning, and thereby of when the year's
-        obligations fall due.
+      Per-Aá: >-
+        The throne, holding the nominal high priesthood of every god simultaneously.
+      Wer'Hekau: >-
+        The apex of a single cult; its authority does not extend beyond that cult.
+      Hem'Netjer: >-
+        The ordained priest of a temple, and its working administrator.
+      Wab: >-
+        An initiate in temple education, not yet ordained.
+      Sêdjet Hâti: >-
+        The Council of the High Priests: the Wer'Hekau of the eight greatest temples, meeting four times a
+        year in the capital and whenever crisis demands. It is the only standing body in which the high
+        priests of different cults sit together, and it governs the Pér-Háti — setting the canonical metal
+        ratios, reaffirming the attestation standards for the weight-pieces that circulate as currency, and
+        ruling on commercial-religious questions.
+      Imy'Râ Hâti: >-
+        "Overseer of the Account" — the Pér-Háti's chief officer, appointed by the Council from among the
+        high priests and serving for life or until religious retirement. Represents the temple-treasury
+        network to the Per-Aá's court.
+      Temple-Inquisitor: >-
+        Hunts the forbidden cults the temples have outlawed and driven underground, working alongside the
+        Medjay. Most of what they find is harmless desperation.
+      Steward of the Temple Estates: >-
+        Runs a temple's landholdings from an estate-town — gathering the grain, beer, livestock and labour
+        of a ring of tenant-villages and rendering them to the temple's granaries and workshops. Multiplied
+        across a nome, this is what makes the great temples economic powers rivalling the nomarchs.
   commonSkills: []
-  seat: null
+  seat: iattepy
   domains: []
   population: null
-  economy: []
+  economy:
+    - affiliation-perhati
   lore: []
   parents: []
   relations: {}
@@ -141,6 +160,21 @@ Every major temple in Ta'Kheperu follows the same three-rank hierarchy, a struct
 - **Hem'Netjer** ("Servant of the God") — the ordained priesthood, the working body of the temple. Hem'Netjer conduct daily rites, manage temple lands and finances, teach in the temple schools, perform divinations, and administer the temple's role in local governance.
 
 - **Wab** ("Purified One") — acolytes and initiates undergoing the long process of temple education. A Wab enters the temple school as a child or youth and spends years studying sacred texts, ritual practice, history, mathematics, medicine, and the reading of omens before ordination.
+
+## The Nome Gods
+
+The Twelve are the theology; they are not the whole of the religion. Every nome has its own patron deity, and several of the forty-odd patrons are gods who stand outside the canonical Twelve altogether — local powers with real temples, real priesthoods, and in some cases a reach the valley cults never acquired. The Kheperi see no difficulty in this: they hold their gods too vast to be captured by any single cult, and the empire's religious history is one of continuous synthesis, absorption, and reinterpretation.
+
+| God                                | Domain                         | Where                                                                             |
+| ---------------------------------- | ------------------------------ | --------------------------------------------------------------------------------- |
+| **[[affiliation-mentu\|Mentu]]**   | War                            | Patron of four border nomes; the war-temple at [[place-behen\|Behen]]             |
+| **[[affiliation-sobek\|Sobek]]**   | River-beasts                   | The eastern marsh, the desert wells, and the narrow gorge of the upper river      |
+| **[[affiliation-wadjit\|Wadjit]]** | The marsh                      | The delta papyrus nome, whose reed-beds are the empire's paper                    |
+| **[[affiliation-min\|Min]]**       | Fertility and the desert roads | The caravan-head of the eastern routes; harvest-festivals and virility cults      |
+| **[[affiliation-anhur\|Anhur]]**   | The hunt                       | Paired with Shesmu as the religious foundation of [[affiliation-pernuw\|Per'Nuw]] |
+| **[[affiliation-shesmu\|Shesmu]]** | The hunt                       | Paired with Anhur; neither temple's rite counts without the other                 |
+
+Mentu is the clearest case of a cult whose strength is geographic rather than doctrinal: the war-god is patron of four of the ten border nomes and rare in the gentler valley, his worship strongest exactly where the empire's writ is thinnest. Sobek's is the sharpest tension — the crocodile is sacred to the god and is also the beast that takes farmers and children along the river, so the cull is a religious act before it is a commercial one.
 
 ## The Cosmic Order
 

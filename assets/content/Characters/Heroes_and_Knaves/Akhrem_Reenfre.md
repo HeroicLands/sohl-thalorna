@@ -7,16 +7,16 @@ name:
   title: ""
   given: Akhrem
   clan: Re'en'fré
-  home: Per-Ankhet
+  home: perankhet
   aliases:
     - Akhrem Reenfré
 packFolder: northernfertileregiontakheperu
 banner: banners/ta-kheperu-banner.webp
 shortcode: akhremrnfr
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/akhremrnfr-portrait.webp
+  portrait: images/beings/characters/akhremrnfr-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Animal Trainer

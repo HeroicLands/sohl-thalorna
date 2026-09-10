@@ -7,12 +7,12 @@ name:
   title: ""
   given: Khôrn
   clan: Hálren
-  home: Liranel
+  home: liranel
   aliases:
     - Cedric Longstride
 packFolder: aureldiaelavendre
 shortcode: khornhalrn
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
   portrait: images/being/khornhalrn-portrait.webp

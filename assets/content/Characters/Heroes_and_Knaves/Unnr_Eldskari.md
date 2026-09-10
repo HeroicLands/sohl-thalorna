@@ -8,14 +8,14 @@ name:
   title: ""
   given: Unnr
   clan: Eldskari
-  home: Kvenndal
+  home: kvenndal
   aliases: []
 packFolder: ankarisnordlands
 shortcode: unreldskar
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/unreldskar-portrait.webp
+  portrait: images/beings/characters/unreldskar-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Chandler
@@ -578,6 +578,8 @@ sohl:
 Unnr stands 5'3" tall with a light build. She has pale fair skin, dark brown hair, and green eyes. Her features include a narrow face, a long nose, a square jawline, a small mouth, dark brows, high cheeks.
 
 # Dossier {#dossier}
+
+## Background
 
 ### The Artisan's Awakening
 

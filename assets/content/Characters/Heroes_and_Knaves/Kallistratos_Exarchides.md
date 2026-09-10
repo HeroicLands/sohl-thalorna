@@ -8,14 +8,14 @@ name:
   title: ""
   given: Kallistratos
   clan: Exarchides
-  home: Velysâra
+  home: velysara
   aliases: []
 packFolder: midhalionvylaria
 shortcode: klstrtsxrchds
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/klstrtsxrchds-portrait.webp
+  portrait: images/beings/characters/klstrtsxrchds-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Mage (Fire)
@@ -619,6 +619,8 @@ He spent four years as an Initiatus — longer than average, but not unusually s
 Magister Vaelethon — a veteran of the Sodalitas Pyréthos, a former Quaesitorium operative, and one of the chapter's most respected practitioners — saw in Kallistratos the combination of talent and anger that produces either exceptional mages or spectacular disasters. He trained the boy accordingly: rigorous technical instruction in Pyréthos theory and application, combined with the physical conditioning and tactical awareness that the Quaesitorium demands of its field operatives. Vaelethon understood that Kallistratos's temperament — the intensity, the impatience, the conviction that fire was not merely a tool but a philosophy — would either serve the Ordo brilliantly or consume its host. His approach was to channel the fire rather than suppress it, giving Kallistratos increasingly demanding challenges that required both power and control.
 
 The apprenticeship lasted eight years — the standard duration. Kallistratos passed his examinations at twenty-three and was elevated to Adeptus, licensed to practice independently. By Ordo standards, he was a success: a qualified Pyréthos practitioner with solid combat training, respectable theoretical knowledge, and the beginnings of a reputation for effectiveness in the field. By his own standards, he had barely started.
+
+## Background
 
 ### The Fall of House Exarchides
 

@@ -8,12 +8,12 @@ name:
   title: ""
   given: Magnús
   clan: Skǫllbrandr
-  home: Haukstad
+  home: haukstad
   aliases:
     - Alaric Gemcutter
 packFolder: ankarisnordlands
 shortcode: mgnsklbrndr
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
   portrait: images/being/mgnsklbrndr-portrait.webp

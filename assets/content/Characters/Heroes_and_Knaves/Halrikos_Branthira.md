@@ -8,14 +8,14 @@ name:
   title: ""
   given: Hálrikos
   clan: Bránthira
-  home: Torreviga
+  home: torreviga
   aliases: []
 packFolder: aureldiatarvenia
 shortcode: hlrksbrnthr
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/hlrksbrnthr-portrait.webp
+  portrait: images/beings/characters/hlrksbrnthr-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Bureaucrat

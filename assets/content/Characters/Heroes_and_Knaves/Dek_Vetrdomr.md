@@ -7,14 +7,14 @@ name:
   title: ""
   given: Dek
   clan: Vetrdómr
-  home: Hávamál
+  home: havamal
   aliases: []
 packFolder: ankarisnordlands
 shortcode: dekvetrdmr
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/dekvetrdmr-portrait.webp
+  portrait: images/beings/characters/dekvetrdmr-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Thatcher
@@ -588,6 +588,8 @@ sohl:
 Dek stands 6'1" tall with a medium build. He has tanned weathered skin, dark brown hair, and hazel eyes. His features include a long face, a slightly upturned nose, a strong jawline, a laugh lines around the mouth, dark brows.
 
 # Dossier {#dossier}
+
+## Background
 
 ### The Thatchers' Path
 

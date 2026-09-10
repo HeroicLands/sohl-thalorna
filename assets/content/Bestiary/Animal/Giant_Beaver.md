@@ -5,11 +5,11 @@ name:
   full: Giant Beaver
   aliases: []
 description: "An intelligent, industrious rodent and master engineer that reshapes whole landscapes with dams and lodges redirecting entire watercourses."
-img: icons/game-icons/lorc/paw-print.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 shortcode: gntbvr
 type: being
 data:
-  portrait: images/being/gntbvr-portrait.webp
+  portrait: images/beings/creatures/gntbvr-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: null

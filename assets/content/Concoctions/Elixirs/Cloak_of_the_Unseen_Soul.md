@@ -6,7 +6,7 @@ name:
   aliases:
     - Soulcloak Elixir
 description: "Luminous silver elixir; shields spirit from True Sight and divinations."
-img: icons/potion.svg
+img: systems/sohl/assets/icons/other/potion.svg
 shortcode: ElxSCl
 type: concoctiongear
 subType: elixir

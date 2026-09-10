@@ -6,7 +6,7 @@ name:
   aliases:
     - Potion, Antivenin, Great
 description: "Nearly transparent golden distillation; heals poison and venom damage."
-img: icons/potion.svg
+img: systems/sohl/assets/icons/other/potion.svg
 shortcode: PtnAntvG
 type: concoctiongear
 subType: exotic

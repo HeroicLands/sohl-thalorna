@@ -13,10 +13,10 @@ name:
   aliases: []
 packFolder: aureldiaprovenzia
 shortcode: chlbrhydyn
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/chlbrhydyn-portrait.webp
+  portrait: images/beings/characters/chlbrhydyn-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Hunter / Scout
@@ -103,10 +103,10 @@ sohl:
     - { shortcode: LiteBdrl, type: miscgear }
     - { shortcode: ArwLBrd, type: projectilegear, system: { quantity: 30 } }
     - { shortcode: wtrskin, type: containergear }
-    - { shortcode: Quiver, type: miscgear }
-    - { shortcode: Leather satchel, type: miscgear }
+    - { shortcode: quiversmsh, type: containergear }
+    - { shortcode: bagleather15, type: containergear }
     - { shortcode: tndrbx, type: miscgear }
-    - { shortcode: Religious Articles, type: miscgear }
+    - { shortcode: iconwdsm, type: miscgear }
   system:
     body:
       structure:
@@ -579,6 +579,8 @@ Chéleb is an [[lore-aelendnppl|Áelendan]] hunter from the wildernesses of the 
 Chéleb is deeply spiritual, connected to the natural world in a way that his mercenary companions cannot fully understand. His bond with the land and its spirits is not abstract philosophy but a living practice, rooted in the traditions of his tribe and the [[place-eshalshldg|Eshálosha]] lodge to which he belongs. He is a hunter and a protector of the wilderness, and he carries both roles with quiet seriousness.
 
 He did not join the [[affiliation-slntlncmpny|Silent Talon]] for coin or glory. Chéleb seeks knowledge of the wider world—an understanding of the forces and conflicts beyond the mountains that increasingly threaten his people. If he can earn enough to help protect the Áelendan and their sacred lands while he is out here, so much the better. Brànwâal values him for his sharp eyes, his knowledge of the land, and his ability to scout terrain that would slow or trap less experienced men.
+
+## Background
 
 ### Skills and Abilities
 

@@ -7,12 +7,12 @@ name:
   title: ""
   given: Pitûrû
   clan: Tûbanî
-  home: Azhûn
+  home: azhun2
   aliases:
     - Cedric Earthshaker
 packFolder: midhalionharad
 shortcode: piturutubn
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
   portrait: images/being/piturutubn-portrait.webp

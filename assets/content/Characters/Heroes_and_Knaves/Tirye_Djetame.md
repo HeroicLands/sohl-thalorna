@@ -7,16 +7,16 @@ name:
   title: ""
   given: Tirye
   clan: Djet'amê
-  home: Meru-Hotep
+  home: meruhotep
   aliases:
     - Tirye Djetamê
 packFolder: northernfertileregiontakheperu
 banner: banners/ta-kheperu-banner.webp
 shortcode: tiryedjetm
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/tiryedjetm-portrait.webp
+  portrait: images/beings/characters/tiryedjetm-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Thespian
@@ -587,6 +587,8 @@ sohl:
 Tirye stands 5'4" tall with a light build. She has dark skin, black hair, and brown eyes. Her features include a narrow face, a slightly arched nose, a smooth jawline, elegantly curved brows. A distinguishing mark is a tattoo of a dragonfly on the neck.
 
 # Dossier {#dossier}
+
+## Background
 
 ### The Daughter of Performance
 

@@ -8,14 +8,14 @@ name:
   title: ""
   given: Qâmira
   clan: Lamari
-  home: Qasirah
+  home: qasirah
   aliases: []
 packFolder: heroesandknaveskalihara
 shortcode: qamiralamr
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/qamiralamr-portrait.webp
+  portrait: images/beings/characters/qamiralamr-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Astrologer

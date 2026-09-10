@@ -9,14 +9,14 @@ name:
   title: ""
   given: Kassándria
   clan: Bessarîon
-  home: Byzaris
+  home: byzaris
   aliases: []
 packFolder: helladbyzaria
 shortcode: kasndrbsrn
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/kasndrbsrn-portrait.webp
+  portrait: images/beings/characters/kasndrbsrn-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Mage (Lore)
@@ -594,6 +594,8 @@ sohl:
 Kassándria stands 5'5" tall with a light build. She has warm olive skin, black hair, and brown eyes. Her features include a diamond-shaped face, a aquiline nose, a pronounced chin, strong brows, sculpted cheeks.
 
 # Dossier {#dossier}
+
+## Background
 
 ### Early Mastery
 

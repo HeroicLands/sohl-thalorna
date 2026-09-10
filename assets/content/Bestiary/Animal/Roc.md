@@ -5,11 +5,11 @@ name:
   full: Roc
   aliases: []
 description: "A mountain-nesting bird of prey with a hundred-foot wingspan and body weighed in tons, hunting elephant-sized quarry as a living disaster for expeditions."
-img: icons/game-icons/delapouite/eagle-head.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 shortcode: roc
 type: being
 data:
-  portrait: images/being/roc-portrait.webp
+  portrait: images/beings/creatures/roc-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: null

@@ -12,10 +12,10 @@ name:
 packFolder: aureldiaprovenzia
 shortcode: fethardhrl
 banner: banners/tamzir-banner.webp
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/fethardhrl-portrait.webp
+  portrait: images/beings/characters/fethardhrl-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Pilot
@@ -564,6 +564,8 @@ sohl:
 Féthar Dhárel is a man who looks like he wandered off a Provenzian promenade and somehow ended up at the helm of a disreputable trading vessel. He is six feet tall with a mop of unruly red hair, a constellation of freckles, and blue eyes that perpetually carry the gleam of a man enjoying a private joke. His most notable feature is his wardrobe — he favors elaborately patterned tunics and embroidered tabards that clash spectacularly with the grimy reality of shipboard life. He is gangly and loose-limbed, without the hardened look of a fighter, but his hands on the helm are sure and steady as stone.
 
 # Dossier {#dossier}
+
+## Background
 
 ### Origin
 

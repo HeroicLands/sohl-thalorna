@@ -7,17 +7,17 @@ name:
   title: ""
   given: Satîya
   clan: Neb'akhet
-  home: Meru-Hotep
+  home: meruhotep
   aliases:
     - Satîya Nebakhet
     - Satiya Nebakhet
 packFolder: northernfertileregiontakheperu
 banner: banners/ta-kheperu-banner.webp
 shortcode: satiynbkht
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/satiynbkht-portrait.webp
+  portrait: images/beings/characters/satiynbkht-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Domestic Servant

@@ -5,11 +5,11 @@ name:
   full: Large Spider
   aliases: []
 description: "A dark-chitined arachnid with an eighteen-to-thirty-inch leg span, its bristled body armed with sensory hairs for stalking small prey."
-img: icons/game-icons/carl-olsen/spider-alt.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 shortcode: lrgspdr
 type: being
 data:
-  portrait: images/being/lrgspdr-portrait.webp
+  portrait: images/beings/creatures/lrgspdr-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: null

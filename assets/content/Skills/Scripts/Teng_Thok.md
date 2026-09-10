@@ -7,7 +7,7 @@ name:
     - Dōk Thōk
     - Celestial Record
 description: "The Celestial Record — the shared logographic writing of Tānvür and Jürthāt, read alike by people who cannot speak to one another."
-img: icons/speaking.svg
+img: systems/sohl/assets/icons/other/speaking.svg
 shortcode: tngthkscrpt
 type: skill
 subType: script

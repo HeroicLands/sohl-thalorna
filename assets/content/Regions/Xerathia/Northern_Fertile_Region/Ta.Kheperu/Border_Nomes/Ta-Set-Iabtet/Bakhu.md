@@ -24,7 +24,7 @@ packFolder: tasetiabtet
 
 ## Overview
 
-Bakhu is the capital of the empire's [[affiliation-nometstbtt|eastern mining march]], a fortified hill-town set at the mouth of the chief mining district where the desert roads come down out of the hills. It is the place where the empire's eastern gold is gathered, weighed, and sealed for the long guarded journey to the capital: its assay-house and treasury are the nome's strongroom, its garrison barracks hold the troops who escort the gold-convoys and answer the desert raiders, and its great temple of [[affiliation-kemtnpnthn|Ptā'h]] the smith presides over a town of mine-captains, smelters, engineers, and hard frontier labor. Walled, watchful, and built for control rather than comfort, Bakhu is the seat of the soldier-[[affiliation-empirtkhpr#Titles and Forms of Address|Haty'a]] who guards a fortune in rock and the men who dig it.
+Bakhu is the capital of the empire's [[affiliation-nometstbtt|eastern mining march]], a fortified hill-town set at the mouth of the chief mining district where the desert roads come down out of the hills. It is the place where the empire's eastern gold is gathered, weighed, and sealed for the long guarded journey to the capital: its assay-house and treasury are the nome's strongroom, its garrison barracks hold the troops who escort the gold-convoys and answer the desert raiders, and its great temple of [[affiliation-kemtnpnthn|Ptā'h]] the smith presides over a town of mine-captains, smelters, engineers, and hard frontier labor. Walled, watchful, and built for control rather than comfort, Bakhu is the seat of the soldier-[[affiliation-empirtkhpr#titles-and-forms-of-address|Haty'a]] who guards a fortune in rock and the men who dig it.
 
 ## Notable Features
 

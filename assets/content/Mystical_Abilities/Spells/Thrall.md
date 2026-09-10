@@ -5,7 +5,7 @@ name:
   aliases:
     - Animus
 description: "Dominates target's will; forces absolute obedience."
-img: icons/tree.svg
+img: systems/sohl/assets/icons/other/tree.svg
 shortcode: thrall
 type: mysticalability
 subType: arcaneincantation
@@ -34,4 +34,4 @@ The animated corpse can perform one action per turn—walking, striking, lifting
 
 The spell is gruesome but tactically potent: a shambling corpse makes an excellent distraction, pack-bearer, or expendable vanguard.
 
-Note that this spell does not create a [[doc-thlbestiary#helspawn|Helspawn]], it merely allows puppet-like control of a body, which ends when the spell duration expires.
+Note that this spell does not create a [[lore-helspawncrtr|Helspawn]], it merely allows puppet-like control of a body, which ends when the spell duration expires.

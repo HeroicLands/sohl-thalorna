@@ -5,7 +5,7 @@ name:
   aliases:
     - Beckon
 description: "Summons nearby creatures; compels them toward caster with force."
-img: icons/tree.svg
+img: systems/sohl/assets/icons/other/tree.svg
 shortcode: call
 type: mysticalability
 subType: arcaneincantation

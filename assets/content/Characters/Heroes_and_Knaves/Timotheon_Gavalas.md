@@ -8,14 +8,14 @@ name:
   title: ""
   given: Timothéon
   clan: Gaválas
-  home: Chrysamar
+  home: chrysamar
   aliases: []
 packFolder: helladbyzaria
 shortcode: timthngvls
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/timthngvls-portrait.webp
+  portrait: images/beings/characters/timthngvls-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Teamster
@@ -584,6 +584,8 @@ sohl:
 Timothéon stands 5'11" tall with a medium build. He has light ruddy skin, gray hair, and olive-green eyes. His features include a long face, a strong nose, a strong jawline, a wide mouth, strong brows.
 
 # Dossier {#dossier}
+
+## Background
 
 ### Early Years
 

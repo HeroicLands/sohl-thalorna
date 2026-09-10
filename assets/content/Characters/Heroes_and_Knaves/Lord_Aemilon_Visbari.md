@@ -12,14 +12,14 @@ name:
   title: Lord
   given: Aemilon
   clan: Visbari
-  home: Valdosta
+  home: valdosta
   aliases: []
 packFolder: midhalionvylaria
 shortcode: lrdmlnvsbr
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/lrdmlnvsbr-portrait.webp
+  portrait: images/beings/characters/lrdmlnvsbr-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Herald

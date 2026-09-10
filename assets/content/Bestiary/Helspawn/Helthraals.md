@@ -5,11 +5,11 @@ name:
   full: Helthraals
   aliases: []
 description: "The mindless shambling undead—zombies, skeletons, mummies, and ghouls—animated by necromancy that binds soul-fragments to drive rotting corpses."
-img: icons/game-icons/lorc/werewolf.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 shortcode: hlthrls
 type: being
 data:
-  portrait: images/being/hlthrls-portrait.webp
+  portrait: images/beings/creatures/hlthrls-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: null

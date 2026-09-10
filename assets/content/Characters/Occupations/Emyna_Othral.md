@@ -7,12 +7,12 @@ name:
   title: ""
   given: Émyna
   clan: Óthral
-  home: Valdûn
+  home: valdun
   aliases:
     - Seraphina Duval
 packFolder: aureldiaelavendre
 shortcode: emynaothrl
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
   portrait: images/being/emynaothrl-portrait.webp

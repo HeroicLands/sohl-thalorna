@@ -7,14 +7,14 @@ name:
   title: ""
   given: Xadrôs
   clan: Dâemâtês
-  home: Sanctara
+  home: sanctara
   aliases: []
 packFolder: midhalionvylaria
 shortcode: xadrosdmts
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/xadrosdmts-portrait.webp
+  portrait: images/beings/characters/xadrosdmts-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Woodcrafter

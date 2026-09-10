@@ -7,12 +7,12 @@ name:
   title: ""
   given: Ghârîdos
   clan: Mûrâdês
-  home: Korinthea
+  home: korinthea2
   aliases:
     - Marcus Tidebreaker
 packFolder: helladhelionis
 shortcode: ghardsmrds
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
   portrait: images/being/ghardsmrds-portrait.webp

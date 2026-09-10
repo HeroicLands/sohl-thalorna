@@ -8,14 +8,14 @@ name:
   title: ""
   given: Cárenna
   clan: Gráveth
-  home: Torreviga
+  home: torreviga
   aliases: []
 packFolder: aureldiatarvenia
 shortcode: carengrvth
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/carengrvth-portrait.webp
+  portrait: images/beings/characters/carengrvth-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Herald

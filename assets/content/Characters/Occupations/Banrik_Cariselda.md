@@ -7,12 +7,12 @@ name:
   title: ""
   given: Bánrik
   clan: Cáriselda
-  home: Solárden
+  home: solarden
   aliases:
     - Sylas Quickblade
 packFolder: aureldiatarvenia
 shortcode: banrkcrsld
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
   portrait: images/being/banrkcrsld-portrait.webp

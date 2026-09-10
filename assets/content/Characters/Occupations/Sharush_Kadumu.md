@@ -7,12 +7,12 @@ name:
   title: ""
   given: Shârûsh
   clan: Kadûmû
-  home: Tamavar
+  home: qadhirun
   aliases:
     - Cedric Honeywood
 packFolder: midhalionharad
 shortcode: sharushkdm
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
   portrait: images/being/sharushkdm-portrait.webp

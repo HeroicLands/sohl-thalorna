@@ -7,14 +7,14 @@ name:
   title: ""
   given: Kamîd
   clan: Khâvandar
-  home: Kethramír
+  home: kethramir
   aliases: []
 packFolder: ankariskhazryndesert
 shortcode: kamdkhvndr
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/kamdkhvndr-portrait.webp
+  portrait: images/beings/characters/kamdkhvndr-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Beggar

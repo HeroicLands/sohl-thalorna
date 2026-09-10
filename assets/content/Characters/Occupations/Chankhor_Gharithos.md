@@ -7,12 +7,12 @@ name:
   title: ""
   given: Chânkhor
   clan: Ghârîthôs
-  home: Therádon
+  home: theradon2
   aliases:
     - Garrick Stablemaster
 packFolder: helladhelionis
 shortcode: chnkhrghrths
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
   portrait: images/being/chnkhrghrths-portrait.webp

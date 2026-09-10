@@ -7,16 +7,16 @@ name:
   title: ""
   given: Pasher
   clan: Het'remet
-  home: Wasetkara
+  home: wasetkara
   aliases:
     - Pasher Hetremet
 packFolder: northernfertileregiontakheperu
 banner: banners/ta-kheperu-banner.webp
 shortcode: pashrhtrmt
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/pashrhtrmt-portrait.webp
+  portrait: images/beings/characters/pashrhtrmt-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Musician (Lyre)

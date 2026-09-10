@@ -7,12 +7,12 @@ name:
   title: ""
   given: Frítha
   clan: Stormrót
-  home: Thrymstead
+  home: thrymstead
   aliases:
     - Lyra Quickpaw
 packFolder: ankarisnordlands
 shortcode: frthstrmrt
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
   portrait: images/being/frthstrmrt-portrait.webp

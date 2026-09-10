@@ -7,14 +7,14 @@ name:
   title: ""
   given: Damáklios
   clan: Sampsiôn
-  home: Karataş
+  home: karatas2
   aliases: []
 packFolder: helladbyzaria
 shortcode: damklsmpsn
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/damklsmpsn-portrait.webp
+  portrait: images/beings/characters/damklsmpsn-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Cartographer/Artist
@@ -98,7 +98,6 @@ sohl:
     - { shortcode: StdRtns, type: miscgear, system: { quantity: 3 } }
     - name: Leather map case
       type: miscgear
-      img: icons/scroll-case.svg
       system:
         weight: 1
         value: 100

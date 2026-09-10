@@ -8,14 +8,14 @@ name:
   title: ""
   given: Alýkos
   clan: Sampsiôn
-  home: Selímara
+  home: selimara
   aliases: []
 packFolder: helladbyzaria
 shortcode: alykosmpsn
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/alykosmpsn-portrait.webp
+  portrait: images/beings/characters/alykosmpsn-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Physician
@@ -100,7 +100,7 @@ sohl:
         weight: 1
         value: 20
         durability: 4
-    - { shortcode: srgtls, type: miscgear }
+    - { shortcode: surgkit, type: miscgear }
     - name: Herbal remedies (assorted tinctures)
       type: miscgear
       system:

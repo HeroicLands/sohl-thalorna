@@ -8,11 +8,11 @@ name:
   title: ""
   given: Shamûlû
   clan: Zabîsh
-  home: Ashkabel
+  home: ashkabel2
   aliases: []
 packFolder: midhalionharad
 shortcode: shamulzbsh
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
   portrait: images/being/shamulzbsh-portrait.webp

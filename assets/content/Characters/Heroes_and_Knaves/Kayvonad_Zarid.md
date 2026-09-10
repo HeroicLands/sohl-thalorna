@@ -8,14 +8,14 @@ name:
   title: ""
   given: Kayvonad
   clan: Zârîd
-  home: Ashkarad
+  home: ashkarad
   aliases: []
 packFolder: ankariskhazryndesert
 shortcode: kayvondzrd
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/kayvondzrd-portrait.webp
+  portrait: images/beings/characters/kayvondzrd-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Alchemist
@@ -595,6 +595,8 @@ sohl:
 Kayvonad stands 5'4" tall with a medium build. He has light olive skin, a shaved head, and dark amber eyes. His features include an oblong face, a long nose, a sharp jawline, a firm-set mouth, heavy brows, high cheeks.
 
 # Dossier {#dossier}
+
+## Background
 
 ### The Promising Scholar
 

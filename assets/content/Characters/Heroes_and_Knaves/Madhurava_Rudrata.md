@@ -8,14 +8,14 @@ name:
   title: ""
   given: Màdhurava
   clan: Rudraṭa
-  home: Chandrapur
+  home: chandrapur2
   aliases: []
 packFolder: ankarisvedyara
 shortcode: madhurvrdr
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/madhurvrdr-portrait.webp
+  portrait: images/beings/characters/madhurvrdr-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Herald
@@ -595,6 +595,8 @@ sohl:
 Màdhurava stands 5'10" tall with a medium build. He has medium brown skin, graying dark brown hair, and honey brown eyes. His features include a diamond-shaped face, a narrow nose, a narrow chin, a wide mouth, medium brows, soft cheeks. A distinguishing mark is a scar on the left foot.
 
 # Dossier {#dossier}
+
+## Background
 
 ### The Scholar's Calling
 

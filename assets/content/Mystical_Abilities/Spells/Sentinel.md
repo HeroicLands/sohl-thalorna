@@ -5,7 +5,7 @@ name:
   aliases:
     - Guardian
 description: "Creates guardian watchpoint; alerts caster to intrusion nearby."
-img: icons/tree.svg
+img: systems/sohl/assets/icons/other/tree.svg
 shortcode: sentinel
 type: mysticalability
 subType: arcaneincantation

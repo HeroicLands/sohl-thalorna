@@ -7,12 +7,12 @@ name:
   title: ""
   given: Vólyra
   clan: Brýlond
-  home: Belpòrte
+  home: belporte
   aliases:
     - Marwen Thatcher
 packFolder: aureldiaprovenzia
 shortcode: vlyrbrylnd
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
   portrait: images/being/vlyrbrylnd-portrait.webp

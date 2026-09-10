@@ -5,7 +5,7 @@ name:
   aliases:
     - Dart
 description: "Caster's blow lands true; grants power and accuracy."
-img: icons/anvil.svg
+img: systems/sohl/assets/icons/game-icons/badges/anvil.svg
 shortcode: strike
 type: mysticalability
 subType: arcaneincantation

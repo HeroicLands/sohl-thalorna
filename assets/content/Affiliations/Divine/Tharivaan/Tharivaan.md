@@ -15,80 +15,55 @@ data:
   epithet: The Living Whole
   symbol: An unbroken ring woven of green vine and coral branch
   governance:
-    model: theocracy
+    model: council
     summary: >-
-      Ordained priesthood under a hierarch, with the lay faithful bound by observance rather
-      than by office.
+      The Ithári'kaan — "Keepers of What Was Left" — are the custodial priesthood at the spiritual and institutional heart of Kaliharan society, organised into four ranks "each defined less by hierarchy than by the kind of responsibility held". Their charge is to preserve the precursors' knowledge, maintain the ancient structures, and keep the balance from being disrupted; over ten thousand years the engineering has become liturgy, and they perform it with meticulous precision whether or not the original purpose survives.
     ranks:
       - level: 0
-        title: Excommunicate
+        title: Unkept
         lore: excmmnctrnk
         description: >-
-          Cut off from the rites, the temples and the burial the tradition promises — the one
-          sentence it can pass that outlives the body.
+          Put outside the keeping of the Keepers of What Was Left. In a society whose whole institutional life is custodial, there is nothing else to belong to.
       - level: 1
-        title: Catechumen
-        lore: catechumenrnk
-        description: Under instruction and not yet received; permitted to hear and not to partake.
+        title: Lay Kaliharan
+        lore: layfaithfulrnk
+        description: >-
+          Keeps the Three Observances without custodial formation, which is the condition of nearly everyone on the island.
       - level: 2
-        title: Lay Faithful
-        lore: layfaithfulrnk
-        description: >-
-          Of the tradition by profession and observance, keeping its feasts and its prohibitions
-          without office in it.
-      - level: 3
-        title: Devotee
-        lore: layfaithfulrnk
-        description: >-
-          Bound by a private vow — a fast, a pilgrimage, a service — beyond what the lay faithful
-          owe.
-      - level: 4
-        title: Acolyte
+        title: kaan'sili
         lore: initiaternk
         description: >-
-          Serving in the temple and learning its rites, on the path to ordination and not yet
-          holding it.
-      - level: 5
-        title: Ordained
+          "One who watches" — the entry rank, taken by young Kaliharans selected between the ages of eight and twelve. Fifteen to twenty years of apprenticeship at an interior sanctuary, absorbing ecology, agriculture, liturgical procedure, ithári'sul maintenance and the patterns of their assigned region. They assist and commit to memory; they do not perform the great liturgies.
+      - level: 3
+        title: kaan'vaar
         lore: priestrnk
         description: >-
-          Priest or priestess of the tradition, empowered to perform the rites and to bind and
-          loose in its name.
-      - level: 6
-        title: Temple Officer
+          "One who holds" — the working rank, and the one most Kaliharans meet in daily life. Performs the maintenance liturgies at a specific sanctuary or stretch of structures and teaches the next generation of kaan'sili. Taken for life: retirement is not recognised, though an aged kaan'vaar may have their duties reduced as strength fails.
+      - level: 4
+        title: kaan'thári
         lore: highpriestrnk
-        description: Holding a charge within a temple — its treasury, its schools, its estates,
-          its oracles.
-      - level: 7
-        title: High Priest
-        lore: highpriestrnk
-        description: Head of a temple or a cult, speaking with the voice of the god in matters
-          of its doctrine.
-      - level: 8
-        title: Hierophant
+        description: >-
+          "One who keeps what came before" — the senior rank, reached after forty or fifty years. The memory of the tradition, to whom others turn when a practice has drifted, a procedure has been half-forgotten, or a structure fails in a way no living kaan'vaar has seen. Perhaps two hundred exist at any time, and their counsel is sought well beyond the strictly custodial.
+      - level: 5
+        title: sílhari'kaan
         lore: grandmasterrnk
         description: >-
-          Head of the whole tradition, whose ruling on doctrine is final and whose sanction
-          every high priest holds at.
+          "Clear-seer of the keepers" — the rarest rank, perhaps a dozen at any time. Coordinates custodial practice across the whole island, convenes the councils that decide when an ancient procedure must be adjusted against structural failure, and carries in strict confidence how deep the crisis of the failing structures has become.
     offices:
-      Hierophant: >-
-        Head of the tradition, final authority on its doctrine and source of every high priest's
-        sanction.
-      High Priest: Head of a temple or cult, master of its estates and voice of its god on
-        doctrine.
-      Oracle: Speaker of the god's answer, consulted before any undertaking the tradition
-        must bless.
-      Temple Steward: Administrator of a temple's lands, herds, workshops and revenue.
-      Sacristan: Keeper of the sanctuary, its vessels, its vestments and the purity of both.
-      Almoner: Distributor of the temple's charity, and the face the tradition shows the poor.
-      Lector: Reader of the sacred texts in the rites, and teacher of them to acolytes.
-      Exorcist: >-
-        Charged with what the tradition holds should not be present, and with the rites that
-        remove it.
-      Chief Augur: Reader of the signs by which the tradition fixes the hour of its acts.
-      Keeper of the Calendar: Holder of the feast-reckoning, and thereby of when the year's
-        obligations fall due.
-  commonSkills: []
+      Convener of the Councils: >-
+        A sílhari'kaan calling the council that decides whether an inherited procedure may be adjusted in the face of a failing structure.
+      Bearer of the Crisis: >-
+        Holds, in strict confidence, the true extent of the structural failure. The knowledge does not descend below the sílhari'kaan.
+      Warden of a Sanctuary: >-
+        Holds one of the two dozen interior sanctuaries — at once seminary, archive, workshop and working site. Veshvaan in the central highlands is oldest and holds the most extensive archives; Thal'ari on the western slopes forms custodians for coastal and oceanic structures; Mirthaan in the eastern river valleys trains custodians of the agricultural installations. No foreigner has ever been permitted to visit any of them.
+      Teacher of the kaan'sili: >-
+        The kaan'vaar's standing charge: the formation of the next generation, which is how an oral custodial tradition survives at all.
+  commonSkills:
+    - tharivaan
+    - agri
+    - masn
+    - srvl
+    - folklr
   seat: null
   domains: []
   population: null

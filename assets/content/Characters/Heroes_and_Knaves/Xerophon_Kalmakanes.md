@@ -7,14 +7,14 @@ name:
   title: ""
   given: Xerôphôn
   clan: Kâlmâkanês
-  home: Ashenmere
+  home: ashenmere
   aliases: []
 packFolder: midhalionvylaria
 shortcode: xrphnklmkns
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/xrphnklmkns-portrait.webp
+  portrait: images/beings/characters/xrphnklmkns-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Gaoler

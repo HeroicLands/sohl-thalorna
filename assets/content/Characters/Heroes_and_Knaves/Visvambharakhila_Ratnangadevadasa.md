@@ -8,14 +8,14 @@ name:
   title: ""
   given: Viśvambhārākhila
   clan: Ratnāṅgadēvadāsa
-  home: Chandrapur
+  home: chandrapur2
   aliases: []
 packFolder: ankarisvedyara
 shortcode: vsvmbhrkhlrtngdvds
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/vsvmbhrkhlrtngdvds-portrait.webp
+  portrait: images/beings/characters/vsvmbhrkhlrtngdvds-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Chandler
@@ -587,6 +587,8 @@ sohl:
 Viśvambhārākhila stands 5'10" tall with a medium build. He has deep brown skin, dark brown hair, and warm brown eyes. His features include a full face, a narrow nose, a small chin, full lips, deep brows.
 
 # Dossier {#dossier}
+
+## Background
 
 ### The Rise of the Chandler
 

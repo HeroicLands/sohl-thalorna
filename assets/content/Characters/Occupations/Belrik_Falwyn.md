@@ -8,12 +8,12 @@ name:
   title: ""
   given: Bélrik
   clan: Fálwyn
-  home: Liranel
+  home: liranel
   aliases:
     - Aldric Fallow
 packFolder: aureldiaelavendre
 shortcode: belrkflwyn
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
   portrait: images/being/belrkflwyn-portrait.webp

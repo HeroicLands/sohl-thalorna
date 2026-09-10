@@ -5,7 +5,7 @@ name:
   aliases:
     - Muffle
 description: "Suppresses sound; muffles speech and blocks all noise."
-img: icons/wind.svg
+img: systems/sohl/assets/icons/other/wind.svg
 shortcode: silence
 type: mysticalability
 subType: arcaneincantation

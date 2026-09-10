@@ -7,12 +7,12 @@ name:
   title: ""
   given: Leofrun
   clan: Chilwell
-  home: Kingshollow
+  home: kingsholow
   aliases:
     - Elara Greenpath
 packFolder: aureldiaaelwyth
 shortcode: lefrnchlwl
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
   portrait: images/being/lefrnchlwl-portrait.webp

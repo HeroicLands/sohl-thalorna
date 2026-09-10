@@ -7,12 +7,12 @@ name:
   title: ""
   given: Rimmârû
   clan: Ushûrî
-  home: Míravel
+  home: miravel
   aliases:
     - Althea Rosebloom
 packFolder: midhalionharad
 shortcode: rimarushur
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
   portrait: images/being/rimarushur-portrait.webp

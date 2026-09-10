@@ -9,14 +9,14 @@ name:
   title: ""
   given: Ángelides
   clan: Patrikîos
-  home: Chrysamar
+  home: chrysamar
   aliases: []
 packFolder: helladbyzaria
 shortcode: angldsptrks
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/angldsptrks-portrait.webp
+  portrait: images/beings/characters/angldsptrks-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Mage (Healing)
@@ -595,6 +595,8 @@ sohl:
 
 # Dossier {#dossier}
 
+## Background
+
 ### Early Divergence
 
 Ángelides was born to a learned merchant family within the Byzarian League, and from childhood it was evident he possessed the rare gift for arcane study. Where most children struggled with their alphabet, he read ancient texts by candlelight. By fourteen, he had been apprenticed to **Magister Ptolemaus of the Hydälis Sodalitas**, a scholar of theoretical thaumaturgy within the Panepistemium's chapterhouse, renowned for his adherence to orthodox magical principle and his mastery of the water-school traditions. For five years, Ángelides submitted himself to the rigorous disciplines of formal magical training—memorizing the correspondences of the Héx Hodäi, studying the geometry of ritual circles, learning to channel mystical force through precisely enunciated incantations and mathematically perfect gestures.
@@ -605,7 +607,7 @@ At nineteen, Ángelides experienced a revelation that would shape the remainder 
 
 ### The Path Unorthodox
 
-Rather than submit to the chapterhouse council's censure or return in shame to his merchant family, Ángelides spent the next two decades wandering the hinterlands and remote villages of the Byzarian League and beyond, learning to trust instinct over instruction, combining folk healing practices with his arcane knowledge, studying the hidden language of nature itself. He apprenticed briefly with völvur in the Normen lands, learned the secrets of herbal medicine from ancient practitioners in isolated communities, and gradually constructed a philosophy of magic that views rigid formula as a cage rather than a foundation. His power grew in unconventional directions—he developed remarkable facility with healing magic through direct communion with the body's own vital forces, elemental manipulation grounded in natural observation rather than abstract theory, and divination through patterns woven into the living world. His training in the formal Hydälis disciplines remained incomplete, and he deliberately rejected the academic frameworks that Ptolemaus had instilled.
+Rather than submit to the chapterhouse council's censure or return in shame to his merchant family, Ángelides spent the next two decades wandering the hinterlands and remote villages of the Byzarian League and beyond, learning to trust instinct over instruction, combining folk healing practices with his arcane knowledge, studying the hidden language of nature itself. He apprenticed briefly with völvur in the Nordmen lands, learned the secrets of herbal medicine from ancient practitioners in isolated communities, and gradually constructed a philosophy of magic that views rigid formula as a cage rather than a foundation. His power grew in unconventional directions—he developed remarkable facility with healing magic through direct communion with the body's own vital forces, elemental manipulation grounded in natural observation rather than abstract theory, and divination through patterns woven into the living world. His training in the formal Hydälis disciplines remained incomplete, and he deliberately rejected the academic frameworks that Ptolemaus had instilled.
 
 ### Current Station
 

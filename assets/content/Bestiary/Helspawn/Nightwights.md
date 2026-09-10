@@ -5,11 +5,11 @@ name:
   full: Nightwights
   aliases: []
 description: "The intelligent undead—vampires, dread-priests, and sorcerer-emperors who persist past death through deliberate, prepared rituals of dark power."
-img: icons/game-icons/delapouite/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 shortcode: nghtwght
 type: being
 data:
-  portrait: images/being/nghtwght-portrait.webp
+  portrait: images/beings/creatures/nghtwght-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: null
@@ -551,7 +551,7 @@ The candidate's psychological state during the ritual matters enormously. Three 
 
 If the damage is moderate, the candidate may emerge as a weak Nightwight — lacking many of the capacities that fuller Nightwights have, perhaps fragmenting psychologically over time at a faster rate than usual. They are Nightwights only marginally. The worst part of this is the self-horror and self-loathing that comes along with this knowledge of what they have become, and the horror that awaits them.
 
-If the damage is severe, the candidate emerges as a Helthraal instead — a [[Helthrall|Failed-Ritual Helthraal]]. The Nightwight transformation has failed, but the body still rises, animated by the partial soul that remains.
+If the damage is severe, the candidate emerges as a Helthraal instead — a [[being-hlthrls|Failed-Ritual Helthraal]]. The Nightwight transformation has failed, but the body still rises, animated by the partial soul that remains.
 
 If the damage is catastrophic, the candidate may not arise at all. The body remains dead. The soul, fragmented and damaged, dissolves and disperses in the spirit realm, gone and irredemably unrecoverable.
 

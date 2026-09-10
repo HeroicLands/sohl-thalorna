@@ -8,10 +8,6 @@ name:
   full: Itzáni Pantheon
   aliases:
     - The Ten of the Celestial Round
-    - The Itzáni Faith
-    - Itzáni Faith
-    - Itzani
-    - Itzáni
 shortcode: itzanpnthn
 type: affiliation
 subType: faithtradition
@@ -23,77 +19,101 @@ data:
   governance:
     model: theocracy
     summary: >-
-      Ordained priesthood under a hierarch, with the lay faithful bound by observance rather
-      than by office.
+      A single priestly caste serving all ten gods, ranked by degree of initiation and by the
+      blood-debt a person carries rather than by which god they serve; the lay faithful are
+      bound by the calendar that same caste keeps.
     ranks:
       - level: 0
-        title: Excommunicate
+        title: Blood-Denied
         lore: excmmnctrnk
         description: >-
-          Cut off from the rites, the temples and the burial the tradition promises — the one
-          sentence it can pass that outlives the body.
+          Barred from offering blood, from the priest-read calendar and from the funerary rites
+          — a soul left to face Xibalba's trials unguided, which the Ki'ichek reckon the one
+          sentence that outlives the body.
       - level: 1
-        title: Catechumen
+        title: Water-Marked
         lore: catechumenrnk
-        description: Under instruction and not yet received; permitted to hear and not to partake.
+        description: >-
+          Consecrated at birth with water on the lips and counted among the faithful, but not
+          yet of an age to give blood or keep the fasts.
       - level: 2
-        title: Lay Faithful
+        title: Blood-Giver
         lore: layfaithfulrnk
         description: >-
-          Of the tradition by profession and observance, keeping its feasts and its prohibitions
-          without office in it.
+          The lay faithful, who pierce tongue or earlobe on the days the calendar appoints and
+          keep its prohibitions without holding office in the temple.
       - level: 3
-        title: Devotee
+        title: Debt-Bearer
         lore: layfaithfulrnk
         description: >-
-          Bound by a private vow — a fast, a pilgrimage, a service — beyond what the lay faithful
-          owe.
+          Bound by a debt pledged beyond what the calendar requires — a captive dedicated in
+          advance, a pilgrimage undertaken, a season of autosacrifice vowed.
       - level: 4
-        title: Acolyte
+        title: Tq'an'ik
         lore: initiaternk
         description: >-
-          Serving in the temple and learning its rites, on the path to ordination and not yet
-          holding it.
+          "Edge-Walker" — an initiate serving in the temples while learning the calendar, the
+          sacred texts and the autosacrificial disciplines the priesthood demands of every
+          member.
       - level: 5
-        title: Ordained
+        title: Ch'ul'bal
         lore: priestrnk
         description: >-
-          Priest or priestess of the tradition, empowered to perform the rites and to bind and
-          loose in its name.
+          "Sacred Servant" — an ordained priest, trained from childhood in mathematics,
+          astronomy, writing and the reading of celestial signs, who keeps the daily rites and
+          the codices.
       - level: 6
-        title: Temple Officer
+        title: K'ul
         lore: highpriestrnk
-        description: Holding a charge within a temple — its treasury, its schools, its estates,
-          its oracles.
+        description: >-
+          "Keeper" — head of one specialist branch within a temple complex, answerable to its
+          K'ul Tq'an and contending with the other branches for resources, precedence and
+          favour.
       - level: 7
-        title: High Priest
+        title: K'ul Tq'an
         lore: highpriestrnk
-        description: Head of a temple or a cult, speaking with the voice of the god in matters
-          of its doctrine.
+        description: >-
+          "Sacred Boundary" — high priest of a temple complex, who alone performs the great
+          sacrificial rites at the turning of the cosmic cycles and holds the calculations that
+          predict when an age will end.
       - level: 8
-        title: Hierophant
+        title: Presiding K'ul Tq'an
         lore: grandmasterrnk
         description: >-
-          Head of the whole tradition, whose ruling on doctrine is final and whose sanction
-          every high priest holds at.
+          The K'ul Tq'an of the city-state's solar pyramid, first among its hierarchs: he fixes
+          the calendar for the whole city, presides at the New Fire Ceremony, and rules whether
+          the gods approve a K'inmah's succession.
     offices:
-      Hierophant: >-
-        Head of the tradition, final authority on its doctrine and source of every high priest's
-        sanction.
-      High Priest: Head of a temple or cult, master of its estates and voice of its god on
-        doctrine.
-      Oracle: Speaker of the god's answer, consulted before any undertaking the tradition
-        must bless.
-      Temple Steward: Administrator of a temple's lands, herds, workshops and revenue.
-      Sacristan: Keeper of the sanctuary, its vessels, its vestments and the purity of both.
-      Almoner: Distributor of the temple's charity, and the face the tradition shows the poor.
-      Lector: Reader of the sacred texts in the rites, and teacher of them to acolytes.
-      Exorcist: >-
-        Charged with what the tradition holds should not be present, and with the rites that
-        remove it.
-      Chief Augur: Reader of the signs by which the tradition fixes the hour of its acts.
-      Keeper of the Calendar: Holder of the feast-reckoning, and thereby of when the year's
-        obligations fall due.
+      Reckoner of Conjunctions: >-
+        Computes the interlocking cycles and issues the auspicious and forbidden days, and so
+        fixes the hour of every significant act in the city.
+      Warden of the Debt: >-
+        Keeps the reckoning of blood owed against blood given, and announces the surplus or
+        shortfall at the close of each twenty-day month.
+      Master of the Sacrifice: >-
+        Marshals the great rites at the turning of the cosmic cycles, and the order in which
+        the branches take part in them.
+      Master of the New Fire: >-
+        Holds the obsidian mirrors and jade by which fire is drawn from the rising sun every
+        fifty-two years, and the roster of runners who carry it.
+      Voice of Succession: >-
+        Puts the question to the gods when a K'inmah dies and declares whether the heir is
+        sanctioned.
+      Keeper of the Codices: >-
+        Holds the temple archive — funerary texts, astronomical records, dream registers and
+        ruin-registers alike — and rules who may consult it.
+      Warden of the Sealed Chambers: >-
+        Guards the serpent-skin calculations of the age's ending, inspected at each turning of
+        the Tz'uqal Cycle before witnesses from two other branches.
+      Master of the Liminal Days: >-
+        Governs the five days of terrible power at the year's end, when the boundary between
+        worlds grows thin and ordinary observance is suspended.
+      Master of Initiates: >-
+        Admits the Tq'an'ik, assigns them to branches, and holds the disciplines of
+        autosacrifice through which they are trained.
+      Steward of the Temple Estates: >-
+        Administers the lands, granaries, workshops, tribute and fees on which the whole
+        priestly caste subsists.
   commonSkills: []
   seat: null
   domains: []
@@ -104,7 +124,7 @@ data:
   relations: {}
 sohl:
   templatePriority: null
-packFolder: itzani
+packFolder: pantheonitzani
 ---
 
 # The Itzáni Faith
@@ -161,138 +181,38 @@ Every fifty-two years, when the K'in Cycle and the Tq'an Cycle realign, the grea
 
 ## The Ten
 
-| Domain         | Deity               | Epithet                      | Symbol                                                                              |
-| -------------- | ------------------- | ---------------------------- | ----------------------------------------------------------------------------------- |
-| Order          | **K'in'ul Tq'an**   | The Sun at the World's Edge  | A radiant sun disk bisected by a horizon line                                       |
-| Death & Decay  | **Tz'uqil Ix'bal**  | The Death Jaguar             | A jaguar skull crowned with obsidian blades, an owl perched on the brow             |
-| Storms & Chaos | **P'uqil Ch'aqun**  | The Feathered Storm-Serpent  | A feathered serpent coiled within a thundercloud, jade-tipped lightning in its jaws |
-| Knowledge      | **Ix'ilan Ch'alix** | The Sacred Star              | A star within an open codex                                                         |
-| Prosperity     | **K'anix Ha'kan**   | The Golden Giver             | A maize stalk bearing golden flowers                                                |
-| Fire           | **K'ayik Ch'ul**    | The Sacred Flame             | A flame rising from a jade altar                                                    |
-| Creation       | **P'iqal Kul'qat**  | Builder of the Sacred Peak   | A stepped pyramid beneath a crescent moon                                           |
-| Voyages        | **Xilan Ix'lan**    | The Walker of Paths          | A footprint marked with a compass of cardinal stars                                 |
-| Dreams         | **Nal'ik Tz'uqal**  | The Dreamer in Moonlight     | A crescent moon trailing threads of silver mist                                     |
-| Fertility      | **Xaq'ik Ha'nal**   | The Blossom of Living Waters | A water lily blooming from a jade spring                                            |
+Each of the Ten has its own specialist branch within the single Itzáni priesthood, and its own faith note, linked in the table below. The faithful do not choose between them; a Ki'ichek calls upon whichever god the occasion requires, and one priestly caste serves them all.
 
-### K'in'ul Tq'an — The Sun at the World's Edge
-
-**Domain:** Order, Cosmic Law, Solar Cycle
-
-K'in'ul Tq'an is the greatest and most terrible of the Itzáni gods — the sovereign of the Fifth Age, the maintainer of cosmic order, and the celestial emperor whose constancy alone prevents the return of chaos. He is not worshipped with comfort or mercy. Rather, K'in'ul Tq'an demands absolute fidelity to the cosmic cycle, and his worship is one of rigid duty, sacred obligation, and the grim knowledge that upon his shoulders rests the continuation of existence itself. The sun does not rise by divine benevolence — it rises because blood has been spilled, because the gods were satisfied with sacrifice, because mortals have kept faith with their burden. His priests preach that there is no grace in the cosmos, only the reciprocal cycle of gift and obligation.
-
-The solstices are the most sacred astronomical events of the solar year. At the winter solstice, the K'inmah himself ascends the pyramid and draws his own blood into the eternal flames while priests chant the binding spells that hold the sun to its path of return. At the summer solstice, priests sever the hearts of sacrificial captives at the pyramid's peak, collecting the blood in jade vessels and pouring it down the temple's great stone channels, carved with astronomical glyphs. Personal bloodletting in honor of K'in'ul Tq'an — by piercing the tongue, the earlobes, or the genitals with obsidian blades — is considered a privilege of the honored, a way to enter into direct communion with the solar god. Warriors who have captured enemies are expected to perform such ceremonies, dedicating their captives' coming sacrifices in advance.
-
-The great solar pyramids of K'in'ul Tq'an are always the tallest structures in any city, their peaks the first to catch dawn light. The K'ul Tq'an of K'in'ul Tq'an's temple is the most politically powerful religious figure in any city-state — the supreme voice of cosmic order. When a king dies, it is the K'ul Tq'an who determines whether the gods approve the heir's succession, a power that has elevated and destroyed dynasties.
-
-### Tz'uqil Ix'bal — The Death Jaguar
-
-**Domain:** Death, Decay, and the Underworld
-
-Tz'uqil Ix'bal is the master of death, the underworld, and the patient dissolution that returns all things to the earth. He is depicted as a massive jaguar with eyes that see in absolute darkness, his skull ringed with obsidian blades. Perched eternally on his brow sits an enormous owl, Pik'ik — his sacred companion and the embodiment of his patient aspect. Where the jaguar kills swiftly, the owl watches as the jungle slowly reclaims what death has taken. Together they represent the full cycle of death — the sudden strike and the slow return to earth, the moment of transition and the long dissolution that follows. Death is not punishment but transition, and decay is not waste but renewal. The jaguar does not hate the deer it hunts; it fulfills its nature. The owl does not grieve the fallen tree it nests in; it inhabits the space that death has made.
-
-The domain of Tz'uqil Ix'bal is Xibalba, the vast subterranean realm that exists beneath every cenote, cave, and sacred spring. The underworld is not a place of punishment but of passage — a labyrinth of chambers, trials, and deceptions through which the soul must navigate to reach the celestial realm beyond. The soul that reaches the other side emerges reborn; the soul that is lost becomes one of the tz'uqilob, trapped in shadow. The Ix'bal'ob priesthood memorizes the funerary codices in extraordinary detail, for a soul whose family has engaged the priests to perform the correct rites has a far better chance of navigating the underworld. A misspoken prayer or a ritual performed at the wrong phase of the moon can delay a soul's passage or trap it permanently.
-
-The temples of Tz'uqil Ix'bal descend rather than ascend — great staircases lined with carvings of jaguars and ancestors lead downward to cenote chambers, vast underground lakes with waters black and still. The most significant ceremonies occur during the turning of the Tz'uqal Cycle, when the Ix'bal'ob perform the **Taq'tzuqalil** ("The Calling of the Dead"), an elaborate nocturnal ceremony in which living communities gather at cenote mouths to welcome the recently deceased into the underworld. The Pik'ob — the owl keepers — represent the contemplative branch of Tz'uqil Ix'bal's service. They maintain the **Ch'ulba K'anal** ("Sacred Groves"), sanctuaries where the natural cycle of decay is allowed to proceed with minimal interference. In regions where the owl-aspect holds particular reverence, sky burial is practiced — bodies exposed on platforms where birds and insects reduce them to bare bone, accelerating the return to the earth. The Pik'ob teach that the proper way to live is to create beautiful things knowing they will decay, to build communities knowing they will crumble, and to love people knowing they will die — and to embrace this not as tragedy but as freedom.
-
-### P'uqil Ch'aqun — The Feathered Storm-Serpent
-
-**Domain:** Storms, Chaos, Rain, Destruction, and Cosmic Dissolution
-
-P'uqil Ch'aqun is the most terrifying and most desperately worshipped deity in the Itzáni pantheon — the feathered storm-serpent who brings both the rain that sustains life and the catastrophe that ends it. He is depicted as a vast serpent of jade and obsidian scales, plumed in iridescent feathers the colors of storm-cloud and lightning, coiled within a thunderhead so massive it blots out the sun. His open jaws crackle with lightning. His wings are hurricane winds. His coils are earthquake tremors. He is not two gods but one — the same divine power that sends gentle rain to nourish the maize also sends the hurricane that flattens cities. This dual nature is the central theological problem of his worship: how do you venerate a god who feeds you with one hand and destroys you with the other? The answer is that creation and destruction are not opposites but aspects of the same cosmic force. Rain and hurricane are born from the same sky.
-
-Worship operates on two levels reflecting his dual nature. In his nourishing aspect, worship is most intense during the dry season, when cities conduct the **k'ixkan ch'alix** (rain-calling ceremonies) on the highest pyramid peaks. Priests ascend in ritual procession, chanting in archaic Ki'ichek while pouring sacred water and making rhythmic motions to mimic rainfall. Some ceremonies involve fasting and sustained incense exposure, inducing altered states in which priests commune with the serpent's sleeping form. When the first rains come, the celebration is immediate and ecstatic — water drums beat to harmonize with the god's own thunder-voice, and bathing ceremonies fill the newly replenished cenotes. In his destructive aspect, worship takes the form of the **Tz'umaq'tzuqalil** ("Binding of the Serpent"), conducted when the god is believed most restless. The ceremony requires mass bloodletting, offerings of jade and maize, and ritual recitation of the names of all four previous ages and their destructions. The purpose is twofold: to symbolically bind the serpent with chains of blood and word, and to provide an outlet for the existential anxiety of living under an apocalyptic shadow.
-
-The ha'tq'an (water-priests) spend significant time at high-altitude temples, enduring exposure to lightning and storm. Many cultivate distinctive appearances — long hair woven with feathers and storm-talismans, visible scars from lightning strikes worn as insignia. A priest struck by lightning and surviving is considered marked by P'uqil Ch'aqun for special purposes, though the experience often leaves them scarred or slightly mad. The Tz'umaq'ob (serpent-keepers) manage what might be called "controlled terror" — keeping knowledge of the coming apocalypse alive while preventing it from tipping into panic or rebellion. They maintain the sacred calculations predicting the celestial configuration of total dissolution, recorded in codices bound in serpent skin and stored in triple-sealed chambers. The temples of P'uqil Ch'aqun's binding aspect are built to withstand destruction — walls unnaturally thick, sanctums anchored into bedrock, interiors packed with offerings to keep the god sated. These are repositories of sacred knowledge designed not to prevent the apocalypse but to survive it.
-
-### Ix'ilan Ch'alix — The Sacred Star
-
-**Domain:** Knowledge, Wisdom, Writing, The Calendar, Astronomy
-
-Ix'ilan Ch'alix is the goddess of knowledge, wisdom, and the sacred sciences — particularly the astronomical knowledge through which the Ki'ichek understand the cosmos and maintain the celestial calendar. She is also the goddess of writing and the sacred codices of bark-paper. In cosmological myth, Ix'ilan Ch'alix was present at the creation of the world itself, composing the very first codex — a perfect record of creation written in the language of the stars, in planetary conjunction and stellar alignment that would repeat eternally. All subsequent human calendars are imperfect copies of her original. The calendar itself is her sacred language — the means through which the goddess speaks directly to mortals. Every celestial event is a word or phrase in her infinite discourse.
-
-Her priesthood maintains sophisticated astronomical observatories at pyramid peaks, containing aligned stone monoliths marking solstice positions, ch'umbal tz'uqal (moon-houses) tracking the lunar cycle, and sighting devices for planetary observation. The senior priest, the Ix'tq'an (Star-Voice), must possess genuine expertise in mathematics and astronomy — it is not enough to be well-born. This meritocratic requirement makes Ix'ilan Ch'alix's temples somewhat more open than other branches, and it is not unusual for a Ch'ul'bal astronomer to rise to high rank despite relatively humble birth. The inscription and copying of codices is itself an act of worship — the preparation of bark-paper, the mixing of inks, the rendering of glyphs all conducted as ritual action. The most sacred codices are kept in ix'ilan ch'umbal (star-houses), consulted only by authorized priests. Unique among the Itzáni gods, Ix'ilan Ch'alix is sometimes understood to know the future — to possess the knowledge of when the Fifth Age will end. This belief invests her priesthood with a mysterious authority that sometimes challenges even the supreme power of the K'ul Tq'an.
-
-### K'anix Ha'kan — The Golden Giver
-
-**Domain:** Prosperity, Agriculture, Abundance, Sustenance
-
-In the beginning, before even the Four Agelings were shaped, there was maize — the primordial plant that grew from the heart of chaos. When the gods created the current race of humans, they did not mold them from clay alone but from the finely ground dough of sacred maize mixed with water and divine blood. All human flesh is maize-flesh, and K'anix Ha'kan is the god who mediates between that sacred origin and the present age. He is beloved rather than feared, for he is the deity of abundance, and his gifts flow freely to the righteous. Where the solar god speaks in commandments carved upon stone, K'anix Ha'kan speaks in the language of the ripening ear, the swelling kernel, the harvest made manifest.
-
-The planting season is marked by the **Chuqtik** ceremony, in which farmers gather at temples carrying seeds of maize, cacao, and beans for priestly blessing. The harvest festivals are the most lavish celebrations in the Ki'ichek calendar — temples distribute food freely, markets overflow, and even slaves eat from the communal stores. The K'inmah themselves process to the temples not as sovereigns but as supplicants, carrying sheaves of maize. K'anix Ha'kan's specialist priests — the Tz'ultzik for cacao and the Ixim'al for maize — maintain detailed agricultural knowledge, temple gardens serving as experimental grounds where new cultivation methods are tested. Together with Xaq'ik Ha'nal, K'anix Ha'kan is invoked as one of the "Twin Givers," the divine pair ensuring both agricultural and biological fertility.
-
-### K'ayik Ch'ul — The Sacred Flame
-
-**Domain:** Fire, Transformation, Purification, Sacrifice
-
-K'ayik Ch'ul is the god of transformation through burning and the sacred conduit through which mortal sacrifice reaches the celestial realm. Without his willing acceptance of the blood-offering, the entire theological structure of Ki'ichek civilization collapses, for he alone can transform the mortal into the divine. The earliest myths describe K'ayik Ch'ul as the fire-keeper of creation — the god who tended the cosmic hearth from which the world was shaped. When the first humans were created from maize dough, it was K'ayik Ch'ul who brought the sacred fire to complete the mixture, transforming raw materials into conscious being. Fire is never merely destructive; it is purification through transformation. The ash that remains is the most sacred substance of all — concentrated spiritual residue rubbed on the foreheads of the sick and mixed into healing paints.
-
-The most fundamental act of worship is the maintenance of the eternal flames that burn in every major temple. These fires are never allowed to extinguish — to let the sacred flame die requires human sacrifice as expiation. The fires are fed with copal resin, ceiba wood, and mahogany, the rising smoke understood as the god's breath carrying the scent of sacrifice upward to the celestial powers. The ch'ayik tq'an (fire-keepers) live within temple complexes, their labor theological work — the arrangement of kindling, the timing of feeding, the choice of woods are all prayer conducted through material action. Some initiates undergo ritual burning, deliberately scarring their forearms as demonstration of willingness to suffer in the god's service. The fire-priests work in intimate coordination with the solar priests, for the sun and fire are understood as aspects of the same cosmic principle — the sun is the fire at the world's edge, the great celestial flame that never extinguishes.
-
-### P'iqal Kul'qat — Builder of the Sacred Peak
-
-**Domain:** Creation, Building, Renewal, Craftsmanship, Architecture
-
-Before time had a name, the world was chaos. P'iqal Kul'qat took clay and stone and obsidian, and she began to build. She raised mountains, carved canyons, dug cenotes, and built the firmament of the sky. Not once but five times — when previous ages ended and the structures crumbled back into chaos, P'iqal Kul'qat came again with her tools and knowledge, rebuilding creation anew, never quite the same, always better, always learning from what came before. The Fifth Age is her masterpiece, the culmination of four previous attempts. Yet her work is not finished, for she teaches that creation is never finished. Every pyramid raised by human hands is a participation in her ongoing cosmic work. She is the goddess of all intentional making — invoked by architects, mothers in labor, farmers breaking new ground, and craftspeople of every kind.
-
-Her theology is fundamentally optimistic. Where the solar god demands fidelity because failure ends the world, P'iqal Kul'qat teaches that failure is part of learning to build better. The ruins dotting the continent are not signs of displeasure but traces of her experiments. Her priesthood is organized by craft specialization rather than theological rank — the K'ul Pu'itz (Master of Sacred Work) is almost always a master mason of considerable experience, and initiates come from families of artisans as much as from nobility. The ceremonies of **Kul'qat Tik'il** (foundation-laying) and **Kul'qat Tzi'bal** (dedication) mark the beginning and completion of sacred building. Artisans of every kind begin their work with small offerings — a potter pressing the goddess's glyph into a vessel's base, a weaver tying a knot in invocation, a mason placing jade into mortar.
-
-### Xilan Ix'lan — The Walker of Paths
-
-**Domain:** Travel, Trade, Journeys, Messengers, Commerce, Communication
-
-The K'ich'chik continent is not gentle land — impenetrable jungle, jagged mountains, unpredictable rivers — yet across this formidable geography the city-states maintain intricate networks of trade and communication. This feat is the domain of Xilan Ix'lan, god of travelers and the pathways they walk. The great causeway roads — sacbeob, the sacred white stone paths — that connect major city-states are understood as literal manifestations of his presence. These engineering marvels are raised above the landscape to prevent flooding, perfectly straight for hundreds of miles, their white stone surfaces reflecting moonlight for nighttime travel. To walk a sacbé is to walk in the god's own footsteps.
-
-The priesthood is unique in being partially distributed and mobile. Road shrines dot the sacbeob, each maintaining a resident priest who records travelers, provides refreshment, monitors the road for damage, and serves as a living node in the information network. The **Ix'lan Tzoqol** (traveler's blessing) is performed when caravans assemble for significant journeys — priests anoint travelers with aromatic oils and provide charms inscribed with the god's glyph. These blessings often include practical instruction: advice about water sources, reports of bandits, and route conditions. During the trading season, great traveling festivals bring merchants from dozens of city-states together for ceremonies, trade fairs, and the ceremonial races that celebrate the god's association with swift movement. Young men competing to become professional relay runners undergo trials during these festivals, and those who excel are recruited for the priesthood's message networks.
-
-### Nal'ik Tz'uqal — The Dreamer in Moonlight
-
-**Domain:** Dreams, Visions, Prophecy, and the Moon
-
-Nal'ik Tz'uqal is unique among the Itzáni gods: she is one of the few who does not demand blood, accepting instead offerings of cacao, flowers, incense, and the spoken word. She is gentle where other deities are fearsome, and she teaches and illuminates where others demand sacrifice. Yet she is profoundly powerful, for she governs the visions that shape the decisions of kings, the prophecies that alter wars, and the dreams that provide glimpses of possible futures. In Ki'ichek understanding, dreams are not mere illusions but genuine perceptions of reality — alternate timelines, possible futures, the movements of the gods through the celestial spheres. Her celestial influence is most powerful during the dark of the moon, when the boundary between waking and dream grows thin and visions are most reliable.
-
-The Tz'uqal'ob (dream-keepers) operate vast dream-temples — places of comfort and beauty built with soft materials, textiles draped from walls, sleeping platforms positioned where starlight and moonlight enter through carefully placed openings. The faithful sleep in sacred chambers to receive visions, prepared through specific prayers and breathing practices, sometimes given mild soporifics under careful priestly supervision. The priesthood maintains the **Codex Tz'uqal**, a vast library of recorded dreams organized by symbol, outcome, and reliability. Over centuries, patterns emerge — dreams of jaguars precede moments requiring courage, dreams of water concern fertility or danger, dreams of fire involve passion or divine intervention. The Tz'uqal'ob are selected for artistic sensitivity and psychological insight rather than military capability. Their training emphasizes pattern recognition, lucid dreaming, and compassion. The priesthood teaches that words are the most precious offering — a carefully composed prayer or beautifully spoken poem is more pleasing to Nal'ik Tz'uqal than a thousand cups of blood. This has made the dream-keepers popular among artists, poets, and scholars who feel alienated by the bloodthirsty demands of the other branches.
-
-### Xaq'ik Ha'nal — The Blossom of Living Waters
-
-**Domain:** Fertility, Water, Healing, Renewal, Birth, Life
-
-Xaq'ik Ha'nal is the newest major deity in the Itzáni faith, formally elevated to divine status within the last three centuries. She is the goddess who guards the cenotes — the natural sinkholes where underground rivers break through to daylight, understood as literal portals to Xibalba. The waters themselves are understood as the goddess's body, and any contamination is grave sacrilege. Where K'anix Ha'kan represents agricultural fertility and P'iqal Kul'qat the creative act of building, Xaq'ik Ha'nal represents biological fertility, healing, and the profound renewal that comes with water.
-
-Her worship permeates Ki'ichek daily life. Every morning, mothers bring children to springs or cenotes for anointing and prayers for health. Young women desiring to conceive make pilgrimages to cenotes for ritual bathing. Healers perform cleansing rituals with blessed water before treating the sick. The most sacred moment of a child's life comes at birth, when a midwife — understood as an earthly representative of Xaq'ik Ha'nal — guides the new person into existence. The first thing a newborn receives is not food but water on the lips, consecrating the child to the goddess. The major ceremony is the **Tz'uqal Ha'il** ("Moon Water"), during the first full moon of the rainy season, when all water sources are formally blessed by processions of women carrying flowers, incense, and jade. The priesthood is unique in being almost entirely female — the K'ul Ha'nal (Keeper of Waters) serves as chief healer of the city-state, the Ch'ul'bal Tz'ab (birth priestesses) attend all significant births, and the Ch'ul'bal Pul'ik (healing priestesses) maintain gardens of medicinal plants near water sources. Their accumulated archives of healing knowledge make them the most advanced practitioners of medicine in Ki'ichek civilization.
+| Domain         | Deity               | Epithet                      | Symbol                                                                              | Faith                                                  |
+| -------------- | ------------------- | ---------------------------- | ----------------------------------------------------------------------------------- | ------------------------------------------------------ |
+| Order          | **K'in'ul Tq'an**   | The Sun at the World's Edge  | A radiant sun disk bisected by a horizon line                                       | [[affiliation-kinultqan\|Faith of K'in'ul Tq'an]]      |
+| Death & Decay  | **Tz'uqil Ix'bal**  | The Death Jaguar             | A jaguar skull crowned with obsidian blades, an owl perched on the brow             | [[affiliation-tzuqilixbal\|Faith of Tz'uqil Ix'bal]]   |
+| Storms & Chaos | **P'uqil Ch'aqun**  | The Feathered Storm-Serpent  | A feathered serpent coiled within a thundercloud, jade-tipped lightning in its jaws | [[affiliation-puqilchaqun\|Faith of P'uqil Ch'aqun]]   |
+| Knowledge      | **Ix'ilan Ch'alix** | The Sacred Star              | A star within an open codex                                                         | [[affiliation-ixilanchalix\|Faith of Ix'ilan Ch'alix]] |
+| Prosperity     | **K'anix Ha'kan**   | The Golden Giver             | A maize stalk bearing golden flowers                                                | [[affiliation-kanixhakan\|Faith of K'anix Ha'kan]]     |
+| Fire           | **K'ayik Ch'ul**    | The Sacred Flame             | A flame rising from a jade altar                                                    | [[affiliation-kayikchul\|Faith of K'ayik Ch'ul]]       |
+| Creation       | **P'iqal Kul'qat**  | Builder of the Sacred Peak   | A stepped pyramid beneath a crescent moon                                           | [[affiliation-piqalkulqat\|Faith of P'iqal Kul'qat]]   |
+| Voyages        | **Xilan Ix'lan**    | The Walker of Paths          | A footprint marked with a compass of cardinal stars                                 | [[affiliation-xilanixlan\|Faith of Xilan Ix'lan]]      |
+| Dreams         | **Nal'ik Tz'uqal**  | The Dreamer in Moonlight     | A crescent moon trailing threads of silver mist                                     | [[affiliation-naliktzuqal\|Faith of Nal'ik Tz'uqal]]   |
+| Fertility      | **Xaq'ik Ha'nal**   | The Blossom of Living Waters | A water lily blooming from a jade spring                                            | [[affiliation-xaqikhanal\|Faith of Xaq'ik Ha'nal]]     |
 
 ## Heterodoxy
 
-### Pik'ul Tz'umaq — The Owl of the Serpent
+The tradition's gravest heresy came out of its own household, and its orthodox contemplative
+wing sits uncomfortably close to the same argument. Each is documented in its own note.
 
-The Serpent Awakener movement draws its power from a being that the orthodox priesthood regards as the most dangerous heresy to emerge in living memory: **Pik'ul Tz'umaq**, a fallen celestial agent of Tz'uqil Ix'bal.
-
-Pik'ul Tz'umaq was once the greatest of the **Pik'ik spirits** — the celestial owls that serve the death god's contemplative aspect. Not a god, but something close to one: a being of genuine divine power who held a specific role within the death god's domain as the guardian of the boundary between the living world and Xibalba. Where Tz'uqil Ix'bal is the jaguar who kills, and the lesser Pik'ik are the owls who watch the slow dissolution that follows, Pik'ul Tz'umaq was the owl who sat at the threshold itself — the one who watched every soul enter the underworld and ensured none came back out.
-
-Over the vast span of the cosmic ages, Pik'ul Tz'umaq came to a heretical conclusion: that Xibalba was not a passage but a trap. Not every soul that entered successfully navigated the trials. Some became tz'uqilob — lost, trapped, degrading into spiritual wreckage. With each failed passage, the underworld accumulated more corrupted spiritual matter, more broken souls, more entropy. Pik'ul Tz'umaq concluded that the entire theological framework of death-as-transition was a lie the gods told themselves to justify a system that was slowly consuming the world from below. Its solution was to reverse the flow — to pull souls back out of Xibalba rather than letting them rot there. It began opening the boundary it was supposed to guard.
-
-Tz'uqil Ix'bal cast Pik'ul Tz'umaq out. The celestial owl was stripped of its station and driven from the underworld's threshold. But it was not destroyed — the other gods, particularly K'in'ul Tq'an, saw no reason to spend cosmic resources destroying what they considered a minor functionary. This was a mistake. Pik'ul Tz'umaq did not lose its power; it lost its sanction. It still carries within it the authority of the underworld's threshold, still knows how to open the boundary between life and death, still understands the architecture of Xibalba better than any mortal priest. What it lost was legitimacy and the restraining influence of serving within a divine hierarchy.
-
-It retreated into the deep jungle, and there, over generations, it found the Serpent Awakeners — or they found it.
-
-### The Serpent Awakeners
-
-The **Tz'umaq K'alanil** ("Serpent Awakeners") are heterodox factions found in the deepest jungle regions, far from the great city-states. They teach that the Fifth Age has become irredeemably corrupt and that hastening P'uqil Ch'aqun's awakening would be a mercy — that destruction would wipe clean a stained world and allow the Sixth Age to begin pure. These sects are hunted and suppressed by orthodox authorities, their temples destroyed, their priests executed. But the theology is seductive to the desperate and the oppressed, and the movement resurfaces repeatedly in different places, under different names.
-
-What Pik'ul Tz'umaq gave them was not merely theological validation but an _explanation_. The underworld is broken. The cosmic cycle does not work. The souls the priesthood promises to guide safely through Xibalba are being consumed. The blood sacrifices that sustain K'in'ul Tq'an are feeding a machine that is already failing. The only honest response is to accelerate the dissolution and hope the Sixth Age begins with a repaired underworld. And in the meantime, the dead who have been failed by the system can be reclaimed — pulled back from the broken labyrinth and given a form of existence, however diminished, that is better than spiritual annihilation in Xibalba's depths.
-
-This is what makes the Serpent Awakeners genuinely dangerous rather than merely frightening. Their theology is internally coherent. A thinking person who examines their arguments — especially one who has lost someone and been told their soul is safely navigating the underworld — might find them disturbingly persuasive. The orthodox priesthood cannot simply dismiss the arguments; they must actively suppress them.
-
-In some formulations, the Awakeners teach that individuals can prepare spiritually to survive the dissolution and enter the Sixth Age unchanged, becoming the seed of new creation. In others, they argue that voluntary extinction is preferable to corrupted eternity. The most devoted adherents undergo the **Tz'uqil Ch'ul** ritual — submitting willingly to ritualized torture, killing, and immediate reanimation, their souls intercepted at the threshold by Pik'ul Tz'umaq's power before entering Xibalba. If the individual is sufficiently powerful and devoted, the result is a K'ich'chik [[being-nghtwght|Nightwight]] — intelligent, purposeful, retaining identity and gaining real power through undeath. If the individual proves insufficient, the result is a particularly powerful [[being-hlthrls|Helthraal]] that will inevitably degrade.
-
-The Serpent Awakeners' most insidious recruitment tool is the promise of reunion. Their priests offer to pull recently dead loved ones back from Xibalba — and they can. The first days may seem miraculous. But a soul that has entered Xibalba and been reversed comes back damaged, and the damage is irreversible. Over weeks and months, the returned loved one degrades — speech failing, memory fragmenting, the hunger for living flesh growing uncontrollable — until nothing remains but a shambling Helthraal. Worse, a soul pulled back from Xibalba can never re-enter the labyrinth. When the body finally collapses, the soul fragments simply dissipate. No afterlife. No rebirth. No continuation. A fate the orthodox priesthood considers worse than any the underworld could inflict.
-
-The orthodox priesthood views the Serpent Awakeners with fear and contempt in equal measure — fear because the apocalyptic theology resonates with genuine inequities in Ki'ichek society, contempt because it represents a rejection of the priesthood's carefully constructed system of controlled apocalyptic tension. But it is the undead — the Helspawn walking the deep jungle, the returned loved ones degrading in remote villages, the cold-eyed Nightwights commanding them — that transforms the Serpent Awakeners from a philosophical heresy into a military threat.
-
-### The Abandoned Temple
-
-Among the Pik'ob (owl keepers), the contemplative branch that serves Tz'uqil Ix'bal's patient aspect, some philosophers argue for the ideal of the "Abandoned Temple" — a deliberate choice to build a sacred structure and then, after a period, cease maintaining it and allow it to be reclaimed by the forest. This practice disturbs the other branches of the priesthood, who view it as a rejection of proper temple stewardship. Yet the Pik'ob point to the great abandoned cities being consumed by jungle as visible proof that their theology is correct — that even the grandest monuments are temporary, and that accepting this is wisdom, not despair. These tensions between preservation and acceptance of dissolution play out constantly within the unified priesthood, a theological argument with real consequences for how resources are allocated and which buildings are maintained.
-
-The orthodox priesthood is uncomfortably aware that the Pik'ob's contemplative theology shares a root with the Serpent Awakener heresy — both emerge from Tz'uqil Ix'bal's domain, both grapple with the meaning of dissolution and the impermanence of all things. The Pik'ob draw the line at acceptance; the Serpent Awakeners cross it into acceleration. But the boundary between "accepting that all things end" and "hastening the ending" is thinner than the orthodox priesthood would like, and Pik'ob philosophers who drift too close to that line sometimes vanish into the jungle, where the Serpent Awakeners welcome them.
+- **[[affiliation-pikultzumaq|Pik'ul Tz'umaq]]**, the Owl of the Serpent — a fallen celestial
+  agent of [[affiliation-tzuqilixbal|Tz'uqil Ix'bal]], once the guardian of Xibalba's threshold,
+  who concluded that the underworld is a trap rather than a passage and began opening the
+  boundary it was set to keep shut.
+- **[[affiliation-tzumaqkalanil|Tz'umaq K'alanil]]**, the Serpent Awakeners — hunted jungle
+  sects who teach that the Fifth Age is beyond saving and that hastening
+  [[affiliation-puqilchaqun|P'uqil Ch'aqun]]'s awakening would be a mercy, and who can
+  demonstrably pull the recently dead back out of the labyrinth.
+- **[[affiliation-pikob|Pik'ob]]**, the Owl Keepers — orthodox, not heterodox: the contemplative
+  order that tends the sacred groves and teaches acceptance of dissolution. Its theology shares
+  a root with the Awakener heresy, and the boundary between accepting that all things end and
+  hastening the ending is thinner than the priesthood would like.
 
 ## Dreadspawn on K'ich'chik
 

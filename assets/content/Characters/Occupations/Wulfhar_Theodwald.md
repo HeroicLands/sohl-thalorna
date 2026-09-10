@@ -7,12 +7,12 @@ name:
   title: ""
   given: Wulfhár
   clan: Theódwald
-  home: Thornhaven
+  home: thornhaven
   aliases:
     - Magnus Wolfheart
 packFolder: ankarisvrystwald
 shortcode: wlfhrthdwld
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
   portrait: images/being/wlfhrthdwld-portrait.webp

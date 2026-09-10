@@ -7,14 +7,14 @@ name:
   title: ""
   given: Rǫgnvaldr
   clan: Ásgrind
-  home: Valgard
+  home: valgard
   aliases: []
 packFolder: ankarisnordlands
 shortcode: rgnvldrsgrnd
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/rgnvldrsgrnd-portrait.webp
+  portrait: images/beings/characters/rgnvldrsgrnd-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Jester

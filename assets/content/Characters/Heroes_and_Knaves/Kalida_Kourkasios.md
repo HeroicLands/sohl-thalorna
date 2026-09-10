@@ -7,14 +7,14 @@ name:
   title: ""
   given: Kalída
   clan: Kourkásios
-  home: Chrysamar
+  home: chrysamar
   aliases: []
 packFolder: helladbyzaria
 shortcode: kalidkrkss
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/kalidkrkss-portrait.webp
+  portrait: images/beings/characters/kalidkrkss-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Potter

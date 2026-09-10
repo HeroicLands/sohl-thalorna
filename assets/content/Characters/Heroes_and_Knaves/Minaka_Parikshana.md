@@ -7,14 +7,14 @@ name:
   title: ""
   given: Minàka
   clan: Parikṣhana
-  home: Vyālendra
+  home: vyalendra3
   aliases: []
 packFolder: ankarisvedyara
 shortcode: minakprkhn
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/minakprkhn-portrait.webp
+  portrait: images/beings/characters/minakprkhn-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Cook

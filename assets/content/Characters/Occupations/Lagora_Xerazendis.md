@@ -7,12 +7,12 @@ name:
   title: ""
   given: Làgôra
   clan: Xêrâzêndis
-  home: Corvinus
+  home: corvinus
   aliases:
     - Tilda the Trickster
 packFolder: midhalionvylaria
 shortcode: lagrxrznds
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
   portrait: images/being/lagrxrznds-portrait.webp

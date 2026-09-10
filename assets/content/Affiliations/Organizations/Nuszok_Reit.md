@@ -20,80 +20,36 @@ data:
   epithet: null
   symbol: null
   governance:
-    model: theocracy
+    model: confederation
     summary: >-
-      Ordained priesthood under a hierarch, with the lay faithful bound by observance rather
-      than by office.
+      Decentralised to the point that it may have no centre at all: "no central leadership council exists — or if one exists, no member taken into imperial custody has ever revealed its composition, which after decades of interrogation begins to support the hypothesis that none exists." Regional cells plan and execute their own operations and rarely know each other's membership; coordination passes through intermediaries who bear messages and know no operational detail. This makes the cult almost impossible to decapitate and incoherent as a political actor at the same time — which its own doctrine holds to be a feature, coordination being the behaviour of organisations that expect to continue existing.
     ranks:
       - level: 0
-        title: Excommunicate
-        lore: excmmnctrnk
+        title: Lapsed
+        lore: expelledrnk
         description: >-
-          Cut off from the rites, the temples and the burial the tradition promises — the one
-          sentence it can pass that outlives the body.
+          Broken with a cell. Those who join do not usually leave, and one who does is exposed on both sides at once: the irreversible act that admitted them has already destroyed any standing in the mainstream order.
       - level: 1
-        title: Catechumen
-        lore: catechumenrnk
-        description: Under instruction and not yet received; permitted to hear and not to partake.
+        title: Approached
+        lore: dependentrnk
+        description: >-
+          Under recruitment and not yet committed. The cult draws from the empire's cast-aside — collapsed Shükrën households, Nützōk whose classification has drifted past recovery, ruined Zhëklüng younger sons, and above all the condemned, whose ledgers admit no ritual redemption and for whom no ancestor will advocate.
       - level: 2
-        title: Lay Faithful
-        lore: layfaithfulrnk
+        title: Committed
+        lore: professedrnk
         description: >-
-          Of the tradition by profession and observance, keeping its feasts and its prohibitions
-          without office in it.
-      - level: 3
-        title: Devotee
-        lore: layfaithfulrnk
-        description: >-
-          Bound by a private vow — a fast, a pilgrimage, a service — beyond what the lay faithful
-          owe.
-      - level: 4
-        title: Acolyte
-        lore: initiaternk
-        description: >-
-          Serving in the temple and learning its rites, on the path to ordination and not yet
-          holding it.
-      - level: 5
-        title: Ordained
-        lore: priestrnk
-        description: >-
-          Priest or priestess of the tradition, empowered to perform the rites and to bind and
-          loose in its name.
-      - level: 6
-        title: Temple Officer
-        lore: highpriestrnk
-        description: Holding a charge within a temple — its treasury, its schools, its estates,
-          its oracles.
-      - level: 7
-        title: High Priest
-        lore: highpriestrnk
-        description: Head of a temple or a cult, speaking with the voice of the god in matters
-          of its doctrine.
-      - level: 8
-        title: Hierophant
-        lore: grandmasterrnk
-        description: >-
-          Head of the whole tradition, whose ruling on doctrine is final and whose sanction
-          every high priest holds at.
+          Has performed the act of irreversible commitment on which recruitment deliberately culminates — a public blasphemy, a petty sabotage of a local temple, a first small act of violence — after which standing in the mainstream order cannot be recovered. There is no rank above this that anyone has ever confirmed.
     offices:
-      Hierophant: >-
-        Head of the tradition, final authority on its doctrine and source of every high priest's
-        sanction.
-      High Priest: Head of a temple or cult, master of its estates and voice of its god on
-        doctrine.
-      Oracle: Speaker of the god's answer, consulted before any undertaking the tradition
-        must bless.
-      Temple Steward: Administrator of a temple's lands, herds, workshops and revenue.
-      Sacristan: Keeper of the sanctuary, its vessels, its vestments and the purity of both.
-      Almoner: Distributor of the temple's charity, and the face the tradition shows the poor.
-      Lector: Reader of the sacred texts in the rites, and teacher of them to acolytes.
-      Exorcist: >-
-        Charged with what the tradition holds should not be present, and with the rites that
-        remove it.
-      Chief Augur: Reader of the signs by which the tradition fixes the hour of its acts.
-      Keeper of the Calendar: Holder of the feast-reckoning, and thereby of when the year's
-        obligations fall due.
-  commonSkills: []
+      Cell Operator: >-
+        A member of a regional cell, which conceives, plans and executes its own operations without reference to any other.
+      Intermediary: >-
+        Carries messages between cells. The function is purely message-bearing, and the holder knows no operational detail — which is what makes the network survive interrogation.
+      Recruiter: >-
+        Works the margins — the last taverns of disgraced merchant quarters, the southern work camps, the districts where the classification-failed congregate — and sees each recruitment through to its irreversible act.
+  commonSkills:
+    - melee
+    - dscr
+    - srvl
   seat: null
   domains: []
   population: null
@@ -151,9 +107,9 @@ The cult's devotional practice venerates the Demon Lords directly — with secre
 
 ## Helspawn
 
-The cult deploys [[doc-thlbestiary#helspawn|Helspawn]] as a signature weapon of disruption. The ritual techniques for their creation are understood within the cult's theology as the gift of the Demon Lords — principally [[affiliation-nushot|Nüshöt]], the Unmaker, whose annihilating nature aligns directly with the undead's broken state. A Helspawn outbreak in an imperial district does not merely kill; it _disrupts_, pulling imperial attention, resources, and administrative capacity away from other matters while the cult executes larger operations elsewhere. The bodies left behind generate their own moral-ledger complications — corpses whose classification status is disputed, souls whose disposition cannot be adjudicated, ancestor tablets that cannot be safely updated — which compounds the damage done.
+The cult deploys [[lore-helspawncrtr|Helspawn]] as a signature weapon of disruption. The ritual techniques for their creation are understood within the cult's theology as the gift of the Demon Lords — principally [[affiliation-nushot|Nüshöt]], the Unmaker, whose annihilating nature aligns directly with the undead's broken state. A Helspawn outbreak in an imperial district does not merely kill; it _disrupts_, pulling imperial attention, resources, and administrative capacity away from other matters while the cult executes larger operations elsewhere. The bodies left behind generate their own moral-ledger complications — corpses whose classification status is disputed, souls whose disposition cannot be adjudicated, ancestor tablets that cannot be safely updated — which compounds the damage done.
 
-The generic phenomenon and its cross-pantheon theology are documented in the [[doc-thlbestiary#helspawn|Helspawn]] article. What distinguishes the cult's practice is not the creatures themselves but the specific operational purpose: every Helspawn the cult creates is aimed at the imperial classification apparatus, the public morale that sustains it, and the administrative capacity that maintains it. The empire does not yet understand the scope of this capability. Imperial investigators who have begun to piece it together have a distressing tendency to die before their findings can be filed.
+The generic phenomenon and its cross-pantheon theology are documented in the [[lore-helspawncrtr|Helspawn]] article. What distinguishes the cult's practice is not the creatures themselves but the specific operational purpose: every Helspawn the cult creates is aimed at the imperial classification apparatus, the public morale that sustains it, and the administrative capacity that maintains it. The empire does not yet understand the scope of this capability. Imperial investigators who have begun to piece it together have a distressing tendency to die before their findings can be filed.
 
 ## Why Not the Varnaka Pantheon
 
@@ -201,7 +157,7 @@ This structure has consequences. It makes the cult extraordinarily resistant to 
 - [[affiliation-zhaksok|Zhāksōk]] — The Walking Contradiction, patron of the classification-condemned
 - [[affiliation-hurnzhuk|Hürnzhük]] — The First Refusal, the cult's foundational theological figure
 - [[affiliation-dokyok|Dōkyök]] — The Lost Road, lesser patron of misdirection and escape
-- [[doc-thlbestiary#helspawn|Helspawn]] — The cult's signature weapon of disruption, created through the Demon Lords' gift
+- [[lore-helspawncrtr|Helspawn]] — The cult's signature weapon of disruption, created through the Demon Lords' gift
 - [[lore-veizhatret|Vëi Zhāt Rëit]] — The court intrigue that produces many of the cult's recruits
 - [[lore-castelaws|Caste Laws]] — The classification system the cult exists to destroy
 - [[affiliation-tanvurempr|Empire of Tānvür]] — The empire the cult intends to annihilate

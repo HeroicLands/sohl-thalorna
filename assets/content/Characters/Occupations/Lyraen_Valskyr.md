@@ -7,12 +7,12 @@ name:
   title: ""
   given: Lýraen
   clan: Válskyr
-  home: Valcèrise
+  home: valcerise
   aliases:
     - Beatrice Lindley
 packFolder: aureldiaprovenzia
 shortcode: lyrnvlskyr
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
   portrait: images/being/lyrnvlskyr-portrait.webp

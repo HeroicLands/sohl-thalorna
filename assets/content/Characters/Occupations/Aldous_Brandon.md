@@ -7,12 +7,12 @@ name:
   title: ""
   given: Aldous
   clan: Brandon
-  home: Thornbury
+  home: thornbury
   aliases:
     - Ansel Mead
 packFolder: aureldiaaelwyth
 shortcode: aldosbrndn
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
   portrait: images/being/aldosbrndn-portrait.webp

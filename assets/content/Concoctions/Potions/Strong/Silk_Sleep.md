@@ -6,7 +6,7 @@ name:
   aliases:
     - Potion, Soporific, Strong
 description: "Deep gray blue-tinged liquid; induces deep sleep and rest."
-img: icons/potion.svg
+img: systems/sohl/assets/icons/other/potion.svg
 shortcode: PtnSopS
 type: concoctiongear
 subType: exotic

@@ -5,11 +5,11 @@ name:
   full: Grukar-Sha
   aliases: []
 description: "A frail, cunning Grukar schemer who survives by never seeming a threat, winning through manipulation rather than any fair fight."
-img: icons/game-icons/delapouite/orc-head.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 shortcode: grkrsh
 type: being
 data:
-  portrait: images/being/grkrsh-portrait.webp
+  portrait: images/beings/creatures/grkrsh-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: null

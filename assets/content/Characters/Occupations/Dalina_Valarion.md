@@ -7,12 +7,12 @@ name:
   title: ""
   given: Dálina
   clan: Valárion
-  home: Castamere
+  home: castamere
   aliases:
     - Callista Galeheart
 packFolder: aureldiatarvenia
 shortcode: dalinavlrn
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
   portrait: images/being/dalinavlrn-portrait.webp

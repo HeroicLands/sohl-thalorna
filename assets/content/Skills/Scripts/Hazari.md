@@ -5,7 +5,7 @@ name:
   aliases:
     - Hazâri
 description: "The merchants' abjad of Harad — twenty-four consonants, vowels pointed only when money depends on it."
-img: icons/speaking.svg
+img: systems/sohl/assets/icons/other/speaking.svg
 shortcode: hazarscrpt
 type: skill
 subType: script

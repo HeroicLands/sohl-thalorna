@@ -7,12 +7,12 @@ name:
   title: ""
   given: Sigríthr
   clan: Hrafnsvald
-  home: Vindborg
+  home: vindborg
   aliases:
     - Isla Mooring
 packFolder: ankarisnordlands
 shortcode: sgrthrhrfnsvld
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
   portrait: images/being/sgrthrhrfnsvld-portrait.webp

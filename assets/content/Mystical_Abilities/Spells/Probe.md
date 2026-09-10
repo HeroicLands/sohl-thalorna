@@ -5,7 +5,7 @@ name:
   aliases:
     - Enquiry
 description: "Scrying magic searching distant location; reveals conditions and inhabitants."
-img: icons/divination.svg
+img: systems/sohl/assets/icons/noun/divination.svg
 shortcode: probe
 type: mysticalability
 subType: arcaneincantation

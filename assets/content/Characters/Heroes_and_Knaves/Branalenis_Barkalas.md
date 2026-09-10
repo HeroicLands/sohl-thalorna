@@ -7,14 +7,14 @@ name:
   title: ""
   given: Brânalenîs
   clan: Bárkalâs
-  home: Belekos
+  home: belekos
   aliases: []
 packFolder: midhalionvylaria
 shortcode: brnlnsbrkls
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/brnlnsbrkls-portrait.webp
+  portrait: images/beings/characters/brnlnsbrkls-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Common Seaman
@@ -597,6 +597,8 @@ Brânalenîs stands 5'10" tall with a medium build. She has light tanned skin, b
 Her black hair, typically worn in neat plaited pigtails, frames a face of striking symmetry—high cheekbones, a strong jaw, and green eyes that seem to perceive far more than they should. Those eyes are perpetually alert, reflexively scanning her surroundings with the paranoia-tinged awareness of one accustomed to sudden danger. At twenty-seven, she occupies an unusual position: too young to carry the gravitas of the truly experienced, yet far more competent than her youth would suggest, creating an ongoing tension in how she is perceived by others.
 
 # Dossier {#dossier}
+
+## Background
 
 ### Daughter of the Sea
 

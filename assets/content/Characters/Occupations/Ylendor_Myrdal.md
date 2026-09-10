@@ -8,12 +8,12 @@ name:
   title: ""
   given: Yléndor
   clan: Mýrdal
-  home: Lunacòrte
+  home: lunacorte
   aliases:
     - Alaric Wynter
 packFolder: aureldiaprovenzia
 shortcode: ylndrmyrdl
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
   portrait: images/being/ylndrmyrdl-portrait.webp

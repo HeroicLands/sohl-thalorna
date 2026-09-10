@@ -7,14 +7,14 @@ name:
   title: ""
   given: Thêsaloníke
   clan: Katharópoulos
-  home: Yeşilhan
+  home: yesilhan2
   aliases: []
 packFolder: helladbyzaria
 shortcode: thslnkkthrpls
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/thslnkkthrpls-portrait.webp
+  portrait: images/beings/characters/thslnkkthrpls-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Woodcutter

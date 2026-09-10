@@ -7,12 +7,12 @@ name:
   title: ""
   given: Méthra
   clan: Zálreth
-  home: Liranel
+  home: liranel
   aliases:
     - Mira Clayfoot
 packFolder: aureldiaelavendre
 shortcode: methrzlrth
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
   portrait: images/being/methrzlrth-portrait.webp

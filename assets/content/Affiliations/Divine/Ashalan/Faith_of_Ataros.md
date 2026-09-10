@@ -13,77 +13,67 @@ data:
   governance:
     model: theocracy
     summary: >-
-      Ordained priesthood under a hierarch, with the lay faithful bound by observance rather
-      than by office.
+      One priesthood serves all twelve gods, because every sacred site is a fire-temple: whichever
+      deity a temple is focused on, it keeps an altar to Ātáröš and priests trained in the kindling
+      and tending of the flame. The ladder is Āthravān, Hērbad, Mōbad, and it is the same in every
+      land — unity enforced not by hierarchy but by the flame itself, which answers to correct
+      technique and not to theological innovation.
     ranks:
       - level: 0
-        title: Excommunicate
+        title: Flame-Denied
         lore: excmmnctrnk
         description: >-
-          Cut off from the rites, the temples and the burial the tradition promises — the one
-          sentence it can pass that outlives the body.
+          Barred from the fire: no temple will admit them to an altar, and no Hērbad will kindle for
+          them. In a faith where every prayer begins with a flame, this ends religious life
+          entirely.
       - level: 1
-        title: Catechumen
-        lore: catechumenrnk
-        description: Under instruction and not yet received; permitted to hear and not to partake.
-      - level: 2
         title: Lay Faithful
         lore: layfaithfulrnk
         description: >-
-          Of the tradition by profession and observance, keeping its feasts and its prohibitions
-          without office in it.
-      - level: 3
-        title: Devotee
-        lore: layfaithfulrnk
-        description: >-
-          Bound by a private vow — a fast, a pilgrimage, a service — beyond what the lay faithful
-          owe.
-      - level: 4
-        title: Acolyte
+          Of the faith by observance — keeping the household fire-ritual at sunrise and sunset, which
+          is the foundational act of Āsháian practice and needs no priest.
+      - level: 2
+        title: Āthravān
         lore: initiaternk
         description: >-
-          Serving in the temple and learning its rites, on the path to ordination and not yet
-          holding it.
-      - level: 5
-        title: Ordained
+          "Fire-Keeper" — initiates whose duty is the flame itself: feeding it with practised
+          precision, keeping it from wind and rain, collecting and preserving the ashes. Ordination
+          requires maintaining a portion of the temple fire for a full year without its failing.
+      - level: 3
+        title: Hērbad
         lore: priestrnk
         description: >-
-          Priest or priestess of the tradition, empowered to perform the rites and to bind and
-          loose in its name.
-      - level: 6
-        title: Temple Officer
+          "Teacher-Priest" — the working priesthood: daily rituals, instruction, pastoral duty, and
+          the reading of flame-behaviour as omen. Trained in theology, astronomy, medicine and the
+          interpretation of signs; they serve in temples, travel with caravans and minister to the
+          tribes.
+      - level: 4
+        title: Mōbad
         lore: highpriestrnk
-        description: Holding a charge within a temple — its treasury, its schools, its estates,
-          its oracles.
-      - level: 7
-        title: High Priest
-        lore: highpriestrnk
-        description: Head of a temple or a cult, speaking with the voice of the god in matters
-          of its doctrine.
-      - level: 8
-        title: Hierophant
-        lore: grandmasterrnk
         description: >-
-          Head of the whole tradition, whose ruling on doctrine is final and whose sanction
-          every high priest holds at.
+          "Master of Fire" — senior priest of a major fire-temple or a regional authority,
+          personally responsible for its eternal flame and keeper of its fire-lineage records.
+          Adjudicates theological disputes; the Mōbad of the Great Fire-Temple of Amradad holds
+          influence rivalling the Sultan's vizier.
     offices:
-      Hierophant: >-
-        Head of the tradition, final authority on its doctrine and source of every high priest's
-        sanction.
-      High Priest: Head of a temple or cult, master of its estates and voice of its god on
-        doctrine.
-      Oracle: Speaker of the god's answer, consulted before any undertaking the tradition
-        must bless.
-      Temple Steward: Administrator of a temple's lands, herds, workshops and revenue.
-      Sacristan: Keeper of the sanctuary, its vessels, its vestments and the purity of both.
-      Almoner: Distributor of the temple's charity, and the face the tradition shows the poor.
-      Lector: Reader of the sacred texts in the rites, and teacher of them to acolytes.
-      Exorcist: >-
-        Charged with what the tradition holds should not be present, and with the rites that
-        remove it.
-      Chief Augur: Reader of the signs by which the tradition fixes the hour of its acts.
-      Keeper of the Calendar: Holder of the feast-reckoning, and thereby of when the year's
-        obligations fall due.
+      Mōbad: >-
+        Master of Fire — senior priest of a major fire-temple, personally answerable for the eternal
+        flame and keeper of the temple's fire-lineage records.
+      Hērbad: >-
+        Teacher-Priest — specialises in fire-ritual and teaches both the sacred procedures and the
+        practical knowledge a healthy flame requires.
+      Āthravān: >-
+        Fire-Keeper — initiate charged with feeding, sheltering and preserving the flame and its
+        ashes.
+      Flame-Reader: >-
+        A Hērbad skilled in reading a fire: colour for the quality of an offering, flicker for the
+        god's mood, and the ash-patterns on the altar stones as messages.
+      Keeper of the Fire-Lineage: >-
+        Holds the record of a flame's descent — which fire it was kindled from, and when — on which
+        a temple's standing rests.
+      Caravan Priest: >-
+        A Hērbad who travels with the caravans and ministers to tribal communities beyond any
+        temple's reach.
   commonSkills: []
   seat: null
   domains: []
@@ -106,6 +96,8 @@ shortcode: ataros
 alias: Ātáröš, The Sacred Flame
 packFolder: ashaian
 ---
+
+_Not to be confused with [[affiliation-kayikchul|K'ayik Ch'ul]], the Sacred Flame of the [[affiliation-itzanpnthn|Itzáni pantheon]] on K'ich'chik. The two gods share an epithet and a domain and are otherwise unrelated._
 
 Ātáröš is unique among the deities of the Āsháian pantheon—not merely a god among gods, but the visible, tangible presence through which all the other gods make themselves known to the world. Fire is transformation incarnate: it consumes the raw and makes it useful, destroys the corrupt and renders the world clean, illuminates darkness, provides warmth that sustains life in the killing deserts and steppes. Every sacred fire that burns in every temple from the marble palaces of [[affiliation-sultntmrdd|Amradad]] to the humblest nomadic camp is understood as a physical manifestation of Ātáröš himself, a god made present in tangible, knowable form. When the Āsháian faithful gather around the sacred fire to pray, they are not merely using fire as a symbol—they are communing directly with divinity. The smoke that rises from the altar carries prayers to the heavens. The flames that dance respond to the fervor of the faithful. The ashes that remain are the god's blessing, to be collected and preserved as relics of divine presence.
 

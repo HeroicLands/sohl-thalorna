@@ -7,12 +7,12 @@ name:
   title: ""
   given: Kadméros
   clan: Hârôrdîs
-  home: Velysâra
+  home: velysara
   aliases:
     - Eamon Oakshade
 packFolder: midhalionvylaria
 shortcode: kdmrshrrds
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
   portrait: images/being/kdmrshrrds-portrait.webp

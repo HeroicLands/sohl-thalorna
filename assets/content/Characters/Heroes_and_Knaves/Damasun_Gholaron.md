@@ -12,10 +12,10 @@ name:
 packFolder: helladhelionis
 shortcode: damsnghlrn
 banner: banners/tamzir-banner.webp
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/damsnghlrn-portrait.webp
+  portrait: images/beings/characters/damsnghlrn-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Priest
@@ -566,6 +566,8 @@ sohl:
 Dámàsûn Ghôlâron — known to most simply as Parma — is a tall, dark-skinned man of sixty years who carries his age with a quiet dignity that commands respect without demanding it. His black hair has gone largely gray, kept close-cropped against his skull, and his hazel eyes hold a depth of experience that is both comforting and faintly unsettling. He is lean but not frail, and he moves with a measured deliberateness that suggests far more physical capability than his humble cleric's garments would imply. He dresses in a simple light blue tunic, leather shoes, and carries a worn leather shoulder bag that appears to contain little more than books, herbs, and writing materials.
 
 # Dossier {#dossier}
+
+## Background
 
 ### Origin
 

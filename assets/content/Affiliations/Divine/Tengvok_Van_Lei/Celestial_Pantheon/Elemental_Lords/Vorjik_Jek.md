@@ -16,84 +16,104 @@ data:
   epithet: The Lord of Fire
   symbol: A vermillion flame rising from a gold ember-disc
   governance:
-    model: theocracy
+    model: meritocracy
     summary: >-
-      Ordained priesthood under a hierarch, with the lay faithful bound by observance rather
-      than by office.
+      Not a church but an administration. Temples are celestial post offices and their clergy are
+      clerks; standing follows competence with forms, seals, precedent and the correct bureau,
+      within the bounds the Tānthëi caste sets on who may be trained at all. A petition filed to
+      the wrong bureau is simply lost.
     ranks:
       - level: 0
-        title: Excommunicate
+        title: Struck from the Rolls
         lore: excmmnctrnk
         description: >-
-          Cut off from the rites, the temples and the burial the tradition promises — the one
-          sentence it can pass that outlives the body.
+          The ledger closed against them: no petition they file is accepted, no temple will stamp
+          for them, and no ancestor can advocate for a descendant who cannot be addressed. This is
+          not damnation. It is administrative non-existence, which the Tānvüri consider worse.
       - level: 1
-        title: Catechumen
-        lore: catechumenrnk
-        description: Under instruction and not yet received; permitted to hear and not to partake.
+        title: Petitioner
+        lore: layfaithfulrnk
+        description: >-
+          Every Tānvüri: keeps a moral ledger, is observed by the household's Zātkür, and files
+          through a temple for rain, healing, a ruling, or a relative's passage through the
+          Ministry of Final Account.
       - level: 2
-        title: Lay Faithful
-        lore: layfaithfulrnk
+        title: Copyist
+        lore: apprenticernk
         description: >-
-          Of the tradition by profession and observance, keeping its feasts and its prohibitions
-          without office in it.
+          Under training in a temple — copying forms, learning the seals and the calendrical
+          schedules — and not yet permitted to file anything on another's behalf.
       - level: 3
-        title: Devotee
-        lore: layfaithfulrnk
+        title: Clerk
+        lore: clerkrnk
         description: >-
-          Bound by a private vow — a fast, a pilgrimage, a service — beyond what the lay faithful
-          owe.
+          The ordinary temple officer, and the tradition's plain description of its own clergy:
+          not a pastor but a clerk who knows the correct forms, the correct seals and the correct
+          bureau. Charges fees, because preparing a petition correctly is expertise.
       - level: 4
-        title: Acolyte
-        lore: initiaternk
+        title: Seal-Holder
+        lore: officerrnk
         description: >-
-          Serving in the temple and learning its rites, on the path to ordination and not yet
-          holding it.
+          Holds a temple's seals and stamps. Nothing is transmitted without them, which makes this
+          the office at which a petition is in practice granted or refused.
       - level: 5
-        title: Ordained
-        lore: priestrnk
+        title: Registrar
+        lore: magistraternk
         description: >-
-          Priest or priestess of the tradition, empowered to perform the rites and to bind and
-          loose in its name.
+          Keeps the region's ledgers and rules on whether a petition is correctly addressed,
+          adequately supported by precedent, and free of conflict with standing allocations.
       - level: 6
-        title: Temple Officer
+        title: Intendant
         lore: highpriestrnk
-        description: Holding a charge within a temple — its treasury, its schools, its estates,
-          its oracles.
+        description: >-
+          Heads one bureau's temple in a province, answering for its filings, its revenues and its
+          record-keeping, and hiring the scholars who research precedent for difficult petitions.
       - level: 7
-        title: High Priest
-        lore: highpriestrnk
-        description: Head of a temple or a cult, speaking with the voice of the god in matters
-          of its doctrine.
-      - level: 8
-        title: Hierophant
+        title: Chief Intendant
         lore: grandmasterrnk
         description: >-
-          Head of the whole tradition, whose ruling on doctrine is final and whose sanction
-          every high priest holds at.
+          Senior mortal officer of a bureau's whole temple establishment, who signs what is
+          transmitted upward to its Tëng Güng and answers for it if the bureau rejects it.
     offices:
-      Hierophant: >-
-        Head of the tradition, final authority on its doctrine and source of every high priest's
-        sanction.
-      High Priest: Head of a temple or cult, master of its estates and voice of its god on
-        doctrine.
-      Oracle: Speaker of the god's answer, consulted before any undertaking the tradition
-        must bless.
-      Temple Steward: Administrator of a temple's lands, herds, workshops and revenue.
-      Sacristan: Keeper of the sanctuary, its vessels, its vestments and the purity of both.
-      Almoner: Distributor of the temple's charity, and the face the tradition shows the poor.
-      Lector: Reader of the sacred texts in the rites, and teacher of them to acolytes.
-      Exorcist: >-
-        Charged with what the tradition holds should not be present, and with the rites that
-        remove it.
-      Chief Augur: Reader of the signs by which the tradition fixes the hour of its acts.
-      Keeper of the Calendar: Holder of the feast-reckoning, and thereby of when the year's
-        obligations fall due.
-  commonSkills: []
+      Tëng Güng: >-
+        "Celestial Minister" — the overseer of this domain, whose power is the authority of the
+        office and not of their person, and who may be promoted, demoted, reassigned or dismissed.
+      Chief Intendant: >-
+        Senior mortal officer of this bureau's temples, who signs what is transmitted upward.
+      Intendant: >-
+        Heads one of its temples in a province and answers for its filings, revenues and records.
+      Registrar: >-
+        Keeps the region's ledgers and rules whether a petition is correctly addressed and
+        supported by precedent.
+      Seal-Holder: >-
+        Holds the stamps this bureau requires; an unsealed petition is not a petition.
+      Master of Forms: >-
+        Holds the opening formulae, addressing conventions and order of citation, and does not
+        teach them outside the temple.
+      Illuminator: >-
+        Paints the scenes, creatures and divine symbolism a weighty petition carries, on which its
+        reception measurably depends.
+      Clerk of Transmission: >-
+        Conducts the burning that files a sealed petition. A petition burned at the wrong censer
+        reaches the wrong bureau and is lost.
+      Receiver of Tribute: >-
+        Takes the sacrifice that pays a petition's carriage — coin, grain, cloth, livestock — and
+        enters its value to the petitioner's credit.
+      Advocate: >-
+        Prosecutes appeals before the Supreme Administrative Court, citing precedent against a
+        ruling. Most fail; the avenue exists.
+      Vōrjīk Jëk: >-
+        Vōrjīk Jëk — The Lord of Fire — the being this bureau or cultus is organised around.
+  commonSkills:
+    - vorjikjek
+    - tngthkscrpt
+    - draw
+    - law
   seat: null
   domains: []
   population: null
-  economy: []
+  economy:
+    - tanvrcrncy
   lore:
     - vorjikjekdty
   parents:
@@ -115,7 +135,7 @@ Unlike the Bureau Overseers, Vōrjīk Jëk answers not to a specific administrat
 
 The Lord of Fire maintains the boundary between five canonical categories of combustion, each with its own administrative protocol and governing spirits:
 
-**Hearth-Fire (Zāt Vōr)** — The domestic flames that warm homes and cook food. These are the gentlest and most regulated fires, bound to the household through the [[Zātkür|Zātkür]] (Hearth Monitor) and subject to strict seasonal allocations. A family that maintains proper offering-protocol experiences steady, controllable hearth-fire. Those in spiritual deficit may find their hearths will not kindle, or will burn with unpredictable capriciousness.
+**Hearth-Fire (Zāt Vōr)** — The domestic flames that warm homes and cook food. These are the gentlest and most regulated fires, bound to the household through the [[affiliation-zhurhot|Zātkür]] (Hearth Monitor) and subject to strict seasonal allocations. A family that maintains proper offering-protocol experiences steady, controllable hearth-fire. Those in spiritual deficit may find their hearths will not kindle, or will burn with unpredictable capriciousness.
 
 **Forge-Fire (Höt Vōrthāk)** — The industrial fire of smithies, forges, and refineries. Vōrjīk Jëk delegates this category to a subordinate clerk-spirit called Thākhöt, who oversees the transformation of raw metals into tools and weapons. Craftspeople petition Vōrjīk Jëk not for the fire itself (they kindle it through ordinary means) but for the _purity_ and _controllability_ that make a forge reliable. A blacksmith's petition to Vōrjīk Jëk is essentially a request that his flames behave according to technique rather than whimsy.
 
@@ -148,6 +168,6 @@ The faithful petition Vōrjīk Jëk through formal offerings at temple furnaces,
 ## See Also
 
 - [[affiliation-tngvkvnlei|Tëngvōk Vān Lëi]] — The Celestial Bureaucracy that appointed Vōrjīk Jëk to the Elemental Lordship
-- [[Zhutrhot|Zhürhöt]] — Overseer of the Bureau of Transformation, Vōrjīk Jëk's primary administrative rival
-- [[Gurnhurn|Gürnhürn]] — Overseer of the Bureau of Entropy, who uses fire as a tool of controlled dissolution
+- [[affiliation-zhurhot|Zhürhöt]] — Overseer of the Bureau of Transformation, Vōrjīk Jëk's primary administrative rival
+- [[affiliation-gurnhurn|Gürnhürn]] — Overseer of the Bureau of Entropy, who uses fire as a tool of controlled dissolution
 - [[lore-tanthei|Tānthëi]] — The priestly caste who mediate petitions to the Elemental Lords

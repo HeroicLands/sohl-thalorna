@@ -8,14 +8,14 @@ name:
   title: ""
   given: Shadal
   clan: Nadina
-  home: Vashurán
+  home: vashuran
   aliases: []
 packFolder: heroesandknaveskalihara
 shortcode: shadalnadn
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/shadalnadn-portrait.webp
+  portrait: images/beings/characters/shadalnadn-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Scribe
@@ -606,6 +606,8 @@ sohl:
 Shadal stands 6'0" tall with a medium build. He has deep brown skin, dark close-cropped black hair, and brown eyes. His features include an oval face, a narrow nose, well-defined lips, deep brows, prominent cheeks. A distinguishing mark is a scar on the chin.
 
 # Dossier {#dossier}
+
+## Background
 
 ### Early Life and Humble Origins
 

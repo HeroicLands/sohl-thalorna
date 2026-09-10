@@ -6,7 +6,7 @@ name:
   aliases:
     - Potion, Coagulant, Mild
 description: "Thick rusty-brown paste; coagulates blood preventing wound death."
-img: icons/potion.svg
+img: systems/sohl/assets/icons/other/potion.svg
 shortcode: PtnCoagM
 type: concoctiongear
 subType: exotic

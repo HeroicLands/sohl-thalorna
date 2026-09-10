@@ -5,11 +5,11 @@ name:
   full: Giant Hedgehog
   aliases: []
 description: "A bulky, six-foot nocturnal forager armored in razor-sharp quills, rooting through leaf litter for grubs and roots but perilous to touch."
-img: icons/game-icons/caro-asercion/hedgehog.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 shortcode: gnthdghg
 type: being
 data:
-  portrait: images/being/gnthdghg-portrait.webp
+  portrait: images/beings/creatures/gnthdghg-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: null

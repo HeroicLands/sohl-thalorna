@@ -5,7 +5,7 @@ name:
   aliases:
     - Helónika
 description: "The Helonic letters — the eastern alphabet of philosophy, theater and the ledger, carried by three tongues and every harbor between them."
-img: icons/speaking.svg
+img: systems/sohl/assets/icons/other/speaking.svg
 shortcode: helnkscrpt
 type: skill
 subType: script

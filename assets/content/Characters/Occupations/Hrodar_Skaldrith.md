@@ -7,12 +7,12 @@ name:
   title: ""
   given: Hródar
   clan: Skáldrith
-  home: Waldburg
+  home: waldburg
   aliases:
     - Garrick Ironhand
 packFolder: ankarisvrystwald
 shortcode: hrdrskldrth
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
   portrait: images/being/hrdrskldrth-portrait.webp

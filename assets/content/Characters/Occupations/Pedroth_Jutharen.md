@@ -7,12 +7,12 @@ name:
   title: ""
   given: Pédroth
   clan: Jútharen
-  home: Torreviga
+  home: torreviga
   aliases:
     - Thoran Blackstitch
 packFolder: aureldiatarvenia
 shortcode: pdrthjthrn
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
   portrait: images/being/pdrthjthrn-portrait.webp

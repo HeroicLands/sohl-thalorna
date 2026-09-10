@@ -6,7 +6,7 @@ name:
   aliases:
     - Darkvision Elixir
 description: "Midnight-blue elixir; grants darkness vision to distance of Aural Shock."
-img: icons/potion.svg
+img: systems/sohl/assets/icons/other/potion.svg
 shortcode: ElxDrk
 type: concoctiongear
 subType: elixir

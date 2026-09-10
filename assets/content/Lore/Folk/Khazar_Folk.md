@@ -49,6 +49,40 @@ By the time humans began to build, the Khazári were already retreating. Their n
 
 They did not withdraw cleanly. Before the retreat there were centuries in which human tribes lived and worked in Khazári service, and what those tribes took away with them — a reduced runic work-row, and rather more of the craft they had been permitted to watch — became the foundation of human metallurgy, stonework and writing alike. The Khazári maintain that nothing was given that mattered. See [[lore-longnhrtnc|The Long Inheritance]].
 
+## The Seven Clans
+
+The Khazári who came to Thalorna came as **seven clans**, and the number has never lost its significance
+to them. Clan names are patrilineal, the genealogies are kept as carefully as the craft-records, and a
+Khazár can recite a line back to one of the seven without hesitation or notes.
+
+**[[lore-khazarturn|Khazártúrn]]** was built for all seven together — seven great towers cut from the
+cliff of a mountain valley, one to each clan, and the city held jointly beneath them. It is the only
+thing they are known to have made as a single people, and its loss took some part of every line on
+Thalorna at once.
+
+## Khazártúrn
+
+The Khazári built one thing that all their other work was measured against, and lost it.
+
+**[[lore-khazarturn|Khazártúrn]]** was raised around 3800 BF and stood a thousand years — the seat of an
+entire people's craft-records, and the finest archive in the world at a date when humanity had not yet
+built a city anywhere. In **2800 BF** it was destroyed by a [[lore-flksinale|Sinalë]] outlaw wielding the
+[[miscgear-secondvoice|Second Voice]] — a relic that takes [[lore-grukarfolk|Grukar]] from their
+spawners and commands them directly, and so produced the one thing Grukar biology otherwise forbids:
+an army. It killed **everyone** — thirty thousand, the whole population — and is the worst thing that has ever
+happened to the Deep Folk on Thalorna. Afterward they laid their dead in their own chambers, there
+being nothing like enough tombs, cleaned the city to the condition they had kept it in, and **sealed it
+for all generations**. Khazártúrn is not a ruin. It is intact, in good order, and full of its people:
+the greatest work of Khazári hands, and now the greatest grave in the world.
+
+The account of its fall is kept in the working archive of every hold and read at intervals. It is the
+single most useful thing to know about how the Deep Folk behave: they are patient with everything in the world except Grukar, whom they kill on sight, everywhere,
+without deliberation — knowing perfectly well that the Grukar were compelled and chose none of it. The
+relic was never recovered. Their doctrine is not vengeance but prevention: **Grukar are ammunition**,
+and the only defence is that there be none within reach of a hold.
+
+It is also why they have not spoken to the Sinalë since.
+
 ## The Holds
 
 The Khazári live in mountain holds — underground complexes carved into living rock with a skill that no human engineer has ever matched. These holds are not crude caves; they are architectural marvels, with halls supported by pillars of shaped stone, ventilation systems that draw fresh air from miles away, forges heated by geothermal vents, and defensive works that make them virtually impregnable.
@@ -63,7 +97,37 @@ The Khazári's relationship with humanity is even more limited than the Sinalë'
 
 Very rarely — perhaps a handful of times in a human generation — a Khazár will appear in a human settlement. A solitary figure, heavily cloaked, who buys specific materials (certain ores, certain chemicals, occasionally food supplies that the holds cannot produce), pays in gold of extraordinary purity, says nothing beyond what the transaction requires, and leaves. These encounters are so rare that they are remembered for decades in the communities where they occur.
 
-There are no Élavendren-style exceptions for the Khazári. No human realm has a sustained relationship with them. No human scholar has been invited into a hold. Whatever the Khazári think of humanity — if they think of humanity at all — they keep it behind walls of stone and silence.
+No human _realm_ has a sustained relationship with them, no human scholar has been invited into a hold, and no crown on Thalorna has ever received an embassy from one. Whatever the Khazári think of humanity — if they think of humanity at all — they keep it behind walls of stone and silence.
+
+There is exactly one exception, and it is not a realm. The **[[lore-vardain|Vardain]]** of Aelwyth have lived beneath [[place-vorgald|Vorgald]] for millennia: they farm for the hold, factor for it in human markets, and are protected by it, and Khazári engineers work openly in their valleys. It is a closer and older relationship than Élavendre's with the Sinalë, and almost nobody outside those valleys knows it exists.
+
+## What the Vardain Are the Last Of
+
+The Vardain are not an anomaly. They are a **survival**.
+
+A hold grows nothing and will not be supplied from outside, so every Khazári hold has always needed farmers within reach of its gate — and when the Deep Folk arrived around 4280 BF there were no farmers anywhere, only hunter-gatherers who could not provision anybody. So the Khazári made some, in the uplands around their first holds, by teaching the water-works, the drainage, the terracing and the granary that turn thin ground into a food supply.
+
+That was not generosity and was never framed as such. It was a larder, built by a people who required one. What became of the knowledge afterward — that it ran downhill into the river valleys and grew into human civilization — happened without their participation and, so far as any evidence goes, without their interest.
+
+Most of those arrangements are four thousand years gone: the peoples changed, the holds closed, the countries were conquered by somebody. The Vardain are the one that never lapsed. They are the last people on Thalorna still doing what humans were originally taught to do.
+
+## Seen From Within
+
+The Khazári aesthetic can be stated in one line, and everything they build obeys it: **the wonder is
+seen from within, not from without.**
+
+Their works are routinely indistinguishable from the natural environment — not screened or camouflaged,
+but finished to belong to the ground they stand in, carrying its strata and its weathering, so that the
+exterior reads as rock because the exterior _is_ meant to be rock. A Khazári builder does not regard the
+outside of a thing as a surface for display. It is the mountain. It should look like the mountain.
+
+What that leaves is an interior, and the interiors are where the whole of the argument goes. The greatest
+of them — the halls of [[lore-khazarturn|Khazártúrn]], raised hundreds of feet and lit through the rock
+and roofed with painted sky — could not be guessed at from a hundred paces outside the door.
+
+Humans, who build to be seen, almost universally read this as concealment, and cannot easily be talked
+out of it. It has made the Deep Folk seem far more secretive than they are, and they have never thought
+the misunderstanding worth correcting.
 
 ## Khazárian Craft
 

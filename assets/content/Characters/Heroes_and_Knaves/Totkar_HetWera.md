@@ -8,16 +8,16 @@ name:
   title: ""
   given: Tot'kar
   clan: Het'Wera
-  home: Meru-Hotep
+  home: meruhotep
   aliases:
     - Totkar HetWera
 packFolder: northernfertileregiontakheperu
 banner: banners/ta-kheperu-banner.webp
 shortcode: totkarhtwr
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/totkarhtwr-portrait.webp
+  portrait: images/beings/characters/totkarhtwr-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Litigant
@@ -591,6 +591,8 @@ sohl:
 Tot'kar stands 5'10" tall with a heavy build. He has tawny skin, graying black hair, and green-brown eyes. His features include a diamond-shaped face, a prominent nose, a narrow chin, generous lips, high-set brows, angular cheeks. A distinguishing mark is a tattoo of a leaf on the wrist.
 
 # Dossier {#dossier}
+
+## Background
 
 ### The Scholar's Path
 

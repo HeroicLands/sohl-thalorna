@@ -8,12 +8,12 @@ name:
   title: ""
   given: Edith
   clan: Wolford
-  home: Ashford
+  home: ashford
   aliases:
     - Liora Stonemaster
 packFolder: aureldiaaelwyth
 shortcode: edithwlfrd
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
   portrait: images/being/edithwlfrd-portrait.webp

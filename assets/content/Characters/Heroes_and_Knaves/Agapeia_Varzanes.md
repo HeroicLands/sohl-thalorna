@@ -7,14 +7,14 @@ name:
   title: ""
   given: Agápeia
   clan: Varzánês
-  home: Kostaros
+  home: kostaros
   aliases: []
 packFolder: helladbyzaria
 shortcode: agapevrzns
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/agapevrzns-portrait.webp
+  portrait: images/beings/characters/agapevrzns-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Miner
@@ -584,6 +584,8 @@ sohl:
 Agápeia stands 6'1" tall with a medium build. She has golden-toned skin, dark hair, and dark hazel eyes. Her features include an oblong face, a straight nose, a pointed chin, slightly pursed lips, arched brows, high cheeks.
 
 # Dossier {#dossier}
+
+## Background
 
 ### The Mines of Byzar
 

@@ -7,14 +7,14 @@ name:
   title: ""
   given: Bǫthvarr
   clan: Sólvargr
-  home: Brúnvík
+  home: brunvik
   aliases: []
 packFolder: ankarisnordlands
 shortcode: bthvrslvrgr
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/bthvrslvrgr-portrait.webp
+  portrait: images/beings/characters/bthvrslvrgr-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Yeoman Infantry
@@ -585,6 +585,8 @@ sohl:
 Bǫthvarr stands 6'3" tall with a heavy build. He has tanned weathered skin, gray hair, and blue eyes. His features include a broad face, a straight nose, a soft jawline, full lips, gently curved brows. A distinguishing mark is a tattoo of a lion's mane on the chest.
 
 # Dossier {#dossier}
+
+## Background
 
 ### The Making of a Warrior
 

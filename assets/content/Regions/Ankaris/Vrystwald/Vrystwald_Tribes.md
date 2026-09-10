@@ -113,7 +113,7 @@ packFolder: vrystwald
 
 ## Overview
 
-The Vrystwald Tribes are a collection of Varokh barbarian clans and tribal groups that inhabit the vast primeval forests between the Normen kingdoms to the north and the [[affiliation-vylarinmpr|Vylarian Empire]] to the south. They are not a unified polity in any meaningful sense — the tribes fight among themselves as often as they raid their neighbors — but they share a common language, common gods, and a fierce commitment to their ancestral forests.
+The Vrystwald Tribes are a collection of Varokh barbarian clans and tribal groups that inhabit the vast primeval forests between the Nordmen kingdoms to the north and the [[affiliation-vylarinmpr|Vylarian Empire]] to the south. They are not a unified polity in any meaningful sense — the tribes fight among themselves as often as they raid their neighbors — but they share a common language, common gods, and a fierce commitment to their ancestral forests.
 
 ## Government
 
@@ -123,7 +123,7 @@ When an external threat demands coordination — a Vylarian punitive expedition,
 
 ## Character
 
-The Varokh are descendants of the Pelwar nomads who migrated across Ankaris millennia ago — the same migration that seeded the ancestors of the Vylarians, the Élavendrians, and the Normen. The Varokh, however, never settled into cities or kingdoms. They remained in the forests, living as hunters, herders, and seasonal farmers in the clearings.
+The Varokh are descendants of the Pelwar nomads who migrated across Ankaris millennia ago — the same migration that seeded the ancestors of the Vylarians, the Élavendrians, and the Nordmen. The Varokh, however, never settled into cities or kingdoms. They remained in the forests, living as hunters, herders, and seasonal farmers in the clearings.
 
 The Vrystwald's frontier with [[affiliation-provncmktr|Moktur province]] is the [[affiliation-vylarinmpr|Vylarian Empire]]'s most persistent military problem. Varokh raiding parties strike south into imperial territory for cattle, weapons, and slaves, then disappear back into forests that the legions cannot effectively patrol. The empire has tried everything — punitive expeditions, frontier forts, alliances with friendly chiefs, resettlement schemes — but the forest always wins.
 

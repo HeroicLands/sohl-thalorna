@@ -31,5 +31,5 @@ The shield-maiden who commands Járnhavn's respect is legendary for her victorie
 
 ## See Also
 
-- [[affiliation-kingdmnrgd|Kingdom of Norgaad]] — Normen seafaring kingdom
+- [[affiliation-kingdmnrgd|Kingdom of Norgaad]] — Nordmen seafaring kingdom
 - [[affiliation-asguardian|Asguardian Pantheon]] — Gods of the north

@@ -7,12 +7,12 @@ name:
   title: ""
   given: Kírisa
   clan: Zýrand
-  home: Belpòrte
+  home: belporte
   aliases:
     - Isolde Farnham
 packFolder: aureldiaprovenzia
 shortcode: kiriszyrnd
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
   portrait: images/being/kiriszyrnd-portrait.webp

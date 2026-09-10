@@ -7,14 +7,14 @@ name:
   title: ""
   given: Konstántinos
   clan: Polytimós
-  home: Denizara
+  home: denizara2
   aliases: []
 packFolder: helladbyzaria
 shortcode: knstntnsplytms
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/knstntnsplytms-portrait.webp
+  portrait: images/beings/characters/knstntnsplytms-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Cook
@@ -591,6 +591,8 @@ sohl:
 Konstántinos stands 5'10" tall with a medium build. He has light brown tanned skin, dark brown hair, and brown eyes. His features include a diamond-shaped face, a straight nose, a strong jawline, full lips, light brows.
 
 # Dossier {#dossier}
+
+## Background
 
 ### Early Life
 

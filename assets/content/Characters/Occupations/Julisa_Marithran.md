@@ -8,12 +8,12 @@ name:
   title: ""
   given: Júlisa
   clan: Maríthran
-  home: Solárden
+  home: solarden
   aliases:
     - Sigrun Stoneheart
 packFolder: aureldiatarvenia
 shortcode: julsmrthrn
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
   portrait: images/being/julsmrthrn-portrait.webp

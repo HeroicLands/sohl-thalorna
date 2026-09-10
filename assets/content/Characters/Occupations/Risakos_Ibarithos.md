@@ -7,12 +7,12 @@ name:
   title: ""
   given: Rísàkós
   clan: Ibârìthôs
-  home: Korinthea
+  home: korinthea2
   aliases:
     - Osbert Kett
 packFolder: helladhelionis
 shortcode: risksbrths
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
   portrait: images/being/risksbrths-portrait.webp

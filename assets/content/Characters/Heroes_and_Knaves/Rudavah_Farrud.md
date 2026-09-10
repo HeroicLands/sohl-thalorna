@@ -8,14 +8,14 @@ name:
   title: ""
   given: Rudâvah
   clan: Farrud
-  home: Tahrodan
+  home: tahrodan
   aliases: []
 packFolder: sultanateofamradad
 shortcode: rudavahfrd
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/rudavahfrd-portrait.webp
+  portrait: images/beings/characters/rudavahfrd-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Ostler

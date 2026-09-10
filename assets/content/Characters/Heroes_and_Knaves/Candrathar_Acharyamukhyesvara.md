@@ -8,14 +8,14 @@ name:
   title: ""
   given: Càndrathar
   clan: Āchāryamukhyēśvara
-  home: Rājapur
+  home: rajapur
   aliases: []
 packFolder: ankarisvedyara
 shortcode: cndrthrchrymkhysvr
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/cndrthrchrymkhysvr-portrait.webp
+  portrait: images/beings/characters/cndrthrchrymkhysvr-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Apothecary

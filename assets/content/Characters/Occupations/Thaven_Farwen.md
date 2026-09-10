@@ -7,12 +7,12 @@ name:
   title: ""
   given: Thâven
   clan: Fárwèn
-  home: Chastèlclair
+  home: chastelclr
   aliases:
     - Bosun Kellan Stormwatch
 packFolder: aureldiaprovenzia
 shortcode: thavenfrwn
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
   portrait: images/being/thavenfrwn-portrait.webp

@@ -7,12 +7,12 @@ name:
   title: ""
   given: Frýsala
   clan: Válskyr
-  home: Fiòrdaure
+  home: fiordaure
   aliases:
     - Sigrid Frostholm
 packFolder: aureldiaprovenzia
 shortcode: fryslvlskyr
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
   portrait: images/being/fryslvlskyr-portrait.webp

@@ -7,14 +7,14 @@ name:
   title: ""
   given: Bjalfi
   clan: Hrafnsvald
-  home: Haldrvík
+  home: haldrvik
   aliases: []
 packFolder: ankarisnordlands
 shortcode: bjlfhrfnsvld
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/bjlfhrfnsvld-portrait.webp
+  portrait: images/beings/characters/bjlfhrfnsvld-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Yeoman Infantry

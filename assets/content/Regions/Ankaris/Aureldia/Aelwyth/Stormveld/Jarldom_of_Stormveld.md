@@ -1,5 +1,5 @@
 ---
-description: "Loose confederation of Normen járldoms on Aelwyth's fjord-like northeastern coast — Asguardian-worshipping settlements with strong ties to the Kingdom of Nordheim."
+description: "Loose confederation of Nordmen járldoms on Aelwyth's fjord-like northeastern coast — Asguardian-worshipping settlements with strong ties to the Kingdom of Nordheim."
 type: affiliation
 name:
   full: Járldom of Stormveld
@@ -87,7 +87,7 @@ data:
   seat: stormveil
   domains:
     - aelwyth
-  population: 1500000
+  population: 150000
   economy:
     - affiliation-clgmrgntrrm
     - affiliation-magnumclgm
@@ -109,17 +109,17 @@ packFolder: aelwyth
 
 ## Overview
 
-The northeastern coast of [[place-aelwyth|Aelwyth]], with its fjord-like inlets and rocky headlands, has been settled by Normen — seafarers from [[affiliation-kngdmnrdhm|Kingdom of Nordheim]] who arrived in successive waves of raiding and colonization over the past few centuries. The Stormveld is not a single unified polity but a loose confederation of járldoms, each ruled by a járl who owes nominal allegiance to a High Járl elected from among their number.
+The northeastern coast of [[place-aelwyth|Aelwyth]], with its fjord-like inlets and rocky headlands, has been settled by Nordmen — seafarers from [[affiliation-kngdmnrdhm|Kingdom of Nordheim]] who arrived in successive waves of raiding and colonization over the past few centuries. The Stormveld is not a single unified polity but a loose confederation of járldoms, each ruled by a járl who owes nominal allegiance to a High Járl elected from among their number.
 
 ## Character
 
-The Normen of Stormveld worship the [[affiliation-asguardian|Asguardian Pantheon]] gods, speak Nordmal, and maintain strong cultural ties to [[affiliation-kngdmnrdhm|Kingdom of Nordheim]] across the sea. Their settlements cluster around the fjords — fortified longhouses and harbors built to weather both the storms of the northeastern coast and the raids that come from every direction. Shipbuilding, fishing, and raiding (when the opportunity presents itself) are the foundations of Stormveld's economy.
+The Nordmen of Stormveld worship the [[affiliation-asguardian|Asguardian Pantheon]] gods, speak Nordmal, and maintain strong cultural ties to [[affiliation-kngdmnrdhm|Kingdom of Nordheim]] across the sea. Their settlements cluster around the fjords — fortified longhouses and harbors built to weather both the storms of the northeastern coast and the raids that come from every direction. Shipbuilding, fishing, and raiding (when the opportunity presents itself) are the foundations of Stormveld's economy.
 
 The High Járl's authority is real but limited — each járl governs his own territory with near-complete autonomy, and the High Járl's primary role is to coordinate defense and settle disputes between the járldoms. Elections for the position are contentious affairs that occasionally descend into armed contests.
 
 ## Relations
 
-Relations with the southern Aelwythan kingdoms alternate between uneasy peace and open raiding, depending on the temperament of whoever holds the High Járl's seat. The [[affiliation-kngdmldrth|Kingdom of Aldorath]] bears the brunt of Stormveld's aggression, with the mountain ranges between the two polities serving as a contested frontier. The [[lore-flkkhazar|Khazári]] holds hidden in those same mountains are a source of wonder and occasional tension — the Normen respect the Deep Folk's craft but covet the mountain passes they control.
+Relations with the southern Aelwythan kingdoms alternate between uneasy peace and open raiding, depending on the temperament of whoever holds the High Járl's seat. The [[affiliation-kngdmldrth|Kingdom of Aldorath]] bears the brunt of Stormveld's aggression, with the mountain ranges between the two polities serving as a contested frontier. The [[lore-flkkhazar|Khazári]] holds hidden in those same mountains are a source of wonder and occasional tension — the Nordmen respect the Deep Folk's craft but covet the mountain passes they control.
 
 The Stormveld maintains strong connections to [[affiliation-kngdmnrdhm|Kingdom of Nordheim]] across the sea, and warriors and traders move freely between the two. Some járls hold lands on both sides of the water.
 
@@ -134,3 +134,62 @@ Járldom of Stormveld uses the [[lore-vylrncrncy|Vylarian currency]] (Aurion / A
 - [[affiliation-kngdmldrth|Kingdom of Aldorath]] — Southern neighbor and frequent target
 - [[lore-flkkhazar|Khazári]] — Elder race in the northeastern mountains
 - [[affiliation-asguardian|Asguardian Pantheon]] — Pantheon
+
+## The Conquest
+
+Stormveld occupies the **north-east** of Aelwyth and is enormous — something like **a fifth of the
+island's land area**, more than any other realm holds. It is also not, in the sense the other realms
+are, an Aelwythan polity at all.
+
+All of it was **Vardanreach** before the conquest: the plain, the [[place-nordfells|Nordfells]], the
+[[place-sunderfells|Sunderfells]] and the high valleys within them, held by the
+[[lore-vardain|Vardain]] for thousands of years. **Nordmen took it about sixty years ago** and hold it still.
+
+The conquest was quick and thorough. The existing population was not driven out; it was **enslaved**,
+and the arrangement has since hardened into the ordinary structure of the country. Of roughly
+**150,000** people in the Jarldom:
+
+- around **30,000 are Nordmen** — the jarl, his housed men, their families and holdings; and
+- around **120,000 are native Aelwythan thralls**, worked on the land and holding nothing.
+
+Four in five people in Stormveld are the property of the remaining fifth. The jarls do not describe it
+that way and see no reason to describe it any other.
+
+## What It Means for the Island
+
+Stormveld is a **Nordmen foothold on Aelwyth**, sixty years old, permanent-looking, and roughly a
+hundred and twenty sea-miles from the Élavendren coast. Every other realm on the island understands
+what that is, and none of them has been willing or able to do anything about it.
+
+It sharpens a great deal that is otherwise puzzling. It is much of why
+[[affiliation-kingdmdnvr|Dúnavarre]] keeps the Order of the Just Blade at strength; it is why the
+island's quarrels between [[affiliation-kngdmldrth|Aldorath]] and Dúnavarre look so parochial to
+outsiders; and it is a standing reason for [[place-elavendre|Élavendre]]'s implacable hostility to the
+Nordmen, since the nearest large island to its coast is now a third occupied by them.
+
+The thralls have risen twice. Neither rising reached the second year.
+
+## Facing North
+
+Stormveld is the only realm on Aelwyth that looks outward, and it does not look at the Aurèldían
+mainland at all. Its commerce and its wars both run **north to the [[place-nrdlndsrgn|Nordlands]]**,
+which is where its ruling class came from, where its kin and rivals are, and where anything that
+happens to it will be decided.
+
+The Nordlands are not one power, and Stormveld's northern dealings are correspondingly mixed: steady
+trade with some kingdoms, raiding and open fighting with others, shifting alliance and grudge among
+jarls who regard the Aelwythan holding as an outpost of their own world rather than a foreign country.
+Timber, thrall-worked produce and hides go north; iron, ships, men and quarrels come south.
+
+This is also why the Synod's **compulsory call at [[place-ravenmoor|Ravenmoor]]** does not touch the
+Jarldom. Stormveld's shipping does not cross to the mainland; it crosses north, into the water the
+Nordmen have always used, and it has never presented itself for inspection.
+
+Dúnavarre permits this because Dúnavarre **is not interested**. The Synod's concern is the channel
+between Aelwyth and the Aurèldían world — the knowledge, the relics and the visitors that come by it —
+and a Nordmen hull carrying iron south and timber north bears on none of it. The mages watch the eastern
+water and ignore the northern, and the distinction is deliberate rather than conceded.
+
+It does mean the Jarldom is the one realm on the island whose dealings with the outside are nobody's
+business but its own — and it explains why the Jarldom endures. The other realms are islands unto
+themselves. Stormveld has a mainland of its own behind it.

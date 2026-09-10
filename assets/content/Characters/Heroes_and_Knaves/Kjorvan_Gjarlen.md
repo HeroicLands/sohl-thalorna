@@ -8,14 +8,14 @@ name:
   title: ""
   given: Kjôrvan
   clan: Gjârlen
-  home: Fiòrdaure
+  home: fiordaure
   aliases: []
 packFolder: aureldiaprovenzia
 shortcode: kjrvngjrln
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/kjrvngjrln-portrait.webp
+  portrait: images/beings/characters/kjrvngjrln-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Ostler
@@ -589,6 +589,8 @@ sohl:
 Kjôrvan stands 6'1" tall with a medium build. He has sun-tanned skin, dark brown hair, and brown eyes. His features include an oblong face, a straight nose, an angular jawline, full lips, dark brows, sculpted cheeks.
 
 # Dossier {#dossier}
+
+## Background
 
 ### Early Life
 

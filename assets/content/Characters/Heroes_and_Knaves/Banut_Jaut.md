@@ -8,15 +8,15 @@ name:
   title: ""
   given: Bânut
   clan: Jâut
-  home: Meru-Hotep
+  home: meruhotep
   aliases: []
 packFolder: northernfertileregiontakheperu
 banner: banners/ta-kheperu-banner.webp
 shortcode: banutjaut
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/banutjaut-portrait.webp
+  portrait: images/beings/characters/banutjaut-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Alchemist
@@ -605,6 +605,8 @@ sohl:
 Bânut stands 5'3" tall with a light build. She has golden brown skin, dark hair, and hazel eyes. Her features include a high-cheekboned face, a straight narrow nose, a narrow chin, full lips, golden brows, high cheeks. A distinguishing mark is a scar on the left ear.
 
 # Dossier {#dossier}
+
+## Background
 
 ### Early Life and Loss
 

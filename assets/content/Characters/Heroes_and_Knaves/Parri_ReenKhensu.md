@@ -8,16 +8,16 @@ name:
   title: ""
   given: Par'ri
   clan: Re'en'Khensu
-  home: Wasetkara
+  home: wasetkara
   aliases:
     - Parri ReenKhensu
 packFolder: northernfertileregiontakheperu
 banner: banners/ta-kheperu-banner.webp
 shortcode: parirnkhns
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/parirnkhns-portrait.webp
+  portrait: images/beings/characters/parirnkhns-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Scholar

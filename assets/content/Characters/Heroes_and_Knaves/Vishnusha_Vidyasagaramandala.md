@@ -7,14 +7,14 @@ name:
   title: ""
   given: Vishnusha
   clan: Vidyāsāgaramaṇḍala
-  home: Dhanurkota
+  home: dhanurkota
   aliases: []
 packFolder: ankarisvedyara
 shortcode: vshnshvdysgrml
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/vshnshvdysgrml-portrait.webp
+  portrait: images/beings/characters/vshnshvdysgrml-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Miner
@@ -582,6 +582,8 @@ sohl:
 Vishnusha stands 6'3" tall with a heavy build. He has warm honey skin, black hair, and brown eyes. His features include a full face, a slightly arched nose, a soft jawline, generous lips, expressive brows.
 
 # Dossier {#dossier}
+
+## Background
 
 ### From Surface Laborer to Craftsman
 

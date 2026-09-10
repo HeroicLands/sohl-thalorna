@@ -8,14 +8,14 @@ name:
   title: ""
   given: Ángelides
   clan: Kantakouzenós
-  home: Denizara
+  home: denizara2
   aliases: []
 packFolder: helladbyzaria
 shortcode: angldskntkzns
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/angldskntkzns-portrait.webp
+  portrait: images/beings/characters/angldskntkzns-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Perfumer
@@ -596,6 +596,8 @@ sohl:
 Ángelides stands 6'3" tall with a heavy build. He has tanned weathered skin, black hair, and green eyes. His features include a long face, a hawkish nose, a pronounced chin, well-defined lips, prominent brows. A distinguishing mark is a scar on the neck.
 
 # Dossier {#dossier}
+
+## Background
 
 ### Early Years and Tragedy
 

@@ -87,7 +87,7 @@ data:
     hydalis: aligned
     pneumenos: aligned
 shortcode: sideros
-img: images/affiliation/sideros.webp
+img: images/affiliation/hex-hodai/sideros.webp
 name:
   full: Sidéros
   aliases:

@@ -5,7 +5,7 @@ name:
   aliases:
     - Attune
 description: "Unites allied group; enhances coordination and shared magical resonance."
-img: icons/circle.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/circle.svg
 shortcode: hrmnz
 type: mysticalability
 subType: arcaneincantation

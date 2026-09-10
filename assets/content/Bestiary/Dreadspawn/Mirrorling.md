@@ -5,11 +5,11 @@ name:
   full: Mirrorling
   aliases: []
 description: "A light-warping predator of paradox that dwells in mirror halls and crystal caverns, wielding fractured reflections as both weapon and shield."
-img: icons/game-icons/delapouite/griffin-symbol.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 shortcode: mrrrlng
 type: being
 data:
-  portrait: images/being/mrrrlng-portrait.webp
+  portrait: images/beings/creatures/mrrrlng-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: null

@@ -8,14 +8,14 @@ name:
   title: ""
   given: Harkhîs
   clan: Bàremydês
-  home: Belekos
+  home: belekos
   aliases: []
 packFolder: midhalionvylaria
 shortcode: hrkhsbrmyds
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/hrkhsbrmyds-portrait.webp
+  portrait: images/beings/characters/hrkhsbrmyds-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Apothecary
@@ -603,6 +603,8 @@ sohl:
 Harkhîs stands 5'8" tall with a medium build. He has light ruddy skin, gray hair, and green eyes. His features include an oblong face, a aquiline nose, a pointed chin, full lips, heavy brows. A distinguishing mark is a scar on the left calf.
 
 # Dossier {#dossier}
+
+## Background
 
 ### The Healer's Apprentice
 

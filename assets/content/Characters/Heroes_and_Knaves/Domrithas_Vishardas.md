@@ -8,14 +8,14 @@ name:
   title: ""
   given: Dómrithâs
   clan: Vîshârdâs
-  home: Nartûm
+  home: nartum
   aliases: []
 packFolder: midhalionvylaria
 shortcode: dmrthsvshrds
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/dmrthsvshrds-portrait.webp
+  portrait: images/beings/characters/dmrthsvshrds-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Alchemist

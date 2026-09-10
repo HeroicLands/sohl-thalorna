@@ -8,12 +8,12 @@ name:
   title: ""
   given: Hármund
   clan: Garwald
-  home: Falkenstein
+  home: falkensten
   aliases:
     - Thrain Ironforge
 packFolder: ankarisvrystwald
 shortcode: hrmndgrwld
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
   portrait: images/being/hrmndgrwld-portrait.webp

@@ -7,14 +7,14 @@ name:
   title: ""
   given: Sénapati
   clan: Vikramâda
-  home: Vyālendra
+  home: vyalendra3
   aliases: []
 packFolder: ankarisvedyara
 shortcode: senptvkrmd
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/senptvkrmd-portrait.webp
+  portrait: images/beings/characters/senptvkrmd-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Bosun

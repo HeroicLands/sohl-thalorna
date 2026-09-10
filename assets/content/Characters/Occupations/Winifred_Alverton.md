@@ -7,12 +7,12 @@ name:
   title: ""
   given: Winifred
   clan: Alverton
-  home: Dunmere
+  home: dunmere
   aliases:
     - Anwen Lys
 packFolder: aureldiaaelwyth
 shortcode: wnfrdlvrtn
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
   portrait: images/being/wnfrdlvrtn-portrait.webp

@@ -7,12 +7,12 @@ name:
   title: Lady
   given: Fárila
   clan: Válskyr
-  home: Belpòrte
+  home: belporte
   aliases:
     - Lady Seraphina Wellspring
 packFolder: aureldiaprovenzia
 shortcode: farlvlskyr
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
   portrait: images/being/farlvlskyr-portrait.webp

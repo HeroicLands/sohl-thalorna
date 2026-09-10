@@ -5,7 +5,7 @@ name:
   aliases:
     - Sêmarion
 description: "The imperial letters — the everyday alphabetic hand of Vylaria, and the script most of the civilized west now writes in."
-img: icons/speaking.svg
+img: systems/sohl/assets/icons/other/speaking.svg
 shortcode: semrnscrpt
 type: skill
 subType: script

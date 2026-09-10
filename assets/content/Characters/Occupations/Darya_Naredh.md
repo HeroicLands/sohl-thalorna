@@ -8,12 +8,12 @@ name:
   title: ""
   given: Dárya
   clan: Náredh
-  home: Ceridwen's Hollow
+  home: cerdwnshlw
   aliases:
     - Catrin Brightvoice
 packFolder: aureldiaelavendre
 shortcode: daryanardh
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
   portrait: images/being/daryanardh-portrait.webp

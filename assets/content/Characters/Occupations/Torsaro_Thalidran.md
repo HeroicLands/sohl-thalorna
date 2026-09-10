@@ -7,12 +7,12 @@ name:
   title: ""
   given: Tórsaro
   clan: Thalídran
-  home: Castamere
+  home: castamere
   aliases:
     - Oswin Thornhill
 packFolder: aureldiatarvenia
 shortcode: trsrthldrn
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
   portrait: images/being/trsrthldrn-portrait.webp

@@ -9,7 +9,6 @@ name:
   aliases: []
 packFolder: northernfertileregionokharis
 shortcode: takorozanethar
-img: images/takoro-zanethar-headshot.webp
 type: being
 data:
   portrait: images/being/takorozanethar-portrait.webp
@@ -543,8 +542,6 @@ sohl:
         disabled: false
     defaultCombatGroup: null
 ---
-
-#### The Overlord
 
 The current Overlord of Okháris is **Tákoro Zanethar** (_The Keeper of the Three Flames_).
 

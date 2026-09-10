@@ -8,14 +8,14 @@ name:
   title: ""
   given: Khârânah
   clan: Khafûr
-  home: Ashkarad
+  home: ashkarad
   aliases: []
 packFolder: ankariskhazryndesert
 shortcode: kharnhkhfr
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/kharnhkhfr-portrait.webp
+  portrait: images/beings/characters/kharnhkhfr-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Perfumer
@@ -592,6 +592,8 @@ sohl:
 Khârânah stands 5'10" tall with a medium build. She has light olive skin, dark black hair, and green eyes. Her features include a narrow face, a strong nose, a strong jawline, full lips, strong brows, high cheeks.
 
 # Dossier {#dossier}
+
+## Background
 
 ### Early Life
 

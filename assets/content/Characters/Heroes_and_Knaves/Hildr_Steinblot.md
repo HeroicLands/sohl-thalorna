@@ -7,14 +7,14 @@ name:
   title: ""
   given: Hildr
   clan: Steinblót
-  home: Haldrvík
+  home: haldrvik
   aliases: []
 packFolder: ankarisnordlands
 shortcode: hldrstnblt
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/hldrstnblt-portrait.webp
+  portrait: images/beings/characters/hldrstnblt-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Potter
@@ -606,6 +606,8 @@ sohl:
 Hildr stands 5'11" tall with a medium build. She has light fair skin, dark brown hair, and hazel eyes. Her features include an oblong face, a slightly upturned nose, a strong jawline, a firm-set mouth, dark brows, angular cheeks.
 
 # Dossier {#dossier}
+
+## Background
 
 ### Early Life
 

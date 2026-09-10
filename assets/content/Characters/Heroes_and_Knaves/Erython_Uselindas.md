@@ -7,14 +7,14 @@ name:
   title: ""
   given: Érython
   clan: Ûselîndâs
-  home: Nartûm
+  home: nartum
   aliases: []
 packFolder: midhalionvylaria
 shortcode: erythnslnds
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/erythnslnds-portrait.webp
+  portrait: images/beings/characters/erythnslnds-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Yeoman Archer

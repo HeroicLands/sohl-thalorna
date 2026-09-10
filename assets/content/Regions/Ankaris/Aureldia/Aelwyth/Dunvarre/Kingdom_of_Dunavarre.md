@@ -97,7 +97,7 @@ data:
   seat: ravenmoor
   domains:
     - aelwyth
-  population: 3500000
+  population: 75000
   economy:
     - affiliation-clgmrgntrrm
     - affiliation-magnumclgm
@@ -113,6 +113,7 @@ data:
     repblctrvn: unaligned
     tanvurempr: unaligned
     vylarinmpr: unaligned
+    saelvri: nemesis
 sohl:
   templatePriority: null
 packFolder: aelwyth
@@ -138,7 +139,7 @@ The kingdom is devoutly [[affiliation-arldnpnthn|Aurèldían]], with [[affiliati
 
 ## Relations
 
-Dúnavarre enjoys good relations with [[place-elavendre|Élavendre]], with whom it shares cultural roots, language, and active trade. This is a notable diplomatic achievement given that Élavendre is deeply suspicious of the [[affiliation-ordoarcanis|Ordo Arcanis]] and refuses to permit the Ordo any presence within its borders. That Dúnavarre — an Ordo-governed kingdom — maintains warm ties with Élavendre speaks to the pragmatism of both parties, and perhaps to the fact that the Dúnavarren Synod is more flexible and less doctrinaire than the Ordo's mainland hierarchy.
+Dúnavarre enjoys **very cordial** relations with [[place-elavendre|Élavendre]], with whom it shares cultural roots, language and active trade. Dúnavarre sits on Aelwyth's southeastern coast, whose harbours face Élavendre across some hundred and twenty sea-miles, and the two are each other's nearest civilised neighbour across that water. The tie is personal as well as commercial: the **Synod** maintains close relations with the Élavendren royal house, and has done for generations. This is a notable diplomatic achievement given how carefully Élavendre holds the [[affiliation-ordoarcanis|Ordo Arcanis]] at arm's length. Élavendre **permits** the Ordo and **limits its access**: it may keep its houses and teach in the cities — the University of [[place-beravel|Béravel]] is its largest campus outside the Empire — and it may not reach past them into the tribal lands, the sacred sites or the deep forest, where the Áelendan Wardens enforce a boundary the crown declines to move. That an Ordo-governed kingdom is nonetheless welcome at Béravel says a good deal about both courts. That Dúnavarre — an Ordo-governed kingdom — maintains warm ties with Élavendre speaks to the pragmatism of both parties, and perhaps to the fact that the Dúnavarren Synod is more flexible and less doctrinaire than the Ordo's mainland hierarchy.
 
 Relations with [[affiliation-kngdmldrth|Aldorath]] are competitive — the two realms have long vied for influence over the island's interior, and Aldorath's feudal aristocracy views Dúnavarre's mage-rule with a mix of envy and contempt. The kingdom maintains connections to the [[affiliation-repblctrvn|Republic of Tarvenne]] through coastal trade routes.
 
@@ -152,6 +153,46 @@ Most recently, Dúnavarre has launched an ambitious diplomatic initiative to est
 
 - **The Synod:** The governing body of Dúnavarre, composed of senior mages of the [[affiliation-ordoarcanis|Ordo Arcanis]]. The Synod functions as both legislature and executive, with individual members overseeing portfolios of governance (diplomacy, defense, commerce, justice).
 - **The Order of the Just Blade:** A militant knightly order dedicated to [[affiliation-arldnpnthn|Jánus]], god of order and justice. The Order serves as Dúnavarre's military arm, its Knight-Captains commanding the kingdom's forces under the Synod's authority.
+
+- **The Umbral Court:** The Synod's position is that there is no such organisation. See
+  [[affiliation-umbralcourt|The Umbral Court]].
+
+## Why the Ordo Is Here
+
+The Ordo governs no other place on earth, and the usual explanations are Dúnavarren — competent
+mage-advisors, incompetent kings, a crown set aside. Those explain the _form_. They do not explain why
+the Ordo wanted it.
+
+The answer is the rest of Aelwyth. **This is where the Ordo can study the fae without constraint.**
+In [[place-elavendre|Élavendre]] — richer fae country by far — it is permitted and limited, held out of
+the sacred sites by [[affiliation-alndnwrdns|Wardens]] the crown will not overrule. Aelwyth has real fae
+sites and nothing of the kind guarding them: the country belongs to scattered tribes with no common
+council and no way to compel anyone.
+
+Dúnavarre is therefore not an anomaly in the Ordo's history. It is the Ordo's **laboratory**, and the
+Synod governs a kingdom chiefly because governing one is the price of unrestricted access to an island.
+
+The Synod holds that access by an instrument nobody argues with: **every ship crossing between the
+mainland and Aelwyth must call first at [[place-ravenmoor|Ravenmoor]]**, inbound and outbound alike, to be inspected. Prohibited cargo is the stated purpose; anything magical is the real one, and is recorded, examined and often detained. No relic has left the island in living memory without the Ordo seeing it first.
+
+The Synod also knows exactly how small and provincial Aelwyth is — being the only people on it who
+correspond with the mainland as equals — and has never corrected a single neighbour's illusions on the
+subject. An incurious island with a frightening reputation is a well-fenced research ground.
+
+## Population and Settlement
+
+Dúnavarre holds about **75,000** people — the smallest of Aelwyth's four settled realms, and the one the
+other three are careful with. [[affiliation-kngdmldrth|Aldorath]] has nearly three times as many
+subjects and minds Dúnavarren opinion a great deal, which looks absurd until one remembers what the
+Synod is: the Ordo's **central chantry for the island**, and therefore the body that decides whether a
+neighbouring court keeps the advisors it cannot govern without.
+
+The kingdom has only two places that can be called cities: **[[place-ravenmoor|Ravenmoor]]**, the seat,
+at about twenty thousand, and **[[place-wraymouth|Wraymouth]]**, the chief harbour, at about fifteen thousand. The remaining
+forty thousand live on **manorial estates** through the coastal plains and the river valleys — demesne
+and tenantry in the ordinary way, but administered for the Synod by appointed stewards rather than held
+by a landed aristocracy with claims of its own. That is one of the quieter ways mage-rule differs from
+the feudal kingdoms across the water, and one of the reasons the Synod's writ runs as evenly as it does.
 
 ## Commerce and Currency
 

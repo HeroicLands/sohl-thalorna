@@ -5,7 +5,7 @@ name:
   aliases:
     - Physique
 description: "Temporary physical enhancement increasing strength and combat prowess greatly."
-img: icons/tree.svg
+img: systems/sohl/assets/icons/other/tree.svg
 shortcode: might
 type: mysticalability
 subType: arcaneincantation

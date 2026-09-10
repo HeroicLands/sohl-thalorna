@@ -14,7 +14,7 @@ data:
 name:
   full: Calypsa
   aliases: []
-shortcode: calypsa2
+shortcode: calypsacity
 ---
 
 # Calypsa

@@ -7,14 +7,14 @@ name:
   title: ""
   given: Suvaratika
   clan: Ratniseṇa
-  home: Chandrapur
+  home: chandrapur2
   aliases: []
 packFolder: ankarisvedyara
 shortcode: suvrtkrtns
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/suvrtkrtns-portrait.webp
+  portrait: images/beings/characters/suvrtkrtns-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Toymaker
@@ -595,6 +595,8 @@ sohl:
 Suvaratika stands 5'6" tall with a light build. She has warm bronze skin, deep black hair, and black eyes. Her features include a full face, a prominent nose, a narrow chin, expressive brows, rounded cheeks. A distinguishing mark is a scar running down the right leg.
 
 # Dossier {#dossier}
+
+## Background
 
 ### The Child of the Craftsmith Quarter
 

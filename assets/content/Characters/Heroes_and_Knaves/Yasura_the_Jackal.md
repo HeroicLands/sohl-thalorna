@@ -8,14 +8,14 @@ name:
   title: ""
   given: Yâsûra
   clan: ""
-  home: The South Marches
+  home: null # was: The South Marches
   aliases:
     - The Jackal-Queen
     - The Unhoused
     - Yâsûra
 packFolder: northernfertileregionbethua
 shortcode: yasurajckl
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
   portrait: images/being/yasurajckl-portrait.webp
@@ -94,7 +94,7 @@ sohl:
         durability: 5
     - { shortcode: HvyBdrl, type: miscgear }
     - { shortcode: FRtns, type: miscgear, system: { quantity: 5 } }
-    - { shortcode: goldcrown, type: miscgear, system: { quantity: 25 } }
+    - { shortcode: gldcrwn, type: miscgear, system: { quantity: 25 } }
     - { shortcode: wtrskin, type: containergear, system: { quantity: 2 } }
     - { shortcode: backpk, type: containergear }
   system:
@@ -563,6 +563,8 @@ sohl:
 Yâsûra is a lean, weather-hardened woman in her early forties, built in the wiry, fast-moving mould the Bethûan war-art prizes rather than the bulk of a marcher raider. She stands 5'8", dark-skinned and burned darker by the southern sun, her black hair shot with grey and bound back hard for the saddle. A long pale scar runs from her left brow to her jaw — the mark of the hunt that cost her everything and set her on the road south. She still carries herself like the spear-sister she was, upright and balanced, and she still wears, beneath marcher leathers, the habits of a woman trained from girlhood to kill with empty hands. Her dark eyes are flat and measuring, and she has the unhurried confidence of someone who has had a long time to grow comfortable with violence.
 
 # Dossier {#dossier}
+
+## Background
 
 ### Origin: A Daughter of the Matriarchy
 

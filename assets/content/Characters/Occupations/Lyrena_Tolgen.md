@@ -7,12 +7,12 @@ name:
   title: ""
   given: Lýrena
   clan: Tólgen
-  home: Lunacòrte
+  home: lunacorte
   aliases:
     - Ingrid Flamehair
 packFolder: aureldiaprovenzia
 shortcode: lyrenatlgn
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
   portrait: images/being/lyrenatlgn-portrait.webp
@@ -557,7 +557,7 @@ Lýrena Tólgen is a 30-year-old woman who stands 5'8" tall and is slender. She 
 
 Born in the Provènzia region to a freeman family of Provenzian heritage, Lýrena Tólgen came into the world of the skald through a combination of circumstance and aptitude.
 
-Ingrid is known as "Flamehair" for her striking red hair and fiery temperament. She has gained fame for her poems that blend elements of old Normen mythology with contemporary events. Her performances are filled with passion, and she often incorporates gestures and dramatic expressions to captivate her audience. Despite her skill, Ingrid sometimes struggles to keep her emotions in check, especially when recounting tales of loss.
+Ingrid is known as "Flamehair" for her striking red hair and fiery temperament. She has gained fame for her poems that blend elements of old Nordmen mythology with contemporary events. Her performances are filled with passion, and she often incorporates gestures and dramatic expressions to captivate her audience. Despite her skill, Ingrid sometimes struggles to keep her emotions in check, especially when recounting tales of loss.
 
 Now at 30 years of age, Lýrena Tólgen has established herself as a known figure among the skalds of Provènzia. Her reputation, for better or worse, precedes her in the circles where such things matter.
 

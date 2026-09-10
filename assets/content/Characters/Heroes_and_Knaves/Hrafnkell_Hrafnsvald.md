@@ -8,14 +8,14 @@ name:
   title: ""
   given: Hrafnkell
   clan: Hrafnsvald
-  home: Járnvík
+  home: jarnvik
   aliases: []
 packFolder: ankarisnordlands
 shortcode: hrfnklhrfnsvld
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/hrfnklhrfnsvld-portrait.webp
+  portrait: images/beings/characters/hrfnklhrfnsvld-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Tentmaker
@@ -603,6 +603,8 @@ sohl:
 Hrafnkell stands 5'11" tall with a medium build. He has light fair skin, dark brown hair, and brown eyes. His features include an angular face, a prominent nose, a square jawline, a small mouth, dark brows. A distinguishing mark is a tattoo of a fire on the leg.
 
 # Dossier {#dossier}
+
+## Background
 
 ### From War to Craft
 

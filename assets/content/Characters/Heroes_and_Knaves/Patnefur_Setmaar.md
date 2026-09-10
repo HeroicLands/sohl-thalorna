@@ -8,17 +8,17 @@ name:
   title: ""
   given: Pat'nefur
   clan: Set'maâr
-  home: Wasetkara
+  home: wasetkara
   aliases:
     - Patnefur Setmaâr
     - Patnefur Setmaar
 packFolder: northernfertileregiontakheperu
 banner: banners/ta-kheperu-banner.webp
 shortcode: patnfrstmr
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/patnfrstmr-portrait.webp
+  portrait: images/beings/characters/patnfrstmr-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Perfumer

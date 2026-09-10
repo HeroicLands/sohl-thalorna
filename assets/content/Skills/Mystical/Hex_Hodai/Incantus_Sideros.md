@@ -4,7 +4,7 @@ tags:
 type: skill
 subType: mystical
 shortcode: sideros
-img: images/affiliation/sideros.webp
+img: images/affiliation/hex-hodai/sideros.webp
 name:
   full: Incantus Sidéros
   aliases: []

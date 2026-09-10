@@ -8,14 +8,14 @@ name:
   title: ""
   given: Skúli
   clan: Vetrdómr
-  home: Greyfjord
+  home: greyfjord
   aliases: []
 packFolder: ankarisnordlands
 shortcode: skulvtrdmr
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/skulvtrdmr-portrait.webp
+  portrait: images/beings/characters/skulvtrdmr-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Tentmaker
@@ -593,6 +593,8 @@ sohl:
 Skúli stands 6'0" tall with a medium build. He has light ruddy skin, gray hair, and gray eyes. His features include a long face, a straight nose, a square jawline, narrow lips, heavy brows, hollow cheeks. A distinguishing mark is a tattoo of a falcon on the right arm.
 
 # Dossier {#dossier}
+
+## Background
 
 ### Early Years and Training
 

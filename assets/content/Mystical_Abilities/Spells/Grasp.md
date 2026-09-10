@@ -5,7 +5,7 @@ name:
   aliases:
     - Hand
 description: "Invisible force seizes; holds or manipulates objects at distance."
-img: icons/anvil.svg
+img: systems/sohl/assets/icons/game-icons/badges/anvil.svg
 shortcode: grasp
 type: mysticalability
 subType: arcaneincantation

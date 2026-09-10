@@ -5,7 +5,7 @@ name:
   aliases:
     - Resolve
 description: "Binds target's will; suppresses resistance and forces obedience."
-img: icons/circle.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/circle.svg
 shortcode: willbind
 type: mysticalability
 subType: arcaneincantation

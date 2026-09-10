@@ -5,7 +5,7 @@ tags:
 type: skill
 subType: mystical
 shortcode: sacredforge
-img: images/affiliation/sacredforge.webp
+img: images/affiliation/aureldian/sacredforge.webp
 name:
   full: "Ritual: The Sacred Forge"
   aliases:

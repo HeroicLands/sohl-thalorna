@@ -7,12 +7,12 @@ name:
   title: ""
   given: Mália
   clan: Náredh
-  home: Elanmere
+  home: elanmere
   aliases:
     - Elara Flockkeeper
 packFolder: aureldiaelavendre
 shortcode: malianardh
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
   portrait: images/being/malianardh-portrait.webp

@@ -7,14 +7,14 @@ name:
   title: ""
   given: Nárava
   clan: Sūryatejamahānanda
-  home: Vyālendra
+  home: vyalendra3
   aliases: []
 packFolder: ankarisvedyara
 shortcode: nrvsrytjmhnnd
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/nrvsrytjmhnnd-portrait.webp
+  portrait: images/beings/characters/nrvsrytjmhnnd-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Glassworker
@@ -593,6 +593,8 @@ sohl:
 Nárava stands 6'2" tall with a heavy build. He has golden brown skin, jet black hair, and dark brown eyes. His features include a diamond-shaped face, a delicate nose, a rounded chin, an expressive mouth, golden brows, soft cheeks. A distinguishing mark is a tattoo of a compass on the chest.
 
 # Dossier {#dossier}
+
+## Background
 
 ### The Child of Light
 

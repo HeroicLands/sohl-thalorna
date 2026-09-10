@@ -7,14 +7,14 @@ name:
   title: ""
   given: Thêkla
   clan: Rhomaios
-  home: Kostaros
+  home: kostaros
   aliases: []
 packFolder: helladbyzaria
 shortcode: theklarhms
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/theklarhms-portrait.webp
+  portrait: images/beings/characters/theklarhms-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Mercenary

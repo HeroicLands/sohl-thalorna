@@ -5,7 +5,7 @@ name:
   aliases:
     - Palm
 description: "Manifests bright spark in palm; ignites or signals with flame."
-img: icons/wind.svg
+img: systems/sohl/assets/icons/other/wind.svg
 shortcode: hndflr
 type: mysticalability
 subType: arcaneincantation

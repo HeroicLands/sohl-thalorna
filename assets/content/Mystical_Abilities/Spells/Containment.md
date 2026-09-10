@@ -5,7 +5,7 @@ name:
   aliases:
     - Globe
 description: "Reinforced cage of force imprisons; resists magic attempting break."
-img: icons/wind.svg
+img: systems/sohl/assets/icons/other/wind.svg
 shortcode: cntnmnt
 type: mysticalability
 subType: arcaneincantation

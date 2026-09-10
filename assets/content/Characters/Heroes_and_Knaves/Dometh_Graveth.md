@@ -8,14 +8,14 @@ name:
   title: ""
   given: Dómeth
   clan: Gráveth
-  home: Solárden
+  home: solarden
   aliases: []
 packFolder: aureldiatarvenia
 shortcode: domthgrvth
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/domthgrvth-portrait.webp
+  portrait: images/beings/characters/domthgrvth-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Shipwright

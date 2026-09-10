@@ -1,0 +1,29 @@
+---
+tags:
+  - khemenu-hekau
+  - incantation
+name:
+  full: Shabti's Waking
+  aliases: []
+description: "Binds a made servant to wake at a stated condition and act until the condition ends."
+shortcode: shbtswkng
+img: icons/takheperu/khemenu-hekau/imnetau.svg
+type: mysticalability
+subType: arcaneincantation
+sohl:
+  templatePriority: null
+  system:
+    assocSkillCode: imnetau
+    masteryLevelBase: 0
+    levelBase: 5
+    charges:
+      value: null
+      max: null
+packFolder: hekauincantations
+---
+
+The deepest layer of tomb defence, worked jointly with Per-Khat'nu, which makes the body and Per-
+Duat, which sets the waking. The bound thing is not intelligent and does not judge; it performs
+the condition as written, and the House's catalogue of disasters is drawn almost entirely from
+conditions that were written loosely. A shabti set to strike whoever breaks the seal will strike
+the priest sent to repair it.

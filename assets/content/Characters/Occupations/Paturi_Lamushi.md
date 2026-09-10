@@ -8,12 +8,12 @@ name:
   title: ""
   given: Pâtûri
   clan: Lamûshî
-  home: Azhûn
+  home: azhun2
   aliases:
     - Hilda Brigham
 packFolder: midhalionharad
 shortcode: paturilmsh
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
   portrait: images/being/paturilmsh-portrait.webp

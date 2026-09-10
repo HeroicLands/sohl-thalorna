@@ -28,7 +28,7 @@ The city sprawls along the northern shore of the great lake, its primary pyramid
 
 ## Religious Significance
 
-Ixkul K’ul is one of the most important pilgrimage destinations in the southern [[place-kchchkcntnnt|K’ich’chik]] territories. Devout worshippers travel from hundreds of miles distant to participate in sacred bathing ceremonies, to leave offerings in the lake, and to pray for divine favor. The priesthood here is unusually powerful and wealthy, commanding tribute from pilgrims and maintaining a fleet of sacred boats that are never used for mundane purposes. Several of the [[affiliation-itzanpnthn|Itzáni]] gods are worshipped particularly intensely here—especially [[K.in.ul_Tq.an|K’in’ul Tq’an]], god of order and cosmic law.
+Ixkul K’ul is one of the most important pilgrimage destinations in the southern [[place-kchchkcntnnt|K’ich’chik]] territories. Devout worshippers travel from hundreds of miles distant to participate in sacred bathing ceremonies, to leave offerings in the lake, and to pray for divine favor. The priesthood here is unusually powerful and wealthy, commanding tribute from pilgrims and maintaining a fleet of sacred boats that are never used for mundane purposes. Several of the [[affiliation-itzanpnthn|Itzáni]] gods are worshipped particularly intensely here—especially [[affiliation-kinultqan|K’in’ul Tq’an]], god of order and cosmic law.
 
 ## Community
 

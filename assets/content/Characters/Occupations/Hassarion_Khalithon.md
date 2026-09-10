@@ -7,12 +7,12 @@ name:
   title: Lord
   given: Hassârìon
   clan: Khalîthôn
-  home: Myrtillos
+  home: myrtillos
   aliases:
     - Lord Alaric Stormhaven
 packFolder: helladhelionis
 shortcode: hsrnkhlthn
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
   portrait: images/being/hsrnkhlthn-portrait.webp

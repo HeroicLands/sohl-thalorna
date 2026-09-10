@@ -18,87 +18,124 @@ data:
   epithet: null
   symbol: null
   governance:
-    model: theocracy
+    model: meritocracy
     summary: >-
-      Ordained priesthood under a hierarch, with the lay faithful bound by observance rather
-      than by office.
+      Not a church but an administration. Temples are celestial post offices and their clergy are
+      clerks; standing follows competence with forms, seals, precedent and the correct bureau,
+      within the bounds the Tānthëi caste sets on who may be trained at all. Petitions are written,
+      sealed, accompanied by tribute in coin and in kind, and burned at the censer, which is the
+      act that files them. A petition filed to the wrong bureau is simply lost.
     ranks:
       - level: 0
-        title: Excommunicate
+        title: Struck from the Rolls
         lore: excmmnctrnk
         description: >-
-          Cut off from the rites, the temples and the burial the tradition promises — the one
-          sentence it can pass that outlives the body.
+          The ledger closed against them: no petition they file is accepted, no temple will stamp
+          for them, and no ancestor can advocate for a descendant who cannot be addressed. This is
+          not damnation. It is administrative non-existence, which the Tānvüri consider worse.
       - level: 1
-        title: Catechumen
-        lore: catechumenrnk
-        description: Under instruction and not yet received; permitted to hear and not to partake.
+        title: Petitioner
+        lore: layfaithfulrnk
+        description: >-
+          Every Tānvüri: keeps a moral ledger, is observed by the household's Zātkür, and files
+          through a temple for rain, healing, a ruling, or a relative's passage through the
+          Ministry of Final Account.
       - level: 2
-        title: Lay Faithful
-        lore: layfaithfulrnk
+        title: Copyist
+        lore: apprenticernk
         description: >-
-          Of the tradition by profession and observance, keeping its feasts and its prohibitions
-          without office in it.
+          Under training in a temple — learning the hand, copying forms, learning the seals and the
+          calendrical schedules — and not yet permitted to file anything on another's behalf.
       - level: 3
-        title: Devotee
-        lore: layfaithfulrnk
+        title: Clerk
+        lore: clerkrnk
         description: >-
-          Bound by a private vow — a fast, a pilgrimage, a service — beyond what the lay faithful
-          owe.
+          The ordinary temple officer, and the tradition's plain description of its own clergy:
+          not a pastor but a clerk who knows the correct forms, the correct seals and the correct
+          bureau. Charges fees, because preparing a petition correctly is expertise.
       - level: 4
-        title: Acolyte
-        lore: initiaternk
+        title: Seal-Holder
+        lore: officerrnk
         description: >-
-          Serving in the temple and learning its rites, on the path to ordination and not yet
-          holding it.
+          Holds a temple's seals and stamps. Nothing is transmitted without them, which makes this
+          the office at which a petition is in practice granted or refused.
       - level: 5
-        title: Ordained
-        lore: priestrnk
+        title: Registrar
+        lore: magistraternk
         description: >-
-          Priest or priestess of the tradition, empowered to perform the rites and to bind and
-          loose in its name.
+          Keeps the region's ledgers and rules on whether a petition is correctly addressed,
+          adequately supported by precedent, and free of conflict with standing allocations.
       - level: 6
-        title: Temple Officer
+        title: Intendant
         lore: highpriestrnk
-        description: Holding a charge within a temple — its treasury, its schools, its estates,
-          its oracles.
+        description: >-
+          Heads one bureau's temple in a province, answering for its filings, its revenues and its
+          record-keeping, and hiring the scholars who research precedent for difficult petitions.
       - level: 7
-        title: High Priest
-        lore: highpriestrnk
-        description: Head of a temple or a cult, speaking with the voice of the god in matters
-          of its doctrine.
-      - level: 8
-        title: Hierophant
+        title: Chief Intendant
         lore: grandmasterrnk
         description: >-
-          Head of the whole tradition, whose ruling on doctrine is final and whose sanction
-          every high priest holds at.
+          Senior mortal officer of a bureau's whole temple establishment, who signs what is
+          transmitted upward to its Tëng Güng and answers for it if the bureau rejects it.
     offices:
-      Hierophant: >-
-        Head of the tradition, final authority on its doctrine and source of every high priest's
-        sanction.
-      High Priest: Head of a temple or cult, master of its estates and voice of its god on
-        doctrine.
-      Oracle: Speaker of the god's answer, consulted before any undertaking the tradition
-        must bless.
-      Temple Steward: Administrator of a temple's lands, herds, workshops and revenue.
-      Sacristan: Keeper of the sanctuary, its vessels, its vestments and the purity of both.
-      Almoner: Distributor of the temple's charity, and the face the tradition shows the poor.
-      Lector: Reader of the sacred texts in the rites, and teacher of them to acolytes.
-      Exorcist: >-
-        Charged with what the tradition holds should not be present, and with the rites that
-        remove it.
-      Chief Augur: Reader of the signs by which the tradition fixes the hour of its acts.
-      Keeper of the Calendar: Holder of the feast-reckoning, and thereby of when the year's
-        obligations fall due.
-  commonSkills: []
+      Tānlüng, the Celestial Dragon: >-
+        The First Classifier at the apex, who drew the Vōr Thōk and performed the Great Sorting,
+        and who delegates rather than rules.
+      Vëizhük Dāknëi, the Jade Sovereign: >-
+        Administers the whole on Tānlüng's delegation, and the authority the eleven bureau
+        overseers lobby for jurisdiction.
+      Tëng Güng: >-
+        "Celestial Minister" — Overseer of one of the eleven Spirit Bureaus, whose power is the
+        authority of the office and not of their person; overseers are promoted, demoted,
+        reassigned and dismissed.
+      Vënsōk Zhük: >-
+        Chief Auditor of the Ministry of Final Account, who reviews a moral ledger line by line at
+        death.
+      Zātkür: >-
+        Hearth Monitor — the household spirit that observes daily conduct and files the annual
+        report on which a family's ledger stands.
+      Chief Intendant: >-
+        Senior mortal officer of a bureau's temples, who signs what is transmitted upward.
+      Registrar: >-
+        Keeper of a region's ledgers, and the ruling on whether a petition is correctly addressed.
+      Seal-Holder: >-
+        Holder of the stamps without which nothing is transmitted at all.
+      Clerk of Transmission: >-
+        Conducts the burning by which a sealed petition is actually filed, fire being the medium of
+        transmission between the mortal and celestial planes. A household keeps a small censer for
+        minor filings — a domestic sacrifice, a report to its own Zātkür — but anything of
+        consequence must be taken to a shrine or a temple. A village temple has one censer; a great
+        temple keeps many, one for each bureau it is licensed to address, and a petition burned at
+        the wrong censer reaches the wrong bureau and is lost.
+      Advocate: >-
+        Prosecutes appeals before the Supreme Administrative Court, citing precedent against a
+        ruling or a punishment order. Most such appeals fail; the avenue exists.
+      Receiver of Tribute: >-
+        Takes the sacrifices that accompany a petition — coin, grain, cloth, livestock, worked
+        goods — and enters their value to the petitioner's celestial credit.
+      Master of Forms: >-
+        Holds the correct opening formulae, addressing conventions and order of citation, and does
+        not teach them outside the temple.
+      Illuminator: >-
+        Paints the landscape scenes, creatures and divine symbolism a weighty petition carries; at
+        the highest level the petition is an artwork that happens to carry text.
+      Assessor of Sacrifice: >-
+        Values tribute paid in kind against the temple's standing schedule, and rules on whether
+        what has been offered supports the petition being asked for. A small sacrifice may be made
+        at a home shrine and needs no assessor; a petition of any weight requires one.
+  commonSkills:
+    - tngthkscrpt
+    - draw
+    - law
   seat: null
   domains: []
   population: null
-  economy: []
+  economy:
+    - tanvrcrncy
   lore: []
   parents: []
-  relations: {}
+  relations:
+    tanvurempr: aligned
 sohl:
   templatePriority: null
 packFolder: pantheonstengvokvanlei
@@ -161,6 +198,57 @@ The mortal court's political intrigues — the deadly maneuvering that the Tānv
 The divine structure is a vast **imperial bureaucracy** that the earthly government is modeled upon (not the reverse — the Tānvüri insist that heaven came first and earth copies it). At the apex sits the **Celestial Dragon** (Tānlüng), the First Classifier, who delegates authority to the **Jade Sovereign** (Vëizhük Dāknëi), who in turn administers the eleven **Spirit Bureaus** (Lëi Sëi). Each bureau oversees one domain of classified existence, led by an **Overseer** (Tëng Güng, "Celestial Minister") and staffed by functionary spirits.
 
 The bureaucracy processes three types of cosmic business: **petitions** (requests from mortals, filed through temples), **reports** (filed by local spirits and household monitors), and **directives** (issued downward from higher bureaus to lower spirits). The entire system runs on spiritual documentation — contracts, ledgers, seals, and stamps — which is why the burning of spirit paper is central to Tānvüri practice. Burning a document transmits it to the celestial filing system.
+
+### The Craft of the Petition
+
+A petition is a document, and three things stand between an ordinary Tānvüri and a filed one.
+
+The first is the **script**. Petitions are written in [[skill-tngthkscrpt|Tëng Thōk]], the Celestial
+Record — logographic, three to four thousand characters for educated reading, more to compose
+formally, ten to fifteen years for a full education in it. A villager who wishes to petition for
+rain cannot write the request, and that is before any question of protocol arises.
+
+The second is the **forms**. The correct opening formulae, the addressing conventions, the order of
+citation, the seals a given bureau requires — these are held by the temple clergy and are not
+taught outside it. The Tānthëi call this the guardianship of sacred knowledge; an outsider who
+acquires the forms by other means and files with them has committed a serious offence, and the
+petition is refused whether or not it was correct.
+
+The third is **beauty**, and it is not decoration. A petition that is correct will be processed. A
+petition that is _beautiful_ is read with attention, and the difference shows in the outcome. At
+the lower levels this means a clean hand and a well-proportioned column. At the higher levels the
+document becomes an artwork in its own right: illuminated borders, landscape scenes of the country
+the petition concerns, painted creatures appropriate to the bureau addressed, and the divine
+symbolism of the office being petitioned. The most powerful petitions ever filed are paintings that
+happen to carry text, and copies of the great ones are studied by clerks the way jurists study
+rulings.
+
+All of which the priests charge for, at a price of their own setting. The Tānvüri do not consider
+this corrupt. The years are real, the skill is real, and a badly made petition is genuinely lost —
+so the fee buys exactly what it appears to buy. It is also, as everyone understands, a monopoly.
+
+### Sacrifice as Postage
+
+Every petition carries a sacrifice, and the sacrifice is not a bribe, a gift, or an act of
+devotion. It is **postage**. What it buys is carriage — the further up the administration a
+document must travel, the more it costs to send.
+
+- **A dead parent** can be reached from the household. Some food burned in the home censer, and a
+  sheet of paper with the prayers written on it, is sufficient postage to reach one's own dead.
+- **A village's elder ancestor** — a spirit with standing, advocating for many descendants —
+  requires at least a local shrine, and often a temple.
+- **A named god** requires a temple and a significant sacrifice: coin, grain, livestock, cloth,
+  worked goods, assessed against the temple's standing schedule before the petition is sealed.
+
+This is why a poor family's petition for rain is filed by the village collectively and a rich
+family's is filed alone, and why the Tānvüri regard the accusation that they are _buying_ divine
+favour as a category error. Nobody thinks the postage persuades the Minister of Storms. It pays
+for the document to reach him.
+
+It also follows that failure is diagnosable. A petition that goes unanswered was underpaid, was
+misaddressed, was burned at the wrong censer, was outranked by a competing claim, or was filed by
+someone whose ledger could not support it. The Tānvüri will work through that list before it
+occurs to anyone that the god declined.
 
 ---
 

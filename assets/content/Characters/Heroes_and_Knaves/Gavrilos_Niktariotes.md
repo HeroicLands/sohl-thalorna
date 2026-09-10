@@ -7,14 +7,14 @@ name:
   title: ""
   given: Gávrilos
   clan: Niktariôtês
-  home: Chrysamar
+  home: chrysamar
   aliases: []
 packFolder: helladbyzaria
 shortcode: gvrlsnktrts
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/gvrlsnktrts-portrait.webp
+  portrait: images/beings/characters/gvrlsnktrts-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Swordmaster

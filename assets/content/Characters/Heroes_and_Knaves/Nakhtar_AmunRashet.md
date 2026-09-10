@@ -7,17 +7,17 @@ name:
   title: ""
   given: Nakhtar
   clan: Amun'Râshet
-  home: Wasetkara
+  home: wasetkara
   aliases:
     - Nakhtar AmunRâshet
     - Nakhtar AmunRashet
 packFolder: northernfertileregiontakheperu
 banner: banners/ta-kheperu-banner.webp
 shortcode: nkhtrmnrsht
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/nkhtrmnrsht-portrait.webp
+  portrait: images/beings/characters/nkhtrmnrsht-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Thatcher
@@ -591,6 +591,8 @@ sohl:
 Nakhtar stands 5'9" tall with a medium build. He has dark brown skin, white hair, and green-brown eyes. His features include a prominent nose, a tapered chin, well-shaped lips, dark brows.
 
 # Dossier {#dossier}
+
+## Background
 
 ### The Inheritance of Craft
 

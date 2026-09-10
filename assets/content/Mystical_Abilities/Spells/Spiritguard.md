@@ -5,7 +5,7 @@ name:
   aliases:
     - Host
 description: "Summons protective spirit; grants spectral defender and aid."
-img: icons/divination.svg
+img: systems/sohl/assets/icons/noun/divination.svg
 shortcode: sprtgrd
 type: mysticalability
 subType: arcaneincantation

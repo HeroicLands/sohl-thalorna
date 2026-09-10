@@ -7,12 +7,12 @@ name:
   title: ""
   given: Kólrith
   clan: Delvánor
-  home: Eskárath
+  home: null # was: Eskárath
   aliases:
     - Tobias Skyfury
 packFolder: aureldiatarvenia
 shortcode: klrthdlvnr
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
   portrait: images/being/klrthdlvnr-portrait.webp

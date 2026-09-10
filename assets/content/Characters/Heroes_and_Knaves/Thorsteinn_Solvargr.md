@@ -8,14 +8,14 @@ name:
   title: ""
   given: Thorsteinn
   clan: Sólvargr
-  home: Haldrvík
+  home: haldrvik
   aliases: []
 packFolder: ankarisnordlands
 shortcode: thrstnslvrgr
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/thrstnslvrgr-portrait.webp
+  portrait: images/beings/characters/thrstnslvrgr-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Glassworker
@@ -581,6 +581,8 @@ sohl:
 Thorsteinn stands 6'1" tall with a medium build. He has light weathered skin, gray hair, and gray eyes. His features include an angular face, a straight nose, a slightly downturned mouth, thick brows. A distinguishing mark is a scar on the chin.
 
 # Dossier {#dossier}
+
+## Background
 
 ### The Apprenticeship Years
 

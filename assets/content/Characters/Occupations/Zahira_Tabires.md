@@ -7,12 +7,12 @@ name:
   title: ""
   given: Zahîra
   clan: Tâbîrês
-  home: Thyrenae
+  home: thyrenae2
   aliases:
     - Elira Weaver
 packFolder: helladhelionis
 shortcode: zahiratbrs
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
   portrait: images/being/zahiratbrs-portrait.webp

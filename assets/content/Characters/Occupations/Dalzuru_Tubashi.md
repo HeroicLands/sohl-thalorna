@@ -7,12 +7,12 @@ name:
   title: ""
   given: Dalzûru
   clan: Tûbashî
-  home: Kethara
+  home: kethara2
   aliases:
     - Sigurd Ravensong
 packFolder: midhalionharad
 shortcode: dalzurtbsh
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
   portrait: images/being/dalzurtbsh-portrait.webp
@@ -576,7 +576,7 @@ Dalzûru is driven by the desire to master his craft and secure a stable future.
 
 ### Strengths
 
-Skilled storyteller, powerful voice, knowledgeable in Normen history.
+Skilled storyteller, powerful voice, knowledgeable in Nordmen history.
 
 ## Social
 

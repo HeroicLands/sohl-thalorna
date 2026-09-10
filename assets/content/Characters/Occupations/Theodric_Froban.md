@@ -7,13 +7,13 @@ name:
   title: ""
   given: Theódric
   clan: Fróðbán
-  home: Dunkelwald
+  home: dunkelwald
   aliases:
     - Thrain Ironpick
     - Theodric Froban
 packFolder: ankarisvrystwald
 shortcode: thdrcfrdbn
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
   portrait: images/being/thdrcfrdbn-portrait.webp

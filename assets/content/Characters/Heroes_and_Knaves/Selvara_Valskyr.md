@@ -11,10 +11,10 @@ name:
 packFolder: aureldiatarvenia
 shortcode: slvrvlskyr
 banner: banners/tamzir-banner.webp
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/slvrvlskyr-portrait.webp
+  portrait: images/beings/characters/slvrvlskyr-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: First Mate
@@ -568,6 +568,8 @@ sohl:
 Sélvara Válskyr is a striking woman — tall, dark-skinned, and built with the lean, hard muscle of a career soldier. Her brown hair is kept short and practical, and her hazel eyes hold a steady, assessing gaze that has unnerved far larger opponents. She moves with the quiet precision of someone who has spent years navigating both battlefields and heaving ship decks, and her bearing carries an unmistakable military authority. She dresses practically in a leather vest over simple cloth, with a short sword and battleaxe within easy reach. A fine roundshield, battered but well-maintained, hangs from a strap across her back when trouble is expected.
 
 # Dossier {#dossier}
+
+## Background
 
 ### Origin
 

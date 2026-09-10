@@ -12,7 +12,7 @@ name:
   aliases: []
 packFolder: aureldiaelavendre
 shortcode: belrktrvnl
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
   portrait: images/being/belrktrvnl-portrait.webp

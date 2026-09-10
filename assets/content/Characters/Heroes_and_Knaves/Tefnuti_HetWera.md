@@ -7,17 +7,17 @@ name:
   title: ""
   given: Tefnutî
   clan: Het'Wera
-  home: Ankh-Setûn
+  home: ankhsetun
   aliases:
     - Tefnutî HetWera
     - Tefnuti HetWera
 packFolder: northernfertileregiontakheperu
 banner: banners/ta-kheperu-banner.webp
 shortcode: tefnuthtwr
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/tefnuthtwr-portrait.webp
+  portrait: images/beings/characters/tefnuthtwr-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Toymaker

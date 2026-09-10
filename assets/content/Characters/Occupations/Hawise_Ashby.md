@@ -7,12 +7,12 @@ name:
   title: ""
   given: Hawise
   clan: Ashby
-  home: Thornbury
+  home: thornbury
   aliases:
     - Hilda Stoneheart
 packFolder: aureldiaaelwyth
 shortcode: hawiseshby
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
   portrait: images/being/hawiseshby-portrait.webp

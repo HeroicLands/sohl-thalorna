@@ -7,12 +7,12 @@ name:
   title: ""
   given: Erthran
   clan: Hildvith
-  home: Waldburg
+  home: waldburg
   aliases:
     - Bram Hollowfoot
 packFolder: ankarisvrystwald
 shortcode: erthrnhldvth
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
   portrait: images/being/erthrnhldvth-portrait.webp

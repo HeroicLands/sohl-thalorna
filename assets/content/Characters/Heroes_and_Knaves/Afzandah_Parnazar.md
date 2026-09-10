@@ -8,14 +8,14 @@ name:
   title: ""
   given: Afzandah
   clan: Parnâzar
-  home: Kethramír
+  home: kethramir
   aliases: []
 packFolder: ankariskhazryndesert
 shortcode: afzndhprnzr
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/afzndhprnzr-portrait.webp
+  portrait: images/beings/characters/afzndhprnzr-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Weaponcrafter (Armorer)
@@ -582,6 +582,8 @@ sohl:
 Afzandah stands 5'8" tall with a medium build. She has golden olive skin, dark black hair, and green eyes. Her features include an oval face, a strong nose, a pointed chin, slightly pursed lips, arched brows, angular cheeks. A distinguishing mark is a scar on the left ankle.
 
 # Dossier {#dossier}
+
+## Background
 
 ### Early Years
 

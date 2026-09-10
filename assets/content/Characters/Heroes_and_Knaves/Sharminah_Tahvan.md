@@ -8,14 +8,14 @@ name:
   title: ""
   given: Sharmînah
   clan: Tahvân
-  home: Kethramír
+  home: kethramir
   aliases: []
 packFolder: ankariskhazryndesert
 shortcode: shrmnhthvn
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/shrmnhthvn-portrait.webp
+  portrait: images/beings/characters/shrmnhthvn-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Priest
@@ -591,6 +591,8 @@ sohl:
 Sharmînah stands 5'11" tall with a medium build. She has warm olive skin, dark brown hair, and honey brown eyes. Her features include a diamond-shaped face, a long nose, a sharp jawline, full lips, dark brows.
 
 # Dossier {#dossier}
+
+## Background
 
 ### The Foundling's Calling
 

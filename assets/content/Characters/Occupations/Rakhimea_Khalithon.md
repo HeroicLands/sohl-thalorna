@@ -7,12 +7,12 @@ name:
   title: ""
   given: Ràkhîmêa
   clan: Khalîthôn
-  home: Athenikos
+  home: athenikos2
   aliases:
     - Freya Shieldbreaker
 packFolder: helladhelionis
 shortcode: rkhmkhlthn
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
   portrait: images/being/rkhmkhlthn-portrait.webp

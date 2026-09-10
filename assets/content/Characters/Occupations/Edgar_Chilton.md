@@ -7,12 +7,12 @@ name:
   title: ""
   given: Edgar
   clan: Chilton
-  home: Caerwynd
+  home: caerwynd
   aliases:
     - Thadeus Grimshaw
 packFolder: aureldiaaelwyth
 shortcode: edgarchltn
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
   portrait: images/being/edgarchltn-portrait.webp

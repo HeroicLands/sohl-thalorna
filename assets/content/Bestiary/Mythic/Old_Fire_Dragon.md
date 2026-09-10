@@ -7,7 +7,7 @@ name:
   aliases:
     - Fire Wyrm
 description: "A millennium-old fire-breathing wyrm of ash and calamity, sapient and vengeful, hoarding kingdom-bankrupting wealth over lands it conquers and razes."
-img: icons/game-icons/faithtoken/dragon-head.svg
+img: systems/sohl/assets/icons/game-icons/faithtoken/dragon-head.svg
 shortcode: oldfrdrg
 type: being
 data:

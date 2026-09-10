@@ -7,12 +7,12 @@ name:
   title: ""
   given: Floréth
   clan: Bránthira
-  home: Valdés
+  home: valdes
   aliases:
     - Jarek Ironfoot
 packFolder: aureldiatarvenia
 shortcode: flrthbrnthr
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
   portrait: images/being/flrthbrnthr-portrait.webp

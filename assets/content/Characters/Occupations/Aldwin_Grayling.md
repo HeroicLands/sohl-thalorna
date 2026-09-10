@@ -7,12 +7,12 @@ name:
   title: ""
   given: Aldwin
   clan: Grayling
-  home: Ravenmoor
+  home: ravenmoor
   aliases:
     - Harlon Pitch
 packFolder: aureldiaaelwyth
 shortcode: aldwngrylng
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
   portrait: images/being/aldwngrylng-portrait.webp

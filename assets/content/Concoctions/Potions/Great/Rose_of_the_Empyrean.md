@@ -6,7 +6,7 @@ name:
   aliases:
     - Potion, Aromatic, Great
 description: "Translucent luminous perfume; grants beauty and supernatural charisma."
-img: icons/potion.svg
+img: systems/sohl/assets/icons/other/potion.svg
 shortcode: PtnAromG
 type: concoctiongear
 subType: exotic

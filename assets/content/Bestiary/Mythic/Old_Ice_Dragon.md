@@ -7,7 +7,7 @@ name:
   aliases:
     - Frost Wyrm
 description: "A colossal, ancient ice-wyrm exceeding forty feet, embodying merciless patience and predatory cunning honed across centuries of frozen dominion."
-img: icons/game-icons/faithtoken/dragon-head.svg
+img: systems/sohl/assets/icons/game-icons/faithtoken/dragon-head.svg
 shortcode: oldicdrg
 type: being
 data:

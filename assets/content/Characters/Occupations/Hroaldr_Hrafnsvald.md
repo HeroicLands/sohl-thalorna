@@ -8,12 +8,12 @@ name:
   title: ""
   given: Hróaldr
   clan: Hrafnsvald
-  home: Thrymstead
+  home: thrymstead
   aliases:
     - Oswin Brightstone
 packFolder: ankarisnordlands
 shortcode: hrldrhrfnsvld
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
   portrait: images/being/hrldrhrfnsvld-portrait.webp

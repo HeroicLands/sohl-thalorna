@@ -7,14 +7,14 @@ name:
   title: ""
   given: Vànika
   clan: Ratniseṇa
-  home: Rājapur
+  home: rajapur
   aliases: []
 packFolder: ankarisvedyara
 shortcode: vanikartns
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/vanikartns-portrait.webp
+  portrait: images/beings/characters/vanikartns-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Cook
@@ -588,6 +588,8 @@ sohl:
 Vànika stands 5'10" tall with a medium build. She has warm wheat skin, deep black hair, and dark amber eyes. Her features include a heart-shaped face, a broad nose, a small chin, a wide mouth, heavy brows, full cheeks.
 
 # Dossier {#dossier}
+
+## Background
 
 ### The Kitchen Born
 

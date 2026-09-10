@@ -13,7 +13,7 @@ name:
   home: null
 packFolder: ankarisvrystwald
 shortcode: ragnarfrgd
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
   portrait: images/being/ragnarfrgd-portrait.webp

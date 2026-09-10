@@ -7,12 +7,12 @@ name:
   title: ""
   given: Qirûsh
   clan: Tarûzî
-  home: Sulûn
+  home: sulun
   aliases:
     - Torvin Hidebark
 packFolder: midhalionharad
 shortcode: qirushtarz
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
   portrait: images/being/qirushtarz-portrait.webp

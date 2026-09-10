@@ -7,14 +7,14 @@ name:
   title: ""
   given: Akákios
   clan: Polytimós
-  home: Denizara
+  home: denizara2
   aliases: []
 packFolder: helladbyzaria
 shortcode: akksplytms
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/akksplytms-portrait.webp
+  portrait: images/beings/characters/akksplytms-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Common Seaman

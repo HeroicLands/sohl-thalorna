@@ -7,14 +7,14 @@ name:
   title: ""
   given: Mithran
   clan: Shiradar
-  home: Oasis of Teyran
+  home: oasisteyrn
   aliases: []
 packFolder: dunharatribes
 shortcode: mthrnshrdr
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/mthrnshrdr-portrait.webp
+  portrait: images/beings/characters/mthrnshrdr-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Chieftain

@@ -7,12 +7,12 @@ name:
   title: ""
   given: Maḥmûdrós
   clan: Gharîdís
-  home: Pelagora
+  home: pelagora2
   aliases:
     - Grimwald Thickhide
 packFolder: helladhelionis
 shortcode: mmdrsghrds
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
   portrait: images/being/mmdrsghrds-portrait.webp

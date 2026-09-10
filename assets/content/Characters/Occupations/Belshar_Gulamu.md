@@ -8,12 +8,12 @@ name:
   title: ""
   given: Belshar
   clan: Gûlamû
-  home: Míravel
+  home: miravel
   aliases:
     - Cedric Ironkey
 packFolder: midhalionharad
 shortcode: belsharglm
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
   portrait: images/being/belsharglm-portrait.webp

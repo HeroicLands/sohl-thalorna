@@ -8,16 +8,16 @@ name:
   title: ""
   given: Zahira
   clan: Malkhet
-  home: Bethûra
+  home: bethura
   aliases:
     - The Bounty Hunter
     - The Hound of the Veil
 packFolder: northernfertileregionbethua
 shortcode: zahirmlkht
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/zahirmlkht-portrait.webp
+  portrait: images/beings/characters/zahirmlkht-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Bounty Hunter
@@ -580,11 +580,13 @@ Zahira stands 5'7" tall with a heavy build. She has dark tanned skin, black hair
 
 # Dossier {#dossier}
 
+## Background
+
 ### Origin and Early Life
 
 Zahira Malkhet was born in **Sehéla**, a small grain-village of the dry southern interior of the [[affiliation-mtrrchybth|Matriarchy of Bethûa]], where the fields are kept alive only by the qanats and channels the engineer-priestesses maintain. Her family were peasants of the irrigated hinterland, working land held by the local House. As is the Bethûan way, the household turned on its women: Zahira's mother and grandmother held what little the family owned and governed its affairs, while her father and the men of the house laboured in the fields as the dependents they were under law. Zahira, the eldest daughter, was raised from the first as one who would matter — for in Bethûa it is daughters who inherit, carry the line, and answer for a household.
 
-Like every free Bethûan girl, Zahira was trained young in arms and in the **[[affiliation-mtrrchybth#The Martial Bridge: the Spear-Sisterhood and the Fleet|Charíssa]]**, the realm's lethal unarmed art that turns a woman's speed and agility into a weapon. She took to it as few do — by ten she was outfighting girls years older, and her unusual quickness, the very gift on which the Charíssa depends, marked her out to the women who trained the village levy.
+Like every free Bethûan girl, Zahira was trained young in arms and in the **[[affiliation-mtrrchybth#the-martial-bridge-the-spear-sisterhood-and-the-fleet|Charíssa]]**, the realm's lethal unarmed art that turns a woman's speed and agility into a weapon. She took to it as few do — by ten she was outfighting girls years older, and her unusual quickness, the very gift on which the Charíssa depends, marked her out to the women who trained the village levy.
 
 ### Training and Rise to Prominence
 

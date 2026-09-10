@@ -7,14 +7,14 @@ name:
   title: ""
   given: Philína
   clan: Markêsianos
-  home: Byzaris
+  home: byzaris
   aliases: []
 packFolder: helladbyzaria
 shortcode: phlnmrksns
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/phlnmrksns-portrait.webp
+  portrait: images/beings/characters/phlnmrksns-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Hideworker

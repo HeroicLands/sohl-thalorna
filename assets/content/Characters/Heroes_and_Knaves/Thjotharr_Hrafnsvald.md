@@ -7,14 +7,14 @@ name:
   title: ""
   given: Thjótharr
   clan: Hrafnsvald
-  home: Járnhavn
+  home: jarnhavn
   aliases: []
 packFolder: ankarisnordlands
 shortcode: thjthrhrfnsvld
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/thjthrhrfnsvld-portrait.webp
+  portrait: images/beings/characters/thjthrhrfnsvld-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Clothier

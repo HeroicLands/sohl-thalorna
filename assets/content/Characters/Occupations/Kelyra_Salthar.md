@@ -8,12 +8,12 @@ name:
   title: ""
   given: Kélyra
   clan: Sálthar
-  home: Ceridwen's Hollow
+  home: cerdwnshlw
   aliases:
     - Imogen Fairchild
 packFolder: aureldiaelavendre
 shortcode: kelyrslthr
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
   portrait: images/being/kelyrslthr-portrait.webp

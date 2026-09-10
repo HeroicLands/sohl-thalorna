@@ -7,14 +7,14 @@ name:
   title: ""
   given: Snorri
   clan: Járnskel
-  home: Thrymstead
+  home: thrymstead
   aliases: []
 packFolder: ankarisnordlands
 shortcode: snorjrnskl
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/snorjrnskl-portrait.webp
+  portrait: images/beings/characters/snorjrnskl-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Farmer
@@ -587,6 +587,8 @@ sohl:
 Snorri stands 6'3" tall with a heavy build. He has tanned weathered skin, dark brown hair, and brown eyes. His features include an oval face, a narrow nose, a broad chin, a slightly downturned mouth, dark brows. A distinguishing mark is a scar on the right cheek.
 
 # Dossier {#dossier}
+
+## Background
 
 ### Born into Chains
 

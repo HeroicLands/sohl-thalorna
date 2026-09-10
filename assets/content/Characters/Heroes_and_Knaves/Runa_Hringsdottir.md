@@ -8,15 +8,15 @@ name:
   title: ""
   given: Hringsdóttir
   clan: ""
-  home: Járnhavn
+  home: jarnhavn
   aliases:
     - the Shield-Maiden of Járnhavn
 packFolder: ankarisnordlands
 shortcode: rnhrngsdtr
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/rnhrngsdtr-portrait.webp
+  portrait: images/beings/characters/rnhrngsdtr-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Huscarl
@@ -98,7 +98,7 @@ sohl:
     - { shortcode: ArwStd, type: projectilegear, system: { quantity: 30 } }
     - name: Quiver (leather)
       type: miscgear
-      img: icons/quiver.svg
+      img: systems/sohl/assets/icons/game-icons/delapouite/quiver.svg
       system:
         weight: 1
         value: 100
@@ -590,6 +590,8 @@ Rúna is 5’10" with a strong, athletic build, weighing about 180 pounds. Her f
 # Dossier {#dossier}
 
 Rúna is a fierce warrior from the trading town of Járnhavn, a town renowned for its warlike traditions and its ships of raiders. Born into a warrior clan, Rúna was trained from childhood in the use of weapons, particularly the spear and shield. Her clan holds the duty of protecting Norgaad’s coastlines from invaders and raiders. Rúna first encountered [[being-grosdrnrgd|Gróa]] during a battle with Targud raiders. [[being-grosdrnrgd|Gróa]]’s strange powers and ability to foresee the movements of the enemy saved Rúna’s warband, earning her respect.
+
+## Background
 
 ### Skills and Abilities
 

@@ -7,12 +7,12 @@ name:
   title: ""
   given: Brýnael
   clan: Fálwyn
-  home: Liranel
+  home: liranel
   aliases:
     - Adelaine Mossgrove
 packFolder: aureldiaelavendre
 shortcode: brynlflwyn
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
   portrait: images/being/brynlflwyn-portrait.webp

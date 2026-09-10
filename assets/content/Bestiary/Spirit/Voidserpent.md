@@ -5,11 +5,11 @@ name:
   full: Voidserpent
   aliases: []
 description: "An extraordinarily rare serpent from the spaces between worlds, older than gods and alien beyond comprehension, moving by incomprehensible purposes."
-img: icons/game-icons/lorc/snake.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 shortcode: vdsrpnt
 type: being
 data:
-  portrait: images/being/vdsrpnt-portrait.webp
+  portrait: images/beings/creatures/vdsrpnt-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: null

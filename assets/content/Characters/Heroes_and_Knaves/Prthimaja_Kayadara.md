@@ -8,14 +8,14 @@ name:
   title: ""
   given: Prthîmâja
   clan: Kâyadara
-  home: Chandrapur
+  home: chandrapur2
   aliases: []
 packFolder: ankarisvedyara
 shortcode: prthmjkydr
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/prthmjkydr-portrait.webp
+  portrait: images/beings/characters/prthmjkydr-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Jeweller

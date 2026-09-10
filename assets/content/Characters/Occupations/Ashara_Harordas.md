@@ -8,12 +8,12 @@ name:
   title: ""
   given: Ashârâ
   clan: Hârôrdâs
-  home: Tyrellan
+  home: tyrellan
   aliases:
     - Thalia Ashbrook
 packFolder: midhalionvylaria
 shortcode: asharhrrds
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
   portrait: images/being/asharhrrds-portrait.webp

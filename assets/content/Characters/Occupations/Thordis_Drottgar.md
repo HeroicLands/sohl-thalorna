@@ -7,12 +7,12 @@ name:
   title: ""
   given: Thórdís
   clan: Dróttgar
-  home: Skarholme
+  home: skarholme
   aliases:
     - Liora Ashdown
 packFolder: ankarisnordlands
 shortcode: thrdsdrtgr
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
   portrait: images/being/thrdsdrtgr-portrait.webp

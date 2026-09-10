@@ -5,7 +5,7 @@ name:
   aliases:
     - Sound
 description: "Sound magic amplifying and redirecting acoustic waves dangerously."
-img: icons/wind.svg
+img: systems/sohl/assets/icons/other/wind.svg
 shortcode: rsnnc
 type: mysticalability
 subType: arcaneincantation

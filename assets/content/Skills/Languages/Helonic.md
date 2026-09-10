@@ -5,7 +5,7 @@ name:
   aliases:
     - Helonic
 description: "The old prestige tongue of philosophy, theater, and scholarship — still the learned man's second language from the academies to the stage."
-img: icons/speaking.svg
+img: systems/sohl/assets/icons/other/speaking.svg
 shortcode: helonclng
 type: skill
 subType: language

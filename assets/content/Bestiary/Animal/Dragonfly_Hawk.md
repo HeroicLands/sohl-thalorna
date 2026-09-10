@@ -5,11 +5,11 @@ name:
   full: Dragonfly Hawk
   aliases: []
 description: "A dragonfly scaled to nightmare size, an agile aerial hunter of rivers, marshes, and coasts that strikes prey by sight."
-img: icons/game-icons/lorc/dragonfly.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 shortcode: drgnflyh
 type: being
 data:
-  portrait: images/being/drgnflyh-portrait.webp
+  portrait: images/beings/creatures/drgnflyh-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: null
@@ -366,26 +366,6 @@ The exoskeleton provides significant protection against slashing and blunt attac
 - **Reasoning:** 5-8 (1d4+4)
 - **Creativity:** 4-7 (1d4+3)
 
-#### Razor Mandibles
+### Razor Mandibles
 
 Capable of cutting through light armor and flesh.
-
-## Attributes
-
-- **Strength:** 9-14 (1d6+8)
-
-- **Endurance:** 10-15 (1d6+9)
-
-- **Dexterity:** 14-19 (1d6+13)
-
-- **Agility:** 15-20 (1d6+14)
-
-- **Perception:** 12-17 (1d6+11)
-
-- **Aura:** 8-11 (1d4+7)
-
-- **Will:** 9-14 (1d6+8)
-
-- **Reasoning:** 5-8 (1d4+4)
-
-- **Creativity:** 4-7 (1d4+3)

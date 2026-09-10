@@ -7,12 +7,12 @@ name:
   title: ""
   given: Rodrén
   clan: Jútharen
-  home: Eskárath
+  home: null # was: Eskárath
   aliases:
     - Rollo Ember
 packFolder: aureldiatarvenia
 shortcode: rodrnjthrn
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
   portrait: images/being/rodrnjthrn-portrait.webp

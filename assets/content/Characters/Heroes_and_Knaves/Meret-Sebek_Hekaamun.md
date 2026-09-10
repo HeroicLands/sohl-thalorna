@@ -8,16 +8,16 @@ name:
   title: ""
   given: Meret-Sebek
   clan: Heka’amun
-  home: Meru-Hotep
+  home: meruhotep
   aliases:
     - Meret-Sebek Hekaamun
 packFolder: northernfertileregiontakheperu
 banner: banners/ta-kheperu-banner.webp
 shortcode: mrtsbkhkmn
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/mrtsbkhkmn-portrait.webp
+  portrait: images/beings/characters/mrtsbkhkmn-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Astrologer
@@ -604,6 +604,8 @@ sohl:
 Meret-Sebek stands 5'9\" tall with a medium build. He has dark skin, dark hair, and brown eyes. His features include a long nose, a pointed chin, generous lips, elegantly curved brows.
 
 # Dossier {#dossier}
+
+## Background
 
 ### Origin and Early Life
 

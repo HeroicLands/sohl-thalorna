@@ -7,12 +7,12 @@ name:
   title: ""
   given: Thêbas
   clan: Ghânîdês
-  home: Korinthea
+  home: korinthea2
   aliases:
     - Cedwin Longstride
 packFolder: helladhelionis
 shortcode: thebsghnds
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
   portrait: images/being/thebsghnds-portrait.webp

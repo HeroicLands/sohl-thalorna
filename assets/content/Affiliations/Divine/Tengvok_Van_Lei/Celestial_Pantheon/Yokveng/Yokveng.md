@@ -16,84 +16,73 @@ data:
   epithet: null
   symbol: null
   governance:
-    model: theocracy
+    model: oligarchy
     summary: >-
-      Ordained priesthood under a hierarch, with the lay faithful bound by observance rather
-      than by office.
+      A flat priesthood, not a career. There are forms, seals, censers and tribute here as surely as
+      in any temple — but the forms are forged, the seals are cut rather than issued, and the censer
+      is unlicensed. A person is lay, or they have been taught, or they can draft — and there is
+      nothing else to be. The Yokveng are not a temple religion and mostly have no temples; a censer
+      in a back room is the whole of the establishment.
+
+      They dislike being petitioned at all, and a petition they do take up is granted exactly as
+      written rather than as intended: where a celestial bureau fails safe and loses a bad filing,
+      these fail dangerous and honour it. What loyalty is owed is enforced without appeal — death
+      ordinarily, and undeath where the knowledge is too valuable to lose.
     ranks:
       - level: 0
-        title: Excommunicate
-        lore: excmmnctrnk
+        title: Recorded
+        lore: expelledrnk
         description: >-
-          Cut off from the rites, the temples and the burial the tradition promises — the one
-          sentence it can pass that outlives the body.
+          Noticed: a file opened, the forgery known to the Bureau of All Records, and the cult
+          finished with them. Where an orthodox clerk fears being struck from the rolls, here the
+          catastrophe is being entered on them.
       - level: 1
-        title: Catechumen
-        lore: catechumenrnk
-        description: Under instruction and not yet received; permitted to hear and not to partake.
+        title: Lay
+        lore: layfaithfulrnk
+        description: >-
+          Has petitioned, keeps the small observances, and is thereby known to people they would
+          rather not be known to. Most who deal with the Yokveng never go further.
       - level: 2
-        title: Lay Faithful
-        lore: layfaithfulrnk
-        description: >-
-          Of the tradition by profession and observance, keeping its feasts and its prohibitions
-          without office in it.
-      - level: 3
-        title: Devotee
-        lore: layfaithfulrnk
-        description: >-
-          Bound by a private vow — a fast, a pilgrimage, a service — beyond what the lay faithful
-          owe.
-      - level: 4
         title: Acolyte
         lore: initiaternk
         description: >-
-          Serving in the temple and learning its rites, on the path to ordination and not yet
-          holding it.
-      - level: 5
-        title: Ordained
+          Being taught the forms of address, the appeasements and the things that must not appear
+          in the same document; not yet trusted to draft anything that will be burned.
+      - level: 3
+        title: Priest
         lore: priestrnk
         description: >-
-          Priest or priestess of the tradition, empowered to perform the rites and to bind and
-          loose in its name.
-      - level: 6
-        title: Temple Officer
-        lore: highpriestrnk
-        description: Holding a charge within a temple — its treasury, its schools, its estates,
-          its oracles.
-      - level: 7
-        title: High Priest
-        lore: highpriestrnk
-        description: Head of a temple or a cult, speaking with the voice of the god in matters
-          of its doctrine.
-      - level: 8
-        title: Hierophant
-        lore: grandmasterrnk
-        description: >-
-          Head of the whole tradition, whose ruling on doctrine is final and whose sanction
-          every high priest holds at.
+          Holds this one's particular forms and prohibitions, drafts, files, and keeps whatever
+          censer they can keep — rarely a shrine and almost never a temple. Charges at rates
+          reflecting the risk rather than the skill, because the drafting is the service: a loosely
+          drawn petition is honoured to the letter.
     offices:
-      Hierophant: >-
-        Head of the tradition, final authority on its doctrine and source of every high priest's
-        sanction.
-      High Priest: Head of a temple or cult, master of its estates and voice of its god on
-        doctrine.
-      Oracle: Speaker of the god's answer, consulted before any undertaking the tradition
-        must bless.
-      Temple Steward: Administrator of a temple's lands, herds, workshops and revenue.
-      Sacristan: Keeper of the sanctuary, its vessels, its vestments and the purity of both.
-      Almoner: Distributor of the temple's charity, and the face the tradition shows the poor.
-      Lector: Reader of the sacred texts in the rites, and teacher of them to acolytes.
-      Exorcist: >-
-        Charged with what the tradition holds should not be present, and with the rites that
-        remove it.
-      Chief Augur: Reader of the signs by which the tradition fixes the hour of its acts.
-      Keeper of the Calendar: Holder of the feast-reckoning, and thereby of when the year's
-        obligations fall due.
-  commonSkills: []
+      Keeper of the Forms: >-
+        Holds the forms of address and appeasements particular to this one, which cannot be
+        improvised and are taught to very few.
+      Seal-Forger: >-
+        Cuts and applies stamps the bureaus never issued — the most technically demanding work, and
+        the most prosecuted.
+      Clerk of Transmission: >-
+        Burns the petition at an unlicensed censer, which files it wherever it goes.
+      Receiver of Tribute: >-
+        Takes the sacrifice, which is generally larger here, because the carriage is worse and the
+        risk is real.
+      Gap-Maker: >-
+        Forges not for a supplicant but to shift a boundary and leave a space no bureau oversees.
+        The work pays nothing and is the most prized in the cultus.
+      Watcher: >-
+        Keeps the cultus ahead of the Celestial Marshals and the archive's inspectors, and carries
+        out the sentence when loyalty fails.
+  commonSkills:
+    - tngthkscrpt
+    - draw
+    - law
   seat: null
   domains: []
   population: null
-  economy: []
+  economy:
+    - tanvrcrncy
   lore: []
   parents:
     - tngvkvnlei
@@ -115,6 +104,56 @@ packFolder: yokveng
 The **Yokveng** is the Infernal Realm of the Tānvüri Celestial Bureaucracy — the region of the celestial cosmology in which the system's failures, refusals, and corruptions reside. It is not a hell in the Western sense. It is not a place of punishment, not an afterlife for the wicked, and not a theological counterweight to a heavenly realm. It is, rather, the _administrative remainder_ of the classification system: the place where things that could not be cleanly sorted were consigned, where fallen functionaries retreated after their corruption was detected, and where the primordial refusers of the Great Sorting dwell.
 
 In Tānvüri cosmology, the Yokveng exists not as the opposite of the Celestial Bureaucracy but as its shadow — generated by the same Sorting that produced the orthodox celestial administration, and holding precisely those things the Sorting could not resolve. The orthodox Tāntheological position is that the Yokveng is a containment zone: the classification system has processes for moving problematic entities into the Yokveng, where their influence on the classified cosmos is minimized. This account is not false, but it is incomplete. The Yokveng is also the source of the **Demon Lords**, whose power derives precisely from the system's inability to fully contain them.
+
+## Those Who Know the Forms
+
+Nothing here can be reached without a practitioner. The Yokveng are petitioned in the same idiom as
+the celestial bureaus — written, sealed, burned — but the forms are not the temple's, the seals
+were never issued, and no lawful clerk will draft one. Somebody has to know how.
+
+These are the Yokveng's priests, and they are not called that. A ring attached to one of the
+[[affiliation-vekthor|Demon Lords]] is an organised enterprise with a hierarchy, a hidden censer and
+a Watcher to enforce loyalty. But the wider trade in Yokveng petitions is thinner and older than any
+ring: a village scribe who knows three prayers his grandfather knew, a temple copyist quietly
+selling a form he was never taught, a physician who can reach a threshold-whisper and does so twice
+in a career. They hold no office, answer to no Intendant, and would be astonished to be described as
+clergy.
+
+What makes them priests is that the knowledge is specific and cannot be improvised. Each of the
+Yokveng has its own forms of address, its own appeasements, and its own things that must not be
+written down in the same document. A petition to one Demon Lord filed in another's forms is not
+merely refused, as it would be in a temple. It is read by whoever it reached.
+
+## Petitioning the Yokveng
+
+The Yokveng do not like to be petitioned, and most petitions sent to them are ignored. Being
+ignored is the good outcome.
+
+What a petition must do is **interest** them. A request that is dull, or that any bureau would have
+granted anyway, is not worth their notice; a request that opens a gap, embarrasses a bureau, or
+requires a classification nobody has dared write is worth a great deal. The sacrifice must be
+substantial in proportion, and an underpaid petition that is nonetheless taken up will be answered
+in the cheapest manner that satisfies its words.
+
+The essential difference from the orthodox bureaus is the direction in which the system fails.
+
+- **A celestial bureau fails safe.** A petition that is misaddressed, underpaid, badly drafted or
+  outranked is simply _lost_. Nothing happens. The petitioner tries again.
+- **The Yokveng fail dangerous.** A petition that is taken up is granted **exactly as written** —
+  not as intended, not as a reasonable clerk would construe it, but to the letter, by beings who
+  take open pleasure in the gap between the two.
+
+This is not caprice. It is the cosmology working correctly. A thing that receives a classification
+_becomes_ that thing, which is precisely how [[affiliation-vekthor|Vëkthōr's]] forgeries made real
+what the Great Sorting had dissolved. So a petition asking that a dearly departed daughter be
+**returned** is granted: she is returned. It did not ask that she be returned _living_, in her own
+body, in her right mind, or that she be permitted to stay. Classified as returned and not as
+living, she comes back undead, and the filing is correct.
+
+Hence the trade. An Unlicensed Clerk's fee is high because the drafting _is_ the service, and a
+ring's most valuable people are those who know which words a particular Demon Lord will exploit and
+how to close them off. A petition to the Yokveng is written the way a contract is written against a
+hostile counterparty who will read every clause and honour none of the intent.
 
 ## The Demon Lords
 

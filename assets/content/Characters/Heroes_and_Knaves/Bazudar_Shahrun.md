@@ -7,14 +7,14 @@ name:
   title: ""
   given: Bazûdar
   clan: Shahrûn
-  home: Oasis of Shirvan
+  home: oasishirvn
   aliases: []
 packFolder: ankariskhazryndesert
 shortcode: bazdrshhrn
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/bazdrshhrn-portrait.webp
+  portrait: images/beings/characters/bazdrshhrn-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Animal Trainer
@@ -595,6 +595,8 @@ sohl:
 Bazûdar stands 6'3" tall with a medium build. He has dark tan skin, black hair, and dark amber eyes. His features include a diamond-shaped face, a prominent nose, a well-defined jawline, full lips, thick dark brows, angular cheeks. A distinguishing mark is a tattoo of a woman on the shoulder.
 
 # Dossier {#dossier}
+
+## Background
 
 ### Early Years in the Desert
 

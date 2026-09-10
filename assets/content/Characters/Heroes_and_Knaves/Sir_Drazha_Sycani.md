@@ -8,16 +8,16 @@ name:
   title: Sir
   given: Drazha
   clan: Sycâni
-  home: Telvári
+  home: telvari
   aliases:
     - Knight of the Black Flame
     - Sir Drazha Sycani
 packFolder: heroesandknaveskalihara
 shortcode: srdrzhsycnknghtblckflm
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/srdrzhsycnknghtblckflm-portrait.webp
+  portrait: images/beings/characters/srdrzhsycnknghtblckflm-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Nobility (Knight Bachelor)
@@ -595,6 +595,8 @@ Drazhan is a towering figure at 6'4" with a heavily muscled frame, weighing arou
 Drazha Sycâni is from **Zánatu**, a kingdom situated in a harsh and unforgiving landscape. Once a province of the Vylarian Empire, Zánatu gained independence and is now ruled by a monarch alongside the **Council of Syndics**, an oligarchic council of trade syndics. The land of Zánatu is shaped by the austere values of its people, influenced by both the Vylarian and Kaliharan cultures.
 
 Drazhan was born into the Sycâni, a powerful warrior clan, his father a fierce warlord and his mother a devoted priestess of the Black Flame. From his earliest years, Drazhan was trained to embrace the tenets of the Black Flame, which glorifies pain and suffering as paths to strength and transcendence. He was taught that strength and dominance are the measures of a person’s worth, and the weak should be crushed beneath the weight of their betters. His childhood was a brutal series of trials designed to harden him into an unrelenting warrior. The sacred **Trial of the Flames**, which every aspiring Black Flame must endure, left Drazhan’s body scarred but his spirit unbroken.
+
+## Background
 
 ### The Black Flame Order and Rise to Power
 

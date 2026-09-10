@@ -44,7 +44,7 @@ The **Southern Territories** range from the upper south, where K'ich'chik civili
 TABLE WITHOUT ID
     link(file.path, name.full) AS "Region",
     description AS "Overview"
-WHERE category = "region" and contains(parent.continents, "kichchik")
+WHERE type = "place" and subType = "region" and contains(data.parents, "kchchkcntnnt")
 SORT name.full ASC
 ```
 

@@ -7,14 +7,14 @@ name:
   title: ""
   given: Kêlena
   clan: Stýlgon
-  home: Valcèrise
+  home: valcerise
   aliases: []
 packFolder: aureldiaprovenzia
 shortcode: kelnstylgn
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/kelnstylgn-portrait.webp
+  portrait: images/beings/characters/kelnstylgn-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Courtesan
@@ -574,6 +574,8 @@ sohl:
 Kêlena stands 5'7" tall with a heavy build. She has golden-toned skin, Flowing black hair, and alert eyes. Her features include an angular face, a prominent nose, a pronounced chin, heavy brows, sculpted cheeks. A distinguishing mark is a tattoo of intertwining dark green vines on the right upper arm and shoulder.
 
 # Dossier {#dossier}
+
+## Background
 
 ### The Dancer's Daughter
 

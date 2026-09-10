@@ -7,14 +7,14 @@ name:
   title: ""
   given: Isidôra
   clan: Melissenós
-  home: Thálassos
+  home: thalassos
   aliases: []
 packFolder: helladbyzaria
 shortcode: isidrmlsns
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/isidrmlsns-portrait.webp
+  portrait: images/beings/characters/isidrmlsns-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Innkeeper
@@ -597,6 +597,8 @@ sohl:
 Isidôra stands 5'7" tall with a light build. She has olive skin, dark brown hair, and brown eyes. Her features include a narrow face, a aquiline nose, a pointed chin, well-defined lips, dark brows.
 
 # Dossier {#dossier}
+
+## Background
 
 ### A Merchant's Daughter
 

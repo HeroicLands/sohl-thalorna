@@ -7,17 +7,17 @@ name:
   title: ""
   given: Sênta
   clan: Ta'Sereket
-  home: Per-Ankhet
+  home: perankhet
   aliases:
     - Sênta TaSereket
     - Senta TaSereket
 packFolder: northernfertileregiontakheperu
 banner: banners/ta-kheperu-banner.webp
 shortcode: sentatsrkt
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/sentatsrkt-portrait.webp
+  portrait: images/beings/characters/sentatsrkt-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Caravan Guard
@@ -98,7 +98,7 @@ sohl:
     - { shortcode: ArwStd, type: projectilegear, system: { quantity: 25 } }
     - name: Quiver (leather, reinforced)
       type: miscgear
-      img: icons/quiver.svg
+      img: systems/sohl/assets/icons/game-icons/delapouite/quiver.svg
       system:
         weight: 1
         value: 100
@@ -589,6 +589,8 @@ sohl:
 Sênta stands 5'10" tall with a medium build. She has tawny skin, jet black hair, and honey brown eyes. Her features include a slightly arched nose, a tapered chin, generous lips, honey brows.
 
 # Dossier {#dossier}
+
+## Background
 
 ### Early Life
 

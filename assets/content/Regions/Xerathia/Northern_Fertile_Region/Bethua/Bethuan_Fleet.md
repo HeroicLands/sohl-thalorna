@@ -130,7 +130,7 @@ The fleet's home is the chain of fortified harbours along the northern Bethûan 
 
 ### Who Mans the Ships
 
-The crewing of a Bethûan warship is a study in the realm's whole social order. **Command and the fighting complement are women's work and the work of the gelded.** The captain is a woman; her officers are women; the marines — the boarding-fighters who decide a galley action — are drawn from the [[affiliation-mtrrchybth#The Martial Bridge: the Spear-Sisterhood and the Fleet|Spear-Sisterhood]] and the eunuch **Spádai**, and they fight with blade, with javelin, and with the lethal unarmed **Charíssa** in the press of a boarding where a longer weapon is useless. A boarding-action against a Bethûan galley is a thing Vylarian sailors speak of with dread, precisely because the fighters who come over the rail are faster and deadlier in the crush than their size suggests.
+The crewing of a Bethûan warship is a study in the realm's whole social order. **Command and the fighting complement are women's work and the work of the gelded.** The captain is a woman; her officers are women; the marines — the boarding-fighters who decide a galley action — are drawn from the [[affiliation-mtrrchybth#the-martial-bridge-the-spear-sisterhood-and-the-fleet|Spear-Sisterhood]] and the eunuch **Spádai**, and they fight with blade, with javelin, and with the lethal unarmed **Charíssa** in the press of a boarding where a longer weapon is useless. A boarding-action against a Bethûan galley is a thing Vylarian sailors speak of with dread, precisely because the fighters who come over the rail are faster and deadlier in the crush than their size suggests.
 
 The **labour of the ship, though, is men's** — the rowers at the oars, the deckhands in the rigging, the shipwrights and pitch-boys of the yards. They serve as everything men in Bethûa serve as: as the agents and dependents and property of the women who own the vessels, free-born hands and outright slaves pulling the same oar. A Bethûan man may spend his life at sea and never own so much as the bench he rows from. The arrangement gives the fleet a particular hardness — its fighting class and its labouring class are divided not only by rank but by sex and by law — and it is one more reason the Charíssa-trained marines are watched as carefully aboard as the oar-slaves are: an armed and able man is never far from the women who command him, and never permitted to forget it.
 
@@ -138,7 +138,7 @@ The **labour of the ship, though, is men's** — the rowers at the oars, the dec
 
 The fleet answers, like all of Bethûa's armed force, through the bridging command of the crown:
 
-- The **[[affiliation-mtrrchybth#The Martial Bridge: the Spear-Sisterhood and the Fleet|Stratégissa]]** holds supreme command of the whole host, army and fleet alike, as the Mêtríssa's lent authority.
+- The **[[affiliation-mtrrchybth#the-martial-bridge-the-spear-sisterhood-and-the-fleet|Stratégissa]]** holds supreme command of the whole host, army and fleet alike, as the Mêtríssa's lent authority.
 - The **Naukrátissa** ("sea-mistress") is the admiral of the fleet and the realm's chief naval commander — in a maritime power whose navy is its proudest arm, one of the most prestigious commands in Bethûa, and a frequent stepping-stone to the highest circles of both councils.
 - Below her, each war-galley or squadron is commanded by a **Naukléra** (pl. _Naukléreai_; "ship-mistress," from Helonic _nauklēros_), a captain who in the private and privateer service is also the owner of her vessel.
 

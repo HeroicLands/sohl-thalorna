@@ -7,12 +7,12 @@ name:
   title: ""
   given: Dékêla
   clan: Bàremzâtês
-  home: Aelissium
+  home: aelissium
   aliases:
     - Elara Clayforge
 packFolder: midhalionvylaria
 shortcode: deklbrmzts
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
   portrait: images/being/deklbrmzts-portrait.webp

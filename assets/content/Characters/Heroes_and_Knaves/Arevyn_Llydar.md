@@ -7,14 +7,14 @@ name:
   title: ""
   given: Arévyn
   clan: Llýdar
-  home: Liranel
+  home: liranel
   aliases: []
 packFolder: aureldiaelavendre
 shortcode: arevynlydr
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/arevynlydr-portrait.webp
+  portrait: images/beings/characters/arevynlydr-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Miner
@@ -595,6 +595,8 @@ sohl:
 Arévyn stands 6'1" tall with a heavy build. He has tanned weathered skin, black hair, and gray eyes. His features include a broad face, a button nose, a narrow chin, light brows, rosy cheeks.
 
 # Dossier {#dossier}
+
+## Background
 
 ### Early Years in Stone
 

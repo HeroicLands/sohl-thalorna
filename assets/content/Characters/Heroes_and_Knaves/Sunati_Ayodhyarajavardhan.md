@@ -7,14 +7,14 @@ name:
   title: ""
   given: Sunáti
   clan: Āyodhyārājavardhan
-  home: Chandrapur
+  home: chandrapur2
   aliases: []
 packFolder: ankarisvedyara
 shortcode: sntydhyrjvrdhn
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/sntydhyrjvrdhn-portrait.webp
+  portrait: images/beings/characters/sntydhyrjvrdhn-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Courtesan
@@ -595,6 +595,8 @@ sohl:
 Sunáti stands 5'7" tall with a medium build. She has rich brown skin, black hair, and honey brown eyes. Her features include a soft-featured face, a rounded chin, elegantly curved brows, rounded cheeks.
 
 # Dossier {#dossier}
+
+## Background
 
 ### The House of Āyodhyārājavardhan
 

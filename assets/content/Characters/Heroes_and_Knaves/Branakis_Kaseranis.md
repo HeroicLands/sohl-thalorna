@@ -8,14 +8,14 @@ name:
   title: ""
   given: Bránakis
   clan: Kâserânis
-  home: Solheim
+  home: solheim
   aliases: []
 packFolder: midhalionvylaria
 shortcode: brnksksrns
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/brnksksrns-portrait.webp
+  portrait: images/beings/characters/brnksksrns-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Charcoaler
@@ -595,6 +595,8 @@ Bránakis stands 6'2" tall with a heavy build. He has tanned weathered skin, bla
 Most striking is the tattoo adorning his left forearm: a great tree with roots spreading deep and branches reaching high, rendered in dark ink that has faded slightly with age. It is the mark of a man devoted to the natural world and to the craft of transforming its materials into something essential. At fifty-one, Bránakis carries the solidity and immovable quality of an ancient oak, diminished but not broken by the passage of seasons.
 
 # Dossier {#dossier}
+
+## Background
 
 ### The Forest's Gift
 

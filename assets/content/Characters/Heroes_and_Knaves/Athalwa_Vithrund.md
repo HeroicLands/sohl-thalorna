@@ -7,14 +7,14 @@ name:
   title: ""
   given: Athalwa
   clan: Vithrúnd
-  home: Eichengrund
+  home: eichengrnd
   aliases: []
 packFolder: ankarisvrystwald
 shortcode: athlwvthrnd
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/athlwvthrnd-portrait.webp
+  portrait: images/beings/characters/athlwvthrnd-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Chieftain
@@ -593,6 +593,8 @@ sohl:
 Athalwa stands 5'10" tall with a medium build. She has pale fair skin, blonde hair, and blue eyes. Her features include an oval face, a long nose, a strong jawline, a slightly downturned mouth, straight brows, high cheeks. A distinguishing mark is a tattoo of an eagle on the back.
 
 # Dossier {#dossier}
+
+## Background
 
 ### Born to Unorthodoxy
 

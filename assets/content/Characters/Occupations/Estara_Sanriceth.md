@@ -7,12 +7,12 @@ name:
   title: ""
   given: Estára
   clan: Sánriceth
-  home: Valdés
+  home: valdes
   aliases:
     - Brynna Highfield
 packFolder: aureldiatarvenia
 shortcode: estrsnrcth
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
   portrait: images/being/estrsnrcth-portrait.webp

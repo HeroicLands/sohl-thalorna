@@ -8,15 +8,15 @@ name:
   title: ""
   given: Shebas
   clan: Thutmosa
-  home: Ankh-Setûn
+  home: ankhsetun
   aliases: []
 packFolder: northernfertileregiontakheperu
 banner: banners/ta-kheperu-banner.webp
 shortcode: shebsthtms
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/shebsthtms-portrait.webp
+  portrait: images/beings/characters/shebsthtms-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Apothecary
@@ -96,7 +96,7 @@ sohl:
     - { shortcode: WClk, type: armorgear }
     - { shortcode: LtShoe, type: armorgear }
     - { shortcode: Dgr, type: weapongear }
-    - { shortcode: srgtls, type: miscgear }
+    - { shortcode: surgkit, type: miscgear }
     - name: Woven basket for herbs
       type: miscgear
       system:
@@ -601,6 +601,8 @@ sohl:
 Shebas stands 5'7" tall with a light build. She has deep bronze skin, jet black hair, and black eyes. Her features include an aquiline nose, a gentle jawline, elegantly curved brows. A distinguishing mark is a scar on the left arm.
 
 # Dossier {#dossier}
+
+## Background
 
 ### Early Life and Loss
 

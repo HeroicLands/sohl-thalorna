@@ -3,7 +3,7 @@ tags:
   - hex-hodai
 type: skill
 subType: mystical
-img: images/affiliation/kentra.webp
+img: images/affiliation/hex-hodai/kentra.webp
 shortcode: kentra
 name:
   full: Incantus Kentra

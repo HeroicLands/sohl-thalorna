@@ -7,12 +7,12 @@ name:
   title: ""
   given: Wilfred
   clan: Dunwell
-  home: Brynhallow
+  home: brynhallow
   aliases:
     - Hrothgar Stormcaller
 packFolder: aureldiaaelwyth
 shortcode: wilfrednwl
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
   portrait: images/being/wilfrednwl-portrait.webp

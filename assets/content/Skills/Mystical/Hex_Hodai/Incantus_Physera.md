@@ -4,7 +4,7 @@ tags:
 type: skill
 subType: mystical
 shortcode: physera
-img: images/affiliation/physera.webp
+img: images/affiliation/hex-hodai/physera.webp
 name:
   full: Incantus Physéra
   aliases: []

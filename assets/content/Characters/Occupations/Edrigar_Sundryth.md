@@ -7,12 +7,12 @@ name:
   title: ""
   given: Edrígar
   clan: Sundrýth
-  home: Falkenstein
+  home: falkensten
   aliases:
     - Garrick Deepdelver
 packFolder: ankarisvrystwald
 shortcode: edrgrsndryth
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
   portrait: images/being/edrgrsndryth-portrait.webp

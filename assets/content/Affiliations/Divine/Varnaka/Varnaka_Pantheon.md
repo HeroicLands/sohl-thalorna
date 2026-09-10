@@ -13,79 +13,37 @@ data:
   epithet: null
   symbol: null
   governance:
-    model: theocracy
+    model: council
     summary: >-
-      Ordained priesthood under a hierarch, with the lay faithful bound by observance rather
-      than by office.
+      Varṇaka organises by school, not by god. None of the eleven deities has a priesthood of its own; ordination is into one of the four sampradāya, which then serve whichever gods their doctrine requires. What a devotee holds toward a particular god is therefore the household observance and, if they undertake one, that god's Ordeal for Favour.
     ranks:
       - level: 0
-        title: Excommunicate
+        title: Patita
         lore: excmmnctrnk
         description: >-
-          Cut off from the rites, the temples and the burial the tradition promises — the one
-          sentence it can pass that outlives the body.
+          "Fallen" — put out of Varṇakan observance, and received again by no house and no sampradāya.
       - level: 1
-        title: Catechumen
-        lore: catechumenrnk
-        description: Under instruction and not yet received; permitted to hear and not to partake.
+        title: Upāsaka
+        lore: layfaithfulrnk
+        description: >-
+          The lay devotee, keeping the household observances of whichever gods the household honours.
       - level: 2
-        title: Lay Faithful
-        lore: layfaithfulrnk
+        title: Vratin
+        lore: professedrnk
         description: >-
-          Of the tradition by profession and observance, keeping its feasts and its prohibitions
-          without office in it.
+          "One under vow" — has completed one of the gods' Ordeals for Favour, which is the only standing devotion to a god confers, and is held for life.
       - level: 3
-        title: Devotee
-        lore: layfaithfulrnk
-        description: >-
-          Bound by a private vow — a fast, a pilgrimage, a service — beyond what the lay faithful
-          owe.
-      - level: 4
-        title: Acolyte
-        lore: initiaternk
-        description: >-
-          Serving in the temple and learning its rites, on the path to ordination and not yet
-          holding it.
-      - level: 5
-        title: Ordained
+        title: Ordained of a Sampradāya
         lore: priestrnk
         description: >-
-          Priest or priestess of the tradition, empowered to perform the rites and to bind and
-          loose in its name.
-      - level: 6
-        title: Temple Officer
-        lore: highpriestrnk
-        description: Holding a charge within a temple — its treasury, its schools, its estates,
-          its oracles.
-      - level: 7
-        title: High Priest
-        lore: highpriestrnk
-        description: Head of a temple or a cult, speaking with the voice of the god in matters
-          of its doctrine.
-      - level: 8
-        title: Hierophant
-        lore: grandmasterrnk
-        description: >-
-          Head of the whole tradition, whose ruling on doctrine is final and whose sanction
-          every high priest holds at.
+          Ordained into one of the four schools — Agnī-panthā, Svapnasāri Samāja, Trimūrti Sampradāya, Vyālendravāda — each of which carries its own ladder. Priesthood in Varṇaka belongs to the school, never to the god.
     offices:
-      Hierophant: >-
-        Head of the tradition, final authority on its doctrine and source of every high priest's
-        sanction.
-      High Priest: Head of a temple or cult, master of its estates and voice of its god on
-        doctrine.
-      Oracle: Speaker of the god's answer, consulted before any undertaking the tradition
-        must bless.
-      Temple Steward: Administrator of a temple's lands, herds, workshops and revenue.
-      Sacristan: Keeper of the sanctuary, its vessels, its vestments and the purity of both.
-      Almoner: Distributor of the temple's charity, and the face the tradition shows the poor.
-      Lector: Reader of the sacred texts in the rites, and teacher of them to acolytes.
-      Exorcist: >-
-        Charged with what the tradition holds should not be present, and with the rites that
-        remove it.
-      Chief Augur: Reader of the signs by which the tradition fixes the hour of its acts.
-      Keeper of the Calendar: Holder of the feast-reckoning, and thereby of when the year's
-        obligations fall due.
+      Householder: >-
+        Keeps the household shrine and its observances, which is what devotion to a Varṇakan god ordinarily consists of.
+      Vrata-Holder: >-
+        Under, or having completed, a named Ordeal for Favour of a particular god.
+      Ácārya: >-
+        The working priest of a sampradāya, whose ordination is to the school and whose service is to whichever gods its doctrine requires.
   commonSkills: []
   seat: null
   domains: []

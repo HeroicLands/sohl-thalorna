@@ -8,15 +8,15 @@ name:
   title: ""
   given: Eshe
   clan: Magara
-  home: Zarhánor
+  home: zarhanor
   aliases:
     - The Spirit Blade Warrior
 packFolder: northernfertileregionokharis
 shortcode: eshewamagr
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/eshewamagr-portrait.webp
+  portrait: images/beings/characters/eshewamagr-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Swordmaster
@@ -58,6 +58,8 @@ sohl:
     - { shortcode: mor, type: attribute, system: { scoreBase: 13 } }
     - { shortcode: voi, type: attribute, system: { scoreBase: 9 } }
     - { shortcode: nkaruthar, type: affiliation }
+    - { shortcode: njiayaroho, type: affiliation }
+    - { shortcode: upangasprt, type: skill, system: { masteryLevelBase: 48 } }
     - { shortcode: cook, type: skill, system: { masteryLevelBase: 28 } }
     - { shortcode: folklr, type: skill, system: { masteryLevelBase: 14 } }
     - { shortcode: hrld, type: skill, system: { masteryLevelBase: 42 } }
@@ -603,6 +605,8 @@ Her most notable feature is the series of tribal markings etched into her skin, 
 Eshe wa Magara is a fierce warrior hailing from the **Magara** people, a neighboring Okháris tribe known for their martial prowess and connection to spirit weapons. Unlike [[being-kirobashkm|Kiroba]]’s Shókuma tribe, the Magara are more warlike, often engaging in raids and conflicts with other tribes. Eshe’s upbringing was harsh, trained from a young age to become a guardian of her people. However, it was her spiritual connection to the ancient **Spirit Blade**—a weapon said to be forged with the blessings of the zohira—that set her apart.
 
 The Spirit Blade, passed down through the generations, grants its wielder the ability to cut through both physical and spiritual foes. During her initiation, Eshe was chosen by the blade when it glowed faintly as she touched it, marking her as the rightful bearer. She was tasked with protecting her people from both human invaders and spiritual disturbances. But Eshe’s destiny became intertwined with [[being-kirobashkm|Kiroba]]’s when her village began suffering from the same spiritual imbalance plaguing Shókuma lands. Spirits became hostile, and crops withered unnaturally. Sensing the need for unity among the tribes, Eshe joined [[being-kirobashkm|Kiroba]], believing their fates are tied together in restoring the balance.
+
+## Background
 
 ### Skills and Abilities
 

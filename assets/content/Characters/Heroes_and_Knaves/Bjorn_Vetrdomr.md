@@ -7,14 +7,14 @@ name:
   title: ""
   given: Bjǫrn
   clan: Vetrdómr
-  home: Ravensholm
+  home: ravensholm
   aliases: []
 packFolder: ankarisnordlands
 shortcode: bjrnvtrdmr
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/bjrnvtrdmr-portrait.webp
+  portrait: images/beings/characters/bjrnvtrdmr-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Innkeeper
@@ -586,6 +586,8 @@ sohl:
 Bjǫrn stands 6'0" tall with a heavy build. He has tanned weathered skin, white hair, and gray eyes. His features include a rectangular face, a slightly upturned nose, a heavy jawline, a firm-set mouth, straight brows. A distinguishing mark is a tattoo of a snake on the chest.
 
 # Dossier {#dossier}
+
+## Background
 
 ### The Maker's Path
 

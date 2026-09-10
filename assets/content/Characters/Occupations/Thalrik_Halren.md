@@ -7,12 +7,12 @@ name:
   title: ""
   given: Thálrik
   clan: Hálren
-  home: Port Aelion
+  home: portaelion
   aliases:
     - Garrick Ironwood
 packFolder: aureldiaelavendre
 shortcode: thalrkhlrn
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
   portrait: images/being/thalrkhlrn-portrait.webp

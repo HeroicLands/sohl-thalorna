@@ -8,14 +8,14 @@ name:
   title: ""
   given: Párthun
   clan: Bélthal
-  home: Valdûn
+  home: valdun
   aliases: []
 packFolder: aureldiaelavendre
 shortcode: prthnblthl
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/prthnblthl-portrait.webp
+  portrait: images/beings/characters/prthnblthl-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Bureaucrat

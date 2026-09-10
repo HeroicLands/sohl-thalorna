@@ -8,16 +8,16 @@ name:
   title: ""
   given: Shenur
   clan: Ba'pata
-  home: Ankh-Setûn
+  home: ankhsetun
   aliases:
     - Shenur Bapata
 packFolder: northernfertileregiontakheperu
 banner: banners/ta-kheperu-banner.webp
 shortcode: shenurbapt
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/shenurbapt-portrait.webp
+  portrait: images/beings/characters/shenurbapt-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Weaponcrafter (Armorer)

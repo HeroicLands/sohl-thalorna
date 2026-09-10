@@ -7,17 +7,17 @@ name:
   title: ""
   given: Ta'miyra
   clan: Jâut
-  home: Per-Ankhet
+  home: perankhet
   aliases:
     - Tamiyra Jâut
     - Tamiyra Jaut
 packFolder: northernfertileregiontakheperu
 banner: banners/ta-kheperu-banner.webp
 shortcode: tamiyrajat
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/tamiyrajat-portrait.webp
+  portrait: images/beings/characters/tamiyrajat-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Courtesan

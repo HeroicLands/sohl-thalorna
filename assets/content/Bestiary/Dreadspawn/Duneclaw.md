@@ -5,11 +5,11 @@ name:
   full: Duneclaw
   aliases: []
 description: "A massive venomous desert arthropod that rules its dune-fields with crushing force, cunning, and predatory instinct."
-img: icons/game-icons/delapouite/griffin-symbol.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 shortcode: duneclaw
 type: being
 data:
-  portrait: images/being/duneclaw-portrait.webp
+  portrait: images/beings/creatures/duneclaw-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: null

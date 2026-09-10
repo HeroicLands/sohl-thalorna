@@ -5,11 +5,11 @@ name:
   full: Thunderbird
   aliases: []
 description: "An enormous apex aerial predator with a sixty-to-eighty-foot wingspan that rides storm winds above remote mountain peaks and canyons."
-img: icons/game-icons/delapouite/eagle-head.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 shortcode: thndrbrd
 type: being
 data:
-  portrait: images/being/thndrbrd-portrait.webp
+  portrait: images/beings/creatures/thndrbrd-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: null

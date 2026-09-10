@@ -17,89 +17,114 @@ data:
   epithet: The Minister of Storms
   symbol: An ivory scroll bound by a forked vermillion thunderbolt
   governance:
-    model: theocracy
+    model: meritocracy
     summary: >-
-      Ordained priesthood under a hierarch, with the lay faithful bound by observance rather
-      than by office.
+      Not a church but an administration. Temples of the Rëkshüt Sëi are celestial post offices and
+      their clergy are clerks; standing follows competence with forms, seals, precedent and the
+      correct bureau. A weather petition is written, sealed, accompanied by tribute in coin and in
+      kind, and burned at the censer, which is the act that files it. A petition filed to the wrong
+      bureau is simply lost.
     ranks:
       - level: 0
-        title: Excommunicate
+        title: Struck from the Rolls
         lore: excmmnctrnk
         description: >-
-          Cut off from the rites, the temples and the burial the tradition promises — the one
-          sentence it can pass that outlives the body.
+          The ledger closed against them: no petition they file is accepted, no temple will stamp
+          for them, and no ancestor can advocate for a descendant who cannot be addressed. This is
+          not damnation. It is administrative non-existence, which the Tānvüri consider worse.
       - level: 1
-        title: Catechumen
-        lore: catechumenrnk
-        description: Under instruction and not yet received; permitted to hear and not to partake.
+        title: Petitioner
+        lore: layfaithfulrnk
+        description: >-
+          Every Tānvüri: keeps a moral ledger, is observed by the household's Zātkür, and files
+          through a temple for rain, healing, a ruling, or a relative's passage through the
+          Ministry of Final Account.
       - level: 2
-        title: Lay Faithful
-        lore: layfaithfulrnk
+        title: Copyist
+        lore: apprenticernk
         description: >-
-          Of the tradition by profession and observance, keeping its feasts and its prohibitions
-          without office in it.
+          Under training in a temple — copying forms, learning the seals and the calendrical
+          schedules — and not yet permitted to file anything on another's behalf.
       - level: 3
-        title: Devotee
-        lore: layfaithfulrnk
+        title: Clerk
+        lore: clerkrnk
         description: >-
-          Bound by a private vow — a fast, a pilgrimage, a service — beyond what the lay faithful
-          owe.
+          The ordinary temple officer, and the tradition's plain description of its own clergy:
+          not a pastor but a clerk who knows the correct forms, the correct seals and the correct
+          bureau. Charges fees, because preparing a petition correctly is expertise.
       - level: 4
-        title: Acolyte
-        lore: initiaternk
+        title: Seal-Holder
+        lore: officerrnk
         description: >-
-          Serving in the temple and learning its rites, on the path to ordination and not yet
-          holding it.
+          Holds a temple's seals and stamps. Nothing is transmitted without them, which makes this
+          the office at which a petition is in practice granted or refused.
       - level: 5
-        title: Ordained
-        lore: priestrnk
+        title: Registrar
+        lore: magistraternk
         description: >-
-          Priest or priestess of the tradition, empowered to perform the rites and to bind and
-          loose in its name.
+          Keeps the region's ledgers and rules on whether a petition is correctly addressed,
+          adequately supported by precedent, and free of conflict with standing allocations.
       - level: 6
-        title: Temple Officer
+        title: Intendant
         lore: highpriestrnk
-        description: Holding a charge within a temple — its treasury, its schools, its estates,
-          its oracles.
+        description: >-
+          Heads one bureau's temple in a province, answering for its filings, its revenues and its
+          record-keeping, and hiring the scholars who research precedent for difficult petitions.
       - level: 7
-        title: High Priest
-        lore: highpriestrnk
-        description: Head of a temple or a cult, speaking with the voice of the god in matters
-          of its doctrine.
-      - level: 8
-        title: Hierophant
+        title: Chief Intendant
         lore: grandmasterrnk
         description: >-
-          Head of the whole tradition, whose ruling on doctrine is final and whose sanction
-          every high priest holds at.
+          Senior mortal officer of a bureau's whole temple establishment, who signs what is
+          transmitted upward to its Tëng Güng and answers for it if the bureau rejects it.
     offices:
-      Hierophant: >-
-        Head of the tradition, final authority on its doctrine and source of every high priest's
-        sanction.
-      High Priest: Head of a temple or cult, master of its estates and voice of its god on
-        doctrine.
-      Oracle: Speaker of the god's answer, consulted before any undertaking the tradition
-        must bless.
-      Temple Steward: Administrator of a temple's lands, herds, workshops and revenue.
-      Sacristan: Keeper of the sanctuary, its vessels, its vestments and the purity of both.
-      Almoner: Distributor of the temple's charity, and the face the tradition shows the poor.
-      Lector: Reader of the sacred texts in the rites, and teacher of them to acolytes.
-      Exorcist: >-
-        Charged with what the tradition holds should not be present, and with the rites that
-        remove it.
-      Chief Augur: Reader of the signs by which the tradition fixes the hour of its acts.
-      Keeper of the Calendar: Holder of the feast-reckoning, and thereby of when the year's
-        obligations fall due.
-  commonSkills: []
+      Rëkgüng, Minister of Storms: >-
+        Tëng Güng of the Rëkshüt Sëi, who administers the celestial schedules of rainfall rather
+        than judging the merits of those who want it.
+      Lëknëi: >-
+        Lightning Clerk — processes strike orders received from higher authority, each one
+        documented and therefore appealable.
+      Lüngzhük: >-
+        River Administrator — executes water-based punishments and allocations at the local level.
+      Intendant of the Bureau: >-
+        Heads a Rëkshüt Sëi temple in a farming region or port city, and answers for its filings.
+      Registrar of Allocations: >-
+        Keeps the region-by-region rainfall ledgers against which every petition is checked.
+      Seal-Holder: >-
+        Holds the stamps a weather petition requires; an unsealed petition is not a petition.
+      Clerk of Transmission: >-
+        Burns the completed petition, which is the act that files it. A farming village's temple
+        has a single censer and can address the Rëkshüt Sëi and little else; the great port temples
+        keep a censer for each bureau they are licensed to address. A household may burn a small
+        sacrifice at its own shrine against a bad season, but a village's emergency water petition
+        goes to the temple.
+      Illuminator: >-
+        Paints the weather-scenes a substantial petition carries — the parched field, the swollen
+        river, the storm turned aside — which the bureau is held to read as evidence.
+      Precedent-Scholar: >-
+        Researches prior droughts, prior allocations and prior rulings, and is hired at
+        considerable expense when a petition is contested.
+      Receiver of Tribute: >-
+        Takes the sacrifice a weather petition carries — grain, livestock, coin, cloth — and enters
+        it to the village's credit before the petition goes to the censer.
+      Advocate of the Strike: >-
+        Prosecutes a family's appeal that a lightning strike breached the protocols for
+        proportional punishment — a recognised social practice, and usually unsuccessful.
+  commonSkills:
+    - rekgung
+    - tngthkscrpt
+    - draw
+    - law
   seat: null
   domains: []
   population: null
-  economy: []
+  economy:
+    - tanvrcrncy
   lore:
     - rekgungdty
   parents:
     - tngvkvnlei
-  relations: {}
+  relations:
+    tanvurempr: aligned
 sohl:
   templatePriority: null
 packFolder: celestialpantheon

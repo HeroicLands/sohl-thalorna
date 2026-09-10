@@ -7,12 +7,12 @@ name:
   title: ""
   given: Tàlîra
   clan: Bâshirôn
-  home: Thyrenae
+  home: thyrenae2
   aliases:
     - Elspeth Rowen
 packFolder: helladhelionis
 shortcode: talirbshrn
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
   portrait: images/being/talirbshrn-portrait.webp

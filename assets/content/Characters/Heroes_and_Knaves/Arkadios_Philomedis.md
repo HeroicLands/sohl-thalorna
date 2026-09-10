@@ -7,14 +7,14 @@ name:
   title: ""
   given: Arkádios
   clan: Philomédis
-  home: Chrysamar
+  home: chrysamar
   aliases: []
 packFolder: helladbyzaria
 shortcode: arkdsphlmds
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/arkdsphlmds-portrait.webp
+  portrait: images/beings/characters/arkdsphlmds-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Mercenary
@@ -581,6 +581,8 @@ sohl:
 Arkádios stands 6'4" tall with a heavy build. He has tanned weathered skin, black hair, and dark brown eyes. His features include a narrow face, an aquiline nose, a pointed chin, well-defined lips, dark brows, sculpted cheeks. A distinguishing mark is a tattoo of a serpent on the back.
 
 # Dossier {#dossier}
+
+## Background
 
 ### Blood and Training
 

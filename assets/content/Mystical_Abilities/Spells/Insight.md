@@ -5,7 +5,7 @@ name:
   aliases:
     - Diagnosis
 description: "Diagnostic magic revealing all physical traumas; enhances healing greatly."
-img: icons/tree.svg
+img: systems/sohl/assets/icons/other/tree.svg
 shortcode: insight
 type: mysticalability
 subType: arcaneincantation

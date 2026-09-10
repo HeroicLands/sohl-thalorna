@@ -8,11 +8,11 @@ name:
   title: ""
   given: Sigrún
   clan: Hafringr
-  home: Stormveil
+  home: stormveil
   aliases: []
 packFolder: aureldiaaelwyth
 shortcode: sgrnhfrngr
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
   portrait: images/being/sgrnhfrngr-portrait.webp

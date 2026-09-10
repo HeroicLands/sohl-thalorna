@@ -5,11 +5,11 @@ name:
   full: Dune Strider
   aliases: []
 description: "An enormous flightless desert bird up to ten feet tall, a social herd forager that is placid unless provoked."
-img: icons/game-icons/lorc/paw-print.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 shortcode: dnstrdr
 type: being
 data:
-  portrait: images/being/dnstrdr-portrait.webp
+  portrait: images/beings/creatures/dnstrdr-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: null
@@ -376,26 +376,4 @@ When running at speed, the Dune Strider kicks up clouds of dust that obscure vis
 - **Reasoning:** 5-8 (1d4+4)
 - **Creativity:** 4-7 (1d4+3)
 
-#### Unmatched Speed
-
-Can outrun most predators in short bursts.
-
-## Attributes
-
-- **Strength:** 10-15 (1d6+9)
-
-- **Endurance:** 11-16 (1d6+10)
-
-- **Dexterity:** 10-15 (1d6+9)
-
-- **Agility:** 14-19 (1d6+13)
-
-- **Perception:** 12-17 (1d6+11)
-
-- **Aura:** 7-10 (1d4+6)
-
-- **Will:** 8-13 (1d6+7)
-
-- **Reasoning:** 5-8 (1d4+4)
-
-- **Creativity:** 4-7 (1d4+3)
+### Unmatched Speed

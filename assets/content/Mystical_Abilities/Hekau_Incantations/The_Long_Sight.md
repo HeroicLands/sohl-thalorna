@@ -1,0 +1,28 @@
+---
+tags:
+  - khemenu-hekau
+  - incantation
+name:
+  full: The Long Sight
+  aliases: []
+description: "Grants sight of a distant place, provided the sun is standing on it."
+shortcode: lngsght
+img: icons/takheperu/khemenu-hekau/atenre.svg
+type: mysticalability
+subType: arcaneincantation
+sohl:
+  templatePriority: null
+  system:
+    assocSkillCode: atenre
+    masteryLevelBase: 0
+    levelBase: 3
+    charges:
+      value: null
+      max: null
+packFolder: hekauincantations
+---
+
+Distance is not the constraint; light is. The practitioner sees what the sun sees, so the working
+reaches anywhere the day has reached and nowhere else, and a room with the shutters closed is as
+opaque as the far side of the world. Caravan-masters and generals pay well for it and are
+regularly frustrated by it.

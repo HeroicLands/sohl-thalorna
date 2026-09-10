@@ -8,14 +8,14 @@ name:
   title: ""
   given: Alýkos
   clan: Theotókis
-  home: Chrysamar
+  home: chrysamar
   aliases: []
 packFolder: helladbyzaria
 shortcode: alyksthtks
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/alyksthtks-portrait.webp
+  portrait: images/beings/characters/alyksthtks-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Timberwright

@@ -7,12 +7,12 @@ name:
   title: ""
   given: Harold
   clan: Helmsley
-  home: Caerwynd
+  home: caerwynd
   aliases:
     - Garron Marlowe
 packFolder: aureldiaaelwyth
 shortcode: hrldhlmsly
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
   portrait: images/being/hrldhlmsly-portrait.webp

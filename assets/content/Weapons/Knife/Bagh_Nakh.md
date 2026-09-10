@@ -4,7 +4,7 @@ name:
   full: Bagh Nakh
   aliases: []
 description: "Curved iron claws for raking close brawl; street fighter's mercy-less tool."
-img: icons/broad-dagger.svg
+img: systems/sohl/assets/icons/game-icons/lorc/broad-dagger.svg
 shortcode: BghNkh
 type: weapongear
 sohl:

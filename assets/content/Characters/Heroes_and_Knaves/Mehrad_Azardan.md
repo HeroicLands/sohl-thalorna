@@ -8,14 +8,14 @@ name:
   title: ""
   given: Mehrâd
   clan: Âzardan
-  home: Golshahr
+  home: golshahr
   aliases: []
 packFolder: sultanateofamradad
 shortcode: mehradzrdn
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/mehradzrdn-portrait.webp
+  portrait: images/beings/characters/mehradzrdn-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Pilot
@@ -603,6 +603,8 @@ sohl:
 Mehrâd stands 5'7" tall with a light build. He has warm olive skin, dark black hair, and green eyes. His features include an oval face, a hawkish nose, a well-defined jawline, full lips, prominent brows, hollow cheeks. A distinguishing mark is a scar on the lower abdomen.
 
 # Dossier {#dossier}
+
+## Background
 
 ### The Child of the Storm
 

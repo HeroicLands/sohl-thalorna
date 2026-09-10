@@ -7,12 +7,12 @@ name:
   title: ""
   given: Kàlendrîs
   clan: Korkâlenîs
-  home: Velysâra
+  home: velysara
   aliases:
     - Marisella Cloven
 packFolder: midhalionvylaria
 shortcode: klndrskrklns
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
   portrait: images/being/klndrskrklns-portrait.webp

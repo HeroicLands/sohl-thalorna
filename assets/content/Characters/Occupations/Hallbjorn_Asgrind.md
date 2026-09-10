@@ -7,12 +7,12 @@ name:
   title: ""
   given: Hallbjǫrn
   clan: Ásgrind
-  home: Thrymstead
+  home: thrymstead
   aliases:
     - Eadric Hawke
 packFolder: ankarisnordlands
 shortcode: hlbjrnsgrnd
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
   portrait: images/being/hlbjrnsgrnd-portrait.webp

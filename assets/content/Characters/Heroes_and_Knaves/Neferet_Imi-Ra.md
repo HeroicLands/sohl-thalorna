@@ -9,16 +9,16 @@ name:
   title: ""
   given: Neferet
   clan: Imi-Ra
-  home: Wasetkara
+  home: wasetkara
   aliases:
     - The Scholar of Forgotten Texts
 packFolder: northernfertileregiontakheperu
 banner: banners/ta-kheperu-banner.webp
 shortcode: neferetimr
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/neferetimr-portrait.webp
+  portrait: images/beings/characters/neferetimr-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Scholar
@@ -600,6 +600,8 @@ Neferet Imi-Ra was a rising scholar in the **Imperial Library of [[affiliation-e
 Her life took a sudden turn when [[being-mrtsbkhkmn|Meret-Sebek]] appeared in the Imperial Library, desperate to find answers to the celestial visions that had begun to haunt him. Intrigued by the astrologer’s claims, Neferet aided him in deciphering several ancient scrolls that described similar phenomena, prophecies about celestial shifts that heralded great changes. However, the deeper they dug into the texts, the more unsettling their findings became. The visions [[being-mrtsbkhkmn|Meret-Sebek]] described aligned too closely with prophecies foretelling a cosmic upheaval that could reshape the world.
 
 Neferet, driven by both curiosity and a hunger for knowledge, decided to accompany [[being-mrtsbkhkmn|Meret-Sebek]] on his journey. She believed that understanding these celestial mysteries would not only expand her scholarly reputation but also unlock powers that could alter the course of history. With the possibility of such a monumental discovery at hand, Neferet saw [[being-mrtsbkhkmn|Meret-Sebek]]’s quest as the key to unraveling the greatest mysteries of the cosmos.
+
+## Background
 
 ### Skills and Abilities
 

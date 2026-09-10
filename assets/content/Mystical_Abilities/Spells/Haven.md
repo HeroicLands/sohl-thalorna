@@ -5,7 +5,7 @@ name:
   aliases:
     - Pocket
 description: "Caster creates safe space; location becomes sanctuary from magic."
-img: icons/wind.svg
+img: systems/sohl/assets/icons/other/wind.svg
 shortcode: haven
 type: mysticalability
 subType: arcaneincantation

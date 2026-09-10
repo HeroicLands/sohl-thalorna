@@ -97,10 +97,10 @@ data:
   commonSkills:
     - nordmalng
     - valtarlng
-  seat: calypsa2
+  seat: calypsacity
   domains:
     - aureldirgn
-  population: 1000000
+  population: 45000
   economy:
     - affiliation-clgmrgntrrm
     - affiliation-magnumclgm
@@ -121,23 +121,43 @@ packFolder: calypsa
 
 ## Overview
 
-Calypsa is a free port city on a small, steep-sided island off the northern coast of [[place-elavendre|Élavendre]], some twenty miles out from the mainland and roughly fifteen miles across at its widest — barely large enough to hold the city proper, its terraced vineyards, and a scattering of fishing villages along the southern shore. The island commands the sea-lane between the [[place-nrdlndsrgn|Nordlands Region]] and the northern approaches to [[place-midhalnrgn|Mídhalión Region]], and its harbour is one of the best-sheltered anchorages in northern [[place-ankrscntnnt|Ankaris Continent]]. The galleys that use it tie the north and west of the continent together more completely than any treaty could.
+Calypsa is a free port city on a small, steep-sided island off the northern coast of [[place-elavendre|Élavendre]], some forty miles north-north-west of the mainland, just outside the mouth of [[place-cilforbay|Cilfor Bay]] and roughly fifteen miles across at its widest — barely large enough to hold the city proper, its terraced vineyards, and a scattering of fishing villages along the southern shore. The island commands the sea-lane between the [[place-nrdlndsrgn|Nordlands Region]] and the northern approaches to [[place-midhalnrgn|Mídhalión Region]], and its harbour is one of the best-sheltered anchorages in northern [[place-ankrscntnnt|Ankaris Continent]]. The galleys that use it tie the north and west of the continent together more completely than any treaty could.
 
-The city is nobody's vassal. It pays no tribute to the Normen kingdoms, owes no fealty to [[affiliation-kngdmlvndr|Élavendre]], and answers to no [[affiliation-ordoarcanis|Ordo]] authority beyond what its Captains' Council chooses to tolerate. That freedom is its principal product, and every other good that passes through its warehouses is, in some sense, paying for it.
+The city is nobody's vassal. It pays no tribute to the Nordmen kingdoms, owes no fealty to [[affiliation-kngdmlvndr|Élavendre]], and answers to no [[affiliation-ordoarcanis|Ordo]] authority beyond what its Captains' Council chooses to tolerate. That freedom is its principal product, and every other good that passes through its warehouses is, in some sense, paying for it.
 
 ## Character
 
-Calypsa's culture is the culture of a harbour that has had to welcome everyone. Nordmal is the working language of the docks and the old city; **Valtari**, a trade creole with deep Helionite roots, is spoken in the markets and among the younger merchant families; a traveller from [[place-provenzrgn|Provènzia Region]] or the [[affiliation-byzarianlg|Byzarian League]] will find themselves understood without much difficulty anywhere on the island. Weddings mix Normen drinking-songs with Aurèldían hymns; the kitchens combine northern smoked fish with southern spice and olive oil; the local wine is, by the admission of its drinkers, indifferent.
+Calypsa's culture is the culture of a harbour that has had to welcome everyone. Nordmal is the working language of the docks and the old city; **Valtari**, a trade creole with deep Helionite roots, is spoken in the markets and among the younger merchant families; a traveller from [[place-provenzrgn|Provènzia Region]] or the [[affiliation-byzarianlg|Byzarian League]] will find themselves understood without much difficulty anywhere on the island. Weddings mix Nordmen drinking-songs with Aurèldían hymns; the kitchens combine northern smoked fish with southern spice and olive oil; the local wine is, by the admission of its drinkers, indifferent.
 
 Calypsi civic life is dominated by the shipping houses — perhaps a dozen great families and twice as many lesser ones — whose fortunes rise and fall with the fortunes of their fleets. A family that loses three ships in a season may be elbowed from the Council within the year; a family that opens a new trade route may enter it. The resulting mobility gives Calypsi politics an unusually meritocratic flavour for Ankaris, though "merit" here means, specifically, the talent to make a ship pay.
 
 The city's people cultivate a reputation for cheerful amorality in commerce and a surprising severity in matters of personal honour. A Calypsi captain who breaks a contract may be pitied; one who breaks a guest's trust will not be welcome in the harbour again.
 
+## The Fleet
+
+Calypsa keeps a **navy out of all proportion to its size**, and it is the reason the city has stayed
+nobody's vassal.
+
+The shipping houses maintain it jointly, on a levy assessed by tonnage, and it is commanded by officers
+who are professionals rather than gentlemen — a distinction Calypsi make loudly and Aurèldían nobles
+find offensive. It is not built to hold a line against an empire and could not. It is built to make
+raiding Calypsa, or the sea-lanes Calypsa's trade uses, cost more than it returns.
+
+Against the **Nordmen** and the raiders of the northern lands this has worked for a very long time. The
+city pays no tribute to any northern kingdom and is emphatic about the difference between not paying
+tribute and not being asked. The wider consequence matters to its neighbours: Calypsa's squadrons sit
+across the approaches to [[place-cilforbay|Cilfor Bay]], and northern [[place-elavendre|Élavendre]]
+enjoys a degree of protection that it neither pays for nor formally acknowledges, and would miss
+immediately.
+
+Everything the city has rests on the fleet, and the fleet rests on trade paying for it. A bad decade of
+tariffs is a naval problem, and the shipping houses know it.
+
 ## Economy
 
 The harbour is the economy. Calypsa levies modest tariffs on cargo landed, serious tariffs on cargo transshipped, and crushing tariffs on cargo warehoused for longer than a season — the last deliberately punitive, to force capital through the city rather than letting it accumulate. The resulting turnover underwrites the Council's treasury and the city's celebrated insurance syndicates, whose bonds are bought by merchants as far away as [[affiliation-vylarinmpr|Vylaria]].
 
-The island itself produces little: wine, olives, fish, and a small but valued trade in dyestuffs gathered from shellfish found along its rocky southern coast. Everything else is brought in — grain from the Élavendri mainland, timber and furs from the [[place-nrdlndsrgn|Nordlands Region]], fine cloth from [[place-provenzrgn|Provènzia Region]] and the southern [[place-aureldirgn|Aurèldían]] courts, metalwork from [[affiliation-karatas|Karataş]], and the luxury goods of the east that trickle north through [[affiliation-byzarianlg|Byzarian]] and [[affiliation-vylarinmpr|Vylarian]] intermediaries.
+The island itself produces almost nothing. There is fishing, and there is enough rough grazing on the upper slopes to keep a sparse stock of goats and sheep, and there is a small but valued trade in dyestuffs gathered from shellfish along the rocky southern coast. Agriculture beyond fodder for that livestock is not worth the name — the island is steep, thin-soiled and short of fresh water, and **Calypsa eats what it buys**. Everything else is brought in — grain from the Élavendri mainland, timber and furs from the [[place-nrdlndsrgn|Nordlands Region]], fine cloth from [[place-provenzrgn|Provènzia Region]] and the southern [[place-aureldirgn|Aurèldían]] courts, metalwork from [[affiliation-karatas|Karataş]], and the luxury goods of the east that trickle north through [[affiliation-byzarianlg|Byzarian]] and [[affiliation-vylarinmpr|Vylarian]] intermediaries.
 
 ## Government
 
@@ -149,7 +169,7 @@ Outside the Council chamber, power is diffuse. Guilds of shipwrights, chandlers,
 
 **[[affiliation-kngdmlvndr|Élavendre]]** is Calypsa's nearest mainland neighbour and largest single trading partner. The relationship is warm, cordial, and quietly transactional: the Élavendri crown has never seriously attempted to annex the island and Calypsa has never seriously contemplated resisting if it did. In practice the two realms negotiate as peers, and a steady stream of Élavendri younger sons and restless merchant families settles on the island each generation.
 
-**The Normen kingdoms** — [[affiliation-kingdomlgn|Malagna]] especially — provide many of Calypsa's sailors, much of its shipbuilding timber, and a disproportionate share of its old-money families. Nordmal is still the working tongue of the docks for this reason. Relations with the Normen courts are friendly in trade and carefully neutral in politics; Calypsa has successfully stayed out of every Normen dynastic quarrel of the last three centuries.
+**The Nordmen kingdoms** — [[affiliation-kingdomlgn|Malagna]] especially — provide many of Calypsa's sailors, much of its shipbuilding timber, and a disproportionate share of its old-money families. Nordmal is still the working tongue of the docks for this reason. Relations with the Nordmen courts are friendly in trade and carefully neutral in politics; Calypsa has successfully stayed out of every Nordmen dynastic quarrel of the last three centuries.
 
 **The [[affiliation-ordoarcanis|Ordo Arcanis]]** maintains a small factor's house on the island but no chapterhouse and no licensing authority. Calypsa's official position is that the Ordo's writ stops at the waterline; in practice, Ordo agents who conduct themselves discreetly are tolerated, and those who do not are asked to leave.
 
@@ -166,7 +186,7 @@ Calypsa uses the [[lore-vylrncrncy|Vylarian currency]] (Aurion / Argentus / Octu
 ## See Also
 
 - [[place-elavendre|Élavendre]] — Nearest mainland neighbour
-- [[affiliation-kingdomlgn|Kingdom of Malagna]] — Principal Normen trading partner
+- [[affiliation-kingdomlgn|Kingdom of Malagna]] — Principal Nordmen trading partner
 - [[place-aelwyth|Aelwyth]] — Southern island neighbour
 - [[skill-nordmalng|Nordmal]], [[skill-valtarlng|Valtari]] — Languages of the docks and markets
 - [[affiliation-arldnpnthn|Aurèldían Pantheon]] — Dominant pantheon

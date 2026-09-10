@@ -7,12 +7,12 @@ name:
   title: ""
   given: Marzûna
   clan: Ashûram
-  home: Azhûn
+  home: azhun2
   aliases:
     - Rhea Ironheart
 packFolder: midhalionharad
 shortcode: marzunshrm
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
   portrait: images/being/marzunshrm-portrait.webp

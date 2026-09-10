@@ -6,7 +6,7 @@ name:
   aliases:
     - Potion, Curative, Strong
 description: "Deep emerald green curative; heals ailments and injuries."
-img: icons/potion.svg
+img: systems/sohl/assets/icons/other/potion.svg
 shortcode: PtnCurS
 type: concoctiongear
 subType: exotic

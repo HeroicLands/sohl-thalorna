@@ -7,12 +7,12 @@ name:
   title: ""
   given: Vanâdîs
   clan: Kâserânis
-  home: Valdosta
+  home: valdosta
   aliases:
     - Evelyne Voss
 packFolder: midhalionvylaria
 shortcode: vandsksrns
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
   portrait: images/being/vandsksrns-portrait.webp

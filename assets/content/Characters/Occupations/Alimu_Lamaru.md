@@ -8,12 +8,12 @@ name:
   title: ""
   given: Alîmû
   clan: Lâmarû
-  home: Varoshan
+  home: kashmuret
   aliases:
     - Cedric Hawthorne
 packFolder: midhalionharad
 shortcode: alimulamar
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
   portrait: images/being/alimulamar-portrait.webp

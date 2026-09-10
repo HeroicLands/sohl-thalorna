@@ -7,14 +7,14 @@ name:
   title: ""
   given: Ránthor
   clan: Párdalen
-  home: Valdûn
+  home: valdun
   aliases: []
 packFolder: aureldiaelavendre
 shortcode: rnthrprdln
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/rnthrprdln-portrait.webp
+  portrait: images/beings/characters/rnthrprdln-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Shaman

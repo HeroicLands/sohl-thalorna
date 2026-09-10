@@ -7,14 +7,14 @@ name:
   title: ""
   given: Véldor
   clan: Bélthal
-  home: Ceridwen's Hollow
+  home: cerdwnshlw
   aliases: []
 packFolder: aureldiaelavendre
 shortcode: veldrblthl
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/veldrblthl-portrait.webp
+  portrait: images/beings/characters/veldrblthl-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Thespian
@@ -585,6 +585,8 @@ sohl:
 Véldor stands 5'9" tall with a medium build. He has light fair skin, dark brown hair, and blue eyes. His features include a broad face, a narrow nose, a rounded chin, dark brows.
 
 # Dossier {#dossier}
+
+## Background
 
 ### Early Life
 

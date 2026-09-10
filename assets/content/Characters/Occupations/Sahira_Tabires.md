@@ -7,12 +7,12 @@ name:
   title: ""
   given: Sahîra
   clan: Tâbîrês
-  home: Pelagora
+  home: pelagora2
   aliases:
     - Elowen Quillmaster
 packFolder: helladhelionis
 shortcode: sahiratbrs
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
   portrait: images/being/sahiratbrs-portrait.webp

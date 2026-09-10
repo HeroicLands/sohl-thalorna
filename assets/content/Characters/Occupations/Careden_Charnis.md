@@ -7,12 +7,12 @@ name:
   title: ""
   given: Cáreden
   clan: Chárnis
-  home: Monvèrdre
+  home: monverdre
   aliases:
     - Korga Stoneseer
 packFolder: aureldiaprovenzia
 shortcode: cardnchrns
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
   portrait: images/being/cardnchrns-portrait.webp

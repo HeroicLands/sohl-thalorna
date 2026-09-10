@@ -7,14 +7,14 @@ name:
   title: ""
   given: Björg
   clan: Drekanótt
-  home: Ulfheim
+  home: ulfheim
   aliases: []
 packFolder: ankarisnordlands
 shortcode: bjorgdrknt
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/bjorgdrknt-portrait.webp
+  portrait: images/beings/characters/bjorgdrknt-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Beggar
@@ -589,6 +589,8 @@ sohl:
 Björg stands 5'3" tall with a light build. She has fair pale skin, dark brown hair, and green eyes. Her features include an oblong face, a prominent nose, a broad chin, a slightly downturned mouth, dark brows, hollow cheeks. A distinguishing mark is a tattoo of a crescent moon on the neck.
 
 # Dossier {#dossier}
+
+## Background
 
 ### Early Years
 

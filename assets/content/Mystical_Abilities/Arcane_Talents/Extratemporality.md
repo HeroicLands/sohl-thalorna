@@ -3,7 +3,7 @@ tags: []
 name:
   full: Extratemporality
   aliases: []
-img: icons/psionics.svg
+img: systems/sohl/assets/icons/noun/psionics.svg
 shortcode: xtratemp
 type: mysticalability
 subType: arcanetalent

@@ -5,11 +5,11 @@ name:
   full: Mountain Troll
   aliases: []
 description: "A primordial alpine guardian of immense weight and strength, roaming high peaks and caverns as a solitary omnivore that tolerates no rival."
-img: icons/game-icons/skoll/troll.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 shortcode: mntntrll
 type: being
 data:
-  portrait: images/being/mntntrll-portrait.webp
+  portrait: images/beings/creatures/mntntrll-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: null

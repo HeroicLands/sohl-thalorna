@@ -7,17 +7,17 @@ name:
   title: Haty'a
   given: Her'sa'îs
   clan: Sa'Anut
-  home: Ankh-Setûn
+  home: ankhsetun
   aliases:
     - Hersaîs SaAnut
     - Hersais SaAnut
 packFolder: northernfertileregiontakheperu
 banner: banners/ta-kheperu-banner.webp
 shortcode: hersaisant
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/hersaisant-portrait.webp
+  portrait: images/beings/characters/hersaisant-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Nobility (Tenant-in-chief)

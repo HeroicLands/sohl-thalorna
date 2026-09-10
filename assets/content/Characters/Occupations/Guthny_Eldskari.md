@@ -7,12 +7,12 @@ name:
   title: ""
   given: Guthný
   clan: Eldskari
-  home: Skarholme
+  home: skarholme
   aliases:
     - Thalia Stonehand
 packFolder: ankarisnordlands
 shortcode: gthnyldskr
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
   portrait: images/being/gthnyldskr-portrait.webp

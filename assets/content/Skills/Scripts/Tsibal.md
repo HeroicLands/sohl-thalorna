@@ -5,7 +5,7 @@ name:
   aliases:
     - Tz'ib'al
 description: "The knotted cord-records of the K'ich'chik — tribute, tallies and day-counts carried by runners and read by priests."
-img: icons/speaking.svg
+img: systems/sohl/assets/icons/other/speaking.svg
 shortcode: tzblcrdscrpt
 type: skill
 subType: script

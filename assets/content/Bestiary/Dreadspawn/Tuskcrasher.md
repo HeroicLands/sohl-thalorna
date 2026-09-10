@@ -5,11 +5,11 @@ name:
   full: Tuskcrasher
   aliases: []
 description: "A corrupted, colossal wild boar of suicidal ferocity that rules deep forests and destroys any threat to its territory."
-img: icons/game-icons/delapouite/griffin-symbol.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 shortcode: tskcrshr
 type: being
 data:
-  portrait: images/being/tskcrshr-portrait.webp
+  portrait: images/beings/creatures/tskcrshr-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: null

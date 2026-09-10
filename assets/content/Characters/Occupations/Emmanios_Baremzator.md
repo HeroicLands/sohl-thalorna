@@ -8,12 +8,12 @@ name:
   title: ""
   given: Émmanîôs
   clan: Bàremzâtôr
-  home: Valdosta
+  home: valdosta
   aliases:
     - Reslâva Aiden Greenfield
 packFolder: midhalionvylaria
 shortcode: emnsbrmztr
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
   portrait: images/being/emnsbrmztr-portrait.webp

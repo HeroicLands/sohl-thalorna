@@ -7,12 +7,12 @@ name:
   title: ""
   given: Thária
   clan: Castírenna
-  home: Solárden
+  home: solarden
   aliases:
     - Ilara Sunshade
 packFolder: aureldiatarvenia
 shortcode: tharicstrn
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
   portrait: images/being/tharicstrn-portrait.webp

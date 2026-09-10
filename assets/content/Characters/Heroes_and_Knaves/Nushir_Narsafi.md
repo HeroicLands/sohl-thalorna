@@ -8,14 +8,14 @@ name:
   title: ""
   given: Nushir
   clan: Narsâfî
-  home: Zargandûr
+  home: zargandur
   aliases: []
 packFolder: ankariskhazryndesert
 shortcode: nushirnrsf
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/nushirnrsf-portrait.webp
+  portrait: images/beings/characters/nushirnrsf-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Chandler
@@ -599,6 +599,8 @@ sohl:
 Nushir stands 5'6" tall with a medium build. She has light olive skin, gray hair, and brown eyes. Her features include a diamond-shaped face, a strong nose, an angular jawline, a firm-set mouth, arched brows, prominent cheeks.
 
 # Dossier {#dossier}
+
+## Background
 
 ### Apprenticeship and Early Mastery
 

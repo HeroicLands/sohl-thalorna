@@ -7,12 +7,12 @@ name:
   title: ""
   given: Jólren
   clan: Álvianar
-  home: Eskárath
+  home: null # was: Eskárath
   aliases:
     - Taran Stonecarver
 packFolder: aureldiatarvenia
 shortcode: jolrenlvnr
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
   portrait: images/being/jolrenlvnr-portrait.webp

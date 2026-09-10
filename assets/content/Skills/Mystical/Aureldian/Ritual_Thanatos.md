@@ -5,7 +5,7 @@ tags:
 type: skill
 subType: mystical
 shortcode: thanatos
-img: images/affiliation/thanatos.webp
+img: images/affiliation/aureldian/thanatos.webp
 name:
   full: "Ritual: Thanatos"
   aliases:

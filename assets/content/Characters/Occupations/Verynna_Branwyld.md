@@ -7,12 +7,12 @@ name:
   title: ""
   given: Vérynna
   clan: Brânwyld
-  home: Aurèliane
+  home: aureliane
   aliases:
     - Mira Whisperwind
 packFolder: aureldiaprovenzia
 shortcode: vrynbrnwyld
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
   portrait: images/being/vrynbrnwyld-portrait.webp

@@ -3,7 +3,7 @@ tags: []
 name:
   full: Elemental Bolt
   aliases: []
-img: icons/psionics.svg
+img: systems/sohl/assets/icons/noun/psionics.svg
 shortcode: eblt
 type: mysticalability
 subType: arcanetalent

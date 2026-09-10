@@ -5,11 +5,11 @@ name:
   full: Gloomfang
   aliases: []
 description: "A corrupted rodent-thing that hunts deep caverns in hive-minded packs, overwhelming prey through numbers and coordinated viciousness."
-img: icons/game-icons/delapouite/griffin-symbol.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 shortcode: glmfng
 type: being
 data:
-  portrait: images/being/glmfng-portrait.webp
+  portrait: images/beings/creatures/glmfng-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: null

@@ -7,12 +7,12 @@ name:
   title: ""
   given: Nílara
   clan: Tólgen
-  home: Lunacòrte
+  home: lunacorte
   aliases:
     - Maelis Oakhand
 packFolder: aureldiaprovenzia
 shortcode: nilaratlgn
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
   portrait: images/being/nilaratlgn-portrait.webp

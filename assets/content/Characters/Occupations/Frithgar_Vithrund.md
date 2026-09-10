@@ -7,12 +7,12 @@ name:
   title: ""
   given: Frithgár
   clan: Vithrúnd
-  home: Falkenstein
+  home: falkensten
   aliases:
     - Rolf Ironbear
 packFolder: ankarisvrystwald
 shortcode: frthgrvthrnd
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
   portrait: images/being/frthgrvthrnd-portrait.webp

@@ -5,11 +5,11 @@ name:
   full: Phantomwing
   aliases: []
 description: "The lonely, searching spirit of a creature that died far from home, pursuing living beings in hope of companionship it can never reclaim."
-img: icons/game-icons/lorc/spectre.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 shortcode: phntmwng
 type: being
 data:
-  portrait: images/being/phntmwng-portrait.webp
+  portrait: images/beings/creatures/phntmwng-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: null

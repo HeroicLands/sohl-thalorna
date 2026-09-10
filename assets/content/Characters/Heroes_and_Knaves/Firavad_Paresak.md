@@ -7,14 +7,14 @@ name:
   title: ""
   given: Firâvâd
   clan: Pâresak
-  home: Dûn Ashir
+  home: dunashir
   aliases: []
 packFolder: dunharatribes
 shortcode: firavdprsk
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/firavdprsk-portrait.webp
+  portrait: images/beings/characters/firavdprsk-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Shaman

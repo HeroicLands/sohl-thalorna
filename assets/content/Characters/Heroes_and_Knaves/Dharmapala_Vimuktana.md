@@ -7,14 +7,14 @@ name:
   title: ""
   given: Dharmàpala
   clan: Vimuktaṇa
-  home: Dhanurkota
+  home: dhanurkota
   aliases: []
 packFolder: ankarisvedyara
 shortcode: dhrmplvmkt
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/dhrmplvmkt-portrait.webp
+  portrait: images/beings/characters/dhrmplvmkt-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Bodyguard

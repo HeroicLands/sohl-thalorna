@@ -5,11 +5,11 @@ name:
   full: Nightwraith
   aliases: []
 description: "A corrupted giant bat twisted into a cunning nocturnal killer, hunting the night skies and lightless caverns with ruthless precision."
-img: icons/game-icons/lorc/spectre.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 shortcode: nghtwrth
 type: being
 data:
-  portrait: images/being/nghtwrth-portrait.webp
+  portrait: images/beings/creatures/nghtwrth-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: null
@@ -400,35 +400,3 @@ Bright light is the Nightwraith’s primary weakness—sustained illumination ca
 - **Reasoning:** 10-13 (1d4+9)
 
 - **Creativity:** 7-12 (1d6+6)
-
-## Lineage Notes
-
-_The following notes are inherited from the original lineage description._
-
-Above you the darkness ripples with motion, a shadow moving against shadows themselves. Then you hear it—a wet, clicking chirp from everywhere at once. The temperature plummets, and you realize the thing has already marked you by the beat of your heart.
-
-## Description
-
-The nightwraith measures fifteen to twenty feet from wingtip to wingtip—a corrupted giant bat with emaciated frame and wings of membrane that seem to absorb light. It possesses bioluminescent eyes burning with sickly luminescence and an aura of wrongness that affects the environment around it.
-
-## Key Behaviors
-
-Nightwraiths are colonial creatures, returning to large communal roosts in deep caves during the day and dispersing to hunt throughout the night until dawn drives them to rest. They are drawn to areas of high prey density and can detect the heartbeat of humans at considerable distance.
-
-## Relations
-
-Nightwraiths gather in colonies in deep caves and hunt settlements regularly. Humans regard them as abominations to be eliminated when encountered.
-
-## Special Abilities
-
-### Echolocation Hunting
-
-Nightwraiths navigate and hunt with perfect precision in complete darkness through echolocation, perceiving creatures by heartbeat and body heat.
-
-### Roost Regeneration
-
-Nightwraiths return to their roosts to rest and heal, demonstrating resistance to conventional damage sources between hunts.
-
-### Parasitic Venom
-
-Nightwraiths emit ultrasonic vocalizations and drain blood with parasitic venom that paralyzes prey on contact.

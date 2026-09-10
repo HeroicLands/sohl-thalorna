@@ -7,14 +7,14 @@ name:
   title: ""
   given: Korêmdânis
   clan: Bárkrâtys
-  home: Belekos
+  home: belekos
   aliases: []
 packFolder: midhalionvylaria
 shortcode: krmdnsbrkrtys
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/krmdnsbrkrtys-portrait.webp
+  portrait: images/beings/characters/krmdnsbrkrtys-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Swordmaster
@@ -591,6 +591,8 @@ sohl:
 Korêmdânis stands 6'0" tall with a medium build. She has light olive skin, auburn hair, and amber eyes. Her features include an oblong face, a prominent nose, a narrow chin, slightly pursed lips, heavy brows, angular cheeks. A distinguishing mark is a tattoo of a dragonfly on the neck.
 
 # Dossier {#dossier}
+
+## Background
 
 ### Early Life
 

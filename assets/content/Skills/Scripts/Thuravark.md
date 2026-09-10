@@ -4,8 +4,8 @@ name:
   full: Thurávark Runic Script
   aliases:
     - Thurávark
-description: "The cut runes of the Normen north — knife-work and chisel-work, the script of memorial stones, oath-staves and the sagas that matter."
-img: icons/speaking.svg
+description: "The cut runes of the Nordmen north — knife-work and chisel-work, the script of memorial stones, oath-staves and the sagas that matter."
+img: systems/sohl/assets/icons/other/speaking.svg
 shortcode: thuravarkscript
 type: skill
 subType: script
@@ -24,11 +24,11 @@ flags:
     script_family: Runic
 ---
 
-Thurávark is the rune-row of the north — an ancient carving script adapted long ago to the sounds of [[skill-nordmalng|Nordmal]], and still the only writing the five Normen kingdoms consider entirely their own. The name is Proto-Pelwar _thura-vark_, "graven work"; the same compound survives in the south as the imperial [[skill-thrvrknscrpt|Thâravárkon]], which is the clearest evidence that the two tongues share a nomadic ancestor.
+Thurávark is the rune-row of the north — an ancient carving script adapted long ago to the sounds of [[skill-nordmalng|Nordmal]], and still the only writing the five Nordmen kingdoms consider entirely their own. The name is Proto-Pelwar _thura-vark_, "graven work"; the same compound survives in the south as the imperial [[skill-thrvrknscrpt|Thâravárkon]], which is the clearest evidence that the two tongues share a nomadic ancestor.
 
-The letterforms are not a Pelwar invention. They correspond too closely to Khazári [[skill-drthrkscrpt|Durthrak]] — angle for angle, notch for notch — to have been arrived at independently, and the standing account is that the **Proto-Pelwar were themselves Khazári subjects**, taught a reduced work-row in the mountains before they ever went west. What came out of the mountains was one Proto-Pelwar rune-row; the migrations split it, and Thurávark is a simplification of that simplification rather than anything the Normen devised. Nobody can prove it. The name is evidence of a sort: a people who invent their own writing do not call it "the cutting," which is what one calls a thing one has been shown — and all three Pelwar branches carried that same word west with them, because all three carried the same borrowed row.
+The letterforms are not a Pelwar invention. They correspond too closely to Khazári [[skill-drthrkscrpt|Durthrak]] — angle for angle, notch for notch — to have been arrived at independently, and the standing account is that the **Proto-Pelwar were themselves Khazári subjects**, taught a reduced work-row in the mountains before they ever went west. What came out of the mountains was one Proto-Pelwar rune-row; the migrations split it, and Thurávark is a simplification of that simplification rather than anything the Nordmen devised. Nobody can prove it. The name is evidence of a sort: a people who invent their own writing do not call it "the cutting," which is what one calls a thing one has been shown — and all three Pelwar branches carried that same word west with them, because all three carried the same borrowed row.
 
-The Normen reject the whole account, and not mildly. The runes were won by Óðinn, hanged nine nights on the world-tree, and no smith under a mountain gave them to anybody. Raising the matter in a hall is a good way to end an evening early.
+The Nordmen reject the whole account, and not mildly. The runes were won by Óðinn, hanged nine nights on the world-tree, and no smith under a mountain gave them to anybody. Raising the matter in a hall is a good way to end an evening early.
 
 Like any script it is a writing system and not a language: a character needs **both** Thurávark and the relevant [[skill-lang|Language]] to read what is cut in it. See [[skill-script|Script]] for the scribing and reading rules, and [[skill-runic|Runic]] for the carved tradition in general.
 

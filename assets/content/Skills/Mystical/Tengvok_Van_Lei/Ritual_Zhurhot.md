@@ -1,0 +1,25 @@
+---
+tags:
+  - tengvok
+  - faith-skill
+type: skill
+subType: mystical
+shortcode: zhurhot
+name:
+  full: "Ritual: Zhürhöt"
+  aliases:
+    - Zhürhöt
+    - The Minister of Fire
+sohl:
+  templatePriority: null
+  system:
+    skillBaseFormula: "@wil, @rea"
+    masteryLevelBase: 0
+    improveFlag: false
+    combatCategory: none
+    parentSkillCode: ""
+    initSkillMult: 0
+packFolder: tengvokvanlei
+---
+
+See [[affiliation-zhurhot|Zhürhöt]]

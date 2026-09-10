@@ -5,6 +5,7 @@ tags:
 type: skill
 subType: mystical
 shortcode: maat
+img: icons/takheperu/pantheon/maat.svg
 name:
   full: "Ritual: Má'át"
   aliases:

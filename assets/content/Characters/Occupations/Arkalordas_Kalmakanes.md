@@ -7,12 +7,12 @@ name:
   title: ""
   given: Arkálòrdâs
   clan: Kâlmâkanês
-  home: Aelissium
+  home: aelissium
   aliases:
     - Darrin Wavebreaker
 packFolder: midhalionvylaria
 shortcode: arklrdsklmkns
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
   portrait: images/being/arklrdsklmkns-portrait.webp

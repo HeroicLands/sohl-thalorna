@@ -5,7 +5,7 @@ tags:
 type: skill
 subType: mystical
 shortcode: thorr
-img: images/affiliation/thorr.webp
+img: images/affiliation/asguardian/thorr.webp
 name:
   full: "Ritual: Thórr"
   aliases:

@@ -8,15 +8,15 @@ name:
   title: ""
   given: Gahiji
   clan: Fénjara
-  home: Ékunda
+  home: fenjaravlg
   aliases:
     - The Spirit Tracker
 packFolder: xerathiasouthernsavannahs
 shortcode: gahijwfnjr
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/gahijwfnjr-portrait.webp
+  portrait: images/beings/characters/gahijwfnjr-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Hunter
@@ -57,7 +57,8 @@ sohl:
     - { shortcode: elo, type: attribute, system: { scoreBase: 11 } }
     - { shortcode: mor, type: attribute, system: { scoreBase: 15 } }
     - { shortcode: voi, type: attribute, system: { scoreBase: 12 } }
-    - { shortcode: nyalbsprts, type: affiliation }
+    - { shortcode: nyalbleop, type: affiliation }
+    - { shortcode: leopardsengalasprt, type: skill, system: { masteryLevelBase: 42 } }
     - { shortcode: brew, type: skill, system: { masteryLevelBase: 30 } }
     - { shortcode: cook, type: skill, system: { masteryLevelBase: 30 } }
     - { shortcode: folklr, type: skill, system: { masteryLevelBase: 13 } }
@@ -601,6 +602,8 @@ Gahiji wa Fénjara is a renowned **tracker and hunter** from the Fénjara tribe 
 Gahiji's reputation spread far and wide when he tracked down and defeated a dangerous **spirit panther** that had been terrorizing his people. The panther was not a simple physical predator, but a spiritual creature capable of phasing between the spirit world and the material plane. Gahiji was able to pursue the creature through the use of his family’s secret rituals, tracking it through dreams and visions as well as through physical trails. This made him one of the most sought-after trackers in Xerathia.
 
 When [[being-kirobashkm|Kiroba]]’s quest to restore balance reached the Nyáluba lands, Gahiji was drawn to the spiritual nature of the disturbance. Sensing that this imbalance threatened all of Xerathia, Gahiji joined [[being-kirobashkm|Kiroba]]’s cause, believing that his skills would be instrumental in navigating the spirit-infused jungle and the spiritual threats ahead.
+
+## Background
 
 ### Skills and Abilities
 

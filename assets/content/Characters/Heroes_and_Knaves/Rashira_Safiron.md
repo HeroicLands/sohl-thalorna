@@ -8,13 +8,13 @@ name:
   title: Grammatíssa
   given: Rashîra
   clan: Safîrôn
-  home: Bethûra
+  home: bethura
   aliases:
     - The Keeper of the Purple Warrant
     - The Renegade Grammatíssa
 packFolder: northernfertileregionbethua
 shortcode: rshrhssfrn
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
   portrait: images/being/rshrhssfrn-portrait.webp
@@ -95,7 +95,7 @@ sohl:
         durability: 3
     - { shortcode: tndrbx, type: miscgear }
     - { shortcode: FRtns, type: miscgear, system: { quantity: 4 } }
-    - { shortcode: goldcrown, type: miscgear, system: { quantity: 30 } }
+    - { shortcode: gldcrwn, type: miscgear, system: { quantity: 30 } }
     - { shortcode: bpchlg, type: containergear }
     - { shortcode: wtrskin, type: containergear }
   system:
@@ -564,6 +564,8 @@ sohl:
 Rashîra is a woman of middle years, slight and upright, with the ink-stained composure of someone who has spent a lifetime among documents rather than in the sun. She stands 5'5" with a medium frame beginning to soften. Her skin is dark and olive-toned, her black hair shot with early grey and bound back severely, and her hazel eyes are quick and appraising. Her hands are fine and careful, the right forefinger permanently calloused where the reed-pen rests. Since taking flight she has traded her office robes for plain travelling worsted and a heavy cloak, and she carries herself with the wary stillness of the hunted.
 
 # Dossier {#dossier}
+
+## Background
 
 ### Origin and Early Life
 

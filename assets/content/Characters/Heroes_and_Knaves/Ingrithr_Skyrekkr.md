@@ -7,14 +7,14 @@ name:
   title: ""
   given: Íngrithr
   clan: Skýrekkr
-  home: Hávamál
+  home: havamal
   aliases: []
 packFolder: ankarisnordlands
 shortcode: ingrthrskyrkr
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/ingrthrskyrkr-portrait.webp
+  portrait: images/beings/characters/ingrthrskyrkr-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Domestic Servant
@@ -589,6 +589,8 @@ sohl:
 Íngrithr stands 5'8" tall with a light build. She has pale fair skin, black hair, and hazel eyes. Her features include a broad face, a snub nose, a narrow chin, rosy lips, light brows, soft cheeks.
 
 # Dossier {#dossier}
+
+## Background
 
 ### The Taking
 

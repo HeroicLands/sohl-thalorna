@@ -8,12 +8,12 @@ name:
   title: ""
   given: Pârshar
   clan: Kûrrîm
-  home: Kethara
+  home: kethara2
   aliases:
     - Oswin Goldlock
 packFolder: midhalionharad
 shortcode: parsharkrm
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
   portrait: images/being/parsharkrm-portrait.webp

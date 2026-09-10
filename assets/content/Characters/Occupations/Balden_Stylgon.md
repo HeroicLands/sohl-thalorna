@@ -7,12 +7,12 @@ name:
   title: ""
   given: Bâlden
   clan: Stýlgon
-  home: Aurèliane
+  home: aureliane
   aliases:
     - Halvard Strongvoice
 packFolder: aureldiaprovenzia
 shortcode: bldnstylgn
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
   portrait: images/being/bldnstylgn-portrait.webp

@@ -7,14 +7,14 @@ name:
   title: ""
   given: Goremadânis
   clan: Hérendânis
-  home: Belekos
+  home: belekos
   aliases: []
 packFolder: midhalionvylaria
 shortcode: grmdnshrndns
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/grmdnshrndns-portrait.webp
+  portrait: images/beings/characters/grmdnshrndns-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Common Seaman

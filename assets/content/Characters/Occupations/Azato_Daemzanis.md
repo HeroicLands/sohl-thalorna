@@ -8,12 +8,12 @@ name:
   title: ""
   given: Azatô
   clan: Dâemzânis
-  home: Tyrellan
+  home: tyrellan
   aliases:
     - Oswin Crey
 packFolder: midhalionvylaria
 shortcode: azatodmzns
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
   portrait: images/being/azatodmzns-portrait.webp

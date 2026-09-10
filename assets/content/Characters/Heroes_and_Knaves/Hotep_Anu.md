@@ -8,16 +8,16 @@ name:
   title: ""
   given: Hotep
   clan: Anu
-  home: Ankh-Setûn
+  home: ankhsetun
   aliases:
     - The Exiled Priest
 packFolder: northernfertileregiontakheperu
 banner: banners/ta-kheperu-banner.webp
 shortcode: hotepanu
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/hotepanu-portrait.webp
+  portrait: images/beings/characters/hotepanu-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Priest
@@ -113,12 +113,7 @@ sohl:
     - { shortcode: pence, type: miscgear, system: { quantity: 40 } }
     - { shortcode: StdRtns, type: miscgear, system: { quantity: 2 } }
     - { shortcode: torch, type: miscgear, system: { quantity: 2 } }
-    - name: Metalworking tools (hammer, tongs, small anvil)
-      type: miscgear
-      system:
-        weight: 2
-        value: 100
-        durability: 3
+    - { shortcode: metalwrktl, type: miscgear }
     - name: Scrolls and notes on theological doctrine
       type: miscgear
       system:

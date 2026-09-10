@@ -7,14 +7,14 @@ name:
   title: ""
   given: Vishali
   clan: Bâlarṇaya
-  home: Rājapur
+  home: rajapur
   aliases: []
 packFolder: ankarisvedyara
 shortcode: vishalblry
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/vishalblry-portrait.webp
+  portrait: images/beings/characters/vishalblry-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Fool
@@ -584,6 +584,8 @@ sohl:
 Vishali stands 5'8" tall with a light build. She has rich brown skin, dark black hair, and warm brown eyes. Her features include a round face, a slightly arched nose, a gentle jawline, generous lips, rich brows. A distinguishing mark is a scar on the right elbow.
 
 # Dossier {#dossier}
+
+## Background
 
 ### Early Life and Training
 

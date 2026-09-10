@@ -12,10 +12,10 @@ name:
   aliases: []
 packFolder: aureldiaprovenzia
 shortcode: dornsyndlr
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/dornsyndlr-portrait.webp
+  portrait: images/beings/characters/dornsyndlr-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Mercenary
@@ -102,9 +102,9 @@ sohl:
     - { shortcode: PCap, type: armorgear }
     - { shortcode: PSTnc, type: armorgear }
     - { shortcode: PlHHelm, type: armorgear }
-    - { shortcode: Leather satchel, type: miscgear }
-    - { shortcode: Sharpening stone, type: miscgear }
-    - { shortcode: Leather flask, type: miscgear }
+    - { shortcode: bagleather15, type: containergear }
+    - { shortcode: grindstone, type: miscgear }
+    - { shortcode: flaskmetal, type: containergear }
     - { shortcode: backpk, type: containergear }
     - { shortcode: StdRtns, type: miscgear, system: { quantity: 3 } }
     - { shortcode: LiteBdrl, type: miscgear }
@@ -581,6 +581,8 @@ Dôren hails from the rugged highlands of Provènzia, where he was once a farmer
 His reputation as a fighter drew the attention of Brànwâal, who recruited him into the [[affiliation-slntlncmpny|Silent Talon]] for his resilience and brute force. Dôren has been with the band ever since, finding in it the family he lost. He fights with an axe and shield in the old highland style—direct, brutal, and unrelenting.
 
 Dôren is not a complicated man. He does not care for politics, subtlety, or the kind of scheming that occupies people like Tórnis. War is simple: protect those who fight with you, kill those who stand against you. He says what he means, does what he says, and asks nothing more of the world than a place to stand and someone worth standing beside.
+
+## Background
 
 ### Skills and Abilities
 

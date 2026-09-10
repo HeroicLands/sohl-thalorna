@@ -8,14 +8,14 @@ name:
   title: ""
   given: Pallàvi
   clan: Drâviksha
-  home: Vyālendra
+  home: vyalendra3
   aliases: []
 packFolder: ankarisvedyara
 shortcode: palvdrvksh
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/palvdrvksh-portrait.webp
+  portrait: images/beings/characters/palvdrvksh-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Scribe

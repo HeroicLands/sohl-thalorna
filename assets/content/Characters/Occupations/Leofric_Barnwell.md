@@ -7,12 +7,12 @@ name:
   title: ""
   given: Leofric
   clan: Barnwell
-  home: Ashford
+  home: ashford
   aliases:
     - Dr. Alaric Hawthorne
 packFolder: aureldiaaelwyth
 shortcode: lefrcbrnwl
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
   portrait: images/being/lefrcbrnwl-portrait.webp

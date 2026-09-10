@@ -8,15 +8,15 @@ name:
   title: ""
   given: Nari
   clan: Sahravân
-  home: Oasis of Shirvan
+  home: oasishirvn
   aliases:
     - The Desert Mystic
 packFolder: ankariskhazryndesert
 shortcode: narisahrvn
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/narisahrvn-portrait.webp
+  portrait: images/beings/characters/narisahrvn-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Shaman
@@ -592,6 +592,8 @@ Nari stands 5'5" tall with a light build. She has bronzed skin, dark hair, and b
 Nari Sahravân is a daughter of the deep **[[place-khzryndsrtrgn|Khazryn]]** — the steppe and desert of the [[affiliation-khzrncnfdrtn|Khazryn Confederation]], far to the north and east, where the nomad tribes keep the old ways and the old gods. Raised a mystic and healer among her people and devoted to the [[affiliation-ashanpnthn|Āsháian]] faith, she was taught the traditions of spirit, herb-lore, and the small elemental magics of wind and sand that the tribes have passed down for generations. Her gifts of medicine and divination made her a sought-after figure among the clans, a mediator and healer who travelled between camps — until her visions began to point her away from home, south and west across the world, toward a thread she could not yet name.
 
 Nari and [[being-zahirmlkht|Zahira]] crossed paths far from the Khazryn, in the southern Mídhalion borderlands, where a vision had carried Nari and a hunt had carried Zahira. Despite their initial wariness — the gentle healer and the killer-for-hire made an uneasy pair — they came to respect one another when Nari's craft saved Zahira from a mortal wound. Nari has read in her sight that Zahira's thread is tangled with great events, and she travels with her to learn why, bringing her knowledge of the wilds, her mystical gifts, and her talent for healing to the company. To a foreign eye, much of Bethûa unsettles her — above all what the matriarchy does to its men — and she does not always keep that disquiet to herself.
+
+## Background
 
 ### Skills and Abilities
 

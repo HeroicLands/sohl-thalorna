@@ -39,15 +39,15 @@ No single mountain range, river, or sea divides Ankaris in half; its geography i
 TABLE WITHOUT ID
     link(file.path, name.full) AS "Region",
     description AS "Overview"
-WHERE category = "region" and contains(parent.continents, "ankaris")
+WHERE type = "place" and subType = "region" and contains(data.parents, "ankrscntnnt")
 SORT name.full ASC
 ```
 
 ## Peoples
 
-Ankaris is overwhelmingly a human continent. The great mass of its population — hundreds of millions across the ten regions — is [[Humans|human]], varied into dozens of distinct cultural and linguistic groups that do not recognize themselves as a single people.
+Ankaris is overwhelmingly a human continent. The great mass of its population — hundreds of millions across the ten regions — is human, varied into dozens of distinct cultural and linguistic groups that do not recognize themselves as a single people.
 
-Two non-human peoples hold substantial territory. The [[skill-grukarlng|Grukar]] tribes dominate the far northeast, with scattered communities in the Vrystwald forests and seasonal trading posts in the highlands of neighboring regions. The [[Goblin_Folk|goblin]] clans maintain their own territories in the deep Vrystwald and in the marginal lands between the settled kingdoms, though they are rarely organized at a scale that registers on Ankarian political maps.
+Two non-human peoples hold substantial territory. The [[skill-grukarlng|Grukar]] tribes dominate the far northeast, with scattered communities in the Vrystwald forests and seasonal trading posts in the highlands of neighboring regions. The goblin clans maintain their own territories in the deep Vrystwald and in the marginal lands between the settled kingdoms, though they are rarely organized at a scale that registers on Ankarian political maps.
 
 The Elder Races — the [[lore-flksinale|Sinalë]] who arrived roughly six thousand years ago and the [[lore-flkkhazar|Khazári]] who followed a thousand years later — are vanishingly rare on Ankaris as everywhere else. Fewer than one in ten thousand Ankarians has ever seen a Sinalë or Khazári; most doubt they exist at all. Where they do persist, they do so in hidden enclaves: Sinalëan communities in the oldest forests of Élavendre and in the imperial court of Tānvür, Khazári halls in the deepest mountain ranges of the east.
 
@@ -55,7 +55,17 @@ Religiously, Ankaris is divided rather than united. The [[affiliation-arldnpnthn
 
 ## History
 
-Ankaris's recorded history begins with the arrival of the Sinalë roughly fifty-three centuries before the Founding of the [[affiliation-vylarinmpr|Vylarian Empire]] (the present-day calendar anchor), when humanity already existed as scattered hunter-gatherer bands. The Khazári followed a thousand years later. Both Elder Races observed a strict policy of non-interference with human development — a stance they have maintained for fifty centuries and which the Ankarian human kingdoms take for granted as simply the way things are. The policy was sincerely held and is largely intact; its outcome is another matter entirely, and what humanity absorbed from five thousand years of proximity to peoples who meant to teach it nothing is the subject of [[lore-longnhrtnc|The Long Inheritance]]. (Only [[affiliation-kalihara|Kalihara]], far to the west, saw a different pattern.)
+Ankaris's recorded history begins with the arrival of the Sinalë roughly fifty-three centuries before the Founding of the [[affiliation-vylarinmpr|Vylarian Empire]] (the present-day calendar anchor), when humanity already existed as scattered hunter-gatherer bands. The [[lore-flkkhazar|Khazári]] followed a thousand years later, around 4280 BF.
+
+It is the settled opinion of human scholarship that both Elder Races observed a strict policy of non-interference with human development. Of the [[lore-flksinale|Sinalë]] this appears to be true. Of the Khazári it is not, and the reason human scholarship believes otherwise is that no human has ever read a Khazári archive.
+
+**The Deep Folk could not feed themselves.** A hold grows nothing and cannot be supplied from outside — a people dependent on an outside larder can be starved by whoever holds the road, which the Khazári have never been willing to accept. They arrived into a world whose humans were hunter-gatherers, and hunter-gatherers cannot provision a hold. So within a few centuries of their arrival, in the upland country around their first holds, the Khazári **taught the peoples nearest them to farm** — water-works, drainage, terracing, seed-storage, the granary — which are precisely the crafts the Khazári are best at and precisely what turns thin mountain ground into a food supply.
+
+Nothing about this was a gift, and nothing about it was intended as an uplift. They were building a larder. They would have done the same for any creature that could be taught to hold a plough, and the evidence suggests they took no further interest whatever in what those people subsequently became.
+
+What those people subsequently became was everything. The knowledge did not stay in the hills: it ran downhill and outward over centuries, into the great river valleys where soil and water made it explode, and the earliest human civilizations — [[affiliation-empirtkhpr|Ta'Kheperu]] on its river by about 2110 BF, [[affiliation-tanvurempr|Tānvür]] claiming a line three millennia long — were raised on a foundation nobody remembers being handed. No human record reaches within two thousand years of the event. The Khazári records presumably state it plainly, in the tone in which they state everything, and no human has ever read one.
+
+The surviving trace of the arrangement is the [[lore-vardain|Vardain]] of Aelwyth, who still farm for a hold and still cannot say why they were taught to.
 
 Recorded human history in the west begins with the Pelwar migrations, the founding of the early city-states of what would become Mídhalión, and eventually — around 650 BF — the establishment of the [[affiliation-vylarinmpr|Vylarian Republic]] on the Vylarian Sea. The Republic became an Empire in the year that the common calendar still calls Year 1, and for several centuries Vylaria projected power across Mídhalión and the western continent. The current year is 720 AF, and the Empire has been in decline for generations; Harad has won its independence, Provènzia and Tarvénia are long-independent successor states, and the Empire's remaining territories are beset by crises its institutions can no longer resolve.
 

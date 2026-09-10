@@ -8,14 +8,14 @@ name:
   title: ""
   given: Vígbrandr
   clan: Skýrekkr
-  home: Valgard
+  home: valgard
   aliases: []
 packFolder: ankarisnordlands
 shortcode: vgbrndrskyrkr
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/vgbrndrskyrkr-portrait.webp
+  portrait: images/beings/characters/vgbrndrskyrkr-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Skald

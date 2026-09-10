@@ -7,12 +7,12 @@ name:
   title: ""
   given: Wulfrád
   clan: Hildvith
-  home: Eichengrund
+  home: eichengrnd
   aliases:
     - Garrick Blastforge
 packFolder: ankarisvrystwald
 shortcode: wlfrdhldvth
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
   portrait: images/being/wlfrdhldvth-portrait.webp

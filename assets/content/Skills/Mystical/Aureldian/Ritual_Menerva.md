@@ -5,7 +5,7 @@ tags:
 type: skill
 subType: mystical
 shortcode: menerva
-img: images/affiliation/menerva.webp
+img: images/affiliation/aureldian/menerva.webp
 name:
   full: "Ritual: Menerva"
   aliases:

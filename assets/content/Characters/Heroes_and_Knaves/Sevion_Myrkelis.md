@@ -9,14 +9,14 @@ name:
   title: ""
   given: Sevion
   clan: Myrkelis
-  home: Liranel
+  home: liranel
   aliases: []
 packFolder: aureldiaelavendre
 shortcode: sevnmyrkls
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/sevnmyrkls-portrait.webp
+  portrait: images/beings/characters/sevnmyrkls-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Alchemist
@@ -609,6 +609,8 @@ sohl:
 Sevion stands 5'10" tall with a light build. He has pale skin, dark hair, and blue eyes. His features include a round face, a button nose, a gentle jawline, a wide mouth, expressive brows.
 
 # Dossier {#dossier}
+
+## Background
 
 ### Early Life and Family Background
 

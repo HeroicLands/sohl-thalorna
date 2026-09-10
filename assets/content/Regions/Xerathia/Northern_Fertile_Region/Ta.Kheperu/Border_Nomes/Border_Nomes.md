@@ -141,20 +141,20 @@ Mining, herding, garrison-supply, and the caravan trade drive the border economy
 
 ## The Nomes
 
-Ten nomes make up the border class, each under its hereditary [[affiliation-empirtkhpr#Titles and Forms of Address|Haty'a]] in their capacity as military governor. Two are treated at length in their own notes; the remaining eight are rostered here.
+Ten nomes make up the border class, each under its hereditary [[affiliation-empirtkhpr#titles-and-forms-of-address|Haty'a]] in their capacity as military governor. Each is treated in its own note; the table below is the roster.
 
-| Nome                                              | Seat                   | Patron                            | Population | Character                                                                                       |
-| ------------------------------------------------- | ---------------------- | --------------------------------- | ---------- | ----------------------------------------------------------------------------------------------- |
-| \*\*[[affiliation-nometstbtt\|Ta-Set-Iabtet]]\*\* | [[place-bakhu\|Bakhu]] | [[affiliation-kemtnpnthn\|Ptā'h]] | ~350,000   | The eastern mining march; gold, copper, and turquoise mines, and the smelter-towns of the hills |
-| \*\*[[affiliation-nometarshk\|Ta-Resu-Heka]]\*\*  | [[place-behen\|Behen]] | Mentu (war-god)                   | ~320,000   | The great southern march; the cataract fortress-line and the gateway to the tribal lands        |
-| Khent-Hen-Nefer                                   | Khent-Hen              | Mentu                             | ~280,000   | Forward southern forts beyond the first cataract; the empire's hardest postings                 |
-| Wawat                                             | Wawat                  | [[affiliation-kemtnpnthn\|Ptā'h]] | ~260,000   | The southern gold-road; mines, caravan-stations, and tribute-collection                         |
-| Per-Mentu                                         | Per-Mentu              | Mentu                             | ~240,000   | A garrison heartland; the chariot-corps drill-grounds and officer schools                       |
-| Ta-Mentu                                          | Sile                   | [[affiliation-kemtnpnthn\|Rā]]    | ~220,000   | The western steppe-edge; horse-pasture and the watch against nomad raiders                      |
-| Khaset-Imnt                                       | Khaset                 | [[affiliation-kemtnpnthn\|Rā]]    | ~220,000   | The far western desert march; oasis-forts and the watch over the trade-tracks                   |
-| Iabet-Heqa                                        | Iabet-Heqa             | Sobek (crocodile-god)             | ~210,000   | Eastern desert wells and quarry-roads; a dry, sun-burnt garrison nome                           |
-| Senmut                                            | Senmut                 | [[affiliation-kemtnpnthn\|Sēker]] | ~200,000   | A river-island fortress-nome at the second cataract; gateway and toll-gate                      |
-| Behdet-Resu                                       | Behdet                 | Mentu                             | ~200,000   | The deepest southern fort; the empire's last writ before the tribal frontier                    |
+| Nome                                              | Seat                            | Patron                                       | Population | Character                                                                                       |
+| ------------------------------------------------- | ------------------------------- | -------------------------------------------- | ---------- | ----------------------------------------------------------------------------------------------- |
+| \*\*[[affiliation-nometstbtt\|Ta-Set-Iabtet]]\*\* | [[place-bakhu\|Bakhu]]          | [[affiliation-kemtnpnthn\|Ptā'h]]            | ~350,000   | The eastern mining march; gold, copper, and turquoise mines, and the smelter-towns of the hills |
+| \*\*[[affiliation-nometarshk\|Ta-Resu-Heka]]\*\*  | [[place-behen\|Behen]]          | Mentu (war-god)                              | ~320,000   | The great southern march; the cataract fortress-line and the gateway to the tribal lands        |
+| **[[affiliation-nomekhnthn\|Khent-Hen-Nefer]]**   | [[place-khenthen\|Khent-Hen]]   | [[affiliation-mentu\|Mentu]]                 | ~280,000   | Forward southern forts beyond the first cataract; the empire's hardest postings                 |
+| **[[affiliation-nomewawat\|Wawat]]**              | [[place-wawat\|Wawat]]          | [[affiliation-kemtnpnthn\|Ptā'h]]            | ~260,000   | The southern gold-road; mines, caravan-stations, and tribute-collection                         |
+| **[[affiliation-nomepermen\|Per-Mentu]]**         | [[place-permentu\|Per-Mentu]]   | [[affiliation-mentu\|Mentu]]                 | ~240,000   | A garrison heartland; the chariot-corps drill-grounds and officer schools                       |
+| **[[affiliation-nometament\|Ta-Mentu]]**          | [[place-sile\|Sile]]            | [[affiliation-kemtnpnthn\|Rā]]               | ~220,000   | The western steppe-edge; horse-pasture and the watch against nomad raiders                      |
+| **[[affiliation-nomekhstmn\|Khaset-Imnt]]**       | [[place-khaset\|Khaset]]        | [[affiliation-kemtnpnthn\|Rā]]               | ~220,000   | The far western desert march; oasis-forts and the watch over the trade-tracks                   |
+| **[[affiliation-nomeiabeth\|Iabet-Heqa]]**        | [[place-iabetheqa\|Iabet-Heqa]] | [[affiliation-sobek\|Sobek]] (crocodile-god) | ~210,000   | Eastern desert wells and quarry-roads; a dry, sun-burnt garrison nome                           |
+| **[[affiliation-nomesenmut\|Senmut]]**            | [[place-senmut\|Senmut]]        | [[affiliation-kemtnpnthn\|Sēker]]            | ~200,000   | A river-island fortress-nome at the second cataract; gateway and toll-gate                      |
+| **[[affiliation-nomebhdtrs\|Behdet-Resu]]**       | [[place-behdet\|Behdet]]        | [[affiliation-mentu\|Mentu]]                 | ~200,000   | The deepest southern fort; the empire's last writ before the tribal frontier                    |
 
 Border subtotal: **~2,500,000**.
 

@@ -5,11 +5,11 @@ name:
   full: Mossback Turtle
   aliases: []
 description: "A ton-heavy reptile disguised as a rocky outcrop, its enormous domed shell so overgrown with moss, lichen, and fungi it vanishes into the landscape."
-img: icons/game-icons/lorc/turtle.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 shortcode: mssbcktr
 type: being
 data:
-  portrait: images/being/mssbcktr-portrait.webp
+  portrait: images/beings/creatures/mssbcktr-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: null

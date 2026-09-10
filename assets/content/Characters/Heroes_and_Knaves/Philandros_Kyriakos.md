@@ -8,14 +8,14 @@ name:
   title: ""
   given: Philándros
   clan: Kyriákos
-  home: Byzaris
+  home: byzaris
   aliases: []
 packFolder: helladbyzaria
 shortcode: phlndrskyrks
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/phlndrskyrks-portrait.webp
+  portrait: images/beings/characters/phlndrskyrks-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Herald

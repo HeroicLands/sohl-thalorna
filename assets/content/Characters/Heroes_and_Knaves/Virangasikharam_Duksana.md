@@ -7,14 +7,14 @@ name:
   title: ""
   given: Vīrāṅgaśikharam
   clan: Dukṣana
-  home: Suvarṇagiri
+  home: suvaragiri
   aliases: []
 packFolder: ankarisvedyara
 shortcode: vrgskhrmdkn
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/vrgskhrmdkn-portrait.webp
+  portrait: images/beings/characters/vrgskhrmdkn-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Nobility (Manor Lord)

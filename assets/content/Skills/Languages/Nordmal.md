@@ -4,8 +4,8 @@ name:
   full: Nordmal Language
   aliases:
     - Nordmal
-description: "The hardy, runic-scripted tongue of the five Normen kingdoms, bending its vowels with every fjord."
-img: icons/speaking.svg
+description: "The hardy, runic-scripted tongue of the five Nordmen kingdoms, bending its vowels with every fjord."
+img: systems/sohl/assets/icons/other/speaking.svg
 shortcode: nordmalng
 type: skill
 subType: language
@@ -26,7 +26,7 @@ flags:
 
 Nordmal is a tongue of the Pelwar family. Fluency measures the sophistication of expression in Nordmal, from the halting phrases of a traveler to the nuanced and learned discourse of a native speaker. As with all specific languages, this skill inherits its mechanics from the general [[skill-lang|Language]] skill.
 
-Nordmal is the tongue of the frozen north, spoken across the five Normen kingdoms of [[affiliation-kngdmnrdhm|Kingdom of Nordheim]], [[affiliation-kingdomlgn|Kingdom of Malagna]], [[affiliation-kingdmnrgd|Kingdom of Norgaad]], [[affiliation-kingdmtrgd|Kingdom of Targud]], and [[affiliation-kngdmvthgrd|Kingdom of Vithgard]], as well as in portions of western [[place-aelwyth|Aelwyth]] where Nordman settlers have established communities among the Élavendri lands. A language of harsh beauty, Nordmal reflects the strength, resilience, and warrior culture of its speakers.
+Nordmal is the tongue of the frozen north, spoken across the five Nordmen kingdoms of [[affiliation-kngdmnrdhm|Kingdom of Nordheim]], [[affiliation-kingdomlgn|Kingdom of Malagna]], [[affiliation-kingdmnrgd|Kingdom of Norgaad]], [[affiliation-kingdmtrgd|Kingdom of Targud]], and [[affiliation-kngdmvthgrd|Kingdom of Vithgard]], as well as in portions of western [[place-aelwyth|Aelwyth]] where Nordman settlers have established communities among the Élavendri lands. A language of harsh beauty, Nordmal reflects the strength, resilience, and warrior culture of its speakers.
 
 ## Overview
 
@@ -70,7 +70,7 @@ The [[skill-semrnscrpt|Sêmarion]] alphabet has become increasingly common for p
 
 Nordmal descended from Proto-Pelwar stock along with [[skill-varokhlng|Varokhi]], but followed a unique evolutionary path in isolation across the frozen north. The language preserves many archaic Pelwar features (instrumental case, dual number, strong verbs) that have been lost or simplified in southern branches, suggesting Nordmal represents a more conservative development path.
 
-The five Normen kingdoms maintained relative political independence, preventing standardization. Instead, Nordmal developed as a family of related dialects tied to specific kingdoms. This diversity is a source of pride (each kingdom claims its variant is the "truest" Nordmal) but can create difficulties in inter-kingdom diplomacy.
+The five Nordmen kingdoms maintained relative political independence, preventing standardization. Instead, Nordmal developed as a family of related dialects tied to specific kingdoms. This diversity is a source of pride (each kingdom claims its variant is the "truest" Nordmal) but can create difficulties in inter-kingdom diplomacy.
 
 ## Regional Dialects
 
@@ -102,7 +102,7 @@ The relationship to southern Pelwar languages ([[skill-vylarilng|Vylari]], [[ski
 
 Nordmal names are typically compound constructions combining roots that evoke strength, battle, wisdom, or natural forces. A name might literally mean "Wolf-slayer" or "Storm-rider" or "Bone-breaker," reflecting parental hopes for the child's character or achievements.
 
-The Normen tradition of _ættarnafn_ (earned cognomen) is central to culture: a person performs a great deed and thereby earns a second name that is used thereafter. Thus Eiríkr might earn the title "Stormrot" (Storm-broken/Stormwreck) after surviving a legendary storm. Over generations, such earned names become hereditary family surnames.
+The Nordmen tradition of _ættarnafn_ (earned cognomen) is central to culture: a person performs a great deed and thereby earns a second name that is used thereafter. Thus Eiríkr might earn the title "Stormrot" (Storm-broken/Stormwreck) after surviving a legendary storm. Over generations, such earned names become hereditary family surnames.
 
 Patronymic forms are common, particularly in genealogical contexts. The suffix -sen (son) or -dóttir (daughter) may be appended to a parent's name when formal identification is required. However, fixed family surnames deriving from ancestor names are also in use, particularly among the nobility.
 

@@ -8,14 +8,14 @@ name:
   title: ""
   given: Kallíxenos
   clan: Paraklávos
-  home: Kostaros
+  home: kostaros
   aliases: []
 packFolder: helladbyzaria
 shortcode: klxnsprklvs
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/klxnsprklvs-portrait.webp
+  portrait: images/beings/characters/klxnsprklvs-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Litigant

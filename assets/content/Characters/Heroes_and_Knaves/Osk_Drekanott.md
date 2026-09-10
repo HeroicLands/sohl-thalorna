@@ -7,14 +7,14 @@ name:
   title: ""
   given: Ósk
   clan: Drekanótt
-  home: Brúnvík
+  home: brunvik
   aliases: []
 packFolder: ankarisnordlands
 shortcode: oskdrekant
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/oskdrekant-portrait.webp
+  portrait: images/beings/characters/oskdrekant-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Thatcher
@@ -588,6 +588,8 @@ sohl:
 Despite the demands of her craft, Ósk carries herself with an easy grace and natural confidence, the bearing of someone completely comfortable in her own skin and sure of her competence.
 
 # Dossier {#dossier}
+
+## Background
 
 ### The Wild Child
 

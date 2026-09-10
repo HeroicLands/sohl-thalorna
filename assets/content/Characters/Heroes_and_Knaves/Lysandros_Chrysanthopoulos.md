@@ -8,14 +8,14 @@ name:
   title: ""
   given: Lysándros
   clan: Chrysanthópoulos
-  home: Selímara
+  home: selimara
   aliases: []
 packFolder: helladbyzaria
 shortcode: lysndrschrysnthpls
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/lysndrschrysnthpls-portrait.webp
+  portrait: images/beings/characters/lysndrschrysnthpls-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Timberwright
@@ -594,6 +594,8 @@ sohl:
 Lysándros stands 6'3" tall with a heavy build. He has tanned weathered skin, dark brown hair, and brown eyes. His features include a diamond-shaped face, a prominent nose, a pointed chin, an expressive mouth, dark brows.
 
 # Dossier {#dossier}
+
+## Background
 
 ### The Woodwright's Inheritance
 

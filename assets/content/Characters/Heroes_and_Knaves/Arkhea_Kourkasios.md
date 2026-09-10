@@ -7,14 +7,14 @@ name:
   title: ""
   given: Arkhêa
   clan: Kourkásios
-  home: Yeşilhan
+  home: yesilhan2
   aliases: []
 packFolder: helladbyzaria
 shortcode: arkhekrkss
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/arkhekrkss-portrait.webp
+  portrait: images/beings/characters/arkhekrkss-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Beggar
@@ -596,6 +596,8 @@ sohl:
 Arkhêa stands 5'5" tall with a scant build. She has pale weathered and wrinkled skin, gray hair, and brown eyes. Her features include a long face, an aquiline nose, a pronounced chin, slightly pursed lips, thick dark brows. A distinguishing mark is a limp.
 
 # Dossier {#dossier}
+
+## Background
 
 ### A Woman of Property Lost
 

@@ -7,12 +7,12 @@ name:
   title: ""
   given: Lamûshar
   clan: Damrûnî
-  home: Qadhirun
+  home: qadhirun
   aliases:
     - Cedric Ashwood
 packFolder: midhalionharad
 shortcode: lamshrdmrn
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
   portrait: images/being/lamshrdmrn-portrait.webp

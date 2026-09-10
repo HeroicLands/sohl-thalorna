@@ -7,12 +7,12 @@ name:
   title: ""
   given: Waldaric
   clan: Ríkhild
-  home: Grimholt
+  home: grimholt
   aliases:
     - Edric Bannerman
 packFolder: ankarisvrystwald
 shortcode: wldrcrkhld
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
   portrait: images/being/wldrcrkhld-portrait.webp

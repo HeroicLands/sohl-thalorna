@@ -8,14 +8,14 @@ name:
   title: ""
   given: Gunnvǫr
   clan: Hafringr
-  home: Drekavík
+  home: drekavik
   aliases: []
 packFolder: ankarisnordlands
 shortcode: gnvrhfrngr
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/gnvrhfrngr-portrait.webp
+  portrait: images/beings/characters/gnvrhfrngr-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Teamster
@@ -593,6 +593,8 @@ sohl:
 Gunnvǫr stands 5'11" tall with a medium build. She has pale fair skin, blonde hair, and green eyes. Her features include an oval face, a prominent nose, an angular jawline, a small mouth, heavy brows, angular cheeks.
 
 # Dossier {#dossier}
+
+## Background
 
 ### The Teamster's Inheritance
 

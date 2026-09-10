@@ -8,14 +8,14 @@ name:
   title: ""
   given: Yngvarr
   clan: Dróttgar
-  home: Frostmark
+  home: frostmark
   aliases: []
 packFolder: ankarisnordlands
 shortcode: yngvrdrtgr
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/yngvrdrtgr-portrait.webp
+  portrait: images/beings/characters/yngvrdrtgr-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Guard
@@ -576,6 +576,8 @@ sohl:
 Yngvarr stands 5'11" tall with a medium build. He has light fair skin, red hair, and hazel eyes. His features include an angular face, a slightly upturned nose, a heavy jawline, a firm-set mouth, thick brows. A distinguishing mark is a scar on the left shoulder.
 
 # Dossier {#dossier}
+
+## Background
 
 ### The Boy from Nordheim
 

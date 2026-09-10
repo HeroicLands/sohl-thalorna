@@ -8,13 +8,13 @@ name:
   title: ""
   given: Cassia
   clan: Verric
-  home: Magnápolis
+  home: magnapolis
   aliases:
     - The Harbour Factor
     - The Empire's Hand on the Southern Shore
 packFolder: midhalionvylaria
 shortcode: casiaveric
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
   portrait: images/being/casiaveric-portrait.webp
@@ -87,7 +87,7 @@ sohl:
         weight: 0.5
         value: 200
         durability: 2
-    - { shortcode: goldcrown, type: miscgear, system: { quantity: 60 } }
+    - { shortcode: gldcrwn, type: miscgear, system: { quantity: 60 } }
     - { shortcode: tndrbx, type: miscgear }
     - { shortcode: bpchlg, type: containergear }
   system:
@@ -556,6 +556,8 @@ sohl:
 Cassia Verric is an unremarkable woman, and works at it. She is of middling height and quiet, well-kept build, with brown hair greying at the temples bound up in the practical style of a working merchant, and pale grey eyes that miss very little. Her complexion is weathered from years along the wharves of the [[place-midhalnrgn|Mídhalión Region]] coast. She dresses as a prosperous trading factor or shipping agent in good worsted, nothing that draws the eye, and carries only a dagger, as any traveller might. People who deal with her find her warm, competent, and easy to talk to — and struggle, afterward, to recall much about her face.
 
 # Dossier {#dossier}
+
+## Background
 
 ### Origin and Service
 

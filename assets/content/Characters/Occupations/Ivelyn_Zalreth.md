@@ -7,12 +7,12 @@ name:
   title: ""
   given: Ívelyn
   clan: Zálreth
-  home: Valdûn
+  home: valdun
   aliases:
     - Liora Willowbrook
 packFolder: aureldiaelavendre
 shortcode: ivlynzlrth
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
   portrait: images/being/ivlynzlrth-portrait.webp

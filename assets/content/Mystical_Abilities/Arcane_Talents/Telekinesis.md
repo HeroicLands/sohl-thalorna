@@ -3,7 +3,7 @@ tags: []
 name:
   full: Telekinesis
   aliases: []
-img: icons/psionics.svg
+img: systems/sohl/assets/icons/noun/psionics.svg
 shortcode: telek
 type: mysticalability
 subType: arcanetalent

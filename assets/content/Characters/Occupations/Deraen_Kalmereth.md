@@ -7,12 +7,12 @@ name:
   title: ""
   given: Déraen
   clan: Kálmereth
-  home: Silvain
+  home: silvain
   aliases:
     - Elowen Saltbloom
 packFolder: aureldiaelavendre
 shortcode: dernklmrth
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
   portrait: images/being/dernklmrth-portrait.webp

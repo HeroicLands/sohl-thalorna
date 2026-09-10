@@ -7,14 +7,14 @@ name:
   title: ""
   given: Guthrún
   clan: Sólvargr
-  home: Greyfjord
+  home: greyfjord
   aliases: []
 packFolder: ankarisnordlands
 shortcode: gthrnslvrgr
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/gthrnslvrgr-portrait.webp
+  portrait: images/beings/characters/gthrnslvrgr-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Trapper
@@ -597,6 +597,8 @@ sohl:
 Guthrún stands 5'11" tall with a light build. She has light fair skin, brown hair, and green eyes. Her features include an angular face, a long nose, a strong jawline, a slightly downturned mouth, heavy brows, flat cheeks. A distinguishing mark is a tattoo of a skull on the upper arm.
 
 # Dossier {#dossier}
+
+## Background
 
 ### The Trapper's Daughter
 

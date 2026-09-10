@@ -7,14 +7,14 @@ name:
   title: ""
   given: Razanash
   clan: Mervaran
-  home: Kethramír
+  home: kethramir
   aliases: []
 packFolder: ankariskhazryndesert
 shortcode: rznshmrvrn
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/rznshmrvrn-portrait.webp
+  portrait: images/beings/characters/rznshmrvrn-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Shaman

@@ -7,14 +7,14 @@ name:
   title: ""
   given: Ályra
   clan: Kálmereth
-  home: Valdûn
+  home: valdun
   aliases: []
 packFolder: aureldiaelavendre
 shortcode: alyrklmrth
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/alyrklmrth-portrait.webp
+  portrait: images/beings/characters/alyrklmrth-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Toymaker
@@ -599,6 +599,8 @@ sohl:
 Ályra stands 5'9" tall with a light build. She has pale fair skin, dark brown hair, and green eyes. Her features include a heart-shaped face, a snub nose, a strong jawline, full lips, dark brows, full cheeks.
 
 # Dossier {#dossier}
+
+## Background
 
 ### Early Years
 

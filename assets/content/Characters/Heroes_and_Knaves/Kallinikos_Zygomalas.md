@@ -7,14 +7,14 @@ name:
   title: ""
   given: Kallínikos
   clan: Zygomálas
-  home: Yeşilhan
+  home: yesilhan2
   aliases: []
 packFolder: helladbyzaria
 shortcode: klnkszygmls
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/klnkszygmls-portrait.webp
+  portrait: images/beings/characters/klnkszygmls-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Cartographer/Artist

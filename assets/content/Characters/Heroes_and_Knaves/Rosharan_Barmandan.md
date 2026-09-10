@@ -8,14 +8,14 @@ name:
   title: ""
   given: Rosharan
   clan: Barmandan
-  home: Tahrodan
+  home: tahrodan
   aliases: []
 packFolder: sultanateofamradad
 shortcode: rshrnbrmndn
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/rshrnbrmndn-portrait.webp
+  portrait: images/beings/characters/rshrnbrmndn-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Shipwright

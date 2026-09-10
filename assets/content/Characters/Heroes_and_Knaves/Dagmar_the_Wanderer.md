@@ -9,15 +9,15 @@ name:
   title: ""
   given: Dagmar
   clan: ""
-  home: Stálbrekka
+  home: stalbrekka
   aliases:
     - the Rogue Skald
 packFolder: ankarisnordlands
 shortcode: dagmrwndrr
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/dagmrwndrr-portrait.webp
+  portrait: images/beings/characters/dagmrwndrr-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Skald
@@ -584,6 +584,8 @@ Dagmar stands 5'7\" tall with a light build. He has light skin, brown hair, and 
 # Dossier {#dossier}
 
 Dagmar is a skald from the far northern reaches of Norgaad, where he wandered from clan to clan, composing songs and telling tales of great heroes and legendary battles. He is clanless, having been exiled for an unknown crime—though some whisper that he had an affair with a powerful lord’s wife, others say he was involved in a conspiracy against his clan. [[being-grosdrnrgd|Gróa]] met Dagmar at a village blót, where the skald’s sharp wit and knowledge of ancient lore impressed her. Dagmar’s songs often contain veiled warnings and prophecies, hinting at the deeper wisdom he possesses.
+
+## Background
 
 ### Skills and Abilities
 

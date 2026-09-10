@@ -7,12 +7,12 @@ name:
   title: ""
   given: Kashnûra
   clan: Arshûmû
-  home: Qadhirun
+  home: qadhirun
   aliases:
     - Edda Buckley
 packFolder: midhalionharad
 shortcode: kashnrrshm
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
   portrait: images/being/kashnrrshm-portrait.webp

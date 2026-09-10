@@ -7,14 +7,14 @@ name:
   title: ""
   given: Kárr
   clan: Íseldr
-  home: Bjornstad
+  home: bjornstad
   aliases: []
 packFolder: ankarisnordlands
 shortcode: karriseldr
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/karriseldr-portrait.webp
+  portrait: images/beings/characters/karriseldr-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Clothier
@@ -591,6 +591,8 @@ sohl:
 Kárr stands 5'8" tall with a medium build. He has light fair skin, dark brown hair, and brown eyes. His features include a rectangular face, a straight nose, a strong jawline, a small mouth, dark brows. A distinguishing mark is a scar above the left eyebrow.
 
 # Dossier {#dossier}
+
+## Background
 
 ### Humble Beginnings
 

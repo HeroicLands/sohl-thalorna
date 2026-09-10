@@ -10,7 +10,7 @@ name:
   aliases:
     - Master Tiger of the Steppes
 shortcode: hathurhtzhk
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 description: >-
   Warlord risen out of the Hëkvōr, the Black Wilds north of the Empire of
   Tānvür — a master strategist whose steppe confederation has become the
