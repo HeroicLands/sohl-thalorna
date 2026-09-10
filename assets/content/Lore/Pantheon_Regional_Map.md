@@ -42,7 +42,7 @@ The pantheon of the frozen north, rooted in shamanistic and warrior traditions.
 **Primary regions:**
 
 - [[affiliation-kngdmnrdhm|Kingdom of Nordheim]] — core homeland of the Asguardian faith
-- Northern [[place-aelwyth|Aelwyth]] — brought by Normen settlers
+- Northern [[place-aelwyth|Aelwyth]] — brought by Nordmen settlers
 
 **Secondary influence:**
 

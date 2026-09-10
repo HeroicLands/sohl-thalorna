@@ -101,8 +101,14 @@ plainly true and it is plainly not the whole of it. The [[lore-vardain|Vardain]]
 this hold for millennia and know the Deep Folk better than any humans alive, are certain the reason is
 older and more particular than territory.
 
-Nobody has ever been told what it is. The Khazári do not discuss it, and the Vardain long ago stopped
-asking.
+The reason is recorded, and it is not a secret so much as a thing the Deep Folk do not raise with
+outsiders. In **2800 BF** a Grukar tribe took **[[lore-khazarturn|Khazártúrn]]**, the greatest city the
+Khazári ever built, by undermining it for a generation — and every hold since has kept the account of it
+in its working archive, and reads it. A Khazár of Vorgald who has never seen a Grukar knows precisely
+what one is before it is in front of them.
+
+The [[lore-vardain|Vardain]] know the outline. They were told once, a long time ago, and have never
+asked for more.
 
 ## No Relationship
 

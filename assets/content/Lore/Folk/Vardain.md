@@ -33,6 +33,25 @@ The **only free Vardain left** are the ten thousand in the
 passes was a remnant of a remnant, and they are free because of where they reached and not because of
 anything they did.
 
+## The Oldest Arrangement on Thalorna
+
+The Vardain are not a curiosity of one island. They are the **last surviving instance of the oldest
+relationship between humans and any other people**.
+
+A [[lore-flkkhazar|Khazári]] hold grows nothing and will not be supplied from outside, so every hold has
+always needed farmers at its gate. When the Deep Folk arrived around 4280 BF there were none anywhere —
+humanity was hunter-gatherers, who cannot provision anybody — and so, in the uplands around their first
+holds, the Khazári taught the nearest peoples to farm. Water-works, drainage, terracing, the granary.
+They were not making a civilization; they were making a larder.
+
+Every other such arrangement has lapsed in the four thousand years since — the peoples changed, the
+holds closed, the ground was conquered by somebody. The valleys beneath [[place-vorgald|Vorgald]] are
+the one that did not.
+
+The Vardain are aware of some of this and do not make much of it. Asked, they will say that their
+people have always farmed for the lords of the mountain, which is true, and rather more literally true
+than they know.
+
 ## Asylum
 
 The valley Vardain are, in the plainest terms, **asylum seekers in the Khazári kingdom**, and they know

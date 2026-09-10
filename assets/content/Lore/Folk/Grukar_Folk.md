@@ -13,6 +13,24 @@ packFolder: settinglore
 
 The Grukar are a brutal and prolific folk, feared wherever their guttural war-cries echo across the hills. Thick-skinned, tusked, and foul-tempered, they inhabit the blighted wastes, the deep ravines, and the ruined places of the world where no civilized folk would willingly tread. Ranging in height from roughly four and a half feet among the stunted common breed to a towering six and a half feet among the rarest and most fearsome of their kind, the Grukar are not a single uniform threat but a fractious, seething mass of subspecies locked in perpetual internal struggle — a struggle that, paradoxically, is the very engine of their survival.
 
+## The Appearing
+
+The Grukar have not always been on Thalorna.
+
+They are first recorded around **3000 BF**, and the record is Khazári — the Deep Folk having both the
+habit of writing things down and, at that date, the finest archive in the world at
+[[lore-khazarturn|Khazártúrn]]. Nothing written there in its first seven centuries mentions them.
+Then, within a generation, a great deal does.
+
+Where they came from is not known. The Khazári account, which is the only contemporary one, does not
+speculate; it describes what arrived, in the manner of a people setting down evidence, and leaves the
+question open. Human scholarship on the point is worth nothing at all, human records of the period
+being some two and a half thousand years in the future.
+
+What is beyond dispute is the speed of what followed. Within three centuries the Grukar had taken the
+greatest city the Khazári ever built. Within three thousand they held a substantial share of a
+continent.
+
 ## Biology and Reproduction
 
 The Grukar are genderless. They are not "males" or "females" in any meaningful sense — the words simply do not apply, and Grukar themselves have no concept of male or female roles, mating pairs, or sexual difference. Reproduction in Grukar society is the exclusive function of a separate subspecies, the [[being-grkrahk|Grukar-ahk]], which is self-fertilizing. A fertile Grukar-ahk lays clutches of eggs from which all other Grukar are spawned, and one of the Grukar-ahk's most remarkable abilities is the capacity to choose the subspecies of its spawn — to lay eggs that hatch as Grukar-Uk, Grukar-Sha, or Grukar-Hai according to the changing needs of its tribe.

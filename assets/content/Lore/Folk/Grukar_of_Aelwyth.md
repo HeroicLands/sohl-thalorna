@@ -77,12 +77,16 @@ without negotiation, without exception, and without the enormous patience they e
 living thing on this island** — and it is the only subject on which the Khazári have ever been observed
 to act quickly.
 
-Why has never been said. It is not simply that the Grukar go underground, though they do, and though
-that puts them in competition for ground the Khazári value. The [[lore-vardain|Vardain]], who have lived
-beneath the hold for millennia and know the Deep Folk better than any humans alive, are quite clear that
-the reason is older and more particular than that.
+The reason is not competition, though they do compete: Grukar go underground and the Khazári live there.
+It is **[[lore-khazarturn|Khazártúrn]]**.
 
-They are also clear that they have never been told what it is, and have long since stopped asking.
+In 2800 BF a Grukar tribe undermined and emptied the greatest city the Deep Folk ever built, and the
+account of it — exact, with every name lost — has been kept in the working archive of every Khazári hold
+since. It is read at intervals. It is not treated as history.
+
+So the hatred did not begin on Aelwyth and does not depend on anything the Aelwyth Grukar have done. It
+arrived on this island in the Khazári who carried it, three and a half thousand years after the fact and
+some seven centuries before the first Grukar ever set foot here.
 
 ## See Also
 
