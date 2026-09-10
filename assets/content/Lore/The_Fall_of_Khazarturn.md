@@ -107,23 +107,74 @@ Khazártúrn is not a ruin, not a wreck and not an abandoned place. It is intact
 and full of its people. It is **the tomb of thirty thousand**, and the greatest single work of Khazári
 hands is now the greatest grave in the world.
 
-It should be understood that all of it is still there and still as it was. The colonnades and the
-galleries and the painted market skies. The fountains, which were fed by the same works that fed the
-city and which nobody has turned off. And the skylights, which were cut through a mountain and cannot
-be sealed without unmaking the halls beneath them — so the daylight still comes down, every day, in
-shafts that move across the floors as the sun goes over, into courts where nobody is standing.
+## The Closing
 
-And the way in that light takes is a way in for other things. Nothing large; nothing that could trouble
-a sealed door. But the skylights stand open to the mountain as they always did, and the halls beneath
-them are warm and dry and full of water, and there is no reason to suppose the birds ever left.
+They sealed it properly, which for the Khazári means what it says.
 
-Four thousand years of them, in a city nobody enters. It is the one thing about Khazártúrn that the
-Khazári will not discuss even among themselves — not because it is terrible, but because it is not, and
-they have never worked out what to do with that.
+The **skylights** were the difficulty, and they solved it the way they solve everything. Each was
+unmade — the old window-work lifted out entire — and replaced with cut blocks of granite dressed to the
+surrounding rock and set flush, so that the mountain above Khazártúrn reads as mountain. There is no
+seam to find. From outside there is nothing to see, and that was the intention: the city was not to be
+marked, and it was not to be findable by anyone looking for the way in.
 
-No Khazár has entered it since, and none will. There is nothing in there to recover and nothing to
-avenge that has not been avenged. It is simply shut, and it is meant to stay shut, and that is the whole
-of the intention.
+The **fountains were shut off** at their source. Not from any feeling about silence — because water left
+running in a closed city with no one to tend it floods the closed city, in time, and the last thing they
+did for Khazártúrn was to make certain it would keep.
+
+The **birds went out with the light**. They were put out first, before the last of the work, which the
+account records in one line and does not enlarge upon.
+
+## What Is In There Now
+
+Everything, unaltered, in the dark.
+
+Nothing is ruined and nothing is disordered. The colonnades stand, the galleries stand, the painted market
+skies are overhead exactly as they were painted, the stone still finished like spun glass, and thirty
+thousand Khazári lie in the rooms where they lived. It is all perfectly kept and it has been perfectly
+kept for four and a half thousand years.
+
+And it is **completely dark, and completely silent.**
+
+Anyone who ever got in — and no one has — would see it by whatever light they carried, and would find the
+splendour entirely intact and entirely unable to do what it was built for. Halls raised to hold daylight,
+holding none. Market circles painted as open sky, under torchlight. Vaults hundreds of feet up, out of
+reach of any lamp, so that the greatest rooms ever made would register only as a cold draught and an echo
+and no ceiling at all.
+
+Bright and airy, made dim and vast. That is the whole of what the Khazári did to Khazártúrn in order to
+keep it, and they did it deliberately, and they would do it again.
+
+## Nothing Is To Disturb It
+
+Ever. This is not a preference and it is not sentiment. It is the settled, permanent and unnegotiable
+position of every Khazári hold on Thalorna, and it is the shortest way to understand what the Deep Folk
+will and will not do.
+
+They are patient with almost everything. They tolerate human kingdoms, ignore human wars, decline human
+embassies and let four thousand years pass without troubling anyone. There are exactly two things that
+will move them: **Grukar**, and **Khazártúrn**.
+
+The concealment is the first defence and was designed as one. The seals are dressed to the rock and set
+flush; the mountain reads as mountain; there is no seam, no marker, no monument and no name on any map
+the Khazári have ever let out of their hands. A tomb that cannot be found is a tomb that cannot be
+entered, and they would far rather it were never located than have to do anything about someone who
+located it.
+
+They have not, however, left the second part to chance.
+
+Nothing about this is announced. The Khazári issue no warnings, post no notices and make no threats,
+because a warning is an invitation to negotiate and there is nothing here to negotiate. Anyone who
+searches for Khazártúrn, finds it, speaks credibly of having found it, or is understood to be assembling
+the means to open it, is a problem the Deep Folk will solve, quietly and completely, without reference to
+who they are or what they intended.
+
+It is worth being clear that "we only wished to look at it" is not a distinction the Khazári recognise.
+There is nothing in there to recover: no hoard, no relic, no lost craft to be carried out — the archive
+was destroyed with everyone who kept it, and the [[miscgear-secondvoice|Second Voice]] never went
+anywhere near the place. There is a city, in the dark, with thirty thousand of their dead lying in the
+rooms where they lived.
+
+That is the whole of it, and it is not to be disturbed.
 
 ## The Account
 
