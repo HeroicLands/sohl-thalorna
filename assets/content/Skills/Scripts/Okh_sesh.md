@@ -27,7 +27,7 @@ flags:
 
 Okh-sesh — the name borrows the Kheperi word _sesh_, "writing," an old debt the Okhári acknowledge and resent — is the consonantal script of the three city-states: twenty-three characters, vowels supplied by diacritic where they are supplied at all. It carries [[skill-okharclng|Okháric]] and nothing else, which is unusual among the scripts of the west and is very much the point.
 
-A character needs **both** Okh-sesh and [[skill-okharclng|Okháric]] to read it; see [[skill-script|Script]] for the general rules.
+A character needs **both** Okh-sesh and [[skill-okharclng|Okháric]] to read it; see [[sohl-none-docskill-script|Script]] for the general rules.
 
 ## Two systems, one alphabet
 

@@ -26,7 +26,7 @@ flags:
     lang_family: Elder
 ---
 
-Sinalë is a tongue of the Elder family. Fluency measures the sophistication of expression in Sinalë, from the halting phrases of a traveler to the nuanced and learned discourse of a native speaker. As with all specific languages, this skill inherits its mechanics from the general [[skill-lang|Language]] skill.
+Sinalë is a tongue of the Elder family. Fluency measures the sophistication of expression in Sinalë, from the halting phrases of a traveler to the nuanced and learned discourse of a native speaker. As with all specific languages, this skill inherits its mechanics from the general [[sohl-none-docskill-lang|Language]] skill.
 
 ## Overview
 

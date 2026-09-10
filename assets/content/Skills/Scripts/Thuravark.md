@@ -30,7 +30,7 @@ The letterforms are not a Pelwar invention. They correspond too closely to Khaz�
 
 The Nordmen reject the whole account, and not mildly. The runes were won by Óðinn, hanged nine nights on the world-tree, and no smith under a mountain gave them to anybody. Raising the matter in a hall is a good way to end an evening early.
 
-Like any script it is a writing system and not a language: a character needs **both** Thurávark and the relevant [[skill-lang|Language]] to read what is cut in it. See [[skill-script|Script]] for the scribing and reading rules, and [[skill-runic|Runic]] for the carved tradition in general.
+Like any script it is a writing system and not a language: a character needs **both** Thurávark and the relevant [[sohl-none-docskill-lang|Language]] to read what is cut in it. See [[sohl-none-docskill-script|Script]] for the scribing and reading rules, and [[sohl-none-docskill-runic|Runic]] for the carved tradition in general.
 
 ## The letters
 

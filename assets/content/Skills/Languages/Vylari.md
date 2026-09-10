@@ -24,7 +24,7 @@ flags:
     lang_family: Pelwar
 ---
 
-Vylari is a tongue of the Pelwar family. Fluency measures the sophistication of expression in Vylari, from the halting phrases of a traveler to the nuanced and learned discourse of a native speaker. As with all specific languages, this skill inherits its mechanics from the general [[skill-lang|Language]] skill.
+Vylari is a tongue of the Pelwar family. Fluency measures the sophistication of expression in Vylari, from the halting phrases of a traveler to the nuanced and learned discourse of a native speaker. As with all specific languages, this skill inherits its mechanics from the general [[sohl-none-docskill-lang|Language]] skill.
 
 Vylari is the imperial tongue of the [[affiliation-vylarinmpr|Vylarian Empire]] and the most widely spoken of the [[lore-pelwarpepl|Pelwar People]] language family. It serves as the lingua franca of trade, law, and administration across much of Mídhalión, spoken in the great cities of Alyssa, Hylen, Moktur, and Vald, and maintaining ritual importance in the Holy Kingdom of Nartum despite the rise of local dialects.
 

@@ -24,7 +24,7 @@ flags:
     lang_family: Helonic
 ---
 
-Bethuan is a tongue of the Helonic family. Fluency measures the sophistication of expression in Bethuan, from the halting phrases of a traveler to the nuanced and learned discourse of a native speaker. As with all specific languages, this skill inherits its mechanics from the general [[skill-lang|Language]] skill.
+Bethuan is a tongue of the Helonic family. Fluency measures the sophistication of expression in Bethuan, from the halting phrases of a traveler to the nuanced and learned discourse of a native speaker. As with all specific languages, this skill inherits its mechanics from the general [[sohl-none-docskill-lang|Language]] skill.
 
 The tongue of the [[affiliation-mtrrchybth|Matriarchy of Bethua]], spoken by a people who preserved—and transformed—the ancient Helonic heritage in isolation. Bethuan represents a distinct evolutionary path from the common Helonic ancestor, retaining older phonetic features lost elsewhere while developing a unique grammatical feature unknown among the Helonic sisters: a sophisticated system of **gender registers** that reflects and reinforces the matriarchal social order. Formal educated speech in Bethuan employs a distinctly elevated, feminized register; masculine speech carries a markedly different grammatical flavor.
 
