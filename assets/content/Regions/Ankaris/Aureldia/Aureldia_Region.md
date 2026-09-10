@@ -62,7 +62,7 @@ The faith extends well beyond Aurèldían borders — it is worshipped in [[affi
 
 The Vúlcani Schism is the faith's great fracture. Five centuries ago the clergy of Vúlcan divided over whether the Forge-Lord's true nature was creative or destructive. [[affiliation-sacredforge|The Sacred Forge]] — Vúlcan as craftsman, protector, and illuminator — became the mainstream Aurèldían faith. [[affiliation-blackflame|The Black Flame]] — Vúlcan as purifier-through-destruction, fire as weapon and instrument of domination — was suppressed across most kingdoms but survives in hidden orders and secretive shrines. The enmity between the two has shaped Aurèldían politics for generations, and accusations of Black Flame sympathies remain a potent political weapon.
 
-[[place-aelwyth|Aelwyth]] is the great partial exception to the Aurèldían religious pattern. Centuries of Normen settlement have woven the [[affiliation-asguardian|Asguardian]] gods into the island's religious life, and many Aelwythans revere both pantheons — an uneasy syncretism that the mainland Aurèldían clergy view with curiosity, tolerance, or alarm depending on the decade.
+[[place-aelwyth|Aelwyth]] is the great partial exception to the Aurèldían religious pattern. Centuries of Nordmen settlement have woven the [[affiliation-asguardian|Asguardian]] gods into the island's religious life, and many Aelwythans revere both pantheons — an uneasy syncretism that the mainland Aurèldían clergy view with curiosity, tolerance, or alarm depending on the decade.
 
 ## Politics and Power
 
@@ -86,7 +86,7 @@ The region exports wine, tapestries, illuminated manuscripts, Élavendri silverw
 
 ## Relations with Neighboring Regions
 
-To the **north**, the [[place-nrdlndsrgn|Nordlands]] press against Aurèldía across a long, forested frontier. Contact is simultaneously commercial (Normen amber and furs for Aurèldían wine and steel), religious (uneasy coexistence of the Twelve and the Asguardian gods), and martial (periodic Normen raids along the coast, especially into northern Aelwyth and Élavendre). The Aelwythan religious syncretism is the clearest expression of the long relationship.
+To the **north**, the [[place-nrdlndsrgn|Nordlands]] press against Aurèldía across a long, forested frontier. Contact is simultaneously commercial (Nordmen amber and furs for Aurèldían wine and steel), religious (uneasy coexistence of the Twelve and the Asguardian gods), and martial (periodic Nordmen raids along the coast, especially into northern Aelwyth and Élavendre). The Aelwythan religious syncretism is the clearest expression of the long relationship.
 
 To the **southeast**, [[place-midhalnrgn|Mídhalión]] is at once Aurèldía's great trading partner and its great cultural rival. The two regions share the Aurèldían faith but diverge sharply on everything else — governance, aesthetics, law, and the nature of empire. [[place-provenzrgn|Provènzia Region]] and [[place-tarvenirgn|Tarvénia Region]] straddle the boundary between the two regions culturally and, in Provènzia's case, formally: Provènzia belongs to both Aurèldía and Mídhalión, the living seam between them.
 

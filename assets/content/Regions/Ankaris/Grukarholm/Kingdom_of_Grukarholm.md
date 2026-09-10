@@ -88,7 +88,7 @@ data:
         is forbidden.
       Standard-Bearer: Carrier of the Warlord's totem in battle, a post held until killed.
       Speaker to Outsiders: >-
-        The one Grukar permitted to treat with Normen and Varokh traders, and distrusted by
+        The one Grukar permitted to treat with Nordmen and Varokh traders, and distrusted by
         both sides.
   commonSkills:
     - grukarlng
@@ -121,7 +121,7 @@ Grukarhölm stretches east from the Nordheim frontier across a vast expanse of t
 
 ## Culture and Society
 
-The Grukar are organized into large tribal confederations, each centered around a dominant Grukar-Hai warlord, the spawn-chamber of a fertile [[being-grkrahk|Grukar-ahk]] that the warlord protects, and a network of subordinate clans. Their society is hierarchical and martial, with status determined by prowess in battle and the ability to command obedience. Unlike the Normen, who prize individual honor and eloquence, the Grukar value collective strength and obedience to the pack. The Grukar themselves are genderless; "king" and "queen" are categories outsiders impose on them and that Grukar do not recognize.
+The Grukar are organized into large tribal confederations, each centered around a dominant Grukar-Hai warlord, the spawn-chamber of a fertile [[being-grkrahk|Grukar-ahk]] that the warlord protects, and a network of subordinate clans. Their society is hierarchical and martial, with status determined by prowess in battle and the ability to command obedience. Unlike the Nordmen, who prize individual honor and eloquence, the Grukar value collective strength and obedience to the pack. The Grukar themselves are genderless; "king" and "queen" are categories outsiders impose on them and that Grukar do not recognize.
 
 Grukar settlements are scattered among the hills and icy coastlines of the inland sea. Their architecture is functional and brutal — longhouses of timber and turf, fortified with palisades of sharpened logs. They are skilled hunters and trappers, and the fur trade is one of the few points of contact between the Grukar and the civilizations to the south.
 
@@ -133,7 +133,7 @@ There is no formal priesthood or temple structure. Sacred sites are natural feat
 
 ## Relations
 
-The Grukar are largely isolated and hostile to outsiders. Raids against Normen settlements and Vrystwald communities are common, and the Grukar view the peoples to their south and west as soft and decadent. Trade does occur, primarily in furs, amber, and mammoth ivory, but always on the Grukar's terms and at designated frontier trading posts where violence is (theoretically) forbidden.
+The Grukar are largely isolated and hostile to outsiders. Raids against Nordmen settlements and Vrystwald communities are common, and the Grukar view the peoples to their south and west as soft and decadent. Trade does occur, primarily in furs, amber, and mammoth ivory, but always on the Grukar's terms and at designated frontier trading posts where violence is (theoretically) forbidden.
 
 ## Commerce and Currency
 

@@ -51,22 +51,85 @@ The Three Sisters is where that ended, and it ended in the way most calculated t
 irrecoverable: not in a quarrel, but with the Sinalë walking away from the Khazári in a crisis, for the
 second time, having spent six hundred years persuading them it would not happen again.
 
-## The Pelwar
+## How It Came About
 
-The people they were fighting were **refugees**.
+The Pelwar were not invaders, and Aelwyth already knew them.
 
-The Pelwar reached Aelwyth around **2200 BF**, driven from their own country by the
-**[[place-vrystwald|Varokh]]** — themselves a Pelwar branch, in the great displacement that scattered
-that people across half of Ankaris. They did not come to conquer. They came because they had been
-pushed off the edge of the mainland and there was nowhere else.
+There had been humans on Aelwyth for a very long time, and it was the
+[[lore-flkkhazar|Khazári]] who put them there.
 
-An island has a fixed amount of good land. Two centuries of arrival, pressure, encroachment and reprisal
-followed, and then the Great War, and then this. Nobody in it was a villain, which is the least
-comfortable thing about it.
+A hold grows nothing and cannot be supplied from outside, so the Deep Folk have always needed farmers
+within reach of the gate — and when they settled this island they did what they had done everywhere
+else: they **brought Pelwar across from the mainland to work the land for them**. Peaceful, patient,
+agricultural, and willing; the arrangement is the same one that produced the
+[[lore-vardain|Vardain]] a world away, and it worked here for a very long time.
 
-Their descendants are the people of Aelwyth today — every realm, every tribe, all of it. The island's
-entire human population descends from the refugees who broke the elder kingdom, and none of them know
-that is what happened.
+More came afterward on their own account, in **small numbers**, and were **accepted** — given ground,
+taken into the kingdom, and dealt with as subjects rather than intruders. The Khazári in particular
+took to them, for reasons that were entirely practical and not at all secret.
+
+So when the flood arrived, the people already on Aelwyth were **the newcomers' own kin**, settled
+generations deep, farming for elder-race lords. That is a large part of why the island could not simply
+refuse them, and a large part of why refusing them anyway went as badly as it did.
+
+What broke it was **scale**, and what came behind them.
+
+Around **2200 BF** the trickle became a flood — **tens of thousands** at once, whole communities crossing
+because the Migration had run out of land against the western coast and there was nowhere else to be.
+
+## The Crossing
+
+It should be understood what that means.
+
+Aelwyth lies something like a hundred and twenty sea-miles off the coast. That is not a distance
+barbarian peoples cross — not in the craft they had, not with families and stock aboard, not without
+pilots or charts or any notion of what the weather does out there. The early Pelwar had come as
+**passengers**, carried in Khazári bottoms by people who knew the water. The ones who came in 2200 BF
+came in whatever would float.
+
+Most of them died. The traditions do not give a figure and the figure has been guessed at ever since,
+but nobody who has looked at it seriously puts the losses below **two in three**, and the usual estimate
+is worse. For every community that made a landfall on Aelwyth, two or three went off the water and were
+never accounted for by anybody.
+
+Which is the fact that ought to govern any judgement of what followed. **Tens of thousands arrived**, and
+that means something on the order of a hundred thousand set out. They were not a host and not an
+expedition. They were the surviving third of a people who had looked at a hundred and twenty miles of
+open sea with families in tow and concluded it was the _better_ option.
+
+Nobody attempts that crossing unless staying is worse. What was behind them was worse. And behind the Pelwar, in smaller numbers but not small enough, came the
+**[[lore-pelwarpepl|Varkhad]]** who had driven them: the fierce eastern stock that had conquered the
+Pelwar homelands and then followed the survivors across an ocean.
+
+An island holds a fixed amount of good land, and there was not enough of it. Two centuries of arrival,
+settlement, encroachment and reprisal followed, and then the **Great War**.
+
+Nobody in it was a villain, which is the least comfortable thing about it. The kingdom could not absorb
+them. They had nowhere to go. Both of those were true at once for two hundred years.
+
+## What Killed the King
+
+Not a Pelwar spear, and this is the part of the account that is vague in every telling and has never been
+filled in.
+
+A Sinalë king of that age was not a thing that mortals killed. Whatever met him beneath the Three
+Sisters, the tradition is consistent that it was **not merely an army** — that some other force was at
+work, spiritual in nature, and that it was present on that field for a reason nobody has ever explained.
+
+The Sinalë do not discuss it. The Khazári were not told. What is agreed is only the outcome: the king
+died, and the effect on his people was not defeat but **heart-failure** — they simply stopped.
+
+## What They Did Next
+
+They did not withdraw from the war. They **abandoned everything**.
+
+The Sinalë gave up the crown, the kingdom, the settled country, the coasts, the works of six hundred
+years of joint rule, and every claim of any kind outside the deep forest of the south — and they went
+into [[place-hallowwood|the wood]], and they have not come out.
+
+Everything they left, they left **to the other races**: to the Khazári who had been fighting beside them,
+and to the Pelwar they had been fighting. The Khazári finished the war alone. What the Sinalë handed over
+by walking away is, in a straightforward sense, the reason Aelwyth has human kingdoms on it at all.
 
 ## Now
 

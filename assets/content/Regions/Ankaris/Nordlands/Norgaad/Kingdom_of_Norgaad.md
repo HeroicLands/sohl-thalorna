@@ -1,5 +1,5 @@
 ---
-description: "Central Normen kingdom of fjords, mountain passes, and silver-mines — diplomatic heartland of the five kingdoms, traditional convener of the Great Moot, and home of the most powerful völvur in the north."
+description: "Central Nordmen kingdom of fjords, mountain passes, and silver-mines — diplomatic heartland of the five kingdoms, traditional convener of the Great Moot, and home of the most powerful völvur in the north."
 type: affiliation
 name:
   full: Kingdom of Norgaad
@@ -125,17 +125,17 @@ packFolder: norgaad
 
 ## Overview
 
-Norgaad occupies the central position among the five Normen kingdoms, straddling the great fjords and mountain passes that connect the western and eastern reaches of the frozen north. This central location has made Norgaad the traditional meeting ground for inter-kingdom disputes, alliances, and the occasional great moot where all five kingdoms gather to address threats that concern them all.
+Norgaad occupies the central position among the five Nordmen kingdoms, straddling the great fjords and mountain passes that connect the western and eastern reaches of the frozen north. This central location has made Norgaad the traditional meeting ground for inter-kingdom disputes, alliances, and the occasional great moot where all five kingdoms gather to address threats that concern them all.
 
 ## Character
 
-Norgaad is considered the most traditional of the Normen kingdoms — the heartland of the old ways. Its people are deeply devoted to the [[affiliation-asguardian|Asguardian Pantheon]] faith, and its völvur (seers and shamans) are considered the most powerful and respected in the north. The kingdom's þing tradition is the strongest, and Norgaad's kings are the most constrained by customary law and assembly consensus.
+Norgaad is considered the most traditional of the Nordmen kingdoms — the heartland of the old ways. Its people are deeply devoted to the [[affiliation-asguardian|Asguardian Pantheon]] faith, and its völvur (seers and shamans) are considered the most powerful and respected in the north. The kingdom's þing tradition is the strongest, and Norgaad's kings are the most constrained by customary law and assembly consensus.
 
 The kingdom's interior is dominated by vast mountain ranges and deep valleys. Its people are herders, hunters, and miners more than sailors, though its coastal settlements maintain respectable fleets. Norgaad's iron and silver mines are the richest in the north, making it the wealthiest kingdom in raw resources if not in trade.
 
 ## Relations
 
-Norgaad's central position makes it the natural mediator among the Normen kingdoms. When [[affiliation-kngdmnrdhm|Kingdom of Nordheim]] and [[affiliation-kingdomlgn|Malagna]] quarrel, Norgaad brokers the peace. When the [[place-grkrhlmrgn|Grukar]] press westward, Norgaad calls the moot. This diplomatic role gives Norgaad influence beyond its military strength, and its kings have historically been among the most politically skilled of the Normen rulers.
+Norgaad's central position makes it the natural mediator among the Nordmen kingdoms. When [[affiliation-kngdmnrdhm|Kingdom of Nordheim]] and [[affiliation-kingdomlgn|Malagna]] quarrel, Norgaad brokers the peace. When the [[place-grkrhlmrgn|Grukar]] press westward, Norgaad calls the moot. This diplomatic role gives Norgaad influence beyond its military strength, and its kings have historically been among the most politically skilled of the Nordmen rulers.
 
 ## Commerce and Currency
 

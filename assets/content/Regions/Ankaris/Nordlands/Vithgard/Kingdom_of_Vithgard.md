@@ -1,5 +1,5 @@
 ---
-description: "Northernmost Normen kingdom of polar nights, drift-ice coasts, and ivory-walled longhouses — whalers and seal-hunters whose shamanic tradition treats the long dark winter as the season when the worlds touch."
+description: "Northernmost Nordmen kingdom of polar nights, drift-ice coasts, and ivory-walled longhouses — whalers and seal-hunters whose shamanic tradition treats the long dark winter as the season when the worlds touch."
 type: affiliation
 name:
   full: Kingdom of Vithgard
@@ -124,7 +124,7 @@ packFolder: vithgard
 
 ## Overview
 
-Vithgard is the northernmost of the Normen kingdoms, a land of ice, tundra, and long polar nights where survival itself is an achievement. Its territory stretches into the frozen wastes beyond the tree line, and its people are the hardiest and most isolated of the Normen. Vithgard's settlements are sparse and scattered, connected by sea routes along the ice-choked northern coast.
+Vithgard is the northernmost of the Nordmen kingdoms, a land of ice, tundra, and long polar nights where survival itself is an achievement. Its territory stretches into the frozen wastes beyond the tree line, and its people are the hardiest and most isolated of the Nordmen. Vithgard's settlements are sparse and scattered, connected by sea routes along the ice-choked northern coast.
 
 ## Character
 
@@ -132,7 +132,7 @@ Vithgard is a land of extremes. The brief summer brings constant daylight and a 
 
 The people of Vithgard are renowned for their whaling and seal-hunting, skills that produce the oil, bone, blubber, and hides that form the kingdom's primary trade goods. Vithgard whale-oil is prized across the north for lamps and waterproofing, and Vithgard ivory (walrus and narwhal) commands high prices among craftsmen as far south as [[place-midhalnrgn|Mídhalión Region]].
 
-The kingdom's shamanic traditions are the strongest of any Normen realm. The long dark winters are considered sacred time, when the veil between worlds thins and the völvur can commune most clearly with the spirits. Vithgard's seers are sought out by all five kingdoms for their prophetic gifts.
+The kingdom's shamanic traditions are the strongest of any Nordmen realm. The long dark winters are considered sacred time, when the veil between worlds thins and the völvur can commune most clearly with the spirits. Vithgard's seers are sought out by all five kingdoms for their prophetic gifts.
 
 ## Commerce and Currency
 

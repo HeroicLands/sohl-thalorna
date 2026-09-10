@@ -223,7 +223,7 @@ The [[affiliation-hlykngdmnrtm|Holy Kingdom of Nartûm]], an independent Vylari-
 
 ## Military
 
-The Vylarian legions, once the most feared fighting force in Ankaris, are a shadow of their former selves. The empire can still field disciplined, well-equipped armies, but they are stretched thin, defending borders that the empire can no longer fully control. Mercenaries — often Tarvénan or Normen — fill gaps in the ranks, and the reliability of these hired swords varies considerably.
+The Vylarian legions, once the most feared fighting force in Ankaris, are a shadow of their former selves. The empire can still field disciplined, well-equipped armies, but they are stretched thin, defending borders that the empire can no longer fully control. Mercenaries — often Tarvénan or Nordmen — fill gaps in the ranks, and the reliability of these hired swords varies considerably.
 
 The Vylarian navy remains competent, controlling key points in the [[place-vylarianse|Vylarian Sea]], but it too has declined. Haradian naval supremacy in the eastern sea is an uncomfortable reality that Vylarian admirals prefer not to discuss.
 

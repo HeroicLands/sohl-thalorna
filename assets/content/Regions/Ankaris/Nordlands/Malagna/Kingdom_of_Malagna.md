@@ -125,17 +125,17 @@ packFolder: malagna
 
 ## Overview
 
-Malagna is the westernmost of the five Normen kingdoms, occupying fjord-cut coastline and forested highlands facing the open ocean beyond [[place-elavendre|Élavendre]] and [[place-aelwyth|Aelwyth]]. Of all the Normen realms, Malagna has the most contact with the western kingdoms and the most trade with the cultures of [[place-midhalnrgn|Mídhalión Region]]. Its sailors are explorers and merchants as much as raiders, and Malagnan longships have reached the furthest shores of the known world.
+Malagna is the westernmost of the five Nordmen kingdoms, occupying fjord-cut coastline and forested highlands facing the open ocean beyond [[place-elavendre|Élavendre]] and [[place-aelwyth|Aelwyth]]. Of all the Nordmen realms, Malagna has the most contact with the western kingdoms and the most trade with the cultures of [[place-midhalnrgn|Mídhalión Region]]. Its sailors are explorers and merchants as much as raiders, and Malagnan longships have reached the furthest shores of the known world.
 
 ## Character
 
-Malagna's western position has given it a slightly more cosmopolitan character than its sister kingdoms. Malagnan traders deal regularly with [[place-elavendre|Élavendrian]] and [[place-aelwyth|Aelwythan]] merchants, and the kingdom's port towns host small communities of foreign traders. This exposure has softened some of the harsher edges of Normen culture — Malagna's people are still warriors and sailors, but they are also diplomats and deal-makers.
+Malagna's western position has given it a slightly more cosmopolitan character than its sister kingdoms. Malagnan traders deal regularly with [[place-elavendre|Élavendrian]] and [[place-aelwyth|Aelwythan]] merchants, and the kingdom's port towns host small communities of foreign traders. This exposure has softened some of the harsher edges of Nordmen culture — Malagna's people are still warriors and sailors, but they are also diplomats and deal-makers.
 
 The kingdom is known for its shipbuilding. Malagnan longships are considered the finest in the north, prized for their speed, seaworthiness, and elegant construction. The master shipwrights of Malagna guard their craft jealously, and a Malagnan-built vessel commands a premium in any harbor.
 
 ## Relations
 
-Malagna maintains trading relationships with [[place-elavendre|Élavendre]], the northern communities of [[place-aelwyth|Aelwyth]], and occasionally even [[affiliation-provincvld|Vald]] and the [[place-vylarianse|Vylarian Sea]] ports. Relations with [[affiliation-kngdmnrdhm|Kingdom of Nordheim]] are fraternal but competitive — the two kingdoms have historically vied for dominance among the Normen peoples. Malagna's western orientation sometimes puts it at odds with the more insular eastern kingdoms.
+Malagna maintains trading relationships with [[place-elavendre|Élavendre]], the northern communities of [[place-aelwyth|Aelwyth]], and occasionally even [[affiliation-provincvld|Vald]] and the [[place-vylarianse|Vylarian Sea]] ports. Relations with [[affiliation-kngdmnrdhm|Kingdom of Nordheim]] are fraternal but competitive — the two kingdoms have historically vied for dominance among the Nordmen peoples. Malagna's western orientation sometimes puts it at odds with the more insular eastern kingdoms.
 
 ## Commerce and Currency
 

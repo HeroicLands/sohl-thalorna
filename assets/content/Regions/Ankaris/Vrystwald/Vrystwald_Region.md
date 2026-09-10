@@ -55,7 +55,7 @@ The [[affiliation-ordoarcanis|Ordo Arcanis]] considers Vrystwald a lawless front
 
 ## Relations
 
-To the **west** lies the [[place-nrdlndsrgn|Nordlands]]. The Varokh and the Normen share Pelwar ancestry and a great deal of cultural similarity (martial values, broad religious practice, similar architecture), but competition for resources along the long forest frontier keeps tensions simmering. Periodic Nordmal expeditions push into western Vrystwald; periodic Varokh counter-raids push back. Trade is substantial despite the friction, and intermarriage among border-clan and border-jarl households is common.
+To the **west** lies the [[place-nrdlndsrgn|Nordlands]]. The Varokh and the Nordmen share Pelwar ancestry and a great deal of cultural similarity (martial values, broad religious practice, similar architecture), but competition for resources along the long forest frontier keeps tensions simmering. Periodic Nordmal expeditions push into western Vrystwald; periodic Varokh counter-raids push back. Trade is substantial despite the friction, and intermarriage among border-clan and border-jarl households is common.
 
 To the **southwest** lies [[place-grkrhlmrgn|Grukarhölm]]. Vrystwaldi-Grukar relations are uniformly hostile — the Grukar marshlands border directly on Vrystwald's southwestern forests, and the long history of Grukar raiding into Varokh clearings (and Varokh punitive expeditions into the marshlands) has produced an entrenched mutual enmity that no living chieftain remembers the start of.
 

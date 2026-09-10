@@ -23,7 +23,7 @@ packFolder: nordheim
 
 ## Overview
 
-Laurelossë was a hidden [[lore-flksinale|Sinalëan]] enclave in the deep interior of Nordheim — one of the northernmost sanctuaries of the Firstborn anywhere in western Ankaris. For centuries it lay concealed in a forested mountain valley, shielded from human knowledge by wards older than the [[affiliation-vylarinmpr|Vylarian Empire]]. The Normen who hunted in the surrounding highlands sometimes spoke of a valley where the trees never lost their leaves, where the snow melted before it touched the ground, and where the birdsong was strange and beautiful — but none could find their way there twice. Most dismissed the stories as tall tales. They were not.
+Laurelossë was a hidden [[lore-flksinale|Sinalëan]] enclave in the deep interior of Nordheim — one of the northernmost sanctuaries of the Firstborn anywhere in western Ankaris. For centuries it lay concealed in a forested mountain valley, shielded from human knowledge by wards older than the [[affiliation-vylarinmpr|Vylarian Empire]]. The Nordmen who hunted in the surrounding highlands sometimes spoke of a valley where the trees never lost their leaves, where the snow melted before it touched the ground, and where the birdsong was strange and beautiful — but none could find their way there twice. Most dismissed the stories as tall tales. They were not.
 
 The enclave was small by Sinalëan standards — perhaps a few hundred souls at its height — but it was ancient, established in an age when the Sinalë were more numerous and the world less crowded. Laurelossë served as a sanctuary of contemplation and natural magic, a place where the Sinalë maintained their deep bond with the living forest. The trees of Laurelossë were said to be among the oldest in the north, their roots intertwined with the enclave's wards in a living architecture that blurred the boundary between craft and nature.
 
@@ -41,7 +41,7 @@ Laurelossë died that night. The ancient trees blackened and twisted. The clear 
 
 What was once a sanctuary of starlight and living wood is now a necropolis. The valley is blighted — the trees are dead but will not fall, standing as skeletal sentinels. The air is cold and stale regardless of the season, and animals shun the place instinctively. Gríma has made the corrupted enclave his stronghold, drawing dark power from the imprisoned Sinalëan spirits and the twisted remnants of their ancient wards.
 
-The corruption is not contained. It has been spreading slowly outward for decades, tainting the surrounding forest and water sources. Normen clans in the nearby highlands have noticed the blight — failing hunts, poisoned streams, livestock born wrong — though they do not know the cause. The valley that once couldn't be found now can't be avoided; travelers report stumbling into its edges and fleeing in terror from the wrongness they felt there.
+The corruption is not contained. It has been spreading slowly outward for decades, tainting the surrounding forest and water sources. Nordmen clans in the nearby highlands have noticed the blight — failing hunts, poisoned streams, livestock born wrong — though they do not know the cause. The valley that once couldn't be found now can't be avoided; travelers report stumbling into its edges and fleeing in terror from the wrongness they felt there.
 
 ## The Sinalëan Response
 
@@ -55,7 +55,7 @@ The spirit of Calenlass Vardamir is believed to endure within the necropolis, re
 
 Laurelossë's destruction has had ripple effects beyond the immediate tragedy. It demonstrated that Sinalëan enclaves — long thought inviolable — can be found and broken. This has unsettled the Firstborn across Thalorna in ways that human scholars can barely perceive. It has also drawn the attention of other powers: the [[affiliation-ordoarcanis|Ordo Arcanis]] is keenly interested in how Gríma pierced the enclave's wards, and certain factions within the Ordo would dearly love to acquire that knowledge — for defensive purposes, they claim.
 
-Among the Normen, the blight spreading from the corrupted valley has become a growing concern. The highland clans have their own legends of the hidden valley, and the older völvur suspect that something terrible has happened to whatever was once protected there. Several have attempted to investigate and have not returned.
+Among the Nordmen, the blight spreading from the corrupted valley has become a growing concern. The highland clans have their own legends of the hidden valley, and the older völvur suspect that something terrible has happened to whatever was once protected there. Several have attempted to investigate and have not returned.
 
 ## See Also
 
