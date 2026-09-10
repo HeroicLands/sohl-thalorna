@@ -52,20 +52,28 @@ Three exceptions are recognised, and they are exceptions of person rather than o
 
 The Sinalë did not always live in the Hallowwood, and they did not withdraw into it out of temperament.
 
-Thousands of years ago they and the [[lore-flkkhazar|Khazári]] ruled Aelwyth together as one kingdom
-under a **Sinalë king**. When barbarian hordes came against the island the king was killed, and the
-surviving Sinalë **came into this forest and stayed**, leaving the Khazári to finish the war without
+After [[lore-khazarturn|Khazártúrn]] fell in 2800 BF and the two elder races stopped speaking, the
+Sinalë and [[lore-flkkhazar|Khazári]] **of this island** did something no others of their kind have ever
+attempted: they tried to repair it. They united Aelwyth under a **single crown**, held by a Sinalë king,
+and governed the island together — and they kept that up for **six hundred years**.
+
+Then, around **2200 BF**, the **Pelwar** arrived: refugees, driven off the mainland by the
+[[place-vrystwald|Varokh]] in the great displacement of that people, with nowhere else to go. Two
+centuries of pressure and reprisal became the **Great War**, and in **1984 BF** the king was killed at
+the [[place-threesisters|Three Sisters]].
+
+The surviving Sinalë came into this forest and stayed, leaving the Khazári to finish the war without
 them.
 
-The Khazári have never forgiven it. The two elder races of Aelwyth have had nothing to do with one
-another since, and the Sinalë of the Hallowwood will not discuss the matter — not with the
-[[affiliation-kingdmdnvr|Synod]], not with [[place-elavendre|Élavendre]], and not with the
-[[lore-vardain|Vardain]], who are the Khazári's people and are the one group the wood has never
-received at all.
+That is the second time the Sinalë have walked away from the Khazári in a crisis, and the Khazári have
+never forgiven either. The two elder races of Aelwyth have had nothing to do with one another since, and
+the Sinalë of the Hallowwood will not discuss it — not with the [[affiliation-kingdmdnvr|Synod]], not
+with [[place-elavendre|Élavendre]], and not with the [[lore-vardain|Vardain]], who are the Khazári's
+people and are the one group the wood has never received at all.
 
 What the withdrawal was — rout, grief, judgement, or something for which no human word has been offered
-— is not known. That it is the reason there are Sinalë in the south of this island and Khazári in the
-east of it, and nothing between them, is not in doubt.
+— is not known. That it ended six centuries of deliberate reconciliation, and that nothing has been
+attempted since, is not in doubt.
 
 ## The Trust
 

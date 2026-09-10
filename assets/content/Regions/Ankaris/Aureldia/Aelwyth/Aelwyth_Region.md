@@ -97,6 +97,26 @@ Elsewhere on the island, the relationship between the local rulers and their Pan
 
 Aelwyth's closest ties are with [[place-elavendre|Élavendre]] on the nearby mainland. Dúnavarre's southeastern harbors maintain trading relationships across the [[place-vylarianse|Vylarian Sea]]. The Nordmen of Stormveld maintain connections to [[affiliation-kngdmnrdhm|Kingdom of Nordheim]]. Tarvenne has cultivated diplomatic channels with the [[affiliation-vylarinmpr|Vylarian Empire]].
 
+## The Elder Kingdom
+
+Before there were kingdoms on Aelwyth there was one, and both elder races held it.
+
+After [[lore-khazarturn|Khazártúrn]] fell in 2800 BF the [[lore-flksinale|Sinalë]] and
+[[lore-flkkhazar|Khazári]] ceased dealing with one another everywhere in the world — except on this
+island, where instead they attempted to repair it. They united Aelwyth under a **single crown** held by a
+Sinalë king and governed it together for **six centuries**: the only reconciliation either race has ever
+tried.
+
+It was ended by refugees. The **Pelwar**, driven off the mainland by the [[place-vrystwald|Varokh]],
+reached Aelwyth around **2200 BF** with nowhere else to go, and an island has a fixed amount of good
+land. Two centuries of arrival and pressure and reprisal became the **Great War**, and in **1984 BF** the
+king was killed at the [[place-threesisters|Three Sisters]] in what is now the
+[[place-cntrlhghlnds|Central Highlands]]. The Sinalë withdrew into the [[place-hallowwood|Hallowwood]];
+the Khazári finished the war alone and have not spoken to them since.
+
+Every human on Aelwyth today — every realm, every tribe — descends from those refugees. None of them
+know it, and neither elder race has ever seen a reason to tell them.
+
 ## The Island and the World
 
 Two things are true about Aelwyth at once, and neither of the people concerned believes the other.

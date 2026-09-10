@@ -64,20 +64,27 @@ finish it alone.
 
 ## The Old Kingdom
 
-Aelwyth was once ruled jointly by both elder races.
+Aelwyth was once ruled by both elder races together, and it was not an ancient inheritance. It was an
+**attempt at repair**.
 
-Thousands of years ago the [[lore-flksinale|Sinalë]] and the Khazári held this island together as a
-single kingdom under a **Sinalë king**, and the works of that age are still in the ground: roads that
-run where no later road runs, cut stone in the Ironfells that the [[lore-vardain|Vardain]] cannot
-match, and foundations under three Aelwythan towns that nobody has ever satisfactorily dated.
+[[lore-khazarturn|Khazártúrn]] fell in 2800 BF and the two peoples stopped speaking everywhere in the
+world — except here. The Sinalë and Khazári of Aelwyth united the island under a **single crown**, held
+by a Sinalë king, and managed its affairs jointly for **six hundred years**. It is the only reconciliation
+either race has ever attempted, and the works of that period are still in the ground: roads that run where
+no later road runs, cut stone the [[lore-vardain|Vardain]] cannot match, foundations under three Aelwythan
+towns that nobody has satisfactorily dated.
 
-It ended in a war. **Barbarian hordes** came against Aelwyth, the Sinalë king was killed in the fighting,
-and the surviving Sinalë **withdrew into their forest** — into what is now the
-[[place-hallowwood|Hallowwood]] — and left the Khazári to deal with the invasion alone.
+It ended with people who had nowhere else to go. The **Pelwar** reached Aelwyth around **2200 BF**,
+driven off the mainland by the [[place-vrystwald|Varokh]]; two centuries of pressure became the **Great
+War**; and in **1984 BF** the king was killed at the [[place-threesisters|Three Sisters]]. The surviving
+[[lore-flksinale|Sinalë]] withdrew into the forest that is now the [[place-hallowwood|Hallowwood]] and
+left the Khazári to finish the war alone.
 
-The Khazári dealt with it. They have never forgiven it. In all the centuries since, the two elder races
-of Aelwyth have had **nothing whatever to do with one another**, and neither will discuss the matter
-with anyone.
+They finished it. They have never forgiven it, and the two elder races of Aelwyth have had nothing to do
+with one another since.
+
+For the Khazári of this hold it was the second abandonment in eight hundred years — and the second, unlike
+the first, came after six centuries of being assured there would not be another.
 
 ## The Humans
 
