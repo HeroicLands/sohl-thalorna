@@ -58,8 +58,11 @@ entire people's craft-records, and the finest archive in the world at a date whe
 built a city anywhere. In **2800 BF** it was destroyed by a [[lore-flksinale|Sinalë]] outlaw wielding the
 [[miscgear-secondvoice|Second Voice]] — a relic that takes [[lore-grukarfolk|Grukar]] from their
 spawners and commands them directly, and so produced the one thing Grukar biology otherwise forbids:
-an army. Thirty thousand died. The city was not sacked but **emptied**, and no Khazár has entered it
-since.
+an army. It killed **everyone** — thirty thousand, the whole population — and is the worst thing that has ever
+happened to the Deep Folk on Thalorna. Afterward they laid their dead in their own chambers, there
+being nothing like enough tombs, cleaned the city to the condition they had kept it in, and **sealed it
+for all generations**. Khazártúrn is not a ruin. It is intact, in good order, and full of its people:
+the greatest work of Khazári hands, and now the greatest grave in the world.
 
 The account of its fall is kept in the working archive of every hold and read at intervals. It is the
 single most useful thing to know about how the Deep Folk behave: they are patient with everything in the world except Grukar, whom they kill on sight, everywhere,

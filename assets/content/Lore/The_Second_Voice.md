@@ -49,8 +49,9 @@ In **2800 BF** the Second Voice was taken up by a **Sinalë outlaw**, and used t
 [[lore-khazarturn|Khazártúrn]] — the greatest city the Khazári ever built, and at that date the greatest
 work of any people on Thalorna.
 
-There was no siege and no cunning. There was an army that should not have been able to exist, arriving
-all at once, and a city of thirty thousand that had been designed against every threat except that one.
+It was not a war and not a siege. It was a single act of genocide against a city of thirty thousand,
+carried out by an army that should not have been able to exist, and **it killed everyone**. The Khazári
+afterward laid their dead in their own chambers, cleaned the city, and sealed it as a tomb.
 
 ## Why
 
