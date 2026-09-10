@@ -103,7 +103,7 @@ data:
   seat: bjornstad
   domains:
     - nrdlndsrgn
-  population: 900000
+  population: 300000
   economy:
     - lore-vylrncrncy
     - lore-bartercnmy

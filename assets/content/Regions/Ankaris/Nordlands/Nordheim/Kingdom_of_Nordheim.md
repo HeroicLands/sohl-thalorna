@@ -102,7 +102,7 @@ data:
   seat: thrymstead
   domains:
     - nrdlndsrgn
-  population: 2000000
+  population: 650000
   economy:
     - lore-vylrncrncy
     - lore-bartercnmy
@@ -172,7 +172,7 @@ Kingdom of Nordheim uses the [[lore-vylrncrncy|Vylarian coinage]] (Aurion / Argo
 
 ## See Also
 
-- [[affiliation-grukarholm|Grukarhölm]] — Eastern neighbors, the Grukar tribes
+- [[place-grkrhlmrgn|Grukarhölm]] — Eastern neighbors, the Grukar tribes
 - [[place-vrystwald|Vrystwald]] — Southern frontier
 - [[affiliation-asguardian|Asguardian Pantheon]] — The Nordmen pantheon
 - [[skill-nordmalng|Nordmal]] — Naming conventions

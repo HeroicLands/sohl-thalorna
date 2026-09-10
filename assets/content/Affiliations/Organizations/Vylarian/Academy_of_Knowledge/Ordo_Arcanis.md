@@ -280,7 +280,7 @@ The Ordo operates through regional chapters established in every significant cit
 - **[[affiliation-cnfdrtnhrdnstts|Harad]]:** Active but politically constrained. The merchant guilds view the Ordo as a tool of Vylarian influence and have placed restrictions on its activities.
 - **[[place-tarvenirgn|Tarvénia Region]]:** Minimal presence. A handful of chapters in major cities, operating cautiously in a culture deeply hostile to institutional magic.
 - **[[place-elavendre|Élavendre]]:** Substantial urban presence centered on the **University of Béravel** — the largest Epistemium campus outside Vylaria, with multiple Sodalitas chapterhouses in residence. The Ordo wields considerable influence in the capital and major towns, rivaling or exceeding the Bardic Circle and Grove Council. Outside the cities, however, the Ordo's reach is fiercely contested by traditional institutions and the Áelendan Wardens, and its agents who probe the fae-touched interior do so at genuine personal risk.
-- **[[affiliation-kngdmnrdhm|Kingdom of Nordheim]] and the Normen kingdoms:** No presence. The Normen have their own völvur traditions and no interest in southern magical bureaucracy.
+- **[[affiliation-kngdmnrdhm|Kingdom of Nordheim]] and the Nordmen kingdoms:** No presence. The Nordmen have their own völvur traditions and no interest in southern magical bureaucracy.
 - **[[place-byzariargn|Byzaría Region]]:** Small but growing. The League's commercial interests create demand for Ordo services.
 
 ### Beyond Western Ankaris

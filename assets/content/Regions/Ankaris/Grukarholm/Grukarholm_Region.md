@@ -17,7 +17,7 @@ data:
     - grukarflk
   parents:
     - ankrscntnnt
-  population: null
+  population: 50000
 terran_analog: "Belarus — a forest-and-marsh enclave at the eastern margin of the Nordlands, distinct in people and polity from its Norse/Germanic neighbors."
 packFolder: grukarholm
 ---
@@ -35,6 +35,40 @@ The **marshlands** of the central and southern lowlands are the region's most di
 The **river systems** — the slow brown rivers that wind east across the country toward Velanthia — provide what long-distance transport the region has. Grukar war-canoes move warriors and goods along these rivers in summer; in winter the frozen rivers become the highways of overland movement. The rivers are also the principal exterior trade routes, and the Velanthian frontier-towns at the eastern river-mouths are where most Grukar exterior contact happens.
 
 The climate is continental: cold snowy winters, warm humid summers, distinct spring thaw and autumn freeze. It is not the killing extreme of the far-northern taiga — Grukarhölm's winters are survivable, by Grukar standards even comfortable — but the marshlands' summer mosquitoes are legendary, and the spring thaw turns the country into an impassable mire for weeks every year.
+
+## There Is No Kingdom
+
+**Grukarholm is not a polity, has no ruler, no capital and no borders anyone drew.** It is a name given
+to a country from outside, by people describing where the [[lore-grukarfolk|Grukar]] are.
+
+The land came by the name honestly enough. Nobody else wanted it — cold, wet, forested, marshy,
+agriculturally worthless — so nobody else took it, and over a long time it filled up with Grukar. Naming
+it after them is simple accuracy on a chart. It is not a statement about how they are organised, and
+Nordmen and Vrystwaldic usage that speaks of "the Grukar king" is a convenience of grammar with nothing
+behind it.
+
+**Ahks do not cooperate.** Every tribe is its own thing, centred on its own spawner, and there is no
+mechanism by which two of them combine, ally, treat, or acknowledge a superior. There are scores of
+tribes in this country. There is no confederation of them, there has never been one, and the day there is
+one will be the worst day in the history of the north.
+
+## Fifty Thousand
+
+The whole region holds perhaps **fifty thousand Grukar**, which surprises everyone who has met one.
+
+They are foragers — hunters, trappers, fishers, gatherers of what the marshes give — and forager
+densities are low everywhere. Grukar densities are lower than human ones, because a Grukar tribe converts
+food into warriors at a rate no human band attempts: a Hai clutch is an enormous quantity of meat, and
+the dosing cannot outrun the larder. Fifty thousand spread across a country the size of a kingdom means
+tribes of a few hundred to a couple of thousand, and a raiding party of dozens.
+
+**They hold themselves there.** The endless Grukar-on-Grukar fighting that outsiders take for mindless
+savagery is, functionally, the thing that keeps this country habitable: tribes that outgrow their range
+fission, tribes that crowd each other fight, and the population is pinned below what the land will bear
+by its own violence. Left alone, the Grukar do not eat their country bare. They never get the chance.
+
+Which is also why they have never been more than a frontier problem to anybody. There is no shortage of
+ferocity in Grukarholm. There is a permanent, structural shortage of **concentration**.
 
 ## Peoples and Culture
 
@@ -76,7 +110,7 @@ To the **south** lies [[place-velanthrgn|Velanthia]]. Grukar-Velanthian relation
 
 ## See Also
 
-- [[affiliation-grukarholm|Grukarhölm]] — the dominant Grukar confederation
+- [[place-grkrhlmrgn|Grukarhölm]] — the dominant Grukar confederation
 - [[skill-grukarlng|Grukar]] — the folk and their subspecies
 - [[being-grukaruk|Grukar-Uk]], [[being-grkrsh|Grukar-Sha]], [[being-grkrh|Grukar-Hai]] — the three subspecies
 - [[skill-grukarlng|Grukar Language]] — the Grukar tongue

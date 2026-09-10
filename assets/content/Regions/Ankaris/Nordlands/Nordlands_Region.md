@@ -17,7 +17,7 @@ data:
     - humanflk
   parents:
     - ankrscntnnt
-  population: null
+  population: 2000000
 terran_analog: "Germany, Poland, Czechia, the Baltic states, Denmark, Norway, Sweden, and Finland — the great northern temperate-and-boreal belt of Norse/Germanic kingdoms and Baltic-Scandinavian forest peoples."
 packFolder: nordlands
 ---
@@ -31,6 +31,41 @@ The Nordlands occupy Ankaris's northwestern quarter, stretching from the old for
 Behind the fjords the land rises into mountain ranges of wind-scoured stone and ice, breaking into high interior plateaus where caribou migrate and the most reclusive clans dwell. South and east of the mountains, the terrain settles into boreal forest: endless spruce and pine, pierced by glacier-fed rivers that flow both south toward [[place-midhalnrgn|Mídhalión]] and east toward the frozen interior. Off the northwest coast, a chain of volcanic islands breaks the weather — their hot springs and fertile volcanic soils make them coveted settlements despite their remoteness.
 
 The climate is brutal by Ankarian standards. Winters last for months and drag a near-total darkness across the far north; summers are short, light-flooded, and violently alive. A Nordmen child learns early that the land does not feed those who cannot read its moods.
+
+## Population
+
+The Nordlands hold about **two million** people, which is few for so much country and is the single most
+important fact about them.
+
+Fjord, mountain and ice do not grow food. What arable exists is a scatter of thin fields in sheltered
+valley bottoms — barley and oats, in a summer that is over almost as soon as it starts — and it has never
+been enough. The region lives on the **sea**: sealing, fishing, whale ivory, furs, amber, and the ships
+that carry all of it. The ships are the economy, and always have been.
+
+| Kingdom                               | People   |
+| ------------------------------------- | -------- |
+| [[affiliation-kngdmnrdhm\|Nordheim]]  | ~650,000 |
+| [[affiliation-kingdmnrgd\|Norgaad]]   | ~400,000 |
+| [[affiliation-kingdomlgn\|Malagna]]   | ~340,000 |
+| [[affiliation-kingdmtrgd\|Targud]]    | ~300,000 |
+| [[affiliation-kngdmvthgrd\|Vithgard]] | ~300,000 |
+
+**Nordheim is pre-eminent** and is larger than any two of its neighbours together, which is the shape of
+northern politics in one line.
+
+## Why They Raid
+
+Because the arithmetic requires it, and it always has.
+
+A people whose land cannot feed them must take food, or take land, or take both, from somewhere the land
+does. That is not a moral failing or a taste for violence; it is what two million people on rock and ice
+have to do, and they have been doing it along every coast within reach for as long as anyone has records.
+
+It is also the whole explanation of **[[affiliation-jrldmstrmvld|Stormveld]]**. Sixty years ago Nordmen
+crossed to [[place-aelwyth|Aelwyth]] and took the north-east of it — and what they took, specifically, was
+the **plain**: the one large body of good arable on that island, now worked by a hundred and twenty
+thousand thralls. From the Nordlands that is not an adventure. It is the most rational thing anyone up
+there has ever done.
 
 ## Peoples and Culture
 

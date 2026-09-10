@@ -64,7 +64,7 @@ data:
 sohl:
   templatePriority: null
 name:
-  full: Faith of Thanatos
+  full: Faith of Thánatos
   aliases:
     - The Silent Judge
     - Thánatos

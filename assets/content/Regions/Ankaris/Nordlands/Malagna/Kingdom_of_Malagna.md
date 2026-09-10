@@ -103,7 +103,7 @@ data:
   seat: skorrborg
   domains:
     - nrdlndsrgn
-  population: 1000000
+  population: 340000
   economy:
     - lore-vylrncrncy
     - lore-bartercnmy

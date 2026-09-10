@@ -576,7 +576,7 @@ Dalzûru is driven by the desire to master his craft and secure a stable future.
 
 ### Strengths
 
-Skilled storyteller, powerful voice, knowledgeable in Normen history.
+Skilled storyteller, powerful voice, knowledgeable in Nordmen history.
 
 ## Social
 

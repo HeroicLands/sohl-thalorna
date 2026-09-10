@@ -103,7 +103,7 @@ data:
   seat: asgarthul
   domains:
     - nrdlndsrgn
-  population: 1200000
+  population: 400000
   economy:
     - lore-vylrncrncy
     - lore-bartercnmy
