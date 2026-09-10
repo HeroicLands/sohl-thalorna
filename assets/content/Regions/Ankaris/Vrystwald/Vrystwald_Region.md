@@ -8,7 +8,7 @@ data:
     - humanflk
   parents:
     - ankrscntnnt
-  population: 1400000
+  population: 500000
 name:
   full: Vrystwald
   aliases:
@@ -65,7 +65,9 @@ anyone could have said so the question had stopped meaning anything.
 
 ## Population
 
-Vrystwald holds about **1,400,000** people, spread very unevenly across an enormous territory.
+Vrystwald holds about **500,000** people, spread very thinly across an enormous territory — perhaps one
+soul to two square miles of it, averaged out, which is a figure that means nothing until you stand in the
+forest and understand that the average is a lie in both directions.
 
 - The **northern taiga** is nearly empty: hunter-fisher-trapper clans at densities no farming people would
   recognise, working furs that are worth more than the country they come from.
@@ -78,10 +80,139 @@ Vrystwald holds about **1,400,000** people, spread very unevenly across an enorm
   forest gives way to grain-belt and the two peoples interpenetrate through a thousand miles of mixed
   villages and intermittent raiding.
 
-It is a large population by the standards of a forest, and a small one for the space it occupies, and the
-combination is precisely why no army has ever finished a war here. There is nothing to capture. The
-Varokh are not concentrated anywhere an invader can reach them, and the country is big enough to lose an
-army in — which several have obliged it by doing.
+That is a **small** people by any standard an Aurèldían would apply — a fraction of what the
+[[place-nrdlndsrgn|Nordlands]] carry, and a rounding error beside the grain kingdoms of the west. The
+Varokh are not numerous. They have never been numerous.
+
+It is also, man for man, the most dangerous population in the north — and the people best placed to
+judge that say so themselves. The **[[place-nrdlndsrgn|Nordmen]]** are feared along every coast within
+reach of a longship, and the Nordmen regard the Varokh as **worse**: harder, less reachable, and less
+inclined to stop. That is not a concession Nordmen make about anybody, and they make it about these
+neighbours without argument. It is the Varkhad half talking, four thousand years on.
+
+And the numbers have never made the slightest difference, because numbers are not what has beaten every
+army sent in here. **There is nothing to capture.** No capital, no heartland, no field the Varokh have to hold and
+no season in which they must. They are not concentrated anywhere an invader can reach them; the country
+is roadless, trackless and big enough to lose an army in, which several have obliged it by doing; and a
+force that marches into Vrystwald to bring five hundred thousand people to battle discovers that they are
+under no obligation whatever to be brought.
+
+## Villages, and Nothing Larger
+
+There are **no cities in Vrystwald and no towns**. There never have been.
+
+What there is, is villages — thousands of them, scattered through forest clearings and strung along the
+riverbanks, most of them a few score people and a palisade. Some are considerably larger, and where they
+are larger it is always for the same reason: **the trade is better there**. A landing on a good stretch
+of river, a portage between two water systems, a confluence, a crossing — those villages grow into
+something a stranger might mistake for a small town, and are still villages, because nothing about how
+they are governed or held together changes with the size.
+
+This is the plainest statement of what the Varokh are. A people with no urban places has no seat of
+power to seize, no treasury to sack, no walls whose fall decides anything, and no single point at which
+it can be made to submit. It is also why the "nothing to capture" problem is not a tactic they adopted.
+They simply never built anything worth capturing.
+
+## Furs, Amber — and People
+
+Vrystwald exports what a forest exports. Furs above all, out of the northern taiga and worth more by
+weight than anything else the country produces; also amber, wax, honey, hides, tallow, timber and river
+fish.
+
+And **slaves**.
+
+It would be strange if they did not. They raid, and raiding produces captives as surely as it produces
+cattle; their southern frontier runs a thousand miles against the [[place-velanthrgn|Velanthian]]
+grain-belt, which is full of villages worth raiding; the rivers that carry their furs run straight to
+markets in every direction; and the best customers in the world are their immediate neighbours. The
+**[[place-nrdlndsrgn|Nordmen]]** run a thrall economy — the Jarldom of
+[[affiliation-jrldmstrmvld|Stormveld]] alone works a hundred and twenty thousand of them — and they buy.
+
+The shape of the trade follows from having no cities. The Varokh are not a plantation society and could
+not be: a village keeps a few captives to work and to marry into, and everything else goes **down the
+river**. Vrystwald is a **conduit** rather than a destination — people taken on the Velanthian frontier or
+off a raided coast, moved by water, and sold on to Nordmen buyers, to eastern traders working up from the
+[[place-khzryndsrtrgn|Khazryn]] margins, and through enough intermediaries that the eventual purchaser is
+seldom aware of where the goods entered the system.
+
+The Aurèldían kingdoms deplore this and buy the furs, which travel the same rivers in the same boats.
+
+There is an irony in it that nobody in Vrystwald has ever been in a position to appreciate. The Varokh
+exist because the **Varkhad** conquered the Pelwar and drove the survivors west and south in the
+Migration. Four thousand years on, their descendants make a living moving displaced people down the same
+rivers.
+
+## Who Does What
+
+Varokh society divides its work three ways, and the division explains nearly everything else about them.
+
+**The slaves do the labour.** Stock-tending, mucking, hauling, wood, water, fields — the whole grinding
+base of keeping a village alive. Most villages hold some; a prosperous one on a good landing holds a
+good many, and they are worked hard and are not, in the ordinary case, going anywhere.
+
+**The men train for war.** Not seasonally and not as a levy. A Varokh man's occupation _is_ fighting: he
+practises it, is judged on it, and spends the working life an Aurèldían peasant gives to the plough
+giving it to weapons instead — because there are slaves to do the ploughing.
+
+This is the real answer to why the Varokh are fiercer than the [[place-nrdlndsrgn|Nordmen]], and it is
+not temperament. A Nordman is a farmer and fisherman who raids in season. A Varokh warrior is a warrior,
+and has been since he was old enough to hold something. The difference is not courage. It is **hours**.
+
+**The women do everything else.** The trapping and the trade, which are the same job seen from two ends —
+the traplines through the winter taiga produce the furs, and the river-boats carry them down to market
+and do the dealing, so the most valuable commodity in Vrystwald is taken, prepared, carried and sold by
+women from end to end.
+
+And the **household**, which in a Varokh village means considerably more than a hearth: the stores, the
+stock, the year's provisioning, the reckoning of what is owed to whom — and **the slaves**, who are
+bought, set to work, fed, watched and disposed of by the mistress of the house. A slave in Vrystwald
+answers to a woman, every day, about everything.
+
+## What That Does to Outsiders
+
+It produces a country whose two halves know entirely different worlds.
+
+**A foreigner trading in Vrystwald deals with women, exclusively.** They run the landings, set the prices,
+keep the reckonings and conduct the negotiation, and they are extremely good at it — a Varokh trader has
+been down the rivers, knows what furs fetch in three markets, and speaks enough of two or three
+languages to know when she is being lied to in them. Aurèldían merchants who arrive expecting to talk to
+a chief make the mistake once.
+
+**A foreigner fighting in Vrystwald fights men**, who are the most dangerous people in the north and have
+in most cases never left the forest, never met a foreigner they were not killing, and have no idea what
+anything is worth.
+
+So the people who understand the outside world are the ones who never fight it, and the people who fight
+it understand nothing about it.
+
+Where power actually sits is a question Vrystwald has never had to answer out loud, and an outsider
+counting it up gets an uncomfortable result. The men hold **war** — the standing, the ground, and the
+reputation the whole culture is organised around. The women hold the furs, the boats, the trade, the
+languages, the stores, the household, the labour force and every relationship the country has with
+anywhere else.
+
+Which is to say the men hold the one thing that decides everything, and the women hold everything else.
+Neither half has ever managed without the other, and neither has ever been foolish enough to test it.
+
+## Ferocity and Concentration
+
+The north holds three peoples who are all, in their different ways, frightening, and the difference
+between them is not courage. It is **how much of themselves they can bring to one place at one time**.
+
+- The **[[lore-grukarfolk|Grukar]]** of [[place-grkrhlmrgn|Grukarholm]] cannot concentrate at all. Ahks do
+  not cooperate, so fifty thousand of them are fifty thousand in scores of tribes that will never combine.
+  Permanently terrifying at a frontier; permanently incapable of taking anything.
+- The **Varokh** concentrate as far as tribes and war-bands allow, and no further. They can put a
+  frightening number of extremely dangerous people into a forest, and they cannot put an army into a field
+  and keep it there for a season. So they are unconquerable and not expansionist — a people nobody can
+  beat and who cannot, in the ordinary sense, win.
+- The **[[place-nrdlndsrgn|Nordmen]]** are less fierce than the Varokh and vastly more organised: five
+  kingdoms, jarls, a þing, and above all **fleets**. Which is why it is the Nordmen and not the Varokh who
+  crossed open water, took a fifth of [[place-aelwyth|Aelwyth]] and are still holding it sixty years later.
+
+Ferocity decides who wins the fight. Concentration decides who keeps the ground. Vrystwald has an
+abundance of the first and a permanent shortage of the second, and the result is a country that has
+outlasted every enemy it ever had without ever once threatening to conquer one.
 
 ## Culture and Society
 

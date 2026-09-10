@@ -3,7 +3,7 @@ tags:
   - reference
   - demographics
   - worldbuilding
-description: "Reference estimate of the population of Thalorna by continent and region — anchored on the Vylarian Empire (~21M) and a pre-industrial, agrarian world of roughly 366 million, with the eastern giants Tánvür and Vedyára holding the majority of humankind."
+description: "Reference estimate of the population of Thalorna by continent and region — anchored on the Vylarian Empire (~21M) and a pre-industrial, agrarian world of roughly 365 million, with the eastern giants Tánvür and Vedyára holding the majority of humankind."
 type: doc
 subType: reference
 name:
@@ -25,21 +25,21 @@ The model is anchored on the one polity worked out in detail: the **[[affiliatio
 
 ### Ankaris — the West ("the civilized world")
 
-| Region                                                                                                                           | Population      |
-| -------------------------------------------------------------------------------------------------------------------------------- | --------------- |
-| [[affiliation-vylarinmpr\|Vylarian Empire]] (4 provinces)                                                                        | ~21,000,000     |
-| [[place-helionis\|Heliónis]] (governed, autonomous)                                                                              | ~3,000,000      |
-| [[place-provenzrgn\|Provènzia]]                                                                                                  | ~5,000,000      |
-| [[place-elavendre\|Élavendre]]                                                                                                   | ~2,000,000      |
-| [[place-tarvenirgn\|Tarvénia]]                                                                                                   | ~5,000,000      |
-| [[place-aelwyth\|Aelwyth]] (Dúnavarre, Tarvenne, Aldorath, Stormveld, Peshtar)                                                   | ~7,000,000      |
-| [[affiliation-calypsa\|Calypsa]] (city-state)                                                                                    | ~45,000         |
-| [[place-byzariargn\|Byzaría]]                                                                                                    | ~8,000,000      |
-| [[affiliation-cnfdrtnhrdnstts\|Harad]]                                                                                           | ~12,000,000     |
-| The north ([[place-nrdlndsrgn\|Nordlands]] ~2,000,000, [[place-vrystwald\|Vrystwald]], [[place-grkrhlmrgn\|Grukarholm]] ~50,000) | ~3,500,000      |
-| The deserts ([[place-dunharargn\|Dunhara]], [[place-khzryndsrtrgn\|Khazryn]])                                                    | ~6,000,000      |
-| Other minor western regions                                                                                                      | ~5,000,000      |
-| **Western Ankaris subtotal**                                                                                                     | **~71,000,000** |
+| Region                                                                                                                                    | Population      |
+| ----------------------------------------------------------------------------------------------------------------------------------------- | --------------- |
+| [[affiliation-vylarinmpr\|Vylarian Empire]] (4 provinces)                                                                                 | ~21,000,000     |
+| [[place-helionis\|Heliónis]] (governed, autonomous)                                                                                       | ~3,000,000      |
+| [[place-provenzrgn\|Provènzia]]                                                                                                           | ~5,000,000      |
+| [[place-elavendre\|Élavendre]]                                                                                                            | ~2,000,000      |
+| [[place-tarvenirgn\|Tarvénia]]                                                                                                            | ~5,000,000      |
+| [[place-aelwyth\|Aelwyth]] (Dúnavarre, Tarvenne, Aldorath, Stormveld, Peshtar)                                                            | ~7,000,000      |
+| [[affiliation-calypsa\|Calypsa]] (city-state)                                                                                             | ~45,000         |
+| [[place-byzariargn\|Byzaría]]                                                                                                             | ~8,000,000      |
+| [[affiliation-cnfdrtnhrdnstts\|Harad]]                                                                                                    | ~12,000,000     |
+| The north ([[place-nrdlndsrgn\|Nordlands]] ~2,000,000, [[place-vrystwald\|Vrystwald]] ~500,000, [[place-grkrhlmrgn\|Grukarholm]] ~50,000) | ~2,550,000      |
+| The deserts ([[place-dunharargn\|Dunhara]], [[place-khzryndsrtrgn\|Khazryn]])                                                             | ~6,000,000      |
+| Other minor western regions                                                                                                               | ~5,000,000      |
+| **Western Ankaris subtotal**                                                                                                              | **~71,000,000** |
 
 ### Ankaris — the East (the great powers)
 
@@ -75,16 +75,16 @@ The model is anchored on the one polity worked out in detail: the **[[affiliatio
 
 ## World Total
 
-**≈ 366 million.**
+**≈ 365 million.**
 
 | Continent / bloc     | Population |
 | -------------------- | ---------- |
-| Ankaris (west)       | ~71M       |
+| Ankaris (west)       | ~70M       |
 | Ankaris (east)       | ~230M      |
 | Xerathia             | ~29M       |
 | K'ich'chik           | ~30M       |
 | Kalihara & scattered | ~6M        |
-| **World**            | **~366M**  |
+| **World**            | **~365M**  |
 
 ## Notes and Sanity Checks
 
