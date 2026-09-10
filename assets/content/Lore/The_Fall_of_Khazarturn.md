@@ -50,26 +50,34 @@ There were seven because there were **seven clans** — the seven that came to T
 4280 BF — and each tower was that clan's, and the city was theirs jointly and severally in a way the
 Khazári have never bothered to explain to anyone else.
 
-## Not To Be Seen
+## Seen From Within
 
 Every one of the seven was built to be **indistinguishable, from outside, from a natural feature of the
-valley**.
+valley** — and it is worth being careful about why, because outsiders almost always get it wrong.
 
-This is the thing about Khazártúrn that people find hardest to believe and which is entirely in
-character. The towers are not disguised in the sense of being camouflaged or screened. They were _cut
-and finished as rock_ — bedded, weathered, faulted, jointed, stained, carrying the same strata as the
-cliff they stand out from, so that a person in that valley sees seven great spires of stone and a wall
-of mountain, and is correct in every particular except the one that matters.
+It was not concealment. The Khazári were not hiding Khazártúrn from anyone; there was nobody to hide it
+from in 3800 BF, and they have never behaved as though they thought there was.
 
-The Deep Folk have concealed their holds for as long as they have had holds. What is unusual here is the
-scale: they did it to the largest thing they ever made, on purpose, from the first course, and they
-succeeded so thoroughly that the greatest city on Thalorna could be looked at directly by anybody at all
-and not be seen.
+It is **their aesthetic**, and it is consistent across everything they make. A Khazári work is finished
+to belong to the ground it stands in. The towers were not screened or camouflaged; they were _cut and
+finished as rock_ — bedded, weathered, faulted, jointed, stained, carrying the same strata as the cliff
+they stand out from — because that is what a well-made thing looks like from outside. The exterior is
+not a surface for display. It is the mountain, and it should look like the mountain.
 
-Which has an obvious and unpleasant corollary for the present day, and it is the reason the Khazári will
-not discuss the location. When they sealed the city they dressed the granite to the rock and left no
-seam — but they were not inventing that technique for the occasion. **They were finishing a job they had
-started four thousand years earlier**, and the valley today looks exactly as it always looked.
+Everything they have to say is said **inside**.
+
+Which is the same principle as the halls, stated twice. A people who finish the outside of their
+greatest work so that it cannot be told from a cliff, and then spend a thousand years raising vaults
+hundreds of feet high and painting the ceilings as open sky, are not being secretive and are not being
+modest. They are being consistent: **the wonder is for those within it**, and there is no version of a
+Khazári building where the point of it is visible from the valley floor.
+
+Humans, who build to be seen, read this as hiding and cannot easily be talked out of it.
+
+The relevant consequence for the present day is real all the same, whatever the intention behind it. When
+the Khazári sealed the city they dressed the granite to the rock and left no seam — and they were not
+inventing that technique for the occasion. **They were doing what they had done from the first course.**
+The valley today looks exactly as it has always looked.
 
 Seven stone spires and a cliff. Somebody has probably camped there.
 
@@ -198,11 +206,13 @@ They are patient with almost everything. They tolerate human kingdoms, ignore hu
 embassies and let four thousand years pass without troubling anyone. There are exactly two things that
 will move them: **Grukar**, and **Khazártúrn**.
 
-The concealment is the first defence and was designed as one. The seals are dressed to the rock and set
-flush; the mountain reads as mountain; there is no seam, no marker, no monument and no name on any map
-the Khazári have ever let out of their hands. A tomb that cannot be found is a tomb that cannot be
-entered, and they would far rather it were never located than have to do anything about someone who
-located it.
+Their **silence about the location** is a defence, and that one is deliberate — no marker, no monument,
+no name on any map they have ever let out of their hands. The invisibility of the place itself is not: the
+valley looked like a valley from the day the first tower was finished, because that is how the Khazári
+build. But they have understood the value of it since 2800 BF, and they guard the knowledge accordingly.
+
+A tomb that cannot be found is a tomb that cannot be entered, and they would far rather it were never
+located than have to do anything about somebody who located it.
 
 They have not, however, left the second part to chance.
 

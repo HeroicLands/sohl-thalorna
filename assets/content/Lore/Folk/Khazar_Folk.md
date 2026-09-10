@@ -111,6 +111,24 @@ That was not generosity and was never framed as such. It was a larder, built by 
 
 Most of those arrangements are four thousand years gone: the peoples changed, the holds closed, the countries were conquered by somebody. The Vardain are the one that never lapsed. They are the last people on Thalorna still doing what humans were originally taught to do.
 
+## Seen From Within
+
+The Khazári aesthetic can be stated in one line, and everything they build obeys it: **the wonder is
+seen from within, not from without.**
+
+Their works are routinely indistinguishable from the natural environment — not screened or camouflaged,
+but finished to belong to the ground they stand in, carrying its strata and its weathering, so that the
+exterior reads as rock because the exterior _is_ meant to be rock. A Khazári builder does not regard the
+outside of a thing as a surface for display. It is the mountain. It should look like the mountain.
+
+What that leaves is an interior, and the interiors are where the whole of the argument goes. The greatest
+of them — the halls of [[lore-khazarturn|Khazártúrn]], raised hundreds of feet and lit through the rock
+and roofed with painted sky — could not be guessed at from a hundred paces outside the door.
+
+Humans, who build to be seen, almost universally read this as concealment, and cannot easily be talked
+out of it. It has made the Deep Folk seem far more secretive than they are, and they have never thought
+the misunderstanding worth correcting.
+
 ## Khazárian Craft
 
 Though the Khazári themselves are invisible, their works are not — or at least, their _ancient_ works are not. Scattered across Thalorna are structures, artifacts, and ruins that human scholars attribute to the Khazári: bridges of a single stone span that should not be able to support their own weight, tunnel systems of impossible precision, and very occasionally a weapon or tool of such extraordinary quality that it can only be Khazárian make. These artifacts are invariably ancient — dating to the period before the Khazári withdrew — and they are priceless. A confirmed Khazárian blade would be worth more than a castle.
