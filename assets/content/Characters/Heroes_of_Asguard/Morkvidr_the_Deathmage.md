@@ -45,21 +45,21 @@ data:
 sohl:
   templatePriority: null
   items:
-    - { shortcode: str, type: attribute, system: { scoreBase: 12 } }
-    - { shortcode: end, type: attribute, system: { scoreBase: 14 } }
-    - { shortcode: dex, type: attribute, system: { scoreBase: 12 } }
-    - { shortcode: agl, type: attribute, system: { scoreBase: 10 } }
-    - { shortcode: per, type: attribute, system: { scoreBase: 15 } }
-    - { shortcode: cml, type: attribute, system: { scoreBase: 5 } }
-    - { shortcode: aur, type: attribute, system: { scoreBase: 19 } }
-    - { shortcode: wil, type: attribute, system: { scoreBase: 18 } }
-    - { shortcode: rea, type: attribute, system: { scoreBase: 17 } }
-    - { shortcode: cre, type: attribute, system: { scoreBase: 16 } }
-    - { shortcode: emp, type: attribute, system: { scoreBase: 3 } }
-    - { shortcode: elo, type: attribute, system: { scoreBase: 14 } }
-    - { shortcode: mor, type: attribute, system: { scoreBase: 2 } }
-    - { shortcode: voi, type: attribute, system: { scoreBase: 13 } }
-    - { shortcode: hel, type: affiliation }
+    - { model: sohl-sohl-attribute-str, system: { scoreBase: 12 } }
+    - { model: sohl-sohl-attribute-end, system: { scoreBase: 14 } }
+    - { model: sohl-sohl-attribute-dex, system: { scoreBase: 12 } }
+    - { model: sohl-sohl-attribute-agl, system: { scoreBase: 10 } }
+    - { model: sohl-sohl-attribute-per, system: { scoreBase: 15 } }
+    - { model: sohl-sohl-attribute-cml, system: { scoreBase: 5 } }
+    - { model: sohl-sohl-attribute-aur, system: { scoreBase: 19 } }
+    - { model: sohl-sohl-attribute-wil, system: { scoreBase: 18 } }
+    - { model: sohl-sohl-attribute-rea, system: { scoreBase: 17 } }
+    - { model: sohl-sohl-attribute-cre, system: { scoreBase: 16 } }
+    - { model: sohl-sohl-attribute-emp, system: { scoreBase: 3 } }
+    - { model: sohl-sohl-attribute-elo, system: { scoreBase: 14 } }
+    - { model: sohl-sohl-attribute-mor, system: { scoreBase: 2 } }
+    - { model: sohl-sohl-attribute-voi, system: { scoreBase: 13 } }
+    - { model: affiliation-hel }
   system:
     body:
       structure:

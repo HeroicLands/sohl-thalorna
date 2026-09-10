@@ -39,9 +39,9 @@ sohl:
     per: 1d6+9
   defaultCombatGroup: null
   items:
-    - { shortcode: str, type: attribute, system: { scoreBase: 24 } }
-    - { shortcode: agl, type: attribute, system: { scoreBase: 6 } }
-    - { shortcode: per, type: attribute, system: { scoreBase: 13 } }
+    - { model: sohl-sohl-attribute-str, system: { scoreBase: 24 } }
+    - { model: sohl-sohl-attribute-agl, system: { scoreBase: 6 } }
+    - { model: sohl-sohl-attribute-per, system: { scoreBase: 13 } }
   system:
     body:
       structure:

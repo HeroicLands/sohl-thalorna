@@ -41,70 +41,73 @@ data:
 sohl:
   templatePriority: null
   items:
-    - { shortcode: str, type: attribute, system: { scoreBase: 13 } }
-    - { shortcode: end, type: attribute, system: { scoreBase: 15 } }
-    - { shortcode: dex, type: attribute, system: { scoreBase: 12 } }
-    - { shortcode: agl, type: attribute, system: { scoreBase: 10 } }
-    - { shortcode: per, type: attribute, system: { scoreBase: 14 } }
-    - { shortcode: cml, type: attribute, system: { scoreBase: 11 } }
-    - { shortcode: aur, type: attribute, system: { scoreBase: 13 } }
-    - { shortcode: wil, type: attribute, system: { scoreBase: 14 } }
-    - { shortcode: rea, type: attribute, system: { scoreBase: 12 } }
-    - { shortcode: cre, type: attribute, system: { scoreBase: 15 } }
-    - { shortcode: emp, type: attribute, system: { scoreBase: 12 } }
-    - { shortcode: elo, type: attribute, system: { scoreBase: 10 } }
-    - { shortcode: mor, type: attribute, system: { scoreBase: 14 } }
-    - { shortcode: voi, type: attribute, system: { scoreBase: 12 } }
-    - { shortcode: thorr, type: affiliation }
-    - { shortcode: brew, type: skill, system: { masteryLevelBase: 65 } }
-    - { shortcode: cook, type: skill, system: { masteryLevelBase: 65 } }
-    - { shortcode: folklr, type: skill, system: { masteryLevelBase: 13 } }
-    - { shortcode: hrld, type: skill, system: { masteryLevelBase: 13 } }
-    - { shortcode: law, type: skill, system: { masteryLevelBase: 13 } }
-    - { shortcode: pysn, type: skill, system: { masteryLevelBase: 13 } }
-    - { shortcode: thuravarkscript, type: skill, system: { masteryLevelBase: 65 } }
-    - { shortcode: chrm, type: skill, system: { masteryLevelBase: 55 } }
-    - { shortcode: cmd, type: skill, system: { masteryLevelBase: 24 } }
-    - { shortcode: dscr, type: skill, system: { masteryLevelBase: 22 } }
-    - { shortcode: guil, type: skill, system: { masteryLevelBase: 65 } }
-    - { shortcode: intr, type: skill, system: { masteryLevelBase: 60 } }
-    - { shortcode: sing, type: skill, system: { masteryLevelBase: 39 } }
-    - { shortcode: thtcs, type: skill, system: { masteryLevelBase: 13 } }
-    - { shortcode: agri, type: skill, system: { masteryLevelBase: 14 } }
-    - { shortcode: herb, type: skill, system: { masteryLevelBase: 26 } }
-    - { shortcode: srvl, type: skill, system: { masteryLevelBase: 13 } }
-    - { shortcode: awar, type: skill, system: { masteryLevelBase: 42 } }
-    - { shortcode: clmb, type: skill, system: { masteryLevelBase: 55 } }
-    - { shortcode: dnce, type: skill, system: { masteryLevelBase: 24 } }
-    - { shortcode: jump, type: skill, system: { masteryLevelBase: 44 } }
-    - { shortcode: ridg, type: skill, system: { masteryLevelBase: 11 } }
-    - { shortcode: stlth, type: skill, system: { masteryLevelBase: 36 } }
-    - { shortcode: swim, type: skill, system: { masteryLevelBase: 12 } }
-    - { shortcode: archery, type: skill, system: { masteryLevelBase: 13 } }
-    - { shortcode: init, type: skill, system: { masteryLevelBase: 39 } }
-    - { shortcode: melee, type: skill, system: { masteryLevelBase: 22 } }
-    - { shortcode: thro, type: skill, system: { masteryLevelBase: 39 } }
-    - { shortcode: draw, type: skill, system: { masteryLevelBase: 13 } }
-    - { shortcode: wood, type: skill, system: { masteryLevelBase: 48 } }
-    - { shortcode: Dgr, type: weapongear }
-    - { shortcode: HsDress, type: armorgear }
-    - { shortcode: LtShoe, type: armorgear }
-    - { shortcode: WMntl, type: armorgear }
+    - { model: sohl-sohl-attribute-str, system: { scoreBase: 13 } }
+    - { model: sohl-sohl-attribute-end, system: { scoreBase: 15 } }
+    - { model: sohl-sohl-attribute-dex, system: { scoreBase: 12 } }
+    - { model: sohl-sohl-attribute-agl, system: { scoreBase: 10 } }
+    - { model: sohl-sohl-attribute-per, system: { scoreBase: 14 } }
+    - { model: sohl-sohl-attribute-cml, system: { scoreBase: 11 } }
+    - { model: sohl-sohl-attribute-aur, system: { scoreBase: 13 } }
+    - { model: sohl-sohl-attribute-wil, system: { scoreBase: 14 } }
+    - { model: sohl-sohl-attribute-rea, system: { scoreBase: 12 } }
+    - { model: sohl-sohl-attribute-cre, system: { scoreBase: 15 } }
+    - { model: sohl-sohl-attribute-emp, system: { scoreBase: 12 } }
+    - { model: sohl-sohl-attribute-elo, system: { scoreBase: 10 } }
+    - { model: sohl-sohl-attribute-mor, system: { scoreBase: 14 } }
+    - { model: sohl-sohl-attribute-voi, system: { scoreBase: 12 } }
+    - { model: affiliation-thorr }
+    - { model: sohl-sohl-skill-brew, system: { masteryLevelBase: 65 } }
+    - { model: sohl-sohl-skill-cook, system: { masteryLevelBase: 65 } }
+    - { model: sohl-sohl-skill-folklr, system: { masteryLevelBase: 13 } }
+    - { model: sohl-sohl-skill-hrld, system: { masteryLevelBase: 13 } }
+    - { model: sohl-sohl-skill-law, system: { masteryLevelBase: 13 } }
+    - { model: sohl-sohl-skill-pysn, system: { masteryLevelBase: 13 } }
+    - { model: skill-thuravarkscript, system: { masteryLevelBase: 65 } }
+    - { model: sohl-sohl-skill-chrm, system: { masteryLevelBase: 55 } }
+    - { model: sohl-sohl-skill-cmd, system: { masteryLevelBase: 24 } }
+    - { model: sohl-sohl-skill-dscr, system: { masteryLevelBase: 22 } }
+    - { model: sohl-sohl-skill-guil, system: { masteryLevelBase: 65 } }
+    - { model: sohl-sohl-skill-intr, system: { masteryLevelBase: 60 } }
+    - { model: sohl-sohl-skill-sing, system: { masteryLevelBase: 39 } }
+    - { model: sohl-sohl-skill-thtcs, system: { masteryLevelBase: 13 } }
+    - { model: sohl-sohl-skill-agri, system: { masteryLevelBase: 14 } }
+    - { model: sohl-sohl-skill-herb, system: { masteryLevelBase: 26 } }
+    - { model: sohl-sohl-skill-srvl, system: { masteryLevelBase: 13 } }
+    - { model: sohl-sohl-skill-awar, system: { masteryLevelBase: 42 } }
+    - { model: sohl-sohl-skill-clmb, system: { masteryLevelBase: 55 } }
+    - { model: sohl-sohl-skill-dnce, system: { masteryLevelBase: 24 } }
+    - { model: sohl-sohl-skill-jump, system: { masteryLevelBase: 44 } }
+    - { model: sohl-sohl-skill-ridg, system: { masteryLevelBase: 11 } }
+    - { model: sohl-sohl-skill-stlth, system: { masteryLevelBase: 36 } }
+    - { model: sohl-sohl-skill-swim, system: { masteryLevelBase: 12 } }
+    - { model: sohl-sohl-skill-archery, system: { masteryLevelBase: 13 } }
+    - { model: sohl-sohl-skill-init, system: { masteryLevelBase: 39 } }
+    - { model: sohl-sohl-skill-melee, system: { masteryLevelBase: 22 } }
+    - { model: sohl-sohl-skill-thro, system: { masteryLevelBase: 39 } }
+    - { model: sohl-sohl-skill-draw, system: { masteryLevelBase: 13 } }
+    - { model: sohl-sohl-skill-wood, system: { masteryLevelBase: 48 } }
+    - { model: sohl-sohl-weapongear-dgr }
+    - { model: sohl-sohl-armorgear-hsdress }
+    - { model: sohl-sohl-armorgear-ltshoe }
+    - { model: sohl-sohl-armorgear-wmntl }
     - name: Innkeeper's ledger and records
       type: miscgear
       system:
+        shortcode: innkeepersledger
         weight: 1
         value: 100
         durability: 3
     - name: Cooking implements and utensils
       type: miscgear
       system:
+        shortcode: cookingimplements
         weight: 1
         value: 100
         durability: 3
     - name: Herbal remedies and tinctures
       type: miscgear
       system:
+        shortcode: herbalremedies
         quantity: 5
         weight: 1
         value: 100
@@ -112,19 +115,21 @@ sohl:
     - name: Provisions (dried herbs, spices)
       type: miscgear
       system:
+        shortcode: provisions
         quantity: 3
         weight: 1
         value: 100
         durability: 3
-    - { shortcode: tndrbx, type: miscgear }
+    - { model: sohl-sohl-miscgear-tndrbx }
     - name: Parchment and writing supplies
       type: miscgear
       system:
+        shortcode: parchmentandwriting
         weight: 1
         value: 100
         durability: 3
-    - { shortcode: pence, type: miscgear, system: { quantity: 10 } }
-    - { shortcode: bktlrg, type: containergear }
+    - { model: sohl-sohl-miscgear-pence, system: { quantity: 10 } }
+    - { model: sohl-sohl-containergear-bktlrg }
   system:
     body:
       structure:

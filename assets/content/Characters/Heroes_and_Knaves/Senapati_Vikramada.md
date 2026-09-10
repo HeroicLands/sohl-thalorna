@@ -42,71 +42,73 @@ data:
 sohl:
   templatePriority: null
   items:
-    - { shortcode: str, type: attribute, system: { scoreBase: 15 } }
-    - { shortcode: end, type: attribute, system: { scoreBase: 16 } }
-    - { shortcode: dex, type: attribute, system: { scoreBase: 11 } }
-    - { shortcode: agl, type: attribute, system: { scoreBase: 10 } }
-    - { shortcode: per, type: attribute, system: { scoreBase: 14 } }
-    - { shortcode: cml, type: attribute, system: { scoreBase: 9 } }
-    - { shortcode: aur, type: attribute, system: { scoreBase: 13 } }
-    - { shortcode: wil, type: attribute, system: { scoreBase: 12 } }
-    - { shortcode: rea, type: attribute, system: { scoreBase: 11 } }
-    - { shortcode: cre, type: attribute, system: { scoreBase: 10 } }
-    - { shortcode: emp, type: attribute, system: { scoreBase: 10 } }
-    - { shortcode: elo, type: attribute, system: { scoreBase: 12 } }
-    - { shortcode: mor, type: attribute, system: { scoreBase: 14 } }
-    - { shortcode: voi, type: attribute, system: { scoreBase: 11 } }
-    - { shortcode: varakpnthn, type: affiliation }
-    - { shortcode: cook, type: skill, system: { masteryLevelBase: 26 } }
-    - { shortcode: folklr, type: skill, system: { masteryLevelBase: 11 } }
-    - { shortcode: math, type: skill, system: { masteryLevelBase: 11 } }
-    - { shortcode: pysn, type: skill, system: { masteryLevelBase: 12 } }
-    - { shortcode: shpw, type: skill, system: { masteryLevelBase: 55 } }
-    - { shortcode: chrm, type: skill, system: { masteryLevelBase: 27 } }
-    - { shortcode: cmd, type: skill, system: { masteryLevelBase: 24 } }
-    - { shortcode: dscr, type: skill, system: { masteryLevelBase: 22 } }
-    - { shortcode: guil, type: skill, system: { masteryLevelBase: 50 } }
-    - { shortcode: intr, type: skill, system: { masteryLevelBase: 30 } }
-    - { shortcode: sing, type: skill, system: { masteryLevelBase: 33 } }
-    - { shortcode: thtcs, type: skill, system: { masteryLevelBase: 33 } }
-    - { shortcode: fish, type: skill, system: { masteryLevelBase: 39 } }
-    - { shortcode: pilt, type: skill, system: { masteryLevelBase: 36 } }
-    - { shortcode: smsh, type: skill, system: { masteryLevelBase: 65 } }
-    - { shortcode: srvl, type: skill, system: { masteryLevelBase: 12 } }
-    - { shortcode: acro, type: skill, system: { masteryLevelBase: 26 } }
-    - { shortcode: awar, type: skill, system: { masteryLevelBase: 39 } }
-    - { shortcode: clmb, type: skill, system: { masteryLevelBase: 50 } }
-    - { shortcode: dnce, type: skill, system: { masteryLevelBase: 40 } }
-    - { shortcode: jump, type: skill, system: { masteryLevelBase: 36 } }
-    - { shortcode: ridg, type: skill, system: { masteryLevelBase: 10 } }
-    - { shortcode: stlth, type: skill, system: { masteryLevelBase: 33 } }
-    - { shortcode: swim, type: skill, system: { masteryLevelBase: 13 } }
-    - { shortcode: archery, type: skill, system: { masteryLevelBase: 13 } }
-    - { shortcode: init, type: skill, system: { masteryLevelBase: 36 } }
-    - { shortcode: melee, type: skill, system: { masteryLevelBase: 22 } }
-    - { shortcode: thro, type: skill, system: { masteryLevelBase: 36 } }
-    - { shortcode: cmcs, type: skill, system: { masteryLevelBase: 12 } }
-    - { shortcode: draw, type: skill, system: { masteryLevelBase: 11 } }
-    - { shortcode: glas, type: skill, system: { masteryLevelBase: 13 } }
-    - { shortcode: musc, type: skill, system: { masteryLevelBase: 12 } }
-    - { shortcode: txtl, type: skill, system: { masteryLevelBase: 24 } }
-    - { shortcode: wood, type: skill, system: { masteryLevelBase: 13 } }
-    - { shortcode: Scmtr, type: weapongear }
-    - { shortcode: Dgr, type: weapongear }
-    - { shortcode: WShirt, type: armorgear }
-    - { shortcode: WBrch, type: armorgear }
-    - { shortcode: LtCBoot, type: armorgear }
-    - { shortcode: WClk, type: armorgear }
-    - { shortcode: WCap, type: armorgear }
+    - { model: sohl-sohl-attribute-str, system: { scoreBase: 15 } }
+    - { model: sohl-sohl-attribute-end, system: { scoreBase: 16 } }
+    - { model: sohl-sohl-attribute-dex, system: { scoreBase: 11 } }
+    - { model: sohl-sohl-attribute-agl, system: { scoreBase: 10 } }
+    - { model: sohl-sohl-attribute-per, system: { scoreBase: 14 } }
+    - { model: sohl-sohl-attribute-cml, system: { scoreBase: 9 } }
+    - { model: sohl-sohl-attribute-aur, system: { scoreBase: 13 } }
+    - { model: sohl-sohl-attribute-wil, system: { scoreBase: 12 } }
+    - { model: sohl-sohl-attribute-rea, system: { scoreBase: 11 } }
+    - { model: sohl-sohl-attribute-cre, system: { scoreBase: 10 } }
+    - { model: sohl-sohl-attribute-emp, system: { scoreBase: 10 } }
+    - { model: sohl-sohl-attribute-elo, system: { scoreBase: 12 } }
+    - { model: sohl-sohl-attribute-mor, system: { scoreBase: 14 } }
+    - { model: sohl-sohl-attribute-voi, system: { scoreBase: 11 } }
+    - { model: affiliation-varakpnthn }
+    - { model: sohl-sohl-skill-cook, system: { masteryLevelBase: 26 } }
+    - { model: sohl-sohl-skill-folklr, system: { masteryLevelBase: 11 } }
+    - { model: sohl-sohl-skill-math, system: { masteryLevelBase: 11 } }
+    - { model: sohl-sohl-skill-pysn, system: { masteryLevelBase: 12 } }
+    - { model: sohl-sohl-skill-shpw, system: { masteryLevelBase: 55 } }
+    - { model: sohl-sohl-skill-chrm, system: { masteryLevelBase: 27 } }
+    - { model: sohl-sohl-skill-cmd, system: { masteryLevelBase: 24 } }
+    - { model: sohl-sohl-skill-dscr, system: { masteryLevelBase: 22 } }
+    - { model: sohl-sohl-skill-guil, system: { masteryLevelBase: 50 } }
+    - { model: sohl-sohl-skill-intr, system: { masteryLevelBase: 30 } }
+    - { model: sohl-sohl-skill-sing, system: { masteryLevelBase: 33 } }
+    - { model: sohl-sohl-skill-thtcs, system: { masteryLevelBase: 33 } }
+    - { model: sohl-sohl-skill-fish, system: { masteryLevelBase: 39 } }
+    - { model: sohl-sohl-skill-pilt, system: { masteryLevelBase: 36 } }
+    - { model: sohl-sohl-skill-smsh, system: { masteryLevelBase: 65 } }
+    - { model: sohl-sohl-skill-srvl, system: { masteryLevelBase: 12 } }
+    - { model: sohl-sohl-skill-acro, system: { masteryLevelBase: 26 } }
+    - { model: sohl-sohl-skill-awar, system: { masteryLevelBase: 39 } }
+    - { model: sohl-sohl-skill-clmb, system: { masteryLevelBase: 50 } }
+    - { model: sohl-sohl-skill-dnce, system: { masteryLevelBase: 40 } }
+    - { model: sohl-sohl-skill-jump, system: { masteryLevelBase: 36 } }
+    - { model: sohl-sohl-skill-ridg, system: { masteryLevelBase: 10 } }
+    - { model: sohl-sohl-skill-stlth, system: { masteryLevelBase: 33 } }
+    - { model: sohl-sohl-skill-swim, system: { masteryLevelBase: 13 } }
+    - { model: sohl-sohl-skill-archery, system: { masteryLevelBase: 13 } }
+    - { model: sohl-sohl-skill-init, system: { masteryLevelBase: 36 } }
+    - { model: sohl-sohl-skill-melee, system: { masteryLevelBase: 22 } }
+    - { model: sohl-sohl-skill-thro, system: { masteryLevelBase: 36 } }
+    - { model: sohl-sohl-skill-cmcs, system: { masteryLevelBase: 12 } }
+    - { model: sohl-sohl-skill-draw, system: { masteryLevelBase: 11 } }
+    - { model: sohl-sohl-skill-glas, system: { masteryLevelBase: 13 } }
+    - { model: sohl-sohl-skill-musc, system: { masteryLevelBase: 12 } }
+    - { model: sohl-sohl-skill-txtl, system: { masteryLevelBase: 24 } }
+    - { model: sohl-sohl-skill-wood, system: { masteryLevelBase: 13 } }
+    - { model: sohl-sohl-weapongear-scmtr }
+    - { model: sohl-sohl-weapongear-dgr }
+    - { model: sohl-sohl-armorgear-wshirt }
+    - { model: sohl-sohl-armorgear-wbrch }
+    - { model: sohl-sohl-armorgear-ltcboot }
+    - { model: sohl-sohl-armorgear-wclk }
+    - { model: sohl-sohl-armorgear-wcap }
     - name: Bosun’s whistle (brass)
       type: miscgear
       system:
+        shortcode: bosunswhistle
         weight: 0.2
         value: 100
         durability: 3
     - name: Rope coil (hemp, multi-purpose)
       type: miscgear
       system:
+        shortcode: ropecoil
         quantity: 3
         weight: 1
         value: 100
@@ -114,37 +116,65 @@ sohl:
     - name: Fishing net and hooks
       type: miscgear
       system:
+        shortcode: fishingnetandhooks
         weight: 1.5
         value: 100
         durability: 3
-    - { name: Whetstone, type: miscgear, system: { weight: 0.5, value: 100, durability: 3 } }
+    - name: Whetstone
+      type: miscgear
+      system:
+        shortcode: whetstone
+        weight: 0.5
+        value: 100
+        durability: 3
     - name: Tar and rope repair kit
       type: miscgear
       system:
+        shortcode: tarandroperepairkit
         weight: 1
         value: 100
         durability: 3
-    - { shortcode: tndrbx, type: miscgear }
-    - { shortcode: StdRtns, type: miscgear, system: { quantity: 4 } }
+    - { model: sohl-sohl-miscgear-tndrbx }
+    - { model: sohl-sohl-miscgear-stdrtns, system: { quantity: 4 } }
     - name: Flask of rum (personal)
       type: miscgear
       system:
+        shortcode: flaskofrum
         quantity: 1
         weight: 1
         value: 100
         durability: 3
-    - { shortcode: pence, type: miscgear, system: { quantity: 25 } }
-    - { shortcode: bktlrg, type: containergear }
-    - { shortcode: wtrskin, type: containergear }
+    - { model: sohl-sohl-miscgear-pence, system: { quantity: 25 } }
+    - { model: sohl-sohl-containergear-bktlrg }
+    - { model: sohl-sohl-containergear-wtrskin }
     - name: Leather bag for personal items
       type: miscgear
       system:
+        shortcode: leatherbag
         weight: 1
         value: 100
         durability: 3
-    - { name: Ropes, type: miscgear, system: { weight: 1, value: 100, durability: 3 } }
-    - { name: Navigation tools, type: miscgear, system: { weight: 1, value: 100, durability: 3 } }
-    - { name: Ship's log, type: miscgear, system: { weight: 1, value: 100, durability: 3 } }
+    - name: Ropes
+      type: miscgear
+      system:
+        shortcode: ropes
+        weight: 1
+        value: 100
+        durability: 3
+    - name: Navigation tools
+      type: miscgear
+      system:
+        shortcode: navigationtools
+        weight: 1
+        value: 100
+        durability: 3
+    - name: Ship's log
+      type: miscgear
+      system:
+        shortcode: shipslog
+        weight: 1
+        value: 100
+        durability: 3
   system:
     body:
       structure:

@@ -45,23 +45,23 @@ sohl:
     cre: 1d4+13
   defaultCombatGroup: null
   items:
-    - { shortcode: str, type: attribute, system: { scoreBase: 16 } }
-    - { shortcode: end, type: attribute, system: { scoreBase: 16 } }
-    - { shortcode: dex, type: attribute, system: { scoreBase: 16 } }
-    - { shortcode: agl, type: attribute, system: { scoreBase: 16 } }
-    - { shortcode: per, type: attribute, system: { scoreBase: 16 } }
-    - { shortcode: pal, type: attribute, system: { scoreBase: 16 } }
-    - { shortcode: wil, type: attribute, system: { scoreBase: 18 } }
-    - { shortcode: rea, type: attribute, system: { scoreBase: 15 } }
-    - { shortcode: cre, type: attribute, system: { scoreBase: 16 } }
-    - { shortcode: bflkbite, type: skill }
-    - { shortcode: bflkgrab, type: skill }
-    - { shortcode: bflkheadbutt, type: skill }
-    - { shortcode: bflkkick, type: skill }
-    - { shortcode: limbblock, type: skill }
-    - { shortcode: press, type: skill }
-    - { shortcode: bflkpunch, type: skill }
-    - { shortcode: trip, type: skill }
+    - { model: sohl-sohl-attribute-str, system: { scoreBase: 16 } }
+    - { model: sohl-sohl-attribute-end, system: { scoreBase: 16 } }
+    - { model: sohl-sohl-attribute-dex, system: { scoreBase: 16 } }
+    - { model: sohl-sohl-attribute-agl, system: { scoreBase: 16 } }
+    - { model: sohl-sohl-attribute-per, system: { scoreBase: 16 } }
+    - { model: sohl-sohl-attribute-pal, system: { scoreBase: 16 } }
+    - { model: sohl-sohl-attribute-wil, system: { scoreBase: 18 } }
+    - { model: sohl-sohl-attribute-rea, system: { scoreBase: 15 } }
+    - { model: sohl-sohl-attribute-cre, system: { scoreBase: 16 } }
+    - { model: sohl-sohl-skill-bflkbite }
+    - { model: sohl-sohl-skill-bflkgrab }
+    - { model: sohl-sohl-skill-bflkheadbutt }
+    - { model: sohl-sohl-skill-bflkkick }
+    - { model: sohl-sohl-skill-limbblock }
+    - { model: sohl-sohl-skill-press }
+    - { model: sohl-sohl-skill-bflkpunch }
+    - { model: sohl-sohl-skill-trip }
   system:
     body:
       structure:
