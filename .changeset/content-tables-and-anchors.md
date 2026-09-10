@@ -31,3 +31,7 @@ addressed by the slug its `{#…}` declaration publishes; citing the rendered
 heading resolves only by accident, and fails outright on any heading carrying a
 diacritic, a colon or a dash. All 111 remaining display-name anchors are
 converted, which is the form `place-sixhillsvyl` already used.
+
+_Kalihara Continent_ cited its anchor in a third form again, with underscores
+for spaces (`#The_Ancient_Structures`). It resolved to no section and was not
+reported, since the address itself was sound; it now names the published slug.
