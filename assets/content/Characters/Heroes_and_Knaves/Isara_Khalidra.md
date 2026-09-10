@@ -96,7 +96,7 @@ sohl:
     - { shortcode: LtShoe, type: armorgear }
     - { shortcode: bpchmd, type: containergear }
     - { shortcode: pence, type: miscgear, system: { quantity: 52 } }
-    - { shortcode: goldcrown, type: miscgear, system: { quantity: 4 } }
+    - { shortcode: gldcrwn, type: miscgear, system: { quantity: 4 } }
   system:
     body:
       structure:

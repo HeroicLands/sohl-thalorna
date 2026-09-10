@@ -91,20 +91,20 @@ sohl:
     - { shortcode: BrdSwd, type: weapongear }
     - { shortcode: Dgr, type: weapongear }
     - { shortcode: LBw75, type: weapongear }
-    - { shortcode: Tabri, type: weapongear }
+    - { shortcode: Taburi, type: weapongear }
     - { shortcode: WScoat, type: armorgear }
     - { shortcode: WClk, type: armorgear }
     - { shortcode: WLeg, type: armorgear }
     - { shortcode: PVest, type: armorgear }
     - { shortcode: LtCBoot, type: armorgear }
     - { shortcode: LtGlove, type: armorgear }
-    - { shortcode: Leather satchel, type: miscgear }
+    - { shortcode: bagleather15, type: containergear }
     - { shortcode: tndrbx, type: miscgear }
     - { shortcode: backpk, type: containergear }
     - { shortcode: StdRtns, type: miscgear, system: { quantity: 3 } }
     - { shortcode: LiteBdrl, type: miscgear }
     - { shortcode: wtrskin, type: containergear }
-    - { shortcode: Quiver, type: miscgear }
+    - { shortcode: quiversmsh, type: containergear }
     - { shortcode: ArwLBrd, type: projectilegear, system: { quantity: 12 } }
   system:
     body:

@@ -102,16 +102,16 @@ sohl:
     - { shortcode: PCoat, type: armorgear }
     - { shortcode: Pl34Hlm, type: armorgear }
     - { shortcode: wtrskin, type: containergear }
-    - { shortcode: maps, type: miscgear }
+    - { shortcode: map, type: miscgear, system: { quantity: 3 } }
     - { shortcode: family signet ring, type: miscgear }
     - { shortcode: tndrbx, type: miscgear }
     - { shortcode: StdRtns, type: miscgear, system: { quantity: 3 } }
     - { shortcode: LiteBdrl, type: miscgear }
     - { shortcode: Battle standard, type: miscgear }
-    - { shortcode: Quiver for arrows, type: miscgear }
+    - { shortcode: quiverlgsh, type: containergear }
     - { shortcode: ArwHBrd, type: projectilegear, system: { quantity: 12 } }
     - { shortcode: backpk, type: containergear }
-    - { shortcode: Leather satchel, type: miscgear }
+    - { shortcode: bagleather15, type: containergear }
   system:
     body:
       structure:

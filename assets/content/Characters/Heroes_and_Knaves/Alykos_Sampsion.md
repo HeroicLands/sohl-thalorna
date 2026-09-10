@@ -100,7 +100,7 @@ sohl:
         weight: 1
         value: 20
         durability: 4
-    - { shortcode: srgtls, type: miscgear }
+    - { shortcode: surgkit, type: miscgear }
     - name: Herbal remedies (assorted tinctures)
       type: miscgear
       system:

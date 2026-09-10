@@ -92,9 +92,9 @@ sohl:
     - { shortcode: WClk, type: armorgear }
     - { shortcode: LtShoe, type: armorgear }
     - { shortcode: bpchmd, type: containergear }
-    - { shortcode: surgtools, type: miscgear }
+    - { shortcode: surgkit, type: miscgear }
     - { shortcode: pence, type: miscgear, system: { quantity: 233 } }
-    - { shortcode: goldcrown, type: miscgear, system: { quantity: 3 } }
+    - { shortcode: gldcrwn, type: miscgear, system: { quantity: 3 } }
   system:
     body:
       structure:

@@ -87,7 +87,7 @@ sohl:
         weight: 0.5
         value: 200
         durability: 2
-    - { shortcode: goldcrown, type: miscgear, system: { quantity: 60 } }
+    - { shortcode: gldcrwn, type: miscgear, system: { quantity: 60 } }
     - { shortcode: tndrbx, type: miscgear }
     - { shortcode: bpchlg, type: containergear }
   system:

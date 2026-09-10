@@ -96,7 +96,7 @@ sohl:
     - { shortcode: WClk, type: armorgear }
     - { shortcode: LtShoe, type: armorgear }
     - { shortcode: Dgr, type: weapongear }
-    - { shortcode: srgtls, type: miscgear }
+    - { shortcode: surgkit, type: miscgear }
     - name: Woven basket for herbs
       type: miscgear
       system:

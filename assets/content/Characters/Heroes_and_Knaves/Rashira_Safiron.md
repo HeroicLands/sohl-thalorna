@@ -95,7 +95,7 @@ sohl:
         durability: 3
     - { shortcode: tndrbx, type: miscgear }
     - { shortcode: FRtns, type: miscgear, system: { quantity: 4 } }
-    - { shortcode: goldcrown, type: miscgear, system: { quantity: 30 } }
+    - { shortcode: gldcrwn, type: miscgear, system: { quantity: 30 } }
     - { shortcode: bpchlg, type: containergear }
     - { shortcode: wtrskin, type: containergear }
   system:

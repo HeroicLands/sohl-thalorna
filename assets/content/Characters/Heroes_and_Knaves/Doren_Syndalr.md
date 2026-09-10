@@ -102,9 +102,9 @@ sohl:
     - { shortcode: PCap, type: armorgear }
     - { shortcode: PSTnc, type: armorgear }
     - { shortcode: PlHHelm, type: armorgear }
-    - { shortcode: Leather satchel, type: miscgear }
-    - { shortcode: Sharpening stone, type: miscgear }
-    - { shortcode: Leather flask, type: miscgear }
+    - { shortcode: bagleather15, type: containergear }
+    - { shortcode: grindstone, type: miscgear }
+    - { shortcode: flaskmetal, type: containergear }
     - { shortcode: backpk, type: containergear }
     - { shortcode: StdRtns, type: miscgear, system: { quantity: 3 } }
     - { shortcode: LiteBdrl, type: miscgear }

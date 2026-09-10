@@ -103,10 +103,10 @@ sohl:
     - { shortcode: LiteBdrl, type: miscgear }
     - { shortcode: ArwLBrd, type: projectilegear, system: { quantity: 30 } }
     - { shortcode: wtrskin, type: containergear }
-    - { shortcode: Quiver, type: miscgear }
-    - { shortcode: Leather satchel, type: miscgear }
+    - { shortcode: quiversmsh, type: containergear }
+    - { shortcode: bagleather15, type: containergear }
     - { shortcode: tndrbx, type: miscgear }
-    - { shortcode: Religious Articles, type: miscgear }
+    - { shortcode: iconwdsm, type: miscgear }
   system:
     body:
       structure:
