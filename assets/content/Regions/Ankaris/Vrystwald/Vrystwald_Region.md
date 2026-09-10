@@ -1,5 +1,5 @@
 ---
-description: "The vast forest-and-river belt east of the Nordlands proper — endless taiga, dark mixed woodlands, and the great inland river systems of the Varokh tribes, who guard their primeval homeland with a ferocity that has broken every army sent against them."
+description: "The vast forest-and-river belt east of the Nordlands — endless taiga, mixed woodland and great slow rivers, held by the Varokh: a people descended from the Pelwar who were here first and from the Varkhad who took the country off them, and who defend it against all comers with the ferocity they inherited from the invading half."
 type: place
 subType: region
 data:
@@ -8,7 +8,7 @@ data:
     - humanflk
   parents:
     - ankrscntnnt
-  population: null
+  population: 1400000
 name:
   full: Vrystwald
   aliases:
@@ -32,6 +32,56 @@ Vrystwald occupies a great forested interior of eastern Ankaris — an enormous 
 - The **southern frontier** — the long fluid border with [[place-velanthrgn|Velanthia]], where Vrystwaldi forest gives way gradually to Velanthian grain-belt and the two cultures interpenetrate through a thousand miles of mixed villages, intermarriage, and intermittent raid.
 
 The climate is harsh-continental: long bitter winters with deep snow, brief warm summers, distinct spring thaw and autumn freeze. Sunlight is filtered by the canopy through most of the year; the open river-valleys and the lake-shores get the direct sun the deep forest never sees.
+
+## Whose Homeland
+
+The Varokh call Vrystwald their **primeval homeland** and defend it as one, and the claim is true — but
+it is true twice over, in two ways that ought to contradict each other and do not.
+
+The country was **Pelwar** first. Those were peaceful people: herders and cultivators, tribal but not
+organised for conquest, and they had the forest and the rivers for a very long time before anyone
+disturbed them.
+
+Then the **[[lore-pelwarpepl|Varkhad]]** came out of the further east — a fierce people, kin to the
+ancestors of the [[place-khzryndsrtrgn|Khazryn]] desert folk — and took it. They did not exterminate the
+Pelwar; over generations they **married into them**, until the two stocks could no longer be told apart
+and the result was the Varokh. The same process, further west and north, produced the
+[[place-nrdlndsrgn|Nordmen]].
+
+So a Varokh defending Vrystwald against an invader is descended from the people who were here first
+**and** from the people who invaded them, and has no way of telling which ancestor is doing the
+defending. Nobody up there distinguishes, and after three thousand years there is nobody who could.
+
+What is not in doubt is which half the **ferocity** came from. The Pelwar who stayed to be conquered were
+not the ones who broke armies in the forest. The Varokh are, and they got the temperament from the people
+who conquered their other ancestors — which is the sort of observation an outsider makes once, in a
+Varokh hall, and does not make twice.
+
+It also explains a thing that puzzles Aurèldían scholars: how the Varokh can be simultaneously the people
+who **drove the Pelwar Migration** — the great displacement that scattered Pelwar peoples across half a
+continent and eventually onto [[place-aelwyth|Aelwyth]] — and themselves _be_ Pelwar. Both are correct.
+The Varokh drove out their own cousins, and did not think of them as cousins at the time, and by the time
+anyone could have said so the question had stopped meaning anything.
+
+## Population
+
+Vrystwald holds about **1,400,000** people, spread very unevenly across an enormous territory.
+
+- The **northern taiga** is nearly empty: hunter-fisher-trapper clans at densities no farming people would
+  recognise, working furs that are worth more than the country they come from.
+- The **central mixed-forest belt** holds most of the Varokh — but "most" means innumerable small
+  clearings, not towns, and the density even here is a fraction of what the Aurèldían grain kingdoms
+  carry.
+- The **river-courses** are where settlement actually concentrates: the rivers are the roads, the trade
+  and the sites, and a map of Vrystwaldi population is essentially a map of its water.
+- The **southern frontier** with [[place-velanthrgn|Velanthia]] is the densest ground in the region, where
+  forest gives way to grain-belt and the two peoples interpenetrate through a thousand miles of mixed
+  villages and intermittent raiding.
+
+It is a large population by the standards of a forest, and a small one for the space it occupies, and the
+combination is precisely why no army has ever finished a war here. There is nothing to capture. The
+Varokh are not concentrated anywhere an invader can reach them, and the country is big enough to lose an
+army in — which several have obliged it by doing.
 
 ## Culture and Society
 
