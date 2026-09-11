@@ -40,7 +40,6 @@ sohl:
     agl: 1d4+3
     per: 1d4+3
     pal: 1d6+7
-  defaultCombatGroup: null
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 14 } }
     - { model: sohl-sohl-attribute-end, system: { scoreBase: 16 } }

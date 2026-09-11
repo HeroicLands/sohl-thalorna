@@ -47,7 +47,6 @@ sohl:
     cre: 1d6+8
     emp: 1d6+7
     elo: 1d6+10
-  defaultCombatGroup: null
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 48 } }
     - { model: sohl-sohl-attribute-end, system: { scoreBase: 36 } }

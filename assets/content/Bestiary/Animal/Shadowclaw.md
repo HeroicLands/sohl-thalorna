@@ -43,7 +43,6 @@ sohl:
     wil: 1d6+9
     rea: 1d6+8
     cre: 1d4+5
-  defaultCombatGroup: null
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 16 } }
     - { model: sohl-sohl-attribute-end, system: { scoreBase: 14 } }
