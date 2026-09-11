@@ -44,21 +44,21 @@ sohl:
     rea: 1d4+5
     cre: 1d4+5
   items:
-    - { shortcode: str, type: attribute, system: { scoreBase: 42 } }
-    - { shortcode: end, type: attribute, system: { scoreBase: 28 } }
-    - { shortcode: dex, type: attribute, system: { scoreBase: 8 } }
-    - { shortcode: agl, type: attribute, system: { scoreBase: 9 } }
-    - { shortcode: per, type: attribute, system: { scoreBase: 11 } }
-    - { shortcode: aur, type: attribute, system: { scoreBase: 12 } }
-    - { shortcode: wil, type: attribute, system: { scoreBase: 14 } }
-    - { shortcode: rea, type: attribute, system: { scoreBase: 8 } }
-    - { shortcode: cre, type: attribute, system: { scoreBase: 8 } }
-    - { shortcode: awar, type: skill, system: { masteryLevelBase: 65 } }
-    - { shortcode: stlth, type: skill, system: { masteryLevelBase: 55 } }
-    - { shortcode: sprt, type: mysticalability, system: { masteryLevelBase: 39 } }
-    - { shortcode: init, type: skill, system: { masteryLevelBase: 44 } }
-    - { shortcode: dge, type: skill, system: { masteryLevelBase: 40 } }
-    - { shortcode: shok, type: skill, system: { masteryLevelBase: 88 } }
+    - { model: sohl-sohl-attribute-str, system: { scoreBase: 42 } }
+    - { model: sohl-sohl-attribute-end, system: { scoreBase: 28 } }
+    - { model: sohl-sohl-attribute-dex, system: { scoreBase: 8 } }
+    - { model: sohl-sohl-attribute-agl, system: { scoreBase: 9 } }
+    - { model: sohl-sohl-attribute-per, system: { scoreBase: 11 } }
+    - { model: sohl-sohl-attribute-aur, system: { scoreBase: 12 } }
+    - { model: sohl-sohl-attribute-wil, system: { scoreBase: 14 } }
+    - { model: sohl-sohl-attribute-rea, system: { scoreBase: 8 } }
+    - { model: sohl-sohl-attribute-cre, system: { scoreBase: 8 } }
+    - { model: sohl-sohl-skill-awar, system: { masteryLevelBase: 65 } }
+    - { model: sohl-sohl-skill-stlth, system: { masteryLevelBase: 55 } }
+    - { model: sohl-sohl-mysticalability-sprt, system: { masteryLevelBase: 39 } }
+    - { model: sohl-sohl-skill-init, system: { masteryLevelBase: 44 } }
+    - { model: sohl-sohl-skill-dge, system: { masteryLevelBase: 40 } }
+    - { model: sohl-sohl-skill-shok, system: { masteryLevelBase: 88 } }
     - name: Fist Strike
       type: skill
       system:

@@ -38,9 +38,9 @@ sohl:
     agl: 1d4+3
     per: 1d6+15
   items:
-    - { shortcode: str, type: attribute, system: { scoreBase: 34 } }
-    - { shortcode: agl, type: attribute, system: { scoreBase: 6 } }
-    - { shortcode: per, type: attribute, system: { scoreBase: 19 } }
+    - { model: sohl-sohl-attribute-str, system: { scoreBase: 34 } }
+    - { model: sohl-sohl-attribute-agl, system: { scoreBase: 6 } }
+    - { model: sohl-sohl-attribute-per, system: { scoreBase: 19 } }
   system:
     body:
       structure:

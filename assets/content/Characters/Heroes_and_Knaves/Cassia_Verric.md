@@ -44,52 +44,53 @@ data:
 sohl:
   templatePriority: null
   items:
-    - { shortcode: str, type: attribute, system: { scoreBase: 10 } }
-    - { shortcode: end, type: attribute, system: { scoreBase: 11 } }
-    - { shortcode: dex, type: attribute, system: { scoreBase: 13 } }
-    - { shortcode: agl, type: attribute, system: { scoreBase: 12 } }
-    - { shortcode: per, type: attribute, system: { scoreBase: 16 } }
-    - { shortcode: cml, type: attribute, system: { scoreBase: 14 } }
-    - { shortcode: aur, type: attribute, system: { scoreBase: 9 } }
-    - { shortcode: wil, type: attribute, system: { scoreBase: 15 } }
-    - { shortcode: rea, type: attribute, system: { scoreBase: 15 } }
-    - { shortcode: cre, type: attribute, system: { scoreBase: 14 } }
-    - { shortcode: emp, type: attribute, system: { scoreBase: 14 } }
-    - { shortcode: elo, type: attribute, system: { scoreBase: 15 } }
-    - { shortcode: mor, type: attribute, system: { scoreBase: 8 } }
-    - { shortcode: voi, type: attribute, system: { scoreBase: 13 } }
-    - { shortcode: common, type: skill, system: { masteryLevelBase: 70 } }
-    - { shortcode: vylarilng, type: skill, system: { masteryLevelBase: 55 } }
-    - { shortcode: semrnscrpt, type: skill, system: { masteryLevelBase: 52 } }
-    - { shortcode: intr, type: skill, system: { masteryLevelBase: 70 } }
-    - { shortcode: guil, type: skill, system: { masteryLevelBase: 66 } }
-    - { shortcode: dscr, type: skill, system: { masteryLevelBase: 60 } }
-    - { shortcode: chrm, type: skill, system: { masteryLevelBase: 58 } }
-    - { shortcode: cmd, type: skill, system: { masteryLevelBase: 44 } }
-    - { shortcode: mrcn, type: skill, system: { masteryLevelBase: 55 } }
-    - { shortcode: law, type: skill, system: { masteryLevelBase: 44 } }
-    - { shortcode: hrld, type: skill, system: { masteryLevelBase: 40 } }
-    - { shortcode: awar, type: skill, system: { masteryLevelBase: 58 } }
-    - { shortcode: stlth, type: skill, system: { masteryLevelBase: 45 } }
-    - { shortcode: init, type: skill, system: { masteryLevelBase: 45 } }
-    - { shortcode: melee, type: skill, system: { masteryLevelBase: 30 } }
-    - { shortcode: dge, type: skill, system: { masteryLevelBase: 38 } }
-    - { shortcode: ridg, type: skill, system: { masteryLevelBase: 40 } }
-    - { shortcode: smsh, type: skill, system: { masteryLevelBase: 35 } }
-    - { shortcode: pysn, type: skill, system: { masteryLevelBase: 30 } }
-    - { shortcode: Dgr, type: weapongear }
-    - { shortcode: LtVest, type: armorgear, name: Concealed leather vest }
-    - { shortcode: WDress, type: armorgear }
-    - { shortcode: WClk, type: armorgear }
+    - { model: sohl-sohl-attribute-str, system: { scoreBase: 10 } }
+    - { model: sohl-sohl-attribute-end, system: { scoreBase: 11 } }
+    - { model: sohl-sohl-attribute-dex, system: { scoreBase: 13 } }
+    - { model: sohl-sohl-attribute-agl, system: { scoreBase: 12 } }
+    - { model: sohl-sohl-attribute-per, system: { scoreBase: 16 } }
+    - { model: sohl-sohl-attribute-cml, system: { scoreBase: 14 } }
+    - { model: sohl-sohl-attribute-aur, system: { scoreBase: 9 } }
+    - { model: sohl-sohl-attribute-wil, system: { scoreBase: 15 } }
+    - { model: sohl-sohl-attribute-rea, system: { scoreBase: 15 } }
+    - { model: sohl-sohl-attribute-cre, system: { scoreBase: 14 } }
+    - { model: sohl-sohl-attribute-emp, system: { scoreBase: 14 } }
+    - { model: sohl-sohl-attribute-elo, system: { scoreBase: 15 } }
+    - { model: sohl-sohl-attribute-mor, system: { scoreBase: 8 } }
+    - { model: sohl-sohl-attribute-voi, system: { scoreBase: 13 } }
+    - { model: sohl-sohl-skill-common, system: { masteryLevelBase: 70 } }
+    - { model: skill-vylarilng, system: { masteryLevelBase: 55 } }
+    - { model: skill-semrnscrpt, system: { masteryLevelBase: 52 } }
+    - { model: sohl-sohl-skill-intr, system: { masteryLevelBase: 70 } }
+    - { model: sohl-sohl-skill-guil, system: { masteryLevelBase: 66 } }
+    - { model: sohl-sohl-skill-dscr, system: { masteryLevelBase: 60 } }
+    - { model: sohl-sohl-skill-chrm, system: { masteryLevelBase: 58 } }
+    - { model: sohl-sohl-skill-cmd, system: { masteryLevelBase: 44 } }
+    - { model: sohl-sohl-skill-mrcn, system: { masteryLevelBase: 55 } }
+    - { model: sohl-sohl-skill-law, system: { masteryLevelBase: 44 } }
+    - { model: sohl-sohl-skill-hrld, system: { masteryLevelBase: 40 } }
+    - { model: sohl-sohl-skill-awar, system: { masteryLevelBase: 58 } }
+    - { model: sohl-sohl-skill-stlth, system: { masteryLevelBase: 45 } }
+    - { model: sohl-sohl-skill-init, system: { masteryLevelBase: 45 } }
+    - { model: sohl-sohl-skill-melee, system: { masteryLevelBase: 30 } }
+    - { model: sohl-sohl-skill-dge, system: { masteryLevelBase: 38 } }
+    - { model: sohl-sohl-skill-ridg, system: { masteryLevelBase: 40 } }
+    - { model: sohl-sohl-skill-smsh, system: { masteryLevelBase: 35 } }
+    - { model: sohl-sohl-skill-pysn, system: { masteryLevelBase: 30 } }
+    - { model: sohl-sohl-weapongear-dgr }
+    - { model: sohl-sohl-armorgear-ltvest, name: Concealed leather vest }
+    - { model: sohl-sohl-armorgear-wdress }
+    - { model: sohl-sohl-armorgear-wclk }
     - name: Sealed letters of credit and forged passes
       type: miscgear
       system:
+        shortcode: sealedletters
         weight: 0.5
         value: 200
         durability: 2
-    - { shortcode: gldcrwn, type: miscgear, system: { quantity: 60 } }
-    - { shortcode: tndrbx, type: miscgear }
-    - { shortcode: bpchlg, type: containergear }
+    - { model: sohl-sohl-miscgear-gldcrwn, system: { quantity: 60 } }
+    - { model: sohl-sohl-miscgear-tndrbx }
+    - { model: sohl-sohl-containergear-bpchlg }
   system:
     body:
       structure:

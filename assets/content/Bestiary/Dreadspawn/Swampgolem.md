@@ -43,20 +43,20 @@ sohl:
     agl: 1d4+4
     rea: 1d4+2
   items:
-    - { shortcode: str, type: attribute, system: { scoreBase: 34 } }
-    - { shortcode: end, type: attribute, system: { scoreBase: 18 } }
-    - { shortcode: per, type: attribute, system: { scoreBase: 8 } }
-    - { shortcode: aur, type: attribute, system: { scoreBase: 8 } }
-    - { shortcode: wil, type: attribute, system: { scoreBase: 12 } }
-    - { shortcode: cre, type: attribute, system: { scoreBase: 6 } }
-    - { shortcode: agl, type: attribute, system: { scoreBase: 6 } }
-    - { shortcode: rea, type: attribute, system: { scoreBase: 4 } }
-    - { shortcode: awar, type: skill, system: { masteryLevelBase: 50 } }
-    - { shortcode: stlth, type: skill, system: { masteryLevelBase: 45 } }
-    - { shortcode: sprt, type: mysticalability, system: { masteryLevelBase: 30 } }
-    - { shortcode: init, type: skill, system: { masteryLevelBase: 32 } }
-    - { shortcode: dge, type: skill, system: { masteryLevelBase: 28 } }
-    - { shortcode: shok, type: skill, system: { masteryLevelBase: 65 } }
+    - { model: sohl-sohl-attribute-str, system: { scoreBase: 34 } }
+    - { model: sohl-sohl-attribute-end, system: { scoreBase: 18 } }
+    - { model: sohl-sohl-attribute-per, system: { scoreBase: 8 } }
+    - { model: sohl-sohl-attribute-aur, system: { scoreBase: 8 } }
+    - { model: sohl-sohl-attribute-wil, system: { scoreBase: 12 } }
+    - { model: sohl-sohl-attribute-cre, system: { scoreBase: 6 } }
+    - { model: sohl-sohl-attribute-agl, system: { scoreBase: 6 } }
+    - { model: sohl-sohl-attribute-rea, system: { scoreBase: 4 } }
+    - { model: sohl-sohl-skill-awar, system: { masteryLevelBase: 50 } }
+    - { model: sohl-sohl-skill-stlth, system: { masteryLevelBase: 45 } }
+    - { model: sohl-sohl-mysticalability-sprt, system: { masteryLevelBase: 30 } }
+    - { model: sohl-sohl-skill-init, system: { masteryLevelBase: 32 } }
+    - { model: sohl-sohl-skill-dge, system: { masteryLevelBase: 28 } }
+    - { model: sohl-sohl-skill-shok, system: { masteryLevelBase: 65 } }
     - name: Mud Crush
       type: skill
       system:

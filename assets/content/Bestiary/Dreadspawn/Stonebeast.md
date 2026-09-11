@@ -44,21 +44,21 @@ sohl:
     str: 1d6+47
     agl: 1d4+3
   items:
-    - { shortcode: end, type: attribute, system: { scoreBase: 19 } }
-    - { shortcode: dex, type: attribute, system: { scoreBase: 6 } }
-    - { shortcode: per, type: attribute, system: { scoreBase: 12 } }
-    - { shortcode: aur, type: attribute, system: { scoreBase: 8 } }
-    - { shortcode: wil, type: attribute, system: { scoreBase: 16 } }
-    - { shortcode: rea, type: attribute, system: { scoreBase: 10 } }
-    - { shortcode: cre, type: attribute, system: { scoreBase: 8 } }
-    - { shortcode: str, type: attribute, system: { scoreBase: 50 } }
-    - { shortcode: agl, type: attribute, system: { scoreBase: 5 } }
-    - { shortcode: awar, type: skill, system: { masteryLevelBase: 70 } }
-    - { shortcode: stlth, type: skill, system: { masteryLevelBase: 50 } }
-    - { shortcode: sprt, type: mysticalability, system: { masteryLevelBase: 36 } }
-    - { shortcode: init, type: skill, system: { masteryLevelBase: 52 } }
-    - { shortcode: dge, type: skill, system: { masteryLevelBase: 32 } }
-    - { shortcode: shok, type: skill, system: { masteryLevelBase: 88 } }
+    - { model: sohl-sohl-attribute-end, system: { scoreBase: 19 } }
+    - { model: sohl-sohl-attribute-dex, system: { scoreBase: 6 } }
+    - { model: sohl-sohl-attribute-per, system: { scoreBase: 12 } }
+    - { model: sohl-sohl-attribute-aur, system: { scoreBase: 8 } }
+    - { model: sohl-sohl-attribute-wil, system: { scoreBase: 16 } }
+    - { model: sohl-sohl-attribute-rea, system: { scoreBase: 10 } }
+    - { model: sohl-sohl-attribute-cre, system: { scoreBase: 8 } }
+    - { model: sohl-sohl-attribute-str, system: { scoreBase: 50 } }
+    - { model: sohl-sohl-attribute-agl, system: { scoreBase: 5 } }
+    - { model: sohl-sohl-skill-awar, system: { masteryLevelBase: 70 } }
+    - { model: sohl-sohl-skill-stlth, system: { masteryLevelBase: 50 } }
+    - { model: sohl-sohl-mysticalability-sprt, system: { masteryLevelBase: 36 } }
+    - { model: sohl-sohl-skill-init, system: { masteryLevelBase: 52 } }
+    - { model: sohl-sohl-skill-dge, system: { masteryLevelBase: 32 } }
+    - { model: sohl-sohl-skill-shok, system: { masteryLevelBase: 88 } }
     - name: Crushing Stomp
       type: skill
       system:

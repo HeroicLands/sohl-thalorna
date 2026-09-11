@@ -44,84 +44,89 @@ data:
 sohl:
   templatePriority: null
   items:
-    - { shortcode: str, type: attribute, system: { scoreBase: 8 } }
-    - { shortcode: end, type: attribute, system: { scoreBase: 10 } }
-    - { shortcode: dex, type: attribute, system: { scoreBase: 11 } }
-    - { shortcode: agl, type: attribute, system: { scoreBase: 9 } }
-    - { shortcode: per, type: attribute, system: { scoreBase: 14 } }
-    - { shortcode: cml, type: attribute, system: { scoreBase: 10 } }
-    - { shortcode: aur, type: attribute, system: { scoreBase: 17 } }
-    - { shortcode: wil, type: attribute, system: { scoreBase: 15 } }
-    - { shortcode: rea, type: attribute, system: { scoreBase: 18 } }
-    - { shortcode: cre, type: attribute, system: { scoreBase: 14 } }
-    - { shortcode: emp, type: attribute, system: { scoreBase: 12 } }
-    - { shortcode: elo, type: attribute, system: { scoreBase: 13 } }
-    - { shortcode: mor, type: attribute, system: { scoreBase: 10 } }
-    - { shortcode: voi, type: attribute, system: { scoreBase: 14 } }
-    - { shortcode: freyja, type: affiliation }
-    - { shortcode: brew, type: skill, system: { masteryLevelBase: 48 } }
-    - { shortcode: cook, type: skill, system: { masteryLevelBase: 48 } }
-    - { shortcode: eng, type: skill, system: { masteryLevelBase: 16 } }
-    - { shortcode: folklr, type: skill, system: { masteryLevelBase: 85 } }
-    - { shortcode: pfmy, type: skill, system: { masteryLevelBase: 16 } }
-    - { shortcode: pysn, type: skill, system: { masteryLevelBase: 16 } }
-    - { shortcode: thuravarkscript, type: skill, system: { masteryLevelBase: 80 } }
-    - { shortcode: chrm, type: skill, system: { masteryLevelBase: 33 } }
-    - { shortcode: cmd, type: skill, system: { masteryLevelBase: 28 } }
-    - { shortcode: dscr, type: skill, system: { masteryLevelBase: 64 } }
-    - { shortcode: guil, type: skill, system: { masteryLevelBase: 52 } }
-    - { shortcode: intr, type: skill, system: { masteryLevelBase: 45 } }
-    - { shortcode: sing, type: skill, system: { masteryLevelBase: 42 } }
-    - { shortcode: thtcs, type: skill, system: { masteryLevelBase: 14 } }
-    - { shortcode: srvl, type: skill, system: { masteryLevelBase: 16 } }
-    - { shortcode: timb, type: skill, system: { masteryLevelBase: 16 } }
-    - { shortcode: awar, type: skill, system: { masteryLevelBase: 56 } }
-    - { shortcode: clmb, type: skill, system: { masteryLevelBase: 30 } }
-    - { shortcode: dnce, type: skill, system: { masteryLevelBase: 22 } }
-    - { shortcode: jump, type: skill, system: { masteryLevelBase: 27 } }
-    - { shortcode: ridg, type: skill, system: { masteryLevelBase: 11 } }
-    - { shortcode: stlth, type: skill, system: { masteryLevelBase: 36 } }
-    - { shortcode: swim, type: skill, system: { masteryLevelBase: 9 } }
-    - { shortcode: archery, type: skill, system: { masteryLevelBase: 26 } }
-    - { shortcode: init, type: skill, system: { masteryLevelBase: 48 } }
-    - { shortcode: melee, type: skill, system: { masteryLevelBase: 20 } }
-    - { shortcode: thro, type: skill, system: { masteryLevelBase: 24 } }
-    - { shortcode: draw, type: skill, system: { masteryLevelBase: 12 } }
-    - { shortcode: mtlc, type: skill, system: { masteryLevelBase: 30 } }
-    - { shortcode: musc, type: skill, system: { masteryLevelBase: 14 } }
-    - { shortcode: tarot, type: mysticalability, system: { masteryLevelBase: 30 } }
-    - { shortcode: Stf, type: weapongear }
-    - { shortcode: WRobe, type: armorgear }
-    - { shortcode: WMntl, type: armorgear }
-    - { shortcode: LtShoe, type: armorgear }
-    - { shortcode: WCap, type: armorgear }
+    - { model: sohl-sohl-attribute-str, system: { scoreBase: 8 } }
+    - { model: sohl-sohl-attribute-end, system: { scoreBase: 10 } }
+    - { model: sohl-sohl-attribute-dex, system: { scoreBase: 11 } }
+    - { model: sohl-sohl-attribute-agl, system: { scoreBase: 9 } }
+    - { model: sohl-sohl-attribute-per, system: { scoreBase: 14 } }
+    - { model: sohl-sohl-attribute-cml, system: { scoreBase: 10 } }
+    - { model: sohl-sohl-attribute-aur, system: { scoreBase: 17 } }
+    - { model: sohl-sohl-attribute-wil, system: { scoreBase: 15 } }
+    - { model: sohl-sohl-attribute-rea, system: { scoreBase: 18 } }
+    - { model: sohl-sohl-attribute-cre, system: { scoreBase: 14 } }
+    - { model: sohl-sohl-attribute-emp, system: { scoreBase: 12 } }
+    - { model: sohl-sohl-attribute-elo, system: { scoreBase: 13 } }
+    - { model: sohl-sohl-attribute-mor, system: { scoreBase: 10 } }
+    - { model: sohl-sohl-attribute-voi, system: { scoreBase: 14 } }
+    - { model: affiliation-freyja }
+    - { model: sohl-sohl-skill-brew, system: { masteryLevelBase: 48 } }
+    - { model: sohl-sohl-skill-cook, system: { masteryLevelBase: 48 } }
+    - { model: sohl-sohl-skill-eng, system: { masteryLevelBase: 16 } }
+    - { model: sohl-sohl-skill-folklr, system: { masteryLevelBase: 85 } }
+    - { model: sohl-sohl-skill-pfmy, system: { masteryLevelBase: 16 } }
+    - { model: sohl-sohl-skill-pysn, system: { masteryLevelBase: 16 } }
+    - { model: skill-thuravarkscript, system: { masteryLevelBase: 80 } }
+    - { model: sohl-sohl-skill-chrm, system: { masteryLevelBase: 33 } }
+    - { model: sohl-sohl-skill-cmd, system: { masteryLevelBase: 28 } }
+    - { model: sohl-sohl-skill-dscr, system: { masteryLevelBase: 64 } }
+    - { model: sohl-sohl-skill-guil, system: { masteryLevelBase: 52 } }
+    - { model: sohl-sohl-skill-intr, system: { masteryLevelBase: 45 } }
+    - { model: sohl-sohl-skill-sing, system: { masteryLevelBase: 42 } }
+    - { model: sohl-sohl-skill-thtcs, system: { masteryLevelBase: 14 } }
+    - { model: sohl-sohl-skill-srvl, system: { masteryLevelBase: 16 } }
+    - { model: sohl-sohl-skill-timb, system: { masteryLevelBase: 16 } }
+    - { model: sohl-sohl-skill-awar, system: { masteryLevelBase: 56 } }
+    - { model: sohl-sohl-skill-clmb, system: { masteryLevelBase: 30 } }
+    - { model: sohl-sohl-skill-dnce, system: { masteryLevelBase: 22 } }
+    - { model: sohl-sohl-skill-jump, system: { masteryLevelBase: 27 } }
+    - { model: sohl-sohl-skill-ridg, system: { masteryLevelBase: 11 } }
+    - { model: sohl-sohl-skill-stlth, system: { masteryLevelBase: 36 } }
+    - { model: sohl-sohl-skill-swim, system: { masteryLevelBase: 9 } }
+    - { model: sohl-sohl-skill-archery, system: { masteryLevelBase: 26 } }
+    - { model: sohl-sohl-skill-init, system: { masteryLevelBase: 48 } }
+    - { model: sohl-sohl-skill-melee, system: { masteryLevelBase: 20 } }
+    - { model: sohl-sohl-skill-thro, system: { masteryLevelBase: 24 } }
+    - { model: sohl-sohl-skill-draw, system: { masteryLevelBase: 12 } }
+    - { model: sohl-sohl-skill-mtlc, system: { masteryLevelBase: 30 } }
+    - { model: sohl-sohl-skill-musc, system: { masteryLevelBase: 14 } }
+    - { model: sohl-sohl-mysticalability-tarot, system: { masteryLevelBase: 30 } }
+    - { model: sohl-sohl-weapongear-stf }
+    - { model: sohl-sohl-armorgear-wrobe }
+    - { model: sohl-sohl-armorgear-wmntl }
+    - { model: sohl-sohl-armorgear-ltshoe }
+    - { model: sohl-sohl-armorgear-wcap }
     - name: Leather satchel with magical texts
       type: miscgear
       system:
+        shortcode: leathersatchel
         weight: 2.5
         value: 100
         durability: 3
     - name: Grimoire bound in leather
       type: miscgear
       system:
+        shortcode: grimoirebound
         weight: 1.2
         value: 100
         durability: 3
     - name: Collection of runes and ritual marks (carved bone)
       type: miscgear
       system:
+        shortcode: collectionofrunes
         weight: 0.5
         value: 100
         durability: 3
     - name: Ink well and quills (for spell notation)
       type: miscgear
       system:
+        shortcode: inkwellandquills
         weight: 1
         value: 100
         durability: 3
     - name: Ritual candles (wax, scented)
       type: miscgear
       system:
+        shortcode: ritualcandles
         quantity: 12
         weight: 1
         value: 100
@@ -129,16 +134,35 @@ sohl:
     - name: Parchment (spell paper)
       type: miscgear
       system:
+        shortcode: parchment
         quantity: 20
         weight: 1
         value: 100
         durability: 3
-    - { shortcode: pence, type: miscgear, system: { quantity: 20 } }
-    - { shortcode: backpk, type: containergear }
-    - { shortcode: bpchlg, type: containergear }
-    - { name: Spellbook, type: miscgear, system: { weight: 1, value: 100, durability: 3 } }
-    - { name: Arcane focus, type: miscgear, system: { weight: 1, value: 100, durability: 3 } }
-    - { name: Magical reagents, type: miscgear, system: { weight: 1, value: 100, durability: 3 } }
+    - { model: sohl-sohl-miscgear-pence, system: { quantity: 20 } }
+    - { model: sohl-sohl-containergear-backpk }
+    - { model: sohl-sohl-containergear-bpchlg }
+    - name: Spellbook
+      type: miscgear
+      system:
+        shortcode: spellbook
+        weight: 1
+        value: 100
+        durability: 3
+    - name: Arcane focus
+      type: miscgear
+      system:
+        shortcode: arcanefocus
+        weight: 1
+        value: 100
+        durability: 3
+    - name: Magical reagents
+      type: miscgear
+      system:
+        shortcode: magicalreagents
+        weight: 1
+        value: 100
+        durability: 3
   system:
     body:
       structure:
