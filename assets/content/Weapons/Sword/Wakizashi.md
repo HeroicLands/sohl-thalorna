@@ -5,7 +5,7 @@ name:
   aliases: []
 description: "Short curved single-edged blade; secondary steel marking standing and privilege."
 img: systems/sohl/assets/icons/other/sword.svg
-shortcode: Waki
+shortcode: waki
 type: weapongear
 sohl:
   kbcat: sword

@@ -7,7 +7,7 @@ name:
     - Fumebomb Elixir
 description: "Murky greenish liquid; hurled to create choking smoke cloud."
 img: systems/sohl/assets/icons/other/potion.svg
-shortcode: ElxFmb
+shortcode: elxfmb
 type: concoctiongear
 subType: elixir
 hmk:

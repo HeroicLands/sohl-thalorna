@@ -5,7 +5,7 @@ name:
   aliases: []
 description: "Folded-layer curved single-edged blade; officer's status and discipline."
 img: systems/sohl/assets/icons/other/sword.svg
-shortcode: Ktna
+shortcode: ktna
 type: weapongear
 sohl:
   kbcat: sword

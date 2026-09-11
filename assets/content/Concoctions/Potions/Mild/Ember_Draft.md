@@ -7,7 +7,7 @@ name:
     - Potion, Stimulant, Mild
 description: "Bright energetic liquid; invigorates body and stimulates mental."
 img: systems/sohl/assets/icons/other/potion.svg
-shortcode: PtnStmM
+shortcode: ptnstmm
 type: concoctiongear
 subType: exotic
 hmk:

@@ -7,7 +7,7 @@ name:
     - Potion, Coagulant, Strong
 description: "Deep maroon almost-black coagulant; stops bleeding effectively."
 img: systems/sohl/assets/icons/other/potion.svg
-shortcode: PtnCoagS
+shortcode: ptncoags
 type: concoctiongear
 subType: exotic
 hmk:

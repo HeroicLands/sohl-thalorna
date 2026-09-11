@@ -5,7 +5,7 @@ name:
   aliases: []
 description: "Curved iron claws for raking close brawl; street fighter's mercy-less tool."
 img: systems/sohl/assets/icons/game-icons/lorc/broad-dagger.svg
-shortcode: BghNkh
+shortcode: bghnkh
 type: weapongear
 sohl:
   kbcat: knife

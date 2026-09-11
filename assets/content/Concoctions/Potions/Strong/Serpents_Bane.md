@@ -7,7 +7,7 @@ name:
     - Potion, Antivenin, Strong
 description: "Brilliant amber-gold antivenin; cures snake and poison damage."
 img: systems/sohl/assets/icons/other/potion.svg
-shortcode: PtnAntvS
+shortcode: ptnantvs
 type: concoctiongear
 subType: exotic
 hmk:

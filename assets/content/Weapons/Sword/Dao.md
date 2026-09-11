@@ -5,7 +5,7 @@ name:
   aliases: []
 description: "Curved single-edged blade gathering momentum through geometry."
 img: systems/sohl/assets/icons/other/sword.svg
-shortcode: Dao
+shortcode: dao
 type: weapongear
 sohl:
   kbcat: sword

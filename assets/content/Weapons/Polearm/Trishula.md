@@ -5,7 +5,7 @@ name:
   aliases: []
 description: "Sacred three-pronged polearm symbolizing cosmic order and battlefield virtue."
 img: systems/sohl/assets/icons/noun/polearm.svg
-shortcode: Trsha
+shortcode: trsha
 type: weapongear
 sohl:
   kbcat: polearm

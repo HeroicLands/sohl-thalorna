@@ -7,7 +7,7 @@ name:
     - Potion, Aromatic, Mild
 description: "Pale golden honey-like liquid; sweetens disposition and charm."
 img: systems/sohl/assets/icons/other/potion.svg
-shortcode: PtnAromM
+shortcode: ptnaromm
 type: concoctiongear
 subType: exotic
 hmk:

@@ -5,7 +5,7 @@ name:
   aliases: []
 description: "Sharpened steel disc thrown or hand-held; cavalry skirmisher's precise reach."
 img: systems/sohl/assets/icons/game-icons/delapouite/circle.svg
-shortcode: Chak
+shortcode: chak
 type: weapongear
 sohl:
   kbcat: knife

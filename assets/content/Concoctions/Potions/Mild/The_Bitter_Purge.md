@@ -7,7 +7,7 @@ name:
     - Potion, Emetic, Mild
 description: "Clear greenish tinted draft; causes violent purging of body."
 img: systems/sohl/assets/icons/other/potion.svg
-shortcode: PtnEmM
+shortcode: ptnemm
 type: concoctiongear
 subType: exotic
 hmk:

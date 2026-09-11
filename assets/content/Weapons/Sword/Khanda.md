@@ -5,7 +5,7 @@ name:
   aliases: []
 description: "Straight broad double-edged blade for hacking; ranked warrior's symbol."
 img: systems/sohl/assets/icons/other/sword.svg
-shortcode: Knda
+shortcode: knda
 type: weapongear
 sohl:
   kbcat: sword
