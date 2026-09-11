@@ -590,7 +590,7 @@ Thorsteinn Sólvargr was born into a merchant family of modest means, destined f
 
 ### The Golden Years
 
-For thirty years, Thorsteinn worked as an apprentice, journeyman, and finally master, gradually building a reputation as a reliable, skilled craftsman. He developed particular expertise in functional glassware—drinking vessels, decorative plates, and specialized containers for apothecaries and scholars. His work was known for its clarity, its precise form, and its subtle elegance. By his early forties, he had established his own workshop in Vidgard's merchant district and had become a respected figure in the Glassworkers' Guild. He trained a succession of apprentices, married a merchant's daughter named **Elara**, and settled into what seemed a life of comfortable mastery.
+For thirty years, Thorsteinn worked as an apprentice, journeyman, and finally master, gradually building a reputation as a reliable, skilled craftsman. He developed particular expertise in functional glassware—drinking vessels, decorative plates, and specialized containers for apothecaries and scholars. His work was known for its clarity, its precise form, and its subtle elegance. By his early forties, he had established his own workshop in Vithgard's merchant district and had become a respected figure in the Glassworkers' Guild. He trained a succession of apprentices, married a merchant's daughter named **Elara**, and settled into what seemed a life of comfortable mastery.
 
 ### The Plateau Years
 
@@ -642,7 +642,7 @@ Thorsteinn is primarily motivated by a desire to preserve the quality and integr
 
 ### Affiliations
 
-- **Glassworkers' Guild of Vidgard** - He holds a position of respect but is increasingly aligned with the guild's conservative faction, creating friction with progressive members seeking modernization and experimentation.
+- **Glassworkers' Guild of Vithgard** - He holds a position of respect but is increasingly aligned with the guild's conservative faction, creating friction with progressive members seeking modernization and experimentation.
 - **The Masters' Circle** - An informal association of elder craftspeople from various disciplines who meet to discuss preservation of traditional techniques and resistance to modernization trends.
 
 ## Plot Hooks
@@ -655,6 +655,6 @@ Thorsteinn is primarily motivated by a desire to preserve the quality and integr
 
 4. **The Guild's Succession Crisis**: - The current Master of the Glassworkers' Guild announces retirement, and the position is open for election. Thorsteinn is asked to run by senior members who respect his traditional values, but he'd be directly opposed by younger craftspeople championing modernization. The campaign forces him to articulate what glassworking is, what values the craft should preserve, and whether tradition or innovation should guide the guild's future. The conflict threatens to split the organization.
 
-5. **The Visitor from Abroad**: - A foreign glassworker of extraordinary skill arrives in Vidgard, carrying techniques and aesthetic principles from distant kingdoms. This visitor respects Thorsteinn's mastery but gently challenges his assumption that traditional methods are fixed and unchanging—proposing instead that tradition itself is living, evolving, and strengthened by the addition of new knowledge rather than threatened by it. The encounter forces Thorsteinn to reconsider fundamental assumptions about what tradition actually means and whether evolution necessarily represents degradation.
+5. **The Visitor from Abroad**: - A foreign glassworker of extraordinary skill arrives in Vithgard, carrying techniques and aesthetic principles from distant kingdoms. This visitor respects Thorsteinn's mastery but gently challenges his assumption that traditional methods are fixed and unchanging—proposing instead that tradition itself is living, evolving, and strengthened by the addition of new knowledge rather than threatened by it. The encounter forces Thorsteinn to reconsider fundamental assumptions about what tradition actually means and whether evolution necessarily represents degradation.
 
 6. **The Crisis of Quality**: - Thorsteinn discovers that a rival glassworker is selling cheap, poorly-made glass under a forged mark bearing his own name. Customers are being defrauded, and his hard-earned reputation for quality is being destroyed. Pursuit of justice draws him into legal and political entanglements, forcing him to navigate systems beyond his expertise. More troubling, he discovers that economic pressures are driving younger craftspeople to these shortcuts because traditional quality work is becoming economically unviable. He's forced to confront whether his standards of quality can survive in a market increasingly valuing affordability over excellence.

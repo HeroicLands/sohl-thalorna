@@ -608,7 +608,7 @@ Hrafnkell stands 5'11" tall with a medium build. He has light fair skin, dark br
 
 ### From War to Craft
 
-Hrafnkell did not begin his life as a craftsman. At eighteen, he enlisted in the Kingdom of Vidgard's levy, serving as a soldier for fifteen years in the border conflicts that defined his youth. He left behind a young wife and an infant son, **[[being-bjlfhrfnsvld|Bjalfi]]**, on the family farm—a decision he told himself was necessary to provide for them, though the truth was more complicated. He earned his fire tattoo after the Burning of Kelstad, where he carried burning canvas from his company's tent before it could trap his companions inside. The experience—watching good men trapped by failure of equipment—planted a seed that would eventually transform him entirely.
+Hrafnkell did not begin his life as a craftsman. At eighteen, he enlisted in the Kingdom of Vithgard's levy, serving as a soldier for fifteen years in the border conflicts that defined his youth. He left behind a young wife and an infant son, **[[being-bjlfhrfnsvld|Bjalfi]]**, on the family farm—a decision he told himself was necessary to provide for them, though the truth was more complicated. He earned his fire tattoo after the Burning of Kelstad, where he carried burning canvas from his company's tent before it could trap his companions inside. The experience—watching good men trapped by failure of equipment—planted a seed that would eventually transform him entirely.
 
 ### The Homecoming
 
@@ -620,7 +620,7 @@ After leaving the military with an old injury to his shoulder, Hrafnkell apprent
 
 ### Present Days
 
-Now at forty-four, Hrafnkell owns one of the finest tentmaking operations in Vidgard, though his business remains modest by merchant-lord standards. He refuses to compromise quality for profit, turning away lucrative commissions if he lacks the time or materials to work properly. His reputation among soldiers and serious travelers is sterling—those who've slept in a Hrafnkell tent speak of it with the reverence others reserve for prayers.
+Now at forty-four, Hrafnkell owns one of the finest tentmaking operations in Vithgard, though his business remains modest by merchant-lord standards. He refuses to compromise quality for profit, turning away lucrative commissions if he lacks the time or materials to work properly. His reputation among soldiers and serious travelers is sterling—those who've slept in a Hrafnkell tent speak of it with the reverence others reserve for prayers.
 
 ## Psyche
 
@@ -663,15 +663,15 @@ Hrafnkell is driven by a simple but profound conviction: good shelter saves live
 ### Enemies
 
 - **Kross the Cutthroat**: A rival tentmaker who operates at half Hrafnkell's prices by using inferior materials and shoddy construction. Kross's tents look impressive but fail under real stress, yet he has stolen many contracts Hrafnkell might have earned. Kross also spreads rumors that Hrafnkell charges inflated prices for military cachet.
-- **The Vidgard Cloth Syndicate**: A merchant guild that seeks to control all textile production in the region. They view independent craftspeople like Hrafnkell as obstacles and have attempted to force him to buy exclusively through their network, dramatically increasing his material costs.
+- **The Vithgard Cloth Syndicate**: A merchant guild that seeks to control all textile production in the region. They view independent craftspeople like Hrafnkell as obstacles and have attempted to force him to buy exclusively through their network, dramatically increasing his material costs.
 - **Unspoken Rivalry with Competitors**: The newer, younger tentmakers who can produce faster than him view him as an obstacle preventing their growth; some have engaged in subtle sabotage of his reputation.
 
 ### Affiliations
 
-- **The Tentmakers' Guild of Vidgard**: A professional organization where he serves as a senior member and occasionally takes on formal apprentices, though he remains independent-minded and sometimes clashes with the Guild's leadership over quality standards versus profitability.
+- **The Tentmakers' Guild of Vithgard**: A professional organization where he serves as a senior member and occasionally takes on formal apprentices, though he remains independent-minded and sometimes clashes with the Guild's leadership over quality standards versus profitability.
 - **The Old Soldiers' Lodge**: An informal fraternity of veterans who gather monthly to share drink and stories. Hrafnkell contributes his skills and craftsmanship to the Lodge's projects.
-- **[[being-thjthrhrfnsvld|Thjótharr Hrafnsvald]] (Brother)**: Hrafnkell's elder brother by eight years, a celebrated clothier in the Kingdom of Norgaad. [[being-thjthrhrfnsvld|Thjótharr]] left Vidgard long before Hrafnkell enlisted, pursuing the finer side of the textile craft among Norgaad's nobility. Hrafnkell finds his brother's obsession with fashion bewildering but respects the skill behind it—after all, they both learned to work fabric from the same parents. Their letters are infrequent but warm, and [[being-thjthrhrfnsvld|Thjótharr]] has never once failed to send something extravagant for the winter holidays.
-- **[[being-bjlfhrfnsvld|Bjalfi Hrafnsvald]] (Son)**: Hrafnkell's son, now a sergeant in the Vidgard militia. Their relationship carries the weight of years of absence and unspoken guilt. Hrafnkell is quietly proud of the man [[being-bjlfhrfnsvld|Bjalfi]] has become, though he knows he had little hand in shaping him. He occasionally leaves supplies or a well-made tent at the militia barracks without a note—small gestures from a man who has never learned how to say what needs saying.
+- **[[being-thjthrhrfnsvld|Thjótharr Hrafnsvald]] (Brother)**: Hrafnkell's elder brother by eight years, a celebrated clothier in the Kingdom of Norgaad. [[being-thjthrhrfnsvld|Thjótharr]] left Vithgard long before Hrafnkell enlisted, pursuing the finer side of the textile craft among Norgaad's nobility. Hrafnkell finds his brother's obsession with fashion bewildering but respects the skill behind it—after all, they both learned to work fabric from the same parents. Their letters are infrequent but warm, and [[being-thjthrhrfnsvld|Thjótharr]] has never once failed to send something extravagant for the winter holidays.
+- **[[being-bjlfhrfnsvld|Bjalfi Hrafnsvald]] (Son)**: Hrafnkell's son, now a sergeant in the Vithgard militia. Their relationship carries the weight of years of absence and unspoken guilt. Hrafnkell is quietly proud of the man [[being-bjlfhrfnsvld|Bjalfi]] has become, though he knows he had little hand in shaping him. He occasionally leaves supplies or a well-made tent at the militia barracks without a note—small gestures from a man who has never learned how to say what needs saying.
 
 ## Plot Hooks
 

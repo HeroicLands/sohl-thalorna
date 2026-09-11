@@ -611,7 +611,7 @@ Hildr stands 5'11" tall with a medium build. She has light fair skin, dark brown
 
 ### Early Life
 
-Born to the Steinblót clan, renowned stonemasons in the Kingdom of Vidgard, Hildr was expected to follow her family into monumental masonry. Instead, at age fourteen, she became fascinated with her grandmother's pottery wheel and the ancient techniques of glaze-making. Her father's disapproval was thunderous, but her mother's quiet support gave her courage to pursue the clay arts. She apprenticed with Master Jórun Graywick, a renowned potter whose workshop overlooked the River Vith, and spent ten years learning not merely the mechanics of her craft, but its philosophy.
+Born to the Steinblót clan, renowned stonemasons in the Kingdom of Vithgard, Hildr was expected to follow her family into monumental masonry. Instead, at age fourteen, she became fascinated with her grandmother's pottery wheel and the ancient techniques of glaze-making. Her father's disapproval was thunderous, but her mother's quiet support gave her courage to pursue the clay arts. She apprenticed with Master Jórun Graywick, a renowned potter whose workshop overlooked the River Vith, and spent ten years learning not merely the mechanics of her craft, but its philosophy.
 
 ### Training and Craft
 
@@ -619,7 +619,7 @@ Now in her prime at thirty-two, Hildr has established herself as one of the King
 
 ### Current Circumstances
 
-Hildr maintains a modest pottery studio in the artisan quarter of Vidgard's capital, powered by the steady force of her creativity and an equally steady obsession with perfection. She lives above her workshop with her apprentice and an ornery cat named Styrrir. Recently, she has begun experimenting with relief work and narrative scenes inspired by the sagas, leading her toward a new artistic direction that has captured the attention of wealthy patrons and jealous rivals alike.
+Hildr maintains a modest pottery studio in the artisan quarter of Vithgard's capital, powered by the steady force of her creativity and an equally steady obsession with perfection. She lives above her workshop with her apprentice and an ornery cat named Styrrir. Recently, she has begun experimenting with relief work and narrative scenes inspired by the sagas, leading her toward a new artistic direction that has captured the attention of wealthy patrons and jealous rivals alike.
 
 ## Psyche
 
@@ -631,7 +631,7 @@ Her perfectionism is simultaneously her greatest strength and her deepest curse.
 
 ### Motivation
 
-Hildr creates not for fame or fortune, though both have come to her, but because the act of transforming raw earth into art is the only thing that quiets the restless hunger in her soul. She is driven by an almost spiritual need to prove that women of Vidgard need not follow expected paths, that a woman wielding a potter's tools is worth no less than one wielding a sword. Beneath this lies a deeper truth: in shaping clay, she shapes herself, finding in each firing kiln a trial by fire that tests and reforges her will.
+Hildr creates not for fame or fortune, though both have come to her, but because the act of transforming raw earth into art is the only thing that quiets the restless hunger in her soul. She is driven by an almost spiritual need to prove that women of Vithgard need not follow expected paths, that a woman wielding a potter's tools is worth no less than one wielding a sword. Beneath this lies a deeper truth: in shaping clay, she shapes herself, finding in each firing kiln a trial by fire that tests and reforges her will.
 
 ### Strengths
 
@@ -667,7 +667,7 @@ Hildr creates not for fame or fortune, though both have come to her, but because
 
 ### Affiliations
 
-- **The Artisans' Guild of Vidgard**: A prestigious organization where she serves on the Council of Masters, though her uncompromising nature has made her unpopular with some members.
+- **The Artisans' Guild of Vithgard**: A prestigious organization where she serves on the Council of Masters, though her uncompromising nature has made her unpopular with some members.
 - **The River Market Cooperative**: An informal association of independent craftspeople and merchants who support one another's work and share resources.
 
 ## Plot Hooks

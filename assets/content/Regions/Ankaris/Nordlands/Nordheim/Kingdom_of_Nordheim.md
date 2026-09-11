@@ -123,7 +123,7 @@ sohl:
 packFolder: nordheim
 ---
 
-**Sister Kingdoms:** [[affiliation-kingdomlgn|Kingdom of Malagna]], [[affiliation-kingdmnrgd|Kingdom of Norgaad]], [[affiliation-kingdmtrgd|Kingdom of Targud]], [[affiliation-kngdmvthgrd|Kingdom of Vidgard]]
+**Sister Kingdoms:** [[affiliation-kingdomlgn|Kingdom of Malagna]], [[affiliation-kingdmnrgd|Kingdom of Norgaad]], [[affiliation-kingdmtrgd|Kingdom of Targud]], [[affiliation-kngdmvthgrd|Kingdom of Vithgard]]
 
 ## Overview
 
@@ -164,7 +164,7 @@ Nordheim's relationship with the rest of Ankaris is defined by raiding, trade, a
 - **The King of All Clans:** A great assembly held every seven years on a sacred island, where all the jarls of Nordheim gather to settle inter-clan disputes and make decisions affecting the entire people.
 - **The Longship Fleets:** Nordheim's primary military and economic asset. Fleets range from small raiding parties to massive armadas capable of threatening coastal cities across Ankaris.
 - **The Völvur:** Nordheim's mystic tradition, distinct from the arcane practices of the south, rooted in shamanism and ancestral communion.
-- **The Five Kingdoms:** Nordheim is one of five Nordmal-speaking kingdoms in the frozen north, alongside [[affiliation-kingdomlgn|Malagna]], [[affiliation-kingdmnrgd|Norgaad]], [[affiliation-kingdmtrgd|Targud]], and [[affiliation-kngdmvthgrd|Vidgard]]. All share the Nordmal language, [[affiliation-asguardian|Asguardian Pantheon]] faith, and [[skill-nordmalng|Nordmal naming]], but each has its own jarl-king and traditions.
+- **The Five Kingdoms:** Nordheim is one of five Nordmal-speaking kingdoms in the frozen north, alongside [[affiliation-kingdomlgn|Malagna]], [[affiliation-kingdmnrgd|Norgaad]], [[affiliation-kingdmtrgd|Targud]], and [[affiliation-kngdmvthgrd|Vithgard]]. All share the Nordmal language, [[affiliation-asguardian|Asguardian Pantheon]] faith, and [[skill-nordmalng|Nordmal naming]], but each has its own jarl-king and traditions.
 
 ## Commerce and Currency
 
@@ -176,4 +176,4 @@ Kingdom of Nordheim uses the [[lore-vylrncrncy|Vylarian coinage]] (Aurion / Argo
 - [[place-vrystwald|Vrystwald]] — Southern frontier
 - [[affiliation-asguardian|Asguardian Pantheon]] — The Nordmen pantheon
 - [[skill-nordmalng|Nordmal]] — Naming conventions
-- [[affiliation-kingdomlgn|Kingdom of Malagna]], [[affiliation-kingdmnrgd|Kingdom of Norgaad]], [[affiliation-kingdmtrgd|Kingdom of Targud]], [[affiliation-kngdmvthgrd|Kingdom of Vidgard]] — Sister kingdoms
+- [[affiliation-kingdomlgn|Kingdom of Malagna]], [[affiliation-kingdmnrgd|Kingdom of Norgaad]], [[affiliation-kingdmtrgd|Kingdom of Targud]], [[affiliation-kngdmvthgrd|Kingdom of Vithgard]] — Sister kingdoms

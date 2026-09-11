@@ -144,7 +144,7 @@ Kingdom of Malagna uses the [[lore-vylrncrncy|Vylarian coinage]] (Aurion / Argo 
 ## See Also
 
 - [[affiliation-kngdmnrdhm|Kingdom of Nordheim]] — Sister kingdom, primary rival
-- [[affiliation-kingdmnrgd|Kingdom of Norgaad]], [[affiliation-kingdmtrgd|Kingdom of Targud]], [[affiliation-kngdmvthgrd|Kingdom of Vidgard]] — Sister kingdoms
+- [[affiliation-kingdmnrgd|Kingdom of Norgaad]], [[affiliation-kingdmtrgd|Kingdom of Targud]], [[affiliation-kngdmvthgrd|Kingdom of Vithgard]] — Sister kingdoms
 - [[place-elavendre|Élavendre]] — Western trading partner
 - [[place-aelwyth|Aelwyth]] — Maritime neighbor
 - [[affiliation-asguardian|Asguardian Pantheon]] — Pantheon

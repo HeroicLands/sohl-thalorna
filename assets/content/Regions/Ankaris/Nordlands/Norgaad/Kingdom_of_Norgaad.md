@@ -143,6 +143,6 @@ Kingdom of Norgaad uses the [[lore-vylrncrncy|Vylarian coinage]] (Aurion / Argo 
 
 ## See Also
 
-- [[affiliation-kngdmnrdhm|Kingdom of Nordheim]], [[affiliation-kingdomlgn|Kingdom of Malagna]], [[affiliation-kingdmtrgd|Kingdom of Targud]], [[affiliation-kngdmvthgrd|Kingdom of Vidgard]] — Sister kingdoms
+- [[affiliation-kngdmnrdhm|Kingdom of Nordheim]], [[affiliation-kingdomlgn|Kingdom of Malagna]], [[affiliation-kingdmtrgd|Kingdom of Targud]], [[affiliation-kngdmvthgrd|Kingdom of Vithgard]] — Sister kingdoms
 - [[affiliation-asguardian|Asguardian Pantheon]] — Pantheon
 - [[place-grkrhlmrgn|Grukarholm Region]] — Eastern threat

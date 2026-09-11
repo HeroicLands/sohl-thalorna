@@ -1,6 +1,6 @@
 ---
 tags: []
-description: "Pan-Nordlands mercenary compact regulating the free companies — sworn warriors-for-hire serving kingdoms, jarls, and merchant lords across Nordheim, Norgaad, Vidgard, Targud, and Malagna."
+description: "Pan-Nordlands mercenary compact regulating the free companies — sworn warriors-for-hire serving kingdoms, jarls, and merchant lords across Nordheim, Norgaad, Vithgard, Targud, and Malagna."
 name:
   full: Málalidabandalag
   aliases:
@@ -102,8 +102,8 @@ sohl:
 _Old Norse: "Pay-Troop Compact" — the league of mercenary companies_
 
 - **Type:** Mercenary compact / regulatory body
-- **Region:** [[place-nrdlndsrgn|The Nordlands]] — the five kingdoms of [[affiliation-kngdmnrdhm|Nordheim]], [[affiliation-kingdmnrgd|Norgaad]], [[affiliation-kngdmvthgrd|Vidgard]], [[affiliation-kingdmtrgd|Targud]], and [[affiliation-kingdomlgn|Malagna]]
-- **Seat:** The Compact-Hall at Hringstead, on the border of Nordheim and Vidgard — a neutral ground guaranteed by all five kingdoms
+- **Region:** [[place-nrdlndsrgn|The Nordlands]] — the five kingdoms of [[affiliation-kngdmnrdhm|Nordheim]], [[affiliation-kingdmnrgd|Norgaad]], [[affiliation-kngdmvthgrd|Vithgard]], [[affiliation-kingdmtrgd|Targud]], and [[affiliation-kingdomlgn|Malagna]]
+- **Seat:** The Compact-Hall at Hringstead, on the border of Nordheim and Vithgard — a neutral ground guaranteed by all five kingdoms
 
 ## Overview
 
@@ -115,7 +115,7 @@ The Compact does not field its own troops. It does not levy. It does not adjudic
 
 A company joins the Compact by its captain's oath and its named muster sworn before the **Council of the Hall** at Hringstead. The Council has nine seats — one for each of the three longest-standing companies, three rotating seats elected from junior signed companies, and three seats reserved for retired captains of particular standing (the _grá-káppar_, the "grey champions"). The Council meets four times a year, at the Compact's gathering-feasts.
 
-Day-to-day administration falls to the **Speaker of the Compact** (the _Bandalagstalsmadr_), elected by the Council for a five-year term. The current Speaker is **Hróarr Vetrljóss**, a one-eyed veteran of the Vidgard succession wars who is widely respected and very much feared.
+Day-to-day administration falls to the **Speaker of the Compact** (the _Bandalagstalsmadr_), elected by the Council for a five-year term. The current Speaker is **Hróarr Vetrljóss**, a one-eyed veteran of the Vithgard succession wars who is widely respected and very much feared.
 
 There are presently thirty-four signed companies of meaningful size, ranging from twelve-sword scouting bands to the **Hringstead Long-Ship Fellowship** of nearly four hundred warriors and twelve ships. The largest signed company in living memory was the Stormhand Brotherhood at six hundred swords — disbanded a generation ago after a disastrous campaign in Vrystwald, an incident still spoken of in cautionary tones.
 
@@ -134,7 +134,7 @@ The Compact's standing rules are simple and short. A captain who breaks any of t
 ## Notable Signed Companies
 
 - **The Hringstead Long-Ship Fellowship** — largest signed company; semi-permanent garrison of the Compact-Hall itself; commanded by Captain Brynhildr Eldskári.
-- **The Wolves of Vidgard** — long-standing inland heavy infantry; specialty is sieges.
+- **The Wolves of Vithgard** — long-standing inland heavy infantry; specialty is sieges.
 - **Skjöldungar of Norgaad** — coastal raiders turned legitimate naval contractors; primary employer is the merchant kings of Aelwyth.
 - **The Iron-Beard Company** — smaller, elite, expensive; the only signed company that operates routinely outside the Nordlands. They have taken contracts as far south as Heliónis.
 

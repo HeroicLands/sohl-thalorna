@@ -42,13 +42,13 @@ valley bottoms — barley and oats, in a summer that is over almost as soon as i
 been enough. The region lives on the **sea**: sealing, fishing, whale ivory, furs, amber, and the ships
 that carry all of it. The ships are the economy, and always have been.
 
-| Kingdom                              | People   |
-| ------------------------------------ | -------- |
-| [[affiliation-kngdmnrdhm\|Nordheim]] | ~650,000 |
-| [[affiliation-kingdmnrgd\|Norgaad]]  | ~400,000 |
-| [[affiliation-kingdomlgn\|Malagna]]  | ~340,000 |
-| [[affiliation-kingdmtrgd\|Targud]]   | ~300,000 |
-| [[affiliation-kngdmvthgrd\|Vidgard]] | ~300,000 |
+| Kingdom                               | People   |
+| ------------------------------------- | -------- |
+| [[affiliation-kngdmnrdhm\|Nordheim]]  | ~650,000 |
+| [[affiliation-kingdmnrgd\|Norgaad]]   | ~400,000 |
+| [[affiliation-kingdomlgn\|Malagna]]   | ~340,000 |
+| [[affiliation-kingdmtrgd\|Targud]]    | ~300,000 |
+| [[affiliation-kngdmvthgrd\|Vithgard]] | ~300,000 |
 
 **Nordheim is pre-eminent** and is larger than any two of its neighbours together, which is the shape of
 northern politics in one line.
@@ -69,7 +69,7 @@ there has ever done.
 
 ## Peoples and Culture
 
-The Nordmen are overwhelmingly human, fiercely independent, and organized into **clans** led by _jarls_ who rule through a combination of strength, generosity, and the reputation earned by their ancestors. Clans cluster into the five kinship-kingdoms — [[affiliation-kngdmnrdhm|Nordheim]], [[affiliation-kingdomlgn|Malagna]], [[affiliation-kingdmnrgd|Norgaad]], [[affiliation-kingdmtrgd|Targud]], and [[affiliation-kngdmvthgrd|Vidgard]] — each with its own king-jarl and regional traditions. What they share far outweighs what separates them: all speak [[skill-nordmalng|Nordmal]], all worship the Twelve of the [[affiliation-asguardian|Asguardian Pantheon]], and all recognize the authority of the _ting_, the open assembly where disputes are settled, laws proclaimed, and alliances forged.
+The Nordmen are overwhelmingly human, fiercely independent, and organized into **clans** led by _jarls_ who rule through a combination of strength, generosity, and the reputation earned by their ancestors. Clans cluster into the five kinship-kingdoms — [[affiliation-kngdmnrdhm|Nordheim]], [[affiliation-kingdomlgn|Malagna]], [[affiliation-kingdmnrgd|Norgaad]], [[affiliation-kingdmtrgd|Targud]], and [[affiliation-kngdmvthgrd|Vithgard]] — each with its own king-jarl and regional traditions. What they share far outweighs what separates them: all speak [[skill-nordmalng|Nordmal]], all worship the Twelve of the [[affiliation-asguardian|Asguardian Pantheon]], and all recognize the authority of the _ting_, the open assembly where disputes are settled, laws proclaimed, and alliances forged.
 
 The _ting_ tradition is the closest thing the Nordlands have to a continental institution. Every seventh year the **King of All Clans** is convened on a sacred island at the heart of the region, where the five kings and their principal jarls gather to settle inter-kingdom quarrels, proclaim judgments that reach beyond any one kingdom's writ, and decide matters of war and peace with neighbors.
 
@@ -103,7 +103,7 @@ Far to the south, Mídhalión is the great market. Nordmen traders and mercenari
 
 ## See Also
 
-- [[affiliation-kngdmnrdhm|Kingdom of Nordheim]], [[affiliation-kingdomlgn|Kingdom of Malagna]], [[affiliation-kingdmnrgd|Kingdom of Norgaad]], [[affiliation-kingdmtrgd|Kingdom of Targud]], [[affiliation-kngdmvthgrd|Kingdom of Vidgard]] — the five Nordmal kingdoms
+- [[affiliation-kngdmnrdhm|Kingdom of Nordheim]], [[affiliation-kingdomlgn|Kingdom of Malagna]], [[affiliation-kingdmnrgd|Kingdom of Norgaad]], [[affiliation-kingdmtrgd|Kingdom of Targud]], [[affiliation-kngdmvthgrd|Kingdom of Vithgard]] — the five Nordmal kingdoms
 - [[affiliation-asguardian|Asguardian Pantheon]] — the Twelve of the north
 - [[skill-nordmalng|Nordmal Language]] — the shared tongue
 - [[place-grkrhlmrgn|Grukarhölm]] — eastern neighbor
