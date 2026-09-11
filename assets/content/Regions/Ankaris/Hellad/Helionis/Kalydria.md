@@ -117,7 +117,7 @@ sohl:
 packFolder: helionis
 ---
 
-- **Patron Deity:** [[affiliation-arldnpnthn|Æthería]] (dreams and visions)
+- **Patron Deity:** [[affiliation-arldnpnthn|Aethería]] (dreams and visions)
 - **Government:** Oligarchy of wealthy patron families
 
 ## Overview

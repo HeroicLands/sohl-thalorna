@@ -3,10 +3,10 @@ tags:
   - heroes-and-knaves
   - tradesfolk
 name:
-  full: Yngvarr Blóthǫll
+  full: Yngvarr Blóthöll
   title: ""
   given: Yngvarr
-  clan: Blóthǫll
+  clan: Blóthöll
   home: ormstead
   aliases: []
 packFolder: ankarisnordlands
@@ -640,7 +640,7 @@ Yngvarr seeks to discover whether his talents for performance and persuasion mig
 ### Patrons
 
 - **Duke Ragnarr of Vithgard** - The primary patron who employs Yngvarr's talents for court entertainment and subtle political messaging; their relationship is cordial but transactional
-- **Sigrid Blóthǫll** - His mother, the innkeeper, who still provides refuge and honest counsel when he returns home worn by the demands of performance
+- **Sigrid Blóthöll** - His mother, the innkeeper, who still provides refuge and honest counsel when he returns home worn by the demands of performance
 - **Master Kolbeinn** - His aging mentor and former teacher, now retired in the mountains, whom Yngvarr consults on matters of ethics and the deeper purposes of his craft
 
 ### Enemies

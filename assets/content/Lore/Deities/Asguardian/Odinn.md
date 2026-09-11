@@ -4,12 +4,12 @@ tags:
 type: lore
 subType: deity
 name:
-  full: Óðinn
+  full: Ódinn
   aliases: []
 shortcode: oinndty
 packFolder: deitiesasguardian
 ---
 
-# Óðinn
+# Ódinn
 
 TBD

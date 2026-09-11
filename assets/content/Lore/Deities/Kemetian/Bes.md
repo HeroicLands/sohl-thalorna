@@ -16,7 +16,7 @@ packFolder: deitieskemetian
 _Guardian of Night Visions — a crescent moon with a single protective eye._
 
 Bēs is the Kemetían name for [[lore-goddreams|the God of Dreams]], a deity far older than any single
-civilization and known under many names: **Baldr** to the Asguardian peoples, **Æthería** to the
+civilization and known under many names: **Baldr** to the Asguardian peoples, **Aethería** to the
 Aurèldíans, and known to the [[lore-flksinale|Sinalë]] since time immemorial. What is distinctive in
 the Kheperi understanding is the intimacy — not a distant celestial force but a companion who walks
 through the night beside the sleeper.

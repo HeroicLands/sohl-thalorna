@@ -9,7 +9,7 @@ name:
   clan: Re'en'fré
   home: perankhet
   aliases:
-    - Akhrem Reenfré
+    - Akhrem Reenfré
 packFolder: northernfertileregiontakheperu
 banner: banners/ta-kheperu-banner.webp
 shortcode: akhremrnfr

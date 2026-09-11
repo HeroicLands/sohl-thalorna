@@ -9,7 +9,7 @@ name:
   clan: Amun'Râshet
   home: wasetkara
   aliases:
-    - Nakhtar AmunRâshet
+    - Nakhtar AmunRâshet
     - Nakhtar AmunRashet
 packFolder: northernfertileregiontakheperu
 banner: banners/ta-kheperu-banner.webp

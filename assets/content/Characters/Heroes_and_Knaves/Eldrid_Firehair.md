@@ -600,7 +600,7 @@ Stands 6'1" tall with a light build. He has weather-roughened skin, fiery red ha
 
 Eldrid is the son of a renowned shipwright family in the port town of Hrólfstead, one of the most vital coastal towns in Norgaad. From a young age, Eldrid was trained in the art of shipbuilding, mastering the craft of creating the sleek and deadly longships that Norgaad is famous for. However, despite his family’s pride in their trade, Eldrid felt a strong pull toward the arcane. As a child, he witnessed a mysterious fire spirit in the shipyard, sparking a lifelong fascination with magic and the spirit world.
 
-Eldrid’s striking red hair and fiery temper earned him the nickname “Firehair,” but it was his latent magical talent—an affinity for fire magic—that truly set him apart. He met [[being-grosdrnrgd|Gróa the Seiðr of Norgaad]] when she sought passage across the fjords, and he was immediately intrigued by her connection to the spirit world. Over time, Eldrid became one of Gróa’s trusted companions, eager to learn more about his mystical inclinations and to explore the deeper mysteries of magic.
+Eldrid’s striking red hair and fiery temper earned him the nickname “Firehair,” but it was his latent magical talent—an affinity for fire magic—that truly set him apart. He met [[being-grosdrnrgd|Gróa the Seidr of Norgaad]] when she sought passage across the fjords, and he was immediately intrigued by her connection to the spirit world. Over time, Eldrid became one of Gróa’s trusted companions, eager to learn more about his mystical inclinations and to explore the deeper mysteries of magic.
 
 ## Skills and Abilities
 

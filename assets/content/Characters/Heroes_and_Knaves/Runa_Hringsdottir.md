@@ -623,11 +623,11 @@ Rúna is a fierce warrior from the trading town of Járnhavn, a town renowned fo
 
 ### Personality
 
-Rúna is practical, courageous, and fiercely loyal. While she does not fully understand [[being-grosdrnrgd|Gróa]]’s magic, she respects the Seiðr’s abilities and trusts her wisdom. She is also deeply protective of [[being-grosdrnrgd|Gróa]], seeing her as a vulnerable ally in need of a strong sword-arm.
+Rúna is practical, courageous, and fiercely loyal. While she does not fully understand [[being-grosdrnrgd|Gróa]]’s magic, she respects the Seidr’s abilities and trusts her wisdom. She is also deeply protective of [[being-grosdrnrgd|Gróa]], seeing her as a vulnerable ally in need of a strong sword-arm.
 
 ### Motivation
 
-Rúna joins [[being-grosdrnrgd|Gróa]] because she believes in the Seiðr’s vision of the coming dangers. She knows that her skills as a warrior will be needed to defend Norgaad, and she sees herself as a protector of both her homeland and [[being-grosdrnrgd|Gróa]].
+Rúna joins [[being-grosdrnrgd|Gróa]] because she believes in the Seidr’s vision of the coming dangers. She knows that her skills as a warrior will be needed to defend Norgaad, and she sees herself as a protector of both her homeland and [[being-grosdrnrgd|Gróa]].
 
 ### Strengths
 

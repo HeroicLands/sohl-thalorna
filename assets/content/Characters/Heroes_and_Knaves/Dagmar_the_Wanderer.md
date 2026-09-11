@@ -616,11 +616,11 @@ Dagmar is a skald from the far northern reaches of Norgaad, where he wandered fr
 
 ### Personality
 
-Cynical and secretive, Dagmar is a skilled manipulator and strategist. He is not above bending the truth or playing both sides to his advantage, but his loyalty to [[being-grosdrnrgd|Gróa]] is genuine. Dagmar sees the Seiðr as a kindred spirit, both outcasts who walk between worlds.
+Cynical and secretive, Dagmar is a skilled manipulator and strategist. He is not above bending the truth or playing both sides to his advantage, but his loyalty to [[being-grosdrnrgd|Gróa]] is genuine. Dagmar sees the Seidr as a kindred spirit, both outcasts who walk between worlds.
 
 ### Motivation
 
-Dagmar’s interest in [[being-grosdrnrgd|Gróa]] lies in the Seiðr’s connection to the spirit world, which fascinates him. She sees [[being-grosdrnrgd|Gróa]]’s journey as an opportunity to witness something truly extraordinary and to compose the greatest saga ever told.
+Dagmar’s interest in [[being-grosdrnrgd|Gróa]] lies in the Seidr’s connection to the spirit world, which fascinates him. She sees [[being-grosdrnrgd|Gróa]]’s journey as an opportunity to witness something truly extraordinary and to compose the greatest saga ever told.
 
 ### Strengths
 

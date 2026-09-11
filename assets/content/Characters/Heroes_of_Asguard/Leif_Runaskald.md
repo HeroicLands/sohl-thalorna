@@ -526,19 +526,19 @@ Leif stands 5'10" with a lean, wiry frame, weighing about 165 pounds. His fair s
 
 # Dossier {#dossier}
 
-Leif Runaskald was a wandering skald, known throughout the lands for his enchanting voice and his mastery of the ancient runes. Unlike many warriors of his time, Leif chose the path of the bard, believing that words and knowledge held a power greater than any sword. He traveled from village to village, sharing stories of Óðinn and the gods, teaching the secrets of the runes, and recording the sagas of great heroes. Leif was revered not only for his musical talents but for his deep understanding of the mystical arts, which he used to heal, protect, and inspire.
+Leif Runaskald was a wandering skald, known throughout the lands for his enchanting voice and his mastery of the ancient runes. Unlike many warriors of his time, Leif chose the path of the bard, believing that words and knowledge held a power greater than any sword. He traveled from village to village, sharing stories of Ódinn and the gods, teaching the secrets of the runes, and recording the sagas of great heroes. Leif was revered not only for his musical talents but for his deep understanding of the mystical arts, which he used to heal, protect, and inspire.
 
-The most famous saga of Leif Runaskald is the tale of how he saved a kingdom with nothing but his voice and a single rune. When the realm of Fjallheim was beset by a terrible blight, which no healer could cure, the people turned to Leif for help. Guided by Óðinn, Leif spent three days and nights in a trance, seeking the root of the curse. On the third night, he emerged with a single rune inscribed on a piece of bark. Leif traveled to the heart of Fjallheim, where he sang the ancient verses of Óðinn and pressed the rune into the earth. As he did, the blight lifted, the land healed, and the crops began to grow once more. The people of Fjallheim hailed Leif as a savior, and his song became a part of their harvest rituals for generations to come.
+The most famous saga of Leif Runaskald is the tale of how he saved a kingdom with nothing but his voice and a single rune. When the realm of Fjallheim was beset by a terrible blight, which no healer could cure, the people turned to Leif for help. Guided by Ódinn, Leif spent three days and nights in a trance, seeking the root of the curse. On the third night, he emerged with a single rune inscribed on a piece of bark. Leif traveled to the heart of Fjallheim, where he sang the ancient verses of Ódinn and pressed the rune into the earth. As he did, the blight lifted, the land healed, and the crops began to grow once more. The people of Fjallheim hailed Leif as a savior, and his song became a part of their harvest rituals for generations to come.
 
 ## Psyche
 
 ### Personality
 
-Leif is gregarious and warm, with an infectious enthusiasm for stories both old and new. He has a gift for making strangers feel like old friends within minutes of meeting them. Behind his cheerful exterior, however, Leif carries a deep melancholy — he has seen too many heroes fall and too many villages burn, and each loss adds another verse to the sorrowful songs he sings alone at night. He drinks more than he should and has a weakness for gambling, though his uncanny luck at dice suggests Óðinn may be watching the throws.
+Leif is gregarious and warm, with an infectious enthusiasm for stories both old and new. He has a gift for making strangers feel like old friends within minutes of meeting them. Behind his cheerful exterior, however, Leif carries a deep melancholy — he has seen too many heroes fall and too many villages burn, and each loss adds another verse to the sorrowful songs he sings alone at night. He drinks more than he should and has a weakness for gambling, though his uncanny luck at dice suggests Ódinn may be watching the throws.
 
 ### Motivation
 
-Leif believes that the sagas are more than entertainment — they are the living memory of his people, and if they are forgotten, the people themselves will fade. He travels ceaselessly to collect and preserve stories, driven by the fear that the old ways are dying. He also seeks the legendary Song of Creation, said to be the first words Óðinn ever spoke, which Leif believes could heal any wound and mend any broken thing.
+Leif believes that the sagas are more than entertainment — they are the living memory of his people, and if they are forgotten, the people themselves will fade. He travels ceaselessly to collect and preserve stories, driven by the fear that the old ways are dying. He also seeks the legendary Song of Creation, said to be the first words Ódinn ever spoke, which Leif believes could heal any wound and mend any broken thing.
 
 ### Strengths
 

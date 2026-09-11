@@ -9,7 +9,7 @@ name:
   clan: Jâut
   home: perankhet
   aliases:
-    - Tamiyra Jâut
+    - Tamiyra Jâut
     - Tamiyra Jaut
 packFolder: northernfertileregiontakheperu
 banner: banners/ta-kheperu-banner.webp

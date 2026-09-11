@@ -12,27 +12,27 @@ data:
   governance:
     model: theocracy
     summary: >-
-      A ladder of circles, rising from the young Thræll through the working Goði or Gyðja to the
-      senior ranks of Jarl and Konungr and the pontifical offices of the Allsherjargoði and the
-      Faðir or Móðir of the god. The titles are this faith's own; the pattern is the pantheon's.
+      A ladder of circles, rising from the young Thraell through the working Godi or Gydja to the
+      senior ranks of Jarl and Konungr and the pontifical offices of the Allsherjargodi and the
+      Fadir or Módir of the god. The titles are this faith's own; the pattern is the pantheon's.
       Circle II is unlisted in the sources.
     ranks:
       - level: 0
-        title: Níðingr
+        title: Nídingr
         lore: excmmnctrnk
         description: >-
           Declared nithing — cut off from the faith and from the standing that being of it
-          conferred. No hall will seat them and no goði will speak for them.
+          conferred. No hall will seat them and no godi will speak for them.
       - level: 1
-        title: Thrumu Thræll
+        title: Thrumu Thraell
         lore: initiaternk
         description: >-
           "Thunder Thrall" — Storm Acolyte. The god's thrall: taken into the temple young, given the observances and the labour, and years away from the priesthood.
       - level: 3
-        title: Reið Goði/Goðe
+        title: Reid Godi/Gode
         lore: priestrnk
         description: >-
-          "Storm Priest/Priestess" — Storm Priest/Priestess. The working priest or priestess — Goði for a man, Gyðja for a woman — who keeps the rites of a hall and the people who gather at it.
+          "Storm Priest/Priestess" — Storm Priest/Priestess. The working priest or priestess — Godi for a man, Gydja for a woman — who keeps the rites of a hall and the people who gather at it.
       - level: 4
         title: Thrumu Hersir
         lore: commanderrnk
@@ -49,12 +49,12 @@ data:
         description: >-
           "Ocean King/Queen" — Stormbringer. King or queen within the faith's own hierarchy, and in some kingdoms a power the crown must reckon with.
       - level: 7
-        title: Thór Allsherjargoði
+        title: Thór Allsherjargodi
         lore: highpriestrnk
         description: >-
           "Thor High Priest" — Thundering Lord. High priest — a pontifical office, speaking for the faith where it must speak with one voice.
       - level: 8
-        title: Thrumu Faðir/Móðir
+        title: Thrumu Fadir/Módir
         lore: grandmasterrnk
         description: >-
           "Father/Mother of Thunder" — Pontiff of the Thunderer. Father or Mother of the god: the highest pontifical office, held by one person at a time.
@@ -67,11 +67,11 @@ data:
         Elite warriors who wield mighty hammers in battle, channeling Thórr's strength and protection.
       Seaforged: >-
         Fighters who have undergone rigorous training at sea, becoming masters of naval combat and defense.
-      Allsherjargoði: >-
+      Allsherjargodi: >-
         High priest of the faith, and its voice where it must speak with one.
-      Faðir/Móðir: >-
+      Fadir/Módir: >-
         Father or Mother of the god — the highest office, held by one person.
-      Goði/Gyðja: >-
+      Godi/Gydja: >-
         The working priest or priestess of a hall, who keeps its rites and its people.
   commonSkills: []
   seat: null
@@ -120,13 +120,13 @@ In artistic representations, Thórr is often shown driving his chariot pulled by
 
 ## Clergy
 
-- **Thrumu Thræll** (Circle I: "Thunder Thrall") — Storm Acolyte
-- **Reið Goði/Goðe** (Circle III: "Storm Priest/Priestess") — Storm Priest/Priestess
+- **Thrumu Thraell** (Circle I: "Thunder Thrall") — Storm Acolyte
+- **Reid Godi/Gode** (Circle III: "Storm Priest/Priestess") — Storm Priest/Priestess
 - **Thrumu Hersir** (Circle IV: "Thunder Warlord") — Thunder Herald
 - **Sjór Jarl** (Circle V: "Sea Jarl") — Warden of the Sea
 - **Haf Konungr/Konungrkvinde** (Circle VI: "Ocean King/Queen") — Stormbringer
-- **Thór Allsherjargoði** (Circle VII: "Thor High Priest") — Thundering Lord
-- **Thrumu Faðir/Móðir** (Circle VIII: "Father/Mother of Thunder") — Pontiff of the Thunderer
+- **Thór Allsherjargodi** (Circle VII: "Thor High Priest") — Thundering Lord
+- **Thrumu Fadir/Módir** (Circle VIII: "Father/Mother of Thunder") — Pontiff of the Thunderer
 
 **Key Skills:** Weather manipulation and storm calling, Combat training and weapon mastery, Seafaring and navigation, Protection and blessing rituals
 
