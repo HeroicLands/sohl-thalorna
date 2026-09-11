@@ -552,7 +552,7 @@ Hrólfur's defensive combat style is nearly impenetrable; his ability to read an
 
 **The Clan of Hrólfur's Father** — His extended family and clan, who view him as their champion and provide him with shelter, supplies, and warriors when needed.
 
-**Sigvarðr One-Hand** — The famous judge recognizes Hrólfur as a kindred spirit and has appointed him as his personal protector during dangerous travels through hostile territories.
+**Sigvardr One-Hand** — The famous judge recognizes Hrólfur as a kindred spirit and has appointed him as his personal protector during dangerous travels through hostile territories.
 
 ### Enemies
 

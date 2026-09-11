@@ -12,7 +12,7 @@ name:
     - Lúminarë
     - Khaldûr
     - Baldr
-    - Æthería
+    - Aethería
 shortcode: goddreams
 type: lore
 subType: deity
@@ -32,7 +32,7 @@ The Sinalë and Khazári do not acknowledge the human faiths as legitimate expre
 | [[lore-flksinale\|Sinalë]]                      | **Lúminarë**                               | Neither / beyond gender | Light, dreams, the living world                                                                  |
 | [[lore-flkkhazar\|Khazári]]                     | **Khaldûr**                                | Neither / beyond gender | Deep light, craft-wisdom, enduring stone                                                         |
 | [[affiliation-asguardian\|Asguardian Pantheon]] | [[affiliation-baldr\|Baldr]]               | Male                    | Elder races, dreams, light                                                                       |
-| [[affiliation-arldnpnthn\|Aurèldían]]           | [[affiliation-aetheria\|Æthería]]          | Female                  | Dreams, celestial visions                                                                        |
+| [[affiliation-arldnpnthn\|Aurèldían]]           | [[affiliation-aetheria\|Aethería]]         | Female                  | Dreams, celestial visions                                                                        |
 | [[affiliation-itzanpnthn\|Itzáni]]              | [[affiliation-itzanpnthn\|Nal'ik Tz'uqal]] | Female                  | Dreams, visions, prophecy, the moon                                                              |
 | Kemetían                                        | Bēs                                        | Female                  | Dreams, sleep, protective visions                                                                |
 | [[affiliation-tngvkvnlei\|Tëngvōk Vān Lëi]]     | Mëi Sëi                                    | —                       | Dreams, visions, omens                                                                           |
@@ -64,12 +64,12 @@ Before the sundering of the [[lore-flksinale|Sinalë]] and [[lore-flkkhazar|Khaz
 
 ## Human Adoption
 
-How humans first encountered this deity is unclear. The Asguardian tradition holds that Baldr revealed himself to the first seers of the north; the Aurèldían tradition claims Æthería appeared to the dream-oracles of ancient Heliónis. The elder races, if asked, would note that humans have a gift for stumbling into things that were not meant for them and then claiming they discovered something new.
+How humans first encountered this deity is unclear. The Asguardian tradition holds that Baldr revealed himself to the first seers of the north; the Aurèldían tradition claims Aethería appeared to the dream-oracles of ancient Heliónis. The elder races, if asked, would note that humans have a gift for stumbling into things that were not meant for them and then claiming they discovered something new.
 
 Every major human pantheon makes provision for this deity — under one name or another, the god of dreams has a place in every theological framework. But across all cultures, active worship is unusual. This is not a god of warriors, farmers, or merchants. The faithful are overwhelmingly mystics, seers, dream-interpreters, and those who live at the boundary between the waking world and what lies beyond it. In most communities, a village might have a shrine to this deity tucked in a quiet corner, visited occasionally for dream interpretation or before a difficult journey, but rarely the center of religious life.
 
-The notable exception is the [[affiliation-ordoarcanis|Ordo Arcanis]]. Practitioners of the College of Spirit are frequently drawn to this deity — particularly in the Aurèldían form as [[affiliation-aetheria|Æthería]] — because of the deep resonance between the deity's dream-domain and the College's work with the spirit realm. This connection is informal rather than institutional; the Ordo as a whole takes no official position on religious devotion. But in practice, a disproportionate number of Spirit convocation members maintain private devotion to Æthería, and some of the most accomplished spirit-workers credit their breakthroughs to dreams they believe were divinely sent.
+The notable exception is the [[affiliation-ordoarcanis|Ordo Arcanis]]. Practitioners of the College of Spirit are frequently drawn to this deity — particularly in the Aurèldían form as [[affiliation-aetheria|Aethería]] — because of the deep resonance between the deity's dream-domain and the College's work with the spirit realm. This connection is informal rather than institutional; the Ordo as a whole takes no official position on religious devotion. But in practice, a disproportionate number of Spirit convocation members maintain private devotion to Aethería, and some of the most accomplished spirit-workers credit their breakthroughs to dreams they believe were divinely sent.
 
 Regardless of origin, the human faiths are genuine expressions of a real divine connection — the deity does answer human prayers and send dreams to human worshippers. The relationship is simply younger, shallower, and filtered through cultural assumptions that the elder races find alternately amusing and baffling.
 
-For details on the human traditions, see [[affiliation-baldr|Faith of Baldr]] (Asguardian), [[affiliation-aetheria|Faith of Æthería]] (Aurèldían), [[affiliation-itzanpnthn|Nal'ik Tz'uqal]] (Itzáni), Bēs (Kemetían), Mëi Sëi (Tānvüri), Zárványä (Āsháian), and the Svapnadēvas (Varṇaka — who revere the deity's servants rather than the deity itself).
+For details on the human traditions, see [[affiliation-baldr|Faith of Baldr]] (Asguardian), [[affiliation-aetheria|Faith of Aethería]] (Aurèldían), [[affiliation-itzanpnthn|Nal'ik Tz'uqal]] (Itzáni), Bēs (Kemetían), Mëi Sëi (Tānvüri), Zárványä (Āsháian), and the Svapnadēvas (Varṇaka — who revere the deity's servants rather than the deity itself).

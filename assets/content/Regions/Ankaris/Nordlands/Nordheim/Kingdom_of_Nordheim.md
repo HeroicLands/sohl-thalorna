@@ -13,13 +13,13 @@ data:
   symbol: null
   governance:
     model: monarchy
-    summary: Hereditary monarchy with a þing (assembly) tradition.
+    summary: Hereditary monarchy with a ting (assembly) tradition.
     ranks:
       - level: 0
-        title: Níðing
+        title: Níding
         lore: outlawrnk
         description: >-
-          Outlawed at the þing and set beyond the law's protection, so that any man may kill
+          Outlawed at the ting and set beyond the law's protection, so that any man may kill
           them and owe no wergild for it.
       - level: 1
         title: Thrall
@@ -32,12 +32,12 @@ data:
         lore: freedmanrnk
         description: >-
           Manumitted but still bound in obligation to a former master, and not yet reckoned
-          a full man of the þing.
+          a full man of the ting.
       - level: 3
         title: Bóndi
         lore: yeomanrnk
         description: >-
-          A free farmer holding his own land, bearing arms, and speaking at the þing in his
+          A free farmer holding his own land, bearing arms, and speaking at the ting in his
           own name.
       - level: 4
         title: Hauldr
@@ -67,33 +67,33 @@ data:
         title: King
         lore: sovereignrnk
         description: >-
-          Chosen from the royal kin and acclaimed at the þing, holding the realm by the assembly's
+          Chosen from the royal kin and acclaimed at the ting, holding the realm by the assembly's
           consent as much as by descent.
     offices:
-      King: Acclaimed sovereign, holding the realm by the þing's consent as much as by descent.
+      King: Acclaimed sovereign, holding the realm by the ting's consent as much as by descent.
       Queen: The king's wife, keeper of the hall's keys and mistress of its household and
         stores.
       Jarl: Holder of a province of the king, commanding its levies and answering for its
         dues.
       Hersir: Chieftain of a district, leading its men to the muster and speaking for them
-        at the þing.
+        at the ting.
       Lawspeaker: Keeper of the law in memory, who recites it at the assembly and declares
         what it is.
-      Goði: >-
+      Godi: >-
         Priest-chieftain of a temple and its district, holding sacred and secular authority
         together.
       Stallari: The king's marshal, commander of his household men and master of the muster.
-      Ármaðr: Steward of a royal estate, answerable for its yield and for the king's rights
+      Ármadr: Steward of a royal estate, answerable for its yield and for the king's rights
         within it.
-      Féhirðir: Keeper of the king's treasure, his tribute and the silver of his hall.
-      Merkismaðr: Bearer of the king's standard in battle, a post of the highest honour and
+      Féhirdir: Keeper of the king's treasure, his tribute and the silver of his hall.
+      Merkismadr: Bearer of the king's standard in battle, a post of the highest honour and
         shortest life.
       Skald: Court poet, whose verse is the realm's memory and whose praise or scorn makes
         reputations.
       Hirdman: Sworn man of the king's household troop, fed at his table and bound to his
         person.
-      Sýslumaðr: The king's officer in a district, collecting his dues and holding his courts.
-      Styrimaðr: Master of a ship, commanding her crew at sea and answering for her in the
+      Sýslumadr: The king's officer in a district, collecting his dues and holding his courts.
+      Styrimadr: Master of a ship, commanding her crew at sea and answering for her in the
         levy.
       Harbour-reeve: Keeper of a haven, collecting its tolls and adjudicating disputes on
         its wharves.
@@ -137,7 +137,7 @@ Key geographic features include the great fjords that cut deep into the mountain
 
 ## Culture and Society
 
-Nordmen society is organized around clans, each led by a jarl who commands loyalty through strength, wisdom, and generosity. The clans gather periodically at regional assemblies called _þings_, where disputes are settled, laws are proclaimed, and alliances are forged. The concept of personal honor is paramount — a Nordmen's reputation is their most valuable possession, and insults or betrayals can spark blood feuds that last generations.
+Nordmen society is organized around clans, each led by a jarl who commands loyalty through strength, wisdom, and generosity. The clans gather periodically at regional assemblies called _tings_, where disputes are settled, laws are proclaimed, and alliances are forged. The concept of personal honor is paramount — a Nordmen's reputation is their most valuable possession, and insults or betrayals can spark blood feuds that last generations.
 
 The Nordmen are master shipwrights and sailors. Their longships are marvels of engineering: shallow-drafted for navigating rivers and coastlines, yet seaworthy enough to cross open ocean. Raiding is a respected profession, though many Nordmen are also traders, carrying amber, furs, and whale ivory to the markets of [[place-midhalnrgn|Mídhalión Region]].
 
@@ -145,13 +145,13 @@ Women in Nordmen society hold more autonomy than in many other Ankarian cultures
 
 ## Religion
 
-The Nordmen worship the [[affiliation-asguardian|Asguardian Pantheon]] pantheon, a collection of powerful and often capricious deities who embody the forces of nature and the virtues the Nordmen prize. [[affiliation-odinn|Óðinn]] is the Allfather, god of wisdom, war, and death; [[affiliation-baldr|Baldr]] is the god of light, dreams, and the elder races; and [[affiliation-hel|Hél]] is the dreaded goddess of the underworld, whose cult of death and chaos is both feared and reviled.
+The Nordmen worship the [[affiliation-asguardian|Asguardian Pantheon]] pantheon, a collection of powerful and often capricious deities who embody the forces of nature and the virtues the Nordmen prize. [[affiliation-odinn|Ódinn]] is the Allfather, god of wisdom, war, and death; [[affiliation-baldr|Baldr]] is the god of light, dreams, and the elder races; and [[affiliation-hel|Hél]] is the dreaded goddess of the underworld, whose cult of death and chaos is both feared and reviled.
 
-Worship is practical and personal. Nordmen make offerings at standing stones, sacred groves, and household altars. Major rituals accompany the turning of the seasons, with the midwinter _Jólblót_ and the midsummer _Sigrblót_ being the most important communal celebrations. Shamans and mystics called _völvur_ serve as spiritual guides, interpreting omens, performing seiðr magic, and mediating between the mortal world and the divine.
+Worship is practical and personal. Nordmen make offerings at standing stones, sacred groves, and household altars. Major rituals accompany the turning of the seasons, with the midwinter _Jólblót_ and the midsummer _Sigrblót_ being the most important communal celebrations. Shamans and mystics called _völvur_ serve as spiritual guides, interpreting omens, performing seidr magic, and mediating between the mortal world and the divine.
 
 ## Magic
 
-Magic in Nordheim takes two primary forms. _Seiðr_ is a shamanistic tradition practiced by the _völvur_, involving trance states, spirit journeys, and divination. It is powerful but socially complex — while respected in women, it is considered _ergi_ (unmanly) when practiced by men, though some male practitioners defy this taboo. _Rúnagaldr_ is the craft of inscribing runes with magical intent, practiced by specialists called _rúnameistari_. This tradition is more widely accepted across genders and is closely tied to the worship of Óðinn, who is said to have sacrificed himself to gain the knowledge of the runes.
+Magic in Nordheim takes two primary forms. _Seidr_ is a shamanistic tradition practiced by the _völvur_, involving trance states, spirit journeys, and divination. It is powerful but socially complex — while respected in women, it is considered _ergi_ (unmanly) when practiced by men, though some male practitioners defy this taboo. _Rúnagaldr_ is the craft of inscribing runes with magical intent, practiced by specialists called _rúnameistari_. This tradition is more widely accepted across genders and is closely tied to the worship of Ódinn, who is said to have sacrificed himself to gain the knowledge of the runes.
 
 The [[affiliation-ordoarcanis|Ordo Arcanis]] has virtually no presence in Nordheim. The Nordmen distrust foreign institutions and have their own magical traditions that predate the Ordo by centuries.
 

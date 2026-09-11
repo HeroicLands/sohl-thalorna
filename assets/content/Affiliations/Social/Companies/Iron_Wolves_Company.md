@@ -108,7 +108,7 @@ _Byzarian: Lupi Ferri_
 - **Type:** Independent mercenary company
 - **Region:** [[place-byzariargn|Byzaría]] principally; operates throughout western Ankaris under contract
 - **Strength:** Approximately one hundred and twenty effectives at present muster, with reserve and auxiliary perhaps doubling that figure
-- **Status:** Operating; unsigned with the [[affiliation-malldbndlg|Málaliðabandalag]]; has held no consistent contract with the Byzarian League's military in over a decade
+- **Status:** Operating; unsigned with the [[affiliation-malldbndlg|Málalidabandalag]]; has held no consistent contract with the Byzarian League's military in over a decade
 
 ## Overview
 
@@ -171,7 +171,7 @@ Training is rigorous and selective. The company recruits primarily from cashiere
 ## Relations
 
 - **The Byzarian League** — formally at arm's length; informally, the League knows what the company does and lets it operate because the company occasionally executes contracts the League itself would have preferred to commission. League investigations into Iron Wolves activity are reliably inconclusive.
-- **The [[affiliation-malldbndlg|Málaliðabandalag]]** — unsigned and unwelcome. The Compact has refused the Iron Wolves' application for membership twice, both times for the company's pattern of civilian-target contracts. The Compact's senior captains regard the company with professional disdain.
+- **The [[affiliation-malldbndlg|Málalidabandalag]]** — unsigned and unwelcome. The Compact has refused the Iron Wolves' application for membership twice, both times for the company's pattern of civilian-target contracts. The Compact's senior captains regard the company with professional disdain.
 - **The [[affiliation-crmsyndctsthlrn|Crime Syndicates of Thalorna]]** — interested counterparty. Both the [[affiliation-velvethand|Velvet Hand]] and the [[affiliation-theashroad|Ash Road]] have, at various points, attempted to retain the company; the company has declined direct syndicate retainers while accepting contracts that it understood to be syndicate-funded through intermediaries.
 - **[[being-kyrksptrks|Kyriákos Patrikios]]** — the great unfinished business. The company's standing position is that Kyriákos is a deserter and a security risk whose silence cannot be assumed indefinitely. There is a quiet bounty on him; no one has yet claimed it because no one has yet located him.
 

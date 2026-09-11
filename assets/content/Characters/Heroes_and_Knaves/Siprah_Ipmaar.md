@@ -10,7 +10,7 @@ name:
   clan: Ip'maâr
   home: wasetkara
   aliases:
-    - Siprah Ipmaâr
+    - Siprah Ipmaâr
     - Siprah Ipmaar
 packFolder: northernfertileregiontakheperu
 banner: banners/ta-kheperu-banner.webp

@@ -7,9 +7,9 @@ subType: mystical
 shortcode: aetheria
 img: images/affiliation/aureldian/aetheria.webp
 name:
-  full: "Ritual: Æthería"
+  full: "Ritual: Aethería"
   aliases:
-    - Æthería
+    - Aethería
     - Aetheria
     - The Veiled Dreamer
 sohl:
@@ -24,4 +24,4 @@ sohl:
 packFolder: aureldian
 ---
 
-See [[affiliation-aetheria|Faith of Æthería]]
+See [[affiliation-aetheria|Faith of Aethería]]

@@ -18,7 +18,7 @@ data:
       decree.
     ranks:
       - level: 0
-        title: Níðingr
+        title: Nídingr
         lore: excmmnctrnk
         description: >-
           Cut off from the faith. Rare here, and reached by the same open deliberation as everything
@@ -70,7 +70,7 @@ thalorna:
 packFolder: pantheonsasguardian
 ---
 
-"Baldr" is the Asguardian name for [[lore-goddreams|The God of Dreams]] — a deity far older than any human pantheon, worshipped by the [[lore-flksinale|Sinalë]] and [[lore-flkkhazar|Khazári]] since before humanity existed. The Aurèldían peoples know the same deity as [[affiliation-aetheria|Æthería]].
+"Baldr" is the Asguardian name for [[lore-goddreams|The God of Dreams]] — a deity far older than any human pantheon, worshipped by the [[lore-flksinale|Sinalë]] and [[lore-flkkhazar|Khazári]] since before humanity existed. The Aurèldían peoples know the same deity as [[affiliation-aetheria|Aethería]].
 
 Among northern humans, the Faith of Baldr draws worshippers primarily through the deity's dream aspect — the power to guide, inspire, and foretell through the landscapes of sleep. This makes the faith unusual in the Asguardian tradition: where most northern faiths are dominated by warriors, jarls, and seafarers, Baldr's human followers tend to be seers, healers, and those who seek wisdom through vision rather than the sword.
 

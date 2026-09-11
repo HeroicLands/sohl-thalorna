@@ -45,7 +45,7 @@ The language is marked by a preference for alliteration, assonance, and poetic p
 
 **Prosody:** Élavendri employs melodic stress, with pitch patterns carrying as much information as stress accent. The language naturally divides into musical phrases, each with characteristic pitch contours. This has made Élavendri ideal for poetry and music, and difficult for non-native speakers to acquire.
 
-**Distinctive Features:** The language makes heavy use of the "fey fricative" /th/ (voiced dental fricative /ð/), which features prominently in words related to magic, fey beings, and abstraction. The combination th- at the beginning of words often indicates magical or abstract concepts. Nasal vowels occur in both oral and nasal variants, creating subtle distinctions.
+**Distinctive Features:** The language makes heavy use of the "fey fricative" /th/ (voiced dental fricative /d/), which features prominently in words related to magic, fey beings, and abstraction. The combination th- at the beginning of words often indicates magical or abstract concepts. Nasal vowels occur in both oral and nasal variants, creating subtle distinctions.
 
 ## Grammar Notes
 

@@ -105,39 +105,39 @@ The first composition is the apprentice's **drápa** — a long formal poem comp
 Sworn skalds are ranked informally:
 
 - **Skáld** — the sworn singer; permitted to take service in any hall.
-- **Hirðskáld** — a court skald in formal service to a jarl or king; the most prestigious working position.
+- **Hirdskáld** — a court skald in formal service to a jarl or king; the most prestigious working position.
 - **Lögskáld** — a "law-skald," specialized in the recitation of legal precedents and the witnessing of formal proceedings; few in number but indispensable to Nordland legal practice.
-- **Sögumaðr** — the "saga-master," a senior skald whose composed sagas have been accepted into the standing repertoire of the Circle as a whole. A skald is acclaimed sögumaðr by his peers, not appointed.
+- **Sögumadr** — the "saga-master," a senior skald whose composed sagas have been accepted into the standing repertoire of the Circle as a whole. A skald is acclaimed sögumadr by his peers, not appointed.
 
-The Circle's gatherings (the _Skaldaþing_) occur once a year, hosted in rotation by the five Nordland kingdoms and occasionally by Aelwyth or Vrystwald. At the Skaldaþing, new apprentices present their drápa, standing repertoire is reviewed and verified by collective recitation, and disputes over the accuracy of contested verses are resolved by the assembled body.
+The Circle's gatherings (the _Skaldating_) occur once a year, hosted in rotation by the five Nordland kingdoms and occasionally by Aelwyth or Vrystwald. At the Skaldating, new apprentices present their drápa, standing repertoire is reviewed and verified by collective recitation, and disputes over the accuracy of contested verses are resolved by the assembled body.
 
 ## Doctrine and Practice
 
 The Circle holds three principles. The first is **the accuracy of memory** — that the skald's craft depends absolutely on the literal fidelity of what is preserved, and that a verse remembered loosely is a verse lost. The second is **the hospitality of the hall** — that any sworn skald is entitled to food, shelter, and safe passage at any hall in the Nordlands, in exchange for which he is obligated to perform if asked. The third is **the truth of the recital** — that a skald who is summoned to bear witness must recite what he knows accurately, even when the recitation is harmful to his employer.
 
-The third principle has cost skalds their positions and occasionally their lives. The Circle protects them in such cases as it can: a skald who has been killed for honest recital is the subject of a saga at the next Skaldaþing, and the killer becomes a figure permanently named in that saga, in terms that will follow his name for generations.
+The third principle has cost skalds their positions and occasionally their lives. The Circle protects them in such cases as it can: a skald who has been killed for honest recital is the subject of a saga at the next Skaldating, and the killer becomes a figure permanently named in that saga, in terms that will follow his name for generations.
 
 ## Notable Members
 
-- Various hirðskáldar at the five kingdoms' courts; identified by their composed sagas more than by their names.
+- Various hirdskáldar at the five kingdoms' courts; identified by their composed sagas more than by their names.
 - The senior sögumenn — perhaps a dozen at any time, scattered across the kingdoms; their compositions form the standing repertoire taught to every apprentice.
 
 ## Relations
 
-- **The [[affiliation-malldbndlg|Málaliðabandalag]]** — formal hospitality and mutual recognition. The Compact's signed companies welcome skalds at their fires; skalds carry company histories, sing the deaths of fallen captains, and serve as itinerant messengers between the Hall at Hringstead and the scattered companies.
+- **The [[affiliation-malldbndlg|Málalidabandalag]]** — formal hospitality and mutual recognition. The Compact's signed companies welcome skalds at their fires; skalds carry company histories, sing the deaths of fallen captains, and serve as itinerant messengers between the Hall at Hringstead and the scattered companies.
 - **The Asguardian priesthood** — overlapping but distinct. Many skalds are also lay devotees of [[affiliation-odinn|Odinn]] (who is patron of poetry as of war and wisdom), and the priesthood of Odinn cooperates closely with the Circle. The cooperation is not formal subordination; skalds answer to their masters and to the Circle, not to any priest.
 - **The [[affiliation-bardicolgs|The Bardic Colleges]] of Élavendre** — cordial mutual respect across cultural distance. The two traditions exchange visiting members regularly and acknowledge each other's craft without claiming to share it.
 - **The kings and jarls** — clients, employers, and occasionally targets of honest recital. The relationship is one of permanent mutual usefulness and occasional sharp friction.
 
 ## Identifying Marks
 
-A sworn skald wears a silver arm-ring (the _skáldhringr_) bearing the marks of his master and his master's master, traced back as far as the Circle's records permit. The ring is forged at the swearing and worn for life. A skald who has been formally accused and convicted of breaking the truth of the recital has his ring broken in his presence at the next Skaldaþing — a punishment from which there is no recovery and which has been imposed perhaps seven times in living memory.
+A sworn skald wears a silver arm-ring (the _skáldhringr_) bearing the marks of his master and his master's master, traced back as far as the Circle's records permit. The ring is forged at the swearing and worn for life. A skald who has been formally accused and convicted of breaking the truth of the recital has his ring broken in his presence at the next Skaldating — a punishment from which there is no recovery and which has been imposed perhaps seven times in living memory.
 
 Court skalds wear, additionally, a brooch in the form of a raven (Odinn's bird), pinned to the cloak.
 
 ## Plot Hooks
 
-- **The Disputed Saga.** Two skalds are reciting incompatible versions of a recent battle, both with first-hand authority and both with employers who benefit from the version recited. The next Skaldaþing must resolve the dispute, and the resolution will determine which version enters the standing repertoire — and which jarl's reputation survives the generation.
+- **The Disputed Saga.** Two skalds are reciting incompatible versions of a recent battle, both with first-hand authority and both with employers who benefit from the version recited. The next Skaldating must resolve the dispute, and the resolution will determine which version enters the standing repertoire — and which jarl's reputation survives the generation.
 - **The Killed Skald.** A skald has been killed at the hall of a powerful jarl after his recitation embarrassed his host. The Circle convenes to compose his memorial saga; the jarl will, by tradition, be named in the saga with terms that will follow his line for generations. The jarl is preparing to demand the saga be softened. The Circle's response will define what the institution is willing to enforce.
 - **The Lost Lineage.** A claimant to a contested throne has produced genealogies tracing his line to a royal ancestor seven generations back. The skalds' standing record disagrees. The discrepancy is large enough to matter and small enough to plausibly be a memorial error. The Lögskáldar will be summoned; their finding will decide the succession.
 - **The Hidden Apprentice.** A girl has been training secretly under a master who has never publicly acknowledged her — a violation of standing protocol in a tradition that has always permitted female skalds in principle but rarely in practice. Her drápa, when she presents it, is exceptional. The Circle must choose between recognizing her and preserving the master's protocol violation, or refusing her and losing a talent the craft cannot easily replace.

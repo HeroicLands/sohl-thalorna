@@ -10,7 +10,7 @@ name:
   clan: Sekmet'â
   home: wasetkara
   aliases:
-    - Raiah Sekmetâ
+    - Raiah Sekmetâ
 packFolder: northernfertileregiontakheperu
 banner: banners/ta-kheperu-banner.webp
 shortcode: raiahsekmt

@@ -9,7 +9,7 @@ name:
   clan: Ta'Sereket
   home: perankhet
   aliases:
-    - Sênta TaSereket
+    - Sênta TaSereket
     - Senta TaSereket
 packFolder: northernfertileregiontakheperu
 banner: banners/ta-kheperu-banner.webp
@@ -661,7 +661,7 @@ Sênta seeks to test herself against increasingly difficult challenges, driven b
 
 ### Enemies
 
-- **The Crimson Jackals**: A bandit gang that has plagued the southern trade routes for three years. Their leader, **Kræd Hardscale**, harbors deep resentment toward Sênta after she foiled six separate robbery attempts, twice escaping their ambushes with minimal losses. Kræd has sworn a blood oath to kill her.
+- **The Crimson Jackals**: A bandit gang that has plagued the southern trade routes for three years. Their leader, **Kraed Hardscale**, harbors deep resentment toward Sênta after she foiled six separate robbery attempts, twice escaping their ambushes with minimal losses. Kraed has sworn a blood oath to kill her.
 
 - **Scout Malachar**: A rival scout employed by competing merchant houses who views Sênta as a threat to his own livelihood. He spreads rumors about her recklessness and has twice attempted to sabotage her caravans, though he lacks Sênta's skill and has always been caught.
 
@@ -679,6 +679,6 @@ Sênta seeks to test herself against increasingly difficult challenges, driven b
 
 3. **The Refugee Caravan**: Sênta is hired to protect a caravan of refugees fleeing political persecution in a neighboring kingdom. Unlike her usual merchant runs, these people are desperate, poor, and vulnerable. When the pursuants catch up—elite cavalry sent by the persecuting kingdom—Sênta finds herself defending civilians rather than cargo. The situation forces her to choose between her professional oath to protect goods and her unexpected maternal instinct to shield the refugees, particularly a young girl who reminds her of herself at that age.
 
-4. **Bandit Leader's Daughter**: Kræd Hardscale, the bandit leader who has sworn to kill Sênta, sends an unexpected visitor—his own daughter, a skilled archer named **Lyra Hardscale**, who reveals that she can no longer support her father's violent methods. Lyra offers to spy on her father's organization from within, helping Sênta dismantle the Crimson Jackals. However, Sênta must decide whether to trust the enemy's daughter, and if her father discovers the betrayal, Lyra will almost certainly be executed. This alliance could solve Sênta's bandit problem, but at the cost of becoming responsible for a young woman's life.
+4. **Bandit Leader's Daughter**: Kraed Hardscale, the bandit leader who has sworn to kill Sênta, sends an unexpected visitor—his own daughter, a skilled archer named **Lyra Hardscale**, who reveals that she can no longer support her father's violent methods. Lyra offers to spy on her father's organization from within, helping Sênta dismantle the Crimson Jackals. However, Sênta must decide whether to trust the enemy's daughter, and if her father discovers the betrayal, Lyra will almost certainly be executed. This alliance could solve Sênta's bandit problem, but at the cost of becoming responsible for a young woman's life.
 
 5. **The Caravan Beyond the Maps**: An aging cartographer seeking to complete his life's work hires Sênta to guide a small expedition into unmapped territory beyond the known trade routes. The regions he wishes to explore are rumored to be haunted by ancient spirits and inhabited by dangerous creatures never documented. As Sênta leads them deeper into the unknown, she discovers ruins suggesting a lost civilization far more advanced than the current empire, and evidence that something ancient and immensely powerful sleeps in the depths. The cartographer reveals he is not simply curious—he believes these ruins contain knowledge that could transform the entire empire, and he is willing to stop at nothing to claim it.

@@ -3,23 +3,23 @@ tags:
   - draft
   - common-folk
 name:
-  full: Theódric Fróðbán
+  full: Ermína Fródbán
   title: ""
-  given: Theódric
-  clan: Fróðbán
-  home: dunkelwald
+  given: Ermína
+  clan: Fródbán
+  home: thornhaven
   aliases:
-    - Thrain Ironpick
-    - Theodric Froban
+    - Elira Seabrook
+    - Ermina Froban
 packFolder: ankarisvrystwald
-shortcode: thdrcfrdbn
+shortcode: erminfrdbn
 img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/thdrcfrdbn-portrait.webp
+  portrait: images/being/erminfrdbn-portrait.webp
   templatePriority: null
   archetypes: []
-  occupation: Miner
+  occupation: Fisher
   stations: []
   lore:
     - varokhiclt
@@ -28,68 +28,66 @@ data:
     - vrystwald
   affiliations:
     - vrystwldtrbs
-  gender: male
+  gender: female
   species: null
-  age: 36
-  birthday: 688/4/15
-  height: 1.91
-  weight: 90
-  frame: heavy
+  age: 30
+  birthday: 690/4/27
+  height: 1.8
+  weight: 76
+  frame: light
   appearance:
     eye_color: gray
-    hair_color: blonde
-    skin_color: fair
-    complexion: rough
+    hair_color: red
+    skin_color: pale
+    complexion: ruddy
     extra_features: []
 sohl:
   templatePriority: null
   items:
-    - { model: sohl-sohl-attribute-str, system: { scoreBase: 16 } }
-    - { model: sohl-sohl-attribute-end, system: { scoreBase: 15 } }
-    - { model: sohl-sohl-attribute-dex, system: { scoreBase: 12 } }
-    - { model: sohl-sohl-attribute-agl, system: { scoreBase: 10 } }
-    - { model: sohl-sohl-attribute-per, system: { scoreBase: 14 } }
-    - { model: sohl-sohl-attribute-cml, system: { scoreBase: 9 } }
+    - { model: sohl-sohl-attribute-str, system: { scoreBase: 12 } }
+    - { model: sohl-sohl-attribute-end, system: { scoreBase: 14 } }
+    - { model: sohl-sohl-attribute-dex, system: { scoreBase: 15 } }
+    - { model: sohl-sohl-attribute-agl, system: { scoreBase: 14 } }
+    - { model: sohl-sohl-attribute-per, system: { scoreBase: 16 } }
+    - { model: sohl-sohl-attribute-cml, system: { scoreBase: 11 } }
     - { model: sohl-sohl-attribute-aur, system: { scoreBase: 11 } }
     - { model: sohl-sohl-attribute-wil, system: { scoreBase: 12 } }
-    - { model: sohl-sohl-attribute-rea, system: { scoreBase: 10 } }
-    - { model: sohl-sohl-attribute-cre, system: { scoreBase: 8 } }
-    - { model: sohl-sohl-attribute-emp, system: { scoreBase: 10 } }
-    - { model: sohl-sohl-attribute-elo, system: { scoreBase: 9 } }
-    - { model: sohl-sohl-attribute-mor, system: { scoreBase: 12 } }
-    - { model: sohl-sohl-attribute-voi, system: { scoreBase: 10 } }
-    - { model: affiliation-ymir }
-    - { model: sohl-sohl-skill-brew, system: { masteryLevelBase: 24 } }
-    - { model: sohl-sohl-skill-cook, system: { masteryLevelBase: 24 } }
-    - { model: sohl-sohl-skill-eng, system: { masteryLevelBase: 45 } }
-    - { model: sohl-sohl-skill-folklr, system: { masteryLevelBase: 11 } }
-    - { model: sohl-sohl-skill-pysn, system: { masteryLevelBase: 24 } }
-    - { model: sohl-sohl-skill-chrm, system: { masteryLevelBase: 27 } }
-    - { model: sohl-sohl-skill-cmd, system: { masteryLevelBase: 22 } }
-    - { model: sohl-sohl-skill-dscr, system: { masteryLevelBase: 20 } }
-    - { model: sohl-sohl-skill-guil, system: { masteryLevelBase: 45 } }
-    - { model: sohl-sohl-skill-intr, system: { masteryLevelBase: 40 } }
-    - { model: sohl-sohl-skill-sing, system: { masteryLevelBase: 36 } }
-    - { model: sohl-sohl-skill-thtcs, system: { masteryLevelBase: 8 } }
-    - { model: sohl-sohl-skill-herb, system: { masteryLevelBase: 12 } }
-    - { model: sohl-sohl-skill-mnrl, system: { masteryLevelBase: 60 } }
-    - { model: sohl-sohl-skill-srvl, system: { masteryLevelBase: 44 } }
-    - { model: sohl-sohl-skill-awar, system: { masteryLevelBase: 65 } }
-    - { model: sohl-sohl-skill-clmb, system: { masteryLevelBase: 44 } }
-    - { model: sohl-sohl-skill-dnce, system: { masteryLevelBase: 27 } }
+    - { model: sohl-sohl-attribute-rea, system: { scoreBase: 13 } }
+    - { model: sohl-sohl-attribute-cre, system: { scoreBase: 14 } }
+    - { model: sohl-sohl-attribute-emp, system: { scoreBase: 13 } }
+    - { model: sohl-sohl-attribute-elo, system: { scoreBase: 12 } }
+    - { model: sohl-sohl-attribute-mor, system: { scoreBase: 14 } }
+    - { model: sohl-sohl-attribute-voi, system: { scoreBase: 12 } }
+    - { model: affiliation-thorr }
+    - { model: sohl-sohl-skill-brew, system: { masteryLevelBase: 15 } }
+    - { model: sohl-sohl-skill-cook, system: { masteryLevelBase: 30 } }
+    - { model: sohl-sohl-skill-embl, system: { masteryLevelBase: 14 } }
+    - { model: sohl-sohl-skill-folklr, system: { masteryLevelBase: 13 } }
+    - { model: sohl-sohl-skill-pysn, system: { masteryLevelBase: 14 } }
+    - { model: sohl-sohl-skill-shpw, system: { masteryLevelBase: 26 } }
+    - { model: sohl-sohl-skill-chrm, system: { masteryLevelBase: 36 } }
+    - { model: sohl-sohl-skill-cmd, system: { masteryLevelBase: 36 } }
+    - { model: sohl-sohl-skill-dscr, system: { masteryLevelBase: 26 } }
+    - { model: sohl-sohl-skill-guil, system: { masteryLevelBase: 39 } }
+    - { model: sohl-sohl-skill-intr, system: { masteryLevelBase: 65 } }
+    - { model: sohl-sohl-skill-sing, system: { masteryLevelBase: 48 } }
+    - { model: sohl-sohl-skill-thtcs, system: { masteryLevelBase: 13 } }
+    - { model: sohl-sohl-skill-fish, system: { masteryLevelBase: 70 } }
+    - { model: sohl-sohl-skill-pilt, system: { masteryLevelBase: 70 } }
+    - { model: sohl-sohl-skill-smsh, system: { masteryLevelBase: 56 } }
+    - { model: sohl-sohl-skill-srvl, system: { masteryLevelBase: 24 } }
+    - { model: sohl-sohl-skill-awar, system: { masteryLevelBase: 42 } }
+    - { model: sohl-sohl-skill-clmb, system: { masteryLevelBase: 42 } }
+    - { model: sohl-sohl-skill-dnce, system: { masteryLevelBase: 56 } }
     - { model: sohl-sohl-skill-jump, system: { masteryLevelBase: 39 } }
-    - { model: sohl-sohl-skill-ridg, system: { masteryLevelBase: 10 } }
-    - { model: sohl-sohl-skill-stlth, system: { masteryLevelBase: 44 } }
-    - { model: sohl-sohl-skill-swim, system: { masteryLevelBase: 12 } }
-    - { model: sohl-sohl-skill-archery, system: { masteryLevelBase: 13 } }
-    - { model: sohl-sohl-skill-init, system: { masteryLevelBase: 33 } }
-    - { model: sohl-sohl-skill-melee, system: { masteryLevelBase: 22 } }
-    - { model: sohl-sohl-skill-thro, system: { masteryLevelBase: 26 } }
-    - { model: sohl-sohl-skill-draw, system: { masteryLevelBase: 10 } }
-    - { model: sohl-sohl-skill-hide, system: { masteryLevelBase: 13 } }
-    - { model: sohl-sohl-skill-jewl, system: { masteryLevelBase: 26 } }
-    - { model: sohl-sohl-skill-mtlc, system: { masteryLevelBase: 28 } }
-    - { model: sohl-sohl-skill-wood, system: { masteryLevelBase: 56 } }
+    - { model: sohl-sohl-skill-ridg, system: { masteryLevelBase: 13 } }
+    - { model: sohl-sohl-skill-stlth, system: { masteryLevelBase: 39 } }
+    - { model: sohl-sohl-skill-swim, system: { masteryLevelBase: 14 } }
+    - { model: sohl-sohl-skill-archery, system: { masteryLevelBase: 16 } }
+    - { model: sohl-sohl-skill-init, system: { masteryLevelBase: 36 } }
+    - { model: sohl-sohl-skill-melee, system: { masteryLevelBase: 30 } }
+    - { model: sohl-sohl-skill-thro, system: { masteryLevelBase: 30 } }
+    - { model: sohl-sohl-skill-draw, system: { masteryLevelBase: 30 } }
   system:
     body:
       structure:
@@ -553,54 +551,54 @@ sohl:
 
 # Appearance {#appearance}
 
-Theódric Fróðbán is a 36-year-old man who stands 6'3" tall and is broad and solidly built. He has an angular face with prominent cheekbones, a high forehead, and a heavy jaw that leads to a broad chin. His wide-set gray eyes sit beneath prominent brows, lending him an open gaze. A straight nose and curved lips complete his features. He has fair skin with a rough complexion. His blonde hair is braided at the temples.
+Ermína Fródbán is a 30-year-old woman who stands 5'11" tall and is slender. She has a broad face with angular cheekbones, a broad forehead, and a square jaw that leads to a strong chin. Her large gray eyes sit beneath prominent brows, lending her an expressive gaze. A straight nose and firm lips complete her features. She has pale skin with a ruddy complexion. Her red hair is woven with small braids.
 
 # Dossier {#dossier}
 
-Born in the Vrystwald region to a freeman family of Varokhi heritage, Theódric Fróðbán came into the world of the miner through a combination of circumstance and aptitude.
+Born in the Vrystwald region to a freeman family of Varokhi heritage, Ermína Fródbán came into the world of the fisher through a combination of circumstance and aptitude.
 
-Thrain has worked in the mines since he was a teenager, following in his father's footsteps. He specializes in extracting precious metals and stones, using his strength and experience to navigate the treacherous tunnels. Thrain is known for his reliability and strong work ethic, often taking on the most challenging tasks. He values camaraderie among his fellow miners and believes in looking out for one another.
+Elira grew up near the shore, where she developed a love for the sea. She became a fisher to support her family and enjoys the freedom that comes with being on the water. Elira is known for her quick thinking and ability to adapt to changing conditions at sea. She is also a skilled netmaker, often mending her own nets and selling spares to other fishers.
 
-Now at 36 years of age, Theódric Fróðbán has established himself as a known figure among the miners of Vrystwald. His reputation, for better or worse, precedes him in the circles where such things matter.
+Now at 30 years of age, Ermína Fródbán has established herself as a known figure among the fishers of Vrystwald. Her reputation, for better or worse, precedes her in the circles where such things matter.
 
 ## Psyche
 
 ### Personality
 
-Can be overly cautious, struggles with technical mining sohl.
+Tends to take risks when fishing, sometimes overconfident.
 
 ### Motivation
 
-Theódric is driven by the desire to master his craft and secure a stable future. The uncertainties of life in miner work keep him vigilant and adaptable.
+Ermína is driven by the desire to master her craft and secure a stable future. The uncertainties of life in fisher work keep her vigilant and adaptable.
 
 ### Strengths
 
-Physically strong, experienced in mining techniques, good team player.
+Skilled in fishing and netmaking, quick thinker, adaptable.
 
 ## Social
 
-Theódric is affiliated with Local Miners' Union.
+Ermína is affiliated with Coastal Fishers' Guild.
 
-As a Varokhi miner, Theódric occupies a recognized social niche within Vrystwald society.
+As a Varokhi fisher, Ermína occupies a recognized social niche within Vrystwald society.
 
 ## Companions
 
 ### Patrons
 
-Theódric's primary patron is Local mining companies and merchants buying precious metals.. This relationship provides both opportunity and obligation.
+Ermína's primary patron is Local vendors who purchase her fresh catch.. This relationship provides both opportunity and obligation.
 
 ### Enemies
 
-Few; generally well-respected among peers.
+Few, though some older fishers question her methods.
 
 ## Plot Hooks
 
-1. **The Miner's Dilemma** — Theódric faces a professional crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Vrystwald.
+1. **The Fisher's Dilemma** — Ermína faces a professional crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Vrystwald.
 
-2. **Old Grudges** — Few; generally well-respected among peers. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
+2. **Old Grudges** — Few, though some older fishers question her methods. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
 
-3. **Echoes of the Past** — Something from Theódric's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
+3. **Echoes of the Past** — Something from Ermína's earlier life resurfaces unexpectedly, forcing her to confront unfinished business that she thought was long buried.
 
-4. **Shifting Winds** — Political changes in Vrystwald threaten to upend the social order that Theódric depends upon. He must decide whether to adapt, resist, or flee.
+4. **Shifting Winds** — Political changes in Vrystwald threaten to upend the social order that Ermína depends upon. She must decide whether to adapt, resist, or flee.
 
-5. **The Opportunity** — A chance encounter offers Theódric the possibility of advancement beyond anything he has dared hope for — but the price may be higher than it first appears.
+5. **The Opportunity** — A chance encounter offers Ermína the possibility of advancement beyond anything she has dared hope for — but the price may be higher than it first appears.

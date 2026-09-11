@@ -535,7 +535,7 @@ The most notorious saga of Gríma Svartrúnar involves his desecration of [[plac
 
 ### Personality
 
-Gríma is vile and sadistic, taking pleasure in corruption and defilement. Where Mörkvidr is coldly rational and Vargskær is brutally direct, Gríma is cruel for cruelty's sake. He delights in twisting things of beauty into things of horror and considers the fall of [[place-laurelosse|Laurelossë]] his masterwork. He is paranoid and trusts no one, surrounding himself with layers of Helspawn guardians. Despite his evil, he possesses a perverse artistic sensibility — his rune-carvings are genuinely beautiful, which makes their dark purpose all the more disturbing.
+Gríma is vile and sadistic, taking pleasure in corruption and defilement. Where Mörkvidr is coldly rational and Vargskaer is brutally direct, Gríma is cruel for cruelty's sake. He delights in twisting things of beauty into things of horror and considers the fall of [[place-laurelosse|Laurelossë]] his masterwork. He is paranoid and trusts no one, surrounding himself with layers of Helspawn guardians. Despite his evil, he possesses a perverse artistic sensibility — his rune-carvings are genuinely beautiful, which makes their dark purpose all the more disturbing.
 
 ### Motivation
 

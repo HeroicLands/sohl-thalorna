@@ -53,7 +53,7 @@ Bethuan's vowels are notably fuller and longer-holding than Helonic:
 - **ô** /oː/ — long, back-mid, often with rounding glide
 - **u** /u/ — short, back-high
 - **û** /uː/ — long, back-high
-- **ö** /ø/ — front-rounded vowel (rare, found in older loanwords)
+- **ö** /o/ — front-rounded vowel (rare, found in older loanwords)
 
 Diphthongs are richer and more common than in Byzarian: -ia, -io, -ea, -eo are glided smoothly, and -ou /oː/ and -au /aːu/ are native. **Hiatus** (two adjacent vowels not forming a diphthong) is common and pronounced distinctly: _theo-on_ (god-ACC) is pronounced as three syllables.
 
@@ -176,22 +176,22 @@ The borrowing followed the realm's history. When Ta'Kheperu backed Bethûan inde
 
 The loans are overwhelmingly **concrete nouns**, and they pile up exactly where the modern state and economy do:
 
-| Domain                 | Bethuan loan (illustrative) | Meaning                           | Kheperi source / note                                                                           |
-| ---------------------- | --------------------------- | --------------------------------- | ----------------------------------------------------------------------------------------------- |
-| Water & engineering    | _qanat_                     | underground tunnel-well           | the irrigation form the Kheperi taught                                                          |
-|                        | _et-tareb_                  | aqueduct                          | fossilized article _et-_                                                                        |
-|                        | _en-mûna_                   | cistern, reservoir                | fossilized article _en-_                                                                        |
-| Money & administration | _deben_, _kite_             | the weight-currency units         | the realm has no native coinage                                                                 |
-|                        | _et-makhs_                  | customs-toll, the impost          | from a Kheperi root for "tax"                                                                   |
-|                        | _khetem_                    | seal; a sealed warrant            | Kheperi _ḫtm_, "to seal"                                                                        |
-|                        | _sesh_                      | an official document, the writ    | Kheperi _sš_, "scribe/writing"                                                                  |
-| Commerce & the sea     | _en-meret_                  | quay, the harbour-front           | Kheperi _mryt_, "quay"                                                                          |
-|                        | _makhzen_                   | bonded warehouse, store           | cf. the same root behind _almacén_                                                              |
-| Calendar & measure     | _renpet_                    | year (in era-reckoning)           | as in _Renpet Sep Tepy_                                                                         |
-|                        | _Akhet, Peret, Shemu_       | the three seasons                 | the Kheperi agricultural year                                                                   |
-| Faith & divination     | _makhat_                    | the scales; the oracular weighing | Kheperi _mḫꜣt_, "balance"; tied to the [[affiliation-arldnpnthn\|Æthérían]] oracle's "weighing" |
-| Luxury & material      | _shemen_                    | fragrant oil, unguent             | a trade-good loan                                                                               |
-|                        | _natrun_                    | natron, cleaning-salt             | a material-culture loan                                                                         |
+| Domain                 | Bethuan loan (illustrative) | Meaning                           | Kheperi source / note                                                                            |
+| ---------------------- | --------------------------- | --------------------------------- | ------------------------------------------------------------------------------------------------ |
+| Water & engineering    | _qanat_                     | underground tunnel-well           | the irrigation form the Kheperi taught                                                           |
+|                        | _et-tareb_                  | aqueduct                          | fossilized article _et-_                                                                         |
+|                        | _en-mûna_                   | cistern, reservoir                | fossilized article _en-_                                                                         |
+| Money & administration | _deben_, _kite_             | the weight-currency units         | the realm has no native coinage                                                                  |
+|                        | _et-makhs_                  | customs-toll, the impost          | from a Kheperi root for "tax"                                                                    |
+|                        | _khetem_                    | seal; a sealed warrant            | Kheperi _ḫtm_, "to seal"                                                                         |
+|                        | _sesh_                      | an official document, the writ    | Kheperi _sš_, "scribe/writing"                                                                   |
+| Commerce & the sea     | _en-meret_                  | quay, the harbour-front           | Kheperi _mryt_, "quay"                                                                           |
+|                        | _makhzen_                   | bonded warehouse, store           | cf. the same root behind _almacén_                                                               |
+| Calendar & measure     | _renpet_                    | year (in era-reckoning)           | as in _Renpet Sep Tepy_                                                                          |
+|                        | _Akhet, Peret, Shemu_       | the three seasons                 | the Kheperi agricultural year                                                                    |
+| Faith & divination     | _makhat_                    | the scales; the oracular weighing | Kheperi _mḫꜣt_, "balance"; tied to the [[affiliation-arldnpnthn\|Aethérían]] oracle's "weighing" |
+| Luxury & material      | _shemen_                    | fragrant oil, unguent             | a trade-good loan                                                                                |
+|                        | _natrun_                    | natron, cleaning-salt             | a material-culture loan                                                                          |
 
 _(These forms are illustrative; the pattern matters more than any single coinage.)_
 

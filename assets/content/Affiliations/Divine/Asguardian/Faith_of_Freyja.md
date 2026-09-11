@@ -12,27 +12,27 @@ data:
   governance:
     model: theocracy
     summary: >-
-      A ladder of circles, rising from the young Thræll through the working Goði or Gyðja to the
-      senior ranks of Jarl and Konungr and the pontifical offices of the Allsherjargoði and the
-      Faðir or Móðir of the god. The titles are this faith's own; the pattern is the pantheon's.
+      A ladder of circles, rising from the young Thraell through the working Godi or Gydja to the
+      senior ranks of Jarl and Konungr and the pontifical offices of the Allsherjargodi and the
+      Fadir or Módir of the god. The titles are this faith's own; the pattern is the pantheon's.
       Circle II is unlisted in the sources.
     ranks:
       - level: 0
-        title: Níðingr
+        title: Nídingr
         lore: excmmnctrnk
         description: >-
           Declared nithing — cut off from the faith and from the standing that being of it
-          conferred. No hall will seat them and no goði will speak for them.
+          conferred. No hall will seat them and no godi will speak for them.
       - level: 1
-        title: Gull Thræll
+        title: Gull Thraell
         lore: initiaternk
         description: >-
           "Golden Thrall" — Silk Acolyte. The god's thrall: taken into the temple young, given the observances and the labour, and years away from the priesthood.
       - level: 3
-        title: Fegurð Goði/Goðe
+        title: Fegurd Godi/Gode
         lore: priestrnk
         description: >-
-          "Beauty Priest/Priestess" — Priest/Priestess of Charm. The working priest or priestess — Goði for a man, Gyðja for a woman — who keeps the rites of a hall and the people who gather at it.
+          "Beauty Priest/Priestess" — Priest/Priestess of Charm. The working priest or priestess — Godi for a man, Gydja for a woman — who keeps the rites of a hall and the people who gather at it.
       - level: 4
         title: Fágr Hersir
         lore: commanderrnk
@@ -44,17 +44,17 @@ data:
         description: >-
           "Gold Jarl" — Guardian of Prosperity. A senior rank carrying temporal weight as well as spiritual; in many kingdoms a Jarl of a faith sits among the jarls of the land.
       - level: 6
-        title: Fríðr Konungrkvinde
+        title: Frídr Konungrkvinde
         lore: sovereignrnk
         description: >-
           "Fair Queen" — Golden Sovereign. King or queen within the faith's own hierarchy, and in some kingdoms a power the crown must reckon with.
       - level: 7
-        title: Sefja Allsherjargoði
+        title: Sefja Allsherjargodi
         lore: highpriestrnk
         description: >-
           "Charming High Priest" — High Enchantress. High priest — a pontifical office, speaking for the faith where it must speak with one voice.
       - level: 8
-        title: Fríðr Móðir
+        title: Frídr Módir
         lore: grandmasterrnk
         description: >-
           "Mother of Beauty" — Pontiff of the Golden Veil. Father or Mother of the god: the highest pontifical office, held by one person at a time.
@@ -67,11 +67,11 @@ data:
         Priests known for their persuasive abilities, often serving as diplomats, negotiators, and ambassadors.
       Knights of the Golden Rose: >-
         Elite warriors who protect the temples and followers of Fréyja.
-      Allsherjargoði: >-
+      Allsherjargodi: >-
         High priest of the faith, and its voice where it must speak with one.
-      Faðir/Móðir: >-
+      Fadir/Módir: >-
         Father or Mother of the god — the highest office, held by one person.
-      Goði/Gyðja: >-
+      Godi/Gydja: >-
         The working priest or priestess of a hall, who keeps its rites and its people.
   commonSkills: []
   seat: null
@@ -121,13 +121,13 @@ Fréyja is depicted as a radiant and sensual goddess, her beauty unparalleled an
 
 The higher levels of clergy, Circle V and above, are only accessible to females.
 
-- **Gull Thræll** (Circle I: "Golden Thrall") — Silk Acolyte
-- **Fegurð Goði/Goðe** (Circle III: "Beauty Priest/Priestess") — Priest/Priestess of Charm
+- **Gull Thraell** (Circle I: "Golden Thrall") — Silk Acolyte
+- **Fegurd Godi/Gode** (Circle III: "Beauty Priest/Priestess") — Priest/Priestess of Charm
 - **Fágr Hersir** (Circle IV: "Fair Warlord") — Gilded Voice
 - **Gull Jarl** (Circle V: "Gold Jarl") — Guardian of Prosperity
-- **Fríðr Konungrkvinde** (Circle VI: "Fair Queen") — Golden Sovereign
-- **Sefja Allsherjargoði** (Circle VII: "Charming High Priest") — High Enchantress
-- **Fríðr Móðir** (Circle VIII: "Mother of Beauty") — Pontiff of the Golden Veil
+- **Frídr Konungrkvinde** (Circle VI: "Fair Queen") — Golden Sovereign
+- **Sefja Allsherjargodi** (Circle VII: "Charming High Priest") — High Enchantress
+- **Frídr Módir** (Circle VIII: "Mother of Beauty") — Pontiff of the Golden Veil
 
 **Key Skills:** Seduction and charm, Mercantilism, Mathematics
 

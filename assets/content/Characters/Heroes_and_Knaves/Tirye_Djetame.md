@@ -9,7 +9,7 @@ name:
   clan: Djet'amê
   home: meruhotep
   aliases:
-    - Tirye Djetamê
+    - Tirye Djetamê
 packFolder: northernfertileregiontakheperu
 banner: banners/ta-kheperu-banner.webp
 shortcode: tiryedjetm
