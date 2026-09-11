@@ -20,5 +20,5 @@ SELECT address.slug AS _ref,
        description  AS "Description"
 FROM notes
 WHERE type = 'being'
-ORDER BY name.full
+ORDER BY name.full COLLATE NOCASE
 ```

@@ -41,7 +41,7 @@ FROM notes
 WHERE type = 'affiliation'
   AND subType = 'polity'
   AND list_contains(data.domains, 'pshtrwldrns')
-ORDER BY name.full
+ORDER BY name.full COLLATE NOCASE
 ```
 
 ## Peoples and Culture

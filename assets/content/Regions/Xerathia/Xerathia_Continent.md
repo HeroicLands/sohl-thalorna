@@ -43,7 +43,7 @@ FROM notes
 WHERE type = 'place'
   AND subType = 'region'
   AND list_contains(data.parents, 'xerathia')
-ORDER BY name.full
+ORDER BY name.full COLLATE NOCASE
 ```
 
 ## Peoples and Cultures

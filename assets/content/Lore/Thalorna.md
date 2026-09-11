@@ -33,7 +33,7 @@ SELECT address.slug AS _ref,
 FROM notes
 WHERE type = 'place'
   AND list_contains(tags, 'continent')
-ORDER BY name.full
+ORDER BY name.full COLLATE NOCASE
 ```
 
 ## The Elder Races
@@ -60,7 +60,7 @@ SELECT address.slug AS _ref,
        description  AS "Overview"
 FROM notes
 WHERE list_contains(tags, 'pantheon')
-ORDER BY name.full
+ORDER BY name.full COLLATE NOCASE
 ```
 
 # Characters
@@ -81,7 +81,7 @@ SELECT address.slug AS _ref,
        description  AS "Overview"
 FROM notes
 WHERE list_contains(tags, 'company')
-ORDER BY name.full
+ORDER BY name.full COLLATE NOCASE
 ```
 
 # Organizations
@@ -94,7 +94,7 @@ SELECT address.slug AS _ref,
        description  AS "Overview"
 FROM notes
 WHERE list_contains(tags, 'organization')
-ORDER BY name.full
+ORDER BY name.full COLLATE NOCASE
 ```
 
 # See Also

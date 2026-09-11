@@ -28,7 +28,7 @@ FROM notes
 WHERE type = 'mysticalability'
   AND subType = 'arcaneincantation'
   AND sohl.system.assocSkillCode = 'hydalis'
-ORDER BY name.full
+ORDER BY name.full COLLATE NOCASE
 ```
 
 ### Incantus Kentra
@@ -41,7 +41,7 @@ FROM notes
 WHERE type = 'mysticalability'
   AND subType = 'arcaneincantation'
   AND sohl.system.assocSkillCode = 'kentra'
-ORDER BY name.full
+ORDER BY name.full COLLATE NOCASE
 ```
 
 ### Incantus Physéra
@@ -54,7 +54,7 @@ FROM notes
 WHERE type = 'mysticalability'
   AND subType = 'arcaneincantation'
   AND sohl.system.assocSkillCode = 'physera'
-ORDER BY name.full
+ORDER BY name.full COLLATE NOCASE
 ```
 
 ### Incantus Pneuménos
@@ -67,7 +67,7 @@ FROM notes
 WHERE type = 'mysticalability'
   AND subType = 'arcaneincantation'
   AND sohl.system.assocSkillCode = 'pneumenos'
-ORDER BY name.full
+ORDER BY name.full COLLATE NOCASE
 ```
 
 ### Incantus Pyréthos
@@ -80,7 +80,7 @@ FROM notes
 WHERE type = 'mysticalability'
   AND subType = 'arcaneincantation'
   AND sohl.system.assocSkillCode = 'pyrethos'
-ORDER BY name.full
+ORDER BY name.full COLLATE NOCASE
 ```
 
 ### Incantus Sidéros
@@ -93,7 +93,7 @@ FROM notes
 WHERE type = 'mysticalability'
   AND subType = 'arcaneincantation'
   AND sohl.system.assocSkillCode = 'sideros'
-ORDER BY name.full
+ORDER BY name.full COLLATE NOCASE
 ```
 
 ### Incantus Zephäris
@@ -106,7 +106,7 @@ FROM notes
 WHERE type = 'mysticalability'
   AND subType = 'arcaneincantation'
   AND sohl.system.assocSkillCode = 'zepharis'
-ORDER BY name.full
+ORDER BY name.full COLLATE NOCASE
 ```
 
 ## Arcane Talent
@@ -118,7 +118,7 @@ SELECT address.slug AS _ref,
 FROM notes
 WHERE type = 'mysticalability'
   AND subType = 'arcanetalent'
-ORDER BY name.full
+ORDER BY name.full COLLATE NOCASE
 ```
 
 ## Shamanic Rite
@@ -130,7 +130,7 @@ SELECT address.slug AS _ref,
 FROM notes
 WHERE type = 'mysticalability'
   AND subType = 'shamanicrite'
-ORDER BY name.full
+ORDER BY name.full COLLATE NOCASE
 ```
 
 ## Spirit Action
@@ -142,7 +142,7 @@ SELECT address.slug AS _ref,
 FROM notes
 WHERE type = 'mysticalability'
   AND subType = 'spiritaction'
-ORDER BY name.full
+ORDER BY name.full COLLATE NOCASE
 ```
 
 ## Spirit Power
@@ -154,7 +154,7 @@ SELECT address.slug AS _ref,
 FROM notes
 WHERE type = 'mysticalability'
   AND subType = 'spiritpower'
-ORDER BY name.full
+ORDER BY name.full COLLATE NOCASE
 ```
 
 ## Benediction
@@ -166,7 +166,7 @@ SELECT address.slug AS _ref,
 FROM notes
 WHERE type = 'mysticalability'
   AND subType = 'benediction'
-ORDER BY name.full
+ORDER BY name.full COLLATE NOCASE
 ```
 
 ## Divine Devotion
@@ -178,7 +178,7 @@ SELECT address.slug AS _ref,
 FROM notes
 WHERE type = 'mysticalability'
   AND subType = 'divinedevotion'
-ORDER BY name.full
+ORDER BY name.full COLLATE NOCASE
 ```
 
 ## Divine Incantation
@@ -190,7 +190,7 @@ SELECT address.slug AS _ref,
 FROM notes
 WHERE type = 'mysticalability'
   AND subType = 'divineincantation'
-ORDER BY name.full
+ORDER BY name.full COLLATE NOCASE
 ```
 
 ## Spirit Talent
@@ -202,7 +202,7 @@ SELECT address.slug AS _ref,
 FROM notes
 WHERE type = 'mysticalability'
   AND subType = 'spirittalent'
-ORDER BY name.full
+ORDER BY name.full COLLATE NOCASE
 ```
 
 ## Alchemy
@@ -214,7 +214,7 @@ SELECT address.slug AS _ref,
 FROM notes
 WHERE type = 'mysticalability'
   AND subType = 'alchemy'
-ORDER BY name.full
+ORDER BY name.full COLLATE NOCASE
 ```
 
 ## Divination
@@ -226,5 +226,5 @@ SELECT address.slug AS _ref,
 FROM notes
 WHERE type = 'mysticalability'
   AND subType = 'divination'
-ORDER BY name.full
+ORDER BY name.full COLLATE NOCASE
 ```

@@ -16,5 +16,5 @@ FROM notes
 WHERE type = 'being'
   AND file.name <> 'New_Character_Template'
   AND list_contains(tags, 'heroes-and-knaves')
-ORDER BY name.full
+ORDER BY name.full COLLATE NOCASE
 ```

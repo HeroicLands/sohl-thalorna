@@ -120,7 +120,7 @@ SELECT address.slug AS _ref,
 FROM notes
 WHERE type = 'skill'
   AND subType = 'script'
-ORDER BY name.full
+ORDER BY name.full COLLATE NOCASE
 ```
 
 ## Trade Languages
@@ -139,5 +139,5 @@ SELECT address.slug AS _ref,
 FROM notes
 WHERE type = 'skill'
   AND subType = 'language'
-ORDER BY name.full
+ORDER BY name.full COLLATE NOCASE
 ```

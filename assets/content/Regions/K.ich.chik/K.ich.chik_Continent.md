@@ -48,7 +48,7 @@ FROM notes
 WHERE type = 'place'
   AND subType = 'region'
   AND list_contains(data.parents, 'kchchkcntnnt')
-ORDER BY name.full
+ORDER BY name.full COLLATE NOCASE
 ```
 
 ## The Five Nations of the North

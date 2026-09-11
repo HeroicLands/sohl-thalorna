@@ -23,7 +23,7 @@ FROM notes
 WHERE type = 'mysticalability'
   AND subType = 'arcaneincantation'
   AND sohl.system.assocSkillCode = 'pyrethos'
-ORDER BY sohl.system.levelBase, name.full
+ORDER BY sohl.system.levelBase, name.full COLLATE NOCASE
 ```
 
 # Zephäris (Air)
@@ -37,7 +37,7 @@ FROM notes
 WHERE type = 'mysticalability'
   AND subType = 'arcaneincantation'
   AND sohl.system.assocSkillCode = 'zepharis'
-ORDER BY sohl.system.levelBase, name.full
+ORDER BY sohl.system.levelBase, name.full COLLATE NOCASE
 ```
 
 # Physéra (Earth/Life)
@@ -51,7 +51,7 @@ FROM notes
 WHERE type = 'mysticalability'
   AND subType = 'arcaneincantation'
   AND sohl.system.assocSkillCode = 'physera'
-ORDER BY sohl.system.levelBase, name.full
+ORDER BY sohl.system.levelBase, name.full COLLATE NOCASE
 ```
 
 # Hydälis (Water)
@@ -65,7 +65,7 @@ FROM notes
 WHERE type = 'mysticalability'
   AND subType = 'arcaneincantation'
   AND sohl.system.assocSkillCode = 'hydalis'
-ORDER BY sohl.system.levelBase, name.full
+ORDER BY sohl.system.levelBase, name.full COLLATE NOCASE
 ```
 
 # Sidéros (Metal)
@@ -79,7 +79,7 @@ FROM notes
 WHERE type = 'mysticalability'
   AND subType = 'arcaneincantation'
   AND sohl.system.assocSkillCode = 'sideros'
-ORDER BY sohl.system.levelBase, name.full
+ORDER BY sohl.system.levelBase, name.full COLLATE NOCASE
 ```
 
 # Pneuménos (Spirit)
@@ -93,7 +93,7 @@ FROM notes
 WHERE type = 'mysticalability'
   AND subType = 'arcaneincantation'
   AND sohl.system.assocSkillCode = 'pneumenos'
-ORDER BY sohl.system.levelBase, name.full
+ORDER BY sohl.system.levelBase, name.full COLLATE NOCASE
 ```
 
 # Kentra ( _The Center All_)
@@ -107,7 +107,7 @@ FROM notes
 WHERE type = 'mysticalability'
   AND subType = 'arcaneincantation'
   AND sohl.system.assocSkillCode = 'kentra'
-ORDER BY sohl.system.levelBase, name.full
+ORDER BY sohl.system.levelBase, name.full COLLATE NOCASE
 ```
 
 # See Also

@@ -49,7 +49,7 @@ FROM notes
 WHERE type = 'place'
   AND subType = 'region'
   AND list_contains(data.parents, 'klhrcntnnt')
-ORDER BY name.full
+ORDER BY name.full COLLATE NOCASE
 ```
 
 ## Civilization

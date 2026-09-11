@@ -62,7 +62,7 @@ FROM notes
 WHERE type = 'affiliation'
   AND subType = 'polity'
   AND list_contains(data.domains, 'alndntrblnds')
-ORDER BY name.full
+ORDER BY name.full COLLATE NOCASE
 ```
 
 ## Borders

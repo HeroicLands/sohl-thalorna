@@ -71,7 +71,7 @@ FROM notes
 WHERE type = 'affiliation'
   AND subType = 'polity'
   AND list_contains(data.domains, 'aelwyth')
-ORDER BY name.full
+ORDER BY name.full COLLATE NOCASE
 ```
 
 ### Elder Race Enclaves

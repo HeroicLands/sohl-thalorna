@@ -33,7 +33,7 @@ SELECT address.slug AS _ref,
 FROM notes
 WHERE type = 'affiliation'
   AND subType IN ('faithtradition', 'order')
-ORDER BY name.full
+ORDER BY name.full COLLATE NOCASE
 ```
 
 ## Schools of Magic
@@ -47,7 +47,7 @@ SELECT address.slug AS _ref,
 FROM notes
 WHERE type = 'affiliation'
   AND subType = 'arcanetradition'
-ORDER BY name.full
+ORDER BY name.full COLLATE NOCASE
 ```
 
 ## Spirit Traditions
@@ -61,7 +61,7 @@ SELECT address.slug AS _ref,
 FROM notes
 WHERE type = 'affiliation'
   AND subType = 'spirittradition'
-ORDER BY name.full
+ORDER BY name.full COLLATE NOCASE
 ```
 
 ## Secular Bodies
@@ -76,5 +76,5 @@ SELECT address.slug AS _ref,
 FROM notes
 WHERE type = 'affiliation'
   AND subType IN ('guild', 'venture', 'criminal', 'governmental', 'fellowship', 'lineage')
-ORDER BY name.full
+ORDER BY name.full COLLATE NOCASE
 ```

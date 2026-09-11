@@ -21,5 +21,5 @@ SELECT address.slug AS _ref,
 FROM notes
 WHERE type = 'doc'
   AND subType = 'reference'
-ORDER BY name.full
+ORDER BY name.full COLLATE NOCASE
 ```
