@@ -41,73 +41,76 @@ data:
 sohl:
   templatePriority: null
   items:
-    - { shortcode: str, type: attribute, system: { scoreBase: 10 } }
-    - { shortcode: end, type: attribute, system: { scoreBase: 12 } }
-    - { shortcode: dex, type: attribute, system: { scoreBase: 16 } }
-    - { shortcode: agl, type: attribute, system: { scoreBase: 15 } }
-    - { shortcode: per, type: attribute, system: { scoreBase: 14 } }
-    - { shortcode: cml, type: attribute, system: { scoreBase: 16 } }
-    - { shortcode: aur, type: attribute, system: { scoreBase: 12 } }
-    - { shortcode: wil, type: attribute, system: { scoreBase: 11 } }
-    - { shortcode: rea, type: attribute, system: { scoreBase: 13 } }
-    - { shortcode: cre, type: attribute, system: { scoreBase: 18 } }
-    - { shortcode: emp, type: attribute, system: { scoreBase: 14 } }
-    - { shortcode: elo, type: attribute, system: { scoreBase: 15 } }
-    - { shortcode: mor, type: attribute, system: { scoreBase: 13 } }
-    - { shortcode: voi, type: attribute, system: { scoreBase: 16 } }
-    - { shortcode: thorr, type: affiliation }
-    - { shortcode: brew, type: skill, system: { masteryLevelBase: 14 } }
-    - { shortcode: cook, type: skill, system: { masteryLevelBase: 28 } }
-    - { shortcode: folklr, type: skill, system: { masteryLevelBase: 60 } }
-    - { shortcode: pysn, type: skill, system: { masteryLevelBase: 13 } }
-    - { shortcode: shpw, type: skill, system: { masteryLevelBase: 15 } }
-    - { shortcode: chrm, type: skill, system: { masteryLevelBase: 45 } }
-    - { shortcode: cmd, type: skill, system: { masteryLevelBase: 26 } }
-    - { shortcode: dscr, type: skill, system: { masteryLevelBase: 28 } }
-    - { shortcode: guil, type: skill, system: { masteryLevelBase: 80 } }
-    - { shortcode: intr, type: skill, system: { masteryLevelBase: 70 } }
-    - { shortcode: sing, type: skill, system: { masteryLevelBase: 51 } }
-    - { shortcode: thtcs, type: skill, system: { masteryLevelBase: 85 } }
-    - { shortcode: anmcft, type: skill, system: { masteryLevelBase: 13 } }
-    - { shortcode: srvl, type: skill, system: { masteryLevelBase: 24 } }
-    - { shortcode: acro, type: skill, system: { masteryLevelBase: 42 } }
-    - { shortcode: awar, type: skill, system: { masteryLevelBase: 52 } }
-    - { shortcode: clmb, type: skill, system: { masteryLevelBase: 45 } }
-    - { shortcode: dnce, type: skill, system: { masteryLevelBase: 32 } }
-    - { shortcode: jump, type: skill, system: { masteryLevelBase: 39 } }
-    - { shortcode: lgdm, type: skill, system: { masteryLevelBase: 60 } }
-    - { shortcode: ridg, type: skill, system: { masteryLevelBase: 14 } }
-    - { shortcode: stlth, type: skill, system: { masteryLevelBase: 39 } }
-    - { shortcode: swim, type: skill, system: { masteryLevelBase: 14 } }
-    - { shortcode: archery, type: skill, system: { masteryLevelBase: 15 } }
-    - { shortcode: init, type: skill, system: { masteryLevelBase: 36 } }
-    - { shortcode: melee, type: skill, system: { masteryLevelBase: 32 } }
-    - { shortcode: thro, type: skill, system: { masteryLevelBase: 30 } }
-    - { shortcode: draw, type: skill, system: { masteryLevelBase: 68 } }
-    - { shortcode: lock, type: skill, system: { masteryLevelBase: 15 } }
-    - { shortcode: musc, type: skill, system: { masteryLevelBase: 16 } }
-    - { shortcode: Stf, type: weapongear }
-    - { shortcode: VTunic, type: armorgear }
-    - { shortcode: VBrch, type: armorgear }
-    - { shortcode: LtShoe, type: armorgear }
-    - { shortcode: VCap, type: armorgear }
-    - { shortcode: tndrbx, type: miscgear }
-    - { shortcode: StdRtns, type: miscgear, system: { quantity: 2 } }
+    - { model: sohl-sohl-attribute-str, system: { scoreBase: 10 } }
+    - { model: sohl-sohl-attribute-end, system: { scoreBase: 12 } }
+    - { model: sohl-sohl-attribute-dex, system: { scoreBase: 16 } }
+    - { model: sohl-sohl-attribute-agl, system: { scoreBase: 15 } }
+    - { model: sohl-sohl-attribute-per, system: { scoreBase: 14 } }
+    - { model: sohl-sohl-attribute-cml, system: { scoreBase: 16 } }
+    - { model: sohl-sohl-attribute-aur, system: { scoreBase: 12 } }
+    - { model: sohl-sohl-attribute-wil, system: { scoreBase: 11 } }
+    - { model: sohl-sohl-attribute-rea, system: { scoreBase: 13 } }
+    - { model: sohl-sohl-attribute-cre, system: { scoreBase: 18 } }
+    - { model: sohl-sohl-attribute-emp, system: { scoreBase: 14 } }
+    - { model: sohl-sohl-attribute-elo, system: { scoreBase: 15 } }
+    - { model: sohl-sohl-attribute-mor, system: { scoreBase: 13 } }
+    - { model: sohl-sohl-attribute-voi, system: { scoreBase: 16 } }
+    - { model: affiliation-thorr }
+    - { model: sohl-sohl-skill-brew, system: { masteryLevelBase: 14 } }
+    - { model: sohl-sohl-skill-cook, system: { masteryLevelBase: 28 } }
+    - { model: sohl-sohl-skill-folklr, system: { masteryLevelBase: 60 } }
+    - { model: sohl-sohl-skill-pysn, system: { masteryLevelBase: 13 } }
+    - { model: sohl-sohl-skill-shpw, system: { masteryLevelBase: 15 } }
+    - { model: sohl-sohl-skill-chrm, system: { masteryLevelBase: 45 } }
+    - { model: sohl-sohl-skill-cmd, system: { masteryLevelBase: 26 } }
+    - { model: sohl-sohl-skill-dscr, system: { masteryLevelBase: 28 } }
+    - { model: sohl-sohl-skill-guil, system: { masteryLevelBase: 80 } }
+    - { model: sohl-sohl-skill-intr, system: { masteryLevelBase: 70 } }
+    - { model: sohl-sohl-skill-sing, system: { masteryLevelBase: 51 } }
+    - { model: sohl-sohl-skill-thtcs, system: { masteryLevelBase: 85 } }
+    - { model: sohl-sohl-skill-anmcft, system: { masteryLevelBase: 13 } }
+    - { model: sohl-sohl-skill-srvl, system: { masteryLevelBase: 24 } }
+    - { model: sohl-sohl-skill-acro, system: { masteryLevelBase: 42 } }
+    - { model: sohl-sohl-skill-awar, system: { masteryLevelBase: 52 } }
+    - { model: sohl-sohl-skill-clmb, system: { masteryLevelBase: 45 } }
+    - { model: sohl-sohl-skill-dnce, system: { masteryLevelBase: 32 } }
+    - { model: sohl-sohl-skill-jump, system: { masteryLevelBase: 39 } }
+    - { model: sohl-sohl-skill-lgdm, system: { masteryLevelBase: 60 } }
+    - { model: sohl-sohl-skill-ridg, system: { masteryLevelBase: 14 } }
+    - { model: sohl-sohl-skill-stlth, system: { masteryLevelBase: 39 } }
+    - { model: sohl-sohl-skill-swim, system: { masteryLevelBase: 14 } }
+    - { model: sohl-sohl-skill-archery, system: { masteryLevelBase: 15 } }
+    - { model: sohl-sohl-skill-init, system: { masteryLevelBase: 36 } }
+    - { model: sohl-sohl-skill-melee, system: { masteryLevelBase: 32 } }
+    - { model: sohl-sohl-skill-thro, system: { masteryLevelBase: 30 } }
+    - { model: sohl-sohl-skill-draw, system: { masteryLevelBase: 68 } }
+    - { model: sohl-sohl-skill-lock, system: { masteryLevelBase: 15 } }
+    - { model: sohl-sohl-skill-musc, system: { masteryLevelBase: 16 } }
+    - { model: sohl-sohl-weapongear-stf }
+    - { model: sohl-sohl-armorgear-vtunic }
+    - { model: sohl-sohl-armorgear-vbrch }
+    - { model: sohl-sohl-armorgear-ltshoe }
+    - { model: sohl-sohl-armorgear-vcap }
+    - { model: sohl-sohl-miscgear-tndrbx }
+    - { model: sohl-sohl-miscgear-stdrtns, system: { quantity: 2 } }
     - name: Satchel for jest props
       type: miscgear
       system:
+        shortcode: satchelforjestprops
         weight: 0.5
         value: 100
         durability: 3
     - name: Musical instruments (pipes, bells, lute)
       type: miscgear
       system:
+        shortcode: musicalinstruments
         weight: 1.5
         value: 100
         durability: 3
     - name: Juggling balls
       type: miscgear
       system:
+        shortcode: jugglingballs
         quantity: 1
         weight: 1
         value: 100
@@ -115,11 +118,12 @@ sohl:
     - name: Collection of written jests and jokes
       type: miscgear
       system:
+        shortcode: collectionofwritten
         weight: 0.3
         value: 100
         durability: 3
-    - { shortcode: bglgcvs, type: containergear }
-    - { shortcode: bpchlg, type: containergear }
+    - { model: sohl-sohl-containergear-bglgcvs }
+    - { model: sohl-sohl-containergear-bpchlg }
   system:
     body:
       structure:

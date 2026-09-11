@@ -45,21 +45,21 @@ sohl:
     rea: 1d4+3
   defaultCombatGroup: null
   items:
-    - { shortcode: str, type: attribute, system: { scoreBase: 55 } }
-    - { shortcode: end, type: attribute, system: { scoreBase: 19 } }
-    - { shortcode: dex, type: attribute, system: { scoreBase: 6 } }
-    - { shortcode: agl, type: attribute, system: { scoreBase: 6 } }
-    - { shortcode: per, type: attribute, system: { scoreBase: 8 } }
-    - { shortcode: aur, type: attribute, system: { scoreBase: 8 } }
-    - { shortcode: wil, type: attribute, system: { scoreBase: 11 } }
-    - { shortcode: cre, type: attribute, system: { scoreBase: 6 } }
-    - { shortcode: rea, type: attribute, system: { scoreBase: 5 } }
-    - { shortcode: awar, type: skill, system: { masteryLevelBase: 50 } }
-    - { shortcode: stlth, type: skill, system: { masteryLevelBase: 40 } }
-    - { shortcode: sprt, type: mysticalability, system: { masteryLevelBase: 27 } }
-    - { shortcode: init, type: skill, system: { masteryLevelBase: 32 } }
-    - { shortcode: dge, type: skill, system: { masteryLevelBase: 28 } }
-    - { shortcode: shok, type: skill, system: { masteryLevelBase: 93 } }
+    - { model: sohl-sohl-attribute-str, system: { scoreBase: 55 } }
+    - { model: sohl-sohl-attribute-end, system: { scoreBase: 19 } }
+    - { model: sohl-sohl-attribute-dex, system: { scoreBase: 6 } }
+    - { model: sohl-sohl-attribute-agl, system: { scoreBase: 6 } }
+    - { model: sohl-sohl-attribute-per, system: { scoreBase: 8 } }
+    - { model: sohl-sohl-attribute-aur, system: { scoreBase: 8 } }
+    - { model: sohl-sohl-attribute-wil, system: { scoreBase: 11 } }
+    - { model: sohl-sohl-attribute-cre, system: { scoreBase: 6 } }
+    - { model: sohl-sohl-attribute-rea, system: { scoreBase: 5 } }
+    - { model: sohl-sohl-skill-awar, system: { masteryLevelBase: 50 } }
+    - { model: sohl-sohl-skill-stlth, system: { masteryLevelBase: 40 } }
+    - { model: sohl-sohl-mysticalability-sprt, system: { masteryLevelBase: 27 } }
+    - { model: sohl-sohl-skill-init, system: { masteryLevelBase: 32 } }
+    - { model: sohl-sohl-skill-dge, system: { masteryLevelBase: 28 } }
+    - { model: sohl-sohl-skill-shok, system: { masteryLevelBase: 93 } }
     - name: Crushing Blow
       type: skill
       system:

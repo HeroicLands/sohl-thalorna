@@ -26,7 +26,7 @@ flags:
 
 The Vedyákshara is a syllabary: roughly forty-eight characters, each standing for a consonant-plus-vowel, with clusters and bare final consonants written by modifying the base glyph rather than by adding a letter. Every sign hangs from a headline, so a line of Vedyari looks like a rope with the words strung beneath it.
 
-It carries [[skill-vedyarlng|Vedyari]] — Classical Vedyari for anything that matters, and the vernaculars only where nobody important is looking. A character needs **both** the script and the [[skill-lang|Language]].
+It carries [[skill-vedyarlng|Vedyari]] — Classical Vedyari for anything that matters, and the vernaculars only where nobody important is looking. A character needs **both** the script and the [[sohl-none-docskill-lang|Language]].
 
 ## Three layers
 

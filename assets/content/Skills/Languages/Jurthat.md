@@ -24,7 +24,7 @@ flags:
     lang_family: Tānvüri
 ---
 
-Jürthāti is a tongue of the Tānvüri family. Fluency measures the sophistication of expression in Jürthāti, from the halting phrases of a traveler to the nuanced and learned discourse of a native speaker. As with all specific languages, this skill inherits its mechanics from the general [[skill-lang|Language]] skill.
+Jürthāti is a tongue of the Tānvüri family. Fluency measures the sophistication of expression in Jürthāti, from the halting phrases of a traveler to the nuanced and learned discourse of a native speaker. As with all specific languages, this skill inherits its mechanics from the general [[sohl-none-docskill-lang|Language]] skill.
 
 Jürthāti is the speech of the [[affiliation-jurthatempr|Jürthāt Empire]] — the nine volcanic islands east of the mainland, which their inhabitants call **Thātvōng**, the Nine Mountains. It descends from the Tānvüri brought across the strait a thousand years and more ago, and a thousand years of separation, mutual non-recognition and open war have made it a distinct language rather than a dialect. [[affiliation-tanvurempr|Tānvür]] does not concede this, and Tānvüri grammarians still describe Jürthāti as a provincial corruption; Jürthāti scholars return the compliment by describing mainland speech as what happens to a language administered by clerks.
 

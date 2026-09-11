@@ -46,21 +46,21 @@ sohl:
     cre: 1d4+4
   defaultCombatGroup: null
   items:
-    - { shortcode: str, type: attribute, system: { scoreBase: 7 } }
-    - { shortcode: end, type: attribute, system: { scoreBase: 8 } }
-    - { shortcode: dex, type: attribute, system: { scoreBase: 14 } }
-    - { shortcode: agl, type: attribute, system: { scoreBase: 15 } }
-    - { shortcode: per, type: attribute, system: { scoreBase: 14 } }
-    - { shortcode: aur, type: attribute, system: { scoreBase: 5 } }
-    - { shortcode: wil, type: attribute, system: { scoreBase: 8 } }
-    - { shortcode: rea, type: attribute, system: { scoreBase: 8 } }
-    - { shortcode: cre, type: attribute, system: { scoreBase: 7 } }
-    - { shortcode: awar, type: skill, system: { masteryLevelBase: 55 } }
-    - { shortcode: stlth, type: skill, system: { masteryLevelBase: 55 } }
-    - { shortcode: sprt, type: mysticalability, system: { masteryLevelBase: 18 } }
-    - { shortcode: init, type: skill, system: { masteryLevelBase: 32 } }
-    - { shortcode: dge, type: skill, system: { masteryLevelBase: 56 } }
-    - { shortcode: shok, type: skill, system: { masteryLevelBase: 20 } }
+    - { model: sohl-sohl-attribute-str, system: { scoreBase: 7 } }
+    - { model: sohl-sohl-attribute-end, system: { scoreBase: 8 } }
+    - { model: sohl-sohl-attribute-dex, system: { scoreBase: 14 } }
+    - { model: sohl-sohl-attribute-agl, system: { scoreBase: 15 } }
+    - { model: sohl-sohl-attribute-per, system: { scoreBase: 14 } }
+    - { model: sohl-sohl-attribute-aur, system: { scoreBase: 5 } }
+    - { model: sohl-sohl-attribute-wil, system: { scoreBase: 8 } }
+    - { model: sohl-sohl-attribute-rea, system: { scoreBase: 8 } }
+    - { model: sohl-sohl-attribute-cre, system: { scoreBase: 7 } }
+    - { model: sohl-sohl-skill-awar, system: { masteryLevelBase: 55 } }
+    - { model: sohl-sohl-skill-stlth, system: { masteryLevelBase: 55 } }
+    - { model: sohl-sohl-mysticalability-sprt, system: { masteryLevelBase: 18 } }
+    - { model: sohl-sohl-skill-init, system: { masteryLevelBase: 32 } }
+    - { model: sohl-sohl-skill-dge, system: { masteryLevelBase: 56 } }
+    - { model: sohl-sohl-skill-shok, system: { masteryLevelBase: 20 } }
     - name: Swarming Bite
       type: skill
       system:

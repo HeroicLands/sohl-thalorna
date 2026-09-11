@@ -24,7 +24,7 @@ flags:
     lang_family: Ki'ichek (independent isolate)
 ---
 
-Ki'ichek is a tongue of the Ki'ichek (independent isolate) family. Fluency measures the sophistication of expression in Ki'ichek, from the halting phrases of a traveler to the nuanced and learned discourse of a native speaker. As with all specific languages, this skill inherits its mechanics from the general [[skill-lang|Language]] skill.
+Ki'ichek is a tongue of the Ki'ichek (independent isolate) family. Fluency measures the sophistication of expression in Ki'ichek, from the halting phrases of a traveler to the nuanced and learned discourse of a native speaker. As with all specific languages, this skill inherits its mechanics from the general [[sohl-none-docskill-lang|Language]] skill.
 
 ## Overview
 
