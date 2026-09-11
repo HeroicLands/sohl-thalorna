@@ -47,7 +47,6 @@ sohl:
     cre: 1d6+8
     emp: 1d6+7
     elo: 1d6+10
-  defaultCombatGroup: null
   items:
     - { shortcode: str, type: attribute, system: { scoreBase: 48 } }
     - { shortcode: end, type: attribute, system: { scoreBase: 36 } }

@@ -42,7 +42,6 @@ sohl:
     end: 1d6+23
     agl: 1d4+4
     cre: 1d4+2
-  defaultCombatGroup: null
   items:
     - { shortcode: per, type: attribute, system: { scoreBase: 10 } }
     - { shortcode: aur, type: attribute, system: { scoreBase: 8 } }

@@ -43,7 +43,6 @@ sohl:
     wil: 1d6+13
     rea: 1d6+10
     cre: 1d6+8
-  defaultCombatGroup: null
   items:
     - { shortcode: str, type: attribute, system: { scoreBase: 13 } }
     - { shortcode: end, type: attribute, system: { scoreBase: 17 } }

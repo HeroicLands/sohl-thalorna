@@ -40,7 +40,6 @@ sohl:
     agl: 1d4+3
     per: 1d4+3
     pal: 1d6+7
-  defaultCombatGroup: null
   items:
     - { shortcode: str, type: attribute, system: { scoreBase: 14 } }
     - { shortcode: end, type: attribute, system: { scoreBase: 16 } }

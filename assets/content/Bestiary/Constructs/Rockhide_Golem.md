@@ -37,7 +37,6 @@ sohl:
     str: 1d6+33
     agl: 1d4+3
     per: 1d6+13
-  defaultCombatGroup: null
   items:
     - { shortcode: str, type: attribute, system: { scoreBase: 36 } }
     - { shortcode: agl, type: attribute, system: { scoreBase: 6 } }

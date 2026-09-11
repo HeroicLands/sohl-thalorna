@@ -46,7 +46,6 @@ sohl:
     cre: 1d4+6
     emp: 1d6+7
     mor: 1d6+8
-  defaultCombatGroup: null
   items:
     - { shortcode: str, type: attribute, system: { scoreBase: 24 } }
     - { shortcode: end, type: attribute, system: { scoreBase: 16 } }
