@@ -5,7 +5,7 @@ name:
   aliases: []
 description: "Rope-weighted iron ball whirled; master's devastating entangling reach."
 img: systems/sohl/assets/icons/game-icons/lorc/bolas.svg
-shortcode: MtrHmr
+shortcode: mtrhmr
 type: weapongear
 sohl:
   kbcat: thrown

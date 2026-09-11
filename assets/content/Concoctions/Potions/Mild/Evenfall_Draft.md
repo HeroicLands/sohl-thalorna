@@ -7,7 +7,7 @@ name:
     - Potion, Soporific, Mild
 description: "Milky white pale gray liquid; promotes sleep and restfulness."
 img: systems/sohl/assets/icons/other/potion.svg
-shortcode: PtnSopM
+shortcode: ptnsopm
 type: concoctiongear
 subType: exotic
 hmk:

@@ -7,7 +7,7 @@ name:
     - Traumashield Elixir
 description: "Luminescent draft; hardens resilience against shock and suffering."
 img: systems/sohl/assets/icons/other/potion.svg
-shortcode: ElxTrm
+shortcode: elxtrm
 type: concoctiongear
 subType: elixir
 hmk:

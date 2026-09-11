@@ -7,7 +7,7 @@ name:
     - Quiescence Elixir
 description: "Pale gray liquid; induces absolute stillness and living suspension."
 img: systems/sohl/assets/icons/other/potion.svg
-shortcode: ElxQsc
+shortcode: elxqsc
 type: concoctiongear
 subType: elixir
 hmk:

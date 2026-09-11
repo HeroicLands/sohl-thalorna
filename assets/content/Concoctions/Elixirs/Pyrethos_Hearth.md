@@ -7,7 +7,7 @@ name:
     - Warmth Elixir
 description: "Golden-amber warmth elixir; shields allies from cold and frost."
 img: systems/sohl/assets/icons/other/potion.svg
-shortcode: ElxWrm
+shortcode: elxwrm
 type: concoctiongear
 subType: elixir
 hmk:

@@ -7,7 +7,7 @@ name:
     - Potion, Stimulant, Great
 description: "Blazing red-gold liquid; grants enhanced strength and physical power."
 img: systems/sohl/assets/icons/other/potion.svg
-shortcode: PtnStmG
+shortcode: ptnstmg
 type: concoctiongear
 subType: exotic
 hmk:

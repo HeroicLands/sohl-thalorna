@@ -7,7 +7,7 @@ name:
     - Potion, Emetic, Great
 description: "Nearly black tar-like liquid; causes violent vomiting and illness."
 img: systems/sohl/assets/icons/other/potion.svg
-shortcode: PtnEmG
+shortcode: ptnemg
 type: concoctiongear
 subType: exotic
 hmk:
