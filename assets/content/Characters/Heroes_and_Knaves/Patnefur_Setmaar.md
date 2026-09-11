@@ -10,7 +10,7 @@ name:
   clan: Set'maâr
   home: wasetkara
   aliases:
-    - Patnefur Setmaâr
+    - Patnefur Setmaâr
     - Patnefur Setmaar
 packFolder: northernfertileregiontakheperu
 banner: banners/ta-kheperu-banner.webp

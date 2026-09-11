@@ -56,7 +56,7 @@ Despite the diversity, Aurèldían high culture shares certain hallmarks: chival
 
 ## The Aurèldían Faith
 
-Aurèldía takes its name from the [[affiliation-arldnpnthn|Aurèldían Pantheon]]. Every Aurèldían polity builds temples to the Twelve — Æthería of dreams, Thánatos of death, Táranon of storms, Jánus of order, Ménérva of knowledge, Vénusia of prosperity, Lúsinía of creation, Karnavos of chaos, Múrkír of voyages, Mórváná of decay, Flórania of fertility, and Vúlcan of fire in one of his two contested aspects.
+Aurèldía takes its name from the [[affiliation-arldnpnthn|Aurèldían Pantheon]]. Every Aurèldían polity builds temples to the Twelve — Aethería of dreams, Thánatos of death, Táranon of storms, Jánus of order, Ménérva of knowledge, Vénusia of prosperity, Lúsinía of creation, Karnavos of chaos, Múrkír of voyages, Mórváná of decay, Flórania of fertility, and Vúlcan of fire in one of his two contested aspects.
 
 The faith extends well beyond Aurèldían borders — it is worshipped in [[affiliation-vylarinmpr|Vylaria]], [[affiliation-cnfdrtnhrdnstts|Harad]], [[place-helionis|Heliónis]], [[affiliation-byzarianlg|Byzaría]], and elsewhere across the [[place-midhalnrgn|Mídhalión]] basin — but Aurèldía is the cradle and the heartland. The great pilgrim-routes, the oldest shrines, the most influential scholars of the Twelve, and the highest concentration of clergy all lie in Aurèldían lands. A priest educated in Élavendre or a scholar trained in Provènzia carries authority anywhere the Twelve are honored.
 

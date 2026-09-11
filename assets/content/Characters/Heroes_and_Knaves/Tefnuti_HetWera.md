@@ -9,7 +9,7 @@ name:
   clan: Het'Wera
   home: ankhsetun
   aliases:
-    - Tefnutî HetWera
+    - Tefnutî HetWera
     - Tefnuti HetWera
 packFolder: northernfertileregiontakheperu
 banner: banners/ta-kheperu-banner.webp

@@ -93,7 +93,7 @@ The Aurèldían pantheon is the dominant religious tradition of western [[place-
 
 | Domain     | Deity        | Epithet                     | Symbol                                             | Faith                                       |
 | ---------- | ------------ | --------------------------- | -------------------------------------------------- | ------------------------------------------- |
-| Dreams     | **Æthería**  | The Veiled Dreamer          | Crescent moon cradling a radiant star              | [[affiliation-aetheria\|Faith of Æthería]]  |
+| Dreams     | **Aethería** | The Veiled Dreamer          | Crescent moon cradling a radiant star              | [[affiliation-aetheria\|Faith of Aethería]] |
 | Death      | **Thánatos** | The Silent Judge            | Black gate adorned with skeletal vines             | [[affiliation-thanatos\|Faith of Thánatos]] |
 | Storms     | **Táranon**  | The Thunderer               | Thunderbolt striking a spiral cloud                | [[affiliation-taranon\|Faith of Táranon]]   |
 | Order      | **Jánus**    | The Keeper of the Gates     | Dual-faced mask, one serene, one stern             | [[affiliation-janus\|Faith of Jánus]]       |

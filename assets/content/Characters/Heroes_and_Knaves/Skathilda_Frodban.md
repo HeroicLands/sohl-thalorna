@@ -5,10 +5,10 @@ tags:
   - vrystwald
   - underworld
 name:
-  full: Skathilda Fróðbán
+  full: Skathilda Fródbán
   title: ""
   given: Skathilda
-  clan: Fróðbán
+  clan: Fródbán
   aliases:
     - the Weasel
     - Skathilda Frodban
@@ -558,7 +558,7 @@ sohl:
 
 # Appearance {#appearance}
 
-Skathilda Fróðbán is small, pale, and utterly terrifying. She stands barely over five feet, with a scant wiry frame that looks like it would snap in a strong wind — an impression that has cost several men their lives. Her dark blonde hair is hacked short and uneven, as though cut with a knife by feel, and her sharp, pointed face is dominated by watchful green eyes that hold the flat, assessing calm of a predator deciding when to strike. A thin white scar runs from her right ear down to the jawline, the souvenir of a fight she won decisively. She dresses in dark leathers — vest, bracers, cap, and calf boots — and carries a shortsword and two daggers with the ease of long practice. She moves with a coiled, restless energy, always shifting, always circling, never still. The other bandits call her the Weasel, but only behind her back.
+Skathilda Fródbán is small, pale, and utterly terrifying. She stands barely over five feet, with a scant wiry frame that looks like it would snap in a strong wind — an impression that has cost several men their lives. Her dark blonde hair is hacked short and uneven, as though cut with a knife by feel, and her sharp, pointed face is dominated by watchful green eyes that hold the flat, assessing calm of a predator deciding when to strike. A thin white scar runs from her right ear down to the jawline, the souvenir of a fight she won decisively. She dresses in dark leathers — vest, bracers, cap, and calf boots — and carries a shortsword and two daggers with the ease of long practice. She moves with a coiled, restless energy, always shifting, always circling, never still. The other bandits call her the Weasel, but only behind her back.
 
 # Dossier {#dossier}
 

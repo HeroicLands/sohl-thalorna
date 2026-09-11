@@ -1,10 +1,10 @@
 ---
 tags: []
-description: "Warrior-shamans of Þórr who fight as the storm fights — combat-mages of thunder and weather who ride to where the storm calls them, and answer with hammer when it does."
+description: "Warrior-shamans of Thórr who fight as the storm fights — combat-mages of thunder and weather who ride to where the storm calls them, and answer with hammer when it does."
 name:
   full: The Order of the Storm-Speakers
   aliases:
-    - Stormmælendir
+    - Stormmaelendir
     - The Speakers of the Thunder
     - Hammerwakes
 shortcode: ordrstrmspkrs
@@ -109,38 +109,38 @@ sohl:
 
 # The Order of the Storm-Speakers
 
-_Old Norse: Stormmælendir — "Storm-Speakers"_
+_Old Norse: Stormmaelendir — "Storm-Speakers"_
 
 - **Type:** Fighting religious order
-- **Patron:** [[affiliation-thorr|Þórr]] — Asguardian god of thunder, storm, lightning, and the cosmic defense of the ordered world
-- **Region:** [[place-nrdlndsrgn|The Nordlands]], with strong presence along the coasts; chapter hall at the seamount-temple of Þrumufjall in Nordheim
+- **Patron:** [[affiliation-thorr|Thórr]] — Asguardian god of thunder, storm, lightning, and the cosmic defense of the ordered world
+- **Region:** [[place-nrdlndsrgn|The Nordlands]], with strong presence along the coasts; chapter hall at the seamount-temple of Thrumufjall in Nordheim
 
 ## Overview
 
-The Order of the Storm-Speakers stands at the most martial-magical end of the Asguardian fighting orders. Its members are sworn to Þórr, the god whose hammer holds back the chaos beyond the walls of the world, and the order's working doctrine is that the Speaker's vocation is to participate in that defense by both arms and the limited weather-magic that Þórr's faith permits. A Speaker can call wind, can read the approach of storms with extraordinary precision, can in certain circumstances draw down a localized lightning-strike — and can, simultaneously, swing a heavy two-handed hammer with the trained skill of an order-bred warrior. The combination is not common in any of the Nordlands traditions; the order's distinguishing identity is precisely that it cultivates it.
+The Order of the Storm-Speakers stands at the most martial-magical end of the Asguardian fighting orders. Its members are sworn to Thórr, the god whose hammer holds back the chaos beyond the walls of the world, and the order's working doctrine is that the Speaker's vocation is to participate in that defense by both arms and the limited weather-magic that Thórr's faith permits. A Speaker can call wind, can read the approach of storms with extraordinary precision, can in certain circumstances draw down a localized lightning-strike — and can, simultaneously, swing a heavy two-handed hammer with the trained skill of an order-bred warrior. The combination is not common in any of the Nordlands traditions; the order's distinguishing identity is precisely that it cultivates it.
 
-The order's members are not numerous (perhaps two hundred sworn Speakers across the Nordlands), and the cultivation of the weather-craft is genuinely difficult. The order admits perhaps five candidates a year and elevates roughly half. Those who fail at the weather-craft and remain physically and devotionally capable are typically channeled into the lay priesthood of Þórr, where they serve as armed temple-stewards without the order's full standing.
+The order's members are not numerous (perhaps two hundred sworn Speakers across the Nordlands), and the cultivation of the weather-craft is genuinely difficult. The order admits perhaps five candidates a year and elevates roughly half. Those who fail at the weather-craft and remain physically and devotionally capable are typically channeled into the lay priesthood of Thórr, where they serve as armed temple-stewards without the order's full standing.
 
 The Storm-Speakers are widely regarded as the most directly useful of the Asguardian fighting orders in conventional military emergencies: their combination of personal combat capability and tactical weather-craft can decide a skirmish in their side's favor, and their presence in a coastal town is regarded as a substantial mitigation against raiding from the sea (a Storm-Speaker can, with several days' notice and the right conditions, summon a coastal squall that will turn back most raiders' ships).
 
 ## Membership and Structure
 
-Candidates are presented to the order by a sponsoring Speaker, typically between sixteen and twenty years of age. The examination is in three parts: martial (combat with the order's signature weapons, principally the two-handed hammer and the short axe), devotional (knowledge of Þórr's myth-cycle and the order's vow), and _receptive_ — a test of the candidate's latent sensitivity to weather-craft. The receptive test is conducted at Þrumufjall during a thunderstorm; candidates who do not register the storm in the trained ways the testers look for are dismissed regardless of their other merits.
+Candidates are presented to the order by a sponsoring Speaker, typically between sixteen and twenty years of age. The examination is in three parts: martial (combat with the order's signature weapons, principally the two-handed hammer and the short axe), devotional (knowledge of Thórr's myth-cycle and the order's vow), and _receptive_ — a test of the candidate's latent sensitivity to weather-craft. The receptive test is conducted at Thrumufjall during a thunderstorm; candidates who do not register the storm in the trained ways the testers look for are dismissed regardless of their other merits.
 
 There are four working ranks:
 
-- **Storm-Aspirant** (_Stormefnir_) — candidate in training; serves at Þrumufjall or under a sitting Speaker.
-- **Sworn Speaker** (_Stormmælir_) — full member; permitted to act on the order's behalf and to draw on its hospitality across the Nordlands.
-- **Storm-Captain** (_Stormhöfðingi_) — senior member; leads tactical actions in the field and instructs Aspirants.
+- **Storm-Aspirant** (_Stormefnir_) — candidate in training; serves at Thrumufjall or under a sitting Speaker.
+- **Sworn Speaker** (_Stormmaelir_) — full member; permitted to act on the order's behalf and to draw on its hospitality across the Nordlands.
+- **Storm-Captain** (_Stormhöfdingi_) — senior member; leads tactical actions in the field and instructs Aspirants.
 - **Voice of the Hammer** (_Hamarsmál_) — the order's chair; one position; chosen for life by conclave of the Storm-Captains.
 
-The order's mother-hall is at **Þrumufjall**, a sheer seamount on the Nordheim coast topped by an ancient Þórr-temple. The hall serves as training ground (the seamount's exposed summit is where weather-craft is taught), administrative center, and the order's spiritual heart. Smaller chapter halls operate in each of the other four Nordland kingdoms.
+The order's mother-hall is at **Thrumufjall**, a sheer seamount on the Nordheim coast topped by an ancient Thórr-temple. The hall serves as training ground (the seamount's exposed summit is where weather-craft is taught), administrative center, and the order's spiritual heart. Smaller chapter halls operate in each of the other four Nordland kingdoms.
 
 ## Doctrine and Practice
 
 The order swears three principles:
 
-- **The Hammer Held** — that the order's weather-craft and arms are dedicated to the defense of the ordered world against the chaos beyond it. The Speaker fights where Þórr would fight; he does not fight for personal gain, dynastic ambition, or sectarian quarrel.
+- **The Hammer Held** — that the order's weather-craft and arms are dedicated to the defense of the ordered world against the chaos beyond it. The Speaker fights where Thórr would fight; he does not fight for personal gain, dynastic ambition, or sectarian quarrel.
 - **The Storm Honored** — that the weather is the god's own voice and may not be summoned for trivial reasons. A Speaker who calls a squall for personal convenience or for sport has profaned his vow.
 - **The Reading and the Speaking** — that the Speaker's first duty in any engagement is the accurate reading of the weather, and that intervention in the weather is undertaken only when the reading indicates that intervention serves the engagement's just purpose. The order has produced a large body of practical lore on this judgment.
 
@@ -148,19 +148,19 @@ The combat doctrine is heavy-weapon focused — the two-handed hammer, the short
 
 ## Notable Members
 
-- **Voice Þorgrímr Hamarsmál** — current Voice of the Hammer; a Storm-Captain of substantial reputation before his elevation; presiding through a generation in which the order's coastal services have been in particularly high demand.
-- The standing Storm-Captains — twenty-three at present; the most prominent is **Captain Sigrún Eldhrund**, who commands the Þrumufjall chapter and is widely regarded as the finest active practitioner of the order's weather-craft.
+- **Voice Thorgrímr Hamarsmál** — current Voice of the Hammer; a Storm-Captain of substantial reputation before his elevation; presiding through a generation in which the order's coastal services have been in particularly high demand.
+- The standing Storm-Captains — twenty-three at present; the most prominent is **Captain Sigrún Eldhrund**, who commands the Thrumufjall chapter and is widely regarded as the finest active practitioner of the order's weather-craft.
 
 ## Operations
 
 - **Coastal defense.** Standing arrangements with most major Nordland coastal settlements provide for the dispatch of Speakers to towns under raiding threat. The arrangements are renewed annually and have substantially reduced raiding losses where they are in force.
 - **Storm interpretation.** Speakers are routinely consulted by shipowners, captains, and the [[affiliation-skaldscrcl|Skalds' Circle]] on weather questions. The order does not charge for this consultation, but the practical reciprocity it generates is significant.
-- **Defense against chaos incursions.** The order regards Helspawn incursions, Black Flame infiltrations, and the rarer outright cosmological breaches as falling within Þórr's defensive mandate. When such an incursion is identified, the relevant Storm-Captain will typically commit a unit of Speakers without waiting for the Voice of the Hammer's authorization.
-- **Training and instruction.** Aspirant training at Þrumufjall is famously rigorous and conducted in all weather.
+- **Defense against chaos incursions.** The order regards Helspawn incursions, Black Flame infiltrations, and the rarer outright cosmological breaches as falling within Thórr's defensive mandate. When such an incursion is identified, the relevant Storm-Captain will typically commit a unit of Speakers without waiting for the Voice of the Hammer's authorization.
+- **Training and instruction.** Aspirant training at Thrumufjall is famously rigorous and conducted in all weather.
 
 ## Relations
 
-- **The Asguardian Pantheon's Priesthood** — religious foundation; the order's senior elevations include rites at Þrumufjall conducted by Þórr's high priesthood.
+- **The Asguardian Pantheon's Priesthood** — religious foundation; the order's senior elevations include rites at Thrumufjall conducted by Thórr's high priesthood.
 - **The five Nordland Crowns** — the kingdoms support the order through grants of coastal land for chapter halls and standing protection of the order's movements; the order in turn maintains the coastal defense arrangements that the crowns find indispensable.
 - **The [[affiliation-ordrtyrsjstc|Order of Týr's Justice]]** — peer; cooperation when a matter requires both legal and tactical authority.
 - **The [[affiliation-ordrfryrsgrdns|Order of Fréyr's Guardians]]** — formal cooperation in winter; weather and harvest are interrelated concerns.
@@ -169,7 +169,7 @@ The combat doctrine is heavy-weapon focused — the two-handed hammer, the short
 
 ## Identifying Marks
 
-A Sworn Speaker wears the order's harness — heavy mail beneath a dark grey surcoat — with the hammer-and-cloud sigil of Þórr at the throat. Storm-Captains wear an additional pin in the shape of a stylized lightning-stroke. The Voice of the Hammer wears the great iron hammer-amulet of office, said by tradition to have been struck from a stone fused by Þórr's own lightning at the founding of Þrumufjall.
+A Sworn Speaker wears the order's harness — heavy mail beneath a dark grey surcoat — with the hammer-and-cloud sigil of Thórr at the throat. Storm-Captains wear an additional pin in the shape of a stylized lightning-stroke. The Voice of the Hammer wears the great iron hammer-amulet of office, said by tradition to have been struck from a stone fused by Thórr's own lightning at the founding of Thrumufjall.
 
 ## Plot Hooks
 

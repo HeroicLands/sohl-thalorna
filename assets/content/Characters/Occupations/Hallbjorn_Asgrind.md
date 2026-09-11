@@ -3,9 +3,9 @@ tags:
   - draft
   - tradesfolk
 name:
-  full: Hallbjǫrn Ásgrind
+  full: Hallbjörn Ásgrind
   title: ""
-  given: Hallbjǫrn
+  given: Hallbjörn
   clan: Ásgrind
   home: thrymstead
   aliases:
@@ -555,15 +555,15 @@ sohl:
 
 # Appearance {#appearance}
 
-Hallbjǫrn Ásgrind is a 34-year-old man who stands 6'1" tall and is of moderate build. He has an oval face with wide-set cheekbones, a narrow forehead, and a heavy jaw that leads to a strong chin. His deep-set blue eyes sit beneath thick brows, lending him a watchful gaze. A strong nose and firm lips complete his features. He has pale skin with a rough complexion. His auburn hair is long and gathered with a leather thong. A notable feature is a web of fine scars on the knuckles.
+Hallbjörn Ásgrind is a 34-year-old man who stands 6'1" tall and is of moderate build. He has an oval face with wide-set cheekbones, a narrow forehead, and a heavy jaw that leads to a strong chin. His deep-set blue eyes sit beneath thick brows, lending him a watchful gaze. A strong nose and firm lips complete his features. He has pale skin with a rough complexion. His auburn hair is long and gathered with a leather thong. A notable feature is a web of fine scars on the knuckles.
 
 # Dossier {#dossier}
 
-Born in the Nordheim region to a freeman family of Nordheimn heritage, Hallbjǫrn Ásgrind came into the world of the huntsman through a combination of circumstance and aptitude.
+Born in the Nordheim region to a freeman family of Nordheimn heritage, Hallbjörn Ásgrind came into the world of the huntsman through a combination of circumstance and aptitude.
 
 Eadric serves as the head huntsman for Lord Gwendolyn of Ashenwood Manor. He is responsible for managing the lord's hunting grounds and ensuring that the game population is maintained sustainably. Eadric has a keen eye for tracking and a deep knowledge of the local wildlife. His loyalty to the lord is unwavering, and he is often called upon to lead hunting parties during the lord's feasts.
 
-Now at 34 years of age, Hallbjǫrn Ásgrind has established himself as a known figure among the huntsmans of Nordheim. His reputation, for better or worse, precedes him in the circles where such things matter.
+Now at 34 years of age, Hallbjörn Ásgrind has established himself as a known figure among the huntsmans of Nordheim. His reputation, for better or worse, precedes him in the circles where such things matter.
 
 ## Psyche
 
@@ -573,7 +573,7 @@ Can be overly cautious, struggles to communicate with those outside the hunting 
 
 ### Motivation
 
-Hallbjǫrn is driven by the desire to master his craft and secure a stable future. The uncertainties of life in huntsman work keep him vigilant and adaptable.
+Hallbjörn is driven by the desire to master his craft and secure a stable future. The uncertainties of life in huntsman work keep him vigilant and adaptable.
 
 ### Strengths
 
@@ -581,15 +581,15 @@ Excellent tracker, knowledgeable about local fauna, strong leadership skills.
 
 ## Social
 
-Hallbjǫrn is affiliated with Lord Gwendolyn’s retinue.
+Hallbjörn is affiliated with Lord Gwendolyn’s retinue.
 
-As a Nordheimn huntsman, Hallbjǫrn occupies a recognized social niche within Nordheim society.
+As a Nordheimn huntsman, Hallbjörn occupies a recognized social niche within Nordheim society.
 
 ## Companions
 
 ### Patrons
 
-Hallbjǫrn's primary patron is Lord Gwendolyn and other members of the manor's household.. This relationship provides both opportunity and obligation.
+Hallbjörn's primary patron is Lord Gwendolyn and other members of the manor's household.. This relationship provides both opportunity and obligation.
 
 ### Enemies
 
@@ -597,12 +597,12 @@ None; respected by the local community.
 
 ## Plot Hooks
 
-1. **The Huntsman's Dilemma** — Hallbjǫrn faces a professional crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Nordheim.
+1. **The Huntsman's Dilemma** — Hallbjörn faces a professional crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Nordheim.
 
 2. **Old Grudges** — None; respected by the local community. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
 
-3. **Echoes of the Past** — Something from Hallbjǫrn's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
+3. **Echoes of the Past** — Something from Hallbjörn's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
 
-4. **Shifting Winds** — Political changes in Nordheim threaten to upend the social order that Hallbjǫrn depends upon. He must decide whether to adapt, resist, or flee.
+4. **Shifting Winds** — Political changes in Nordheim threaten to upend the social order that Hallbjörn depends upon. He must decide whether to adapt, resist, or flee.
 
-5. **The Opportunity** — A chance encounter offers Hallbjǫrn the possibility of advancement beyond anything he has dared hope for — but the price may be higher than it first appears.
+5. **The Opportunity** — A chance encounter offers Hallbjörn the possibility of advancement beyond anything he has dared hope for — but the price may be higher than it first appears.

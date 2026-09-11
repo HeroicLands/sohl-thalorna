@@ -12,29 +12,29 @@ data:
   governance:
     model: theocracy
     summary: >-
-      A ladder of circles, rising from the young Thræll through the working Goði or Gyðja to the
-      senior ranks of Jarl and Konungr and the pontifical offices of the Allsherjargoði and the
-      Faðir or Móðir of the god. The titles are this faith's own; the pattern is the pantheon's.
+      A ladder of circles, rising from the young Thraell through the working Godi or Gydja to the
+      senior ranks of Jarl and Konungr and the pontifical offices of the Allsherjargodi and the
+      Fadir or Módir of the god. The titles are this faith's own; the pattern is the pantheon's.
       Circle II is unlisted in the sources.
     ranks:
       - level: 0
-        title: Níðingr
+        title: Nídingr
         lore: excmmnctrnk
         description: >-
           Declared nithing — cut off from the faith and from the standing that being of it
-          conferred. No hall will seat them and no goði will speak for them.
+          conferred. No hall will seat them and no godi will speak for them.
       - level: 1
-        title: Frjó Thræll
+        title: Frjó Thraell
         lore: initiaternk
         description: >-
           "Fertile Thrall" — Seed Acolyte. The god's thrall: taken into the temple young, given the observances and the labour, and years away from the priesthood.
       - level: 3
-        title: Heill Goði/Goðe
+        title: Heill Godi/Gode
         lore: priestrnk
         description: >-
-          "Blessing Priest/Priestess" — Harvest Priest/Priestess. The working priest or priestess — Goði for a man, Gyðja for a woman — who keeps the rites of a hall and the people who gather at it.
+          "Blessing Priest/Priestess" — Harvest Priest/Priestess. The working priest or priestess — Godi for a man, Gydja for a woman — who keeps the rites of a hall and the people who gather at it.
       - level: 4
-        title: Jörð Hersir
+        title: Jörd Hersir
         lore: commanderrnk
         description: >-
           "Earth Warlord" — Grove Keeper. A warlord of the faith, carrying its authority where it must be carried by force or by presence.
@@ -44,17 +44,17 @@ data:
         description: >-
           "Fertility Jarl" — Steward of the Land. A senior rank carrying temporal weight as well as spiritual; in many kingdoms a Jarl of a faith sits among the jarls of the land.
       - level: 6
-        title: Gróður Konungr/Konungrkvinde
+        title: Gródur Konungr/Konungrkvinde
         lore: sovereignrnk
         description: >-
           "Growth King/Queen" — High Steward. King or queen within the faith's own hierarchy, and in some kingdoms a power the crown must reckon with.
       - level: 7
-        title: Vetr Allsherjargoði
+        title: Vetr Allsherjargodi
         lore: highpriestrnk
         description: >-
           "Winter High Priest" — Greenwarden. High priest — a pontifical office, speaking for the faith where it must speak with one voice.
       - level: 8
-        title: Líf Faðir/Móðir
+        title: Líf Fadir/Módir
         lore: grandmasterrnk
         description: >-
           "Father/Mother of Life" — Pontiff of the Verdant Way. Father or Mother of the god: the highest pontifical office, held by one person at a time.
@@ -65,11 +65,11 @@ data:
         Mediators who specialize in resolving conflicts and maintaining harmony within and between communities.
       Healers of the Hearth: >-
         Priests who focus on healing the body and soul, providing care for the sick and comforting the distressed.
-      Allsherjargoði: >-
+      Allsherjargodi: >-
         High priest of the faith, and its voice where it must speak with one.
-      Faðir/Móðir: >-
+      Fadir/Módir: >-
         Father or Mother of the god — the highest office, held by one person.
-      Goði/Gyðja: >-
+      Godi/Gydja: >-
         The working priest or priestess of a hall, who keeps its rites and its people.
   commonSkills: []
   seat: null
@@ -117,13 +117,13 @@ Fréyr is often depicted as a serene and nurturing figure, radiating kindness an
 
 ## Clergy
 
-- **Frjó Thræll** (Circle I: "Fertile Thrall") — Seed Acolyte
-- **Heill Goði/Goðe** (Circle III: "Blessing Priest/Priestess") — Harvest Priest/Priestess
-- **Jörð Hersir** (Circle IV: "Earth Warlord") — Grove Keeper
+- **Frjó Thraell** (Circle I: "Fertile Thrall") — Seed Acolyte
+- **Heill Godi/Gode** (Circle III: "Blessing Priest/Priestess") — Harvest Priest/Priestess
+- **Jörd Hersir** (Circle IV: "Earth Warlord") — Grove Keeper
 - **Frjó Jarl** (Circle V: "Fertility Jarl") — Steward of the Land
-- **Gróður Konungr/Konungrkvinde** (Circle VI: "Growth King/Queen") — High Steward
-- **Vetr Allsherjargoði** (Circle VII: "Winter High Priest") — Greenwarden
-- **Líf Faðir/Móðir** (Circle VIII: "Father/Mother of Life") — Pontiff of the Verdant Way
+- **Gródur Konungr/Konungrkvinde** (Circle VI: "Growth King/Queen") — High Steward
+- **Vetr Allsherjargodi** (Circle VII: "Winter High Priest") — Greenwarden
+- **Líf Fadir/Módir** (Circle VIII: "Father/Mother of Life") — Pontiff of the Verdant Way
 
 **Key Skills:** Herbalism, Physician, Survival, Animalcraft, Agriculture
 

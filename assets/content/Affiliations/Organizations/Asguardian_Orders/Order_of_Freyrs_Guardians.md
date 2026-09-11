@@ -4,7 +4,7 @@ description: "Warrior-protectors sworn to Fréyr — guardians of farms, harvest
 name:
   full: The Order of Fréyr's Guardians
   aliases:
-    - Fréyrsverðir
+    - Fréyrsverdir
     - The Green Wardens
     - The Guardians of the Harvest
     - Order of Freyrs Guardians
@@ -110,7 +110,7 @@ sohl:
 
 # The Order of Fréyr's Guardians
 
-_Old Norse: Fréyrsverðir — "Fréyr's Swords"_
+_Old Norse: Fréyrsverdir — "Fréyr's Swords"_
 
 - **Type:** Fighting religious order
 - **Patron:** [[affiliation-freyr|Fréyr]] — Asguardian god of peace, fertility, harvest, and the sun
@@ -128,9 +128,9 @@ A candidate for the order is sponsored by a sitting Guardian and presented at th
 
 There are three ranks:
 
-- **Sworn Guardian** (_Fréyrsverð_) — the working warden; assigned to a station or, occasionally, riding as a circuit relief.
-- **Elder Guardian** (_Eldri Fréyrsverð_) — senior member; may serve as station-warden for a more important valley, may oversee training, sits on the order's Chapter.
-- **Speaker of the Green** (_Grœnmáll_) — the order's chair; elected by the Chapter for a five-year term; one position; functions as administrative coordinator rather than commander.
+- **Sworn Guardian** (_Fréyrsverd_) — the working warden; assigned to a station or, occasionally, riding as a circuit relief.
+- **Elder Guardian** (_Eldri Fréyrsverd_) — senior member; may serve as station-warden for a more important valley, may oversee training, sits on the order's Chapter.
+- **Speaker of the Green** (_Groenmáll_) — the order's chair; elected by the Chapter for a five-year term; one position; functions as administrative coordinator rather than commander.
 
 The order's annual chapter meets in late autumn, after the harvest is stored, in rotation between the three largest active halls. Inter-chapter administration is light and largely conducted by correspondence between Elder Guardians.
 
@@ -146,24 +146,24 @@ The order's training emphasizes the kinds of combat the Defended Hearth requires
 
 ## Notable Members
 
-- **Speaker Þorbjǫrg Grœnmáll** — current Speaker of the Green; a former station-warden of a contested Vrystwald valley; widely regarded as the moral conscience of the contemporary order.
+- **Speaker Thorbjörg Groenmáll** — current Speaker of the Green; a former station-warden of a contested Vrystwald valley; widely regarded as the moral conscience of the contemporary order.
 - The standing Chapter — perhaps sixty Elder Guardians across the five kingdoms; meets in annual rotation.
 
 ## Relations
 
 - **The Asguardian Pantheon's Priesthood** — religious foundation. Many Guardians are also lay priests of Fréyr; the order's annual chapter includes a major harvest-rite.
 - **The five Nordland Crowns** — the kingdoms grant the order's stations land-use rights and informal exemption from levy (since a stationed Guardian's value to the crown is precisely that he is _not_ in the field with the king's host). The relationship is generally cordial and occasionally strained when a crown wishes to raise a levy that includes valley folk under Guardian protection.
-- **The [[affiliation-malldbndlg|Málaliðabandalag]]** — wary mutual respect. The Compact's signed companies and the order's Guardians are sometimes on opposing sides of the same raid — the company hired to take a farmstead, the Guardian sworn to defend it. The standing convention is that both sides honor the rules of warfare under which they operate, and that captured wounded are returned for ransom or care.
+- **The [[affiliation-malldbndlg|Málalidabandalag]]** — wary mutual respect. The Compact's signed companies and the order's Guardians are sometimes on opposing sides of the same raid — the company hired to take a farmstead, the Guardian sworn to defend it. The standing convention is that both sides honor the rules of warfare under which they operate, and that captured wounded are returned for ransom or care.
 - **The [[affiliation-ordrtyrsjstc|Order of Týr's Justice]]** — sibling order; mutual recognition and occasional cooperation when a matter of contested harvest or steading involves judgment.
 - **The [[affiliation-ordrstrmspkrs|Order of the Storm-Speakers]]** — formal cooperation in winter. The Storm-Speakers' weather-magic and the Guardians' practical valley defense overlap in the hard months.
 
 ## Identifying Marks
 
-A Sworn Guardian wears the green cloak of the order — undyed wool dyed with the _grœnujurt_ plant — over working clothes. The clasp at the throat bears Fréyr's sigil, a sun-disc rising over a sheaf of barley. Elder Guardians wear an additional small bronze pin in the shape of the sheaf alone. The Speaker of the Green wears the great gold sun-disc of office, kept at the rotating chapter hall.
+A Sworn Guardian wears the green cloak of the order — undyed wool dyed with the _groenujurt_ plant — over working clothes. The clasp at the throat bears Fréyr's sigil, a sun-disc rising over a sheaf of barley. Elder Guardians wear an additional small bronze pin in the shape of the sheaf alone. The Speaker of the Green wears the great gold sun-disc of office, kept at the rotating chapter hall.
 
 ## Plot Hooks
 
-- **The Compromised Vow.** A Sworn Guardian, stationed in a Vithgard valley, has been drawn into the inheritance dispute of his host household — has, in the heat of the dispute, taken up arms on behalf of one party against another. The Defended Hearth and the Refused Quarrel are in direct conflict. The Chapter will be summoned. Either ruling — that the household's defense overrode the prohibition, or that the prohibition overrode the defense — will reshape the order's doctrine.
-- **The Hired Company.** A signed company of the [[affiliation-malldbndlg|Málaliðabandalag]] has been hired to take a farmstead under a Guardian's protection; the company's captain knows the Guardian personally and respects him. The convention of warfare requires the engagement to proceed; the personal respect makes the engagement intolerable. Both men are looking for any plausible alternative to the field.
+- **The Compromised Vow.** A Sworn Guardian, stationed in a Vidgard valley, has been drawn into the inheritance dispute of his host household — has, in the heat of the dispute, taken up arms on behalf of one party against another. The Defended Hearth and the Refused Quarrel are in direct conflict. The Chapter will be summoned. Either ruling — that the household's defense overrode the prohibition, or that the prohibition overrode the defense — will reshape the order's doctrine.
+- **The Hired Company.** A signed company of the [[affiliation-malldbndlg|Málalidabandalag]] has been hired to take a farmstead under a Guardian's protection; the company's captain knows the Guardian personally and respects him. The convention of warfare requires the engagement to proceed; the personal respect makes the engagement intolerable. Both men are looking for any plausible alternative to the field.
 - **The Failed Harvest.** The valley a senior Guardian has protected for twenty years has lost its harvest to blight three years running. The household is starving; the priesthood says the land is cursed; the Guardian must decide whether to leave the post (a vow violation) or to remain at the side of a household that may not survive the winter.
 - **The Foreign Petition.** A Vrystwald village under the protection of a Guardian has petitioned for adoption by a different Nordlands crown's authority — a politically explosive request. The Guardian's station puts him at the center of the petition's diplomatic handling, whether he wishes the role or not.

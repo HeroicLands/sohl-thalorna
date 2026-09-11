@@ -42,7 +42,7 @@ Sinalë grammar is complex despite its apparent simplicity. The language encodes
 
 Sinalë consonantal inventory favors soft, flowing sounds:
 
-- **Soft fricatives**: TH /ð/ (voiced dental fricative), L, R (both rolled and soft)
+- **Soft fricatives**: TH /d/ (voiced dental fricative), L, R (both rolled and soft)
 - **Nasals**: M, N
 - **Soft stops**: P, T, K (all unaspirated, gentle articulation)
 - **Glides**: W, Y

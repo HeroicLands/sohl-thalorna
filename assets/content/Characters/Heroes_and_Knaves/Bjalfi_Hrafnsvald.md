@@ -582,13 +582,13 @@ Thjótharr stands 6'0" tall with a medium build. He has light fair skin, brown h
 
 # Dossier {#dossier}
 
-Bjalfi was born in a rural settlement of the **Kingdom of Vithgard**, the son of **[[being-hrfnklhrfnsvld|Hrafnkell Hrafnsvald]]**, a soldier who enlisted in Vithgard's levy when Bjalfi was only three years old. With his father away fighting in the border conflicts, Bjalfi was raised primarily by his mother on the family's small farm in the borderlands—a region prone to bandit raids and territorial disputes. He grew up knowing his father only through stories and the occasional brief visit between campaigns.
+Bjalfi was born in a rural settlement of the **Kingdom of Vidgard**, the son of **[[being-hrfnklhrfnsvld|Hrafnkell Hrafnsvald]]**, a soldier who enlisted in Vidgard's levy when Bjalfi was only three years old. With his father away fighting in the border conflicts, Bjalfi was raised primarily by his mother on the family's small farm in the borderlands—a region prone to bandit raids and territorial disputes. He grew up knowing his father only through stories and the occasional brief visit between campaigns.
 
 At fifteen, his family's lands were attacked by a raider band. Bjalfi's mother died defending the property, and his younger brothers were too small to help. By the time word reached [[being-hrfnklhrfnsvld|Hrafnkell]], it was over. The experience crystallized something in the young man: a burning desire to become strong enough to protect others from similar suffering—and a quiet resentment toward the father who had not been there when it mattered most.
 
 At eighteen, Bjalfi joined the local militia, impressing his commander almost immediately with his dedication and aptitude. **Captain Aldric Stonefist**, a grizzled veteran of thirty years' service, recognized something in the earnest young warrior and took him under personal tutelage. In many ways, Aldric became the father figure Bjalfi had lacked growing up. For the past eleven years, Bjalfi has served with distinction, progressing from raw recruit to one of the militia's most capable fighters. He has become known for his quick thinking in chaotic situations, his willingness to volunteer for dangerous assignments, and an almost self-sacrificial approach to protecting the people he serves.
 
-[[being-hrfnklhrfnsvld|Hrafnkell]], meanwhile, returned from military service around the same time, settling in Vithgard as a tentmaker. The two live in the same kingdom now but their relationship remains complicated—marked by unspoken guilt on [[being-hrfnklhrfnsvld|Hrafnkell]]'s part and unresolved anger on Bjalfi's. They see each other occasionally, and there is genuine love beneath the tension, but neither man finds it easy to bridge the years of absence.
+[[being-hrfnklhrfnsvld|Hrafnkell]], meanwhile, returned from military service around the same time, settling in Vidgard as a tentmaker. The two live in the same kingdom now but their relationship remains complicated—marked by unspoken guilt on [[being-hrfnklhrfnsvld|Hrafnkell]]'s part and unresolved anger on Bjalfi's. They see each other occasionally, and there is genuine love beneath the tension, but neither man finds it easy to bridge the years of absence.
 
 Recently promoted to the rank of sergeant, Bjalfi stands at a crossroads. **Captain Aldric** has suggested he could rise further, perhaps eventually assume leadership of the militia itself. Yet Bjalfi feels the weight of something larger stirring—hints that bandit activity is coordinated by unseen powers, suggestions that the relative peace of the region may be ending.
 
@@ -625,7 +625,7 @@ Bjalfi is motivated by a desire to ensure no one else suffers what his family en
 ### Patrons
 
 - **Captain **Aldric Stonefist\*\*: Bjalfi's commanding officer and mentor. Aldric became the father figure Bjalfi lacked growing up, and his opinion matters more to Bjalfi than almost anyone else's.
-- **The Farming Council of **Vithgard\*\*: The communities Bjalfi's militia protects recognize him as their primary defender. They advocate for his promotions and provide support for militia operations.
+- **The Farming Council of **Vidgard\*\*: The communities Bjalfi's militia protects recognize him as their primary defender. They advocate for his promotions and provide support for militia operations.
 - **The Village Elder **Kara Stonekeeper\*\*: An influential elder who sees potential in Bjalfi and has been mentoring him in aspects of leadership beyond combat.
 
 ### Enemies
@@ -636,9 +636,9 @@ Bjalfi is motivated by a desire to ensure no one else suffers what his family en
 
 ### Affiliations
 
-- **The Militia of **Vithgard\*\*: Bjalfi's primary affiliation. He is a dedicated member and now a sergeant with increasing responsibility.
+- **The Militia of **Vidgard\*\*: Bjalfi's primary affiliation. He is a dedicated member and now a sergeant with increasing responsibility.
 - **The Followers of Týr**: Bjalfi actively participates in worship of the god of order and justice, and his faith is genuine—not merely ritual.
-- **[[being-hrfnklhrfnsvld|Hrafnkell Hrafnsvald]] (Father)**: Bjalfi's father, a former soldier turned tentmaker in Vithgard. Their relationship is complicated by years of absence during Bjalfi's childhood and the unspoken weight of his mother's death. They see each other from time to time, and there is love beneath the tension, but reconciliation remains a work in progress.
+- **[[being-hrfnklhrfnsvld|Hrafnkell Hrafnsvald]] (Father)**: Bjalfi's father, a former soldier turned tentmaker in Vidgard. Their relationship is complicated by years of absence during Bjalfi's childhood and the unspoken weight of his mother's death. They see each other from time to time, and there is love beneath the tension, but reconciliation remains a work in progress.
 - **[[being-thjthrhrfnsvld|Thjótharr Hrafnsvald]] (Uncle)**: Bjalfi's uncle, a renowned clothier in the Kingdom of Norgaad. Though they live in different realms and lead very different lives, the family bond remains. [[being-thjthrhrfnsvld|Thjótharr]]'s connections among nobility have occasionally proven useful, and Bjalfi's martial reputation lends a certain rugged credibility to the Hrafnsvald name that his uncle quietly appreciates.
 
 ## Plot Hooks

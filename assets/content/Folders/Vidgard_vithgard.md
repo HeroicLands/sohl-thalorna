@@ -1,6 +1,6 @@
 ---
 name:
-  full: "Vithgard"
+  full: "Vidgard"
 shortcode: vithgard
 type: folder
 data:

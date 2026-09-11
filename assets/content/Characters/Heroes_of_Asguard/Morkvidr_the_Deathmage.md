@@ -561,7 +561,7 @@ Mörkvidr's necromantic powers are staggering: he can raise armies of the dead, 
 
 **The Sinalë of Laurelossë** — The Sinalë whose sanctuary was later devastated by Gríma under Mörkvidr's indirect influence seek to eliminate all of Hél's champions.
 
-**Sigvarðr One-Hand** — The champion of Týr views Mörkvidr as his ultimate quarry and has sworn a personal oath to bring the necromancer to justice.
+**Sigvardr One-Hand** — The champion of Týr views Mörkvidr as his ultimate quarry and has sworn a personal oath to bring the necromancer to justice.
 
 ## Plot Hooks
 

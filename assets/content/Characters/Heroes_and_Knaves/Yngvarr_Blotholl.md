@@ -3,10 +3,10 @@ tags:
   - heroes-and-knaves
   - tradesfolk
 name:
-  full: Yngvarr Blóthǫll
+  full: Yngvarr Blóthöll
   title: ""
   given: Yngvarr
-  clan: Blóthǫll
+  clan: Blóthöll
   home: ormstead
   aliases: []
 packFolder: ankarisnordlands
@@ -591,11 +591,11 @@ Yngvarr stands 5'7" tall with a light build. He has light fair skin, red hair, a
 
 ### Early Life and the Jester's Gift
 
-Yngvarr was born during the tempestuous month of spring winds in a riverside town of Vithgard's eastern provinces. His mother, **Sigrid the Brewmaster**, kept an inn where merchants and wanderers gathered; his father, a traveling performer himself, remained only long enough to pass on his gift for performance before departing for other horizons. From his earliest years, Yngvarr learned to read faces as others read scrolls—understanding the hidden griefs, the secret joys, the careful calculations behind every expression. He apprenticed under **Master Kolbeinn**, a legendary jester whose wit was said to have averted wars through sheer cleverness, learning that the craft of laughter is perhaps the most dangerous art of all.
+Yngvarr was born during the tempestuous month of spring winds in a riverside town of Vidgard's eastern provinces. His mother, **Sigrid the Brewmaster**, kept an inn where merchants and wanderers gathered; his father, a traveling performer himself, remained only long enough to pass on his gift for performance before departing for other horizons. From his earliest years, Yngvarr learned to read faces as others read scrolls—understanding the hidden griefs, the secret joys, the careful calculations behind every expression. He apprenticed under **Master Kolbeinn**, a legendary jester whose wit was said to have averted wars through sheer cleverness, learning that the craft of laughter is perhaps the most dangerous art of all.
 
 ### The Court Years
 
-At twenty, Yngvarr secured patronage with the ducal household of Vithgard, where his talent for reading his audience evolved into a sophisticated practice of political theater. His jokes and performances became increasingly layered—entertaining the masses while conveying subtle messages to the nobility, always walking the razor's edge between wisdom and foolishness. He has witnessed the secret councils of power, the intimate moments of great houses, the hidden shame and pride of kings. His extensive knowledge of folklore and arcane history has proven invaluable in understanding the complex tapestries of power and prophecy that bind the realm.
+At twenty, Yngvarr secured patronage with the ducal household of Vidgard, where his talent for reading his audience evolved into a sophisticated practice of political theater. His jokes and performances became increasingly layered—entertaining the masses while conveying subtle messages to the nobility, always walking the razor's edge between wisdom and foolishness. He has witnessed the secret councils of power, the intimate moments of great houses, the hidden shame and pride of kings. His extensive knowledge of folklore and arcane history has proven invaluable in understanding the complex tapestries of power and prophecy that bind the realm.
 
 ### The Present Reckoning
 
@@ -635,13 +635,13 @@ Yngvarr seeks to discover whether his talents for performance and persuasion mig
 
 ### Patrons
 
-- **Duke Ragnarr of Vithgard** - The primary patron who employs Yngvarr's talents for court entertainment and subtle political messaging; their relationship is cordial but transactional
-- **Sigrid Blóthǫll** - His mother, the innkeeper, who still provides refuge and honest counsel when he returns home worn by the demands of performance
+- **Duke Ragnarr of Vidgard** - The primary patron who employs Yngvarr's talents for court entertainment and subtle political messaging; their relationship is cordial but transactional
+- **Sigrid Blóthöll** - His mother, the innkeeper, who still provides refuge and honest counsel when he returns home worn by the demands of performance
 - **Master Kolbeinn** - His aging mentor and former teacher, now retired in the mountains, whom Yngvarr consults on matters of ethics and the deeper purposes of his craft
 
 ### Enemies
 
-- **Jorvald the Red** - A rival jester whose less sophisticated humor once dominated the Vithgard court; he schemes constantly to discredit Yngvarr's wit and expose his methods
+- **Jorvald the Red** - A rival jester whose less sophisticated humor once dominated the Vidgard court; he schemes constantly to discredit Yngvarr's wit and expose his methods
 - **The Whispered Syndicate** - A network of information brokers who view Yngvarr's access to noble secrets as either an asset to control or a threat to eliminate
 - **Alderman Grevik of the Guildhall** - A strict moralist who views jesters as dangerous corruptors of virtue and has publicly questioned the Duke's patronage of Yngvarr
 

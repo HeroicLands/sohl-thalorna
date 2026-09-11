@@ -66,7 +66,7 @@ The Tānvüri language — known natively as **Tānvüri Thëitōk** ("Celestial
 | ī      | /iː/ long close front             |                              |
 | o      | /o/ close-mid back rounded        |                              |
 | ō      | /oː/ long close-mid back          |                              |
-| **ö**  | /ø/ close-mid front rounded       | Distinctive Tānvüri vowel    |
+| **ö**  | /o/ close-mid front rounded       | Distinctive Tānvüri vowel    |
 | u      | /u/ close back rounded            |                              |
 | ü      | /y/ close front rounded           |                              |
 | ëi     | /əi/ schwa gliding to close front |                              |

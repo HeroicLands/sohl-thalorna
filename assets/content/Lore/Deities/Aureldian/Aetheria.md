@@ -4,12 +4,12 @@ tags:
 type: lore
 subType: deity
 name:
-  full: Æthería
+  full: Aethería
   aliases: []
 shortcode: theriadty
 packFolder: deitiesaureldian
 ---
 
-# Æthería
+# Aethería
 
 TBD

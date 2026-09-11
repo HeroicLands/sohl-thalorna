@@ -113,7 +113,7 @@ _Old Norse: Týrshönd — "The Hand of Týr"_
 
 - **Type:** Fighting religious order
 - **Patron:** [[affiliation-tyr|Týr]] — Asguardian god of law, oath, and just war
-- **Region:** [[place-nrdlndsrgn|The Nordlands]] — chapter halls in each of the five kingdoms, with the order's mother-hall at Lögstead in Vithgard
+- **Region:** [[place-nrdlndsrgn|The Nordlands]] — chapter halls in each of the five kingdoms, with the order's mother-hall at Lögstead in Vidgard
 
 ## Overview
 
@@ -131,9 +131,9 @@ There are three ranks:
 
 - **Sworn Hand** (_Týrshönd_) — the working knight; takes contracts from the order or rides his own circuit by elder permission.
 - **Elder Hand** (_Eldri Týrshönd_) — senior member; recognized for many years of service or for notable rulings; permitted to take apprentices and to sit on the Council of Hands.
-- **Voice of Lögstead** (_Lögstaðar Mál_) — the order's chair, elected from the Council for life; one position; functions as primus inter pares rather than commander.
+- **Voice of Lögstead** (_Lögstadar Mál_) — the order's chair, elected from the Council for life; one position; functions as primus inter pares rather than commander.
 
-Apprentices are admitted as **Hand-Squires** (_Hönd-skjǫldr_) and serve a senior knight for five to ten years before standing for examination.
+Apprentices are admitted as **Hand-Squires** (_Hönd-skjöldr_) and serve a senior knight for five to ten years before standing for examination.
 
 ## Doctrine and Practice
 
@@ -147,14 +147,14 @@ Procedurally, the order observes three working forms:
 
 ## Notable Members
 
-- **Voice Hróaldr Lögstaðar** — current Voice of Lögstead; a man in his late sixties, regarded as the finest pure judicial mind the order has produced in two generations.
+- **Voice Hróaldr Lögstadar** — current Voice of Lögstead; a man in his late sixties, regarded as the finest pure judicial mind the order has produced in two generations.
 - The Council of Hands — twelve Elder Hands, drawn from the five kingdoms; meets quarterly at Lögstead.
 
 ## Relations
 
 - **The Asguardian Pantheon's Priesthood** — the order is religiously subordinate to Týr's senior priesthood but operationally independent. The priesthood does not direct the order's rulings; the order does not preach.
 - **The five Nordland Crowns** — the order serves all five; the kings maintain the order's chapter halls and grant the wand of office passage through their territories. Tensions occasionally arise when a knight's ruling is contrary to a crown's interest.
-- **The [[affiliation-malldbndlg|Málaliðabandalag]]** — the order and the Compact have a standing agreement that any signed company member subject to order judgment will be surrendered to order custody on demand. The agreement holds.
+- **The [[affiliation-malldbndlg|Málalidabandalag]]** — the order and the Compact have a standing agreement that any signed company member subject to order judgment will be surrendered to order custody on demand. The agreement holds.
 - **The [[affiliation-ordrstrmspkrs|Order of the Storm-Speakers]]** — religious peer; the two orders occasionally cooperate when a matter requires both legal and ritual authority.
 - **Foreign powers and the [[affiliation-ordoarcanis|Ordo Arcanis]]** — the order maintains no relations with foreign jurisdictions. An Ordo agent attempting to invoke order authority in a Nordlands matter is politely informed that the order serves only the kingdoms in which it is chartered.
 

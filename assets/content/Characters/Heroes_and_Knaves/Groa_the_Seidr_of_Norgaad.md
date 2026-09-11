@@ -4,13 +4,13 @@ tags:
   - hero
   - clergy
 name:
-  full: Gróa the Seiðr of Norgaad
+  full: Gróa the Seidr of Norgaad
   title: ""
   given: Gróa
   clan: Vindrkvé
   home: hrafnfjord
   aliases:
-    - the Seiðr of Norgaad
+    - the Seidr of Norgaad
 packFolder: ankarisnordlands
 shortcode: grosdrnrgd
 img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
@@ -594,7 +594,7 @@ sohl:
 
 # Appearance {#appearance}
 
-Gróa stands at 5’8" with a slender, wiry frame, weighing around 140 pounds. Her pale complexion and long, ashen-blonde hair give her an ethereal presence, often kept loose or in a simple braid. Her piercing blue eyes seem to see beyond the physical world, reflecting her connection to the spirit realm. Her features are sharp and angular, with high cheekbones and a narrow nose, framed by thin, pale lips that often speak in a soft but commanding tone. Gróa dresses in dark, flowing robes, adorned with runes and charms, reflecting her role as a seiðr, and she carries a simple wooden staff inscribed with ancient symbols of power.
+Gróa stands at 5’8" with a slender, wiry frame, weighing around 140 pounds. Her pale complexion and long, ashen-blonde hair give her an ethereal presence, often kept loose or in a simple braid. Her piercing blue eyes seem to see beyond the physical world, reflecting her connection to the spirit realm. Her features are sharp and angular, with high cheekbones and a narrow nose, framed by thin, pale lips that often speak in a soft but commanding tone. Gróa dresses in dark, flowing robes, adorned with runes and charms, reflecting her role as a seidr, and she carries a simple wooden staff inscribed with ancient symbols of power.
 
 # Dossier {#dossier}
 
@@ -608,21 +608,21 @@ Gróa was born into the Vindrkvé clan, a small, isolated lesser free clan of No
 
 As a young woman in Norgaad, Gróa’s talents were only just beginning to show. She was an apprentice healer, learning the herbs and chants from her village elder, with no inkling of the spiritual path that awaited her. One winter night, under the rare, brilliant display of the northern lights, Gróa felt an overwhelming urge to wander into the nearby forest alone, a compulsion she couldn’t explain.
 
-In the quiet of the snow-covered woods, she heard whispers that seemed to dance with the lights above. These voices weren’t of this world but the spirits of the forest—ancestors and lost souls who had watched over Norgaad for generations. Trembling yet compelled, Gróa closed her eyes and listened as they spoke, guiding her to perform her first seiðr ritual. With the gestures and words that sprang unbidden to her mind, she called upon the spirits to heal a sick child back in the village, whom medicine alone couldn’t save.
+In the quiet of the snow-covered woods, she heard whispers that seemed to dance with the lights above. These voices weren’t of this world but the spirits of the forest—ancestors and lost souls who had watched over Norgaad for generations. Trembling yet compelled, Gróa closed her eyes and listened as they spoke, guiding her to perform her first seidr ritual. With the gestures and words that sprang unbidden to her mind, she called upon the spirits to heal a sick child back in the village, whom medicine alone couldn’t save.
 
-By morning, word had spread that the child’s fever had broken, and Gróa’s fate as a seiðr was sealed. That night marked not only her initiation but also her first taste of the sacrifice required by the spirits; Gróa returned to the village exhausted, feeling the life force she had offered in exchange for the child’s healing. From that moment, she was bound to the spirits, forever marked by her first ritual under the northern lights.
+By morning, word had spread that the child’s fever had broken, and Gróa’s fate as a seidr was sealed. That night marked not only her initiation but also her first taste of the sacrifice required by the spirits; Gróa returned to the village exhausted, feeling the life force she had offered in exchange for the child’s healing. From that moment, she was bound to the spirits, forever marked by her first ritual under the northern lights.
 
-The people called her a Seiðr, a wise woman with psychic abilities and a connection to the spirit world, akin to a shaman.
+The people called her a Seidr, a wise woman with psychic abilities and a connection to the spirit world, akin to a shaman.
 
 ### Early Training
 
-Gróa’s talent for Seiðr magic was recognized by the local village elders and she was sent to train with an older Seiðr who lived alone in the mountains. Her training was harsh and involved deep spiritual practices, fasting, and long journeys into the wild where she would commune with spirits. During these rites, she developed an unique bond with the **Crow Spirit**, a creature known for its intelligence, cunning, and its ability to traverse both the physical and spiritual realms. Over time, Gróa began to adopt aspects of the crow herself, often staring at people intensely and developing a love for shiny objects, which she would collect obsessively.
+Gróa’s talent for Seidr magic was recognized by the local village elders and she was sent to train with an older Seidr who lived alone in the mountains. Her training was harsh and involved deep spiritual practices, fasting, and long journeys into the wild where she would commune with spirits. During these rites, she developed an unique bond with the **Crow Spirit**, a creature known for its intelligence, cunning, and its ability to traverse both the physical and spiritual realms. Over time, Gróa began to adopt aspects of the crow herself, often staring at people intensely and developing a love for shiny objects, which she would collect obsessively.
 
-Gróa became a mendicant, traveling from clan to clan, offering her services as a Seiðr. She would read the bones, summon spirits for advice, and perform powerful rituals to aid in battle or ensure good fortune. The people of Nordheim both revered and feared her. Some saw her as a wise woman, a bridge between the mortal world and the spirits. Others whispered that she was cursed, for her association with the crow—a bird of death—was unsettling.
+Gróa became a mendicant, traveling from clan to clan, offering her services as a Seidr. She would read the bones, summon spirits for advice, and perform powerful rituals to aid in battle or ensure good fortune. The people of Nordheim both revered and feared her. Some saw her as a wise woman, a bridge between the mortal world and the spirits. Others whispered that she was cursed, for her association with the crow—a bird of death—was unsettling.
 
 ### The Transformation
 
-Gróa’s transformation from a wandering Seiðr to a woman with a deeper purpose came when she received a powerful vision during a midwinter blót. In the vision, she was shown the unraveling threads of fate in Norgaad—her homeland would face internal strife, foreign invasions, but most of all the rise of an ancient evil from the depths of the sea. Njörven, the Sea Wraith, a mythic creature long ago overthrown by Thórr, is slowly awakening, his influence seeping back into the seas of Norgaad, causing unprecedented storms and sea unrest. His goal is to break free and exact revenge on the mortal world, especially the coastal clans that once worshipped him but have since turned to Thórr. The Crow Spirit guided her in the vision, showing her that she must acquire three ancient relics created by Thórr to seal away Njörven—the **Spear of Sigrid**, the **Crown of the Wyrm**, and the **Horn of Njördur**—and use the ancient _Rituals of Binding_ to either re-imprison the spirit or appease his wrath. Her powers, and those of key companions, will be the key to saving her people.
+Gróa’s transformation from a wandering Seidr to a woman with a deeper purpose came when she received a powerful vision during a midwinter blót. In the vision, she was shown the unraveling threads of fate in Norgaad—her homeland would face internal strife, foreign invasions, but most of all the rise of an ancient evil from the depths of the sea. Njörven, the Sea Wraith, a mythic creature long ago overthrown by Thórr, is slowly awakening, his influence seeping back into the seas of Norgaad, causing unprecedented storms and sea unrest. His goal is to break free and exact revenge on the mortal world, especially the coastal clans that once worshipped him but have since turned to Thórr. The Crow Spirit guided her in the vision, showing her that she must acquire three ancient relics created by Thórr to seal away Njörven—the **Spear of Sigrid**, the **Crown of the Wyrm**, and the **Horn of Njördur**—and use the ancient _Rituals of Binding_ to either re-imprison the spirit or appease his wrath. Her powers, and those of key companions, will be the key to saving her people.
 
 This singular event shook Gróa to her core and set her on a journey beyond the safety of her fjord-bound homeland. No longer content to serve as a wandering wise woman, Gróa knew she had to gather allies and confront the dangers that lay ahead, both physical and spiritual. Her mission now takes her into the heart of Nordheim and beyond, seeking to understand the forces at play and to restore balance before the darkness consumes Norgaad.
 
@@ -678,4 +678,4 @@ Gróa is wise beyond her years, with a deep understanding of the spiritual world
 
 3. **The Phantom Fleet**: Reports of spectral longships attacking coastal villages reach Gróa’s ears. Divination reveals these are the shades of Njörven’s ancient army, attempting to reclaim their lost honor. Gróa must find a way to banish them or face the growing unrest they sow among the clans.
 
-4. **Rift of the Seiðr**: A rival Seiðr claims that Gróa’s visions are false and attempts to discredit her by summoning a malicious spirit to haunt her. To clear her name, Gróa must confront the rival in a duel of magic and will, risking her bond with the Crow Spirit in the process.
+4. **Rift of the Seidr**: A rival Seidr claims that Gróa’s visions are false and attempts to discredit her by summoning a malicious spirit to haunt her. To clear her name, Gróa must confront the rival in a duel of magic and will, risking her bond with the Crow Spirit in the process.

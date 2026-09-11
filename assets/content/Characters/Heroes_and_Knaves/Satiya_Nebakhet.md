@@ -9,7 +9,7 @@ name:
   clan: Neb'akhet
   home: meruhotep
   aliases:
-    - Satîya Nebakhet
+    - Satîya Nebakhet
     - Satiya Nebakhet
 packFolder: northernfertileregiontakheperu
 banner: banners/ta-kheperu-banner.webp

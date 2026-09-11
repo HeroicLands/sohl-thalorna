@@ -9,7 +9,7 @@ name:
   clan: Re'en'fré
   home: wasetkara
   aliases:
-    - Renutê Reenfré
+    - Renutê Reenfré
     - Renute Reenfre
 packFolder: northernfertileregiontakheperu
 banner: banners/ta-kheperu-banner.webp

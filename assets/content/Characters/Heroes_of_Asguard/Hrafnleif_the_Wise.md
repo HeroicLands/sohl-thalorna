@@ -526,9 +526,9 @@ Hrafnleif stands 6'1" with a heavy, slightly stooped frame, weighing around 215 
 
 # Dossier {#dossier}
 
-Hrafnleif was born under a sky darkened by ravens, a sign that Óðinn himself was watching over his birth. As a child, he displayed an insatiable curiosity, often wandering far from his village to explore ancient ruins and forgotten forests. He claimed to hear the whispers of Huginn and Muninn in the wind, guiding him to hidden knowledge and lost lore. By the time he reached adulthood, Hrafnleif had become a renowned seer and runemaster, his wisdom sought by kings and warriors alike.
+Hrafnleif was born under a sky darkened by ravens, a sign that Ódinn himself was watching over his birth. As a child, he displayed an insatiable curiosity, often wandering far from his village to explore ancient ruins and forgotten forests. He claimed to hear the whispers of Huginn and Muninn in the wind, guiding him to hidden knowledge and lost lore. By the time he reached adulthood, Hrafnleif had become a renowned seer and runemaster, his wisdom sought by kings and warriors alike.
 
-The most famous saga of Hrafnleif the Wise tells of the time he was called upon to save his people from an impending war. Two powerful jarls were on the brink of battle, their armies ready to clash, when Hrafnleif, guided by Óðinn's ravens, discovered an ancient rune that foretold the doom of both kingdoms if they went to war. With this knowledge, Hrafnleif ventured into the heart of the enemy camp alone, using his mastery of runes to weave illusions and speak directly to the jarl's fears and ambitions. He revealed the prophecy, convincing both leaders to lay down their arms and unite against a common enemy — a monstrous jotunn that threatened their lands. Hrafnleif's wisdom not only averted war but forged an alliance that saved countless lives, forever earning him the favor of Óðinn.
+The most famous saga of Hrafnleif the Wise tells of the time he was called upon to save his people from an impending war. Two powerful jarls were on the brink of battle, their armies ready to clash, when Hrafnleif, guided by Ódinn's ravens, discovered an ancient rune that foretold the doom of both kingdoms if they went to war. With this knowledge, Hrafnleif ventured into the heart of the enemy camp alone, using his mastery of runes to weave illusions and speak directly to the jarl's fears and ambitions. He revealed the prophecy, convincing both leaders to lay down their arms and unite against a common enemy — a monstrous jotunn that threatened their lands. Hrafnleif's wisdom not only averted war but forged an alliance that saved countless lives, forever earning him the favor of Ódinn.
 
 ## Psyche
 
@@ -538,7 +538,7 @@ Hrafnleif is contemplative and measured, speaking only when his words carry weig
 
 ### Motivation
 
-Hrafnleif seeks to preserve the accumulated wisdom of the northern peoples and to avert catastrophes before they unfold. He fears that the old lore is dying as younger generations turn from the runes, and he quietly searches for an apprentice worthy of inheriting his knowledge. Beneath his scholarly exterior lies a deep longing to understand the will of Óðinn — whether the god truly speaks to him, or whether his visions are merely the projections of an old man's hopes.
+Hrafnleif seeks to preserve the accumulated wisdom of the northern peoples and to avert catastrophes before they unfold. He fears that the old lore is dying as younger generations turn from the runes, and he quietly searches for an apprentice worthy of inheriting his knowledge. Beneath his scholarly exterior lies a deep longing to understand the will of Ódinn — whether the god truly speaks to him, or whether his visions are merely the projections of an old man's hopes.
 
 ### Strengths
 
@@ -562,7 +562,7 @@ Hrafnleif's runic mastery is unmatched in the northern lands; he can read omens 
 
 ## Plot Hooks
 
-1. **The Shattered Rune** — Hrafnleif has discovered fragments of an ancient rune that, when assembled, could reveal the location of Óðinn's lost eye. Rival factions — including Grimvald Iron-Eye and agents of the Ordo Arcanis — are also hunting the fragments. The party must help Hrafnleif recover the pieces before they fall into the wrong hands.
+1. **The Shattered Rune** — Hrafnleif has discovered fragments of an ancient rune that, when assembled, could reveal the location of Ódinn's lost eye. Rival factions — including Grimvald Iron-Eye and agents of the Ordo Arcanis — are also hunting the fragments. The party must help Hrafnleif recover the pieces before they fall into the wrong hands.
 
 2. **The Silent Ravens** — Huginn and Muninn have gone silent. Hrafnleif can no longer hear their whispers and fears something terrible has happened in the spirit realm. He needs companions to journey to the World Tree's roots and investigate what has disrupted the ravens' flight.
 

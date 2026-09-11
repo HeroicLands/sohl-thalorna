@@ -207,7 +207,7 @@ between them is not courage. It is **how much of themselves they can bring to on
   and keep it there for a season. So they are unconquerable and not expansionist — a people nobody can
   beat and who cannot, in the ordinary sense, win.
 - The **[[place-nrdlndsrgn|Nordmen]]** are less fierce than the Varokh and vastly more organised: five
-  kingdoms, jarls, a þing, and above all **fleets**. Which is why it is the Nordmen and not the Varokh who
+  kingdoms, jarls, a ting, and above all **fleets**. Which is why it is the Nordmen and not the Varokh who
   crossed open water, took a fifth of [[place-aelwyth|Aelwyth]] and are still holding it sixty years later.
 
 Ferocity decides who wins the fight. Concentration decides who keeps the ground. Vrystwald has an
@@ -224,7 +224,7 @@ Settlements range from small forest homesteads to hilltop fortresses surrounded 
 
 ## Religion
 
-Religious practice in Vrystwald is syncretic. The northern tribes worship gods recognizable from the [[affiliation-asguardian|Asguardian Pantheon]], particularly Óðinn and the nature spirits. The southern tribes, influenced by centuries of contact with [[affiliation-vylarinmpr|Vylarian Empire]], have adopted elements of the [[affiliation-arldnpnthn|Aurèldían Pantheon]], particularly the worship of [[affiliation-arldnpnthn|Karnavos]] (The Wild Beast), whose domains of wilderness and primal chaos resonate deeply with Varokh sensibilities.
+Religious practice in Vrystwald is syncretic. The northern tribes worship gods recognizable from the [[affiliation-asguardian|Asguardian Pantheon]], particularly Ódinn and the nature spirits. The southern tribes, influenced by centuries of contact with [[affiliation-vylarinmpr|Vylarian Empire]], have adopted elements of the [[affiliation-arldnpnthn|Aurèldían Pantheon]], particularly the worship of [[affiliation-arldnpnthn|Karnavos]] (The Wild Beast), whose domains of wilderness and primal chaos resonate deeply with Varokh sensibilities.
 
 Regardless of which gods they name, the Varokh share a deep animistic reverence for the forest itself. Sacred groves serve as temples, and the oldest trees are believed to house powerful spirits. Druids and wise-women serve as spiritual leaders, performing rituals at the turning of the seasons and mediating between the mortal world and the spirit realm.
 

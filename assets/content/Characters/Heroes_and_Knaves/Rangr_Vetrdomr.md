@@ -589,7 +589,7 @@ sohl:
 
 # Dossier {#dossier}
 
-**Rängr** was born in a small village in the Kingdom of Malagna to **Hafþórr Vetrdómr**, a thatcher of considerable skill, and **Sigrun**, a woman known for her knowledge of weather-working and old folk magic. From his earliest memory, **Rängr** spent his days watching his father repair and construct roofs, learning that thatching was not merely laying reeds upon wooden frames but was a sophisticated craft requiring understanding of drainage, wind patterns, insulation, and the precise angle at which thatch naturally sheds water.
+**Rängr** was born in a small village in the Kingdom of Malagna to **Hafthórr Vetrdómr**, a thatcher of considerable skill, and **Sigrun**, a woman known for her knowledge of weather-working and old folk magic. From his earliest memory, **Rängr** spent his days watching his father repair and construct roofs, learning that thatching was not merely laying reeds upon wooden frames but was a sophisticated craft requiring understanding of drainage, wind patterns, insulation, and the precise angle at which thatch naturally sheds water.
 
 Apprenticed at ten years old—when many would consider him too young—**Rängr** spent ten years training under his father, gradually building the strength, balance, and nerve required to work confidently at height. At twenty, **Rängr** took his first solo commission, and by thirty, had established himself as a master craftsperson whose work outlasted anyone else's in the region. His roofs last decades longer than typical—not through superior materials but through meticulous craftsmanship and understanding of the craft's finer points.
 

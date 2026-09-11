@@ -28,11 +28,11 @@ This note maps the languages spoken across [[place-worldthlrn|Thalorna]], the po
 
 ## Northern Ankaris
 
-| Language    | Spoken In                                                                                                                                                                                                                                        | Reference                             | Notes                                                                                                                          |
-| ----------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
-| **Nordmal** | [[affiliation-kngdmnrdhm\|Kingdom of Nordheim]], [[affiliation-kingdomlgn\|Kingdom of Malagna]], [[affiliation-kingdmnrgd\|Kingdom of Norgaad]], [[affiliation-kingdmtrgd\|Kingdom of Targud]], [[affiliation-kngdmvthgrd\|Kingdom of Vithgard]] | [[skill-nordmalng\|Nordmal Language]] | The tongue of the frozen north. Spoken across all five Nordmen kingdoms with regional variation. Runic script.                 |
-| **Varokhi** | [[place-vrystwald\|Vrystwald Region]] tribes                                                                                                                                                                                                     | [[skill-varokhlng\|Varokhi Language]] | Related to Nordmal through shared Pelwar roots, but diverged significantly. Has no written form; traditions are oral.          |
-| **Grukar**  | [[place-grkrhlmrgn\|Grukarhölm]] tribes                                                                                                                                                                                                          | [[skill-grukarlng\|Grukar Language]]  | A harsh, guttural language with limited vocabulary by Mídhalión standards but rich in terms for weather, hunting, and warfare. |
+| Language    | Spoken In                                                                                                                                                                                                                                       | Reference                             | Notes                                                                                                                          |
+| ----------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------ |
+| **Nordmal** | [[affiliation-kngdmnrdhm\|Kingdom of Nordheim]], [[affiliation-kingdomlgn\|Kingdom of Malagna]], [[affiliation-kingdmnrgd\|Kingdom of Norgaad]], [[affiliation-kingdmtrgd\|Kingdom of Targud]], [[affiliation-kngdmvthgrd\|Kingdom of Vidgard]] | [[skill-nordmalng\|Nordmal Language]] | The tongue of the frozen north. Spoken across all five Nordmen kingdoms with regional variation. Runic script.                 |
+| **Varokhi** | [[place-vrystwald\|Vrystwald Region]] tribes                                                                                                                                                                                                    | [[skill-varokhlng\|Varokhi Language]] | Related to Nordmal through shared Pelwar roots, but diverged significantly. Has no written form; traditions are oral.          |
+| **Grukar**  | [[place-grkrhlmrgn\|Grukarhölm]] tribes                                                                                                                                                                                                         | [[skill-grukarlng\|Grukar Language]]  | A harsh, guttural language with limited vocabulary by Mídhalión standards but rich in terms for weather, hunting, and warfare. |
 
 ## Southern and Eastern Ankaris
 
@@ -107,9 +107,35 @@ The three runic scripts are cognate: Proto-Pelwar _thura-vark_, "graven work," h
 
 The staves themselves are older than any of them. They correspond to a subset of Khazári [[skill-drthrkscrpt|Durthrak]] too closely for coincidence, and the standing account — undocumented, and unlikely ever to be settled — is that the **Proto-Pelwar tribes were Khazári subjects**, taught a reduced work-row in the mountains before they ever migrated west. One Pelwar rune-row came out of the mountains; the migrations broke it into three, so the modern rows are simplifications of a simplification, and the [[skill-semrnscrpt|Sêmarion]] is a further remove again. The shared name is part of the same evidence: a people who invent writing do not call it "the cutting," and all three branches carried that word west because all three carried the same borrowed row.
 
-The Khazári treat the matter as obvious and deny it was any kind of uplift — what was taught was tally, mark, measure and oath, a tool and not a civilization. The Nordmen deny the whole thing flatly, the runes being Óðinn's and not a smith's, and the subjection rather more flatly still. Vylarian antiquarians embrace the parts that embarrass the Nordmen and handle the rest with great care.
+The Khazári treat the matter as obvious and deny it was any kind of uplift — what was taught was tally, mark, measure and oath, a tool and not a civilization. The Nordmen deny the whole thing flatly, the runes being Ódinn's and not a smith's, and the subjection rather more flatly still. Vylarian antiquarians embrace the parts that embarrass the Nordmen and handle the rest with great care.
 
 **Tongues with no script of their own.** [[skill-varokhlng|Varokhi]] has none by choice, and treats borrowed letters as foreign tools. [[skill-valtarlng|Valtári]] has none because it belongs to nobody: a dockside tally is set down in whatever letters the writer happens to know, with no orthography and no agreement between one harbor and the next. [[skill-nyalbnlng|Nyáluban]] is carried by griots and drums, and its written experiments remain marginal. [[skill-grukarlng|Grukar]] is not written at all, and could not be.
+
+## Romanising Thalorna
+
+Thalorna's tongues are written in their own hands — runic rows, the Sêmarion
+alphabet, the Kemetian signs, or nothing at all. Every Latin spelling in these
+pages is therefore a romanisation, and one rule governs all of them, in every
+language and not only the northern ones: **a romanised name has to be typeable.**
+
+A name is looked up far more often than it is admired. Someone meets it in a
+saga, a session, or a compendium list, and then goes to find it by typing what
+they saw — so any spelling that cannot be reached from an ordinary keyboard is a
+name that has been hidden rather than decorated.
+
+The line falls in a precise place, and it is not where it looks. An accented
+letter is an ordinary letter wearing a mark: á, ê, ö, ñ, š and ö all reduce to
+a, e, o, n, s and o on their own, so a search for _harn_ finds Hârn without
+anybody arranging it. Thorn, eth, ash, slashed o and eszett are not accented
+letters at all — they are separate letters, with no plain letter inside them to
+reduce to, so a search for _thorr_ can never reach a name spelled with a thorn.
+Those are written out: `th`, `d`, `ae`, `o`, `ss`.
+
+This is a rule about **names and words**, which are searched. It does not reach
+the phonetic notation in the language notes below, where ʃ, ə, θ, ŋ and the tone
+bars are doing a different job: describing a sound precisely, for a reader who is
+studying the language rather than looking up a person. Nobody searches for a
+schwa.
 
 ### Every Script Note
 

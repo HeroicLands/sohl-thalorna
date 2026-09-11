@@ -26,7 +26,7 @@ flags:
 
 Nordmal is a tongue of the Pelwar family. Fluency measures the sophistication of expression in Nordmal, from the halting phrases of a traveler to the nuanced and learned discourse of a native speaker. As with all specific languages, this skill inherits its mechanics from the general [[skill-lang|Language]] skill.
 
-Nordmal is the tongue of the frozen north, spoken across the five Nordmen kingdoms of [[affiliation-kngdmnrdhm|Kingdom of Nordheim]], [[affiliation-kingdomlgn|Kingdom of Malagna]], [[affiliation-kingdmnrgd|Kingdom of Norgaad]], [[affiliation-kingdmtrgd|Kingdom of Targud]], and [[affiliation-kngdmvthgrd|Kingdom of Vithgard]], as well as in portions of western [[place-aelwyth|Aelwyth]] where Nordman settlers have established communities among the Élavendri lands. A language of harsh beauty, Nordmal reflects the strength, resilience, and warrior culture of its speakers.
+Nordmal is the tongue of the frozen north, spoken across the five Nordmen kingdoms of [[affiliation-kngdmnrdhm|Kingdom of Nordheim]], [[affiliation-kingdomlgn|Kingdom of Malagna]], [[affiliation-kingdmnrgd|Kingdom of Norgaad]], [[affiliation-kingdmtrgd|Kingdom of Targud]], and [[affiliation-kngdmvthgrd|Kingdom of Vidgard]], as well as in portions of western [[place-aelwyth|Aelwyth]] where Nordman settlers have established communities among the Élavendri lands. A language of harsh beauty, Nordmal reflects the strength, resilience, and warrior culture of its speakers.
 
 ## Overview
 
@@ -38,11 +38,11 @@ The language stands apart from southern Pelwar tongues, having developed in rela
 
 Nordmal employs a consonant-heavy inventory with particular emphasis on stops and fricatives, creating the characteristic "harsh" quality northern speakers are known for:
 
-**Consonants:** The language employs a full complement of stop consonants (p, b, t, d, k, g) with strong aspiration in some contexts. Fricatives include f, v, s, z, and the uvular fricative kh/x (from Proto-Pelwar heritage). The combination of these fricatives with the heavy stress patterns creates the characteristic "crackling" sound of Nordmal speech. Initial consonant clusters are common and well-tolerated (str-, skr-, kn- are typical).
+**Consonants:** The language employs a full complement of stop consonants (p, b, t, d, k, g) with strong aspiration in some contexts. Fricatives include f, v, s, z, the voiceless dental fricative _th_ (as in _thin_), and the uvular fricative kh/x (from Proto-Pelwar heritage). Nordmal has **no voiced dental fricative**: the sound older Pelwar carried in that slot merged into plain _d_ generations before the five kingdoms were founded, which is why _seidr_ is said SAI-dur and not SAY-thur. The runic row still keeps two separate staves for a distinction the tongue gave up, and rune-masters treat that as proof the staves are older than the speech. The combination of these fricatives with the heavy stress patterns creates the characteristic "crackling" sound of Nordmal speech. Initial consonant clusters are common and well-tolerated (str-, skr-, kn- are typical).
 
 **Vowels:** Nordmal maintains six vowel positions (a, e, i, o, u, y) with systematic length distinctions marked by accent marks (á, é, í, ó, ú, ý for long vowels). Diphthongs are limited in inventory but phonemic. Nasal vowels do not occur.
 
-**Stress and Rhythm:** Stress is predictable, falling primarily on the first syllable of words (STÓRáldur, HJÓRðis). This creates a hammer-blow rhythm characteristic of Nordmal speech. The language employs alliterative verse patterns where lines are bound by consonant repetition rather than end rhyme.
+**Stress and Rhythm:** Stress is predictable, falling primarily on the first syllable of words (STÓRáldur, HJÓRdis). This creates a hammer-blow rhythm characteristic of Nordmal speech. The language employs alliterative verse patterns where lines are bound by consonant repetition rather than end rhyme.
 
 **Distinctive Features:** The uvular fricative (kh/x) marks the boundary between everyday and formal speech, appearing most frequently in archaic texts and high ritual contexts. The combination of initial consonant clusters with the strong initial stress gives Nordmal a distinctive "punch" in speech. Nordmal also preserves some archaic Pelwar features—like the instrumental case and a dual number—that other branches have lost.
 
@@ -63,6 +63,35 @@ Nordmal employs a consonant-heavy inventory with particular emphasis on stops an
 ## Script & Literacy
 
 Nordmal traditionally employs a runic script (the ancient [[skill-thuravarkscript|Thurávark]], adapted for Pelwar sounds, and in all likelihood inherited, by way of a Proto-Pelwar row learned from the Khazári when the Pelwar tribes were their subjects — a claim no Norman will hear) for formal and sacred writing. The runic system is considered more noble and traditional than the alphabetic script used for trade and common writing. High-status texts—legal documents, genealogies, religious texts—are written in runes.
+
+### Romanising Nordmal
+
+Nordmal is written in runes. Every Latin spelling in these pages is therefore a
+romanisation rather than the language's own writing, and the rule governing it is
+that **a romanised name must be typeable**: a reader who meets Thórr in a saga and
+goes looking for him has to find him by typing what they saw.
+
+That rules out any letter a search cannot fold away. An accent is a decoration
+sitting on an ordinary letter, so á, ó and ö reduce to a, o and o by themselves —
+they cost a reader nothing, and Nordmal keeps them to mark vowel length. Thorn,
+eth and ash are not decorations but letters in their own right, and nothing
+reduces them: a search for _thorr_ never reaches a name spelled with a thorn,
+because there is no _t_ and no _h_ inside it to find. They are written out
+instead:
+
+| sound                         | written       | not |
+| ----------------------------- | ------------- | --- |
+| voiceless dental fricative    | `th`          | th  |
+| its merged voiced counterpart | `d`           | d   |
+| the low front vowel           | `ae`          | ae  |
+| the rounded back vowel        | `ö`           | ö   |
+| long vowels                   | `á é í ó ú ý` | —   |
+
+The assembly is the one place the rule bends toward the older hard _t_. Spelled
+_th_ the word comes out _thing_, which is an ordinary English noun and would bury
+it past finding, so the northern word for a lawful gathering is the **ting** — and
+the handful of names that travelled with it, Torvald among them, keep the same
+hard opening.
 
 The [[skill-semrnscrpt|Sêmarion]] alphabet has become increasingly common for practical purposes, particularly in trade and maritime contexts. True literacy remains rare — confined to the priesthood, professional scribes, and a small minority of the nobility (perhaps 10-20%). Many jarls and thanes consider reading a scribe's task, not a warrior's, and keep household scribes for correspondence and record-keeping. Even in trading cities, most merchants rely on scribes for contracts and correspondence; a guildsman may recognize common trade marks and numerals but cannot read continuous text. Inland and rural populations are almost entirely non-literate. However, the cultural prestige of poetry and sagas means many non-literate Nordmen can recite extensive oral literature from memory.
 
@@ -85,7 +114,7 @@ The five Nordmen kingdoms maintained relative political independence, preventing
 ## Sample Phrases
 
 - **"Hûn ér stórald ok djarflig kvárna."** – "She is tall and bold woman." (Description, using instrumental/adjectival agreement.)
-- **"Vír kómath skrídhar-búdh."** – "We come with peace-words" / "We come in peace." (Formal diplomatic formula.)
+- **"Vír kómad skrídar-búd."** – "We come with peace-words" / "We come in peace." (Formal diplomatic formula.)
 - **"Thrúnvald vákir, úlfskarn drékhar!"** – "The war-god wakes, wolves thirst!" (Battle cry, invoking both god and warrior heritage.)
 - **"Thétvar ér djarfligásta dréngthal!"** – "This is the boldest deed!" (Praise formula.)
 - **"Stórald okkhár lifír í gréthum ok sárkheim."** – "Our saga lives in stone and sorrow." (Poetic statement about endurance and memory.)
@@ -102,7 +131,7 @@ The relationship to southern Pelwar languages ([[skill-vylarilng|Vylari]], [[ski
 
 Nordmal names are typically compound constructions combining roots that evoke strength, battle, wisdom, or natural forces. A name might literally mean "Wolf-slayer" or "Storm-rider" or "Bone-breaker," reflecting parental hopes for the child's character or achievements.
 
-The Nordmen tradition of _ættarnafn_ (earned cognomen) is central to culture: a person performs a great deed and thereby earns a second name that is used thereafter. Thus Eiríkr might earn the title "Stormrot" (Storm-broken/Stormwreck) after surviving a legendary storm. Over generations, such earned names become hereditary family surnames.
+The Nordmen tradition of _aettarnafn_ (earned cognomen) is central to culture: a person performs a great deed and thereby earns a second name that is used thereafter. Thus Eiríkr might earn the title "Stormrot" (Storm-broken/Stormwreck) after surviving a legendary storm. Over generations, such earned names become hereditary family surnames.
 
 Patronymic forms are common, particularly in genealogical contexts. The suffix -sen (son) or -dóttir (daughter) may be appended to a parent's name when formal identification is required. However, fixed family surnames deriving from ancestor names are also in use, particularly among the nobility.
 
@@ -110,12 +139,12 @@ Women's names often employ the -a/-la endings, while men's names more commonly e
 
 ## Male Given Names
 
-Aevarr, Alarík, Aldrik, Aleifr, Amund, Armund, Arnthor, Asbjorn, Asmundr, Athalwulf, Balthur, Bálrik, Banrik, Björgúlf, Bjorn, Brandr, Brithgár, Bruthgar, Búi, Byrnjolf, Dágulf, Dalmarr, Danmarr, Darraðr, Dellrik, Denrik, Derwin, Díormaith, Dithmar, Dórimar, Druthgar, Duthgar, Duthmar, Eadwulf, Earmundr, Eatamir, Eatheling, Eathmar, Eathrik, Edmark, Edmere, Edrígar, Edrik, Edwin, Eikar, Eirik, Eiríkr, Eldgrimr, Eldred, Eldrik, Elfar, Elfred, Elgin, Elihorn, Elimar, Elius, Folki, Frithgar, Frodgar, Fulkír, Garkir, Garulf, Gárimund, Garmund, Garthar, Garwald, Geir, Geirfinn, Geirlaug, Gislinn, Glamr, Glynn, Godric, Goðwin, Gramr, Grandi, Grasir, Gráthunn, Gravir, Greinar, Grendel, Grenulf, Gretgar, Gretmar, Grethil, Grethun, Gretram, Gretrik, Grettor, Gretwald, Gretwulf, Grevin, Grewald, Greylin, Greymon, Greywulf, Grímr, Grindill, Grithel, Grithir, Grithun, Gritmar, Gritrik, Grittor, Groldell, Gromald, Grondel, Grondor, Grorald, Grorholm, Grormark, Grorrik, Grorstein, Grorvald, Grorwold, Groscal, Groscen, Groscil, Grosdin, Groscrim, Grosfinn, Grosheld, Groshil, Groshkim, Grosholm, Groslind, Grosmeld, Grosmer, Grosmil, Grosmin, Grosmond, Grosmund, Grosmunn, Grosneld, Grosnold, Grosred, Grosrik, Grosrom, Grosror, Grosrum, Grosrund, Grosrunne, Grosruth, Grosvald, Grosvalk, Grosvall, Grosvan, Grosvang, Grosvarg, Grosvari, Grosvark, Grosvarr, Grosvart, Grosvatek, Grosvatem, Grosvath, Grosvatik, Grosvatin, Grosvatla, Grosvatley, Grosvatne, Grosvatol, Grosvatom, Grosvattur, Grosvatun, Grosvatur, Grosvatz, Grosvel, Grosveld, Grosvelem, Grosvelin, Grosvelm, Grosvelt, Grosvemar, Grosven, Grosvend, Grosvendt, Grosvenor, Grosvensa, Grosvense, Grosventa, Grosvent, Grosventur, Grosvenza
+Aevarr, Alarík, Aldrik, Aleifr, Amund, Armund, Arnthor, Asbjorn, Asmundr, Athalwulf, Balthur, Bálrik, Banrik, Björgúlf, Bjorn, Brandr, Brithgár, Bruthgar, Búi, Byrnjolf, Dágulf, Dalmarr, Danmarr, Darradr, Dellrik, Denrik, Derwin, Díormaith, Dithmar, Dórimar, Druthgar, Duthgar, Duthmar, Eadwulf, Earmundr, Eatamir, Eatheling, Eathmar, Eathrik, Edmark, Edmere, Edrígar, Edrik, Edwin, Eikar, Eirik, Eiríkr, Eldgrimr, Eldred, Eldrik, Elfar, Elfred, Elgin, Elihorn, Elimar, Elius, Folki, Frithgar, Frodgar, Fulkír, Garkir, Garulf, Gárimund, Garmund, Garthar, Garwald, Geir, Geirfinn, Geirlaug, Gislinn, Glamr, Glynn, Godric, Godwin, Gramr, Grandi, Grasir, Gráthunn, Gravir, Greinar, Grendel, Grenulf, Gretgar, Gretmar, Grethil, Grethun, Gretram, Gretrik, Grettor, Gretwald, Gretwulf, Grevin, Grewald, Greylin, Greymon, Greywulf, Grímr, Grindill, Grithel, Grithir, Grithun, Gritmar, Gritrik, Grittor, Groldell, Gromald, Grondel, Grondor, Grorald, Grorholm, Grormark, Grorrik, Grorstein, Grorvald, Grorwold, Groscal, Groscen, Groscil, Grosdin, Groscrim, Grosfinn, Grosheld, Groshil, Groshkim, Grosholm, Groslind, Grosmeld, Grosmer, Grosmil, Grosmin, Grosmond, Grosmund, Grosmunn, Grosneld, Grosnold, Grosred, Grosrik, Grosrom, Grosror, Grosrum, Grosrund, Grosrunne, Grosruth, Grosvald, Grosvalk, Grosvall, Grosvan, Grosvang, Grosvarg, Grosvari, Grosvark, Grosvarr, Grosvart, Grosvatek, Grosvatem, Grosvath, Grosvatik, Grosvatin, Grosvatla, Grosvatley, Grosvatne, Grosvatol, Grosvatom, Grosvattur, Grosvatun, Grosvatur, Grosvatz, Grosvel, Grosveld, Grosvelem, Grosvelin, Grosvelm, Grosvelt, Grosvemar, Grosven, Grosvend, Grosvendt, Grosvenor, Grosvensa, Grosvense, Grosventa, Grosvent, Grosventur, Grosvenza
 
 ## Female Given Names
 
-Ælrún, Ælsía, Ailbhe, Ailene, Ailín, Ailís, Akanna, Alfrúð, Almara, Alrún, Alríð, Alsa, Alsía, Alva, Alveig, Alvida, Alviðr, Alvig, Alwildr, Ama, Amara, Ambúð, Anakra, Anara, Anatla, Andela, Andís, Aneira, Aneka, Anemara, Anemora, Anesia, Aneta, Aneza, Anfríðr, Angrúð, Angula, Aniata, Anika, Anina, Aninka, Aniða, Anisa, Anita, Anitr, Aniza, Annara, Annarík, Annata, Annava, Annavaig, Annavela, Annaveig, Annavig, Annaviðr, Annavild, Annawildr, Annayla, Annera, Annerika, Annerín, Annería, Annerún, Annesa, Anneta, Annetra, Anneva, Annevaig, Annevel, Annever, Annevig, Anneviðr, Annevik, Annevila, Annevild, Annewilda, Annewildr, Annewilm, Annewilma, Annewindt, Annewind, Annewindus, Annewinnie, Annewitka, Annewitte, Annexa, Annianna, Annialba, Anniana, Annianna, Annibella, Anniberghe, Anniberta, Annida, Annidia, Annidra, Annietha, Annietta, Annifa, Anniga, Annigela, Annigilde, Annigilds, Annigirde, Annigirld
+Aelrún, Aelsía, Ailbhe, Ailene, Ailín, Ailís, Akanna, Alfrúd, Almara, Alrún, Alríd, Alsa, Alsía, Alva, Alveig, Alvida, Alvidr, Alvig, Alwildr, Ama, Amara, Ambúd, Anakra, Anara, Anatla, Andela, Andís, Aneira, Aneka, Anemara, Anemora, Anesia, Aneta, Aneza, Anfrídr, Angrúd, Angula, Aniata, Anika, Anina, Aninka, Anida, Anisa, Anita, Anitr, Aniza, Annara, Annarík, Annata, Annava, Annavaig, Annavela, Annaveig, Annavig, Annavidr, Annavild, Annawildr, Annayla, Annera, Annerika, Annerín, Annería, Annerún, Annesa, Anneta, Annetra, Anneva, Annevaig, Annevel, Annever, Annevig, Annevidr, Annevik, Annevila, Annevild, Annewilda, Annewildr, Annewilm, Annewilma, Annewindt, Annewind, Annewindus, Annewinnie, Annewitka, Annewitte, Annexa, Annianna, Annialba, Anniana, Annianna, Annibella, Anniberghe, Anniberta, Annida, Annidia, Annidra, Annietha, Annietta, Annifa, Anniga, Annigela, Annigilde, Annigilds, Annigirde, Annigirld
 
 ## Clan Names
 
-Asgrind, Drekanótt, Frostulf, Garwald, Hildvith, Jarnskel, Solvargr, Stormrot, Vetrdomr, Vindrkve, Vornheim, Eldskari, Dreaðmaðr, Drengkarl, Eilífúð, Einkennir, Endalaus, Endalheim, Endalsöng, Endavald, Endavík, Endalvál, Endalveig, Endalveldur, Endalvik, Endalvika, Endalwildr, Endalwilt, Endalwind, Endalwing, Endalwinn, Endalwinne, Endalwinta, Endalwinte, Endalwinter, Endalwintra, Endalwinture, Endalwintur, Endalwintura, Endalwinture, Endalwinty, Endalwisa, Endalwise, Endalwista, Endalwiste, Endalwita, Endalwite, Endalwith, Endalwithe, Endalwithiel, Endalwithir, Endalwithre, Endalwithra, Endalwithral, Endalwithram
+Asgrind, Drekanótt, Frostulf, Garwald, Hildvith, Jarnskel, Solvargr, Stormrot, Vetrdomr, Vindrkve, Vornheim, Eldskari, Dreadmadr, Drengkarl, Eilífúd, Einkennir, Endalaus, Endalheim, Endalsöng, Endavald, Endavík, Endalvál, Endalveig, Endalveldur, Endalvik, Endalvika, Endalwildr, Endalwilt, Endalwind, Endalwing, Endalwinn, Endalwinne, Endalwinta, Endalwinte, Endalwinter, Endalwintra, Endalwinture, Endalwintur, Endalwintura, Endalwinture, Endalwinty, Endalwisa, Endalwise, Endalwista, Endalwiste, Endalwita, Endalwite, Endalwith, Endalwithe, Endalwithiel, Endalwithir, Endalwithre, Endalwithra, Endalwithral, Endalwithram

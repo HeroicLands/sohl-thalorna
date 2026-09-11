@@ -587,7 +587,7 @@ Thorsteinn stands 6'1" tall with a medium build. He has tanned weathered skin, b
 
 ### Early Apprenticeship
 
-Thorsteinn was born the third son of a poor farming family in Vithgard's interior, with little prospect of inheriting significant land or wealth. At age twelve, he was apprenticed to the master potter **Kalaugr Clayhand**, an aging craftsman whose hands trembled but whose mind remained sharp. Kalaugr recognized something in the boy—not flashy talent, but the kind of patient persistence that separates true craftspeople from mere imitators. For eight years, Thorsteinn learned the fundamental truths of clay work: that patience yields greater results than passion, that tradition exists because it works, that the smallest variations in temperature or technique can mean the difference between a masterpiece and a pile of shards.
+Thorsteinn was born the third son of a poor farming family in Vidgard's interior, with little prospect of inheriting significant land or wealth. At age twelve, he was apprenticed to the master potter **Kalaugr Clayhand**, an aging craftsman whose hands trembled but whose mind remained sharp. Kalaugr recognized something in the boy—not flashy talent, but the kind of patient persistence that separates true craftspeople from mere imitators. For eight years, Thorsteinn learned the fundamental truths of clay work: that patience yields greater results than passion, that tradition exists because it works, that the smallest variations in temperature or technique can mean the difference between a masterpiece and a pile of shards.
 
 ### The Journeyman Years
 
@@ -595,7 +595,7 @@ At twenty, Thorsteinn completed his apprenticeship and spent five years as a jou
 
 ### The Master's Return and Establishment
 
-At thirty, Thorsteinn returned to Vithgard to establish his own workshop, purchasing land from a retiring vintner who no longer had use for the property. Over the past decade, he has built a reputation as the finest potter in the region—not for innovation or fashionable designs, but for reliability, durability, and utility. His vessels are favored by farmers, merchants, and wealthy families alike because they last. They're functional, beautiful in their simplicity, and built to survive the rigors of actual use. He trains apprentices in the traditional manner, takes pride in his work, and has become increasingly respected as a keeper of authentic craft wisdom.
+At thirty, Thorsteinn returned to Vidgard to establish his own workshop, purchasing land from a retiring vintner who no longer had use for the property. Over the past decade, he has built a reputation as the finest potter in the region—not for innovation or fashionable designs, but for reliability, durability, and utility. His vessels are favored by farmers, merchants, and wealthy families alike because they last. They're functional, beautiful in their simplicity, and built to survive the rigors of actual use. He trains apprentices in the traditional manner, takes pride in his work, and has become increasingly respected as a keeper of authentic craft wisdom.
 
 ## Psyche
 
@@ -616,7 +616,7 @@ At forty, Thorsteinn is primarily motivated by the desire to preserve authentic 
 - **Excellence in Functional Design** - His vessels are not merely beautiful; they're engineered for use. They have the correct weight distribution, the right wall thickness for the intended function, glazes that are food-safe and durable. A **Thorsteinn Frostulf** pot doesn't just work—it works beautifully.
 - **Patient Mentor** - Despite his rigidity in some areas, Thorsteinn is genuinely gifted at teaching those willing to learn properly. He breaks down complex processes into manageable components and has the patience to repeat lessons until understanding settles in.
 - **Perceptive Understanding of Material Properties** - He can read clay, glaze, and fire in ways that border on intuitive. He rarely makes mistakes, and when he does, he quickly diagnoses the problem and adjusts.
-- **Respected Reputation** - His name carries weight in Vithgard and surrounding regions. Families commission his work for special occasions, and his pieces hold resale value.
+- **Respected Reputation** - His name carries weight in Vidgard and surrounding regions. Families commission his work for special occasions, and his pieces hold resale value.
 
 ### Weaknesses
 
@@ -642,7 +642,7 @@ At forty, Thorsteinn is primarily motivated by the desire to preserve authentic 
 
 ### Affiliations
 
-- **Potters' Guild of Vithgard** - While respected, Thorsteinn holds increasingly conservative positions in guild politics, often opposing progressive initiatives or modernization efforts, creating friction with younger members.
+- **Potters' Guild of Vidgard** - While respected, Thorsteinn holds increasingly conservative positions in guild politics, often opposing progressive initiatives or modernization efforts, creating friction with younger members.
 - **The Traditionalists' Circle** - An informal association of master craftspeople from various disciplines who meet monthly to discuss the preservation of classical techniques and resistance to what they see as corruptive modern influences.
 
 ## Plot Hooks

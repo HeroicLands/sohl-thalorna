@@ -7,7 +7,7 @@ subType: mystical
 shortcode: odinn
 img: images/affiliation/asguardian/odinn.webp
 name:
-  full: "Ritual: Óðinn"
+  full: "Ritual: Ódinn"
   aliases:
     - The Enlightened Path
 sohl:
@@ -22,4 +22,4 @@ sohl:
 packFolder: asguardian
 ---
 
-See [[affiliation-odinn|Faith of Óðinn]]
+See [[affiliation-odinn|Faith of Ódinn]]

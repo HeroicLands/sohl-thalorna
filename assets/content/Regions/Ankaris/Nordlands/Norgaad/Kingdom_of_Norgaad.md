@@ -14,13 +14,13 @@ data:
   symbol: null
   governance:
     model: monarchy
-    summary: Hereditary monarchy with a þing (assembly) tradition.
+    summary: Hereditary monarchy with a ting (assembly) tradition.
     ranks:
       - level: 0
-        title: Níðing
+        title: Níding
         lore: outlawrnk
         description: >-
-          Outlawed at the þing and set beyond the law's protection, so that any man may kill
+          Outlawed at the ting and set beyond the law's protection, so that any man may kill
           them and owe no wergild for it.
       - level: 1
         title: Thrall
@@ -33,12 +33,12 @@ data:
         lore: freedmanrnk
         description: >-
           Manumitted but still bound in obligation to a former master, and not yet reckoned
-          a full man of the þing.
+          a full man of the ting.
       - level: 3
         title: Bóndi
         lore: yeomanrnk
         description: >-
-          A free farmer holding his own land, bearing arms, and speaking at the þing in his
+          A free farmer holding his own land, bearing arms, and speaking at the ting in his
           own name.
       - level: 4
         title: Hauldr
@@ -68,33 +68,33 @@ data:
         title: King
         lore: sovereignrnk
         description: >-
-          Chosen from the royal kin and acclaimed at the þing, holding the realm by the assembly's
+          Chosen from the royal kin and acclaimed at the ting, holding the realm by the assembly's
           consent as much as by descent.
     offices:
-      King: Acclaimed sovereign, holding the realm by the þing's consent as much as by descent.
+      King: Acclaimed sovereign, holding the realm by the ting's consent as much as by descent.
       Queen: The king's wife, keeper of the hall's keys and mistress of its household and
         stores.
       Jarl: Holder of a province of the king, commanding its levies and answering for its
         dues.
       Hersir: Chieftain of a district, leading its men to the muster and speaking for them
-        at the þing.
+        at the ting.
       Lawspeaker: Keeper of the law in memory, who recites it at the assembly and declares
         what it is.
-      Goði: >-
+      Godi: >-
         Priest-chieftain of a temple and its district, holding sacred and secular authority
         together.
       Stallari: The king's marshal, commander of his household men and master of the muster.
-      Ármaðr: Steward of a royal estate, answerable for its yield and for the king's rights
+      Ármadr: Steward of a royal estate, answerable for its yield and for the king's rights
         within it.
-      Féhirðir: Keeper of the king's treasure, his tribute and the silver of his hall.
-      Merkismaðr: Bearer of the king's standard in battle, a post of the highest honour and
+      Féhirdir: Keeper of the king's treasure, his tribute and the silver of his hall.
+      Merkismadr: Bearer of the king's standard in battle, a post of the highest honour and
         shortest life.
       Skald: Court poet, whose verse is the realm's memory and whose praise or scorn makes
         reputations.
       Hirdman: Sworn man of the king's household troop, fed at his table and bound to his
         person.
-      Sýslumaðr: The king's officer in a district, collecting his dues and holding his courts.
-      Styrimaðr: Master of a ship, commanding her crew at sea and answering for her in the
+      Sýslumadr: The king's officer in a district, collecting his dues and holding his courts.
+      Styrimadr: Master of a ship, commanding her crew at sea and answering for her in the
         levy.
       Harbour-reeve: Keeper of a haven, collecting its tolls and adjudicating disputes on
         its wharves.
@@ -129,7 +129,7 @@ Norgaad occupies the central position among the five Nordmen kingdoms, straddlin
 
 ## Character
 
-Norgaad is considered the most traditional of the Nordmen kingdoms — the heartland of the old ways. Its people are deeply devoted to the [[affiliation-asguardian|Asguardian Pantheon]] faith, and its völvur (seers and shamans) are considered the most powerful and respected in the north. The kingdom's þing tradition is the strongest, and Norgaad's kings are the most constrained by customary law and assembly consensus.
+Norgaad is considered the most traditional of the Nordmen kingdoms — the heartland of the old ways. Its people are deeply devoted to the [[affiliation-asguardian|Asguardian Pantheon]] faith, and its völvur (seers and shamans) are considered the most powerful and respected in the north. The kingdom's ting tradition is the strongest, and Norgaad's kings are the most constrained by customary law and assembly consensus.
 
 The kingdom's interior is dominated by vast mountain ranges and deep valleys. Its people are herders, hunters, and miners more than sailors, though its coastal settlements maintain respectable fleets. Norgaad's iron and silver mines are the richest in the north, making it the wealthiest kingdom in raw resources if not in trade.
 
@@ -143,6 +143,6 @@ Kingdom of Norgaad uses the [[lore-vylrncrncy|Vylarian coinage]] (Aurion / Argo 
 
 ## See Also
 
-- [[affiliation-kngdmnrdhm|Kingdom of Nordheim]], [[affiliation-kingdomlgn|Kingdom of Malagna]], [[affiliation-kingdmtrgd|Kingdom of Targud]], [[affiliation-kngdmvthgrd|Kingdom of Vithgard]] — Sister kingdoms
+- [[affiliation-kngdmnrdhm|Kingdom of Nordheim]], [[affiliation-kingdomlgn|Kingdom of Malagna]], [[affiliation-kingdmtrgd|Kingdom of Targud]], [[affiliation-kngdmvthgrd|Kingdom of Vidgard]] — Sister kingdoms
 - [[affiliation-asguardian|Asguardian Pantheon]] — Pantheon
 - [[place-grkrhlmrgn|Grukarholm Region]] — Eastern threat

@@ -18,7 +18,7 @@ data:
       to a High Járl elected from among their number.
     ranks:
       - level: 0
-        title: Níðing
+        title: Níding
         lore: outlawrnk
         description: >-
           Outlawed at the moot and beyond the law's protection, so that any man may kill them
@@ -72,12 +72,12 @@ data:
       Hersir: Chieftain of a district, leading its men to the muster.
       Lawspeaker: Keeper of the law in memory, who recites it at the moot and declares what
         it is.
-      Goði: >-
+      Godi: >-
         Priest-chieftain of a temple and its district, holding sacred and secular authority
         together.
       Stallari: Marshal of the High Járl's household men and master of the common muster.
       Skald: Poet of a hall, whose verse is its memory and whose scorn is a weapon.
-      Styrimaðr: Master of a ship, commanding her crew at sea and answering for her in the
+      Styrimadr: Master of a ship, commanding her crew at sea and answering for her in the
         levy.
       Harbour-reeve: Keeper of a haven, its tolls and its disputes.
       Truce-Warden: Holder of the peace declared for the moot, empowered to kill to keep it.

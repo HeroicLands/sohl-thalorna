@@ -12,27 +12,27 @@ data:
   governance:
     model: theocracy
     summary: >-
-      A ladder of circles, rising from the young Thræll through the working Goði or Gyðja to the
-      senior ranks of Jarl and Konungr and the pontifical offices of the Allsherjargoði and the
-      Faðir or Móðir of the god. The titles are this faith's own; the pattern is the pantheon's.
+      A ladder of circles, rising from the young Thraell through the working Godi or Gydja to the
+      senior ranks of Jarl and Konungr and the pontifical offices of the Allsherjargodi and the
+      Fadir or Módir of the god. The titles are this faith's own; the pattern is the pantheon's.
       Circle II is unlisted in the sources.
     ranks:
       - level: 0
-        title: Níðingr
+        title: Nídingr
         lore: excmmnctrnk
         description: >-
           Declared nithing — cut off from the faith and from the standing that being of it
-          conferred. No hall will seat them and no goði will speak for them.
+          conferred. No hall will seat them and no godi will speak for them.
       - level: 1
-        title: Eldr Thræll
+        title: Eldr Thraell
         lore: initiaternk
         description: >-
           "Fire Thrall" — Flame Acolyte. The god's thrall: taken into the temple young, given the observances and the labour, and years away from the priesthood.
       - level: 3
-        title: Eldr Goði/Goðe
+        title: Eldr Godi/Gode
         lore: priestrnk
         description: >-
-          "Fire Priest/Priestess" — Flame Priest/Priestess. The working priest or priestess — Goði for a man, Gyðja for a woman — who keeps the rites of a hall and the people who gather at it.
+          "Fire Priest/Priestess" — Flame Priest/Priestess. The working priest or priestess — Godi for a man, Gydja for a woman — who keeps the rites of a hall and the people who gather at it.
       - level: 4
         title: Elding Hersir
         lore: commanderrnk
@@ -49,12 +49,12 @@ data:
         description: >-
           "Fire Giant King/Queen" — Flamebringer. King or queen within the faith's own hierarchy, and in some kingdoms a power the crown must reckon with.
       - level: 7
-        title: Aska Allsherjargoði
+        title: Aska Allsherjargodi
         lore: highpriestrnk
         description: >-
           "Ash High Priest" — Ashen Lord. High priest — a pontifical office, speaking for the faith where it must speak with one voice.
       - level: 8
-        title: Eldr Faðir/Móðir
+        title: Eldr Fadir/Módir
         lore: grandmasterrnk
         description: >-
           "Father/Mother of Fire" — Pontiff of the Eternal Flame. Father or Mother of the god: the highest pontifical office, held by one person at a time.
@@ -65,11 +65,11 @@ data:
         Elite warriors known for their ferocity in battle.
       Flameguard: >-
         A militant order dedicated to protecting Súrtr's temples and followers, using fire-based combat techniques.
-      Allsherjargoði: >-
+      Allsherjargodi: >-
         High priest of the faith, and its voice where it must speak with one.
-      Faðir/Móðir: >-
+      Fadir/Módir: >-
         Father or Mother of the god — the highest office, held by one person.
-      Goði/Gyðja: >-
+      Godi/Gydja: >-
         The working priest or priestess of a hall, who keeps its rites and its people.
   commonSkills: []
   seat: null
@@ -118,13 +118,13 @@ Followers of Súrtr are warriors who embrace the chaos and brutality of battle. 
 
 ## Clergy
 
-- **Eldr Thræll** (Circle I: "Fire Thrall") — Flame Acolyte
-- **Eldr Goði/Goðe** (Circle III: "Fire Priest/Priestess") — Flame Priest/Priestess
+- **Eldr Thraell** (Circle I: "Fire Thrall") — Flame Acolyte
+- **Eldr Godi/Gode** (Circle III: "Fire Priest/Priestess") — Flame Priest/Priestess
 - **Elding Hersir** (Circle IV: "Lightning Warlord") — Inferno Herald
 - **Bál Jarl** (Circle V: "Pyre Jarl") — Warden of Flames
 - **Eldjötunn Konungr/Konungrkvinde** (Circle VI: "Fire Giant King/Queen") — Flamebringer
-- **Aska Allsherjargoði** (Circle VII: "Ash High Priest") — Ashen Lord
-- **Eldr Faðir/Móðir** (Circle VIII: "Father/Mother of Fire") — Pontiff of the Eternal Flame
+- **Aska Allsherjargodi** (Circle VII: "Ash High Priest") — Ashen Lord
+- **Eldr Fadir/Módir** (Circle VIII: "Father/Mother of Fire") — Pontiff of the Eternal Flame
 
 **Key Skills:** Fire manipulation and pyromancy, Battle tactics and warfare, Destruction and rebirth rituals, Forge and metalworking
 

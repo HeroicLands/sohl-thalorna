@@ -9,7 +9,7 @@ name:
   clan: Sa'Anut
   home: ankhsetun
   aliases:
-    - Hersaîs SaAnut
+    - Hersaîs SaAnut
     - Hersais SaAnut
 packFolder: northernfertileregiontakheperu
 banner: banners/ta-kheperu-banner.webp

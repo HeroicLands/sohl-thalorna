@@ -42,13 +42,13 @@ valley bottoms — barley and oats, in a summer that is over almost as soon as i
 been enough. The region lives on the **sea**: sealing, fishing, whale ivory, furs, amber, and the ships
 that carry all of it. The ships are the economy, and always have been.
 
-| Kingdom                               | People   |
-| ------------------------------------- | -------- |
-| [[affiliation-kngdmnrdhm\|Nordheim]]  | ~650,000 |
-| [[affiliation-kingdmnrgd\|Norgaad]]   | ~400,000 |
-| [[affiliation-kingdomlgn\|Malagna]]   | ~340,000 |
-| [[affiliation-kingdmtrgd\|Targud]]    | ~300,000 |
-| [[affiliation-kngdmvthgrd\|Vithgard]] | ~300,000 |
+| Kingdom                              | People   |
+| ------------------------------------ | -------- |
+| [[affiliation-kngdmnrdhm\|Nordheim]] | ~650,000 |
+| [[affiliation-kingdmnrgd\|Norgaad]]  | ~400,000 |
+| [[affiliation-kingdomlgn\|Malagna]]  | ~340,000 |
+| [[affiliation-kingdmtrgd\|Targud]]   | ~300,000 |
+| [[affiliation-kngdmvthgrd\|Vidgard]] | ~300,000 |
 
 **Nordheim is pre-eminent** and is larger than any two of its neighbours together, which is the shape of
 northern politics in one line.
@@ -69,9 +69,9 @@ there has ever done.
 
 ## Peoples and Culture
 
-The Nordmen are overwhelmingly human, fiercely independent, and organized into **clans** led by _jarls_ who rule through a combination of strength, generosity, and the reputation earned by their ancestors. Clans cluster into the five kinship-kingdoms — [[affiliation-kngdmnrdhm|Nordheim]], [[affiliation-kingdomlgn|Malagna]], [[affiliation-kingdmnrgd|Norgaad]], [[affiliation-kingdmtrgd|Targud]], and [[affiliation-kngdmvthgrd|Vithgard]] — each with its own king-jarl and regional traditions. What they share far outweighs what separates them: all speak [[skill-nordmalng|Nordmal]], all worship the Twelve of the [[affiliation-asguardian|Asguardian Pantheon]], and all recognize the authority of the _þing_, the open assembly where disputes are settled, laws proclaimed, and alliances forged.
+The Nordmen are overwhelmingly human, fiercely independent, and organized into **clans** led by _jarls_ who rule through a combination of strength, generosity, and the reputation earned by their ancestors. Clans cluster into the five kinship-kingdoms — [[affiliation-kngdmnrdhm|Nordheim]], [[affiliation-kingdomlgn|Malagna]], [[affiliation-kingdmnrgd|Norgaad]], [[affiliation-kingdmtrgd|Targud]], and [[affiliation-kngdmvthgrd|Vidgard]] — each with its own king-jarl and regional traditions. What they share far outweighs what separates them: all speak [[skill-nordmalng|Nordmal]], all worship the Twelve of the [[affiliation-asguardian|Asguardian Pantheon]], and all recognize the authority of the _ting_, the open assembly where disputes are settled, laws proclaimed, and alliances forged.
 
-The _þing_ tradition is the closest thing the Nordlands have to a continental institution. Every seventh year the **King of All Clans** is convened on a sacred island at the heart of the region, where the five kings and their principal jarls gather to settle inter-kingdom quarrels, proclaim judgments that reach beyond any one kingdom's writ, and decide matters of war and peace with neighbors.
+The _ting_ tradition is the closest thing the Nordlands have to a continental institution. Every seventh year the **King of All Clans** is convened on a sacred island at the heart of the region, where the five kings and their principal jarls gather to settle inter-kingdom quarrels, proclaim judgments that reach beyond any one kingdom's writ, and decide matters of war and peace with neighbors.
 
 Personal honor is paramount. A Nordmen's reputation is their most valuable possession, and insults or betrayals can spawn blood feuds that span generations. The same culture that venerates honor also permits real social mobility: a clever or brave commoner who earns a jarl's notice can rise; a weak jarl's grown children can find themselves ruled by a cousin who proved more capable. Women hold more autonomy than in most Ankarian cultures — they manage estates during voyages, own property in their own right, initiate divorce, and occasionally take up arms as shield-maidens whose skill earns the same respect any warrior's does.
 
@@ -79,17 +79,17 @@ Nordmen excellence in shipbuilding is legendary. Their longships are shallow-dra
 
 ## Religion
 
-The [[affiliation-asguardian|Asguardian Pantheon]] is the living faith of the Nordlands. Its gods — [[affiliation-odinn|Óðinn]] the Allfather, [[affiliation-thorr|Thórr]] the storm-wielder, [[affiliation-baldr|Baldr]] of light and dreams, [[affiliation-freyr|Fréyr]] and [[affiliation-freyja|Fréyja]] of fertility and love, [[affiliation-tyr|Týr]] of oath and combat, dread [[affiliation-hel|Hél]] of the underworld, and the rest — are not distant cosmic abstractions but near, jealous, and demanding neighbors who walk the edges of the Nordmal imagination. Every Nordmen expects a reckoning at Ragnarok; every Nordmen hopes to be remembered as one who stood well when it came.
+The [[affiliation-asguardian|Asguardian Pantheon]] is the living faith of the Nordlands. Its gods — [[affiliation-odinn|Ódinn]] the Allfather, [[affiliation-thorr|Thórr]] the storm-wielder, [[affiliation-baldr|Baldr]] of light and dreams, [[affiliation-freyr|Fréyr]] and [[affiliation-freyja|Fréyja]] of fertility and love, [[affiliation-tyr|Týr]] of oath and combat, dread [[affiliation-hel|Hél]] of the underworld, and the rest — are not distant cosmic abstractions but near, jealous, and demanding neighbors who walk the edges of the Nordmal imagination. Every Nordmen expects a reckoning at Ragnarok; every Nordmen hopes to be remembered as one who stood well when it came.
 
-Worship is decentralized. There is no pontifical authority, no single temple primacy, no Ordo. Instead the faith is organized around **hofs** (communal halls), **goðar** and **gyðjur** (local priests and priestesses who double as civic leaders), and the _blót_ — the seasonal sacrifice and shared feast that knits a clan to its gods and to one another. Four great festivals mark the ritual year: _Jól_ at midwinter, _Sumarmál_ at spring, _Miðsumar_ at the summer solstice, and _Vetrnætr_ as winter returns.
+Worship is decentralized. There is no pontifical authority, no single temple primacy, no Ordo. Instead the faith is organized around **hofs** (communal halls), **godar** and **gydjur** (local priests and priestesses who double as civic leaders), and the _blót_ — the seasonal sacrifice and shared feast that knits a clan to its gods and to one another. Four great festivals mark the ritual year: _Jól_ at midwinter, _Sumarmál_ at spring, _Midsumar_ at the summer solstice, and _Vetrnaetr_ as winter returns.
 
-Alongside priesthood runs a second current: the wandering **völvur**, seeresses who travel from settlement to settlement practicing _seiðr_ (trance magic, spirit-walking) and _rúnagaldr_ (rune-magic). The [[affiliation-ordoarcanis|Ordo Arcanis]] has essentially no reach here — the völvur predate it by centuries and Nordmal distrust of foreign institutions is absolute.
+Alongside priesthood runs a second current: the wandering **völvur**, seeresses who travel from settlement to settlement practicing _seidr_ (trance magic, spirit-walking) and _rúnagaldr_ (rune-magic). The [[affiliation-ordoarcanis|Ordo Arcanis]] has essentially no reach here — the völvur predate it by centuries and Nordmal distrust of foreign institutions is absolute.
 
 ## Politics and Power
 
 The Nordlands are five sovereign kingdoms that operate as a loose confederation. Nordheim is traditionally first among equals: it holds the sacred island of the septennial assembly and its king is the usual convener of the King of All Clans. But each kingdom jealously guards its own sovereignty, and attempts to consolidate real power beyond one's own jarlship are met with the same reflexive resistance that Aurèldíans reserve for would-be emperors.
 
-Succession is nominally hereditary, but it is qualified by the _þing_: a king whose clans reject him cannot rule in fact, and the assembly has deposed kings more than once. This gives Nordmal governance a frontier quality that outsiders often mistake for chaos. It is not. It is a system that demands constant, public demonstration of competence.
+Succession is nominally hereditary, but it is qualified by the _ting_: a king whose clans reject him cannot rule in fact, and the assembly has deposed kings more than once. This gives Nordmal governance a frontier quality that outsiders often mistake for chaos. It is not. It is a system that demands constant, public demonstration of competence.
 
 ## Trade
 
@@ -103,7 +103,7 @@ Far to the south, Mídhalión is the great market. Nordmen traders and mercenari
 
 ## See Also
 
-- [[affiliation-kngdmnrdhm|Kingdom of Nordheim]], [[affiliation-kingdomlgn|Kingdom of Malagna]], [[affiliation-kingdmnrgd|Kingdom of Norgaad]], [[affiliation-kingdmtrgd|Kingdom of Targud]], [[affiliation-kngdmvthgrd|Kingdom of Vithgard]] — the five Nordmal kingdoms
+- [[affiliation-kngdmnrdhm|Kingdom of Nordheim]], [[affiliation-kingdomlgn|Kingdom of Malagna]], [[affiliation-kingdmnrgd|Kingdom of Norgaad]], [[affiliation-kingdmtrgd|Kingdom of Targud]], [[affiliation-kngdmvthgrd|Kingdom of Vidgard]] — the five Nordmal kingdoms
 - [[affiliation-asguardian|Asguardian Pantheon]] — the Twelve of the north
 - [[skill-nordmalng|Nordmal Language]] — the shared tongue
 - [[place-grkrhlmrgn|Grukarhölm]] — eastern neighbor

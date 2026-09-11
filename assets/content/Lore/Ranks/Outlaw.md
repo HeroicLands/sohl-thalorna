@@ -20,4 +20,4 @@ TBD.
 
 ## Where This Standing Is Held
 
-9 bodies in Thalorna name this standing, at level 0 of their ladders, and each spells it in its own words: **Exile**, **Atimos**, **Outlaw**, **Marked**, **Kinless**, **Níðing**, **Blood-Debtor**, **Attainted**, **Severed**.
+9 bodies in Thalorna name this standing, at level 0 of their ladders, and each spells it in its own words: **Exile**, **Atimos**, **Outlaw**, **Marked**, **Kinless**, **Níding**, **Blood-Debtor**, **Attainted**, **Severed**.
