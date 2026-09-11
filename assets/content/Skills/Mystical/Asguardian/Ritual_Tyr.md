@@ -5,7 +5,7 @@ tags:
 type: skill
 subType: mystical
 shortcode: tyr
-img: images/affiliation/tyr.webp
+img: images/affiliation/asguardian/tyr.webp
 name:
   full: "Ritual: Týr"
   aliases:

@@ -6,10 +6,9 @@ tags:
   - black-flame
 name:
   full: The Black Flame
-  aliases:
-    - Vúlcani Heresy
+  aliases: []
 shortcode: blackflame
-img: images/affiliation/blackflame.webp
+img: images/affiliation/aureldian/blackflame.webp
 type: affiliation
 subType: faithtradition
 data:
@@ -18,79 +17,47 @@ data:
   epithet: The Forge-Lord
   symbol: A mailed fist enclosed in black flames
   governance:
-    model: theocracy
+    model: oligarchy
     summary: >-
-      Ordained priesthood under a hierarch, with the lay faithful bound by observance rather
-      than by office.
+      A temple priesthood of 3 working tiers: acolytes in training, ordained clergy, and the
+      Flame-Warden above them. The lay faithful keep the feasts without office.
     ranks:
       - level: 0
-        title: Excommunicate
+        title: Exsecratus
         lore: excmmnctrnk
         description: >-
-          Cut off from the rites, the temples and the burial the tradition promises — the one
+          Cast out — denied the rites, the temple and the burial the faith promises, which is the one
           sentence it can pass that outlives the body.
       - level: 1
-        title: Catechumen
-        lore: catechumenrnk
-        description: Under instruction and not yet received; permitted to hear and not to partake.
+        title: Fideles
+        lore: layfaithfulrnk
+        description: >-
+          The lay faithful, who keep the feasts and the observances of the god without holding office
+          in the temple.
       - level: 2
-        title: Lay Faithful
-        lore: layfaithfulrnk
-        description: >-
-          Of the tradition by profession and observance, keeping its feasts and its prohibitions
-          without office in it.
-      - level: 3
-        title: Devotee
-        lore: layfaithfulrnk
-        description: >-
-          Bound by a private vow — a fast, a pilgrimage, a service — beyond what the lay faithful
-          owe.
-      - level: 4
-        title: Acolyte
+        title: Aspirant
         lore: initiaternk
         description: >-
-          Serving in the temple and learning its rites, on the path to ordination and not yet
-          holding it.
-      - level: 5
-        title: Ordained
+          Also called Acolytes of Ash — the newest members, who have passed the basic ordeals and sworn oaths to Vúlcan's destructive vision.
+      - level: 3
+        title: Scorchmaster
         lore: priestrnk
         description: >-
-          Priest or priestess of the tradition, empowered to perform the rites and to bind and
-          loose in its name.
-      - level: 6
-        title: Temple Officer
-        lore: highpriestrnk
-        description: Holding a charge within a temple — its treasury, its schools, its estates,
-          its oracles.
-      - level: 7
-        title: High Priest
-        lore: highpriestrnk
-        description: Head of a temple or a cult, speaking with the voice of the god in matters
-          of its doctrine.
-      - level: 8
-        title: Hierophant
+          Those who have undergone the highest ordeals and proven themselves as warriors and believers; lieutenants to a Flame-Warden, who train acolytes and lead its operations.
+      - level: 4
+        title: Flame-Warden
         lore: grandmasterrnk
         description: >-
-          Head of the whole tradition, whose ruling on doctrine is final and whose sanction
-          every high priest holds at.
+          Also styled Ashlord. Each leads a semi-independent cell or warband and operates alone; the faith recognises no Grand Pontifex and no supreme authority, and alliances between Wardens are temporary.
     offices:
-      Hierophant: >-
-        Head of the tradition, final authority on its doctrine and source of every high priest's
-        sanction.
-      High Priest: Head of a temple or cult, master of its estates and voice of its god on
-        doctrine.
-      Oracle: Speaker of the god's answer, consulted before any undertaking the tradition
-        must bless.
-      Temple Steward: Administrator of a temple's lands, herds, workshops and revenue.
-      Sacristan: Keeper of the sanctuary, its vessels, its vestments and the purity of both.
-      Almoner: Distributor of the temple's charity, and the face the tradition shows the poor.
-      Lector: Reader of the sacred texts in the rites, and teacher of them to acolytes.
-      Exorcist: >-
-        Charged with what the tradition holds should not be present, and with the rites that
-        remove it.
-      Chief Augur: Reader of the signs by which the tradition fixes the hour of its acts.
-      Keeper of the Calendar: Holder of the feast-reckoning, and thereby of when the year's
-        obligations fall due.
+      Flame-Warden: >-
+        Also styled Ashlord. Each leads a semi-independent cell or warband and operates alone; the faith recognises no Grand Pontifex and no supreme authority, and alliances between Wardens are temporary.
+      Scorchmaster: >-
+        Those who have undergone the highest ordeals and proven themselves as warriors and believers; lieutenants to a Flame-Warden, who train acolytes and lead its operations.
+      Aspirant: >-
+        Also called Acolytes of Ash — the newest members, who have passed the basic ordeals and sworn oaths to Vúlcan's destructive vision.
+      Ashlord: >-
+        An alternative style for a Flame-Warden, used where the warband is large enough to hold territory.
   commonSkills: []
   seat: null
   domains: []

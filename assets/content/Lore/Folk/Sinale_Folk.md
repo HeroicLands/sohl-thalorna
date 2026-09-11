@@ -46,6 +46,10 @@ Then came the [[lore-flkkhazar|Khazári]] — the Deep Folk, the Stone-Wrights �
 
 But something broke. The nature of the sundering between the Sinalë and the Khazári is the most closely guarded secret of both peoples — neither will speak of it to humans, and the rare scholar who has pressed the question has been met with a silence so absolute and so cold that the conversation was never attempted again. What is clear is that the two elder races separated, completely and permanently, long before the first human civilizations arose. They do not speak to each other. They do not trade. They do not acknowledge each other's existence except in the most oblique terms. Whatever happened between them, it has not been forgiven.
 
+What broke it was **[[lore-khazarturn|Khazártúrn]]**. In 2800 BF a Sinalë outlaw took up the [[miscgear-secondvoice|Second Voice]] — a relic the Sinalë knew of and had never thought worth mentioning, since a weapon that commands [[lore-grukarfolk|Grukar]] is a weapon against cities and the Sinalë build none — and used it to destroy the greatest city the [[lore-flkkhazar|Khazári]] ever raised, killing thirty thousand. The Sinalë hunted him down themselves, took a long time about it, and afterward handed over nothing and explained nothing.
+
+Each people guards the secret for its own reason. The Khazári because it is their humiliation; the Sinalë because one of theirs did it, and because of what they had failed to say beforehand.
+
 By the time humanity began to build cities and keep records, the Sinalë were already diminished — fewer in number, withdrawn into ever-more-remote sanctuaries, engaged in concerns that had nothing to do with the affairs of the younger race. The rise of human civilizations barely registered in their reckoning. Empires that seemed eternal to humans — the Vylarian Republic, the Kheperi dynasties — were brief seasons to a people who remembered the world before cities existed.
 
 ## The Enclaves

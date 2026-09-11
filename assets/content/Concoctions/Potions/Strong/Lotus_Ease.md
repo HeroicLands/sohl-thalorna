@@ -6,7 +6,7 @@ name:
   aliases:
     - Potion, Narcotic, Strong
 description: "Deep amber golden liquid; brings profound peace and calm."
-img: icons/potion.svg
+img: systems/sohl/assets/icons/other/potion.svg
 shortcode: PtnNarS
 type: concoctiongear
 subType: exotic

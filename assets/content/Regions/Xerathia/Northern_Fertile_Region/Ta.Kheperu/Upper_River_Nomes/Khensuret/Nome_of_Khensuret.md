@@ -109,6 +109,8 @@ data:
     - uperivrnms
   relations:
     kemtnpnthn: aligned
+    seker: aligned
+    anubis: aligned
 sohl:
   templatePriority: null
 packFolder: khensuret
@@ -122,7 +124,7 @@ Khensuret is the great mortuary nome of the [[affiliation-uperivrnms|upper river
 
 ## Character
 
-Khensuret is solemn, ancient, and wholly given over to death — not morbidly, for the Kheperi see death as renewal, but completely. The whole life of the nome organizes around the dead: the embalmers in their workshops on the west bank, the tomb-builders and quarrymen cutting and raising the houses of eternity, the funerary artists painting the walls that _are_ the afterlife made real, the coffin-makers and amulet-carvers and the keepers of the great rolls of mortuary spells. Above them all stand the Wer'Hekau of the mortuary temples, who command estates and labor-gangs rivaling the [[affiliation-empirtkhpr#Titles and Forms of Address|Haty'a]]'s own — and the central political fact of the nome is the wary sharing of power between the hereditary nomarch and the priesthoods of the dead. Pilgrims throng the temple-city year-round; the festival-calendar is dense with rites for the departed; and the whole place lives, paradoxically, very well off of dying well.
+Khensuret is solemn, ancient, and wholly given over to death — not morbidly, for the Kheperi see death as renewal, but completely. The whole life of the nome organizes around the dead: the embalmers in their workshops on the west bank, the tomb-builders and quarrymen cutting and raising the houses of eternity, the funerary artists painting the walls that _are_ the afterlife made real, the coffin-makers and amulet-carvers and the keepers of the great rolls of mortuary spells. Above them all stand the Wer'Hekau of the mortuary temples, who command estates and labor-gangs rivaling the [[affiliation-empirtkhpr#titles-and-forms-of-address|Haty'a]]'s own — and the central political fact of the nome is the wary sharing of power between the hereditary nomarch and the priesthoods of the dead. Pilgrims throng the temple-city year-round; the festival-calendar is dense with rites for the departed; and the whole place lives, paradoxically, very well off of dying well.
 
 ## Economy
 

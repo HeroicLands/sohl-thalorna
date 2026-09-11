@@ -7,12 +7,12 @@ name:
   title: ""
   given: Alváren
   clan: Gráveth
-  home: Valdés
+  home: valdes
   aliases:
     - Thaddeus Brine
 packFolder: aureldiatarvenia
 shortcode: alvrngrvth
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
   portrait: images/being/alvrngrvth-portrait.webp
@@ -44,53 +44,53 @@ data:
 sohl:
   templatePriority: null
   items:
-    - { shortcode: str, type: attribute, system: { scoreBase: 14 } }
-    - { shortcode: end, type: attribute, system: { scoreBase: 16 } }
-    - { shortcode: dex, type: attribute, system: { scoreBase: 10 } }
-    - { shortcode: agl, type: attribute, system: { scoreBase: 9 } }
-    - { shortcode: per, type: attribute, system: { scoreBase: 15 } }
-    - { shortcode: cml, type: attribute, system: { scoreBase: 8 } }
-    - { shortcode: aur, type: attribute, system: { scoreBase: 12 } }
-    - { shortcode: wil, type: attribute, system: { scoreBase: 13 } }
-    - { shortcode: rea, type: attribute, system: { scoreBase: 14 } }
-    - { shortcode: cre, type: attribute, system: { scoreBase: 10 } }
-    - { shortcode: emp, type: attribute, system: { scoreBase: 11 } }
-    - { shortcode: elo, type: attribute, system: { scoreBase: 10 } }
-    - { shortcode: mor, type: attribute, system: { scoreBase: 12 } }
-    - { shortcode: voi, type: attribute, system: { scoreBase: 10 } }
-    - { shortcode: venusia, type: affiliation }
-    - { shortcode: cook, type: skill, system: { masteryLevelBase: 45 } }
-    - { shortcode: folklr, type: skill, system: { masteryLevelBase: 14 } }
-    - { shortcode: hrld, type: skill, system: { masteryLevelBase: 14 } }
-    - { shortcode: law, type: skill, system: { masteryLevelBase: 28 } }
-    - { shortcode: pysn, type: skill, system: { masteryLevelBase: 42 } }
-    - { shortcode: chrm, type: skill, system: { masteryLevelBase: 45 } }
-    - { shortcode: cmd, type: skill, system: { masteryLevelBase: 24 } }
-    - { shortcode: dscr, type: skill, system: { masteryLevelBase: 24 } }
-    - { shortcode: guil, type: skill, system: { masteryLevelBase: 33 } }
-    - { shortcode: intr, type: skill, system: { masteryLevelBase: 36 } }
-    - { shortcode: sing, type: skill, system: { masteryLevelBase: 30 } }
-    - { shortcode: thtcs, type: skill, system: { masteryLevelBase: 10 } }
-    - { shortcode: fish, type: skill, system: { masteryLevelBase: 70 } }
-    - { shortcode: herb, type: skill, system: { masteryLevelBase: 42 } }
-    - { shortcode: mnrl, type: skill, system: { masteryLevelBase: 70 } }
-    - { shortcode: srvl, type: skill, system: { masteryLevelBase: 65 } }
-    - { shortcode: trak, type: skill, system: { masteryLevelBase: 14 } }
-    - { shortcode: awar, type: skill, system: { masteryLevelBase: 42 } }
-    - { shortcode: clmb, type: skill, system: { masteryLevelBase: 27 } }
-    - { shortcode: dnce, type: skill, system: { masteryLevelBase: 18 } }
-    - { shortcode: jump, type: skill, system: { masteryLevelBase: 33 } }
-    - { shortcode: ridg, type: skill, system: { masteryLevelBase: 10 } }
-    - { shortcode: stlth, type: skill, system: { masteryLevelBase: 33 } }
-    - { shortcode: swim, type: skill, system: { masteryLevelBase: 12 } }
-    - { shortcode: archery, type: skill, system: { masteryLevelBase: 13 } }
-    - { shortcode: init, type: skill, system: { masteryLevelBase: 52 } }
-    - { shortcode: melee, type: skill, system: { masteryLevelBase: 20 } }
-    - { shortcode: slng, type: skill, system: { masteryLevelBase: 12 } }
-    - { shortcode: thro, type: skill, system: { masteryLevelBase: 24 } }
-    - { shortcode: draw, type: skill, system: { masteryLevelBase: 30 } }
-    - { shortcode: musc, type: skill, system: { masteryLevelBase: 13 } }
-    - { shortcode: txtl, type: skill, system: { masteryLevelBase: 24 } }
+    - { model: sohl-sohl-attribute-str, system: { scoreBase: 14 } }
+    - { model: sohl-sohl-attribute-end, system: { scoreBase: 16 } }
+    - { model: sohl-sohl-attribute-dex, system: { scoreBase: 10 } }
+    - { model: sohl-sohl-attribute-agl, system: { scoreBase: 9 } }
+    - { model: sohl-sohl-attribute-per, system: { scoreBase: 15 } }
+    - { model: sohl-sohl-attribute-cml, system: { scoreBase: 8 } }
+    - { model: sohl-sohl-attribute-aur, system: { scoreBase: 12 } }
+    - { model: sohl-sohl-attribute-wil, system: { scoreBase: 13 } }
+    - { model: sohl-sohl-attribute-rea, system: { scoreBase: 14 } }
+    - { model: sohl-sohl-attribute-cre, system: { scoreBase: 10 } }
+    - { model: sohl-sohl-attribute-emp, system: { scoreBase: 11 } }
+    - { model: sohl-sohl-attribute-elo, system: { scoreBase: 10 } }
+    - { model: sohl-sohl-attribute-mor, system: { scoreBase: 12 } }
+    - { model: sohl-sohl-attribute-voi, system: { scoreBase: 10 } }
+    - { model: affiliation-venusia }
+    - { model: sohl-sohl-skill-cook, system: { masteryLevelBase: 45 } }
+    - { model: sohl-sohl-skill-folklr, system: { masteryLevelBase: 14 } }
+    - { model: sohl-sohl-skill-hrld, system: { masteryLevelBase: 14 } }
+    - { model: sohl-sohl-skill-law, system: { masteryLevelBase: 28 } }
+    - { model: sohl-sohl-skill-pysn, system: { masteryLevelBase: 42 } }
+    - { model: sohl-sohl-skill-chrm, system: { masteryLevelBase: 45 } }
+    - { model: sohl-sohl-skill-cmd, system: { masteryLevelBase: 24 } }
+    - { model: sohl-sohl-skill-dscr, system: { masteryLevelBase: 24 } }
+    - { model: sohl-sohl-skill-guil, system: { masteryLevelBase: 33 } }
+    - { model: sohl-sohl-skill-intr, system: { masteryLevelBase: 36 } }
+    - { model: sohl-sohl-skill-sing, system: { masteryLevelBase: 30 } }
+    - { model: sohl-sohl-skill-thtcs, system: { masteryLevelBase: 10 } }
+    - { model: sohl-sohl-skill-fish, system: { masteryLevelBase: 70 } }
+    - { model: sohl-sohl-skill-herb, system: { masteryLevelBase: 42 } }
+    - { model: sohl-sohl-skill-mnrl, system: { masteryLevelBase: 70 } }
+    - { model: sohl-sohl-skill-srvl, system: { masteryLevelBase: 65 } }
+    - { model: sohl-sohl-skill-trak, system: { masteryLevelBase: 14 } }
+    - { model: sohl-sohl-skill-awar, system: { masteryLevelBase: 42 } }
+    - { model: sohl-sohl-skill-clmb, system: { masteryLevelBase: 27 } }
+    - { model: sohl-sohl-skill-dnce, system: { masteryLevelBase: 18 } }
+    - { model: sohl-sohl-skill-jump, system: { masteryLevelBase: 33 } }
+    - { model: sohl-sohl-skill-ridg, system: { masteryLevelBase: 10 } }
+    - { model: sohl-sohl-skill-stlth, system: { masteryLevelBase: 33 } }
+    - { model: sohl-sohl-skill-swim, system: { masteryLevelBase: 12 } }
+    - { model: sohl-sohl-skill-archery, system: { masteryLevelBase: 13 } }
+    - { model: sohl-sohl-skill-init, system: { masteryLevelBase: 52 } }
+    - { model: sohl-sohl-skill-melee, system: { masteryLevelBase: 20 } }
+    - { model: sohl-sohl-skill-slng, system: { masteryLevelBase: 12 } }
+    - { model: sohl-sohl-skill-thro, system: { masteryLevelBase: 24 } }
+    - { model: sohl-sohl-skill-draw, system: { masteryLevelBase: 30 } }
+    - { model: sohl-sohl-skill-musc, system: { masteryLevelBase: 13 } }
+    - { model: sohl-sohl-skill-txtl, system: { masteryLevelBase: 24 } }
   system:
     body:
       structure:

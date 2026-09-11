@@ -8,6 +8,7 @@ subType: adventure
 data:
   parents: []
   locations:
+    - zuravlenrgn
     - provenzrgn
   cast: []
   factions: []
@@ -21,11 +22,11 @@ packFolder: adventures
 
 # The Peaches of Zûravlen
 
-The orchards of [[Zuravlen|Zûravlen]] produce the finest peaches in [[place-provenzrgn|Provènzia Region]], but a curse has turned the fruit into a deadly poison. The party must uncover whether this is sabotage, magic, or something far stranger—while powerful interests fight to control the narrative.
+The orchards of [[place-zuravlenrgn|Zûravlen]] produce the finest peaches in [[place-provenzrgn|Provènzia Region]], but a curse has turned the fruit into a deadly poison. The party must uncover whether this is sabotage, magic, or something far stranger—while powerful interests fight to control the narrative.
 
 ## Overview
 
-The region of Zûravlen, famous throughout [[place-provenzrgn|Provènzia Region]] and beyond for its exceptional peaches, has been struck by a curse. The fruit that once brought prosperity now brings sickness and death to those who consume it. Entire merchant caravans have been poisoned, trade has collapsed, and the regional economy teeters on ruin. Multiple factions claim the cause and blame each other: some say it's deliberate sabotage by a rival house, others whisper of a curse from an offended mage or spirit. The party must investigate before political maneuvering turns crisis into catastrophe.
+The region of [[place-zuravlenrgn|Zûravlen]], famous throughout [[place-provenzrgn|Provènzia Region]] and beyond for its exceptional peaches, has been struck by a curse. The fruit that once brought prosperity now brings sickness and death to those who consume it. Entire merchant caravans have been poisoned, trade has collapsed, and the regional economy teeters on ruin. Multiple factions claim the cause and blame each other: some say it's deliberate sabotage by a rival house, others whisper of a curse from an offended mage or spirit. The party must investigate before political maneuvering turns crisis into catastrophe.
 
 ## Stage One: The Crisis
 

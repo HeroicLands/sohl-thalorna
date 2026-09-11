@@ -5,7 +5,7 @@ name:
   aliases:
     - Curtain
 description: "Creates shadow veil; conceals appearance within darkness."
-img: icons/wind.svg
+img: systems/sohl/assets/icons/other/wind.svg
 shortcode: shdwscrn
 type: mysticalability
 subType: arcaneincantation

@@ -5,7 +5,7 @@ name:
   aliases:
     - Vedyari
 description: "The language of the Vedyara city-states — a family in its own right, whose Classical register stands apart from every spoken vernacular."
-img: icons/speaking.svg
+img: systems/sohl/assets/icons/other/speaking.svg
 shortcode: vedyarlng
 type: skill
 subType: language
@@ -24,7 +24,7 @@ flags:
     lang_family: Vedyari (isolate)
 ---
 
-Vedyari is a tongue of the Vedyari (isolate) family. Fluency measures the sophistication of expression in Vedyari, from the halting phrases of a traveler to the nuanced and learned discourse of a native speaker. As with all specific languages, this skill inherits its mechanics from the general [[skill-lang|Language]] skill.
+Vedyari is a tongue of the Vedyari (isolate) family. Fluency measures the sophistication of expression in Vedyari, from the halting phrases of a traveler to the nuanced and learned discourse of a native speaker. As with all specific languages, this skill inherits its mechanics from the general [[sohl-none-docskill-lang|Language]] skill.
 
 ## Overview
 

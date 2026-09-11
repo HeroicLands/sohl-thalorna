@@ -8,15 +8,15 @@ name:
   title: ""
   given: Hringsdóttir
   clan: ""
-  home: Járnhavn
+  home: jarnhavn
   aliases:
     - the Shield-Maiden of Járnhavn
 packFolder: ankarisnordlands
 shortcode: rnhrngsdtr
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/rnhrngsdtr-portrait.webp
+  portrait: images/beings/characters/rnhrngsdtr-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Huscarl
@@ -43,72 +43,80 @@ data:
 sohl:
   templatePriority: null
   items:
-    - { shortcode: str, type: attribute, system: { scoreBase: 15 } }
-    - { shortcode: end, type: attribute, system: { scoreBase: 15 } }
-    - { shortcode: dex, type: attribute, system: { scoreBase: 13 } }
-    - { shortcode: agl, type: attribute, system: { scoreBase: 14 } }
-    - { shortcode: per, type: attribute, system: { scoreBase: 12 } }
-    - { shortcode: cml, type: attribute, system: { scoreBase: 12 } }
-    - { shortcode: aur, type: attribute, system: { scoreBase: 11 } }
-    - { shortcode: wil, type: attribute, system: { scoreBase: 14 } }
-    - { shortcode: rea, type: attribute, system: { scoreBase: 11 } }
-    - { shortcode: cre, type: attribute, system: { scoreBase: 11 } }
-    - { shortcode: emp, type: attribute, system: { scoreBase: 10 } }
-    - { shortcode: elo, type: attribute, system: { scoreBase: 10 } }
-    - { shortcode: mor, type: attribute, system: { scoreBase: 13 } }
-    - { shortcode: voi, type: attribute, system: { scoreBase: 10 } }
-    - { shortcode: thorr, type: affiliation }
-    - { shortcode: cook, type: skill, system: { masteryLevelBase: 24 } }
-    - { shortcode: folklr, type: skill, system: { masteryLevelBase: 12 } }
-    - { shortcode: hrld, type: skill, system: { masteryLevelBase: 36 } }
-    - { shortcode: pysn, type: skill, system: { masteryLevelBase: 22 } }
-    - { shortcode: chrm, type: skill, system: { masteryLevelBase: 33 } }
-    - { shortcode: cmd, type: skill, system: { masteryLevelBase: 24 } }
-    - { shortcode: dscr, type: skill, system: { masteryLevelBase: 22 } }
-    - { shortcode: guil, type: skill, system: { masteryLevelBase: 30 } }
-    - { shortcode: intr, type: skill, system: { masteryLevelBase: 30 } }
-    - { shortcode: sing, type: skill, system: { masteryLevelBase: 30 } }
-    - { shortcode: thtcs, type: skill, system: { masteryLevelBase: 11 } }
-    - { shortcode: fish, type: skill, system: { masteryLevelBase: 13 } }
-    - { shortcode: herb, type: skill, system: { masteryLevelBase: 24 } }
-    - { shortcode: srvl, type: skill, system: { masteryLevelBase: 52 } }
-    - { shortcode: awar, type: skill, system: { masteryLevelBase: 65 } }
-    - { shortcode: clmb, type: skill, system: { masteryLevelBase: 42 } }
-    - { shortcode: dnce, type: skill, system: { masteryLevelBase: 52 } }
-    - { shortcode: jump, type: skill, system: { masteryLevelBase: 42 } }
-    - { shortcode: lgdm, type: skill, system: { masteryLevelBase: 13 } }
-    - { shortcode: ridg, type: skill, system: { masteryLevelBase: 36 } }
-    - { shortcode: stlth, type: skill, system: { masteryLevelBase: 42 } }
-    - { shortcode: swim, type: skill, system: { masteryLevelBase: 28 } }
-    - { shortcode: archery, type: skill, system: { masteryLevelBase: 36 } }
-    - { shortcode: init, type: skill, system: { masteryLevelBase: 65 } }
-    - { shortcode: melee, type: skill, system: { masteryLevelBase: 52 } }
-    - { shortcode: thro, type: skill, system: { masteryLevelBase: 65 } }
-    - { shortcode: draw, type: skill, system: { masteryLevelBase: 12 } }
-    - { shortcode: txtl, type: skill, system: { masteryLevelBase: 13 } }
-    - { shortcode: wpnc, type: skill, system: { masteryLevelBase: 70 } }
-    - { shortcode: BAxe, type: weapongear }
-    - { shortcode: Spr, type: weapongear }
-    - { shortcode: LBw100, type: weapongear }
-    - { shortcode: RndSh, type: weapongear }
-    - { shortcode: MShirt, type: armorgear }
-    - { shortcode: MLeg, type: armorgear }
-    - { shortcode: LtShoe, type: armorgear }
-    - { shortcode: MHbgn, type: armorgear }
-    - { shortcode: ArwStd, type: projectilegear, system: { quantity: 30 } }
+    - { model: sohl-sohl-attribute-str, system: { scoreBase: 15 } }
+    - { model: sohl-sohl-attribute-end, system: { scoreBase: 15 } }
+    - { model: sohl-sohl-attribute-dex, system: { scoreBase: 13 } }
+    - { model: sohl-sohl-attribute-agl, system: { scoreBase: 14 } }
+    - { model: sohl-sohl-attribute-per, system: { scoreBase: 12 } }
+    - { model: sohl-sohl-attribute-cml, system: { scoreBase: 12 } }
+    - { model: sohl-sohl-attribute-aur, system: { scoreBase: 11 } }
+    - { model: sohl-sohl-attribute-wil, system: { scoreBase: 14 } }
+    - { model: sohl-sohl-attribute-rea, system: { scoreBase: 11 } }
+    - { model: sohl-sohl-attribute-cre, system: { scoreBase: 11 } }
+    - { model: sohl-sohl-attribute-emp, system: { scoreBase: 10 } }
+    - { model: sohl-sohl-attribute-elo, system: { scoreBase: 10 } }
+    - { model: sohl-sohl-attribute-mor, system: { scoreBase: 13 } }
+    - { model: sohl-sohl-attribute-voi, system: { scoreBase: 10 } }
+    - { model: affiliation-thorr }
+    - { model: sohl-sohl-skill-cook, system: { masteryLevelBase: 24 } }
+    - { model: sohl-sohl-skill-folklr, system: { masteryLevelBase: 12 } }
+    - { model: sohl-sohl-skill-hrld, system: { masteryLevelBase: 36 } }
+    - { model: sohl-sohl-skill-pysn, system: { masteryLevelBase: 22 } }
+    - { model: sohl-sohl-skill-chrm, system: { masteryLevelBase: 33 } }
+    - { model: sohl-sohl-skill-cmd, system: { masteryLevelBase: 24 } }
+    - { model: sohl-sohl-skill-dscr, system: { masteryLevelBase: 22 } }
+    - { model: sohl-sohl-skill-guil, system: { masteryLevelBase: 30 } }
+    - { model: sohl-sohl-skill-intr, system: { masteryLevelBase: 30 } }
+    - { model: sohl-sohl-skill-sing, system: { masteryLevelBase: 30 } }
+    - { model: sohl-sohl-skill-thtcs, system: { masteryLevelBase: 11 } }
+    - { model: sohl-sohl-skill-fish, system: { masteryLevelBase: 13 } }
+    - { model: sohl-sohl-skill-herb, system: { masteryLevelBase: 24 } }
+    - { model: sohl-sohl-skill-srvl, system: { masteryLevelBase: 52 } }
+    - { model: sohl-sohl-skill-awar, system: { masteryLevelBase: 65 } }
+    - { model: sohl-sohl-skill-clmb, system: { masteryLevelBase: 42 } }
+    - { model: sohl-sohl-skill-dnce, system: { masteryLevelBase: 52 } }
+    - { model: sohl-sohl-skill-jump, system: { masteryLevelBase: 42 } }
+    - { model: sohl-sohl-skill-lgdm, system: { masteryLevelBase: 13 } }
+    - { model: sohl-sohl-skill-ridg, system: { masteryLevelBase: 36 } }
+    - { model: sohl-sohl-skill-stlth, system: { masteryLevelBase: 42 } }
+    - { model: sohl-sohl-skill-swim, system: { masteryLevelBase: 28 } }
+    - { model: sohl-sohl-skill-archery, system: { masteryLevelBase: 36 } }
+    - { model: sohl-sohl-skill-init, system: { masteryLevelBase: 65 } }
+    - { model: sohl-sohl-skill-melee, system: { masteryLevelBase: 52 } }
+    - { model: sohl-sohl-skill-thro, system: { masteryLevelBase: 65 } }
+    - { model: sohl-sohl-skill-draw, system: { masteryLevelBase: 12 } }
+    - { model: sohl-sohl-skill-txtl, system: { masteryLevelBase: 13 } }
+    - { model: sohl-sohl-skill-wpnc, system: { masteryLevelBase: 70 } }
+    - { model: sohl-sohl-weapongear-baxe }
+    - { model: sohl-sohl-weapongear-spr }
+    - { model: sohl-sohl-weapongear-lbw100 }
+    - { model: sohl-sohl-weapongear-rndsh }
+    - { model: sohl-sohl-armorgear-mshirt }
+    - { model: sohl-sohl-armorgear-mleg }
+    - { model: sohl-sohl-armorgear-ltshoe }
+    - { model: sohl-sohl-armorgear-mhbgn }
+    - { model: sohl-sohl-projectilegear-arwstd, system: { quantity: 30 } }
     - name: Quiver (leather)
       type: miscgear
-      img: icons/quiver.svg
+      img: systems/sohl/assets/icons/game-icons/delapouite/quiver.svg
       system:
+        shortcode: quiver
         weight: 1
         value: 100
         durability: 3
-    - { name: Whetstone, type: miscgear, system: { weight: 0.5, value: 100, durability: 3 } }
-    - { shortcode: tndrbx, type: miscgear }
-    - { shortcode: StdRtns, type: miscgear, system: { quantity: 5 } }
+    - name: Whetstone
+      type: miscgear
+      system:
+        shortcode: whetstone
+        weight: 0.5
+        value: 100
+        durability: 3
+    - { model: sohl-sohl-miscgear-tndrbx }
+    - { model: sohl-sohl-miscgear-stdrtns, system: { quantity: 5 } }
     - name: Rope (hemp)
       type: miscgear
       system:
+        shortcode: rope
         quantity: 2
         weight: 1
         value: 100
@@ -116,12 +124,13 @@ sohl:
     - name: Fishing line and hooks
       type: miscgear
       system:
+        shortcode: fishinglineandhooks
         weight: 0.3
         value: 100
         durability: 3
-    - { shortcode: pence, type: miscgear, system: { quantity: 20 } }
-    - { shortcode: backpk, type: containergear }
-    - { shortcode: wtrskin, type: containergear }
+    - { model: sohl-sohl-miscgear-pence, system: { quantity: 20 } }
+    - { model: sohl-sohl-containergear-backpk }
+    - { model: sohl-sohl-containergear-wtrskin }
   system:
     body:
       structure:
@@ -590,6 +599,8 @@ Rúna is 5’10" with a strong, athletic build, weighing about 180 pounds. Her f
 # Dossier {#dossier}
 
 Rúna is a fierce warrior from the trading town of Járnhavn, a town renowned for its warlike traditions and its ships of raiders. Born into a warrior clan, Rúna was trained from childhood in the use of weapons, particularly the spear and shield. Her clan holds the duty of protecting Norgaad’s coastlines from invaders and raiders. Rúna first encountered [[being-grosdrnrgd|Gróa]] during a battle with Targud raiders. [[being-grosdrnrgd|Gróa]]’s strange powers and ability to foresee the movements of the enemy saved Rúna’s warband, earning her respect.
+
+## Background
 
 ### Skills and Abilities
 

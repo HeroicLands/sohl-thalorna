@@ -7,14 +7,14 @@ name:
   title: ""
   given: Snorri
   clan: Járnskel
-  home: Thrymstead
+  home: thrymstead
   aliases: []
 packFolder: ankarisnordlands
 shortcode: snorjrnskl
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/snorjrnskl-portrait.webp
+  portrait: images/beings/characters/snorjrnskl-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Farmer
@@ -42,85 +42,94 @@ data:
 sohl:
   templatePriority: null
   items:
-    - { shortcode: str, type: attribute, system: { scoreBase: 16 } }
-    - { shortcode: end, type: attribute, system: { scoreBase: 15 } }
-    - { shortcode: dex, type: attribute, system: { scoreBase: 11 } }
-    - { shortcode: agl, type: attribute, system: { scoreBase: 12 } }
-    - { shortcode: per, type: attribute, system: { scoreBase: 13 } }
-    - { shortcode: cml, type: attribute, system: { scoreBase: 8 } }
-    - { shortcode: aur, type: attribute, system: { scoreBase: 10 } }
-    - { shortcode: wil, type: attribute, system: { scoreBase: 14 } }
-    - { shortcode: rea, type: attribute, system: { scoreBase: 11 } }
-    - { shortcode: cre, type: attribute, system: { scoreBase: 10 } }
-    - { shortcode: emp, type: attribute, system: { scoreBase: 12 } }
-    - { shortcode: elo, type: attribute, system: { scoreBase: 9 } }
-    - { shortcode: mor, type: attribute, system: { scoreBase: 12 } }
-    - { shortcode: voi, type: attribute, system: { scoreBase: 11 } }
-    - { shortcode: tyr, type: affiliation }
-    - { shortcode: cook, type: skill, system: { masteryLevelBase: 24 } }
-    - { shortcode: folklr, type: skill, system: { masteryLevelBase: 24 } }
-    - { shortcode: hrld, type: skill, system: { masteryLevelBase: 12 } }
-    - { shortcode: math, type: skill, system: { masteryLevelBase: 11 } }
-    - { shortcode: pysn, type: skill, system: { masteryLevelBase: 12 } }
-    - { shortcode: chrm, type: skill, system: { masteryLevelBase: 30 } }
-    - { shortcode: cmd, type: skill, system: { masteryLevelBase: 24 } }
-    - { shortcode: dscr, type: skill, system: { masteryLevelBase: 20 } }
-    - { shortcode: guil, type: skill, system: { masteryLevelBase: 33 } }
-    - { shortcode: intr, type: skill, system: { masteryLevelBase: 36 } }
-    - { shortcode: sing, type: skill, system: { masteryLevelBase: 55 } }
-    - { shortcode: thtcs, type: skill, system: { masteryLevelBase: 10 } }
-    - { shortcode: agri, type: skill, system: { masteryLevelBase: 52 } }
-    - { shortcode: anmcft, type: skill, system: { masteryLevelBase: 52 } }
-    - { shortcode: herb, type: skill, system: { masteryLevelBase: 24 } }
-    - { shortcode: smsh, type: skill, system: { masteryLevelBase: 28 } }
-    - { shortcode: srvl, type: skill, system: { masteryLevelBase: 65 } }
-    - { shortcode: timb, type: skill, system: { masteryLevelBase: 12 } }
-    - { shortcode: acro, type: skill, system: { masteryLevelBase: 13 } }
-    - { shortcode: awar, type: skill, system: { masteryLevelBase: 39 } }
-    - { shortcode: clmb, type: skill, system: { masteryLevelBase: 36 } }
-    - { shortcode: dnce, type: skill, system: { masteryLevelBase: 22 } }
-    - { shortcode: jump, type: skill, system: { masteryLevelBase: 42 } }
-    - { shortcode: ridg, type: skill, system: { masteryLevelBase: 12 } }
-    - { shortcode: stlth, type: skill, system: { masteryLevelBase: 39 } }
-    - { shortcode: swim, type: skill, system: { masteryLevelBase: 13 } }
-    - { shortcode: archery, type: skill, system: { masteryLevelBase: 12 } }
-    - { shortcode: init, type: skill, system: { masteryLevelBase: 39 } }
-    - { shortcode: melee, type: skill, system: { masteryLevelBase: 22 } }
-    - { shortcode: thro, type: skill, system: { masteryLevelBase: 24 } }
-    - { shortcode: draw, type: skill, system: { masteryLevelBase: 11 } }
-    - { shortcode: hide, type: skill, system: { masteryLevelBase: 24 } }
-    - { shortcode: masn, type: skill, system: { masteryLevelBase: 13 } }
-    - { shortcode: mtlc, type: skill, system: { masteryLevelBase: 26 } }
-    - { shortcode: wpnc, type: skill, system: { masteryLevelBase: 13 } }
-    - { shortcode: wood, type: skill, system: { masteryLevelBase: 26 } }
-    - { shortcode: Stk, type: weapongear }
-    - { shortcode: HsTunic, type: armorgear }
-    - { shortcode: HsTrsr, type: armorgear }
-    - { shortcode: HsTunic, type: armorgear, system: { shortcode: HsTunic2 } }
-    - { shortcode: HsCap, type: armorgear }
+    - { model: sohl-sohl-attribute-str, system: { scoreBase: 16 } }
+    - { model: sohl-sohl-attribute-end, system: { scoreBase: 15 } }
+    - { model: sohl-sohl-attribute-dex, system: { scoreBase: 11 } }
+    - { model: sohl-sohl-attribute-agl, system: { scoreBase: 12 } }
+    - { model: sohl-sohl-attribute-per, system: { scoreBase: 13 } }
+    - { model: sohl-sohl-attribute-cml, system: { scoreBase: 8 } }
+    - { model: sohl-sohl-attribute-aur, system: { scoreBase: 10 } }
+    - { model: sohl-sohl-attribute-wil, system: { scoreBase: 14 } }
+    - { model: sohl-sohl-attribute-rea, system: { scoreBase: 11 } }
+    - { model: sohl-sohl-attribute-cre, system: { scoreBase: 10 } }
+    - { model: sohl-sohl-attribute-emp, system: { scoreBase: 12 } }
+    - { model: sohl-sohl-attribute-elo, system: { scoreBase: 9 } }
+    - { model: sohl-sohl-attribute-mor, system: { scoreBase: 12 } }
+    - { model: sohl-sohl-attribute-voi, system: { scoreBase: 11 } }
+    - { model: affiliation-tyr }
+    - { model: sohl-sohl-skill-cook, system: { masteryLevelBase: 24 } }
+    - { model: sohl-sohl-skill-folklr, system: { masteryLevelBase: 24 } }
+    - { model: sohl-sohl-skill-hrld, system: { masteryLevelBase: 12 } }
+    - { model: sohl-sohl-skill-math, system: { masteryLevelBase: 11 } }
+    - { model: sohl-sohl-skill-pysn, system: { masteryLevelBase: 12 } }
+    - { model: sohl-sohl-skill-chrm, system: { masteryLevelBase: 30 } }
+    - { model: sohl-sohl-skill-cmd, system: { masteryLevelBase: 24 } }
+    - { model: sohl-sohl-skill-dscr, system: { masteryLevelBase: 20 } }
+    - { model: sohl-sohl-skill-guil, system: { masteryLevelBase: 33 } }
+    - { model: sohl-sohl-skill-intr, system: { masteryLevelBase: 36 } }
+    - { model: sohl-sohl-skill-sing, system: { masteryLevelBase: 55 } }
+    - { model: sohl-sohl-skill-thtcs, system: { masteryLevelBase: 10 } }
+    - { model: sohl-sohl-skill-agri, system: { masteryLevelBase: 52 } }
+    - { model: sohl-sohl-skill-anmcft, system: { masteryLevelBase: 52 } }
+    - { model: sohl-sohl-skill-herb, system: { masteryLevelBase: 24 } }
+    - { model: sohl-sohl-skill-smsh, system: { masteryLevelBase: 28 } }
+    - { model: sohl-sohl-skill-srvl, system: { masteryLevelBase: 65 } }
+    - { model: sohl-sohl-skill-timb, system: { masteryLevelBase: 12 } }
+    - { model: sohl-sohl-skill-acro, system: { masteryLevelBase: 13 } }
+    - { model: sohl-sohl-skill-awar, system: { masteryLevelBase: 39 } }
+    - { model: sohl-sohl-skill-clmb, system: { masteryLevelBase: 36 } }
+    - { model: sohl-sohl-skill-dnce, system: { masteryLevelBase: 22 } }
+    - { model: sohl-sohl-skill-jump, system: { masteryLevelBase: 42 } }
+    - { model: sohl-sohl-skill-ridg, system: { masteryLevelBase: 12 } }
+    - { model: sohl-sohl-skill-stlth, system: { masteryLevelBase: 39 } }
+    - { model: sohl-sohl-skill-swim, system: { masteryLevelBase: 13 } }
+    - { model: sohl-sohl-skill-archery, system: { masteryLevelBase: 12 } }
+    - { model: sohl-sohl-skill-init, system: { masteryLevelBase: 39 } }
+    - { model: sohl-sohl-skill-melee, system: { masteryLevelBase: 22 } }
+    - { model: sohl-sohl-skill-thro, system: { masteryLevelBase: 24 } }
+    - { model: sohl-sohl-skill-draw, system: { masteryLevelBase: 11 } }
+    - { model: sohl-sohl-skill-hide, system: { masteryLevelBase: 24 } }
+    - { model: sohl-sohl-skill-masn, system: { masteryLevelBase: 13 } }
+    - { model: sohl-sohl-skill-mtlc, system: { masteryLevelBase: 26 } }
+    - { model: sohl-sohl-skill-wpnc, system: { masteryLevelBase: 13 } }
+    - { model: sohl-sohl-skill-wood, system: { masteryLevelBase: 26 } }
+    - { model: sohl-sohl-weapongear-stk }
+    - { model: sohl-sohl-armorgear-hstunic }
+    - { model: sohl-sohl-armorgear-hstrsr }
+    - { model: sohl-sohl-armorgear-hstunic, system: { shortcode: HsTunic2 } }
+    - { model: sohl-sohl-armorgear-hscap }
     - name: Wooden shovel (farming tool)
       type: miscgear
       system:
+        shortcode: woodenshovel
         weight: 0.8
         value: 100
         durability: 3
     - name: Hand-carved charm (blessed)
       type: miscgear
       system:
+        shortcode: handcarvedcharm
         weight: 1
         value: 100
         durability: 3
-    - { name: Rough rope (coil), type: miscgear, system: { weight: 1, value: 100, durability: 3 } }
+    - name: Rough rope (coil)
+      type: miscgear
+      system:
+        shortcode: roughrope
+        weight: 1
+        value: 100
+        durability: 3
     - name: Woven sack for supplies
       type: miscgear
       system:
+        shortcode: wovensackforsupplies
         weight: 1
         value: 100
         durability: 3
-    - { shortcode: tndrbx, type: miscgear }
-    - { shortcode: FRtns, type: miscgear, system: { quantity: 2 } }
-    - { shortcode: bgsmcvs, type: containergear }
-    - { shortcode: wtrskin, type: containergear }
+    - { model: sohl-sohl-miscgear-tndrbx }
+    - { model: sohl-sohl-miscgear-frtns, system: { quantity: 2 } }
+    - { model: sohl-sohl-containergear-bgsmcvs }
+    - { model: sohl-sohl-containergear-wtrskin }
   system:
     body:
       structure:
@@ -587,6 +596,8 @@ sohl:
 Snorri stands 6'3" tall with a heavy build. He has tanned weathered skin, dark brown hair, and brown eyes. His features include an oval face, a narrow nose, a broad chin, a slightly downturned mouth, dark brows. A distinguishing mark is a scar on the right cheek.
 
 # Dossier {#dossier}
+
+## Background
 
 ### Born into Chains
 

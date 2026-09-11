@@ -7,96 +7,90 @@ name:
     - The Old Gods
 shortcode: firstgods
 type: affiliation
-subType: faithtradition
+subType: spirittradition
 data:
   templatePriority: null
   demonym: null
   epithet: null
   symbol: null
   governance:
-    model: theocracy
+    model: council
     summary: >-
-      Ordained priesthood under a hierarch, with the lay faithful bound by observance rather
-      than by office.
+      The Two Powers are not petitioned and receive no offerings, so the pantheon has no clergy of
+      its own: what standing exists is the standing of the Old Way, in which a shaman is recognised
+      by their own tribe and answerable to it. There is no authority over the tradition as a whole,
+      and no tribe's shamen bind another's.
     ranks:
       - level: 0
-        title: Excommunicate
-        lore: excmmnctrnk
+        title: Exiled
+        lore: outlawrnk
         description: >-
-          Cut off from the rites, the temples and the burial the tradition promises — the one
-          sentence it can pass that outlives the body.
+          Put out for turning shamanic power to personal ends — cursing, private gain, coercion
+          — which is the gravest religious offence the Áelendan recognise.
       - level: 1
-        title: Catechumen
+        title: Untaught
         lore: catechumenrnk
-        description: Under instruction and not yet received; permitted to hear and not to partake.
+        description: >-
+          Of the tribe and living under its compacts, keeping the seasonal observances without
+          perceiving the Kindred — most of the people, all their lives.
       - level: 2
-        title: Lay Faithful
-        lore: layfaithfulrnk
+        title: Marked
+        lore: catechumenrnk
         description: >-
-          Of the tradition by profession and observance, keeping its feasts and its prohibitions
-          without office in it.
+          A child showing the perception — unusual rapport with animals, sensitivity to places,
+          the capacity to dream true dreams — and not yet taken as apprentice.
       - level: 3
-        title: Devotee
-        lore: layfaithfulrnk
-        description: >-
-          Bound by a private vow — a fast, a pilgrimage, a service — beyond what the lay faithful
-          owe.
-      - level: 4
-        title: Acolyte
+        title: Apprentice
         lore: initiaternk
         description: >-
-          Serving in the temple and learning its rites, on the path to ordination and not yet
-          holding it.
+          Taken by an elder shaman and learning over many years: the songs, the lineages of the
+          tribe's Kindred, the protocols of offering, and the uses of fire, smoke, plant and water.
+      - level: 4
+        title: Shaman
+        lore: sprtspkrrnk
+        description: >-
+          Recognised by the tribe rather than ordained by any body; perceives the Kindred, speaks
+          with them, and negotiates on the tribe's behalf with the spirits whose land it shares.
       - level: 5
-        title: Ordained
-        lore: priestrnk
+        title: Elder Shaman
+        lore: elderrnk
         description: >-
-          Priest or priestess of the tradition, empowered to perform the rites and to bind and
-          loose in its name.
-      - level: 6
-        title: Temple Officer
-        lore: highpriestrnk
-        description: Holding a charge within a temple — its treasury, its schools, its estates,
-          its oracles.
-      - level: 7
-        title: High Priest
-        lore: highpriestrnk
-        description: Head of a temple or a cult, speaking with the voice of the god in matters
-          of its doctrine.
-      - level: 8
-        title: Hierophant
-        lore: grandmasterrnk
-        description: >-
-          Head of the whole tradition, whose ruling on doctrine is final and whose sanction
-          every high priest holds at.
+          Takes apprentices and holds the tribe's long memory of its compacts, deeply respected
+          and not a ruler — leadership sits with the elders and the council.
     offices:
-      Hierophant: >-
-        Head of the tradition, final authority on its doctrine and source of every high priest's
-        sanction.
-      High Priest: Head of a temple or cult, master of its estates and voice of its god on
-        doctrine.
-      Oracle: Speaker of the god's answer, consulted before any undertaking the tradition
-        must bless.
-      Temple Steward: Administrator of a temple's lands, herds, workshops and revenue.
-      Sacristan: Keeper of the sanctuary, its vessels, its vestments and the purity of both.
-      Almoner: Distributor of the temple's charity, and the face the tradition shows the poor.
-      Lector: Reader of the sacred texts in the rites, and teacher of them to acolytes.
-      Exorcist: >-
-        Charged with what the tradition holds should not be present, and with the rites that
-        remove it.
-      Chief Augur: Reader of the signs by which the tradition fixes the hour of its acts.
-      Keeper of the Calendar: Holder of the feast-reckoning, and thereby of when the year's
-        obligations fall due.
+      Elder Shaman: >-
+        Holder of the tribe's long memory of its compacts, and the one who judges who may be
+        taken as apprentice.
+      Shaman: >-
+        The tribe's negotiator with its Kindred, expected to act for the tribe as a whole and
+        exiled if the power is turned to private ends.
+      Beast-Speaker: >-
+        Shaman whose rapport is strongest with the animal-kin; addresses the hunt-rites.
+      Water-Speaker: >-
+        Shaman whose rapport is strongest with the river-mothers and lake-spirits; consulted on
+        crossing, drowning and cleansing.
+      Death-Speaker: >-
+        Shaman whose rapport is with the spirits of the dead; commends the departed to the
+        river-mother who will carry them or the stone-warder who will keep their bones.
+      Song-Keeper: >-
+        Holder of the songs by which the Kindred are addressed, thanked and warded, in a
+        tradition that writes nothing down.
+      Fire-Tender: >-
+        Keeper of the fire and smoke the rites are conducted through, and of what may be burned
+        for which Kindred.
+      Warder: >-
+        Charged with the protective songs and objects carried against the hostile Kindred, and
+        with knowing whose territory must not be entered.
   commonSkills: []
   seat: null
   domains: []
   population: null
   economy: []
-  lore: []
+  lore:
+    - thekindred
   parents: []
   relations:
     theoldway: aligned
-    thekindred: aligned
 sohl:
   templatePriority: null
 packFolder: pantheonsfirstgods
@@ -142,7 +136,7 @@ The Dark is the aspect of the First Gods most frequently misunderstood by outsid
 
 ## The Kindred
 
-Active Áelendan religious practice is not directed at the Two Powers. It is directed at their **[[affiliation-thekindred|Kindred]]** — the innumerable spirits who serve them. The Kindred are not worshipped, in the sense that the Aurèldían deities are worshipped; they are **venerated, appeased, or warded against**, each according to its character and the need of the moment. A benevolent river-mother is venerated; a harsh stone-warder of the high passes is appeased; a dangerous spirit of the deep places is warded against. The Kindred are the living face of the First Gods in the world: the grey wolf who watches a particular ridge, the river-mother of a specific valley, the grove-keeper of an ancient wood, the stone-warder of a sacred cairn, the hearth-spirit of a tribal lodge. Each tribe of the Áelendan maintains relationships with a particular set of Kindred whose territories overlap with the tribe's own, and those relationships are the substance of day-to-day Áelendan religious practice.
+Active Áelendan religious practice is not directed at the Two Powers. It is directed at their **[[lore-thekindred|Kindred]]** — the innumerable spirits who serve them. The Kindred are not worshipped, in the sense that the Aurèldían deities are worshipped; they are **venerated, appeased, or warded against**, each according to its character and the need of the moment. A benevolent river-mother is venerated; a harsh stone-warder of the high passes is appeased; a dangerous spirit of the deep places is warded against. The Kindred are the living face of the First Gods in the world: the grey wolf who watches a particular ridge, the river-mother of a specific valley, the grove-keeper of an ancient wood, the stone-warder of a sacred cairn, the hearth-spirit of a tribal lodge. Each tribe of the Áelendan maintains relationships with a particular set of Kindred whose territories overlap with the tribe's own, and those relationships are the substance of day-to-day Áelendan religious practice.
 
 Some Kindred are understood to be servants of the Bright, some of the Dark, and some — notably certain river-spirits and threshold-spirits — are said to serve both, or to pass between them with the turning of the seasons. The Áelendan do not find this paradoxical. The Kindred are of the world, and the world is where the Two Powers meet.
 
@@ -163,7 +157,7 @@ Whether the Old Way genuinely predates every other faith on Ankaris is a questio
 ## See Also
 
 - [[affiliation-theoldway|The Old Way]] — The religion that venerates the First Gods
-- [[affiliation-thekindred|The Kindred]] — The servant spirits who are venerated, appeased, and warded against in daily practice
+- [[lore-thekindred|The Kindred]] — The servant spirits who are venerated, appeased, and warded against in daily practice
 - [[lore-aelendnppl|Áelendan]] — The people whose pantheon this is
 - [[lore-pelwarpepl|Pelwar People]] — The ancestral people who carried the First Gods out of the east
 - [[affiliation-alndnwrdns|Áelendan Wardens]] — The order that protects the sacred sites

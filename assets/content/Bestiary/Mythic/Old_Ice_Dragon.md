@@ -7,7 +7,7 @@ name:
   aliases:
     - Frost Wyrm
 description: "A colossal, ancient ice-wyrm exceeding forty feet, embodying merciless patience and predatory cunning honed across centuries of frozen dominion."
-img: icons/game-icons/faithtoken/dragon-head.svg
+img: systems/sohl/assets/icons/game-icons/faithtoken/dragon-head.svg
 shortcode: oldicdrg
 type: being
 data:
@@ -48,25 +48,24 @@ sohl:
     cre: 1d6+10
     emp: 1d6+10
     elo: 1d6+14
-  defaultCombatGroup: null
   items:
-    - { shortcode: str, type: attribute, system: { scoreBase: 60 } }
-    - { shortcode: end, type: attribute, system: { scoreBase: 45 } }
-    - { shortcode: dex, type: attribute, system: { scoreBase: 8 } }
-    - { shortcode: agl, type: attribute, system: { scoreBase: 8 } }
-    - { shortcode: per, type: attribute, system: { scoreBase: 15 } }
-    - { shortcode: snt, type: attribute, system: { scoreBase: 3 } }
-    - { shortcode: aur, type: attribute, system: { scoreBase: 14 } }
-    - { shortcode: wil, type: attribute, system: { scoreBase: 21 } }
-    - { shortcode: rea, type: attribute, system: { scoreBase: 17 } }
-    - { shortcode: cre, type: attribute, system: { scoreBase: 13 } }
-    - { shortcode: emp, type: attribute, system: { scoreBase: 13 } }
-    - { shortcode: elo, type: attribute, system: { scoreBase: 17 } }
-    - { shortcode: awar, type: skill, system: { masteryLevelBase: 90 } }
-    - { shortcode: init, type: skill, system: { masteryLevelBase: 95 } }
-    - { shortcode: shok, type: skill, system: { masteryLevelBase: 90 } }
-    - { shortcode: sprt, type: mysticalability, system: { masteryLevelBase: 93 } }
-    - { shortcode: dge, type: skill, system: { masteryLevelBase: 68 } }
+    - { model: sohl-sohl-attribute-str, system: { scoreBase: 60 } }
+    - { model: sohl-sohl-attribute-end, system: { scoreBase: 45 } }
+    - { model: sohl-sohl-attribute-dex, system: { scoreBase: 8 } }
+    - { model: sohl-sohl-attribute-agl, system: { scoreBase: 8 } }
+    - { model: sohl-sohl-attribute-per, system: { scoreBase: 15 } }
+    - { model: sohl-sohl-attribute-snt, system: { scoreBase: 3 } }
+    - { model: sohl-sohl-attribute-aur, system: { scoreBase: 14 } }
+    - { model: sohl-sohl-attribute-wil, system: { scoreBase: 21 } }
+    - { model: sohl-sohl-attribute-rea, system: { scoreBase: 17 } }
+    - { model: sohl-sohl-attribute-cre, system: { scoreBase: 13 } }
+    - { model: sohl-sohl-attribute-emp, system: { scoreBase: 13 } }
+    - { model: sohl-sohl-attribute-elo, system: { scoreBase: 17 } }
+    - { model: sohl-sohl-skill-awar, system: { masteryLevelBase: 90 } }
+    - { model: sohl-sohl-skill-init, system: { masteryLevelBase: 95 } }
+    - { model: sohl-sohl-skill-shok, system: { masteryLevelBase: 90 } }
+    - { model: sohl-sohl-mysticalability-sprt, system: { masteryLevelBase: 93 } }
+    - { model: sohl-sohl-skill-dge, system: { masteryLevelBase: 68 } }
     - name: Bite
       type: skill
       system:

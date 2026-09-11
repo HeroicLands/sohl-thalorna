@@ -5,11 +5,11 @@ name:
   full: Titan Beetle
   aliases: []
 description: "A massive armored herbivorous beetle several feet long that fiercely defends its territory in dense forests, badlands, and caves."
-img: icons/game-icons/lorc/scarab-beetle.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 shortcode: ttnbtl
 type: being
 data:
-  portrait: images/being/ttnbtl-portrait.webp
+  portrait: images/beings/creatures/ttnbtl-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: null
@@ -43,23 +43,22 @@ sohl:
     wil: 1d6+10
     rea: 1d4+2
     cre: 1d4+2
-  defaultCombatGroup: null
   items:
-    - { shortcode: str, type: attribute, system: { scoreBase: 21 } }
-    - { shortcode: end, type: attribute, system: { scoreBase: 19 } }
-    - { shortcode: dex, type: attribute, system: { scoreBase: 9 } }
-    - { shortcode: agl, type: attribute, system: { scoreBase: 8 } }
-    - { shortcode: per, type: attribute, system: { scoreBase: 11 } }
-    - { shortcode: aur, type: attribute, system: { scoreBase: 8 } }
-    - { shortcode: wil, type: attribute, system: { scoreBase: 14 } }
-    - { shortcode: rea, type: attribute, system: { scoreBase: 5 } }
-    - { shortcode: cre, type: attribute, system: { scoreBase: 5 } }
-    - { shortcode: awar, type: skill, system: { masteryLevelBase: 65 } }
-    - { shortcode: stlth, type: skill, system: { masteryLevelBase: 55 } }
-    - { shortcode: sprt, type: mysticalability, system: { masteryLevelBase: 33 } }
-    - { shortcode: init, type: skill, system: { masteryLevelBase: 40 } }
-    - { shortcode: dge, type: skill, system: { masteryLevelBase: 36 } }
-    - { shortcode: shok, type: skill, system: { masteryLevelBase: 50 } }
+    - { model: sohl-sohl-attribute-str, system: { scoreBase: 21 } }
+    - { model: sohl-sohl-attribute-end, system: { scoreBase: 19 } }
+    - { model: sohl-sohl-attribute-dex, system: { scoreBase: 9 } }
+    - { model: sohl-sohl-attribute-agl, system: { scoreBase: 8 } }
+    - { model: sohl-sohl-attribute-per, system: { scoreBase: 11 } }
+    - { model: sohl-sohl-attribute-aur, system: { scoreBase: 8 } }
+    - { model: sohl-sohl-attribute-wil, system: { scoreBase: 14 } }
+    - { model: sohl-sohl-attribute-rea, system: { scoreBase: 5 } }
+    - { model: sohl-sohl-attribute-cre, system: { scoreBase: 5 } }
+    - { model: sohl-sohl-skill-awar, system: { masteryLevelBase: 65 } }
+    - { model: sohl-sohl-skill-stlth, system: { masteryLevelBase: 55 } }
+    - { model: sohl-sohl-mysticalability-sprt, system: { masteryLevelBase: 33 } }
+    - { model: sohl-sohl-skill-init, system: { masteryLevelBase: 40 } }
+    - { model: sohl-sohl-skill-dge, system: { masteryLevelBase: 36 } }
+    - { model: sohl-sohl-skill-shok, system: { masteryLevelBase: 50 } }
     - name: Mandible Crush
       type: skill
       system:

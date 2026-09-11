@@ -5,7 +5,7 @@ name:
   aliases:
     - Thâravárkon
 description: "The graven letters of imperial Vylaria — the ceremonial runic script of temple, tomb and triumphal arch."
-img: icons/speaking.svg
+img: systems/sohl/assets/icons/other/speaking.svg
 shortcode: thrvrknscrpt
 type: skill
 subType: script
@@ -24,13 +24,13 @@ flags:
     script_family: Runic
 ---
 
-The Thâravárkon is the old carved script of the Vylari — angular, incised, and older than the Empire that inherited it. The name is Proto-Pelwar: _thura-vark_, "graven work," the same compound that the Normen still carry as [[skill-thuravarkscript|Thurávark]]. That two peoples separated by three thousand miles and as many years call their runes by cognate names is the strongest single piece of evidence that [[skill-vylarilng|Vylari]] and [[skill-nordmalng|Nordmal]] descend from one nomadic tongue, and Vylarian antiquarians who would rather not be cousins to the north have spent a great deal of ink trying to explain it away.
+The Thâravárkon is the old carved script of the Vylari — angular, incised, and older than the Empire that inherited it. The name is Proto-Pelwar: _thura-vark_, "graven work," the same compound that the Nordmen still carry as [[skill-thuravarkscript|Thurávark]]. That two peoples separated by three thousand miles and as many years call their runes by cognate names is the strongest single piece of evidence that [[skill-vylarilng|Vylari]] and [[skill-nordmalng|Nordmal]] descend from one nomadic tongue, and Vylarian antiquarians who would rather not be cousins to the north have spent a great deal of ink trying to explain it away.
 
 Vylaria did not abandon it. It kept the runes for everything meant to outlast the person who ordered it cut, and coined the [[skill-semrnscrpt|Sêmarion]] for everything else.
 
 Behind the Pelwar word stands an older and far more awkward question. The staves match Khazári [[skill-drthrkscrpt|Durthrak]] too well for coincidence, and the likeliest account has the **Proto-Pelwar themselves as Khazári subjects**, taught a reduced work-row in the mountains before the migrations — so that Thâravárkon is not a borrowing Vylaria made but one it inherited, already twice simplified, from ancestors who cut tallies for somebody else.
 
-Vylarian antiquarians have found parts of this congenial for reasons that have little to do with scholarship: it makes the imperial ceremonial script older than the empire, and it demotes the Normen claim to have received the runes from a god. The rest of it they handle very carefully indeed. An empire whose sacred letters descend from the tally-marks of a bound people, in the service of a race it has never conquered and cannot reach, is not a finding the Curia wishes published, and the two or three scholars who have put it plainly have found their careers proceeding no further.
+Vylarian antiquarians have found parts of this congenial for reasons that have little to do with scholarship: it makes the imperial ceremonial script older than the empire, and it demotes the Nordmen claim to have received the runes from a god. The rest of it they handle very carefully indeed. An empire whose sacred letters descend from the tally-marks of a bound people, in the service of a race it has never conquered and cannot reach, is not a finding the Curia wishes published, and the two or three scholars who have put it plainly have found their careers proceeding no further.
 
 ## The letters
 
@@ -48,4 +48,4 @@ The priesthoods first — the [[affiliation-hlykngdmnrtm|Holy Kingdom of Nartum]
 
 Two difficulties compound. The script is durable, so the inscriptions a character actually finds are routinely centuries older than anyone living — and the Vylari cut into them is correspondingly archaic, so a reader's modern Language skill may simply not cover it. And the formality is a trap: a great deal of Thâravárkon is boilerplate, so a reader who guesses at a worn inscription from the expected formula will produce a fluent, confident, entirely wrong reading. Weathering is what the Script rules call a degraded or damaged document; the wrong century of Vylari is a matter for the Language test.
 
-Thâravárkon is the [[skill-runic|Runic]] tradition in its Vylarian recension. A character who knows another rune-row of the same family — Thurávark above all — does not read it, but recognises it as kin, which is often enough to know what kind of stone they are standing in front of.
+Thâravárkon is the [[sohl-none-docskill-runic|Runic]] tradition in its Vylarian recension. A character who knows another rune-row of the same family — Thurávark above all — does not read it, but recognises it as kin, which is often enough to know what kind of stone they are standing in front of.

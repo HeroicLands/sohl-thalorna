@@ -87,7 +87,7 @@ data:
     sideros: aligned
     physera: aligned
 shortcode: hydalis
-img: images/affiliation/hydalis.webp
+img: images/affiliation/hex-hodai/hydalis.webp
 name:
   full: Hydälis
   aliases:

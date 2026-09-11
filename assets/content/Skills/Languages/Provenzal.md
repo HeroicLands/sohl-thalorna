@@ -5,7 +5,7 @@ name:
   aliases:
     - Provenzal
 description: "The melodic speech of Provenzia — shaped by Vylari and Élavendri, and long held the proper tongue of courtly love and the lyric arts."
-img: icons/speaking.svg
+img: systems/sohl/assets/icons/other/speaking.svg
 shortcode: provnzlng
 type: skill
 subType: language
@@ -24,7 +24,7 @@ flags:
     lang_family: Pelwar
 ---
 
-Provenzal is a tongue of the Pelwar family. Fluency measures the sophistication of expression in Provenzal, from the halting phrases of a traveler to the nuanced and learned discourse of a native speaker. As with all specific languages, this skill inherits its mechanics from the general [[skill-lang|Language]] skill.
+Provenzal is a tongue of the Pelwar family. Fluency measures the sophistication of expression in Provenzal, from the halting phrases of a traveler to the nuanced and learned discourse of a native speaker. As with all specific languages, this skill inherits its mechanics from the general [[sohl-none-docskill-lang|Language]] skill.
 
 Provenzal is the melodic tongue of [[place-provenzrgn|Provènzia Region]], a realm where commerce meets artistry and the traditions of courtly culture flourish. Spoken in the prosperous merchant cities and cultivated courts of the southern coast, Provenzal is the language of síladòrs, merchants, and nobles who trade in beauty as readily as silk and spices.
 

@@ -5,7 +5,7 @@ name:
   aliases:
     - Thirst
 description: "Victims suffer overwhelming thirst; dehydration sets in rapidly."
-img: icons/fire.svg
+img: systems/sohl/assets/icons/game-icons/badges/fire.svg
 shortcode: pchsoul
 type: mysticalability
 subType: arcaneincantation

@@ -5,7 +5,7 @@ name:
   aliases:
     - Dowsing
 description: "Finds water nearby; locates source of liquid."
-img: icons/water.svg
+img: systems/sohl/assets/icons/game-icons/badges/water.svg
 shortcode: wtrsrch
 type: mysticalability
 subType: arcaneincantation

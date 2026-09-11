@@ -12,10 +12,10 @@ name:
 packFolder: midhalionharad
 shortcode: esharumtrz
 banner: banners/tamzir-banner.webp
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/esharumtrz-portrait.webp
+  portrait: images/beings/characters/esharumtrz-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Ship Captain
@@ -45,65 +45,65 @@ data:
 sohl:
   templatePriority: null
   items:
-    - { shortcode: str, type: attribute, system: { scoreBase: 14 } }
-    - { shortcode: end, type: attribute, system: { scoreBase: 16 } }
-    - { shortcode: dex, type: attribute, system: { scoreBase: 15 } }
-    - { shortcode: agl, type: attribute, system: { scoreBase: 12 } }
-    - { shortcode: per, type: attribute, system: { scoreBase: 10 } }
-    - { shortcode: cml, type: attribute, system: { scoreBase: 14 } }
-    - { shortcode: aur, type: attribute, system: { scoreBase: 15 } }
-    - { shortcode: wil, type: attribute, system: { scoreBase: 16 } }
-    - { shortcode: rea, type: attribute, system: { scoreBase: 15 } }
-    - { shortcode: cre, type: attribute, system: { scoreBase: 15 } }
-    - { shortcode: emp, type: attribute, system: { scoreBase: 11 } }
-    - { shortcode: elo, type: attribute, system: { scoreBase: 12 } }
-    - { shortcode: mor, type: attribute, system: { scoreBase: 11 } }
-    - { shortcode: voi, type: attribute, system: { scoreBase: 9 } }
-    - { shortcode: dge, type: skill, system: { masteryLevelBase: 62 } }
-    - { shortcode: melee, type: skill, system: { masteryLevelBase: 86 } }
-    - { shortcode: dscr, type: skill, system: { masteryLevelBase: 34 } }
-    - { shortcode: draw, type: skill, system: { masteryLevelBase: 24 } }
-    - { shortcode: chrm, type: skill, system: { masteryLevelBase: 39 } }
-    - { shortcode: swim, type: skill, system: { masteryLevelBase: 14 } }
-    - { shortcode: intr, type: skill, system: { masteryLevelBase: 53 } }
-    - { shortcode: sing, type: skill, system: { masteryLevelBase: 29 } }
-    - { shortcode: shok, type: skill, system: { masteryLevelBase: 79 } }
-    - { shortcode: pysn, type: skill, system: { masteryLevelBase: 48 } }
-    - { shortcode: folklr, type: skill, system: { masteryLevelBase: 65 } }
-    - { shortcode: thro, type: skill, system: { masteryLevelBase: 63 } }
-    - { shortcode: stlth, type: skill, system: { masteryLevelBase: 78 } }
-    - { shortcode: ridg, type: skill, system: { masteryLevelBase: 11 } }
-    - { shortcode: srvl, type: skill, system: { masteryLevelBase: 64 } }
-    - { shortcode: cmd, type: skill, system: { masteryLevelBase: 86 } }
-    - { shortcode: guil, type: skill, system: { masteryLevelBase: 63 } }
-    - { shortcode: clmb, type: skill, system: { masteryLevelBase: 80 } }
-    - { shortcode: cook, type: skill, system: { masteryLevelBase: 56 } }
-    - { shortcode: init, type: skill, system: { masteryLevelBase: 99 } }
-    - { shortcode: thtcs, type: skill, system: { masteryLevelBase: 14 } }
-    - { shortcode: archery, type: skill, system: { masteryLevelBase: 12 } }
-    - { shortcode: dnce, type: skill, system: { masteryLevelBase: 28 } }
-    - { shortcode: jump, type: skill, system: { masteryLevelBase: 59 } }
-    - { shortcode: awar, type: skill, system: { masteryLevelBase: 67 } }
-    - { shortcode: agri, type: skill, system: { masteryLevelBase: 53 } }
-    - { shortcode: fish, type: skill, system: { masteryLevelBase: 52 } }
-    - { shortcode: hrld, type: skill, system: { masteryLevelBase: 33 } }
-    - { shortcode: law, type: skill, system: { masteryLevelBase: 35 } }
-    - { shortcode: pilt, type: skill, system: { masteryLevelBase: 60 } }
-    - { shortcode: smsh, type: skill, system: { masteryLevelBase: 67 } }
-    - { shortcode: shpw, type: skill, system: { masteryLevelBase: 34 } }
-    - { shortcode: trak, type: skill, system: { masteryLevelBase: 55 } }
-    - { shortcode: wpnc, type: skill, system: { masteryLevelBase: 37 } }
-    - { shortcode: BrdSwd, type: weapongear }
-    - { shortcode: Dgr, type: weapongear }
-    - { shortcode: RndSh, type: weapongear }
-    - { shortcode: CTunic, type: armorgear }
-    - { shortcode: CLeg, type: armorgear }
-    - { shortcode: LtCBoot, type: armorgear }
-    - { shortcode: LtGlove, type: armorgear }
-    - { shortcode: MVest, type: armorgear }
-    - { shortcode: PlHHelm, type: armorgear }
-    - { shortcode: bpchmd, type: containergear }
-    - { shortcode: pence, type: miscgear, system: { quantity: 189 } }
+    - { model: sohl-sohl-attribute-str, system: { scoreBase: 14 } }
+    - { model: sohl-sohl-attribute-end, system: { scoreBase: 16 } }
+    - { model: sohl-sohl-attribute-dex, system: { scoreBase: 15 } }
+    - { model: sohl-sohl-attribute-agl, system: { scoreBase: 12 } }
+    - { model: sohl-sohl-attribute-per, system: { scoreBase: 10 } }
+    - { model: sohl-sohl-attribute-cml, system: { scoreBase: 14 } }
+    - { model: sohl-sohl-attribute-aur, system: { scoreBase: 15 } }
+    - { model: sohl-sohl-attribute-wil, system: { scoreBase: 16 } }
+    - { model: sohl-sohl-attribute-rea, system: { scoreBase: 15 } }
+    - { model: sohl-sohl-attribute-cre, system: { scoreBase: 15 } }
+    - { model: sohl-sohl-attribute-emp, system: { scoreBase: 11 } }
+    - { model: sohl-sohl-attribute-elo, system: { scoreBase: 12 } }
+    - { model: sohl-sohl-attribute-mor, system: { scoreBase: 11 } }
+    - { model: sohl-sohl-attribute-voi, system: { scoreBase: 9 } }
+    - { model: sohl-sohl-skill-dge, system: { masteryLevelBase: 62 } }
+    - { model: sohl-sohl-skill-melee, system: { masteryLevelBase: 86 } }
+    - { model: sohl-sohl-skill-dscr, system: { masteryLevelBase: 34 } }
+    - { model: sohl-sohl-skill-draw, system: { masteryLevelBase: 24 } }
+    - { model: sohl-sohl-skill-chrm, system: { masteryLevelBase: 39 } }
+    - { model: sohl-sohl-skill-swim, system: { masteryLevelBase: 14 } }
+    - { model: sohl-sohl-skill-intr, system: { masteryLevelBase: 53 } }
+    - { model: sohl-sohl-skill-sing, system: { masteryLevelBase: 29 } }
+    - { model: sohl-sohl-skill-shok, system: { masteryLevelBase: 79 } }
+    - { model: sohl-sohl-skill-pysn, system: { masteryLevelBase: 48 } }
+    - { model: sohl-sohl-skill-folklr, system: { masteryLevelBase: 65 } }
+    - { model: sohl-sohl-skill-thro, system: { masteryLevelBase: 63 } }
+    - { model: sohl-sohl-skill-stlth, system: { masteryLevelBase: 78 } }
+    - { model: sohl-sohl-skill-ridg, system: { masteryLevelBase: 11 } }
+    - { model: sohl-sohl-skill-srvl, system: { masteryLevelBase: 64 } }
+    - { model: sohl-sohl-skill-cmd, system: { masteryLevelBase: 86 } }
+    - { model: sohl-sohl-skill-guil, system: { masteryLevelBase: 63 } }
+    - { model: sohl-sohl-skill-clmb, system: { masteryLevelBase: 80 } }
+    - { model: sohl-sohl-skill-cook, system: { masteryLevelBase: 56 } }
+    - { model: sohl-sohl-skill-init, system: { masteryLevelBase: 99 } }
+    - { model: sohl-sohl-skill-thtcs, system: { masteryLevelBase: 14 } }
+    - { model: sohl-sohl-skill-archery, system: { masteryLevelBase: 12 } }
+    - { model: sohl-sohl-skill-dnce, system: { masteryLevelBase: 28 } }
+    - { model: sohl-sohl-skill-jump, system: { masteryLevelBase: 59 } }
+    - { model: sohl-sohl-skill-awar, system: { masteryLevelBase: 67 } }
+    - { model: sohl-sohl-skill-agri, system: { masteryLevelBase: 53 } }
+    - { model: sohl-sohl-skill-fish, system: { masteryLevelBase: 52 } }
+    - { model: sohl-sohl-skill-hrld, system: { masteryLevelBase: 33 } }
+    - { model: sohl-sohl-skill-law, system: { masteryLevelBase: 35 } }
+    - { model: sohl-sohl-skill-pilt, system: { masteryLevelBase: 60 } }
+    - { model: sohl-sohl-skill-smsh, system: { masteryLevelBase: 67 } }
+    - { model: sohl-sohl-skill-shpw, system: { masteryLevelBase: 34 } }
+    - { model: sohl-sohl-skill-trak, system: { masteryLevelBase: 55 } }
+    - { model: sohl-sohl-skill-wpnc, system: { masteryLevelBase: 37 } }
+    - { model: sohl-sohl-weapongear-brdswd }
+    - { model: sohl-sohl-weapongear-dgr }
+    - { model: sohl-sohl-weapongear-rndsh }
+    - { model: sohl-sohl-armorgear-ctunic }
+    - { model: sohl-sohl-armorgear-cleg }
+    - { model: sohl-sohl-armorgear-ltcboot }
+    - { model: sohl-sohl-armorgear-ltglove }
+    - { model: sohl-sohl-armorgear-mvest }
+    - { model: sohl-sohl-armorgear-plhhelm }
+    - { model: sohl-sohl-containergear-bpchmd }
+    - { model: sohl-sohl-miscgear-pence, system: { quantity: 189 } }
   system:
     body:
       structure:
@@ -570,6 +570,8 @@ sohl:
 Eshârum Tarûzî is a tall, rangy man with the sun-darkened skin and salt-roughened hands of a lifelong sailor. His brown hair is streaked prematurely gray at the temples and hangs to his collar, usually tied back with a leather cord. His blue eyes are striking against his weathered complexion — sharp, watchful, and carrying the weight of things he does not discuss. A long scar traces his left jaw from ear to chin, a souvenir of the Battle of Tamzîr. He moves with the easy economy of a man accustomed to rolling decks, and his lean frame carries more strength than it advertises. He favors a long brown oiled-canvas coat over practical clothing, with his broadsword belted at his hip and a dagger in his boot.
 
 # Dossier {#dossier}
+
+## Background
 
 ### Early Life
 

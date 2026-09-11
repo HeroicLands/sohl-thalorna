@@ -9,15 +9,15 @@ name:
   title: Father
   given: Iztéban
   clan: Alkássar
-  home: Torreviga
+  home: torreviga
   aliases:
     - The Jánusian Priest
 packFolder: aureldiatarvenia
 shortcode: frztbnlksr
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/frztbnlksr-portrait.webp
+  portrait: images/beings/characters/frztbnlksr-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Priest
@@ -44,80 +44,85 @@ data:
 sohl:
   templatePriority: null
   items:
-    - { shortcode: str, type: attribute, system: { scoreBase: 10 } }
-    - { shortcode: end, type: attribute, system: { scoreBase: 12 } }
-    - { shortcode: dex, type: attribute, system: { scoreBase: 10 } }
-    - { shortcode: agl, type: attribute, system: { scoreBase: 11 } }
-    - { shortcode: per, type: attribute, system: { scoreBase: 13 } }
-    - { shortcode: cml, type: attribute, system: { scoreBase: 12 } }
-    - { shortcode: aur, type: attribute, system: { scoreBase: 13 } }
-    - { shortcode: wil, type: attribute, system: { scoreBase: 14 } }
-    - { shortcode: rea, type: attribute, system: { scoreBase: 15 } }
-    - { shortcode: cre, type: attribute, system: { scoreBase: 12 } }
-    - { shortcode: emp, type: attribute, system: { scoreBase: 14 } }
-    - { shortcode: elo, type: attribute, system: { scoreBase: 14 } }
-    - { shortcode: mor, type: attribute, system: { scoreBase: 16 } }
-    - { shortcode: voi, type: attribute, system: { scoreBase: 14 } }
-    - { shortcode: janus, type: affiliation }
-    - { shortcode: cook, type: skill, system: { masteryLevelBase: 28 } }
-    - { shortcode: embl, type: skill, system: { masteryLevelBase: 28 } }
-    - { shortcode: folklr, type: skill, system: { masteryLevelBase: 30 } }
-    - { shortcode: hrld, type: skill, system: { masteryLevelBase: 30 } }
-    - { shortcode: pysn, type: skill, system: { masteryLevelBase: 28 } }
-    - { shortcode: semrnscrpt, type: skill, system: { masteryLevelBase: 70 } }
-    - { shortcode: chrm, type: skill, system: { masteryLevelBase: 52 } }
-    - { shortcode: cmd, type: skill, system: { masteryLevelBase: 70 } }
-    - { shortcode: dscr, type: skill, system: { masteryLevelBase: 75 } }
-    - { shortcode: guil, type: skill, system: { masteryLevelBase: 39 } }
-    - { shortcode: intr, type: skill, system: { masteryLevelBase: 42 } }
-    - { shortcode: sing, type: skill, system: { masteryLevelBase: 39 } }
-    - { shortcode: thtcs, type: skill, system: { masteryLevelBase: 13 } }
-    - { shortcode: srvl, type: skill, system: { masteryLevelBase: 14 } }
-    - { shortcode: awar, type: skill, system: { masteryLevelBase: 39 } }
-    - { shortcode: clmb, type: skill, system: { masteryLevelBase: 33 } }
-    - { shortcode: dnce, type: skill, system: { masteryLevelBase: 22 } }
-    - { shortcode: jump, type: skill, system: { masteryLevelBase: 33 } }
-    - { shortcode: ridg, type: skill, system: { masteryLevelBase: 39 } }
-    - { shortcode: stlth, type: skill, system: { masteryLevelBase: 36 } }
-    - { shortcode: swim, type: skill, system: { masteryLevelBase: 11 } }
-    - { shortcode: archery, type: skill, system: { masteryLevelBase: 12 } }
-    - { shortcode: init, type: skill, system: { masteryLevelBase: 56 } }
-    - { shortcode: melee, type: skill, system: { masteryLevelBase: 50 } }
-    - { shortcode: thro, type: skill, system: { masteryLevelBase: 22 } }
-    - { shortcode: draw, type: skill, system: { masteryLevelBase: 11 } }
-    - { shortcode: mtlc, type: skill, system: { masteryLevelBase: 20 } }
-    - { shortcode: musc, type: skill, system: { masteryLevelBase: 26 } }
-    - { shortcode: ShrtSwd, type: weapongear }
-    - { shortcode: LShirt, type: armorgear }
-    - { shortcode: LTrsr, type: armorgear }
-    - { shortcode: LtShoe, type: armorgear }
+    - { model: sohl-sohl-attribute-str, system: { scoreBase: 10 } }
+    - { model: sohl-sohl-attribute-end, system: { scoreBase: 12 } }
+    - { model: sohl-sohl-attribute-dex, system: { scoreBase: 10 } }
+    - { model: sohl-sohl-attribute-agl, system: { scoreBase: 11 } }
+    - { model: sohl-sohl-attribute-per, system: { scoreBase: 13 } }
+    - { model: sohl-sohl-attribute-cml, system: { scoreBase: 12 } }
+    - { model: sohl-sohl-attribute-aur, system: { scoreBase: 13 } }
+    - { model: sohl-sohl-attribute-wil, system: { scoreBase: 14 } }
+    - { model: sohl-sohl-attribute-rea, system: { scoreBase: 15 } }
+    - { model: sohl-sohl-attribute-cre, system: { scoreBase: 12 } }
+    - { model: sohl-sohl-attribute-emp, system: { scoreBase: 14 } }
+    - { model: sohl-sohl-attribute-elo, system: { scoreBase: 14 } }
+    - { model: sohl-sohl-attribute-mor, system: { scoreBase: 16 } }
+    - { model: sohl-sohl-attribute-voi, system: { scoreBase: 14 } }
+    - { model: affiliation-janus }
+    - { model: sohl-sohl-skill-cook, system: { masteryLevelBase: 28 } }
+    - { model: sohl-sohl-skill-embl, system: { masteryLevelBase: 28 } }
+    - { model: sohl-sohl-skill-folklr, system: { masteryLevelBase: 30 } }
+    - { model: sohl-sohl-skill-hrld, system: { masteryLevelBase: 30 } }
+    - { model: sohl-sohl-skill-pysn, system: { masteryLevelBase: 28 } }
+    - { model: skill-semrnscrpt, system: { masteryLevelBase: 70 } }
+    - { model: sohl-sohl-skill-chrm, system: { masteryLevelBase: 52 } }
+    - { model: sohl-sohl-skill-cmd, system: { masteryLevelBase: 70 } }
+    - { model: sohl-sohl-skill-dscr, system: { masteryLevelBase: 75 } }
+    - { model: sohl-sohl-skill-guil, system: { masteryLevelBase: 39 } }
+    - { model: sohl-sohl-skill-intr, system: { masteryLevelBase: 42 } }
+    - { model: sohl-sohl-skill-sing, system: { masteryLevelBase: 39 } }
+    - { model: sohl-sohl-skill-thtcs, system: { masteryLevelBase: 13 } }
+    - { model: sohl-sohl-skill-srvl, system: { masteryLevelBase: 14 } }
+    - { model: sohl-sohl-skill-awar, system: { masteryLevelBase: 39 } }
+    - { model: sohl-sohl-skill-clmb, system: { masteryLevelBase: 33 } }
+    - { model: sohl-sohl-skill-dnce, system: { masteryLevelBase: 22 } }
+    - { model: sohl-sohl-skill-jump, system: { masteryLevelBase: 33 } }
+    - { model: sohl-sohl-skill-ridg, system: { masteryLevelBase: 39 } }
+    - { model: sohl-sohl-skill-stlth, system: { masteryLevelBase: 36 } }
+    - { model: sohl-sohl-skill-swim, system: { masteryLevelBase: 11 } }
+    - { model: sohl-sohl-skill-archery, system: { masteryLevelBase: 12 } }
+    - { model: sohl-sohl-skill-init, system: { masteryLevelBase: 56 } }
+    - { model: sohl-sohl-skill-melee, system: { masteryLevelBase: 50 } }
+    - { model: sohl-sohl-skill-thro, system: { masteryLevelBase: 22 } }
+    - { model: sohl-sohl-skill-draw, system: { masteryLevelBase: 11 } }
+    - { model: sohl-sohl-skill-mtlc, system: { masteryLevelBase: 20 } }
+    - { model: sohl-sohl-skill-musc, system: { masteryLevelBase: 26 } }
+    - { model: sohl-sohl-weapongear-shrtswd }
+    - { model: sohl-sohl-armorgear-lshirt }
+    - { model: sohl-sohl-armorgear-ltrsr }
+    - { model: sohl-sohl-armorgear-ltshoe }
     - name: Ceremonial priestly robes (white with silver embroidery)
       type: miscgear
       system:
+        shortcode: ceremonialpriestly
         weight: 1
         value: 100
         durability: 3
     - name: Jánusian holy symbol (staff-topped amulet)
       type: miscgear
       system:
+        shortcode: janusianholysymbol
         weight: 1
         value: 100
         durability: 3
     - name: Holy scripture and theological texts
       type: miscgear
       system:
+        shortcode: holyscripture
         weight: 1
         value: 100
         durability: 3
     - name: Prayer beads and ritual items
       type: miscgear
       system:
+        shortcode: prayerbeadsandritual
         weight: 1
         value: 100
         durability: 3
     - name: Blessed oils and incense
       type: miscgear
       system:
+        shortcode: blessedoils
         quantity: 2
         weight: 1
         value: 100
@@ -125,18 +130,20 @@ sohl:
     - name: Red sash (symbol of priesthood)
       type: miscgear
       system:
+        shortcode: redsash
         weight: 1
         value: 100
         durability: 3
-    - { shortcode: tndrbx, type: miscgear }
+    - { model: sohl-sohl-miscgear-tndrbx }
     - name: Parchment and writing supplies
       type: miscgear
       system:
+        shortcode: parchmentandwriting
         weight: 1
         value: 100
         durability: 3
-    - { shortcode: pence, type: miscgear, system: { quantity: 5 } }
-    - { shortcode: bpchmd, type: containergear }
+    - { model: sohl-sohl-miscgear-pence, system: { quantity: 5 } }
+    - { model: sohl-sohl-containergear-bpchmd }
   system:
     body:
       structure:
@@ -607,6 +614,8 @@ Standing at 5'11", Father Iztéban has a medium build, weighing around 170 pound
 Iztéban Alkássar was born into a modest but respected noble family in the **Kingdom of Tarvénia**, a land known for its strong traditions of chivalry, honor, and justice. His father, **Álvaro Alkássar**, served as a knight in the royal guard, while his mother, **Tesera**, was the daughter of a well-known scholar. From an early age, Iztéban was taught the principles of the **Jánusian** faith, which holds sacred the ideals of protection, honor, and the defense of the weak.
 
 Although Iztéban’s family hoped he would follow in his father’s footsteps as a knight, Iztéban felt a strong calling to the clergy. He was particularly inspired by the goddess **Jánus**, the embodiment of justice and honor, who teaches her followers to defend the helpless and stand against oppression. By the age of 12, Iztéban expressed his desire to join the **Order of the Sword of Jánus**, the priesthood dedicated to serving both the spiritual and martial aspects of the Jánusian faith.
+
+## Background
 
 ### Joining the Jánusian Church
 

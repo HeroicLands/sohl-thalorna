@@ -8,14 +8,14 @@ name:
   title: ""
   given: Kjôrvan
   clan: Gjârlen
-  home: Fiòrdaure
+  home: fiordaure
   aliases: []
 packFolder: aureldiaprovenzia
 shortcode: kjrvngjrln
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/kjrvngjrln-portrait.webp
+  portrait: images/beings/characters/kjrvngjrln-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Ostler
@@ -42,87 +42,91 @@ data:
 sohl:
   templatePriority: null
   items:
-    - { shortcode: str, type: attribute, system: { scoreBase: 12 } }
-    - { shortcode: end, type: attribute, system: { scoreBase: 14 } }
-    - { shortcode: dex, type: attribute, system: { scoreBase: 15 } }
-    - { shortcode: agl, type: attribute, system: { scoreBase: 13 } }
-    - { shortcode: per, type: attribute, system: { scoreBase: 16 } }
-    - { shortcode: cml, type: attribute, system: { scoreBase: 11 } }
-    - { shortcode: aur, type: attribute, system: { scoreBase: 12 } }
-    - { shortcode: wil, type: attribute, system: { scoreBase: 10 } }
-    - { shortcode: rea, type: attribute, system: { scoreBase: 11 } }
-    - { shortcode: cre, type: attribute, system: { scoreBase: 10 } }
-    - { shortcode: emp, type: attribute, system: { scoreBase: 14 } }
-    - { shortcode: elo, type: attribute, system: { scoreBase: 10 } }
-    - { shortcode: mor, type: attribute, system: { scoreBase: 14 } }
-    - { shortcode: voi, type: attribute, system: { scoreBase: 11 } }
-    - { shortcode: janus, type: affiliation }
-    - { shortcode: cook, type: skill, system: { masteryLevelBase: 56 } }
-    - { shortcode: folklr, type: skill, system: { masteryLevelBase: 11 } }
-    - { shortcode: pysn, type: skill, system: { masteryLevelBase: 13 } }
-    - { shortcode: chrm, type: skill, system: { masteryLevelBase: 36 } }
-    - { shortcode: cmd, type: skill, system: { masteryLevelBase: 20 } }
-    - { shortcode: dscr, type: skill, system: { masteryLevelBase: 22 } }
-    - { shortcode: guil, type: skill, system: { masteryLevelBase: 36 } }
-    - { shortcode: intr, type: skill, system: { masteryLevelBase: 52 } }
-    - { shortcode: sing, type: skill, system: { masteryLevelBase: 33 } }
-    - { shortcode: thtcs, type: skill, system: { masteryLevelBase: 10 } }
-    - { shortcode: agri, type: skill, system: { masteryLevelBase: 13 } }
-    - { shortcode: anmcft, type: skill, system: { masteryLevelBase: 48 } }
-    - { shortcode: smsh, type: skill, system: { masteryLevelBase: 26 } }
-    - { shortcode: srvl, type: skill, system: { masteryLevelBase: 10 } }
-    - { shortcode: trak, type: skill, system: { masteryLevelBase: 13 } }
-    - { shortcode: awar, type: skill, system: { masteryLevelBase: 52 } }
-    - { shortcode: clmb, type: skill, system: { masteryLevelBase: 42 } }
-    - { shortcode: dnce, type: skill, system: { masteryLevelBase: 24 } }
-    - { shortcode: jump, type: skill, system: { masteryLevelBase: 39 } }
-    - { shortcode: lgdm, type: skill, system: { masteryLevelBase: 15 } }
-    - { shortcode: ridg, type: skill, system: { masteryLevelBase: 70 } }
-    - { shortcode: stlth, type: skill, system: { masteryLevelBase: 36 } }
-    - { shortcode: swim, type: skill, system: { masteryLevelBase: 26 } }
-    - { shortcode: archery, type: skill, system: { masteryLevelBase: 16 } }
-    - { shortcode: init, type: skill, system: { masteryLevelBase: 30 } }
-    - { shortcode: melee, type: skill, system: { masteryLevelBase: 28 } }
-    - { shortcode: thro, type: skill, system: { masteryLevelBase: 30 } }
-    - { shortcode: draw, type: skill, system: { masteryLevelBase: 13 } }
-    - { shortcode: hide, type: skill, system: { masteryLevelBase: 30 } }
-    - { shortcode: jewl, type: skill, system: { masteryLevelBase: 16 } }
-    - { shortcode: mtlc, type: skill, system: { masteryLevelBase: 70 } }
-    - { shortcode: wood, type: skill, system: { masteryLevelBase: 28 } }
-    - { shortcode: WShirt, type: armorgear }
-    - { shortcode: WBrch, type: armorgear }
-    - { shortcode: WCap, type: armorgear }
-    - { shortcode: LtShoe, type: armorgear }
-    - { shortcode: WClk, type: armorgear }
+    - { model: sohl-sohl-attribute-str, system: { scoreBase: 12 } }
+    - { model: sohl-sohl-attribute-end, system: { scoreBase: 14 } }
+    - { model: sohl-sohl-attribute-dex, system: { scoreBase: 15 } }
+    - { model: sohl-sohl-attribute-agl, system: { scoreBase: 13 } }
+    - { model: sohl-sohl-attribute-per, system: { scoreBase: 16 } }
+    - { model: sohl-sohl-attribute-cml, system: { scoreBase: 11 } }
+    - { model: sohl-sohl-attribute-aur, system: { scoreBase: 12 } }
+    - { model: sohl-sohl-attribute-wil, system: { scoreBase: 10 } }
+    - { model: sohl-sohl-attribute-rea, system: { scoreBase: 11 } }
+    - { model: sohl-sohl-attribute-cre, system: { scoreBase: 10 } }
+    - { model: sohl-sohl-attribute-emp, system: { scoreBase: 14 } }
+    - { model: sohl-sohl-attribute-elo, system: { scoreBase: 10 } }
+    - { model: sohl-sohl-attribute-mor, system: { scoreBase: 14 } }
+    - { model: sohl-sohl-attribute-voi, system: { scoreBase: 11 } }
+    - { model: affiliation-janus }
+    - { model: sohl-sohl-skill-cook, system: { masteryLevelBase: 56 } }
+    - { model: sohl-sohl-skill-folklr, system: { masteryLevelBase: 11 } }
+    - { model: sohl-sohl-skill-pysn, system: { masteryLevelBase: 13 } }
+    - { model: sohl-sohl-skill-chrm, system: { masteryLevelBase: 36 } }
+    - { model: sohl-sohl-skill-cmd, system: { masteryLevelBase: 20 } }
+    - { model: sohl-sohl-skill-dscr, system: { masteryLevelBase: 22 } }
+    - { model: sohl-sohl-skill-guil, system: { masteryLevelBase: 36 } }
+    - { model: sohl-sohl-skill-intr, system: { masteryLevelBase: 52 } }
+    - { model: sohl-sohl-skill-sing, system: { masteryLevelBase: 33 } }
+    - { model: sohl-sohl-skill-thtcs, system: { masteryLevelBase: 10 } }
+    - { model: sohl-sohl-skill-agri, system: { masteryLevelBase: 13 } }
+    - { model: sohl-sohl-skill-anmcft, system: { masteryLevelBase: 48 } }
+    - { model: sohl-sohl-skill-smsh, system: { masteryLevelBase: 26 } }
+    - { model: sohl-sohl-skill-srvl, system: { masteryLevelBase: 10 } }
+    - { model: sohl-sohl-skill-trak, system: { masteryLevelBase: 13 } }
+    - { model: sohl-sohl-skill-awar, system: { masteryLevelBase: 52 } }
+    - { model: sohl-sohl-skill-clmb, system: { masteryLevelBase: 42 } }
+    - { model: sohl-sohl-skill-dnce, system: { masteryLevelBase: 24 } }
+    - { model: sohl-sohl-skill-jump, system: { masteryLevelBase: 39 } }
+    - { model: sohl-sohl-skill-lgdm, system: { masteryLevelBase: 15 } }
+    - { model: sohl-sohl-skill-ridg, system: { masteryLevelBase: 70 } }
+    - { model: sohl-sohl-skill-stlth, system: { masteryLevelBase: 36 } }
+    - { model: sohl-sohl-skill-swim, system: { masteryLevelBase: 26 } }
+    - { model: sohl-sohl-skill-archery, system: { masteryLevelBase: 16 } }
+    - { model: sohl-sohl-skill-init, system: { masteryLevelBase: 30 } }
+    - { model: sohl-sohl-skill-melee, system: { masteryLevelBase: 28 } }
+    - { model: sohl-sohl-skill-thro, system: { masteryLevelBase: 30 } }
+    - { model: sohl-sohl-skill-draw, system: { masteryLevelBase: 13 } }
+    - { model: sohl-sohl-skill-hide, system: { masteryLevelBase: 30 } }
+    - { model: sohl-sohl-skill-jewl, system: { masteryLevelBase: 16 } }
+    - { model: sohl-sohl-skill-mtlc, system: { masteryLevelBase: 70 } }
+    - { model: sohl-sohl-skill-wood, system: { masteryLevelBase: 28 } }
+    - { model: sohl-sohl-armorgear-wshirt }
+    - { model: sohl-sohl-armorgear-wbrch }
+    - { model: sohl-sohl-armorgear-wcap }
+    - { model: sohl-sohl-armorgear-ltshoe }
+    - { model: sohl-sohl-armorgear-wclk }
     - name: Equine grooming tools (brushes, curry comb, hoof pick)
       type: miscgear
       system:
+        shortcode: equinegroomingtools
         weight: 2
         value: 50
         durability: 4
     - name: Veterinary supplies for horse care
       type: miscgear
       system:
+        shortcode: veterinarysupplies
         weight: 1.5
         value: 100
         durability: 3
     - name: Horse feed bags (canvas, multiple)
       type: miscgear
       system:
+        shortcode: horsefeedbags
         weight: 1
         value: 20
         durability: 3
     - name: First aid kit for equine injuries
       type: miscgear
       system:
+        shortcode: firstaidkitforequine
         weight: 3
         value: 100
         durability: 4
-    - { shortcode: tndrbx, type: miscgear }
-    - { shortcode: torch, type: miscgear }
-    - { shortcode: StdRtns, type: miscgear, system: { quantity: 3 } }
-    - { shortcode: backpk, type: containergear }
-    - { shortcode: bpchmd, type: containergear }
+    - { model: sohl-sohl-miscgear-tndrbx }
+    - { model: sohl-sohl-miscgear-torch }
+    - { model: sohl-sohl-miscgear-stdrtns, system: { quantity: 3 } }
+    - { model: sohl-sohl-containergear-backpk }
+    - { model: sohl-sohl-containergear-bpchmd }
   system:
     body:
       structure:
@@ -589,6 +593,8 @@ sohl:
 Kjôrvan stands 6'1" tall with a medium build. He has sun-tanned skin, dark brown hair, and brown eyes. His features include an oblong face, a straight nose, an angular jawline, full lips, dark brows, sculpted cheeks.
 
 # Dossier {#dossier}
+
+## Background
 
 ### Early Life
 

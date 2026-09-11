@@ -1,5 +1,5 @@
 ---
-description: "Vast Normen kingdom of the far north, dominated by Asguardian worship and seafaring tradition — realm of harsh winters, fearless raiders, and deep-rooted clan honor."
+description: "Vast Nordmen kingdom of the far north, dominated by Asguardian worship and seafaring tradition — realm of harsh winters, fearless raiders, and deep-rooted clan honor."
 type: affiliation
 name:
   full: Kingdom of Nordheim
@@ -102,7 +102,7 @@ data:
   seat: thrymstead
   domains:
     - nrdlndsrgn
-  population: 2000000
+  population: 650000
   economy:
     - lore-vylrncrncy
     - lore-bartercnmy
@@ -127,37 +127,37 @@ packFolder: nordheim
 
 ## Overview
 
-In the frozen north of [[place-ankrscntnnt|Ankaris Continent]], Nordheim is a land of rugged mountains, vast fjords, and warrior peoples. The Normen are fierce, independent, and known for their seafaring and raiding cultures. They are hardy and adaptable, living in a harsh environment where only the strongest survive. Their warriors are respected and feared across Ankaris, and their longships sail the seas in search of plunder, trade, and glory.
+In the frozen north of [[place-ankrscntnnt|Ankaris Continent]], Nordheim is a land of rugged mountains, vast fjords, and warrior peoples. The Nordmen are fierce, independent, and known for their seafaring and raiding cultures. They are hardy and adaptable, living in a harsh environment where only the strongest survive. Their warriors are respected and feared across Ankaris, and their longships sail the seas in search of plunder, trade, and glory.
 
 ## Geography
 
-Nordheim occupies the northwestern coast of Ankaris, where jagged mountain ranges plunge into icy fjords. The interior is a mix of boreal forests, glacial valleys, and high tundra. Winters are long and brutal, with months of near-total darkness, while brief summers bring an explosion of life to the coastal lowlands. The coastline is deeply indented, creating thousands of natural harbors that have made the Normen the foremost sailors of the northern seas.
+Nordheim occupies the northwestern coast of Ankaris, where jagged mountain ranges plunge into icy fjords. The interior is a mix of boreal forests, glacial valleys, and high tundra. Winters are long and brutal, with months of near-total darkness, while brief summers bring an explosion of life to the coastal lowlands. The coastline is deeply indented, creating thousands of natural harbors that have made the Nordmen the foremost sailors of the northern seas.
 
 Key geographic features include the great fjords that cut deep into the mountains, providing sheltered harbors for longship fleets; the high interior plateau where caribou herds migrate and where the most isolated clans dwell; and the volcanic islands off the northwestern coast, where hot springs warm the earth even in the depths of winter.
 
 ## Culture and Society
 
-Normen society is organized around clans, each led by a jarl who commands loyalty through strength, wisdom, and generosity. The clans gather periodically at regional assemblies called _þings_, where disputes are settled, laws are proclaimed, and alliances are forged. The concept of personal honor is paramount — a Normen's reputation is their most valuable possession, and insults or betrayals can spark blood feuds that last generations.
+Nordmen society is organized around clans, each led by a jarl who commands loyalty through strength, wisdom, and generosity. The clans gather periodically at regional assemblies called _þings_, where disputes are settled, laws are proclaimed, and alliances are forged. The concept of personal honor is paramount — a Nordmen's reputation is their most valuable possession, and insults or betrayals can spark blood feuds that last generations.
 
-The Normen are master shipwrights and sailors. Their longships are marvels of engineering: shallow-drafted for navigating rivers and coastlines, yet seaworthy enough to cross open ocean. Raiding is a respected profession, though many Normen are also traders, carrying amber, furs, and whale ivory to the markets of [[place-midhalnrgn|Mídhalión Region]].
+The Nordmen are master shipwrights and sailors. Their longships are marvels of engineering: shallow-drafted for navigating rivers and coastlines, yet seaworthy enough to cross open ocean. Raiding is a respected profession, though many Nordmen are also traders, carrying amber, furs, and whale ivory to the markets of [[place-midhalnrgn|Mídhalión Region]].
 
-Women in Normen society hold more autonomy than in many other Ankarian cultures. They manage estates while men are away on voyages, can own property, and may initiate divorce. Shield-maidens — women who take up arms — are uncommon but not unheard of, and they are respected warriors.
+Women in Nordmen society hold more autonomy than in many other Ankarian cultures. They manage estates while men are away on voyages, can own property, and may initiate divorce. Shield-maidens — women who take up arms — are uncommon but not unheard of, and they are respected warriors.
 
 ## Religion
 
-The Normen worship the [[affiliation-asguardian|Asguardian Pantheon]] pantheon, a collection of powerful and often capricious deities who embody the forces of nature and the virtues the Normen prize. [[affiliation-odinn|Óðinn]] is the Allfather, god of wisdom, war, and death; [[affiliation-baldr|Baldr]] is the god of light, dreams, and the elder races; and [[affiliation-hel|Hél]] is the dreaded goddess of the underworld, whose cult of death and chaos is both feared and reviled.
+The Nordmen worship the [[affiliation-asguardian|Asguardian Pantheon]] pantheon, a collection of powerful and often capricious deities who embody the forces of nature and the virtues the Nordmen prize. [[affiliation-odinn|Óðinn]] is the Allfather, god of wisdom, war, and death; [[affiliation-baldr|Baldr]] is the god of light, dreams, and the elder races; and [[affiliation-hel|Hél]] is the dreaded goddess of the underworld, whose cult of death and chaos is both feared and reviled.
 
-Worship is practical and personal. Normen make offerings at standing stones, sacred groves, and household altars. Major rituals accompany the turning of the seasons, with the midwinter _Jólblót_ and the midsummer _Sigrblót_ being the most important communal celebrations. Shamans and mystics called _völvur_ serve as spiritual guides, interpreting omens, performing seiðr magic, and mediating between the mortal world and the divine.
+Worship is practical and personal. Nordmen make offerings at standing stones, sacred groves, and household altars. Major rituals accompany the turning of the seasons, with the midwinter _Jólblót_ and the midsummer _Sigrblót_ being the most important communal celebrations. Shamans and mystics called _völvur_ serve as spiritual guides, interpreting omens, performing seiðr magic, and mediating between the mortal world and the divine.
 
 ## Magic
 
 Magic in Nordheim takes two primary forms. _Seiðr_ is a shamanistic tradition practiced by the _völvur_, involving trance states, spirit journeys, and divination. It is powerful but socially complex — while respected in women, it is considered _ergi_ (unmanly) when practiced by men, though some male practitioners defy this taboo. _Rúnagaldr_ is the craft of inscribing runes with magical intent, practiced by specialists called _rúnameistari_. This tradition is more widely accepted across genders and is closely tied to the worship of Óðinn, who is said to have sacrificed himself to gain the knowledge of the runes.
 
-The [[affiliation-ordoarcanis|Ordo Arcanis]] has virtually no presence in Nordheim. The Normen distrust foreign institutions and have their own magical traditions that predate the Ordo by centuries.
+The [[affiliation-ordoarcanis|Ordo Arcanis]] has virtually no presence in Nordheim. The Nordmen distrust foreign institutions and have their own magical traditions that predate the Ordo by centuries.
 
 ## Relations
 
-Nordheim's relationship with the rest of Ankaris is defined by raiding, trade, and migration. Normen longships have struck as far south as the [[place-vylarianse|Vylarian Sea]], and Normen mercenaries serve in armies across the continent. The Normen have a complex relationship with their eastern neighbors in [[place-grkrhlmrgn|Grukarholm Region]] — the two peoples share the harsh northern climate but are culturally distinct and often hostile. To the south, the forests of [[place-vrystwald|Vrystwald]] represent a contested frontier where Normen settlers and Varokh tribespeople compete for territory.
+Nordheim's relationship with the rest of Ankaris is defined by raiding, trade, and migration. Nordmen longships have struck as far south as the [[place-vylarianse|Vylarian Sea]], and Nordmen mercenaries serve in armies across the continent. The Nordmen have a complex relationship with their eastern neighbors in [[place-grkrhlmrgn|Grukarholm Region]] — the two peoples share the harsh northern climate but are culturally distinct and often hostile. To the south, the forests of [[place-vrystwald|Vrystwald]] represent a contested frontier where Nordmen settlers and Varokh tribespeople compete for territory.
 
 ## Notable Features
 
@@ -172,8 +172,8 @@ Kingdom of Nordheim uses the [[lore-vylrncrncy|Vylarian coinage]] (Aurion / Argo
 
 ## See Also
 
-- [[affiliation-grukarholm|Grukarhölm]] — Eastern neighbors, the Grukar tribes
+- [[place-grkrhlmrgn|Grukarhölm]] — Eastern neighbors, the Grukar tribes
 - [[place-vrystwald|Vrystwald]] — Southern frontier
-- [[affiliation-asguardian|Asguardian Pantheon]] — The Normen pantheon
+- [[affiliation-asguardian|Asguardian Pantheon]] — The Nordmen pantheon
 - [[skill-nordmalng|Nordmal]] — Naming conventions
 - [[affiliation-kingdomlgn|Kingdom of Malagna]], [[affiliation-kingdmnrgd|Kingdom of Norgaad]], [[affiliation-kingdmtrgd|Kingdom of Targud]], [[affiliation-kngdmvthgrd|Kingdom of Vithgard]] — Sister kingdoms

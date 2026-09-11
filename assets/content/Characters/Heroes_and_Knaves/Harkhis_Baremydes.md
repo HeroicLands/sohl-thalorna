@@ -8,14 +8,14 @@ name:
   title: ""
   given: Harkhîs
   clan: Bàremydês
-  home: Belekos
+  home: belekos
   aliases: []
 packFolder: midhalionvylaria
 shortcode: hrkhsbrmyds
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/hrkhsbrmyds-portrait.webp
+  portrait: images/beings/characters/hrkhsbrmyds-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Apothecary
@@ -43,62 +43,63 @@ data:
 sohl:
   templatePriority: null
   items:
-    - { shortcode: str, type: attribute, system: { scoreBase: 11 } }
-    - { shortcode: end, type: attribute, system: { scoreBase: 13 } }
-    - { shortcode: dex, type: attribute, system: { scoreBase: 12 } }
-    - { shortcode: agl, type: attribute, system: { scoreBase: 10 } }
-    - { shortcode: per, type: attribute, system: { scoreBase: 14 } }
-    - { shortcode: cml, type: attribute, system: { scoreBase: 8 } }
-    - { shortcode: aur, type: attribute, system: { scoreBase: 12 } }
-    - { shortcode: wil, type: attribute, system: { scoreBase: 13 } }
-    - { shortcode: rea, type: attribute, system: { scoreBase: 14 } }
-    - { shortcode: cre, type: attribute, system: { scoreBase: 11 } }
-    - { shortcode: emp, type: attribute, system: { scoreBase: 9 } }
-    - { shortcode: elo, type: attribute, system: { scoreBase: 11 } }
-    - { shortcode: mor, type: attribute, system: { scoreBase: 8 } }
-    - { shortcode: voi, type: attribute, system: { scoreBase: 10 } }
-    - { shortcode: murkir, type: affiliation }
-    - { shortcode: brew, type: skill, system: { masteryLevelBase: 14 } }
-    - { shortcode: cook, type: skill, system: { masteryLevelBase: 28 } }
-    - { shortcode: folklr, type: skill, system: { masteryLevelBase: 14 } }
-    - { shortcode: math, type: skill, system: { masteryLevelBase: 26 } }
-    - { shortcode: mrcn, type: skill, system: { masteryLevelBase: 28 } }
-    - { shortcode: pysn, type: skill, system: { masteryLevelBase: 28 } }
-    - { shortcode: semrnscrpt, type: skill, system: { masteryLevelBase: 56 } }
-    - { shortcode: chrm, type: skill, system: { masteryLevelBase: 32 } }
-    - { shortcode: cmd, type: skill, system: { masteryLevelBase: 24 } }
-    - { shortcode: dscr, type: skill, system: { masteryLevelBase: 26 } }
-    - { shortcode: guil, type: skill, system: { masteryLevelBase: 30 } }
-    - { shortcode: intr, type: skill, system: { masteryLevelBase: 33 } }
-    - { shortcode: sing, type: skill, system: { masteryLevelBase: 30 } }
-    - { shortcode: thtcs, type: skill, system: { masteryLevelBase: 11 } }
-    - { shortcode: herb, type: skill, system: { masteryLevelBase: 70 } }
-    - { shortcode: mnrl, type: skill, system: { masteryLevelBase: 56 } }
-    - { shortcode: srvl, type: skill, system: { masteryLevelBase: 39 } }
-    - { shortcode: awar, type: skill, system: { masteryLevelBase: 42 } }
-    - { shortcode: clmb, type: skill, system: { masteryLevelBase: 55 } }
-    - { shortcode: dnce, type: skill, system: { masteryLevelBase: 40 } }
-    - { shortcode: jump, type: skill, system: { masteryLevelBase: 30 } }
-    - { shortcode: lgdm, type: skill, system: { masteryLevelBase: 13 } }
-    - { shortcode: ridg, type: skill, system: { masteryLevelBase: 9 } }
-    - { shortcode: stlth, type: skill, system: { masteryLevelBase: 33 } }
-    - { shortcode: swim, type: skill, system: { masteryLevelBase: 33 } }
-    - { shortcode: archery, type: skill, system: { masteryLevelBase: 13 } }
-    - { shortcode: init, type: skill, system: { masteryLevelBase: 39 } }
-    - { shortcode: melee, type: skill, system: { masteryLevelBase: 22 } }
-    - { shortcode: thro, type: skill, system: { masteryLevelBase: 26 } }
-    - { shortcode: cmcs, type: skill, system: { masteryLevelBase: 26 } }
-    - { shortcode: draw, type: skill, system: { masteryLevelBase: 12 } }
-    - { shortcode: musc, type: skill, system: { masteryLevelBase: 13 } }
-    - { shortcode: txtl, type: skill, system: { masteryLevelBase: 26 } }
-    - { shortcode: Dgr, type: weapongear }
-    - { shortcode: LtShirt, type: armorgear }
-    - { shortcode: LtBrch, type: armorgear }
-    - { shortcode: LtKBoot, type: armorgear }
-    - { shortcode: LtGlove, type: armorgear }
+    - { model: sohl-sohl-attribute-str, system: { scoreBase: 11 } }
+    - { model: sohl-sohl-attribute-end, system: { scoreBase: 13 } }
+    - { model: sohl-sohl-attribute-dex, system: { scoreBase: 12 } }
+    - { model: sohl-sohl-attribute-agl, system: { scoreBase: 10 } }
+    - { model: sohl-sohl-attribute-per, system: { scoreBase: 14 } }
+    - { model: sohl-sohl-attribute-cml, system: { scoreBase: 8 } }
+    - { model: sohl-sohl-attribute-aur, system: { scoreBase: 12 } }
+    - { model: sohl-sohl-attribute-wil, system: { scoreBase: 13 } }
+    - { model: sohl-sohl-attribute-rea, system: { scoreBase: 14 } }
+    - { model: sohl-sohl-attribute-cre, system: { scoreBase: 11 } }
+    - { model: sohl-sohl-attribute-emp, system: { scoreBase: 9 } }
+    - { model: sohl-sohl-attribute-elo, system: { scoreBase: 11 } }
+    - { model: sohl-sohl-attribute-mor, system: { scoreBase: 8 } }
+    - { model: sohl-sohl-attribute-voi, system: { scoreBase: 10 } }
+    - { model: affiliation-murkir }
+    - { model: sohl-sohl-skill-brew, system: { masteryLevelBase: 14 } }
+    - { model: sohl-sohl-skill-cook, system: { masteryLevelBase: 28 } }
+    - { model: sohl-sohl-skill-folklr, system: { masteryLevelBase: 14 } }
+    - { model: sohl-sohl-skill-math, system: { masteryLevelBase: 26 } }
+    - { model: sohl-sohl-skill-mrcn, system: { masteryLevelBase: 28 } }
+    - { model: sohl-sohl-skill-pysn, system: { masteryLevelBase: 28 } }
+    - { model: skill-semrnscrpt, system: { masteryLevelBase: 56 } }
+    - { model: sohl-sohl-skill-chrm, system: { masteryLevelBase: 32 } }
+    - { model: sohl-sohl-skill-cmd, system: { masteryLevelBase: 24 } }
+    - { model: sohl-sohl-skill-dscr, system: { masteryLevelBase: 26 } }
+    - { model: sohl-sohl-skill-guil, system: { masteryLevelBase: 30 } }
+    - { model: sohl-sohl-skill-intr, system: { masteryLevelBase: 33 } }
+    - { model: sohl-sohl-skill-sing, system: { masteryLevelBase: 30 } }
+    - { model: sohl-sohl-skill-thtcs, system: { masteryLevelBase: 11 } }
+    - { model: sohl-sohl-skill-herb, system: { masteryLevelBase: 70 } }
+    - { model: sohl-sohl-skill-mnrl, system: { masteryLevelBase: 56 } }
+    - { model: sohl-sohl-skill-srvl, system: { masteryLevelBase: 39 } }
+    - { model: sohl-sohl-skill-awar, system: { masteryLevelBase: 42 } }
+    - { model: sohl-sohl-skill-clmb, system: { masteryLevelBase: 55 } }
+    - { model: sohl-sohl-skill-dnce, system: { masteryLevelBase: 40 } }
+    - { model: sohl-sohl-skill-jump, system: { masteryLevelBase: 30 } }
+    - { model: sohl-sohl-skill-lgdm, system: { masteryLevelBase: 13 } }
+    - { model: sohl-sohl-skill-ridg, system: { masteryLevelBase: 9 } }
+    - { model: sohl-sohl-skill-stlth, system: { masteryLevelBase: 33 } }
+    - { model: sohl-sohl-skill-swim, system: { masteryLevelBase: 33 } }
+    - { model: sohl-sohl-skill-archery, system: { masteryLevelBase: 13 } }
+    - { model: sohl-sohl-skill-init, system: { masteryLevelBase: 39 } }
+    - { model: sohl-sohl-skill-melee, system: { masteryLevelBase: 22 } }
+    - { model: sohl-sohl-skill-thro, system: { masteryLevelBase: 26 } }
+    - { model: sohl-sohl-skill-cmcs, system: { masteryLevelBase: 26 } }
+    - { model: sohl-sohl-skill-draw, system: { masteryLevelBase: 12 } }
+    - { model: sohl-sohl-skill-musc, system: { masteryLevelBase: 13 } }
+    - { model: sohl-sohl-skill-txtl, system: { masteryLevelBase: 26 } }
+    - { model: sohl-sohl-weapongear-dgr }
+    - { model: sohl-sohl-armorgear-ltshirt }
+    - { model: sohl-sohl-armorgear-ltbrch }
+    - { model: sohl-sohl-armorgear-ltkboot }
+    - { model: sohl-sohl-armorgear-ltglove }
     - name: Belt pouch with vials and phials
       type: miscgear
       system:
+        shortcode: beltpouchwithvials
         quantity: 1
         weight: 1.5
         value: 100
@@ -106,37 +107,42 @@ sohl:
     - name: Poison samples (locked, labeled)
       type: miscgear
       system:
+        shortcode: poisonsamples
         weight: 0.8
         value: 100
         durability: 3
     - name: Antidote recipes (hidden manuscript)
       type: miscgear
       system:
+        shortcode: antidoterecipes
         weight: 0.3
         value: 100
         durability: 3
     - name: Medical toolkit (lancets, herbs, bandages)
       type: miscgear
       system:
+        shortcode: medicaltoolkit
         weight: 1.2
         value: 100
         durability: 4
     - name: Mortar and pestle (bronze)
       type: miscgear
       system:
+        shortcode: mortarandpestle
         weight: 1.5
         value: 100
         durability: 3
     - name: Alchemist's measuring scale
       type: miscgear
       system:
+        shortcode: alchemistsmeasuring
         weight: 1.5
         value: 100
         durability: 3
-    - { shortcode: torch, type: miscgear, system: { quantity: 2 } }
-    - { shortcode: StdRtns, type: miscgear, system: { quantity: 2 } }
-    - { shortcode: bglgcvs, type: containergear }
-    - { shortcode: wtrskin, type: containergear }
+    - { model: sohl-sohl-miscgear-torch, system: { quantity: 2 } }
+    - { model: sohl-sohl-miscgear-stdrtns, system: { quantity: 2 } }
+    - { model: sohl-sohl-containergear-bglgcvs }
+    - { model: sohl-sohl-containergear-wtrskin }
   system:
     body:
       structure:
@@ -603,6 +609,8 @@ sohl:
 Harkhîs stands 5'8" tall with a medium build. He has light ruddy skin, gray hair, and green eyes. His features include an oblong face, a aquiline nose, a pointed chin, full lips, heavy brows. A distinguishing mark is a scar on the left calf.
 
 # Dossier {#dossier}
+
+## Background
 
 ### The Healer's Apprentice
 

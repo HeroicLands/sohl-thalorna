@@ -5,11 +5,11 @@ name:
   full: Screechbat
   aliases: []
 description: "A small, pack-coordinated cave predator with an eight-foot wingspan, weaponizing echolocation and sonic screeches to disorient prey before the kill."
-img: icons/game-icons/delapouite/bat.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 shortcode: scrchbt
 type: being
 data:
-  portrait: images/being/scrchbt-portrait.webp
+  portrait: images/beings/creatures/scrchbt-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: null
@@ -43,23 +43,22 @@ sohl:
     wil: 1d6+10
     rea: 1d4+9
     cre: 1d6+6
-  defaultCombatGroup: null
   items:
-    - { shortcode: str, type: attribute, system: { scoreBase: 10 } }
-    - { shortcode: end, type: attribute, system: { scoreBase: 12 } }
-    - { shortcode: dex, type: attribute, system: { scoreBase: 18 } }
-    - { shortcode: agl, type: attribute, system: { scoreBase: 20 } }
-    - { shortcode: per, type: attribute, system: { scoreBase: 16 } }
-    - { shortcode: aur, type: attribute, system: { scoreBase: 10 } }
-    - { shortcode: wil, type: attribute, system: { scoreBase: 14 } }
-    - { shortcode: rea, type: attribute, system: { scoreBase: 12 } }
-    - { shortcode: cre, type: attribute, system: { scoreBase: 10 } }
-    - { shortcode: awar, type: skill, system: { masteryLevelBase: 75 } }
-    - { shortcode: stlth, type: skill, system: { masteryLevelBase: 85 } }
-    - { shortcode: sprt, type: mysticalability, system: { masteryLevelBase: 36 } }
-    - { shortcode: init, type: skill, system: { masteryLevelBase: 52 } }
-    - { shortcode: dge, type: skill, system: { masteryLevelBase: 72 } }
-    - { shortcode: shok, type: skill, system: { masteryLevelBase: 28 } }
+    - { model: sohl-sohl-attribute-str, system: { scoreBase: 10 } }
+    - { model: sohl-sohl-attribute-end, system: { scoreBase: 12 } }
+    - { model: sohl-sohl-attribute-dex, system: { scoreBase: 18 } }
+    - { model: sohl-sohl-attribute-agl, system: { scoreBase: 20 } }
+    - { model: sohl-sohl-attribute-per, system: { scoreBase: 16 } }
+    - { model: sohl-sohl-attribute-aur, system: { scoreBase: 10 } }
+    - { model: sohl-sohl-attribute-wil, system: { scoreBase: 14 } }
+    - { model: sohl-sohl-attribute-rea, system: { scoreBase: 12 } }
+    - { model: sohl-sohl-attribute-cre, system: { scoreBase: 10 } }
+    - { model: sohl-sohl-skill-awar, system: { masteryLevelBase: 75 } }
+    - { model: sohl-sohl-skill-stlth, system: { masteryLevelBase: 85 } }
+    - { model: sohl-sohl-mysticalability-sprt, system: { masteryLevelBase: 36 } }
+    - { model: sohl-sohl-skill-init, system: { masteryLevelBase: 52 } }
+    - { model: sohl-sohl-skill-dge, system: { masteryLevelBase: 72 } }
+    - { model: sohl-sohl-skill-shok, system: { masteryLevelBase: 28 } }
     - name: Bite
       type: skill
       system:

@@ -5,11 +5,11 @@ name:
   full: Forest Troll
   aliases: []
 description: "A massive woodland apex predator born of primal earth-magic that moves through dense old-growth forest as easily as open ground."
-img: icons/game-icons/skoll/troll.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 shortcode: frsttrll
 type: being
 data:
-  portrait: images/being/frsttrll-portrait.webp
+  portrait: images/beings/creatures/frsttrll-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: null
@@ -43,23 +43,22 @@ sohl:
     wil: 1d4+10
     rea: 1d4+5
     cre: 1d4+5
-  defaultCombatGroup: null
   items:
-    - { shortcode: str, type: attribute, system: { scoreBase: 32 } }
-    - { shortcode: end, type: attribute, system: { scoreBase: 27 } }
-    - { shortcode: dex, type: attribute, system: { scoreBase: 9 } }
-    - { shortcode: agl, type: attribute, system: { scoreBase: 9 } }
-    - { shortcode: per, type: attribute, system: { scoreBase: 11 } }
-    - { shortcode: aur, type: attribute, system: { scoreBase: 12 } }
-    - { shortcode: wil, type: attribute, system: { scoreBase: 13 } }
-    - { shortcode: rea, type: attribute, system: { scoreBase: 8 } }
-    - { shortcode: cre, type: attribute, system: { scoreBase: 8 } }
-    - { shortcode: awar, type: skill, system: { masteryLevelBase: 60 } }
-    - { shortcode: stlth, type: skill, system: { masteryLevelBase: 55 } }
-    - { shortcode: sprt, type: mysticalability, system: { masteryLevelBase: 36 } }
-    - { shortcode: init, type: skill, system: { masteryLevelBase: 44 } }
-    - { shortcode: dge, type: skill, system: { masteryLevelBase: 40 } }
-    - { shortcode: shok, type: skill, system: { masteryLevelBase: 75 } }
+    - { model: sohl-sohl-attribute-str, system: { scoreBase: 32 } }
+    - { model: sohl-sohl-attribute-end, system: { scoreBase: 27 } }
+    - { model: sohl-sohl-attribute-dex, system: { scoreBase: 9 } }
+    - { model: sohl-sohl-attribute-agl, system: { scoreBase: 9 } }
+    - { model: sohl-sohl-attribute-per, system: { scoreBase: 11 } }
+    - { model: sohl-sohl-attribute-aur, system: { scoreBase: 12 } }
+    - { model: sohl-sohl-attribute-wil, system: { scoreBase: 13 } }
+    - { model: sohl-sohl-attribute-rea, system: { scoreBase: 8 } }
+    - { model: sohl-sohl-attribute-cre, system: { scoreBase: 8 } }
+    - { model: sohl-sohl-skill-awar, system: { masteryLevelBase: 60 } }
+    - { model: sohl-sohl-skill-stlth, system: { masteryLevelBase: 55 } }
+    - { model: sohl-sohl-mysticalability-sprt, system: { masteryLevelBase: 36 } }
+    - { model: sohl-sohl-skill-init, system: { masteryLevelBase: 44 } }
+    - { model: sohl-sohl-skill-dge, system: { masteryLevelBase: 40 } }
+    - { model: sohl-sohl-skill-shok, system: { masteryLevelBase: 75 } }
     - name: Mighty Blow
       type: skill
       system:

@@ -5,11 +5,11 @@ name:
   full: Flamewraith
   aliases: []
 description: "A volatile fire-spirit born from pyromancers consumed by their own infernos, drawn to flame and capable of devastating whole regions once unbound."
-img: icons/game-icons/lorc/spectre.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 shortcode: flmwrth
 type: being
 data:
-  portrait: images/being/flmwrth-portrait.webp
+  portrait: images/beings/creatures/flmwrth-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: null
@@ -43,23 +43,22 @@ sohl:
     wil: 1d4+10
     rea: 1d4+6
     cre: 1d4+8
-  defaultCombatGroup: null
   items:
-    - { shortcode: str, type: attribute, system: { scoreBase: 9 } }
-    - { shortcode: end, type: attribute, system: { scoreBase: 11 } }
-    - { shortcode: dex, type: attribute, system: { scoreBase: 15 } }
-    - { shortcode: agl, type: attribute, system: { scoreBase: 17 } }
-    - { shortcode: per, type: attribute, system: { scoreBase: 11 } }
-    - { shortcode: aur, type: attribute, system: { scoreBase: 15 } }
-    - { shortcode: wil, type: attribute, system: { scoreBase: 13 } }
-    - { shortcode: rea, type: attribute, system: { scoreBase: 9 } }
-    - { shortcode: cre, type: attribute, system: { scoreBase: 11 } }
-    - { shortcode: awar, type: skill, system: { masteryLevelBase: 60 } }
-    - { shortcode: stlth, type: skill, system: { masteryLevelBase: 75 } }
-    - { shortcode: sprt, type: mysticalability, system: { masteryLevelBase: 42 } }
-    - { shortcode: init, type: skill, system: { masteryLevelBase: 44 } }
-    - { shortcode: dge, type: skill, system: { masteryLevelBase: 56 } }
-    - { shortcode: shok, type: skill, system: { masteryLevelBase: 25 } }
+    - { model: sohl-sohl-attribute-str, system: { scoreBase: 9 } }
+    - { model: sohl-sohl-attribute-end, system: { scoreBase: 11 } }
+    - { model: sohl-sohl-attribute-dex, system: { scoreBase: 15 } }
+    - { model: sohl-sohl-attribute-agl, system: { scoreBase: 17 } }
+    - { model: sohl-sohl-attribute-per, system: { scoreBase: 11 } }
+    - { model: sohl-sohl-attribute-aur, system: { scoreBase: 15 } }
+    - { model: sohl-sohl-attribute-wil, system: { scoreBase: 13 } }
+    - { model: sohl-sohl-attribute-rea, system: { scoreBase: 9 } }
+    - { model: sohl-sohl-attribute-cre, system: { scoreBase: 11 } }
+    - { model: sohl-sohl-skill-awar, system: { masteryLevelBase: 60 } }
+    - { model: sohl-sohl-skill-stlth, system: { masteryLevelBase: 75 } }
+    - { model: sohl-sohl-mysticalability-sprt, system: { masteryLevelBase: 42 } }
+    - { model: sohl-sohl-skill-init, system: { masteryLevelBase: 44 } }
+    - { model: sohl-sohl-skill-dge, system: { masteryLevelBase: 56 } }
+    - { model: sohl-sohl-skill-shok, system: { masteryLevelBase: 25 } }
     - name: Incendiary Touch
       type: skill
       system:
@@ -678,35 +677,3 @@ Flamewraiths are profoundly weakened by cold and water. A sufficiently large bod
 - **Reasoning:** 7-10 (1d4+6)
 
 - **Creativity:** 9-12 (1d4+8)
-
-## Lineage Notes
-
-_The following notes are inherited from the original lineage description._
-
-Before you materializes a dancer of flame—a form that is less body than burning intention. The air warps and shimmers, bending light into distorted waves where the figure stands. Six feet tall and composed entirely of roiling fire, its edges blur and reform constantly, never quite settling into shape.
-
-## Description
-
-The flamewraith is a humanoid figure roughly six feet tall, composed entirely of roiling fire, with edges that blur and reform constantly. It possesses bioluminescent eyes burning with sickly luminescence and an aura of wrongness that warps the air around it.
-
-## Key Behaviors
-
-Flamewraiths are driven by compulsive hunger for fuel and the need to consume. They do not sleep but either rage across the landscape or fall into stupor near their binding object. When undisturbed, they may remain in single places for weeks, slowly expanding a perimeter of scorched earth.
-
-## Relations
-
-Flamewraiths are universally feared and hunted. A flamewraith escaped from its binding becomes a direct threat to entire regions. Some deeply desperate communities have negotiated with bound flamewraiths, but such arrangements are viewed with moral ambiguity.
-
-## Special Abilities
-
-### Incorporeal Form
-
-Flamewraiths radiate intense heat, move through the air with liquid grace, and are resistant to physical weapon strikes through their incorporeal form.
-
-### Binding Anchor
-
-Flamewraiths are tied to binding objects and cannot be permanently destroyed while those objects remain intact.
-
-### Environmental Alteration
-
-Flamewraiths raise the ambient temperature around them, causing burns from a distance and igniting flammable materials in their presence.

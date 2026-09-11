@@ -6,7 +6,7 @@ name:
     - Nyáluban
     - Nyaluban
 description: "The Nyáluban oral speech, whose keepers carry messages across miles by drum and pitch as readily as by voice."
-img: icons/speaking.svg
+img: systems/sohl/assets/icons/other/speaking.svg
 shortcode: nyalbnlng
 type: skill
 subType: language
@@ -25,7 +25,7 @@ flags:
     lang_family: Nyáluban (isolate)
 ---
 
-Nyáluban is a tongue of the Nyáluban (isolate) family. Fluency measures the sophistication of expression in Nyáluban, from the halting phrases of a traveler to the nuanced and learned discourse of a native speaker. As with all specific languages, this skill inherits its mechanics from the general [[skill-lang|Language]] skill.
+Nyáluban is a tongue of the Nyáluban (isolate) family. Fluency measures the sophistication of expression in Nyáluban, from the halting phrases of a traveler to the nuanced and learned discourse of a native speaker. As with all specific languages, this skill inherits its mechanics from the general [[sohl-none-docskill-lang|Language]] skill.
 
 ## Overview
 

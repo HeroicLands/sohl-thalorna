@@ -14,82 +14,64 @@ data:
   governance:
     model: theocracy
     summary: >-
-      Ordained priesthood under a hierarch, with the lay faithful bound by observance rather
-      than by office.
+      An archive-cult: each ordained priest holds authority over a particular archive and guides the training of younger scholars in it. Many acolytes never seek ordination and take secular careers as scribes, administrators and scholars instead, which has produced a vast network of educated people across Ta'Kheperu all owing some allegiance to the priesthood.
     ranks:
       - level: 0
-        title: Excommunicate
+        title: Rite-Denied
         lore: excmmnctrnk
         description: >-
-          Cut off from the rites, the temples and the burial the tradition promises — the one
-          sentence it can pass that outlives the body.
+          Barred from the temple rites, and with them from the funerary rites every Kheperi eventually requires — a sentence that reaches past the end of the life it is passed in.
       - level: 1
-        title: Catechumen
-        lore: catechumenrnk
-        description: Under instruction and not yet received; permitted to hear and not to partake.
-      - level: 2
         title: Lay Faithful
         lore: layfaithfulrnk
         description: >-
-          Of the tradition by profession and observance, keeping its feasts and its prohibitions
-          without office in it.
-      - level: 3
-        title: Devotee
-        lore: layfaithfulrnk
-        description: >-
-          Bound by a private vow — a fast, a pilgrimage, a service — beyond what the lay faithful
-          owe.
-      - level: 4
-        title: Acolyte
+          Keeps the observances and brings offerings without holding office in any temple.
+      - level: 2
+        title: Wab
         lore: initiaternk
         description: >-
-          Serving in the temple and learning its rites, on the path to ordination and not yet
-          holding it.
-      - level: 5
-        title: Ordained
+          "Purified One" — acolytes in study, many of whom never advance to full priesthood but take secular careers as scribes, administrators or scholars while keeping their connection through continued study and pilgrimage.
+      - level: 3
+        title: Hem'Netjer
         lore: priestrnk
         description: >-
-          Priest or priestess of the tradition, empowered to perform the rites and to bind and
-          loose in its name.
-      - level: 6
-        title: Temple Officer
+          "Servant of the God" — ordained priests of knowledge, each overseeing a specific domain and holding authority over its archive: the astronomical tables, the medical texts, the architectural plans, and so on.
+      - level: 4
+        title: Wer'Hekau
         lore: highpriestrnk
-        description: Holding a charge within a temple — its treasury, its schools, its estates,
-          its oracles.
-      - level: 7
-        title: High Priest
-        lore: highpriestrnk
-        description: Head of a temple or a cult, speaking with the voice of the god in matters
-          of its doctrine.
-      - level: 8
-        title: Hierophant
-        lore: grandmasterrnk
         description: >-
-          Head of the whole tradition, whose ruling on doctrine is final and whose sanction
-          every high priest holds at.
+          "Great of Sacred Power" — High Priest or High Priestess of Thōth, at the head of the temples that hold the archives.
     offices:
-      Hierophant: >-
-        Head of the tradition, final authority on its doctrine and source of every high priest's
-        sanction.
-      High Priest: Head of a temple or cult, master of its estates and voice of its god on
-        doctrine.
-      Oracle: Speaker of the god's answer, consulted before any undertaking the tradition
-        must bless.
-      Temple Steward: Administrator of a temple's lands, herds, workshops and revenue.
-      Sacristan: Keeper of the sanctuary, its vessels, its vestments and the purity of both.
-      Almoner: Distributor of the temple's charity, and the face the tradition shows the poor.
-      Lector: Reader of the sacred texts in the rites, and teacher of them to acolytes.
-      Exorcist: >-
-        Charged with what the tradition holds should not be present, and with the rites that
-        remove it.
-      Chief Augur: Reader of the signs by which the tradition fixes the hour of its acts.
-      Keeper of the Calendar: Holder of the feast-reckoning, and thereby of when the year's
-        obligations fall due.
-  commonSkills: []
-  seat: null
+      Keeper of the Astronomical Tables: >-
+        The Hem'Netjer holding that archive and training its younger scholars.
+      Keeper of the Medical Texts: >-
+        The Hem'Netjer holding that archive and training its younger scholars.
+      Keeper of the Architectural Plans: >-
+        The Hem'Netjer holding that archive and training its younger scholars.
+      Recorder of the Chaos God: >-
+        Thōth's scribes record everything bearing on the understanding of Ápōphis, knowledge being held the strongest defence against chaos.
+      Keeper of the King-Lists: >-
+        Holds the temple chronologies — the meticulously maintained list of every dynasty and Per-Aá since
+        the Sep Tepy, unbroken. Master copies are kept in Thōth's precinct adjoining the Great Temple of Rā.
+        Western scholars note improbable reigns and suspiciously neat numbers in the earliest dynasties; the
+        Kheperi are serenely unconcerned, the lists having been compiled by the priesthood of the god of
+        sacred knowledge.
+      Master of the Calendar-Service: >-
+        Keeps the realm's time from the observatory at Khemenu, whose astronomers maintain the three-season
+        year of Akhet, Peret and Shemu — the most accurate calendar in the known world.
+      Warden of the Library-Temple: >-
+        Holds the deepest archive in the empire and controls admission to it. Helionite scholars are among
+        the very few foreigners ever admitted.
+  commonSkills:
+    - thoth
+    - khprsshscrpt
+    - math
+    - pysn
+  seat: khemenu
   domains: []
   population: null
-  economy: []
+  economy:
+    - affiliation-perhati
   lore:
     - thothdty
   parents:
@@ -106,6 +88,7 @@ name:
     - Thaut
     - The Scribe of the Eternal Library
 shortcode: thoth
+img: icons/takheperu/pantheon/thoth.svg
 banner: banners/ta-kheperu-banner.webp
 packFolder: pantheonskemetian
 ---

@@ -3,7 +3,7 @@ tags: []
 name:
   full: Medium
   aliases: []
-img: icons/psionics.svg
+img: systems/sohl/assets/icons/noun/psionics.svg
 shortcode: medm
 type: mysticalability
 subType: arcanetalent

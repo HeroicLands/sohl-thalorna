@@ -155,7 +155,8 @@ data:
   seat: dunmere
   domains:
     - aldorathrgn
-  population: 120000
+    - aelwyth
+  population: 200000
   economy:
     - lore-vylrncrncy
     - affiliation-clgmrgntrrm
@@ -189,7 +190,7 @@ The [[lore-flksinale|Sinalë]] enclaves in the southern forests maintain an anci
 
 ## Relations
 
-Aldorath's relationship with [[affiliation-kingdmdnvr|Dúnavarre]] is competitive — the two realms have long vied for influence over the island's interior. Where Dúnavarre looks outward to the mainland and the wider world, Aldorath looks inward to the lake, the forests, and the ancient mysteries of the island itself. Relations with the [[affiliation-repblctrvn|Republic of Tarvenne]] to the southwest are generally cordial but distant; the republic's pragmatic civic culture has little patience for Aldorathian mysticism. The [[affiliation-jrldmstrmvld|Normen of Stormveld]] to the northeast are a persistent concern — raiding parties from the fjords have troubled Aldorath's northern borders for generations, and the [[lore-flkkhazar|Khazári]] holds in the mountains between the two polities are a source of tension, as both claim the ranges as their frontier.
+Aldorath's relationship with [[affiliation-kingdmdnvr|Dúnavarre]] is competitive — the two realms have long vied for influence over the island's interior. Where Dúnavarre looks outward to the mainland and the wider world, Aldorath looks inward to the lake, the forests, and the ancient mysteries of the island itself. Relations with the [[affiliation-repblctrvn|Republic of Tarvenne]] to the southwest are generally cordial but distant; the republic's pragmatic civic culture has little patience for Aldorathian mysticism. The [[affiliation-jrldmstrmvld|Nordmen of Stormveld]] to the northeast are a persistent concern — raiding parties from the fjords have troubled Aldorath's northern borders for generations, and the [[lore-flkkhazar|Khazári]] holds in the mountains between the two polities are a source of tension, as both claim the ranges as their frontier.
 
 ## Commerce and Currency
 
@@ -202,3 +203,23 @@ Kingdom of Aldorath uses the [[lore-vylrncrncy|Vylarian currency]] (Aurion / Arg
 - [[affiliation-repblctrvn|Republic of Tarvenne]] — Southwestern republic
 - [[lore-flksinale|Sinalë]] — Elder race with southern forest enclaves
 - [[affiliation-arldnpnthn|Aurèldían]] — State pantheon
+
+## Population and Society
+
+Aldorath holds about **200,000** people, making it much the largest of Aelwyth's settled realms — half
+again the size of the Jarldom and nearly three times [[affiliation-kingdmdnvr|Dúnavarre]], a fact its
+lords mention rather more often than their neighbours enjoy.
+
+Its society is the most straightforwardly feudal on the island. **Four in five Aldorathi are serfs or
+peasants on manorial estates**, bound to the land and to a lord, working demesne and holding strips in
+the usual way; above them sit a landed aristocracy with real hereditary claims, a modest clergy and a
+thin merchant class. There is no equivalent of Dúnavarre's Synod-appointed stewardship, and no
+equivalent of Tarvenne's civic politics.
+
+**[[place-dunmere|Dunmere]]**, the seat, holds about **20,000** — the only place in the kingdom that is
+a city rather than a market town, and the only one where anyone lives who is not directly answerable to
+a manor.
+
+The arrangement makes Aldorath populous, agriculturally productive, militarily formidable on its own
+ground, and slow: everything the crown wishes to do must pass through lords whose interests are their
+estates. Dúnavarre's mages find this contemptible and have never been able to exploit it.

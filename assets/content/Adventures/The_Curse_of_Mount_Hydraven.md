@@ -21,7 +21,7 @@ packFolder: adventures
 
 # The Curse of Mount Hýdraven
 
-[[Mount Hýdraven]], a peak in the Provenzian highlands, has become a place of dread. Travelers vanish, livestock sicken, and villages at its base report terrible dreams and ill fortune. The party must investigate the curse and uncover its source.
+Mount Hýdraven, a peak in the Provenzian highlands, has become a place of dread. Travelers vanish, livestock sicken, and villages at its base report terrible dreams and ill fortune. The party must investigate the curse and uncover its source.
 
 ## Overview
 

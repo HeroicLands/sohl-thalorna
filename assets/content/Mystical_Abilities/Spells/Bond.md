@@ -5,7 +5,7 @@ name:
   aliases:
     - Link
 description: "Establishes permanent mystical link between caster and willing partner."
-img: icons/divination.svg
+img: systems/sohl/assets/icons/noun/divination.svg
 shortcode: bond
 type: mysticalability
 subType: arcaneincantation

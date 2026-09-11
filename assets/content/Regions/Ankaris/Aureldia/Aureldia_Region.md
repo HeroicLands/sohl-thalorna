@@ -40,7 +40,7 @@ Climate varies correspondingly: cool and rain-washed in the north and west, temp
 TABLE WITHOUT ID
     link(file.path, name.full) AS "Polity",
     description AS "Overview"
-WHERE category = "polity" and contains(parent.regions, "aureldia-region")
+WHERE type = "affiliation" and subType = "polity" and contains(data.domains, "aureldirgn")
 SORT name.full ASC
 ```
 
@@ -50,7 +50,7 @@ Aurèldía's people are overwhelmingly human, but they are far from homogeneous.
 
 The **Aelwythan** of the Misty Isle are marked in their culture by deep legend, druidic survival, and the thin veil between the mortal world and the numinous. The **Élavendri** and **Áelendan** of Élavendre share a common Pelwar ancestry — the Élavendri cultivated and courtly, the Áelendan tribal and forest-dwelling — and both are unusually magically attuned. The **Tarvénan** peoples of the southern peninsula live in a patchwork of feudal kingdoms — [[affiliation-kingdmtrvn|Tarvena]], [[affiliation-kingdmlnrk|Leonrik]], [[affiliation-kngdmglvrn|Galvaren]], and [[affiliation-kngdmstrth|Asturath]] — with [[affiliation-frctyvlthr|Free City of Valthári]] and [[affiliation-frtrtryskrth|Free Territory of Eskárath]] as independent merchant enclaves between them. The **Provenzians** of the southern coast are artists, poets, vintners, and philosophers, their city-culture more southern-coastal than ocean-facing. And the **Calypsi** of Calypsa are merchant-oligarchs whose seafaring houses carry Aurèldían goods across most of Thalorna's known waters.
 
-Minority peoples include [[Grukari|Grukar]] living in highland enclaves and seasonal trading posts, and — vanishingly rare, but not entirely absent — the elder races: [[lore-flksinale|Sinalë]] who sometimes walk through Élavendre's oldest forests, and [[lore-flkkhazar|Khazári]] whose scattered halls endure in the deepest reaches of the mountains.
+Minority peoples include [[lore-grukarfolk|Grukar]] living in highland enclaves and seasonal trading posts, and — vanishingly rare, but not entirely absent — the elder races: [[lore-flksinale|Sinalë]] who sometimes walk through Élavendre's oldest forests, and [[lore-flkkhazar|Khazári]] whose scattered halls endure in the deepest reaches of the mountains.
 
 Despite the diversity, Aurèldían high culture shares certain hallmarks: chivalric and courtly ideals; a tradition of bardic and scholastic learning epitomized by Élavendre's [[affiliation-bardicolgs|The Bardic Colleges]]; reverence for the land as a living participant in human affairs; and a deep preference for sovereignty at the polity level. No emperor has ever ruled Aurèldía. No Aurèldían expects one to.
 
@@ -60,9 +60,9 @@ Aurèldía takes its name from the [[affiliation-arldnpnthn|Aurèldían Pantheon
 
 The faith extends well beyond Aurèldían borders — it is worshipped in [[affiliation-vylarinmpr|Vylaria]], [[affiliation-cnfdrtnhrdnstts|Harad]], [[place-helionis|Heliónis]], [[affiliation-byzarianlg|Byzaría]], and elsewhere across the [[place-midhalnrgn|Mídhalión]] basin — but Aurèldía is the cradle and the heartland. The great pilgrim-routes, the oldest shrines, the most influential scholars of the Twelve, and the highest concentration of clergy all lie in Aurèldían lands. A priest educated in Élavendre or a scholar trained in Provènzia carries authority anywhere the Twelve are honored.
 
-The [[The_Vulcani_Schism|Vúlcani Schism]] is the faith's great fracture. Five centuries ago the clergy of Vúlcan divided over whether the Forge-Lord's true nature was creative or destructive. [[affiliation-sacredforge|The Sacred Forge]] — Vúlcan as craftsman, protector, and illuminator — became the mainstream Aurèldían faith. [[affiliation-blackflame|The Black Flame]] — Vúlcan as purifier-through-destruction, fire as weapon and instrument of domination — was suppressed across most kingdoms but survives in hidden orders and secretive shrines. The enmity between the two has shaped Aurèldían politics for generations, and accusations of Black Flame sympathies remain a potent political weapon.
+The Vúlcani Schism is the faith's great fracture. Five centuries ago the clergy of Vúlcan divided over whether the Forge-Lord's true nature was creative or destructive. [[affiliation-sacredforge|The Sacred Forge]] — Vúlcan as craftsman, protector, and illuminator — became the mainstream Aurèldían faith. [[affiliation-blackflame|The Black Flame]] — Vúlcan as purifier-through-destruction, fire as weapon and instrument of domination — was suppressed across most kingdoms but survives in hidden orders and secretive shrines. The enmity between the two has shaped Aurèldían politics for generations, and accusations of Black Flame sympathies remain a potent political weapon.
 
-[[place-aelwyth|Aelwyth]] is the great partial exception to the Aurèldían religious pattern. Centuries of Normen settlement have woven the [[affiliation-asguardian|Asguardian]] gods into the island's religious life, and many Aelwythans revere both pantheons — an uneasy syncretism that the mainland Aurèldían clergy view with curiosity, tolerance, or alarm depending on the decade.
+[[place-aelwyth|Aelwyth]] is the great partial exception to the Aurèldían religious pattern. Centuries of Nordmen settlement have woven the [[affiliation-asguardian|Asguardian]] gods into the island's religious life, and many Aelwythans revere both pantheons — an uneasy syncretism that the mainland Aurèldían clergy view with curiosity, tolerance, or alarm depending on the decade.
 
 ## Politics and Power
 
@@ -86,7 +86,7 @@ The region exports wine, tapestries, illuminated manuscripts, Élavendri silverw
 
 ## Relations with Neighboring Regions
 
-To the **north**, the [[place-nrdlndsrgn|Nordlands]] press against Aurèldía across a long, forested frontier. Contact is simultaneously commercial (Normen amber and furs for Aurèldían wine and steel), religious (uneasy coexistence of the Twelve and the Asguardian gods), and martial (periodic Normen raids along the coast, especially into northern Aelwyth and Élavendre). The Aelwythan religious syncretism is the clearest expression of the long relationship.
+To the **north**, the [[place-nrdlndsrgn|Nordlands]] press against Aurèldía across a long, forested frontier. Contact is simultaneously commercial (Nordmen amber and furs for Aurèldían wine and steel), religious (uneasy coexistence of the Twelve and the Asguardian gods), and martial (periodic Nordmen raids along the coast, especially into northern Aelwyth and Élavendre). The Aelwythan religious syncretism is the clearest expression of the long relationship.
 
 To the **southeast**, [[place-midhalnrgn|Mídhalión]] is at once Aurèldía's great trading partner and its great cultural rival. The two regions share the Aurèldían faith but diverge sharply on everything else — governance, aesthetics, law, and the nature of empire. [[place-provenzrgn|Provènzia Region]] and [[place-tarvenirgn|Tarvénia Region]] straddle the boundary between the two regions culturally and, in Provènzia's case, formally: Provènzia belongs to both Aurèldía and Mídhalión, the living seam between them.
 
@@ -94,7 +94,7 @@ To the **east**, beyond the [[place-drenavrspn|The Drenavar Spine]], lie the int
 
 ## Reckoning
 
-Aurèldía uses the **Common Calendar** — the AF/BF system established by the [[affiliation-vylarinmpr|Vylarian Empire]] after its founding, now universally adopted across the region. See [[affiliation-vylarinmpr#The Common Calendar|the Vylarian Empire's Common Calendar]] for the full reckoning.
+Aurèldía uses the **Common Calendar** — the AF/BF system established by the [[affiliation-vylarinmpr|Vylarian Empire]] after its founding, now universally adopted across the region. See [[affiliation-vylarinmpr#the-common-calendar|the Vylarian Empire's Common Calendar]] for the full reckoning.
 
 ## See Also
 

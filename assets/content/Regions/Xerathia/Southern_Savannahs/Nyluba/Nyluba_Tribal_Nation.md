@@ -188,7 +188,7 @@ The Nyáluba practice the [[affiliation-nyalbpnthn|totemic faith]] of the southe
 
 Each of the five clans maintains its own primary totem (the lion of the Mvuzi, the crocodile of the Kambezi, the eagle of the Ngonzi, the leopard of the Sengala, the baobab of the Bombwe) and its own subordinate totems, ancestor-shrines, and land-spirit relationships. The clans recognize each other's totems as legitimate kinsmen of their own clan-spirits, and inter-clan ceremonies — at the Indaba, at the cattle-circulations, at the great seasonal markets — formally acknowledge all five primary totems together.
 
-For the full description of the totemic system, the spirits, and the religious specialists, see [[affiliation-nyalbpnthn|Nyáluba Pantheon]] and [[affiliation-nyalbsprts|Nyáluba Spirits]].
+For the full description of the totemic system, the spirits, and the religious specialists, see [[affiliation-nyalbpnthn|Nyáluba Pantheon]] and [[lore-nyalbsprts|Nyáluba Spirits]].
 
 ## Economy
 
@@ -240,7 +240,7 @@ Nyáluba Tribal Nation operates almost entirely on [[lore-bartercnmy|barter]] an
 
 - [[place-sthrnsvnhs|Southern Savannahs]] — parent region
 - [[affiliation-nyalbpnthn|Nyáluba Pantheon]] — the totemic faith
-- [[affiliation-nyalbsprts|Nyáluba Spirits]] — the spirits venerated, appeased, and warded against
+- [[lore-nyalbsprts|Nyáluba Spirits]] — the spirits venerated, appeased, and warded against
 - [[skill-nyalbnlng|Nyáluban Language]] — the Nyáluban tongue and the drum-language
 - [[place-cntrlrnfrsts|Central Rainforests]] — northern neighbors and trade-intermediaries
 - [[place-nrthrnfrtlrgn|Northern Fertile Region]] — distant civilizations known only by rumor

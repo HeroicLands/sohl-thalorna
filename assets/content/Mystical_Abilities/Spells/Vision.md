@@ -5,7 +5,7 @@ name:
   aliases:
     - Sight
 description: "Grants distant sight; sees location far away remotely."
-img: icons/anvil.svg
+img: systems/sohl/assets/icons/game-icons/badges/anvil.svg
 shortcode: vision
 type: mysticalability
 subType: arcaneincantation

@@ -5,11 +5,11 @@ name:
   full: Giant Hedgehog
   aliases: []
 description: "A bulky, six-foot nocturnal forager armored in razor-sharp quills, rooting through leaf litter for grubs and roots but perilous to touch."
-img: icons/game-icons/caro-asercion/hedgehog.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 shortcode: gnthdghg
 type: being
 data:
-  portrait: images/being/gnthdghg-portrait.webp
+  portrait: images/beings/creatures/gnthdghg-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: null
@@ -43,23 +43,22 @@ sohl:
     wil: 1d6+8
     rea: 1d4+4
     cre: 1d4+3
-  defaultCombatGroup: null
   items:
-    - { shortcode: str, type: attribute, system: { scoreBase: 11 } }
-    - { shortcode: end, type: attribute, system: { scoreBase: 13 } }
-    - { shortcode: dex, type: attribute, system: { scoreBase: 12 } }
-    - { shortcode: agl, type: attribute, system: { scoreBase: 10 } }
-    - { shortcode: per, type: attribute, system: { scoreBase: 13 } }
-    - { shortcode: aur, type: attribute, system: { scoreBase: 9 } }
-    - { shortcode: wil, type: attribute, system: { scoreBase: 12 } }
-    - { shortcode: rea, type: attribute, system: { scoreBase: 7 } }
-    - { shortcode: cre, type: attribute, system: { scoreBase: 6 } }
-    - { shortcode: awar, type: skill, system: { masteryLevelBase: 65 } }
-    - { shortcode: stlth, type: skill, system: { masteryLevelBase: 55 } }
-    - { shortcode: sprt, type: mysticalability, system: { masteryLevelBase: 30 } }
-    - { shortcode: init, type: skill, system: { masteryLevelBase: 40 } }
-    - { shortcode: dge, type: skill, system: { masteryLevelBase: 44 } }
-    - { shortcode: shok, type: skill, system: { masteryLevelBase: 30 } }
+    - { model: sohl-sohl-attribute-str, system: { scoreBase: 11 } }
+    - { model: sohl-sohl-attribute-end, system: { scoreBase: 13 } }
+    - { model: sohl-sohl-attribute-dex, system: { scoreBase: 12 } }
+    - { model: sohl-sohl-attribute-agl, system: { scoreBase: 10 } }
+    - { model: sohl-sohl-attribute-per, system: { scoreBase: 13 } }
+    - { model: sohl-sohl-attribute-aur, system: { scoreBase: 9 } }
+    - { model: sohl-sohl-attribute-wil, system: { scoreBase: 12 } }
+    - { model: sohl-sohl-attribute-rea, system: { scoreBase: 7 } }
+    - { model: sohl-sohl-attribute-cre, system: { scoreBase: 6 } }
+    - { model: sohl-sohl-skill-awar, system: { masteryLevelBase: 65 } }
+    - { model: sohl-sohl-skill-stlth, system: { masteryLevelBase: 55 } }
+    - { model: sohl-sohl-mysticalability-sprt, system: { masteryLevelBase: 30 } }
+    - { model: sohl-sohl-skill-init, system: { masteryLevelBase: 40 } }
+    - { model: sohl-sohl-skill-dge, system: { masteryLevelBase: 44 } }
+    - { model: sohl-sohl-skill-shok, system: { masteryLevelBase: 30 } }
     - name: Quill Volley
       type: skill
       system:

@@ -95,7 +95,7 @@ sohl:
 _Dunhari: Tîgh'Bahârân — "Circle of the Mighty"_
 
 - **Type:** Pan-tribal warrior council
-- **Region:** [[Dunhara_Tribes_Region|The Dunhara Tribes]] — convening at the Stone of Ranâz, the ancient hill-shrine at the confluence of three tribal territories
+- **Region:** [[place-dunhardsrtrgn|The Dunhara Tribes]] — convening at the Stone of Ranâz, the ancient hill-shrine at the confluence of three tribal territories
 - **Convenes:** Four times annually, at the season-turns; emergency callings rare and treated with great solemnity
 
 ## Overview

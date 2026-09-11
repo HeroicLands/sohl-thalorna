@@ -12,7 +12,7 @@ name:
   aliases: []
 packFolder: dunharatribes
 shortcode: delnshfrdn
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
   portrait: images/being/delnshfrdn-portrait.webp
@@ -43,29 +43,29 @@ data:
 sohl:
   templatePriority: null
   items:
-    - { shortcode: agl, type: attribute, system: { scoreBase: 14 } }
-    - { shortcode: aur, type: attribute, system: { scoreBase: 11 } }
-    - { shortcode: cml, type: attribute, system: { scoreBase: 11 } }
-    - { shortcode: cre, type: attribute, system: { scoreBase: 8 } }
-    - { shortcode: dex, type: attribute, system: { scoreBase: 13 } }
-    - { shortcode: elo, type: attribute, system: { scoreBase: 11 } }
-    - { shortcode: emp, type: attribute, system: { scoreBase: 12 } }
-    - { shortcode: end, type: attribute, system: { scoreBase: 13 } }
-    - { shortcode: mor, type: attribute, system: { scoreBase: 12 } }
-    - { shortcode: per, type: attribute, system: { scoreBase: 10 } }
-    - { shortcode: rea, type: attribute, system: { scoreBase: 12 } }
-    - { shortcode: str, type: attribute, system: { scoreBase: 12 } }
-    - { shortcode: voi, type: attribute, system: { scoreBase: 11 } }
-    - { shortcode: wil, type: attribute, system: { scoreBase: 14 } }
-    - { shortcode: mithara, type: affiliation }
-    - { shortcode: awar, type: skill, system: { masteryLevelBase: 38 } }
-    - { shortcode: cmd, type: skill, system: { masteryLevelBase: 33 } }
-    - { shortcode: dge, type: skill, system: { masteryLevelBase: 25 } }
-    - { shortcode: init, type: skill, system: { masteryLevelBase: 50 } }
-    - { shortcode: melee, type: skill, system: { masteryLevelBase: 52 } }
-    - { shortcode: ridg, type: skill, system: { masteryLevelBase: 31 } }
-    - { shortcode: shok, type: skill, system: { masteryLevelBase: 34 } }
-    - { shortcode: swim, type: skill, system: { masteryLevelBase: 25 } }
+    - { model: sohl-sohl-attribute-agl, system: { scoreBase: 14 } }
+    - { model: sohl-sohl-attribute-aur, system: { scoreBase: 11 } }
+    - { model: sohl-sohl-attribute-cml, system: { scoreBase: 11 } }
+    - { model: sohl-sohl-attribute-cre, system: { scoreBase: 8 } }
+    - { model: sohl-sohl-attribute-dex, system: { scoreBase: 13 } }
+    - { model: sohl-sohl-attribute-elo, system: { scoreBase: 11 } }
+    - { model: sohl-sohl-attribute-emp, system: { scoreBase: 12 } }
+    - { model: sohl-sohl-attribute-end, system: { scoreBase: 13 } }
+    - { model: sohl-sohl-attribute-mor, system: { scoreBase: 12 } }
+    - { model: sohl-sohl-attribute-per, system: { scoreBase: 10 } }
+    - { model: sohl-sohl-attribute-rea, system: { scoreBase: 12 } }
+    - { model: sohl-sohl-attribute-str, system: { scoreBase: 12 } }
+    - { model: sohl-sohl-attribute-voi, system: { scoreBase: 11 } }
+    - { model: sohl-sohl-attribute-wil, system: { scoreBase: 14 } }
+    - { model: affiliation-mithara }
+    - { model: sohl-sohl-skill-awar, system: { masteryLevelBase: 38 } }
+    - { model: sohl-sohl-skill-cmd, system: { masteryLevelBase: 33 } }
+    - { model: sohl-sohl-skill-dge, system: { masteryLevelBase: 25 } }
+    - { model: sohl-sohl-skill-init, system: { masteryLevelBase: 50 } }
+    - { model: sohl-sohl-skill-melee, system: { masteryLevelBase: 52 } }
+    - { model: sohl-sohl-skill-ridg, system: { masteryLevelBase: 31 } }
+    - { model: sohl-sohl-skill-shok, system: { masteryLevelBase: 34 } }
+    - { model: sohl-sohl-skill-swim, system: { masteryLevelBase: 25 } }
   system:
     body:
       structure:

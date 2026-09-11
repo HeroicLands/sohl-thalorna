@@ -5,7 +5,7 @@ name:
   aliases:
     - Helónika
 description: "The Helonic letters — the eastern alphabet of philosophy, theater and the ledger, carried by three tongues and every harbor between them."
-img: icons/speaking.svg
+img: systems/sohl/assets/icons/other/speaking.svg
 shortcode: helnkscrpt
 type: skill
 subType: script
@@ -26,7 +26,7 @@ flags:
 
 The Helónika is the alphabet of Heliónis and the eastern half of the civilized world — twenty-four letters, seven of them vowels, each with a majuscule and a minuscule form, written left to right with spaces between words and a raised dot at the end of a sentence. It is the older of the two great alphabets: the [[skill-semrnscrpt|Sêmarion]] took its habit of writing vowels as letters rather than as points from Helonic practice, and Vylarian scholars, who dislike admitting it, still cite Helonic works in the original.
 
-It is a script, not a tongue. A character needs **both** the Helónika and the relevant [[skill-lang|Language]] to read anything set in it, and it carries at least three that are not mutually intelligible.
+It is a script, not a tongue. A character needs **both** the Helónika and the relevant [[sohl-none-docskill-lang|Language]] to read anything set in it, and it carries at least three that are not mutually intelligible.
 
 ## What it carries
 

@@ -4,7 +4,7 @@ name:
   full: Meteor Dart
   aliases: []
 description: "Rope-spiked dart for ranged pierce and entangle; cavalry raider's disruptor."
-img: icons/flail.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/flail.svg
 shortcode: Biao
 type: weapongear
 sohl:

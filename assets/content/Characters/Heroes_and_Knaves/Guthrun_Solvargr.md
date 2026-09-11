@@ -7,14 +7,14 @@ name:
   title: ""
   given: Guthrún
   clan: Sólvargr
-  home: Greyfjord
+  home: greyfjord
   aliases: []
 packFolder: ankarisnordlands
 shortcode: gthrnslvrgr
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/gthrnslvrgr-portrait.webp
+  portrait: images/beings/characters/gthrnslvrgr-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Trapper
@@ -42,91 +42,96 @@ data:
 sohl:
   templatePriority: null
   items:
-    - { shortcode: str, type: attribute, system: { scoreBase: 12 } }
-    - { shortcode: end, type: attribute, system: { scoreBase: 14 } }
-    - { shortcode: dex, type: attribute, system: { scoreBase: 15 } }
-    - { shortcode: agl, type: attribute, system: { scoreBase: 14 } }
-    - { shortcode: per, type: attribute, system: { scoreBase: 17 } }
-    - { shortcode: cml, type: attribute, system: { scoreBase: 11 } }
-    - { shortcode: aur, type: attribute, system: { scoreBase: 12 } }
-    - { shortcode: wil, type: attribute, system: { scoreBase: 12 } }
-    - { shortcode: rea, type: attribute, system: { scoreBase: 13 } }
-    - { shortcode: cre, type: attribute, system: { scoreBase: 14 } }
-    - { shortcode: emp, type: attribute, system: { scoreBase: 15 } }
-    - { shortcode: elo, type: attribute, system: { scoreBase: 10 } }
-    - { shortcode: mor, type: attribute, system: { scoreBase: 14 } }
-    - { shortcode: voi, type: attribute, system: { scoreBase: 13 } }
-    - { shortcode: freyr, type: affiliation }
-    - { shortcode: brew, type: skill, system: { masteryLevelBase: 15 } }
-    - { shortcode: cook, type: skill, system: { masteryLevelBase: 30 } }
-    - { shortcode: folklr, type: skill, system: { masteryLevelBase: 13 } }
-    - { shortcode: pysn, type: skill, system: { masteryLevelBase: 15 } }
-    - { shortcode: thuravarkscript, type: skill, system: { masteryLevelBase: 15 } }
-    - { shortcode: chrm, type: skill, system: { masteryLevelBase: 52 } }
-    - { shortcode: cmd, type: skill, system: { masteryLevelBase: 22 } }
-    - { shortcode: dscr, type: skill, system: { masteryLevelBase: 24 } }
-    - { shortcode: guil, type: skill, system: { masteryLevelBase: 45 } }
-    - { shortcode: intr, type: skill, system: { masteryLevelBase: 42 } }
-    - { shortcode: sing, type: skill, system: { masteryLevelBase: 39 } }
-    - { shortcode: thtcs, type: skill, system: { masteryLevelBase: 12 } }
-    - { shortcode: fish, type: skill, system: { masteryLevelBase: 15 } }
-    - { shortcode: smsh, type: skill, system: { masteryLevelBase: 28 } }
-    - { shortcode: srvl, type: skill, system: { masteryLevelBase: 60 } }
-    - { shortcode: trak, type: skill, system: { masteryLevelBase: 60 } }
-    - { shortcode: awar, type: skill, system: { masteryLevelBase: 45 } }
-    - { shortcode: clmb, type: skill, system: { masteryLevelBase: 42 } }
-    - { shortcode: dnce, type: skill, system: { masteryLevelBase: 28 } }
-    - { shortcode: jump, type: skill, system: { masteryLevelBase: 39 } }
-    - { shortcode: ridg, type: skill, system: { masteryLevelBase: 15 } }
-    - { shortcode: stlth, type: skill, system: { masteryLevelBase: 39 } }
-    - { shortcode: swim, type: skill, system: { masteryLevelBase: 42 } }
-    - { shortcode: archery, type: skill, system: { masteryLevelBase: 16 } }
-    - { shortcode: init, type: skill, system: { masteryLevelBase: 36 } }
-    - { shortcode: melee, type: skill, system: { masteryLevelBase: 45 } }
-    - { shortcode: thro, type: skill, system: { masteryLevelBase: 32 } }
-    - { shortcode: draw, type: skill, system: { masteryLevelBase: 15 } }
-    - { shortcode: hide, type: skill, system: { masteryLevelBase: 48 } }
-    - { shortcode: lock, type: skill, system: { masteryLevelBase: 32 } }
-    - { shortcode: mtlc, type: skill, system: { masteryLevelBase: 70 } }
-    - { shortcode: wood, type: skill, system: { masteryLevelBase: 56 } }
-    - { shortcode: LBw75, type: weapongear }
-    - { shortcode: Dgr, type: weapongear }
-    - { shortcode: RhTunic, type: armorgear }
-    - { shortcode: RhMntl, type: armorgear }
-    - { shortcode: RhShoe, type: armorgear }
-    - { shortcode: ArwStd, type: projectilegear, system: { quantity: 24 } }
-    - { shortcode: torch, type: miscgear, system: { quantity: 2 } }
-    - { shortcode: StdRtns, type: miscgear, system: { quantity: 4 } }
-    - { shortcode: tndrbx, type: miscgear }
+    - { model: sohl-sohl-attribute-str, system: { scoreBase: 12 } }
+    - { model: sohl-sohl-attribute-end, system: { scoreBase: 14 } }
+    - { model: sohl-sohl-attribute-dex, system: { scoreBase: 15 } }
+    - { model: sohl-sohl-attribute-agl, system: { scoreBase: 14 } }
+    - { model: sohl-sohl-attribute-per, system: { scoreBase: 17 } }
+    - { model: sohl-sohl-attribute-cml, system: { scoreBase: 11 } }
+    - { model: sohl-sohl-attribute-aur, system: { scoreBase: 12 } }
+    - { model: sohl-sohl-attribute-wil, system: { scoreBase: 12 } }
+    - { model: sohl-sohl-attribute-rea, system: { scoreBase: 13 } }
+    - { model: sohl-sohl-attribute-cre, system: { scoreBase: 14 } }
+    - { model: sohl-sohl-attribute-emp, system: { scoreBase: 15 } }
+    - { model: sohl-sohl-attribute-elo, system: { scoreBase: 10 } }
+    - { model: sohl-sohl-attribute-mor, system: { scoreBase: 14 } }
+    - { model: sohl-sohl-attribute-voi, system: { scoreBase: 13 } }
+    - { model: affiliation-freyr }
+    - { model: sohl-sohl-skill-brew, system: { masteryLevelBase: 15 } }
+    - { model: sohl-sohl-skill-cook, system: { masteryLevelBase: 30 } }
+    - { model: sohl-sohl-skill-folklr, system: { masteryLevelBase: 13 } }
+    - { model: sohl-sohl-skill-pysn, system: { masteryLevelBase: 15 } }
+    - { model: skill-thuravarkscript, system: { masteryLevelBase: 15 } }
+    - { model: sohl-sohl-skill-chrm, system: { masteryLevelBase: 52 } }
+    - { model: sohl-sohl-skill-cmd, system: { masteryLevelBase: 22 } }
+    - { model: sohl-sohl-skill-dscr, system: { masteryLevelBase: 24 } }
+    - { model: sohl-sohl-skill-guil, system: { masteryLevelBase: 45 } }
+    - { model: sohl-sohl-skill-intr, system: { masteryLevelBase: 42 } }
+    - { model: sohl-sohl-skill-sing, system: { masteryLevelBase: 39 } }
+    - { model: sohl-sohl-skill-thtcs, system: { masteryLevelBase: 12 } }
+    - { model: sohl-sohl-skill-fish, system: { masteryLevelBase: 15 } }
+    - { model: sohl-sohl-skill-smsh, system: { masteryLevelBase: 28 } }
+    - { model: sohl-sohl-skill-srvl, system: { masteryLevelBase: 60 } }
+    - { model: sohl-sohl-skill-trak, system: { masteryLevelBase: 60 } }
+    - { model: sohl-sohl-skill-awar, system: { masteryLevelBase: 45 } }
+    - { model: sohl-sohl-skill-clmb, system: { masteryLevelBase: 42 } }
+    - { model: sohl-sohl-skill-dnce, system: { masteryLevelBase: 28 } }
+    - { model: sohl-sohl-skill-jump, system: { masteryLevelBase: 39 } }
+    - { model: sohl-sohl-skill-ridg, system: { masteryLevelBase: 15 } }
+    - { model: sohl-sohl-skill-stlth, system: { masteryLevelBase: 39 } }
+    - { model: sohl-sohl-skill-swim, system: { masteryLevelBase: 42 } }
+    - { model: sohl-sohl-skill-archery, system: { masteryLevelBase: 16 } }
+    - { model: sohl-sohl-skill-init, system: { masteryLevelBase: 36 } }
+    - { model: sohl-sohl-skill-melee, system: { masteryLevelBase: 45 } }
+    - { model: sohl-sohl-skill-thro, system: { masteryLevelBase: 32 } }
+    - { model: sohl-sohl-skill-draw, system: { masteryLevelBase: 15 } }
+    - { model: sohl-sohl-skill-hide, system: { masteryLevelBase: 48 } }
+    - { model: sohl-sohl-skill-lock, system: { masteryLevelBase: 32 } }
+    - { model: sohl-sohl-skill-mtlc, system: { masteryLevelBase: 70 } }
+    - { model: sohl-sohl-skill-wood, system: { masteryLevelBase: 56 } }
+    - { model: sohl-sohl-weapongear-lbw75 }
+    - { model: sohl-sohl-weapongear-dgr }
+    - { model: sohl-sohl-armorgear-rhtunic }
+    - { model: sohl-sohl-armorgear-rhmntl }
+    - { model: sohl-sohl-armorgear-rhshoe }
+    - { model: sohl-sohl-projectilegear-arwstd, system: { quantity: 24 } }
+    - { model: sohl-sohl-miscgear-torch, system: { quantity: 2 } }
+    - { model: sohl-sohl-miscgear-stdrtns, system: { quantity: 4 } }
+    - { model: sohl-sohl-miscgear-tndrbx }
     - name: Trap-making materials (wire, springs, snares)
       type: miscgear
       system:
+        shortcode: trapmakingmaterials
         weight: 2
         value: 100
         durability: 3
     - name: Herbal remedy bundle (healing salves)
       type: miscgear
       system:
+        shortcode: herbalremedybundle
         weight: 0.5
         value: 100
         durability: 3
     - name: Bone knife for field dressing
       type: miscgear
       system:
+        shortcode: boneknifeforfield
         weight: 1.5
         value: 100
         durability: 3
     - name: Fletching kit for arrow maintenance
       type: miscgear
       system:
+        shortcode: fletchingkitforarrow
         weight: 3
         value: 100
         durability: 4
-    - { shortcode: backpk, type: containergear }
-    - { shortcode: wtrskin, type: containergear }
+    - { model: sohl-sohl-containergear-backpk }
+    - { model: sohl-sohl-containergear-wtrskin }
     - name: Quiver (leather)
       type: containergear
       system:
+        shortcode: quiver
         quantity: 1
         weight: 1.5
         value: 100
@@ -597,6 +602,8 @@ sohl:
 Guthrún stands 5'11" tall with a light build. She has light fair skin, brown hair, and green eyes. Her features include an angular face, a long nose, a strong jawline, a slightly downturned mouth, heavy brows, flat cheeks. A distinguishing mark is a tattoo of a skull on the upper arm.
 
 # Dossier {#dossier}
+
+## Background
 
 ### The Trapper's Daughter
 

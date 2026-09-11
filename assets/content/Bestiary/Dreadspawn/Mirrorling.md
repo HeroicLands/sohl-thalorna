@@ -5,11 +5,11 @@ name:
   full: Mirrorling
   aliases: []
 description: "A light-warping predator of paradox that dwells in mirror halls and crystal caverns, wielding fractured reflections as both weapon and shield."
-img: icons/game-icons/delapouite/griffin-symbol.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 shortcode: mrrrlng
 type: being
 data:
-  portrait: images/being/mrrrlng-portrait.webp
+  portrait: images/beings/creatures/mrrrlng-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: null
@@ -43,23 +43,22 @@ sohl:
     wil: 1d4+10
     rea: 1d4+6
     cre: 1d4+12
-  defaultCombatGroup: null
   items:
-    - { shortcode: str, type: attribute, system: { scoreBase: 24 } }
-    - { shortcode: end, type: attribute, system: { scoreBase: 11 } }
-    - { shortcode: dex, type: attribute, system: { scoreBase: 15 } }
-    - { shortcode: agl, type: attribute, system: { scoreBase: 13 } }
-    - { shortcode: per, type: attribute, system: { scoreBase: 15 } }
-    - { shortcode: aur, type: attribute, system: { scoreBase: 15 } }
-    - { shortcode: wil, type: attribute, system: { scoreBase: 13 } }
-    - { shortcode: rea, type: attribute, system: { scoreBase: 9 } }
-    - { shortcode: cre, type: attribute, system: { scoreBase: 15 } }
-    - { shortcode: awar, type: skill, system: { masteryLevelBase: 70 } }
-    - { shortcode: stlth, type: skill, system: { masteryLevelBase: 65 } }
-    - { shortcode: sprt, type: mysticalability, system: { masteryLevelBase: 42 } }
-    - { shortcode: init, type: skill, system: { masteryLevelBase: 44 } }
-    - { shortcode: dge, type: skill, system: { masteryLevelBase: 56 } }
-    - { shortcode: shok, type: skill, system: { masteryLevelBase: 45 } }
+    - { model: sohl-sohl-attribute-str, system: { scoreBase: 24 } }
+    - { model: sohl-sohl-attribute-end, system: { scoreBase: 11 } }
+    - { model: sohl-sohl-attribute-dex, system: { scoreBase: 15 } }
+    - { model: sohl-sohl-attribute-agl, system: { scoreBase: 13 } }
+    - { model: sohl-sohl-attribute-per, system: { scoreBase: 15 } }
+    - { model: sohl-sohl-attribute-aur, system: { scoreBase: 15 } }
+    - { model: sohl-sohl-attribute-wil, system: { scoreBase: 13 } }
+    - { model: sohl-sohl-attribute-rea, system: { scoreBase: 9 } }
+    - { model: sohl-sohl-attribute-cre, system: { scoreBase: 15 } }
+    - { model: sohl-sohl-skill-awar, system: { masteryLevelBase: 70 } }
+    - { model: sohl-sohl-skill-stlth, system: { masteryLevelBase: 65 } }
+    - { model: sohl-sohl-mysticalability-sprt, system: { masteryLevelBase: 42 } }
+    - { model: sohl-sohl-skill-init, system: { masteryLevelBase: 44 } }
+    - { model: sohl-sohl-skill-dge, system: { masteryLevelBase: 56 } }
+    - { model: sohl-sohl-skill-shok, system: { masteryLevelBase: 45 } }
     - name: Reflective Blade Strike
       type: skill
       system:

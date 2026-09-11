@@ -8,7 +8,7 @@ name:
     - Dock-talk
     - Trade Pidgin
 description: "The harbor pidgin of Mídhalión and beyond — no one's mother tongue, but the first language of every dock, merchant, and sailor who must be understood on short acquaintance."
-img: icons/speaking.svg
+img: systems/sohl/assets/icons/other/speaking.svg
 shortcode: valtarlng
 type: skill
 subType: language
@@ -27,7 +27,7 @@ flags:
     lang_family: Pidgin/Creole (contact language)
 ---
 
-Valtári is a tongue of the Pidgin (contact) family. Fluency measures the sophistication of expression in Valtári, from the halting phrases of a traveler to the nuanced and learned discourse of a native speaker. As with all specific languages, this skill inherits its mechanics from the general [[skill-lang|Language]] skill.
+Valtári is a tongue of the Pidgin (contact) family. Fluency measures the sophistication of expression in Valtári, from the halting phrases of a traveler to the nuanced and learned discourse of a native speaker. As with all specific languages, this skill inherits its mechanics from the general [[sohl-none-docskill-lang|Language]] skill.
 
 ## Overview
 

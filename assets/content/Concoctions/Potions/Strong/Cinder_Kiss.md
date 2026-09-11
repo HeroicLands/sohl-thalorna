@@ -6,7 +6,7 @@ name:
   aliases:
     - Potion, Aphrodisiac, Strong
 description: "Deep crimson concentrated preparation; ignites passion and desire."
-img: icons/potion.svg
+img: systems/sohl/assets/icons/other/potion.svg
 shortcode: PtnAphrS
 type: concoctiongear
 subType: exotic

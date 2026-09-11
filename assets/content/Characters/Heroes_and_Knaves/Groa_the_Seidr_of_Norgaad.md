@@ -8,15 +8,15 @@ name:
   title: ""
   given: Gróa
   clan: Vindrkvé
-  home: Hrafnfjord
+  home: hrafnfjord
   aliases:
     - the Seiðr of Norgaad
 packFolder: ankarisnordlands
 shortcode: grosdrnrgd
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/grosdrnrgd-portrait.webp
+  portrait: images/beings/characters/grosdrnrgd-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Shaman
@@ -43,94 +43,100 @@ data:
 sohl:
   templatePriority: null
   items:
-    - { shortcode: str, type: attribute, system: { scoreBase: 9 } }
-    - { shortcode: end, type: attribute, system: { scoreBase: 10 } }
-    - { shortcode: dex, type: attribute, system: { scoreBase: 11 } }
-    - { shortcode: agl, type: attribute, system: { scoreBase: 12 } }
-    - { shortcode: per, type: attribute, system: { scoreBase: 15 } }
-    - { shortcode: cml, type: attribute, system: { scoreBase: 12 } }
-    - { shortcode: aur, type: attribute, system: { scoreBase: 17 } }
-    - { shortcode: wil, type: attribute, system: { scoreBase: 14 } }
-    - { shortcode: rea, type: attribute, system: { scoreBase: 14 } }
-    - { shortcode: cre, type: attribute, system: { scoreBase: 13 } }
-    - { shortcode: emp, type: attribute, system: { scoreBase: 12 } }
-    - { shortcode: elo, type: attribute, system: { scoreBase: 12 } }
-    - { shortcode: mor, type: attribute, system: { scoreBase: 11 } }
-    - { shortcode: voi, type: attribute, system: { scoreBase: 17 } }
-    - { shortcode: freyr, type: affiliation }
-    - { shortcode: cook, type: skill, system: { masteryLevelBase: 30 } }
-    - { shortcode: folklr, type: skill, system: { masteryLevelBase: 70 } }
-    - { shortcode: pysn, type: skill, system: { masteryLevelBase: 70 } }
-    - { shortcode: chrm, type: skill, system: { masteryLevelBase: 36 } }
-    - { shortcode: cmd, type: skill, system: { masteryLevelBase: 26 } }
-    - { shortcode: dscr, type: skill, system: { masteryLevelBase: 26 } }
-    - { shortcode: guil, type: skill, system: { masteryLevelBase: 36 } }
-    - { shortcode: intr, type: skill, system: { masteryLevelBase: 39 } }
-    - { shortcode: sing, type: skill, system: { masteryLevelBase: 45 } }
-    - { shortcode: thtcs, type: skill, system: { masteryLevelBase: 13 } }
-    - { shortcode: herb, type: skill, system: { masteryLevelBase: 60 } }
-    - { shortcode: smsh, type: skill, system: { masteryLevelBase: 42 } }
-    - { shortcode: srvl, type: skill, system: { masteryLevelBase: 42 } }
-    - { shortcode: awar, type: skill, system: { masteryLevelBase: 60 } }
-    - { shortcode: clmb, type: skill, system: { masteryLevelBase: 36 } }
-    - { shortcode: dnce, type: skill, system: { masteryLevelBase: 24 } }
-    - { shortcode: jump, type: skill, system: { masteryLevelBase: 33 } }
-    - { shortcode: ridg, type: skill, system: { masteryLevelBase: 12 } }
-    - { shortcode: stlth, type: skill, system: { masteryLevelBase: 39 } }
-    - { shortcode: swim, type: skill, system: { masteryLevelBase: 44 } }
-    - { shortcode: archery, type: skill, system: { masteryLevelBase: 26 } }
-    - { shortcode: init, type: skill, system: { masteryLevelBase: 42 } }
-    - { shortcode: melee, type: skill, system: { masteryLevelBase: 22 } }
-    - { shortcode: thro, type: skill, system: { masteryLevelBase: 39 } }
-    - { shortcode: draw, type: skill, system: { masteryLevelBase: 12 } }
-    - { shortcode: mill, type: skill, system: { masteryLevelBase: 12 } }
-    - { shortcode: trnc, type: mysticalability, system: { masteryLevelBase: 60 } }
-    - { shortcode: Stf, type: weapongear }
-    - { shortcode: RhTunic, type: armorgear }
-    - { shortcode: RhMntl, type: armorgear }
-    - { shortcode: RhShoe, type: armorgear }
-    - { shortcode: tndrbx, type: miscgear }
-    - { shortcode: torch, type: miscgear, system: { quantity: 3 } }
-    - { shortcode: StdRtns, type: miscgear, system: { quantity: 2 } }
+    - { model: sohl-sohl-attribute-str, system: { scoreBase: 9 } }
+    - { model: sohl-sohl-attribute-end, system: { scoreBase: 10 } }
+    - { model: sohl-sohl-attribute-dex, system: { scoreBase: 11 } }
+    - { model: sohl-sohl-attribute-agl, system: { scoreBase: 12 } }
+    - { model: sohl-sohl-attribute-per, system: { scoreBase: 15 } }
+    - { model: sohl-sohl-attribute-cml, system: { scoreBase: 12 } }
+    - { model: sohl-sohl-attribute-aur, system: { scoreBase: 17 } }
+    - { model: sohl-sohl-attribute-wil, system: { scoreBase: 14 } }
+    - { model: sohl-sohl-attribute-rea, system: { scoreBase: 14 } }
+    - { model: sohl-sohl-attribute-cre, system: { scoreBase: 13 } }
+    - { model: sohl-sohl-attribute-emp, system: { scoreBase: 12 } }
+    - { model: sohl-sohl-attribute-elo, system: { scoreBase: 12 } }
+    - { model: sohl-sohl-attribute-mor, system: { scoreBase: 11 } }
+    - { model: sohl-sohl-attribute-voi, system: { scoreBase: 17 } }
+    - { model: affiliation-freyr }
+    - { model: sohl-sohl-skill-cook, system: { masteryLevelBase: 30 } }
+    - { model: sohl-sohl-skill-folklr, system: { masteryLevelBase: 70 } }
+    - { model: sohl-sohl-skill-pysn, system: { masteryLevelBase: 70 } }
+    - { model: sohl-sohl-skill-chrm, system: { masteryLevelBase: 36 } }
+    - { model: sohl-sohl-skill-cmd, system: { masteryLevelBase: 26 } }
+    - { model: sohl-sohl-skill-dscr, system: { masteryLevelBase: 26 } }
+    - { model: sohl-sohl-skill-guil, system: { masteryLevelBase: 36 } }
+    - { model: sohl-sohl-skill-intr, system: { masteryLevelBase: 39 } }
+    - { model: sohl-sohl-skill-sing, system: { masteryLevelBase: 45 } }
+    - { model: sohl-sohl-skill-thtcs, system: { masteryLevelBase: 13 } }
+    - { model: sohl-sohl-skill-herb, system: { masteryLevelBase: 60 } }
+    - { model: sohl-sohl-skill-smsh, system: { masteryLevelBase: 42 } }
+    - { model: sohl-sohl-skill-srvl, system: { masteryLevelBase: 42 } }
+    - { model: sohl-sohl-skill-awar, system: { masteryLevelBase: 60 } }
+    - { model: sohl-sohl-skill-clmb, system: { masteryLevelBase: 36 } }
+    - { model: sohl-sohl-skill-dnce, system: { masteryLevelBase: 24 } }
+    - { model: sohl-sohl-skill-jump, system: { masteryLevelBase: 33 } }
+    - { model: sohl-sohl-skill-ridg, system: { masteryLevelBase: 12 } }
+    - { model: sohl-sohl-skill-stlth, system: { masteryLevelBase: 39 } }
+    - { model: sohl-sohl-skill-swim, system: { masteryLevelBase: 44 } }
+    - { model: sohl-sohl-skill-archery, system: { masteryLevelBase: 26 } }
+    - { model: sohl-sohl-skill-init, system: { masteryLevelBase: 42 } }
+    - { model: sohl-sohl-skill-melee, system: { masteryLevelBase: 22 } }
+    - { model: sohl-sohl-skill-thro, system: { masteryLevelBase: 39 } }
+    - { model: sohl-sohl-skill-draw, system: { masteryLevelBase: 12 } }
+    - { model: sohl-sohl-skill-mill, system: { masteryLevelBase: 12 } }
+    - { model: sohl-sohl-mysticalability-trnc, system: { masteryLevelBase: 60 } }
+    - { model: sohl-sohl-weapongear-stf }
+    - { model: sohl-sohl-armorgear-rhtunic }
+    - { model: sohl-sohl-armorgear-rhmntl }
+    - { model: sohl-sohl-armorgear-rhshoe }
+    - { model: sohl-sohl-miscgear-tndrbx }
+    - { model: sohl-sohl-miscgear-torch, system: { quantity: 3 } }
+    - { model: sohl-sohl-miscgear-stdrtns, system: { quantity: 2 } }
     - name: Bone runes for divination (carved set)
       type: miscgear
       system:
+        shortcode: bonerunes
         weight: 1
         value: 100
         durability: 3
     - name: Ritual bells and charms
       type: miscgear
       system:
+        shortcode: ritualbellsandcharms
         weight: 0.3
         value: 100
         durability: 3
     - name: Herbal bundle for smoke-calling
       type: miscgear
       system:
+        shortcode: herbalbundleforsmoke
         weight: 0.5
         value: 100
         durability: 3
     - name: Offering bowl (pewter)
       type: miscgear
       system:
+        shortcode: offeringbowl
         weight: 1
         value: 100
         durability: 3
     - name: Leather journal of visions and omens
       type: miscgear
       system:
+        shortcode: leatherjournal
         weight: 1
         value: 100
         durability: 3
     - name: Crow feathers (collected tokens)
       type: miscgear
       system:
+        shortcode: crowfeathers
         quantity: 7
         weight: 1
         value: 100
         durability: 3
-    - { shortcode: bgsmcvs, type: containergear }
-    - { shortcode: wtrskin, type: containergear }
+    - { model: sohl-sohl-containergear-bgsmcvs }
+    - { model: sohl-sohl-containergear-wtrskin }
   system:
     body:
       structure:
@@ -598,6 +604,8 @@ Gróa stands at 5’8" with a slender, wiry frame, weighing around 140 pounds. H
 
 # Dossier {#dossier}
 
+## Background
+
 ### Origin and Early Life
 
 Gróa was born into the Vindrkvé clan, a small, isolated lesser free clan of Norgaad, a land of rugged fjords, deep forests, and frozen seas, home to fierce warriors and hardy seafarers. Growing up in the Hrafnfjord region, her family was primarily involved in fishing and hunting, eking out a living from the sea and the sparse lowlands that fringed the fjords. From a young age, Gróa exhibited signs of being different—she had strange dreams, could sense emotions in others, and felt a deep connection to the spirits of the natural world. Her village feared her, but they also recognized her gifts, for such powers were rare and valuable in Nordheim.
@@ -618,7 +626,7 @@ Gróa’s talent for Seiðr magic was recognized by the local village elders and
 
 Gróa became a mendicant, traveling from clan to clan, offering her services as a Seiðr. She would read the bones, summon spirits for advice, and perform powerful rituals to aid in battle or ensure good fortune. The people of Nordheim both revered and feared her. Some saw her as a wise woman, a bridge between the mortal world and the spirits. Others whispered that she was cursed, for her association with the crow—a bird of death—was unsettling.
 
-### The Awakening
+### The Transformation
 
 Gróa’s transformation from a wandering Seiðr to a woman with a deeper purpose came when she received a powerful vision during a midwinter blót. In the vision, she was shown the unraveling threads of fate in Norgaad—her homeland would face internal strife, foreign invasions, but most of all the rise of an ancient evil from the depths of the sea. Njörven, the Sea Wraith, a mythic creature long ago overthrown by Thórr, is slowly awakening, his influence seeping back into the seas of Norgaad, causing unprecedented storms and sea unrest. His goal is to break free and exact revenge on the mortal world, especially the coastal clans that once worshipped him but have since turned to Thórr. The Crow Spirit guided her in the vision, showing her that she must acquire three ancient relics created by Thórr to seal away Njörven—the **Spear of Sigrid**, the **Crown of the Wyrm**, and the **Horn of Njördur**—and use the ancient _Rituals of Binding_ to either re-imprison the spirit or appease his wrath. Her powers, and those of key companions, will be the key to saving her people.
 

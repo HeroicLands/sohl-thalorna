@@ -8,16 +8,16 @@ name:
   title: ""
   given: Meret-Sebek
   clan: Heka’amun
-  home: Meru-Hotep
+  home: meruhotep
   aliases:
     - Meret-Sebek Hekaamun
 packFolder: northernfertileregiontakheperu
 banner: banners/ta-kheperu-banner.webp
 shortcode: mrtsbkhkmn
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/mrtsbkhkmn-portrait.webp
+  portrait: images/beings/characters/mrtsbkhkmn-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Astrologer
@@ -44,98 +44,104 @@ data:
 sohl:
   templatePriority: null
   items:
-    - { shortcode: str, type: attribute, system: { scoreBase: 10 } }
-    - { shortcode: end, type: attribute, system: { scoreBase: 12 } }
-    - { shortcode: dex, type: attribute, system: { scoreBase: 11 } }
-    - { shortcode: agl, type: attribute, system: { scoreBase: 11 } }
-    - { shortcode: per, type: attribute, system: { scoreBase: 15 } }
-    - { shortcode: cml, type: attribute, system: { scoreBase: 13 } }
-    - { shortcode: aur, type: attribute, system: { scoreBase: 17 } }
-    - { shortcode: wil, type: attribute, system: { scoreBase: 14 } }
-    - { shortcode: rea, type: attribute, system: { scoreBase: 17 } }
-    - { shortcode: cre, type: attribute, system: { scoreBase: 14 } }
-    - { shortcode: emp, type: attribute, system: { scoreBase: 15 } }
-    - { shortcode: elo, type: attribute, system: { scoreBase: 13 } }
-    - { shortcode: mor, type: attribute, system: { scoreBase: 14 } }
-    - { shortcode: voi, type: attribute, system: { scoreBase: 11 } }
-    - { shortcode: thoth, type: affiliation }
-    - { shortcode: cook, type: skill, system: { masteryLevelBase: 32 } }
-    - { shortcode: eng, type: skill, system: { masteryLevelBase: 16 } }
-    - { shortcode: folklr, type: skill, system: { masteryLevelBase: 64 } }
-    - { shortcode: math, type: skill, system: { masteryLevelBase: 64 } }
-    - { shortcode: pysn, type: skill, system: { masteryLevelBase: 16 } }
-    - { shortcode: demtkscrpt, type: skill, system: { masteryLevelBase: 80 } }
-    - { shortcode: chrm, type: skill, system: { masteryLevelBase: 42 } }
-    - { shortcode: cmd, type: skill, system: { masteryLevelBase: 28 } }
-    - { shortcode: dscr, type: skill, system: { masteryLevelBase: 60 } }
-    - { shortcode: guil, type: skill, system: { masteryLevelBase: 60 } }
-    - { shortcode: intr, type: skill, system: { masteryLevelBase: 48 } }
-    - { shortcode: sing, type: skill, system: { masteryLevelBase: 36 } }
-    - { shortcode: thtcs, type: skill, system: { masteryLevelBase: 14 } }
-    - { shortcode: agri, type: skill, system: { masteryLevelBase: 45 } }
-    - { shortcode: fish, type: skill, system: { masteryLevelBase: 15 } }
-    - { shortcode: smsh, type: skill, system: { masteryLevelBase: 28 } }
-    - { shortcode: srvl, type: skill, system: { masteryLevelBase: 15 } }
-    - { shortcode: awar, type: skill, system: { masteryLevelBase: 45 } }
-    - { shortcode: clmb, type: skill, system: { masteryLevelBase: 33 } }
-    - { shortcode: dnce, type: skill, system: { masteryLevelBase: 24 } }
-    - { shortcode: jump, type: skill, system: { masteryLevelBase: 33 } }
-    - { shortcode: ridg, type: skill, system: { masteryLevelBase: 13 } }
-    - { shortcode: stlth, type: skill, system: { masteryLevelBase: 36 } }
-    - { shortcode: swim, type: skill, system: { masteryLevelBase: 11 } }
-    - { shortcode: archery, type: skill, system: { masteryLevelBase: 26 } }
-    - { shortcode: init, type: skill, system: { masteryLevelBase: 60 } }
-    - { shortcode: melee, type: skill, system: { masteryLevelBase: 22 } }
-    - { shortcode: thro, type: skill, system: { masteryLevelBase: 26 } }
-    - { shortcode: draw, type: skill, system: { masteryLevelBase: 60 } }
-    - { shortcode: mtlc, type: skill, system: { masteryLevelBase: 22 } }
-    - { shortcode: txtl, type: skill, system: { masteryLevelBase: 39 } }
-    - { shortcode: astr, type: mysticalability, system: { masteryLevelBase: 64 } }
-    - { shortcode: tarot, type: mysticalability, system: { masteryLevelBase: 64 } }
-    - { shortcode: LtTunic, type: armorgear }
-    - { shortcode: WTrsr, type: armorgear }
-    - { shortcode: WCap, type: armorgear }
-    - { shortcode: LtShoe, type: armorgear }
+    - { model: sohl-sohl-attribute-str, system: { scoreBase: 10 } }
+    - { model: sohl-sohl-attribute-end, system: { scoreBase: 12 } }
+    - { model: sohl-sohl-attribute-dex, system: { scoreBase: 11 } }
+    - { model: sohl-sohl-attribute-agl, system: { scoreBase: 11 } }
+    - { model: sohl-sohl-attribute-per, system: { scoreBase: 15 } }
+    - { model: sohl-sohl-attribute-cml, system: { scoreBase: 13 } }
+    - { model: sohl-sohl-attribute-aur, system: { scoreBase: 17 } }
+    - { model: sohl-sohl-attribute-wil, system: { scoreBase: 14 } }
+    - { model: sohl-sohl-attribute-rea, system: { scoreBase: 17 } }
+    - { model: sohl-sohl-attribute-cre, system: { scoreBase: 14 } }
+    - { model: sohl-sohl-attribute-emp, system: { scoreBase: 15 } }
+    - { model: sohl-sohl-attribute-elo, system: { scoreBase: 13 } }
+    - { model: sohl-sohl-attribute-mor, system: { scoreBase: 14 } }
+    - { model: sohl-sohl-attribute-voi, system: { scoreBase: 11 } }
+    - { model: affiliation-thoth }
+    - { model: sohl-sohl-skill-cook, system: { masteryLevelBase: 32 } }
+    - { model: sohl-sohl-skill-eng, system: { masteryLevelBase: 16 } }
+    - { model: sohl-sohl-skill-folklr, system: { masteryLevelBase: 64 } }
+    - { model: sohl-sohl-skill-math, system: { masteryLevelBase: 64 } }
+    - { model: sohl-sohl-skill-pysn, system: { masteryLevelBase: 16 } }
+    - { model: skill-demtkscrpt, system: { masteryLevelBase: 80 } }
+    - { model: sohl-sohl-skill-chrm, system: { masteryLevelBase: 42 } }
+    - { model: sohl-sohl-skill-cmd, system: { masteryLevelBase: 28 } }
+    - { model: sohl-sohl-skill-dscr, system: { masteryLevelBase: 60 } }
+    - { model: sohl-sohl-skill-guil, system: { masteryLevelBase: 60 } }
+    - { model: sohl-sohl-skill-intr, system: { masteryLevelBase: 48 } }
+    - { model: sohl-sohl-skill-sing, system: { masteryLevelBase: 36 } }
+    - { model: sohl-sohl-skill-thtcs, system: { masteryLevelBase: 14 } }
+    - { model: sohl-sohl-skill-agri, system: { masteryLevelBase: 45 } }
+    - { model: sohl-sohl-skill-fish, system: { masteryLevelBase: 15 } }
+    - { model: sohl-sohl-skill-smsh, system: { masteryLevelBase: 28 } }
+    - { model: sohl-sohl-skill-srvl, system: { masteryLevelBase: 15 } }
+    - { model: sohl-sohl-skill-awar, system: { masteryLevelBase: 45 } }
+    - { model: sohl-sohl-skill-clmb, system: { masteryLevelBase: 33 } }
+    - { model: sohl-sohl-skill-dnce, system: { masteryLevelBase: 24 } }
+    - { model: sohl-sohl-skill-jump, system: { masteryLevelBase: 33 } }
+    - { model: sohl-sohl-skill-ridg, system: { masteryLevelBase: 13 } }
+    - { model: sohl-sohl-skill-stlth, system: { masteryLevelBase: 36 } }
+    - { model: sohl-sohl-skill-swim, system: { masteryLevelBase: 11 } }
+    - { model: sohl-sohl-skill-archery, system: { masteryLevelBase: 26 } }
+    - { model: sohl-sohl-skill-init, system: { masteryLevelBase: 60 } }
+    - { model: sohl-sohl-skill-melee, system: { masteryLevelBase: 22 } }
+    - { model: sohl-sohl-skill-thro, system: { masteryLevelBase: 26 } }
+    - { model: sohl-sohl-skill-draw, system: { masteryLevelBase: 60 } }
+    - { model: sohl-sohl-skill-mtlc, system: { masteryLevelBase: 22 } }
+    - { model: sohl-sohl-skill-txtl, system: { masteryLevelBase: 39 } }
+    - { model: sohl-sohl-mysticalability-astr, system: { masteryLevelBase: 64 } }
+    - { model: sohl-sohl-mysticalability-tarot, system: { masteryLevelBase: 64 } }
+    - { model: sohl-sohl-armorgear-lttunic }
+    - { model: sohl-sohl-armorgear-wtrsr }
+    - { model: sohl-sohl-armorgear-wcap }
+    - { model: sohl-sohl-armorgear-ltshoe }
     - name: Star charts (personal collection, extensive)
       type: miscgear
       system:
+        shortcode: starcharts
         weight: 1
         value: 100
         durability: 3
     - name: Astrological instruments (astrolabe, quadrant)
       type: miscgear
       system:
+        shortcode: astrological
         weight: 1
         value: 100
         durability: 3
     - name: Sacred texts of Thóth (god of wisdom)
       type: miscgear
       system:
+        shortcode: sacredtextsofthoth
         weight: 1
         value: 100
         durability: 3
     - name: Parchment and writing materials
       type: miscgear
       system:
+        shortcode: parchmentandwriting
         weight: 1
         value: 100
         durability: 3
     - name: Ritual components (incense, offerings)
       type: miscgear
       system:
+        shortcode: ritualcomponents
         weight: 1
         value: 100
         durability: 3
     - name: Prophecy scrolls (copies of readings)
       type: miscgear
       system:
+        shortcode: prophecyscrolls
         weight: 1
         value: 100
         durability: 3
-    - { shortcode: tndrbx, type: miscgear }
-    - { shortcode: FRtns, type: miscgear, system: { quantity: 5 } }
-    - { shortcode: backpk, type: containergear }
-    - { shortcode: bpchmd, type: containergear }
+    - { model: sohl-sohl-miscgear-tndrbx }
+    - { model: sohl-sohl-miscgear-frtns, system: { quantity: 5 } }
+    - { model: sohl-sohl-containergear-backpk }
+    - { model: sohl-sohl-containergear-bpchmd }
   system:
     body:
       structure:
@@ -604,6 +610,8 @@ sohl:
 Meret-Sebek stands 5'9\" tall with a medium build. He has dark skin, dark hair, and brown eyes. His features include a long nose, a pointed chin, generous lips, elegantly curved brows.
 
 # Dossier {#dossier}
+
+## Background
 
 ### Origin and Early Life
 

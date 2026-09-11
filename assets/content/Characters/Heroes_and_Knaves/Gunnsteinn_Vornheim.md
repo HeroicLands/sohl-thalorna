@@ -7,14 +7,14 @@ name:
   title: ""
   given: Gunnsteinn
   clan: Vǫrnheim
-  home: Haldrvík
+  home: haldrvik
   aliases: []
 packFolder: ankarisnordlands
 shortcode: gnstnvrnhm
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/gnstnvrnhm-portrait.webp
+  portrait: images/beings/characters/gnstnvrnhm-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Bodyguard
@@ -42,77 +42,79 @@ data:
 sohl:
   templatePriority: null
   items:
-    - { shortcode: str, type: attribute, system: { scoreBase: 16 } }
-    - { shortcode: end, type: attribute, system: { scoreBase: 15 } }
-    - { shortcode: dex, type: attribute, system: { scoreBase: 11 } }
-    - { shortcode: agl, type: attribute, system: { scoreBase: 10 } }
-    - { shortcode: per, type: attribute, system: { scoreBase: 13 } }
-    - { shortcode: cml, type: attribute, system: { scoreBase: 9 } }
-    - { shortcode: aur, type: attribute, system: { scoreBase: 12 } }
-    - { shortcode: wil, type: attribute, system: { scoreBase: 14 } }
-    - { shortcode: rea, type: attribute, system: { scoreBase: 11 } }
-    - { shortcode: cre, type: attribute, system: { scoreBase: 9 } }
-    - { shortcode: emp, type: attribute, system: { scoreBase: 10 } }
-    - { shortcode: elo, type: attribute, system: { scoreBase: 8 } }
-    - { shortcode: mor, type: attribute, system: { scoreBase: 12 } }
-    - { shortcode: voi, type: attribute, system: { scoreBase: 10 } }
-    - { shortcode: ymir, type: affiliation }
-    - { shortcode: brew, type: skill, system: { masteryLevelBase: 36 } }
-    - { shortcode: cook, type: skill, system: { masteryLevelBase: 24 } }
-    - { shortcode: folklr, type: skill, system: { masteryLevelBase: 24 } }
-    - { shortcode: hrld, type: skill, system: { masteryLevelBase: 36 } }
-    - { shortcode: pysn, type: skill, system: { masteryLevelBase: 60 } }
-    - { shortcode: chrm, type: skill, system: { masteryLevelBase: 27 } }
-    - { shortcode: cmd, type: skill, system: { masteryLevelBase: 22 } }
-    - { shortcode: dscr, type: skill, system: { masteryLevelBase: 20 } }
-    - { shortcode: guil, type: skill, system: { masteryLevelBase: 30 } }
-    - { shortcode: intr, type: skill, system: { masteryLevelBase: 40 } }
-    - { shortcode: sing, type: skill, system: { masteryLevelBase: 30 } }
-    - { shortcode: thtcs, type: skill, system: { masteryLevelBase: 9 } }
-    - { shortcode: agri, type: skill, system: { masteryLevelBase: 26 } }
-    - { shortcode: mnrl, type: skill, system: { masteryLevelBase: 12 } }
-    - { shortcode: smsh, type: skill, system: { masteryLevelBase: 14 } }
-    - { shortcode: srvl, type: skill, system: { masteryLevelBase: 52 } }
-    - { shortcode: timb, type: skill, system: { masteryLevelBase: 36 } }
-    - { shortcode: awar, type: skill, system: { masteryLevelBase: 39 } }
-    - { shortcode: clmb, type: skill, system: { masteryLevelBase: 30 } }
-    - { shortcode: dnce, type: skill, system: { masteryLevelBase: 20 } }
-    - { shortcode: jump, type: skill, system: { masteryLevelBase: 39 } }
-    - { shortcode: ridg, type: skill, system: { masteryLevelBase: 10 } }
-    - { shortcode: stlth, type: skill, system: { masteryLevelBase: 36 } }
-    - { shortcode: swim, type: skill, system: { masteryLevelBase: 24 } }
-    - { shortcode: archery, type: skill, system: { masteryLevelBase: 12 } }
-    - { shortcode: init, type: skill, system: { masteryLevelBase: 52 } }
-    - { shortcode: melee, type: skill, system: { masteryLevelBase: 55 } }
-    - { shortcode: thro, type: skill, system: { masteryLevelBase: 48 } }
-    - { shortcode: draw, type: skill, system: { masteryLevelBase: 10 } }
-    - { shortcode: fltch, type: skill, system: { masteryLevelBase: 12 } }
-    - { shortcode: lock, type: skill, system: { masteryLevelBase: 24 } }
-    - { shortcode: wpnc, type: skill, system: { masteryLevelBase: 26 } }
-    - { shortcode: Cdgl, type: weapongear }
-    - { shortcode: Shkn, type: weapongear }
-    - { shortcode: RndSh, type: weapongear }
-    - { shortcode: MShirt, type: armorgear }
-    - { shortcode: MLeg, type: armorgear }
-    - { shortcode: LtKBoot, type: armorgear }
-    - { shortcode: medsupil, type: miscgear, system: { quantity: 4 } }
-    - { shortcode: StdRtns, type: miscgear, system: { quantity: 4 } }
-    - { shortcode: torch, type: miscgear, system: { quantity: 2 } }
-    - { shortcode: tndrbx, type: miscgear }
+    - { model: sohl-sohl-attribute-str, system: { scoreBase: 16 } }
+    - { model: sohl-sohl-attribute-end, system: { scoreBase: 15 } }
+    - { model: sohl-sohl-attribute-dex, system: { scoreBase: 11 } }
+    - { model: sohl-sohl-attribute-agl, system: { scoreBase: 10 } }
+    - { model: sohl-sohl-attribute-per, system: { scoreBase: 13 } }
+    - { model: sohl-sohl-attribute-cml, system: { scoreBase: 9 } }
+    - { model: sohl-sohl-attribute-aur, system: { scoreBase: 12 } }
+    - { model: sohl-sohl-attribute-wil, system: { scoreBase: 14 } }
+    - { model: sohl-sohl-attribute-rea, system: { scoreBase: 11 } }
+    - { model: sohl-sohl-attribute-cre, system: { scoreBase: 9 } }
+    - { model: sohl-sohl-attribute-emp, system: { scoreBase: 10 } }
+    - { model: sohl-sohl-attribute-elo, system: { scoreBase: 8 } }
+    - { model: sohl-sohl-attribute-mor, system: { scoreBase: 12 } }
+    - { model: sohl-sohl-attribute-voi, system: { scoreBase: 10 } }
+    - { model: affiliation-ymir }
+    - { model: sohl-sohl-skill-brew, system: { masteryLevelBase: 36 } }
+    - { model: sohl-sohl-skill-cook, system: { masteryLevelBase: 24 } }
+    - { model: sohl-sohl-skill-folklr, system: { masteryLevelBase: 24 } }
+    - { model: sohl-sohl-skill-hrld, system: { masteryLevelBase: 36 } }
+    - { model: sohl-sohl-skill-pysn, system: { masteryLevelBase: 60 } }
+    - { model: sohl-sohl-skill-chrm, system: { masteryLevelBase: 27 } }
+    - { model: sohl-sohl-skill-cmd, system: { masteryLevelBase: 22 } }
+    - { model: sohl-sohl-skill-dscr, system: { masteryLevelBase: 20 } }
+    - { model: sohl-sohl-skill-guil, system: { masteryLevelBase: 30 } }
+    - { model: sohl-sohl-skill-intr, system: { masteryLevelBase: 40 } }
+    - { model: sohl-sohl-skill-sing, system: { masteryLevelBase: 30 } }
+    - { model: sohl-sohl-skill-thtcs, system: { masteryLevelBase: 9 } }
+    - { model: sohl-sohl-skill-agri, system: { masteryLevelBase: 26 } }
+    - { model: sohl-sohl-skill-mnrl, system: { masteryLevelBase: 12 } }
+    - { model: sohl-sohl-skill-smsh, system: { masteryLevelBase: 14 } }
+    - { model: sohl-sohl-skill-srvl, system: { masteryLevelBase: 52 } }
+    - { model: sohl-sohl-skill-timb, system: { masteryLevelBase: 36 } }
+    - { model: sohl-sohl-skill-awar, system: { masteryLevelBase: 39 } }
+    - { model: sohl-sohl-skill-clmb, system: { masteryLevelBase: 30 } }
+    - { model: sohl-sohl-skill-dnce, system: { masteryLevelBase: 20 } }
+    - { model: sohl-sohl-skill-jump, system: { masteryLevelBase: 39 } }
+    - { model: sohl-sohl-skill-ridg, system: { masteryLevelBase: 10 } }
+    - { model: sohl-sohl-skill-stlth, system: { masteryLevelBase: 36 } }
+    - { model: sohl-sohl-skill-swim, system: { masteryLevelBase: 24 } }
+    - { model: sohl-sohl-skill-archery, system: { masteryLevelBase: 12 } }
+    - { model: sohl-sohl-skill-init, system: { masteryLevelBase: 52 } }
+    - { model: sohl-sohl-skill-melee, system: { masteryLevelBase: 55 } }
+    - { model: sohl-sohl-skill-thro, system: { masteryLevelBase: 48 } }
+    - { model: sohl-sohl-skill-draw, system: { masteryLevelBase: 10 } }
+    - { model: sohl-sohl-skill-fltch, system: { masteryLevelBase: 12 } }
+    - { model: sohl-sohl-skill-lock, system: { masteryLevelBase: 24 } }
+    - { model: sohl-sohl-skill-wpnc, system: { masteryLevelBase: 26 } }
+    - { model: sohl-sohl-weapongear-cdgl }
+    - { model: sohl-sohl-weapongear-shkn }
+    - { model: sohl-sohl-weapongear-rndsh }
+    - { model: sohl-sohl-armorgear-mshirt }
+    - { model: sohl-sohl-armorgear-mleg }
+    - { model: sohl-sohl-armorgear-ltkboot }
+    - { model: sohl-sohl-miscgear-medsupil, system: { quantity: 4 } }
+    - { model: sohl-sohl-miscgear-stdrtns, system: { quantity: 4 } }
+    - { model: sohl-sohl-miscgear-torch, system: { quantity: 2 } }
+    - { model: sohl-sohl-miscgear-tndrbx }
     - name: Healer's poultice kit
       type: miscgear
       system:
+        shortcode: healerspoulticekit
         weight: 0.5
         value: 100
         durability: 3
     - name: Whetstone for weapons
       type: miscgear
       system:
+        shortcode: whetstoneforweapons
         weight: 1
         value: 100
         durability: 3
-    - { shortcode: backpk, type: containergear }
-    - { shortcode: wtrskin, type: containergear }
+    - { model: sohl-sohl-containergear-backpk }
+    - { model: sohl-sohl-containergear-wtrskin }
   system:
     body:
       structure:
@@ -579,6 +581,8 @@ sohl:
 Gunnsteinn stands 6'2" tall with a heavy build. He has tanned weathered skin, dark brown hair, and blue eyes. His features include a narrow face, an aquiline nose, a broad chin, a slightly downturned mouth, dark brows. A distinguishing mark is a scar on the right forearm.
 
 # Dossier {#dossier}
+
+## Background
 
 ### The Warrior's Birth
 

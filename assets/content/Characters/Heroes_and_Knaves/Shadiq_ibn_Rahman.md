@@ -8,15 +8,15 @@ name:
   title: ""
   given: Shadiq
   clan: Rahman
-  home: Korinthel
+  home: korinthel
   aliases:
     - The Diplomatic Blade Dancer
 packFolder: heroesandknaveskalihara
 shortcode: shdqbnrhmndplmtcblddncr
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/shdqbnrhmndplmtcblddncr-portrait.webp
+  portrait: images/beings/characters/shdqbnrhmndplmtcblddncr-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Nobility (Courtier)
@@ -43,92 +43,98 @@ data:
 sohl:
   templatePriority: null
   items:
-    - { shortcode: str, type: attribute, system: { scoreBase: 9 } }
-    - { shortcode: end, type: attribute, system: { scoreBase: 12 } }
-    - { shortcode: dex, type: attribute, system: { scoreBase: 11 } }
-    - { shortcode: agl, type: attribute, system: { scoreBase: 12 } }
-    - { shortcode: per, type: attribute, system: { scoreBase: 15 } }
-    - { shortcode: cml, type: attribute, system: { scoreBase: 14 } }
-    - { shortcode: aur, type: attribute, system: { scoreBase: 14 } }
-    - { shortcode: wil, type: attribute, system: { scoreBase: 14 } }
-    - { shortcode: rea, type: attribute, system: { scoreBase: 16 } }
-    - { shortcode: cre, type: attribute, system: { scoreBase: 13 } }
-    - { shortcode: emp, type: attribute, system: { scoreBase: 15 } }
-    - { shortcode: elo, type: attribute, system: { scoreBase: 17 } }
-    - { shortcode: mor, type: attribute, system: { scoreBase: 12 } }
-    - { shortcode: voi, type: attribute, system: { scoreBase: 9 } }
-    - { shortcode: blackflame, type: affiliation }
-    - { shortcode: cook, type: skill, system: { masteryLevelBase: 30 } }
-    - { shortcode: folklr, type: skill, system: { masteryLevelBase: 45 } }
-    - { shortcode: hrld, type: skill, system: { masteryLevelBase: 30 } }
-    - { shortcode: law, type: skill, system: { masteryLevelBase: 15 } }
-    - { shortcode: pysn, type: skill, system: { masteryLevelBase: 16 } }
-    - { shortcode: chrm, type: skill, system: { masteryLevelBase: 42 } }
-    - { shortcode: cmd, type: skill, system: { masteryLevelBase: 30 } }
-    - { shortcode: dscr, type: skill, system: { masteryLevelBase: 32 } }
-    - { shortcode: guil, type: skill, system: { masteryLevelBase: 42 } }
-    - { shortcode: intr, type: skill, system: { masteryLevelBase: 75 } }
-    - { shortcode: kalihrlng, type: skill, system: { masteryLevelBase: 85 } }
-    - { shortcode: sing, type: skill, system: { masteryLevelBase: 33 } }
-    - { shortcode: thtcs, type: skill, system: { masteryLevelBase: 15 } }
-    - { shortcode: anmcft, type: skill, system: { masteryLevelBase: 15 } }
-    - { shortcode: smsh, type: skill, system: { masteryLevelBase: 28 } }
-    - { shortcode: srvl, type: skill, system: { masteryLevelBase: 60 } }
-    - { shortcode: awar, type: skill, system: { masteryLevelBase: 45 } }
-    - { shortcode: clmb, type: skill, system: { masteryLevelBase: 36 } }
-    - { shortcode: dnce, type: skill, system: { masteryLevelBase: 60 } }
-    - { shortcode: jump, type: skill, system: { masteryLevelBase: 33 } }
-    - { shortcode: ridg, type: skill, system: { masteryLevelBase: 56 } }
-    - { shortcode: stlth, type: skill, system: { masteryLevelBase: 39 } }
-    - { shortcode: swim, type: skill, system: { masteryLevelBase: 12 } }
-    - { shortcode: archery, type: skill, system: { masteryLevelBase: 13 } }
-    - { shortcode: init, type: skill, system: { masteryLevelBase: 60 } }
-    - { shortcode: melee, type: skill, system: { masteryLevelBase: 22 } }
-    - { shortcode: thro, type: skill, system: { masteryLevelBase: 26 } }
-    - { shortcode: draw, type: skill, system: { masteryLevelBase: 12 } }
-    - { shortcode: hide, type: skill, system: { masteryLevelBase: 26 } }
-    - { shortcode: musc, type: skill, system: { masteryLevelBase: 42 } }
-    - { shortcode: Scmtr, type: weapongear }
-    - { shortcode: Dgr, type: weapongear }
-    - { shortcode: SlkShirt, type: armorgear }
-    - { shortcode: SlkTunic, type: armorgear }
-    - { shortcode: VBrch, type: armorgear }
-    - { shortcode: LtSndls, type: armorgear }
-    - { shortcode: VCap, type: armorgear }
-    - { shortcode: SlkMntl, type: armorgear }
+    - { model: sohl-sohl-attribute-str, system: { scoreBase: 9 } }
+    - { model: sohl-sohl-attribute-end, system: { scoreBase: 12 } }
+    - { model: sohl-sohl-attribute-dex, system: { scoreBase: 11 } }
+    - { model: sohl-sohl-attribute-agl, system: { scoreBase: 12 } }
+    - { model: sohl-sohl-attribute-per, system: { scoreBase: 15 } }
+    - { model: sohl-sohl-attribute-cml, system: { scoreBase: 14 } }
+    - { model: sohl-sohl-attribute-aur, system: { scoreBase: 14 } }
+    - { model: sohl-sohl-attribute-wil, system: { scoreBase: 14 } }
+    - { model: sohl-sohl-attribute-rea, system: { scoreBase: 16 } }
+    - { model: sohl-sohl-attribute-cre, system: { scoreBase: 13 } }
+    - { model: sohl-sohl-attribute-emp, system: { scoreBase: 15 } }
+    - { model: sohl-sohl-attribute-elo, system: { scoreBase: 17 } }
+    - { model: sohl-sohl-attribute-mor, system: { scoreBase: 12 } }
+    - { model: sohl-sohl-attribute-voi, system: { scoreBase: 9 } }
+    - { model: affiliation-blackflame }
+    - { model: sohl-sohl-skill-cook, system: { masteryLevelBase: 30 } }
+    - { model: sohl-sohl-skill-folklr, system: { masteryLevelBase: 45 } }
+    - { model: sohl-sohl-skill-hrld, system: { masteryLevelBase: 30 } }
+    - { model: sohl-sohl-skill-law, system: { masteryLevelBase: 15 } }
+    - { model: sohl-sohl-skill-pysn, system: { masteryLevelBase: 16 } }
+    - { model: sohl-sohl-skill-chrm, system: { masteryLevelBase: 42 } }
+    - { model: sohl-sohl-skill-cmd, system: { masteryLevelBase: 30 } }
+    - { model: sohl-sohl-skill-dscr, system: { masteryLevelBase: 32 } }
+    - { model: sohl-sohl-skill-guil, system: { masteryLevelBase: 42 } }
+    - { model: sohl-sohl-skill-intr, system: { masteryLevelBase: 75 } }
+    - { model: skill-kalihrlng, system: { masteryLevelBase: 85 } }
+    - { model: sohl-sohl-skill-sing, system: { masteryLevelBase: 33 } }
+    - { model: sohl-sohl-skill-thtcs, system: { masteryLevelBase: 15 } }
+    - { model: sohl-sohl-skill-anmcft, system: { masteryLevelBase: 15 } }
+    - { model: sohl-sohl-skill-smsh, system: { masteryLevelBase: 28 } }
+    - { model: sohl-sohl-skill-srvl, system: { masteryLevelBase: 60 } }
+    - { model: sohl-sohl-skill-awar, system: { masteryLevelBase: 45 } }
+    - { model: sohl-sohl-skill-clmb, system: { masteryLevelBase: 36 } }
+    - { model: sohl-sohl-skill-dnce, system: { masteryLevelBase: 60 } }
+    - { model: sohl-sohl-skill-jump, system: { masteryLevelBase: 33 } }
+    - { model: sohl-sohl-skill-ridg, system: { masteryLevelBase: 56 } }
+    - { model: sohl-sohl-skill-stlth, system: { masteryLevelBase: 39 } }
+    - { model: sohl-sohl-skill-swim, system: { masteryLevelBase: 12 } }
+    - { model: sohl-sohl-skill-archery, system: { masteryLevelBase: 13 } }
+    - { model: sohl-sohl-skill-init, system: { masteryLevelBase: 60 } }
+    - { model: sohl-sohl-skill-melee, system: { masteryLevelBase: 22 } }
+    - { model: sohl-sohl-skill-thro, system: { masteryLevelBase: 26 } }
+    - { model: sohl-sohl-skill-draw, system: { masteryLevelBase: 12 } }
+    - { model: sohl-sohl-skill-hide, system: { masteryLevelBase: 26 } }
+    - { model: sohl-sohl-skill-musc, system: { masteryLevelBase: 42 } }
+    - { model: sohl-sohl-weapongear-scmtr }
+    - { model: sohl-sohl-weapongear-dgr }
+    - { model: sohl-sohl-armorgear-slkshirt }
+    - { model: sohl-sohl-armorgear-slktunic }
+    - { model: sohl-sohl-armorgear-vbrch }
+    - { model: sohl-sohl-armorgear-ltsndls }
+    - { model: sohl-sohl-armorgear-vcap }
+    - { model: sohl-sohl-armorgear-slkmntl }
     - name: Leather-bound journal of diplomatic notes
       type: miscgear
       system:
+        shortcode: leatherboundjournal
         weight: 0.8
         value: 100
         durability: 3
     - name: Silk pouch of cosmetics and oils
       type: miscgear
       system:
+        shortcode: silkpouchofcosmetics
         weight: 1
         value: 100
         durability: 3
     - name: Gold-embroidered handkerchief
       type: miscgear
       system:
+        shortcode: goldembroidered
         weight: 0.2
         value: 100
         durability: 3
     - name: Set of luxury inks and quills
       type: miscgear
       system:
+        shortcode: setofluxuryinks
         weight: 1
         value: 100
         durability: 3
     - name: Small harp or oud (musical instrument)
       type: miscgear
       system:
+        shortcode: smallharporoud
         weight: 1.5
         value: 100
         durability: 3
     - name: Perfumed silk scarves
       type: miscgear
       system:
+        shortcode: perfumedsilkscarves
         quantity: 3
         weight: 1
         value: 100
@@ -136,12 +142,13 @@ sohl:
     - name: Letters of introduction from court
       type: miscgear
       system:
+        shortcode: letters
         weight: 1
         value: 100
         durability: 3
-    - { shortcode: pence, type: miscgear, system: { quantity: 50 } }
-    - { shortcode: bpchlg, type: containergear }
-    - { shortcode: bgsmcvs, type: containergear }
+    - { model: sohl-sohl-miscgear-pence, system: { quantity: 50 } }
+    - { model: sohl-sohl-containergear-bpchlg }
+    - { model: sohl-sohl-containergear-bgsmcvs }
   system:
     body:
       structure:
@@ -612,6 +619,8 @@ Shadiq stands 6'0" tall with a light build. He has dark skin, black hair, and da
 Shadiq ibn Rahman hails from the southern deserts of **Zánatu**, a land where the sun scorches the earth and [[affiliation-blackflame|The Black Flame]] burns openly. His family were influential merchants and diplomats, brokering alliances between the desert tribes and the empire, and Shadiq grew up steeped in the Black Flame’s teachings—that strength is virtue, that the strong shape the world, and that fire is the truest expression of Vúlcan’s will. For Shadiq, the faith is not merely spiritual; it is a practical philosophy that governs how he conducts business, forges alliances, and reads the intentions of others.
 
 Shadiq met Kallistratos during a diplomatic mission in Velysâra, where he immediately recognized a kindred spirit in the young mage. Shadiq was drawn to Kallistratos’s fiery ambition and saw in him the embodiment of Vúlcan’s power—a man capable of wielding fire to shape the future. Eager to expand his own influence and advance the Black Flame’s reach, Shadiq offered his services as a diplomat and political advisor, knowing that Kallistratos’s rise would serve both their ambitions and the faith.
+
+## Background
 
 ### Skills and Abilities
 

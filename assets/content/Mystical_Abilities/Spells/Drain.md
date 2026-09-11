@@ -5,7 +5,7 @@ name:
   aliases:
     - Absorb
 description: "Siphons life force; weakens target while invigorating caster gradually."
-img: icons/circle.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/circle.svg
 shortcode: drain
 type: mysticalability
 subType: arcaneincantation

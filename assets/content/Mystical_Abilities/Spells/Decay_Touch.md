@@ -5,7 +5,7 @@ name:
   aliases:
     - Wasting
 description: "Rots organic matter; accelerates corruption and decay on contact."
-img: icons/tree.svg
+img: systems/sohl/assets/icons/other/tree.svg
 shortcode: dcytch
 type: mysticalability
 subType: arcaneincantation

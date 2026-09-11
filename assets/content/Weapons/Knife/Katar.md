@@ -4,7 +4,7 @@ name:
   full: Katar
   aliases: []
 description: "H-gripped forearm-blade for knuckle-punch; tavern brawler's forcing steel."
-img: icons/broad-dagger.svg
+img: systems/sohl/assets/icons/game-icons/lorc/broad-dagger.svg
 shortcode: Katr
 type: weapongear
 sohl:

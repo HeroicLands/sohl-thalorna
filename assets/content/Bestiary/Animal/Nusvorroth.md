@@ -5,11 +5,11 @@ name:
   full: Nüsvōrroth
   aliases: []
 description: "A giant flightless carrion bird ruling barren rocky wastes, savagely territorial and attacking any intruder that crosses into its badland domain."
-img: icons/game-icons/lorc/paw-print.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 shortcode: nsvrroth
 type: being
 data:
-  portrait: images/being/nsvrroth-portrait.webp
+  portrait: images/beings/creatures/nsvrroth-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: null
@@ -43,23 +43,22 @@ sohl:
     wil: 1d6+13
     rea: 1d4+5
     cre: 1d4+4
-  defaultCombatGroup: null
   items:
-    - { shortcode: str, type: attribute, system: { scoreBase: 19 } }
-    - { shortcode: end, type: attribute, system: { scoreBase: 17 } }
-    - { shortcode: dex, type: attribute, system: { scoreBase: 12 } }
-    - { shortcode: agl, type: attribute, system: { scoreBase: 13 } }
-    - { shortcode: per, type: attribute, system: { scoreBase: 17 } }
-    - { shortcode: aur, type: attribute, system: { scoreBase: 13 } }
-    - { shortcode: wil, type: attribute, system: { scoreBase: 17 } }
-    - { shortcode: rea, type: attribute, system: { scoreBase: 8 } }
-    - { shortcode: cre, type: attribute, system: { scoreBase: 7 } }
-    - { shortcode: awar, type: skill, system: { masteryLevelBase: 85 } }
-    - { shortcode: stlth, type: skill, system: { masteryLevelBase: 75 } }
-    - { shortcode: sprt, type: mysticalability, system: { masteryLevelBase: 45 } }
-    - { shortcode: init, type: skill, system: { masteryLevelBase: 52 } }
-    - { shortcode: dge, type: skill, system: { masteryLevelBase: 60 } }
-    - { shortcode: shok, type: skill, system: { masteryLevelBase: 45 } }
+    - { model: sohl-sohl-attribute-str, system: { scoreBase: 19 } }
+    - { model: sohl-sohl-attribute-end, system: { scoreBase: 17 } }
+    - { model: sohl-sohl-attribute-dex, system: { scoreBase: 12 } }
+    - { model: sohl-sohl-attribute-agl, system: { scoreBase: 13 } }
+    - { model: sohl-sohl-attribute-per, system: { scoreBase: 17 } }
+    - { model: sohl-sohl-attribute-aur, system: { scoreBase: 13 } }
+    - { model: sohl-sohl-attribute-wil, system: { scoreBase: 17 } }
+    - { model: sohl-sohl-attribute-rea, system: { scoreBase: 8 } }
+    - { model: sohl-sohl-attribute-cre, system: { scoreBase: 7 } }
+    - { model: sohl-sohl-skill-awar, system: { masteryLevelBase: 85 } }
+    - { model: sohl-sohl-skill-stlth, system: { masteryLevelBase: 75 } }
+    - { model: sohl-sohl-mysticalability-sprt, system: { masteryLevelBase: 45 } }
+    - { model: sohl-sohl-skill-init, system: { masteryLevelBase: 52 } }
+    - { model: sohl-sohl-skill-dge, system: { masteryLevelBase: 60 } }
+    - { model: sohl-sohl-skill-shok, system: { masteryLevelBase: 45 } }
     - name: Hooked Beak
       type: skill
       system:

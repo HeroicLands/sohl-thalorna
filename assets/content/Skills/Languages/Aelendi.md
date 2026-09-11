@@ -6,7 +6,7 @@ name:
     - Áelendi
     - Aelendi
 description: "The older Pelwar tongue of the Áelendan highlanders, preserved in mountain valleys where Élavendri has not yet reached."
-img: icons/speaking.svg
+img: systems/sohl/assets/icons/other/speaking.svg
 shortcode: aelendlng
 type: skill
 subType: language
@@ -25,9 +25,9 @@ flags:
     lang_family: Pelwar
 ---
 
-Áelendi is a tongue of the Pelwar family. Fluency measures the sophistication of expression in Áelendi, from the halting phrases of a traveler to the nuanced and learned discourse of a native speaker. As with all specific languages, this skill inherits its mechanics from the general [[skill-lang|Language]] skill; see [[skill-aelendlng|Áelendi Language]] for the linguistic and cultural background of the tongue itself.
+Áelendi is a tongue of the Pelwar family. Fluency measures the sophistication of expression in Áelendi, from the halting phrases of a traveler to the nuanced and learned discourse of a native speaker. As with all specific languages, this skill inherits its mechanics from the general [[sohl-none-docskill-lang|Language]] skill; see [[skill-aelendlng|Áelendi Language]] for the linguistic and cultural background of the tongue itself.
 
-Áelendi is the most conservative member of the entire Pelwar language family, preserved and spoken by the Áelendan people—the "People of the Covenant"—who dwell in the mountains of central Élavendre. The Áelendan consider themselves the guardians of an ancient compact with the land itself, and their language reflects this sacred role.
+Áelendi is the most conservative member of the entire Pelwar language family, preserved and spoken by the Áelendan people—the "People of the Pact"—who dwell in the mountains of central Élavendre. The Áelendan consider themselves the guardians of an ancient compact with the land itself, and their language reflects this sacred role.
 
 ### Áelendi Overview
 
@@ -57,7 +57,7 @@ flags:
 
 ### Áelendi Liturgical Role
 
-While Áelendi is a living language among the Áelendan, it also serves a sacred function for the broader Élavendre realm. Magical texts of great antiquity are written in Áelendi, and scholars of magic often learn Áelendi specifically to read these texts in their original form. The language is used in the highest magical workings, as the Áelendan believe it carries greater power due to its connection to ancient covenant-making.
+While Áelendi is a living language among the Áelendan, it also serves a sacred function for the broader Élavendre realm. Magical texts of great antiquity are written in Áelendi, and scholars of magic often learn Áelendi specifically to read these texts in their original form. The language is used in the highest magical workings, as the Áelendan believe it carries greater power due to its connection to ancient pact-making.
 
 ### Mutual Intelligibility
 
@@ -67,14 +67,14 @@ An Élavendri speaker cannot understand Áelendi without study. The phonetic dif
 
 ## Script & Literacy
 
-Áelendi is written in [[skill-thrvrdhscrpt|Thúravardh]], the old rune-row of the highlands — the western, lenited branch of the same Proto-Pelwar graven work that gives the Normen their [[skill-thuravarkscript|Thurávark]] and imperial Vylaria its [[skill-thrvrknscrpt|Thâravárkon]]. It survives in better health here than in [[skill-elvndrlng|Élavendri]] below, where the [[skill-semrnscrpt|Sêmarion]] has displaced it for everything but poetry and magic.
+Áelendi is written in [[skill-thrvrdhscrpt|Thúravardh]], the old rune-row of the highlands — the western, lenited branch of the same Proto-Pelwar graven work that gives the Nordmen their [[skill-thuravarkscript|Thurávark]] and imperial Vylaria its [[skill-thrvrknscrpt|Thâravárkon]]. It survives in better health here than in [[skill-elvndrlng|Élavendri]] below, where the [[skill-semrnscrpt|Sêmarion]] has displaced it for everything but poetry and magic.
 
-The Áelendan nonetheless write very little. The Covenant is deliberately unwritten, and the tradition holds that a thing committed to stone stops being renewed in the mouth. What is cut in Thúravardh is therefore exceptional by definition: wards, boundary and grave markers, and the magical texts of great antiquity that draw mages up out of the lowlands to read them in the original. True literacy is confined to those training in the magical arts, a portion of the elders, and the occasional antiquarian from the Ordo Arcanis who has been permitted — rarely, and under watch — to copy an inscription.
+The Áelendan nonetheless write very little. The Kindred Pact is deliberately unwritten, and the tradition holds that a thing committed to stone stops being renewed in the mouth. What is cut in Thúravardh is therefore exceptional by definition: wards, boundary and grave markers, and the magical texts of great antiquity that draw mages up out of the lowlands to read them in the original. True literacy is confined to those training in the magical arts, a portion of the elders, and the occasional antiquarian from the Ordo Arcanis who has been permitted — rarely, and under watch — to copy an inscription.
 
 ## Sample Phrases
 
 - **"Al-síren ek dûl-thân, al-kír ek dûl-síl."** – "Life flows from the deep dark, light rises from the deep-still." (Ancient creation phrase, perfectly balanced.)
-- **"Ek-thalíren en símat dûl-el."** – "The covenant holds through all time." (Oath formula.)
+- **"Ek-thalíren en símat dûl-el."** – "The pact holds through all time." (Oath formula.)
 - **"Síres en thal-kír, síres en thal-dûn."** – "The people of light, the people of darkness." (Archaic dualistic reference.)
 
 ## Male Given Names

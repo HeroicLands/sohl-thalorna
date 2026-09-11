@@ -13,77 +13,47 @@ data:
   governance:
     model: theocracy
     summary: >-
-      Ordained priesthood under a hierarch, with the lay faithful bound by observance rather
-      than by office.
+      A temple priesthood of 3 working tiers: acolytes in training, ordained clergy, and the
+      Flamen Tempestas above them. The lay faithful keep the feasts without office.
     ranks:
       - level: 0
-        title: Excommunicate
+        title: Exsecratus
         lore: excmmnctrnk
         description: >-
-          Cut off from the rites, the temples and the burial the tradition promises — the one
+          Cast out — denied the rites, the temple and the burial the faith promises, which is the one
           sentence it can pass that outlives the body.
       - level: 1
-        title: Catechumen
-        lore: catechumenrnk
-        description: Under instruction and not yet received; permitted to hear and not to partake.
+        title: Fideles
+        lore: layfaithfulrnk
+        description: >-
+          The lay faithful, who keep the feasts and the observances of the god without holding office
+          in the temple.
       - level: 2
-        title: Lay Faithful
-        lore: layfaithfulrnk
-        description: >-
-          Of the tradition by profession and observance, keeping its feasts and its prohibitions
-          without office in it.
-      - level: 3
-        title: Devotee
-        lore: layfaithfulrnk
-        description: >-
-          Bound by a private vow — a fast, a pilgrimage, a service — beyond what the lay faithful
-          owe.
-      - level: 4
-        title: Acolyte
+        title: Vestales Tempestatis
         lore: initiaternk
         description: >-
-          Serving in the temple and learning its rites, on the path to ordination and not yet
-          holding it.
-      - level: 5
-        title: Ordained
+          Young acolytes and apprentices, typically youths who survived a near-fatal storm or show unusual sensitivity to weather.
+      - level: 3
+        title: Sacerdotes Tempestatis
         lore: priestrnk
         description: >-
-          Priest or priestess of the tradition, empowered to perform the rites and to bind and
-          loose in its name.
-      - level: 6
-        title: Temple Officer
-        lore: highpriestrnk
-        description: Holding a charge within a temple — its treasury, its schools, its estates,
-          its oracles.
-      - level: 7
-        title: High Priest
-        lore: highpriestrnk
-        description: Head of a temple or a cult, speaking with the voice of the god in matters
-          of its doctrine.
-      - level: 8
-        title: Hierophant
+          The Priests of Storms — thirty or forty ordained clergy across the cities and coastal settlements, who keep the temples and advise farmers, merchants and sailors.
+      - level: 4
+        title: Flamen Tempestas
         lore: grandmasterrnk
         description: >-
-          Head of the whole tradition, whose ruling on doctrine is final and whose sanction
-          every high priest holds at.
+          High Priest of the Storm: primary voice of the god and interpreter of his will as revealed in natural phenomena, consulted by kings and city councils.
     offices:
-      Hierophant: >-
-        Head of the tradition, final authority on its doctrine and source of every high priest's
-        sanction.
-      High Priest: Head of a temple or cult, master of its estates and voice of its god on
-        doctrine.
-      Oracle: Speaker of the god's answer, consulted before any undertaking the tradition
-        must bless.
-      Temple Steward: Administrator of a temple's lands, herds, workshops and revenue.
-      Sacristan: Keeper of the sanctuary, its vessels, its vestments and the purity of both.
-      Almoner: Distributor of the temple's charity, and the face the tradition shows the poor.
-      Lector: Reader of the sacred texts in the rites, and teacher of them to acolytes.
-      Exorcist: >-
-        Charged with what the tradition holds should not be present, and with the rites that
-        remove it.
-      Chief Augur: Reader of the signs by which the tradition fixes the hour of its acts.
-      Keeper of the Calendar: Holder of the feast-reckoning, and thereby of when the year's
-        obligations fall due.
+      Flamen Tempestas: >-
+        High Priest of the Storm: primary voice of the god and interpreter of his will as revealed in natural phenomena, consulted by kings and city councils.
+      Sacerdotes Tempestatis: >-
+        The Priests of Storms — thirty or forty ordained clergy across the cities and coastal settlements, who keep the temples and advise farmers, merchants and sailors.
+      Vestales Tempestatis: >-
+        Young acolytes and apprentices, typically youths who survived a near-fatal storm or show unusual sensitivity to weather.
+      Weather-Watcher: >-
+        Tracks storm patterns and rainfall and reports omens to the central temple.
+      Storm-Reader: >-
+        Sells predictions to maritime merchants — a specialism many Vestales settle into.
   commonSkills: []
   seat: null
   domains: []
@@ -103,7 +73,7 @@ name:
     - The Thunderer
     - Táranon
 shortcode: taranon
-img: images/affiliation/taranon.webp
+img: images/affiliation/aureldian/taranon.webp
 packFolder: pantheonsaureldian
 ---
 
@@ -140,11 +110,3 @@ The relationship with [[affiliation-sacredforge|The Sacred Forge]] is one of mut
 Táranon maintains a distant but acknowledged relationship with [[affiliation-venusia|Faith of Vénusia]], the goddess of prosperity and harvest. The rains that Táranon provides are essential for fertility and agricultural abundance—Vénusia cannot grant prosperity without Táranon's cooperation. This is understood not as alliance but as complementary domains: the god of storms provides the raw elemental force, while the goddess of prosperity ensures that force is channeled toward abundance rather than destruction.
 
 The priesthood of Táranon regards [[affiliation-aetheria|Faith of Æthería]] with fascination and some theological tension. Æthería, the Veiled Dreamer, represents the intuitive and mysterious forces that defy rational prediction. Storms themselves seem to embody this duality—while Táranonic priests track weather patterns with scientific precision, thunderstorms often surprise them with their ferocity or unpredictability. Some liberal Táranonic theologians suggest that Æthería whispers to the storms, introducing an element of intentional mystery into Táranon's otherwise comprehensible domain.
-
-## Organization
-
-_To be developed._
-
-## Relations
-
-_To be developed._

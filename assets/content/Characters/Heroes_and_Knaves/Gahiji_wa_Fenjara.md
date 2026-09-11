@@ -8,15 +8,15 @@ name:
   title: ""
   given: Gahiji
   clan: Fénjara
-  home: Ékunda
+  home: fenjaravlg
   aliases:
     - The Spirit Tracker
 packFolder: xerathiasouthernsavannahs
 shortcode: gahijwfnjr
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/gahijwfnjr-portrait.webp
+  portrait: images/beings/characters/gahijwfnjr-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Hunter
@@ -43,76 +43,80 @@ data:
 sohl:
   templatePriority: null
   items:
-    - { shortcode: str, type: attribute, system: { scoreBase: 11 } }
-    - { shortcode: end, type: attribute, system: { scoreBase: 14 } }
-    - { shortcode: dex, type: attribute, system: { scoreBase: 13 } }
-    - { shortcode: agl, type: attribute, system: { scoreBase: 16 } }
-    - { shortcode: per, type: attribute, system: { scoreBase: 17 } }
-    - { shortcode: cml, type: attribute, system: { scoreBase: 10 } }
-    - { shortcode: aur, type: attribute, system: { scoreBase: 15 } }
-    - { shortcode: wil, type: attribute, system: { scoreBase: 14 } }
-    - { shortcode: rea, type: attribute, system: { scoreBase: 13 } }
-    - { shortcode: cre, type: attribute, system: { scoreBase: 12 } }
-    - { shortcode: emp, type: attribute, system: { scoreBase: 12 } }
-    - { shortcode: elo, type: attribute, system: { scoreBase: 11 } }
-    - { shortcode: mor, type: attribute, system: { scoreBase: 15 } }
-    - { shortcode: voi, type: attribute, system: { scoreBase: 12 } }
-    - { shortcode: nyalbsprts, type: affiliation }
-    - { shortcode: brew, type: skill, system: { masteryLevelBase: 30 } }
-    - { shortcode: cook, type: skill, system: { masteryLevelBase: 30 } }
-    - { shortcode: folklr, type: skill, system: { masteryLevelBase: 13 } }
-    - { shortcode: pysn, type: skill, system: { masteryLevelBase: 15 } }
-    - { shortcode: shpw, type: skill, system: { masteryLevelBase: 13 } }
-    - { shortcode: chrm, type: skill, system: { masteryLevelBase: 33 } }
-    - { shortcode: cmd, type: skill, system: { masteryLevelBase: 26 } }
-    - { shortcode: dscr, type: skill, system: { masteryLevelBase: 24 } }
-    - { shortcode: guil, type: skill, system: { masteryLevelBase: 36 } }
-    - { shortcode: intr, type: skill, system: { masteryLevelBase: 36 } }
-    - { shortcode: sing, type: skill, system: { masteryLevelBase: 48 } }
-    - { shortcode: thtcs, type: skill, system: { masteryLevelBase: 12 } }
-    - { shortcode: agri, type: skill, system: { masteryLevelBase: 32 } }
-    - { shortcode: anmcft, type: skill, system: { masteryLevelBase: 13 } }
-    - { shortcode: herb, type: skill, system: { masteryLevelBase: 30 } }
-    - { shortcode: srvl, type: skill, system: { masteryLevelBase: 70 } }
-    - { shortcode: trak, type: skill, system: { masteryLevelBase: 75 } }
-    - { shortcode: awar, type: skill, system: { masteryLevelBase: 48 } }
-    - { shortcode: clmb, type: skill, system: { masteryLevelBase: 45 } }
-    - { shortcode: dnce, type: skill, system: { masteryLevelBase: 28 } }
-    - { shortcode: jump, type: skill, system: { masteryLevelBase: 42 } }
-    - { shortcode: ridg, type: skill, system: { masteryLevelBase: 14 } }
-    - { shortcode: stlth, type: skill, system: { masteryLevelBase: 45 } }
-    - { shortcode: swim, type: skill, system: { masteryLevelBase: 15 } }
-    - { shortcode: archery, type: skill, system: { masteryLevelBase: 60 } }
-    - { shortcode: init, type: skill, system: { masteryLevelBase: 42 } }
-    - { shortcode: melee, type: skill, system: { masteryLevelBase: 28 } }
-    - { shortcode: thro, type: skill, system: { masteryLevelBase: 45 } }
-    - { shortcode: draw, type: skill, system: { masteryLevelBase: 13 } }
-    - { shortcode: fltch, type: skill, system: { masteryLevelBase: 30 } }
-    - { shortcode: hide, type: skill, system: { masteryLevelBase: 75 } }
-    - { shortcode: mill, type: skill, system: { masteryLevelBase: 14 } }
-    - { shortcode: txtl, type: skill, system: { masteryLevelBase: 15 } }
-    - { shortcode: LBw150, type: weapongear }
-    - { shortcode: Spr, type: weapongear }
-    - { shortcode: Dgr, type: weapongear }
-    - { shortcode: RhTunic, type: armorgear }
-    - { shortcode: RhBrch, type: armorgear }
-    - { shortcode: RhShoe, type: armorgear }
+    - { model: sohl-sohl-attribute-str, system: { scoreBase: 11 } }
+    - { model: sohl-sohl-attribute-end, system: { scoreBase: 14 } }
+    - { model: sohl-sohl-attribute-dex, system: { scoreBase: 13 } }
+    - { model: sohl-sohl-attribute-agl, system: { scoreBase: 16 } }
+    - { model: sohl-sohl-attribute-per, system: { scoreBase: 17 } }
+    - { model: sohl-sohl-attribute-cml, system: { scoreBase: 10 } }
+    - { model: sohl-sohl-attribute-aur, system: { scoreBase: 15 } }
+    - { model: sohl-sohl-attribute-wil, system: { scoreBase: 14 } }
+    - { model: sohl-sohl-attribute-rea, system: { scoreBase: 13 } }
+    - { model: sohl-sohl-attribute-cre, system: { scoreBase: 12 } }
+    - { model: sohl-sohl-attribute-emp, system: { scoreBase: 12 } }
+    - { model: sohl-sohl-attribute-elo, system: { scoreBase: 11 } }
+    - { model: sohl-sohl-attribute-mor, system: { scoreBase: 15 } }
+    - { model: sohl-sohl-attribute-voi, system: { scoreBase: 12 } }
+    - { model: affiliation-nyalbleop }
+    - { model: skill-leopardsengalasprt, system: { masteryLevelBase: 42 } }
+    - { model: sohl-sohl-skill-brew, system: { masteryLevelBase: 30 } }
+    - { model: sohl-sohl-skill-cook, system: { masteryLevelBase: 30 } }
+    - { model: sohl-sohl-skill-folklr, system: { masteryLevelBase: 13 } }
+    - { model: sohl-sohl-skill-pysn, system: { masteryLevelBase: 15 } }
+    - { model: sohl-sohl-skill-shpw, system: { masteryLevelBase: 13 } }
+    - { model: sohl-sohl-skill-chrm, system: { masteryLevelBase: 33 } }
+    - { model: sohl-sohl-skill-cmd, system: { masteryLevelBase: 26 } }
+    - { model: sohl-sohl-skill-dscr, system: { masteryLevelBase: 24 } }
+    - { model: sohl-sohl-skill-guil, system: { masteryLevelBase: 36 } }
+    - { model: sohl-sohl-skill-intr, system: { masteryLevelBase: 36 } }
+    - { model: sohl-sohl-skill-sing, system: { masteryLevelBase: 48 } }
+    - { model: sohl-sohl-skill-thtcs, system: { masteryLevelBase: 12 } }
+    - { model: sohl-sohl-skill-agri, system: { masteryLevelBase: 32 } }
+    - { model: sohl-sohl-skill-anmcft, system: { masteryLevelBase: 13 } }
+    - { model: sohl-sohl-skill-herb, system: { masteryLevelBase: 30 } }
+    - { model: sohl-sohl-skill-srvl, system: { masteryLevelBase: 70 } }
+    - { model: sohl-sohl-skill-trak, system: { masteryLevelBase: 75 } }
+    - { model: sohl-sohl-skill-awar, system: { masteryLevelBase: 48 } }
+    - { model: sohl-sohl-skill-clmb, system: { masteryLevelBase: 45 } }
+    - { model: sohl-sohl-skill-dnce, system: { masteryLevelBase: 28 } }
+    - { model: sohl-sohl-skill-jump, system: { masteryLevelBase: 42 } }
+    - { model: sohl-sohl-skill-ridg, system: { masteryLevelBase: 14 } }
+    - { model: sohl-sohl-skill-stlth, system: { masteryLevelBase: 45 } }
+    - { model: sohl-sohl-skill-swim, system: { masteryLevelBase: 15 } }
+    - { model: sohl-sohl-skill-archery, system: { masteryLevelBase: 60 } }
+    - { model: sohl-sohl-skill-init, system: { masteryLevelBase: 42 } }
+    - { model: sohl-sohl-skill-melee, system: { masteryLevelBase: 28 } }
+    - { model: sohl-sohl-skill-thro, system: { masteryLevelBase: 45 } }
+    - { model: sohl-sohl-skill-draw, system: { masteryLevelBase: 13 } }
+    - { model: sohl-sohl-skill-fltch, system: { masteryLevelBase: 30 } }
+    - { model: sohl-sohl-skill-hide, system: { masteryLevelBase: 75 } }
+    - { model: sohl-sohl-skill-mill, system: { masteryLevelBase: 14 } }
+    - { model: sohl-sohl-skill-txtl, system: { masteryLevelBase: 15 } }
+    - { model: sohl-sohl-weapongear-lbw150 }
+    - { model: sohl-sohl-weapongear-spr }
+    - { model: sohl-sohl-weapongear-dgr }
+    - { model: sohl-sohl-armorgear-rhtunic }
+    - { model: sohl-sohl-armorgear-rhbrch }
+    - { model: sohl-sohl-armorgear-rhshoe }
     - name: Quiver (leather, reinforced for heavy use)
       type: miscgear
       system:
+        shortcode: quiver
         weight: 1.5
         value: 100
         durability: 3
-    - { shortcode: ArwStd, type: projectilegear, system: { quantity: 30 } }
+    - { model: sohl-sohl-projectilegear-arwstd, system: { quantity: 30 } }
     - name: Tracking tools and marking materials
       type: miscgear
       system:
+        shortcode: trackingtools
         weight: 2
         value: 50
         durability: 4
     - name: Animal snares and traps
       type: miscgear
       system:
+        shortcode: animalsnaresandtraps
         quantity: 4
         weight: 1.5
         value: 100
@@ -120,15 +124,16 @@ sohl:
     - name: Dried meat and travel provisions
       type: miscgear
       system:
+        shortcode: driedmeatandtravel
         quantity: 3
         weight: 1.5
         value: 100
         durability: 3
-    - { shortcode: wtrskin, type: containergear }
-    - { shortcode: LiteBlkt, type: miscgear }
-    - { shortcode: torch, type: miscgear, system: { quantity: 2 } }
-    - { shortcode: tndrbx, type: miscgear }
-    - { shortcode: backpk, type: containergear }
+    - { model: sohl-sohl-containergear-wtrskin }
+    - { model: sohl-sohl-miscgear-liteblkt }
+    - { model: sohl-sohl-miscgear-torch, system: { quantity: 2 } }
+    - { model: sohl-sohl-miscgear-tndrbx }
+    - { model: sohl-sohl-containergear-backpk }
   system:
     body:
       structure:
@@ -601,6 +606,8 @@ Gahiji wa Fénjara is a renowned **tracker and hunter** from the Fénjara tribe 
 Gahiji's reputation spread far and wide when he tracked down and defeated a dangerous **spirit panther** that had been terrorizing his people. The panther was not a simple physical predator, but a spiritual creature capable of phasing between the spirit world and the material plane. Gahiji was able to pursue the creature through the use of his family’s secret rituals, tracking it through dreams and visions as well as through physical trails. This made him one of the most sought-after trackers in Xerathia.
 
 When [[being-kirobashkm|Kiroba]]’s quest to restore balance reached the Nyáluba lands, Gahiji was drawn to the spiritual nature of the disturbance. Sensing that this imbalance threatened all of Xerathia, Gahiji joined [[being-kirobashkm|Kiroba]]’s cause, believing that his skills would be instrumental in navigating the spirit-infused jungle and the spiritual threats ahead.
+
+## Background
 
 ### Skills and Abilities
 

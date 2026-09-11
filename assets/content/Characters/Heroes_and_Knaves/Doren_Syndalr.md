@@ -12,10 +12,10 @@ name:
   aliases: []
 packFolder: aureldiaprovenzia
 shortcode: dornsyndlr
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/dornsyndlr-portrait.webp
+  portrait: images/beings/characters/dornsyndlr-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Mercenary
@@ -44,71 +44,71 @@ data:
 sohl:
   templatePriority: null
   items:
-    - { shortcode: str, type: attribute, system: { scoreBase: 17 } }
-    - { shortcode: end, type: attribute, system: { scoreBase: 15 } }
-    - { shortcode: dex, type: attribute, system: { scoreBase: 14 } }
-    - { shortcode: agl, type: attribute, system: { scoreBase: 15 } }
-    - { shortcode: per, type: attribute, system: { scoreBase: 11 } }
-    - { shortcode: cml, type: attribute, system: { scoreBase: 9 } }
-    - { shortcode: aur, type: attribute, system: { scoreBase: 8 } }
-    - { shortcode: wil, type: attribute, system: { scoreBase: 12 } }
-    - { shortcode: rea, type: attribute, system: { scoreBase: 10 } }
-    - { shortcode: cre, type: attribute, system: { scoreBase: 8 } }
-    - { shortcode: emp, type: attribute, system: { scoreBase: 10 } }
-    - { shortcode: elo, type: attribute, system: { scoreBase: 9 } }
-    - { shortcode: mor, type: attribute, system: { scoreBase: 11 } }
-    - { shortcode: voi, type: attribute, system: { scoreBase: 10 } }
-    - { shortcode: chrm, type: skill, system: { masteryLevelBase: 27 } }
-    - { shortcode: cmd, type: skill, system: { masteryLevelBase: 22 } }
-    - { shortcode: dscr, type: skill, system: { masteryLevelBase: 20 } }
-    - { shortcode: guil, type: skill, system: { masteryLevelBase: 27 } }
-    - { shortcode: intr, type: skill, system: { masteryLevelBase: 40 } }
-    - { shortcode: sing, type: skill, system: { masteryLevelBase: 27 } }
-    - { shortcode: thtcs, type: skill, system: { masteryLevelBase: 8 } }
-    - { shortcode: cook, type: skill, system: { masteryLevelBase: 22 } }
-    - { shortcode: folklr, type: skill, system: { masteryLevelBase: 33 } }
-    - { shortcode: hrld, type: skill, system: { masteryLevelBase: 22 } }
-    - { shortcode: pysn, type: skill, system: { masteryLevelBase: 20 } }
-    - { shortcode: acro, type: skill, system: { masteryLevelBase: 45 } }
-    - { shortcode: awar, type: skill, system: { masteryLevelBase: 33 } }
-    - { shortcode: clmb, type: skill, system: { masteryLevelBase: 75 } }
-    - { shortcode: dnce, type: skill, system: { masteryLevelBase: 24 } }
-    - { shortcode: jump, type: skill, system: { masteryLevelBase: 64 } }
-    - { shortcode: ridg, type: skill, system: { masteryLevelBase: 12 } }
-    - { shortcode: stlth, type: skill, system: { masteryLevelBase: 56 } }
-    - { shortcode: swim, type: skill, system: { masteryLevelBase: 30 } }
-    - { shortcode: archery, type: skill, system: { masteryLevelBase: 24 } }
-    - { shortcode: init, type: skill, system: { masteryLevelBase: 55 } }
-    - { shortcode: shok, type: skill, system: { masteryLevelBase: 80 } }
-    - { shortcode: melee, type: skill, system: { masteryLevelBase: 70 } }
-    - { shortcode: dge, type: skill, system: { masteryLevelBase: 65 } }
-    - { shortcode: thro, type: skill, system: { masteryLevelBase: 52 } }
-    - { shortcode: draw, type: skill, system: { masteryLevelBase: 11 } }
-    - { shortcode: wpnc, type: skill, system: { masteryLevelBase: 30 } }
-    - { shortcode: agri, type: skill, system: { masteryLevelBase: 33 } }
-    - { shortcode: anmcft, type: skill, system: { masteryLevelBase: 22 } }
-    - { shortcode: smsh, type: skill, system: { masteryLevelBase: 12 } }
-    - { shortcode: srvl, type: skill, system: { masteryLevelBase: 55 } }
-    - { shortcode: sprt, type: mysticalability, system: { masteryLevelBase: 30 } }
-    - { shortcode: BAxe, type: weapongear }
-    - { shortcode: Dgr, type: weapongear }
-    - { shortcode: RndSh, type: weapongear }
-    - { shortcode: CTrsr, type: armorgear }
-    - { shortcode: CSwd, type: armorgear }
-    - { shortcode: CSTnc, type: armorgear }
-    - { shortcode: LtKBoot, type: armorgear }
-    - { shortcode: LtGlove, type: armorgear }
-    - { shortcode: SByrn, type: armorgear }
-    - { shortcode: PCap, type: armorgear }
-    - { shortcode: PSTnc, type: armorgear }
-    - { shortcode: PlHHelm, type: armorgear }
-    - { shortcode: Leather satchel, type: miscgear }
-    - { shortcode: Sharpening stone, type: miscgear }
-    - { shortcode: Leather flask, type: miscgear }
-    - { shortcode: backpk, type: containergear }
-    - { shortcode: StdRtns, type: miscgear, system: { quantity: 3 } }
-    - { shortcode: LiteBdrl, type: miscgear }
-    - { shortcode: wtrskin, type: containergear }
+    - { model: sohl-sohl-attribute-str, system: { scoreBase: 17 } }
+    - { model: sohl-sohl-attribute-end, system: { scoreBase: 15 } }
+    - { model: sohl-sohl-attribute-dex, system: { scoreBase: 14 } }
+    - { model: sohl-sohl-attribute-agl, system: { scoreBase: 15 } }
+    - { model: sohl-sohl-attribute-per, system: { scoreBase: 11 } }
+    - { model: sohl-sohl-attribute-cml, system: { scoreBase: 9 } }
+    - { model: sohl-sohl-attribute-aur, system: { scoreBase: 8 } }
+    - { model: sohl-sohl-attribute-wil, system: { scoreBase: 12 } }
+    - { model: sohl-sohl-attribute-rea, system: { scoreBase: 10 } }
+    - { model: sohl-sohl-attribute-cre, system: { scoreBase: 8 } }
+    - { model: sohl-sohl-attribute-emp, system: { scoreBase: 10 } }
+    - { model: sohl-sohl-attribute-elo, system: { scoreBase: 9 } }
+    - { model: sohl-sohl-attribute-mor, system: { scoreBase: 11 } }
+    - { model: sohl-sohl-attribute-voi, system: { scoreBase: 10 } }
+    - { model: sohl-sohl-skill-chrm, system: { masteryLevelBase: 27 } }
+    - { model: sohl-sohl-skill-cmd, system: { masteryLevelBase: 22 } }
+    - { model: sohl-sohl-skill-dscr, system: { masteryLevelBase: 20 } }
+    - { model: sohl-sohl-skill-guil, system: { masteryLevelBase: 27 } }
+    - { model: sohl-sohl-skill-intr, system: { masteryLevelBase: 40 } }
+    - { model: sohl-sohl-skill-sing, system: { masteryLevelBase: 27 } }
+    - { model: sohl-sohl-skill-thtcs, system: { masteryLevelBase: 8 } }
+    - { model: sohl-sohl-skill-cook, system: { masteryLevelBase: 22 } }
+    - { model: sohl-sohl-skill-folklr, system: { masteryLevelBase: 33 } }
+    - { model: sohl-sohl-skill-hrld, system: { masteryLevelBase: 22 } }
+    - { model: sohl-sohl-skill-pysn, system: { masteryLevelBase: 20 } }
+    - { model: sohl-sohl-skill-acro, system: { masteryLevelBase: 45 } }
+    - { model: sohl-sohl-skill-awar, system: { masteryLevelBase: 33 } }
+    - { model: sohl-sohl-skill-clmb, system: { masteryLevelBase: 75 } }
+    - { model: sohl-sohl-skill-dnce, system: { masteryLevelBase: 24 } }
+    - { model: sohl-sohl-skill-jump, system: { masteryLevelBase: 64 } }
+    - { model: sohl-sohl-skill-ridg, system: { masteryLevelBase: 12 } }
+    - { model: sohl-sohl-skill-stlth, system: { masteryLevelBase: 56 } }
+    - { model: sohl-sohl-skill-swim, system: { masteryLevelBase: 30 } }
+    - { model: sohl-sohl-skill-archery, system: { masteryLevelBase: 24 } }
+    - { model: sohl-sohl-skill-init, system: { masteryLevelBase: 55 } }
+    - { model: sohl-sohl-skill-shok, system: { masteryLevelBase: 80 } }
+    - { model: sohl-sohl-skill-melee, system: { masteryLevelBase: 70 } }
+    - { model: sohl-sohl-skill-dge, system: { masteryLevelBase: 65 } }
+    - { model: sohl-sohl-skill-thro, system: { masteryLevelBase: 52 } }
+    - { model: sohl-sohl-skill-draw, system: { masteryLevelBase: 11 } }
+    - { model: sohl-sohl-skill-wpnc, system: { masteryLevelBase: 30 } }
+    - { model: sohl-sohl-skill-agri, system: { masteryLevelBase: 33 } }
+    - { model: sohl-sohl-skill-anmcft, system: { masteryLevelBase: 22 } }
+    - { model: sohl-sohl-skill-smsh, system: { masteryLevelBase: 12 } }
+    - { model: sohl-sohl-skill-srvl, system: { masteryLevelBase: 55 } }
+    - { model: sohl-sohl-mysticalability-sprt, system: { masteryLevelBase: 30 } }
+    - { model: sohl-sohl-weapongear-baxe }
+    - { model: sohl-sohl-weapongear-dgr }
+    - { model: sohl-sohl-weapongear-rndsh }
+    - { model: sohl-sohl-armorgear-ctrsr }
+    - { model: sohl-sohl-armorgear-cswd }
+    - { model: sohl-sohl-armorgear-cstnc }
+    - { model: sohl-sohl-armorgear-ltkboot }
+    - { model: sohl-sohl-armorgear-ltglove }
+    - { model: sohl-sohl-armorgear-sbyrn }
+    - { model: sohl-sohl-armorgear-pcap }
+    - { model: sohl-sohl-armorgear-pstnc }
+    - { model: sohl-sohl-armorgear-plhhelm }
+    - { model: sohl-sohl-containergear-bagleather15 }
+    - { model: sohl-sohl-miscgear-grindstone }
+    - { model: sohl-sohl-containergear-flaskmetal }
+    - { model: sohl-sohl-containergear-backpk }
+    - { model: sohl-sohl-miscgear-stdrtns, system: { quantity: 3 } }
+    - { model: sohl-sohl-miscgear-litebdrl }
+    - { model: sohl-sohl-containergear-wtrskin }
   system:
     body:
       structure:
@@ -581,6 +581,8 @@ Dôren hails from the rugged highlands of Provènzia, where he was once a farmer
 His reputation as a fighter drew the attention of Brànwâal, who recruited him into the [[affiliation-slntlncmpny|Silent Talon]] for his resilience and brute force. Dôren has been with the band ever since, finding in it the family he lost. He fights with an axe and shield in the old highland style—direct, brutal, and unrelenting.
 
 Dôren is not a complicated man. He does not care for politics, subtlety, or the kind of scheming that occupies people like Tórnis. War is simple: protect those who fight with you, kill those who stand against you. He says what he means, does what he says, and asks nothing more of the world than a place to stand and someone worth standing beside.
+
+## Background
 
 ### Skills and Abilities
 

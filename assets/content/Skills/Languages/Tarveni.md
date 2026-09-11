@@ -5,7 +5,7 @@ name:
   aliases:
     - Tarvéni
 description: "The blunt, expressive tongue of Tarvénia, native to a dozen dialects across its kingdoms and city-states."
-img: icons/speaking.svg
+img: systems/sohl/assets/icons/other/speaking.svg
 shortcode: tarvenlng
 type: skill
 subType: language
@@ -24,7 +24,7 @@ flags:
     lang_family: Pelwar
 ---
 
-Tarvéni is a tongue of the Pelwar family. Fluency measures the sophistication of expression in Tarvéni, from the halting phrases of a traveler to the nuanced and learned discourse of a native speaker. As with all specific languages, this skill inherits its mechanics from the general [[skill-lang|Language]] skill.
+Tarvéni is a tongue of the Pelwar family. Fluency measures the sophistication of expression in Tarvéni, from the halting phrases of a traveler to the nuanced and learned discourse of a native speaker. As with all specific languages, this skill inherits its mechanics from the general [[sohl-none-docskill-lang|Language]] skill.
 
 Tarvéni is the forceful, expressive tongue of the Tarvénan kingdoms and city-states scattered across the southern peninsula. Blunt where Vylari is formal, passionate where Provenzal is artful, Tarvéni reflects the directness and fierce pride of its speakers—a people who have resisted imperial rule and cultivated independent city-state cultures for centuries.
 

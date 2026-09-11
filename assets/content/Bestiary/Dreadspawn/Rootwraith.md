@@ -5,11 +5,11 @@ name:
   full: Rootwraith
   aliases: []
 description: "A territorial mass of corrupted vegetation and ancient malice that rises from the soil of deep forests to punish intruders."
-img: icons/game-icons/lorc/spectre.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 shortcode: rtwrth
 type: being
 data:
-  portrait: images/being/rtwrth-portrait.webp
+  portrait: images/beings/creatures/rtwrth-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: null
@@ -43,23 +43,22 @@ sohl:
     wil: 1d4+13
     rea: 1d6+10
     cre: 1d4+13
-  defaultCombatGroup: null
   items:
-    - { shortcode: str, type: attribute, system: { scoreBase: 12 } }
-    - { shortcode: end, type: attribute, system: { scoreBase: 14 } }
-    - { shortcode: dex, type: attribute, system: { scoreBase: 12 } }
-    - { shortcode: agl, type: attribute, system: { scoreBase: 10 } }
-    - { shortcode: per, type: attribute, system: { scoreBase: 16 } }
-    - { shortcode: aur, type: attribute, system: { scoreBase: 18 } }
-    - { shortcode: wil, type: attribute, system: { scoreBase: 16 } }
-    - { shortcode: rea, type: attribute, system: { scoreBase: 14 } }
-    - { shortcode: cre, type: attribute, system: { scoreBase: 16 } }
-    - { shortcode: awar, type: skill, system: { masteryLevelBase: 80 } }
-    - { shortcode: stlth, type: skill, system: { masteryLevelBase: 65 } }
-    - { shortcode: sprt, type: mysticalability, system: { masteryLevelBase: 51 } }
-    - { shortcode: init, type: skill, system: { masteryLevelBase: 60 } }
-    - { shortcode: dge, type: skill, system: { masteryLevelBase: 52 } }
-    - { shortcode: shok, type: skill, system: { masteryLevelBase: 33 } }
+    - { model: sohl-sohl-attribute-str, system: { scoreBase: 12 } }
+    - { model: sohl-sohl-attribute-end, system: { scoreBase: 14 } }
+    - { model: sohl-sohl-attribute-dex, system: { scoreBase: 12 } }
+    - { model: sohl-sohl-attribute-agl, system: { scoreBase: 10 } }
+    - { model: sohl-sohl-attribute-per, system: { scoreBase: 16 } }
+    - { model: sohl-sohl-attribute-aur, system: { scoreBase: 18 } }
+    - { model: sohl-sohl-attribute-wil, system: { scoreBase: 16 } }
+    - { model: sohl-sohl-attribute-rea, system: { scoreBase: 14 } }
+    - { model: sohl-sohl-attribute-cre, system: { scoreBase: 16 } }
+    - { model: sohl-sohl-skill-awar, system: { masteryLevelBase: 80 } }
+    - { model: sohl-sohl-skill-stlth, system: { masteryLevelBase: 65 } }
+    - { model: sohl-sohl-mysticalability-sprt, system: { masteryLevelBase: 51 } }
+    - { model: sohl-sohl-skill-init, system: { masteryLevelBase: 60 } }
+    - { model: sohl-sohl-skill-dge, system: { masteryLevelBase: 52 } }
+    - { model: sohl-sohl-skill-shok, system: { masteryLevelBase: 33 } }
     - name: Vine Lash
       type: skill
       system:
@@ -684,35 +683,3 @@ Fire is the Rootwraith’s primary vulnerability, as flames destroy its plant-ma
 - **Reasoning:** 11-16 (1d6+10)
 
 - **Creativity:** 14-17 (1d4+13)
-
-## Lineage Notes
-
-_The following notes are inherited from the original lineage description._
-
-The forest stirs around you though there is no wind, the very ground beneath your feet shifting with disturbing purpose. From the deeper trees something resolves out of the green dark—seven to nine feet tall, composed of intertwined vines and gnarled roots, trailing dead vegetation as it moves toward you.
-
-## Description
-
-The rootwraith stands seven to nine feet tall, composed of densely intertwined vines and gnarled roots with a humanoid frame deliberately twisted, trailing dead vegetation as it moves. It possesses bioluminescent eyes burning with sickly luminescence and an aura of wrongness that affects the environment around it.
-
-## Key Behaviors
-
-Rootwraiths are absolute sentinels of their territories, maintaining dominion over stretches of forest with patient, implacable certainty. They are most active at dusk and dawn, and they can command vegetation within sight.
-
-## Relations
-
-Rootwraiths hold particular hatred for those who harm forests deliberately and pursue loggers and settlers with terrible persistence. They are universally feared and hunted as abominations.
-
-## Special Abilities
-
-### Plant Command
-
-Rootwraiths command all plant life within sight as an extension of their own body—trees move, roots erupt, vines lash out. Terrain becomes a weapon in the rootwraith's arsenal.
-
-### Vegetative Regeneration
-
-Rootwraiths regenerate from damage only while in contact with living vegetation.
-
-### Life Drain
-
-Rootwraiths drain life force from living things, causing rapid decomposition of tissue and withering of nearby plants that are not part of their domain.

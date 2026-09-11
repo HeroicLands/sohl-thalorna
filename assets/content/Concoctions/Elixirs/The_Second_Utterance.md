@@ -6,7 +6,7 @@ name:
   aliases:
     - Formfix Elixir
 description: "Clear transparent elixir; grants second chance against magical failures."
-img: icons/potion.svg
+img: systems/sohl/assets/icons/other/potion.svg
 shortcode: ElxFrm
 type: concoctiongear
 subType: elixir

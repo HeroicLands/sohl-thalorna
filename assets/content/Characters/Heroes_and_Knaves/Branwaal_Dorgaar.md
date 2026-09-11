@@ -11,10 +11,10 @@ name:
   aliases: []
 packFolder: aureldiaprovenzia
 shortcode: branwldrgr
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/branwldrgr-portrait.webp
+  portrait: images/beings/characters/branwldrgr-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Mercenary Captain
@@ -42,76 +42,81 @@ data:
 sohl:
   templatePriority: null
   items:
-    - { shortcode: str, type: attribute, system: { scoreBase: 14 } }
-    - { shortcode: end, type: attribute, system: { scoreBase: 13 } }
-    - { shortcode: dex, type: attribute, system: { scoreBase: 14 } }
-    - { shortcode: agl, type: attribute, system: { scoreBase: 16 } }
-    - { shortcode: per, type: attribute, system: { scoreBase: 14 } }
-    - { shortcode: cml, type: attribute, system: { scoreBase: 10 } }
-    - { shortcode: aur, type: attribute, system: { scoreBase: 12 } }
-    - { shortcode: wil, type: attribute, system: { scoreBase: 13 } }
-    - { shortcode: rea, type: attribute, system: { scoreBase: 13 } }
-    - { shortcode: cre, type: attribute, system: { scoreBase: 13 } }
-    - { shortcode: emp, type: attribute, system: { scoreBase: 11 } }
-    - { shortcode: elo, type: attribute, system: { scoreBase: 13 } }
-    - { shortcode: mor, type: attribute, system: { scoreBase: 11 } }
-    - { shortcode: voi, type: attribute, system: { scoreBase: 14 } }
-    - { shortcode: chrm, type: skill, system: { masteryLevelBase: 30 } }
-    - { shortcode: cmd, type: skill, system: { masteryLevelBase: 65 } }
-    - { shortcode: dscr, type: skill, system: { masteryLevelBase: 52 } }
-    - { shortcode: guil, type: skill, system: { masteryLevelBase: 36 } }
-    - { shortcode: intr, type: skill, system: { masteryLevelBase: 48 } }
-    - { shortcode: sing, type: skill, system: { masteryLevelBase: 42 } }
-    - { shortcode: thtcs, type: skill, system: { masteryLevelBase: 13 } }
-    - { shortcode: cook, type: skill, system: { masteryLevelBase: 28 } }
-    - { shortcode: folklr, type: skill, system: { masteryLevelBase: 13 } }
-    - { shortcode: hrld, type: skill, system: { masteryLevelBase: 26 } }
-    - { shortcode: mrcn, type: skill, system: { masteryLevelBase: 13 } }
-    - { shortcode: pysn, type: skill, system: { masteryLevelBase: 13 } }
-    - { shortcode: awar, type: skill, system: { masteryLevelBase: 56 } }
-    - { shortcode: clmb, type: skill, system: { masteryLevelBase: 45 } }
-    - { shortcode: dnce, type: skill, system: { masteryLevelBase: 30 } }
-    - { shortcode: jump, type: skill, system: { masteryLevelBase: 45 } }
-    - { shortcode: ridg, type: skill, system: { masteryLevelBase: 39 } }
-    - { shortcode: stlth, type: skill, system: { masteryLevelBase: 45 } }
-    - { shortcode: swim, type: skill, system: { masteryLevelBase: 15 } }
-    - { shortcode: archery, type: skill, system: { masteryLevelBase: 56 } }
-    - { shortcode: init, type: skill, system: { masteryLevelBase: 65 } }
-    - { shortcode: shok, type: skill, system: { masteryLevelBase: 70 } }
-    - { shortcode: melee, type: skill, system: { masteryLevelBase: 75 } }
-    - { shortcode: dge, type: skill, system: { masteryLevelBase: 75 } }
-    - { shortcode: thro, type: skill, system: { masteryLevelBase: 70 } }
-    - { shortcode: draw, type: skill, system: { masteryLevelBase: 14 } }
-    - { shortcode: hide, type: skill, system: { masteryLevelBase: 28 } }
-    - { shortcode: wpnc, type: skill, system: { masteryLevelBase: 42 } }
-    - { shortcode: anmcft, type: skill, system: { masteryLevelBase: 12 } }
-    - { shortcode: smsh, type: skill, system: { masteryLevelBase: 13 } }
-    - { shortcode: srvl, type: skill, system: { masteryLevelBase: 39 } }
-    - { shortcode: timb, type: skill, system: { masteryLevelBase: 14 } }
-    - { shortcode: sprt, type: mysticalability, system: { masteryLevelBase: 39 } }
-    - { shortcode: BrdSwd, type: weapongear }
-    - { shortcode: Dgr, type: weapongear }
-    - { shortcode: RndSh, type: weapongear }
-    - { shortcode: LBw75, type: weapongear }
-    - { shortcode: CTrsr, type: armorgear }
-    - { shortcode: CSTnc, type: armorgear }
-    - { shortcode: LtKBoot, type: armorgear }
-    - { shortcode: LtGlove, type: armorgear }
-    - { shortcode: MByr, type: armorgear }
-    - { shortcode: PCap, type: armorgear }
-    - { shortcode: PCoat, type: armorgear }
-    - { shortcode: Pl34Hlm, type: armorgear }
-    - { shortcode: wtrskin, type: containergear }
-    - { shortcode: maps, type: miscgear }
-    - { shortcode: family signet ring, type: miscgear }
-    - { shortcode: tndrbx, type: miscgear }
-    - { shortcode: StdRtns, type: miscgear, system: { quantity: 3 } }
-    - { shortcode: LiteBdrl, type: miscgear }
-    - { shortcode: Battle standard, type: miscgear }
-    - { shortcode: Quiver for arrows, type: miscgear }
-    - { shortcode: ArwHBrd, type: projectilegear, system: { quantity: 12 } }
-    - { shortcode: backpk, type: containergear }
-    - { shortcode: Leather satchel, type: miscgear }
+    - { model: sohl-sohl-attribute-str, system: { scoreBase: 14 } }
+    - { model: sohl-sohl-attribute-end, system: { scoreBase: 13 } }
+    - { model: sohl-sohl-attribute-dex, system: { scoreBase: 14 } }
+    - { model: sohl-sohl-attribute-agl, system: { scoreBase: 16 } }
+    - { model: sohl-sohl-attribute-per, system: { scoreBase: 14 } }
+    - { model: sohl-sohl-attribute-cml, system: { scoreBase: 10 } }
+    - { model: sohl-sohl-attribute-aur, system: { scoreBase: 12 } }
+    - { model: sohl-sohl-attribute-wil, system: { scoreBase: 13 } }
+    - { model: sohl-sohl-attribute-rea, system: { scoreBase: 13 } }
+    - { model: sohl-sohl-attribute-cre, system: { scoreBase: 13 } }
+    - { model: sohl-sohl-attribute-emp, system: { scoreBase: 11 } }
+    - { model: sohl-sohl-attribute-elo, system: { scoreBase: 13 } }
+    - { model: sohl-sohl-attribute-mor, system: { scoreBase: 11 } }
+    - { model: sohl-sohl-attribute-voi, system: { scoreBase: 14 } }
+    - { model: sohl-sohl-skill-chrm, system: { masteryLevelBase: 30 } }
+    - { model: sohl-sohl-skill-cmd, system: { masteryLevelBase: 65 } }
+    - { model: sohl-sohl-skill-dscr, system: { masteryLevelBase: 52 } }
+    - { model: sohl-sohl-skill-guil, system: { masteryLevelBase: 36 } }
+    - { model: sohl-sohl-skill-intr, system: { masteryLevelBase: 48 } }
+    - { model: sohl-sohl-skill-sing, system: { masteryLevelBase: 42 } }
+    - { model: sohl-sohl-skill-thtcs, system: { masteryLevelBase: 13 } }
+    - { model: sohl-sohl-skill-cook, system: { masteryLevelBase: 28 } }
+    - { model: sohl-sohl-skill-folklr, system: { masteryLevelBase: 13 } }
+    - { model: sohl-sohl-skill-hrld, system: { masteryLevelBase: 26 } }
+    - { model: sohl-sohl-skill-mrcn, system: { masteryLevelBase: 13 } }
+    - { model: sohl-sohl-skill-pysn, system: { masteryLevelBase: 13 } }
+    - { model: sohl-sohl-skill-awar, system: { masteryLevelBase: 56 } }
+    - { model: sohl-sohl-skill-clmb, system: { masteryLevelBase: 45 } }
+    - { model: sohl-sohl-skill-dnce, system: { masteryLevelBase: 30 } }
+    - { model: sohl-sohl-skill-jump, system: { masteryLevelBase: 45 } }
+    - { model: sohl-sohl-skill-ridg, system: { masteryLevelBase: 39 } }
+    - { model: sohl-sohl-skill-stlth, system: { masteryLevelBase: 45 } }
+    - { model: sohl-sohl-skill-swim, system: { masteryLevelBase: 15 } }
+    - { model: sohl-sohl-skill-archery, system: { masteryLevelBase: 56 } }
+    - { model: sohl-sohl-skill-init, system: { masteryLevelBase: 65 } }
+    - { model: sohl-sohl-skill-shok, system: { masteryLevelBase: 70 } }
+    - { model: sohl-sohl-skill-melee, system: { masteryLevelBase: 75 } }
+    - { model: sohl-sohl-skill-dge, system: { masteryLevelBase: 75 } }
+    - { model: sohl-sohl-skill-thro, system: { masteryLevelBase: 70 } }
+    - { model: sohl-sohl-skill-draw, system: { masteryLevelBase: 14 } }
+    - { model: sohl-sohl-skill-hide, system: { masteryLevelBase: 28 } }
+    - { model: sohl-sohl-skill-wpnc, system: { masteryLevelBase: 42 } }
+    - { model: sohl-sohl-skill-anmcft, system: { masteryLevelBase: 12 } }
+    - { model: sohl-sohl-skill-smsh, system: { masteryLevelBase: 13 } }
+    - { model: sohl-sohl-skill-srvl, system: { masteryLevelBase: 39 } }
+    - { model: sohl-sohl-skill-timb, system: { masteryLevelBase: 14 } }
+    - { model: sohl-sohl-mysticalability-sprt, system: { masteryLevelBase: 39 } }
+    - { model: sohl-sohl-weapongear-brdswd }
+    - { model: sohl-sohl-weapongear-dgr }
+    - { model: sohl-sohl-weapongear-rndsh }
+    - { model: sohl-sohl-weapongear-lbw75 }
+    - { model: sohl-sohl-armorgear-ctrsr }
+    - { model: sohl-sohl-armorgear-cstnc }
+    - { model: sohl-sohl-armorgear-ltkboot }
+    - { model: sohl-sohl-armorgear-ltglove }
+    - { model: sohl-sohl-armorgear-mbyr }
+    - { model: sohl-sohl-armorgear-pcap }
+    - { model: sohl-sohl-armorgear-pcoat }
+    - { model: sohl-sohl-armorgear-pl34hlm }
+    - { model: sohl-sohl-containergear-wtrskin }
+    - { model: sohl-sohl-miscgear-map, system: { quantity: 3 } }
+    - { model: sohl-sohl-miscgear-ringgold, name: "Family Signet Ring" }
+    - { model: sohl-sohl-miscgear-tndrbx }
+    - { model: sohl-sohl-miscgear-stdrtns, system: { quantity: 3 } }
+    - { model: sohl-sohl-miscgear-litebdrl }
+    - name: "Battle standard"
+      type: miscgear
+      system:
+        shortcode: batlstd
+        value: 35
+        weight: 20
+    - { model: sohl-sohl-containergear-quiverlgsh }
+    - { model: sohl-sohl-projectilegear-arwhbrd, system: { quantity: 12 } }
+    - { model: sohl-sohl-containergear-backpk }
+    - { model: sohl-sohl-containergear-bagleather15 }
   system:
     body:
       structure:
@@ -584,6 +589,8 @@ Brànwâal Dôrgaar is the founder and captain of the [[affiliation-slntlncmpny|
 He has led men for more than a decade, and his philosophy is simple: war is a game of wits as much as steel. He prefers to stay two steps ahead of his enemies, and while he has swung a sword plenty of times, he wins his battles before they begin. His charismatic leadership and sharp tactical instincts have attracted a loyal core of companions—Elýsè, Tórnis, Chéleb, and Dôren—who together form the Silent Talon.
 
 Beneath his practical, sometimes cold exterior, Brànwâal cares deeply for his people. He sees the band as the family that replaced the one he lost, and he will take considerable risks to protect them—though he would never admit to sentimentality.
+
+## Background
 
 ### Skills and Abilities
 

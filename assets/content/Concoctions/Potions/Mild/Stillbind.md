@@ -6,7 +6,7 @@ name:
   aliases:
     - Potion, Paralytic, Mild
 description: "Clear greenish liquid; paralyzes and immobilizes drinker temporarily."
-img: icons/potion.svg
+img: systems/sohl/assets/icons/other/potion.svg
 shortcode: PtnParM
 type: concoctiongear
 subType: exotic

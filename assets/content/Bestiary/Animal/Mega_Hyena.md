@@ -5,11 +5,11 @@ name:
   full: Mega Hyena
   aliases: []
 description: "A colossal four-foot-tall hyena built for bone-crushing bite force and endurance, its sloped back and coarse mottled coat marking a relentless hunter."
-img: icons/game-icons/lorc/paw-print.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 shortcode: mghyn
 type: being
 data:
-  portrait: images/being/mghyn-portrait.webp
+  portrait: images/beings/creatures/mghyn-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: null
@@ -43,23 +43,22 @@ sohl:
     wil: 1d6+8
     rea: 1d4+4
     cre: 1d4+3
-  defaultCombatGroup: null
   items:
-    - { shortcode: str, type: attribute, system: { scoreBase: 15 } }
-    - { shortcode: end, type: attribute, system: { scoreBase: 13 } }
-    - { shortcode: dex, type: attribute, system: { scoreBase: 12 } }
-    - { shortcode: agl, type: attribute, system: { scoreBase: 14 } }
-    - { shortcode: per, type: attribute, system: { scoreBase: 14 } }
-    - { shortcode: aur, type: attribute, system: { scoreBase: 9 } }
-    - { shortcode: wil, type: attribute, system: { scoreBase: 12 } }
-    - { shortcode: rea, type: attribute, system: { scoreBase: 7 } }
-    - { shortcode: cre, type: attribute, system: { scoreBase: 6 } }
-    - { shortcode: awar, type: skill, system: { masteryLevelBase: 65 } }
-    - { shortcode: stlth, type: skill, system: { masteryLevelBase: 65 } }
-    - { shortcode: sprt, type: mysticalability, system: { masteryLevelBase: 30 } }
-    - { shortcode: init, type: skill, system: { masteryLevelBase: 40 } }
-    - { shortcode: dge, type: skill, system: { masteryLevelBase: 56 } }
-    - { shortcode: shok, type: skill, system: { masteryLevelBase: 35 } }
+    - { model: sohl-sohl-attribute-str, system: { scoreBase: 15 } }
+    - { model: sohl-sohl-attribute-end, system: { scoreBase: 13 } }
+    - { model: sohl-sohl-attribute-dex, system: { scoreBase: 12 } }
+    - { model: sohl-sohl-attribute-agl, system: { scoreBase: 14 } }
+    - { model: sohl-sohl-attribute-per, system: { scoreBase: 14 } }
+    - { model: sohl-sohl-attribute-aur, system: { scoreBase: 9 } }
+    - { model: sohl-sohl-attribute-wil, system: { scoreBase: 12 } }
+    - { model: sohl-sohl-attribute-rea, system: { scoreBase: 7 } }
+    - { model: sohl-sohl-attribute-cre, system: { scoreBase: 6 } }
+    - { model: sohl-sohl-skill-awar, system: { masteryLevelBase: 65 } }
+    - { model: sohl-sohl-skill-stlth, system: { masteryLevelBase: 65 } }
+    - { model: sohl-sohl-mysticalability-sprt, system: { masteryLevelBase: 30 } }
+    - { model: sohl-sohl-skill-init, system: { masteryLevelBase: 40 } }
+    - { model: sohl-sohl-skill-dge, system: { masteryLevelBase: 56 } }
+    - { model: sohl-sohl-skill-shok, system: { masteryLevelBase: 35 } }
     - name: Bone-Crushing Bite
       type: skill
       system:

@@ -5,7 +5,7 @@ name:
   aliases:
     - Confusion
 description: "Scatters enemy formations; combatants stumble and collide confusedly."
-img: icons/divination.svg
+img: systems/sohl/assets/icons/noun/divination.svg
 shortcode: disarray
 type: mysticalability
 subType: arcaneincantation

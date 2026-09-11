@@ -4,7 +4,7 @@ name:
   full: Fount
   aliases: []
 description: "Opens spring; manifests fresh water flowing from barren ground."
-img: icons/circle.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/circle.svg
 shortcode: fount
 type: mysticalability
 subType: arcaneincantation

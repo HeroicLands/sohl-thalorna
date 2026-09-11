@@ -8,14 +8,14 @@ name:
   title: ""
   given: Sharmînah
   clan: Tahvân
-  home: Kethramír
+  home: kethramir
   aliases: []
 packFolder: ankariskhazryndesert
 shortcode: shrmnhthvn
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/shrmnhthvn-portrait.webp
+  portrait: images/beings/characters/shrmnhthvn-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Priest
@@ -42,69 +42,71 @@ data:
 sohl:
   templatePriority: null
   items:
-    - { shortcode: str, type: attribute, system: { scoreBase: 14 } }
-    - { shortcode: end, type: attribute, system: { scoreBase: 13 } }
-    - { shortcode: dex, type: attribute, system: { scoreBase: 15 } }
-    - { shortcode: agl, type: attribute, system: { scoreBase: 12 } }
-    - { shortcode: per, type: attribute, system: { scoreBase: 16 } }
-    - { shortcode: cml, type: attribute, system: { scoreBase: 14 } }
-    - { shortcode: aur, type: attribute, system: { scoreBase: 12 } }
-    - { shortcode: wil, type: attribute, system: { scoreBase: 15 } }
-    - { shortcode: rea, type: attribute, system: { scoreBase: 11 } }
-    - { shortcode: cre, type: attribute, system: { scoreBase: 10 } }
-    - { shortcode: emp, type: attribute, system: { scoreBase: 8 } }
-    - { shortcode: elo, type: attribute, system: { scoreBase: 16 } }
-    - { shortcode: mor, type: attribute, system: { scoreBase: 7 } }
-    - { shortcode: voi, type: attribute, system: { scoreBase: 13 } }
-    - { shortcode: ataros, type: affiliation }
-    - { shortcode: cook, type: skill, system: { masteryLevelBase: 28 } }
-    - { shortcode: embl, type: skill, system: { masteryLevelBase: 26 } }
-    - { shortcode: folklr, type: skill, system: { masteryLevelBase: 39 } }
-    - { shortcode: hrld, type: skill, system: { masteryLevelBase: 26 } }
-    - { shortcode: pysn, type: skill, system: { masteryLevelBase: 13 } }
-    - { shortcode: dnshkscrpt, type: skill, system: { masteryLevelBase: 65 } }
-    - { shortcode: chrm, type: skill, system: { masteryLevelBase: 33 } }
-    - { shortcode: cmd, type: skill, system: { masteryLevelBase: 75 } }
-    - { shortcode: dscr, type: skill, system: { masteryLevelBase: 65 } }
-    - { shortcode: guil, type: skill, system: { masteryLevelBase: 27 } }
-    - { shortcode: intr, type: skill, system: { masteryLevelBase: 27 } }
-    - { shortcode: sing, type: skill, system: { masteryLevelBase: 36 } }
-    - { shortcode: thtcs, type: skill, system: { masteryLevelBase: 26 } }
-    - { shortcode: srvl, type: skill, system: { masteryLevelBase: 13 } }
-    - { shortcode: timb, type: skill, system: { masteryLevelBase: 28 } }
-    - { shortcode: awar, type: skill, system: { masteryLevelBase: 48 } }
-    - { shortcode: clmb, type: skill, system: { masteryLevelBase: 39 } }
-    - { shortcode: dnce, type: skill, system: { masteryLevelBase: 22 } }
-    - { shortcode: jump, type: skill, system: { masteryLevelBase: 39 } }
-    - { shortcode: ridg, type: skill, system: { masteryLevelBase: 10 } }
-    - { shortcode: stlth, type: skill, system: { masteryLevelBase: 52 } }
-    - { shortcode: swim, type: skill, system: { masteryLevelBase: 36 } }
-    - { shortcode: archery, type: skill, system: { masteryLevelBase: 16 } }
-    - { shortcode: init, type: skill, system: { masteryLevelBase: 65 } }
-    - { shortcode: melee, type: skill, system: { masteryLevelBase: 70 } }
-    - { shortcode: thro, type: skill, system: { masteryLevelBase: 45 } }
-    - { shortcode: draw, type: skill, system: { masteryLevelBase: 13 } }
-    - { shortcode: jewl, type: skill, system: { masteryLevelBase: 16 } }
-    - { shortcode: masn, type: skill, system: { masteryLevelBase: 15 } }
-    - { shortcode: wood, type: skill, system: { masteryLevelBase: 30 } }
-    - { shortcode: summ, type: mysticalability, system: { masteryLevelBase: 28 } }
-    - { shortcode: WFl, type: weapongear }
-    - { shortcode: Dgr, type: weapongear }
-    - { shortcode: SCui, type: armorgear }
-    - { shortcode: SLeg, type: armorgear }
-    - { shortcode: SGntl, type: armorgear }
-    - { shortcode: LtCap, type: armorgear }
-    - { shortcode: RhTunic, type: armorgear }
-    - { shortcode: LtShoe, type: armorgear }
+    - { model: sohl-sohl-attribute-str, system: { scoreBase: 14 } }
+    - { model: sohl-sohl-attribute-end, system: { scoreBase: 13 } }
+    - { model: sohl-sohl-attribute-dex, system: { scoreBase: 15 } }
+    - { model: sohl-sohl-attribute-agl, system: { scoreBase: 12 } }
+    - { model: sohl-sohl-attribute-per, system: { scoreBase: 16 } }
+    - { model: sohl-sohl-attribute-cml, system: { scoreBase: 14 } }
+    - { model: sohl-sohl-attribute-aur, system: { scoreBase: 12 } }
+    - { model: sohl-sohl-attribute-wil, system: { scoreBase: 15 } }
+    - { model: sohl-sohl-attribute-rea, system: { scoreBase: 11 } }
+    - { model: sohl-sohl-attribute-cre, system: { scoreBase: 10 } }
+    - { model: sohl-sohl-attribute-emp, system: { scoreBase: 8 } }
+    - { model: sohl-sohl-attribute-elo, system: { scoreBase: 16 } }
+    - { model: sohl-sohl-attribute-mor, system: { scoreBase: 7 } }
+    - { model: sohl-sohl-attribute-voi, system: { scoreBase: 13 } }
+    - { model: affiliation-ataros }
+    - { model: sohl-sohl-skill-cook, system: { masteryLevelBase: 28 } }
+    - { model: sohl-sohl-skill-embl, system: { masteryLevelBase: 26 } }
+    - { model: sohl-sohl-skill-folklr, system: { masteryLevelBase: 39 } }
+    - { model: sohl-sohl-skill-hrld, system: { masteryLevelBase: 26 } }
+    - { model: sohl-sohl-skill-pysn, system: { masteryLevelBase: 13 } }
+    - { model: skill-dnshkscrpt, system: { masteryLevelBase: 65 } }
+    - { model: sohl-sohl-skill-chrm, system: { masteryLevelBase: 33 } }
+    - { model: sohl-sohl-skill-cmd, system: { masteryLevelBase: 75 } }
+    - { model: sohl-sohl-skill-dscr, system: { masteryLevelBase: 65 } }
+    - { model: sohl-sohl-skill-guil, system: { masteryLevelBase: 27 } }
+    - { model: sohl-sohl-skill-intr, system: { masteryLevelBase: 27 } }
+    - { model: sohl-sohl-skill-sing, system: { masteryLevelBase: 36 } }
+    - { model: sohl-sohl-skill-thtcs, system: { masteryLevelBase: 26 } }
+    - { model: sohl-sohl-skill-srvl, system: { masteryLevelBase: 13 } }
+    - { model: sohl-sohl-skill-timb, system: { masteryLevelBase: 28 } }
+    - { model: sohl-sohl-skill-awar, system: { masteryLevelBase: 48 } }
+    - { model: sohl-sohl-skill-clmb, system: { masteryLevelBase: 39 } }
+    - { model: sohl-sohl-skill-dnce, system: { masteryLevelBase: 22 } }
+    - { model: sohl-sohl-skill-jump, system: { masteryLevelBase: 39 } }
+    - { model: sohl-sohl-skill-ridg, system: { masteryLevelBase: 10 } }
+    - { model: sohl-sohl-skill-stlth, system: { masteryLevelBase: 52 } }
+    - { model: sohl-sohl-skill-swim, system: { masteryLevelBase: 36 } }
+    - { model: sohl-sohl-skill-archery, system: { masteryLevelBase: 16 } }
+    - { model: sohl-sohl-skill-init, system: { masteryLevelBase: 65 } }
+    - { model: sohl-sohl-skill-melee, system: { masteryLevelBase: 70 } }
+    - { model: sohl-sohl-skill-thro, system: { masteryLevelBase: 45 } }
+    - { model: sohl-sohl-skill-draw, system: { masteryLevelBase: 13 } }
+    - { model: sohl-sohl-skill-jewl, system: { masteryLevelBase: 16 } }
+    - { model: sohl-sohl-skill-masn, system: { masteryLevelBase: 15 } }
+    - { model: sohl-sohl-skill-wood, system: { masteryLevelBase: 30 } }
+    - { model: sohl-sohl-mysticalability-summ, system: { masteryLevelBase: 28 } }
+    - { model: sohl-sohl-weapongear-wfl }
+    - { model: sohl-sohl-weapongear-dgr }
+    - { model: sohl-sohl-armorgear-scui }
+    - { model: sohl-sohl-armorgear-sleg }
+    - { model: sohl-sohl-armorgear-sgntl }
+    - { model: sohl-sohl-armorgear-ltcap }
+    - { model: sohl-sohl-armorgear-rhtunic }
+    - { model: sohl-sohl-armorgear-ltshoe }
     - name: Satchel for ritual tools and sacred texts
       type: miscgear
       system:
+        shortcode: satchelforritual
         weight: 2
         value: 50
         durability: 4
     - name: Fire incense (bundle)
       type: miscgear
       system:
+        shortcode: fireincense
         quantity: 3
         weight: 1.5
         value: 100
@@ -112,19 +114,21 @@ sohl:
     - name: Ceremonial offerings for rituals
       type: miscgear
       system:
+        shortcode: ceremonialofferings
         weight: 1.5
         value: 100
         durability: 3
     - name: Prayer beads of the Sacred Flame
       type: miscgear
       system:
+        shortcode: prayerbeads
         weight: 1.5
         value: 100
         durability: 3
-    - { shortcode: tndrbx, type: miscgear }
-    - { shortcode: StdRtns, type: miscgear, system: { quantity: 4 } }
-    - { shortcode: bpchmd, type: containergear }
-    - { shortcode: wtrskin, type: containergear }
+    - { model: sohl-sohl-miscgear-tndrbx }
+    - { model: sohl-sohl-miscgear-stdrtns, system: { quantity: 4 } }
+    - { model: sohl-sohl-containergear-bpchmd }
+    - { model: sohl-sohl-containergear-wtrskin }
   system:
     body:
       structure:
@@ -591,6 +595,8 @@ sohl:
 Sharmînah stands 5'11" tall with a medium build. She has warm olive skin, dark brown hair, and honey brown eyes. Her features include a diamond-shaped face, a long nose, a sharp jawline, full lips, dark brows.
 
 # Dossier {#dossier}
+
+## Background
 
 ### The Foundling's Calling
 

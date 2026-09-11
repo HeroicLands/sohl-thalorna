@@ -12,10 +12,10 @@ name:
   aliases: []
 packFolder: aureldiaelavendre
 shortcode: elyseskyrn
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/elyseskyrn-portrait.webp
+  portrait: images/beings/characters/elyseskyrn-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Alchemist
@@ -44,86 +44,84 @@ data:
 sohl:
   templatePriority: null
   items:
-    - { shortcode: str, type: attribute, system: { scoreBase: 8 } }
-    - { shortcode: end, type: attribute, system: { scoreBase: 9 } }
-    - { shortcode: dex, type: attribute, system: { scoreBase: 14 } }
-    - { shortcode: agl, type: attribute, system: { scoreBase: 10 } }
-    - { shortcode: per, type: attribute, system: { scoreBase: 15 } }
-    - { shortcode: cml, type: attribute, system: { scoreBase: 13 } }
-    - { shortcode: aur, type: attribute, system: { scoreBase: 17 } }
-    - { shortcode: wil, type: attribute, system: { scoreBase: 10 } }
-    - { shortcode: rea, type: attribute, system: { scoreBase: 14 } }
-    - { shortcode: cre, type: attribute, system: { scoreBase: 14 } }
-    - { shortcode: emp, type: attribute, system: { scoreBase: 15 } }
-    - { shortcode: elo, type: attribute, system: { scoreBase: 10 } }
-    - { shortcode: mor, type: attribute, system: { scoreBase: 11 } }
-    - { shortcode: voi, type: attribute, system: { scoreBase: 16 } }
-    - { shortcode: menerva, type: affiliation }
-    - { shortcode: chrm, type: skill, system: { masteryLevelBase: 70 } }
-    - { shortcode: cmd, type: skill, system: { masteryLevelBase: 20 } }
-    - { shortcode: dscr, type: skill, system: { masteryLevelBase: 24 } }
-    - { shortcode: guil, type: skill, system: { masteryLevelBase: 45 } }
-    - { shortcode: intr, type: skill, system: { masteryLevelBase: 45 } }
-    - { shortcode: sing, type: skill, system: { masteryLevelBase: 60 } }
-    - { shortcode: thtcs, type: skill, system: { masteryLevelBase: 60 } }
-    - { shortcode: cook, type: skill, system: { masteryLevelBase: 30 } }
-    - { shortcode: folklr, type: skill, system: { masteryLevelBase: 36 } }
-    - { shortcode: math, type: skill, system: { masteryLevelBase: 42 } }
-    - { shortcode: pysn, type: skill, system: { masteryLevelBase: 70 } }
-    - { shortcode: awar, type: skill, system: { masteryLevelBase: 39 } }
-    - { shortcode: clmb, type: skill, system: { masteryLevelBase: 36 } }
-    - { shortcode: dnce, type: skill, system: { masteryLevelBase: 20 } }
-    - { shortcode: jump, type: skill, system: { masteryLevelBase: 27 } }
-    - { shortcode: ridg, type: skill, system: { masteryLevelBase: 13 } }
-    - { shortcode: stlth, type: skill, system: { masteryLevelBase: 36 } }
-    - { shortcode: swim, type: skill, system: { masteryLevelBase: 9 } }
-    - { shortcode: archery, type: skill, system: { masteryLevelBase: 15 } }
-    - { shortcode: init, type: skill, system: { masteryLevelBase: 36 } }
-    - { shortcode: shok, type: skill, system: { masteryLevelBase: 24 } }
-    - { shortcode: melee, type: skill, system: { masteryLevelBase: 24 } }
-    - { shortcode: dge, type: skill, system: { masteryLevelBase: 24 } }
-    - { shortcode: thro, type: skill, system: { masteryLevelBase: 28 } }
-    - { shortcode: draw, type: skill, system: { masteryLevelBase: 45 } }
-    - { shortcode: mtlc, type: skill, system: { masteryLevelBase: 36 } }
-    - { shortcode: anmcft, type: skill, system: { masteryLevelBase: 26 } }
-    - { shortcode: herb, type: skill, system: { masteryLevelBase: 75 } }
-    - { shortcode: mnrl, type: skill, system: { masteryLevelBase: 28 } }
-    - { shortcode: srvl, type: skill, system: { masteryLevelBase: 26 } }
-    - { shortcode: alch, type: mysticalability, system: { masteryLevelBase: 80 } }
-    - { shortcode: sprt, type: mysticalability, system: { masteryLevelBase: 42 } }
-    - { shortcode: Dgr, type: weapongear }
-    - { shortcode: PVest, type: armorgear }
-    - { shortcode: CSTnc, type: armorgear }
-    - { shortcode: CLeg, type: armorgear }
-    - shortcode: WSkirt
-      type: armorgear
+    - { model: sohl-sohl-attribute-str, system: { scoreBase: 8 } }
+    - { model: sohl-sohl-attribute-end, system: { scoreBase: 9 } }
+    - { model: sohl-sohl-attribute-dex, system: { scoreBase: 14 } }
+    - { model: sohl-sohl-attribute-agl, system: { scoreBase: 10 } }
+    - { model: sohl-sohl-attribute-per, system: { scoreBase: 15 } }
+    - { model: sohl-sohl-attribute-cml, system: { scoreBase: 13 } }
+    - { model: sohl-sohl-attribute-aur, system: { scoreBase: 17 } }
+    - { model: sohl-sohl-attribute-wil, system: { scoreBase: 10 } }
+    - { model: sohl-sohl-attribute-rea, system: { scoreBase: 14 } }
+    - { model: sohl-sohl-attribute-cre, system: { scoreBase: 14 } }
+    - { model: sohl-sohl-attribute-emp, system: { scoreBase: 15 } }
+    - { model: sohl-sohl-attribute-elo, system: { scoreBase: 10 } }
+    - { model: sohl-sohl-attribute-mor, system: { scoreBase: 11 } }
+    - { model: sohl-sohl-attribute-voi, system: { scoreBase: 16 } }
+    - { model: affiliation-menerva }
+    - { model: sohl-sohl-skill-chrm, system: { masteryLevelBase: 70 } }
+    - { model: sohl-sohl-skill-cmd, system: { masteryLevelBase: 20 } }
+    - { model: sohl-sohl-skill-dscr, system: { masteryLevelBase: 24 } }
+    - { model: sohl-sohl-skill-guil, system: { masteryLevelBase: 45 } }
+    - { model: sohl-sohl-skill-intr, system: { masteryLevelBase: 45 } }
+    - { model: sohl-sohl-skill-sing, system: { masteryLevelBase: 60 } }
+    - { model: sohl-sohl-skill-thtcs, system: { masteryLevelBase: 60 } }
+    - { model: sohl-sohl-skill-cook, system: { masteryLevelBase: 30 } }
+    - { model: sohl-sohl-skill-folklr, system: { masteryLevelBase: 36 } }
+    - { model: sohl-sohl-skill-math, system: { masteryLevelBase: 42 } }
+    - { model: sohl-sohl-skill-pysn, system: { masteryLevelBase: 70 } }
+    - { model: sohl-sohl-skill-awar, system: { masteryLevelBase: 39 } }
+    - { model: sohl-sohl-skill-clmb, system: { masteryLevelBase: 36 } }
+    - { model: sohl-sohl-skill-dnce, system: { masteryLevelBase: 20 } }
+    - { model: sohl-sohl-skill-jump, system: { masteryLevelBase: 27 } }
+    - { model: sohl-sohl-skill-ridg, system: { masteryLevelBase: 13 } }
+    - { model: sohl-sohl-skill-stlth, system: { masteryLevelBase: 36 } }
+    - { model: sohl-sohl-skill-swim, system: { masteryLevelBase: 9 } }
+    - { model: sohl-sohl-skill-archery, system: { masteryLevelBase: 15 } }
+    - { model: sohl-sohl-skill-init, system: { masteryLevelBase: 36 } }
+    - { model: sohl-sohl-skill-shok, system: { masteryLevelBase: 24 } }
+    - { model: sohl-sohl-skill-melee, system: { masteryLevelBase: 24 } }
+    - { model: sohl-sohl-skill-dge, system: { masteryLevelBase: 24 } }
+    - { model: sohl-sohl-skill-thro, system: { masteryLevelBase: 28 } }
+    - { model: sohl-sohl-skill-draw, system: { masteryLevelBase: 45 } }
+    - { model: sohl-sohl-skill-mtlc, system: { masteryLevelBase: 36 } }
+    - { model: sohl-sohl-skill-anmcft, system: { masteryLevelBase: 26 } }
+    - { model: sohl-sohl-skill-herb, system: { masteryLevelBase: 75 } }
+    - { model: sohl-sohl-skill-mnrl, system: { masteryLevelBase: 28 } }
+    - { model: sohl-sohl-skill-srvl, system: { masteryLevelBase: 26 } }
+    - { model: sohl-sohl-mysticalability-alch, system: { masteryLevelBase: 80 } }
+    - { model: sohl-sohl-mysticalability-sprt, system: { masteryLevelBase: 42 } }
+    - { model: sohl-sohl-weapongear-dgr }
+    - { model: sohl-sohl-armorgear-pvest }
+    - { model: sohl-sohl-armorgear-cstnc }
+    - { model: sohl-sohl-armorgear-cleg }
+    - model: sohl-sohl-armorgear-wskirt
       name: Worsted split skirt
       system:
         shortcode: WSplSkirt
-    - { shortcode: CCap, type: armorgear }
-    - { shortcode: WHClk, type: armorgear }
-    - { shortcode: LtKBoot, type: armorgear }
-    - { shortcode: Leather satchel, type: miscgear }
-    - { shortcode: tndrbx, type: miscgear }
-    - { shortcode: srgtls, type: miscgear }
-    - { shortcode: sewing kit, type: miscgear }
-    - { shortcode: personal journal, type: miscgear }
-    - { shortcode: medical journal, type: miscgear }
-    - { shortcode: herbs, type: miscgear }
-    - { shortcode: backpk, type: containergear }
-    - { shortcode: StdRtns, type: miscgear, system: { quantity: 3 } }
-    - { shortcode: LiteBdrl, type: miscgear }
-    - { shortcode: medsupil, type: miscgear, system: { quantity: 32 } }
-    - { shortcode: healing elixir, type: miscgear }
-    - { shortcode: wtrskin, type: containergear }
-    - { shortcode: Candles, type: miscgear, system: { quantity: 12 } }
-    - { shortcode: Parchment, type: miscgear }
-    - { shortcode: Ink, type: miscgear }
-    - { shortcode: Quills, type: miscgear }
-    - { shortcode: Kni, type: weapongear }
-    - { shortcode: Seal Wax (Red), type: miscgear }
-    - { shortcode: Stamp, type: miscgear }
-    - { shortcode: Portable Alchemist Workshop (wagon and 2 horses), type: miscgear }
+    - { model: sohl-sohl-armorgear-ccap }
+    - { model: sohl-sohl-armorgear-whclk }
+    - { model: sohl-sohl-armorgear-ltkboot }
+    - { model: sohl-sohl-containergear-bagleather15 }
+    - { model: sohl-sohl-miscgear-tndrbx }
+    - { model: sohl-sohl-miscgear-surgkit }
+    - { model: sohl-sohl-miscgear-sewkit }
+    - { model: sohl-sohl-miscgear-booktrvl }
+    - { model: sohl-sohl-miscgear-bookbase }
+    - { model: sohl-sohl-miscgear-herbkit }
+    - { model: sohl-sohl-containergear-backpk }
+    - { model: sohl-sohl-miscgear-stdrtns, system: { quantity: 3 } }
+    - { model: sohl-sohl-miscgear-litebdrl }
+    - { model: sohl-sohl-miscgear-medsupil, system: { quantity: 32 } }
+    - { model: concoctiongear-elxheal }
+    - { model: sohl-sohl-containergear-wtrskin }
+    - { model: sohl-sohl-miscgear-candlestal, system: { quantity: 12 } }
+    - { model: sohl-sohl-miscgear-parchment }
+    - { model: sohl-sohl-miscgear-inkblk }
+    - { model: sohl-sohl-miscgear-penquill }
+    - { model: sohl-sohl-weapongear-kni }
+    - { model: sohl-sohl-miscgear-waxsealing }
+    - { model: sohl-sohl-miscgear-sealsignat }
   system:
     body:
       structure:
@@ -598,6 +596,8 @@ Despite her success in Béravel, Elýsè grew restless. Academic study was too s
 What Elýsè does not advertise is that her skills extend beyond conventional healing. She possesses genuine arcane talent—but a bad experience in her past has made her deeply cautious about revealing it. To most people, she is simply a very good healer. She intends to keep it that way.
 
 Her relationship with Tórnis has recently added an unexpected complication to her carefully ordered life.
+
+## Background
 
 ### Skills and Abilities
 

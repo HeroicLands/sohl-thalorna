@@ -5,7 +5,7 @@ name:
   aliases:
     - Kheperi
 description: "The ancient speech of Ta-Kheperu, bound to ritual and sorcery, written in hieroglyph for priests and in demotic for everyone else."
-img: icons/speaking.svg
+img: systems/sohl/assets/icons/other/speaking.svg
 shortcode: kheperlng
 type: skill
 subType: language
@@ -25,7 +25,7 @@ flags:
 banner: banners/ta-kheperu-banner.webp
 ---
 
-Kheperi is a tongue of the Kheperi (isolate) family. Fluency measures the sophistication of expression in Kheperi, from the halting phrases of a traveler to the nuanced and learned discourse of a native speaker. As with all specific languages, this skill inherits its mechanics from the general [[skill-lang|Language]] skill.
+Kheperi is a tongue of the Kheperi (isolate) family. Fluency measures the sophistication of expression in Kheperi, from the halting phrases of a traveler to the nuanced and learned discourse of a native speaker. As with all specific languages, this skill inherits its mechanics from the general [[sohl-none-docskill-lang|Language]] skill.
 
 ## Overview
 

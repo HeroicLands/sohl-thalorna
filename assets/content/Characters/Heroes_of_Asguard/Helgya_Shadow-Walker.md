@@ -14,7 +14,7 @@ name:
   home: null
 packFolder: ankarisnordlands
 shortcode: hlgyshdwlkr
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
   portrait: images/being/hlgyshdwlkr-portrait.webp
@@ -45,21 +45,21 @@ data:
 sohl:
   templatePriority: null
   items:
-    - { shortcode: str, type: attribute, system: { scoreBase: 10 } }
-    - { shortcode: end, type: attribute, system: { scoreBase: 11 } }
-    - { shortcode: dex, type: attribute, system: { scoreBase: 17 } }
-    - { shortcode: agl, type: attribute, system: { scoreBase: 18 } }
-    - { shortcode: per, type: attribute, system: { scoreBase: 17 } }
-    - { shortcode: cml, type: attribute, system: { scoreBase: 12 } }
-    - { shortcode: aur, type: attribute, system: { scoreBase: 11 } }
-    - { shortcode: wil, type: attribute, system: { scoreBase: 14 } }
-    - { shortcode: rea, type: attribute, system: { scoreBase: 15 } }
-    - { shortcode: cre, type: attribute, system: { scoreBase: 14 } }
-    - { shortcode: emp, type: attribute, system: { scoreBase: 10 } }
-    - { shortcode: elo, type: attribute, system: { scoreBase: 10 } }
-    - { shortcode: mor, type: attribute, system: { scoreBase: 10 } }
-    - { shortcode: voi, type: attribute, system: { scoreBase: 8 } }
-    - { shortcode: loki, type: affiliation }
+    - { model: sohl-sohl-attribute-str, system: { scoreBase: 10 } }
+    - { model: sohl-sohl-attribute-end, system: { scoreBase: 11 } }
+    - { model: sohl-sohl-attribute-dex, system: { scoreBase: 17 } }
+    - { model: sohl-sohl-attribute-agl, system: { scoreBase: 18 } }
+    - { model: sohl-sohl-attribute-per, system: { scoreBase: 17 } }
+    - { model: sohl-sohl-attribute-cml, system: { scoreBase: 12 } }
+    - { model: sohl-sohl-attribute-aur, system: { scoreBase: 11 } }
+    - { model: sohl-sohl-attribute-wil, system: { scoreBase: 14 } }
+    - { model: sohl-sohl-attribute-rea, system: { scoreBase: 15 } }
+    - { model: sohl-sohl-attribute-cre, system: { scoreBase: 14 } }
+    - { model: sohl-sohl-attribute-emp, system: { scoreBase: 10 } }
+    - { model: sohl-sohl-attribute-elo, system: { scoreBase: 10 } }
+    - { model: sohl-sohl-attribute-mor, system: { scoreBase: 10 } }
+    - { model: sohl-sohl-attribute-voi, system: { scoreBase: 8 } }
+    - { model: affiliation-loki }
   system:
     body:
       structure:

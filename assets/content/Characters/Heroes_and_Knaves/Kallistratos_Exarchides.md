@@ -8,14 +8,14 @@ name:
   title: ""
   given: Kallistratos
   clan: Exarchides
-  home: Velysâra
+  home: velysara
   aliases: []
 packFolder: midhalionvylaria
 shortcode: klstrtsxrchds
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/klstrtsxrchds-portrait.webp
+  portrait: images/beings/characters/klstrtsxrchds-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Mage (Fire)
@@ -47,98 +47,103 @@ data:
 sohl:
   templatePriority: null
   items:
-    - { shortcode: str, type: attribute, system: { scoreBase: 12 } }
-    - { shortcode: end, type: attribute, system: { scoreBase: 13 } }
-    - { shortcode: dex, type: attribute, system: { scoreBase: 14 } }
-    - { shortcode: agl, type: attribute, system: { scoreBase: 13 } }
-    - { shortcode: per, type: attribute, system: { scoreBase: 14 } }
-    - { shortcode: cml, type: attribute, system: { scoreBase: 13 } }
-    - { shortcode: aur, type: attribute, system: { scoreBase: 17 } }
-    - { shortcode: wil, type: attribute, system: { scoreBase: 16 } }
-    - { shortcode: rea, type: attribute, system: { scoreBase: 16 } }
-    - { shortcode: cre, type: attribute, system: { scoreBase: 15 } }
-    - { shortcode: emp, type: attribute, system: { scoreBase: 11 } }
-    - { shortcode: elo, type: attribute, system: { scoreBase: 15 } }
-    - { shortcode: mor, type: attribute, system: { scoreBase: 11 } }
-    - { shortcode: voi, type: attribute, system: { scoreBase: 9 } }
-    - { shortcode: florania, type: affiliation }
-    - { shortcode: brew, type: skill, system: { masteryLevelBase: 30 } }
-    - { shortcode: cook, type: skill, system: { masteryLevelBase: 75 } }
-    - { shortcode: folklr, type: skill, system: { masteryLevelBase: 64 } }
-    - { shortcode: pysn, type: skill, system: { masteryLevelBase: 15 } }
-    - { shortcode: semrnscrpt, type: skill, system: { masteryLevelBase: 75 } }
-    - { shortcode: chrm, type: skill, system: { masteryLevelBase: 36 } }
-    - { shortcode: cmd, type: skill, system: { masteryLevelBase: 32 } }
-    - { shortcode: dscr, type: skill, system: { masteryLevelBase: 80 } }
-    - { shortcode: guil, type: skill, system: { masteryLevelBase: 39 } }
-    - { shortcode: intr, type: skill, system: { masteryLevelBase: 39 } }
-    - { shortcode: sing, type: skill, system: { masteryLevelBase: 36 } }
-    - { shortcode: thtcs, type: skill, system: { masteryLevelBase: 15 } }
-    - { shortcode: mnrl, type: skill, system: { masteryLevelBase: 30 } }
-    - { shortcode: smsh, type: skill, system: { masteryLevelBase: 15 } }
-    - { shortcode: srvl, type: skill, system: { masteryLevelBase: 16 } }
-    - { shortcode: trak, type: skill, system: { masteryLevelBase: 30 } }
-    - { shortcode: awar, type: skill, system: { masteryLevelBase: 45 } }
-    - { shortcode: clmb, type: skill, system: { masteryLevelBase: 52 } }
-    - { shortcode: dnce, type: skill, system: { masteryLevelBase: 28 } }
-    - { shortcode: jump, type: skill, system: { masteryLevelBase: 65 } }
-    - { shortcode: ridg, type: skill, system: { masteryLevelBase: 12 } }
-    - { shortcode: stlth, type: skill, system: { masteryLevelBase: 42 } }
-    - { shortcode: swim, type: skill, system: { masteryLevelBase: 13 } }
-    - { shortcode: archery, type: skill, system: { masteryLevelBase: 14 } }
-    - { shortcode: init, type: skill, system: { masteryLevelBase: 80 } }
-    - { shortcode: melee, type: skill, system: { masteryLevelBase: 56 } }
-    - { shortcode: thro, type: skill, system: { masteryLevelBase: 28 } }
-    - { shortcode: cmcs, type: skill, system: { masteryLevelBase: 14 } }
-    - { shortcode: draw, type: skill, system: { masteryLevelBase: 14 } }
-    - { shortcode: hide, type: skill, system: { masteryLevelBase: 14 } }
-    - { shortcode: mtlc, type: skill, system: { masteryLevelBase: 39 } }
-    - { shortcode: mill, type: skill, system: { masteryLevelBase: 13 } }
-    - { shortcode: tarot, type: mysticalability, system: { masteryLevelBase: 28 } }
-    - { shortcode: eblt, type: mysticalability, system: { masteryLevelBase: 62 } }
-    - { shortcode: alch, type: mysticalability, system: { masteryLevelBase: 35 } }
-    - { shortcode: ritual, type: skill, system: { masteryLevelBase: 48 } }
-    - { shortcode: Stf, type: weapongear }
-    - { shortcode: Dgr, type: weapongear }
-    - { shortcode: WCoat, type: armorgear }
-    - { shortcode: LtKBoot, type: armorgear }
-    - { shortcode: LtBrcr, type: armorgear }
-    - { shortcode: tndrbx, type: miscgear }
-    - { shortcode: torch, type: miscgear, system: { quantity: 3 } }
-    - { shortcode: StdRtns, type: miscgear, system: { quantity: 3 } }
+    - { model: sohl-sohl-attribute-str, system: { scoreBase: 12 } }
+    - { model: sohl-sohl-attribute-end, system: { scoreBase: 13 } }
+    - { model: sohl-sohl-attribute-dex, system: { scoreBase: 14 } }
+    - { model: sohl-sohl-attribute-agl, system: { scoreBase: 13 } }
+    - { model: sohl-sohl-attribute-per, system: { scoreBase: 14 } }
+    - { model: sohl-sohl-attribute-cml, system: { scoreBase: 13 } }
+    - { model: sohl-sohl-attribute-aur, system: { scoreBase: 17 } }
+    - { model: sohl-sohl-attribute-wil, system: { scoreBase: 16 } }
+    - { model: sohl-sohl-attribute-rea, system: { scoreBase: 16 } }
+    - { model: sohl-sohl-attribute-cre, system: { scoreBase: 15 } }
+    - { model: sohl-sohl-attribute-emp, system: { scoreBase: 11 } }
+    - { model: sohl-sohl-attribute-elo, system: { scoreBase: 15 } }
+    - { model: sohl-sohl-attribute-mor, system: { scoreBase: 11 } }
+    - { model: sohl-sohl-attribute-voi, system: { scoreBase: 9 } }
+    - { model: affiliation-florania }
+    - { model: sohl-sohl-skill-brew, system: { masteryLevelBase: 30 } }
+    - { model: sohl-sohl-skill-cook, system: { masteryLevelBase: 75 } }
+    - { model: sohl-sohl-skill-folklr, system: { masteryLevelBase: 64 } }
+    - { model: sohl-sohl-skill-pysn, system: { masteryLevelBase: 15 } }
+    - { model: skill-semrnscrpt, system: { masteryLevelBase: 75 } }
+    - { model: sohl-sohl-skill-chrm, system: { masteryLevelBase: 36 } }
+    - { model: sohl-sohl-skill-cmd, system: { masteryLevelBase: 32 } }
+    - { model: sohl-sohl-skill-dscr, system: { masteryLevelBase: 80 } }
+    - { model: sohl-sohl-skill-guil, system: { masteryLevelBase: 39 } }
+    - { model: sohl-sohl-skill-intr, system: { masteryLevelBase: 39 } }
+    - { model: sohl-sohl-skill-sing, system: { masteryLevelBase: 36 } }
+    - { model: sohl-sohl-skill-thtcs, system: { masteryLevelBase: 15 } }
+    - { model: sohl-sohl-skill-mnrl, system: { masteryLevelBase: 30 } }
+    - { model: sohl-sohl-skill-smsh, system: { masteryLevelBase: 15 } }
+    - { model: sohl-sohl-skill-srvl, system: { masteryLevelBase: 16 } }
+    - { model: sohl-sohl-skill-trak, system: { masteryLevelBase: 30 } }
+    - { model: sohl-sohl-skill-awar, system: { masteryLevelBase: 45 } }
+    - { model: sohl-sohl-skill-clmb, system: { masteryLevelBase: 52 } }
+    - { model: sohl-sohl-skill-dnce, system: { masteryLevelBase: 28 } }
+    - { model: sohl-sohl-skill-jump, system: { masteryLevelBase: 65 } }
+    - { model: sohl-sohl-skill-ridg, system: { masteryLevelBase: 12 } }
+    - { model: sohl-sohl-skill-stlth, system: { masteryLevelBase: 42 } }
+    - { model: sohl-sohl-skill-swim, system: { masteryLevelBase: 13 } }
+    - { model: sohl-sohl-skill-archery, system: { masteryLevelBase: 14 } }
+    - { model: sohl-sohl-skill-init, system: { masteryLevelBase: 80 } }
+    - { model: sohl-sohl-skill-melee, system: { masteryLevelBase: 56 } }
+    - { model: sohl-sohl-skill-thro, system: { masteryLevelBase: 28 } }
+    - { model: sohl-sohl-skill-cmcs, system: { masteryLevelBase: 14 } }
+    - { model: sohl-sohl-skill-draw, system: { masteryLevelBase: 14 } }
+    - { model: sohl-sohl-skill-hide, system: { masteryLevelBase: 14 } }
+    - { model: sohl-sohl-skill-mtlc, system: { masteryLevelBase: 39 } }
+    - { model: sohl-sohl-skill-mill, system: { masteryLevelBase: 13 } }
+    - { model: sohl-sohl-mysticalability-tarot, system: { masteryLevelBase: 28 } }
+    - { model: mysticalability-eblt, system: { masteryLevelBase: 62 } }
+    - { model: sohl-sohl-mysticalability-alch, system: { masteryLevelBase: 35 } }
+    - { model: sohl-sohl-skill-ritual, system: { masteryLevelBase: 48 } }
+    - { model: sohl-sohl-weapongear-stf }
+    - { model: sohl-sohl-weapongear-dgr }
+    - { model: sohl-sohl-armorgear-wcoat }
+    - { model: sohl-sohl-armorgear-ltkboot }
+    - { model: sohl-sohl-armorgear-ltbrcr }
+    - { model: sohl-sohl-miscgear-tndrbx }
+    - { model: sohl-sohl-miscgear-torch, system: { quantity: 3 } }
+    - { model: sohl-sohl-miscgear-stdrtns, system: { quantity: 3 } }
     - name: Pyréthos focus (fire-opal set in bronze, worn at the throat)
       type: miscgear
       system:
+        shortcode: pyrethosfocus
         weight: 0.2
         value: 25
         durability: 3
     - name: Ordo Arcanis sigil ring (Adeptus rank)
       type: miscgear
       system:
+        shortcode: ordoarcanissigilring
         value: 8
         weight: 1
         durability: 3
     - name: Arcane journal (research notes on pre-Ordo techniques)
       type: miscgear
       system:
+        shortcode: arcanejournal
         weight: 0.5
         value: 100
         durability: 3
     - name: Writing implements (ink, quills, arcane notation tools)
       type: miscgear
       system:
+        shortcode: writingimplements
         weight: 0.4
         value: 100
         durability: 3
     - name: Herbal cooking ingredients and spice kit
       type: miscgear
       system:
+        shortcode: herbalcooking
         weight: 0.8
         value: 100
         durability: 3
-    - { shortcode: pence, type: miscgear, system: { quantity: 30 } }
-    - { shortcode: backpk, type: containergear }
-    - { shortcode: wtrskin, type: containergear }
+    - { model: sohl-sohl-miscgear-pence, system: { quantity: 30 } }
+    - { model: sohl-sohl-containergear-backpk }
+    - { model: sohl-sohl-containergear-wtrskin }
   system:
     body:
       structure:
@@ -619,6 +624,8 @@ He spent four years as an Initiatus — longer than average, but not unusually s
 Magister Vaelethon — a veteran of the Sodalitas Pyréthos, a former Quaesitorium operative, and one of the chapter's most respected practitioners — saw in Kallistratos the combination of talent and anger that produces either exceptional mages or spectacular disasters. He trained the boy accordingly: rigorous technical instruction in Pyréthos theory and application, combined with the physical conditioning and tactical awareness that the Quaesitorium demands of its field operatives. Vaelethon understood that Kallistratos's temperament — the intensity, the impatience, the conviction that fire was not merely a tool but a philosophy — would either serve the Ordo brilliantly or consume its host. His approach was to channel the fire rather than suppress it, giving Kallistratos increasingly demanding challenges that required both power and control.
 
 The apprenticeship lasted eight years — the standard duration. Kallistratos passed his examinations at twenty-three and was elevated to Adeptus, licensed to practice independently. By Ordo standards, he was a success: a qualified Pyréthos practitioner with solid combat training, respectable theoretical knowledge, and the beginnings of a reputation for effectiveness in the field. By his own standards, he had barely started.
+
+## Background
 
 ### The Fall of House Exarchides
 

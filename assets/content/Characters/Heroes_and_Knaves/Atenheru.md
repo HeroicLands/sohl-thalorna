@@ -8,13 +8,13 @@ name:
   title: ""
   given: Atenheru
   clan: Sahri
-  home: Khar al-Sular
+  home: kharalsulr
   aliases:
     - The Silent Jackal
     - The Desert Wanderer
 packFolder: dunharatribes
 shortcode: atenhershr
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
   portrait: images/being/atenhershr-portrait.webp
@@ -44,68 +44,70 @@ data:
 sohl:
   templatePriority: null
   items:
-    - { shortcode: str, type: attribute, system: { scoreBase: 12 } }
-    - { shortcode: end, type: attribute, system: { scoreBase: 14 } }
-    - { shortcode: dex, type: attribute, system: { scoreBase: 13 } }
-    - { shortcode: agl, type: attribute, system: { scoreBase: 15 } }
-    - { shortcode: per, type: attribute, system: { scoreBase: 16 } }
-    - { shortcode: cml, type: attribute, system: { scoreBase: 11 } }
-    - { shortcode: aur, type: attribute, system: { scoreBase: 12 } }
-    - { shortcode: wil, type: attribute, system: { scoreBase: 14 } }
-    - { shortcode: rea, type: attribute, system: { scoreBase: 13 } }
-    - { shortcode: cre, type: attribute, system: { scoreBase: 12 } }
-    - { shortcode: emp, type: attribute, system: { scoreBase: 10 } }
-    - { shortcode: elo, type: attribute, system: { scoreBase: 10 } }
-    - { shortcode: mor, type: attribute, system: { scoreBase: 12 } }
-    - { shortcode: voi, type: attribute, system: { scoreBase: 7 } }
-    - { shortcode: korsadra, type: affiliation }
-    - { shortcode: cook, type: skill, system: { masteryLevelBase: 30 } }
-    - { shortcode: folklr, type: skill, system: { masteryLevelBase: 13 } }
-    - { shortcode: pysn, type: skill, system: { masteryLevelBase: 14 } }
-    - { shortcode: chrm, type: skill, system: { masteryLevelBase: 33 } }
-    - { shortcode: cmd, type: skill, system: { masteryLevelBase: 24 } }
-    - { shortcode: dscr, type: skill, system: { masteryLevelBase: 24 } }
-    - { shortcode: guil, type: skill, system: { masteryLevelBase: 33 } }
-    - { shortcode: intr, type: skill, system: { masteryLevelBase: 44 } }
-    - { shortcode: sing, type: skill, system: { masteryLevelBase: 27 } }
-    - { shortcode: thtcs, type: skill, system: { masteryLevelBase: 11 } }
-    - { shortcode: agri, type: skill, system: { masteryLevelBase: 30 } }
-    - { shortcode: fish, type: skill, system: { masteryLevelBase: 30 } }
-    - { shortcode: herb, type: skill, system: { masteryLevelBase: 75 } }
-    - { shortcode: srvl, type: skill, system: { masteryLevelBase: 70 } }
-    - { shortcode: trak, type: skill, system: { masteryLevelBase: 56 } }
-    - { shortcode: acro, type: skill, system: { masteryLevelBase: 15 } }
-    - { shortcode: awar, type: skill, system: { masteryLevelBase: 45 } }
-    - { shortcode: clmb, type: skill, system: { masteryLevelBase: 42 } }
-    - { shortcode: dnce, type: skill, system: { masteryLevelBase: 28 } }
-    - { shortcode: jump, type: skill, system: { masteryLevelBase: 42 } }
-    - { shortcode: ridg, type: skill, system: { masteryLevelBase: 12 } }
-    - { shortcode: stlth, type: skill, system: { masteryLevelBase: 75 } }
-    - { shortcode: swim, type: skill, system: { masteryLevelBase: 15 } }
-    - { shortcode: archery, type: skill, system: { masteryLevelBase: 75 } }
-    - { shortcode: init, type: skill, system: { masteryLevelBase: 42 } }
-    - { shortcode: melee, type: skill, system: { masteryLevelBase: 28 } }
-    - { shortcode: thro, type: skill, system: { masteryLevelBase: 70 } }
-    - { shortcode: draw, type: skill, system: { masteryLevelBase: 13 } }
-    - { shortcode: fltch, type: skill, system: { masteryLevelBase: 28 } }
-    - { shortcode: hide, type: skill, system: { masteryLevelBase: 42 } }
-    - { shortcode: mtlc, type: skill, system: { masteryLevelBase: 26 } }
-    - { shortcode: LBw100, type: weapongear }
-    - { shortcode: Dgr, type: weapongear }
-    - { shortcode: RhTunic, type: armorgear }
-    - { shortcode: RhBrch, type: armorgear }
-    - { shortcode: RhShoe, type: armorgear }
-    - { shortcode: RhMntl, type: armorgear }
-    - { shortcode: ArwStd, type: projectilegear, system: { quantity: 20 } }
+    - { model: sohl-sohl-attribute-str, system: { scoreBase: 12 } }
+    - { model: sohl-sohl-attribute-end, system: { scoreBase: 14 } }
+    - { model: sohl-sohl-attribute-dex, system: { scoreBase: 13 } }
+    - { model: sohl-sohl-attribute-agl, system: { scoreBase: 15 } }
+    - { model: sohl-sohl-attribute-per, system: { scoreBase: 16 } }
+    - { model: sohl-sohl-attribute-cml, system: { scoreBase: 11 } }
+    - { model: sohl-sohl-attribute-aur, system: { scoreBase: 12 } }
+    - { model: sohl-sohl-attribute-wil, system: { scoreBase: 14 } }
+    - { model: sohl-sohl-attribute-rea, system: { scoreBase: 13 } }
+    - { model: sohl-sohl-attribute-cre, system: { scoreBase: 12 } }
+    - { model: sohl-sohl-attribute-emp, system: { scoreBase: 10 } }
+    - { model: sohl-sohl-attribute-elo, system: { scoreBase: 10 } }
+    - { model: sohl-sohl-attribute-mor, system: { scoreBase: 12 } }
+    - { model: sohl-sohl-attribute-voi, system: { scoreBase: 7 } }
+    - { model: affiliation-korsadra }
+    - { model: sohl-sohl-skill-cook, system: { masteryLevelBase: 30 } }
+    - { model: sohl-sohl-skill-folklr, system: { masteryLevelBase: 13 } }
+    - { model: sohl-sohl-skill-pysn, system: { masteryLevelBase: 14 } }
+    - { model: sohl-sohl-skill-chrm, system: { masteryLevelBase: 33 } }
+    - { model: sohl-sohl-skill-cmd, system: { masteryLevelBase: 24 } }
+    - { model: sohl-sohl-skill-dscr, system: { masteryLevelBase: 24 } }
+    - { model: sohl-sohl-skill-guil, system: { masteryLevelBase: 33 } }
+    - { model: sohl-sohl-skill-intr, system: { masteryLevelBase: 44 } }
+    - { model: sohl-sohl-skill-sing, system: { masteryLevelBase: 27 } }
+    - { model: sohl-sohl-skill-thtcs, system: { masteryLevelBase: 11 } }
+    - { model: sohl-sohl-skill-agri, system: { masteryLevelBase: 30 } }
+    - { model: sohl-sohl-skill-fish, system: { masteryLevelBase: 30 } }
+    - { model: sohl-sohl-skill-herb, system: { masteryLevelBase: 75 } }
+    - { model: sohl-sohl-skill-srvl, system: { masteryLevelBase: 70 } }
+    - { model: sohl-sohl-skill-trak, system: { masteryLevelBase: 56 } }
+    - { model: sohl-sohl-skill-acro, system: { masteryLevelBase: 15 } }
+    - { model: sohl-sohl-skill-awar, system: { masteryLevelBase: 45 } }
+    - { model: sohl-sohl-skill-clmb, system: { masteryLevelBase: 42 } }
+    - { model: sohl-sohl-skill-dnce, system: { masteryLevelBase: 28 } }
+    - { model: sohl-sohl-skill-jump, system: { masteryLevelBase: 42 } }
+    - { model: sohl-sohl-skill-ridg, system: { masteryLevelBase: 12 } }
+    - { model: sohl-sohl-skill-stlth, system: { masteryLevelBase: 75 } }
+    - { model: sohl-sohl-skill-swim, system: { masteryLevelBase: 15 } }
+    - { model: sohl-sohl-skill-archery, system: { masteryLevelBase: 75 } }
+    - { model: sohl-sohl-skill-init, system: { masteryLevelBase: 42 } }
+    - { model: sohl-sohl-skill-melee, system: { masteryLevelBase: 28 } }
+    - { model: sohl-sohl-skill-thro, system: { masteryLevelBase: 70 } }
+    - { model: sohl-sohl-skill-draw, system: { masteryLevelBase: 13 } }
+    - { model: sohl-sohl-skill-fltch, system: { masteryLevelBase: 28 } }
+    - { model: sohl-sohl-skill-hide, system: { masteryLevelBase: 42 } }
+    - { model: sohl-sohl-skill-mtlc, system: { masteryLevelBase: 26 } }
+    - { model: sohl-sohl-weapongear-lbw100 }
+    - { model: sohl-sohl-weapongear-dgr }
+    - { model: sohl-sohl-armorgear-rhtunic }
+    - { model: sohl-sohl-armorgear-rhbrch }
+    - { model: sohl-sohl-armorgear-rhshoe }
+    - { model: sohl-sohl-armorgear-rhmntl }
+    - { model: sohl-sohl-projectilegear-arwstd, system: { quantity: 20 } }
     - name: Quiver (leather, desert-crafted)
       type: miscgear
       system:
+        shortcode: quiver
         weight: 1.5
         value: 100
         durability: 3
     - name: Herbal remedies (desert plants)
       type: miscgear
       system:
+        shortcode: herbalremedies
         quantity: 4
         value: 3
         weight: 1
@@ -113,6 +115,7 @@ sohl:
     - name: Tracking tools (bone markers)
       type: miscgear
       system:
+        shortcode: trackingtools
         quantity: 5
         weight: 2
         value: 50
@@ -120,24 +123,27 @@ sohl:
     - name: Waterskin (large, decorated)
       type: miscgear
       system:
+        shortcode: watersk
         weight: 1.5
         value: 100
         durability: 3
     - name: Desert rations (dried meat and dates)
       type: miscgear
       system:
+        shortcode: desertrations
         quantity: 1
         weight: 1
         value: 100
         durability: 3
-    - { shortcode: tndrbx, type: miscgear }
+    - { model: sohl-sohl-miscgear-tndrbx }
     - name: Spiritual amulet (bone and leather)
       type: miscgear
       system:
+        shortcode: spiritualamulet
         weight: 1.5
         value: 100
         durability: 3
-    - { shortcode: bgsmcvs, type: containergear }
+    - { model: sohl-sohl-containergear-bgsmcvs }
   system:
     body:
       structure:
@@ -608,6 +614,8 @@ Atenheru stands 6'2\" tall with a medium build. He has olive-tanned skin, dark h
 Atenheru, known as “The Silent Jackal,” was a desert ranger from the **Sahri** nomads, a tribe living in the remote reaches of the **Desert of Khazryn Desert**. Skilled in tracking and surviving in one of the harshest environments in the world, Atenheru developed an unparalleled connection with the desert and its spiritual forces. During one of his routine desert patrols, Atenheru stumbled upon [[being-mrtsbkhkmn|Meret-Sebek]], who had wandered deep into the desert after the first of his celestial visions. At the time, [[being-mrtsbkhkmn|Meret-Sebek]] was lost, dehydrated, and struggling to interpret the significance of the stars guiding him into the unknown.
 
 Atenheru, guided by an instinctual pull from the **Jackal Spirit**—a protector of wanderers in the desert—rescued [[being-mrtsbkhkmn|Meret-Sebek]] and brought him to a hidden oasis. It was there, as [[being-mrtsbkhkmn|Meret-Sebek]] shared his visions of celestial upheaval, that Atenheru realized their fates were entwined. The same stars that guided [[being-mrtsbkhkmn|Meret-Sebek]] through his visions also aligned with the Sahri’s ancient prophecies. Believing that [[being-mrtsbkhkmn|Meret-Sebek]]’s quest might hold the key to understanding the mysteries of the desert and its spiritual protectors, Atenheru pledged his assistance, convinced that the Jackal Spirit had chosen him to guide the astrologer through the perils of both the desert and his destiny.
+
+## Background
 
 ### Skills and Abilities
 

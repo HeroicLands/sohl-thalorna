@@ -6,7 +6,7 @@ name:
     - Élavendri
     - Elavendri
 description: "The settled speech of Élavendre, rich in words for magic, wilderness, and the fae — a daughter-tongue of old Áelendi."
-img: icons/speaking.svg
+img: systems/sohl/assets/icons/other/speaking.svg
 shortcode: elvndrlng
 type: skill
 subType: language
@@ -25,7 +25,7 @@ flags:
     lang_family: Pelwar
 ---
 
-Élavendri is a tongue of the Pelwar family. Fluency measures the sophistication of expression in Élavendri, from the halting phrases of a traveler to the nuanced and learned discourse of a native speaker. As with all specific languages, this skill inherits its mechanics from the general [[skill-lang|Language]] skill.
+Élavendri is a tongue of the Pelwar family. Fluency measures the sophistication of expression in Élavendri, from the halting phrases of a traveler to the nuanced and learned discourse of a native speaker. As with all specific languages, this skill inherits its mechanics from the general [[sohl-none-docskill-lang|Language]] skill.
 
 Élavendri is the lyrical tongue of the realm of [[place-elavendre|Élavendre]], a language steeped in magic, nature, and the influence of the fey-touched peoples who dwell in the borderlands between human and faerie realms. Where Vylari is precise and administrative, Élavendri is fluid and suggestive—a language that reaches toward meanings beyond the grasp of ordinary words.
 

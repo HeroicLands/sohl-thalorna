@@ -5,11 +5,11 @@ name:
   full: Octowolf
   aliases: []
 description: "An unnatural wolf-and-octopus fusion haunting coastal marshes, deltas, and corrupted waters where land and water meet."
-img: icons/game-icons/lorc/wolf-head.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 shortcode: octowolf
 type: being
 data:
-  portrait: images/being/octowolf-portrait.webp
+  portrait: images/beings/creatures/octowolf-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: null
@@ -43,23 +43,22 @@ sohl:
     wil: 1d4+13
     rea: 1d4+13
     cre: 1d6+10
-  defaultCombatGroup: null
   items:
-    - { shortcode: str, type: attribute, system: { scoreBase: 18 } }
-    - { shortcode: end, type: attribute, system: { scoreBase: 16 } }
-    - { shortcode: dex, type: attribute, system: { scoreBase: 18 } }
-    - { shortcode: agl, type: attribute, system: { scoreBase: 16 } }
-    - { shortcode: per, type: attribute, system: { scoreBase: 16 } }
-    - { shortcode: aur, type: attribute, system: { scoreBase: 12 } }
-    - { shortcode: wil, type: attribute, system: { scoreBase: 16 } }
-    - { shortcode: rea, type: attribute, system: { scoreBase: 16 } }
-    - { shortcode: cre, type: attribute, system: { scoreBase: 14 } }
-    - { shortcode: awar, type: skill, system: { masteryLevelBase: 80 } }
-    - { shortcode: stlth, type: skill, system: { masteryLevelBase: 80 } }
-    - { shortcode: sprt, type: mysticalability, system: { masteryLevelBase: 42 } }
-    - { shortcode: init, type: skill, system: { masteryLevelBase: 64 } }
-    - { shortcode: dge, type: skill, system: { masteryLevelBase: 64 } }
-    - { shortcode: shok, type: skill, system: { masteryLevelBase: 43 } }
+    - { model: sohl-sohl-attribute-str, system: { scoreBase: 18 } }
+    - { model: sohl-sohl-attribute-end, system: { scoreBase: 16 } }
+    - { model: sohl-sohl-attribute-dex, system: { scoreBase: 18 } }
+    - { model: sohl-sohl-attribute-agl, system: { scoreBase: 16 } }
+    - { model: sohl-sohl-attribute-per, system: { scoreBase: 16 } }
+    - { model: sohl-sohl-attribute-aur, system: { scoreBase: 12 } }
+    - { model: sohl-sohl-attribute-wil, system: { scoreBase: 16 } }
+    - { model: sohl-sohl-attribute-rea, system: { scoreBase: 16 } }
+    - { model: sohl-sohl-attribute-cre, system: { scoreBase: 14 } }
+    - { model: sohl-sohl-skill-awar, system: { masteryLevelBase: 80 } }
+    - { model: sohl-sohl-skill-stlth, system: { masteryLevelBase: 80 } }
+    - { model: sohl-sohl-mysticalability-sprt, system: { masteryLevelBase: 42 } }
+    - { model: sohl-sohl-skill-init, system: { masteryLevelBase: 64 } }
+    - { model: sohl-sohl-skill-dge, system: { masteryLevelBase: 64 } }
+    - { model: sohl-sohl-skill-shok, system: { masteryLevelBase: 43 } }
     - name: Rending Bite
       type: skill
       system:

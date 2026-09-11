@@ -5,11 +5,11 @@ name:
   full: Nightwights
   aliases: []
 description: "The intelligent undead—vampires, dread-priests, and sorcerer-emperors who persist past death through deliberate, prepared rituals of dark power."
-img: icons/game-icons/delapouite/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 shortcode: nghtwght
 type: being
 data:
-  portrait: images/being/nghtwght-portrait.webp
+  portrait: images/beings/creatures/nghtwght-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: null
@@ -43,25 +43,24 @@ sohl:
     wil: 1d6+14
     rea: 1d8+10
     cre: 1d4+13
-  defaultCombatGroup: null
   items:
-    - { shortcode: str, type: attribute, system: { scoreBase: 16 } }
-    - { shortcode: end, type: attribute, system: { scoreBase: 16 } }
-    - { shortcode: dex, type: attribute, system: { scoreBase: 16 } }
-    - { shortcode: agl, type: attribute, system: { scoreBase: 16 } }
-    - { shortcode: per, type: attribute, system: { scoreBase: 16 } }
-    - { shortcode: pal, type: attribute, system: { scoreBase: 16 } }
-    - { shortcode: wil, type: attribute, system: { scoreBase: 18 } }
-    - { shortcode: rea, type: attribute, system: { scoreBase: 15 } }
-    - { shortcode: cre, type: attribute, system: { scoreBase: 16 } }
-    - { shortcode: bflkbite, type: skill }
-    - { shortcode: bflkgrab, type: skill }
-    - { shortcode: bflkheadbutt, type: skill }
-    - { shortcode: bflkkick, type: skill }
-    - { shortcode: limbblock, type: skill }
-    - { shortcode: press, type: skill }
-    - { shortcode: bflkpunch, type: skill }
-    - { shortcode: trip, type: skill }
+    - { model: sohl-sohl-attribute-str, system: { scoreBase: 16 } }
+    - { model: sohl-sohl-attribute-end, system: { scoreBase: 16 } }
+    - { model: sohl-sohl-attribute-dex, system: { scoreBase: 16 } }
+    - { model: sohl-sohl-attribute-agl, system: { scoreBase: 16 } }
+    - { model: sohl-sohl-attribute-per, system: { scoreBase: 16 } }
+    - { model: sohl-sohl-attribute-pal, system: { scoreBase: 16 } }
+    - { model: sohl-sohl-attribute-wil, system: { scoreBase: 18 } }
+    - { model: sohl-sohl-attribute-rea, system: { scoreBase: 15 } }
+    - { model: sohl-sohl-attribute-cre, system: { scoreBase: 16 } }
+    - { model: sohl-sohl-skill-bflkbite }
+    - { model: sohl-sohl-skill-bflkgrab }
+    - { model: sohl-sohl-skill-bflkheadbutt }
+    - { model: sohl-sohl-skill-bflkkick }
+    - { model: sohl-sohl-skill-limbblock }
+    - { model: sohl-sohl-skill-press }
+    - { model: sohl-sohl-skill-bflkpunch }
+    - { model: sohl-sohl-skill-trip }
   system:
     body:
       structure:
@@ -551,7 +550,7 @@ The candidate's psychological state during the ritual matters enormously. Three 
 
 If the damage is moderate, the candidate may emerge as a weak Nightwight — lacking many of the capacities that fuller Nightwights have, perhaps fragmenting psychologically over time at a faster rate than usual. They are Nightwights only marginally. The worst part of this is the self-horror and self-loathing that comes along with this knowledge of what they have become, and the horror that awaits them.
 
-If the damage is severe, the candidate emerges as a Helthraal instead — a [[Helthrall|Failed-Ritual Helthraal]]. The Nightwight transformation has failed, but the body still rises, animated by the partial soul that remains.
+If the damage is severe, the candidate emerges as a Helthraal instead — a [[being-hlthrls|Failed-Ritual Helthraal]]. The Nightwight transformation has failed, but the body still rises, animated by the partial soul that remains.
 
 If the damage is catastrophic, the candidate may not arise at all. The body remains dead. The soul, fragmented and damaged, dissolves and disperses in the spirit realm, gone and irredemably unrecoverable.
 

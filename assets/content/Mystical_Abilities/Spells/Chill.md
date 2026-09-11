@@ -5,7 +5,7 @@ name:
   aliases:
     - Cooling
 description: "Radiates unnatural cold; freezes moisture and dulls warmth nearby."
-img: icons/water.svg
+img: systems/sohl/assets/icons/game-icons/badges/water.svg
 shortcode: chill
 type: mysticalability
 subType: arcaneincantation

@@ -3,7 +3,7 @@ tags: []
 name:
   full: Enthral
   aliases: []
-img: icons/psionics.svg
+img: systems/sohl/assets/icons/noun/psionics.svg
 shortcode: enth
 type: mysticalability
 subType: arcanetalent

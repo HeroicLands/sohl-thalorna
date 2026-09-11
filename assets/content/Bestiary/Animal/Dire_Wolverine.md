@@ -5,11 +5,11 @@ name:
   full: Dire Wolverine
   aliases: []
 description: "A solitary dire mustelid of cold forests and tundra, fearless and unstoppably persistent, among the deadliest predators pound for pound."
-img: icons/game-icons/caro-asercion/badger.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 shortcode: drwlvrn
 type: being
 data:
-  portrait: images/being/drwlvrn-portrait.webp
+  portrait: images/beings/creatures/drwlvrn-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: null
@@ -43,23 +43,22 @@ sohl:
     wil: 1d6+19
     rea: 1d4+6
     cre: 1d4+5
-  defaultCombatGroup: null
   items:
-    - { shortcode: str, type: attribute, system: { scoreBase: 27 } }
-    - { shortcode: end, type: attribute, system: { scoreBase: 25 } }
-    - { shortcode: dex, type: attribute, system: { scoreBase: 15 } }
-    - { shortcode: agl, type: attribute, system: { scoreBase: 15 } }
-    - { shortcode: per, type: attribute, system: { scoreBase: 16 } }
-    - { shortcode: aur, type: attribute, system: { scoreBase: 15 } }
-    - { shortcode: wil, type: attribute, system: { scoreBase: 23 } }
-    - { shortcode: rea, type: attribute, system: { scoreBase: 9 } }
-    - { shortcode: cre, type: attribute, system: { scoreBase: 8 } }
-    - { shortcode: awar, type: skill, system: { masteryLevelBase: 95 } }
-    - { shortcode: stlth, type: skill, system: { masteryLevelBase: 95 } }
-    - { shortcode: sprt, type: mysticalability, system: { masteryLevelBase: 57 } }
-    - { shortcode: init, type: skill, system: { masteryLevelBase: 64 } }
-    - { shortcode: dge, type: skill, system: { masteryLevelBase: 60 } }
-    - { shortcode: shok, type: skill, system: { masteryLevelBase: 65 } }
+    - { model: sohl-sohl-attribute-str, system: { scoreBase: 27 } }
+    - { model: sohl-sohl-attribute-end, system: { scoreBase: 25 } }
+    - { model: sohl-sohl-attribute-dex, system: { scoreBase: 15 } }
+    - { model: sohl-sohl-attribute-agl, system: { scoreBase: 15 } }
+    - { model: sohl-sohl-attribute-per, system: { scoreBase: 16 } }
+    - { model: sohl-sohl-attribute-aur, system: { scoreBase: 15 } }
+    - { model: sohl-sohl-attribute-wil, system: { scoreBase: 23 } }
+    - { model: sohl-sohl-attribute-rea, system: { scoreBase: 9 } }
+    - { model: sohl-sohl-attribute-cre, system: { scoreBase: 8 } }
+    - { model: sohl-sohl-skill-awar, system: { masteryLevelBase: 95 } }
+    - { model: sohl-sohl-skill-stlth, system: { masteryLevelBase: 95 } }
+    - { model: sohl-sohl-mysticalability-sprt, system: { masteryLevelBase: 57 } }
+    - { model: sohl-sohl-skill-init, system: { masteryLevelBase: 64 } }
+    - { model: sohl-sohl-skill-dge, system: { masteryLevelBase: 60 } }
+    - { model: sohl-sohl-skill-shok, system: { masteryLevelBase: 65 } }
     - name: Raking Claws
       type: skill
       system:
@@ -396,26 +395,6 @@ Dense fur and thick skin provide protection against bites and slashing attacks, 
 - **Reasoning:** 7-10 (1d4+6)
 - **Creativity:** 6-9 (1d4+5)
 
-#### Iron Hide
+### Iron Hide
 
 Its dense fur and skin reduce damage from attacks.
-
-## Attributes
-
-- **Strength:** 24-29 (1d6+23)
-
-- **Endurance:** 22-27 (1d6+21)
-
-- **Dexterity:** 12-17 (1d6+11)
-
-- **Agility:** 12-17 (1d6+11)
-
-- **Perception:** 13-18 (1d6+12)
-
-- **Aura:** 12-17 (1d6+11)
-
-- **Will:** 20-25 (1d6+19)
-
-- **Reasoning:** 7-10 (1d4+6)
-
-- **Creativity:** 6-9 (1d4+5)

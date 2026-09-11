@@ -7,14 +7,14 @@ name:
   title: ""
   given: Kalída
   clan: Kourkásios
-  home: Chrysamar
+  home: chrysamar
   aliases: []
 packFolder: helladbyzaria
 shortcode: kalidkrkss
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/kalidkrkss-portrait.webp
+  portrait: images/beings/characters/kalidkrkss-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Potter
@@ -41,96 +41,102 @@ data:
 sohl:
   templatePriority: null
   items:
-    - { shortcode: str, type: attribute, system: { scoreBase: 10 } }
-    - { shortcode: end, type: attribute, system: { scoreBase: 11 } }
-    - { shortcode: dex, type: attribute, system: { scoreBase: 15 } }
-    - { shortcode: agl, type: attribute, system: { scoreBase: 14 } }
-    - { shortcode: per, type: attribute, system: { scoreBase: 13 } }
-    - { shortcode: cml, type: attribute, system: { scoreBase: 16 } }
-    - { shortcode: aur, type: attribute, system: { scoreBase: 12 } }
-    - { shortcode: wil, type: attribute, system: { scoreBase: 13 } }
-    - { shortcode: rea, type: attribute, system: { scoreBase: 11 } }
-    - { shortcode: cre, type: attribute, system: { scoreBase: 18 } }
-    - { shortcode: emp, type: attribute, system: { scoreBase: 14 } }
-    - { shortcode: elo, type: attribute, system: { scoreBase: 12 } }
-    - { shortcode: mor, type: attribute, system: { scoreBase: 15 } }
-    - { shortcode: voi, type: attribute, system: { scoreBase: 13 } }
-    - { shortcode: sacredforge, type: affiliation }
-    - { shortcode: cook, type: skill, system: { masteryLevelBase: 24 } }
-    - { shortcode: folklr, type: skill, system: { masteryLevelBase: 12 } }
-    - { shortcode: pysn, type: skill, system: { masteryLevelBase: 12 } }
-    - { shortcode: chrm, type: skill, system: { masteryLevelBase: 45 } }
-    - { shortcode: cmd, type: skill, system: { masteryLevelBase: 26 } }
-    - { shortcode: dscr, type: skill, system: { masteryLevelBase: 22 } }
-    - { shortcode: guil, type: skill, system: { masteryLevelBase: 48 } }
-    - { shortcode: intr, type: skill, system: { masteryLevelBase: 65 } }
-    - { shortcode: sing, type: skill, system: { masteryLevelBase: 45 } }
-    - { shortcode: thtcs, type: skill, system: { masteryLevelBase: 15 } }
-    - { shortcode: anmcft, type: skill, system: { masteryLevelBase: 28 } }
-    - { shortcode: mnrl, type: skill, system: { masteryLevelBase: 60 } }
-    - { shortcode: pilt, type: skill, system: { masteryLevelBase: 12 } }
-    - { shortcode: srvl, type: skill, system: { masteryLevelBase: 12 } }
-    - { shortcode: awar, type: skill, system: { masteryLevelBase: 39 } }
-    - { shortcode: clmb, type: skill, system: { masteryLevelBase: 42 } }
-    - { shortcode: dnce, type: skill, system: { masteryLevelBase: 48 } }
-    - { shortcode: jump, type: skill, system: { masteryLevelBase: 36 } }
-    - { shortcode: ridg, type: skill, system: { masteryLevelBase: 14 } }
-    - { shortcode: stlth, type: skill, system: { masteryLevelBase: 42 } }
-    - { shortcode: swim, type: skill, system: { masteryLevelBase: 13 } }
-    - { shortcode: archery, type: skill, system: { masteryLevelBase: 28 } }
-    - { shortcode: init, type: skill, system: { masteryLevelBase: 36 } }
-    - { shortcode: melee, type: skill, system: { masteryLevelBase: 45 } }
-    - { shortcode: thro, type: skill, system: { masteryLevelBase: 28 } }
-    - { shortcode: cmcs, type: skill, system: { masteryLevelBase: 70 } }
-    - { shortcode: draw, type: skill, system: { masteryLevelBase: 64 } }
-    - { shortcode: glas, type: skill, system: { masteryLevelBase: 42 } }
-    - { shortcode: masn, type: skill, system: { masteryLevelBase: 13 } }
-    - { shortcode: mtlc, type: skill, system: { masteryLevelBase: 13 } }
-    - { shortcode: Dgr, type: weapongear }
-    - { shortcode: WShirt, type: armorgear }
-    - { shortcode: WTrsr, type: armorgear }
-    - { shortcode: LtShoe, type: armorgear }
-    - { shortcode: WClk, type: armorgear }
-    - { shortcode: tndrbx, type: miscgear }
-    - { shortcode: StdRtns, type: miscgear, system: { quantity: 2 } }
+    - { model: sohl-sohl-attribute-str, system: { scoreBase: 10 } }
+    - { model: sohl-sohl-attribute-end, system: { scoreBase: 11 } }
+    - { model: sohl-sohl-attribute-dex, system: { scoreBase: 15 } }
+    - { model: sohl-sohl-attribute-agl, system: { scoreBase: 14 } }
+    - { model: sohl-sohl-attribute-per, system: { scoreBase: 13 } }
+    - { model: sohl-sohl-attribute-cml, system: { scoreBase: 16 } }
+    - { model: sohl-sohl-attribute-aur, system: { scoreBase: 12 } }
+    - { model: sohl-sohl-attribute-wil, system: { scoreBase: 13 } }
+    - { model: sohl-sohl-attribute-rea, system: { scoreBase: 11 } }
+    - { model: sohl-sohl-attribute-cre, system: { scoreBase: 18 } }
+    - { model: sohl-sohl-attribute-emp, system: { scoreBase: 14 } }
+    - { model: sohl-sohl-attribute-elo, system: { scoreBase: 12 } }
+    - { model: sohl-sohl-attribute-mor, system: { scoreBase: 15 } }
+    - { model: sohl-sohl-attribute-voi, system: { scoreBase: 13 } }
+    - { model: affiliation-sacredforge }
+    - { model: sohl-sohl-skill-cook, system: { masteryLevelBase: 24 } }
+    - { model: sohl-sohl-skill-folklr, system: { masteryLevelBase: 12 } }
+    - { model: sohl-sohl-skill-pysn, system: { masteryLevelBase: 12 } }
+    - { model: sohl-sohl-skill-chrm, system: { masteryLevelBase: 45 } }
+    - { model: sohl-sohl-skill-cmd, system: { masteryLevelBase: 26 } }
+    - { model: sohl-sohl-skill-dscr, system: { masteryLevelBase: 22 } }
+    - { model: sohl-sohl-skill-guil, system: { masteryLevelBase: 48 } }
+    - { model: sohl-sohl-skill-intr, system: { masteryLevelBase: 65 } }
+    - { model: sohl-sohl-skill-sing, system: { masteryLevelBase: 45 } }
+    - { model: sohl-sohl-skill-thtcs, system: { masteryLevelBase: 15 } }
+    - { model: sohl-sohl-skill-anmcft, system: { masteryLevelBase: 28 } }
+    - { model: sohl-sohl-skill-mnrl, system: { masteryLevelBase: 60 } }
+    - { model: sohl-sohl-skill-pilt, system: { masteryLevelBase: 12 } }
+    - { model: sohl-sohl-skill-srvl, system: { masteryLevelBase: 12 } }
+    - { model: sohl-sohl-skill-awar, system: { masteryLevelBase: 39 } }
+    - { model: sohl-sohl-skill-clmb, system: { masteryLevelBase: 42 } }
+    - { model: sohl-sohl-skill-dnce, system: { masteryLevelBase: 48 } }
+    - { model: sohl-sohl-skill-jump, system: { masteryLevelBase: 36 } }
+    - { model: sohl-sohl-skill-ridg, system: { masteryLevelBase: 14 } }
+    - { model: sohl-sohl-skill-stlth, system: { masteryLevelBase: 42 } }
+    - { model: sohl-sohl-skill-swim, system: { masteryLevelBase: 13 } }
+    - { model: sohl-sohl-skill-archery, system: { masteryLevelBase: 28 } }
+    - { model: sohl-sohl-skill-init, system: { masteryLevelBase: 36 } }
+    - { model: sohl-sohl-skill-melee, system: { masteryLevelBase: 45 } }
+    - { model: sohl-sohl-skill-thro, system: { masteryLevelBase: 28 } }
+    - { model: sohl-sohl-skill-cmcs, system: { masteryLevelBase: 70 } }
+    - { model: sohl-sohl-skill-draw, system: { masteryLevelBase: 64 } }
+    - { model: sohl-sohl-skill-glas, system: { masteryLevelBase: 42 } }
+    - { model: sohl-sohl-skill-masn, system: { masteryLevelBase: 13 } }
+    - { model: sohl-sohl-skill-mtlc, system: { masteryLevelBase: 13 } }
+    - { model: sohl-sohl-weapongear-dgr }
+    - { model: sohl-sohl-armorgear-wshirt }
+    - { model: sohl-sohl-armorgear-wtrsr }
+    - { model: sohl-sohl-armorgear-ltshoe }
+    - { model: sohl-sohl-armorgear-wclk }
+    - { model: sohl-sohl-miscgear-tndrbx }
+    - { model: sohl-sohl-miscgear-stdrtns, system: { quantity: 2 } }
     - name: Potter's wheel (portable, artist-grade)
       type: miscgear
       system:
+        shortcode: potterswheel
         weight: 3
         value: 12
         durability: 3
     - name: Kiln-firing tools and temperature gauges
       type: miscgear
       system:
+        shortcode: kilnfiringtools
         weight: 1.5
         value: 100
         durability: 3
     - name: Assorted ceramic glazes (sealed containers)
       type: miscgear
       system:
+        shortcode: assortedceramic
         weight: 1.5
         value: 20
         durability: 3
     - name: Selection of brushes and carving tools
       type: miscgear
       system:
+        shortcode: selectionofbrushes
         weight: 0.5
         value: 100
         durability: 3
     - name: Sketchbook and drawing materials
       type: miscgear
       system:
+        shortcode: sketchbookanddrawing
         weight: 0.6
         value: 100
         durability: 3
     - name: Clay samples (various sources)
       type: miscgear
       system:
+        shortcode: claysamples
         weight: 1.2
         value: 100
         durability: 3
-    - { shortcode: backpk, type: containergear }
-    - { shortcode: wtrskin, type: containergear }
+    - { model: sohl-sohl-containergear-backpk }
+    - { model: sohl-sohl-containergear-wtrskin }
   system:
     body:
       structure:

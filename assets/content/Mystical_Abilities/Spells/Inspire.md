@@ -5,7 +5,7 @@ name:
   aliases:
     - Imbue
 description: "Temporary enhancement of target's attributes and mental capabilities."
-img: icons/circle.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/circle.svg
 shortcode: inspire
 type: mysticalability
 subType: arcaneincantation

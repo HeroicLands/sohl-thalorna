@@ -69,7 +69,7 @@ Mídhalión connects to every other major region of Ankaris. It fronts the [[pla
 
 ## Reckoning
 
-Mídhalión operates on the **Common Calendar** — the AF/BF system established by the [[affiliation-vylarinmpr|Vylarian Empire]] and universally adopted across its former and current sphere of influence. See [[affiliation-vylarinmpr#The Common Calendar|the Vylarian Empire's Common Calendar]] for the full reckoning.
+Mídhalión operates on the **Common Calendar** — the AF/BF system established by the [[affiliation-vylarinmpr|Vylarian Empire]] and universally adopted across its former and current sphere of influence. See [[affiliation-vylarinmpr#the-common-calendar|the Vylarian Empire's Common Calendar]] for the full reckoning.
 
 ## See Also
 

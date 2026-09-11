@@ -5,7 +5,7 @@ name:
   aliases:
     - Call
 description: "Summoned wind-spirit scouting terrain and engaging in aerial combat."
-img: icons/wind.svg
+img: systems/sohl/assets/icons/other/wind.svg
 shortcode: invctn
 type: mysticalability
 subType: arcaneincantation

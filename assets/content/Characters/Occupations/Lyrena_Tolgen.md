@@ -7,12 +7,12 @@ name:
   title: ""
   given: Lýrena
   clan: Tólgen
-  home: Lunacòrte
+  home: lunacorte
   aliases:
     - Ingrid Flamehair
 packFolder: aureldiaprovenzia
 shortcode: lyrenatlgn
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
   portrait: images/being/lyrenatlgn-portrait.webp
@@ -44,50 +44,50 @@ data:
 sohl:
   templatePriority: null
   items:
-    - { shortcode: str, type: attribute, system: { scoreBase: 12 } }
-    - { shortcode: end, type: attribute, system: { scoreBase: 13 } }
-    - { shortcode: dex, type: attribute, system: { scoreBase: 14 } }
-    - { shortcode: agl, type: attribute, system: { scoreBase: 13 } }
-    - { shortcode: per, type: attribute, system: { scoreBase: 15 } }
-    - { shortcode: cml, type: attribute, system: { scoreBase: 13 } }
-    - { shortcode: aur, type: attribute, system: { scoreBase: 14 } }
-    - { shortcode: wil, type: attribute, system: { scoreBase: 13 } }
-    - { shortcode: rea, type: attribute, system: { scoreBase: 12 } }
-    - { shortcode: cre, type: attribute, system: { scoreBase: 17 } }
-    - { shortcode: emp, type: attribute, system: { scoreBase: 15 } }
-    - { shortcode: elo, type: attribute, system: { scoreBase: 16 } }
-    - { shortcode: mor, type: attribute, system: { scoreBase: 14 } }
-    - { shortcode: voi, type: attribute, system: { scoreBase: 16 } }
-    - { shortcode: lusinia, type: affiliation }
-    - { shortcode: cook, type: skill, system: { masteryLevelBase: 28 } }
-    - { shortcode: folklr, type: skill, system: { masteryLevelBase: 48 } }
-    - { shortcode: pysn, type: skill, system: { masteryLevelBase: 13 } }
-    - { shortcode: semrnscrpt, type: skill, system: { masteryLevelBase: 65 } }
-    - { shortcode: chrm, type: skill, system: { masteryLevelBase: 42 } }
-    - { shortcode: cmd, type: skill, system: { masteryLevelBase: 28 } }
-    - { shortcode: dscr, type: skill, system: { masteryLevelBase: 28 } }
-    - { shortcode: guil, type: skill, system: { masteryLevelBase: 64 } }
-    - { shortcode: intr, type: skill, system: { masteryLevelBase: 70 } }
-    - { shortcode: provnzlng, type: skill, system: { masteryLevelBase: 14 } }
-    - { shortcode: sing, type: skill, system: { masteryLevelBase: 65 } }
-    - { shortcode: thtcs, type: skill, system: { masteryLevelBase: 17 } }
-    - { shortcode: srvl, type: skill, system: { masteryLevelBase: 13 } }
-    - { shortcode: awar, type: skill, system: { masteryLevelBase: 42 } }
-    - { shortcode: clmb, type: skill, system: { masteryLevelBase: 39 } }
-    - { shortcode: dnce, type: skill, system: { masteryLevelBase: 30 } }
-    - { shortcode: jump, type: skill, system: { masteryLevelBase: 39 } }
-    - { shortcode: ridg, type: skill, system: { masteryLevelBase: 28 } }
-    - { shortcode: stlth, type: skill, system: { masteryLevelBase: 39 } }
-    - { shortcode: swim, type: skill, system: { masteryLevelBase: 13 } }
-    - { shortcode: archery, type: skill, system: { masteryLevelBase: 30 } }
-    - { shortcode: init, type: skill, system: { masteryLevelBase: 52 } }
-    - { shortcode: melee, type: skill, system: { masteryLevelBase: 28 } }
-    - { shortcode: thro, type: skill, system: { masteryLevelBase: 28 } }
-    - { shortcode: draw, type: skill, system: { masteryLevelBase: 15 } }
-    - { shortcode: mtlc, type: skill, system: { masteryLevelBase: 39 } }
-    - { shortcode: musc, type: skill, system: { masteryLevelBase: 80 } }
-    - { shortcode: wood, type: skill, system: { masteryLevelBase: 65 } }
-    - { shortcode: common, type: skill, system: { masteryLevelBase: 28 } }
+    - { model: sohl-sohl-attribute-str, system: { scoreBase: 12 } }
+    - { model: sohl-sohl-attribute-end, system: { scoreBase: 13 } }
+    - { model: sohl-sohl-attribute-dex, system: { scoreBase: 14 } }
+    - { model: sohl-sohl-attribute-agl, system: { scoreBase: 13 } }
+    - { model: sohl-sohl-attribute-per, system: { scoreBase: 15 } }
+    - { model: sohl-sohl-attribute-cml, system: { scoreBase: 13 } }
+    - { model: sohl-sohl-attribute-aur, system: { scoreBase: 14 } }
+    - { model: sohl-sohl-attribute-wil, system: { scoreBase: 13 } }
+    - { model: sohl-sohl-attribute-rea, system: { scoreBase: 12 } }
+    - { model: sohl-sohl-attribute-cre, system: { scoreBase: 17 } }
+    - { model: sohl-sohl-attribute-emp, system: { scoreBase: 15 } }
+    - { model: sohl-sohl-attribute-elo, system: { scoreBase: 16 } }
+    - { model: sohl-sohl-attribute-mor, system: { scoreBase: 14 } }
+    - { model: sohl-sohl-attribute-voi, system: { scoreBase: 16 } }
+    - { model: affiliation-lusinia }
+    - { model: sohl-sohl-skill-cook, system: { masteryLevelBase: 28 } }
+    - { model: sohl-sohl-skill-folklr, system: { masteryLevelBase: 48 } }
+    - { model: sohl-sohl-skill-pysn, system: { masteryLevelBase: 13 } }
+    - { model: skill-semrnscrpt, system: { masteryLevelBase: 65 } }
+    - { model: sohl-sohl-skill-chrm, system: { masteryLevelBase: 42 } }
+    - { model: sohl-sohl-skill-cmd, system: { masteryLevelBase: 28 } }
+    - { model: sohl-sohl-skill-dscr, system: { masteryLevelBase: 28 } }
+    - { model: sohl-sohl-skill-guil, system: { masteryLevelBase: 64 } }
+    - { model: sohl-sohl-skill-intr, system: { masteryLevelBase: 70 } }
+    - { model: skill-provnzlng, system: { masteryLevelBase: 14 } }
+    - { model: sohl-sohl-skill-sing, system: { masteryLevelBase: 65 } }
+    - { model: sohl-sohl-skill-thtcs, system: { masteryLevelBase: 17 } }
+    - { model: sohl-sohl-skill-srvl, system: { masteryLevelBase: 13 } }
+    - { model: sohl-sohl-skill-awar, system: { masteryLevelBase: 42 } }
+    - { model: sohl-sohl-skill-clmb, system: { masteryLevelBase: 39 } }
+    - { model: sohl-sohl-skill-dnce, system: { masteryLevelBase: 30 } }
+    - { model: sohl-sohl-skill-jump, system: { masteryLevelBase: 39 } }
+    - { model: sohl-sohl-skill-ridg, system: { masteryLevelBase: 28 } }
+    - { model: sohl-sohl-skill-stlth, system: { masteryLevelBase: 39 } }
+    - { model: sohl-sohl-skill-swim, system: { masteryLevelBase: 13 } }
+    - { model: sohl-sohl-skill-archery, system: { masteryLevelBase: 30 } }
+    - { model: sohl-sohl-skill-init, system: { masteryLevelBase: 52 } }
+    - { model: sohl-sohl-skill-melee, system: { masteryLevelBase: 28 } }
+    - { model: sohl-sohl-skill-thro, system: { masteryLevelBase: 28 } }
+    - { model: sohl-sohl-skill-draw, system: { masteryLevelBase: 15 } }
+    - { model: sohl-sohl-skill-mtlc, system: { masteryLevelBase: 39 } }
+    - { model: sohl-sohl-skill-musc, system: { masteryLevelBase: 80 } }
+    - { model: sohl-sohl-skill-wood, system: { masteryLevelBase: 65 } }
+    - { model: sohl-sohl-skill-common, system: { masteryLevelBase: 28 } }
   system:
     body:
       structure:
@@ -557,7 +557,7 @@ Lýrena Tólgen is a 30-year-old woman who stands 5'8" tall and is slender. She 
 
 Born in the Provènzia region to a freeman family of Provenzian heritage, Lýrena Tólgen came into the world of the skald through a combination of circumstance and aptitude.
 
-Ingrid is known as "Flamehair" for her striking red hair and fiery temperament. She has gained fame for her poems that blend elements of old Normen mythology with contemporary events. Her performances are filled with passion, and she often incorporates gestures and dramatic expressions to captivate her audience. Despite her skill, Ingrid sometimes struggles to keep her emotions in check, especially when recounting tales of loss.
+Ingrid is known as "Flamehair" for her striking red hair and fiery temperament. She has gained fame for her poems that blend elements of old Nordmen mythology with contemporary events. Her performances are filled with passion, and she often incorporates gestures and dramatic expressions to captivate her audience. Despite her skill, Ingrid sometimes struggles to keep her emotions in check, especially when recounting tales of loss.
 
 Now at 30 years of age, Lýrena Tólgen has established herself as a known figure among the skalds of Provènzia. Her reputation, for better or worse, precedes her in the circles where such things matter.
 

@@ -7,14 +7,14 @@ name:
   title: ""
   given: Zênais
   clan: Philokálos
-  home: Gümüşhisar
+  home: gumushisar2
   aliases: []
 packFolder: helladbyzaria
 shortcode: zensphlkls
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/zensphlkls-portrait.webp
+  portrait: images/beings/characters/zensphlkls-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Animal Trainer
@@ -42,86 +42,96 @@ data:
 sohl:
   templatePriority: null
   items:
-    - { shortcode: str, type: attribute, system: { scoreBase: 9 } }
-    - { shortcode: end, type: attribute, system: { scoreBase: 10 } }
-    - { shortcode: dex, type: attribute, system: { scoreBase: 15 } }
-    - { shortcode: agl, type: attribute, system: { scoreBase: 13 } }
-    - { shortcode: per, type: attribute, system: { scoreBase: 16 } }
-    - { shortcode: cml, type: attribute, system: { scoreBase: 14 } }
-    - { shortcode: aur, type: attribute, system: { scoreBase: 13 } }
-    - { shortcode: wil, type: attribute, system: { scoreBase: 12 } }
-    - { shortcode: rea, type: attribute, system: { scoreBase: 12 } }
-    - { shortcode: cre, type: attribute, system: { scoreBase: 12 } }
-    - { shortcode: emp, type: attribute, system: { scoreBase: 13 } }
-    - { shortcode: elo, type: attribute, system: { scoreBase: 14 } }
-    - { shortcode: mor, type: attribute, system: { scoreBase: 14 } }
-    - { shortcode: voi, type: attribute, system: { scoreBase: 15 } }
-    - { shortcode: venusia, type: affiliation }
-    - { shortcode: brew, type: skill, system: { masteryLevelBase: 28 } }
-    - { shortcode: cook, type: skill, system: { masteryLevelBase: 42 } }
-    - { shortcode: folklr, type: skill, system: { masteryLevelBase: 24 } }
-    - { shortcode: mrcn, type: skill, system: { masteryLevelBase: 14 } }
-    - { shortcode: pysn, type: skill, system: { masteryLevelBase: 14 } }
-    - { shortcode: chrm, type: skill, system: { masteryLevelBase: 42 } }
-    - { shortcode: cmd, type: skill, system: { masteryLevelBase: 26 } }
-    - { shortcode: dscr, type: skill, system: { masteryLevelBase: 26 } }
-    - { shortcode: guil, type: skill, system: { masteryLevelBase: 39 } }
-    - { shortcode: intr, type: skill, system: { masteryLevelBase: 39 } }
-    - { shortcode: sing, type: skill, system: { masteryLevelBase: 42 } }
-    - { shortcode: thtcs, type: skill, system: { masteryLevelBase: 13 } }
-    - { shortcode: anmcft, type: skill, system: { masteryLevelBase: 65 } }
-    - { shortcode: mnrl, type: skill, system: { masteryLevelBase: 14 } }
-    - { shortcode: smsh, type: skill, system: { masteryLevelBase: 14 } }
-    - { shortcode: srvl, type: skill, system: { masteryLevelBase: 12 } }
-    - { shortcode: awar, type: skill, system: { masteryLevelBase: 42 } }
-    - { shortcode: clmb, type: skill, system: { masteryLevelBase: 42 } }
-    - { shortcode: dnce, type: skill, system: { masteryLevelBase: 26 } }
-    - { shortcode: jump, type: skill, system: { masteryLevelBase: 33 } }
-    - { shortcode: ridg, type: skill, system: { masteryLevelBase: 65 } }
-    - { shortcode: stlth, type: skill, system: { masteryLevelBase: 39 } }
-    - { shortcode: swim, type: skill, system: { masteryLevelBase: 12 } }
-    - { shortcode: archery, type: skill, system: { masteryLevelBase: 16 } }
-    - { shortcode: init, type: skill, system: { masteryLevelBase: 48 } }
-    - { shortcode: melee, type: skill, system: { masteryLevelBase: 28 } }
-    - { shortcode: thro, type: skill, system: { masteryLevelBase: 45 } }
-    - { shortcode: draw, type: skill, system: { masteryLevelBase: 14 } }
-    - { shortcode: hide, type: skill, system: { masteryLevelBase: 30 } }
-    - { shortcode: mtlc, type: skill, system: { masteryLevelBase: 60 } }
-    - { shortcode: wood, type: skill, system: { masteryLevelBase: 12 } }
-    - { shortcode: Dgr, type: weapongear }
-    - { shortcode: LtTunic, type: armorgear }
-    - { shortcode: SgBrch, type: armorgear }
-    - { shortcode: LtKBoot, type: armorgear }
-    - { shortcode: LtCloak, type: armorgear }
-    - { shortcode: tndrbx, type: miscgear }
-    - { shortcode: StdRtns, type: miscgear, system: { quantity: 2 } }
+    - { model: sohl-sohl-attribute-str, system: { scoreBase: 9 } }
+    - { model: sohl-sohl-attribute-end, system: { scoreBase: 10 } }
+    - { model: sohl-sohl-attribute-dex, system: { scoreBase: 15 } }
+    - { model: sohl-sohl-attribute-agl, system: { scoreBase: 13 } }
+    - { model: sohl-sohl-attribute-per, system: { scoreBase: 16 } }
+    - { model: sohl-sohl-attribute-cml, system: { scoreBase: 14 } }
+    - { model: sohl-sohl-attribute-aur, system: { scoreBase: 13 } }
+    - { model: sohl-sohl-attribute-wil, system: { scoreBase: 12 } }
+    - { model: sohl-sohl-attribute-rea, system: { scoreBase: 12 } }
+    - { model: sohl-sohl-attribute-cre, system: { scoreBase: 12 } }
+    - { model: sohl-sohl-attribute-emp, system: { scoreBase: 13 } }
+    - { model: sohl-sohl-attribute-elo, system: { scoreBase: 14 } }
+    - { model: sohl-sohl-attribute-mor, system: { scoreBase: 14 } }
+    - { model: sohl-sohl-attribute-voi, system: { scoreBase: 15 } }
+    - { model: affiliation-venusia }
+    - { model: sohl-sohl-skill-brew, system: { masteryLevelBase: 28 } }
+    - { model: sohl-sohl-skill-cook, system: { masteryLevelBase: 42 } }
+    - { model: sohl-sohl-skill-folklr, system: { masteryLevelBase: 24 } }
+    - { model: sohl-sohl-skill-mrcn, system: { masteryLevelBase: 14 } }
+    - { model: sohl-sohl-skill-pysn, system: { masteryLevelBase: 14 } }
+    - { model: sohl-sohl-skill-chrm, system: { masteryLevelBase: 42 } }
+    - { model: sohl-sohl-skill-cmd, system: { masteryLevelBase: 26 } }
+    - { model: sohl-sohl-skill-dscr, system: { masteryLevelBase: 26 } }
+    - { model: sohl-sohl-skill-guil, system: { masteryLevelBase: 39 } }
+    - { model: sohl-sohl-skill-intr, system: { masteryLevelBase: 39 } }
+    - { model: sohl-sohl-skill-sing, system: { masteryLevelBase: 42 } }
+    - { model: sohl-sohl-skill-thtcs, system: { masteryLevelBase: 13 } }
+    - { model: sohl-sohl-skill-anmcft, system: { masteryLevelBase: 65 } }
+    - { model: sohl-sohl-skill-mnrl, system: { masteryLevelBase: 14 } }
+    - { model: sohl-sohl-skill-smsh, system: { masteryLevelBase: 14 } }
+    - { model: sohl-sohl-skill-srvl, system: { masteryLevelBase: 12 } }
+    - { model: sohl-sohl-skill-awar, system: { masteryLevelBase: 42 } }
+    - { model: sohl-sohl-skill-clmb, system: { masteryLevelBase: 42 } }
+    - { model: sohl-sohl-skill-dnce, system: { masteryLevelBase: 26 } }
+    - { model: sohl-sohl-skill-jump, system: { masteryLevelBase: 33 } }
+    - { model: sohl-sohl-skill-ridg, system: { masteryLevelBase: 65 } }
+    - { model: sohl-sohl-skill-stlth, system: { masteryLevelBase: 39 } }
+    - { model: sohl-sohl-skill-swim, system: { masteryLevelBase: 12 } }
+    - { model: sohl-sohl-skill-archery, system: { masteryLevelBase: 16 } }
+    - { model: sohl-sohl-skill-init, system: { masteryLevelBase: 48 } }
+    - { model: sohl-sohl-skill-melee, system: { masteryLevelBase: 28 } }
+    - { model: sohl-sohl-skill-thro, system: { masteryLevelBase: 45 } }
+    - { model: sohl-sohl-skill-draw, system: { masteryLevelBase: 14 } }
+    - { model: sohl-sohl-skill-hide, system: { masteryLevelBase: 30 } }
+    - { model: sohl-sohl-skill-mtlc, system: { masteryLevelBase: 60 } }
+    - { model: sohl-sohl-skill-wood, system: { masteryLevelBase: 12 } }
+    - { model: sohl-sohl-weapongear-dgr }
+    - { model: sohl-sohl-armorgear-lttunic }
+    - { model: sohl-sohl-armorgear-sgbrch }
+    - { model: sohl-sohl-armorgear-ltkboot }
+    - { model: sohl-sohl-armorgear-ltcloak }
+    - { model: sohl-sohl-miscgear-tndrbx }
+    - { model: sohl-sohl-miscgear-stdrtns, system: { quantity: 2 } }
     - name: Satchel with bird treats and seed
       type: miscgear
       system:
+        shortcode: satchelwithbird
         weight: 1
         value: 100
         durability: 3
     - name: Training rods and whistles
       type: miscgear
       system:
+        shortcode: trainingrods
         weight: 0.5
         value: 100
         durability: 3
     - name: Bells for bird training
       type: miscgear
       system:
+        shortcode: bellsforbirdtraining
         weight: 0.2
         value: 100
         durability: 3
     - name: Trainer's journal and notes
       type: miscgear
       system:
+        shortcode: trainersjournal
         weight: 0.3
         value: 100
         durability: 3
-    - { name: Whetstone, type: miscgear, system: { weight: 1.5, value: 100, durability: 3 } }
-    - { shortcode: bglgcvs, type: containergear }
-    - { shortcode: bpchlg, type: containergear }
+    - name: Whetstone
+      type: miscgear
+      system:
+        shortcode: whetstone
+        weight: 1.5
+        value: 100
+        durability: 3
+    - { model: sohl-sohl-containergear-bglgcvs }
+    - { model: sohl-sohl-containergear-bpchlg }
   system:
     body:
       structure:
@@ -588,6 +598,8 @@ sohl:
 Zênais stands 5'7" tall with a light build. She has fair freckled skin, auburn hair, and green eyes. Her features include a narrow face, a hawkish nose, a sharp jawline, full lips, expressive brows, sculpted cheeks. A distinguishing mark is a tattoo of a bird on the forearm.
 
 # Dossier {#dossier}
+
+## Background
 
 ### The Merchant's Daughter and the Silent Language
 

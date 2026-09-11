@@ -4,7 +4,7 @@ name:
   full: Monitor
   aliases: []
 description: "Creates magical eye observing distant location; relays visual information."
-img: icons/circle.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/circle.svg
 shortcode: monitor
 type: mysticalability
 subType: arcaneincantation

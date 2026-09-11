@@ -9,16 +9,16 @@ name:
   title: ""
   given: Neferet
   clan: Imi-Ra
-  home: Wasetkara
+  home: wasetkara
   aliases:
     - The Scholar of Forgotten Texts
 packFolder: northernfertileregiontakheperu
 banner: banners/ta-kheperu-banner.webp
 shortcode: neferetimr
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/neferetimr-portrait.webp
+  portrait: images/beings/characters/neferetimr-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Scholar
@@ -45,60 +45,67 @@ data:
 sohl:
   templatePriority: null
   items:
-    - { shortcode: str, type: attribute, system: { scoreBase: 9 } }
-    - { shortcode: end, type: attribute, system: { scoreBase: 11 } }
-    - { shortcode: dex, type: attribute, system: { scoreBase: 12 } }
-    - { shortcode: agl, type: attribute, system: { scoreBase: 11 } }
-    - { shortcode: per, type: attribute, system: { scoreBase: 15 } }
-    - { shortcode: cml, type: attribute, system: { scoreBase: 12 } }
-    - { shortcode: aur, type: attribute, system: { scoreBase: 14 } }
-    - { shortcode: wil, type: attribute, system: { scoreBase: 13 } }
-    - { shortcode: rea, type: attribute, system: { scoreBase: 16 } }
-    - { shortcode: cre, type: attribute, system: { scoreBase: 14 } }
-    - { shortcode: emp, type: attribute, system: { scoreBase: 11 } }
-    - { shortcode: elo, type: attribute, system: { scoreBase: 13 } }
-    - { shortcode: mor, type: attribute, system: { scoreBase: 14 } }
-    - { shortcode: voi, type: attribute, system: { scoreBase: 10 } }
-    - { shortcode: maat, type: affiliation }
-    - { shortcode: brew, type: skill, system: { masteryLevelBase: 15 } }
-    - { shortcode: cook, type: skill, system: { masteryLevelBase: 30 } }
-    - { shortcode: folklr, type: skill, system: { masteryLevelBase: 75 } }
-    - { shortcode: math, type: skill, system: { masteryLevelBase: 75 } }
-    - { shortcode: pfmy, type: skill, system: { masteryLevelBase: 15 } }
-    - { shortcode: pysn, type: skill, system: { masteryLevelBase: 16 } }
-    - { shortcode: demtkscrpt, type: skill, system: { masteryLevelBase: 80 } }
-    - { shortcode: chrm, type: skill, system: { masteryLevelBase: 60 } }
-    - { shortcode: cmd, type: skill, system: { masteryLevelBase: 26 } }
-    - { shortcode: dscr, type: skill, system: { masteryLevelBase: 60 } }
-    - { shortcode: guil, type: skill, system: { masteryLevelBase: 36 } }
-    - { shortcode: intr, type: skill, system: { masteryLevelBase: 65 } }
-    - { shortcode: sing, type: skill, system: { masteryLevelBase: 36 } }
-    - { shortcode: thtcs, type: skill, system: { masteryLevelBase: 14 } }
-    - { shortcode: agri, type: skill, system: { masteryLevelBase: 28 } }
-    - { shortcode: fish, type: skill, system: { masteryLevelBase: 14 } }
-    - { shortcode: srvl, type: skill, system: { masteryLevelBase: 14 } }
-    - { shortcode: awar, type: skill, system: { masteryLevelBase: 56 } }
-    - { shortcode: clmb, type: skill, system: { masteryLevelBase: 33 } }
-    - { shortcode: dnce, type: skill, system: { masteryLevelBase: 24 } }
-    - { shortcode: jump, type: skill, system: { masteryLevelBase: 40 } }
-    - { shortcode: ridg, type: skill, system: { masteryLevelBase: 11 } }
-    - { shortcode: stlth, type: skill, system: { masteryLevelBase: 36 } }
-    - { shortcode: swim, type: skill, system: { masteryLevelBase: 11 } }
-    - { shortcode: archery, type: skill, system: { masteryLevelBase: 14 } }
-    - { shortcode: init, type: skill, system: { masteryLevelBase: 42 } }
-    - { shortcode: melee, type: skill, system: { masteryLevelBase: 24 } }
-    - { shortcode: thro, type: skill, system: { masteryLevelBase: 26 } }
-    - { shortcode: draw, type: skill, system: { masteryLevelBase: 52 } }
-    - { shortcode: mtlc, type: skill, system: { masteryLevelBase: 22 } }
-    - { shortcode: musc, type: skill, system: { masteryLevelBase: 30 } }
-    - { shortcode: LShirt, type: armorgear }
-    - { shortcode: WTrsr, type: armorgear }
-    - { shortcode: LtShoe, type: armorgear }
-    - { shortcode: WCap, type: armorgear }
-    - { name: Ink and quills, type: miscgear, system: { weight: 1.5, value: 100, durability: 3 } }
+    - { model: sohl-sohl-attribute-str, system: { scoreBase: 9 } }
+    - { model: sohl-sohl-attribute-end, system: { scoreBase: 11 } }
+    - { model: sohl-sohl-attribute-dex, system: { scoreBase: 12 } }
+    - { model: sohl-sohl-attribute-agl, system: { scoreBase: 11 } }
+    - { model: sohl-sohl-attribute-per, system: { scoreBase: 15 } }
+    - { model: sohl-sohl-attribute-cml, system: { scoreBase: 12 } }
+    - { model: sohl-sohl-attribute-aur, system: { scoreBase: 14 } }
+    - { model: sohl-sohl-attribute-wil, system: { scoreBase: 13 } }
+    - { model: sohl-sohl-attribute-rea, system: { scoreBase: 16 } }
+    - { model: sohl-sohl-attribute-cre, system: { scoreBase: 14 } }
+    - { model: sohl-sohl-attribute-emp, system: { scoreBase: 11 } }
+    - { model: sohl-sohl-attribute-elo, system: { scoreBase: 13 } }
+    - { model: sohl-sohl-attribute-mor, system: { scoreBase: 14 } }
+    - { model: sohl-sohl-attribute-voi, system: { scoreBase: 10 } }
+    - { model: affiliation-maat }
+    - { model: sohl-sohl-skill-brew, system: { masteryLevelBase: 15 } }
+    - { model: sohl-sohl-skill-cook, system: { masteryLevelBase: 30 } }
+    - { model: sohl-sohl-skill-folklr, system: { masteryLevelBase: 75 } }
+    - { model: sohl-sohl-skill-math, system: { masteryLevelBase: 75 } }
+    - { model: sohl-sohl-skill-pfmy, system: { masteryLevelBase: 15 } }
+    - { model: sohl-sohl-skill-pysn, system: { masteryLevelBase: 16 } }
+    - { model: skill-demtkscrpt, system: { masteryLevelBase: 80 } }
+    - { model: sohl-sohl-skill-chrm, system: { masteryLevelBase: 60 } }
+    - { model: sohl-sohl-skill-cmd, system: { masteryLevelBase: 26 } }
+    - { model: sohl-sohl-skill-dscr, system: { masteryLevelBase: 60 } }
+    - { model: sohl-sohl-skill-guil, system: { masteryLevelBase: 36 } }
+    - { model: sohl-sohl-skill-intr, system: { masteryLevelBase: 65 } }
+    - { model: sohl-sohl-skill-sing, system: { masteryLevelBase: 36 } }
+    - { model: sohl-sohl-skill-thtcs, system: { masteryLevelBase: 14 } }
+    - { model: sohl-sohl-skill-agri, system: { masteryLevelBase: 28 } }
+    - { model: sohl-sohl-skill-fish, system: { masteryLevelBase: 14 } }
+    - { model: sohl-sohl-skill-srvl, system: { masteryLevelBase: 14 } }
+    - { model: sohl-sohl-skill-awar, system: { masteryLevelBase: 56 } }
+    - { model: sohl-sohl-skill-clmb, system: { masteryLevelBase: 33 } }
+    - { model: sohl-sohl-skill-dnce, system: { masteryLevelBase: 24 } }
+    - { model: sohl-sohl-skill-jump, system: { masteryLevelBase: 40 } }
+    - { model: sohl-sohl-skill-ridg, system: { masteryLevelBase: 11 } }
+    - { model: sohl-sohl-skill-stlth, system: { masteryLevelBase: 36 } }
+    - { model: sohl-sohl-skill-swim, system: { masteryLevelBase: 11 } }
+    - { model: sohl-sohl-skill-archery, system: { masteryLevelBase: 14 } }
+    - { model: sohl-sohl-skill-init, system: { masteryLevelBase: 42 } }
+    - { model: sohl-sohl-skill-melee, system: { masteryLevelBase: 24 } }
+    - { model: sohl-sohl-skill-thro, system: { masteryLevelBase: 26 } }
+    - { model: sohl-sohl-skill-draw, system: { masteryLevelBase: 52 } }
+    - { model: sohl-sohl-skill-mtlc, system: { masteryLevelBase: 22 } }
+    - { model: sohl-sohl-skill-musc, system: { masteryLevelBase: 30 } }
+    - { model: sohl-sohl-armorgear-lshirt }
+    - { model: sohl-sohl-armorgear-wtrsr }
+    - { model: sohl-sohl-armorgear-ltshoe }
+    - { model: sohl-sohl-armorgear-wcap }
+    - name: Ink and quills
+      type: miscgear
+      system:
+        shortcode: inkandquills
+        weight: 1.5
+        value: 100
+        durability: 3
     - name: Parchment (bundle)
       type: miscgear
       system:
+        shortcode: parchment
         quantity: 10
         weight: 1.5
         value: 100
@@ -106,12 +113,14 @@ sohl:
     - name: Star charts (maps and diagrams)
       type: miscgear
       system:
+        shortcode: starcharts
         weight: 1.5
         value: 100
         durability: 3
     - name: Reference texts (scrolls)
       type: miscgear
       system:
+        shortcode: referencetexts
         quantity: 4
         weight: 1.5
         value: 200
@@ -119,13 +128,14 @@ sohl:
     - name: Writing desk materials
       type: miscgear
       system:
+        shortcode: writingdeskmaterials
         weight: 1.5
         value: 100
         durability: 3
-    - { shortcode: tndrbx, type: miscgear }
-    - { shortcode: FRtns, type: miscgear }
-    - { shortcode: wtrskin, type: containergear }
-    - { shortcode: bglgcvs, type: containergear }
+    - { model: sohl-sohl-miscgear-tndrbx }
+    - { model: sohl-sohl-miscgear-frtns }
+    - { model: sohl-sohl-containergear-wtrskin }
+    - { model: sohl-sohl-containergear-bglgcvs }
   system:
     body:
       structure:
@@ -600,6 +610,8 @@ Neferet Imi-Ra was a rising scholar in the **Imperial Library of [[affiliation-e
 Her life took a sudden turn when [[being-mrtsbkhkmn|Meret-Sebek]] appeared in the Imperial Library, desperate to find answers to the celestial visions that had begun to haunt him. Intrigued by the astrologer’s claims, Neferet aided him in deciphering several ancient scrolls that described similar phenomena, prophecies about celestial shifts that heralded great changes. However, the deeper they dug into the texts, the more unsettling their findings became. The visions [[being-mrtsbkhkmn|Meret-Sebek]] described aligned too closely with prophecies foretelling a cosmic upheaval that could reshape the world.
 
 Neferet, driven by both curiosity and a hunger for knowledge, decided to accompany [[being-mrtsbkhkmn|Meret-Sebek]] on his journey. She believed that understanding these celestial mysteries would not only expand her scholarly reputation but also unlock powers that could alter the course of history. With the possibility of such a monumental discovery at hand, Neferet saw [[being-mrtsbkhkmn|Meret-Sebek]]’s quest as the key to unraveling the greatest mysteries of the cosmos.
+
+## Background
 
 ### Skills and Abilities
 

@@ -33,11 +33,11 @@ The approaches to Iseron are as hostile as the interior. Sea ice extends far nor
 
 ## Regions
 
-```dataview
+```dataview allow-empty
 TABLE WITHOUT ID
     link(file.path, name.full) AS "Region",
     description AS "Overview"
-WHERE category = "region" and contains(parent.continents, "iseron")
+WHERE type = "place" and subType = "region" and contains(data.parents, "isrncntnnt")
 SORT name.full ASC
 ```
 

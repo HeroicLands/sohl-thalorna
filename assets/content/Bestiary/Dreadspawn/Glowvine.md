@@ -5,11 +5,11 @@ name:
   full: Glowvine
   aliases: []
 description: "A dark-magic-corrupted predatory plant that lures unwary prey with bioluminescent beauty in shadowed forests and lightless caves."
-img: icons/game-icons/delapouite/griffin-symbol.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 shortcode: glowvine
 type: being
 data:
-  portrait: images/being/glowvine-portrait.webp
+  portrait: images/beings/creatures/glowvine-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: null
@@ -43,23 +43,22 @@ sohl:
     wil: 1d6+6
     rea: 1d6+4
     cre: 1d6+6
-  defaultCombatGroup: null
   items:
-    - { shortcode: str, type: attribute, system: { scoreBase: 14 } }
-    - { shortcode: end, type: attribute, system: { scoreBase: 14 } }
-    - { shortcode: dex, type: attribute, system: { scoreBase: 12 } }
-    - { shortcode: agl, type: attribute, system: { scoreBase: 10 } }
-    - { shortcode: per, type: attribute, system: { scoreBase: 12 } }
-    - { shortcode: aur, type: attribute, system: { scoreBase: 12 } }
-    - { shortcode: wil, type: attribute, system: { scoreBase: 10 } }
-    - { shortcode: rea, type: attribute, system: { scoreBase: 8 } }
-    - { shortcode: cre, type: attribute, system: { scoreBase: 10 } }
-    - { shortcode: awar, type: skill, system: { masteryLevelBase: 55 } }
-    - { shortcode: stlth, type: skill, system: { masteryLevelBase: 50 } }
-    - { shortcode: sprt, type: mysticalability, system: { masteryLevelBase: 33 } }
-    - { shortcode: init, type: skill, system: { masteryLevelBase: 36 } }
-    - { shortcode: dge, type: skill, system: { masteryLevelBase: 44 } }
-    - { shortcode: shok, type: skill, system: { masteryLevelBase: 35 } }
+    - { model: sohl-sohl-attribute-str, system: { scoreBase: 14 } }
+    - { model: sohl-sohl-attribute-end, system: { scoreBase: 14 } }
+    - { model: sohl-sohl-attribute-dex, system: { scoreBase: 12 } }
+    - { model: sohl-sohl-attribute-agl, system: { scoreBase: 10 } }
+    - { model: sohl-sohl-attribute-per, system: { scoreBase: 12 } }
+    - { model: sohl-sohl-attribute-aur, system: { scoreBase: 12 } }
+    - { model: sohl-sohl-attribute-wil, system: { scoreBase: 10 } }
+    - { model: sohl-sohl-attribute-rea, system: { scoreBase: 8 } }
+    - { model: sohl-sohl-attribute-cre, system: { scoreBase: 10 } }
+    - { model: sohl-sohl-skill-awar, system: { masteryLevelBase: 55 } }
+    - { model: sohl-sohl-skill-stlth, system: { masteryLevelBase: 50 } }
+    - { model: sohl-sohl-mysticalability-sprt, system: { masteryLevelBase: 33 } }
+    - { model: sohl-sohl-skill-init, system: { masteryLevelBase: 36 } }
+    - { model: sohl-sohl-skill-dge, system: { masteryLevelBase: 44 } }
+    - { model: sohl-sohl-skill-shok, system: { masteryLevelBase: 35 } }
     - name: Constricting Tendril
       type: skill
       system:

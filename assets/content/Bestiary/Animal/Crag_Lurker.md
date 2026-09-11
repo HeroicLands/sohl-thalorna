@@ -5,11 +5,11 @@ name:
   full: Crag Lurker
   aliases: []
 description: "A horse-sized ambush spider that scales sheer cliffs in ghostly silence before striking prey in rocky, vertical terrain."
-img: icons/game-icons/lorc/paw-print.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 shortcode: crglrkr
 type: being
 data:
-  portrait: images/being/crglrkr-portrait.webp
+  portrait: images/beings/creatures/crglrkr-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: null
@@ -43,23 +43,22 @@ sohl:
     wil: 1d6+7
     rea: 1d4+4
     cre: 1d4+3
-  defaultCombatGroup: null
   items:
-    - { shortcode: str, type: attribute, system: { scoreBase: 15 } }
-    - { shortcode: end, type: attribute, system: { scoreBase: 14 } }
-    - { shortcode: dex, type: attribute, system: { scoreBase: 13 } }
-    - { shortcode: agl, type: attribute, system: { scoreBase: 12 } }
-    - { shortcode: per, type: attribute, system: { scoreBase: 15 } }
-    - { shortcode: aur, type: attribute, system: { scoreBase: 8 } }
-    - { shortcode: wil, type: attribute, system: { scoreBase: 11 } }
-    - { shortcode: rea, type: attribute, system: { scoreBase: 7 } }
-    - { shortcode: cre, type: attribute, system: { scoreBase: 6 } }
-    - { shortcode: awar, type: skill, system: { masteryLevelBase: 65 } }
-    - { shortcode: stlth, type: skill, system: { masteryLevelBase: 55 } }
-    - { shortcode: sprt, type: mysticalability, system: { masteryLevelBase: 27 } }
-    - { shortcode: init, type: skill, system: { masteryLevelBase: 36 } }
-    - { shortcode: dge, type: skill, system: { masteryLevelBase: 52 } }
-    - { shortcode: shok, type: skill, system: { masteryLevelBase: 38 } }
+    - { model: sohl-sohl-attribute-str, system: { scoreBase: 15 } }
+    - { model: sohl-sohl-attribute-end, system: { scoreBase: 14 } }
+    - { model: sohl-sohl-attribute-dex, system: { scoreBase: 13 } }
+    - { model: sohl-sohl-attribute-agl, system: { scoreBase: 12 } }
+    - { model: sohl-sohl-attribute-per, system: { scoreBase: 15 } }
+    - { model: sohl-sohl-attribute-aur, system: { scoreBase: 8 } }
+    - { model: sohl-sohl-attribute-wil, system: { scoreBase: 11 } }
+    - { model: sohl-sohl-attribute-rea, system: { scoreBase: 7 } }
+    - { model: sohl-sohl-attribute-cre, system: { scoreBase: 6 } }
+    - { model: sohl-sohl-skill-awar, system: { masteryLevelBase: 65 } }
+    - { model: sohl-sohl-skill-stlth, system: { masteryLevelBase: 55 } }
+    - { model: sohl-sohl-mysticalability-sprt, system: { masteryLevelBase: 27 } }
+    - { model: sohl-sohl-skill-init, system: { masteryLevelBase: 36 } }
+    - { model: sohl-sohl-skill-dge, system: { masteryLevelBase: 52 } }
+    - { model: sohl-sohl-skill-shok, system: { masteryLevelBase: 38 } }
     - name: Envenoming Bite
       type: skill
       system:

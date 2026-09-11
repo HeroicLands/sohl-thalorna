@@ -5,7 +5,7 @@ tags:
 type: skill
 subType: mystical
 shortcode: blackflame
-img: images/affiliation/blackflame.webp
+img: images/affiliation/aureldian/blackflame.webp
 name:
   full: "Ritual: The Black Flame"
   aliases:

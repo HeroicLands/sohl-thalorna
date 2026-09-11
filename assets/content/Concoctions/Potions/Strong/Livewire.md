@@ -6,7 +6,7 @@ name:
   aliases:
     - Potion, Stimulant, Strong
 description: "Vibrant red-orange liquid; stimulates and energizes immediately."
-img: icons/potion.svg
+img: systems/sohl/assets/icons/other/potion.svg
 shortcode: PtnStmS
 type: concoctiongear
 subType: exotic

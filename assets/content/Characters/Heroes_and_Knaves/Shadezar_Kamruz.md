@@ -7,14 +7,14 @@ name:
   title: ""
   given: Shâdezar
   clan: Kamruz
-  home: Dûn Ashir
+  home: dunashir
   aliases: []
 packFolder: dunharatribes
 shortcode: shadzrkmrz
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/shadzrkmrz-portrait.webp
+  portrait: images/beings/characters/shadzrkmrz-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Chieftain
@@ -41,90 +41,100 @@ data:
 sohl:
   templatePriority: null
   items:
-    - { shortcode: str, type: attribute, system: { scoreBase: 17 } }
-    - { shortcode: end, type: attribute, system: { scoreBase: 15 } }
-    - { shortcode: dex, type: attribute, system: { scoreBase: 11 } }
-    - { shortcode: agl, type: attribute, system: { scoreBase: 10 } }
-    - { shortcode: per, type: attribute, system: { scoreBase: 12 } }
-    - { shortcode: cml, type: attribute, system: { scoreBase: 10 } }
-    - { shortcode: aur, type: attribute, system: { scoreBase: 11 } }
-    - { shortcode: wil, type: attribute, system: { scoreBase: 14 } }
-    - { shortcode: rea, type: attribute, system: { scoreBase: 10 } }
-    - { shortcode: cre, type: attribute, system: { scoreBase: 9 } }
-    - { shortcode: emp, type: attribute, system: { scoreBase: 7 } }
-    - { shortcode: elo, type: attribute, system: { scoreBase: 8 } }
-    - { shortcode: mor, type: attribute, system: { scoreBase: 9 } }
-    - { shortcode: voi, type: attribute, system: { scoreBase: 11 } }
-    - { shortcode: bahramis, type: affiliation }
-    - { shortcode: brew, type: skill, system: { masteryLevelBase: 11 } }
-    - { shortcode: cook, type: skill, system: { masteryLevelBase: 33 } }
-    - { shortcode: folklr, type: skill, system: { masteryLevelBase: 12 } }
-    - { shortcode: law, type: skill, system: { masteryLevelBase: 60 } }
-    - { shortcode: pfmy, type: skill, system: { masteryLevelBase: 11 } }
-    - { shortcode: pysn, type: skill, system: { masteryLevelBase: 11 } }
-    - { shortcode: chrm, type: skill, system: { masteryLevelBase: 36 } }
-    - { shortcode: cmd, type: skill, system: { masteryLevelBase: 55 } }
-    - { shortcode: dscr, type: skill, system: { masteryLevelBase: 18 } }
-    - { shortcode: guil, type: skill, system: { masteryLevelBase: 40 } }
-    - { shortcode: intr, type: skill, system: { masteryLevelBase: 40 } }
-    - { shortcode: sing, type: skill, system: { masteryLevelBase: 30 } }
-    - { shortcode: thtcs, type: skill, system: { masteryLevelBase: 9 } }
-    - { shortcode: smsh, type: skill, system: { masteryLevelBase: 13 } }
-    - { shortcode: srvl, type: skill, system: { masteryLevelBase: 12 } }
-    - { shortcode: awar, type: skill, system: { masteryLevelBase: 39 } }
-    - { shortcode: clmb, type: skill, system: { masteryLevelBase: 30 } }
-    - { shortcode: dnce, type: skill, system: { masteryLevelBase: 30 } }
-    - { shortcode: jump, type: skill, system: { masteryLevelBase: 39 } }
-    - { shortcode: ridg, type: skill, system: { masteryLevelBase: 8 } }
-    - { shortcode: stlth, type: skill, system: { masteryLevelBase: 48 } }
-    - { shortcode: swim, type: skill, system: { masteryLevelBase: 12 } }
-    - { shortcode: archery, type: skill, system: { masteryLevelBase: 36 } }
-    - { shortcode: init, type: skill, system: { masteryLevelBase: 36 } }
-    - { shortcode: melee, type: skill, system: { masteryLevelBase: 22 } }
-    - { shortcode: thro, type: skill, system: { masteryLevelBase: 22 } }
-    - { shortcode: cmcs, type: skill, system: { masteryLevelBase: 11 } }
-    - { shortcode: draw, type: skill, system: { masteryLevelBase: 30 } }
-    - { shortcode: txtl, type: skill, system: { masteryLevelBase: 22 } }
-    - { shortcode: Whmr, type: weapongear }
-    - { shortcode: Spr, type: weapongear }
-    - { shortcode: CBw100, type: weapongear }
-    - { shortcode: MByr, type: armorgear }
-    - { shortcode: MLeg, type: armorgear }
-    - { shortcode: LtShoe, type: armorgear }
-    - { shortcode: LtCap, type: armorgear }
-    - { shortcode: ArwStd, type: projectilegear, system: { quantity: 25 } }
+    - { model: sohl-sohl-attribute-str, system: { scoreBase: 17 } }
+    - { model: sohl-sohl-attribute-end, system: { scoreBase: 15 } }
+    - { model: sohl-sohl-attribute-dex, system: { scoreBase: 11 } }
+    - { model: sohl-sohl-attribute-agl, system: { scoreBase: 10 } }
+    - { model: sohl-sohl-attribute-per, system: { scoreBase: 12 } }
+    - { model: sohl-sohl-attribute-cml, system: { scoreBase: 10 } }
+    - { model: sohl-sohl-attribute-aur, system: { scoreBase: 11 } }
+    - { model: sohl-sohl-attribute-wil, system: { scoreBase: 14 } }
+    - { model: sohl-sohl-attribute-rea, system: { scoreBase: 10 } }
+    - { model: sohl-sohl-attribute-cre, system: { scoreBase: 9 } }
+    - { model: sohl-sohl-attribute-emp, system: { scoreBase: 7 } }
+    - { model: sohl-sohl-attribute-elo, system: { scoreBase: 8 } }
+    - { model: sohl-sohl-attribute-mor, system: { scoreBase: 9 } }
+    - { model: sohl-sohl-attribute-voi, system: { scoreBase: 11 } }
+    - { model: affiliation-bahramis }
+    - { model: sohl-sohl-skill-brew, system: { masteryLevelBase: 11 } }
+    - { model: sohl-sohl-skill-cook, system: { masteryLevelBase: 33 } }
+    - { model: sohl-sohl-skill-folklr, system: { masteryLevelBase: 12 } }
+    - { model: sohl-sohl-skill-law, system: { masteryLevelBase: 60 } }
+    - { model: sohl-sohl-skill-pfmy, system: { masteryLevelBase: 11 } }
+    - { model: sohl-sohl-skill-pysn, system: { masteryLevelBase: 11 } }
+    - { model: sohl-sohl-skill-chrm, system: { masteryLevelBase: 36 } }
+    - { model: sohl-sohl-skill-cmd, system: { masteryLevelBase: 55 } }
+    - { model: sohl-sohl-skill-dscr, system: { masteryLevelBase: 18 } }
+    - { model: sohl-sohl-skill-guil, system: { masteryLevelBase: 40 } }
+    - { model: sohl-sohl-skill-intr, system: { masteryLevelBase: 40 } }
+    - { model: sohl-sohl-skill-sing, system: { masteryLevelBase: 30 } }
+    - { model: sohl-sohl-skill-thtcs, system: { masteryLevelBase: 9 } }
+    - { model: sohl-sohl-skill-smsh, system: { masteryLevelBase: 13 } }
+    - { model: sohl-sohl-skill-srvl, system: { masteryLevelBase: 12 } }
+    - { model: sohl-sohl-skill-awar, system: { masteryLevelBase: 39 } }
+    - { model: sohl-sohl-skill-clmb, system: { masteryLevelBase: 30 } }
+    - { model: sohl-sohl-skill-dnce, system: { masteryLevelBase: 30 } }
+    - { model: sohl-sohl-skill-jump, system: { masteryLevelBase: 39 } }
+    - { model: sohl-sohl-skill-ridg, system: { masteryLevelBase: 8 } }
+    - { model: sohl-sohl-skill-stlth, system: { masteryLevelBase: 48 } }
+    - { model: sohl-sohl-skill-swim, system: { masteryLevelBase: 12 } }
+    - { model: sohl-sohl-skill-archery, system: { masteryLevelBase: 36 } }
+    - { model: sohl-sohl-skill-init, system: { masteryLevelBase: 36 } }
+    - { model: sohl-sohl-skill-melee, system: { masteryLevelBase: 22 } }
+    - { model: sohl-sohl-skill-thro, system: { masteryLevelBase: 22 } }
+    - { model: sohl-sohl-skill-cmcs, system: { masteryLevelBase: 11 } }
+    - { model: sohl-sohl-skill-draw, system: { masteryLevelBase: 30 } }
+    - { model: sohl-sohl-skill-txtl, system: { masteryLevelBase: 22 } }
+    - { model: sohl-sohl-weapongear-whmr }
+    - { model: sohl-sohl-weapongear-spr }
+    - { model: sohl-sohl-weapongear-cbw100 }
+    - { model: sohl-sohl-armorgear-mbyr }
+    - { model: sohl-sohl-armorgear-mleg }
+    - { model: sohl-sohl-armorgear-ltshoe }
+    - { model: sohl-sohl-armorgear-ltcap }
+    - { model: sohl-sohl-projectilegear-arwstd, system: { quantity: 25 } }
     - name: Quiver (leather, tribal design)
       type: miscgear
-      img: icons/quiver.svg
+      img: systems/sohl/assets/icons/game-icons/delapouite/quiver.svg
       system:
+        shortcode: quiver
         weight: 1
         value: 100
         durability: 3
     - name: Drinking horn (carved bone, personal)
       type: miscgear
       system:
+        shortcode: drinkinghorn
         weight: 0.4
         value: 100
         durability: 3
     - name: Tribal runestone (engraved, sacred)
       type: miscgear
       system:
+        shortcode: tribalrunestone
         weight: 0.8
         value: 100
         durability: 3
-    - { name: Whetstone, type: miscgear, system: { weight: 0.5, value: 100, durability: 3 } }
+    - name: Whetstone
+      type: miscgear
+      system:
+        shortcode: whetstone
+        weight: 0.5
+        value: 100
+        durability: 3
     - name: Rope (hemp, braided)
       type: miscgear
       system:
+        shortcode: rope
         quantity: 2
         weight: 1
         value: 100
         durability: 3
-    - { shortcode: tndrbx, type: miscgear }
-    - { shortcode: StdRtns, type: miscgear, system: { quantity: 5 } }
-    - { shortcode: pence, type: miscgear, system: { quantity: 40 } }
-    - { shortcode: backpk, type: containergear }
-    - { shortcode: wtrskin, type: containergear }
+    - { model: sohl-sohl-miscgear-tndrbx }
+    - { model: sohl-sohl-miscgear-stdrtns, system: { quantity: 5 } }
+    - { model: sohl-sohl-miscgear-pence, system: { quantity: 40 } }
+    - { model: sohl-sohl-containergear-backpk }
+    - { model: sohl-sohl-containergear-wtrskin }
   system:
     body:
       structure:
@@ -591,6 +601,8 @@ sohl:
 Shâdezar stands 6'5" tall with a heavy build. He has tanned ruddy skin, dark brown hair, and brown eyes. His features include a diamond-shaped face, a hawkish nose, a narrow chin, well-defined lips, dark brows, angular cheeks.
 
 # Dossier {#dossier}
+
+## Background
 
 ### Rise to Power
 

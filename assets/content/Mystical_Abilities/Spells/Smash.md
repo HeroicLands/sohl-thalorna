@@ -5,7 +5,7 @@ name:
   aliases:
     - Shatter
 description: "Shatters brittle object; reduces stone and glass to dust."
-img: icons/anvil.svg
+img: systems/sohl/assets/icons/game-icons/badges/anvil.svg
 shortcode: smash
 type: mysticalability
 subType: arcaneincantation

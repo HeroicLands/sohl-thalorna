@@ -8,12 +8,12 @@ name:
   title: ""
   given: Thórir
   clan: Járnskel
-  home: Greyfjord
+  home: greyfjord
   aliases:
     - Darius Thornveil
 packFolder: ankarisnordlands
 shortcode: thrrjrnskl
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
   portrait: images/being/thrrjrnskl-portrait.webp
@@ -45,55 +45,55 @@ data:
 sohl:
   templatePriority: null
   items:
-    - { shortcode: str, type: attribute, system: { scoreBase: 8 } }
-    - { shortcode: end, type: attribute, system: { scoreBase: 10 } }
-    - { shortcode: dex, type: attribute, system: { scoreBase: 11 } }
-    - { shortcode: agl, type: attribute, system: { scoreBase: 9 } }
-    - { shortcode: per, type: attribute, system: { scoreBase: 14 } }
-    - { shortcode: cml, type: attribute, system: { scoreBase: 10 } }
-    - { shortcode: aur, type: attribute, system: { scoreBase: 17 } }
-    - { shortcode: wil, type: attribute, system: { scoreBase: 15 } }
-    - { shortcode: rea, type: attribute, system: { scoreBase: 18 } }
-    - { shortcode: cre, type: attribute, system: { scoreBase: 14 } }
-    - { shortcode: emp, type: attribute, system: { scoreBase: 12 } }
-    - { shortcode: elo, type: attribute, system: { scoreBase: 13 } }
-    - { shortcode: mor, type: attribute, system: { scoreBase: 10 } }
-    - { shortcode: voi, type: attribute, system: { scoreBase: 14 } }
-    - { shortcode: odinn, type: affiliation }
-    - { shortcode: brew, type: skill, system: { masteryLevelBase: 48 } }
-    - { shortcode: cook, type: skill, system: { masteryLevelBase: 48 } }
-    - { shortcode: eng, type: skill, system: { masteryLevelBase: 16 } }
-    - { shortcode: folklr, type: skill, system: { masteryLevelBase: 85 } }
-    - { shortcode: pfmy, type: skill, system: { masteryLevelBase: 16 } }
-    - { shortcode: pysn, type: skill, system: { masteryLevelBase: 16 } }
-    - { shortcode: thuravarkscript, type: skill, system: { masteryLevelBase: 80 } }
-    - { shortcode: chrm, type: skill, system: { masteryLevelBase: 33 } }
-    - { shortcode: cmd, type: skill, system: { masteryLevelBase: 28 } }
-    - { shortcode: dscr, type: skill, system: { masteryLevelBase: 64 } }
-    - { shortcode: guil, type: skill, system: { masteryLevelBase: 52 } }
-    - { shortcode: intr, type: skill, system: { masteryLevelBase: 45 } }
-    - { shortcode: sing, type: skill, system: { masteryLevelBase: 36 } }
-    - { shortcode: thtcs, type: skill, system: { masteryLevelBase: 14 } }
-    - { shortcode: srvl, type: skill, system: { masteryLevelBase: 16 } }
-    - { shortcode: timb, type: skill, system: { masteryLevelBase: 16 } }
-    - { shortcode: awar, type: skill, system: { masteryLevelBase: 56 } }
-    - { shortcode: clmb, type: skill, system: { masteryLevelBase: 30 } }
-    - { shortcode: dnce, type: skill, system: { masteryLevelBase: 22 } }
-    - { shortcode: jump, type: skill, system: { masteryLevelBase: 27 } }
-    - { shortcode: ridg, type: skill, system: { masteryLevelBase: 11 } }
-    - { shortcode: stlth, type: skill, system: { masteryLevelBase: 36 } }
-    - { shortcode: swim, type: skill, system: { masteryLevelBase: 9 } }
-    - { shortcode: archery, type: skill, system: { masteryLevelBase: 26 } }
-    - { shortcode: init, type: skill, system: { masteryLevelBase: 48 } }
-    - { shortcode: melee, type: skill, system: { masteryLevelBase: 20 } }
-    - { shortcode: slng, type: skill, system: { masteryLevelBase: 12 } }
-    - { shortcode: thro, type: skill, system: { masteryLevelBase: 24 } }
-    - { shortcode: draw, type: skill, system: { masteryLevelBase: 12 } }
-    - { shortcode: mtlc, type: skill, system: { masteryLevelBase: 30 } }
-    - { shortcode: musc, type: skill, system: { masteryLevelBase: 14 } }
-    - { shortcode: tarot, type: mysticalability, system: { masteryLevelBase: 30 } }
-    - { shortcode: alch, type: mysticalability, system: { masteryLevelBase: 48 } }
-    - { shortcode: common, type: skill, system: { masteryLevelBase: 75 } }
+    - { model: sohl-sohl-attribute-str, system: { scoreBase: 8 } }
+    - { model: sohl-sohl-attribute-end, system: { scoreBase: 10 } }
+    - { model: sohl-sohl-attribute-dex, system: { scoreBase: 11 } }
+    - { model: sohl-sohl-attribute-agl, system: { scoreBase: 9 } }
+    - { model: sohl-sohl-attribute-per, system: { scoreBase: 14 } }
+    - { model: sohl-sohl-attribute-cml, system: { scoreBase: 10 } }
+    - { model: sohl-sohl-attribute-aur, system: { scoreBase: 17 } }
+    - { model: sohl-sohl-attribute-wil, system: { scoreBase: 15 } }
+    - { model: sohl-sohl-attribute-rea, system: { scoreBase: 18 } }
+    - { model: sohl-sohl-attribute-cre, system: { scoreBase: 14 } }
+    - { model: sohl-sohl-attribute-emp, system: { scoreBase: 12 } }
+    - { model: sohl-sohl-attribute-elo, system: { scoreBase: 13 } }
+    - { model: sohl-sohl-attribute-mor, system: { scoreBase: 10 } }
+    - { model: sohl-sohl-attribute-voi, system: { scoreBase: 14 } }
+    - { model: affiliation-odinn }
+    - { model: sohl-sohl-skill-brew, system: { masteryLevelBase: 48 } }
+    - { model: sohl-sohl-skill-cook, system: { masteryLevelBase: 48 } }
+    - { model: sohl-sohl-skill-eng, system: { masteryLevelBase: 16 } }
+    - { model: sohl-sohl-skill-folklr, system: { masteryLevelBase: 85 } }
+    - { model: sohl-sohl-skill-pfmy, system: { masteryLevelBase: 16 } }
+    - { model: sohl-sohl-skill-pysn, system: { masteryLevelBase: 16 } }
+    - { model: skill-thuravarkscript, system: { masteryLevelBase: 80 } }
+    - { model: sohl-sohl-skill-chrm, system: { masteryLevelBase: 33 } }
+    - { model: sohl-sohl-skill-cmd, system: { masteryLevelBase: 28 } }
+    - { model: sohl-sohl-skill-dscr, system: { masteryLevelBase: 64 } }
+    - { model: sohl-sohl-skill-guil, system: { masteryLevelBase: 52 } }
+    - { model: sohl-sohl-skill-intr, system: { masteryLevelBase: 45 } }
+    - { model: sohl-sohl-skill-sing, system: { masteryLevelBase: 36 } }
+    - { model: sohl-sohl-skill-thtcs, system: { masteryLevelBase: 14 } }
+    - { model: sohl-sohl-skill-srvl, system: { masteryLevelBase: 16 } }
+    - { model: sohl-sohl-skill-timb, system: { masteryLevelBase: 16 } }
+    - { model: sohl-sohl-skill-awar, system: { masteryLevelBase: 56 } }
+    - { model: sohl-sohl-skill-clmb, system: { masteryLevelBase: 30 } }
+    - { model: sohl-sohl-skill-dnce, system: { masteryLevelBase: 22 } }
+    - { model: sohl-sohl-skill-jump, system: { masteryLevelBase: 27 } }
+    - { model: sohl-sohl-skill-ridg, system: { masteryLevelBase: 11 } }
+    - { model: sohl-sohl-skill-stlth, system: { masteryLevelBase: 36 } }
+    - { model: sohl-sohl-skill-swim, system: { masteryLevelBase: 9 } }
+    - { model: sohl-sohl-skill-archery, system: { masteryLevelBase: 26 } }
+    - { model: sohl-sohl-skill-init, system: { masteryLevelBase: 48 } }
+    - { model: sohl-sohl-skill-melee, system: { masteryLevelBase: 20 } }
+    - { model: sohl-sohl-skill-slng, system: { masteryLevelBase: 12 } }
+    - { model: sohl-sohl-skill-thro, system: { masteryLevelBase: 24 } }
+    - { model: sohl-sohl-skill-draw, system: { masteryLevelBase: 12 } }
+    - { model: sohl-sohl-skill-mtlc, system: { masteryLevelBase: 30 } }
+    - { model: sohl-sohl-skill-musc, system: { masteryLevelBase: 14 } }
+    - { model: sohl-sohl-mysticalability-tarot, system: { masteryLevelBase: 30 } }
+    - { model: sohl-sohl-mysticalability-alch, system: { masteryLevelBase: 48 } }
+    - { model: sohl-sohl-skill-common, system: { masteryLevelBase: 75 } }
   system:
     body:
       structure:
@@ -557,7 +557,7 @@ sohl:
 
 # Appearance {#appearance}
 
-Thórir is a compact man, built closer to the squat proportions of the deep mountain dwellers than typical Normen, with the weathered, ruddy face of someone who has spent decades between worlds. His brown eyes are sharp but ringed with shadow, suggesting long nights spent poring over manuscripts or traversing planes of existence most people cannot perceive. His brown hair, pulled back in a tight warrior's knot, shows streaks of gray that speak of age and hard living. But the most striking feature is the tattoo on his left wrist: a dolphin in blue ink, rendered with surprising artistry and entirely at odds with the typical Nordheimn aesthetic. It is a mark of his time in foreign ports and trading ventures—the only visible remnant of a past he does not discuss. Despite his modest stature and quiet demeanor, there is something unsettling about his presence, a sense that he perceives things others do not, that he is only partly in this world.
+Thórir is a compact man, built closer to the squat proportions of the deep mountain dwellers than typical Nordmen, with the weathered, ruddy face of someone who has spent decades between worlds. His brown eyes are sharp but ringed with shadow, suggesting long nights spent poring over manuscripts or traversing planes of existence most people cannot perceive. His brown hair, pulled back in a tight warrior's knot, shows streaks of gray that speak of age and hard living. But the most striking feature is the tattoo on his left wrist: a dolphin in blue ink, rendered with surprising artistry and entirely at odds with the typical Nordheimn aesthetic. It is a mark of his time in foreign ports and trading ventures—the only visible remnant of a past he does not discuss. Despite his modest stature and quiet demeanor, there is something unsettling about his presence, a sense that he perceives things others do not, that he is only partly in this world.
 
 # Dossier {#dossier}
 
@@ -569,7 +569,7 @@ Not the approved, formal contacts that the priests of Óðinn's Order of the All
 
 In Nordheim, for a man to practice seiðr—the shamanic, spirit-walking arts—is to be branded _ergi_, unmanned, a serious cultural transgression. Seiðr is women's work, the domain of völvur and seer-priestesses. The few men who practice it exist in a hidden underground, watched by both the official clergy and by society at large. Thórir understood this immediately, and he chose to hide.
 
-For thirty years, he lived a double life. Publicly, he was a respectable merchant, well-connected in the trading networks that stretched from Nordheim across the northern seas to distant southern ports. He traveled extensively—which provided excuse for his long absences and explained his knowledge of Common Speech (75, far higher than any typical Normen). He brewed beer and cooked; he made friends with foreign merchants and scholars. He kept a workshop ostensibly for metalcraft but actually for the preparation of ritual items: talismans, spirit-vessels, the material infrastructure of hidden practice.
+For thirty years, he lived a double life. Publicly, he was a respectable merchant, well-connected in the trading networks that stretched from Nordheim across the northern seas to distant southern ports. He traveled extensively—which provided excuse for his long absences and explained his knowledge of Common Speech (75, far higher than any typical Nordmen). He brewed beer and cooked; he made friends with foreign merchants and scholars. He kept a workshop ostensibly for metalcraft but actually for the preparation of ritual items: talismans, spirit-vessels, the material infrastructure of hidden practice.
 
 And in the depths of his home, in carefully warded chambers, he walked between worlds.
 
@@ -581,7 +581,7 @@ But living this way has taken its toll. He is paranoid—reasonably so. He trust
 
 Thórir is a man living in constant fear of discovery, and that fear has hollowed him out in subtle ways. He is extraordinarily intelligent (reasoning: 18) and deeply knowledgeable in lore (folklore: 85), but he channels these gifts almost entirely into finding new ways to hide. His will is strong (15), but it is spent on maintaining cover rather than pursuing any positive goal. He is skilled at human discourse and manipulation—his Common is exceptional, and he can charm when he needs to—but these are instruments of concealment rather than genuine connection.
 
-His greatest asset is his awareness (56) and his understanding of hidden things. He perceives the landscape differently than other people—he sees the flows of spirit-power, the thin places where worlds intersect, the places where old knowledge lingers. His high unmodified aura (17) suggests that spirits recognize him as one of their own, that even humans instinctively sense something other about him. His ability to brew and cook reflects competencies most Normen men would never develop, suggesting a flexibility and willingness to learn that sits at odds with his culture.
+His greatest asset is his awareness (56) and his understanding of hidden things. He perceives the landscape differently than other people—he sees the flows of spirit-power, the thin places where worlds intersect, the places where old knowledge lingers. His high unmodified aura (17) suggests that spirits recognize him as one of their own, that even humans instinctively sense something other about him. His ability to brew and cook reflects competencies most Nordmen men would never develop, suggesting a flexibility and willingness to learn that sits at odds with his culture.
 
 But that same awareness that makes him gifted makes him unbearably sensitive to threat. Every conversation carries the risk of exposure. Every encounter with officials is a potential trap. He reads hostility into neutral glances. He has constructed such elaborate mental models of possible threats and cover stories that he sometimes confuses what he actually did with what his fictional persona is supposed to have done. He is deeply lonely, isolated by his necessary secrecy and by the understanding that if anyone truly knew him, he would be destroyed.
 

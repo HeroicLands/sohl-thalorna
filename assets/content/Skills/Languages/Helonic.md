@@ -5,7 +5,7 @@ name:
   aliases:
     - Helonic
 description: "The old prestige tongue of philosophy, theater, and scholarship — still the learned man's second language from the academies to the stage."
-img: icons/speaking.svg
+img: systems/sohl/assets/icons/other/speaking.svg
 shortcode: helonclng
 type: skill
 subType: language
@@ -24,7 +24,7 @@ flags:
     lang_family: Helonic
 ---
 
-Helonic is a tongue of the Helonic family. Fluency measures the sophistication of expression in Helonic, from the halting phrases of a traveler to the nuanced and learned discourse of a native speaker. As with all specific languages, this skill inherits its mechanics from the general [[skill-lang|Language]] skill.
+Helonic is a tongue of the Helonic family. Fluency measures the sophistication of expression in Helonic, from the halting phrases of a traveler to the nuanced and learned discourse of a native speaker. As with all specific languages, this skill inherits its mechanics from the general [[sohl-none-docskill-lang|Language]] skill.
 
 The tongue of [[place-helionis|Heliónis]] and the philosophical heartland of Mídhalión. Helonic is the language of drama, rhetoric, mathematics, and metaphysical inquiry—spoken in academies and theaters, written in the great epics and scientific treatises that define western civilization. Though primary speakers are concentrated in Heliónis, Helonic serves as a prestige language throughout Mídhalión, learned by educated merchants, courtiers, and scholars who wish to participate in the discourse of the age.
 

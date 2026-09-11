@@ -8,7 +8,7 @@ name:
     - Dwarven
     - Elder Tongue
 description: "The second of the Elder Tongues — short, percussive, and consonant-heavy, kept alive in the holds of the Khazári."
-img: icons/speaking.svg
+img: systems/sohl/assets/icons/other/speaking.svg
 shortcode: khazarlng
 type: skill
 subType: language
@@ -27,7 +27,7 @@ flags:
     lang_family: Elder
 ---
 
-Khazári is a tongue of the Elder family. Fluency measures the sophistication of expression in Khazári, from the halting phrases of a traveler to the nuanced and learned discourse of a native speaker. As with all specific languages, this skill inherits its mechanics from the general [[skill-lang|Language]] skill.
+Khazári is a tongue of the Elder family. Fluency measures the sophistication of expression in Khazári, from the halting phrases of a traveler to the nuanced and learned discourse of a native speaker. As with all specific languages, this skill inherits its mechanics from the general [[sohl-none-docskill-lang|Language]] skill.
 
 ## Overview
 

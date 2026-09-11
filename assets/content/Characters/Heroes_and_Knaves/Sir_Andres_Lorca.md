@@ -8,16 +8,16 @@ name:
   title: Sir
   given: Andrés
   clan: Lorca
-  home: Eskárath
+  home: null # was: Eskárath
   aliases:
     - Knight of the Western Marches
     - Sir Andres Lorca
 packFolder: aureldiatarvenia
 shortcode: srndrslrcknghtwstrnmrchs
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/srndrslrcknghtwstrnmrchs-portrait.webp
+  portrait: images/beings/characters/srndrslrcknghtwstrnmrchs-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Nobility (Knight Bachelor)
@@ -44,93 +44,97 @@ data:
 sohl:
   templatePriority: null
   items:
-    - { shortcode: str, type: attribute, system: { scoreBase: 15 } }
-    - { shortcode: end, type: attribute, system: { scoreBase: 16 } }
-    - { shortcode: dex, type: attribute, system: { scoreBase: 12 } }
-    - { shortcode: agl, type: attribute, system: { scoreBase: 13 } }
-    - { shortcode: per, type: attribute, system: { scoreBase: 12 } }
-    - { shortcode: cml, type: attribute, system: { scoreBase: 12 } }
-    - { shortcode: aur, type: attribute, system: { scoreBase: 13 } }
-    - { shortcode: wil, type: attribute, system: { scoreBase: 15 } }
-    - { shortcode: rea, type: attribute, system: { scoreBase: 12 } }
-    - { shortcode: cre, type: attribute, system: { scoreBase: 11 } }
-    - { shortcode: emp, type: attribute, system: { scoreBase: 10 } }
-    - { shortcode: elo, type: attribute, system: { scoreBase: 12 } }
-    - { shortcode: mor, type: attribute, system: { scoreBase: 16 } }
-    - { shortcode: voi, type: attribute, system: { scoreBase: 11 } }
-    - { shortcode: taranon, type: affiliation }
-    - { shortcode: cook, type: skill, system: { masteryLevelBase: 48 } }
-    - { shortcode: folklr, type: skill, system: { masteryLevelBase: 13 } }
-    - { shortcode: hrld, type: skill, system: { masteryLevelBase: 39 } }
-    - { shortcode: pfmy, type: skill, system: { masteryLevelBase: 12 } }
-    - { shortcode: pysn, type: skill, system: { masteryLevelBase: 60 } }
-    - { shortcode: chrm, type: skill, system: { masteryLevelBase: 33 } }
-    - { shortcode: cmd, type: skill, system: { masteryLevelBase: 42 } }
-    - { shortcode: dscr, type: skill, system: { masteryLevelBase: 24 } }
-    - { shortcode: guil, type: skill, system: { masteryLevelBase: 30 } }
-    - { shortcode: intr, type: skill, system: { masteryLevelBase: 33 } }
-    - { shortcode: sing, type: skill, system: { masteryLevelBase: 33 } }
-    - { shortcode: thtcs, type: skill, system: { masteryLevelBase: 11 } }
-    - { shortcode: anmcft, type: skill, system: { masteryLevelBase: 24 } }
-    - { shortcode: pilt, type: skill, system: { masteryLevelBase: 24 } }
-    - { shortcode: srvl, type: skill, system: { masteryLevelBase: 42 } }
-    - { shortcode: awar, type: skill, system: { masteryLevelBase: 39 } }
-    - { shortcode: clmb, type: skill, system: { masteryLevelBase: 39 } }
-    - { shortcode: dnce, type: skill, system: { masteryLevelBase: 24 } }
-    - { shortcode: jump, type: skill, system: { masteryLevelBase: 42 } }
-    - { shortcode: ridg, type: skill, system: { masteryLevelBase: 55 } }
-    - { shortcode: stlth, type: skill, system: { masteryLevelBase: 42 } }
-    - { shortcode: swim, type: skill, system: { masteryLevelBase: 14 } }
-    - { shortcode: archery, type: skill, system: { masteryLevelBase: 12 } }
-    - { shortcode: init, type: skill, system: { masteryLevelBase: 70 } }
-    - { shortcode: melee, type: skill, system: { masteryLevelBase: 60 } }
-    - { shortcode: thro, type: skill, system: { masteryLevelBase: 60 } }
-    - { shortcode: draw, type: skill, system: { masteryLevelBase: 12 } }
-    - { shortcode: glas, type: skill, system: { masteryLevelBase: 12 } }
-    - { shortcode: jewl, type: skill, system: { masteryLevelBase: 24 } }
-    - { shortcode: mtlc, type: skill, system: { masteryLevelBase: 26 } }
-    - { shortcode: musc, type: skill, system: { masteryLevelBase: 12 } }
-    - { shortcode: wpnc, type: skill, system: { masteryLevelBase: 26 } }
-    - { shortcode: BrdSwd, type: weapongear }
-    - { shortcode: Lnc, type: weapongear }
-    - { shortcode: KnSh, type: weapongear }
-    - { shortcode: Dgr, type: weapongear }
-    - { shortcode: PlBreast, type: armorgear }
-    - { shortcode: PlGrvs, type: armorgear }
-    - { shortcode: PlVamb, type: armorgear }
-    - { shortcode: PlSpld, type: armorgear }
-    - { shortcode: PlGtHlm, type: armorgear }
-    - { shortcode: PlKncp, type: armorgear }
-    - { shortcode: PlCou, type: armorgear }
-    - { shortcode: PlRebr, type: armorgear }
+    - { model: sohl-sohl-attribute-str, system: { scoreBase: 15 } }
+    - { model: sohl-sohl-attribute-end, system: { scoreBase: 16 } }
+    - { model: sohl-sohl-attribute-dex, system: { scoreBase: 12 } }
+    - { model: sohl-sohl-attribute-agl, system: { scoreBase: 13 } }
+    - { model: sohl-sohl-attribute-per, system: { scoreBase: 12 } }
+    - { model: sohl-sohl-attribute-cml, system: { scoreBase: 12 } }
+    - { model: sohl-sohl-attribute-aur, system: { scoreBase: 13 } }
+    - { model: sohl-sohl-attribute-wil, system: { scoreBase: 15 } }
+    - { model: sohl-sohl-attribute-rea, system: { scoreBase: 12 } }
+    - { model: sohl-sohl-attribute-cre, system: { scoreBase: 11 } }
+    - { model: sohl-sohl-attribute-emp, system: { scoreBase: 10 } }
+    - { model: sohl-sohl-attribute-elo, system: { scoreBase: 12 } }
+    - { model: sohl-sohl-attribute-mor, system: { scoreBase: 16 } }
+    - { model: sohl-sohl-attribute-voi, system: { scoreBase: 11 } }
+    - { model: affiliation-taranon }
+    - { model: sohl-sohl-skill-cook, system: { masteryLevelBase: 48 } }
+    - { model: sohl-sohl-skill-folklr, system: { masteryLevelBase: 13 } }
+    - { model: sohl-sohl-skill-hrld, system: { masteryLevelBase: 39 } }
+    - { model: sohl-sohl-skill-pfmy, system: { masteryLevelBase: 12 } }
+    - { model: sohl-sohl-skill-pysn, system: { masteryLevelBase: 60 } }
+    - { model: sohl-sohl-skill-chrm, system: { masteryLevelBase: 33 } }
+    - { model: sohl-sohl-skill-cmd, system: { masteryLevelBase: 42 } }
+    - { model: sohl-sohl-skill-dscr, system: { masteryLevelBase: 24 } }
+    - { model: sohl-sohl-skill-guil, system: { masteryLevelBase: 30 } }
+    - { model: sohl-sohl-skill-intr, system: { masteryLevelBase: 33 } }
+    - { model: sohl-sohl-skill-sing, system: { masteryLevelBase: 33 } }
+    - { model: sohl-sohl-skill-thtcs, system: { masteryLevelBase: 11 } }
+    - { model: sohl-sohl-skill-anmcft, system: { masteryLevelBase: 24 } }
+    - { model: sohl-sohl-skill-pilt, system: { masteryLevelBase: 24 } }
+    - { model: sohl-sohl-skill-srvl, system: { masteryLevelBase: 42 } }
+    - { model: sohl-sohl-skill-awar, system: { masteryLevelBase: 39 } }
+    - { model: sohl-sohl-skill-clmb, system: { masteryLevelBase: 39 } }
+    - { model: sohl-sohl-skill-dnce, system: { masteryLevelBase: 24 } }
+    - { model: sohl-sohl-skill-jump, system: { masteryLevelBase: 42 } }
+    - { model: sohl-sohl-skill-ridg, system: { masteryLevelBase: 55 } }
+    - { model: sohl-sohl-skill-stlth, system: { masteryLevelBase: 42 } }
+    - { model: sohl-sohl-skill-swim, system: { masteryLevelBase: 14 } }
+    - { model: sohl-sohl-skill-archery, system: { masteryLevelBase: 12 } }
+    - { model: sohl-sohl-skill-init, system: { masteryLevelBase: 70 } }
+    - { model: sohl-sohl-skill-melee, system: { masteryLevelBase: 60 } }
+    - { model: sohl-sohl-skill-thro, system: { masteryLevelBase: 60 } }
+    - { model: sohl-sohl-skill-draw, system: { masteryLevelBase: 12 } }
+    - { model: sohl-sohl-skill-glas, system: { masteryLevelBase: 12 } }
+    - { model: sohl-sohl-skill-jewl, system: { masteryLevelBase: 24 } }
+    - { model: sohl-sohl-skill-mtlc, system: { masteryLevelBase: 26 } }
+    - { model: sohl-sohl-skill-musc, system: { masteryLevelBase: 12 } }
+    - { model: sohl-sohl-skill-wpnc, system: { masteryLevelBase: 26 } }
+    - { model: sohl-sohl-weapongear-brdswd }
+    - { model: sohl-sohl-weapongear-lnc }
+    - { model: sohl-sohl-weapongear-knsh }
+    - { model: sohl-sohl-weapongear-dgr }
+    - { model: sohl-sohl-armorgear-plbreast }
+    - { model: sohl-sohl-armorgear-plgrvs }
+    - { model: sohl-sohl-armorgear-plvamb }
+    - { model: sohl-sohl-armorgear-plspld }
+    - { model: sohl-sohl-armorgear-plgthlm }
+    - { model: sohl-sohl-armorgear-plkncp }
+    - { model: sohl-sohl-armorgear-plcou }
+    - { model: sohl-sohl-armorgear-plrebr }
     - name: Knight's heraldic surcoat (quartered arms)
       type: miscgear
       system:
+        shortcode: knightsheraldic
         weight: 0.5
         value: 100
         durability: 3
     - name: Silk cloak with knightly insignia
       type: miscgear
       system:
+        shortcode: silkcloak
         weight: 1
         value: 100
         durability: 3
-    - { shortcode: torch, type: miscgear, system: { quantity: 2 } }
-    - { shortcode: StdRtns, type: miscgear, system: { quantity: 5 } }
+    - { model: sohl-sohl-miscgear-torch, system: { quantity: 2 } }
+    - { model: sohl-sohl-miscgear-stdrtns, system: { quantity: 5 } }
     - name: Whetstone for blade maintenance
       type: miscgear
       system:
+        shortcode: whetstoneforblade
         weight: 1
         value: 100
         durability: 3
     - name: Small holy icon (Táranon)
       type: miscgear
       system:
+        shortcode: smallholyicon
         weight: 1
         value: 100
         durability: 3
-    - { shortcode: wtrskin, type: containergear }
-    - { shortcode: bpchmd, type: containergear }
+    - { model: sohl-sohl-containergear-wtrskin }
+    - { model: sohl-sohl-containergear-bpchmd }
   system:
     body:
       structure:
@@ -601,6 +605,8 @@ Sir Andrés stands at 6'1", with a broad, muscular build, the result of years of
 Born into a noble family in the Western Marches, Sir Andrés was groomed for knighthood from a young age. The youngest son of a prominent house, he was instilled with a strong sense of duty and loyalty to his family and his kingdom. As a squire, he served under a legendary knight, learning the ways of chivalry, combat, and leadership. His early years were marked by long campaigns defending the borders of his homeland from invaders, and it was here that he earned his reputation as a skilled warrior and a leader of men.
 
 Over the years, Sir Andrés has fought in numerous battles, defending his kingdom and upholding the chivalric code. Though his elder brothers inherited the family’s lands and titles, Sir Andrés forged his own path through his deeds on the battlefield and his unshakeable loyalty to the knightly order. He is now known throughout the Western Marches as a knight of honor and integrity, a man whose sword is at the service of his people and his king.
+
+## Background
 
 ### Skills and Abilities
 

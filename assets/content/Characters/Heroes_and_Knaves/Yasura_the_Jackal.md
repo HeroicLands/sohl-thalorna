@@ -8,14 +8,14 @@ name:
   title: ""
   given: Yâsûra
   clan: ""
-  home: The South Marches
+  home: null # was: The South Marches
   aliases:
     - The Jackal-Queen
     - The Unhoused
     - Yâsûra
 packFolder: northernfertileregionbethua
 shortcode: yasurajckl
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
   portrait: images/being/yasurajckl-portrait.webp
@@ -46,57 +46,58 @@ data:
 sohl:
   templatePriority: null
   items:
-    - { shortcode: str, type: attribute, system: { scoreBase: 13 } }
-    - { shortcode: end, type: attribute, system: { scoreBase: 14 } }
-    - { shortcode: dex, type: attribute, system: { scoreBase: 14 } }
-    - { shortcode: agl, type: attribute, system: { scoreBase: 16 } }
-    - { shortcode: per, type: attribute, system: { scoreBase: 14 } }
-    - { shortcode: cml, type: attribute, system: { scoreBase: 12 } }
-    - { shortcode: aur, type: attribute, system: { scoreBase: 10 } }
-    - { shortcode: wil, type: attribute, system: { scoreBase: 16 } }
-    - { shortcode: rea, type: attribute, system: { scoreBase: 13 } }
-    - { shortcode: cre, type: attribute, system: { scoreBase: 12 } }
-    - { shortcode: emp, type: attribute, system: { scoreBase: 8 } }
-    - { shortcode: elo, type: attribute, system: { scoreBase: 12 } }
-    - { shortcode: mor, type: attribute, system: { scoreBase: 6 } }
-    - { shortcode: voi, type: attribute, system: { scoreBase: 11 } }
-    - { shortcode: morvana, type: affiliation }
-    - { shortcode: common, type: skill, system: { masteryLevelBase: 55 } }
-    - { shortcode: bethunlng, type: skill, system: { masteryLevelBase: 45 } }
-    - { shortcode: melee, type: skill, system: { masteryLevelBase: 70 } }
-    - { shortcode: init, type: skill, system: { masteryLevelBase: 72 } }
-    - { shortcode: dge, type: skill, system: { masteryLevelBase: 68 } }
-    - { shortcode: thro, type: skill, system: { masteryLevelBase: 60 } }
-    - { shortcode: ridg, type: skill, system: { masteryLevelBase: 70 } }
-    - { shortcode: archery, type: skill, system: { masteryLevelBase: 48 } }
-    - { shortcode: cmd, type: skill, system: { masteryLevelBase: 64 } }
-    - { shortcode: awar, type: skill, system: { masteryLevelBase: 58 } }
-    - { shortcode: srvl, type: skill, system: { masteryLevelBase: 60 } }
-    - { shortcode: trak, type: skill, system: { masteryLevelBase: 52 } }
-    - { shortcode: stlth, type: skill, system: { masteryLevelBase: 50 } }
-    - { shortcode: anmcft, type: skill, system: { masteryLevelBase: 44 } }
-    - { shortcode: clmb, type: skill, system: { masteryLevelBase: 42 } }
-    - { shortcode: intr, type: skill, system: { masteryLevelBase: 42 } }
-    - { shortcode: guil, type: skill, system: { masteryLevelBase: 44 } }
-    - { shortcode: Scmtr, type: weapongear }
-    - { shortcode: Dgr, type: weapongear }
-    - { shortcode: Shkn, type: weapongear }
-    - { shortcode: ArwStd, type: projectilegear, system: { quantity: 20 } }
-    - { shortcode: KBrst, type: armorgear }
-    - { shortcode: LtSTunic, type: armorgear }
-    - { shortcode: LtKBoot, type: armorgear }
-    - { shortcode: LtCap, type: armorgear }
+    - { model: sohl-sohl-attribute-str, system: { scoreBase: 13 } }
+    - { model: sohl-sohl-attribute-end, system: { scoreBase: 14 } }
+    - { model: sohl-sohl-attribute-dex, system: { scoreBase: 14 } }
+    - { model: sohl-sohl-attribute-agl, system: { scoreBase: 16 } }
+    - { model: sohl-sohl-attribute-per, system: { scoreBase: 14 } }
+    - { model: sohl-sohl-attribute-cml, system: { scoreBase: 12 } }
+    - { model: sohl-sohl-attribute-aur, system: { scoreBase: 10 } }
+    - { model: sohl-sohl-attribute-wil, system: { scoreBase: 16 } }
+    - { model: sohl-sohl-attribute-rea, system: { scoreBase: 13 } }
+    - { model: sohl-sohl-attribute-cre, system: { scoreBase: 12 } }
+    - { model: sohl-sohl-attribute-emp, system: { scoreBase: 8 } }
+    - { model: sohl-sohl-attribute-elo, system: { scoreBase: 12 } }
+    - { model: sohl-sohl-attribute-mor, system: { scoreBase: 6 } }
+    - { model: sohl-sohl-attribute-voi, system: { scoreBase: 11 } }
+    - { model: affiliation-morvana }
+    - { model: sohl-sohl-skill-common, system: { masteryLevelBase: 55 } }
+    - { model: skill-bethunlng, system: { masteryLevelBase: 45 } }
+    - { model: sohl-sohl-skill-melee, system: { masteryLevelBase: 70 } }
+    - { model: sohl-sohl-skill-init, system: { masteryLevelBase: 72 } }
+    - { model: sohl-sohl-skill-dge, system: { masteryLevelBase: 68 } }
+    - { model: sohl-sohl-skill-thro, system: { masteryLevelBase: 60 } }
+    - { model: sohl-sohl-skill-ridg, system: { masteryLevelBase: 70 } }
+    - { model: sohl-sohl-skill-archery, system: { masteryLevelBase: 48 } }
+    - { model: sohl-sohl-skill-cmd, system: { masteryLevelBase: 64 } }
+    - { model: sohl-sohl-skill-awar, system: { masteryLevelBase: 58 } }
+    - { model: sohl-sohl-skill-srvl, system: { masteryLevelBase: 60 } }
+    - { model: sohl-sohl-skill-trak, system: { masteryLevelBase: 52 } }
+    - { model: sohl-sohl-skill-stlth, system: { masteryLevelBase: 50 } }
+    - { model: sohl-sohl-skill-anmcft, system: { masteryLevelBase: 44 } }
+    - { model: sohl-sohl-skill-clmb, system: { masteryLevelBase: 42 } }
+    - { model: sohl-sohl-skill-intr, system: { masteryLevelBase: 42 } }
+    - { model: sohl-sohl-skill-guil, system: { masteryLevelBase: 44 } }
+    - { model: sohl-sohl-weapongear-scmtr }
+    - { model: sohl-sohl-weapongear-dgr }
+    - { model: sohl-sohl-weapongear-shkn }
+    - { model: sohl-sohl-projectilegear-arwstd, system: { quantity: 20 } }
+    - { model: sohl-sohl-armorgear-kbrst }
+    - { model: sohl-sohl-armorgear-ltstunic }
+    - { model: sohl-sohl-armorgear-ltkboot }
+    - { model: sohl-sohl-armorgear-ltcap }
     - name: War-horse (desert-bred mare)
       type: miscgear
       system:
+        shortcode: warhorse
         weight: 0
         value: 2500
         durability: 5
-    - { shortcode: HvyBdrl, type: miscgear }
-    - { shortcode: FRtns, type: miscgear, system: { quantity: 5 } }
-    - { shortcode: goldcrown, type: miscgear, system: { quantity: 25 } }
-    - { shortcode: wtrskin, type: containergear, system: { quantity: 2 } }
-    - { shortcode: backpk, type: containergear }
+    - { model: sohl-sohl-miscgear-hvybdrl }
+    - { model: sohl-sohl-miscgear-frtns, system: { quantity: 5 } }
+    - { model: sohl-sohl-miscgear-gldcrwn, system: { quantity: 25 } }
+    - { model: sohl-sohl-containergear-wtrskin, system: { quantity: 2 } }
+    - { model: sohl-sohl-containergear-backpk }
   system:
     body:
       structure:
@@ -563,6 +564,8 @@ sohl:
 Yâsûra is a lean, weather-hardened woman in her early forties, built in the wiry, fast-moving mould the Bethûan war-art prizes rather than the bulk of a marcher raider. She stands 5'8", dark-skinned and burned darker by the southern sun, her black hair shot with grey and bound back hard for the saddle. A long pale scar runs from her left brow to her jaw — the mark of the hunt that cost her everything and set her on the road south. She still carries herself like the spear-sister she was, upright and balanced, and she still wears, beneath marcher leathers, the habits of a woman trained from girlhood to kill with empty hands. Her dark eyes are flat and measuring, and she has the unhurried confidence of someone who has had a long time to grow comfortable with violence.
 
 # Dossier {#dossier}
+
+## Background
 
 ### Origin: A Daughter of the Matriarchy
 

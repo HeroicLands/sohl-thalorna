@@ -8,14 +8,14 @@ name:
   title: ""
   given: Chrysántos
   clan: Kavadáris
-  home: Thálassos
+  home: thalassos
   aliases: []
 packFolder: helladbyzaria
 shortcode: chrysntskvdrs
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/chrysntskvdrs-portrait.webp
+  portrait: images/beings/characters/chrysntskvdrs-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Locksmith
@@ -43,69 +43,71 @@ data:
 sohl:
   templatePriority: null
   items:
-    - { shortcode: str, type: attribute, system: { scoreBase: 10 } }
-    - { shortcode: end, type: attribute, system: { scoreBase: 11 } }
-    - { shortcode: dex, type: attribute, system: { scoreBase: 13 } }
-    - { shortcode: agl, type: attribute, system: { scoreBase: 10 } }
-    - { shortcode: per, type: attribute, system: { scoreBase: 16 } }
-    - { shortcode: cml, type: attribute, system: { scoreBase: 15 } }
-    - { shortcode: aur, type: attribute, system: { scoreBase: 12 } }
-    - { shortcode: wil, type: attribute, system: { scoreBase: 14 } }
-    - { shortcode: rea, type: attribute, system: { scoreBase: 18 } }
-    - { shortcode: cre, type: attribute, system: { scoreBase: 11 } }
-    - { shortcode: emp, type: attribute, system: { scoreBase: 10 } }
-    - { shortcode: elo, type: attribute, system: { scoreBase: 17 } }
-    - { shortcode: mor, type: attribute, system: { scoreBase: 14 } }
-    - { shortcode: voi, type: attribute, system: { scoreBase: 12 } }
-    - { shortcode: venusia, type: affiliation }
-    - { shortcode: brew, type: skill, system: { masteryLevelBase: 17 } }
-    - { shortcode: cook, type: skill, system: { masteryLevelBase: 34 } }
-    - { shortcode: embl, type: skill, system: { masteryLevelBase: 17 } }
-    - { shortcode: eng, type: skill, system: { masteryLevelBase: 15 } }
-    - { shortcode: folklr, type: skill, system: { masteryLevelBase: 16 } }
-    - { shortcode: math, type: skill, system: { masteryLevelBase: 60 } }
-    - { shortcode: mrcn, type: skill, system: { masteryLevelBase: 85 } }
-    - { shortcode: pfmy, type: skill, system: { masteryLevelBase: 17 } }
-    - { shortcode: pysn, type: skill, system: { masteryLevelBase: 17 } }
-    - { shortcode: helnkscrpt, type: skill, system: { masteryLevelBase: 85 } }
-    - { shortcode: chrm, type: skill, system: { masteryLevelBase: 39 } }
-    - { shortcode: cmd, type: skill, system: { masteryLevelBase: 30 } }
-    - { shortcode: dscr, type: skill, system: { masteryLevelBase: 36 } }
-    - { shortcode: guil, type: skill, system: { masteryLevelBase: 50 } }
-    - { shortcode: intr, type: skill, system: { masteryLevelBase: 70 } }
-    - { shortcode: sing, type: skill, system: { masteryLevelBase: 48 } }
-    - { shortcode: thtcs, type: skill, system: { masteryLevelBase: 14 } }
-    - { shortcode: anmcft, type: skill, system: { masteryLevelBase: 24 } }
-    - { shortcode: srvl, type: skill, system: { masteryLevelBase: 16 } }
-    - { shortcode: awar, type: skill, system: { masteryLevelBase: 45 } }
-    - { shortcode: clmb, type: skill, system: { masteryLevelBase: 33 } }
-    - { shortcode: dnce, type: skill, system: { masteryLevelBase: 20 } }
-    - { shortcode: jump, type: skill, system: { masteryLevelBase: 30 } }
-    - { shortcode: ridg, type: skill, system: { masteryLevelBase: 10 } }
-    - { shortcode: stlth, type: skill, system: { masteryLevelBase: 36 } }
-    - { shortcode: swim, type: skill, system: { masteryLevelBase: 30 } }
-    - { shortcode: archery, type: skill, system: { masteryLevelBase: 15 } }
-    - { shortcode: init, type: skill, system: { masteryLevelBase: 48 } }
-    - { shortcode: melee, type: skill, system: { masteryLevelBase: 24 } }
-    - { shortcode: thro, type: skill, system: { masteryLevelBase: 28 } }
-    - { shortcode: cmcs, type: skill, system: { masteryLevelBase: 28 } }
-    - { shortcode: draw, type: skill, system: { masteryLevelBase: 12 } }
-    - { shortcode: glas, type: skill, system: { masteryLevelBase: 15 } }
-    - { shortcode: masn, type: skill, system: { masteryLevelBase: 24 } }
-    - { shortcode: txtl, type: skill, system: { masteryLevelBase: 28 } }
-    - { shortcode: LShirt, type: armorgear }
-    - { shortcode: WTrsr, type: armorgear }
-    - { shortcode: LtShoe, type: armorgear }
-    - { shortcode: WClk, type: armorgear }
+    - { model: sohl-sohl-attribute-str, system: { scoreBase: 10 } }
+    - { model: sohl-sohl-attribute-end, system: { scoreBase: 11 } }
+    - { model: sohl-sohl-attribute-dex, system: { scoreBase: 13 } }
+    - { model: sohl-sohl-attribute-agl, system: { scoreBase: 10 } }
+    - { model: sohl-sohl-attribute-per, system: { scoreBase: 16 } }
+    - { model: sohl-sohl-attribute-cml, system: { scoreBase: 15 } }
+    - { model: sohl-sohl-attribute-aur, system: { scoreBase: 12 } }
+    - { model: sohl-sohl-attribute-wil, system: { scoreBase: 14 } }
+    - { model: sohl-sohl-attribute-rea, system: { scoreBase: 18 } }
+    - { model: sohl-sohl-attribute-cre, system: { scoreBase: 11 } }
+    - { model: sohl-sohl-attribute-emp, system: { scoreBase: 10 } }
+    - { model: sohl-sohl-attribute-elo, system: { scoreBase: 17 } }
+    - { model: sohl-sohl-attribute-mor, system: { scoreBase: 14 } }
+    - { model: sohl-sohl-attribute-voi, system: { scoreBase: 12 } }
+    - { model: affiliation-venusia }
+    - { model: sohl-sohl-skill-brew, system: { masteryLevelBase: 17 } }
+    - { model: sohl-sohl-skill-cook, system: { masteryLevelBase: 34 } }
+    - { model: sohl-sohl-skill-embl, system: { masteryLevelBase: 17 } }
+    - { model: sohl-sohl-skill-eng, system: { masteryLevelBase: 15 } }
+    - { model: sohl-sohl-skill-folklr, system: { masteryLevelBase: 16 } }
+    - { model: sohl-sohl-skill-math, system: { masteryLevelBase: 60 } }
+    - { model: sohl-sohl-skill-mrcn, system: { masteryLevelBase: 85 } }
+    - { model: sohl-sohl-skill-pfmy, system: { masteryLevelBase: 17 } }
+    - { model: sohl-sohl-skill-pysn, system: { masteryLevelBase: 17 } }
+    - { model: skill-helnkscrpt, system: { masteryLevelBase: 85 } }
+    - { model: sohl-sohl-skill-chrm, system: { masteryLevelBase: 39 } }
+    - { model: sohl-sohl-skill-cmd, system: { masteryLevelBase: 30 } }
+    - { model: sohl-sohl-skill-dscr, system: { masteryLevelBase: 36 } }
+    - { model: sohl-sohl-skill-guil, system: { masteryLevelBase: 50 } }
+    - { model: sohl-sohl-skill-intr, system: { masteryLevelBase: 70 } }
+    - { model: sohl-sohl-skill-sing, system: { masteryLevelBase: 48 } }
+    - { model: sohl-sohl-skill-thtcs, system: { masteryLevelBase: 14 } }
+    - { model: sohl-sohl-skill-anmcft, system: { masteryLevelBase: 24 } }
+    - { model: sohl-sohl-skill-srvl, system: { masteryLevelBase: 16 } }
+    - { model: sohl-sohl-skill-awar, system: { masteryLevelBase: 45 } }
+    - { model: sohl-sohl-skill-clmb, system: { masteryLevelBase: 33 } }
+    - { model: sohl-sohl-skill-dnce, system: { masteryLevelBase: 20 } }
+    - { model: sohl-sohl-skill-jump, system: { masteryLevelBase: 30 } }
+    - { model: sohl-sohl-skill-ridg, system: { masteryLevelBase: 10 } }
+    - { model: sohl-sohl-skill-stlth, system: { masteryLevelBase: 36 } }
+    - { model: sohl-sohl-skill-swim, system: { masteryLevelBase: 30 } }
+    - { model: sohl-sohl-skill-archery, system: { masteryLevelBase: 15 } }
+    - { model: sohl-sohl-skill-init, system: { masteryLevelBase: 48 } }
+    - { model: sohl-sohl-skill-melee, system: { masteryLevelBase: 24 } }
+    - { model: sohl-sohl-skill-thro, system: { masteryLevelBase: 28 } }
+    - { model: sohl-sohl-skill-cmcs, system: { masteryLevelBase: 28 } }
+    - { model: sohl-sohl-skill-draw, system: { masteryLevelBase: 12 } }
+    - { model: sohl-sohl-skill-glas, system: { masteryLevelBase: 15 } }
+    - { model: sohl-sohl-skill-masn, system: { masteryLevelBase: 24 } }
+    - { model: sohl-sohl-skill-txtl, system: { masteryLevelBase: 28 } }
+    - { model: sohl-sohl-armorgear-lshirt }
+    - { model: sohl-sohl-armorgear-wtrsr }
+    - { model: sohl-sohl-armorgear-ltshoe }
+    - { model: sohl-sohl-armorgear-wclk }
     - name: Leather briefcase for trade documents
       type: miscgear
       system:
+        shortcode: leatherbriefcase
         weight: 1
         value: 100
         durability: 3
     - name: Samples of goods (spices, textiles)
       type: miscgear
       system:
+        shortcode: samplesofgoods
         quantity: 5
         weight: 1
         value: 100
@@ -113,23 +115,26 @@ sohl:
     - name: Trade agreements and contracts
       type: miscgear
       system:
+        shortcode: tradeagreements
         weight: 1
         value: 100
         durability: 3
     - name: Personal merchant ledger
       type: miscgear
       system:
+        shortcode: personalmerchant
         weight: 1
         value: 100
         durability: 3
-    - { shortcode: tndrbx, type: miscgear }
+    - { model: sohl-sohl-miscgear-tndrbx }
     - name: Ink and writing quills
       type: miscgear
       system:
+        shortcode: inkandwritingquills
         weight: 1
         value: 100
         durability: 3
-    - { shortcode: bpchlg, type: containergear }
+    - { model: sohl-sohl-containergear-bpchlg }
   system:
     body:
       structure:
@@ -653,7 +658,7 @@ Chrysántos is driven by the endless accumulation of wealth, influence, and pres
 
 1. **The Cursed Artifact**: Chrysántos acquires what he believes to be a rare and valuable religious artifact—a relic of considerable historical significance—from a mysterious seller in Vedyara. He brokered a transaction that resulted in sale of the item to a wealthy collector in the Kingdom of Tarvénia. Within weeks, the new owner begins experiencing inexplicable misfortunes: illnesses, financial catastrophes, psychological deterioration. The collector becomes convinced the artifact is cursed and moves to recover it, first through legal means, then through more direct methods. Chrysántos is tracked down and threatened; the artifact's original seller appears to be connected to powerful forces interested in its recovery; and Chrysántos discovers that the artifact may indeed be genuinely supernatural in nature. He must determine whether to recover it, find a way to neutralize whatever curse attends it, or convince the collector that the misfortunes are coincidental.
 
-2. **The Stolen Masterpiece**: A commissioned artwork—a piece personally created by **Master Artificer Kaelvos** for a wealthy patron—is stolen in transit. The patron, a powerful noble with connections to the crown, holds Chrysántos personally responsible as the broker who arranged the commission and theoretically secured its delivery. If the item is not recovered within two lunar cycles, Chrysántos faces not merely financial loss but serious legal consequences. The thief proves to be operatives from the Thieves' Guild (possibly including **[[being-chndrkrtsndrjyvl|Chandrakīrtisundarī Jayavalli]]**), who were hired to steal the piece by a rival merchant attempting to damage Chrysántos's reputation. Recovering the piece requires negotiating with the guild while discovering who orchestrated the theft.
+2. **The Stolen Masterpiece**: A commissioned artwork—a piece personally created by **Master Artificer Kaelvos** for a wealthy patron—is stolen in transit. The patron, a powerful noble with connections to the crown, holds Chrysántos personally responsible as the broker who arranged the commission and theoretically secured its delivery. If the item is not recovered within two lunar cycles, Chrysántos faces not merely financial loss but serious legal consequences. The thief proves to be operatives from the [[affiliation-adanasreni|Ādānaśreṇī]] (possibly including **[[being-chndrkrtsndrjyvl|Chandrakīrtisundarī Jayavalli]]**), who were hired to steal the piece by a rival merchant attempting to damage Chrysántos's reputation. Recovering the piece requires negotiating with the guild while discovering who orchestrated the theft.
 
 3. **The Competitor's Downfall**: A rival merchant-broker, **Merchant-Lord Tharenis**, suddenly collapses into financial ruin. His clients flee, his reputation is destroyed, and his enterprise disintegrates within weeks. Chrysántos discovers evidence that some of this collapse was orchestrated by a third party—someone deliberately undermining Tharenis to drive his business into Chrysántos's ready hands. The question becomes: who orchestrated Tharenis's ruin, why did they choose to benefit Chrysántos, and what price will they demand for this "gift"? The benefactor reveals themselves to be a powerful individual (possibly even an organization) who expects Chrysántos to become their broker and facilitate specific acquisitions for unknown purposes.
 

@@ -5,11 +5,11 @@ name:
   full: Frostmaw
   aliases: []
 description: "A titanic elemental of glacial destruction that lingers in frozen wastes for years, deepening winter and expanding its icy territory as it roams."
-img: icons/game-icons/delapouite/griffin-symbol.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 shortcode: frostmaw
 type: being
 data:
-  portrait: images/being/frostmaw-portrait.webp
+  portrait: images/beings/creatures/frostmaw-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: null
@@ -43,23 +43,22 @@ sohl:
     wil: 1d4+12
     rea: 1d4+5
     cre: 1d4+5
-  defaultCombatGroup: null
   items:
-    - { shortcode: str, type: attribute, system: { scoreBase: 48 } }
-    - { shortcode: end, type: attribute, system: { scoreBase: 17 } }
-    - { shortcode: dex, type: attribute, system: { scoreBase: 9 } }
-    - { shortcode: agl, type: attribute, system: { scoreBase: 9 } }
-    - { shortcode: per, type: attribute, system: { scoreBase: 9 } }
-    - { shortcode: aur, type: attribute, system: { scoreBase: 9 } }
-    - { shortcode: wil, type: attribute, system: { scoreBase: 15 } }
-    - { shortcode: rea, type: attribute, system: { scoreBase: 8 } }
-    - { shortcode: cre, type: attribute, system: { scoreBase: 8 } }
-    - { shortcode: awar, type: skill, system: { masteryLevelBase: 60 } }
-    - { shortcode: stlth, type: skill, system: { masteryLevelBase: 60 } }
-    - { shortcode: sprt, type: mysticalability, system: { masteryLevelBase: 36 } }
-    - { shortcode: init, type: skill, system: { masteryLevelBase: 48 } }
-    - { shortcode: dge, type: skill, system: { masteryLevelBase: 36 } }
-    - { shortcode: shok, type: skill, system: { masteryLevelBase: 83 } }
+    - { model: sohl-sohl-attribute-str, system: { scoreBase: 48 } }
+    - { model: sohl-sohl-attribute-end, system: { scoreBase: 17 } }
+    - { model: sohl-sohl-attribute-dex, system: { scoreBase: 9 } }
+    - { model: sohl-sohl-attribute-agl, system: { scoreBase: 9 } }
+    - { model: sohl-sohl-attribute-per, system: { scoreBase: 9 } }
+    - { model: sohl-sohl-attribute-aur, system: { scoreBase: 9 } }
+    - { model: sohl-sohl-attribute-wil, system: { scoreBase: 15 } }
+    - { model: sohl-sohl-attribute-rea, system: { scoreBase: 8 } }
+    - { model: sohl-sohl-attribute-cre, system: { scoreBase: 8 } }
+    - { model: sohl-sohl-skill-awar, system: { masteryLevelBase: 60 } }
+    - { model: sohl-sohl-skill-stlth, system: { masteryLevelBase: 60 } }
+    - { model: sohl-sohl-mysticalability-sprt, system: { masteryLevelBase: 36 } }
+    - { model: sohl-sohl-skill-init, system: { masteryLevelBase: 48 } }
+    - { model: sohl-sohl-skill-dge, system: { masteryLevelBase: 36 } }
+    - { model: sohl-sohl-skill-shok, system: { masteryLevelBase: 83 } }
     - name: Crushing Bite
       type: skill
       system:

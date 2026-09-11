@@ -76,14 +76,24 @@ data:
         the company.
       Scout of the Marshes: Reader of the herds and the channels, sent ahead of the hunt and
         often alone.
-  commonSkills: []
+  commonSkills:
+    - khetamun
+    - srvl
+    - melee
+    - kheperlng
   seat: null
-  domains: []
+  domains:
+    - takheperurgn
   population: null
   economy: []
-  lore: []
+  lore:
+    - humanflk
   parents: []
-  relations: {}
+  relations:
+    khetamun: aligned
+    kemtnpnthn: aligned
+    sobek: aligned
+    pernuw: aligned
 sohl:
   templatePriority: null
 name:

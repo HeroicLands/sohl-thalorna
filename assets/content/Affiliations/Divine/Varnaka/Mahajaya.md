@@ -18,80 +18,34 @@ data:
   epithet: The Eternal Preserver
   symbol: A balanced scale encircled by wheat
   governance:
-    model: theocracy
+    model: council
     summary: >-
-      Ordained priesthood under a hierarch, with the lay faithful bound by observance rather
-      than by office.
+      This god has no priesthood of its own. Varṇaka ordains into a sampradāya — a school — not to a god, so what structure exists here is the household observance and the ordeal: devotion to honest increase — the sown field and the fair measure — guarded by the Nivara-Kshetras, the spirits of the fields, and beyond that the Ordeals for Favour, which are undertaken by individuals and confer standing for life.
     ranks:
       - level: 0
-        title: Excommunicate
+        title: Patita
         lore: excmmnctrnk
         description: >-
-          Cut off from the rites, the temples and the burial the tradition promises — the one
-          sentence it can pass that outlives the body.
+          "Fallen" — put out of Varṇakan observance altogether, and received again by no house and no sampradāya.
       - level: 1
-        title: Catechumen
-        lore: catechumenrnk
-        description: Under instruction and not yet received; permitted to hear and not to partake.
+        title: Upāsaka
+        lore: layfaithfulrnk
+        description: >-
+          The lay devotee, keeping the household observance of honest increase — the sown field and the fair measure — guarded by the Nivara-Kshetras, the spirits of the fields. This is what devotion to this god ordinarily consists of, and for most of the faithful it is the whole of it.
       - level: 2
-        title: Lay Faithful
-        lore: layfaithfulrnk
+        title: Vratin
+        lore: professedrnk
         description: >-
-          Of the tradition by profession and observance, keeping its feasts and its prohibitions
-          without office in it.
-      - level: 3
-        title: Devotee
-        lore: layfaithfulrnk
-        description: >-
-          Bound by a private vow — a fast, a pilgrimage, a service — beyond what the lay faithful
-          owe.
-      - level: 4
-        title: Acolyte
-        lore: initiaternk
-        description: >-
-          Serving in the temple and learning its rites, on the path to ordination and not yet
-          holding it.
-      - level: 5
-        title: Ordained
-        lore: priestrnk
-        description: >-
-          Priest or priestess of the tradition, empowered to perform the rites and to bind and
-          loose in its name.
-      - level: 6
-        title: Temple Officer
-        lore: highpriestrnk
-        description: Holding a charge within a temple — its treasury, its schools, its estates,
-          its oracles.
-      - level: 7
-        title: High Priest
-        lore: highpriestrnk
-        description: Head of a temple or a cult, speaking with the voice of the god in matters
-          of its doctrine.
-      - level: 8
-        title: Hierophant
-        lore: grandmasterrnk
-        description: >-
-          Head of the whole tradition, whose ruling on doctrine is final and whose sanction
-          every high priest holds at.
+          "One under vow" — has undertaken and completed one of the god's Ordeals for Favour. Since this god has no priesthood, the ordeal is the only standing the devotion confers, and it is held for life.
     offices:
-      Hierophant: >-
-        Head of the tradition, final authority on its doctrine and source of every high priest's
-        sanction.
-      High Priest: Head of a temple or cult, master of its estates and voice of its god on
-        doctrine.
-      Oracle: Speaker of the god's answer, consulted before any undertaking the tradition
-        must bless.
-      Temple Steward: Administrator of a temple's lands, herds, workshops and revenue.
-      Sacristan: Keeper of the sanctuary, its vessels, its vestments and the purity of both.
-      Almoner: Distributor of the temple's charity, and the face the tradition shows the poor.
-      Lector: Reader of the sacred texts in the rites, and teacher of them to acolytes.
-      Exorcist: >-
-        Charged with what the tradition holds should not be present, and with the rites that
-        remove it.
-      Chief Augur: Reader of the signs by which the tradition fixes the hour of its acts.
-      Keeper of the Calendar: Holder of the feast-reckoning, and thereby of when the year's
-        obligations fall due.
-  commonSkills: []
+      The Granary Vigil: >-
+        A sleepless watch over the community granary through a night when the spirits of the fields are said to walk.
+      The Fair Measure: >-
+        A year of public measurement — grain, cloth, wine, oil — completed without one complaint of short weight from any party.
+  commonSkills:
+    - mahajaya
+    - agri
+    - mrcn
   seat: null
   domains: []
   population: null

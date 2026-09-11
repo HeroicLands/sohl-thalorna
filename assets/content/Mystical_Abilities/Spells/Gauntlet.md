@@ -4,7 +4,7 @@ name:
   full: Gauntlet
   aliases: []
 description: "Caster's fists harden; strikes with supernatural force and damage."
-img: icons/fire.svg
+img: systems/sohl/assets/icons/game-icons/badges/fire.svg
 shortcode: gauntlet
 type: mysticalability
 subType: arcaneincantation

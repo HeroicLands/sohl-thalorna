@@ -205,4 +205,4 @@ Several practical implications follow from the metaphysics described above. The 
 - [[affiliation-kentra|Kentra]] — The Ordo's mastery rank, and the Vertigo Hodäi affliction
 - [[affiliation-ordoarcanis|Ordo Arcanis]] — The institution
 - [[lore-soulspirts|Souls and Spirits]] — _(GM-only, forthcoming)_ The ontology of souls, the Spirit world, gods, elementals, dragons, necromancy, and summoning
-- [[Foreign_Traditions_Comparative]] — _(GM-only, forthcoming)_ How each non-Ordo tradition channels the potential, with reference to this document
+- Foreign_Traditions_Comparative — _(GM-only, forthcoming)_ How each non-Ordo tradition channels the potential, with reference to this document

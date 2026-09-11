@@ -5,7 +5,7 @@ name:
   aliases:
     - Motes
 description: "Creates glittering effect; produces shimmering light display."
-img: icons/wind.svg
+img: systems/sohl/assets/icons/other/wind.svg
 shortcode: sparkle
 type: mysticalability
 subType: arcaneincantation

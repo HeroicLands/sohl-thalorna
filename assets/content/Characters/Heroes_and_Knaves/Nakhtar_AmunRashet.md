@@ -7,17 +7,17 @@ name:
   title: ""
   given: Nakhtar
   clan: Amun'Râshet
-  home: Wasetkara
+  home: wasetkara
   aliases:
     - Nakhtar AmunRâshet
     - Nakhtar AmunRashet
 packFolder: northernfertileregiontakheperu
 banner: banners/ta-kheperu-banner.webp
 shortcode: nkhtrmnrsht
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/nkhtrmnrsht-portrait.webp
+  portrait: images/beings/characters/nkhtrmnrsht-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Thatcher
@@ -44,71 +44,73 @@ data:
 sohl:
   templatePriority: null
   items:
-    - { shortcode: str, type: attribute, system: { scoreBase: 12 } }
-    - { shortcode: end, type: attribute, system: { scoreBase: 13 } }
-    - { shortcode: dex, type: attribute, system: { scoreBase: 11 } }
-    - { shortcode: agl, type: attribute, system: { scoreBase: 9 } }
-    - { shortcode: per, type: attribute, system: { scoreBase: 14 } }
-    - { shortcode: cml, type: attribute, system: { scoreBase: 10 } }
-    - { shortcode: aur, type: attribute, system: { scoreBase: 12 } }
-    - { shortcode: wil, type: attribute, system: { scoreBase: 14 } }
-    - { shortcode: rea, type: attribute, system: { scoreBase: 13 } }
-    - { shortcode: cre, type: attribute, system: { scoreBase: 12 } }
-    - { shortcode: emp, type: attribute, system: { scoreBase: 13 } }
-    - { shortcode: elo, type: attribute, system: { scoreBase: 12 } }
-    - { shortcode: mor, type: attribute, system: { scoreBase: 13 } }
-    - { shortcode: voi, type: attribute, system: { scoreBase: 12 } }
-    - { shortcode: iset, type: affiliation }
-    - { shortcode: brew, type: skill, system: { masteryLevelBase: 28 } }
-    - { shortcode: cook, type: skill, system: { masteryLevelBase: 28 } }
-    - { shortcode: eng, type: skill, system: { masteryLevelBase: 39 } }
-    - { shortcode: folklr, type: skill, system: { masteryLevelBase: 26 } }
-    - { shortcode: math, type: skill, system: { masteryLevelBase: 13 } }
-    - { shortcode: mrcn, type: skill, system: { masteryLevelBase: 13 } }
-    - { shortcode: pysn, type: skill, system: { masteryLevelBase: 13 } }
-    - { shortcode: chrm, type: skill, system: { masteryLevelBase: 44 } }
-    - { shortcode: cmd, type: skill, system: { masteryLevelBase: 39 } }
-    - { shortcode: dscr, type: skill, system: { masteryLevelBase: 26 } }
-    - { shortcode: guil, type: skill, system: { masteryLevelBase: 39 } }
-    - { shortcode: intr, type: skill, system: { masteryLevelBase: 39 } }
-    - { shortcode: sing, type: skill, system: { masteryLevelBase: 36 } }
-    - { shortcode: thtcs, type: skill, system: { masteryLevelBase: 12 } }
-    - { shortcode: herb, type: skill, system: { masteryLevelBase: 14 } }
-    - { shortcode: smsh, type: skill, system: { masteryLevelBase: 14 } }
-    - { shortcode: srvl, type: skill, system: { masteryLevelBase: 14 } }
-    - { shortcode: timb, type: skill, system: { masteryLevelBase: 42 } }
-    - { shortcode: trak, type: skill, system: { masteryLevelBase: 13 } }
-    - { shortcode: awar, type: skill, system: { masteryLevelBase: 42 } }
-    - { shortcode: clmb, type: skill, system: { masteryLevelBase: 30 } }
-    - { shortcode: dnce, type: skill, system: { masteryLevelBase: 20 } }
-    - { shortcode: jump, type: skill, system: { masteryLevelBase: 40 } }
-    - { shortcode: lgdm, type: skill, system: { masteryLevelBase: 24 } }
-    - { shortcode: ridg, type: skill, system: { masteryLevelBase: 22 } }
-    - { shortcode: stlth, type: skill, system: { masteryLevelBase: 33 } }
-    - { shortcode: swim, type: skill, system: { masteryLevelBase: 11 } }
-    - { shortcode: archery, type: skill, system: { masteryLevelBase: 13 } }
-    - { shortcode: init, type: skill, system: { masteryLevelBase: 42 } }
-    - { shortcode: melee, type: skill, system: { masteryLevelBase: 20 } }
-    - { shortcode: thro, type: skill, system: { masteryLevelBase: 24 } }
-    - { shortcode: draw, type: skill, system: { masteryLevelBase: 11 } }
-    - { shortcode: jewl, type: skill, system: { masteryLevelBase: 13 } }
-    - { shortcode: masn, type: skill, system: { masteryLevelBase: 44 } }
-    - { shortcode: wood, type: skill, system: { masteryLevelBase: 55 } }
-    - { shortcode: Stk, type: weapongear }
-    - { shortcode: WVest, type: armorgear }
-    - { shortcode: WShirt, type: armorgear }
-    - { shortcode: WTrsr, type: armorgear }
-    - { shortcode: WCap, type: armorgear }
-    - { shortcode: LtShoe, type: armorgear }
+    - { model: sohl-sohl-attribute-str, system: { scoreBase: 12 } }
+    - { model: sohl-sohl-attribute-end, system: { scoreBase: 13 } }
+    - { model: sohl-sohl-attribute-dex, system: { scoreBase: 11 } }
+    - { model: sohl-sohl-attribute-agl, system: { scoreBase: 9 } }
+    - { model: sohl-sohl-attribute-per, system: { scoreBase: 14 } }
+    - { model: sohl-sohl-attribute-cml, system: { scoreBase: 10 } }
+    - { model: sohl-sohl-attribute-aur, system: { scoreBase: 12 } }
+    - { model: sohl-sohl-attribute-wil, system: { scoreBase: 14 } }
+    - { model: sohl-sohl-attribute-rea, system: { scoreBase: 13 } }
+    - { model: sohl-sohl-attribute-cre, system: { scoreBase: 12 } }
+    - { model: sohl-sohl-attribute-emp, system: { scoreBase: 13 } }
+    - { model: sohl-sohl-attribute-elo, system: { scoreBase: 12 } }
+    - { model: sohl-sohl-attribute-mor, system: { scoreBase: 13 } }
+    - { model: sohl-sohl-attribute-voi, system: { scoreBase: 12 } }
+    - { model: affiliation-iset }
+    - { model: sohl-sohl-skill-brew, system: { masteryLevelBase: 28 } }
+    - { model: sohl-sohl-skill-cook, system: { masteryLevelBase: 28 } }
+    - { model: sohl-sohl-skill-eng, system: { masteryLevelBase: 39 } }
+    - { model: sohl-sohl-skill-folklr, system: { masteryLevelBase: 26 } }
+    - { model: sohl-sohl-skill-math, system: { masteryLevelBase: 13 } }
+    - { model: sohl-sohl-skill-mrcn, system: { masteryLevelBase: 13 } }
+    - { model: sohl-sohl-skill-pysn, system: { masteryLevelBase: 13 } }
+    - { model: sohl-sohl-skill-chrm, system: { masteryLevelBase: 44 } }
+    - { model: sohl-sohl-skill-cmd, system: { masteryLevelBase: 39 } }
+    - { model: sohl-sohl-skill-dscr, system: { masteryLevelBase: 26 } }
+    - { model: sohl-sohl-skill-guil, system: { masteryLevelBase: 39 } }
+    - { model: sohl-sohl-skill-intr, system: { masteryLevelBase: 39 } }
+    - { model: sohl-sohl-skill-sing, system: { masteryLevelBase: 36 } }
+    - { model: sohl-sohl-skill-thtcs, system: { masteryLevelBase: 12 } }
+    - { model: sohl-sohl-skill-herb, system: { masteryLevelBase: 14 } }
+    - { model: sohl-sohl-skill-smsh, system: { masteryLevelBase: 14 } }
+    - { model: sohl-sohl-skill-srvl, system: { masteryLevelBase: 14 } }
+    - { model: sohl-sohl-skill-timb, system: { masteryLevelBase: 42 } }
+    - { model: sohl-sohl-skill-trak, system: { masteryLevelBase: 13 } }
+    - { model: sohl-sohl-skill-awar, system: { masteryLevelBase: 42 } }
+    - { model: sohl-sohl-skill-clmb, system: { masteryLevelBase: 30 } }
+    - { model: sohl-sohl-skill-dnce, system: { masteryLevelBase: 20 } }
+    - { model: sohl-sohl-skill-jump, system: { masteryLevelBase: 40 } }
+    - { model: sohl-sohl-skill-lgdm, system: { masteryLevelBase: 24 } }
+    - { model: sohl-sohl-skill-ridg, system: { masteryLevelBase: 22 } }
+    - { model: sohl-sohl-skill-stlth, system: { masteryLevelBase: 33 } }
+    - { model: sohl-sohl-skill-swim, system: { masteryLevelBase: 11 } }
+    - { model: sohl-sohl-skill-archery, system: { masteryLevelBase: 13 } }
+    - { model: sohl-sohl-skill-init, system: { masteryLevelBase: 42 } }
+    - { model: sohl-sohl-skill-melee, system: { masteryLevelBase: 20 } }
+    - { model: sohl-sohl-skill-thro, system: { masteryLevelBase: 24 } }
+    - { model: sohl-sohl-skill-draw, system: { masteryLevelBase: 11 } }
+    - { model: sohl-sohl-skill-jewl, system: { masteryLevelBase: 13 } }
+    - { model: sohl-sohl-skill-masn, system: { masteryLevelBase: 44 } }
+    - { model: sohl-sohl-skill-wood, system: { masteryLevelBase: 55 } }
+    - { model: sohl-sohl-weapongear-stk }
+    - { model: sohl-sohl-armorgear-wvest }
+    - { model: sohl-sohl-armorgear-wshirt }
+    - { model: sohl-sohl-armorgear-wtrsr }
+    - { model: sohl-sohl-armorgear-wcap }
+    - { model: sohl-sohl-armorgear-ltshoe }
     - name: Thatching tools (set)
       type: miscgear
       system:
+        shortcode: thatchingtools
         weight: 1
         value: 100
         durability: 3
     - name: Bundles of reed
       type: miscgear
       system:
+        shortcode: bundlesofreed
         quantity: 3
         weight: 1
         value: 100
@@ -116,13 +118,20 @@ sohl:
     - name: Wooden pegs
       type: miscgear
       system:
+        shortcode: woodenpegs
         quantity: 50
         weight: 1
         value: 100
         durability: 3
-    - { name: Whetstone, type: miscgear, system: { weight: 1, value: 100, durability: 3 } }
-    - { shortcode: StdRtns, type: miscgear }
-    - { shortcode: bktlrg, type: containergear }
+    - name: Whetstone
+      type: miscgear
+      system:
+        shortcode: whetstone
+        weight: 1
+        value: 100
+        durability: 3
+    - { model: sohl-sohl-miscgear-stdrtns }
+    - { model: sohl-sohl-containergear-bktlrg }
   system:
     body:
       structure:
@@ -591,6 +600,8 @@ sohl:
 Nakhtar stands 5'9" tall with a medium build. He has dark brown skin, white hair, and green-brown eyes. His features include a prominent nose, a tapered chin, well-shaped lips, dark brows.
 
 # Dossier {#dossier}
+
+## Background
 
 ### The Inheritance of Craft
 

@@ -5,7 +5,7 @@ name:
   aliases:
     - Veil
 description: "Shimmering aura rendering caster invisible to magical perception."
-img: icons/divination.svg
+img: systems/sohl/assets/icons/noun/divination.svg
 shortcode: mystclk
 type: mysticalability
 subType: arcaneincantation

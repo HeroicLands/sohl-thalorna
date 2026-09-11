@@ -6,7 +6,7 @@ name:
   aliases:
     - Mending Elixir
 description: "Shimmering silvery liquid; repairs damage to broken objects."
-img: icons/potion.svg
+img: systems/sohl/assets/icons/other/potion.svg
 shortcode: ElxMnd
 type: concoctiongear
 subType: elixir

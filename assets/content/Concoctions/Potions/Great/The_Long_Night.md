@@ -6,7 +6,7 @@ name:
   aliases:
     - Potion, Soporific, Great
 description: "Nearly black liquid; induces prolonged darkness of consciousness."
-img: icons/potion.svg
+img: systems/sohl/assets/icons/other/potion.svg
 shortcode: PtnSopG
 type: concoctiongear
 subType: exotic

@@ -13,77 +13,45 @@ data:
   governance:
     model: theocracy
     summary: >-
-      Ordained priesthood under a hierarch, with the lay faithful bound by observance rather
-      than by office.
+      A temple priesthood of 3 working tiers: acolytes in training, ordained clergy, and the
+      Magistra Mortis above them. The lay faithful keep the feasts without office.
     ranks:
       - level: 0
-        title: Excommunicate
+        title: Exsecratus
         lore: excmmnctrnk
         description: >-
-          Cut off from the rites, the temples and the burial the tradition promises — the one
+          Cast out — denied the rites, the temple and the burial the faith promises, which is the one
           sentence it can pass that outlives the body.
       - level: 1
-        title: Catechumen
-        lore: catechumenrnk
-        description: Under instruction and not yet received; permitted to hear and not to partake.
+        title: Fideles
+        lore: layfaithfulrnk
+        description: >-
+          The lay faithful, who keep the feasts and the observances of the god without holding office
+          in the temple.
       - level: 2
-        title: Lay Faithful
-        lore: layfaithfulrnk
-        description: >-
-          Of the tradition by profession and observance, keeping its feasts and its prohibitions
-          without office in it.
-      - level: 3
-        title: Devotee
-        lore: layfaithfulrnk
-        description: >-
-          Bound by a private vow — a fast, a pilgrimage, a service — beyond what the lay faithful
-          owe.
-      - level: 4
-        title: Acolyte
+        title: Acolytes of Decay
         lore: initiaternk
         description: >-
-          Serving in the temple and learning its rites, on the path to ordination and not yet
-          holding it.
-      - level: 5
-        title: Ordained
+          Initiates learning the rites of the waning and the care of those who are ending.
+      - level: 3
+        title: Sacerdotes of Twilight
         lore: priestrnk
         description: >-
-          Priest or priestess of the tradition, empowered to perform the rites and to bind and
-          loose in its name.
-      - level: 6
-        title: Temple Officer
-        lore: highpriestrnk
-        description: Holding a charge within a temple — its treasury, its schools, its estates,
-          its oracles.
-      - level: 7
-        title: High Priest
-        lore: highpriestrnk
-        description: Head of a temple or a cult, speaking with the voice of the god in matters
-          of its doctrine.
-      - level: 8
-        title: Hierophant
+          Ordained priests who serve as healers to the terminally ill and counsellors to the bereaved.
+      - level: 4
+        title: Magistra Mortis
         lore: grandmasterrnk
         description: >-
-          Head of the whole tradition, whose ruling on doctrine is final and whose sanction
-          every high priest holds at.
+          High Priestess or High Priest, typically an older priestess who has spent a lifetime at the bedsides of the dying.
     offices:
-      Hierophant: >-
-        Head of the tradition, final authority on its doctrine and source of every high priest's
-        sanction.
-      High Priest: Head of a temple or cult, master of its estates and voice of its god on
-        doctrine.
-      Oracle: Speaker of the god's answer, consulted before any undertaking the tradition
-        must bless.
-      Temple Steward: Administrator of a temple's lands, herds, workshops and revenue.
-      Sacristan: Keeper of the sanctuary, its vessels, its vestments and the purity of both.
-      Almoner: Distributor of the temple's charity, and the face the tradition shows the poor.
-      Lector: Reader of the sacred texts in the rites, and teacher of them to acolytes.
-      Exorcist: >-
-        Charged with what the tradition holds should not be present, and with the rites that
-        remove it.
-      Chief Augur: Reader of the signs by which the tradition fixes the hour of its acts.
-      Keeper of the Calendar: Holder of the feast-reckoning, and thereby of when the year's
-        obligations fall due.
+      Magistra Mortis: >-
+        High Priestess or High Priest, typically an older priestess who has spent a lifetime at the bedsides of the dying.
+      Sacerdotes of Twilight: >-
+        Ordained priests who serve as healers to the terminally ill and counsellors to the bereaved.
+      Acolytes of Decay: >-
+        Initiates learning the rites of the waning and the care of those who are ending.
+      Hospices of the Waning Moon: >-
+        The houses the faith keeps for the dying, and its most visible work.
   commonSkills: []
   seat: null
   domains: []
@@ -103,7 +71,7 @@ name:
     - Mistress of the Waning Moon
     - Mórváná
 shortcode: morvana
-img: images/affiliation/morvana.webp
+img: images/affiliation/aureldian/morvana.webp
 packFolder: pantheonsaureldian
 ---
 

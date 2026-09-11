@@ -7,14 +7,14 @@ name:
   title: ""
   given: Chandrakīrtisundarī
   clan: Jayavalli
-  home: Vyālendra
+  home: vyalendra3
   aliases: []
 packFolder: ankarisvedyara
 shortcode: chndrkrtsndrjyvl
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/chndrkrtsndrjyvl-portrait.webp
+  portrait: images/beings/characters/chndrkrtsndrjyvl-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Prostitute
@@ -41,90 +41,95 @@ data:
 sohl:
   templatePriority: null
   items:
-    - { shortcode: str, type: attribute, system: { scoreBase: 9 } }
-    - { shortcode: end, type: attribute, system: { scoreBase: 11 } }
-    - { shortcode: dex, type: attribute, system: { scoreBase: 16 } }
-    - { shortcode: agl, type: attribute, system: { scoreBase: 15 } }
-    - { shortcode: per, type: attribute, system: { scoreBase: 17 } }
-    - { shortcode: cml, type: attribute, system: { scoreBase: 16 } }
-    - { shortcode: aur, type: attribute, system: { scoreBase: 12 } }
-    - { shortcode: wil, type: attribute, system: { scoreBase: 10 } }
-    - { shortcode: rea, type: attribute, system: { scoreBase: 12 } }
-    - { shortcode: cre, type: attribute, system: { scoreBase: 14 } }
-    - { shortcode: emp, type: attribute, system: { scoreBase: 13 } }
-    - { shortcode: elo, type: attribute, system: { scoreBase: 15 } }
-    - { shortcode: mor, type: attribute, system: { scoreBase: 7 } }
-    - { shortcode: voi, type: attribute, system: { scoreBase: 11 } }
-    - { shortcode: varakpnthn, type: affiliation }
-    - { shortcode: brew, type: skill, system: { masteryLevelBase: 15 } }
-    - { shortcode: cook, type: skill, system: { masteryLevelBase: 30 } }
-    - { shortcode: folklr, type: skill, system: { masteryLevelBase: 11 } }
-    - { shortcode: hrld, type: skill, system: { masteryLevelBase: 11 } }
-    - { shortcode: pysn, type: skill, system: { masteryLevelBase: 14 } }
-    - { shortcode: chrm, type: skill, system: { masteryLevelBase: 75 } }
-    - { shortcode: cmd, type: skill, system: { masteryLevelBase: 36 } }
-    - { shortcode: dscr, type: skill, system: { masteryLevelBase: 26 } }
-    - { shortcode: guil, type: skill, system: { masteryLevelBase: 65 } }
-    - { shortcode: intr, type: skill, system: { masteryLevelBase: 65 } }
-    - { shortcode: sing, type: skill, system: { masteryLevelBase: 36 } }
-    - { shortcode: thtcs, type: skill, system: { masteryLevelBase: 14 } }
-    - { shortcode: srvl, type: skill, system: { masteryLevelBase: 11 } }
-    - { shortcode: awar, type: skill, system: { masteryLevelBase: 70 } }
-    - { shortcode: clmb, type: skill, system: { masteryLevelBase: 45 } }
-    - { shortcode: dnce, type: skill, system: { masteryLevelBase: 30 } }
-    - { shortcode: jump, type: skill, system: { masteryLevelBase: 36 } }
-    - { shortcode: ridg, type: skill, system: { masteryLevelBase: 28 } }
-    - { shortcode: stlth, type: skill, system: { masteryLevelBase: 39 } }
-    - { shortcode: swim, type: skill, system: { masteryLevelBase: 13 } }
-    - { shortcode: archery, type: skill, system: { masteryLevelBase: 17 } }
-    - { shortcode: init, type: skill, system: { masteryLevelBase: 33 } }
-    - { shortcode: melee, type: skill, system: { masteryLevelBase: 32 } }
-    - { shortcode: thro, type: skill, system: { masteryLevelBase: 32 } }
-    - { shortcode: draw, type: skill, system: { masteryLevelBase: 30 } }
-    - { shortcode: hide, type: skill, system: { masteryLevelBase: 16 } }
-    - { shortcode: mtlc, type: skill, system: { masteryLevelBase: 13 } }
-    - { shortcode: musc, type: skill, system: { masteryLevelBase: 16 } }
-    - { shortcode: txtl, type: skill, system: { masteryLevelBase: 80 } }
-    - { shortcode: wpnc, type: skill, system: { masteryLevelBase: 13 } }
-    - { shortcode: wood, type: skill, system: { masteryLevelBase: 13 } }
-    - { shortcode: Dgr, type: weapongear }
-    - { shortcode: LShirt, type: armorgear }
-    - { shortcode: SgSkirt, type: armorgear }
-    - { shortcode: LtShoe, type: armorgear }
-    - { shortcode: SlkClk, type: armorgear }
+    - { model: sohl-sohl-attribute-str, system: { scoreBase: 9 } }
+    - { model: sohl-sohl-attribute-end, system: { scoreBase: 11 } }
+    - { model: sohl-sohl-attribute-dex, system: { scoreBase: 16 } }
+    - { model: sohl-sohl-attribute-agl, system: { scoreBase: 15 } }
+    - { model: sohl-sohl-attribute-per, system: { scoreBase: 17 } }
+    - { model: sohl-sohl-attribute-cml, system: { scoreBase: 16 } }
+    - { model: sohl-sohl-attribute-aur, system: { scoreBase: 12 } }
+    - { model: sohl-sohl-attribute-wil, system: { scoreBase: 10 } }
+    - { model: sohl-sohl-attribute-rea, system: { scoreBase: 12 } }
+    - { model: sohl-sohl-attribute-cre, system: { scoreBase: 14 } }
+    - { model: sohl-sohl-attribute-emp, system: { scoreBase: 13 } }
+    - { model: sohl-sohl-attribute-elo, system: { scoreBase: 15 } }
+    - { model: sohl-sohl-attribute-mor, system: { scoreBase: 7 } }
+    - { model: sohl-sohl-attribute-voi, system: { scoreBase: 11 } }
+    - { model: affiliation-varakpnthn }
+    - { model: sohl-sohl-skill-brew, system: { masteryLevelBase: 15 } }
+    - { model: sohl-sohl-skill-cook, system: { masteryLevelBase: 30 } }
+    - { model: sohl-sohl-skill-folklr, system: { masteryLevelBase: 11 } }
+    - { model: sohl-sohl-skill-hrld, system: { masteryLevelBase: 11 } }
+    - { model: sohl-sohl-skill-pysn, system: { masteryLevelBase: 14 } }
+    - { model: sohl-sohl-skill-chrm, system: { masteryLevelBase: 75 } }
+    - { model: sohl-sohl-skill-cmd, system: { masteryLevelBase: 36 } }
+    - { model: sohl-sohl-skill-dscr, system: { masteryLevelBase: 26 } }
+    - { model: sohl-sohl-skill-guil, system: { masteryLevelBase: 65 } }
+    - { model: sohl-sohl-skill-intr, system: { masteryLevelBase: 65 } }
+    - { model: sohl-sohl-skill-sing, system: { masteryLevelBase: 36 } }
+    - { model: sohl-sohl-skill-thtcs, system: { masteryLevelBase: 14 } }
+    - { model: sohl-sohl-skill-srvl, system: { masteryLevelBase: 11 } }
+    - { model: sohl-sohl-skill-awar, system: { masteryLevelBase: 70 } }
+    - { model: sohl-sohl-skill-clmb, system: { masteryLevelBase: 45 } }
+    - { model: sohl-sohl-skill-dnce, system: { masteryLevelBase: 30 } }
+    - { model: sohl-sohl-skill-jump, system: { masteryLevelBase: 36 } }
+    - { model: sohl-sohl-skill-ridg, system: { masteryLevelBase: 28 } }
+    - { model: sohl-sohl-skill-stlth, system: { masteryLevelBase: 39 } }
+    - { model: sohl-sohl-skill-swim, system: { masteryLevelBase: 13 } }
+    - { model: sohl-sohl-skill-archery, system: { masteryLevelBase: 17 } }
+    - { model: sohl-sohl-skill-init, system: { masteryLevelBase: 33 } }
+    - { model: sohl-sohl-skill-melee, system: { masteryLevelBase: 32 } }
+    - { model: sohl-sohl-skill-thro, system: { masteryLevelBase: 32 } }
+    - { model: sohl-sohl-skill-draw, system: { masteryLevelBase: 30 } }
+    - { model: sohl-sohl-skill-hide, system: { masteryLevelBase: 16 } }
+    - { model: sohl-sohl-skill-mtlc, system: { masteryLevelBase: 13 } }
+    - { model: sohl-sohl-skill-musc, system: { masteryLevelBase: 16 } }
+    - { model: sohl-sohl-skill-txtl, system: { masteryLevelBase: 80 } }
+    - { model: sohl-sohl-skill-wpnc, system: { masteryLevelBase: 13 } }
+    - { model: sohl-sohl-skill-wood, system: { masteryLevelBase: 13 } }
+    - { model: sohl-sohl-weapongear-dgr }
+    - { model: sohl-sohl-armorgear-lshirt }
+    - { model: sohl-sohl-armorgear-sgskirt }
+    - { model: sohl-sohl-armorgear-ltshoe }
+    - { model: sohl-sohl-armorgear-slkclk }
     - name: Small pouch for personal items
       type: miscgear
       system:
+        shortcode: smallpouch
         weight: 1
         value: 100
         durability: 3
     - name: Cosmetics and makeup
       type: miscgear
       system:
+        shortcode: cosmeticsandmakeup
         weight: 1
         value: 100
         durability: 3
     - name: Herbal scents and oils
       type: miscgear
       system:
+        shortcode: herbalscentsandoils
         weight: 1
         value: 100
         durability: 3
     - name: Guild communication tokens
       type: miscgear
       system:
+        shortcode: guildcommunication
         quantity: 3
         weight: 1
         value: 100
         durability: 3
-    - name: Encrypted notes from the Thieves' Guild
+    - name: Encrypted notes from the Ādānaśreṇī
       type: miscgear
       system:
+        shortcode: encryptednotesfrom
         weight: 1
         value: 100
         durability: 3
-    - { shortcode: tndrbx, type: miscgear }
-    - { shortcode: bgsmcvs, type: containergear }
+    - { model: sohl-sohl-miscgear-tndrbx }
+    - { model: sohl-sohl-containergear-bgsmcvs }
   system:
     body:
       structure:
@@ -594,9 +599,9 @@ Chandrakīrtisundarī stands 5'6" tall with a medium build. She has dark brown s
 
 Chandrakīrtisundarī was born into modest circumstances in the Port District of Vedyara, the daughter of a Vedyaran courtesan named **Pushti Jayavalli** and an unnamed Byzarian merchant who visited her mother's quarters only once. The merchant left behind little but his fair complexion and blue eyes—distinctive enough that Chandrakīrtisundarī has always been set apart by her appearance. Her childhood was spent partly in her mother's quarter and partly in the streets, learning early that beauty was a commodity, that information was currency, and that survival required constant awareness of threats.
 
-At fourteen, she entered into a semi-formal arrangement with the **Twilight House**, one of Vedyara's most prestigious establishments serving wealthy clients. Her unusual appearance and precocious intelligence made her valuable, and her handlers recognized her potential for a different sort of work: she began eavesdropping on clients' conversations, gathering intelligence for nobility and merchant lords, carrying messages between powerful figures who preferred not to be seen communicating. At sixteen, she was quietly recruited into the **Thieves' Guild** through connections made at the Twilight House, operating under the assumption that her work gathering secrets was compatible with—and occasionally directly served—the guild's interests.
+At fourteen, she entered into a semi-formal arrangement with the **Twilight House**, one of Vedyara's most prestigious establishments serving wealthy clients. Her unusual appearance and precocious intelligence made her valuable, and her handlers recognized her potential for a different sort of work: she began eavesdropping on clients' conversations, gathering intelligence for nobility and merchant lords, carrying messages between powerful figures who preferred not to be seen communicating. At sixteen, she was quietly recruited into the **[[affiliation-adanasreni|Ādānaśreṇī]]** through connections made at the Twilight House, operating under the assumption that her work gathering secrets was compatible with—and occasionally directly served—the guild's interests.
 
-For the past six years, she has walked an increasingly precarious line: serving her clients at the Twilight House, gathering intelligence for the Thieves' Guild, and attempting to maintain enough independent agency to survive if either organization turns against her. She has become exceptionally skilled at reading people, at understanding motivation and hidden agenda, at extracting information without raising suspicion. Yet with each passing year, she feels the walls closing in—the demands becoming more dangerous, the moral compromises more severe, the likelihood of eventual betrayal or exposure increasing.
+For the past six years, she has walked an increasingly precarious line: serving her clients at the Twilight House, gathering intelligence for the Ādānaśreṇī, and attempting to maintain enough independent agency to survive if either organization turns against her. She has become exceptionally skilled at reading people, at understanding motivation and hidden agenda, at extracting information without raising suspicion. Yet with each passing year, she feels the walls closing in—the demands becoming more dangerous, the moral compromises more severe, the likelihood of eventual betrayal or exposure increasing.
 
 ## Psyche
 
@@ -608,7 +613,7 @@ Her default state is hypervigilance: she reads people with extraordinary skill, 
 
 ### Motivation
 
-Chandrakīrtisundarī seeks escape from her current circumstances: she wants to accumulate enough wealth and enough leverage to vanish from both the Thieves' Guild and the Twilight House, to disappear into a new identity in a distant city where no one knows her history or her profession. She is motivated by fear as much as ambition—the fear that if she remains in Vedyara much longer, the accumulated weight of her obligations will crush her, or worse, that someone she has betrayed will discover her deception and kill her. She also harbors a secret and dangerous desire for redemption or at least for a life where she need not constantly perform and dissemble. The Vyālendra she worships—goddess of creation—represents for her the possibility of transformation, of being born anew into authentic selfhood.
+Chandrakīrtisundarī seeks escape from her current circumstances: she wants to accumulate enough wealth and enough leverage to vanish from both the Ādānaśreṇī and the Twilight House, to disappear into a new identity in a distant city where no one knows her history or her profession. She is motivated by fear as much as ambition—the fear that if she remains in Vedyara much longer, the accumulated weight of her obligations will crush her, or worse, that someone she has betrayed will discover her deception and kill her. She also harbors a secret and dangerous desire for redemption or at least for a life where she need not constantly perform and dissemble. The Vyālendra she worships—goddess of creation—represents for her the possibility of transformation, of being born anew into authentic selfhood.
 
 ### Strengths
 
@@ -632,28 +637,28 @@ Chandrakīrtisundarī seeks escape from her current circumstances: she wants to 
 
 - **The Twilight House Administration**: Led by the enigmatic **Madame Síralina**, the house provides Chandrakīrtisundarī with shelter, clients, and access to the wealthy and powerful. The house also protects her from external threats—so long as she remains profitable and obedient.
 - **Nobles of Vedyara (Various)**: Several wealthy merchants, minor nobles, and powerful guild members maintain ongoing arrangements with her, paying for her company and her discretion. Each maintains leverage over her through blackmail or financial dependency.
-- **The Thieves' Guild (Covertly)**: Though not a formal patron, the guild has invested significantly in her development as an information asset. Various members protect her as they would a valuable tool, so long as she remains useful.
+- **The Ādānaśreṇī (Covertly)**: Though not a formal patron, the guild has invested significantly in her development as an information asset. Various members protect her as they would a valuable tool, so long as she remains useful.
 
 ### Enemies
 
-- **The Guild of Rivals**: Several members of the Thieves' Guild view her divided loyalty as a threat. **Master Thief Gorrán** in particular has marked her as someone who serves too many masters and may eventually betray guild secrets to one of her other patrons.
+- **The Guild of Rivals**: Several members of the Ādānaśreṇī view her divided loyalty as a threat. **Master Thief Gorrán** in particular has marked her as someone who serves too many masters and may eventually betray guild secrets to one of her other patrons.
 - **Discarded Lovers**: Several former clients have become obsessed with her, believing that her professional warmth was genuine love. Some have become dangerous, attempting to force commitment, threatening violence, or spreading rumors about her work.
 - **Apothecary [[being-cndrthrchrymkhysvr|Càndrathar Āchāryamukhyēśvara]]**: Chandrakīrtisundarī discovered that [[being-cndrthrchrymkhysvr|Càndrathar]] was crafting poisons for hire and attempted to use this knowledge as leverage. He became aware of her investigation and now views her as a threat to his carefully constructed secrecy and safety. He has begun subtly poisoning her, testing compounds and doses to determine how best to kill her when the time comes.
 
 ### Affiliations
 
-- **Thieves' Guild of Vedyara**: Her official affiliation, though she maintains considerable independence and attempts to serve her own interests first, the guild's second, and her clients' third.
+- **Ādānaśreṇī**: Her official affiliation, though she maintains considerable independence and attempts to serve her own interests first, the guild's second, and her clients' third.
 - **Twilight House**: Her workplace and residence, providing both protection and constraint. She is simultaneously valued asset and trapped commodity.
 - **Vyālendra's Temple**: An informal spiritual affiliation; she prays to the goddess of creation hoping for transformation or redemption, though she attends temple only rarely and carefully.
 
 ## Plot Hooks
 
-1. **The Blackmailer's Gambit**: A mysterious figure contacts Chandrakīrtisundarī with comprehensive documentation of her work for both the Thieves' Guild and the Twilight House, including dates, targets, methods, and outcomes. The blackmailer—whose identity she cannot determine—offers her a choice: she can either become their agent, using her position and skills to spy on the guild and the house for this unknown third party, or the documentation will be delivered to **Master Thief Gorrán** and **Madame Síralina**, ensuring her execution by one organization and betrayal by the other. She has five days to decide and only incomplete information about who is manipulating her.
+1. **The Blackmailer's Gambit**: A mysterious figure contacts Chandrakīrtisundarī with comprehensive documentation of her work for both the Ādānaśreṇī and the Twilight House, including dates, targets, methods, and outcomes. The blackmailer—whose identity she cannot determine—offers her a choice: she can either become their agent, using her position and skills to spy on the guild and the house for this unknown third party, or the documentation will be delivered to **Master Thief Gorrán** and **Madame Síralina**, ensuring her execution by one organization and betrayal by the other. She has five days to decide and only incomplete information about who is manipulating her.
 
-2. **The Patricide Commission**: The Thieves' Guild assigns her a new task: assassinate a wealthy merchant whose daughter is an admirer and friend of one of the guild's leadership. The target is her own biological father—the Byzarian merchant who visited her mother once before vanishing from her life. She has spent years never knowing his identity, and the guild conveniently discovered it and assigned it to her deliberately, either to test her loyalty or to be rid of her by ensuring she becomes too compromised to remain useful. She must choose between betraying the guild, committing patricide, or finding a third path that allows her to escape both organizations.
+2. **The Patricide Commission**: The Ādānaśreṇī assigns her a new task: assassinate a wealthy merchant whose daughter is an admirer and friend of one of the guild's leadership. The target is her own biological father—the Byzarian merchant who visited her mother once before vanishing from her life. She has spent years never knowing his identity, and the guild conveniently discovered it and assigned it to her deliberately, either to test her loyalty or to be rid of her by ensuring she becomes too compromised to remain useful. She must choose between betraying the guild, committing patricide, or finding a third path that allows her to escape both organizations.
 
 3. **The Servant's Secrets**: A slave belonging to one of her regular clients is found dead under mysterious circumstances. The death appears accidental, but **Apothecary [[being-cndrthrchrymkhysvr|Càndrathar]]** is suspected of involvement, and the city guard begins investigating. Chandrakīrtisundarī realizes that [[being-cndrthrchrymkhysvr|Càndrathar]] may be testing his poison on vulnerable targets, and that she herself may be next. Yet if she reveals her knowledge to authorities, she will expose her connection to intelligence networks and become a liability to both the guild and the Twilight House. She must determine whether to approach [[being-cndrthrchrymkhysvr|Càndrathar]] directly, attempt to have him apprehended through covert means, or simply accelerate her plans to escape the city.
 
 4. **The Twilight House's Fall**: **Madame Síralina** is arrested on charges of human trafficking and forced servitude, a scandal that threatens the entire operation of the Twilight House. The house's protection is stripped away, and its employees become vulnerable to whatever creditors, enemies, or abusive clients wish to inflict. Chandrakīrtisundarī discovers that the arrest was orchestrated by a powerful rival merchant faction intending to seize control of the house's operations and its wealth. She can either assist in the house's restoration (reinforcing her entrapment), abandon the house and its inhabitants to their fate, or attempt to negotiate a position with the new controllers, thereby securing her survival at the cost of complicity in the house's transformation into something potentially worse.
 
-5. **The Guild's Final Test**: The Thieves' Guild decides Chandrakīrtisundarī's divided loyalties have become a liability. They issue her a final test of commitment: steal something impossible (a sacred artifact from a heavily guarded temple, a document from the royal archive, a specific gem from a merchant lord's personal chambers) within a lunar cycle. If she succeeds, she is proven loyal and given a rank within the guild's upper structure. If she fails or refuses, she is marked for elimination. She undertakes the theft and succeeds—but in doing so, she uncovers evidence that the guild's leadership is engaged in far darker activities than theft: orchestrating slavery networks, conducting ritual murders, and accumulating power through terror. She is now inside the guild's most dangerous secrets and cannot escape without becoming a threat they must eliminate.
+5. **The Guild's Final Test**: The Ādānaśreṇī decides Chandrakīrtisundarī's divided loyalties have become a liability. They issue her a final test of commitment: steal something impossible (a sacred artifact from a heavily guarded temple, a document from the royal archive, a specific gem from a merchant lord's personal chambers) within a lunar cycle. If she succeeds, she is proven loyal and given a rank within the guild's upper structure. If she fails or refuses, she is marked for elimination. She undertakes the theft and succeeds—but in doing so, she uncovers evidence that the guild's leadership is engaged in far darker activities than theft: orchestrating slavery networks, conducting ritual murders, and accumulating power through terror. She is now inside the guild's most dangerous secrets and cannot escape without becoming a threat they must eliminate.

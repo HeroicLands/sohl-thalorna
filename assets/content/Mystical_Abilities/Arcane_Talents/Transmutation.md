@@ -3,7 +3,7 @@ tags: []
 name:
   full: Transmutation
   aliases: []
-img: icons/psionics.svg
+img: systems/sohl/assets/icons/noun/psionics.svg
 shortcode: xmut
 type: mysticalability
 subType: arcanetalent

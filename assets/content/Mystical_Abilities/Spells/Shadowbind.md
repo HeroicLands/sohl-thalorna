@@ -5,7 +5,7 @@ name:
   aliases:
     - Gloomweb
 description: "Binds shadow of target; restricts movement to caster's proximity."
-img: icons/water.svg
+img: systems/sohl/assets/icons/game-icons/badges/water.svg
 shortcode: shdwbnd
 type: mysticalability
 subType: arcaneincantation

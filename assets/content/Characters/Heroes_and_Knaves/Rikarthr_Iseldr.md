@@ -9,14 +9,14 @@ name:
   title: ""
   given: Ríkarthr
   clan: Íseldr
-  home: Thorrborg
+  home: thorrborg
   aliases: []
 packFolder: ankarisnordlands
 shortcode: rkrthrsldr
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/rkrthrsldr-portrait.webp
+  portrait: images/beings/characters/rkrthrsldr-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Mage (Spirit)
@@ -44,84 +44,89 @@ data:
 sohl:
   templatePriority: null
   items:
-    - { shortcode: str, type: attribute, system: { scoreBase: 8 } }
-    - { shortcode: end, type: attribute, system: { scoreBase: 10 } }
-    - { shortcode: dex, type: attribute, system: { scoreBase: 11 } }
-    - { shortcode: agl, type: attribute, system: { scoreBase: 9 } }
-    - { shortcode: per, type: attribute, system: { scoreBase: 14 } }
-    - { shortcode: cml, type: attribute, system: { scoreBase: 10 } }
-    - { shortcode: aur, type: attribute, system: { scoreBase: 17 } }
-    - { shortcode: wil, type: attribute, system: { scoreBase: 15 } }
-    - { shortcode: rea, type: attribute, system: { scoreBase: 18 } }
-    - { shortcode: cre, type: attribute, system: { scoreBase: 14 } }
-    - { shortcode: emp, type: attribute, system: { scoreBase: 12 } }
-    - { shortcode: elo, type: attribute, system: { scoreBase: 13 } }
-    - { shortcode: mor, type: attribute, system: { scoreBase: 10 } }
-    - { shortcode: voi, type: attribute, system: { scoreBase: 14 } }
-    - { shortcode: freyja, type: affiliation }
-    - { shortcode: brew, type: skill, system: { masteryLevelBase: 48 } }
-    - { shortcode: cook, type: skill, system: { masteryLevelBase: 48 } }
-    - { shortcode: eng, type: skill, system: { masteryLevelBase: 16 } }
-    - { shortcode: folklr, type: skill, system: { masteryLevelBase: 85 } }
-    - { shortcode: pfmy, type: skill, system: { masteryLevelBase: 16 } }
-    - { shortcode: pysn, type: skill, system: { masteryLevelBase: 16 } }
-    - { shortcode: thuravarkscript, type: skill, system: { masteryLevelBase: 80 } }
-    - { shortcode: chrm, type: skill, system: { masteryLevelBase: 33 } }
-    - { shortcode: cmd, type: skill, system: { masteryLevelBase: 28 } }
-    - { shortcode: dscr, type: skill, system: { masteryLevelBase: 64 } }
-    - { shortcode: guil, type: skill, system: { masteryLevelBase: 52 } }
-    - { shortcode: intr, type: skill, system: { masteryLevelBase: 45 } }
-    - { shortcode: sing, type: skill, system: { masteryLevelBase: 42 } }
-    - { shortcode: thtcs, type: skill, system: { masteryLevelBase: 14 } }
-    - { shortcode: srvl, type: skill, system: { masteryLevelBase: 16 } }
-    - { shortcode: timb, type: skill, system: { masteryLevelBase: 16 } }
-    - { shortcode: awar, type: skill, system: { masteryLevelBase: 56 } }
-    - { shortcode: clmb, type: skill, system: { masteryLevelBase: 30 } }
-    - { shortcode: dnce, type: skill, system: { masteryLevelBase: 22 } }
-    - { shortcode: jump, type: skill, system: { masteryLevelBase: 27 } }
-    - { shortcode: ridg, type: skill, system: { masteryLevelBase: 11 } }
-    - { shortcode: stlth, type: skill, system: { masteryLevelBase: 36 } }
-    - { shortcode: swim, type: skill, system: { masteryLevelBase: 9 } }
-    - { shortcode: archery, type: skill, system: { masteryLevelBase: 26 } }
-    - { shortcode: init, type: skill, system: { masteryLevelBase: 48 } }
-    - { shortcode: melee, type: skill, system: { masteryLevelBase: 20 } }
-    - { shortcode: thro, type: skill, system: { masteryLevelBase: 24 } }
-    - { shortcode: draw, type: skill, system: { masteryLevelBase: 12 } }
-    - { shortcode: mtlc, type: skill, system: { masteryLevelBase: 30 } }
-    - { shortcode: musc, type: skill, system: { masteryLevelBase: 14 } }
-    - { shortcode: tarot, type: mysticalability, system: { masteryLevelBase: 30 } }
-    - { shortcode: Stf, type: weapongear }
-    - { shortcode: WRobe, type: armorgear }
-    - { shortcode: WMntl, type: armorgear }
-    - { shortcode: LtShoe, type: armorgear }
-    - { shortcode: WCap, type: armorgear }
+    - { model: sohl-sohl-attribute-str, system: { scoreBase: 8 } }
+    - { model: sohl-sohl-attribute-end, system: { scoreBase: 10 } }
+    - { model: sohl-sohl-attribute-dex, system: { scoreBase: 11 } }
+    - { model: sohl-sohl-attribute-agl, system: { scoreBase: 9 } }
+    - { model: sohl-sohl-attribute-per, system: { scoreBase: 14 } }
+    - { model: sohl-sohl-attribute-cml, system: { scoreBase: 10 } }
+    - { model: sohl-sohl-attribute-aur, system: { scoreBase: 17 } }
+    - { model: sohl-sohl-attribute-wil, system: { scoreBase: 15 } }
+    - { model: sohl-sohl-attribute-rea, system: { scoreBase: 18 } }
+    - { model: sohl-sohl-attribute-cre, system: { scoreBase: 14 } }
+    - { model: sohl-sohl-attribute-emp, system: { scoreBase: 12 } }
+    - { model: sohl-sohl-attribute-elo, system: { scoreBase: 13 } }
+    - { model: sohl-sohl-attribute-mor, system: { scoreBase: 10 } }
+    - { model: sohl-sohl-attribute-voi, system: { scoreBase: 14 } }
+    - { model: affiliation-freyja }
+    - { model: sohl-sohl-skill-brew, system: { masteryLevelBase: 48 } }
+    - { model: sohl-sohl-skill-cook, system: { masteryLevelBase: 48 } }
+    - { model: sohl-sohl-skill-eng, system: { masteryLevelBase: 16 } }
+    - { model: sohl-sohl-skill-folklr, system: { masteryLevelBase: 85 } }
+    - { model: sohl-sohl-skill-pfmy, system: { masteryLevelBase: 16 } }
+    - { model: sohl-sohl-skill-pysn, system: { masteryLevelBase: 16 } }
+    - { model: skill-thuravarkscript, system: { masteryLevelBase: 80 } }
+    - { model: sohl-sohl-skill-chrm, system: { masteryLevelBase: 33 } }
+    - { model: sohl-sohl-skill-cmd, system: { masteryLevelBase: 28 } }
+    - { model: sohl-sohl-skill-dscr, system: { masteryLevelBase: 64 } }
+    - { model: sohl-sohl-skill-guil, system: { masteryLevelBase: 52 } }
+    - { model: sohl-sohl-skill-intr, system: { masteryLevelBase: 45 } }
+    - { model: sohl-sohl-skill-sing, system: { masteryLevelBase: 42 } }
+    - { model: sohl-sohl-skill-thtcs, system: { masteryLevelBase: 14 } }
+    - { model: sohl-sohl-skill-srvl, system: { masteryLevelBase: 16 } }
+    - { model: sohl-sohl-skill-timb, system: { masteryLevelBase: 16 } }
+    - { model: sohl-sohl-skill-awar, system: { masteryLevelBase: 56 } }
+    - { model: sohl-sohl-skill-clmb, system: { masteryLevelBase: 30 } }
+    - { model: sohl-sohl-skill-dnce, system: { masteryLevelBase: 22 } }
+    - { model: sohl-sohl-skill-jump, system: { masteryLevelBase: 27 } }
+    - { model: sohl-sohl-skill-ridg, system: { masteryLevelBase: 11 } }
+    - { model: sohl-sohl-skill-stlth, system: { masteryLevelBase: 36 } }
+    - { model: sohl-sohl-skill-swim, system: { masteryLevelBase: 9 } }
+    - { model: sohl-sohl-skill-archery, system: { masteryLevelBase: 26 } }
+    - { model: sohl-sohl-skill-init, system: { masteryLevelBase: 48 } }
+    - { model: sohl-sohl-skill-melee, system: { masteryLevelBase: 20 } }
+    - { model: sohl-sohl-skill-thro, system: { masteryLevelBase: 24 } }
+    - { model: sohl-sohl-skill-draw, system: { masteryLevelBase: 12 } }
+    - { model: sohl-sohl-skill-mtlc, system: { masteryLevelBase: 30 } }
+    - { model: sohl-sohl-skill-musc, system: { masteryLevelBase: 14 } }
+    - { model: sohl-sohl-mysticalability-tarot, system: { masteryLevelBase: 30 } }
+    - { model: sohl-sohl-weapongear-stf }
+    - { model: sohl-sohl-armorgear-wrobe }
+    - { model: sohl-sohl-armorgear-wmntl }
+    - { model: sohl-sohl-armorgear-ltshoe }
+    - { model: sohl-sohl-armorgear-wcap }
     - name: Leather satchel with magical texts
       type: miscgear
       system:
+        shortcode: leathersatchel
         weight: 2.5
         value: 100
         durability: 3
     - name: Grimoire bound in leather
       type: miscgear
       system:
+        shortcode: grimoirebound
         weight: 1.2
         value: 100
         durability: 3
     - name: Collection of runes and ritual marks (carved bone)
       type: miscgear
       system:
+        shortcode: collectionofrunes
         weight: 0.5
         value: 100
         durability: 3
     - name: Ink well and quills (for spell notation)
       type: miscgear
       system:
+        shortcode: inkwellandquills
         weight: 1
         value: 100
         durability: 3
     - name: Ritual candles (wax, scented)
       type: miscgear
       system:
+        shortcode: ritualcandles
         quantity: 12
         weight: 1
         value: 100
@@ -129,16 +134,35 @@ sohl:
     - name: Parchment (spell paper)
       type: miscgear
       system:
+        shortcode: parchment
         quantity: 20
         weight: 1
         value: 100
         durability: 3
-    - { shortcode: pence, type: miscgear, system: { quantity: 20 } }
-    - { shortcode: backpk, type: containergear }
-    - { shortcode: bpchlg, type: containergear }
-    - { name: Spellbook, type: miscgear, system: { weight: 1, value: 100, durability: 3 } }
-    - { name: Arcane focus, type: miscgear, system: { weight: 1, value: 100, durability: 3 } }
-    - { name: Magical reagents, type: miscgear, system: { weight: 1, value: 100, durability: 3 } }
+    - { model: sohl-sohl-miscgear-pence, system: { quantity: 20 } }
+    - { model: sohl-sohl-containergear-backpk }
+    - { model: sohl-sohl-containergear-bpchlg }
+    - name: Spellbook
+      type: miscgear
+      system:
+        shortcode: spellbook
+        weight: 1
+        value: 100
+        durability: 3
+    - name: Arcane focus
+      type: miscgear
+      system:
+        shortcode: arcanefocus
+        weight: 1
+        value: 100
+        durability: 3
+    - name: Magical reagents
+      type: miscgear
+      system:
+        shortcode: magicalreagents
+        weight: 1
+        value: 100
+        durability: 3
   system:
     body:
       structure:
@@ -606,23 +630,23 @@ Ríkarthr stands 5'4" tall with a medium build. He has light pale skin, silver h
 
 # Dossier {#dossier}
 
-**Early Training:** Ríkarthr was born the youngest son of a merchant-seal-hunting family in Thorrborg, the capital of Vithgard. Groomed initially for a life of commerce and the whaling trade, his path changed irrevocably when he manifested the shamanic gift at age twelve—the ability to see and commune with spirits in the way his people's völvur have done for centuries. His family recognized the talent and brought him to **Völva Aldrhildr**, the most respected spirit-worker in Thorrborg, to learn the ancient traditions of seiðr and spirit-binding. The apprenticeship was rigorous and transformative, grounding him in the sacred knowledge of the Asguardian Pantheon and teaching him to navigate the realms of spirit. Yet it also marked him as ergi—unmanly by strict Normen standards—a stigma that would follow him throughout his life no matter how much power and knowledge he accumulated.
+**Early Training:** Ríkarthr was born the youngest son of a merchant-seal-hunting family in Thorrborg, the capital of Vithgard. Groomed initially for a life of commerce and the whaling trade, his path changed irrevocably when he manifested the shamanic gift at age twelve—the ability to see and commune with spirits in the way his people's völvur have done for centuries. His family recognized the talent and brought him to **Völva Aldrhildr**, the most respected spirit-worker in Thorrborg, to learn the ancient traditions of seiðr and spirit-binding. The apprenticeship was rigorous and transformative, grounding him in the sacred knowledge of the Asguardian Pantheon and teaching him to navigate the realms of spirit. Yet it also marked him as ergi—unmanly by strict Nordmen standards—a stigma that would follow him throughout his life no matter how much power and knowledge he accumulated.
 
-**Years of Exile and Hiding:** As Ríkarthr grew into manhood, the weight of his ergi status became increasingly unbearable. In Vithgard, male spirit-workers—practitioners of the sacred arts that were historically dominated by women—existed in a state of permanent cultural ambiguity and shame. Though his people needed his gifts as a seer and spirit-walker, they despised him for the gender transgression that seiðr represented. At thirty, desperate to escape this impossible contradiction, Ríkarthr traveled south to seek recognition in the Byzarian League. There he studied within the Panepistemium's chapterhouse, attempting to reframe his spirit-work into the formal language of the Héx Hodäi and the Sodalitas Pneuménos (the Fellowship of Spirit). He became respected as a scholar of spirit-binding and ancient ritual traditions, publishing several influential treatises that claimed to systematize the shamanic knowledge of the north into academic Vylarian frameworks. Yet he never truly belonged in the Epistemium either—his approach was too rooted in Normen traditions, too mystical and intuitive, too shaped by the lived experience of communion with spirits rather than theoretical classification.
+**Years of Exile and Hiding:** As Ríkarthr grew into manhood, the weight of his ergi status became increasingly unbearable. In Vithgard, male spirit-workers—practitioners of the sacred arts that were historically dominated by women—existed in a state of permanent cultural ambiguity and shame. Though his people needed his gifts as a seer and spirit-walker, they despised him for the gender transgression that seiðr represented. At thirty, desperate to escape this impossible contradiction, Ríkarthr traveled south to seek recognition in the Byzarian League. There he studied within the Panepistemium's chapterhouse, attempting to reframe his spirit-work into the formal language of the Héx Hodäi and the Sodalitas Pneuménos (the Fellowship of Spirit). He became respected as a scholar of spirit-binding and ancient ritual traditions, publishing several influential treatises that claimed to systematize the shamanic knowledge of the north into academic Vylarian frameworks. Yet he never truly belonged in the Epistemium either—his approach was too rooted in Nordmen traditions, too mystical and intuitive, too shaped by the lived experience of communion with spirits rather than theoretical classification.
 
-**Current Path:** Now in his twilight years, Ríkarthr has returned to Vithgard, seeking some form of peace with his origins. He maintains a private dwelling on the northern outskirts of Thorrborg, where he trains selected younger spirit-workers—those with shamanic gifts but no family connections to the traditional völvur orders—in the synthesis of Normen sacred knowledge and the academic frameworks he learned in the south. Yet he lives in a state of profound contradiction: he is too Normen for the Epistemium, too academic for the traditional völvur, and too ergi for mainstream Vithgard society. His paranoia about discovery has become deeply personal and historically rooted. He fears that the Epistemium's ambitions to regulate all magical practice will eventually reach into Vithgard and criminalize the sacred traditions his people have preserved for millennia. He also fears that traditional Normen society will reject him entirely if his gender transgression becomes too widely known. More fundamentally, he fears that he has betrayed his own traditions by trying to translate them into a foreign language, and that his attempt to reconcile two irreconcilable ways of understanding magic has produced only a hollow synthesis that serves neither.
+**Current Path:** Now in his twilight years, Ríkarthr has returned to Vithgard, seeking some form of peace with his origins. He maintains a private dwelling on the northern outskirts of Thorrborg, where he trains selected younger spirit-workers—those with shamanic gifts but no family connections to the traditional völvur orders—in the synthesis of Nordmen sacred knowledge and the academic frameworks he learned in the south. Yet he lives in a state of profound contradiction: he is too Nordmen for the Epistemium, too academic for the traditional völvur, and too ergi for mainstream Vithgard society. His paranoia about discovery has become deeply personal and historically rooted. He fears that the Epistemium's ambitions to regulate all magical practice will eventually reach into Vithgard and criminalize the sacred traditions his people have preserved for millennia. He also fears that traditional Nordmen society will reject him entirely if his gender transgression becomes too widely known. More fundamentally, he fears that he has betrayed his own traditions by trying to translate them into a foreign language, and that his attempt to reconcile two irreconcilable ways of understanding magic has produced only a hollow synthesis that serves neither.
 
 ## Psyche
 
 ### Personality
 
-Ríkarthr is a study in contradictions—simultaneously eager to share sacred knowledge with worthy students and fiercely protective of traditions he fears are being erased by forces beyond his control. His paranoia, while occasionally tiresome to those around him, stems from genuine cultural and personal sources: the historical threat of the Ordo Arcanis reaching into independent magical traditions, the erasure of Normen shamanic practice under the weight of foreign academic frameworks, and his own profound shame about his ergi status in a culture that despises gender transgression. He speaks slowly and deliberately, often pausing mid-sentence as though wrestling with what he can safely reveal, and his conversations frequently veer into cryptic warnings about "those who would reduce sacred mystery to academic formula" and "the creeping poison of foreign institutions that devour local knowledge."
+Ríkarthr is a study in contradictions—simultaneously eager to share sacred knowledge with worthy students and fiercely protective of traditions he fears are being erased by forces beyond his control. His paranoia, while occasionally tiresome to those around him, stems from genuine cultural and personal sources: the historical threat of the Ordo Arcanis reaching into independent magical traditions, the erasure of Nordmen shamanic practice under the weight of foreign academic frameworks, and his own profound shame about his ergi status in a culture that despises gender transgression. He speaks slowly and deliberately, often pausing mid-sentence as though wrestling with what he can safely reveal, and his conversations frequently veer into cryptic warnings about "those who would reduce sacred mystery to academic formula" and "the creeping poison of foreign institutions that devour local knowledge."
 
-Despite his suspicious nature, Ríkarthr possesses surprising warmth toward those he trusts—particularly younger spirit-workers who show the same ergi traits he bears, giving them what acceptance he can within his own conflicted framework. With his closest students, he becomes almost grandfatherly, his gray eyes warm as he teaches the sacred knowledge of spirit-communion and spins stories of his shamanic journeys. But his emotional core is scarred by irreconcilable contradictions: he loved Völva Aldrhildr as the closest thing he had to a mother figure, yet her teachings also locked him into the very gender transgression that has haunted him. He sought respect in the Epistemium, yet felt himself betraying his traditions with every lecture. He is torn between a visceral need to protect sacred Normen knowledge from external corruption and an intellectual understanding that all cultures must evolve and adapt. This conflict has never been resolved, only buried under layers of defensive paranoia.
+Despite his suspicious nature, Ríkarthr possesses surprising warmth toward those he trusts—particularly younger spirit-workers who show the same ergi traits he bears, giving them what acceptance he can within his own conflicted framework. With his closest students, he becomes almost grandfatherly, his gray eyes warm as he teaches the sacred knowledge of spirit-communion and spins stories of his shamanic journeys. But his emotional core is scarred by irreconcilable contradictions: he loved Völva Aldrhildr as the closest thing he had to a mother figure, yet her teachings also locked him into the very gender transgression that has haunted him. He sought respect in the Epistemium, yet felt himself betraying his traditions with every lecture. He is torn between a visceral need to protect sacred Nordmen knowledge from external corruption and an intellectual understanding that all cultures must evolve and adapt. This conflict has never been resolved, only buried under layers of defensive paranoia.
 
 ### Motivation
 
-Ríkarthr is driven by three interlocking and contradictory motivations: first, the desire to preserve the sacred Normen traditions of spirit-work and shamanism—knowledge he fears will be lost if external pressures (particularly from the Epistemium and the Ordo) continue to increase. Second, the compulsion to prevent that same knowledge from being weaponized, codified, or drained of its spiritual meaning by those who would transform sacred mystery into academic system. Third, though he rarely acknowledges this even to himself, a desperate hope that by training younger spirit-workers—giving them what cultural acceptance and wisdom he can offer—he might somehow heal the wound in himself, might model a way of being ergi that Vithgard society could one day accept rather than merely tolerate. Yet this third motivation directly contradicts the first two, creating an internal paralysis: if he successfully normalizes gender-transgressive spirit-workers, he weakens the cultural boundaries that protect Normen traditions; if he protects those traditions fiercely, he perpetuates the shame that destroyed his own life.
+Ríkarthr is driven by three interlocking and contradictory motivations: first, the desire to preserve the sacred Nordmen traditions of spirit-work and shamanism—knowledge he fears will be lost if external pressures (particularly from the Epistemium and the Ordo) continue to increase. Second, the compulsion to prevent that same knowledge from being weaponized, codified, or drained of its spiritual meaning by those who would transform sacred mystery into academic system. Third, though he rarely acknowledges this even to himself, a desperate hope that by training younger spirit-workers—giving them what cultural acceptance and wisdom he can offer—he might somehow heal the wound in himself, might model a way of being ergi that Vithgard society could one day accept rather than merely tolerate. Yet this third motivation directly contradicts the first two, creating an internal paralysis: if he successfully normalizes gender-transgressive spirit-workers, he weakens the cultural boundaries that protect Nordmen traditions; if he protects those traditions fiercely, he perpetuates the shame that destroyed his own life.
 
 ### Strengths
 
@@ -652,8 +676,8 @@ Ríkarthr is driven by three interlocking and contradictory motivations: first, 
 
 - **Traditional Völvur Hierarchy:** The established order of female spirit-workers in Vithgard views Ríkarthr as an anomaly and a threat. His attempt to formalize and teach shamanic practice to other young people—particularly other ergi individuals—is seen as both a dilution of sacred traditions and an unacceptable challenge to the völvur's exclusive authority. Whispers suggest that some of the elder völvur have considered taking formal action to suppress his teaching.
 - **Ordo Arcanis Expansion:** Ríkarthr's greatest institutional fear is the Ordo's slow expansion northward. He has learned through fragmentary reports that the Ordo's agents are asking questions about Vithgard's shamanic traditions, attempting to catalog and regulate independent magical practitioners. If the Ordo ever establishes a formal presence in Thorrborg, his entire way of life becomes legally impossible.
-- **Normen Cultural Rejection:** More personally dangerous than external institutions is the possibility of total social ostracism within his own people. His ergi status is already a profound stigma; if he becomes known as someone actively promoting gender-transgressive practice, he risks becoming not merely tolerated but openly despised—or worse, driven into exile from his homeland.
-- **His Own Irreconcilable Contradictions:** Most dangerous of all is Ríkarthr's internal conflict between protecting Normen traditions and opening them to change, between hiding his ergi nature and embracing it, between the sacred knowledge he learned from Völva Aldrhildr and the academic frameworks he learned in the south. This internal war is far more destructive than any external enemy, and it manifests as paranoia, indecision, and the slow erosion of his ability to act decisively toward any goal.
+- **Nordmen Cultural Rejection:** More personally dangerous than external institutions is the possibility of total social ostracism within his own people. His ergi status is already a profound stigma; if he becomes known as someone actively promoting gender-transgressive practice, he risks becoming not merely tolerated but openly despised—or worse, driven into exile from his homeland.
+- **His Own Irreconcilable Contradictions:** Most dangerous of all is Ríkarthr's internal conflict between protecting Nordmen traditions and opening them to change, between hiding his ergi nature and embracing it, between the sacred knowledge he learned from Völva Aldrhildr and the academic frameworks he learned in the south. This internal war is far more destructive than any external enemy, and it manifests as paranoia, indecision, and the slow erosion of his ability to act decisively toward any goal.
 
 ### Affiliations
 
@@ -669,6 +693,6 @@ Ríkarthr is driven by three interlocking and contradictory motivations: first, 
 
 3. **The Völva's Final Teaching:** A young völva from an isolated community in northern Vithgard arrives seeking Ríkarthr, bearing a sealed message from Völva Aldrhildr written decades ago, before her death—a message meant only for him. It contains fragments of sacred knowledge that Aldrhildr never fully taught him, knowledge about the true nature of ergi power and its role in Vithgard's shamanic traditions. The message also contains what Aldrhildr wanted Ríkarthr to understand about why she never publicly acknowledged him, why she had to hide their relationship, why she could not protect him from the social consequences of his gifts. Ríkarthr is simultaneously desperate to understand this teaching and terrified of what it might reveal. The party must help Ríkarthr retrieve the sacred sites where Aldrhildr left these teachings, protect him during the vulnerable emotional process of reading them, and help him integrate a new understanding of himself and his traditions that may either heal him or break him entirely.
 
-4. **The Hidden Völva:** Ríkarthr receives a contact from an elderly völva in a remote northern settlement, one of the last keepers of the deepest shamanic mysteries—knowledge that Ríkarthr was never fully taught. The völva is dying and knows it, and she wants to pass on this knowledge before it dies with her. But there is a price: she will only teach Ríkarthr if he agrees to protect and mentor her apprentice, a young ergi spirit-worker even more socially ostracized than Ríkarthr himself. Ríkarthr must travel into the far north, spend months or years in deep spiritual training, and return with knowledge that may either complete his understanding of Normen shamanism or fundamentally challenge everything he believes about it. The party must help him undertake this journey while protecting his students and teaching, managing the growing pressure from the traditional völvur who see his absence and his ambitions as threats, and helping Ríkarthr come to terms with the possibility that truly honoring the ancient traditions might require him to transform them in ways the traditions never anticipated.
+4. **The Hidden Völva:** Ríkarthr receives a contact from an elderly völva in a remote northern settlement, one of the last keepers of the deepest shamanic mysteries—knowledge that Ríkarthr was never fully taught. The völva is dying and knows it, and she wants to pass on this knowledge before it dies with her. But there is a price: she will only teach Ríkarthr if he agrees to protect and mentor her apprentice, a young ergi spirit-worker even more socially ostracized than Ríkarthr himself. Ríkarthr must travel into the far north, spend months or years in deep spiritual training, and return with knowledge that may either complete his understanding of Nordmen shamanism or fundamentally challenge everything he believes about it. The party must help him undertake this journey while protecting his students and teaching, managing the growing pressure from the traditional völvur who see his absence and his ambitions as threats, and helping Ríkarthr come to terms with the possibility that truly honoring the ancient traditions might require him to transform them in ways the traditions never anticipated.
 
-5. **The Boundary Between Worlds:** Ríkarthr's shamanic visions reveal something deeply troubling: the boundary between the spirit world and the material world is becoming unstable in the far north of Vithgard, particularly in regions where shamanic practice has been strongest for centuries. Spirits are manifesting with unusual frequency and aggression; the dead are not resting peacefully; something is drawing them through the thinning veil. Ríkarthr's initial theories—that this is some kind of external magical attack—gradually give way to a more terrifying possibility: that the traditional völvur, in their attempts to suppress the teaching and practice of male spirit-workers like himself, have disrupted the careful balance that must be maintained between genders, between traditions, between the seen and unseen worlds. The boundary is failing not because of external attack but because the sacred knowledge needed to maintain it is being deliberately suppressed. Ríkarthr must convince the traditional völvur hierarchy to work with him, must openly acknowledge his own ergi status and its necessary role in maintaining balance, must synthesize Normen traditions with what he learned in the south—all while the spiritual crisis worsens and threatens the entire kingdom. The party must help him navigate spiritual warfare, political intrigue within the völvur orders, and his own psychological need to be finally, truly accepted as both ergi and necessary.
+5. **The Boundary Between Worlds:** Ríkarthr's shamanic visions reveal something deeply troubling: the boundary between the spirit world and the material world is becoming unstable in the far north of Vithgard, particularly in regions where shamanic practice has been strongest for centuries. Spirits are manifesting with unusual frequency and aggression; the dead are not resting peacefully; something is drawing them through the thinning veil. Ríkarthr's initial theories—that this is some kind of external magical attack—gradually give way to a more terrifying possibility: that the traditional völvur, in their attempts to suppress the teaching and practice of male spirit-workers like himself, have disrupted the careful balance that must be maintained between genders, between traditions, between the seen and unseen worlds. The boundary is failing not because of external attack but because the sacred knowledge needed to maintain it is being deliberately suppressed. Ríkarthr must convince the traditional völvur hierarchy to work with him, must openly acknowledge his own ergi status and its necessary role in maintaining balance, must synthesize Nordmen traditions with what he learned in the south—all while the spiritual crisis worsens and threatens the entire kingdom. The party must help him navigate spiritual warfare, political intrigue within the völvur orders, and his own psychological need to be finally, truly accepted as both ergi and necessary.

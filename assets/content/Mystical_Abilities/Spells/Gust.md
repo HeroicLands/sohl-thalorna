@@ -5,7 +5,7 @@ name:
   aliases:
     - Wind
 description: "Conjures powerful wind; buffets targets and scatters loose objects."
-img: icons/wind.svg
+img: systems/sohl/assets/icons/other/wind.svg
 shortcode: gust
 type: mysticalability
 subType: arcaneincantation

@@ -1,11 +1,11 @@
 ---
-description: "Mountain dwellers who preserve the ancestral Pelwar ways and hold sacred covenant with the land itself through unwritten tradition, ritual, and kinship with fae beings."
+description: "Mountain dwellers who preserve the ancestral Pelwar ways and hold sacred pact with the land itself through unwritten tradition, ritual, and kinship with fae beings."
 type: lore
 subType: folk
 name:
   full: Áelendan People
   aliases:
-    - People of the Covenant
+    - People of the Pact
 shortcode: aelendnppl
 packFolder: elavendre
 ---
@@ -15,11 +15,11 @@ packFolder: elavendre
 - **Language:** [[skill-aelendlng|Áelendi]]
 - **Pantheon:** [[affiliation-firstgods|The First Gods]] (via [[affiliation-theoldway|the Old Way]]; with strong fae/nature spirit traditions)
 
-The **Áelendan People** — also known as the **People of the Covenant** — are a sub-people of [[place-elavendre|Élavendre]], the ancestor tribes of the [[place-elavendre|Élavendri]] who never settled into the kingdom's cities and who have maintained the old ways since before the founding of the monarchy. They live in the mountainous interior of Élavendre, organized in tribal communities that follow traditions stretching back to the earliest [[lore-pelwarpepl|Pelwar People]] settlement of the region. They eschew the modern cities and the ways of the kingdom, living close to the land as their forebears did.
+The **Áelendan People** — also known as the **People of the Pact** — are a sub-people of [[place-elavendre|Élavendre]], the ancestor tribes of the [[place-elavendre|Élavendri]] who never settled into the kingdom's cities and who have maintained the old ways since before the founding of the monarchy. They live in the mountainous interior of Élavendre, organized in tribal communities that follow traditions stretching back to the earliest [[lore-pelwarpepl|Pelwar People]] settlement of the region. They eschew the modern cities and the ways of the kingdom, living close to the land as their forebears did.
 
-## The Covenant
+## The Kindred Pact
 
-The name "People of the Covenant" refers to an ancient compact that the Áelendan believe binds them to the land itself — a sacred relationship with the forests, mountains, and waters of central Élavendre that their forebears entered into at the dawn of Pelwar settlement. The specifics of the Covenant are not written down; they are transmitted through oral tradition, sung across generations, and enacted through the seasonal rituals that mark Áelendan life. To the Áelendan, the Covenant is not metaphor. It is the operating agreement by which their communities remain in good standing with the land and its spirits.
+The name "People of the Pact" refers to an ancient compact that the Áelendan believe binds them to the land itself — a sacred relationship with the forests, mountains, and waters of central Élavendre that their forebears entered into at the dawn of Pelwar settlement. The specifics of the Kindred Pact are not written down; they are transmitted through oral tradition, sung across generations, and enacted through the seasonal rituals that mark Áelendan life. To the Áelendan, the Kindred Pact is not metaphor. It is the operating agreement by which their communities remain in good standing with the land and its spirits.
 
 ## Culture and Society
 
@@ -41,14 +41,35 @@ The Áelendan maintain a uniquely close neighborly relationship with the [[lore-
 
 - **[[affiliation-alndnwrdns|The Áelendan Wardens]]** — An ancient order tasked with protecting the sacred sites of the mountains and deep forests, particularly those connected to the fae. The Wardens patrol the boundary between the settled lowlands and the wild interior.
 - **Council of Elders** — The local governing bodies of each Áelendan tribe, composed of recognized elders from the community's leading families and lineages.
-- **Tradition Keepers** — Specialist memorizers who hold the unwritten Covenant, the tribal songs, and the genealogies. Training to become a Tradition Keeper begins in childhood and continues across decades.
+- **Tradition Keepers** — Specialist memorizers who hold the unwritten Kindred Pact, the tribal songs, and the genealogies. Training to become a Tradition Keeper begins in childhood and continues across decades.
 
 ## Territories
 
-Áelendan territory encompasses the mountainous interior of Élavendre, with particular concentration around sites sacred to the Covenant:
+Áelendan territory encompasses the mountainous interior of Élavendre, with particular concentration around sites sacred to the Kindred Pact:
 
 - **[[place-drenavrspn|The Drenavar Spine]]** — Sacred mountain range at the heart of Áelendan territory
 - **[[place-eshalshldg|Eshálosha Lodge]]** — The principal Áelendan settlement, a ceremonial and political center
+
+## The Ordo
+
+The Áelendan **do not trust the [[affiliation-ordoarcanis|Ordo Arcanis]] at all**, and do not pretend
+to. Where the Élavendri court treats the Ordo as a rival institution to be balanced, licensed and
+argued with, the Áelendan regard it as a body of meddlesome intruders — outsiders who arrive to
+_study_ what the tribes exist to _keep_, who mistake a sacred site for a subject, and who have never
+once asked permission in a form the tribes recognise.
+
+The kingdom permits the Ordo and limits its access. The Áelendan did not agree to the first half and
+enforce the second: the boundary the crown declines to move is the boundary the
+[[affiliation-alndnwrdns|Wardens]] hold. The grievance is not abstract. **The Ordo steals from the sacred sites**, and has done so for as long
+as it has been in the kingdom. Expeditions arrive with licences to survey and leave with what was
+seated there; scholars admitted to the margins are found past them; and objects that belonged to a
+grove or a spring have a way of reappearing in a chapterhouse collection at Béravel, catalogued,
+provenance unrecorded. The Ordo calls this recovery and study. The Áelendan call it what it is, and
+have never accepted a single explanation offered.
+
+An Ordo expedition turned back at the tree line is a routine
+event. An Ordo expedition that does not turn back is a different kind of event, and the Ordo's own
+records of the northern interior are notably thin on what became of several of them.
 
 ## See Also
 

@@ -8,14 +8,14 @@ name:
   title: ""
   given: Alýkos
   clan: Sampsiôn
-  home: Selímara
+  home: selimara
   aliases: []
 packFolder: helladbyzaria
 shortcode: alykosmpsn
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/alykosmpsn-portrait.webp
+  portrait: images/beings/characters/alykosmpsn-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Physician
@@ -42,68 +42,70 @@ data:
 sohl:
   templatePriority: null
   items:
-    - { shortcode: str, type: attribute, system: { scoreBase: 10 } }
-    - { shortcode: end, type: attribute, system: { scoreBase: 12 } }
-    - { shortcode: dex, type: attribute, system: { scoreBase: 14 } }
-    - { shortcode: agl, type: attribute, system: { scoreBase: 10 } }
-    - { shortcode: per, type: attribute, system: { scoreBase: 18 } }
-    - { shortcode: cml, type: attribute, system: { scoreBase: 15 } }
-    - { shortcode: aur, type: attribute, system: { scoreBase: 14 } }
-    - { shortcode: wil, type: attribute, system: { scoreBase: 13 } }
-    - { shortcode: rea, type: attribute, system: { scoreBase: 18 } }
-    - { shortcode: cre, type: attribute, system: { scoreBase: 12 } }
-    - { shortcode: emp, type: attribute, system: { scoreBase: 16 } }
-    - { shortcode: elo, type: attribute, system: { scoreBase: 15 } }
-    - { shortcode: mor, type: attribute, system: { scoreBase: 15 } }
-    - { shortcode: voi, type: attribute, system: { scoreBase: 12 } }
-    - { shortcode: sacredforge, type: affiliation }
-    - { shortcode: brew, type: skill, system: { masteryLevelBase: 54 } }
-    - { shortcode: cook, type: skill, system: { masteryLevelBase: 72 } }
-    - { shortcode: eng, type: skill, system: { masteryLevelBase: 15 } }
-    - { shortcode: folklr, type: skill, system: { masteryLevelBase: 32 } }
-    - { shortcode: math, type: skill, system: { masteryLevelBase: 75 } }
-    - { shortcode: pfmy, type: skill, system: { masteryLevelBase: 18 } }
-    - { shortcode: pysn, type: skill, system: { masteryLevelBase: 72 } }
-    - { shortcode: helnkscrpt, type: skill, system: { masteryLevelBase: 54 } }
-    - { shortcode: shpw, type: skill, system: { masteryLevelBase: 15 } }
-    - { shortcode: chrm, type: skill, system: { masteryLevelBase: 45 } }
-    - { shortcode: cmd, type: skill, system: { masteryLevelBase: 28 } }
-    - { shortcode: dscr, type: skill, system: { masteryLevelBase: 85 } }
-    - { shortcode: guil, type: skill, system: { masteryLevelBase: 42 } }
-    - { shortcode: intr, type: skill, system: { masteryLevelBase: 51 } }
-    - { shortcode: sing, type: skill, system: { masteryLevelBase: 36 } }
-    - { shortcode: thtcs, type: skill, system: { masteryLevelBase: 13 } }
-    - { shortcode: herb, type: skill, system: { masteryLevelBase: 72 } }
-    - { shortcode: mnrl, type: skill, system: { masteryLevelBase: 36 } }
-    - { shortcode: srvl, type: skill, system: { masteryLevelBase: 15 } }
-    - { shortcode: awar, type: skill, system: { masteryLevelBase: 64 } }
-    - { shortcode: clmb, type: skill, system: { masteryLevelBase: 36 } }
-    - { shortcode: dnce, type: skill, system: { masteryLevelBase: 22 } }
-    - { shortcode: jump, type: skill, system: { masteryLevelBase: 30 } }
-    - { shortcode: ridg, type: skill, system: { masteryLevelBase: 13 } }
-    - { shortcode: stlth, type: skill, system: { masteryLevelBase: 33 } }
-    - { shortcode: swim, type: skill, system: { masteryLevelBase: 11 } }
-    - { shortcode: archery, type: skill, system: { masteryLevelBase: 16 } }
-    - { shortcode: init, type: skill, system: { masteryLevelBase: 45 } }
-    - { shortcode: melee, type: skill, system: { masteryLevelBase: 48 } }
-    - { shortcode: thro, type: skill, system: { masteryLevelBase: 32 } }
-    - { shortcode: draw, type: skill, system: { masteryLevelBase: 26 } }
-    - { shortcode: wpnc, type: skill, system: { masteryLevelBase: 24 } }
-    - { shortcode: Dgr, type: weapongear }
-    - { shortcode: LShirt, type: armorgear }
-    - { shortcode: WTrsr, type: armorgear }
-    - { shortcode: LtShoe, type: armorgear }
-    - { shortcode: WClk, type: armorgear }
+    - { model: sohl-sohl-attribute-str, system: { scoreBase: 10 } }
+    - { model: sohl-sohl-attribute-end, system: { scoreBase: 12 } }
+    - { model: sohl-sohl-attribute-dex, system: { scoreBase: 14 } }
+    - { model: sohl-sohl-attribute-agl, system: { scoreBase: 10 } }
+    - { model: sohl-sohl-attribute-per, system: { scoreBase: 18 } }
+    - { model: sohl-sohl-attribute-cml, system: { scoreBase: 15 } }
+    - { model: sohl-sohl-attribute-aur, system: { scoreBase: 14 } }
+    - { model: sohl-sohl-attribute-wil, system: { scoreBase: 13 } }
+    - { model: sohl-sohl-attribute-rea, system: { scoreBase: 18 } }
+    - { model: sohl-sohl-attribute-cre, system: { scoreBase: 12 } }
+    - { model: sohl-sohl-attribute-emp, system: { scoreBase: 16 } }
+    - { model: sohl-sohl-attribute-elo, system: { scoreBase: 15 } }
+    - { model: sohl-sohl-attribute-mor, system: { scoreBase: 15 } }
+    - { model: sohl-sohl-attribute-voi, system: { scoreBase: 12 } }
+    - { model: affiliation-sacredforge }
+    - { model: sohl-sohl-skill-brew, system: { masteryLevelBase: 54 } }
+    - { model: sohl-sohl-skill-cook, system: { masteryLevelBase: 72 } }
+    - { model: sohl-sohl-skill-eng, system: { masteryLevelBase: 15 } }
+    - { model: sohl-sohl-skill-folklr, system: { masteryLevelBase: 32 } }
+    - { model: sohl-sohl-skill-math, system: { masteryLevelBase: 75 } }
+    - { model: sohl-sohl-skill-pfmy, system: { masteryLevelBase: 18 } }
+    - { model: sohl-sohl-skill-pysn, system: { masteryLevelBase: 72 } }
+    - { model: skill-helnkscrpt, system: { masteryLevelBase: 54 } }
+    - { model: sohl-sohl-skill-shpw, system: { masteryLevelBase: 15 } }
+    - { model: sohl-sohl-skill-chrm, system: { masteryLevelBase: 45 } }
+    - { model: sohl-sohl-skill-cmd, system: { masteryLevelBase: 28 } }
+    - { model: sohl-sohl-skill-dscr, system: { masteryLevelBase: 85 } }
+    - { model: sohl-sohl-skill-guil, system: { masteryLevelBase: 42 } }
+    - { model: sohl-sohl-skill-intr, system: { masteryLevelBase: 51 } }
+    - { model: sohl-sohl-skill-sing, system: { masteryLevelBase: 36 } }
+    - { model: sohl-sohl-skill-thtcs, system: { masteryLevelBase: 13 } }
+    - { model: sohl-sohl-skill-herb, system: { masteryLevelBase: 72 } }
+    - { model: sohl-sohl-skill-mnrl, system: { masteryLevelBase: 36 } }
+    - { model: sohl-sohl-skill-srvl, system: { masteryLevelBase: 15 } }
+    - { model: sohl-sohl-skill-awar, system: { masteryLevelBase: 64 } }
+    - { model: sohl-sohl-skill-clmb, system: { masteryLevelBase: 36 } }
+    - { model: sohl-sohl-skill-dnce, system: { masteryLevelBase: 22 } }
+    - { model: sohl-sohl-skill-jump, system: { masteryLevelBase: 30 } }
+    - { model: sohl-sohl-skill-ridg, system: { masteryLevelBase: 13 } }
+    - { model: sohl-sohl-skill-stlth, system: { masteryLevelBase: 33 } }
+    - { model: sohl-sohl-skill-swim, system: { masteryLevelBase: 11 } }
+    - { model: sohl-sohl-skill-archery, system: { masteryLevelBase: 16 } }
+    - { model: sohl-sohl-skill-init, system: { masteryLevelBase: 45 } }
+    - { model: sohl-sohl-skill-melee, system: { masteryLevelBase: 48 } }
+    - { model: sohl-sohl-skill-thro, system: { masteryLevelBase: 32 } }
+    - { model: sohl-sohl-skill-draw, system: { masteryLevelBase: 26 } }
+    - { model: sohl-sohl-skill-wpnc, system: { masteryLevelBase: 24 } }
+    - { model: sohl-sohl-weapongear-dgr }
+    - { model: sohl-sohl-armorgear-lshirt }
+    - { model: sohl-sohl-armorgear-wtrsr }
+    - { model: sohl-sohl-armorgear-ltshoe }
+    - { model: sohl-sohl-armorgear-wclk }
     - name: Medical text (comprehensive anatomy treatise)
       type: miscgear
       system:
+        shortcode: medicaltext
         weight: 1
         value: 20
         durability: 4
-    - { shortcode: srgtls, type: miscgear }
+    - { model: sohl-sohl-miscgear-surgkit }
     - name: Herbal remedies (assorted tinctures)
       type: miscgear
       system:
+        shortcode: herbalremedies
         quantity: 8
         value: 12
         weight: 1
@@ -111,24 +113,27 @@ sohl:
     - name: Surgical instruments (scalpels, lancets, forceps)
       type: miscgear
       system:
+        shortcode: surgicalinstruments
         weight: 0.5
         value: 8
         durability: 5
     - name: Healing poultices (prepared)
       type: miscgear
       system:
+        shortcode: healingpoultices
         quantity: 4
         value: 2
         weight: 0.5
         durability: 1
-    - { shortcode: tndrbx, type: miscgear }
+    - { model: sohl-sohl-miscgear-tndrbx }
     - name: Herbal reference guide (personal notes)
       type: miscgear
       system:
+        shortcode: herbalreferenceguide
         weight: 0.5
         value: 100
         durability: 3
-    - { shortcode: bpchlg, type: containergear }
+    - { model: sohl-sohl-containergear-bpchlg }
   system:
     body:
       structure:

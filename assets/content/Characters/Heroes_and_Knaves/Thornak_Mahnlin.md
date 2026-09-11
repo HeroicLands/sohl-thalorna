@@ -8,17 +8,17 @@ name:
   title: ""
   given: Thornak
   clan: Mahnlin
-  home: Eichengrund
+  home: eichengrnd
   aliases:
     - The Boar-Totem Warrior
     - Blodtūsc Bār
     - Thornak Mahnlin
 packFolder: ankarisvrystwald
 shortcode: thrnkbldtscbr
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/thrnkbldtscbr-portrait.webp
+  portrait: images/beings/characters/thrnkbldtscbr-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Hunter
@@ -45,72 +45,74 @@ data:
 sohl:
   templatePriority: null
   items:
-    - { shortcode: str, type: attribute, system: { scoreBase: 17 } }
-    - { shortcode: end, type: attribute, system: { scoreBase: 16 } }
-    - { shortcode: dex, type: attribute, system: { scoreBase: 12 } }
-    - { shortcode: agl, type: attribute, system: { scoreBase: 14 } }
-    - { shortcode: per, type: attribute, system: { scoreBase: 15 } }
-    - { shortcode: cml, type: attribute, system: { scoreBase: 10 } }
-    - { shortcode: aur, type: attribute, system: { scoreBase: 15 } }
-    - { shortcode: wil, type: attribute, system: { scoreBase: 14 } }
-    - { shortcode: rea, type: attribute, system: { scoreBase: 12 } }
-    - { shortcode: cre, type: attribute, system: { scoreBase: 11 } }
-    - { shortcode: emp, type: attribute, system: { scoreBase: 10 } }
-    - { shortcode: elo, type: attribute, system: { scoreBase: 9 } }
-    - { shortcode: mor, type: attribute, system: { scoreBase: 10 } }
-    - { shortcode: voi, type: attribute, system: { scoreBase: 14 } }
-    - { shortcode: tyr, type: affiliation }
-    - { shortcode: cook, type: skill, system: { masteryLevelBase: 28 } }
-    - { shortcode: folklr, type: skill, system: { masteryLevelBase: 13 } }
-    - { shortcode: mrcn, type: skill, system: { masteryLevelBase: 26 } }
-    - { shortcode: pfmy, type: skill, system: { masteryLevelBase: 28 } }
-    - { shortcode: pysn, type: skill, system: { masteryLevelBase: 13 } }
-    - { shortcode: semrnscrpt, type: skill, system: { masteryLevelBase: 13 } }
-    - { shortcode: chrm, type: skill, system: { masteryLevelBase: 30 } }
-    - { shortcode: cmd, type: skill, system: { masteryLevelBase: 36 } }
-    - { shortcode: dscr, type: skill, system: { masteryLevelBase: 22 } }
-    - { shortcode: guil, type: skill, system: { masteryLevelBase: 30 } }
-    - { shortcode: intr, type: skill, system: { masteryLevelBase: 44 } }
-    - { shortcode: sing, type: skill, system: { masteryLevelBase: 39 } }
-    - { shortcode: thtcs, type: skill, system: { masteryLevelBase: 10 } }
-    - { shortcode: herb, type: skill, system: { masteryLevelBase: 42 } }
-    - { shortcode: smsh, type: skill, system: { masteryLevelBase: 28 } }
-    - { shortcode: srvl, type: skill, system: { masteryLevelBase: 65 } }
-    - { shortcode: trak, type: skill, system: { masteryLevelBase: 65 } }
-    - { shortcode: acro, type: skill, system: { masteryLevelBase: 15 } }
-    - { shortcode: awar, type: skill, system: { masteryLevelBase: 45 } }
-    - { shortcode: clmb, type: skill, system: { masteryLevelBase: 39 } }
-    - { shortcode: dnce, type: skill, system: { masteryLevelBase: 26 } }
-    - { shortcode: jump, type: skill, system: { masteryLevelBase: 45 } }
-    - { shortcode: ridg, type: skill, system: { masteryLevelBase: 24 } }
-    - { shortcode: stlth, type: skill, system: { masteryLevelBase: 42 } }
-    - { shortcode: swim, type: skill, system: { masteryLevelBase: 15 } }
-    - { shortcode: archery, type: skill, system: { masteryLevelBase: 56 } }
-    - { shortcode: init, type: skill, system: { masteryLevelBase: 39 } }
-    - { shortcode: melee, type: skill, system: { masteryLevelBase: 26 } }
-    - { shortcode: thro, type: skill, system: { masteryLevelBase: 26 } }
-    - { shortcode: draw, type: skill, system: { masteryLevelBase: 12 } }
-    - { shortcode: fltch, type: skill, system: { masteryLevelBase: 26 } }
-    - { shortcode: hide, type: skill, system: { masteryLevelBase: 39 } }
-    - { shortcode: lock, type: skill, system: { masteryLevelBase: 13 } }
-    - { shortcode: mtlc, type: skill, system: { masteryLevelBase: 28 } }
-    - { shortcode: Spr, type: weapongear }
-    - { shortcode: BAxe, type: weapongear }
-    - { shortcode: Dgr, type: weapongear }
-    - { shortcode: RhTunic, type: armorgear }
-    - { shortcode: RhBrch, type: armorgear }
-    - { shortcode: RhShoe, type: armorgear }
-    - { shortcode: BvCloak, type: armorgear }
-    - { shortcode: BvCap, type: armorgear }
+    - { model: sohl-sohl-attribute-str, system: { scoreBase: 17 } }
+    - { model: sohl-sohl-attribute-end, system: { scoreBase: 16 } }
+    - { model: sohl-sohl-attribute-dex, system: { scoreBase: 12 } }
+    - { model: sohl-sohl-attribute-agl, system: { scoreBase: 14 } }
+    - { model: sohl-sohl-attribute-per, system: { scoreBase: 15 } }
+    - { model: sohl-sohl-attribute-cml, system: { scoreBase: 10 } }
+    - { model: sohl-sohl-attribute-aur, system: { scoreBase: 15 } }
+    - { model: sohl-sohl-attribute-wil, system: { scoreBase: 14 } }
+    - { model: sohl-sohl-attribute-rea, system: { scoreBase: 12 } }
+    - { model: sohl-sohl-attribute-cre, system: { scoreBase: 11 } }
+    - { model: sohl-sohl-attribute-emp, system: { scoreBase: 10 } }
+    - { model: sohl-sohl-attribute-elo, system: { scoreBase: 9 } }
+    - { model: sohl-sohl-attribute-mor, system: { scoreBase: 10 } }
+    - { model: sohl-sohl-attribute-voi, system: { scoreBase: 14 } }
+    - { model: affiliation-tyr }
+    - { model: sohl-sohl-skill-cook, system: { masteryLevelBase: 28 } }
+    - { model: sohl-sohl-skill-folklr, system: { masteryLevelBase: 13 } }
+    - { model: sohl-sohl-skill-mrcn, system: { masteryLevelBase: 26 } }
+    - { model: sohl-sohl-skill-pfmy, system: { masteryLevelBase: 28 } }
+    - { model: sohl-sohl-skill-pysn, system: { masteryLevelBase: 13 } }
+    - { model: skill-semrnscrpt, system: { masteryLevelBase: 13 } }
+    - { model: sohl-sohl-skill-chrm, system: { masteryLevelBase: 30 } }
+    - { model: sohl-sohl-skill-cmd, system: { masteryLevelBase: 36 } }
+    - { model: sohl-sohl-skill-dscr, system: { masteryLevelBase: 22 } }
+    - { model: sohl-sohl-skill-guil, system: { masteryLevelBase: 30 } }
+    - { model: sohl-sohl-skill-intr, system: { masteryLevelBase: 44 } }
+    - { model: sohl-sohl-skill-sing, system: { masteryLevelBase: 39 } }
+    - { model: sohl-sohl-skill-thtcs, system: { masteryLevelBase: 10 } }
+    - { model: sohl-sohl-skill-herb, system: { masteryLevelBase: 42 } }
+    - { model: sohl-sohl-skill-smsh, system: { masteryLevelBase: 28 } }
+    - { model: sohl-sohl-skill-srvl, system: { masteryLevelBase: 65 } }
+    - { model: sohl-sohl-skill-trak, system: { masteryLevelBase: 65 } }
+    - { model: sohl-sohl-skill-acro, system: { masteryLevelBase: 15 } }
+    - { model: sohl-sohl-skill-awar, system: { masteryLevelBase: 45 } }
+    - { model: sohl-sohl-skill-clmb, system: { masteryLevelBase: 39 } }
+    - { model: sohl-sohl-skill-dnce, system: { masteryLevelBase: 26 } }
+    - { model: sohl-sohl-skill-jump, system: { masteryLevelBase: 45 } }
+    - { model: sohl-sohl-skill-ridg, system: { masteryLevelBase: 24 } }
+    - { model: sohl-sohl-skill-stlth, system: { masteryLevelBase: 42 } }
+    - { model: sohl-sohl-skill-swim, system: { masteryLevelBase: 15 } }
+    - { model: sohl-sohl-skill-archery, system: { masteryLevelBase: 56 } }
+    - { model: sohl-sohl-skill-init, system: { masteryLevelBase: 39 } }
+    - { model: sohl-sohl-skill-melee, system: { masteryLevelBase: 26 } }
+    - { model: sohl-sohl-skill-thro, system: { masteryLevelBase: 26 } }
+    - { model: sohl-sohl-skill-draw, system: { masteryLevelBase: 12 } }
+    - { model: sohl-sohl-skill-fltch, system: { masteryLevelBase: 26 } }
+    - { model: sohl-sohl-skill-hide, system: { masteryLevelBase: 39 } }
+    - { model: sohl-sohl-skill-lock, system: { masteryLevelBase: 13 } }
+    - { model: sohl-sohl-skill-mtlc, system: { masteryLevelBase: 28 } }
+    - { model: sohl-sohl-weapongear-spr }
+    - { model: sohl-sohl-weapongear-baxe }
+    - { model: sohl-sohl-weapongear-dgr }
+    - { model: sohl-sohl-armorgear-rhtunic }
+    - { model: sohl-sohl-armorgear-rhbrch }
+    - { model: sohl-sohl-armorgear-rhshoe }
+    - { model: sohl-sohl-armorgear-bvcloak }
+    - { model: sohl-sohl-armorgear-bvcap }
     - name: Fur cloak (boar-hide, ritualistic)
       type: miscgear
       system:
+        shortcode: furcloak
         weight: 1.5
         value: 100
         durability: 3
     - name: Ritualistic bone decorations and totems
       type: miscgear
       system:
+        shortcode: ritualisticbone
         quantity: 2
         weight: 1.5
         value: 100
@@ -118,20 +120,22 @@ sohl:
     - name: Hunting knife (bone-handled)
       type: miscgear
       system:
+        shortcode: huntingknife
         weight: 1.5
         value: 100
         durability: 3
     - name: Dried game meat and pemmican
       type: miscgear
       system:
+        shortcode: driedgamemeat
         quantity: 3
         weight: 1.5
         value: 100
         durability: 3
-    - { shortcode: torch, type: miscgear, system: { quantity: 2 } }
-    - { shortcode: FRtns, type: miscgear, system: { quantity: 4 } }
-    - { shortcode: backpk, type: containergear }
-    - { shortcode: wtrskin, type: containergear }
+    - { model: sohl-sohl-miscgear-torch, system: { quantity: 2 } }
+    - { model: sohl-sohl-miscgear-frtns, system: { quantity: 4 } }
+    - { model: sohl-sohl-containergear-backpk }
+    - { model: sohl-sohl-containergear-wtrskin }
   system:
     body:
       structure:
@@ -598,6 +602,8 @@ sohl:
 Thornak is a hulking figure, standing at 6'6" and weighing around 250 pounds, with a body built for battle. His skin is pale and scarred from countless battles, and his long, untamed reddish-brown hair falls wildly over his shoulders, often tied back with leather straps. His fierce blue eyes reflect a primal rage that he channels in combat, and his face is adorned with ritualistic scars, including a prominent one across his nose. His heavy jaw is framed by a thick beard, also reddish-brown, that he keeps long and untrimmed. Thornak wears furs and hides, practical for the harsh environment of the Vrystwald tribes, and he wields a massive boar spear, the symbol of his totem, along with a bone-handled axe.
 
 # Dossier {#dossier}
+
+## Background
 
 ### Early Life
 

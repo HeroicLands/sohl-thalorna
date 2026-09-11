@@ -5,7 +5,7 @@ tags:
 type: skill
 subType: mystical
 shortcode: surtr
-img: images/affiliation/surtr.webp
+img: images/affiliation/asguardian/surtr.webp
 name:
   full: "Ritual: Súrtr"
   aliases:

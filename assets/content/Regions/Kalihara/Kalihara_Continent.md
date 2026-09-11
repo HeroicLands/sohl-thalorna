@@ -45,7 +45,7 @@ The combined effect of the wind regime is that Kalihara is far easier to reach t
 TABLE WITHOUT ID
     link(file.path, name.full) AS "Region",
     description AS "Overview"
-WHERE category = "region" and contains(parent.continents, "klhrcntnnt")
+WHERE type = "place" and subType = "region" and contains(data.parents, "klhrcntnnt")
 SORT name.full ASC
 ```
 
@@ -53,7 +53,7 @@ SORT name.full ASC
 
 Kalihara's defining feature is its single ancient civilization, which the rest of Thalorna knows only through its [[affiliation-kalihara|coastal settlements]] and the accounts of the merchants permitted to trade there. The Kaliharans trace their civilization not to themselves but to the **Ithári** ("Those Who Came Before") — a people who arrived on the island in the deepest prehistory, long before the Elder Races appeared on Thalorna. The Ithári found early human populations already present, took them in, and taught them agriculture, medicine, governance, language, and a philosophical framework that would become the foundation of everything Kaliharan civilization has built in the millennia since. Then the Ithári departed, for reasons the Kaliharans either do not know or do not share.
 
-The Kaliharans maintained what they were given. Ten thousand years later, they maintain it still — including the [[affiliation-kalihara#The_Ancient_Structures|ancient structures]] the Ithári left behind, some of which continue to function in ways the Kaliharans themselves no longer fully understand. Their spiritual and philosophical tradition, **[[affiliation-tharivaan|Thári'vaan]]** ("The Living Whole"), is not a religion in any sense a western theologian would recognize: there are no gods, no prayers, no offerings, only a disciplined understanding of the world as an interconnected totality to be observed, respected, and maintained. The custodian priesthood that preserves this tradition, the **Ithári'kaan**, forms the spiritual and institutional heart of the island.
+The Kaliharans maintained what they were given. Ten thousand years later, they maintain it still — including the [[affiliation-kalihara#the-ancient-structures|ancient structures]] the Ithári left behind, some of which continue to function in ways the Kaliharans themselves no longer fully understand. Their spiritual and philosophical tradition, **[[affiliation-tharivaan|Thári'vaan]]** ("The Living Whole"), is not a religion in any sense a western theologian would recognize: there are no gods, no prayers, no offerings, only a disciplined understanding of the world as an interconnected totality to be observed, respected, and maintained. The custodian priesthood that preserves this tradition, the **Ithári'kaan**, forms the spiritual and institutional heart of the island.
 
 For detailed culture, governance, and religious tradition, see the polity note [[affiliation-kalihara|Kalihara]].
 

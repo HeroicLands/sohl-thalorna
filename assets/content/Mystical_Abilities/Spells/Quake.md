@@ -5,7 +5,7 @@ name:
   aliases:
     - Tremor
 description: "Ground shakes violently; disrupts footing and causes damage."
-img: icons/tree.svg
+img: systems/sohl/assets/icons/other/tree.svg
 shortcode: quake
 type: mysticalability
 subType: arcaneincantation

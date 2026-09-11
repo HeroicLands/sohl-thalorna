@@ -5,6 +5,7 @@ tags:
 type: skill
 subType: mystical
 shortcode: bes
+img: icons/takheperu/pantheon/bes.svg
 name:
   full: "Ritual: Bēs"
   aliases:

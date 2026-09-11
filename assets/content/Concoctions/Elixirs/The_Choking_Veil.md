@@ -6,7 +6,7 @@ name:
   aliases:
     - Fumebomb Elixir
 description: "Murky greenish liquid; hurled to create choking smoke cloud."
-img: icons/potion.svg
+img: systems/sohl/assets/icons/other/potion.svg
 shortcode: ElxFmb
 type: concoctiongear
 subType: elixir

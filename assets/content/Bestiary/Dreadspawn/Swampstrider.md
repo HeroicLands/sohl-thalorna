@@ -5,11 +5,11 @@ name:
   full: Swampstrider
   aliases: []
 description: "A massive, supernaturally intelligent amphibian that ambushes prey from its claimed stretch of wetland with devastating precision."
-img: icons/game-icons/delapouite/griffin-symbol.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 shortcode: swmpstrd
 type: being
 data:
-  portrait: images/being/swmpstrd-portrait.webp
+  portrait: images/beings/creatures/swmpstrd-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: null
@@ -43,23 +43,22 @@ sohl:
     wil: 1d6+10
     rea: 1d4+9
     cre: 1d6+10
-  defaultCombatGroup: null
   items:
-    - { shortcode: str, type: attribute, system: { scoreBase: 14 } }
-    - { shortcode: end, type: attribute, system: { scoreBase: 16 } }
-    - { shortcode: dex, type: attribute, system: { scoreBase: 16 } }
-    - { shortcode: agl, type: attribute, system: { scoreBase: 18 } }
-    - { shortcode: per, type: attribute, system: { scoreBase: 14 } }
-    - { shortcode: aur, type: attribute, system: { scoreBase: 10 } }
-    - { shortcode: wil, type: attribute, system: { scoreBase: 14 } }
-    - { shortcode: rea, type: attribute, system: { scoreBase: 12 } }
-    - { shortcode: cre, type: attribute, system: { scoreBase: 14 } }
-    - { shortcode: awar, type: skill, system: { masteryLevelBase: 70 } }
-    - { shortcode: stlth, type: skill, system: { masteryLevelBase: 80 } }
-    - { shortcode: sprt, type: mysticalability, system: { masteryLevelBase: 36 } }
-    - { shortcode: init, type: skill, system: { masteryLevelBase: 52 } }
-    - { shortcode: dge, type: skill, system: { masteryLevelBase: 64 } }
-    - { shortcode: shok, type: skill, system: { masteryLevelBase: 38 } }
+    - { model: sohl-sohl-attribute-str, system: { scoreBase: 14 } }
+    - { model: sohl-sohl-attribute-end, system: { scoreBase: 16 } }
+    - { model: sohl-sohl-attribute-dex, system: { scoreBase: 16 } }
+    - { model: sohl-sohl-attribute-agl, system: { scoreBase: 18 } }
+    - { model: sohl-sohl-attribute-per, system: { scoreBase: 14 } }
+    - { model: sohl-sohl-attribute-aur, system: { scoreBase: 10 } }
+    - { model: sohl-sohl-attribute-wil, system: { scoreBase: 14 } }
+    - { model: sohl-sohl-attribute-rea, system: { scoreBase: 12 } }
+    - { model: sohl-sohl-attribute-cre, system: { scoreBase: 14 } }
+    - { model: sohl-sohl-skill-awar, system: { masteryLevelBase: 70 } }
+    - { model: sohl-sohl-skill-stlth, system: { masteryLevelBase: 80 } }
+    - { model: sohl-sohl-mysticalability-sprt, system: { masteryLevelBase: 36 } }
+    - { model: sohl-sohl-skill-init, system: { masteryLevelBase: 52 } }
+    - { model: sohl-sohl-skill-dge, system: { masteryLevelBase: 64 } }
+    - { model: sohl-sohl-skill-shok, system: { masteryLevelBase: 38 } }
     - name: Crushing Bite
       type: skill
       system:

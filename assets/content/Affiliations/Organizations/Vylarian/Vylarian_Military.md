@@ -270,17 +270,20 @@ The commission price tables below are denominated in Aurions as the unit of acco
 
 ### The Standing-Adjusted Commission Price Table
 
-| Rank                 | Aurelian                             | Argentean       | Aerean          | Adlect         | Politically Opposed |
-| -------------------- | ------------------------------------ | --------------- | --------------- | -------------- | ------------------- |
-| **Cadetar**          | 100–500                              | 500–2,000       | 2,000–5,000     | 5,000–15,000   | unavailable         |
-| **Subtribunar**      | 1,000–3,000                          | 3,000–10,000    | 10,000–25,000   | 25,000–60,000  | unavailable         |
-| **Tribunar**         | 5,000–15,000                         | 15,000–40,000   | 40,000–80,000   | 80,000–200,000 | unavailable         |
-| **Tribunar Magnar**  | 20,000–60,000                        | 60,000–150,000  | 150,000–400,000 | unattainable   | unavailable         |
-| **Praefar Alariae**  | 30,000–80,000                        | 80,000–200,000  | 200,000–500,000 | unattainable   | unavailable         |
-| **Legar**            | 100,000–300,000                      | 300,000–800,000 | unattainable    | unattainable   | unavailable         |
-| **Magistar Vexilii** | 500,000–1,500,000                    | unattainable    | unattainable    | unattainable   | unavailable         |
-| **Magnar**           | not for sale — appointed by Augustar |
-| **Comar Augustari**  | not for sale — appointed by Augustar |
+| Rank                 | Aurelian          | Argentean       | Aerean          | Adlect         |
+| -------------------- | ----------------- | --------------- | --------------- | -------------- |
+| **Cadetar**          | 100–500           | 500–2,000       | 2,000–5,000     | 5,000–15,000   |
+| **Subtribunar**      | 1,000–3,000       | 3,000–10,000    | 10,000–25,000   | 25,000–60,000  |
+| **Tribunar**         | 5,000–15,000      | 15,000–40,000   | 40,000–80,000   | 80,000–200,000 |
+| **Tribunar Magnar**  | 20,000–60,000     | 60,000–150,000  | 150,000–400,000 | unattainable   |
+| **Praefar Alariae**  | 30,000–80,000     | 80,000–200,000  | 200,000–500,000 | unattainable   |
+| **Legar**            | 100,000–300,000   | 300,000–800,000 | unattainable    | unattainable   |
+| **Magistar Vexilii** | 500,000–1,500,000 | unattainable    | unattainable    | unattainable   |
+| **Magnar**           | **appointed**     | -               | -               | -              |
+| **Comar Augustari**  | **appointed**     | -               | -               | -              |
+
+**appointed**: not for sale — appointed by Augustar\
+**Politically Opposed**: Commissions unavailable
 
 ### Where the Commission Payment Goes
 
@@ -337,7 +340,7 @@ Per-legion specialist staff:
 | **Architar** | Field engineer; siege works, road construction, encampment design |
 | **Fabricar** | Armorer / smith |
 | **Medicar** | Field surgeon (typically several per legion, including assistants) |
-| **Scribar** | Quartermaster's clerk; rolls, pay, supply ([[affiliation-imprlscrblgld                                              | Imperial Scribal Guild]]-trained) |
+| **Scribar** | Quartermaster's clerk; rolls, pay, supply ([[affiliation-imprlscrblgld\|Imperial Scribal Guild]] trained) |
 | **Augurar** | Diviner/chaplain — reads omens before major actions; jointly licensed by the army and the [[affiliation-ordoarcanis\|Ordo Arcanis]] |
 
 ## Cavalry, Auxiliaries, and Naval

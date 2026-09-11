@@ -11,91 +11,81 @@ name:
     - The First Refusal
 shortcode: hurnzhuk
 type: affiliation
-subType: faithtradition
+subType: criminal
 data:
   templatePriority: null
   demonym: null
   epithet: The Lord of the Unclassified
   symbol: A black seal-smear across a torn ivory registry page
   governance:
-    model: theocracy
+    model: oligarchy
     summary: >-
-      Ordained priesthood under a hierarch, with the lay faithful bound by observance rather
-      than by office.
+      A flat priesthood, not a career. There are forms, seals, censers and tribute here as surely as
+      in any temple — but the forms are forged, the seals are cut rather than issued, and the censer
+      is unlicensed. A person is lay, or they have been taught, or they can draft — and there is
+      nothing else to be. The Yokveng are not a temple religion and mostly have no temples; a censer
+      in a back room is the whole of the establishment.
+
+      They dislike being petitioned at all, and a petition they do take up is granted exactly as
+      written rather than as intended: where a celestial bureau fails safe and loses a bad filing,
+      these fail dangerous and honour it. What loyalty is owed is enforced without appeal — death
+      ordinarily, and undeath where the knowledge is too valuable to lose.
     ranks:
       - level: 0
-        title: Excommunicate
-        lore: excmmnctrnk
+        title: Recorded
+        lore: expelledrnk
         description: >-
-          Cut off from the rites, the temples and the burial the tradition promises — the one
-          sentence it can pass that outlives the body.
+          Noticed: a file opened, the forgery known to the Bureau of All Records, and the cult
+          finished with them. Where an orthodox clerk fears being struck from the rolls, here the
+          catastrophe is being entered on them.
       - level: 1
-        title: Catechumen
-        lore: catechumenrnk
-        description: Under instruction and not yet received; permitted to hear and not to partake.
+        title: Lay
+        lore: layfaithfulrnk
+        description: >-
+          Has petitioned, keeps the small observances, and is thereby known to people they would
+          rather not be known to. Most who deal with the Yokveng never go further.
       - level: 2
-        title: Lay Faithful
-        lore: layfaithfulrnk
-        description: >-
-          Of the tradition by profession and observance, keeping its feasts and its prohibitions
-          without office in it.
-      - level: 3
-        title: Devotee
-        lore: layfaithfulrnk
-        description: >-
-          Bound by a private vow — a fast, a pilgrimage, a service — beyond what the lay faithful
-          owe.
-      - level: 4
         title: Acolyte
         lore: initiaternk
         description: >-
-          Serving in the temple and learning its rites, on the path to ordination and not yet
-          holding it.
-      - level: 5
-        title: Ordained
+          Being taught the forms of address, the appeasements and the things that must not appear
+          in the same document; not yet trusted to draft anything that will be burned.
+      - level: 3
+        title: Priest
         lore: priestrnk
         description: >-
-          Priest or priestess of the tradition, empowered to perform the rites and to bind and
-          loose in its name.
-      - level: 6
-        title: Temple Officer
-        lore: highpriestrnk
-        description: Holding a charge within a temple — its treasury, its schools, its estates,
-          its oracles.
-      - level: 7
-        title: High Priest
-        lore: highpriestrnk
-        description: Head of a temple or a cult, speaking with the voice of the god in matters
-          of its doctrine.
-      - level: 8
-        title: Hierophant
-        lore: grandmasterrnk
-        description: >-
-          Head of the whole tradition, whose ruling on doctrine is final and whose sanction
-          every high priest holds at.
+          Holds this one's particular forms and prohibitions, drafts, files, and keeps whatever
+          censer they can keep — rarely a shrine and almost never a temple. Charges at rates
+          reflecting the risk rather than the skill, because the drafting is the service: a loosely
+          drawn petition is honoured to the letter.
     offices:
-      Hierophant: >-
-        Head of the tradition, final authority on its doctrine and source of every high priest's
-        sanction.
-      High Priest: Head of a temple or cult, master of its estates and voice of its god on
-        doctrine.
-      Oracle: Speaker of the god's answer, consulted before any undertaking the tradition
-        must bless.
-      Temple Steward: Administrator of a temple's lands, herds, workshops and revenue.
-      Sacristan: Keeper of the sanctuary, its vessels, its vestments and the purity of both.
-      Almoner: Distributor of the temple's charity, and the face the tradition shows the poor.
-      Lector: Reader of the sacred texts in the rites, and teacher of them to acolytes.
-      Exorcist: >-
-        Charged with what the tradition holds should not be present, and with the rites that
-        remove it.
-      Chief Augur: Reader of the signs by which the tradition fixes the hour of its acts.
-      Keeper of the Calendar: Holder of the feast-reckoning, and thereby of when the year's
-        obligations fall due.
-  commonSkills: []
+      Keeper of the Forms: >-
+        Holds the forms of address and appeasements particular to this one, which cannot be
+        improvised and are taught to very few.
+      Seal-Forger: >-
+        Cuts and applies stamps the bureaus never issued — the most technically demanding work, and
+        the most prosecuted.
+      Clerk of Transmission: >-
+        Burns the petition at an unlicensed censer, which files it wherever it goes.
+      Receiver of Tribute: >-
+        Takes the sacrifice, which is generally larger here, because the carriage is worse and the
+        risk is real.
+      Gap-Maker: >-
+        Forges not for a supplicant but to shift a boundary and leave a space no bureau oversees.
+        The work pays nothing and is the most prized in the cultus.
+      Watcher: >-
+        Keeps the cultus ahead of the Celestial Marshals and the archive's inspectors, and carries
+        out the sentence when loyalty fails.
+  commonSkills:
+    - hurnzhuk
+    - tngthkscrpt
+    - draw
+    - law
   seat: null
   domains: []
   population: null
-  economy: []
+  economy:
+    - tanvrcrncy
   lore:
     - hurnzhukdty
   parents:

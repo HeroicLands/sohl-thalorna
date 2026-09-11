@@ -5,7 +5,7 @@ name:
   aliases:
     - Crystals
 description: "Shapes ambient moisture into solid, durable ice structures and tools."
-img: icons/water.svg
+img: systems/sohl/assets/icons/game-icons/badges/water.svg
 shortcode: iceforge
 type: mysticalability
 subType: arcaneincantation

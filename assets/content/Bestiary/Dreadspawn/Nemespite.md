@@ -5,11 +5,11 @@ name:
   full: Nemespite
   aliases: []
 description: "An intelligent, venomous insectoid predator that hunts in coordinated packs across warm highlands, caves, and corrupted lands."
-img: icons/game-icons/delapouite/griffin-symbol.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 shortcode: nmspt
 type: being
 data:
-  portrait: images/being/nmspt-portrait.webp
+  portrait: images/beings/creatures/nmspt-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: null
@@ -43,23 +43,22 @@ sohl:
     rea: 1d4+5
     cre: 1d4+5
     str: 1d4
-  defaultCombatGroup: null
   items:
-    - { shortcode: end, type: attribute, system: { scoreBase: 8 } }
-    - { shortcode: dex, type: attribute, system: { scoreBase: 13 } }
-    - { shortcode: agl, type: attribute, system: { scoreBase: 15 } }
-    - { shortcode: per, type: attribute, system: { scoreBase: 11 } }
-    - { shortcode: aur, type: attribute, system: { scoreBase: 8 } }
-    - { shortcode: wil, type: attribute, system: { scoreBase: 9 } }
-    - { shortcode: rea, type: attribute, system: { scoreBase: 8 } }
-    - { shortcode: cre, type: attribute, system: { scoreBase: 8 } }
-    - { shortcode: str, type: attribute, system: { scoreBase: 2 } }
-    - { shortcode: awar, type: skill, system: { masteryLevelBase: 50 } }
-    - { shortcode: stlth, type: skill, system: { masteryLevelBase: 60 } }
-    - { shortcode: sprt, type: mysticalability, system: { masteryLevelBase: 24 } }
-    - { shortcode: init, type: skill, system: { masteryLevelBase: 36 } }
-    - { shortcode: dge, type: skill, system: { masteryLevelBase: 52 } }
-    - { shortcode: shok, type: skill, system: { masteryLevelBase: 13 } }
+    - { model: sohl-sohl-attribute-end, system: { scoreBase: 8 } }
+    - { model: sohl-sohl-attribute-dex, system: { scoreBase: 13 } }
+    - { model: sohl-sohl-attribute-agl, system: { scoreBase: 15 } }
+    - { model: sohl-sohl-attribute-per, system: { scoreBase: 11 } }
+    - { model: sohl-sohl-attribute-aur, system: { scoreBase: 8 } }
+    - { model: sohl-sohl-attribute-wil, system: { scoreBase: 9 } }
+    - { model: sohl-sohl-attribute-rea, system: { scoreBase: 8 } }
+    - { model: sohl-sohl-attribute-cre, system: { scoreBase: 8 } }
+    - { model: sohl-sohl-attribute-str, system: { scoreBase: 2 } }
+    - { model: sohl-sohl-skill-awar, system: { masteryLevelBase: 50 } }
+    - { model: sohl-sohl-skill-stlth, system: { masteryLevelBase: 60 } }
+    - { model: sohl-sohl-mysticalability-sprt, system: { masteryLevelBase: 24 } }
+    - { model: sohl-sohl-skill-init, system: { masteryLevelBase: 36 } }
+    - { model: sohl-sohl-skill-dge, system: { masteryLevelBase: 52 } }
+    - { model: sohl-sohl-skill-shok, system: { masteryLevelBase: 13 } }
     - name: Venomous Sting
       type: skill
       system:

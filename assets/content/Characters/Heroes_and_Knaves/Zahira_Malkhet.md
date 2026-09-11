@@ -8,16 +8,16 @@ name:
   title: ""
   given: Zahira
   clan: Malkhet
-  home: Bethûra
+  home: bethura
   aliases:
     - The Bounty Hunter
     - The Hound of the Veil
 packFolder: northernfertileregionbethua
 shortcode: zahirmlkht
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/zahirmlkht-portrait.webp
+  portrait: images/beings/characters/zahirmlkht-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Bounty Hunter
@@ -44,75 +44,83 @@ data:
 sohl:
   templatePriority: null
   items:
-    - { shortcode: str, type: attribute, system: { scoreBase: 15 } }
-    - { shortcode: end, type: attribute, system: { scoreBase: 14 } }
-    - { shortcode: dex, type: attribute, system: { scoreBase: 14 } }
-    - { shortcode: agl, type: attribute, system: { scoreBase: 16 } }
-    - { shortcode: per, type: attribute, system: { scoreBase: 15 } }
-    - { shortcode: cml, type: attribute, system: { scoreBase: 12 } }
-    - { shortcode: aur, type: attribute, system: { scoreBase: 11 } }
-    - { shortcode: wil, type: attribute, system: { scoreBase: 14 } }
-    - { shortcode: rea, type: attribute, system: { scoreBase: 13 } }
-    - { shortcode: cre, type: attribute, system: { scoreBase: 12 } }
-    - { shortcode: emp, type: attribute, system: { scoreBase: 11 } }
-    - { shortcode: elo, type: attribute, system: { scoreBase: 12 } }
-    - { shortcode: mor, type: attribute, system: { scoreBase: 12 } }
-    - { shortcode: voi, type: attribute, system: { scoreBase: 8 } }
-    - { shortcode: janus, type: affiliation }
-    - { shortcode: brew, type: skill, system: { masteryLevelBase: 28 } }
-    - { shortcode: cook, type: skill, system: { masteryLevelBase: 28 } }
-    - { shortcode: embl, type: skill, system: { masteryLevelBase: 14 } }
-    - { shortcode: folklr, type: skill, system: { masteryLevelBase: 13 } }
-    - { shortcode: hrld, type: skill, system: { masteryLevelBase: 26 } }
-    - { shortcode: pysn, type: skill, system: { masteryLevelBase: 28 } }
-    - { shortcode: chrm, type: skill, system: { masteryLevelBase: 36 } }
-    - { shortcode: cmd, type: skill, system: { masteryLevelBase: 26 } }
-    - { shortcode: dscr, type: skill, system: { masteryLevelBase: 39 } }
-    - { shortcode: guil, type: skill, system: { masteryLevelBase: 33 } }
-    - { shortcode: intr, type: skill, system: { masteryLevelBase: 48 } }
-    - { shortcode: sing, type: skill, system: { masteryLevelBase: 30 } }
-    - { shortcode: thtcs, type: skill, system: { masteryLevelBase: 12 } }
-    - { shortcode: anmcft, type: skill, system: { masteryLevelBase: 48 } }
-    - { shortcode: srvl, type: skill, system: { masteryLevelBase: 42 } }
-    - { shortcode: trak, type: skill, system: { masteryLevelBase: 28 } }
-    - { shortcode: awar, type: skill, system: { masteryLevelBase: 45 } }
-    - { shortcode: clmb, type: skill, system: { masteryLevelBase: 45 } }
-    - { shortcode: dnce, type: skill, system: { masteryLevelBase: 28 } }
-    - { shortcode: jump, type: skill, system: { masteryLevelBase: 48 } }
-    - { shortcode: ridg, type: skill, system: { masteryLevelBase: 13 } }
-    - { shortcode: stlth, type: skill, system: { masteryLevelBase: 45 } }
-    - { shortcode: swim, type: skill, system: { masteryLevelBase: 15 } }
-    - { shortcode: archery, type: skill, system: { masteryLevelBase: 15 } }
-    - { shortcode: init, type: skill, system: { masteryLevelBase: 70 } }
-    - { shortcode: melee, type: skill, system: { masteryLevelBase: 60 } }
-    - { shortcode: thro, type: skill, system: { masteryLevelBase: 70 } }
-    - { shortcode: draw, type: skill, system: { masteryLevelBase: 13 } }
-    - { shortcode: wpnc, type: skill, system: { masteryLevelBase: 56 } }
-    - { shortcode: BrdSwd, type: weapongear }
-    - { shortcode: Dgr, type: weapongear }
-    - { shortcode: LtShirt, type: armorgear }
-    - { shortcode: LtBrch, type: armorgear }
-    - { shortcode: LtKBoot, type: armorgear }
-    - { shortcode: LtVest, type: armorgear }
-    - { shortcode: LtCloak, type: armorgear }
-    - { shortcode: tndrbx, type: miscgear }
-    - { shortcode: FRtns, type: miscgear, system: { quantity: 3 } }
-    - { shortcode: medsupil, type: miscgear, system: { quantity: 4 } }
-    - { name: Whetstone, type: miscgear, system: { weight: 1.5, value: 100, durability: 3 } }
+    - { model: sohl-sohl-attribute-str, system: { scoreBase: 15 } }
+    - { model: sohl-sohl-attribute-end, system: { scoreBase: 14 } }
+    - { model: sohl-sohl-attribute-dex, system: { scoreBase: 14 } }
+    - { model: sohl-sohl-attribute-agl, system: { scoreBase: 16 } }
+    - { model: sohl-sohl-attribute-per, system: { scoreBase: 15 } }
+    - { model: sohl-sohl-attribute-cml, system: { scoreBase: 12 } }
+    - { model: sohl-sohl-attribute-aur, system: { scoreBase: 11 } }
+    - { model: sohl-sohl-attribute-wil, system: { scoreBase: 14 } }
+    - { model: sohl-sohl-attribute-rea, system: { scoreBase: 13 } }
+    - { model: sohl-sohl-attribute-cre, system: { scoreBase: 12 } }
+    - { model: sohl-sohl-attribute-emp, system: { scoreBase: 11 } }
+    - { model: sohl-sohl-attribute-elo, system: { scoreBase: 12 } }
+    - { model: sohl-sohl-attribute-mor, system: { scoreBase: 12 } }
+    - { model: sohl-sohl-attribute-voi, system: { scoreBase: 8 } }
+    - { model: affiliation-janus }
+    - { model: sohl-sohl-skill-brew, system: { masteryLevelBase: 28 } }
+    - { model: sohl-sohl-skill-cook, system: { masteryLevelBase: 28 } }
+    - { model: sohl-sohl-skill-embl, system: { masteryLevelBase: 14 } }
+    - { model: sohl-sohl-skill-folklr, system: { masteryLevelBase: 13 } }
+    - { model: sohl-sohl-skill-hrld, system: { masteryLevelBase: 26 } }
+    - { model: sohl-sohl-skill-pysn, system: { masteryLevelBase: 28 } }
+    - { model: sohl-sohl-skill-chrm, system: { masteryLevelBase: 36 } }
+    - { model: sohl-sohl-skill-cmd, system: { masteryLevelBase: 26 } }
+    - { model: sohl-sohl-skill-dscr, system: { masteryLevelBase: 39 } }
+    - { model: sohl-sohl-skill-guil, system: { masteryLevelBase: 33 } }
+    - { model: sohl-sohl-skill-intr, system: { masteryLevelBase: 48 } }
+    - { model: sohl-sohl-skill-sing, system: { masteryLevelBase: 30 } }
+    - { model: sohl-sohl-skill-thtcs, system: { masteryLevelBase: 12 } }
+    - { model: sohl-sohl-skill-anmcft, system: { masteryLevelBase: 48 } }
+    - { model: sohl-sohl-skill-srvl, system: { masteryLevelBase: 42 } }
+    - { model: sohl-sohl-skill-trak, system: { masteryLevelBase: 28 } }
+    - { model: sohl-sohl-skill-awar, system: { masteryLevelBase: 45 } }
+    - { model: sohl-sohl-skill-clmb, system: { masteryLevelBase: 45 } }
+    - { model: sohl-sohl-skill-dnce, system: { masteryLevelBase: 28 } }
+    - { model: sohl-sohl-skill-jump, system: { masteryLevelBase: 48 } }
+    - { model: sohl-sohl-skill-ridg, system: { masteryLevelBase: 13 } }
+    - { model: sohl-sohl-skill-stlth, system: { masteryLevelBase: 45 } }
+    - { model: sohl-sohl-skill-swim, system: { masteryLevelBase: 15 } }
+    - { model: sohl-sohl-skill-archery, system: { masteryLevelBase: 15 } }
+    - { model: sohl-sohl-skill-init, system: { masteryLevelBase: 70 } }
+    - { model: sohl-sohl-skill-melee, system: { masteryLevelBase: 60 } }
+    - { model: sohl-sohl-skill-thro, system: { masteryLevelBase: 70 } }
+    - { model: sohl-sohl-skill-draw, system: { masteryLevelBase: 13 } }
+    - { model: sohl-sohl-skill-wpnc, system: { masteryLevelBase: 56 } }
+    - { model: sohl-sohl-weapongear-brdswd }
+    - { model: sohl-sohl-weapongear-dgr }
+    - { model: sohl-sohl-armorgear-ltshirt }
+    - { model: sohl-sohl-armorgear-ltbrch }
+    - { model: sohl-sohl-armorgear-ltkboot }
+    - { model: sohl-sohl-armorgear-ltvest }
+    - { model: sohl-sohl-armorgear-ltcloak }
+    - { model: sohl-sohl-miscgear-tndrbx }
+    - { model: sohl-sohl-miscgear-frtns, system: { quantity: 3 } }
+    - { model: sohl-sohl-miscgear-medsupil, system: { quantity: 4 } }
+    - name: Whetstone
+      type: miscgear
+      system:
+        shortcode: whetstone
+        weight: 1.5
+        value: 100
+        durability: 3
     - name: Rope and climbing gear
       type: miscgear
       system:
+        shortcode: ropeandclimbinggear
         weight: 1
         value: 30
         durability: 5
     - name: Tracker's tools and tracking supplies
       type: miscgear
       system:
+        shortcode: trackerstools
         weight: 1
         value: 50
         durability: 4
-    - { shortcode: bglgcvs, type: containergear }
-    - { shortcode: wtrskin, type: containergear }
+    - { model: sohl-sohl-containergear-bglgcvs }
+    - { model: sohl-sohl-containergear-wtrskin }
   system:
     body:
       structure:
@@ -580,11 +588,13 @@ Zahira stands 5'7" tall with a heavy build. She has dark tanned skin, black hair
 
 # Dossier {#dossier}
 
+## Background
+
 ### Origin and Early Life
 
 Zahira Malkhet was born in **Sehéla**, a small grain-village of the dry southern interior of the [[affiliation-mtrrchybth|Matriarchy of Bethûa]], where the fields are kept alive only by the qanats and channels the engineer-priestesses maintain. Her family were peasants of the irrigated hinterland, working land held by the local House. As is the Bethûan way, the household turned on its women: Zahira's mother and grandmother held what little the family owned and governed its affairs, while her father and the men of the house laboured in the fields as the dependents they were under law. Zahira, the eldest daughter, was raised from the first as one who would matter — for in Bethûa it is daughters who inherit, carry the line, and answer for a household.
 
-Like every free Bethûan girl, Zahira was trained young in arms and in the **[[affiliation-mtrrchybth#The Martial Bridge: the Spear-Sisterhood and the Fleet|Charíssa]]**, the realm's lethal unarmed art that turns a woman's speed and agility into a weapon. She took to it as few do — by ten she was outfighting girls years older, and her unusual quickness, the very gift on which the Charíssa depends, marked her out to the women who trained the village levy.
+Like every free Bethûan girl, Zahira was trained young in arms and in the **[[affiliation-mtrrchybth#the-martial-bridge-the-spear-sisterhood-and-the-fleet|Charíssa]]**, the realm's lethal unarmed art that turns a woman's speed and agility into a weapon. She took to it as few do — by ten she was outfighting girls years older, and her unusual quickness, the very gift on which the Charíssa depends, marked her out to the women who trained the village levy.
 
 ### Training and Rise to Prominence
 

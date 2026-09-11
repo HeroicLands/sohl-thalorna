@@ -5,11 +5,11 @@ name:
   full: Phosphorescent Globule
   aliases: []
 description: "A cunning predatory ooze of lightless caves that lures prey with deceptive bioluminescence before striking."
-img: icons/game-icons/delapouite/slime.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 shortcode: phsphrsc
 type: being
 data:
-  portrait: images/being/phsphrsc-portrait.webp
+  portrait: images/beings/creatures/phsphrsc-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: null
@@ -43,23 +43,22 @@ sohl:
     wil: 1d4+13
     rea: 1d6+6
     cre: 1d6+10
-  defaultCombatGroup: null
   items:
-    - { shortcode: str, type: attribute, system: { scoreBase: 10 } }
-    - { shortcode: end, type: attribute, system: { scoreBase: 18 } }
-    - { shortcode: dex, type: attribute, system: { scoreBase: 14 } }
-    - { shortcode: agl, type: attribute, system: { scoreBase: 12 } }
-    - { shortcode: per, type: attribute, system: { scoreBase: 16 } }
-    - { shortcode: aur, type: attribute, system: { scoreBase: 18 } }
-    - { shortcode: wil, type: attribute, system: { scoreBase: 16 } }
-    - { shortcode: rea, type: attribute, system: { scoreBase: 10 } }
-    - { shortcode: cre, type: attribute, system: { scoreBase: 14 } }
-    - { shortcode: awar, type: skill, system: { masteryLevelBase: 80 } }
-    - { shortcode: stlth, type: skill, system: { masteryLevelBase: 70 } }
-    - { shortcode: sprt, type: mysticalability, system: { masteryLevelBase: 51 } }
-    - { shortcode: init, type: skill, system: { masteryLevelBase: 52 } }
-    - { shortcode: dge, type: skill, system: { masteryLevelBase: 56 } }
-    - { shortcode: shok, type: skill, system: { masteryLevelBase: 35 } }
+    - { model: sohl-sohl-attribute-str, system: { scoreBase: 10 } }
+    - { model: sohl-sohl-attribute-end, system: { scoreBase: 18 } }
+    - { model: sohl-sohl-attribute-dex, system: { scoreBase: 14 } }
+    - { model: sohl-sohl-attribute-agl, system: { scoreBase: 12 } }
+    - { model: sohl-sohl-attribute-per, system: { scoreBase: 16 } }
+    - { model: sohl-sohl-attribute-aur, system: { scoreBase: 18 } }
+    - { model: sohl-sohl-attribute-wil, system: { scoreBase: 16 } }
+    - { model: sohl-sohl-attribute-rea, system: { scoreBase: 10 } }
+    - { model: sohl-sohl-attribute-cre, system: { scoreBase: 14 } }
+    - { model: sohl-sohl-skill-awar, system: { masteryLevelBase: 80 } }
+    - { model: sohl-sohl-skill-stlth, system: { masteryLevelBase: 70 } }
+    - { model: sohl-sohl-mysticalability-sprt, system: { masteryLevelBase: 51 } }
+    - { model: sohl-sohl-skill-init, system: { masteryLevelBase: 52 } }
+    - { model: sohl-sohl-skill-dge, system: { masteryLevelBase: 56 } }
+    - { model: sohl-sohl-skill-shok, system: { masteryLevelBase: 35 } }
     - name: Acidic Engulfment
       type: skill
       system:

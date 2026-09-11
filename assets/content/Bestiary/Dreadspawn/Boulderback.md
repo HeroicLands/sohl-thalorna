@@ -5,11 +5,11 @@ name:
   full: Boulderback
   aliases: []
 description: "An earth-elemental of animate stone and will that stands as an impassive obstacle in mountains, caves, and magic-rich quarries."
-img: icons/game-icons/delapouite/griffin-symbol.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 shortcode: bldrbck
 type: being
 data:
-  portrait: images/being/bldrbck-portrait.webp
+  portrait: images/beings/creatures/bldrbck-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: null
@@ -42,22 +42,21 @@ sohl:
     end: 1d6+23
     agl: 1d4+4
     cre: 1d4+2
-  defaultCombatGroup: null
   items:
-    - { shortcode: per, type: attribute, system: { scoreBase: 10 } }
-    - { shortcode: aur, type: attribute, system: { scoreBase: 8 } }
-    - { shortcode: wil, type: attribute, system: { scoreBase: 18 } }
-    - { shortcode: rea, type: attribute, system: { scoreBase: 8 } }
-    - { shortcode: str, type: attribute, system: { scoreBase: 42 } }
-    - { shortcode: end, type: attribute, system: { scoreBase: 26 } }
-    - { shortcode: agl, type: attribute, system: { scoreBase: 6 } }
-    - { shortcode: cre, type: attribute, system: { scoreBase: 4 } }
-    - { shortcode: awar, type: skill, system: { masteryLevelBase: 70 } }
-    - { shortcode: stlth, type: skill, system: { masteryLevelBase: 60 } }
-    - { shortcode: sprt, type: mysticalability, system: { masteryLevelBase: 39 } }
-    - { shortcode: init, type: skill, system: { masteryLevelBase: 52 } }
-    - { shortcode: dge, type: skill, system: { masteryLevelBase: 32 } }
-    - { shortcode: shok, type: skill, system: { masteryLevelBase: 85 } }
+    - { model: sohl-sohl-attribute-per, system: { scoreBase: 10 } }
+    - { model: sohl-sohl-attribute-aur, system: { scoreBase: 8 } }
+    - { model: sohl-sohl-attribute-wil, system: { scoreBase: 18 } }
+    - { model: sohl-sohl-attribute-rea, system: { scoreBase: 8 } }
+    - { model: sohl-sohl-attribute-str, system: { scoreBase: 42 } }
+    - { model: sohl-sohl-attribute-end, system: { scoreBase: 26 } }
+    - { model: sohl-sohl-attribute-agl, system: { scoreBase: 6 } }
+    - { model: sohl-sohl-attribute-cre, system: { scoreBase: 4 } }
+    - { model: sohl-sohl-skill-awar, system: { masteryLevelBase: 70 } }
+    - { model: sohl-sohl-skill-stlth, system: { masteryLevelBase: 60 } }
+    - { model: sohl-sohl-mysticalability-sprt, system: { masteryLevelBase: 39 } }
+    - { model: sohl-sohl-skill-init, system: { masteryLevelBase: 52 } }
+    - { model: sohl-sohl-skill-dge, system: { masteryLevelBase: 32 } }
+    - { model: sohl-sohl-skill-shok, system: { masteryLevelBase: 85 } }
     - name: Crushing Blow
       type: skill
       system:

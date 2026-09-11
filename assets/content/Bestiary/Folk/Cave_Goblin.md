@@ -5,11 +5,11 @@ name:
   full: Cave Goblin
   aliases: []
 description: "A highly intelligent, amoral subterranean goblin living as solitary hunter or loose community, pursuing its own self-interest with unwavering consistency."
-img: icons/game-icons/caro-asercion/goblin.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 shortcode: cvgbln
 type: being
 data:
-  portrait: images/being/cvgbln-portrait.webp
+  portrait: images/beings/creatures/cvgbln-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: null
@@ -43,25 +43,24 @@ sohl:
     wil: 1d4+6
     rea: 1d4+6
     cre: 1d4+10
-  defaultCombatGroup: null
   items:
-    - { shortcode: str, type: attribute, system: { scoreBase: 8 } }
-    - { shortcode: end, type: attribute, system: { scoreBase: 9 } }
-    - { shortcode: dex, type: attribute, system: { scoreBase: 15 } }
-    - { shortcode: agl, type: attribute, system: { scoreBase: 13 } }
-    - { shortcode: per, type: attribute, system: { scoreBase: 13 } }
-    - { shortcode: aur, type: attribute, system: { scoreBase: 8 } }
-    - { shortcode: wil, type: attribute, system: { scoreBase: 9 } }
-    - { shortcode: rea, type: attribute, system: { scoreBase: 9 } }
-    - { shortcode: cre, type: attribute, system: { scoreBase: 13 } }
-    - { shortcode: bflkbite, type: skill }
-    - { shortcode: bflkgrab, type: skill }
-    - { shortcode: bflkheadbutt, type: skill }
-    - { shortcode: bflkkick, type: skill }
-    - { shortcode: limbblock, type: skill }
-    - { shortcode: press, type: skill }
-    - { shortcode: bflkpunch, type: skill }
-    - { shortcode: trip, type: skill }
+    - { model: sohl-sohl-attribute-str, system: { scoreBase: 8 } }
+    - { model: sohl-sohl-attribute-end, system: { scoreBase: 9 } }
+    - { model: sohl-sohl-attribute-dex, system: { scoreBase: 15 } }
+    - { model: sohl-sohl-attribute-agl, system: { scoreBase: 13 } }
+    - { model: sohl-sohl-attribute-per, system: { scoreBase: 13 } }
+    - { model: sohl-sohl-attribute-aur, system: { scoreBase: 8 } }
+    - { model: sohl-sohl-attribute-wil, system: { scoreBase: 9 } }
+    - { model: sohl-sohl-attribute-rea, system: { scoreBase: 9 } }
+    - { model: sohl-sohl-attribute-cre, system: { scoreBase: 13 } }
+    - { model: sohl-sohl-skill-bflkbite }
+    - { model: sohl-sohl-skill-bflkgrab }
+    - { model: sohl-sohl-skill-bflkheadbutt }
+    - { model: sohl-sohl-skill-bflkkick }
+    - { model: sohl-sohl-skill-limbblock }
+    - { model: sohl-sohl-skill-press }
+    - { model: sohl-sohl-skill-bflkpunch }
+    - { model: sohl-sohl-skill-trip }
   system:
     body:
       structure:

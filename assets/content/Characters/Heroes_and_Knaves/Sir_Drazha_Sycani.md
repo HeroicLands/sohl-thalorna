@@ -8,16 +8,16 @@ name:
   title: Sir
   given: Drazha
   clan: Sycâni
-  home: Telvári
+  home: telvari
   aliases:
     - Knight of the Black Flame
     - Sir Drazha Sycani
 packFolder: heroesandknaveskalihara
 shortcode: srdrzhsycnknghtblckflm
-img: icons/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/srdrzhsycnknghtblckflm-portrait.webp
+  portrait: images/beings/characters/srdrzhsycnknghtblckflm-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: Nobility (Knight Bachelor)
@@ -44,87 +44,90 @@ data:
 sohl:
   templatePriority: null
   items:
-    - { shortcode: str, type: attribute, system: { scoreBase: 16 } }
-    - { shortcode: end, type: attribute, system: { scoreBase: 14 } }
-    - { shortcode: dex, type: attribute, system: { scoreBase: 16 } }
-    - { shortcode: agl, type: attribute, system: { scoreBase: 15 } }
-    - { shortcode: per, type: attribute, system: { scoreBase: 13 } }
-    - { shortcode: cml, type: attribute, system: { scoreBase: 12 } }
-    - { shortcode: aur, type: attribute, system: { scoreBase: 10 } }
-    - { shortcode: wil, type: attribute, system: { scoreBase: 14 } }
-    - { shortcode: rea, type: attribute, system: { scoreBase: 10 } }
-    - { shortcode: cre, type: attribute, system: { scoreBase: 11 } }
-    - { shortcode: emp, type: attribute, system: { scoreBase: 9 } }
-    - { shortcode: elo, type: attribute, system: { scoreBase: 10 } }
-    - { shortcode: mor, type: attribute, system: { scoreBase: 8 } }
-    - { shortcode: voi, type: attribute, system: { scoreBase: 6 } }
-    - { shortcode: blackflame, type: affiliation }
-    - { shortcode: brew, type: skill, system: { masteryLevelBase: 24 } }
-    - { shortcode: cook, type: skill, system: { masteryLevelBase: 36 } }
-    - { shortcode: embl, type: skill, system: { masteryLevelBase: 11 } }
-    - { shortcode: eng, type: skill, system: { masteryLevelBase: 30 } }
-    - { shortcode: folklr, type: skill, system: { masteryLevelBase: 36 } }
-    - { shortcode: hrld, type: skill, system: { masteryLevelBase: 36 } }
-    - { shortcode: pysn, type: skill, system: { masteryLevelBase: 22 } }
-    - { shortcode: chrm, type: skill, system: { masteryLevelBase: 33 } }
-    - { shortcode: cmd, type: skill, system: { masteryLevelBase: 48 } }
-    - { shortcode: dscr, type: skill, system: { masteryLevelBase: 20 } }
-    - { shortcode: guil, type: skill, system: { masteryLevelBase: 30 } }
-    - { shortcode: intr, type: skill, system: { masteryLevelBase: 27 } }
-    - { shortcode: kalihrlng, type: skill, system: { masteryLevelBase: 30 } }
-    - { shortcode: sing, type: skill, system: { masteryLevelBase: 24 } }
-    - { shortcode: thtcs, type: skill, system: { masteryLevelBase: 22 } }
-    - { shortcode: anmcft, type: skill, system: { masteryLevelBase: 11 } }
-    - { shortcode: srvl, type: skill, system: { masteryLevelBase: 48 } }
-    - { shortcode: awar, type: skill, system: { masteryLevelBase: 39 } }
-    - { shortcode: clmb, type: skill, system: { masteryLevelBase: 45 } }
-    - { shortcode: dnce, type: skill, system: { masteryLevelBase: 26 } }
-    - { shortcode: jump, type: skill, system: { masteryLevelBase: 45 } }
-    - { shortcode: ridg, type: skill, system: { masteryLevelBase: 36 } }
-    - { shortcode: stlth, type: skill, system: { masteryLevelBase: 45 } }
-    - { shortcode: swim, type: skill, system: { masteryLevelBase: 15 } }
-    - { shortcode: archery, type: skill, system: { masteryLevelBase: 14 } }
-    - { shortcode: init, type: skill, system: { masteryLevelBase: 48 } }
-    - { shortcode: melee, type: skill, system: { masteryLevelBase: 64 } }
-    - { shortcode: thro, type: skill, system: { masteryLevelBase: 75 } }
-    - { shortcode: draw, type: skill, system: { masteryLevelBase: 14 } }
-    - { shortcode: mtlc, type: skill, system: { masteryLevelBase: 32 } }
-    - { shortcode: musc, type: skill, system: { masteryLevelBase: 12 } }
-    - { shortcode: wpnc, type: skill, system: { masteryLevelBase: 64 } }
-    - { shortcode: BstdSwd, type: weapongear }
-    - { shortcode: Shkn, type: weapongear }
-    - { shortcode: RndSh, type: weapongear }
-    - { shortcode: Dgr, type: weapongear }
-    - { shortcode: PlBreast, type: armorgear }
-    - { shortcode: PlGrvs, type: armorgear }
-    - { shortcode: PlVamb, type: armorgear }
-    - { shortcode: PlSpld, type: armorgear }
-    - { shortcode: Pl34Hlm, type: armorgear }
-    - { shortcode: PlKncp, type: armorgear }
-    - { shortcode: PlCou, type: armorgear }
-    - { shortcode: PlRebr, type: armorgear }
+    - { model: sohl-sohl-attribute-str, system: { scoreBase: 16 } }
+    - { model: sohl-sohl-attribute-end, system: { scoreBase: 14 } }
+    - { model: sohl-sohl-attribute-dex, system: { scoreBase: 16 } }
+    - { model: sohl-sohl-attribute-agl, system: { scoreBase: 15 } }
+    - { model: sohl-sohl-attribute-per, system: { scoreBase: 13 } }
+    - { model: sohl-sohl-attribute-cml, system: { scoreBase: 12 } }
+    - { model: sohl-sohl-attribute-aur, system: { scoreBase: 10 } }
+    - { model: sohl-sohl-attribute-wil, system: { scoreBase: 14 } }
+    - { model: sohl-sohl-attribute-rea, system: { scoreBase: 10 } }
+    - { model: sohl-sohl-attribute-cre, system: { scoreBase: 11 } }
+    - { model: sohl-sohl-attribute-emp, system: { scoreBase: 9 } }
+    - { model: sohl-sohl-attribute-elo, system: { scoreBase: 10 } }
+    - { model: sohl-sohl-attribute-mor, system: { scoreBase: 8 } }
+    - { model: sohl-sohl-attribute-voi, system: { scoreBase: 6 } }
+    - { model: affiliation-blackflame }
+    - { model: sohl-sohl-skill-brew, system: { masteryLevelBase: 24 } }
+    - { model: sohl-sohl-skill-cook, system: { masteryLevelBase: 36 } }
+    - { model: sohl-sohl-skill-embl, system: { masteryLevelBase: 11 } }
+    - { model: sohl-sohl-skill-eng, system: { masteryLevelBase: 30 } }
+    - { model: sohl-sohl-skill-folklr, system: { masteryLevelBase: 36 } }
+    - { model: sohl-sohl-skill-hrld, system: { masteryLevelBase: 36 } }
+    - { model: sohl-sohl-skill-pysn, system: { masteryLevelBase: 22 } }
+    - { model: sohl-sohl-skill-chrm, system: { masteryLevelBase: 33 } }
+    - { model: sohl-sohl-skill-cmd, system: { masteryLevelBase: 48 } }
+    - { model: sohl-sohl-skill-dscr, system: { masteryLevelBase: 20 } }
+    - { model: sohl-sohl-skill-guil, system: { masteryLevelBase: 30 } }
+    - { model: sohl-sohl-skill-intr, system: { masteryLevelBase: 27 } }
+    - { model: skill-kalihrlng, system: { masteryLevelBase: 30 } }
+    - { model: sohl-sohl-skill-sing, system: { masteryLevelBase: 24 } }
+    - { model: sohl-sohl-skill-thtcs, system: { masteryLevelBase: 22 } }
+    - { model: sohl-sohl-skill-anmcft, system: { masteryLevelBase: 11 } }
+    - { model: sohl-sohl-skill-srvl, system: { masteryLevelBase: 48 } }
+    - { model: sohl-sohl-skill-awar, system: { masteryLevelBase: 39 } }
+    - { model: sohl-sohl-skill-clmb, system: { masteryLevelBase: 45 } }
+    - { model: sohl-sohl-skill-dnce, system: { masteryLevelBase: 26 } }
+    - { model: sohl-sohl-skill-jump, system: { masteryLevelBase: 45 } }
+    - { model: sohl-sohl-skill-ridg, system: { masteryLevelBase: 36 } }
+    - { model: sohl-sohl-skill-stlth, system: { masteryLevelBase: 45 } }
+    - { model: sohl-sohl-skill-swim, system: { masteryLevelBase: 15 } }
+    - { model: sohl-sohl-skill-archery, system: { masteryLevelBase: 14 } }
+    - { model: sohl-sohl-skill-init, system: { masteryLevelBase: 48 } }
+    - { model: sohl-sohl-skill-melee, system: { masteryLevelBase: 64 } }
+    - { model: sohl-sohl-skill-thro, system: { masteryLevelBase: 75 } }
+    - { model: sohl-sohl-skill-draw, system: { masteryLevelBase: 14 } }
+    - { model: sohl-sohl-skill-mtlc, system: { masteryLevelBase: 32 } }
+    - { model: sohl-sohl-skill-musc, system: { masteryLevelBase: 12 } }
+    - { model: sohl-sohl-skill-wpnc, system: { masteryLevelBase: 64 } }
+    - { model: sohl-sohl-weapongear-bstdswd }
+    - { model: sohl-sohl-weapongear-shkn }
+    - { model: sohl-sohl-weapongear-rndsh }
+    - { model: sohl-sohl-weapongear-dgr }
+    - { model: sohl-sohl-armorgear-plbreast }
+    - { model: sohl-sohl-armorgear-plgrvs }
+    - { model: sohl-sohl-armorgear-plvamb }
+    - { model: sohl-sohl-armorgear-plspld }
+    - { model: sohl-sohl-armorgear-pl34hlm }
+    - { model: sohl-sohl-armorgear-plkncp }
+    - { model: sohl-sohl-armorgear-plcou }
+    - { model: sohl-sohl-armorgear-plrebr }
     - name: Knight's surcoat with Black Flame sigil
       type: miscgear
       system:
+        shortcode: knightssurcoat
         weight: 0.6
         value: 100
         durability: 3
     - name: Leather riding gloves
       type: miscgear
       system:
+        shortcode: leatherridinggloves
         weight: 1
         value: 100
         durability: 3
-    - { shortcode: torch, type: miscgear, system: { quantity: 3 } }
-    - { shortcode: FRtns, type: miscgear, system: { quantity: 4 } }
+    - { model: sohl-sohl-miscgear-torch, system: { quantity: 3 } }
+    - { model: sohl-sohl-miscgear-frtns, system: { quantity: 4 } }
     - name: Whetstone and oil for weapons
       type: miscgear
       system:
+        shortcode: whetstoneandoil
         weight: 1
         value: 100
         durability: 3
-    - { shortcode: bpchmd, type: containergear }
-    - { shortcode: wtrskin, type: containergear }
+    - { model: sohl-sohl-containergear-bpchmd }
+    - { model: sohl-sohl-containergear-wtrskin }
   system:
     body:
       structure:
@@ -595,6 +598,8 @@ Drazhan is a towering figure at 6'4" with a heavily muscled frame, weighing arou
 Drazha Sycâni is from **Zánatu**, a kingdom situated in a harsh and unforgiving landscape. Once a province of the Vylarian Empire, Zánatu gained independence and is now ruled by a monarch alongside the **Council of Syndics**, an oligarchic council of trade syndics. The land of Zánatu is shaped by the austere values of its people, influenced by both the Vylarian and Kaliharan cultures.
 
 Drazhan was born into the Sycâni, a powerful warrior clan, his father a fierce warlord and his mother a devoted priestess of the Black Flame. From his earliest years, Drazhan was trained to embrace the tenets of the Black Flame, which glorifies pain and suffering as paths to strength and transcendence. He was taught that strength and dominance are the measures of a person’s worth, and the weak should be crushed beneath the weight of their betters. His childhood was a brutal series of trials designed to harden him into an unrelenting warrior. The sacred **Trial of the Flames**, which every aspiring Black Flame must endure, left Drazhan’s body scarred but his spirit unbroken.
+
+## Background
 
 ### The Black Flame Order and Rise to Power
 

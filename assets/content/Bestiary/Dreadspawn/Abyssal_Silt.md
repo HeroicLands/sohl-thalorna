@@ -5,11 +5,11 @@ name:
   full: Abyssal Silt
   aliases: []
 description: "A predatory ooze from toxic marshes and deep caverns that lurks camouflaged in stagnant darkness, hungering with unnatural cunning."
-img: icons/game-icons/delapouite/griffin-symbol.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 shortcode: abysslsl
 type: being
 data:
-  portrait: images/being/abysslsl-portrait.webp
+  portrait: images/beings/creatures/abysslsl-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: null
@@ -43,23 +43,22 @@ sohl:
     wil: 1d6+14
     rea: 1d4+9
     cre: 1d4+9
-  defaultCombatGroup: null
   items:
-    - { shortcode: str, type: attribute, system: { scoreBase: 14 } }
-    - { shortcode: end, type: attribute, system: { scoreBase: 20 } }
-    - { shortcode: dex, type: attribute, system: { scoreBase: 16 } }
-    - { shortcode: agl, type: attribute, system: { scoreBase: 16 } }
-    - { shortcode: per, type: attribute, system: { scoreBase: 14 } }
-    - { shortcode: aur, type: attribute, system: { scoreBase: 12 } }
-    - { shortcode: wil, type: attribute, system: { scoreBase: 18 } }
-    - { shortcode: rea, type: attribute, system: { scoreBase: 12 } }
-    - { shortcode: cre, type: attribute, system: { scoreBase: 12 } }
-    - { shortcode: awar, type: skill, system: { masteryLevelBase: 80 } }
-    - { shortcode: stlth, type: skill, system: { masteryLevelBase: 85 } }
-    - { shortcode: sprt, type: mysticalability, system: { masteryLevelBase: 45 } }
-    - { shortcode: init, type: skill, system: { masteryLevelBase: 60 } }
-    - { shortcode: dge, type: skill, system: { masteryLevelBase: 60 } }
-    - { shortcode: shok, type: skill, system: { masteryLevelBase: 43 } }
+    - { model: sohl-sohl-attribute-str, system: { scoreBase: 14 } }
+    - { model: sohl-sohl-attribute-end, system: { scoreBase: 20 } }
+    - { model: sohl-sohl-attribute-dex, system: { scoreBase: 16 } }
+    - { model: sohl-sohl-attribute-agl, system: { scoreBase: 16 } }
+    - { model: sohl-sohl-attribute-per, system: { scoreBase: 14 } }
+    - { model: sohl-sohl-attribute-aur, system: { scoreBase: 12 } }
+    - { model: sohl-sohl-attribute-wil, system: { scoreBase: 18 } }
+    - { model: sohl-sohl-attribute-rea, system: { scoreBase: 12 } }
+    - { model: sohl-sohl-attribute-cre, system: { scoreBase: 12 } }
+    - { model: sohl-sohl-skill-awar, system: { masteryLevelBase: 80 } }
+    - { model: sohl-sohl-skill-stlth, system: { masteryLevelBase: 85 } }
+    - { model: sohl-sohl-mysticalability-sprt, system: { masteryLevelBase: 45 } }
+    - { model: sohl-sohl-skill-init, system: { masteryLevelBase: 60 } }
+    - { model: sohl-sohl-skill-dge, system: { masteryLevelBase: 60 } }
+    - { model: sohl-sohl-skill-shok, system: { masteryLevelBase: 43 } }
     - name: Corrosive Envelopment
       type: skill
       system:

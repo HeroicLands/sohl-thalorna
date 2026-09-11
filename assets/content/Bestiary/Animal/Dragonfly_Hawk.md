@@ -5,11 +5,11 @@ name:
   full: Dragonfly Hawk
   aliases: []
 description: "A dragonfly scaled to nightmare size, an agile aerial hunter of rivers, marshes, and coasts that strikes prey by sight."
-img: icons/game-icons/lorc/dragonfly.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 shortcode: drgnflyh
 type: being
 data:
-  portrait: images/being/drgnflyh-portrait.webp
+  portrait: images/beings/creatures/drgnflyh-portrait.webp
   templatePriority: null
   archetypes: []
   occupation: null
@@ -43,23 +43,22 @@ sohl:
     wil: 1d6+8
     rea: 1d4+4
     cre: 1d4+3
-  defaultCombatGroup: null
   items:
-    - { shortcode: str, type: attribute, system: { scoreBase: 12 } }
-    - { shortcode: end, type: attribute, system: { scoreBase: 13 } }
-    - { shortcode: dex, type: attribute, system: { scoreBase: 17 } }
-    - { shortcode: agl, type: attribute, system: { scoreBase: 18 } }
-    - { shortcode: per, type: attribute, system: { scoreBase: 15 } }
-    - { shortcode: aur, type: attribute, system: { scoreBase: 10 } }
-    - { shortcode: wil, type: attribute, system: { scoreBase: 12 } }
-    - { shortcode: rea, type: attribute, system: { scoreBase: 7 } }
-    - { shortcode: cre, type: attribute, system: { scoreBase: 6 } }
-    - { shortcode: awar, type: skill, system: { masteryLevelBase: 70 } }
-    - { shortcode: stlth, type: skill, system: { masteryLevelBase: 75 } }
-    - { shortcode: sprt, type: mysticalability, system: { masteryLevelBase: 33 } }
-    - { shortcode: init, type: skill, system: { masteryLevelBase: 40 } }
-    - { shortcode: dge, type: skill, system: { masteryLevelBase: 64 } }
-    - { shortcode: shok, type: skill, system: { masteryLevelBase: 33 } }
+    - { model: sohl-sohl-attribute-str, system: { scoreBase: 12 } }
+    - { model: sohl-sohl-attribute-end, system: { scoreBase: 13 } }
+    - { model: sohl-sohl-attribute-dex, system: { scoreBase: 17 } }
+    - { model: sohl-sohl-attribute-agl, system: { scoreBase: 18 } }
+    - { model: sohl-sohl-attribute-per, system: { scoreBase: 15 } }
+    - { model: sohl-sohl-attribute-aur, system: { scoreBase: 10 } }
+    - { model: sohl-sohl-attribute-wil, system: { scoreBase: 12 } }
+    - { model: sohl-sohl-attribute-rea, system: { scoreBase: 7 } }
+    - { model: sohl-sohl-attribute-cre, system: { scoreBase: 6 } }
+    - { model: sohl-sohl-skill-awar, system: { masteryLevelBase: 70 } }
+    - { model: sohl-sohl-skill-stlth, system: { masteryLevelBase: 75 } }
+    - { model: sohl-sohl-mysticalability-sprt, system: { masteryLevelBase: 33 } }
+    - { model: sohl-sohl-skill-init, system: { masteryLevelBase: 40 } }
+    - { model: sohl-sohl-skill-dge, system: { masteryLevelBase: 64 } }
+    - { model: sohl-sohl-skill-shok, system: { masteryLevelBase: 33 } }
     - name: Shearing Mandible
       type: skill
       system:
@@ -366,26 +365,6 @@ The exoskeleton provides significant protection against slashing and blunt attac
 - **Reasoning:** 5-8 (1d4+4)
 - **Creativity:** 4-7 (1d4+3)
 
-#### Razor Mandibles
+### Razor Mandibles
 
 Capable of cutting through light armor and flesh.
-
-## Attributes
-
-- **Strength:** 9-14 (1d6+8)
-
-- **Endurance:** 10-15 (1d6+9)
-
-- **Dexterity:** 14-19 (1d6+13)
-
-- **Agility:** 15-20 (1d6+14)
-
-- **Perception:** 12-17 (1d6+11)
-
-- **Aura:** 8-11 (1d4+7)
-
-- **Will:** 9-14 (1d6+8)
-
-- **Reasoning:** 5-8 (1d4+4)
-
-- **Creativity:** 4-7 (1d4+3)

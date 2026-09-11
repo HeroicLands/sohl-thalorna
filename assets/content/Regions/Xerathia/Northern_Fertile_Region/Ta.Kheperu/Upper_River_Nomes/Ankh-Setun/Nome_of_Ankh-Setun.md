@@ -109,6 +109,7 @@ data:
     - uperivrnms
   relations:
     kemtnpnthn: aligned
+    maat: aligned
 sohl:
   templatePriority: null
 packFolder: ankhsetun
@@ -118,7 +119,7 @@ packFolder: ankhsetun
 
 ## Overview
 
-Ankh-Setûn is the great granary of [[affiliation-empirtkhpr|The Empire of Ta'Kheperu]] — the most productive agricultural nome in the empire and the fullest of its storehouses. Where the river-valley broadens into one of its widest flood-basins, the annual inundation lays down silt across leagues of wheatland, and the nome's deep granaries hold the surplus that feeds the capital, the army, and the delta ports in years of failure elsewhere. Its [[affiliation-empirtkhpr#Titles and Forms of Address|Haty'a]] is the very type of the [[affiliation-uperivrnms|upper-river]] noble — conservative, hereditary, land-proud, and powerful precisely because the empire cannot do without his grain. The nome's name, "the living storehouse," is no boast but a plain description: when men in the capital speak of where the empire's bread comes from, they mean Ankh-Setûn.
+Ankh-Setûn is the great granary of [[affiliation-empirtkhpr|The Empire of Ta'Kheperu]] — the most productive agricultural nome in the empire and the fullest of its storehouses. Where the river-valley broadens into one of its widest flood-basins, the annual inundation lays down silt across leagues of wheatland, and the nome's deep granaries hold the surplus that feeds the capital, the army, and the delta ports in years of failure elsewhere. Its [[affiliation-empirtkhpr#titles-and-forms-of-address|Haty'a]] is the very type of the [[affiliation-uperivrnms|upper-river]] noble — conservative, hereditary, land-proud, and powerful precisely because the empire cannot do without his grain. The nome's name, "the living storehouse," is no boast but a plain description: when men in the capital speak of where the empire's bread comes from, they mean Ankh-Setûn.
 
 ## Character
 

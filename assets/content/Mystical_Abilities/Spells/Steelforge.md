@@ -5,7 +5,7 @@ name:
   aliases:
     - Tempering
 description: "Conjures steel; creates working material from air."
-img: icons/anvil.svg
+img: systems/sohl/assets/icons/game-icons/badges/anvil.svg
 shortcode: stlfrg
 type: mysticalability
 subType: arcaneincantation
