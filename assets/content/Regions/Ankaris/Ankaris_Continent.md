@@ -35,12 +35,15 @@ No single mountain range, river, or sea divides Ankaris in half; its geography i
 
 ## Regions
 
-```dataview
-TABLE WITHOUT ID
-    link(file.path, name.full) AS "Region",
-    description AS "Overview"
-WHERE type = "place" and subType = "region" and contains(data.parents, "ankrscntnnt")
-SORT name.full ASC
+```sql
+SELECT address.slug AS _ref,
+       name.full    AS "Region",
+       description  AS "Overview"
+FROM notes
+WHERE type = 'place'
+  AND subType = 'region'
+  AND list_contains(data.parents, 'ankrscntnnt')
+ORDER BY name.full
 ```
 
 ## Peoples

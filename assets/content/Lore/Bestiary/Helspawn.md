@@ -29,12 +29,14 @@ Helspawn exist on a spectrum defined by the completeness of the soul bound to th
 
 Between these poles lies the full range of undead existence. A soul ripped back from the afterlife and forced into its deceased body arrives damaged by the process, the more so if unwilling — incomplete, diminished by the passage. How much of the original person remains depends on how long the body had been dead, how violently the spirit was coerced back, and the skill of whomever performed the reanimation. In some cases the recently dead, especially if the death was not violent, pulled back quickly, might return confused but retaining speech, memory, and personality, although with significant confusion about their situation, and significant memmory gaps. So long as the fact of their death can be hidden fron them, they might be able to persist for a short time as if nothing had happened. But quickly the body begins to decay, the mind to degenerate, and often a great hunger for living flesh and blood blossoms. All Helspawn below the Nightwight tier degrade over time — the soul fragments eroding, the body decaying, identity slipping away week by week until nothing remains but the mindless hunger.
 
-```dataview
-TABLE WITHOUT ID
-  link(file.path, name.full) AS "Name",
-  shortcode AS "Shortcode",
-  sohl.body.weight.base AS "Weight",
-  sohl.body.bodyScaleBase AS "BodyScale",
-  description AS "Description"
-WHERE type = "being" AND sohl.kbcat = "helspawn"
+```sql
+SELECT address.slug                   AS _ref,
+       name.full                      AS "Name",
+       shortcode                      AS "Shortcode",
+       sohl.system.body.weight.base   AS "Weight",
+       sohl.system.body.bodyScaleBase AS "BodyScale",
+       description                    AS "Description"
+FROM notes
+WHERE type = 'being'
+  AND sohl.kbcat = 'helspawn'
 ```

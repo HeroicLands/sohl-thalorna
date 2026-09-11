@@ -14,8 +14,12 @@ banner: systems/sohl/assets/images/banners/adventure.webp
 
 Playable adventures and modules.
 
-```dataview
-TABLE WITHOUT ID link(file.path, name.full) AS "Name", description AS "Description"
-WHERE type = "scenario" and subType = "adventure" and package = "thalorna"
-SORT name.full ASC
+```sql
+SELECT address.slug AS _ref,
+       name.full    AS "Name",
+       description  AS "Description"
+FROM notes
+WHERE type = 'scenario'
+  AND subType = 'adventure'
+ORDER BY name.full
 ```

@@ -20,136 +20,211 @@ Arcane incantations are divided by tradition.
 
 ### Incantus Hydälis
 
-```dataview
-TABLE WITHOUT ID link(file.path, name.full) AS "Name", description AS "Description"
-WHERE type = "mysticalability" and subType = "arcaneincantation" and sohl.system.assocSkillCode = "hydalis" and package = "thalorna"
-SORT name.full ASC
+```sql
+SELECT address.slug AS _ref,
+       name.full    AS "Name",
+       description  AS "Description"
+FROM notes
+WHERE type = 'mysticalability'
+  AND subType = 'arcaneincantation'
+  AND sohl.system.assocSkillCode = 'hydalis'
+ORDER BY name.full
 ```
 
 ### Incantus Kentra
 
-```dataview
-TABLE WITHOUT ID link(file.path, name.full) AS "Name", description AS "Description"
-WHERE type = "mysticalability" and subType = "arcaneincantation" and sohl.system.assocSkillCode = "kentra" and package = "thalorna"
-SORT name.full ASC
+```sql
+SELECT address.slug AS _ref,
+       name.full    AS "Name",
+       description  AS "Description"
+FROM notes
+WHERE type = 'mysticalability'
+  AND subType = 'arcaneincantation'
+  AND sohl.system.assocSkillCode = 'kentra'
+ORDER BY name.full
 ```
 
 ### Incantus Physéra
 
-```dataview
-TABLE WITHOUT ID link(file.path, name.full) AS "Name", description AS "Description"
-WHERE type = "mysticalability" and subType = "arcaneincantation" and sohl.system.assocSkillCode = "physera" and package = "thalorna"
-SORT name.full ASC
+```sql
+SELECT address.slug AS _ref,
+       name.full    AS "Name",
+       description  AS "Description"
+FROM notes
+WHERE type = 'mysticalability'
+  AND subType = 'arcaneincantation'
+  AND sohl.system.assocSkillCode = 'physera'
+ORDER BY name.full
 ```
 
 ### Incantus Pneuménos
 
-```dataview
-TABLE WITHOUT ID link(file.path, name.full) AS "Name", description AS "Description"
-WHERE type = "mysticalability" and subType = "arcaneincantation" and sohl.system.assocSkillCode = "pneumenos" and package = "thalorna"
-SORT name.full ASC
+```sql
+SELECT address.slug AS _ref,
+       name.full    AS "Name",
+       description  AS "Description"
+FROM notes
+WHERE type = 'mysticalability'
+  AND subType = 'arcaneincantation'
+  AND sohl.system.assocSkillCode = 'pneumenos'
+ORDER BY name.full
 ```
 
 ### Incantus Pyréthos
 
-```dataview
-TABLE WITHOUT ID link(file.path, name.full) AS "Name", description AS "Description"
-WHERE type = "mysticalability" and subType = "arcaneincantation" and sohl.system.assocSkillCode = "pyrethos" and package = "thalorna"
-SORT name.full ASC
+```sql
+SELECT address.slug AS _ref,
+       name.full    AS "Name",
+       description  AS "Description"
+FROM notes
+WHERE type = 'mysticalability'
+  AND subType = 'arcaneincantation'
+  AND sohl.system.assocSkillCode = 'pyrethos'
+ORDER BY name.full
 ```
 
 ### Incantus Sidéros
 
-```dataview
-TABLE WITHOUT ID link(file.path, name.full) AS "Name", description AS "Description"
-WHERE type = "mysticalability" and subType = "arcaneincantation" and sohl.system.assocSkillCode = "sideros" and package = "thalorna"
-SORT name.full ASC
+```sql
+SELECT address.slug AS _ref,
+       name.full    AS "Name",
+       description  AS "Description"
+FROM notes
+WHERE type = 'mysticalability'
+  AND subType = 'arcaneincantation'
+  AND sohl.system.assocSkillCode = 'sideros'
+ORDER BY name.full
 ```
 
 ### Incantus Zephäris
 
-```dataview
-TABLE WITHOUT ID link(file.path, name.full) AS "Name", description AS "Description"
-WHERE type = "mysticalability" and subType = "arcaneincantation" and sohl.system.assocSkillCode = "zepharis" and package = "thalorna"
-SORT name.full ASC
+```sql
+SELECT address.slug AS _ref,
+       name.full    AS "Name",
+       description  AS "Description"
+FROM notes
+WHERE type = 'mysticalability'
+  AND subType = 'arcaneincantation'
+  AND sohl.system.assocSkillCode = 'zepharis'
+ORDER BY name.full
 ```
 
 ## Arcane Talent
 
-```dataview
-TABLE WITHOUT ID link(file.path, name.full) AS "Name", description AS "Description"
-WHERE type = "mysticalability" and subType = "arcanetalent" and package = "thalorna"
-SORT name.full ASC
+```sql
+SELECT address.slug AS _ref,
+       name.full    AS "Name",
+       description  AS "Description"
+FROM notes
+WHERE type = 'mysticalability'
+  AND subType = 'arcanetalent'
+ORDER BY name.full
 ```
 
 ## Shamanic Rite
 
-```dataview allow-empty
-TABLE WITHOUT ID link(file.path, name.full) AS "Name", description AS "Description"
-WHERE type = "mysticalability" and subType = "shamanicrite" and package = "thalorna"
-SORT name.full ASC
+```sql :allow-empty
+SELECT address.slug AS _ref,
+       name.full    AS "Name",
+       description  AS "Description"
+FROM notes
+WHERE type = 'mysticalability'
+  AND subType = 'shamanicrite'
+ORDER BY name.full
 ```
 
 ## Spirit Action
 
-```dataview allow-empty
-TABLE WITHOUT ID link(file.path, name.full) AS "Name", description AS "Description"
-WHERE type = "mysticalability" and subType = "spiritaction" and package = "thalorna"
-SORT name.full ASC
+```sql :allow-empty
+SELECT address.slug AS _ref,
+       name.full    AS "Name",
+       description  AS "Description"
+FROM notes
+WHERE type = 'mysticalability'
+  AND subType = 'spiritaction'
+ORDER BY name.full
 ```
 
 ## Spirit Power
 
-```dataview allow-empty
-TABLE WITHOUT ID link(file.path, name.full) AS "Name", description AS "Description"
-WHERE type = "mysticalability" and subType = "spiritpower" and package = "thalorna"
-SORT name.full ASC
+```sql :allow-empty
+SELECT address.slug AS _ref,
+       name.full    AS "Name",
+       description  AS "Description"
+FROM notes
+WHERE type = 'mysticalability'
+  AND subType = 'spiritpower'
+ORDER BY name.full
 ```
 
 ## Benediction
 
-```dataview allow-empty
-TABLE WITHOUT ID link(file.path, name.full) AS "Name", description AS "Description"
-WHERE type = "mysticalability" and subType = "benediction" and package = "thalorna"
-SORT name.full ASC
+```sql :allow-empty
+SELECT address.slug AS _ref,
+       name.full    AS "Name",
+       description  AS "Description"
+FROM notes
+WHERE type = 'mysticalability'
+  AND subType = 'benediction'
+ORDER BY name.full
 ```
 
 ## Divine Devotion
 
-```dataview allow-empty
-TABLE WITHOUT ID link(file.path, name.full) AS "Name", description AS "Description"
-WHERE type = "mysticalability" and subType = "divinedevotion" and package = "thalorna"
-SORT name.full ASC
+```sql :allow-empty
+SELECT address.slug AS _ref,
+       name.full    AS "Name",
+       description  AS "Description"
+FROM notes
+WHERE type = 'mysticalability'
+  AND subType = 'divinedevotion'
+ORDER BY name.full
 ```
 
 ## Divine Incantation
 
-```dataview allow-empty
-TABLE WITHOUT ID link(file.path, name.full) AS "Name", description AS "Description"
-WHERE type = "mysticalability" and subType = "divineincantation" and package = "thalorna"
-SORT name.full ASC
+```sql :allow-empty
+SELECT address.slug AS _ref,
+       name.full    AS "Name",
+       description  AS "Description"
+FROM notes
+WHERE type = 'mysticalability'
+  AND subType = 'divineincantation'
+ORDER BY name.full
 ```
 
 ## Spirit Talent
 
-```dataview allow-empty
-TABLE WITHOUT ID link(file.path, name.full) AS "Name", description AS "Description"
-WHERE type = "mysticalability" and subType = "spirittalent" and package = "thalorna"
-SORT name.full ASC
+```sql :allow-empty
+SELECT address.slug AS _ref,
+       name.full    AS "Name",
+       description  AS "Description"
+FROM notes
+WHERE type = 'mysticalability'
+  AND subType = 'spirittalent'
+ORDER BY name.full
 ```
 
 ## Alchemy
 
-```dataview allow-empty
-TABLE WITHOUT ID link(file.path, name.full) AS "Name", description AS "Description"
-WHERE type = "mysticalability" and subType = "alchemy" and package = "thalorna"
-SORT name.full ASC
+```sql :allow-empty
+SELECT address.slug AS _ref,
+       name.full    AS "Name",
+       description  AS "Description"
+FROM notes
+WHERE type = 'mysticalability'
+  AND subType = 'alchemy'
+ORDER BY name.full
 ```
 
 ## Divination
 
-```dataview allow-empty
-TABLE WITHOUT ID link(file.path, name.full) AS "Name", description AS "Description"
-WHERE type = "mysticalability" and subType = "divination" and package = "thalorna"
-SORT name.full ASC
+```sql :allow-empty
+SELECT address.slug AS _ref,
+       name.full    AS "Name",
+       description  AS "Description"
+FROM notes
+WHERE type = 'mysticalability'
+  AND subType = 'divination'
+ORDER BY name.full
 ```

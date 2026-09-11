@@ -14,8 +14,12 @@ banner: banners/settlement.webp
 
 Cities, towns, villages, and other inhabited places.
 
-```dataview
-TABLE WITHOUT ID link(file.path, name.full) AS "Name", description AS "Description"
-WHERE type = "place" and subType = "settlement" and package = "thalorna"
-SORT name.full ASC
+```sql
+SELECT address.slug AS _ref,
+       name.full    AS "Name",
+       description  AS "Description"
+FROM notes
+WHERE type = 'place'
+  AND subType = 'settlement'
+ORDER BY name.full
 ```

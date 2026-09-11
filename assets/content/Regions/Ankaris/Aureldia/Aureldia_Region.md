@@ -36,12 +36,15 @@ Climate varies correspondingly: cool and rain-washed in the north and west, temp
 
 ## Polities
 
-```dataview
-TABLE WITHOUT ID
-    link(file.path, name.full) AS "Polity",
-    description AS "Overview"
-WHERE type = "affiliation" and subType = "polity" and contains(data.domains, "aureldirgn")
-SORT name.full ASC
+```sql
+SELECT address.slug AS _ref,
+       name.full    AS "Polity",
+       description  AS "Overview"
+FROM notes
+WHERE type = 'affiliation'
+  AND subType = 'polity'
+  AND list_contains(data.domains, 'aureldirgn')
+ORDER BY name.full
 ```
 
 ## Peoples and Culture

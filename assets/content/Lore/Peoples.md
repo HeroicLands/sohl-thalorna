@@ -14,8 +14,12 @@ banner: banners/people.webp
 
 Distinct peoples, races, and lineages.
 
-```dataview
-TABLE WITHOUT ID link(file.path, name.full) AS "Name", description AS "Description"
-WHERE type = "lore" and subType = "folk" and package = "thalorna"
-SORT name.full ASC
+```sql
+SELECT address.slug AS _ref,
+       name.full    AS "Name",
+       description  AS "Description"
+FROM notes
+WHERE type = 'lore'
+  AND subType = 'folk'
+ORDER BY name.full
 ```

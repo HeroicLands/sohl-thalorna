@@ -33,12 +33,15 @@ The approaches to Aurionis are notoriously difficult. The prevailing currents an
 
 ## Regions
 
-```dataview allow-empty
-TABLE WITHOUT ID
-    link(file.path, name.full) AS "Region",
-    description AS "Overview"
-WHERE type = "place" and subType = "region" and contains(data.parents, "arnscntnnt")
-SORT name.full ASC
+```sql :allow-empty
+SELECT address.slug AS _ref,
+       name.full    AS "Region",
+       description  AS "Overview"
+FROM notes
+WHERE type = 'place'
+  AND subType = 'region'
+  AND list_contains(data.parents, 'arnscntnnt')
+ORDER BY name.full
 ```
 
 ## Peoples and Culture

@@ -14,58 +14,100 @@ packFolder: affiliationshexhodai
 
 # Pyréthos (Fire)
 
-```dataview
-TABLE WITHOUT ID link(file.path, name.full) AS "Name", level as "Level", description AS "Description"
-WHERE type = "mysticalability" and subType = "arcaneincantation" and sohl.system.assocSkillCode = "pyrethos"
-SORT level, name.full ASC
+```sql
+SELECT address.slug          AS _ref,
+       name.full             AS "Name",
+       sohl.system.levelBase AS "Level",
+       description           AS "Description"
+FROM notes
+WHERE type = 'mysticalability'
+  AND subType = 'arcaneincantation'
+  AND sohl.system.assocSkillCode = 'pyrethos'
+ORDER BY sohl.system.levelBase, name.full
 ```
 
 # Zephäris (Air)
 
-```dataview
-TABLE WITHOUT ID link(file.path, name.full) AS "Name", level as "Level", description AS "Description"
-WHERE type = "mysticalability" and subType = "arcaneincantation" and sohl.system.assocSkillCode = "zepharis"
-SORT level, name.full ASC
+```sql
+SELECT address.slug          AS _ref,
+       name.full             AS "Name",
+       sohl.system.levelBase AS "Level",
+       description           AS "Description"
+FROM notes
+WHERE type = 'mysticalability'
+  AND subType = 'arcaneincantation'
+  AND sohl.system.assocSkillCode = 'zepharis'
+ORDER BY sohl.system.levelBase, name.full
 ```
 
 # Physéra (Earth/Life)
 
-```dataview
-TABLE WITHOUT ID link(file.path, name.full) AS "Name", level as "Level", description AS "Description"
-WHERE type = "mysticalability" and subType = "arcaneincantation" and sohl.system.assocSkillCode = "physera"
-SORT level, name.full ASC
+```sql
+SELECT address.slug          AS _ref,
+       name.full             AS "Name",
+       sohl.system.levelBase AS "Level",
+       description           AS "Description"
+FROM notes
+WHERE type = 'mysticalability'
+  AND subType = 'arcaneincantation'
+  AND sohl.system.assocSkillCode = 'physera'
+ORDER BY sohl.system.levelBase, name.full
 ```
 
 # Hydälis (Water)
 
-```dataview
-TABLE WITHOUT ID link(file.path, name.full) AS "Name", level as "Level", description AS "Description"
-WHERE type = "mysticalability" and subType = "arcaneincantation" and sohl.system.assocSkillCode = "hydalis"
-SORT level, name.full ASC
+```sql
+SELECT address.slug          AS _ref,
+       name.full             AS "Name",
+       sohl.system.levelBase AS "Level",
+       description           AS "Description"
+FROM notes
+WHERE type = 'mysticalability'
+  AND subType = 'arcaneincantation'
+  AND sohl.system.assocSkillCode = 'hydalis'
+ORDER BY sohl.system.levelBase, name.full
 ```
 
 # Sidéros (Metal)
 
-```dataview
-TABLE WITHOUT ID link(file.path, name.full) AS "Name", level as "Level", description AS "Description"
-WHERE type = "mysticalability" and subType = "arcaneincantation" and sohl.system.assocSkillCode = "sideros"
-SORT level, name.full ASC
+```sql
+SELECT address.slug          AS _ref,
+       name.full             AS "Name",
+       sohl.system.levelBase AS "Level",
+       description           AS "Description"
+FROM notes
+WHERE type = 'mysticalability'
+  AND subType = 'arcaneincantation'
+  AND sohl.system.assocSkillCode = 'sideros'
+ORDER BY sohl.system.levelBase, name.full
 ```
 
 # Pneuménos (Spirit)
 
-```dataview
-TABLE WITHOUT ID link(file.path, name.full) AS "Name", level as "Level", description AS "Description"
-WHERE type = "mysticalability" and subType = "arcaneincantation" and sohl.system.assocSkillCode = "pneumenos"
-SORT level, name.full ASC
+```sql
+SELECT address.slug          AS _ref,
+       name.full             AS "Name",
+       sohl.system.levelBase AS "Level",
+       description           AS "Description"
+FROM notes
+WHERE type = 'mysticalability'
+  AND subType = 'arcaneincantation'
+  AND sohl.system.assocSkillCode = 'pneumenos'
+ORDER BY sohl.system.levelBase, name.full
 ```
 
 # Kentra ( _The Center All_)
 
-```dataview
-TABLE WITHOUT ID link(file.path, name.full) AS "Name", level as "Level", description AS "Description"
-WHERE type = "mysticalability" and subType = "arcaneincantation" and sohl.system.assocSkillCode = "kentra"
-SORT level, name.full ASC
+```sql
+SELECT address.slug          AS _ref,
+       name.full             AS "Name",
+       sohl.system.levelBase AS "Level",
+       description           AS "Description"
+FROM notes
+WHERE type = 'mysticalability'
+  AND subType = 'arcaneincantation'
+  AND sohl.system.assocSkillCode = 'kentra'
+ORDER BY sohl.system.levelBase, name.full
 ```
 
 # See Also

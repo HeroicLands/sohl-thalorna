@@ -14,8 +14,12 @@ banner: systems/sohl/assets/images/banners/world.webp
 
 The worlds of the Heroic Lands multiverse.
 
-```dataview
-TABLE WITHOUT ID link(file.path, name.full) AS "Name", description AS "Description"
-WHERE type = "place" and subType = "world" and package = "thalorna"
-SORT name.full ASC
+```sql
+SELECT address.slug AS _ref,
+       name.full    AS "Name",
+       description  AS "Description"
+FROM notes
+WHERE type = 'place'
+  AND subType = 'world'
+ORDER BY name.full
 ```

@@ -63,12 +63,15 @@ vines, which is the single most improbable fact about the island's agriculture.
 
 ## Polities
 
-```dataview
-TABLE WITHOUT ID
-    link(file.path, name.full) AS "Polity",
-    description AS "Overview"
-WHERE type = "affiliation" and subType = "polity" and contains(data.domains, "aelwyth")
-SORT name.full ASC
+```sql
+SELECT address.slug AS _ref,
+       name.full    AS "Polity",
+       description  AS "Overview"
+FROM notes
+WHERE type = 'affiliation'
+  AND subType = 'polity'
+  AND list_contains(data.domains, 'aelwyth')
+ORDER BY name.full
 ```
 
 ### Elder Race Enclaves

@@ -14,8 +14,12 @@ banner: banners/continent.webp
 
 Major landmasses of the world.
 
-```dataview
-TABLE WITHOUT ID link(file.path, name.full) AS "Name", description AS "Description"
-WHERE type = "place" and contains(tags, "continent") and package = "thalorna"
-SORT name.full ASC
+```sql
+SELECT address.slug AS _ref,
+       name.full    AS "Name",
+       description  AS "Description"
+FROM notes
+WHERE type = 'place'
+  AND list_contains(tags, 'continent')
+ORDER BY name.full
 ```

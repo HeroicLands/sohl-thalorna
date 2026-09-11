@@ -14,8 +14,12 @@ banner: banners/region.webp
 
 Geographic and cultural regions.
 
-```dataview
-TABLE WITHOUT ID link(file.path, name.full) AS "Name", description AS "Description"
-WHERE type = "place" and subType = "region" and package = "thalorna"
-SORT name.full ASC
+```sql
+SELECT address.slug AS _ref,
+       name.full    AS "Name",
+       description  AS "Description"
+FROM notes
+WHERE type = 'place'
+  AND subType = 'region'
+ORDER BY name.full
 ```
