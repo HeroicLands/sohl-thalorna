@@ -7,7 +7,7 @@ name:
     - Potion, Narcotic, Strong
 description: "Deep amber golden liquid; brings profound peace and calm."
 img: systems/sohl/assets/icons/other/potion.svg
-shortcode: PtnNarS
+shortcode: ptnnars
 type: concoctiongear
 subType: exotic
 hmk:

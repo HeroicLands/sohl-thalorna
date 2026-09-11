@@ -7,7 +7,7 @@ name:
     - Verve Elixir
 description: "Pale gold restless elixir; burns away fatigue and exhaustion."
 img: systems/sohl/assets/icons/other/potion.svg
-shortcode: ElxVrv
+shortcode: elxvrv
 type: concoctiongear
 subType: elixir
 hmk:

@@ -7,7 +7,7 @@ name:
     - Verity Elixir
 description: "Transparent clarifying elixir; pierces illusions within sixty feet."
 img: systems/sohl/assets/icons/other/potion.svg
-shortcode: ElxVer
+shortcode: elxver
 type: concoctiongear
 subType: elixir
 hmk:

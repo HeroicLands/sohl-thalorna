@@ -7,7 +7,7 @@ name:
     - Mindslave Elixir
 description: "Dark syrupy draft; clears judgment-clouds, reshapes imbiber's will."
 img: systems/sohl/assets/icons/other/potion.svg
-shortcode: ElxMsl
+shortcode: elxmsl
 type: concoctiongear
 subType: elixir
 hmk:

@@ -7,7 +7,7 @@ name:
     - Iceshield Elixir
 description: "Pale frosted blue elixir; grants protection against cold elements."
 img: systems/sohl/assets/icons/other/potion.svg
-shortcode: ElxIce
+shortcode: elxice
 type: concoctiongear
 subType: elixir
 hmk:

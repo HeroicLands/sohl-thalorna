@@ -7,7 +7,7 @@ name:
     - Dreamwalk Elixir
 description: "Opalescent shifting liquid; projects consciousness to distant locations."
 img: systems/sohl/assets/icons/other/potion.svg
-shortcode: ElxDrm
+shortcode: elxdrm
 type: concoctiongear
 subType: elixir
 hmk:

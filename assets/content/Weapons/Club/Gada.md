@@ -5,7 +5,7 @@ name:
   aliases: []
 description: "Heavy spherical or flanged mace-head; champion's crushing blow."
 img: systems/sohl/assets/icons/game-icons/badges/club.svg
-shortcode: Gada
+shortcode: gada
 type: weapongear
 sohl:
   kbcat: club

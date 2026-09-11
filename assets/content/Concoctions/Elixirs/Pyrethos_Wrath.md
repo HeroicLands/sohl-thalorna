@@ -7,7 +7,7 @@ name:
     - Eruption Elixir
 description: "Crimson heated liquid; explodes in acrid fumes causing severe damage."
 img: systems/sohl/assets/icons/other/potion.svg
-shortcode: ElxErp
+shortcode: elxerp
 type: concoctiongear
 subType: elixir
 hmk:

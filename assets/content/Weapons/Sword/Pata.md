@@ -5,7 +5,7 @@ name:
   aliases: []
 description: "Blade-fixed gauntlet for armored straight-arm thrust; duelist's sword-shield."
 img: systems/sohl/assets/icons/other/sword.svg
-shortcode: Pata
+shortcode: pata
 type: weapongear
 sohl:
   kbcat: sword
