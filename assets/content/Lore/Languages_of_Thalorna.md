@@ -113,10 +113,14 @@ The Khazári treat the matter as obvious and deny it was any kind of uplift — 
 
 ### Every Script Note
 
-```dataview
-TABLE WITHOUT ID link(file.path, name.full) AS "Name", description AS "Description"
-WHERE type = "skill" and subType = "script" and package = "thalorna"
-SORT name.full ASC
+```sql
+SELECT address.slug AS _ref,
+       name.full    AS "Name",
+       description  AS "Description"
+FROM notes
+WHERE type = 'skill'
+  AND subType = 'script'
+ORDER BY name.full COLLATE NOCASE
 ```
 
 ## Trade Languages
@@ -128,8 +132,12 @@ SORT name.full ASC
 The tables above are curated and say where each tongue is spoken; the list below
 is generated, and so cannot fall behind a language being added.
 
-```dataview
-TABLE WITHOUT ID link(file.path, name.full) AS "Name", description AS "Description"
-WHERE type = "skill" and subType = "language" and package = "thalorna"
-SORT name.full ASC
+```sql
+SELECT address.slug AS _ref,
+       name.full    AS "Name",
+       description  AS "Description"
+FROM notes
+WHERE type = 'skill'
+  AND subType = 'language'
+ORDER BY name.full COLLATE NOCASE
 ```

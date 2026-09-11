@@ -26,30 +26,42 @@ character may hold any of them without the others.
 Deity-facing traditions — pantheons, the cults of individual deities, and the
 orders sworn to them.
 
-```dataview
-TABLE WITHOUT ID link(file.path, name.full) AS "Name", description AS "Description"
-WHERE type = "affiliation" and (subType = "faithtradition" or subType = "order") and package = "thalorna"
-SORT name.full ASC
+```sql
+SELECT address.slug AS _ref,
+       name.full    AS "Name",
+       description  AS "Description"
+FROM notes
+WHERE type = 'affiliation'
+  AND subType IN ('faithtradition', 'order')
+ORDER BY name.full COLLATE NOCASE
 ```
 
 ## Schools of Magic
 
 Arcane traditions, including alchemical schools.
 
-```dataview
-TABLE WITHOUT ID link(file.path, name.full) AS "Name", description AS "Description"
-WHERE type = "affiliation" and subType = "arcanetradition" and package = "thalorna"
-SORT name.full ASC
+```sql
+SELECT address.slug AS _ref,
+       name.full    AS "Name",
+       description  AS "Description"
+FROM notes
+WHERE type = 'affiliation'
+  AND subType = 'arcanetradition'
+ORDER BY name.full COLLATE NOCASE
 ```
 
 ## Spirit Traditions
 
 Shamanic and totemic traditions, ancestor cults, and the spirit courts.
 
-```dataview
-TABLE WITHOUT ID link(file.path, name.full) AS "Name", description AS "Description"
-WHERE type = "affiliation" and subType = "spirittradition" and package = "thalorna"
-SORT name.full ASC
+```sql
+SELECT address.slug AS _ref,
+       name.full    AS "Name",
+       description  AS "Description"
+FROM notes
+WHERE type = 'affiliation'
+  AND subType = 'spirittradition'
+ORDER BY name.full COLLATE NOCASE
 ```
 
 ## Secular Bodies
@@ -57,8 +69,12 @@ SORT name.full ASC
 Guilds, banks, syndicates, noble houses, military units, and the other worldly
 institutions.
 
-```dataview
-TABLE WITHOUT ID link(file.path, name.full) AS "Name", description AS "Description"
-WHERE type = "affiliation" and (subType = "guild" or subType = "venture" or subType = "criminal" or subType = "governmental" or subType = "fellowship" or subType = "lineage") and package = "thalorna"
-SORT name.full ASC
+```sql
+SELECT address.slug AS _ref,
+       name.full    AS "Name",
+       description  AS "Description"
+FROM notes
+WHERE type = 'affiliation'
+  AND subType IN ('guild', 'venture', 'criminal', 'governmental', 'fellowship', 'lineage')
+ORDER BY name.full COLLATE NOCASE
 ```

@@ -14,8 +14,12 @@ banner: banners/site.webp
 
 Notable places — ruins, landmarks, dungeons, and wonders.
 
-```dataview
-TABLE WITHOUT ID link(file.path, name.full) AS "Name", description AS "Description"
-WHERE type = "place" and (subType = "site" or subType = "structure" or subType = "feature") and package = "thalorna"
-SORT name.full ASC
+```sql
+SELECT address.slug AS _ref,
+       name.full    AS "Name",
+       description  AS "Description"
+FROM notes
+WHERE type = 'place'
+  AND subType IN ('site', 'structure', 'feature')
+ORDER BY name.full COLLATE NOCASE
 ```

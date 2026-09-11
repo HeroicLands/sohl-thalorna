@@ -86,7 +86,8 @@ What the build does to a note:
   `/thalorna/<type>-<shortcode>/` whatever directory the note is filed in.
   Sections are Hugo directories the note format does not carry, so the ones this
   site publishes are declared in `site.sections` and nothing else creates one.
-- **Expands** its fenced `dataview` table directives against every published note.
+- **Expands** its fenced `sql` table directives — SQL run by DuckDB over the
+  content index — against every published note.
 - **Resolves** its wikilinks to site-local hrefs — the same authored links the
   pack compiler turns into Foundry `@UUID` enrichers.
 

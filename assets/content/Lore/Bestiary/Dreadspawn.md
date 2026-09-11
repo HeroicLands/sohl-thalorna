@@ -13,12 +13,14 @@ subType: bestiary
 
 Dreadspawn are unique creatures presumably formed as experiments by the gods of creation. Generally speaking, they cannot reproduce naturally, although for some reason known only to the gods some of them seem to be favored templates and are recreated over and over again.
 
-```dataview
-TABLE WITHOUT ID
-  link(file.path, name.full) AS "Name",
-  shortcode AS "Shortcode",
-  sohl.body.weight.base AS "Weight",
-  sohl.body.bodyScaleBase AS "BodyScale",
-  description AS "Description"
-WHERE type = "being" AND sohl.kbcat = "dreadspawn"
+```sql
+SELECT address.slug                   AS _ref,
+       name.full                      AS "Name",
+       shortcode                      AS "Shortcode",
+       sohl.system.body.weight.base   AS "Weight",
+       sohl.system.body.bodyScaleBase AS "BodyScale",
+       description                    AS "Description"
+FROM notes
+WHERE type = 'being'
+  AND sohl.kbcat = 'dreadspawn'
 ```

@@ -8,8 +8,13 @@ subType: reference
 shortcode: heroesknvs
 ---
 
-```dataview
-TABLE WITHOUT ID link(file.link, name.full) AS "Name", thalorna.realm AS "Realm", social.occupation AS "Occupation"
-WHERE type = "being" and file.name != "New_Character_Template" and contains(file.tags, "#heroes-and-knaves")
-SORT thalorna.realm, name.full ASC
+```sql
+SELECT address.slug    AS _ref,
+       name.full       AS "Name",
+       data.occupation AS "Occupation"
+FROM notes
+WHERE type = 'being'
+  AND file.name <> 'New_Character_Template'
+  AND list_contains(tags, 'heroes-and-knaves')
+ORDER BY name.full COLLATE NOCASE
 ```

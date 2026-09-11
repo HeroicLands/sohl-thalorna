@@ -26,12 +26,14 @@ For pantheon-to-region mapping, see [[lore-pnthnrgnlmp|Pantheon Regional Map]].
 
 # Continents
 
-```dataview
-TABLE WITHOUT ID
-    link(file.path, name.full) AS "Continent",
-    description AS "Overview"
-WHERE type = "place" and contains(tags, "continent") and package = "thalorna"
-SORT name.full ASC
+```sql
+SELECT address.slug AS _ref,
+       name.full    AS "Continent",
+       description  AS "Overview"
+FROM notes
+WHERE type = 'place'
+  AND list_contains(tags, 'continent')
+ORDER BY name.full COLLATE NOCASE
 ```
 
 ## The Elder Races
@@ -52,12 +54,13 @@ In the deepest past, the Sinalë and the Khazári lived and worked together unde
 
 # Pantheons
 
-```dataview
-TABLE WITHOUT ID
-    link(file.path, name.full) AS "Pantheon",
-    description AS "Overview"
-WHERE contains(tags, "pantheon") and package = "thalorna"
-SORT name.full ASC
+```sql
+SELECT address.slug AS _ref,
+       name.full    AS "Pantheon",
+       description  AS "Overview"
+FROM notes
+WHERE list_contains(tags, 'pantheon')
+ORDER BY name.full COLLATE NOCASE
 ```
 
 # Characters
@@ -72,24 +75,26 @@ From the great river-beasts of Ta'Kheperu to the mountain-wights of Aelwyth and 
 
 Adventuring bands, mercenary companies, and sworn fellowships whose members travel, fight, trade, and survive together.
 
-```dataview
-TABLE WITHOUT ID
-    link(file.path, name.full) AS "Company",
-    description AS "Overview"
-WHERE contains(tags, "company") and package = "thalorna"
-SORT name.full ASC
+```sql
+SELECT address.slug AS _ref,
+       name.full    AS "Company",
+       description  AS "Overview"
+FROM notes
+WHERE list_contains(tags, 'company')
+ORDER BY name.full COLLATE NOCASE
 ```
 
 # Organizations
 
 Institutions, guilds, orders, and syndicates that shape Thalornan civilization from within and without.
 
-```dataview
-TABLE WITHOUT ID
-    link(file.path, name.full) AS "Organization",
-    description AS "Overview"
-WHERE contains(tags, "organization") and package = "thalorna"
-SORT name.full ASC
+```sql
+SELECT address.slug AS _ref,
+       name.full    AS "Organization",
+       description  AS "Overview"
+FROM notes
+WHERE list_contains(tags, 'organization')
+ORDER BY name.full COLLATE NOCASE
 ```
 
 # See Also
