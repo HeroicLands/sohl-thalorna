@@ -7,7 +7,7 @@ name:
     - Erudition Elixir
 description: "Golden elixir; sharpens mind with preternatural clarity in reasoning."
 img: systems/sohl/assets/icons/other/potion.svg
-shortcode: ElxErd
+shortcode: elxerd
 type: concoctiongear
 subType: elixir
 hmk:

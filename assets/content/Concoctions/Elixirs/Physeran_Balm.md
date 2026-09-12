@@ -7,7 +7,7 @@ name:
     - Healing Elixir
 description: "Vibrant golden life elixir; banishes wounds, bleeding, exhaustion."
 img: systems/sohl/assets/icons/other/potion.svg
-shortcode: ElxHeal
+shortcode: elxheal
 type: concoctiongear
 subType: elixir
 hmk:

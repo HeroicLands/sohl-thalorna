@@ -5,7 +5,7 @@ name:
   aliases: []
 description: "Curved polearm blade for slashing across multiple foes."
 img: systems/sohl/assets/icons/noun/polearm.svg
-shortcode: GunDao
+shortcode: gundao
 type: weapongear
 sohl:
   kbcat: polearm

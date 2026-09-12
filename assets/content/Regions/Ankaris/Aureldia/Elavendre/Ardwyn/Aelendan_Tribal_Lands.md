@@ -54,12 +54,15 @@ When friction does occur, it is almost always over the same handful of issues: a
 
 ## Polities
 
-```dataview
-TABLE WITHOUT ID
-    link(file.path, name.full) AS "Polity",
-    description AS "Overview"
-WHERE type = "affiliation" and subType = "polity" and contains(data.domains, "alndntrblnds")
-SORT name.full ASC
+```sql
+SELECT address.slug AS _ref,
+       name.full    AS "Polity",
+       description  AS "Overview"
+FROM notes
+WHERE type = 'affiliation'
+  AND subType = 'polity'
+  AND list_contains(data.domains, 'alndntrblnds')
+ORDER BY name.full COLLATE NOCASE
 ```
 
 ## Borders

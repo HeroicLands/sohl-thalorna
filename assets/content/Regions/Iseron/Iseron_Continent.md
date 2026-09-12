@@ -33,12 +33,15 @@ The approaches to Iseron are as hostile as the interior. Sea ice extends far nor
 
 ## Regions
 
-```dataview allow-empty
-TABLE WITHOUT ID
-    link(file.path, name.full) AS "Region",
-    description AS "Overview"
-WHERE type = "place" and subType = "region" and contains(data.parents, "isrncntnnt")
-SORT name.full ASC
+```sql :allow-empty
+SELECT address.slug AS _ref,
+       name.full    AS "Region",
+       description  AS "Overview"
+FROM notes
+WHERE type = 'place'
+  AND subType = 'region'
+  AND list_contains(data.parents, 'isrncntnnt')
+ORDER BY name.full COLLATE NOCASE
 ```
 
 ## Inhabitants

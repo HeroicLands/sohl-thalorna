@@ -14,8 +14,11 @@ banner: systems/sohl/assets/images/banners/lore.webp
 
 Myths, legends, and background lore.
 
-```dataview
-TABLE WITHOUT ID link(file.path, name.full) AS "Name", description AS "Description"
-WHERE type = "lore" and package = "thalorna"
-SORT name.full ASC
+```sql
+SELECT address.slug AS _ref,
+       name.full    AS "Name",
+       description  AS "Description"
+FROM notes
+WHERE type = 'lore'
+ORDER BY name.full COLLATE NOCASE
 ```

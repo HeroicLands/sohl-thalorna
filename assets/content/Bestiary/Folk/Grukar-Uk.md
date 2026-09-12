@@ -43,31 +43,30 @@ sohl:
     wil: 1d4+3
     rea: 1d4+2
     cre: 1d4+3
-  defaultCombatGroup: null
   items:
-    - { shortcode: str, type: attribute, system: { scoreBase: 11 } }
-    - { shortcode: end, type: attribute, system: { scoreBase: 12 } }
-    - { shortcode: dex, type: attribute, system: { scoreBase: 8 } }
-    - { shortcode: agl, type: attribute, system: { scoreBase: 7 } }
-    - { shortcode: per, type: attribute, system: { scoreBase: 7 } }
-    - { shortcode: aur, type: attribute, system: { scoreBase: 5 } }
-    - { shortcode: wil, type: attribute, system: { scoreBase: 6 } }
-    - { shortcode: rea, type: attribute, system: { scoreBase: 5 } }
-    - { shortcode: cre, type: attribute, system: { scoreBase: 6 } }
-    - { shortcode: awar, type: skill, system: { masteryLevelBase: 35 } }
-    - { shortcode: stlth, type: skill, system: { masteryLevelBase: 30 } }
-    - { shortcode: sprt, type: mysticalability, system: { masteryLevelBase: 15 } }
-    - { shortcode: init, type: skill, system: { masteryLevelBase: 24 } }
-    - { shortcode: dge, type: skill, system: { masteryLevelBase: 28 } }
-    - { shortcode: shok, type: skill, system: { masteryLevelBase: 30 } }
-    - { shortcode: bflkbite, type: skill }
-    - { shortcode: bflkgrab, type: skill }
-    - { shortcode: bflkheadbutt, type: skill }
-    - { shortcode: bflkkick, type: skill }
-    - { shortcode: limbblock, type: skill }
-    - { shortcode: press, type: skill }
-    - { shortcode: bflkpunch, type: skill }
-    - { shortcode: trip, type: skill }
+    - { model: sohl-sohl-attribute-str, system: { scoreBase: 11 } }
+    - { model: sohl-sohl-attribute-end, system: { scoreBase: 12 } }
+    - { model: sohl-sohl-attribute-dex, system: { scoreBase: 8 } }
+    - { model: sohl-sohl-attribute-agl, system: { scoreBase: 7 } }
+    - { model: sohl-sohl-attribute-per, system: { scoreBase: 7 } }
+    - { model: sohl-sohl-attribute-aur, system: { scoreBase: 5 } }
+    - { model: sohl-sohl-attribute-wil, system: { scoreBase: 6 } }
+    - { model: sohl-sohl-attribute-rea, system: { scoreBase: 5 } }
+    - { model: sohl-sohl-attribute-cre, system: { scoreBase: 6 } }
+    - { model: sohl-sohl-skill-awar, system: { masteryLevelBase: 35 } }
+    - { model: sohl-sohl-skill-stlth, system: { masteryLevelBase: 30 } }
+    - { model: sohl-sohl-mysticalability-sprt, system: { masteryLevelBase: 15 } }
+    - { model: sohl-sohl-skill-init, system: { masteryLevelBase: 24 } }
+    - { model: sohl-sohl-skill-dge, system: { masteryLevelBase: 28 } }
+    - { model: sohl-sohl-skill-shok, system: { masteryLevelBase: 30 } }
+    - { model: sohl-sohl-skill-bflkbite }
+    - { model: sohl-sohl-skill-bflkgrab }
+    - { model: sohl-sohl-skill-bflkheadbutt }
+    - { model: sohl-sohl-skill-bflkkick }
+    - { model: sohl-sohl-skill-limbblock }
+    - { model: sohl-sohl-skill-press }
+    - { model: sohl-sohl-skill-bflkpunch }
+    - { model: sohl-sohl-skill-trip }
   system:
     body:
       structure:

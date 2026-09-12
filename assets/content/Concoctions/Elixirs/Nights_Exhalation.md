@@ -7,7 +7,7 @@ name:
     - Shadowbreath Elixir
 description: "Black viscous darkness elixir; breathes obscuring shadow around bearer."
 img: systems/sohl/assets/icons/other/potion.svg
-shortcode: ElxShd
+shortcode: elxshd
 type: concoctiongear
 subType: elixir
 hmk:

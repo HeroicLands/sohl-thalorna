@@ -14,8 +14,12 @@ banner: systems/sohl/assets/images/banners/reference.webp
 
 Reference materials and source documents.
 
-```dataview
-TABLE WITHOUT ID link(file.path, name.full) AS "Name", description AS "Description"
-WHERE type = "doc" and subType = "reference" and package = "thalorna"
-SORT name.full ASC
+```sql
+SELECT address.slug AS _ref,
+       name.full    AS "Name",
+       description  AS "Description"
+FROM notes
+WHERE type = 'doc'
+  AND subType = 'reference'
+ORDER BY name.full COLLATE NOCASE
 ```

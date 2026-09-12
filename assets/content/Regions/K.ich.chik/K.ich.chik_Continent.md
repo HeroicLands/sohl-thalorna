@@ -40,12 +40,15 @@ The **Southern Territories** range from the upper south, where K'ich'chik civili
 
 ## Regions
 
-```dataview
-TABLE WITHOUT ID
-    link(file.path, name.full) AS "Region",
-    description AS "Overview"
-WHERE type = "place" and subType = "region" and contains(data.parents, "kchchkcntnnt")
-SORT name.full ASC
+```sql
+SELECT address.slug AS _ref,
+       name.full    AS "Region",
+       description  AS "Overview"
+FROM notes
+WHERE type = 'place'
+  AND subType = 'region'
+  AND list_contains(data.parents, 'kchchkcntnnt')
+ORDER BY name.full COLLATE NOCASE
 ```
 
 ## The Five Nations of the North

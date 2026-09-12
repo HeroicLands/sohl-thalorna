@@ -50,4 +50,4 @@ Chelyx, the Tortoise, shields its children with method and craft. They excel in 
 | Spirit  | Lore, Mystical            | −10 |
 | Water   | Language, Social          | −10 |
 
-The wheel of signs, and what the six elements of the Astrokýklos each claim, are set out under [[doc-brthsgn|Birthsign]].
+The wheel of signs, and what the six elements of the Astrokýklos each claim, are set out under [[sohl-none-doc-brthsgn|Birthsign]].

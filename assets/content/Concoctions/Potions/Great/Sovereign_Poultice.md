@@ -7,7 +7,7 @@ name:
     - Potion, Curative, Great
 description: "Nearly black-green iridescent preparation; heals wounds and ailments."
 img: systems/sohl/assets/icons/other/potion.svg
-shortcode: PtnCurG
+shortcode: ptncurg
 type: concoctiongear
 subType: exotic
 hmk:

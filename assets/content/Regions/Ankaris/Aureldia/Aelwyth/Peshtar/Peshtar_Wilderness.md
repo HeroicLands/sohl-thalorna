@@ -33,12 +33,15 @@ The interior is crossed by a network of ancient trails and old stone trackways w
 
 ## Polities
 
-```dataview allow-empty
-TABLE WITHOUT ID
-    link(file.path, name.full) AS "Polity",
-    description AS "Overview"
-WHERE type = "affiliation" and subType = "polity" and contains(data.domains, "pshtrwldrns")
-SORT name.full ASC
+```sql :allow-empty
+SELECT address.slug AS _ref,
+       name.full    AS "Polity",
+       description  AS "Overview"
+FROM notes
+WHERE type = 'affiliation'
+  AND subType = 'polity'
+  AND list_contains(data.domains, 'pshtrwldrns')
+ORDER BY name.full COLLATE NOCASE
 ```
 
 ## Peoples and Culture

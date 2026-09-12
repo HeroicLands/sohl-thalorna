@@ -7,7 +7,7 @@ name:
     - Potion, Hallucinogenic, Great
 description: "Writhing near-black liquid; grants prophetic visions and future sight."
 img: systems/sohl/assets/icons/other/potion.svg
-shortcode: PtnHalG
+shortcode: ptnhalg
 type: concoctiongear
 subType: exotic
 hmk:

@@ -44,60 +44,62 @@ data:
 sohl:
   templatePriority: null
   items:
-    - { shortcode: str, type: attribute, system: { scoreBase: 9 } }
-    - { shortcode: end, type: attribute, system: { scoreBase: 10 } }
-    - { shortcode: dex, type: attribute, system: { scoreBase: 13 } }
-    - { shortcode: agl, type: attribute, system: { scoreBase: 11 } }
-    - { shortcode: per, type: attribute, system: { scoreBase: 15 } }
-    - { shortcode: cml, type: attribute, system: { scoreBase: 13 } }
-    - { shortcode: aur, type: attribute, system: { scoreBase: 11 } }
-    - { shortcode: wil, type: attribute, system: { scoreBase: 15 } }
-    - { shortcode: rea, type: attribute, system: { scoreBase: 16 } }
-    - { shortcode: cre, type: attribute, system: { scoreBase: 14 } }
-    - { shortcode: emp, type: attribute, system: { scoreBase: 12 } }
-    - { shortcode: elo, type: attribute, system: { scoreBase: 14 } }
-    - { shortcode: mor, type: attribute, system: { scoreBase: 13 } }
-    - { shortcode: voi, type: attribute, system: { scoreBase: 12 } }
-    - { shortcode: menerva, type: affiliation }
-    - { shortcode: demtkscrpt, type: skill, system: { masteryLevelBase: 78 } }
-    - { shortcode: runic, type: skill, system: { masteryLevelBase: 48 } }
-    - { shortcode: common, type: skill, system: { masteryLevelBase: 70 } }
-    - { shortcode: bethunlng, type: skill, system: { masteryLevelBase: 44 } }
-    - { shortcode: law, type: skill, system: { masteryLevelBase: 62 } }
-    - { shortcode: math, type: skill, system: { masteryLevelBase: 58 } }
-    - { shortcode: mrcn, type: skill, system: { masteryLevelBase: 55 } }
-    - { shortcode: hrld, type: skill, system: { masteryLevelBase: 60 } }
-    - { shortcode: folklr, type: skill, system: { masteryLevelBase: 40 } }
-    - { shortcode: astr, type: mysticalability, system: { masteryLevelBase: 30 } }
-    - { shortcode: intr, type: skill, system: { masteryLevelBase: 52 } }
-    - { shortcode: guil, type: skill, system: { masteryLevelBase: 48 } }
-    - { shortcode: dscr, type: skill, system: { masteryLevelBase: 50 } }
-    - { shortcode: chrm, type: skill, system: { masteryLevelBase: 38 } }
-    - { shortcode: awar, type: skill, system: { masteryLevelBase: 40 } }
-    - { shortcode: stlth, type: skill, system: { masteryLevelBase: 30 } }
-    - { shortcode: init, type: skill, system: { masteryLevelBase: 30 } }
-    - { shortcode: dge, type: skill, system: { masteryLevelBase: 24 } }
-    - { shortcode: draw, type: skill, system: { masteryLevelBase: 28 } }
-    - { shortcode: Dgr, type: weapongear }
-    - { shortcode: WTunic, type: armorgear, name: Travelling clothes (worsted) }
-    - { shortcode: WClk, type: armorgear }
+    - { model: sohl-sohl-attribute-str, system: { scoreBase: 9 } }
+    - { model: sohl-sohl-attribute-end, system: { scoreBase: 10 } }
+    - { model: sohl-sohl-attribute-dex, system: { scoreBase: 13 } }
+    - { model: sohl-sohl-attribute-agl, system: { scoreBase: 11 } }
+    - { model: sohl-sohl-attribute-per, system: { scoreBase: 15 } }
+    - { model: sohl-sohl-attribute-cml, system: { scoreBase: 13 } }
+    - { model: sohl-sohl-attribute-aur, system: { scoreBase: 11 } }
+    - { model: sohl-sohl-attribute-wil, system: { scoreBase: 15 } }
+    - { model: sohl-sohl-attribute-rea, system: { scoreBase: 16 } }
+    - { model: sohl-sohl-attribute-cre, system: { scoreBase: 14 } }
+    - { model: sohl-sohl-attribute-emp, system: { scoreBase: 12 } }
+    - { model: sohl-sohl-attribute-elo, system: { scoreBase: 14 } }
+    - { model: sohl-sohl-attribute-mor, system: { scoreBase: 13 } }
+    - { model: sohl-sohl-attribute-voi, system: { scoreBase: 12 } }
+    - { model: affiliation-menerva }
+    - { model: skill-demtkscrpt, system: { masteryLevelBase: 78 } }
+    - { model: sohl-sohl-skill-runic, system: { masteryLevelBase: 48 } }
+    - { model: sohl-sohl-skill-common, system: { masteryLevelBase: 70 } }
+    - { model: skill-bethunlng, system: { masteryLevelBase: 44 } }
+    - { model: sohl-sohl-skill-law, system: { masteryLevelBase: 62 } }
+    - { model: sohl-sohl-skill-math, system: { masteryLevelBase: 58 } }
+    - { model: sohl-sohl-skill-mrcn, system: { masteryLevelBase: 55 } }
+    - { model: sohl-sohl-skill-hrld, system: { masteryLevelBase: 60 } }
+    - { model: sohl-sohl-skill-folklr, system: { masteryLevelBase: 40 } }
+    - { model: sohl-sohl-mysticalability-astr, system: { masteryLevelBase: 30 } }
+    - { model: sohl-sohl-skill-intr, system: { masteryLevelBase: 52 } }
+    - { model: sohl-sohl-skill-guil, system: { masteryLevelBase: 48 } }
+    - { model: sohl-sohl-skill-dscr, system: { masteryLevelBase: 50 } }
+    - { model: sohl-sohl-skill-chrm, system: { masteryLevelBase: 38 } }
+    - { model: sohl-sohl-skill-awar, system: { masteryLevelBase: 40 } }
+    - { model: sohl-sohl-skill-stlth, system: { masteryLevelBase: 30 } }
+    - { model: sohl-sohl-skill-init, system: { masteryLevelBase: 30 } }
+    - { model: sohl-sohl-skill-dge, system: { masteryLevelBase: 24 } }
+    - { model: sohl-sohl-skill-draw, system: { masteryLevelBase: 28 } }
+    - { model: sohl-sohl-weapongear-dgr }
+    - { model: sohl-sohl-armorgear-wtunic, name: Travelling clothes (worsted) }
+    - { model: sohl-sohl-armorgear-wclk }
     - name: The Purple Warrant (the stolen original — crown purple-dyed vellum under the Naukrátissa's unforgeable seals)
       type: miscgear
       system:
+        shortcode: thepurplewarrant
         weight: 2
         value: 0
         durability: 2
     - name: Scribe's writing kit (reeds, inks, wax, seals)
       type: miscgear
       system:
+        shortcode: scribeswritingkit
         weight: 2
         value: 120
         durability: 3
-    - { shortcode: tndrbx, type: miscgear }
-    - { shortcode: FRtns, type: miscgear, system: { quantity: 4 } }
-    - { shortcode: gldcrwn, type: miscgear, system: { quantity: 30 } }
-    - { shortcode: bpchlg, type: containergear }
-    - { shortcode: wtrskin, type: containergear }
+    - { model: sohl-sohl-miscgear-tndrbx }
+    - { model: sohl-sohl-miscgear-frtns, system: { quantity: 4 } }
+    - { model: sohl-sohl-miscgear-gldcrwn, system: { quantity: 30 } }
+    - { model: sohl-sohl-containergear-bpchlg }
+    - { model: sohl-sohl-containergear-wtrskin }
   system:
     body:
       structure:
