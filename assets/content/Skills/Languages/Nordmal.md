@@ -79,13 +79,13 @@ reduces them: a search for _thorr_ never reaches a name spelled with a thorn,
 because there is no _t_ and no _h_ inside it to find. They are written out
 instead:
 
-| sound                         | written       | not |
-| ----------------------------- | ------------- | --- |
-| voiceless dental fricative    | `th`          | þ   |
-| its merged voiced counterpart | `d`           | ð   |
-| the low front vowel           | `ae`          | æ   |
-| the rounded back vowel        | `ö`           | ǫ   |
-| long vowels                   | `á é í ó ú ý` | —   |
+| sound                         | written       | never    |
+| ----------------------------- | ------------- | -------- |
+| voiceless dental fricative    | `th`          | thorn    |
+| its merged voiced counterpart | `d`           | eth      |
+| the low front vowel           | `ae`          | ash      |
+| the rounded back vowel        | `ö`           | o-ogonek |
+| long vowels                   | `á é í ó ú ý` | —        |
 
 The assembly is the one place the rule bends toward the older hard _t_. Spelled
 _th_ the word comes out _thing_, which is an ordinary English noun and would bury

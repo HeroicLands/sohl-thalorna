@@ -124,8 +124,8 @@ they saw — so any spelling that cannot be reached from an ordinary keyboard is
 name that has been hidden rather than decorated.
 
 The line falls in a precise place, and it is not where it looks. An accented
-letter is an ordinary letter wearing a mark: á, ê, ö, ñ, š and ǫ all reduce to
-a, e, o, n, s and o on their own, so a search for _harn_ finds Hârn without
+letter is an ordinary letter wearing a mark: á, ê, ö, ñ and š all reduce to
+a, e, o, n and s on their own, so a search for _harn_ finds Hârn without
 anybody arranging it. Thorn, eth, ash, slashed o and eszett are not accented
 letters at all — they are separate letters, with no plain letter inside them to
 reduce to, so a search for _thorr_ can never reach a name spelled with a thorn.
