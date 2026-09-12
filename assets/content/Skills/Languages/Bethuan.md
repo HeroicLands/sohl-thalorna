@@ -42,33 +42,33 @@ The defining feature is its **gender-register system**: elevated formal speech e
 
 Bethuan's vowels are notably fuller and longer-holding than Helonic:
 
-- **a** /a/ — short, open (similar to Helonic)
-- **â** /aː/ — long, open, often held with a glide
-- **à** /ɑ/ — low back, rounded (common in older forms)
-- **e** /e/ — short, front-mid
-- **ê** /eː/ — long, front-mid, often diphthongized toward /ei/
-- **i** /i/ — short, front-high
-- **î** /iː/ — long, front-high
-- **o** /o/ — short, back-mid
-- **ô** /oː/ — long, back-mid, often with rounding glide
-- **u** /u/ — short, back-high
-- **û** /uː/ — long, back-high
-- **ö** /o/ — front-rounded vowel (rare, found in older loanwords)
+- **a** — short and open, the "a" of "father" cut short
+- **â** — the same sound held long, often carried out on a glide
+- **à** — darker and rounded, the "aw" of "law" (common in older forms)
+- **e** — short, the "e" of "bet"
+- **ê** — long, drifting toward the "ei" of "vein"
+- **i** — short, the "i" of "bit"
+- **î** — long, the "ee" of "machine"
+- **o** — short, the "o" of "for"
+- **ô** — long, closing on a rounded "oh"
+- **u** — short, the "u" of "put"
+- **û** — long, the "oo" of "boot"
+- **ö** — front-rounded, as in German "schön" (rare, in older loanwords)
 
-Diphthongs are richer and more common than in Byzarian: -ia, -io, -ea, -eo are glided smoothly, and -ou /oː/ and -au /aːu/ are native. **Hiatus** (two adjacent vowels not forming a diphthong) is common and pronounced distinctly: _theo-on_ (god-ACC) is pronounced as three syllables.
+Diphthongs are richer and more common than in Byzarian: -ia, -io, -ea, -eo are glided smoothly, and -ou (a long "oh") and -au (a long "ah" gliding to "oo") are native. **Hiatus** (two adjacent vowels not forming a diphthong) is common and pronounced distinctly: _theo-on_ (god-ACC) is pronounced as three syllables.
 
 ### Consonant System
 
 Bethuan's consonants are fewer and less harsh than Byzarian's, though richer than some eastern languages:
 
-**Standard set:** p, b, t, d, k, g, f, s, m, n, r, l, y /j/, w
+**Standard set:** p, b, t, d, k, g, f, s, m, n, r, l, y (as in "yes"), w
 
 **Distinctive features:**
 
-- **th** /θ/ — theta (common, especially in formal feminine register)
-- **kh** /x/ — velar fricative (present but less frequent than in Byzarian)
-- **gh** /ɣ/ — voiced velar fricative (more common in Bethuan than western Helonic)
-- **Soft consonants:** Before front vowels (i, e), many consonants soften: t and d become /tʲ, dʲ/; k and g become /kʲ, ɡʲ/
+- **th** — as in "thin" (common, especially in formal feminine register)
+- **kh** — a rasp at the back of the throat, as in Scottish "loch" (present but less frequent than in Byzarian)
+- **gh** — the same rasp voiced, a throaty "g" that never quite closes (more common in Bethuan than western Helonic)
+- **Soft consonants:** Before front vowels (i, e), many consonants soften, taking on a "y" glide: t and d become roughly "ty" and "dy"; k and g become "ky" and "gy"
 - **Liquid gemination:** Doubled r and l (_rr_, _ll_) are common in formal speech, signaling emphasis or prestige
 
 Consonant clusters are avoided; vowel epenthesis creates intermediate vowels: _sketar_ becomes _seekatar_ (secretary).
@@ -189,7 +189,7 @@ The loans are overwhelmingly **concrete nouns**, and they pile up exactly where 
 |                        | _makhzen_                   | bonded warehouse, store           | cf. the same root behind _almacén_                                                               |
 | Calendar & measure     | _renpet_                    | year (in era-reckoning)           | as in _Renpet Sep Tepy_                                                                          |
 |                        | _Akhet, Peret, Shemu_       | the three seasons                 | the Kheperi agricultural year                                                                    |
-| Faith & divination     | _makhat_                    | the scales; the oracular weighing | Kheperi _mḫꜣt_, "balance"; tied to the [[affiliation-arldnpnthn\|Aethérían]] oracle's "weighing" |
+| Faith & divination     | _makhat_                    | the scales; the oracular weighing | Kheperi _mḫat_, "balance"; tied to the [[affiliation-arldnpnthn\|Aethérían]] oracle's "weighing" |
 | Luxury & material      | _shemen_                    | fragrant oil, unguent             | a trade-good loan                                                                                |
 |                        | _natrun_                    | natron, cleaning-salt             | a material-culture loan                                                                          |
 
@@ -200,8 +200,8 @@ _(These forms are illustrative; the pattern matters more than any single coinage
 Kheperi has sounds Bethuan does not, and they are regularly smoothed away on the tongue of a Bethuan speaker:
 
 - **Emphatics** (ṭ, ḍ, ḳ) collapse into plain _t, d, k_.
-- **Pharyngeals** (ḥ, ẓ) and the Kheperi **glottal stop** are dropped, or ḥ hardens to Bethuan _kh_ /x/; a lost glottal stop usually leaves a Bethuan **hiatus** in its place.
-- Kheperi's spare three-vowel system (_a, i, u_) is recoloured into Bethuan's richer set, typically by **lengthening** (_a → â, i → î, u → û_) and by epenthetic _e_ and _o_.
+- **Pharyngeals** (ḥ, ẓ) and the Kheperi **glottal stop** are dropped, or ḥ hardens to Bethuan _kh_, a throaty rasp; a lost glottal stop usually leaves a Bethuan **hiatus** in its place.
+- Kheperi's spare three-vowel system (_a, i, u_) is recoloured into Bethuan's richer set, typically by **lengthening** (_a > â, i > î, u > û_) and by epenthetic _e_ and _o_.
 - **Consonant clusters**, which Bethuan dislikes, are broken with an inserted vowel (the same epenthesis that turns _sketar_ into _seekatar_).
 - Stress is reset to the Bethuan **paroxytone** default.
 
@@ -265,10 +265,10 @@ When Helonic names are used in Bethuan contexts, they undergo regular phonetic s
 
 | Helonic Feature                        | Bethuan Shift                                              | Example                                   |
 | -------------------------------------- | ---------------------------------------------------------- | ----------------------------------------- |
-| Hard velar k, g before front vowels    | Soft /kʲ/, /ɡʲ/ or palatal                                 | _Khalîros_ → _Khâliîros_                  |
-| Final -os (masculine)                  | Lengthens to -ôs; in formal feminine context, recast to -a | _Hassârîon_ → _Hasarîa_ (formal)          |
-| Short vowels before consonant clusters | Lengthened, cluster simplified                             | _Jádhâros_ → _Jâdhâros_                   |
-| Sibilant s                             | More fricative, dental articulation                        | _Sàbìron_ → _Thàbìron_ (in some contexts) |
+| Hard velar k, g before front vowels    | Softened to "ky", "gy", or fully palatal                   | _Khalîros_ > _Khâliîros_                  |
+| Final -os (masculine)                  | Lengthens to -ôs; in formal feminine context, recast to -a | _Hassârîon_ > _Hasarîa_ (formal)          |
+| Short vowels before consonant clusters | Lengthened, cluster simplified                             | _Jádhâros_ > _Jâdhâros_                   |
+| Sibilant s                             | More fricative, dental articulation                        | _Sàbìron_ > _Thàbìron_ (in some contexts) |
 | Theta (th)                             | Frequent in formal feminine register                       | _Thammâs_, _Thêbas_ (preserved)           |
 
 ### Bethuan-Specific Naming Conventions

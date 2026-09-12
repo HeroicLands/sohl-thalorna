@@ -47,7 +47,7 @@ Kheperi possesses a distinctive consonantal inventory with several features that
 
 **Fricatives:**
 
-- Unvoiced: f, θ (interdental), s, š (palatal), x (velar), ḥ (pharyngeal), h
+- Unvoiced: f, th (as in "thin"), s, š (palatal), x (velar), ḥ (pharyngeal), h
 - Voiced: z, ẓ (pharyngeal fricative)
 
 **Nasals:** m, n
@@ -64,7 +64,7 @@ Kheperi distinguishes three cardinal vowels, each with short and long variants:
 
 **Vowels:** a (short/long ā), i (short/long ī), u (short/long ū)
 
-**Secondary Vowel Reduction:** In rapid speech, unstressed vowels may reduce toward schwa (ə), though this is not conventionally written in formal texts.
+**Secondary Vowel Reduction:** In rapid speech, unstressed vowels may flatten toward the "a" of "about", though this is not conventionally written in formal texts.
 
 **Diphthongs:** ay, aw, iy occur but are often treated as vowel + glide sequences rather than true diphthongs.
 

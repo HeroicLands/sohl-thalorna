@@ -43,12 +43,12 @@ Nyáluban employs a rich consonantal inventory shaped by areal contact with neig
 
 - Unvoiced: p, t, k
 - Voiced: b, d, g
-- Implosive: ɓ (voiced bilabial), ɗ (voiced alveolar), ɠ (voiced velar)
+- Implosive: b', d', g' — voiced stops drawn inward instead of released outward, giving them a hollow, popping quality
 
 **Fricatives:**
 
-- Unvoiced: f, s, sh (ʃ), h
-- Voiced: z, zh (ʒ), x (velar fricative)
+- Unvoiced: f, s, sh (as in "ship"), h
+- Voiced: z, zh (as the "s" in "measure"), x (velar fricative)
 
 **Nasals:** m, n, ny (ñ), ng (ŋ)
 
@@ -58,7 +58,7 @@ Nyáluban employs a rich consonantal inventory shaped by areal contact with neig
 
 **Distinctive Features:**
 
-- The implosive consonants (ɓ, ɗ, ɠ) create a striking rhythmic pattern and carry grammatical weight
+- The implosive consonants (b', d', g') create a striking rhythmic pattern and carry grammatical weight
 - Geminate consonants are phonemically significant and frequently mark verb tenses or plurality
 - Nasal consonants are numerous and productive in morphological processes
 - The language possesses a high degree of consonantal richness, particularly in fricatives and nasals
@@ -77,13 +77,15 @@ Nyáluban distinguishes five cardinal vowels with length distinctions:
 
 Nyáluban is a sophisticated **multi-level tone language** with four to seven contrastive tones depending on analysis:
 
-1. **High Tone (˥):** A high, level pitch
-2. **Mid-High Tone (˦):** Between high and mid
-3. **Mid Tone (˧):** A neutral, middle register
-4. **Mid-Low Tone (˨):** Between mid and low
-5. **Low Tone (˩):** A low, level pitch
-6. **Rising Tone (˨˦ or ˧˥):** Rises from lower to higher register
-7. **Falling Tone (˥˩ or ˦˨):** Falls from higher to lower register
+Pitch is numbered on a five-step scale, 1 the lowest register and 5 the highest — the notation Thaloran scribes use when transcribing drum-speech.
+
+1. **High Tone (5):** A high, level pitch
+2. **Mid-High Tone (4):** Between high and mid
+3. **Mid Tone (3):** A neutral, middle register
+4. **Mid-Low Tone (2):** Between mid and low
+5. **Low Tone (1):** A low, level pitch
+6. **Rising Tone (2–4 or 3–5):** Rises from a lower register to a higher one
+7. **Falling Tone (5–1 or 4–2):** Falls from a higher register to a lower one
 
 **Grammatical Functions of Tone:**
 

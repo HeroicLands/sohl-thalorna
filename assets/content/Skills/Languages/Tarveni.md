@@ -44,7 +44,7 @@ Tarvéni employs a rich inventory of consonants with strong distinctions between
 
 **Stress and Accent:** Stress is marked through increased loudness and vowel lengthening. The stress pattern varies lexically (not fixed by position like Vylari): some words are inherently stressed on the first syllable (RÁN-zi-o), others on the final (fer-RÍK). Dialect variation is most apparent in stress assignment.
 
-**Distinctive Features:** Tarvéni speakers trill their /r/ sounds, and this feature is associated with educated speech and formal contexts. The language permits complex consonant clusters at word boundaries and internal positions, making it sound more consonant-heavy than Vylari or Provenzal. The glottal stop /ʔ/ marks emphasis or separation between words in formal speech.
+**Distinctive Features:** Tarvéni speakers trill their /r/ sounds, and this feature is associated with educated speech and formal contexts. The language permits complex consonant clusters at word boundaries and internal positions, making it sound more consonant-heavy than Vylari or Provenzal. A glottal stop — the catch in the middle of "uh-oh" — marks emphasis or separation between words in formal speech.
 
 ## Grammar Notes
 

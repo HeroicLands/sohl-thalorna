@@ -71,14 +71,14 @@ The conversion ratio between the Vylarian and Kheperi systems is fixed by long c
 
 Working the other way:
 
-| Ta'Kheperan    | Vylarian             |
-| -------------- | -------------------- |
-| 1 copper kite  | 0.1 Argo (~1 Bit)    |
-| 1 copper deben | 1 Argo               |
-| 1 silver kite  | 0.2 Argo (~2 Bits)   |
-| 1 silver deben | 2 Argo               |
-| 1 gold kite    | 2 Argo               |
-| 1 gold deben   | 20 Argo (= ⅛ Aurion) |
+| Ta'Kheperan    | Vylarian               |
+| -------------- | ---------------------- |
+| 1 copper kite  | 0.1 Argo (~1 Bit)      |
+| 1 copper deben | 1 Argo                 |
+| 1 silver kite  | 0.2 Argo (~2 Bits)     |
+| 1 silver deben | 2 Argo                 |
+| 1 gold kite    | 2 Argo                 |
+| 1 gold deben   | 20 Argo (= 1/8 Aurion) |
 
 A SoHL item priced at _X_ Argo costs **X × 0.5 silver deben** (or equivalent in any other metal). A 6 Argo dagger is 3 silver deben; a 240 Argo Mail Shirt is 120 silver deben (or 12 gold deben, or any equivalent combination). The conversion is mechanical: no SoHL item's value field needs to change for a Ta'Kheperan campaign.
 
@@ -193,7 +193,7 @@ These prices align with the canonical SoHL gear data via the 1 Argo = 0.5 silver
 | Senior priestly noble house     | —                               | total assets 250,000–1,000,000 gold deben                                                |
 | Per-Aá's personal household     | —                               | total assets in the tens of millions of gold deben, mostly in land and temple endowments |
 
-(Approximate Argo-equivalents: divide gold deben by 8 for Aurion; multiply silver deben by 2 for Argo. A laborer's year ≈ ~25–35 Argo (~⅙ Aurion); a senior priestly house ≈ 2–8 million Argo (~12,500–50,000 Aurion). The scale matches the Vylarian scale once converted.)
+(Approximate Argo-equivalents: divide gold deben by 8 for Aurion; multiply silver deben by 2 for Argo. A laborer's year ≈ ~25–35 Argo (~1/6 Aurion); a senior priestly house ≈ 2–8 million Argo (~12,500–50,000 Aurion). The scale matches the Vylarian scale once converted.)
 
 ## Grain Credit and the Temple Granaries
 
