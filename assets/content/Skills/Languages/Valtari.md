@@ -56,11 +56,11 @@ Consonant clusters are rare and usually occur at word boundaries. Most syllables
 
 Five basic vowels, with some variation in pronunciation depending on speaker origin:
 
-- **A** — open central /a/, variable (reduced toward /ə/ in unstressed syllables)
-- **E** — mid front /e/ (or reduced to /ə/ in rapid speech)
-- **I** — high front /i/ (or reduced to /ɪ/)
-- **O** — mid back /o/ (or reduced toward /ə/)
-- **U** — high back /u/
+- **A** — an open "ah", variable (flattening toward the "a" of "about" when unstressed)
+- **E** — as in "bet" (flattening toward the "a" of "about" in rapid speech)
+- **I** — as in "machine" (shortening toward the "i" of "bit")
+- **O** — as in "note" (flattening toward the "a" of "about")
+- **U** — as in "boot"
 
 Vowels are often **reduced in unstressed syllables**, especially in the speech of hurried traders. A word like "Mahira" might be pronounced "Mhra" in rapid dock speech. Non-native speakers often simplify vowels further, contributing to the language's fluidity and mutability.
 

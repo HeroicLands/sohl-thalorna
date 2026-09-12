@@ -32,45 +32,45 @@ The Tānvüri language — known natively as **Tānvüri Thëitōk** ("Celestial
 
 ### Consonants
 
-| Letter(s) | Pronunciation                         | Notes                     |
-| --------- | ------------------------------------- | ------------------------- |
-| b         | /b/ voiced bilabial stop              |                           |
-| ch        | /tʃ/ voiceless postalveolar affricate |                           |
-| d         | /d/ voiced alveolar stop              |                           |
-| f         | /f/ voiceless labiodental fricative   |                           |
-| g         | /g/ voiced velar stop (always hard)   |                           |
-| h         | /h/ voiceless glottal fricative       |                           |
-| j         | /dʒ/ voiced postalveolar affricate    |                           |
-| k         | /k/ voiceless velar stop              |                           |
-| l         | /l/ alveolar lateral                  |                           |
-| m         | /m/ bilabial nasal                    |                           |
-| n         | /n/ alveolar nasal                    |                           |
-| r         | /ɹ/ alveolar approximant              |                           |
-| s         | /s/ voiceless alveolar fricative      |                           |
-| sh        | /ʃ/ voiceless postalveolar fricative  |                           |
-| t         | /t/ voiceless alveolar stop           |                           |
-| **th**    | /θ/ voiceless dental fricative        | Distinctive Tānvüri sound |
-| **v**     | /v/ voiced labiodental fricative      | Distinctive Tānvüri sound |
-| z         | /z/ voiced alveolar fricative         |                           |
-| zh        | /ʒ/ voiced postalveolar fricative     |                           |
+| Letter(s) | Pronunciation                    | Notes                     |
+| --------- | -------------------------------- | ------------------------- |
+| b         | as in "bed"                      |                           |
+| ch        | as in "church"                   |                           |
+| d         | as in "dog"                      |                           |
+| f         | as in "fine"                     |                           |
+| g         | as in "get", always hard         |                           |
+| h         | as in "hat"                      |                           |
+| j         | as in "judge"                    |                           |
+| k         | as in "kite"                     |                           |
+| l         | as in "let"                      |                           |
+| m         | as in "man"                      |                           |
+| n         | as in "net"                      |                           |
+| r         | as in English "red", not trilled |                           |
+| s         | as in "sit"                      |                           |
+| sh        | as in "ship"                     |                           |
+| t         | as in "top"                      |                           |
+| **th**    | as in "thin", never as in "this" | Distinctive Tānvüri sound |
+| **v**     | as in "vine"                     | Distinctive Tānvüri sound |
+| z         | as in "zeal"                     |                           |
+| zh        | as the "s" in "measure"          |                           |
 
 ### Vowels
 
-| Letter | Pronunciation                     | Notes                        |
-| ------ | --------------------------------- | ---------------------------- |
-| a      | /a/ open front unrounded          |                              |
-| ā      | /aː/ long open front              | Macron indicates lengthening |
-| e      | /ɛ/ open-mid front                |                              |
-| **ë**  | /ə/ mid-central (schwa)           | Distinctive Tānvüri vowel    |
-| i      | /i/ close front unrounded         |                              |
-| ī      | /iː/ long close front             |                              |
-| o      | /o/ close-mid back rounded        |                              |
-| ō      | /oː/ long close-mid back          |                              |
-| **ö**  | /o/ close-mid front rounded       | Distinctive Tānvüri vowel    |
-| u      | /u/ close back rounded            |                              |
-| ü      | /y/ close front rounded           |                              |
-| ëi     | /əi/ schwa gliding to close front |                              |
-| ōk     | /oːk/ long back vowel + stop      |                              |
+| Letter | Pronunciation                  | Notes                        |
+| ------ | ------------------------------ | ---------------------------- |
+| a      | as in "father", cut short      |                              |
+| ā      | a long "ah", as in "father"    | Macron indicates lengthening |
+| e      | as in "bet"                    |                              |
+| **ë**  | the unstressed "a" of "about"  | Distinctive Tānvüri vowel    |
+| i      | as in "ski", cut short         |                              |
+| ī      | a long "ee", as in "machine"   |                              |
+| o      | as in "note", cut short        |                              |
+| ō      | a long "oh", as in "note"      |                              |
+| **ö**  | front-rounded, German "schön"  | Distinctive Tānvüri vowel    |
+| u      | as in "boot", cut short        |                              |
+| ü      | front-rounded, German "über"   |                              |
+| ëi     | "about" gliding into "ee"      |                              |
+| ōk     | a long "oh" closed by a hard k |                              |
 
 ### Distinctive Features
 
@@ -78,9 +78,9 @@ Tānvüri has several phonological characteristics that give it an immediately r
 
 **Final consonant stops** — Tānvüri words frequently end in **-k** and **-t**, giving speech a clipped, precise quality. Examples: _thāt_ (mountain), _höt_ (fire), _jīk_ (metal), _vōk_ (court).
 
-**Initial v-** — The consonant /v/ is extremely common in word-initial position: _vōk_ (court), _vān_ (myriad), _vëng_ (wind), _vōr_ (divine).
+**Initial v-** — The consonant **v** is extremely common in word-initial position: _vōk_ (court), _vān_ (myriad), _vëng_ (wind), _vōr_ (divine).
 
-**Initial th-** — The dental fricative /θ/ is used frequently and is a hallmark of Tānvüri: _thāt_ (mountain), _thëi_ (scholar), _thōk_ (knowledge), _thürk_ (winter).
+**Initial th-** — The "th" of "thin" is used frequently and is a hallmark of Tānvüri: _thāt_ (mountain), _thëi_ (scholar), _thōk_ (knowledge), _thürk_ (winter).
 
 **The vowel ë** — A mid-central schwa that gives Tānvüri its characteristic "muted" quality. It appears in nearly every other morpheme: _tëng_ (heaven), _lëi_ (spirit), _zhëk_ (life).
 
@@ -106,17 +106,17 @@ Tānvüri is a **head-final, modifier-first** language. Adjectives and possessor
 
 Examples:
 
-- _Tëngvōk_ = Celestial (_tëng_) + Court (_vōk_) → "Celestial Court"
-- _Zhëklüng_ = Life (_zhëk_) + Dragon (_lüng_) → "Dragon-born" (the imperial caste)
-- _Dākyāt_ = Great (_dāk_) + Healer (_yāt_) → "Grand Physician"
+- _Tëngvōk_ = Celestial (_tëng_) + Court (_vōk_) > "Celestial Court"
+- _Zhëklüng_ = Life (_zhëk_) + Dragon (_lüng_) > "Dragon-born" (the imperial caste)
+- _Dākyāt_ = Great (_dāk_) + Healer (_yāt_) > "Grand Physician"
 
 ### Compounding
 
 The primary word-formation process is **compounding** — combining two or more monosyllabic morphemes into a new word. The first element typically modifies the second:
 
-- _höt_ (fire) + _sëi_ (bureau) → _Höt Sëi_ (Bureau of Fire)
-- _sīk_ (death) + _vōk_ (court) → _Sīkvōk_ (Court of the Dead)
-- _tëit_ (iron) + _jëk_ (blade) → _Tëitjëk_ (Iron Blade — a personal name)
+- _höt_ (fire) + _sëi_ (bureau) > _Höt Sëi_ (Bureau of Fire)
+- _sīk_ (death) + _vōk_ (court) > _Sīkvōk_ (Court of the Dead)
+- _tëit_ (iron) + _jëk_ (blade) > _Tëitjëk_ (Iron Blade — a personal name)
 
 When compounds are written as personal or place names, they are typically joined into a single word: _Tānlüng_, _Vëizhük_, _Rëkgüng_. When they are descriptive titles or institutional names, they are written as separate words: _Tëng Güng_ (Celestial Minister), _Lëi Sëi_ (Spirit Bureau).
 
@@ -126,7 +126,7 @@ A small number of productive suffixes exist:
 
 | Suffix | Meaning               | Example                                                |
 | ------ | --------------------- | ------------------------------------------------------ |
-| -zōk   | tribe, group, people  | _Nützōk_ (slaves), _Hëk Zhāk_ → _Hëkzōk_ (shadow folk) |
+| -zōk   | tribe, group, people  | _Nützōk_ (slaves), _Hëk Zhāk_ > _Hëkzōk_ (shadow folk) |
 | -vōr   | spirit, divine being  | _Mëivōr_ (Dream Spirit), _Nüsvōr_ (Spirit of Decay)    |
 | -güng  | official, minister    | _Rëkgüng_ (Thunder Lord), _Yātgüng_ (Practitioner)     |
 | -gürt  | master, teacher       | _Lëigürt_ (Spirit Master), _Thōkgürt_ (Lore Master)    |

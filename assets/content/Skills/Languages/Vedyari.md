@@ -123,7 +123,7 @@ The standardization of Classical Vedyari occurred roughly 1,200 years before the
 
 Since the Age of Kingdoms, gradual sound changes have created divergence:
 
-- **Lenition of intervocalic stops:** /p t k/ → /f θ x/ in some dialects (more pronounced in southern city-states)
+- **Lenition of intervocalic stops:** p, t and k soften to f, "th" and a throaty kh between vowels in some dialects (more pronounced in southern city-states)
 - **Nasalization of vowels before nasals:** Incipient; most evident in rapid speech
 - **Merger of dental and retroflex sibilants:** Common in younger speakers
 

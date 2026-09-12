@@ -129,7 +129,7 @@ Spoken in oasis towns and settled communities, this dialect shows simplified nom
 
 The prestige dialect of the Sultanate of Amradad, spoken in Tahrodan and refined urban centers. Amradi is characterized by:
 
-- Softening of velar fricatives (_kh_ → _kh_ or _h_, _gh_ → _g_ or _w_)
+- Softening of velar fricatives (_kh_ > _kh_ or _h_, _gh_ > _g_ or _w_)
 - Elaborate politeness markers and honorific forms
 - Archaic verbal forms used for formal declarations
 - Heavy emphasis on poetic meter and metaphor

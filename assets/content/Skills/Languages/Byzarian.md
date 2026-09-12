@@ -40,32 +40,32 @@ The language reflects its mercantile character: it is pragmatic, efficient, and 
 
 Byzarian's vowel inventory is simplified compared to Helonic, with a tendency toward shorter, more clipped articulation:
 
-- **a** /a/ — short, open (brighter than Helonic)
-- **â** /aː/ — long, open-mid
-- **e** /e/ — short, front-mid
-- **ê** /eː/ — long, front-mid
-- **i** /i/ — short, front-high
-- **î** /iː/ — long, front-high
-- **o** /o/ — short, back-mid
-- **ô** /oː/ — long, back-mid
-- **u** /u/ — short, back-high
-- **û** /uː/ — long, back-high
+- **a** — short and open, brighter than Helonic
+- **â** — a long, open "ah"
+- **e** — short, as in "bet"
+- **ê** — a long "eh", as in "fête"
+- **i** — short, as in "bit"
+- **î** — a long "ee", as in "machine"
+- **o** — short, as in "for"
+- **ô** — a long "oh", as in "note"
+- **u** — short, as in "put"
+- **û** — a long "oo", as in "boot"
 
-The distinctive feature is the vowel _schwa_ /ə/, borrowed from eastern languages and used in rapid speech to weaken unstressed syllables. This is less common in formal speech but pervasive in bazaar dialect and practical contexts. Diphthongs are less ornamental than in Helonic; -ai, -ei, and -oi tend toward monophthongization in rapid speech (becoming /e/, /i/, and /u/ respectively).
+The distinctive feature is the _schwa_ — the flat, unstressed "a" of "about" — borrowed from eastern languages and used in rapid speech to weaken unstressed syllables. This is less common in formal speech but pervasive in bazaar dialect and practical contexts. Diphthongs are less ornamental than in Helonic; -ai, -ei, and -oi tend toward monophthongization in rapid speech (becoming a plain "e", "i" and "u" respectively).
 
 ### Consonant System
 
 Byzarian maintains the Helonic consonant base but with significant eastern modifications:
 
-**Basic set (from Helonic):** p, b, t, d, k, g, f, s, sh /ʃ/, m, n, r, l, y /j/, w
+**Basic set (from Helonic):** p, b, t, d, k, g, f, s, sh (as in "ship"), m, n, r, l, y, w
 
 **Eastern additions and modifications:**
 
-- **kh** /x/ — velar fricative (stronger, more frequent than in Helonic)
-- **gh** /ɣ/ — voiced velar fricative (present but less common)
-- **z** /z/ — sibilant (from eastern languages, used for plurals and grammatical marking)
-- **zh** /ʒ/ — voiced sibilant (eastern loanword marker)
-- **tch** /tʃ/ — affricate (from eastern languages, rare but distinctly Byzarian)
+- **kh** — a throaty rasp, as in Scottish "loch" (stronger, more frequent than in Helonic)
+- **gh** — a voiced throaty rasp, softer than a hard "g" (present but less common)
+- **z** — as in "zeal" (from eastern languages, used for plurals and grammatical marking)
+- **zh** — the "s" of "measure" (eastern loanword marker)
+- **tch** — the "ch" of "church" (from eastern languages, rare but distinctly Byzarian)
 
 The most notable feature: **explosive release of stops**. The -k and -t stops are articulated with stronger release, making Byzarian speech sound crisper and more percussive than Helonic. This is the single most recognizable phonetic marker of Byzarian.
 

@@ -76,7 +76,7 @@ Vylari stands as the most conservative of the Pelwar languages in terms of basic
 
 **Alyssa Dialect:** The urban merchant tongue of the greatest city, incorporating some loanwords from non-Pelwar neighbors and showing looser adherence to strict SOV word order in casual speech.
 
-**Hylen Lowland Dialect:** Marked by shortened vowel systems and some sound changes (th→s, older fricative shifts). More closely preserves archaic verb forms than High Vylari.
+**Hylen Lowland Dialect:** Marked by shortened vowel systems and some sound changes (th>s, older fricative shifts). More closely preserves archaic verb forms than High Vylari.
 
 **Nartum Ritual Dialect:** An extremely archaic form, deliberately preserved by priesthoods and used in all religious contexts. Maintains phonetic distinctions and grammatical forms abandoned elsewhere, and employs an older system of noun classes (four, rather than three).
 

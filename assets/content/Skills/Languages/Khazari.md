@@ -120,7 +120,7 @@ Nouns **decline for case** through suffixes:
 - **Ablative**: _-ol_ suffix (from / away from)
 - **Locative**: _-um_ suffix (location)
 
-Example: _Hamar_ (hammer-nom.) → _Hamarim_ (hammer's) → _Hamarum_ (in the hammer)
+Example: _Hamar_ (hammer-nom.) > _Hamarim_ (hammer's) > _Hamarum_ (in the hammer)
 
 **Gender** is grammatical but not semantic: every noun is classified as masculine, feminine, or neuter, affecting adjective agreement:
 

@@ -131,11 +131,20 @@ letters at all — they are separate letters, with no plain letter inside them t
 reduce to, so a search for _thorr_ can never reach a name spelled with a thorn.
 Those are written out: `th`, `d`, `ae`, `o`, `ss`.
 
-This is a rule about **names and words**, which are searched. It does not reach
-the phonetic notation in the language notes below, where ʃ, ə, θ, ŋ and the tone
-bars are doing a different job: describing a sound precisely, for a reader who is
-studying the language rather than looking up a person. Nobody searches for a
-schwa.
+This once stopped at **names and words**, on the grounds that the phonetic
+notation in the language notes was doing a different job — describing a sound
+precisely for a reader studying the language, not looking up a person. That
+exemption is withdrawn. The notes are now set in books as well as on screen, and
+a phonetic alphabet is exactly the part of the corpus that no ordinary text face
+carries: the sounds were spelled in letters that most fonts have never heard of,
+so a page of them either falls back to some unrelated face or prints as empty
+boxes.
+
+So the language notes describe their sounds the way a traveller's phrasebook
+does — _the "a" of "about"_, _the rasp of Scottish "loch"_ — and tone is
+numbered 1 to 5 rather than drawn as pitch bars. It is a plainer instrument, and
+it reaches a reader who has never studied phonetics. Nobody searched for a schwa
+either.
 
 ### Every Script Note
 

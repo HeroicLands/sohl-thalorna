@@ -38,17 +38,17 @@ Helonic is characterized by its flowing, musical quality—a language that rewar
 
 Helonic employs a rich vowel system with both short and long phonetic variants:
 
-- **a** /a/ — short, open
-- **â** /aː/ — long, open-mid
-- **à** /ɑ/ — low back, rounded (deeper than short a)
-- **e** /e/ — short, front-mid
-- **ê** /eː/ — long, front-mid
-- **i** /i/ — short, front-high
-- **î** /iː/ — long, front-high
-- **o** /o/ — short, back-mid
-- **ô** /oː/ — long, back-mid
-- **u** /u/ — short, back-high
-- **û** /uː/ — long, back-high
+- **a** — short and open, the "a" of "father" cut short
+- **â** — a long, open "ah"
+- **à** — low and rounded, the "aw" of "law" (deeper than short a)
+- **e** — short, as in "bet"
+- **ê** — a long "eh", as in "fête"
+- **i** — short, as in "bit"
+- **î** — a long "ee", as in "machine"
+- **o** — short, as in "for"
+- **ô** — a long "oh", as in "note"
+- **u** — short, as in "put"
+- **û** — a long "oo", as in "boot"
 
 The language is naturally rich in diphthongs, particularly -ia, -io, -ea, and -eo combinations, which create fluent transitions between phonemes. The vowel inventory is one reason Helonic achieves its melodic quality.
 
@@ -57,12 +57,12 @@ The language is naturally rich in diphthongs, particularly -ia, -io, -ea, and -e
 Helonic maintains a moderate consonant inventory with some distinctive features:
 
 - **Stops:** p, b, t, d, k, g
-- **Fricatives:** f, th /θ/, s, sh /ʃ/, kh /x/, gh /ɣ/ (a voiced velar fricative, softer than "g")
+- **Fricatives:** f, th (as in "thin"), s, sh (as in "ship"), kh (the rasp of Scottish "loch"), gh (that same rasp voiced, softer than "g")
 - **Nasals:** m, n
 - **Liquids:** r, l
-- **Semivowels:** y /j/, w
+- **Semivowels:** y (as in "yes"), w
 
-The fricative system is distinctive: theta (th) and kh are particularly marked, appearing primarily in educated or formal speech. The voiced velar fricative /ɣ/ (gh) is unique to Helonic among western languages—a guttural sound that is distinctly non-trivial to produce correctly.
+The fricative system is distinctive: theta (th) and kh are particularly marked, appearing primarily in educated or formal speech. The voiced throaty rasp written **gh** is unique to Helonic among western languages—a guttural sound that is distinctly non-trivial to produce correctly.
 
 ### Stress and Accentuation
 
