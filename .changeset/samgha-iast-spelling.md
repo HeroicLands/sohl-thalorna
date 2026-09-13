@@ -10,11 +10,12 @@ already follow (Dhanurvedakīrtirāja, Ādānaśreṇī) renders anusvāra as `�
 a dot _below_, so the name was the one word in its own neighbourhood using a
 different system.
 
-It also widens what the tree can be printed in. Of forty-four OFL text faces
+It also widens what the tree can be printed in. Of thirty-nine OFL text faces
 probed over the whole corpus, the dot-above `ṁ` is carried by **three**; the
 dot-below `ṃ` is carried by **every one of them**. Nine otherwise-complete book
 faces — among them Literata, Spectral, Vollkorn and Source Serif 4 — were
-disqualified by this one character and are now available, taking the field from
-thirteen faces to twenty-two.
+disqualified by this one character and are now available. With `ḳ` respelled
+alongside it, the number of faces that can set this corpus goes from **eleven to
+twenty-one**.
 
 No other note used the letter. The name reads and sorts as it did.
