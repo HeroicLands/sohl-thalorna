@@ -199,7 +199,7 @@ _(These forms are illustrative; the pattern matters more than any single coinage
 
 Kheperi has sounds Bethuan does not, and they are regularly smoothed away on the tongue of a Bethuan speaker:
 
-- **Emphatics** (ṭ, ḍ, ḳ) collapse into plain _t, d, k_.
+- **Emphatics** (ṭ, ḍ, q) collapse into plain _t, d, k_.
 - **Pharyngeals** (ḥ, ẓ) and the Kheperi **glottal stop** are dropped, or ḥ hardens to Bethuan _kh_, a throaty rasp; a lost glottal stop usually leaves a Bethuan **hiatus** in its place.
 - Kheperi's spare three-vowel system (_a, i, u_) is recoloured into Bethuan's richer set, typically by **lengthening** (_a > â, i > î, u > û_) and by epenthetic _e_ and _o_.
 - **Consonant clusters**, which Bethuan dislikes, are broken with an inserted vowel (the same epenthesis that turns _sketar_ into _seekatar_).

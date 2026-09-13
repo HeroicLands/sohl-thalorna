@@ -43,7 +43,7 @@ Kheperi possesses a distinctive consonantal inventory with several features that
 
 - Unvoiced: p, t, k
 - Voiced: b, d, g
-- Emphatic (pharyngealized): ṭ, ḍ, ḳ (marked acoustically by uvular constriction)
+- Emphatic (pharyngealized): ṭ, ḍ, q (marked acoustically by uvular constriction)
 
 **Fricatives:**
 
