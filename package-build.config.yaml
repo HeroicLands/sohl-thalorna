@@ -60,6 +60,17 @@ publish:
     address:
         prefix: ""
 
+# The third surface: the content tree printed as a book. `document:` names the
+# tree that says which notes the volume carries and in what order (`book.yaml`
+# at this root) — a selection, not the whole corpus the site and the packs
+# publish. `fonts` is left unset: the renderer's own default is Libertinus
+# Serif, which is this book's face.
+pdf:
+    title: The World of Thalorna
+    subtitle: A Song of Heroic Lands Sourcebook
+    document: book.yaml
+    out: build/pdf
+
 # How this repository frames the website it publishes. Framing only — how a page
 # gets its *address* is `publish.address` above, shared with the link manifest
 # so the two cannot disagree about where a page is.
