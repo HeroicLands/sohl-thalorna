@@ -43,7 +43,7 @@
         "lint:content-links": "content-build links",
         "lint:addresses": "content-build lint",
         "build:site-content": "content-build site",
-        "build:site": "run-s build:site-content build:site-html build:site-root",
+        "build:site": "run-s build:deps build:site-content build:site-html build:site-root",
         "build:site-html": "hugo --source site --minify --gc --cleanDestinationDir",
         "build:site-root": "node utils/build-site-root.mjs",
         "build:book": "content-build pdf",
