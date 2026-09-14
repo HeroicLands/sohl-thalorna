@@ -84,8 +84,6 @@ data:
   lore: []
   parents: []
   relations: {}
-sohl:
-  templatePriority: null
 ---
 
 # The Courts of Magnápolis

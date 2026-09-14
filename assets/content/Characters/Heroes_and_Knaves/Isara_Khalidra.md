@@ -42,7 +42,6 @@ data:
       - carries herself with effortless poise
       - possesses a voice of extraordinary beauty
 sohl:
-  templatePriority: null
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 8 } }
     - { model: sohl-sohl-attribute-end, system: { scoreBase: 12 } }

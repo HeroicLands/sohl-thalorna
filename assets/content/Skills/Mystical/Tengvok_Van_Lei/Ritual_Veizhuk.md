@@ -10,8 +10,9 @@ name:
   aliases:
     - Vëizhük
     - Veizhuk
-sohl:
+data:
   templatePriority: null
+sohl:
   system:
     skillBaseFormula: "@wil, @rea"
     masteryLevelBase: 0

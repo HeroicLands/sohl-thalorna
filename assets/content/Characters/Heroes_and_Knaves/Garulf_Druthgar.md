@@ -43,7 +43,6 @@ data:
       - massive hands
       - carries a heavy battleaxe he calls 'Vára'
 sohl:
-  templatePriority: null
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 16 } }
     - { model: sohl-sohl-attribute-end, system: { scoreBase: 16 } }

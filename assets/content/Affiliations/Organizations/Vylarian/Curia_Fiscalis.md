@@ -86,8 +86,6 @@ data:
   lore: []
   parents: []
   relations: {}
-sohl:
-  templatePriority: null
 ---
 
 # The Curia Fiscalis

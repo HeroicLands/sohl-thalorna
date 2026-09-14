@@ -10,8 +10,9 @@ shortcode: fllmsr
 img: icons/takheperu/khemenu-hekau/ankhkemet.svg
 type: mysticalability
 subType: arcaneincantation
-sohl:
+data:
   templatePriority: null
+sohl:
   system:
     assocSkillCode: ankhkemet
     masteryLevelBase: 0

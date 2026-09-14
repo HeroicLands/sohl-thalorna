@@ -5,8 +5,6 @@ tags:
   - religion
 type: affiliation
 subType: faithtradition
-sohl:
-  templatePriority: null
 name:
   full: "Faith of Xaq'ik Ha'nal"
   aliases:

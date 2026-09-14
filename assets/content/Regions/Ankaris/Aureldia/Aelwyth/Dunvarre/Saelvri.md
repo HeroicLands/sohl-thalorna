@@ -23,8 +23,6 @@ data:
   parents: []
   relations:
     kingdmdnvr: nemesis
-sohl:
-  templatePriority: null
 name:
   full: Saelvri
   aliases: []

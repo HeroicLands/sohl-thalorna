@@ -10,8 +10,9 @@ name:
   aliases:
     - Röthöt Dākvëng
     - Rothot Dakveng
-sohl:
+data:
   templatePriority: null
+sohl:
   system:
     skillBaseFormula: "@wil, @rea"
     masteryLevelBase: 0

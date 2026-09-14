@@ -87,8 +87,6 @@ data:
   lore: []
   parents: []
   relations: {}
-sohl:
-  templatePriority: null
 ---
 
 # The Aerarium Imperii

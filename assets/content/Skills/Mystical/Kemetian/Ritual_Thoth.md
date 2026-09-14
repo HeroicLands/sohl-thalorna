@@ -13,8 +13,9 @@ name:
     - Djhuty
     - Thaut
     - The Scribe of the Eternal Library
-sohl:
+data:
   templatePriority: null
+sohl:
   system:
     skillBaseFormula: "@wil, @rea"
     masteryLevelBase: 0

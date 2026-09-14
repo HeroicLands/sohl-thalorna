@@ -46,7 +46,6 @@ data:
         mark of expulsion
       - Deep horizontal scar across the left palm from the exile branding
 sohl:
-  templatePriority: null
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 12 } }
     - { model: sohl-sohl-attribute-end, system: { scoreBase: 14 } }

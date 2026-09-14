@@ -8,8 +8,9 @@ img: images/affiliation/hex-hodai/hydalis.webp
 name:
   full: Incantus Hydälis
   aliases: []
-sohl:
+data:
   templatePriority: null
+sohl:
   system:
     skillBaseFormula: "@aur, @rea"
     masteryLevelBase: 0

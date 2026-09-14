@@ -43,7 +43,6 @@ data:
     extra_features:
       - a scar on the right side of the face
 sohl:
-  templatePriority: null
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 11 } }
     - { model: sohl-sohl-attribute-end, system: { scoreBase: 13 } }

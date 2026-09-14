@@ -95,8 +95,6 @@ data:
   lore: []
   parents: []
   relations: {}
-sohl:
-  templatePriority: null
 ---
 
 # The Bethûan Trade-Houses

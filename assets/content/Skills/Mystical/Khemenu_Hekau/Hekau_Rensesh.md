@@ -9,8 +9,9 @@ name:
   full: "Hekau: Ren'sesh"
   aliases:
     - Per-Ren'sesh
-sohl:
+data:
   templatePriority: null
+sohl:
   system:
     skillBaseFormula: "@aur, @rea"
     masteryLevelBase: 0

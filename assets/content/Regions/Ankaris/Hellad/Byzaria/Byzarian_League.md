@@ -109,8 +109,6 @@ data:
     vylarinmpr: unaligned
     cnfdrtnhrdnstts: rival
     sultntmrdd: unaligned
-sohl:
-  templatePriority: null
 packFolder: byzaria
 ---
 

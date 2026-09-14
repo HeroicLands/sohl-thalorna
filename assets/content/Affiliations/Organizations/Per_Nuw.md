@@ -101,8 +101,6 @@ data:
     sobek: aligned
     sekhetneru: aligned
     permesnu: aligned
-sohl:
-  templatePriority: null
 ---
 
 # Per'Nuw

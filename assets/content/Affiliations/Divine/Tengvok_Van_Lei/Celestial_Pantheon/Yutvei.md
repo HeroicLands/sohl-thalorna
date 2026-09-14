@@ -121,8 +121,6 @@ data:
     - tngvkvnlei
   relations:
     tanvurempr: aligned
-sohl:
-  templatePriority: null
 packFolder: celestialpantheon
 ---
 

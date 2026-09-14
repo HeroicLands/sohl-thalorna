@@ -7,10 +7,11 @@ description: "Rope-weighted iron ball whirled; master's devastating entangling r
 img: systems/sohl/assets/icons/game-icons/lorc/bolas.svg
 shortcode: mtrhmr
 type: weapongear
+data:
+  templatePriority: null
 sohl:
   kbcat: thrown
   weaponType: Thrown
-  templatePriority: null
   system:
     weightBase: 4
     valueBase: 96

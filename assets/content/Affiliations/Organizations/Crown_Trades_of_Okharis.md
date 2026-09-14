@@ -93,8 +93,6 @@ data:
   lore: []
   parents: []
   relations: {}
-sohl:
-  templatePriority: null
 ---
 
 # The Crown Trades of Okháris

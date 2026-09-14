@@ -45,7 +45,6 @@ data:
       - a disarming smile that does not reach his eyes
       - tattoo of a serpent on his forearm
 sohl:
-  templatePriority: null
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 11 } }
     - { model: sohl-sohl-attribute-end, system: { scoreBase: 10 } }

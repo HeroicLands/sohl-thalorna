@@ -9,8 +9,9 @@ name:
   full: "Ritual: Sobek"
   aliases:
     - Sobek, The Crocodile-God
-sohl:
+data:
   templatePriority: null
+sohl:
   system:
     skillBaseFormula: "@wil, @rea"
     masteryLevelBase: 0

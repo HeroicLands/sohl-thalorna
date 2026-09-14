@@ -116,8 +116,6 @@ data:
     velvethand: unaligned
     crmsyndctsthlrn: unaligned
     vindhyalay: unaligned
-sohl:
-  templatePriority: null
 ---
 
 # The Twilight House

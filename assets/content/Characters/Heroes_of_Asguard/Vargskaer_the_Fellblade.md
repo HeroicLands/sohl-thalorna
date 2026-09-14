@@ -44,7 +44,6 @@ data:
     complexion: battle_scarred
     extra_features: []
 sohl:
-  templatePriority: null
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 19 } }
     - { model: sohl-sohl-attribute-end, system: { scoreBase: 18 } }

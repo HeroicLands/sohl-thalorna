@@ -93,8 +93,6 @@ data:
   relations:
     tngvkvnlei: aligned
     tanvurempr: unaligned
-sohl:
-  templatePriority: null
 name:
   full: Yürtthāt Zhāk
   aliases: []

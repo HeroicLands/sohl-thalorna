@@ -74,8 +74,6 @@ data:
     kemtnpnthn: aligned
     ra: aligned
     imnetau: aligned
-sohl:
-  templatePriority: null
 name:
   full: Per-Aten'ré
   aliases:

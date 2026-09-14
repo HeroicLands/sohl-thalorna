@@ -78,8 +78,6 @@ data:
     seker: aligned
     anubis: aligned
     atenre: aligned
-sohl:
-  templatePriority: null
 name:
   full: Per-Imnetáu
   aliases:

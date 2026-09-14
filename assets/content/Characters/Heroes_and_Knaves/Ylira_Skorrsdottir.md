@@ -43,7 +43,6 @@ data:
       - scar on her right hand
       - intensity in her gaze that unnerves strangers
 sohl:
-  templatePriority: null
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 14 } }
     - { model: sohl-sohl-attribute-end, system: { scoreBase: 16 } }

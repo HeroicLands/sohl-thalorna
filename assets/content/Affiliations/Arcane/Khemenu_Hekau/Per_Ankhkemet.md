@@ -76,8 +76,6 @@ data:
     iset: aligned
     hapi: aligned
     deshrut: aligned
-sohl:
-  templatePriority: null
 name:
   full: Per-Ankh'kemet
   aliases:

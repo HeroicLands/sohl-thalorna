@@ -52,7 +52,6 @@ data:
         as a mendicant — a wandering priestess authorized to preach and perform rites outside
         a fixed temple
 sohl:
-  templatePriority: null
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 13 } }
     - { model: sohl-sohl-attribute-end, system: { scoreBase: 14 } }

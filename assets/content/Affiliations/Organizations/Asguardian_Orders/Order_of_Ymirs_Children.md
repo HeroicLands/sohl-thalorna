@@ -104,8 +104,6 @@ data:
   parents: []
   relations:
     asguardian: aligned
-sohl:
-  templatePriority: null
 ---
 
 # The Order of Ymir's Children

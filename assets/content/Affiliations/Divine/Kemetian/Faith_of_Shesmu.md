@@ -69,8 +69,6 @@ data:
     kemtnpnthn: aligned
     pernuw: aligned
     anhur: aligned
-sohl:
-  templatePriority: null
 name:
   full: Faith of Shesmu
   aliases:

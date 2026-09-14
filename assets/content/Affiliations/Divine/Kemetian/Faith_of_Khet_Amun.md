@@ -73,8 +73,6 @@ data:
     kemtnpnthn: aligned
     sekhetneru: aligned
     sobek: aligned
-sohl:
-  templatePriority: null
 name:
   full: Faith of Khet'Amun
   aliases:

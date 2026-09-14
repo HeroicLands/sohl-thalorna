@@ -103,8 +103,6 @@ data:
   parents: []
   relations:
     arldnpnthn: aligned
-sohl:
-  templatePriority: null
 ---
 
 # The Order of the Ashen Vow

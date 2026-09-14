@@ -22,8 +22,6 @@ data:
     - kingdmdnvr
   gender: female
   species: null
-sohl:
-  templatePriority: null
 ---
 
 # Lady Thaeklia Maelvri

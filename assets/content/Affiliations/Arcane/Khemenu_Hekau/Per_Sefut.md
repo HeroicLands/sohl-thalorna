@@ -78,8 +78,6 @@ data:
     kemtnpnthn: aligned
     maatken: aligned
     apophis: nemesis
-sohl:
-  templatePriority: null
 name:
   full: Per-Sefút
   aliases:

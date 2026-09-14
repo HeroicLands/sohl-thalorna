@@ -114,8 +114,6 @@ data:
   relations:
     tngvkvnlei: aligned
     tanvurempr: rival
-sohl:
-  templatePriority: null
 packFolder: jurthat
 ---
 

@@ -10,8 +10,9 @@ name:
   full: "Ritual: Hél"
   aliases:
     - The Eternal Night
-sohl:
+data:
   templatePriority: null
+sohl:
   system:
     skillBaseFormula: "@wil, @rea"
     masteryLevelBase: 0

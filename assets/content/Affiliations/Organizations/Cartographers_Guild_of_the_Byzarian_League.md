@@ -92,8 +92,6 @@ data:
   lore: []
   parents: []
   relations: {}
-sohl:
-  templatePriority: null
 ---
 
 # The Cartographers' Guild of the Byzarian League

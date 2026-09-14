@@ -136,8 +136,6 @@ data:
   parents: []
   relations:
     tanvurempr: aligned
-sohl:
-  templatePriority: null
 packFolder: pantheonstengvokvanlei
 ---
 

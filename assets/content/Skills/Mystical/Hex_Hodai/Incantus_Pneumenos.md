@@ -8,8 +8,9 @@ img: images/affiliation/hex-hodai/pneumenos.webp
 name:
   full: Incantus Pneuménos
   aliases: []
-sohl:
+data:
   templatePriority: null
+sohl:
   system:
     skillBaseFormula: "@aur, @rea"
     masteryLevelBase: 0

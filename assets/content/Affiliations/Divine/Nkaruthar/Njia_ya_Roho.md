@@ -97,8 +97,6 @@ data:
   parents: []
   relations:
     nkaruthar: aligned
-sohl:
-  templatePriority: null
 packFolder: pantheonsnkaruthar
 ---
 

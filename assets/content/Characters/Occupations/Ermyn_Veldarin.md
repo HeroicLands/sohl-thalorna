@@ -41,7 +41,6 @@ data:
     complexion: rugged
     extra_features: []
 sohl:
-  templatePriority: null
   items:
     - { model: sohl-sohl-attribute-agl, system: { scoreBase: 13 } }
     - { model: sohl-sohl-attribute-aur, system: { scoreBase: 9 } }

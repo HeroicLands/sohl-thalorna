@@ -33,7 +33,6 @@ data:
     extra_features: []
 sohl:
   kbcat: animal
-  templatePriority: 0
   attrRollFormula:
     str: 1d4+4
     end: 1d4+5

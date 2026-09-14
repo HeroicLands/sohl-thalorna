@@ -122,8 +122,6 @@ data:
     - itzanpnthn
   relations:
     itzanpnthn: aligned
-sohl:
-  templatePriority: null
 ---
 
 **Domain:** Knowledge, Wisdom, Writing, The Calendar, Astronomy

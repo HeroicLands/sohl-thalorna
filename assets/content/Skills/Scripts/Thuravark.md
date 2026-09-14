@@ -9,8 +9,9 @@ img: systems/sohl/assets/icons/other/speaking.svg
 shortcode: thuravarkscript
 type: skill
 subType: script
-sohl:
+data:
   templatePriority: null
+sohl:
   system:
     skillBaseFormula: "@rea, @per"
     masteryLevelBase: 0

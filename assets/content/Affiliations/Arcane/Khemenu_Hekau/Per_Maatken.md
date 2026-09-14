@@ -74,8 +74,6 @@ data:
     kemtnpnthn: aligned
     maat: aligned
     sefut: aligned
-sohl:
-  templatePriority: null
 name:
   full: Per-Maat'ken
   aliases:

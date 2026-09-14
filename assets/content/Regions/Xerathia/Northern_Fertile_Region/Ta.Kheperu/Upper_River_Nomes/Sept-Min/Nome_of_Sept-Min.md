@@ -8,6 +8,7 @@ name:
 shortcode: nomeseptmi
 subType: polity
 data:
+  templatePriority: null
   governance:
     model: monarchy
     summary: >-
@@ -106,8 +107,6 @@ data:
   relations:
     kemtnpnthn: aligned
     min: aligned
-sohl:
-  templatePriority: null
 packFolder: upperrivernomes
 ---
 

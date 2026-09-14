@@ -7,10 +7,11 @@ description: "Curved single-edged saber with disk pommel; eastern cavalry prefer
 img: systems/sohl/assets/icons/other/sword.svg
 shortcode: tlwr
 type: weapongear
+data:
+  templatePriority: null
 sohl:
   kbcat: sword
   weaponType: Sword
-  templatePriority: null
   system:
     weightBase: 2.5
     valueBase: 144

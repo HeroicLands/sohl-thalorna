@@ -42,7 +42,6 @@ data:
     extra_features:
       - deep-set eyes
 sohl:
-  templatePriority: null
   items:
     - { model: sohl-sohl-attribute-agl, system: { scoreBase: 11 } }
     - { model: sohl-sohl-attribute-aur, system: { scoreBase: 8 } }

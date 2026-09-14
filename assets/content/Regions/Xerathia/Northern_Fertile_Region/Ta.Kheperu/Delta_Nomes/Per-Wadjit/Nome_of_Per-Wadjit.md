@@ -8,6 +8,7 @@ name:
 shortcode: nomeprwdjt
 subType: polity
 data:
+  templatePriority: null
   governance:
     model: monarchy
     summary: >-
@@ -106,8 +107,6 @@ data:
   relations:
     kemtnpnthn: aligned
     wadjit: aligned
-sohl:
-  templatePriority: null
 packFolder: deltanomes
 ---
 

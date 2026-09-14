@@ -42,7 +42,6 @@ data:
     extra_features:
       - burn mark on wrist
 sohl:
-  templatePriority: null
   items:
     - { model: sohl-sohl-attribute-agl, system: { scoreBase: 10 } }
     - { model: sohl-sohl-attribute-aur, system: { scoreBase: 10 } }

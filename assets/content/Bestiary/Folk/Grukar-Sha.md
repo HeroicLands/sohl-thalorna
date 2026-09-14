@@ -32,7 +32,6 @@ data:
     extra_features: []
 sohl:
   kbcat: grukar
-  templatePriority: 0
   attrRollFormula:
     str: 1d4+7
     end: 1d4+4

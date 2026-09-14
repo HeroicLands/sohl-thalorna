@@ -23,8 +23,6 @@ data:
   parents:
     - arldnpnthn
   relations: {}
-sohl:
-  templatePriority: null
 name:
   full: Order of the Just Blade
   aliases: []

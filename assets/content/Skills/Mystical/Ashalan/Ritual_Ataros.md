@@ -10,8 +10,9 @@ name:
   aliases:
     - The Sacred Flame
     - Fire God
-sohl:
+data:
   templatePriority: null
+sohl:
   system:
     skillBaseFormula: "@wil, @rea"
     masteryLevelBase: 0

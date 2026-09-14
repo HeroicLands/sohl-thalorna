@@ -93,8 +93,6 @@ data:
   relations:
     nylbtrblntn: aligned
     nyalbleop: aligned
-sohl:
-  templatePriority: null
 packFolder: politiesnyaluba
 ---
 

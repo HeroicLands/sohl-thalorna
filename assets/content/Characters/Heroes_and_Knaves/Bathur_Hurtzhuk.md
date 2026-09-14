@@ -38,8 +38,6 @@ data:
     skin_color: null
     complexion: null
     extra_features: []
-sohl:
-  templatePriority: null
 ---
 
 # Bāthür Hürtzhük

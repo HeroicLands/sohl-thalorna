@@ -12,8 +12,9 @@ name:
   aliases:
     - Eagle Spirit
     - Ngonzi Eagle
-sohl:
+data:
   templatePriority: null
+sohl:
   system:
     skillBaseFormula: "@aur, @wil"
     masteryLevelBase: 0

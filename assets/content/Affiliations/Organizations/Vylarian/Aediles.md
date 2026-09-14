@@ -79,8 +79,6 @@ data:
   relations:
     curiaurbis: aligned
     vylrnmltry: aligned
-sohl:
-  templatePriority: null
 ---
 
 # The Aediles

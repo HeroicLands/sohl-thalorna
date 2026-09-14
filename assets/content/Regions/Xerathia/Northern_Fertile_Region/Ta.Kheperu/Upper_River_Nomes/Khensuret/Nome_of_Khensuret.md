@@ -111,8 +111,6 @@ data:
     kemtnpnthn: aligned
     seker: aligned
     anubis: aligned
-sohl:
-  templatePriority: null
 packFolder: khensuret
 ---
 

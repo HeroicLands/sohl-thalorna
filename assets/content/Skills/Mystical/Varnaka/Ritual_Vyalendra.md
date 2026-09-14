@@ -11,8 +11,9 @@ name:
     - Vyālendra
     - Vyalendra
     - The Shaper of Worlds
-sohl:
+data:
   templatePriority: null
+sohl:
   system:
     skillBaseFormula: "@wil, @rea"
     masteryLevelBase: 0

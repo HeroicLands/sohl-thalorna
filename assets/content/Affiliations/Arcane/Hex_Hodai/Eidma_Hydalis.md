@@ -92,8 +92,6 @@ name:
   full: Hydälis
   aliases:
     - Eídma Hydälis
-sohl:
-  templatePriority: null
 thalorna:
   school: water
 packFolder: affiliationshexhodai

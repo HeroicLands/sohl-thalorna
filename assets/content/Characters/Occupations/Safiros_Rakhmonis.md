@@ -42,7 +42,6 @@ data:
     extra_features:
       - a tattoo of a lion's mane on the chest
 sohl:
-  templatePriority: null
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 15 } }
     - { model: sohl-sohl-attribute-end, system: { scoreBase: 14 } }

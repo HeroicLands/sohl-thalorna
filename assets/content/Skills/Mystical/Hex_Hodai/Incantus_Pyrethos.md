@@ -8,8 +8,9 @@ img: images/affiliation/hex-hodai/pyrethos.webp
 name:
   full: Incantus Pyréthos
   aliases: []
-sohl:
+data:
   templatePriority: null
+sohl:
   system:
     skillBaseFormula: "@aur, @rea"
     masteryLevelBase: 0

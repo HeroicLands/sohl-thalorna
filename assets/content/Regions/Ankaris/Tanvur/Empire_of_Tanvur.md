@@ -114,8 +114,6 @@ data:
   relations:
     tngvkvnlei: aligned
     kingdmdnvr: unaligned
-sohl:
-  templatePriority: null
 packFolder: tanvur
 ---
 

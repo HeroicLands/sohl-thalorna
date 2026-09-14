@@ -32,7 +32,6 @@ data:
     extra_features: []
 sohl:
   kbcat: spirit
-  templatePriority: 0
   attrRollFormula:
     str: 1d6+4
     end: 1d6+6

@@ -22,8 +22,6 @@ data:
   lore: []
   parents: []
   relations: {}
-sohl:
-  templatePriority: null
 name:
   full: Njörven's Cult
   aliases: []

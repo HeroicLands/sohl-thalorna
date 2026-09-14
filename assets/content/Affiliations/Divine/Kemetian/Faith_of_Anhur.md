@@ -69,8 +69,6 @@ data:
     kemtnpnthn: aligned
     pernuw: aligned
     shesmu: aligned
-sohl:
-  templatePriority: null
 name:
   full: Faith of Anhur
   aliases:

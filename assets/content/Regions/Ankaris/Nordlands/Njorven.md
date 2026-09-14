@@ -19,8 +19,6 @@ data:
   affiliations: []
   gender: null
   species: null
-sohl:
-  templatePriority: null
 ---
 
 # Njörven

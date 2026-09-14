@@ -93,8 +93,6 @@ data:
   relations:
     tngvkvnlei: aligned
     yokveng: aligned
-sohl:
-  templatePriority: null
 packFolder: yokveng
 ---
 

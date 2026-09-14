@@ -90,8 +90,6 @@ data:
     - mwangadty
   parents: []
   relations: {}
-sohl:
-  templatePriority: null
 packFolder: nyaluba
 ---
 

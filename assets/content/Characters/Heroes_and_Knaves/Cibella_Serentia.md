@@ -43,7 +43,6 @@ data:
       - unnervingly still gaze
       - moves with an uncanny grace
 sohl:
-  templatePriority: null
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 13 } }
     - { model: sohl-sohl-attribute-end, system: { scoreBase: 14 } }

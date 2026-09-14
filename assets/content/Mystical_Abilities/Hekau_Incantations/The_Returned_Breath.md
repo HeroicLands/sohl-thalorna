@@ -10,8 +10,9 @@ shortcode: rtrndbrth
 img: icons/takheperu/khemenu-hekau/imnetau.svg
 type: mysticalability
 subType: arcaneincantation
-sohl:
+data:
   templatePriority: null
+sohl:
   system:
     assocSkillCode: imnetau
     masteryLevelBase: 0

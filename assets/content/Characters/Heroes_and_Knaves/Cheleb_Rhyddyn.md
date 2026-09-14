@@ -44,7 +44,6 @@ data:
       - Hair tied back with leather thong
       - Often cloaked in green and brown for camouflage
 sohl:
-  templatePriority: null
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 12 } }
     - { model: sohl-sohl-attribute-end, system: { scoreBase: 11 } }

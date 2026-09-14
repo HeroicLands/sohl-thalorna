@@ -10,8 +10,9 @@ name:
   aliases: []
 shortcode: hornnjordur
 packFolder: nordlands
-sohl:
+data:
   templatePriority: null
+sohl:
   system:
     weightBase: 2
     valueBase: 0

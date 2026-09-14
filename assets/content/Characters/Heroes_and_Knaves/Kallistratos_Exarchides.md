@@ -45,7 +45,6 @@ data:
         practice
       - A thin scar along the left jawline from a Quaesitorium field operation
 sohl:
-  templatePriority: null
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 12 } }
     - { model: sohl-sohl-attribute-end, system: { scoreBase: 13 } }

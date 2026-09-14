@@ -83,8 +83,6 @@ data:
   lore: []
   parents: []
   relations: {}
-sohl:
-  templatePriority: null
 img: images/affiliation/hex-hodai/kentra.webp
 shortcode: kentra
 name:

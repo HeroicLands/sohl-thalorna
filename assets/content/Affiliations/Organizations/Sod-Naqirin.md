@@ -100,8 +100,6 @@ data:
   lore: []
   parents: []
   relations: {}
-sohl:
-  templatePriority: null
 ---
 
 # Sôd-Naqîrîn

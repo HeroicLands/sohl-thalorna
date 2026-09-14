@@ -11,8 +11,9 @@ name:
     - Kālavrata
     - Kalavrata
     - The Gatekeeper of Death
-sohl:
+data:
   templatePriority: null
+sohl:
   system:
     skillBaseFormula: "@wil, @rea"
     masteryLevelBase: 0

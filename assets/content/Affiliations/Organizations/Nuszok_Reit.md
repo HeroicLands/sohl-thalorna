@@ -59,8 +59,6 @@ data:
   relations:
     yokveng: aligned
     tngvkvnlei: nemesis
-sohl:
-  templatePriority: null
 packFolder: organizations
 ---
 

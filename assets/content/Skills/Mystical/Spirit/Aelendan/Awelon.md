@@ -11,8 +11,9 @@ name:
   full: "Awelon Spirit Power"
   aliases:
     - Awelon, the West Wind
-sohl:
+data:
   templatePriority: null
+sohl:
   system:
     skillBaseFormula: "@aur, @wil"
     masteryLevelBase: 0

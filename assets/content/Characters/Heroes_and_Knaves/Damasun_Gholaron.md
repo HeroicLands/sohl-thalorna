@@ -43,7 +43,6 @@ data:
       - close-cropped grey-streaked hair
       - an air of quiet authority that belies his humble dress
 sohl:
-  templatePriority: null
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 10 } }
     - { model: sohl-sohl-attribute-end, system: { scoreBase: 11 } }

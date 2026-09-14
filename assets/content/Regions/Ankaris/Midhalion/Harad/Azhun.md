@@ -103,8 +103,6 @@ data:
     - cnfdrtnhrdnstts
   relations:
     arldnpnthn: aligned
-sohl:
-  templatePriority: null
 packFolder: harad
 ---
 

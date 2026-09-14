@@ -10,8 +10,9 @@ shortcode: prsrvnghnd
 img: icons/takheperu/khemenu-hekau/khatnu.svg
 type: mysticalability
 subType: arcaneincantation
-sohl:
+data:
   templatePriority: null
+sohl:
   system:
     assocSkillCode: khatnu
     masteryLevelBase: 0

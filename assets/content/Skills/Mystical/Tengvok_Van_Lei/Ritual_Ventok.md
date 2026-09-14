@@ -10,8 +10,9 @@ name:
   aliases:
     - Vëntōk
     - The Keeper of the Celestial Archive
-sohl:
+data:
   templatePriority: null
+sohl:
   system:
     skillBaseFormula: "@wil, @rea"
     masteryLevelBase: 0

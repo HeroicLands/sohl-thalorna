@@ -8,6 +8,7 @@ name:
 shortcode: nomesenmut
 subType: polity
 data:
+  templatePriority: null
   governance:
     model: monarchy
     summary: >-
@@ -106,8 +107,6 @@ data:
   relations:
     kemtnpnthn: aligned
     seker: aligned
-sohl:
-  templatePriority: null
 packFolder: bordernomes
 ---
 

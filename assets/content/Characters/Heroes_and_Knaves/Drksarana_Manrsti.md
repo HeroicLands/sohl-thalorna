@@ -40,7 +40,6 @@ data:
     extra_features:
       - a tattoo of a waterfall on the shoulder
 sohl:
-  templatePriority: null
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 10 } }
     - { model: sohl-sohl-attribute-end, system: { scoreBase: 12 } }

@@ -7,10 +7,11 @@ description: "Sacred three-pronged polearm symbolizing cosmic order and battlefi
 img: systems/sohl/assets/icons/noun/polearm.svg
 shortcode: trsha
 type: weapongear
+data:
+  templatePriority: null
 sohl:
   kbcat: polearm
   weaponType: Polearm
-  templatePriority: null
   system:
     weightBase: 5
     valueBase: 108
