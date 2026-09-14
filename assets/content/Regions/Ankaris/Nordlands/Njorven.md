@@ -19,7 +19,6 @@ data:
   affiliations: []
   gender: null
   species: null
-sohl:
 ---
 
 # Njörven

@@ -107,7 +107,6 @@ data:
     arldnpnthn: aligned
     kingdmtrvn: unaligned
     kngdmlvndr: unaligned
-sohl:
 packFolder: tarvenia
 ---
 

@@ -115,7 +115,6 @@ data:
     vylarinmpr: aligned
     kingdmdnvr: unaligned
     kngdmldrth: unaligned
-sohl:
 packFolder: aelwyth
 ---
 

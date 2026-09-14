@@ -94,7 +94,6 @@ data:
   relations: {}
 shortcode: astrokyklos
 img: null
-sohl:
 packFolder: astrokyklos
 ---
 

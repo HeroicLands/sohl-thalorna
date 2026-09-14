@@ -117,7 +117,6 @@ data:
     kingdomlgn: unaligned
     kingdmnrgd: unaligned
     kngdmvthgrd: unaligned
-sohl:
 packFolder: targud
 ---
 

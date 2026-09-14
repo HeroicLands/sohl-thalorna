@@ -101,7 +101,6 @@ data:
     mtrrchybth: aligned
     vylarinmpr: nemesis
     empirtkhpr: aligned
-sohl:
 name:
   full: The Bethûan Fleet
   aliases:

@@ -85,7 +85,6 @@ data:
     - ashanpnthn
   relations:
     ashanpnthn: aligned
-sohl:
 name:
   full: Faith of Ātáröš
   aliases:

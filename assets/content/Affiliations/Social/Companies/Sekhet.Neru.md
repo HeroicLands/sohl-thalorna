@@ -94,7 +94,6 @@ data:
     kemtnpnthn: aligned
     sobek: aligned
     pernuw: aligned
-sohl:
 name:
   full: Sekhet'Neru
   aliases:

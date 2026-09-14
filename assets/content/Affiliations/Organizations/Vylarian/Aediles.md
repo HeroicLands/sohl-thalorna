@@ -79,7 +79,6 @@ data:
   relations:
     curiaurbis: aligned
     vylrnmltry: aligned
-sohl:
 ---
 
 # The Aediles

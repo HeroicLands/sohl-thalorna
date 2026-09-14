@@ -92,7 +92,6 @@ name:
   full: Pyréthos
   aliases:
     - Eídma Pyréthos
-sohl:
 thalorna:
   school: fire
 packFolder: affiliationshexhodai

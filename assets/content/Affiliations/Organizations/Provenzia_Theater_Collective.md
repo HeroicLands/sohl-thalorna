@@ -71,7 +71,6 @@ data:
   lore: []
   parents: []
   relations: {}
-sohl:
 ---
 
 # The Provènzia Theater Collective

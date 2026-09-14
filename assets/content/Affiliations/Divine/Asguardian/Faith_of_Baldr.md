@@ -60,7 +60,6 @@ name:
     - The Luminous Path
 shortcode: baldr
 img: images/affiliation/asguardian/baldr.webp
-sohl:
 thalorna:
   deity: Baldr
   epithet: The Radiant One

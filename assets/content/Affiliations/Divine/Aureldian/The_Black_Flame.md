@@ -69,7 +69,6 @@ data:
     - arldnpnthn
   relations:
     arldnpnthn: aligned
-sohl:
 packFolder: pantheonsaureldian
 ---
 

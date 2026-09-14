@@ -105,7 +105,6 @@ data:
     - byzarianlg
   relations:
     arldnpnthn: aligned
-sohl:
 packFolder: byzaria
 ---
 

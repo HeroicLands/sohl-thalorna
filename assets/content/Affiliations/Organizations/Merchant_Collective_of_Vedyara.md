@@ -92,7 +92,6 @@ data:
   lore: []
   parents: []
   relations: {}
-sohl:
 ---
 
 # The Merchant Collective of Vedyara

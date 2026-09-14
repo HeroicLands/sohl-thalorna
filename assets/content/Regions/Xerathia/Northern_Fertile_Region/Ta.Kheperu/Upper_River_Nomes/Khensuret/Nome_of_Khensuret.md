@@ -111,7 +111,6 @@ data:
     kemtnpnthn: aligned
     seker: aligned
     anubis: aligned
-sohl:
 packFolder: khensuret
 ---
 

@@ -102,7 +102,6 @@ data:
   parents: []
   relations:
     arldnpnthn: aligned
-sohl:
 name:
   full: The Iron Cinder
   aliases:

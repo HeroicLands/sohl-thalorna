@@ -22,7 +22,6 @@ data:
     - kingdmdnvr
   gender: female
   species: null
-sohl:
 ---
 
 # Dame Toradh Taravren

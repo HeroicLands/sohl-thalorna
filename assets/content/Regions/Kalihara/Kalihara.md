@@ -102,7 +102,6 @@ data:
   parents: []
   relations:
     tharivaan: aligned
-sohl:
 packFolder: kalihara
 ---
 

@@ -92,7 +92,6 @@ data:
   lore: []
   parents: []
   relations: {}
-sohl:
 ---
 
 # Sebeq'Sut

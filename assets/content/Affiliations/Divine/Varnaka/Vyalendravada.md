@@ -81,7 +81,6 @@ data:
     - varakpnthn
   relations:
     varakpnthn: aligned
-sohl:
 packFolder: pantheonsvarnaka
 ---
 

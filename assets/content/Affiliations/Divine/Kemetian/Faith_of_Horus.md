@@ -61,7 +61,6 @@ data:
     - kemtnpnthn
   relations:
     kemtnpnthn: aligned
-sohl:
 name:
   full: Faith of Hórús
   aliases:

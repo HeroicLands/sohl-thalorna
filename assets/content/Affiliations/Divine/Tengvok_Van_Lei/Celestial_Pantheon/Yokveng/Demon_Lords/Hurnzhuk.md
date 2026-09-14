@@ -93,7 +93,6 @@ data:
   relations:
     tngvkvnlei: aligned
     yokveng: aligned
-sohl:
 packFolder: demonlords
 ---
 

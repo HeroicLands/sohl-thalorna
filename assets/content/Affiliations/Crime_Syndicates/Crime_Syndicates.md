@@ -92,7 +92,6 @@ data:
   lore: []
   parents: []
   relations: {}
-sohl:
 name:
   full: Crime Syndicates of Thalorna
   aliases: []

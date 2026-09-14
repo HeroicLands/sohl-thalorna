@@ -118,7 +118,6 @@ data:
     kingdmtrgd: unaligned
     kngdmvthgrd: unaligned
     grukarholm: rival
-sohl:
 packFolder: norgaad
 ---
 

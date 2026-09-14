@@ -86,7 +86,6 @@ data:
   lore: []
   parents: []
   relations: {}
-sohl:
 ---
 
 # The Curia Fiscalis

@@ -110,7 +110,6 @@ data:
   relations:
     kemtnpnthn: aligned
     hapi: aligned
-sohl:
 packFolder: perankhet
 ---
 

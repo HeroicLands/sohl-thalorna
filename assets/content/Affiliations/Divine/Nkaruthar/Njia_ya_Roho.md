@@ -97,7 +97,6 @@ data:
   parents: []
   relations:
     nkaruthar: aligned
-sohl:
 packFolder: pantheonsnkaruthar
 ---
 

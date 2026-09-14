@@ -88,7 +88,6 @@ name:
     - The Serpent's Path
 shortcode: loki
 img: images/affiliation/asguardian/loki.webp
-sohl:
 packFolder: pantheonsasguardian
 ---
 

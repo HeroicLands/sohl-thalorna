@@ -74,7 +74,6 @@ data:
   lore: []
   parents: []
   relations: {}
-sohl:
 packFolder: politiescompanies
 name:
   full: Wuldjagâr erund Gárskald

@@ -74,7 +74,6 @@ data:
     kemtnpnthn: aligned
     maat: aligned
     sefut: aligned
-sohl:
 name:
   full: Per-Maat'ken
   aliases:

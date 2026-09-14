@@ -97,7 +97,6 @@ data:
   lore: []
   parents: []
   relations: {}
-sohl:
 packFolder: organizations
 ---
 

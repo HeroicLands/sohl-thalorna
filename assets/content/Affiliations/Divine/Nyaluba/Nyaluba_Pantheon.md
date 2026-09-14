@@ -90,7 +90,6 @@ data:
     - mwangadty
   parents: []
   relations: {}
-sohl:
 packFolder: nyaluba
 ---
 

@@ -103,7 +103,6 @@ data:
   parents: []
   relations:
     asguardian: aligned
-sohl:
 ---
 
 # The Order of Týr's Justice

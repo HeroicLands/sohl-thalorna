@@ -101,7 +101,6 @@ data:
     thorr: aligned
     tyr: aligned
     ymir: aligned
-sohl:
 packFolder: pantheonsasguardian
 ---
 

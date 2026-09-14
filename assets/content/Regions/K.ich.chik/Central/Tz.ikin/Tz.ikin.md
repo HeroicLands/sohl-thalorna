@@ -105,7 +105,6 @@ data:
   parents: []
   relations:
     itzanpnthn: aligned
-sohl:
 terran_analog: Venezuela, Guyana, Suriname, French Guiana, northern Brazil
 packFolder: tzikin
 ---

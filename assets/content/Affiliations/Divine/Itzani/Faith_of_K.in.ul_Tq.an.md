@@ -122,7 +122,6 @@ data:
     - itzanpnthn
   relations:
     itzanpnthn: aligned
-sohl:
 ---
 
 **Domain:** Order, Cosmic Law, Solar Cycle

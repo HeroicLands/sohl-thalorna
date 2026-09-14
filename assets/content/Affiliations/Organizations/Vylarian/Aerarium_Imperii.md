@@ -87,7 +87,6 @@ data:
   lore: []
   parents: []
   relations: {}
-sohl:
 ---
 
 # The Aerarium Imperii

@@ -103,7 +103,6 @@ data:
     - vylarinmpr
   relations:
     arldnpnthn: aligned
-sohl:
 packFolder: vylaria
 ---
 

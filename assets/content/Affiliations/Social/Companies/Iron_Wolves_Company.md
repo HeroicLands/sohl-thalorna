@@ -89,7 +89,6 @@ data:
   lore: []
   parents: []
   relations: {}
-sohl:
 subtype: social
 name:
   full: The Iron Wolves Company

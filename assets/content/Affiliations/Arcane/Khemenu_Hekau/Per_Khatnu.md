@@ -77,7 +77,6 @@ data:
     ptah: aligned
     anubis: aligned
     rensesh: aligned
-sohl:
 name:
   full: Per-Khat'nu
   aliases:

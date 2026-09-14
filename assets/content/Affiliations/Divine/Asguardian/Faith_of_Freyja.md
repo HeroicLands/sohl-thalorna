@@ -90,7 +90,6 @@ name:
     - The Golden Path
 shortcode: freyja
 img: images/affiliation/asguardian/freyja.webp
-sohl:
 packFolder: pantheonsasguardian
 ---
 

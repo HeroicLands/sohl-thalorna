@@ -76,7 +76,6 @@ data:
     iset: aligned
     hapi: aligned
     deshrut: aligned
-sohl:
 name:
   full: Per-Ankh'kemet
   aliases:

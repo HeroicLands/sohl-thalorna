@@ -104,7 +104,6 @@ data:
     - humanflk
   parents: []
   relations: {}
-sohl:
 terran_analog: Alberta, Saskatchewan, and Manitoba in Canada
 packFolder: kiximtzul
 ---

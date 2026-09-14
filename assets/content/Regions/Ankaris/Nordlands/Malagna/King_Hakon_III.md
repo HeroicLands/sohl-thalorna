@@ -21,7 +21,6 @@ data:
     - kingdomlgn
   gender: male
   species: null
-sohl:
 ---
 
 # King Hákon III

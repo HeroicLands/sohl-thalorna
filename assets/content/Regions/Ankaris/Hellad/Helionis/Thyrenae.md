@@ -113,7 +113,6 @@ data:
   relations:
     arldnpnthn: aligned
     panepistmm: aligned
-sohl:
 packFolder: helionis
 ---
 

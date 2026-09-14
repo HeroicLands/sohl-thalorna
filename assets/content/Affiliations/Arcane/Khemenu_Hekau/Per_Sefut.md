@@ -78,7 +78,6 @@ data:
     kemtnpnthn: aligned
     maatken: aligned
     apophis: nemesis
-sohl:
 name:
   full: Per-Sefút
   aliases:

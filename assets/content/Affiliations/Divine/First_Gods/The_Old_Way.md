@@ -113,7 +113,6 @@ data:
     - firstgods
   relations:
     firstgods: aligned
-sohl:
 packFolder: pantheonsfirstgods
 ---
 

@@ -94,7 +94,6 @@ data:
   lore: []
   parents: []
   relations: {}
-sohl:
 ---
 
 # The Magnum Collegium

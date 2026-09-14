@@ -104,7 +104,6 @@ data:
     - humanflk
   parents: []
   relations: {}
-sohl:
 terran_analog: Central US west of Appalachian Mountains — Mississippi and Ohio River valleys
 packFolder: hanalxilan
 ---

@@ -83,7 +83,6 @@ data:
   lore: []
   parents: []
   relations: {}
-sohl:
 ---
 
 # Kenbet'Pat

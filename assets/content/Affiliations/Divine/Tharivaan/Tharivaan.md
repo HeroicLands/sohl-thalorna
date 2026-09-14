@@ -72,7 +72,6 @@ data:
   parents:
     - tharivaan
   relations: {}
-sohl:
 packFolder: pantheonstharivaan
 ---
 

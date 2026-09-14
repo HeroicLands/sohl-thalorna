@@ -106,7 +106,6 @@ data:
     kngdmnrdhm: rival
     grukarholm: nemesis
     vylarinmpr: rival
-sohl:
 packFolder: vrystwald
 ---
 

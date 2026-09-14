@@ -107,7 +107,6 @@ data:
   relations:
     kemtnpnthn: aligned
     sobek: aligned
-sohl:
 packFolder: bordernomes
 ---
 

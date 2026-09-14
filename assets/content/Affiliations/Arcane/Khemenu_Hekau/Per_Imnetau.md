@@ -78,7 +78,6 @@ data:
     seker: aligned
     anubis: aligned
     atenre: aligned
-sohl:
 name:
   full: Per-Imnetáu
   aliases:

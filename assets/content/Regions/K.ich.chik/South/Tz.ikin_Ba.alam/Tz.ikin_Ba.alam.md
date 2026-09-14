@@ -103,7 +103,6 @@ data:
   lore: []
   parents: []
   relations: {}
-sohl:
 terran_analog: Southern South America
 packFolder: tzikinbaalam
 ---

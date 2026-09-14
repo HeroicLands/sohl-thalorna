@@ -176,7 +176,6 @@ data:
     arldnpnthn: aligned
     vylarinmpr: rival
     ordoarcanis: nemesis
-sohl:
 packFolder: vylaria
 ---
 

@@ -22,7 +22,6 @@ data:
     - kingdmdnvr
   gender: male
   species: null
-sohl:
 ---
 
 # Geldar Panivel, the Younger

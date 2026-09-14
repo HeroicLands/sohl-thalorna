@@ -108,7 +108,6 @@ data:
     chandrapur: aligned
     vyalendra2: aligned
     tanvurempr: unaligned
-sohl:
 packFolder: vedyara
 ---
 

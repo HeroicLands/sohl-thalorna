@@ -118,7 +118,6 @@ data:
     kingdmtrgd: unaligned
     kngdmvthgrd: unaligned
     kngdmlvndr: unaligned
-sohl:
 packFolder: malagna
 ---
 

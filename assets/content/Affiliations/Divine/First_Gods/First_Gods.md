@@ -91,7 +91,6 @@ data:
   parents: []
   relations:
     theoldway: aligned
-sohl:
 packFolder: pantheonsfirstgods
 ---
 

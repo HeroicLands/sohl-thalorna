@@ -59,7 +59,6 @@ name:
     - The Divine Architect's Path
 shortcode: ymir
 img: images/affiliation/asguardian/ymir.webp
-sohl:
 packFolder: pantheonsasguardian
 ---
 

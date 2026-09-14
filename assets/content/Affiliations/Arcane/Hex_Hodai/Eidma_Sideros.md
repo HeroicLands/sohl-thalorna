@@ -92,7 +92,6 @@ name:
   full: Sidéros
   aliases:
     - Eídma Sidéros
-sohl:
 thalorna:
   school: metal
 packFolder: affiliationshexhodai

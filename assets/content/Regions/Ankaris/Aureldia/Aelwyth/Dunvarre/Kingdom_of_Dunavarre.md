@@ -114,7 +114,6 @@ data:
     tanvurempr: unaligned
     vylarinmpr: unaligned
     saelvri: nemesis
-sohl:
 packFolder: aelwyth
 ---
 

@@ -92,7 +92,6 @@ data:
   relations:
     tngvkvnlei: aligned
     yokveng: aligned
-sohl:
 packFolder: yokveng
 ---
 

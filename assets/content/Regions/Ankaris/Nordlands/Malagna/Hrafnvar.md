@@ -23,7 +23,6 @@ data:
   parents:
     - kingdomlgn
   relations: {}
-sohl:
 name:
   full: Hrafnvar
   aliases: []

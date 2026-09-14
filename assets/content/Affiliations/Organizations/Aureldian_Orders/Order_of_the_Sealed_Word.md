@@ -101,7 +101,6 @@ data:
   parents: []
   relations:
     arldnpnthn: aligned
-sohl:
 name:
   full: The Order of the Sealed Word
   aliases:

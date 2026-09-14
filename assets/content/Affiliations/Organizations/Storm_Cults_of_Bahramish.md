@@ -113,7 +113,6 @@ data:
     ashanpnthn: aligned
     wrrscrcldnhrtrbs: aligned
     dunhartrbs: aligned
-sohl:
 ---
 
 # The Storm Cults of Báhrámiš

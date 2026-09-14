@@ -71,7 +71,6 @@ data:
     - nyalbpnthn
   relations:
     nyalbpnthn: aligned
-sohl:
 name:
   full: "Lion Totem"
   aliases:

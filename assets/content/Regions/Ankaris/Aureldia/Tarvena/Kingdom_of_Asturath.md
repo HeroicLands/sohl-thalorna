@@ -170,7 +170,6 @@ data:
     kngdmglvrn: unaligned
     kingdmlnrk: rival
     vylarinmpr: nemesis
-sohl:
 packFolder: tarvenia
 ---
 

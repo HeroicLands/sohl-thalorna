@@ -104,7 +104,6 @@ data:
   parents: []
   relations:
     asguardian: aligned
-sohl:
 ---
 
 # The Order of Fréyr's Guardians

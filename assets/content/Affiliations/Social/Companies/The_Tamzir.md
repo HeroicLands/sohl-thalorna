@@ -87,7 +87,6 @@ data:
   lore: []
   parents: []
   relations: {}
-sohl:
 packFolder: politiescompanies
 name:
   full: The Tamzîr

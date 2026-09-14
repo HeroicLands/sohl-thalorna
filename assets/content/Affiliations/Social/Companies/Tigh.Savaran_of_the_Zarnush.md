@@ -88,7 +88,6 @@ data:
   lore: []
   parents: []
   relations: {}
-sohl:
 packFolder: politiescompanies
 name:
   full: Tîgh'Savâran of the Zarnûsh

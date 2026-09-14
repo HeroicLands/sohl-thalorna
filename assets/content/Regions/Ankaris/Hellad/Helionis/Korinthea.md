@@ -107,7 +107,6 @@ data:
     - ctysttshlns
   relations:
     arldnpnthn: aligned
-sohl:
 packFolder: helionis
 ---
 

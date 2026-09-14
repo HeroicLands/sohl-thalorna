@@ -118,7 +118,6 @@ data:
     - nkaruthar
   relations:
     njiayaroho: aligned
-sohl:
 packFolder: pantheonsnkaruthar
 ---
 

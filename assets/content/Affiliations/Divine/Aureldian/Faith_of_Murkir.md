@@ -63,7 +63,6 @@ data:
     - arldnpnthn
   relations:
     arldnpnthn: aligned
-sohl:
 name:
   full: Faith of Murkir
   aliases:

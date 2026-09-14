@@ -110,7 +110,6 @@ data:
   relations:
     kemtnpnthn: aligned
     maat: aligned
-sohl:
 packFolder: ankhsetun
 ---
 

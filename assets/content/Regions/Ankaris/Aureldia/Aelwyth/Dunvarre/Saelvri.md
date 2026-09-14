@@ -23,7 +23,6 @@ data:
   parents: []
   relations:
     kingdmdnvr: nemesis
-sohl:
 name:
   full: Saelvri
   aliases: []

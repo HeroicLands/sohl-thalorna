@@ -107,7 +107,6 @@ data:
   relations:
     kemtnpnthn: aligned
     thoth: aligned
-sohl:
 packFolder: upperrivernomes
 ---
 

@@ -105,7 +105,6 @@ data:
   parents: []
   relations:
     itzanpnthn: aligned
-sohl:
 terran_analog: Yucatan Mexico and southern mexico through Honduras
 packFolder: kankul
 ---

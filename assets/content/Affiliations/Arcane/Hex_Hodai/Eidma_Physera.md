@@ -92,7 +92,6 @@ name:
   full: Physéra
   aliases:
     - Eídma Physéra
-sohl:
 thalorna:
   school: earth
 packFolder: affiliationshexhodai

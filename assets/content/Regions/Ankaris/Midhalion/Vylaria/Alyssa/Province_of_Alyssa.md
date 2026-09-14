@@ -103,7 +103,6 @@ data:
   relations:
     arldnpnthn: aligned
     ordoarcanis: aligned
-sohl:
 packFolder: vylaria
 ---
 

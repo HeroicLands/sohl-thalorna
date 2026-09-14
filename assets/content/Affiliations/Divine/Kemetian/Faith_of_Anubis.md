@@ -77,7 +77,6 @@ data:
     - kemtnpnthn
   relations:
     kemtnpnthn: aligned
-sohl:
 name:
   full: Faith of Ánubís
   aliases:

@@ -107,7 +107,6 @@ data:
   relations:
     kemtnpnthn: aligned
     wadjit: aligned
-sohl:
 packFolder: deltanomes
 ---
 

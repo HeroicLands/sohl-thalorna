@@ -98,7 +98,6 @@ data:
   lore: []
   parents: []
   relations: {}
-sohl:
 ---
 
 # Per'Mesnu

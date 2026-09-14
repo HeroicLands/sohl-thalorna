@@ -88,7 +88,6 @@ data:
   lore: []
   parents: []
   relations: {}
-sohl:
 name:
   full: The Blackpine Wolves
   aliases: []

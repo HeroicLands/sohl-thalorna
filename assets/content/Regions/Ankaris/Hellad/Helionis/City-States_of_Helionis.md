@@ -119,7 +119,6 @@ data:
     panepistmm: aligned
     ordoarcanis: unaligned
     vylarinmpr: aligned
-sohl:
 packFolder: helionis
 ---
 

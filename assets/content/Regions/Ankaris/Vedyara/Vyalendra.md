@@ -102,7 +102,6 @@ data:
   relations:
     varakpnthn: aligned
     vindhyalay: aligned
-sohl:
 packFolder: vedyara
 ---
 

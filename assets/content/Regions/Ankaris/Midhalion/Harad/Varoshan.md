@@ -106,7 +106,6 @@ data:
   relations:
     ashanpnthn: aligned
     arldnpnthn: aligned
-sohl:
 packFolder: harad
 ---
 

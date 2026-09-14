@@ -104,7 +104,6 @@ data:
     sultntmrdd: unaligned
     vindhyalay: rival
     cnfdrtnhrdnstts: unaligned
-sohl:
 packFolder: dunharadesert
 ---
 

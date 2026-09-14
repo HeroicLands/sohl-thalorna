@@ -122,7 +122,6 @@ data:
     - itzanpnthn
   relations:
     itzanpnthn: aligned
-sohl:
 ---
 
 **Domain:** Travel, Trade, Journeys, Messengers, Commerce, Communication

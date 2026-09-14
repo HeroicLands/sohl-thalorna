@@ -87,7 +87,6 @@ data:
   parents: []
   relations:
     varakpnthn: aligned
-sohl:
 terran_analog: "Medieval South Indian sabhā/ur temple-republics — Chola-era brahmadeya village federations governed by temple-anchored assemblies, loosely confederated through pilgrimage networks and shared classical tradition rather than through any centralized political authority"
 packFolder: vedyara
 ---

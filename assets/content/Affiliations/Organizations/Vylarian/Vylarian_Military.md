@@ -100,7 +100,6 @@ data:
   lore: []
   parents: []
   relations: {}
-sohl:
 ---
 
 # The Vylarian Military

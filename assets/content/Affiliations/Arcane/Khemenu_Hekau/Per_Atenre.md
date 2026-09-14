@@ -74,7 +74,6 @@ data:
     kemtnpnthn: aligned
     ra: aligned
     imnetau: aligned
-sohl:
 name:
   full: Per-Aten'ré
   aliases:

@@ -66,7 +66,6 @@ data:
     - kemtnpnthn
   relations:
     kemtnpnthn: aligned
-sohl:
 name:
   full: Faith of Ápōphis
   aliases:

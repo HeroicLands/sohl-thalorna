@@ -22,7 +22,6 @@ data:
   lore: []
   parents: []
   relations: {}
-sohl:
 name:
   full: Njörven's Cult
   aliases: []

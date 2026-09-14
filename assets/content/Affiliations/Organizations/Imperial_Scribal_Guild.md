@@ -91,7 +91,6 @@ data:
   lore: []
   parents: []
   relations: {}
-sohl:
 ---
 
 # The Imperial Scribal Guild

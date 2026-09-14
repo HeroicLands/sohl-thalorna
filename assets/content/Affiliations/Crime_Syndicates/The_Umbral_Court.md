@@ -107,7 +107,6 @@ data:
     ordoarcanis: hostile
     justbladeordr: mixed
     velvethand: aligned
-sohl:
 packFolder: crimesyndicates
 ---
 

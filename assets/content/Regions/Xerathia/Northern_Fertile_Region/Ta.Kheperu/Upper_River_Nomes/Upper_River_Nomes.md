@@ -110,7 +110,6 @@ data:
     - empirtkhpr
   relations:
     kemtnpnthn: aligned
-sohl:
 packFolder: upperrivernomes
 ---
 

@@ -117,7 +117,6 @@ data:
     kingdomlgn: unaligned
     kingdmnrgd: unaligned
     kingdmtrgd: unaligned
-sohl:
 packFolder: vithgard
 ---
 

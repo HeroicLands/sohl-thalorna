@@ -122,7 +122,6 @@ data:
   lore: []
   parents: []
   relations: {}
-sohl:
 packFolder: pantheonitzani
 ---
 

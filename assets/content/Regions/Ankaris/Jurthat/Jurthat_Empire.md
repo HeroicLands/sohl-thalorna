@@ -114,7 +114,6 @@ data:
   relations:
     tngvkvnlei: aligned
     tanvurempr: rival
-sohl:
 packFolder: jurthat
 ---
 

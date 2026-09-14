@@ -110,7 +110,6 @@ data:
   relations:
     kemtnpnthn: aligned
     iset: aligned
-sohl:
 packFolder: sauneferu
 ---
 

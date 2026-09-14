@@ -22,7 +22,6 @@ data:
   lore: []
   parents: []
   relations: {}
-sohl:
 name:
   full: Kalihara Confederation
   aliases: []

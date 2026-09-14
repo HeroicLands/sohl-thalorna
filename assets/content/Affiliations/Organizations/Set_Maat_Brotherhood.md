@@ -89,7 +89,6 @@ data:
     ptah: aligned
     seker: aligned
     anubis: aligned
-sohl:
 name:
   full: The Brotherhood of Set-Maat
   aliases:

@@ -122,7 +122,6 @@ data:
     - itzanpnthn
   relations:
     itzanpnthn: aligned
-sohl:
 ---
 
 **Domain:** Dreams, Visions, Prophecy, and the Moon

@@ -104,7 +104,6 @@ data:
     - humanflk
   parents: []
   relations: {}
-sohl:
 terran_analog: Central US and Plains States East of Rockies
 packFolder: haxaman
 ---

@@ -170,7 +170,6 @@ data:
     kngdmstrth: rival
     kngdmglvrn: rival
     vylarinmpr: nemesis
-sohl:
 packFolder: tarvenia
 ---
 

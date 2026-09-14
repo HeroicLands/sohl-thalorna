@@ -100,7 +100,6 @@ data:
     tzuqilixbal: nemesis
     tzumaqkalanil: aligned
     pikob: rival
-sohl:
 name:
   full: "Pik'ul Tz'umaq"
   aliases:

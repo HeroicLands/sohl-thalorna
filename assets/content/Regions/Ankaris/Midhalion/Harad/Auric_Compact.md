@@ -84,7 +84,6 @@ data:
   lore: []
   parents: []
   relations: {}
-sohl:
 name:
   full: Auric Compact
   aliases: []

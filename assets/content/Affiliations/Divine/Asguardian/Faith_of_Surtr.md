@@ -88,7 +88,6 @@ name:
     - The Flameborn Path
 shortcode: surtr
 img: images/affiliation/asguardian/surtr.webp
-sohl:
 packFolder: pantheonsasguardian
 ---
 

@@ -73,7 +73,6 @@ data:
     kemtnpnthn: aligned
     set: aligned
     ankhkemet: aligned
-sohl:
 name:
   full: Per-Deshr'ut
   aliases:

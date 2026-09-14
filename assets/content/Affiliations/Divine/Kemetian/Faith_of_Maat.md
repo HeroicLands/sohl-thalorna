@@ -72,7 +72,6 @@ data:
     - kemtnpnthn
   relations:
     kemtnpnthn: aligned
-sohl:
 name:
   full: Faith of Má'át
   aliases:

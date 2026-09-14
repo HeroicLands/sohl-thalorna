@@ -76,7 +76,6 @@ data:
   lore: []
   parents: []
   relations: {}
-sohl:
 ---
 
 # The Skalds' Circle

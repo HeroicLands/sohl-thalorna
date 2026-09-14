@@ -92,7 +92,6 @@ name:
   full: Zephäris
   aliases:
     - Eídma Zephäris
-sohl:
 thalorna:
   school: air
 packFolder: affiliationshexhodai

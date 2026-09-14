@@ -102,7 +102,6 @@ data:
     tzumaqkalanil: nemesis
     pikultzumaq: nemesis
     piqalkulqat: rival
-sohl:
 name:
   full: "Pik'ob"
   aliases:

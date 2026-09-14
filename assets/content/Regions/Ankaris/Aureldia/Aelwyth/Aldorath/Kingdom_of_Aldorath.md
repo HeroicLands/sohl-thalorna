@@ -169,7 +169,6 @@ data:
     kingdmdnvr: rival
     repblctrvn: unaligned
     jrldmstrmvld: nemesis
-sohl:
 packFolder: aelwyth
 ---
 

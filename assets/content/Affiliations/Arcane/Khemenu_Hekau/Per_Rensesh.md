@@ -78,7 +78,6 @@ data:
     kemtnpnthn: aligned
     thoth: aligned
     khatnu: aligned
-sohl:
 name:
   full: Per-Ren'sesh
   aliases:

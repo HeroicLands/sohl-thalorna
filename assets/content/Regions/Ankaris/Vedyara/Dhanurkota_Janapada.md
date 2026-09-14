@@ -109,7 +109,6 @@ data:
     - janpdsvdyr
   relations:
     varakpnthn: aligned
-sohl:
 terran_analog: "Medieval South Indian temple-republic with a martial-caste specialty — Chola-era brahmadeya village federation centered on a fortified temple complex, distinguished by hereditary archery training traditions"
 packFolder: vedyara
 ---

@@ -86,7 +86,6 @@ data:
   lore: []
   parents: []
   relations: {}
-sohl:
 shortcode: slntlncmpny
 name:
   full: The Silent Talon Company
