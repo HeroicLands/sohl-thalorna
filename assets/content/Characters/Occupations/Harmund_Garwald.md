@@ -14,7 +14,7 @@ name:
     - Thrain Ironforge
 packFolder: ankarisvrystwald
 shortcode: hrmndgrwld
-img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
+img: sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
   portrait: images/being/hrmndgrwld-portrait.webp

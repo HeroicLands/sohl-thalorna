@@ -13,7 +13,7 @@ name:
     - Elira Swiftfoot
 packFolder: aureldiatarvenia
 shortcode: almrdslrdrn
-img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
+img: sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
   portrait: images/being/almrdslrdrn-portrait.webp

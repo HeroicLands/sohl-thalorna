@@ -13,7 +13,7 @@ name:
     - Eadric Sterne
 packFolder: helladhelionis
 shortcode: makrinfrns
-img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
+img: sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
   portrait: images/being/makrinfrns-portrait.webp

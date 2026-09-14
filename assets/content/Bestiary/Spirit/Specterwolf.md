@@ -6,7 +6,7 @@ name:
   full: Specterwolf
   aliases: []
 description: "The spectral remnant of ancient beasts, hunting on both sides of the veil in relentless, coordinated packs that terrorize isolated travelers."
-img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
+img: sohl/assets/icons/game-icons/delapouite/person.svg
 shortcode: spctrwlf
 type: being
 data:

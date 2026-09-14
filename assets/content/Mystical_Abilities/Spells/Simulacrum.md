@@ -5,7 +5,7 @@ name:
   aliases:
     - False Soul
 description: "Creates temporary duplicate; copy mimics appearance and mannerism."
-img: systems/sohl/assets/icons/game-icons/delapouite/circle.svg
+img: sohl/assets/icons/game-icons/delapouite/circle.svg
 shortcode: smlcrm
 type: mysticalability
 subType: arcaneincantation

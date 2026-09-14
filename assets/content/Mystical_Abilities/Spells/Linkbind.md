@@ -5,7 +5,7 @@ name:
   aliases:
     - Chain
 description: "Two willing targets linked; damage inflicted on one transfers."
-img: systems/sohl/assets/icons/game-icons/delapouite/circle.svg
+img: sohl/assets/icons/game-icons/delapouite/circle.svg
 shortcode: linkbind
 type: mysticalability
 subType: arcaneincantation

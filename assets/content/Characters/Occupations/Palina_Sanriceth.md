@@ -14,7 +14,7 @@ name:
     - Shénasenè Seraphine Dreamweaver
 packFolder: aureldiatarvenia
 shortcode: palnsnrcth
-img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
+img: sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
   portrait: images/being/palnsnrcth-portrait.webp

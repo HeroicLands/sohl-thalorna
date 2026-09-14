@@ -15,7 +15,7 @@ name:
     - The Merchant Princess
 packFolder: northernfertileregionbethua
 shortcode: laylamarut
-img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
+img: sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
   portrait: images/beings/characters/laylamarut-portrait.webp

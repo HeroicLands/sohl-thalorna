@@ -6,7 +6,7 @@ name:
   aliases:
     - Potion, Aromatic, Strong
 description: "Jewel-toned amber aromatic; enhances social appeal and persuasion."
-img: systems/sohl/assets/icons/other/potion.svg
+img: sohl/assets/icons/other/potion.svg
 shortcode: ptnaroms
 type: concoctiongear
 subType: exotic

@@ -14,7 +14,7 @@ name:
     - The Fire-Sworn Strategist
 packFolder: midhalionvylaria
 shortcode: phltsklfts
-img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
+img: sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
   portrait: images/beings/characters/phltsklfts-portrait.webp

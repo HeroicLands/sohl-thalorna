@@ -13,7 +13,7 @@ name:
     - Anwen Lys
 packFolder: aureldiaaelwyth
 shortcode: wnfrdlvrtn
-img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
+img: sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
   portrait: images/being/wnfrdlvrtn-portrait.webp

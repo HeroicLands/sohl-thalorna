@@ -14,7 +14,7 @@ name:
     - The Spirit Tracker
 packFolder: xerathiasouthernsavannahs
 shortcode: gahijwfnjr
-img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
+img: sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
   portrait: images/beings/characters/gahijwfnjr-portrait.webp

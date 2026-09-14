@@ -13,7 +13,7 @@ name:
     - Gwyneth Vane
 packFolder: aureldiaelavendre
 shortcode: ovlynslthr
-img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
+img: sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
   portrait: images/being/ovlynslthr-portrait.webp

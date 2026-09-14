@@ -17,7 +17,7 @@ name:
   aliases: []
 packFolder: midhalionvylaria
 shortcode: lrdmlnvsbr
-img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
+img: sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
   portrait: images/beings/characters/lrdmlnvsbr-portrait.webp

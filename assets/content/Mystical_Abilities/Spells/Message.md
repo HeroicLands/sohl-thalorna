@@ -5,7 +5,7 @@ name:
   aliases:
     - Missive
 description: "Whispered words travel to distant recipient; bypasses physical barriers."
-img: systems/sohl/assets/icons/noun/divination.svg
+img: sohl/assets/icons/noun/divination.svg
 shortcode: message
 type: mysticalability
 subType: arcaneincantation

@@ -5,7 +5,7 @@ name:
   aliases:
     - Converse
 description: "Unites minds; caster and target share thoughts and sensations."
-img: systems/sohl/assets/icons/game-icons/delapouite/circle.svg
+img: sohl/assets/icons/game-icons/delapouite/circle.svg
 shortcode: cmmnn
 type: mysticalability
 subType: arcaneincantation

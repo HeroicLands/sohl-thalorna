@@ -13,7 +13,7 @@ name:
     - Nyssa Shadowveil
 packFolder: aureldiaaelwyth
 shortcode: hildbrwnng
-img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
+img: sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
   portrait: images/being/hildbrwnng-portrait.webp

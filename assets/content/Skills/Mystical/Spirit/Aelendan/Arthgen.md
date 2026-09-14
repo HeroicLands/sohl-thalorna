@@ -6,7 +6,7 @@ description: "Standing with Arthgen, the Bear of the High Corries — what this 
 type: skill
 subType: mystical
 shortcode: arthgensprt
-img: systems/sohl/assets/icons/game-icons/lorc/psychic-waves.svg
+img: sohl/assets/icons/game-icons/lorc/psychic-waves.svg
 name:
   full: "Arthgen Spirit Power"
   aliases:

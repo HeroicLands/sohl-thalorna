@@ -5,7 +5,7 @@ name:
   aliases:
     - Insight
 description: "Reveals truth; strips away glamour and shows reality plainly."
-img: systems/sohl/assets/icons/noun/divination.svg
+img: sohl/assets/icons/noun/divination.svg
 shortcode: clarity
 type: mysticalability
 subType: arcaneincantation

@@ -13,7 +13,7 @@ name:
     - Bosun Kellan Stormwatch
 packFolder: aureldiaprovenzia
 shortcode: thavenfrwn
-img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
+img: sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
   portrait: images/being/thavenfrwn-portrait.webp

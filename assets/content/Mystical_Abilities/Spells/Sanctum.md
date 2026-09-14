@@ -4,7 +4,7 @@ name:
   full: Sanctum
   aliases: []
 description: "Creates sacred space; grants sanctuary and refuge from intrusion."
-img: systems/sohl/assets/icons/game-icons/delapouite/circle.svg
+img: sohl/assets/icons/game-icons/delapouite/circle.svg
 shortcode: sanctum
 type: mysticalability
 subType: arcaneincantation

@@ -13,7 +13,7 @@ name:
     - Mira Whisperwind
 packFolder: aureldiaprovenzia
 shortcode: vrynbrnwyld
-img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
+img: sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
   portrait: images/being/vrynbrnwyld-portrait.webp

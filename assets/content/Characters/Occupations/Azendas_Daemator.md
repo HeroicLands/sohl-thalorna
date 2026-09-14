@@ -14,7 +14,7 @@ name:
     - Ebaséthè Rowan Thistlewood
 packFolder: midhalionvylaria
 shortcode: azendsdmtr
-img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
+img: sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
   portrait: images/being/azendsdmtr-portrait.webp

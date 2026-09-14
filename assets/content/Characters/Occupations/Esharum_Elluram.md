@@ -13,7 +13,7 @@ name:
     - Edwin Hale
 packFolder: midhalionharad
 shortcode: esharumlrm
-img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
+img: sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
   portrait: images/being/esharumlrm-portrait.webp

@@ -13,7 +13,7 @@ name:
     - Thoran Blackstitch
 packFolder: aureldiatarvenia
 shortcode: pdrthjthrn
-img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
+img: sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
   portrait: images/being/pdrthjthrn-portrait.webp

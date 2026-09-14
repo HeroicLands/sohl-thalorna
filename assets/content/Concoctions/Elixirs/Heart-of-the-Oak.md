@@ -6,7 +6,7 @@ name:
   aliases:
     - Might Elixir
 description: "Dense amber strength elixir; surges Strength by four points temporarily."
-img: systems/sohl/assets/icons/other/potion.svg
+img: sohl/assets/icons/other/potion.svg
 shortcode: elxmgt
 type: concoctiongear
 subType: elixir

@@ -5,7 +5,7 @@ name:
   aliases:
     - Doom Curtain
 description: "Creates barrier of fire; blocks passage and burns."
-img: systems/sohl/assets/icons/game-icons/badges/fire.svg
+img: sohl/assets/icons/game-icons/badges/fire.svg
 shortcode: wllfflm
 type: mysticalability
 subType: arcaneincantation

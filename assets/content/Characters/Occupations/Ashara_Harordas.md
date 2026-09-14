@@ -14,7 +14,7 @@ name:
     - Thalia Ashbrook
 packFolder: midhalionvylaria
 shortcode: asharhrrds
-img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
+img: sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
   portrait: images/being/asharhrrds-portrait.webp

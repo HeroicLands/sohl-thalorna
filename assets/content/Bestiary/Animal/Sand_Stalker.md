@@ -6,7 +6,7 @@ name:
   full: Sand Stalker
   aliases: []
 description: "A lithe nocturnal desert feline up to seven feet long, stalking dune fields and rocky wastes for small prey through the cool night hours."
-img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
+img: sohl/assets/icons/game-icons/delapouite/person.svg
 shortcode: sndstlkr
 type: being
 data:

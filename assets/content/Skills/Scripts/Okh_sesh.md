@@ -6,7 +6,7 @@ name:
     - Okh-sesh
     - Okh-sesh-vowel
 description: "The twenty-three sacred characters of Okháris, and the vowelled hybrid the merchants made of them."
-img: systems/sohl/assets/icons/other/speaking.svg
+img: sohl/assets/icons/other/speaking.svg
 shortcode: okhsshscrpt
 type: skill
 subType: script

@@ -13,7 +13,7 @@ name:
     - Torvin Hidebark
 packFolder: midhalionharad
 shortcode: qirushtarz
-img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
+img: sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
   portrait: images/being/qirushtarz-portrait.webp

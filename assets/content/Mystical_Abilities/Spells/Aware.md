@@ -5,7 +5,7 @@ name:
   aliases:
     - Sensation
 description: "Sharpens senses; target perceives details invisible to normal sight."
-img: systems/sohl/assets/icons/noun/divination.svg
+img: sohl/assets/icons/noun/divination.svg
 shortcode: aware
 type: mysticalability
 subType: arcaneincantation

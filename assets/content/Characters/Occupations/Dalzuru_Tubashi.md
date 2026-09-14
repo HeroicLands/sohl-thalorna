@@ -13,7 +13,7 @@ name:
     - Sigurd Ravensong
 packFolder: midhalionharad
 shortcode: dalzurtbsh
-img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
+img: sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
   portrait: images/being/dalzurtbsh-portrait.webp

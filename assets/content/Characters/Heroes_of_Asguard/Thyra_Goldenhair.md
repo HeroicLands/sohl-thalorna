@@ -14,7 +14,7 @@ name:
   home: null
 packFolder: ankarisnordlands
 shortcode: thyrgldnhr
-img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
+img: sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
   portrait: images/being/thyrgldnhr-portrait.webp

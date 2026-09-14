@@ -6,7 +6,7 @@ name:
   full: Giant Tortoise
   aliases: []
 description: "A centuries-old herbivorous reptile and near-indestructible walking fortress, peaceful and indifferent as it grazes slowly through the ages."
-img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
+img: sohl/assets/icons/game-icons/delapouite/person.svg
 shortcode: gnttrts
 type: being
 data:

@@ -6,7 +6,7 @@ name:
   full: Blinkfox
   aliases: []
 description: "A fae-touched predator that hunts enchanted forests by slipping through dimensions, striking from partially outside normal space."
-img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
+img: sohl/assets/icons/game-icons/delapouite/person.svg
 shortcode: blinkfox
 type: being
 data:

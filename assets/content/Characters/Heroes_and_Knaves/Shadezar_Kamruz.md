@@ -12,7 +12,7 @@ name:
   aliases: []
 packFolder: dunharatribes
 shortcode: shadzrkmrz
-img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
+img: sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
   portrait: images/beings/characters/shadzrkmrz-portrait.webp
@@ -95,7 +95,7 @@ sohl:
     - { model: sohl-sohl-projectilegear-arwstd, system: { quantity: 25 } }
     - name: Quiver (leather, tribal design)
       type: miscgear
-      img: systems/sohl/assets/icons/game-icons/delapouite/quiver.svg
+      img: sohl/assets/icons/game-icons/delapouite/quiver.svg
       system:
         shortcode: quiver
         weight: 1

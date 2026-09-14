@@ -15,7 +15,7 @@ name:
     - The Empire's Hand on the Southern Shore
 packFolder: midhalionvylaria
 shortcode: casiaveric
-img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
+img: sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
   portrait: images/being/casiaveric-portrait.webp

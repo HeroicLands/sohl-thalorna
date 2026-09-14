@@ -15,7 +15,7 @@ name:
 packFolder: northernfertileregiontakheperu
 banner: banners/ta-kheperu-banner.webp
 shortcode: skhmtkskhn
-img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
+img: sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
   portrait: images/beings/characters/skhmtkskhn-portrait.webp
@@ -104,7 +104,7 @@ sohl:
     - { model: sohl-sohl-projectilegear-arwstd, system: { quantity: 20 } }
     - name: Quiver (leather)
       type: miscgear
-      img: systems/sohl/assets/icons/game-icons/delapouite/quiver.svg
+      img: sohl/assets/icons/game-icons/delapouite/quiver.svg
       system:
         shortcode: quiver
         weight: 1

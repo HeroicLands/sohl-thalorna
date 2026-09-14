@@ -3,7 +3,7 @@ tags: []
 name:
   full: Amplification
   aliases: []
-img: systems/sohl/assets/icons/noun/psionics.svg
+img: sohl/assets/icons/noun/psionics.svg
 shortcode: ampl
 type: mysticalability
 subType: arcanetalent

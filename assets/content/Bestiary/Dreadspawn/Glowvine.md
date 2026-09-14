@@ -6,7 +6,7 @@ name:
   full: Glowvine
   aliases: []
 description: "A dark-magic-corrupted predatory plant that lures unwary prey with bioluminescent beauty in shadowed forests and lightless caves."
-img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
+img: sohl/assets/icons/game-icons/delapouite/person.svg
 shortcode: glowvine
 type: being
 data:

@@ -14,7 +14,7 @@ name:
     - the Liar
 packFolder: ankarisvrystwald
 shortcode: vndrcgrwld
-img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
+img: sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
   portrait: images/beings/characters/vndrcgrwld-portrait.webp

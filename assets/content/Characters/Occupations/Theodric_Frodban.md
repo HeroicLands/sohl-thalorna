@@ -14,7 +14,7 @@ name:
     - Theodric Froban
 packFolder: ankarisvrystwald
 shortcode: thdrcfrdbn
-img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
+img: sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
   portrait: images/being/thdrcfrdbn-portrait.webp

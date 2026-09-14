@@ -6,7 +6,7 @@ name:
   full: Cheeprow
   aliases: []
 description: "A ten-inch creature of disarming cuteness that lures travelers with innocent charm before revealing itself as a dangerous pack predator."
-img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
+img: sohl/assets/icons/game-icons/delapouite/person.svg
 shortcode: cheeprow
 type: being
 data:

@@ -13,7 +13,7 @@ name:
     - Garrick Blastforge
 packFolder: ankarisvrystwald
 shortcode: wlfrdhldvth
-img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
+img: sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
   portrait: images/being/wlfrdhldvth-portrait.webp

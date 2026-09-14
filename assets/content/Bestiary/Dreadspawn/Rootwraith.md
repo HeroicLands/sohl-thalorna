@@ -6,7 +6,7 @@ name:
   full: Rootwraith
   aliases: []
 description: "A territorial mass of corrupted vegetation and ancient malice that rises from the soil of deep forests to punish intruders."
-img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
+img: sohl/assets/icons/game-icons/delapouite/person.svg
 shortcode: rtwrth
 type: being
 data:

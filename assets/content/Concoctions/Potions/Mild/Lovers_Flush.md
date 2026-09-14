@@ -6,7 +6,7 @@ name:
   aliases:
     - Potion, Aphrodisiac, Mild
 description: "Reddish tincture with gold flecks; grants amorous attraction."
-img: systems/sohl/assets/icons/other/potion.svg
+img: sohl/assets/icons/other/potion.svg
 shortcode: ptnaphrm
 type: concoctiongear
 subType: exotic

@@ -14,7 +14,7 @@ name:
     - Reslâva Mira Lightwhisper
 packFolder: aureldiaelavendre
 shortcode: sarenprdln
-img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
+img: sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
   portrait: images/being/sarenprdln-portrait.webp

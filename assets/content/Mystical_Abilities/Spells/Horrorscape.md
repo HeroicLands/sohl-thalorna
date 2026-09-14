@@ -5,7 +5,7 @@ name:
   aliases:
     - Nightmare
 description: "Unearthly chorus of phantom voices and whispers; profoundly disorienting."
-img: systems/sohl/assets/icons/other/wind.svg
+img: sohl/assets/icons/other/wind.svg
 shortcode: hrrrscp
 type: mysticalability
 subType: arcaneincantation

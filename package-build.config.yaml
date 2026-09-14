@@ -83,6 +83,10 @@ site:
     # is written flat at the root of this directory. The whole tree is wiped and
     # rewritten on every run, so it is a build artifact and never committed.
     out: site/content
+    # The host every package's imagery is served from, joined onto the package
+    # name and the path inside that package's `assets/`. The Hugo site spells
+    # the same address as `params.cdnBaseURL`; keep the two in step.
+    assets: https://cdn.heroiclands.org
     # `packages:` is absent, and absent means `[contentPackage]`. `package:`
     # is retired, so every note in this tree is `thalorna` by construction and
     # naming a second package would select nothing.

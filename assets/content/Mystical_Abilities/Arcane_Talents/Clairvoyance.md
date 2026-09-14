@@ -3,7 +3,7 @@ tags: []
 name:
   full: Clairvoyance
   aliases: []
-img: systems/sohl/assets/icons/noun/psionics.svg
+img: sohl/assets/icons/noun/psionics.svg
 shortcode: clrv
 type: mysticalability
 subType: arcanetalent

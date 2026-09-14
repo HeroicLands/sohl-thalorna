@@ -5,7 +5,7 @@ name:
   aliases:
     - Wisdom
 description: "Simplifies complexity; core dynamics become apparent through meditation."
-img: systems/sohl/assets/icons/noun/divination.svg
+img: sohl/assets/icons/noun/divination.svg
 shortcode: sage
 type: mysticalability
 subType: arcaneincantation

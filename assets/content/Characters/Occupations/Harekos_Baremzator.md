@@ -13,7 +13,7 @@ name:
     - Elwood Strawbridge
 packFolder: midhalionvylaria
 shortcode: hrksbrmztr
-img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
+img: sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
   portrait: images/being/hrksbrmztr-portrait.webp

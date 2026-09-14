@@ -13,7 +13,7 @@ name:
     - Seraphine Steelheart
 packFolder: aureldiatarvenia
 shortcode: thesidlvnr
-img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
+img: sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
   portrait: images/being/thesidlvnr-portrait.webp

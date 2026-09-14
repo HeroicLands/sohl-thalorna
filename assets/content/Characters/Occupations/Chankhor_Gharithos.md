@@ -13,7 +13,7 @@ name:
     - Garrick Stablemaster
 packFolder: helladhelionis
 shortcode: chnkhrghrths
-img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
+img: sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
   portrait: images/being/chnkhrghrths-portrait.webp

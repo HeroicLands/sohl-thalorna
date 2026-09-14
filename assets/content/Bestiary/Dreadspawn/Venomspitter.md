@@ -6,7 +6,7 @@ name:
   full: Venomspitter
   aliases: []
 description: "An acid-bodied ambush predator of warm jungles and humid caves, built entirely around producing and spitting corrosive toxins."
-img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
+img: sohl/assets/icons/game-icons/delapouite/person.svg
 shortcode: vnmspttr
 type: being
 data:

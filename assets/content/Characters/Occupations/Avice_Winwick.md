@@ -13,7 +13,7 @@ name:
     - Selene Wavecaller
 packFolder: aureldiaaelwyth
 shortcode: avicewnwck
-img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
+img: sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
   portrait: images/being/avicewnwck-portrait.webp

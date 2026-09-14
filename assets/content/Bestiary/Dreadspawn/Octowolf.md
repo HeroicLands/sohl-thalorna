@@ -6,7 +6,7 @@ name:
   full: Octowolf
   aliases: []
 description: "An unnatural wolf-and-octopus fusion haunting coastal marshes, deltas, and corrupted waters where land and water meet."
-img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
+img: sohl/assets/icons/game-icons/delapouite/person.svg
 shortcode: octowolf
 type: being
 data:

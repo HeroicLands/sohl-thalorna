@@ -6,7 +6,7 @@ name:
   full: Fireflit
   aliases: []
 description: "A small, clever fire elemental serving as scout or messenger, harmless alone but a genuine threat when gathered into a burning swarm."
-img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
+img: sohl/assets/icons/game-icons/delapouite/person.svg
 shortcode: fireflit
 type: being
 data:

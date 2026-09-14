@@ -13,7 +13,7 @@ name:
   aliases: []
 packFolder: aureldiatarvenia
 shortcode: gracncstrn
-img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
+img: sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
   portrait: images/being/gracncstrn-portrait.webp

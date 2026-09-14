@@ -6,7 +6,7 @@ name:
   full: Frostwing
   aliases: []
 description: "An intelligent aerial hunter of deep winter, migrating toward the coldest lands and using coordinated flight tactics to bring death from above."
-img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
+img: sohl/assets/icons/game-icons/delapouite/person.svg
 shortcode: frstwng
 type: being
 data:

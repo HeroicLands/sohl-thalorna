@@ -6,7 +6,7 @@ name:
   full: Glassfang
   aliases: []
 description: "A small, blindingly fast light-magic predator that hunts nearly invisible through crystalline caverns and radiant magical sites."
-img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
+img: sohl/assets/icons/game-icons/delapouite/person.svg
 shortcode: glssfng
 type: being
 data:
