@@ -52,21 +52,12 @@ Description: A resilient and steadfast individual, this person is characterized 
 
 **Sturgeon: Resilient and Steadfast**
 
-- **Animal Ideal:**
-- **Description:**
-- **Positive:**
-- **Negative:**
+- **Animal Ideal:** Resilient and steadfast, sturgeons thrive in diverse environments, moving slowly but purposefully, and enduring through various challenges with their strength and persistence.
+- **Description:** This person exhibits a composed and methodical approach to life, showing remarkable resilience and consistent reliability, often providing stability and wisdom in both personal and professional settings.
+- **Positive:** Reliable, composed, and insightful.
+- **Negative:** Aloof, resistant to change, and overly cautious.
 - **Minor Trait:** Patient.
-- **Major Disorder:**
-
-<p><strong>Animal Ideal:</strong> Resilient and steadfast, sturgeons thrive in diverse environments, moving slowly but purposefully, and enduring through various challenges with their strength and persistence.</p>
-<p><strong>Description:</strong> This person exhibits a composed and methodical approach to life, showing remarkable resilience and consistent reliability, often providing stability and wisdom in both personal and professional settings.</p>
-<ul>
-<li><strong>Positive:</strong> Reliable, composed, and insightful.</li>
-<li><strong>Negative:</strong> Aloof, resistant to change, and overly cautious.</li>
-<li><strong>Minor Trait:</strong> Patient.</li>
-<li><strong>Major Disorder:</strong> Avoidant Personality Disorder, due to social inhibition and a strong resistance to change.</li>
-</ul>
+- **Major Disorder:** Avoidant Personality Disorder, due to social inhibition and a strong resistance to change.
 
 6. **Bobcat: Secretive and Cautious**
    - **Animal Ideal:** Secretive and cautious, bobcats are elusive hunters, using their stealth and patience to silently stalk and ambush their prey.
