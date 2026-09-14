@@ -12,7 +12,7 @@ name:
     - Gytha Craggs
 packFolder: aureldiaaelwyth
 shortcode: maudosgood
-img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
+img: sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
   portrait: images/being/maudosgood-portrait.webp

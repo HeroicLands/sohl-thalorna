@@ -12,7 +12,7 @@ name:
     - Bram Hollowfoot
 packFolder: ankarisvrystwald
 shortcode: erthrnhldvth
-img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
+img: sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
   portrait: images/being/erthrnhldvth-portrait.webp

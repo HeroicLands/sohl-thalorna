@@ -5,7 +5,7 @@ name:
   full: Ironjaw
   aliases: []
 description: "A metal-fused pack predator corrupted by dark magic that hunts mountains and industrial wastes, marking territory with bones and claw-scratches."
-img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
+img: sohl/assets/icons/game-icons/delapouite/person.svg
 shortcode: ironjaw
 type: being
 data:

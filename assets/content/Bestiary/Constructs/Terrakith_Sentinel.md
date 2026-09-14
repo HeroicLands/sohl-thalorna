@@ -5,7 +5,7 @@ name:
   full: Terrakith Sentinel
   aliases: []
 description: "An eight-foot golem sculpted from magically infused clay, engineered as a relentless enforcer guarding temples, crypts, and mages' chambers."
-img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
+img: sohl/assets/icons/game-icons/delapouite/person.svg
 shortcode: trrkthsn
 type: being
 data:

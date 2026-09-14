@@ -11,7 +11,7 @@ name:
   aliases: []
 packFolder: heroesandknaveskalihara
 shortcode: muritarikh
-img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
+img: sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
   portrait: images/beings/characters/muritarikh-portrait.webp

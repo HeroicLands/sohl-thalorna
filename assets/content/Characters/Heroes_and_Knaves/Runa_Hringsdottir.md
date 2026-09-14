@@ -13,7 +13,7 @@ name:
     - the Shield-Maiden of Járnhavn
 packFolder: ankarisnordlands
 shortcode: rnhrngsdtr
-img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
+img: sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
   portrait: images/beings/characters/rnhrngsdtr-portrait.webp
@@ -97,7 +97,7 @@ sohl:
     - { model: sohl-sohl-projectilegear-arwstd, system: { quantity: 30 } }
     - name: Quiver (leather)
       type: miscgear
-      img: systems/sohl/assets/icons/game-icons/delapouite/quiver.svg
+      img: sohl/assets/icons/game-icons/delapouite/quiver.svg
       system:
         shortcode: quiver
         weight: 1

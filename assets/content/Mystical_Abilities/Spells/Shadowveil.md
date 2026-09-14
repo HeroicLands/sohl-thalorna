@@ -5,7 +5,7 @@ name:
   aliases:
     - Cloak
 description: "Wraps in darkness; grants concealment within shadowed areas."
-img: systems/sohl/assets/icons/game-icons/badges/fire.svg
+img: sohl/assets/icons/game-icons/badges/fire.svg
 shortcode: shdwvl
 type: mysticalability
 subType: arcaneincantation

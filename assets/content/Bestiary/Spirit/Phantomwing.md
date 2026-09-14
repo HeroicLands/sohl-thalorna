@@ -5,7 +5,7 @@ name:
   full: Phantomwing
   aliases: []
 description: "The lonely, searching spirit of a creature that died far from home, pursuing living beings in hope of companionship it can never reclaim."
-img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
+img: sohl/assets/icons/game-icons/delapouite/person.svg
 shortcode: phntmwng
 type: being
 data:

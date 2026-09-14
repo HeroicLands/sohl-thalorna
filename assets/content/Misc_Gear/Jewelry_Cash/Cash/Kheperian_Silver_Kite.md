@@ -5,7 +5,7 @@ name:
   full: Kheperian Silver Kite
   aliases: ["Silver Kite", "Silver Qedét"]
 description: "Temple-attested silver weight-piece of one kite; the wage and market denomination."
-img: systems/sohl/assets/icons/game-icons/badges/coins.svg
+img: sohl/assets/icons/game-icons/badges/coins.svg
 shortcode: skite
 type: miscgear
 data:

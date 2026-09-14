@@ -5,7 +5,7 @@ name:
   aliases:
     - Tunnel
 description: "Creates temporary passage through solid barriers like walls."
-img: systems/sohl/assets/icons/other/tree.svg
+img: sohl/assets/icons/other/tree.svg
 shortcode: pthfrg
 type: mysticalability
 subType: arcaneincantation

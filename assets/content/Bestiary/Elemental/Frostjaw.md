@@ -5,7 +5,7 @@ name:
   full: Frostjaw
   aliases: []
 description: "A predator of ice and deep cold given animal form, pursuing prey relentlessly across frozen wastes, driven by hunger and territorial fury."
-img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
+img: sohl/assets/icons/game-icons/delapouite/person.svg
 shortcode: frostjaw
 type: being
 data:

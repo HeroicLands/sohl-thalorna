@@ -11,7 +11,7 @@ name:
   aliases: []
 packFolder: aureldiaprovenzia
 shortcode: idriskrsvr
-img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
+img: sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
   portrait: images/beings/characters/idriskrsvr-portrait.webp

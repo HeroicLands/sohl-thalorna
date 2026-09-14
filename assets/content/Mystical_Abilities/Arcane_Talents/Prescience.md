@@ -3,7 +3,7 @@ tags: []
 name:
   full: Prescience
   aliases: []
-img: systems/sohl/assets/icons/noun/psionics.svg
+img: sohl/assets/icons/noun/psionics.svg
 shortcode: psnc
 type: mysticalability
 subType: arcanetalent

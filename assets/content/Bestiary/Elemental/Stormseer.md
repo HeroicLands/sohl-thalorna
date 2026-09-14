@@ -5,7 +5,7 @@ name:
   full: Stormseer
   aliases: []
 description: "An arrogant elemental of sky and lightning born from violent storms, heralding severe weather that some believe its very presence conjures."
-img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
+img: sohl/assets/icons/game-icons/delapouite/person.svg
 shortcode: strmsr
 type: being
 data:

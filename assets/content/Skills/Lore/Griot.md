@@ -5,7 +5,7 @@ description: "The keeping of a people's record where there is no writing — gen
 type: skill
 subType: lore
 shortcode: griot
-img: systems/sohl/assets/icons/game-icons/delapouite/unicorn.svg
+img: sohl/assets/icons/game-icons/delapouite/unicorn.svg
 name:
   full: Griot
   aliases:

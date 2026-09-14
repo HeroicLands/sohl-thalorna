@@ -6,7 +6,7 @@ name:
   aliases:
     - Potion, Coagulant, Great
 description: "Nearly black crystalline preparation; stops bleeding and rapid death."
-img: systems/sohl/assets/icons/other/potion.svg
+img: sohl/assets/icons/other/potion.svg
 shortcode: ptncoagg
 type: concoctiongear
 subType: exotic

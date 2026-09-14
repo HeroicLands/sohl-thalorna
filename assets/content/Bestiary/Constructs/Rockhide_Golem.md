@@ -5,7 +5,7 @@ name:
   full: Rockhide Golem
   aliases: []
 description: "A towering ten-foot guardian of fused stone, engineered for brute force to defend treasures within ancient ruins and fortifications."
-img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
+img: sohl/assets/icons/game-icons/delapouite/person.svg
 shortcode: rckhdglm
 type: being
 data:

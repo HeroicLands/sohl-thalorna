@@ -12,7 +12,7 @@ name:
     - Garron Marlowe
 packFolder: aureldiaaelwyth
 shortcode: hrldhlmsly
-img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
+img: sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
   portrait: images/being/hrldhlmsly-portrait.webp

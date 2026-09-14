@@ -12,7 +12,7 @@ name:
     - Finn the Jolly
 packFolder: midhalionvylaria
 shortcode: mthrksgrznds
-img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
+img: sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
   portrait: images/being/mthrksgrznds-portrait.webp

@@ -12,7 +12,7 @@ name:
   aliases: []
 packFolder: midhalionvylaria
 shortcode: lothnhrlns
-img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
+img: sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
   portrait: images/being/lothnhrlns-portrait.webp

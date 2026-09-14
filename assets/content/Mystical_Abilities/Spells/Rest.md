@@ -5,7 +5,7 @@ name:
   aliases:
     - Slumber
 description: "Grants deep, restorative sleep; targets wake refreshed."
-img: systems/sohl/assets/icons/other/tree.svg
+img: sohl/assets/icons/other/tree.svg
 shortcode: rest
 type: mysticalability
 subType: arcaneincantation

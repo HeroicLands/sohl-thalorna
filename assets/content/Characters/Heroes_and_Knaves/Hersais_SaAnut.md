@@ -14,7 +14,7 @@ name:
 packFolder: northernfertileregiontakheperu
 banner: banners/ta-kheperu-banner.webp
 shortcode: hersaisant
-img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
+img: sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
   portrait: images/beings/characters/hersaisant-portrait.webp

@@ -5,7 +5,7 @@ name:
   aliases:
     - Charge
 description: "Channels arcane energy into object; releases via predetermined trigger."
-img: systems/sohl/assets/icons/game-icons/delapouite/circle.svg
+img: sohl/assets/icons/game-icons/delapouite/circle.svg
 shortcode: infuse
 type: mysticalability
 subType: arcaneincantation

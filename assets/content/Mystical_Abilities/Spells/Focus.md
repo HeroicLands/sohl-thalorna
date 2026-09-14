@@ -5,7 +5,7 @@ name:
   aliases:
     - Lens
 description: "Clarifies magical intent; improves accuracy and power of caster's magic."
-img: systems/sohl/assets/icons/other/wind.svg
+img: sohl/assets/icons/other/wind.svg
 shortcode: focus
 type: mysticalability
 subType: arcaneincantation

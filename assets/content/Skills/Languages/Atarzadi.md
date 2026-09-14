@@ -6,7 +6,7 @@ name:
   aliases:
     - Atarzari Language
 description: "The tongue of Atarzari people."
-img: systems/sohl/assets/icons/other/speaking.svg
+img: sohl/assets/icons/other/speaking.svg
 shortcode: atarzadilng
 type: skill
 subType: language

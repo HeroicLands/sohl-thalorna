@@ -12,7 +12,7 @@ name:
     - Mira Clayfoot
 packFolder: aureldiaelavendre
 shortcode: methrzlrth
-img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
+img: sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
   portrait: images/being/methrzlrth-portrait.webp

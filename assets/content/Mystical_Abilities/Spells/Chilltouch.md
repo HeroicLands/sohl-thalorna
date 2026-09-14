@@ -5,7 +5,7 @@ name:
   aliases:
     - Freeze
 description: "Caster's hand withers flesh with unnatural cold on contact."
-img: systems/sohl/assets/icons/game-icons/badges/water.svg
+img: sohl/assets/icons/game-icons/badges/water.svg
 shortcode: chlltch
 type: mysticalability
 subType: arcaneincantation

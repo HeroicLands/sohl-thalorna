@@ -6,7 +6,7 @@ name:
   aliases:
     - Potion, Aromatic, Mild
 description: "Pale golden honey-like liquid; sweetens disposition and charm."
-img: systems/sohl/assets/icons/other/potion.svg
+img: sohl/assets/icons/other/potion.svg
 shortcode: ptnaromm
 type: concoctiongear
 subType: exotic

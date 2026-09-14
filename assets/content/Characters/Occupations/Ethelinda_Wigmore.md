@@ -12,7 +12,7 @@ name:
     - Brenna Lockwood
 packFolder: aureldiaaelwyth
 shortcode: ethlndwgmr
-img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
+img: sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
   portrait: images/being/ethlndwgmr-portrait.webp

@@ -5,7 +5,7 @@ name:
   full: Acidtoad
   aliases: []
 description: "A corruption-twisted amphibian of swamps and toxic pools that ambushes prey with sluggish movements and lethally venomous, acidic flesh."
-img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
+img: sohl/assets/icons/game-icons/delapouite/person.svg
 shortcode: acidtoad
 type: being
 data:

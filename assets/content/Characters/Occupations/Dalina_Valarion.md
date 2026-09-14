@@ -12,7 +12,7 @@ name:
     - Callista Galeheart
 packFolder: aureldiatarvenia
 shortcode: dalinavlrn
-img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
+img: sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
   portrait: images/being/dalinavlrn-portrait.webp
