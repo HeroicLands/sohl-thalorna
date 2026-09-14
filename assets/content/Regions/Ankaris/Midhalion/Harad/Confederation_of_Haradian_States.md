@@ -111,7 +111,6 @@ data:
     byzarianlg: rival
     sultntmrdd: unaligned
 sohl:
-  templatePriority: null
 terran_analog: "Israel and Lebanon, plus the islands off their coasts — Phoenician-and-Levantine maritime confederation: trader city-states, naval power, and the perpetual political intrigue of merchant oligarchs."
 packFolder: harad
 ---

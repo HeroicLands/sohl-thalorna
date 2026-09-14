@@ -111,7 +111,6 @@ data:
     kemtnpnthn: aligned
     thoth: aligned
 sohl:
-  templatePriority: null
 packFolder: perthoth
 ---
 

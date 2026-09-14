@@ -84,7 +84,6 @@ data:
   parents: []
   relations: {}
 sohl:
-  templatePriority: null
 ---
 
 # Kenbet'Pat

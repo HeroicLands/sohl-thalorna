@@ -32,7 +32,6 @@ data:
     extra_features: []
 sohl:
   kbcat: dreadspawn
-  templatePriority: 0
   attrRollFormula:
     str: 1d6+16
     end: 1d6+18

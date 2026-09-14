@@ -104,7 +104,6 @@ data:
     arldnpnthn: aligned
     ordoarcanis: aligned
 sohl:
-  templatePriority: null
 packFolder: vylaria
 ---
 

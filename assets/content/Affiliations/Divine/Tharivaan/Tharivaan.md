@@ -73,7 +73,6 @@ data:
     - tharivaan
   relations: {}
 sohl:
-  templatePriority: null
 packFolder: pantheonstharivaan
 ---
 

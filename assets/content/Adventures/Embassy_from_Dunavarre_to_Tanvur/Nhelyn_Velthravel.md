@@ -23,7 +23,6 @@ data:
   gender: male
   species: null
 sohl:
-  templatePriority: null
 ---
 
 # Nhelyn Vélthravel

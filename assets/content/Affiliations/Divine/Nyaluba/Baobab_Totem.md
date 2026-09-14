@@ -72,7 +72,6 @@ data:
   relations:
     nyalbpnthn: aligned
 sohl:
-  templatePriority: null
 name:
   full: "Baobab Totem"
   aliases:

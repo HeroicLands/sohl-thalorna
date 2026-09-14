@@ -74,7 +74,6 @@ data:
     set: aligned
     ankhkemet: aligned
 sohl:
-  templatePriority: null
 name:
   full: Per-Deshr'ut
   aliases:

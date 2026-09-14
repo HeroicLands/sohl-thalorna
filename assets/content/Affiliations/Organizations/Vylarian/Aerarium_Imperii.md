@@ -88,7 +88,6 @@ data:
   parents: []
   relations: {}
 sohl:
-  templatePriority: null
 ---
 
 # The Aerarium Imperii

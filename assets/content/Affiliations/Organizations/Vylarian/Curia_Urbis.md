@@ -85,7 +85,6 @@ data:
   parents: []
   relations: {}
 sohl:
-  templatePriority: null
 ---
 
 # The Courts of Magnápolis

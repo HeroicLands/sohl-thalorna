@@ -40,7 +40,6 @@ data:
     extra_features:
       - a limp
 sohl:
-  templatePriority: null
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 7 } }
     - { model: sohl-sohl-attribute-end, system: { scoreBase: 9 } }

@@ -119,7 +119,6 @@ data:
   relations:
     njiayaroho: aligned
 sohl:
-  templatePriority: null
 packFolder: pantheonsnkaruthar
 ---
 

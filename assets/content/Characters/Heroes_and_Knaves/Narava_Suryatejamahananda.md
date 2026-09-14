@@ -40,7 +40,6 @@ data:
     extra_features:
       - a tattoo of a compass on the chest
 sohl:
-  templatePriority: null
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 12 } }
     - { model: sohl-sohl-attribute-end, system: { scoreBase: 14 } }

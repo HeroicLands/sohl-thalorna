@@ -80,7 +80,6 @@ data:
     curiaurbis: aligned
     vylrnmltry: aligned
 sohl:
-  templatePriority: null
 ---
 
 # The Aediles

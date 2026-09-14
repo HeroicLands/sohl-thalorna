@@ -93,7 +93,6 @@ name:
   aliases:
     - Eídma Sidéros
 sohl:
-  templatePriority: null
 thalorna:
   school: metal
 packFolder: affiliationshexhodai

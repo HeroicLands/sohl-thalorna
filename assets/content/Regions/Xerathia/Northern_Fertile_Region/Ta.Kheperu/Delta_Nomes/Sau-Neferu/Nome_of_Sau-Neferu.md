@@ -111,7 +111,6 @@ data:
     kemtnpnthn: aligned
     iset: aligned
 sohl:
-  templatePriority: null
 packFolder: sauneferu
 ---
 

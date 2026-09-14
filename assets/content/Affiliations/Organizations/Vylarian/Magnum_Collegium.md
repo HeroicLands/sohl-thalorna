@@ -95,7 +95,6 @@ data:
   parents: []
   relations: {}
 sohl:
-  templatePriority: null
 ---
 
 # The Magnum Collegium

@@ -114,7 +114,6 @@ data:
   relations:
     firstgods: aligned
 sohl:
-  templatePriority: null
 packFolder: pantheonsfirstgods
 ---
 

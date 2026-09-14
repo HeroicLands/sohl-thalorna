@@ -114,7 +114,6 @@ data:
     vylarinmpr: nemesis
     ctysttshlns: unaligned
 sohl:
-  templatePriority: null
 terran_analog: "Morocco + Algeria + Tunisia + Libya (Maghreb / Carthage — Mediterranean coast shading into Saharan interior)"
 packFolder: bethua
 ---

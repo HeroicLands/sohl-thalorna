@@ -119,7 +119,6 @@ data:
     grukarholm: nemesis
     vrystwldtrbs: rival
 sohl:
-  templatePriority: null
 packFolder: nordheim
 ---
 

@@ -42,7 +42,6 @@ data:
     extra_features:
       - a tattoo of a horse on the thigh
 sohl:
-  templatePriority: null
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 17 } }
     - { model: sohl-sohl-attribute-end, system: { scoreBase: 16 } }

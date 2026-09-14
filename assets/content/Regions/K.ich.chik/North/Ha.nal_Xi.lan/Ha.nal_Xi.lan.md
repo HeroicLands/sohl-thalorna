@@ -105,7 +105,6 @@ data:
   parents: []
   relations: {}
 sohl:
-  templatePriority: null
 terran_analog: Central US west of Appalachian Mountains — Mississippi and Ohio River valleys
 packFolder: hanalxilan
 ---

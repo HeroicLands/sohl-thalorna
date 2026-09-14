@@ -22,7 +22,6 @@ data:
   gender: male
   species: null
 sohl:
-  templatePriority: null
 ---
 
 # King Hákon III

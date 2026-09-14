@@ -119,7 +119,6 @@ data:
     kngdmvthgrd: unaligned
     grukarholm: rival
 sohl:
-  templatePriority: null
 packFolder: norgaad
 ---
 

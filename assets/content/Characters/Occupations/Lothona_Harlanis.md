@@ -42,7 +42,6 @@ data:
     extra_features:
       - calloused knuckles
 sohl:
-  templatePriority: null
   items:
     - { model: sohl-sohl-attribute-agl, system: { scoreBase: 9 } }
     - { model: sohl-sohl-attribute-aur, system: { scoreBase: 9 } }

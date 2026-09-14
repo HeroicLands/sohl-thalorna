@@ -105,7 +105,6 @@ data:
   parents: []
   relations: {}
 sohl:
-  templatePriority: null
 terran_analog: Central US and Plains States East of Rockies
 packFolder: haxaman
 ---

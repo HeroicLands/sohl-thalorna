@@ -42,7 +42,6 @@ data:
     extra_features:
       - a scar on the back of the left arm
 sohl:
-  templatePriority: null
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 14 } }
     - { model: sohl-sohl-attribute-end, system: { scoreBase: 15 } }

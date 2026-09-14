@@ -41,7 +41,6 @@ data:
     complexion: ruddy
     extra_features: []
 sohl:
-  templatePriority: null
   items:
     - { model: sohl-sohl-attribute-agl, system: { scoreBase: 12 } }
     - { model: sohl-sohl-attribute-aur, system: { scoreBase: 9 } }

@@ -123,7 +123,6 @@ data:
   relations:
     itzanpnthn: aligned
 sohl:
-  templatePriority: null
 ---
 
 **Domain:** Travel, Trade, Journeys, Messengers, Commerce, Communication

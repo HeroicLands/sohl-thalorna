@@ -23,7 +23,6 @@ data:
   gender: female
   species: null
 sohl:
-  templatePriority: null
 ---
 
 # Dame Toradh Taravren

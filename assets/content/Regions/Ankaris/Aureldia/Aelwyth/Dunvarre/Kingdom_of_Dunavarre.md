@@ -115,7 +115,6 @@ data:
     vylarinmpr: unaligned
     saelvri: nemesis
 sohl:
-  templatePriority: null
 packFolder: aelwyth
 ---
 

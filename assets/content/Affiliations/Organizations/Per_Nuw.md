@@ -102,7 +102,6 @@ data:
     sekhetneru: aligned
     permesnu: aligned
 sohl:
-  templatePriority: null
 ---
 
 # Per'Nuw

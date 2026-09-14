@@ -85,7 +85,6 @@ data:
   parents: []
   relations: {}
 sohl:
-  templatePriority: null
 name:
   full: Merchantry of the Veil
   aliases: []

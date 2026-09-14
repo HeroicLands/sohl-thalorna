@@ -60,7 +60,6 @@ name:
 shortcode: ymir
 img: images/affiliation/asguardian/ymir.webp
 sohl:
-  templatePriority: null
 packFolder: pantheonsasguardian
 ---
 

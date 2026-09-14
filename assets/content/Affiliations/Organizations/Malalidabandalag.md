@@ -94,7 +94,6 @@ data:
   parents: []
   relations: {}
 sohl:
-  templatePriority: null
 ---
 
 # Málalidabandalag

@@ -103,7 +103,6 @@ data:
     varakpnthn: aligned
     vindhyalay: aligned
 sohl:
-  templatePriority: null
 packFolder: vedyara
 ---
 

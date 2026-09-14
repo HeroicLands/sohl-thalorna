@@ -171,7 +171,6 @@ data:
     panepistmm: rival
     vylarinmpr: unaligned
 sohl:
-  templatePriority: null
 terran_analog: "Northern France and Switzerland — the Pelwar kingdom proper, whose courtly tradition, bardic colleges, and Sinalë diplomatic relations make it the cultural touchstone of the western Aurèldían world."
 packFolder: elavendre
 ---

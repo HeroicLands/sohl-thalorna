@@ -93,7 +93,6 @@ data:
   parents: []
   relations: {}
 sohl:
-  templatePriority: null
 ---
 
 # Sebeq'Sut

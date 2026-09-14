@@ -123,7 +123,6 @@ data:
   parents: []
   relations: {}
 sohl:
-  templatePriority: null
 packFolder: pantheonitzani
 ---
 

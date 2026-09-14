@@ -107,7 +107,6 @@ data:
     ashanpnthn: aligned
     arldnpnthn: aligned
 sohl:
-  templatePriority: null
 packFolder: harad
 ---
 

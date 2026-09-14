@@ -77,7 +77,6 @@ data:
   parents: []
   relations: {}
 sohl:
-  templatePriority: null
 ---
 
 # The Skalds' Circle

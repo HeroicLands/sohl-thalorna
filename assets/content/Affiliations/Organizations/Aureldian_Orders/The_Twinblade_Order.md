@@ -102,7 +102,6 @@ data:
   relations:
     arldnpnthn: aligned
 sohl:
-  templatePriority: null
 name:
   full: The Twinblade Order
   aliases:

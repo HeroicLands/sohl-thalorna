@@ -91,7 +91,6 @@ name:
 shortcode: freyja
 img: images/affiliation/asguardian/freyja.webp
 sohl:
-  templatePriority: null
 packFolder: pantheonsasguardian
 ---
 

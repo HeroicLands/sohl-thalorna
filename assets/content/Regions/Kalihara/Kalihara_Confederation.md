@@ -23,7 +23,6 @@ data:
   parents: []
   relations: {}
 sohl:
-  templatePriority: null
 name:
   full: Kalihara Confederation
   aliases: []

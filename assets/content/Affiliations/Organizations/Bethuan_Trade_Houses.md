@@ -96,7 +96,6 @@ data:
   parents: []
   relations: {}
 sohl:
-  templatePriority: null
 ---
 
 # The Bethûan Trade-Houses

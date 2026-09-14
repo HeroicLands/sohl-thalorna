@@ -39,7 +39,6 @@ data:
     complexion: null
     extra_features: []
 sohl:
-  templatePriority: null
 ---
 
 # Tëitjëk Vëngyürt

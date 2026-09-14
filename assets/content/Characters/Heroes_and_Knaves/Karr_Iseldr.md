@@ -40,7 +40,6 @@ data:
     extra_features:
       - a scar above the left eyebrow
 sohl:
-  templatePriority: null
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 9 } }
     - { model: sohl-sohl-attribute-end, system: { scoreBase: 12 } }

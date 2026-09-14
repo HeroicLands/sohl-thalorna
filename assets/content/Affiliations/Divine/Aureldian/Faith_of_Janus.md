@@ -74,7 +74,6 @@ data:
   relations:
     arldnpnthn: aligned
 sohl:
-  templatePriority: null
 name:
   full: Faith of Janus
   aliases:

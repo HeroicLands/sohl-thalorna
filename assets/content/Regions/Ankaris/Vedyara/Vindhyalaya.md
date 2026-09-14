@@ -109,7 +109,6 @@ data:
     vyalendra2: aligned
     tanvurempr: unaligned
 sohl:
-  templatePriority: null
 packFolder: vedyara
 ---
 

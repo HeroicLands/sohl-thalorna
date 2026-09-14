@@ -102,7 +102,6 @@ data:
     tyr: aligned
     ymir: aligned
 sohl:
-  templatePriority: null
 packFolder: pantheonsasguardian
 ---
 

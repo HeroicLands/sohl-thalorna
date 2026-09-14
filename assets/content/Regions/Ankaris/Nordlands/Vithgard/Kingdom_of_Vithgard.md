@@ -118,7 +118,6 @@ data:
     kingdmnrgd: unaligned
     kingdmtrgd: unaligned
 sohl:
-  templatePriority: null
 packFolder: vithgard
 ---
 

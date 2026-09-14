@@ -87,7 +87,6 @@ data:
   relations:
     ashanpnthn: aligned
 sohl:
-  templatePriority: null
 name:
   full: Faith of Zárványä
   aliases:

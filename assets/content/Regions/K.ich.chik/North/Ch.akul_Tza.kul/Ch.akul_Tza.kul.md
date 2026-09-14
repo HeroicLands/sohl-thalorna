@@ -105,7 +105,6 @@ data:
   parents: []
   relations: {}
 sohl:
-  templatePriority: null
 terran_analog: Southern California through Nevada, Arizona, and New Mexico deserts
 packFolder: chakultzakul
 ---

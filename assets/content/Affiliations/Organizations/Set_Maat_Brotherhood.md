@@ -90,7 +90,6 @@ data:
     seker: aligned
     anubis: aligned
 sohl:
-  templatePriority: null
 name:
   full: The Brotherhood of Set-Maat
   aliases:

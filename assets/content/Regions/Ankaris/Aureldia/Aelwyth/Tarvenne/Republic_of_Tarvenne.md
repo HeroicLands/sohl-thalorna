@@ -116,7 +116,6 @@ data:
     kingdmdnvr: unaligned
     kngdmldrth: unaligned
 sohl:
-  templatePriority: null
 packFolder: aelwyth
 ---
 

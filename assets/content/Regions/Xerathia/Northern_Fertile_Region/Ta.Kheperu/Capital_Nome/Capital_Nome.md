@@ -113,7 +113,6 @@ data:
     kemtnpnthn: aligned
     ra: aligned
 sohl:
-  templatePriority: null
 packFolder: capitalnome
 ---
 

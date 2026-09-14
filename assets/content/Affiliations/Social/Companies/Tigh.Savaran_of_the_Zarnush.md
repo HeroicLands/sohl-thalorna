@@ -89,7 +89,6 @@ data:
   parents: []
   relations: {}
 sohl:
-  templatePriority: null
 packFolder: politiescompanies
 name:
   full: Tîgh'Savâran of the Zarnûsh

@@ -123,7 +123,6 @@ data:
   relations:
     itzanpnthn: aligned
 sohl:
-  templatePriority: null
 ---
 
 **Domain:** Dreams, Visions, Prophecy, and the Moon

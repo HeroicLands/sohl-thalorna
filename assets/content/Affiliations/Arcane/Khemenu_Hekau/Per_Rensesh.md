@@ -79,7 +79,6 @@ data:
     thoth: aligned
     khatnu: aligned
 sohl:
-  templatePriority: null
 name:
   full: Per-Ren'sesh
   aliases:

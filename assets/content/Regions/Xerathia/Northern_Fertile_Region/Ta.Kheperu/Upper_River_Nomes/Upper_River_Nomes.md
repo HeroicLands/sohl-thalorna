@@ -111,7 +111,6 @@ data:
   relations:
     kemtnpnthn: aligned
 sohl:
-  templatePriority: null
 packFolder: upperrivernomes
 ---
 

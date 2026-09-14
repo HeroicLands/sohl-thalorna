@@ -123,7 +123,6 @@ data:
   relations:
     itzanpnthn: aligned
 sohl:
-  templatePriority: null
 ---
 
 **Domain:** Order, Cosmic Law, Solar Cycle

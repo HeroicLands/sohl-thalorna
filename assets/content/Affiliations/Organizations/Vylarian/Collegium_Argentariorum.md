@@ -92,7 +92,6 @@ data:
   parents: []
   relations: {}
 sohl:
-  templatePriority: null
 ---
 
 # The Collegium Argentariorum

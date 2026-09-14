@@ -42,7 +42,6 @@ data:
     extra_features:
       - crooked nose
 sohl:
-  templatePriority: null
   items:
     - { model: sohl-sohl-attribute-agl, system: { scoreBase: 11 } }
     - { model: sohl-sohl-attribute-aur, system: { scoreBase: 12 } }

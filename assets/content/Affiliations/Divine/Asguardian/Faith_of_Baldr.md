@@ -61,7 +61,6 @@ name:
 shortcode: baldr
 img: images/affiliation/asguardian/baldr.webp
 sohl:
-  templatePriority: null
 thalorna:
   deity: Baldr
   epithet: The Radiant One

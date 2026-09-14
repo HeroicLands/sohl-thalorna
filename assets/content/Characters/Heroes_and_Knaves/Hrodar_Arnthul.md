@@ -46,7 +46,6 @@ data:
       - long arms that give him a gangly look
       - perpetual scowl
 sohl:
-  templatePriority: null
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 13 } }
     - { model: sohl-sohl-attribute-end, system: { scoreBase: 12 } }

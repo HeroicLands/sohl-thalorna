@@ -90,7 +90,6 @@ data:
   parents: []
   relations: {}
 sohl:
-  templatePriority: null
 subtype: social
 name:
   full: The Iron Wolves Company

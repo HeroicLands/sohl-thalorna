@@ -89,7 +89,6 @@ name:
 shortcode: surtr
 img: images/affiliation/asguardian/surtr.webp
 sohl:
-  templatePriority: null
 packFolder: pantheonsasguardian
 ---
 

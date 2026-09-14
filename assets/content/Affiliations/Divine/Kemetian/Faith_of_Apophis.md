@@ -67,7 +67,6 @@ data:
   relations:
     kemtnpnthn: aligned
 sohl:
-  templatePriority: null
 name:
   full: Faith of Ápōphis
   aliases:

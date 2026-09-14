@@ -44,7 +44,6 @@ data:
     extra_features:
       - A long scar from brow to jaw on the left side
 sohl:
-  templatePriority: null
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 13 } }
     - { model: sohl-sohl-attribute-end, system: { scoreBase: 14 } }

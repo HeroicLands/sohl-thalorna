@@ -82,7 +82,6 @@ data:
   relations:
     varakpnthn: aligned
 sohl:
-  templatePriority: null
 packFolder: pantheonsvarnaka
 ---
 

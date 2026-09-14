@@ -78,7 +78,6 @@ data:
     anubis: aligned
     rensesh: aligned
 sohl:
-  templatePriority: null
 name:
   full: Per-Khat'nu
   aliases:

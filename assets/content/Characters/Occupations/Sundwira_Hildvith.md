@@ -42,7 +42,6 @@ data:
     extra_features:
       - a burn mark on the left hand
 sohl:
-  templatePriority: null
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 11 } }
     - { model: sohl-sohl-attribute-end, system: { scoreBase: 12 } }

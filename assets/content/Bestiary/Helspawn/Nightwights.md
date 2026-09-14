@@ -32,7 +32,6 @@ data:
     extra_features: []
 sohl:
   kbcat: helspawn
-  templatePriority: 0
   attrRollFormula:
     str: 1d4+13
     end: 1d4+13

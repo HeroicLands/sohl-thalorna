@@ -111,7 +111,6 @@ data:
   relations:
     nyalbpnthn: aligned
 sohl:
-  templatePriority: null
 terran_analog: "Iroquois Confederacy / Haudenosaunee + Sotho-Tswana morafe + Shona heirs of Great Zimbabwe — five distinct clan-nations bound by ancient pact, cattle-pastoral with stone-ruin heritage, drum-language as nervous system"
 packFolder: politiesnyaluba
 ---

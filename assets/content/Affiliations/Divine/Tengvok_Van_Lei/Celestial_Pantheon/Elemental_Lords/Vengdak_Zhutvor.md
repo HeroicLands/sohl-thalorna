@@ -121,7 +121,6 @@ data:
   relations:
     tngvkvnlei: aligned
 sohl:
-  templatePriority: null
 packFolder: elementallords
 ---
 

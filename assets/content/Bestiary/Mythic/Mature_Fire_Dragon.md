@@ -33,7 +33,6 @@ data:
     extra_features: []
 sohl:
   kbcat: mythic
-  templatePriority: 0
   attrRollFormula:
     str: 1d6+45
     end: 1d6+33

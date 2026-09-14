@@ -93,7 +93,6 @@ name:
 shortcode: hel
 img: images/affiliation/asguardian/hel.webp
 sohl:
-  templatePriority: null
 packFolder: pantheonsasguardian
 ---
 

@@ -105,7 +105,6 @@ data:
   parents: []
   relations: {}
 sohl:
-  templatePriority: null
 terran_analog: Ontario, Quebec in Canada — Eastern Great Lakes and boreal forest
 packFolder: xikulchakal
 ---

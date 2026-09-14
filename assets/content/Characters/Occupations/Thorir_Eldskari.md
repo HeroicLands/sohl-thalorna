@@ -42,7 +42,6 @@ data:
     extra_features:
       - scar across forehead
 sohl:
-  templatePriority: null
   items:
     - { model: sohl-sohl-attribute-agl, system: { scoreBase: 13 } }
     - { model: sohl-sohl-attribute-aur, system: { scoreBase: 10 } }

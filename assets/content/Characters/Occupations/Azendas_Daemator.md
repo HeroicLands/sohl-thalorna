@@ -43,7 +43,6 @@ data:
     extra_features:
       - a tattoo of a dragon wrapping around the arm
 sohl:
-  templatePriority: null
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 14 } }
     - { model: sohl-sohl-attribute-end, system: { scoreBase: 16 } }

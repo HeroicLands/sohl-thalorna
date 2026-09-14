@@ -42,7 +42,6 @@ data:
     extra_features:
       - a scar on the right calf and a Seaman's Guild tatoo on his right arm
 sohl:
-  templatePriority: null
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 16 } }
     - { model: sohl-sohl-attribute-end, system: { scoreBase: 17 } }

@@ -105,7 +105,6 @@ data:
     vindhyalay: rival
     cnfdrtnhrdnstts: unaligned
 sohl:
-  templatePriority: null
 packFolder: dunharadesert
 ---
 

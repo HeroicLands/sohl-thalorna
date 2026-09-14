@@ -42,7 +42,6 @@ data:
     extra_features:
       - Deep ragged scar diagonally across left cheek
 sohl:
-  templatePriority: null
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 17 } }
     - { model: sohl-sohl-attribute-end, system: { scoreBase: 15 } }

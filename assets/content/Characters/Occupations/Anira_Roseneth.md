@@ -42,7 +42,6 @@ data:
     extra_features:
       - a tattoo of a tree on the back
 sohl:
-  templatePriority: null
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 11 } }
     - { model: sohl-sohl-attribute-end, system: { scoreBase: 12 } }

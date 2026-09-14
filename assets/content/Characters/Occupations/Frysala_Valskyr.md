@@ -42,7 +42,6 @@ data:
     extra_features:
       - a tattoo of an eagle on the back
 sohl:
-  templatePriority: null
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 14 } }
     - { model: sohl-sohl-attribute-end, system: { scoreBase: 13 } }

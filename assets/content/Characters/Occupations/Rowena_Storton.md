@@ -43,7 +43,6 @@ data:
     extra_features:
       - a tattoo of a bird on the forearm
 sohl:
-  templatePriority: null
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 9 } }
     - { model: sohl-sohl-attribute-end, system: { scoreBase: 10 } }

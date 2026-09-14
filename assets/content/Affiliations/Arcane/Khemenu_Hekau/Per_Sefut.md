@@ -79,7 +79,6 @@ data:
     maatken: aligned
     apophis: nemesis
 sohl:
-  templatePriority: null
 name:
   full: Per-Sefút
   aliases:

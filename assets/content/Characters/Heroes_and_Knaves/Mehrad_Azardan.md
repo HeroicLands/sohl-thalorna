@@ -41,7 +41,6 @@ data:
     extra_features:
       - a scar on the lower abdomen
 sohl:
-  templatePriority: null
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 12 } }
     - { model: sohl-sohl-attribute-end, system: { scoreBase: 14 } }

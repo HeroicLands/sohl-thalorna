@@ -108,7 +108,6 @@ data:
     kingdmtrvn: unaligned
     kngdmlvndr: unaligned
 sohl:
-  templatePriority: null
 packFolder: tarvenia
 ---
 

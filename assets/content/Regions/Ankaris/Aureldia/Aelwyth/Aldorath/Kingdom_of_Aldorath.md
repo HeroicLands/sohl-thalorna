@@ -170,7 +170,6 @@ data:
     repblctrvn: unaligned
     jrldmstrmvld: nemesis
 sohl:
-  templatePriority: null
 packFolder: aelwyth
 ---
 

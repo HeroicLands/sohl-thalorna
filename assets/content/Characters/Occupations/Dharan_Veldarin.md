@@ -45,7 +45,6 @@ data:
         a brand of the Black Flame scarred into the skin above the heart, always concealed beneath
         clothing
 sohl:
-  templatePriority: null
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 16 } }
     - { model: sohl-sohl-attribute-end, system: { scoreBase: 15 } }

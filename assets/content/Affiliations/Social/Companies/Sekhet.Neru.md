@@ -95,7 +95,6 @@ data:
     sobek: aligned
     pernuw: aligned
 sohl:
-  templatePriority: null
 name:
   full: Sekhet'Neru
   aliases:

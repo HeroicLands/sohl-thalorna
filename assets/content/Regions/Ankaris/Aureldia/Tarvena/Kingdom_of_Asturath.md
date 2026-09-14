@@ -171,7 +171,6 @@ data:
     kingdmlnrk: rival
     vylarinmpr: nemesis
 sohl:
-  templatePriority: null
 packFolder: tarvenia
 ---
 

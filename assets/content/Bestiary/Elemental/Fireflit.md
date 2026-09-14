@@ -32,7 +32,6 @@ data:
     extra_features: []
 sohl:
   kbcat: elemental
-  templatePriority: 0
   attrRollFormula:
     end: 1d4+3
     dex: 1d6+16

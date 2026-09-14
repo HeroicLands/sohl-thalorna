@@ -106,7 +106,6 @@ data:
     alndnwrdns: aligned
     ordoarcanis: nemesis
 sohl:
-  templatePriority: null
 packFolder: elavendre
 ---
 

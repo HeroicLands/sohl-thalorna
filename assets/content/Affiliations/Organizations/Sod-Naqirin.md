@@ -101,7 +101,6 @@ data:
   parents: []
   relations: {}
 sohl:
-  templatePriority: null
 ---
 
 # Sôd-Naqîrîn

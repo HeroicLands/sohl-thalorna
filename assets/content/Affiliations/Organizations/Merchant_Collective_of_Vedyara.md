@@ -93,7 +93,6 @@ data:
   parents: []
   relations: {}
 sohl:
-  templatePriority: null
 ---
 
 # The Merchant Collective of Vedyara

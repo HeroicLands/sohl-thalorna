@@ -106,7 +106,6 @@ data:
   relations:
     itzanpnthn: aligned
 sohl:
-  templatePriority: null
 terran_analog: Bolivia, Southern Central Brazil
 packFolder: kuxibalam
 ---

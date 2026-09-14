@@ -42,7 +42,6 @@ data:
     extra_features:
       - a tattoo of a dolphin on the left wrist
 sohl:
-  templatePriority: null
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 8 } }
     - { model: sohl-sohl-attribute-end, system: { scoreBase: 10 } }

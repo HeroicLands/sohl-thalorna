@@ -104,7 +104,6 @@ data:
   relations:
     asguardian: aligned
 sohl:
-  templatePriority: null
 ---
 
 # The Order of the Storm-Speakers

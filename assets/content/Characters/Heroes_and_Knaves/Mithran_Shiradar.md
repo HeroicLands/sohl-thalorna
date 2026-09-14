@@ -40,7 +40,6 @@ data:
     extra_features:
       - a scar from forehead to cheek across the left eye
 sohl:
-  templatePriority: null
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 16 } }
     - { model: sohl-sohl-attribute-end, system: { scoreBase: 15 } }

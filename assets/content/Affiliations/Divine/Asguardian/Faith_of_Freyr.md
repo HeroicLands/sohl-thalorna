@@ -89,7 +89,6 @@ name:
 shortcode: freyr
 img: images/affiliation/asguardian/freyr.webp
 sohl:
-  templatePriority: null
 packFolder: pantheonsasguardian
 ---
 

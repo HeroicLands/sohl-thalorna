@@ -45,7 +45,6 @@ data:
       - thick neck
       - nose broken multiple times
 sohl:
-  templatePriority: null
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 16 } }
     - { model: sohl-sohl-attribute-end, system: { scoreBase: 14 } }

@@ -109,7 +109,6 @@ data:
   relations:
     arldnpnthn: aligned
 sohl:
-  templatePriority: null
 packFolder: helionis
 ---
 

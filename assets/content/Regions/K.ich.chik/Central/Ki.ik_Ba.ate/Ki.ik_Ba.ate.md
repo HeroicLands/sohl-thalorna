@@ -106,7 +106,6 @@ data:
   relations:
     itzanpnthn: aligned
 sohl:
-  templatePriority: null
 terran_analog: Nicaragua through Colombia
 packFolder: kiikbaate
 ---

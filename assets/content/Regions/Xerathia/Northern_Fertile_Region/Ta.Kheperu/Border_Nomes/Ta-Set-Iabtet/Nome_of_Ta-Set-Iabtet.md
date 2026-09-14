@@ -111,7 +111,6 @@ data:
     kemtnpnthn: aligned
     ptah: aligned
 sohl:
-  templatePriority: null
 packFolder: tasetiabtet
 ---
 
