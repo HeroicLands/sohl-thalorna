@@ -43,7 +43,6 @@ data:
     extra_features:
       - a tattoo of a bird in flight on the left shoulder
 sohl:
-  templatePriority: null
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 11 } }
     - { model: sohl-sohl-attribute-end, system: { scoreBase: 12 } }
@@ -552,11 +551,11 @@ sohl:
     defaultCombatGroup: null
 ---
 
-# Appearance {#appearance}
+## Appearance {#appearance}
 
 Dárya Náredh is a 28-year-old woman who stands 5'11" tall and is slender. She has an oval face with angular cheekbones, a prominent forehead, and a narrow jaw that leads to a delicate chin. Her narrow green eyes sit beneath thin brows, lending her a keen gaze. A delicate nose and expressive lips complete her features. She has fair skin with a fair complexion. Her graying brown hair is flowing past her shoulders.
 
-# Dossier {#dossier}
+## Dossier {#dossier}
 
 Born in the Élavendre region to a guilded family of Élavendri heritage, Dárya Náredh came into the world of the bard through a combination of circumstance and aptitude.
 
@@ -564,37 +563,37 @@ Catrin was trained in the bardic arts from a young age, and her talent for story
 
 Now at 28 years of age, Dárya Náredh has established herself as a known figure among the bards of Élavendre. Her reputation, for better or worse, precedes her in the circles where such things matter.
 
-## Psyche
+### Psyche
 
-### Personality
+#### Personality
 
 Sometimes lets her ambition overshadow her sincerity, struggles with politics.
 
-### Motivation
+#### Motivation
 
 Dárya is driven by the desire to master her craft and secure a stable future. The uncertainties of life in bard work keep her vigilant and adaptable.
 
-### Strengths
+#### Strengths
 
 Skilled singer and storyteller, charismatic, knowledgeable in history.
 
-## Social
+### Social
 
 Dárya is affiliated with Bardic College.
 
 As a Élavendri bard, Dárya occupies a recognized social niche within Élavendre society.
 
-## Companions
+### Companions
 
-### Patrons
+#### Patrons
 
 Dárya's primary patron is Nobles who appreciate her artistry and historical knowledge.. This relationship provides both opportunity and obligation.
 
-### Enemies
+#### Enemies
 
 Rival bards who see her as a threat to their own fame.
 
-## Plot Hooks
+### Plot Hooks
 
 1. **The Bard's Dilemma** — Dárya faces a professional crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Élavendre.
 

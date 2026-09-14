@@ -9,8 +9,9 @@ img: systems/sohl/assets/icons/other/wind.svg
 shortcode: lghtbnd
 type: mysticalability
 subType: arcaneincantation
-sohl:
+data:
   templatePriority: null
+sohl:
   system:
     assocSkillCode: zepharis
     masteryLevelBase: 0

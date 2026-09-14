@@ -113,11 +113,7 @@ data:
     ashanpnthn: aligned
     wrrscrcldnhrtrbs: aligned
     dunhartrbs: aligned
-sohl:
-  templatePriority: null
 ---
-
-# The Storm Cults of Báhrámiš
 
 _Dunhari: Bahârâmî-Pîravân — "the Followers of Báhrámiš"_
 

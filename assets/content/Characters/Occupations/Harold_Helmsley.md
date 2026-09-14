@@ -42,7 +42,6 @@ data:
     extra_features:
       - a tattoo of a woman on the shoulder
 sohl:
-  templatePriority: null
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 14 } }
     - { model: sohl-sohl-attribute-end, system: { scoreBase: 15 } }
@@ -552,11 +551,11 @@ sohl:
     defaultCombatGroup: null
 ---
 
-# Appearance {#appearance}
+## Appearance {#appearance}
 
 Harold Helmsley is a 45-year-old man who stands 6'3" tall and is of moderate build. He has an angular face with angular cheekbones, a wide forehead, and a narrow jaw that leads to a pointed chin. His round brown eyes sit beneath expressive brows, lending him a candid gaze. A slightly upturned nose and curved lips complete his features. He has pale skin with a clear complexion. His dark brown hair is shoulder-length and loose.
 
-# Dossier {#dossier}
+## Dossier {#dossier}
 
 Born in the Aelwyth region to a peasant family of Aelwythan heritage, Harold Helmsley came into the world of the animal trainer through a combination of circumstance and aptitude.
 
@@ -564,37 +563,37 @@ Garron grew up on a farm and has spent his life training draft animals. Known fo
 
 Now at 45 years of age, Harold Helmsley has established himself as a known figure among the animal trainers of Aelwyth. His reputation, for better or worse, precedes him in the circles where such things matter.
 
-## Psyche
+### Psyche
 
-### Personality
+#### Personality
 
 Stubborn, resistant to new techniques.
 
-### Motivation
+#### Motivation
 
 Harold is driven by the desire to master his craft and secure a stable future. The uncertainties of life in animal trainer work keep him vigilant and adaptable.
 
-### Strengths
+#### Strengths
 
 Calm demeanor, knowledgeable about farm animals.
 
-## Social
+### Social
 
 Harold is affiliated with Farmers' Cooperative.
 
 As a Aelwythan animal trainer, Harold occupies a recognized social niche within Aelwyth society.
 
-## Companions
+### Companions
 
-### Patrons
+#### Patrons
 
 Harold's primary patron is Local farmers. This relationship provides both opportunity and obligation.
 
-### Enemies
+#### Enemies
 
 Town official who dislikes his methods.
 
-## Plot Hooks
+### Plot Hooks
 
 1. **The Animal Trainer's Dilemma** — Harold faces a professional crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Aelwyth.
 

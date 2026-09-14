@@ -19,8 +19,6 @@ shortcode: serramarca
 packFolder: provenzia
 ---
 
-# Sèrramarca
-
 **Sèrramarca** — _the mountain march_.
 
 The **Sèrramarca** is Provènzia's frontier with [[place-tarvenirgn|Tarvénia Region]]: about a

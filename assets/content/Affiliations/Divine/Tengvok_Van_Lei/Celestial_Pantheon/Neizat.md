@@ -119,12 +119,10 @@ data:
     - tngvkvnlei
   relations:
     tanvurempr: aligned
-sohl:
-  templatePriority: null
 packFolder: celestialpantheon
 ---
 
-# Nëizāt — The Minister of Continuity
+## Nëizāt — The Minister of Continuity
 
 - **Bureau:** Zāt Sëi, The Bureau of Persistence
 - **Domain:** Continuity
@@ -139,12 +137,12 @@ the sharpest in the administration — one bureau exists to change things and th
 it, and both are correct. Petitions for a difficult birth, an unbroken inheritance or the survival
 of a craft go here.
 
-## Lesser Spirits
+### Lesser Spirits
 
 - **Vüthëi** — The Instructor, associated with the transmission of knowledge and technique across generations; where Nëizāt preserves biological continuity, Vüthëi preserves cultural continuity.
 - **Zhëkvōr** — Continuity Spirits, who ensure that living things reproduce according to their classification.
 
-## See Also
+### See Also
 
 - [[affiliation-tngvkvnlei|Tëngvōk Vān Lëi]] — the Celestial Bureaucracy this bureau belongs to
 - [[affiliation-tanvurempr|Empire of Tānvür]] — the mortal realm it administers

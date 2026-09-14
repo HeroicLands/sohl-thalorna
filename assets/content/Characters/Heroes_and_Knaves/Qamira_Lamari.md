@@ -40,7 +40,6 @@ data:
     complexion: null
     extra_features: []
 sohl:
-  templatePriority: null
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 8 } }
     - { model: sohl-sohl-attribute-end, system: { scoreBase: 10 } }
@@ -604,11 +603,11 @@ sohl:
     defaultCombatGroup: null
 ---
 
-# Appearance {#appearance}
+## Appearance {#appearance}
 
 Qâmira stands 5'4" tall with a medium build. She has rich brown skin, white hair, and dark brown eyes. Her features include a high-cheekboned face, an aquiline nose, a tapered chin, generous lips, rich brows.
 
-# Dossier {#dossier}
+## Dossier {#dossier}
 
 Qâmira was born in the desert city of Qasirah to a family of merchants with interests in spice and precious stones. Her childhood was ordinary—comfortable but unremarkable—until the night of her tenth birthday, when she observed a conjunction of planets that moved her so profoundly that she wept without understanding why. Her family dismissed it as a child's fancy, but Qâmira became obsessed with understanding the heavens.
 
@@ -620,9 +619,9 @@ For three decades, Qâmira's reputation grew. She was accurate with unsettling f
 
 Now, at fifty-eight, Qâmira is nearing the conclusion of her major life work—a complete astronomical and astrological atlas mapping the heavens for the next two centuries, allowing future astrologers to understand the patterns of influence that will shape their world. Yet this project is increasingly consuming, and recent developments have troubled her: astronomical observations that suggest patterns breaking in ways that contradict her fundamental understanding of celestial mechanics.
 
-## Psyche
+### Psyche
 
-### Personality
+#### Personality
 
 Qâmira is profoundly difficult to understand or engage with. She is not actively unfriendly, but her social withdrawal is so complete that casual interaction with her feels strained and unnatural. She rarely initiates conversation, tends to answer questions with unexpected literalism rather than social smoothing, and seems almost contemptuous of those who disbelieve in astrology despite evidence.
 
@@ -632,13 +631,13 @@ She is capable of warmth toward those few she respects, particularly those who u
 
 She harbors deep distrust of institutional authority, believing that most governance is based on false assumptions and denial of celestial influence. This makes her difficult to work with in official capacities, as she will not compromise her interpretations to suit political convenience.
 
-### Motivation
+#### Motivation
 
 Qâmira's primary motivation is the pursuit of truth—specifically, the truth of how celestial movements shape human affairs. She is driven by the belief that understanding these patterns provides genuine knowledge and potential wisdom. She wants her atlas to be a final, definitive work that will allow future generations to see and understand the grand design she has spent a lifetime mapping.
 
 Increasingly, she is motivated by something darker: a suspicion that something has begun to go fundamentally wrong with the heavens themselves, that the patterns she has relied upon are breaking, and that this breaking portends something catastrophic. She feels obligated to discover and warn about this disruption, even if doing so requires her to expose aspects of celestial mechanics that the world is not prepared to understand.
 
-### Strengths
+#### Strengths
 
 - **Unparalleled Astrological Knowledge**: Qâmira's mastery of her discipline is acknowledged even by skeptics to be extraordinary. She can calculate celestial positions with precision, interpret their meaning, and derive meaningful predictions from complex astrological data with an intuition that seems almost supernatural.
 
@@ -652,7 +651,7 @@ Increasingly, she is motivated by something darker: a suspicion that something h
 
 - **Discipline and Focus**: Her ability to maintain intense focus over extended periods is extraordinary. She can work without distraction for days, maintaining meticulous documentation and analysis.
 
-### Weaknesses
+#### Weaknesses
 
 - **Social Ineptitude and Isolation**: Qâmira's inability to engage in normal social interaction severely limits her effectiveness. Her tendency to be blunt and dismissive of those who disagree with her creates unnecessary friction and makes her counsel easier to dismiss or ignore.
 
@@ -666,9 +665,9 @@ Increasingly, she is motivated by something darker: a suspicion that something h
 
 - **Ethical Ambiguity Regarding Destiny**: Qâmira wrestles with fundamental questions about whether knowing the future morally obligates her to interfere or whether sharing predictions actually changes their likelihood. This unresolved tension sometimes paralyzes her decision-making.
 
-## Social
+### Social
 
-### Patrons
+#### Patrons
 
 - **The House of Khán**: A powerful noble family that has patronized Qâmira for thirty years. They consult her before major decisions and have consistently paid her handsomely for her counsel. The current patriarch, Lord Devendra, views her as essential to his political strategy, though Qâmira considers most of his decisions foolish.
 
@@ -678,7 +677,7 @@ Increasingly, she is motivated by something darker: a suspicion that something h
 
 - **The Temple of Táranon**: While not formally affiliated, Qâmira has developed a relationship with the priesthood of this storm deity. They view her astrological work as complementary to their practice and provide both funding and spiritual support.
 
-### Enemies
+#### Enemies
 
 - **Vasánt the Disputer**: A rival astrologer who has spent twenty years attempting to prove that Qâmira's predictions are a combination of luck, statistical coincidence, and careful vagueness. He has achieved modest success in discrediting some of her work, particularly predictions that failed to materialize. He views her as a charlatan and is attempting to drive her out of the Guild.
 
@@ -686,7 +685,7 @@ Increasingly, she is motivated by something darker: a suspicion that something h
 
 - **Merchant Lord Rashid**: A wealthy merchant who consulted Qâmira regarding a major investment thirty years ago. She advised him against a particular venture, predicting catastrophic loss. He ignored her counsel and proceeded, resulting in exactly the disaster she predicted. Rather than accepting her accuracy, Rashid has concluded that she somehow caused the failure through sorcery or sabotage, and he has become increasingly obsessed with proving she is a witch and having her prosecuted.
 
-### Affiliations
+#### Affiliations
 
 - **The Panepistemium**: Qâmira holds senior membership, though her relationship with certain factions is adversarial.
 
@@ -694,7 +693,7 @@ Increasingly, she is motivated by something darker: a suspicion that something h
 
 - **The Temple of Táranon**: While not formally ordained, she functions as a quasi-official advisor to the priesthood regarding celestial and astrological matters.
 
-## Plot Hooks
+### Plot Hooks
 
 1. **The Breaking Sky**: Qâmira discovers astronomical observations that suggest the celestial spheres are behaving in ways that fundamentally contradict all established understanding. Planetary movements are deviating from predicted positions, stars are shifting in ways that should be impossible, and the patterns she has relied upon for her entire career are breaking down. She is not certain whether this indicates genuine cosmic disruption with potentially catastrophic implications for the world, or whether she is experiencing a complete collapse of her understanding and framework. Her patron, Lord Devendra, becomes interested in this discovery and wants her to suppress it, fearing the panic it would cause. Meanwhile, other scholars begin reporting similar anomalies, and Qâmira must determine whether she is part of a community of scholars uncovering genuine cosmic truth or becoming trapped in a shared delusion that will destroy her credibility.
 

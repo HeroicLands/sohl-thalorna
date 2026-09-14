@@ -9,8 +9,9 @@ name:
   full: "Ritual: Khet'Amun"
   aliases:
     - Khet'Amun, The River-God
-sohl:
+data:
   templatePriority: null
+sohl:
   system:
     skillBaseFormula: "@wil, @rea"
     masteryLevelBase: 0

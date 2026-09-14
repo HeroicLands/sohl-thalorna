@@ -97,12 +97,8 @@ data:
   lore: []
   parents: []
   relations: {}
-sohl:
-  templatePriority: null
 packFolder: organizations
 ---
-
-# Hëk Zhāk
 
 - **Type:** Subversive magical sect
 - **Region:** [[affiliation-tanvurempr|Empire of Tānvür]]

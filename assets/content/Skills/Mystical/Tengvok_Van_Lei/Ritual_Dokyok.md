@@ -12,8 +12,9 @@ name:
     - Dokyok
     - The Lost Road
     - The Guide Who Leads Astray
-sohl:
+data:
   templatePriority: null
+sohl:
   system:
     skillBaseFormula: "@wil, @rea"
     masteryLevelBase: 0

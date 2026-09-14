@@ -41,7 +41,6 @@ data:
     complexion: weathered
     extra_features: []
 sohl:
-  templatePriority: null
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 10 } }
     - { model: sohl-sohl-attribute-end, system: { scoreBase: 12 } }
@@ -552,11 +551,11 @@ sohl:
     defaultCombatGroup: null
 ---
 
-# Appearance {#appearance}
+## Appearance {#appearance}
 
 Tàlîma Thamîrîon is a 26-year-old woman who stands 5'8" tall and is slender. She has an oval face with wide-set cheekbones, a wide forehead, and a strong jaw that leads to a square chin. Her hooded green eyes sit beneath heavy brows, lending her a guarded gaze. A prominent nose and expressive lips complete her features. She has medium-toned skin with a weathered complexion. Her black hair is pinned in an elegant twist.
 
-# Dossier {#dossier}
+## Dossier {#dossier}
 
 Born in the Heliónis region to a freeman family of Helionite heritage, Tàlîma Thamîrîon came into the world of the man-at-arms (sapper) through a combination of circumstance and aptitude.
 
@@ -564,37 +563,37 @@ Brynn grew up in the city and was drawn to the art of engineering. She has train
 
 Now at 26 years of age, Tàlîma Thamîrîon has established herself as a known figure among the man-at-arms (sapper)s of Heliónis. Her reputation, for better or worse, precedes her in the circles where such things matter.
 
-## Psyche
+### Psyche
 
-### Personality
+#### Personality
 
 Sometimes overconfident, struggles with heavy lifting.
 
-### Motivation
+#### Motivation
 
 Tàlîma is driven by the desire to master her craft and secure a stable future. The uncertainties of life in man-at-arms (sapper) work keep her vigilant and adaptable.
 
-### Strengths
+#### Strengths
 
 Creative problem solver, skilled in demolition, agile.
 
-## Social
+### Social
 
 Tàlîma is affiliated with Local Engineers' Guild.
 
 As a Helionite man-at-arms (sapper), Tàlîma occupies a recognized social niche within Heliónis society.
 
-## Companions
+### Companions
 
-### Patrons
+#### Patrons
 
 Tàlîma's primary patron is Local military leaders and builders.. This relationship provides both opportunity and obligation.
 
-### Enemies
+#### Enemies
 
 Few; generally well-liked.
 
-## Plot Hooks
+### Plot Hooks
 
 1. **The Man-at-Arms (Sapper)'s Dilemma** — Tàlîma faces a professional crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Heliónis.
 

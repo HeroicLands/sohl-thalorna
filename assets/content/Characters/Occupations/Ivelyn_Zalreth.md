@@ -41,7 +41,6 @@ data:
     complexion: fair
     extra_features: []
 sohl:
-  templatePriority: null
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 11 } }
     - { model: sohl-sohl-attribute-end, system: { scoreBase: 12 } }
@@ -551,11 +550,11 @@ sohl:
     defaultCombatGroup: null
 ---
 
-# Appearance {#appearance}
+## Appearance {#appearance}
 
 Ívelyn Zálreth is a 29-year-old woman who stands 5'10" tall and is slender. She has a heart-shaped face with angular cheekbones, a broad forehead, and a narrow jaw that leads to a firm chin. Her round gray eyes sit beneath expressive brows, lending her a candid gaze. A delicate nose and thin lips complete her features. She has fair skin with a fair complexion. Her gray hair is twisted into an elaborate arrangement.
 
-# Dossier {#dossier}
+## Dossier {#dossier}
 
 Born in the Élavendre region to a freeman family of Élavendri heritage, Ívelyn Zálreth came into the world of the woodcrafter through a combination of circumstance and aptitude.
 
@@ -563,37 +562,37 @@ Liora grew up near a dense forest and spent her childhood learning to carve simp
 
 Now at 29 years of age, Ívelyn Zálreth has established herself as a known figure among the woodcrafters of Élavendre. Her reputation, for better or worse, precedes her in the circles where such things matter.
 
-## Psyche
+### Psyche
 
-### Personality
+#### Personality
 
 Prone to perfectionism, can take longer than expected to complete projects.
 
-### Motivation
+#### Motivation
 
 Ívelyn is driven by the desire to master her craft and secure a stable future. The uncertainties of life in woodcrafter work keep her vigilant and adaptable.
 
-### Strengths
+#### Strengths
 
 Creative, skilled in working with different types of wood, detailed carving techniques.
 
-## Social
+### Social
 
 Ívelyn is affiliated with None; prefers to work alone in her small workshop..
 
 As a Élavendri woodcrafter, Ívelyn occupies a recognized social niche within Élavendre society.
 
-## Companions
+### Companions
 
-### Patrons
+#### Patrons
 
 Ívelyn's primary patron is Local artisans and travelers who admire her unique style.. This relationship provides both opportunity and obligation.
 
-### Enemies
+#### Enemies
 
 Few, though some other woodcrafters see her as competition.
 
-## Plot Hooks
+### Plot Hooks
 
 1. **The Woodcrafter's Dilemma** — Ívelyn faces a professional crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Élavendre.
 

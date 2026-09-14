@@ -10,8 +10,9 @@ name:
   full: "Ritual: Fréyr"
   aliases:
     - The Verdant Path
-sohl:
+data:
   templatePriority: null
+sohl:
   system:
     skillBaseFormula: "@wil, @rea"
     masteryLevelBase: 0

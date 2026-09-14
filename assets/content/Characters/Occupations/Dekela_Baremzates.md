@@ -41,7 +41,6 @@ data:
     complexion: ruddy
     extra_features: []
 sohl:
-  templatePriority: null
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 11 } }
     - { model: sohl-sohl-attribute-end, system: { scoreBase: 12 } }
@@ -550,11 +549,11 @@ sohl:
     defaultCombatGroup: null
 ---
 
-# Appearance {#appearance}
+## Appearance {#appearance}
 
 Dékêla Bàremzâtês is a 32-year-old woman who stands 5'11" tall and is of moderate build. She has an angular face with prominent cheekbones, a broad forehead, and an angular jaw that leads to a strong chin. Her piercing brown eyes sit beneath heavy brows, lending her a penetrating gaze. A hawkish nose and wide lips complete her features. She has olive skin with a ruddy complexion. Her auburn hair is swept up and held with carved combs.
 
-# Dossier {#dossier}
+## Dossier {#dossier}
 
 Born in the Vylaría region to a freeman family of Vylarian heritage, Dékêla Bàremzâtês came into the world of the potter through a combination of circumstance and aptitude.
 
@@ -562,37 +561,37 @@ Elara has been a potter since she was a child, learning the craft from her paren
 
 Now at 32 years of age, Dékêla Bàremzâtês has established herself as a known figure among the potters of Vylaria. Her reputation, for better or worse, precedes her in the circles where such things matter.
 
-## Psyche
+### Psyche
 
-### Personality
+#### Personality
 
 Can be overly critical of her work, struggles with marketing.
 
-### Motivation
+#### Motivation
 
 Dékêla is driven by the desire to master her craft and secure a stable future. The uncertainties of life in potter work keep her vigilant and adaptable.
 
-### Strengths
+#### Strengths
 
 Skilled in wheel-throwing, creative, attentive to detail.
 
-## Social
+### Social
 
 Dékêla is affiliated with Local Artisans' Guild.
 
 As a Vylarian potter, Dékêla occupies a recognized social niche within Vylaria society.
 
-## Companions
+### Companions
 
-### Patrons
+#### Patrons
 
 Dékêla's primary patron is Local households and merchants seeking unique pottery.. This relationship provides both opportunity and obligation.
 
-### Enemies
+#### Enemies
 
 Few; generally well-liked, though some competitors may envy her success.
 
-## Plot Hooks
+### Plot Hooks
 
 1. **The Potter's Dilemma** — Dékêla faces a professional crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Vylaria.
 

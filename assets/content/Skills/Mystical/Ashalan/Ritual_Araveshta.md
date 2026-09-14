@@ -9,8 +9,9 @@ name:
   full: "Ritual: Árávēštä"
   aliases:
     - The Golden Giver
-sohl:
+data:
   templatePriority: null
+sohl:
   system:
     skillBaseFormula: "@wil, @rea"
     masteryLevelBase: 0

@@ -9,8 +9,9 @@ name:
   full: "Ritual: Zárványä"
   aliases:
     - The Weaver of Visions
-sohl:
+data:
   templatePriority: null
+sohl:
   system:
     skillBaseFormula: "@wil, @rea"
     masteryLevelBase: 0

@@ -19,8 +19,6 @@ shortcode: belporte
 packFolder: provenzia
 ---
 
-# Belpòrte
-
 **Belpòrte** stands on the warm southern shore and is, with [[place-lunacorte|Lunacòrte]], one of the
 two cities whose speech is **Còtière** — the prestige dialect of Provenzal, the form used in literature
 and formal commerce, and the one carrying the deepest Vylarian influence.

@@ -41,7 +41,6 @@ data:
     complexion: weathered
     extra_features: []
 sohl:
-  templatePriority: null
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 10 } }
     - { model: sohl-sohl-attribute-end, system: { scoreBase: 12 } }
@@ -594,43 +593,43 @@ sohl:
     defaultCombatGroup: null
 ---
 
-# Appearance {#appearance}
+## Appearance {#appearance}
 
 Ángelides stands 5'9" tall with a medium build. He has light weathered skin, brown hair, and green eyes. His features include a long face, a strong nose, a pronounced chin, an expressive mouth, expressive brows, prominent cheeks.
 
-# Dossier {#dossier}
+## Dossier {#dossier}
 
-## Background
+### Background
 
-### Early Divergence
+#### Early Divergence
 
 Ángelides was born to a learned merchant family within the Byzarian League, and from childhood it was evident he possessed the rare gift for arcane study. Where most children struggled with their alphabet, he read ancient texts by candlelight. By fourteen, he had been apprenticed to **Magister Ptolemaus of the Hydälis Sodalitas**, a scholar of theoretical thaumaturgy within the Panepistemium's chapterhouse, renowned for his adherence to orthodox magical principle and his mastery of the water-school traditions. For five years, Ángelides submitted himself to the rigorous disciplines of formal magical training—memorizing the correspondences of the Héx Hodäi, studying the geometry of ritual circles, learning to channel mystical force through precisely enunciated incantations and mathematically perfect gestures.
 
-### The Breaking Point
+#### The Breaking Point
 
 At nineteen, Ángelides experienced a revelation that would shape the remainder of his life. While assisting Magister Ptolemaus in the preparation of a healing ritual for a dying child in Chrysamar, he found the formal approach failing—the mathematics were correct, the incantations perfect, the ritual geometry flawless—yet the child's wound would not close. In desperation, Ángelides abandoned the script, instead placing his hands directly on the child's injury and allowing his own vital force to flow into the wound through pure will and intuition rather than learned formula. The child lived. Ptolemaus was appalled, declaring Ángelides' actions to constitute dangerous, uncontrolled sorcery rather than legitimate academic thaumaturgy—a violation of the very principles that the Panepistemium exists to preserve and regulate. Their relationship ended bitterly, with his former master declaring him a disgrace to magical tradition and demanding that Ángelides be censured by the chapterhouse council.
 
-### The Path Unorthodox
+#### The Path Unorthodox
 
 Rather than submit to the chapterhouse council's censure or return in shame to his merchant family, Ángelides spent the next two decades wandering the hinterlands and remote villages of the Byzarian League and beyond, learning to trust instinct over instruction, combining folk healing practices with his arcane knowledge, studying the hidden language of nature itself. He apprenticed briefly with völvur in the Nordmen lands, learned the secrets of herbal medicine from ancient practitioners in isolated communities, and gradually constructed a philosophy of magic that views rigid formula as a cage rather than a foundation. His power grew in unconventional directions—he developed remarkable facility with healing magic through direct communion with the body's own vital forces, elemental manipulation grounded in natural observation rather than abstract theory, and divination through patterns woven into the living world. His training in the formal Hydälis disciplines remained incomplete, and he deliberately rejected the academic frameworks that Ptolemaus had instilled.
 
-### Current Station
+#### Current Station
 
 Now forty-two, Ángelides has achieved quiet renown in remote regions as a healer and wise man, a practitioner of magic so naturalistic and intuitive that some villagers dispute whether it constitutes sorcery at all—and some Epistemium scholars insist that it is precisely the kind of uncontrolled practice the Order was founded to prevent. He maintains nominal affiliation with the Panepistemium out of political necessity and to shield himself from the Ordo Arcanis, but he operates almost entirely independently, maintaining a modest dwelling in a rural area where he treats the sick, teaches interested students the practical foundations of magical work, and continues his solitary research into the boundaries between learned magic and innate power. The Epistemium's local chapterhouse tolerates him because his unorthodox results are undeniably effective and he serves a population that official Epistemium practitioners have little interest in—yet the tension between his methods and official doctrine remains a constant source of friction, and his precarious status depends entirely on continued discretion and results.
 
-## Psyche
+### Psyche
 
-### Personality
+#### Personality
 
 Ángelides is contemplative and patient, speaking seldomly but with great consideration when he does. He possesses a dry, understated humor that emerges in quiet moments with those he trusts, and his green eyes betray sharp intelligence beneath their dreamy surface. He is profoundly non-dogmatic, viewing rigid adherence to any single system—magical, philosophical, or practical—with gentle skepticism. This open-mindedness makes him seem almost naive to conventional practitioners, yet it also grants him a kind of wisdom that formal training cannot provide. He is humble about his accomplishments, never claiming mastery, always remaining aware of the vastness of what he does not know.
 
 Beneath his calm exterior runs a current of deep frustration—frustration with the Epistemium's inflexibility and the Ordo's rigid orthodoxy, with the suffering he cannot heal despite his power, with the chasm between his capabilities and his understanding of his own nature. He carries a peculiar guilt for each person he fails to save, as though it reflects some personal insufficiency rather than the limitations of mortality itself. More deeply, he harbors unresolved resentment toward Magister Ptolemaus, whose rejection shaped his exile from formal magical society—a rejection he has spent two decades both escaping and simultaneously seeking to vindicate.
 
-### Motivation
+#### Motivation
 
 Ángelides is driven by the conviction that magic should serve life and healing rather than abstract principle or personal ambition. He practices magic as one practices medicine—as a calling, not a craft for display. He seeks to understand the deepest nature of magical force, to move beyond the dualism of learned versus intuitive magic toward some unified vision that encompasses both. He hopes to pass on his knowledge to the next generation, particularly to those whom the formal Guild would reject as unsuitable, and thereby democratize access to healing magic. Beneath this noble motivation lurks a deeper desire: vindication—proof that his unorthodox path was correct, that intuition and direct connection to magical force can achieve what rigid formula cannot.
 
-### Strengths
+#### Strengths
 
 - **Exceptional Healing Capability**: His combination of high Physician (16) and exceptional magical skill makes him extraordinarily capable at mending wounds, curing disease, and restoring vitality. He can accomplish healing feats that would require formal healers days of preparation and ritual.
 
@@ -644,7 +643,7 @@ Beneath his calm exterior runs a current of deep frustration—frustration with 
 
 - **Versatile Combat Capability**: His Initiative (15), Archery (14), and Melee (12) combined with magical enhancement make him more combat-capable than appearances suggest, though he avoids violence when possible.
 
-### Weaknesses
+#### Weaknesses
 
 - **Weak Will and Low Endurance in Direct Magical Contests**: While his magical knowledge is profound, his Will (15) and Endurance (12) are merely adequate. In direct magical duels with formally trained Epistemium or Ordo practitioners, he can be overwhelmed by superior discipline and raw power projection through the structured frameworks of the Héx Hodäi, even if their understanding of magic's deeper nature is shallower.
 
@@ -656,9 +655,9 @@ Beneath his calm exterior runs a current of deep frustration—frustration with 
 
 - **Vulnerability to Authority**: Despite his practical power, he is legally vulnerable. The Panepistemium's chapterhouse council could formally revoke his nominal credentials and report him to the Ordo Arcanis as an unlicensed practitioner. The Ordo's stance toward independent healers who claim to practice magic outside its regulatory framework ranges from suspicion to outright hostility. He lives constantly under the shadow of potential censure or prosecution—a threat that grows more serious the more widely his unconventional methods become known.
 
-## Social
+### Social
 
-### Patrons
+#### Patrons
 
 - **Sage Miriel Greenbrook**: An elderly herbalist and natural philosopher who recognized the value in Ángelides' approach when the Guild condemned him. She has remained his steadiest advocate and closest confidante, providing both material support and the intellectual partnership that sustains his morale.
 
@@ -666,7 +665,7 @@ Beneath his calm exterior runs a current of deep frustration—frustration with 
 
 - **Scholar Lycius of the Archives**: A librarian within the Panepistemium who secretly believes that Ángelides' approach may represent a genuine evolutionary step in magical practice. Lycius provides him access to restricted texts and information about Guild politics.
 
-### Enemies
+#### Enemies
 
 - **Magister Ptolemaus of the Hydälis Sodalitas**: His former teacher remains Ángelides' most bitter opponent, viewing his break with orthodoxy as a personal betrayal and a corruption of magical tradition. Ptolemaus holds significant influence within the Epistemium's chapterhouse and has repeatedly argued to the council that Ángelides should be formally expelled and reported to the Ordo Arcanis for practicing uncontrolled, unregistered sorcery. Their professional enmity is now deeply personal—Ptolemaus sees in Ángelides a living refutation of everything he believes about the necessity of formal discipline, and Ángelides sees in Ptolemaus the institutional rigidity that he fled.
 
@@ -674,13 +673,13 @@ Beneath his calm exterior runs a current of deep frustration—frustration with 
 
 - **Rival Healer Kalista of Yeşilhan**: A self-taught mage from the caravan city who was briefly Ángelides' apprentice before their relationship turned bitter over philosophical differences. Kalista believes that Ángelides' intuitive approach is dangerously unreliable and has begun spreading rumors throughout the region that his work is fraudulent—that his supposed healings are merely cases of natural recovery that he takes undue credit for, or worse, cases where his uncontrolled magic has caused harm he refuses to acknowledge. Kalista's accusations are particularly dangerous because she has connections to the Epistemium's chapterhouse and has hinted at bringing her evidence before the Quaesitorium.
 
-### Affiliations
+#### Affiliations
 
 - **Panepistemium Chapterhouse (Byzarian League)**: Nominal membership, though increasingly contentious and conditional on his continued discretion. His status within the organization is precarious and likely to collapse if Magister Ptolemaus or Quaesitor Sokrates gain the upper hand within the local council, or if his work becomes widely known outside remote villages.
 
 - **The Informal Network of Folk Healers and Independent Practitioners**: Though not formally organized, Ángelides maintains correspondence and occasional meetings with other non-traditional magic workers throughout the Byzarian League and neighboring regions—herbalists, folk healers, and hedge witches who operate outside official structures. These connections provide both practical knowledge-sharing and mutual protection against official pressure. However, this network is fragile, scattered, and increasingly viewed with suspicion by both the Epistemium and the Ordo.
 
-## Plot Hooks
+### Plot Hooks
 
 1. **The Plague That Defies Magic**: A disease of mysterious origin begins spreading through the countryside, and even Ángelides' most powerful healing magic provides only temporary relief—the sickness returns within days. The affliction seems to actively resist magical intervention, almost as though it possesses an intelligence of its own. Desperate villagers and the Guild both turn to Ángelides for answers. Investigation reveals that the plague may be intentionally created by hostile forces, designed specifically to discredit non-traditional healers by forcing failures they would normally never experience. The cure may require him to temporarily reconcile with the formal Guild, to combine his intuitive approach with their theoretical knowledge.
 

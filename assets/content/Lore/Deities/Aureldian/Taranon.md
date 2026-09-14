@@ -10,6 +10,4 @@ shortcode: taranondty
 packFolder: deitiesaureldian
 ---
 
-# Táranon
-
 TBD

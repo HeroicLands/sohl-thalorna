@@ -10,8 +10,9 @@ name:
   full: "Ritual: Sét"
   aliases:
     - Sét, Bringer of Tempests
-sohl:
+data:
   templatePriority: null
+sohl:
   system:
     skillBaseFormula: "@wil, @rea"
     masteryLevelBase: 0

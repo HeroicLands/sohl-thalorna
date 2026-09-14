@@ -10,6 +10,4 @@ shortcode: kalavratadty
 packFolder: deitiesvarnaka
 ---
 
-# Kālavrata
-
 TBD

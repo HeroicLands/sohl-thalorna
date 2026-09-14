@@ -71,11 +71,7 @@ data:
   lore: []
   parents: []
   relations: {}
-sohl:
-  templatePriority: null
 ---
-
-# The Provènzia Theater Collective
 
 - **Type:** Cultural federation
 - **Region:** [[place-provenzrgn|Provènzia]] — based at the great theater quarter in the capital, with affiliated companies in every Provenzian city of consequence

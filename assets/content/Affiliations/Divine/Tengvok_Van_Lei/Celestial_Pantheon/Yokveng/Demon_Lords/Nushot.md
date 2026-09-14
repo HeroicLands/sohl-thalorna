@@ -93,12 +93,10 @@ data:
   relations:
     tngvkvnlei: aligned
     yokveng: aligned
-sohl:
-  templatePriority: null
 packFolder: demonlords
 ---
 
-# Nüshöt — The Burning Dissolution
+## Nüshöt — The Burning Dissolution
 
 Where the Bureau of Returns (Nüs Sëi) recycles dissolved things back into the classification system, and the Bureau of Transformation (Höt Sëi) governs fire as a tool of purification and transmission, Nüshöt represents the catastrophic fusion of both functions. It is fire that does not purify but annihilates — dissolution that does not recycle but erases. Things consumed by Nüshöt do not return to their elemental categories for reuse. They simply cease to be classified at all, falling back into the Hürnlëi as raw, unprocessed potential.
 
@@ -106,13 +104,13 @@ The Tānthëi teach that Nüshöt was born from a jurisdictional failure: a mome
 
 Nüshöt is invoked (never worshipped) by those who wish to destroy something so completely that the celestial administration itself loses track of it. This is, needless to say, profoundly illegal under celestial law. The Quaesitorium equivalent within the Tānvüri system — the Celestial Marshals (Tëng Vüszhük) — treat any evidence of Nüshöt invocation as a matter of the highest urgency.
 
-## Mortal Cultus: The Nüszōk Rëit
+### Mortal Cultus: The Nüszōk Rëit
 
 The orthodox Tānthëological claim that Nüshöt is "invoked, never worshipped" has become empirically false. The [[affiliation-nuszokreit|Nüszōk Rëit]] — the Cult of the Forsaken — has taken Nüshöt as its primary celestial patron, and it worships the Unmaker openly within its secret gatherings. The cult's doctrine of _destruction total and everlasting_ is a direct invocation of Nüshöt's domain: the dissolution that does not feed a cycle of renewal, the fire that annihilates without remainder. The cult's suicide incendiaries, its archive burnings, and its public atrocities at festivals are all dedicated to Nüshöt, and the small rituals its operatives perform before a strike invoke the Unmaker's name.
 
 The Celestial Marshals are aware of this development and regard it as the single most alarming religious innovation within the empire's borders in centuries. Imperial suppression of the cult has, to date, been unsuccessful.
 
-## See Also
+### See Also
 
 - [[affiliation-nuszokreit|Nüszōk Rëit]] — The cult that has taken Nüshöt as its primary patron
 - [[affiliation-yokveng|Yokveng]] — The Demon Realm

@@ -25,7 +25,7 @@
     },
     "type": "module",
     "scripts": {
-        "prepare": "git config core.hooksPath .githooks || true",
+        "prepare": "git config core.hooksPath node_modules/@heroiclands/package-build/githooks || true",
         "clean": "package-build clean",
         "distclean": "package-build clean --distclean",
         "build": "npm ci && npm run build:noci",

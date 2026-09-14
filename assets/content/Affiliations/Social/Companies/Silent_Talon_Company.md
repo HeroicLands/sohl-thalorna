@@ -86,15 +86,11 @@ data:
   lore: []
   parents: []
   relations: {}
-sohl:
-  templatePriority: null
 shortcode: slntlncmpny
 name:
   full: The Silent Talon Company
   aliases: []
 ---
-
-# The Silent Talon Company
 
 _Precision, Discretion, and Expertise for Every Mission_
 

@@ -12,8 +12,9 @@ name:
     - Hurnzhuk
     - The Lord of the Unclassified
     - The First Refusal
-sohl:
+data:
   templatePriority: null
+sohl:
   system:
     skillBaseFormula: "@wil, @rea"
     masteryLevelBase: 0

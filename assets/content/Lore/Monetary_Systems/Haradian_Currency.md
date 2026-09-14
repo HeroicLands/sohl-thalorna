@@ -15,8 +15,6 @@ name:
 shortcode: hardncrncy
 ---
 
-# Haradian Currency
-
 **Scope:** The Confederation of Haradian States and the trading network of Haradian-affiliated merchants throughout the Vylarian Sea and the southern coasts.
 
 ## Overview

@@ -8,8 +8,6 @@ shortcode: nutzok
 packFolder: castes
 ---
 
-# Nützōk
-
 **Slaves and Outcasts**
 
 The Nützōk occupy the lowest stratum of [[affiliation-tanvurempr|Tānvür]] society—slaves, prisoners of war, criminals condemned to bondage, and individuals so thoroughly disgraced that they have been cast out of their original castes. Unlike the [[lore-venduk|Vëndük]], whose slavery is unique and elevated by magical service, the Nützōk experience slavery in its harshest and most absolute form. They are considered legally lesser beings, their lives far less valuable than those of any other caste.

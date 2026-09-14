@@ -18,8 +18,6 @@ data:
 packFolder: khazryndesert
 ---
 
-# Oasis of Shirvan
-
 ## Overview
 
 _To be written._

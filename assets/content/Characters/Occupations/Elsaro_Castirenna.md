@@ -42,7 +42,6 @@ data:
     extra_features:
       - a tattoo of a tiger on the forearm
 sohl:
-  templatePriority: null
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 11 } }
     - { model: sohl-sohl-attribute-end, system: { scoreBase: 12 } }
@@ -551,11 +550,11 @@ sohl:
     defaultCombatGroup: null
 ---
 
-# Appearance {#appearance}
+## Appearance {#appearance}
 
 Élsaro Castírenna is a 31-year-old man who stands 6'0" tall and is of moderate build. He has an angular face with high cheekbones, a high forehead, and a sharp jaw that leads to a prominent chin. His narrow dark brown eyes sit beneath heavy brows, lending him a keen gaze. An aquiline nose and curved lips complete his features. He has tanned skin with a weathered complexion. His graying brown hair is tied in a low tail.
 
-# Dossier {#dossier}
+## Dossier {#dossier}
 
 Born in the Tarvénia region to a freeman family of Tarvénan heritage, Élsaro Castírenna came into the world of the mercenary through a combination of circumstance and aptitude.
 
@@ -563,37 +562,37 @@ Kael is a skilled assassin-for-hire, known for his stealth and precision. He ope
 
 Now at 31 years of age, Élsaro Castírenna has established himself as a known figure among the mercenarys of Tarvénia. His reputation, for better or worse, precedes him in the circles where such things matter.
 
-## Psyche
+### Psyche
 
-### Personality
+#### Personality
 
 Can be overly secretive, struggles with trusting others.
 
-### Motivation
+#### Motivation
 
 Élsaro is driven by the desire to master his craft and secure a stable future. The uncertainties of life in mercenary work keep him vigilant and adaptable.
 
-### Strengths
+#### Strengths
 
 Highly skilled in stealth and assassination, adaptable, sharp-minded.
 
-## Social
+### Social
 
 Élsaro is affiliated with None; operates independently..
 
 As a Tarvénan mercenary, Élsaro occupies a recognized social niche within Tarvénia society.
 
-## Companions
+### Companions
 
-### Patrons
+#### Patrons
 
 Élsaro's primary patron is Nobles and wealthy clients seeking discreet solutions to problems.. This relationship provides both opportunity and obligation.
 
-### Enemies
+#### Enemies
 
 Many; rivals and targets often seek retribution.
 
-## Plot Hooks
+### Plot Hooks
 
 1. **The Mercenary's Dilemma** — Élsaro faces a professional crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Tarvénia.
 

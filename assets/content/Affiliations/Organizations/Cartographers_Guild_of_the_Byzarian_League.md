@@ -92,11 +92,7 @@ data:
   lore: []
   parents: []
   relations: {}
-sohl:
-  templatePriority: null
 ---
-
-# The Cartographers' Guild of the Byzarian League
 
 - **Type:** Chartered professional guild
 - **Region:** [[place-byzariargn|Byzaría]], with chapterhouses in every League city

@@ -19,8 +19,6 @@ shortcode: bjornstad
 packFolder: vithgard
 ---
 
-# Bjornstad
-
 ## Overview
 
 Bjornstad—the Place of Bears—sprawls across a plateau in the heart of Vithgard, a fortified settlement of roughly 1,000 souls that serves as the kingdom's principal stronghold and de facto capital. The town takes its name from both the wild bears that roam the surrounding forests and from the royal dynasty that has held power here for three generations, the Bjorn-Königers, whose banner shows a rampant bear worked in silver thread. The settlement is dominated by a massive timber fortress with stone foundations, its walls twice as tall as a man and its watchtowers visible for leagues across the plateau.

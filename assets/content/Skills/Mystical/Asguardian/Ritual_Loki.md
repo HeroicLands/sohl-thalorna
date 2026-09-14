@@ -10,8 +10,9 @@ name:
   full: "Ritual: Lôki"
   aliases:
     - The Serpent's Path
-sohl:
+data:
   templatePriority: null
+sohl:
   system:
     skillBaseFormula: "@wil, @rea"
     masteryLevelBase: 0

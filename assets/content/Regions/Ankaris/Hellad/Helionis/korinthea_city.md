@@ -17,8 +17,6 @@ name:
 shortcode: korinthea2
 ---
 
-# Korinthea
-
 ## Overview
 
 _To be written._ Korinthea is the capital and principal settlement of [[affiliation-korinthea|Korinthea]].

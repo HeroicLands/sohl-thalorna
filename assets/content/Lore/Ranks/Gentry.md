@@ -10,8 +10,6 @@ shortcode: gentryrnk
 description: "Entitled to bear arms and be answered as a gentleman, holding no title of nobility."
 ---
 
-# Gentry
-
 Entitled to bear arms and be answered as a gentleman, holding no title of nobility.
 
 ## Obligations and Rights

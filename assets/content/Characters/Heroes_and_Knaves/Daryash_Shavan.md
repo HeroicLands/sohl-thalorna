@@ -39,7 +39,6 @@ data:
     complexion: null
     extra_features: []
 sohl:
-  templatePriority: null
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 11 } }
     - { model: sohl-sohl-attribute-end, system: { scoreBase: 12 } }
@@ -586,11 +585,11 @@ sohl:
     defaultCombatGroup: null
 ---
 
-# Appearance {#appearance}
+## Appearance {#appearance}
 
 Daryash stands 5'10" tall with a light build. She has tawny skin, very dark brown hair, and green eyes. Her features include a narrow face, an aquiline nose, a pointed chin, very dark brows.
 
-# Dossier {#dossier}
+## Dossier {#dossier}
 
 Born in the craft-quarters of Amradad's inner city, Daryash inherited not merely the woodcrafter's trade but a philosophy of reverence for wood itself. Her father, **Sharib Shavân**, taught her that every timber piece harbors an inner form waiting to be revealed—that the craftsperson's duty is discovery, not imposition. She mastered the fundamentals with stubborn dedication, apprenticing informally with her father until his death when she was eighteen. Rather than accept commissions from wealthy merchants, she devoted five years to secret study, learning from traveling artisans and aging masters whose work appeared in temple sanctuaries and forgotten estates.
 
@@ -598,19 +597,19 @@ At twenty-four, Daryash established her modest workshop in a riverside district,
 
 Currently, she maintains a precarious independence, refusing formal guild affiliation despite pressure from the Carpentry-Masters' Collective. She accepts only those commissions that call to her spirit, resulting in months of work completed alongside stretches of deliberate idleness when no worthy project claims her attention.
 
-## Psyche
+### Psyche
 
-### Personality
+#### Personality
 
 Daryash possesses an intense, introspective nature that often reads as detachment to those who do not understand her creative temperament. She speaks rarely and with careful consideration, preferring the language of her craft—gesture, demonstration, and the eloquent weight of finished work. Yet with those few individuals she trusts, she is revelatory, speaking with poetic passion about the philosophy underlying her work and the spiritual dimensions of transformation through craft.
 
 She is prone to what others mistake for arrogance but which stems genuinely from artistic conviction. When a patron attempts to commission work that contradicts her vision, she declines with courtesy but unmistakable firmness. This has cost her wealth and patronage but has preserved her integrity. She moves through the world somewhat apart, observing human nature with an artist's eye, drawing inspiration from unexpected sources—a beggar's posture, the way light breaks through a storm, the architecture of insect colonies.
 
-### Motivation
+#### Motivation
 
 Daryash is animated by a profound belief that physical objects possess sacred significance—that a piece of wood carved with intention and reverence becomes a vessel for spiritual truth. She views her work not as commercial enterprise but as a form of prayer and communication with the divine aspects of creation embodied by **Míthárä**. Every commission represents an opportunity to touch something eternal, to create an object that might outlast nations and carry meaning across generations. This conviction drives her toward perfection not from vanity but from devotion.
 
-### Strengths
+#### Strengths
 
 - **Transcendent Artistry**: Her creative vision manifests in work of genuinely uncanny beauty, capable of inspiring awe and spiritual recognition in those who encounter it.
 - **Perceptual Mastery**: Her perception and awareness are honed to detect the inner structure of wood—grain patterns, hidden flaws, and the potential forms dwelling within each timber.
@@ -618,7 +617,7 @@ Daryash is animated by a profound belief that physical objects possess sacred si
 - **Unwavering Integrity**: She cannot be swayed from artistic conviction by payment, threat, or appeal—a consistency that ultimately generates profound respect and trust.
 - **Comprehensive Craftwork**: Beyond carving, her expertise spans wood staining, varnishing, joinery, and the subtle art of finishing, making her work both beautiful and durable.
 
-### Weaknesses
+#### Weaknesses
 
 - **Paralyzing Perfectionism**: Her refusal to consider any work complete until it achieves impossible standards often results in commissions delayed months beyond agreed timelines, risking her reputation.
 - **Economic Vulnerability**: Her artistic integrity comes at the cost of stable income, leaving her sometimes unable to meet basic needs during periods of creative drought.
@@ -626,24 +625,24 @@ Daryash is animated by a profound belief that physical objects possess sacred si
 - **Fixation and Tunnel Vision**: Once committed to a creative vision, she struggles to adapt to changing circumstances or shift attention to other concerns.
 - **Physical Fragility**: Her years of fine detail work have begun manifesting in hand tremors and eye strain, threatening the very precision upon which her craft depends.
 
-## Social
+### Social
 
-### Patrons
+#### Patrons
 
 - **Lady Sarafina al-Khamis**: A widow and collector of sacred objects who has commissioned three major pieces and serves as Daryash's primary advocate in noble circles.
 - **Father Ilmantur of the Míthárä Temple**: The elderly priest who recognized spiritual dimension in her work and provides both commissions and spiritual counsel.
 - **Merchant-Prince Davoud**: A wealthy spice trader who values her work above all others and has promised patronage if she were ever to accept formal support.
 
-### Enemies
+#### Enemies
 
 - **Master Craftsman Rehman of the Collective**: The jealous guild-master who views Daryash's refusal to join as insult and threat, and actively works to undermine her reputation and secure her rare commissions for guild-approved craftspeople.
 - **The Carpentry-Masters' Collective**: This powerful organization views her as a rogue element challenging their monopoly and has begun spreading rumors questioning the ethics of her sourcing practices.
 
-### Affiliations
+#### Affiliations
 
 - **Míthárä's Circle of Creation**: An informal network of spiritual seekers and artists devoted to sacred craftsmanship (unaffiliated with institutional structures).
 
-## Plot Hooks
+### Plot Hooks
 
 1. **The Commission of the Divine Loom**: A mysterious cloaked figure arrived at Daryash's workshop bearing an ancient codex and an impossibly detailed commission—a wooden frame for a sacred loom that the stranger claims can weave fate itself. The payment offered is obscene, but the work would require her to venture into the Whispering Forest to harvest wood from a tree that according to legend exists only in the dreams of the dying. The stranger vanishes after the initial meeting, leaving only the codex and a cryptic warning that those who have pursued this commission before have never returned. Daryash finds herself tormented by the project's significance and the terrible beauty embedded in its requirements.
 

@@ -8,8 +8,9 @@ img: systems/sohl/assets/icons/game-icons/badges/fire.svg
 shortcode: inferno
 type: mysticalability
 subType: arcaneincantation
-sohl:
+data:
   templatePriority: null
+sohl:
   system:
     assocSkillCode: pyrethos
     masteryLevelBase: 0

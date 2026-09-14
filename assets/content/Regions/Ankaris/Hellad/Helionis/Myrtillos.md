@@ -19,8 +19,6 @@ shortcode: myrtillos
 packFolder: helionis
 ---
 
-# Myrtillos
-
 ## Overview
 
 _To be written._

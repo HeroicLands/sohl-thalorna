@@ -19,8 +19,6 @@ shortcode: barakth
 packFolder: aelwyth
 ---
 
-# Barakth
-
 **Barakth** lies highest of the inhabited valleys but one, closest to the road up to
 [[place-vorgald|Vorgald]], and it is the oldest Vardain settlement — old enough that its name is
 Khazári and nobody can say what it means.

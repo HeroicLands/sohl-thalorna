@@ -11,8 +11,9 @@ name:
     - Vyāhrati
     - Vyahrati
     - The Keeper of Decay
-sohl:
+data:
   templatePriority: null
+sohl:
   system:
     skillBaseFormula: "@wil, @rea"
     masteryLevelBase: 0

@@ -10,8 +10,6 @@ shortcode: heirrnk
 description: "Designated to succeed, and by that already a party to the body's negotiations."
 ---
 
-# Heir
-
 Designated to succeed, and by that already a party to the body's negotiations.
 
 ## Obligations and Rights

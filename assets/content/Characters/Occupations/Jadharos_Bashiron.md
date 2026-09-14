@@ -41,7 +41,6 @@ data:
     complexion: olive_toned
     extra_features: []
 sohl:
-  templatePriority: null
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 13 } }
     - { model: sohl-sohl-attribute-end, system: { scoreBase: 15 } }
@@ -552,11 +551,11 @@ sohl:
     defaultCombatGroup: null
 ---
 
-# Appearance {#appearance}
+## Appearance {#appearance}
 
 Jâdhâros Bâshirôn is a 30-year-old man who stands 6'2" tall and is of moderate build. He has a long face with wide-set cheekbones, a wide forehead, and a strong jaw that leads to a firm chin. His deep-set gray eyes sit beneath arched brows, lending him a watchful gaze. A straight nose and wide lips complete his features. He has olive skin with an olive-toned complexion. His dark brown hair is cropped short.
 
-# Dossier {#dossier}
+## Dossier {#dossier}
 
 Born in the Heliónis region to a freeman family of Helionite heritage, Jâdhâros Bâshirôn came into the world of the common seaman through a combination of circumstance and aptitude.
 
@@ -564,37 +563,37 @@ Jeb is an experienced seaman who has spent years sailing the coastal waters. Kno
 
 Now at 30 years of age, Jâdhâros Bâshirôn has established himself as a known figure among the common seamans of Heliónis. His reputation, for better or worse, precedes him in the circles where such things matter.
 
-## Psyche
+### Psyche
 
-### Personality
+#### Personality
 
 Can be overly laid-back, struggles with authority figures.
 
-### Motivation
+#### Motivation
 
 Jâdhâros is driven by the desire to master his craft and secure a stable future. The uncertainties of life in common seaman work keep him vigilant and adaptable.
 
-### Strengths
+#### Strengths
 
 Skilled in navigation and sailing, good teamwork, strong physical endurance.
 
-## Social
+### Social
 
 Jâdhâros is affiliated with None; works as a hired hand..
 
 As a Helionite common seaman, Jâdhâros occupies a recognized social niche within Heliónis society.
 
-## Companions
+### Companions
 
-### Patrons
+#### Patrons
 
 Jâdhâros's primary patron is Ship captains and merchants requiring crew members.. This relationship provides both opportunity and obligation.
 
-### Enemies
+#### Enemies
 
 Few; generally respected among his peers.
 
-## Plot Hooks
+### Plot Hooks
 
 1. **The Common Seaman's Dilemma** — Jâdhâros faces a professional crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Heliónis.
 

@@ -18,8 +18,6 @@ shortcode: ithrakor
 packFolder: citystates
 ---
 
-# Ithrákor
-
 ## Overview
 
 _To be written._

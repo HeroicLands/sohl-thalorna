@@ -116,11 +116,7 @@ data:
     velvethand: unaligned
     crmsyndctsthlrn: unaligned
     vindhyalay: unaligned
-sohl:
-  templatePriority: null
 ---
-
-# The Twilight House
 
 - **Type:** Courtesan establishment and intelligence network
 - **Region:** [[place-vedyarargn|Vedyara Region]] — principal house in the capital, satellite houses in each major Vedyaran city

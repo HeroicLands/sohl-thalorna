@@ -8,8 +8,9 @@ img: systems/sohl/assets/icons/game-icons/delapouite/circle.svg
 shortcode: monitor
 type: mysticalability
 subType: arcaneincantation
-sohl:
+data:
   templatePriority: null
+sohl:
   system:
     assocSkillCode: kentra
     masteryLevelBase: 0

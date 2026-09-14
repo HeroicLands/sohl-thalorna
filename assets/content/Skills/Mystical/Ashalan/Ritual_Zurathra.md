@@ -9,8 +9,9 @@ name:
   full: "Ritual: Zúráthrä"
   aliases:
     - Mother of the Oasis
-sohl:
+data:
   templatePriority: null
+sohl:
   system:
     skillBaseFormula: "@wil, @rea"
     masteryLevelBase: 0

@@ -20,8 +20,6 @@ shortcode: coldbeck
 packFolder: aelwyth
 ---
 
-# Coldbeck
-
 **Coldbeck** stands on the fastest water in the valleys and uses all of it. Three hundred and thirty
 people, four mills — two grinding, one fulling, one driving a set of trip-hammers that
 [[place-vellick|Vellick]] built and Coldbeck maintains.

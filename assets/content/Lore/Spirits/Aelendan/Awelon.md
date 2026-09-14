@@ -12,8 +12,6 @@ shortcode: awelonspr
 packFolder: lorespiritsaelendan
 ---
 
-# Awelon, the West Wind
-
 - **Kind:** Weather-kin, of [[lore-thekindred|the Kindred]]
 - **Seat:** no fixed place
 - **Territory:** wherever the west wind is blowing, and nowhere once it drops

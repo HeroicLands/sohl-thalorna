@@ -103,11 +103,7 @@ data:
   parents: []
   relations:
     asguardian: aligned
-sohl:
-  templatePriority: null
 ---
-
-# The Order of Týr's Justice
 
 _Old Norse: Týrshönd — "The Hand of Týr"_
 

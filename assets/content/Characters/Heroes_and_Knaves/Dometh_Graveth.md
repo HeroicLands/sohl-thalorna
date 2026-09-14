@@ -41,7 +41,6 @@ data:
     extra_features:
       - a tattoo of a snake on the chest
 sohl:
-  templatePriority: null
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 14 } }
     - { model: sohl-sohl-attribute-end, system: { scoreBase: 15 } }
@@ -602,11 +601,11 @@ sohl:
     defaultCombatGroup: null
 ---
 
-# Appearance {#appearance}
+## Appearance {#appearance}
 
 Dómeth stands 5'11" tall with a heavy build. He has tanned weathered skin, graying black hair, and brown eyes. His features include a narrow face, an aquiline nose, a pointed chin, well-defined lips, prominent brows. A distinguishing mark is a tattoo of a snake on the chest.
 
-# Dossier {#dossier}
+## Dossier {#dossier}
 
 Dómeth was born to shipwrights in the coastal district of Tarvénia, where the sea determines all things and timber is the only true currency. His father, the legendary **Master Toren Gráveth**, was considered the kingdom's finest builder of ocean-going vessels, and Dómeth inherited not merely the trade but a philosophy of absolute dedication to the craft. For thirty-one years, Dómeth worked beside his father, learning that ships are not products but living things—entities that must be honored, understood, and negotiated with rather than imposed upon.
 
@@ -614,21 +613,21 @@ When his father passed—drowning in the very sea that had always been his realm
 
 Currently, at the height of his mastery, Dómeth finds himself something of an anomaly in an age of cheaper, faster construction. He refuses to compromise, refuses to cut corners, and has become increasingly isolated as younger shipwrights adopt efficiency over excellence. Yet his vessels still sail after generations, and his name remains synonymous with quality among those who understand that a ship is more than cargo and passage.
 
-## Psyche
+### Psyche
 
-### Personality
+#### Personality
 
 Dómeth is a man of profound silences. He speaks rarely and only when speech serves purpose—explanations of his methods, discussions of timber quality, or rare moments of genuine human connection. This quietude is often mistaken for coldness or arrogance, though in truth it emerges from a deep introversion and intense focus. His entire consciousness seems oriented toward the work at hand, and casual social interaction strikes him as frivolous distraction.
 
 Yet those rare individuals who have penetrated his reserve report discovering unexpected warmth and a bone-deep sincerity. He is capable of profound attachment—to his craft, to ships he has built, and occasionally to individuals who demonstrate equal dedication to their own pursuits. His stubbornness is not mere obstinacy but a commitment to principle that cannot be negotiated away by mere economics. When something is wrong, he will say so plainly, regardless of consequences to his purse or reputation. This integrity has cost him dearly, but it remains uncompromised.
 
-### Motivation
+#### Motivation
 
 Dómeth is animated by a conviction that approaches religious fervor: that excellence in craft is an act of respect toward both the materials and the individuals who will depend upon the finished work. Every ship he builds is created with consciousness that it may carry families across treacherous waters, or carry merchants to distant lands, or serve warriors in naval warfare. To compromise on quality is to betray these people and dishonor the wood that gave its life to serve them. He builds as an act of devotion to **Vénusia** and to the unspoken compact between craftsperson and world.
 
 Beneath this lies a deeper motivation: Dómeth builds ships because they are permanent. In a world of flux and change, a well-built vessel can outlast nations, can be repaired and renewed for generations. In creating ships, he creates something that approaches immortality, and through these vessels, some fragment of himself will persist when he is dust.
 
-### Strengths
+#### Strengths
 
 - **Transcendent Shipwright Mastery**: His understanding of vessel construction encompasses not merely technique but an almost intuitive grasp of how wood behaves in water, how forces distribute through structure, and how to create ships that are simultaneously stronger and lighter than conventional design permits.
 - **Materials Expertise**: His knowledge of timber types, their properties, strengths, and weaknesses is encyclopedic; he can select materials for specific purposes with an accuracy that borders on prophetic.
@@ -636,7 +635,7 @@ Beneath this lies a deeper motivation: Dómeth builds ships because they are per
 - **Leadership Through Respect**: Those who work under Dómeth recognize the integrity of his vision and respond with absolute dedication, resulting in construction crews of unusual coherence and quality.
 - **Durability Achievement**: His vessels genuinely last longer, require less maintenance, and handle adverse conditions better than those built by rival shipwrights, generating customer loyalty that transcends price considerations.
 
-### Weaknesses
+#### Weaknesses
 
 - **Economic Fragility**: His refusal to accept lower-quality commissions leaves him vulnerable to periods of drought, and his income is perpetually uncertain in an era of faster, cheaper production.
 - **Inflexible Quality Standards**: His inability to compromise even when circumstances demand it has lost him major commissions and left him unable to adapt to changing market realities.
@@ -644,25 +643,25 @@ Beneath this lies a deeper motivation: Dómeth builds ships because they are per
 - **Age and Declining Capacity**: Physical decline has begun to manifest—his hands occasionally tremble, his stamina has diminished, and he is acutely aware that his career is entering its final chapter.
 - **Unwillingness to Delegate**: His insistence on personally overseeing all critical work has limited his output and created dangerous bottlenecks in his production.
 
-## Social
+### Social
 
-### Patrons
+#### Patrons
 
 - **Captain-Admiral Voren**: A legendary naval commander who has commissioned multiple vessels from Dómeth over two decades and would speak of his craftsmanship as the only reason certain campaigns succeeded.
 - **The Merchant Consortium of Tarvénia's Harbor**: A collective of wealthy traders who have maintained standing orders for Gráveth vessels despite the expense and delays, understanding that his ships provide competitive advantages that justify premium pricing.
 - **Priestess-Keeper Maristela of Vénusia's Temple**: The keeper of the ocean-goddess's temple considers Dómeth's work a form of worship and ensures the temple's ships are always commissioned from him, providing him with steady work during lean years.
 
-### Enemies
+#### Enemies
 
 - **Master-Craftsman Aldred the Efficient**: A rival shipwright who has built his reputation on fast, cheap construction and views Dómeth's premium work as market distortion; Aldred actively spreads rumors that Gráveth vessels are overpriced relics and works to capture Dómeth's would-be customers.
 - **The Merchant's Association Reform Faction**: A segment of the merchant class seeking to modernize and standardize shipbuilding practices views Dómeth's stubborn individualism as an impediment to progress and has launched campaigns to discredit him.
 
-### Affiliations
+#### Affiliations
 
 - **Coastal Shipwrights' Guild**: Nominally a member, though increasingly at odds with the guild's direction toward industrialized production.
 - **The Keepers of Vénusia's Temple**: Informal but deep connection through shared devotion to the prosperity-goddess and reverence for maritime traditions.
 
-## Plot Hooks
+### Plot Hooks
 
 1. **The Impossible Commission**: The Kingdom of Tarvénia's young crown-prince arrives unannounced at Dómeth's workshop with a proposition: build a warship unlike any constructed before, incorporating advanced design principles that the prince has been researching in secret. The design contradicts everything Dómeth has learned about proper shipbuilding—it seems reckless, wrong, ultimately doomed. Yet the prince claims the design comes from ancient manuscripts and is desperately needed to counter a naval threat from abroad. Dómeth must decide whether to violate his principles based on the prince's assurance of authenticity, or refuse and potentially doom the kingdom to naval defeat.
 

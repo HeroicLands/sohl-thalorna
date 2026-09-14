@@ -10,8 +10,6 @@ shortcode: rsdntlnrnk
 description: "Living under a body's protection and paying its dues, without its citizenship."
 ---
 
-# Resident Alien
-
 Living under a body's protection and paying its dues, without its citizenship.
 
 ## Obligations and Rights

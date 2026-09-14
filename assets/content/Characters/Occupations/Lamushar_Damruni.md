@@ -41,7 +41,6 @@ data:
     complexion: weathered
     extra_features: []
 sohl:
-  templatePriority: null
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 10 } }
     - { model: sohl-sohl-attribute-end, system: { scoreBase: 12 } }
@@ -552,11 +551,11 @@ sohl:
     defaultCombatGroup: null
 ---
 
-# Appearance {#appearance}
+## Appearance {#appearance}
 
 Lamûshar Damrûnî is a 45-year-old man who stands 5'7" tall and is of moderate build. He has a heart-shaped face with prominent cheekbones, a narrow forehead, and an angular jaw that leads to a pointed chin. His large dark brown eyes sit beneath heavy brows, lending him an expressive gaze. A strong nose and curved lips complete his features. He has medium-toned skin with a weathered complexion. His dark brown hair is kept practical and short.
 
-# Dossier {#dossier}
+## Dossier {#dossier}
 
 Born in the Harad region to a noble family of Haradian heritage, Lamûshar Damrûnî came into the world of the litigant through a combination of circumstance and aptitude.
 
@@ -564,37 +563,37 @@ Cedric has spent decades as a litigator, focusing on commercial law and trade di
 
 Now at 45 years of age, Lamûshar Damrûnî has established himself as a known figure among the litigants of Harad. His reputation, for better or worse, precedes him in the circles where such things matter.
 
-## Psyche
+### Psyche
 
-### Personality
+#### Personality
 
 Can be overly critical, sometimes dismisses unconventional methods.
 
-### Motivation
+#### Motivation
 
 Lamûshar is driven by the desire to master his craft and secure a stable future. The uncertainties of life in litigant work keep him vigilant and adaptable.
 
-### Strengths
+#### Strengths
 
 Highly knowledgeable in commercial law, good strategist, respected mentor.
 
-## Social
+### Social
 
 Lamûshar is affiliated with Litigant's Guild.
 
 As a Haradian litigant, Lamûshar occupies a recognized social niche within Harad society.
 
-## Companions
+### Companions
 
-### Patrons
+#### Patrons
 
 Lamûshar's primary patron is Merchants and business owners seeking legal representation.. This relationship provides both opportunity and obligation.
 
-### Enemies
+#### Enemies
 
 Few; generally respected but occasionally challenged by ambitious newcomers.
 
-## Plot Hooks
+### Plot Hooks
 
 1. **The Litigant's Dilemma** — Lamûshar faces a professional crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Harad.
 

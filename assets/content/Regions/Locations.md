@@ -10,8 +10,6 @@ description: Notable places — ruins, landmarks, dungeons, and wonders.
 banner: banners/site.webp
 ---
 
-# Locations
-
 Notable places — ruins, landmarks, dungeons, and wonders.
 
 ```sql

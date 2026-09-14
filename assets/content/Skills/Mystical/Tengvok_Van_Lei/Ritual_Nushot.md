@@ -12,8 +12,9 @@ name:
     - Nushot
     - The Burning Dissolution
     - The Unmaker
-sohl:
+data:
   templatePriority: null
+sohl:
   system:
     skillBaseFormula: "@wil, @rea"
     masteryLevelBase: 0

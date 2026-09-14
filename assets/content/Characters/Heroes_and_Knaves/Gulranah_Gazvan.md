@@ -41,7 +41,6 @@ data:
     extra_features:
       - a scar on the right wrist
 sohl:
-  templatePriority: null
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 12 } }
     - { model: sohl-sohl-attribute-end, system: { scoreBase: 15 } }
@@ -587,39 +586,39 @@ sohl:
     defaultCombatGroup: null
 ---
 
-# Appearance {#appearance}
+## Appearance {#appearance}
 
 Gulrânah stands 6'1" tall with a light build. She has light olive skin, dark brown hair, and warm brown eyes. Her features include a long face, a hawkish nose, an angular jawline, full lips, dark brows, angular cheeks. A distinguishing mark is a scar on the right wrist.
 
-# Dossier {#dossier}
+## Dossier {#dossier}
 
-## Background
+### Background
 
-### Early Years
+#### Early Years
 
 Born to the Gazvân clan in the Sultanate of Amradad during a season of great drought, Gulrânah showed an unusual affinity for fire and ash from her earliest years. While other children played at merchant games, she watched the charcoalers work, mesmerized by the transformation of wood into black treasure. Her mother, a respected herbalist named **Yasmine al-Gazvân**, recognized the girl's calling and, rather than resist it as unseemly, arranged apprenticeship with the master charcoaler **Karamak of the Northern Kiln**—a rare honor for a child of noble guild-standing.
 
-### Training and Mastery
+#### Training and Mastery
 
 Under Karamak's exacting tutelage for twelve seasons, Gulrânah learned the delicate balance of air, heat, and wood. She mastered the timing of carbonization, the construction of kilns that burned hotter and cleaner than competitors', and the secrets of producing charcoal fit for ritual herbalism. A kiln accident at age seventeen left her scarred but not defeated; if anything, the burn refined her respect for the unpredictable fury she worked with daily. She became Karamak's finest student and, upon his retirement, assumed stewardship of the Northern Kiln at merely twenty-three years old.
 
-### Present Standing
+#### Present Standing
 
 Now twenty-nine winters old, Gulrânah operates her kilns with renown throughout Amradad's trading districts. Her charcoal is sought by the realm's finest smiths for its purity and the metalsmiths for its control of heat. The herbalists—particularly the disciples of **Zúráthrä's Fertility Rites**—prize her product for ceremonial fires. Yet success has cost her a measure of ease; the weight of reputation and the demands of quality work have drawn her into a solitary existence that outsiders sometimes mistake for arrogance.
 
-## Psyche
+### Psyche
 
-### Personality
+#### Personality
 
 Gulrânah is a woman of few words, her communication earned rather than lavish. In the presence of her craft, she becomes almost meditative—absorbed in the work with an intensity that borders on spiritual communion. Away from the kilns, she grows tense, restless, as though her purpose drains with each hour spent idle. She harbors no contempt for others, merely an profound difficulty in maintaining the social choreography most humans navigate instinctively. Her guild colleagues respect her technical mastery, but few claim true friendship with her.
 
 Beneath the distance lies a profound integrity. Gulrânah's word is law; she will not compromise quality for profit, nor will she compromise safety for speed. This moral steadfastness has made her enemies among those who would exploit her talent for shortcuts. Conversely, it has garnered loyalty from those who value substance over convenience. When she does engage in conversation, her observations are sharp and often uncomfortably perceptive, as though her years of reading fire and ash have taught her to read souls as well.
 
-### Motivation
+#### Motivation
 
 Gulrânah seeks only to produce the finest charcoal the Sultanate has ever known—a legacy that will outlast her body and be remembered long after her name fades. She takes no pride in wealth, though her independence demands it, and no pride in reputation, though it naturally follows excellence. What drives her is the pursuit of perfection in her art, the knowledge that her kiln's smoke carries the essence of her discipline skyward. In her most secret heart, she wonders if perfecting her craft might somehow earn her a place in the cycles of Zúráthrä's eternal fertility—a way to ensure her work feeds the world's growth beyond the material plane.
 
-### Strengths
+#### Strengths
 
 - **Master Charcoaler**: Produces charcoal of exceptional purity and consistency, commanding premium prices from smiths, alchemists, and ritualists across the sultanate
 - **Fire Sense**: Reads kilns with near-supernatural precision, intuitively understanding temperature, moisture, and burn progression through observation and experience
@@ -627,7 +626,7 @@ Gulrânah seeks only to produce the finest charcoal the Sultanate has ever known
 - **Integrity**: Never compromises safety or quality regardless of economic pressure or personal sacrifice
 - **Keen Perception**: Observes details others miss, reading meaning in patterns of ash, behavior, and circumstance
 
-### Weaknesses
+#### Weaknesses
 
 - **Extreme Reclusiveness**: Retreats from social interaction for weeks or months, isolating herself to dangerous degrees and damaging vital business relationships
 - **Poor Communication**: Struggles to articulate her knowledge or needs verbally; tends toward monosyllabic responses that frustrate potential allies and patrons
@@ -635,25 +634,25 @@ Gulrânah seeks only to produce the finest charcoal the Sultanate has ever known
 - **Emotional Detachment**: Difficulty forming genuine human connections; tends to view people as either useful or irrelevant to her work
 - **Vulnerability to Obsession**: Once fixated on a problem or improvement, neglects all other aspects of life and work until resolution
 
-## Social
+### Social
 
-### Patrons
+#### Patrons
 
 - **Master Karamak al-Ashenthorn**: Her retired mentor, now a wealthy merchant. Though he no longer practices the craft himself, he champions her work and occasionally contracts for specialty batches
 - **The Apothecary Collective of Amradad**: Guild of ritual herbalists who have made her the exclusive supplier of ceremonial charcoal for fertility rites of Zúráthrä
 - **House Ferringhold**: A minor noble house of merchants who commission her finest work exclusively and pay handsomely to keep competitors deprived of her product
 
-### Enemies
+#### Enemies
 
 - **Rakesh al-Gavid and the Ash-Brothers Guild**: A collective of male charcoalers who publicly declaim that women have no place in the trade and actively undermine her reputation with potential customers
 - **The Durvesh Syndicate**: Smugglers and gray-market traders who resent her refusal to supply them with specialized charcoal for alchemical purposes they consider unsavory
 - **Tormund Blacksmoke**: A rival charcoaler whose inferior product's lower price undercuts hers; he spreads rumors that her seclusion masks madness or curse
 
-### Affiliations
+#### Affiliations
 
 - **The Kiln-Keepers of Amradad**: Independent guild of craftspeople devoted to maintaining quality standards in the charcoal trade (though she remains mostly inactive in their politics)
 
-## Plot Hooks
+### Plot Hooks
 
 1. **The Fire's Fading**: A severe drought threatens the very wood supply that sustains Gulrânah's livelihood. She receives word from a traveling merchant that an ancient forest deep in the southern reaches of the Sultanate—sacred to Zúráthrä and off-limits to mortals for generations—has mysteriously shifted, its protective enchantments wavering. The wood there is said to burn hotter and cleaner than any earthly timber, and would allow her to create charcoal of legends. But to harvest it, she must either negotiate with the priestesses of **Temple Ashenfire** or find another path; the risks are immense, and her seclusion has left her without allies to undertake such a journey.
 

@@ -7,10 +7,11 @@ description: "Blade-fixed gauntlet for armored straight-arm thrust; duelist's sw
 img: systems/sohl/assets/icons/other/sword.svg
 shortcode: pata
 type: weapongear
+data:
+  templatePriority: null
 sohl:
   kbcat: sword
   weaponType: Sword
-  templatePriority: null
   system:
     weightBase: 3
     valueBase: 180

@@ -19,15 +19,15 @@ data:
 packFolder: adventures
 ---
 
-# The Lost Relic of Ménavar Abbey
+## The Lost Relic of Ménavar Abbey
 
 An ancient relic of the Aurèldían faith has been lost in the ruins of Ménavar Abbey, and both the Church and shadowy interests seek to recover it before the other.
 
-## Overview
+### Overview
 
 Ménavar Abbey, once a center of Aurèldían learning and spiritual practice in [[place-provenzrgn|Provènzia Region]], was damaged centuries ago during the Nordheim raids and subsequently abandoned. A relic kept within its walls—rumored to have healing properties or arcane significance—has drawn the attention of both the formal Church hierarchy and the [[affiliation-ordoarcanis|Ordo Arcanis]]. The party is hired (or compelled) to recover it before either institution monopolizes its power.
 
-## Stage One: The Commission
+### Stage One: The Commission
 
 The party is approached by one of several factions seeking the relic:
 
@@ -49,7 +49,7 @@ The party is approached by one of several factions seeking the relic:
 - A scholar who studied the abbey (partial information, possibly unreliable)
 - A local guide who claims familiarity with the ruins
 
-## Stage Two: Preparation & Research
+### Stage Two: Preparation & Research
 
 The party must gather information about the abbey's layout and defenses:
 
@@ -66,7 +66,7 @@ The party must gather information about the abbey's layout and defenses:
 - Local superstitions add confusion (false leads)
 - A member of the party may be secretly representing a rival faction
 
-## Stage Three: Approach & Discovery
+### Stage Three: Approach & Discovery
 
 The party travels to the abbey's ruins (a journey that may present its own challenges—bandits, weather, cursed lands). Upon arrival:
 
@@ -82,7 +82,7 @@ The party travels to the abbey's ruins (a journey that may present its own chall
 - A rival expedition claiming prior discovery
 - Creatures that lair in the ruins (owlbears, swarms, spectral entities)
 
-## Stage Four: Retrieving the Relic
+### Stage Four: Retrieving the Relic
 
 The party must navigate the abbey to locate the relic's chamber. Challenges include:
 
@@ -94,7 +94,7 @@ The party must navigate the abbey to locate the relic's chamber. Challenges incl
 
 **The Guardian:** A manifestation of the abbey's purpose—perhaps an oath-bound spirit of a high priest, a construct of Aurèldían magic, or a test woven into the very stones. It may be placated by piety, outsmarted by riddles, or overcome by force.
 
-## Stage Five: Aftermath & Complications
+### Stage Five: Aftermath & Complications
 
 - If the party succeeds, they must decide what to do with the relic
   - Return it to the hiring faction (creates enemies among rivals)
@@ -105,7 +105,7 @@ The party must navigate the abbey to locate the relic's chamber. Challenges incl
 - Other factions pursue the party to recover or prevent use of the relic
 - The abbey itself may be awakening to new threats
 
-## See Also
+### See Also
 
 - [[place-provenzrgn|Provènzia Region]]
 - [[affiliation-kngdmprvnz|Kingdom of Provènzia]]

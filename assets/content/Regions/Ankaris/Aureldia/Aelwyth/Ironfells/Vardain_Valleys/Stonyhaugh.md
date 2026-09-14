@@ -19,8 +19,6 @@ shortcode: stonyhaugh
 packFolder: aelwyth
 ---
 
-# Stonyhaugh
-
 **Stonyhaugh** is the quarry, and the masons. Four hundred and sixty people cutting the grey stone that
 the whole district is built and walled with.
 

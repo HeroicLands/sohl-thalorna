@@ -11,8 +11,6 @@ img: icons/takheperu/pantheon/ptah.svg
 packFolder: deitieskemetian
 ---
 
-# Ptā'h
-
 _Shaper of the Eternal World — a chisel carving a star._
 
 Ptā'h is the supreme architect of creation, the divine craftsman whose hands and mind shaped the

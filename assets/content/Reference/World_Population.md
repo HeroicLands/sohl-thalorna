@@ -15,15 +15,15 @@ name:
 shortcode: wrldppltnthlrn
 ---
 
-# The Population of Thalorna
+## The Population of Thalorna
 
 A working demographic model of the inhabited world. Thalorna in **720 AF** is a pre-industrial, overwhelmingly agrarian world; like Earth before the modern age, some **85–90% of people live on the land**, in countless small villages and farms, and only a thin urban crust lives in the named cities and towns. The figures below are population _totals_ for whole regions — not the sum of named settlements, which are only the notable places.
 
 The model is anchored on the one polity worked out in detail: the **[[affiliation-vylarinmpr|Vylarian Empire]]** at ~21 million across its four core provinces. From that yardstick the rest of the world scales to roughly **390 million** souls — a world comparable to Earth around the 14th–15th centuries. All figures are approximate and deliberately round.
 
-## By Region
+### By Region
 
-### Ankaris — the West ("the civilized world")
+#### Ankaris — the West ("the civilized world")
 
 | Region                                                                                                                                    | Population      |
 | ----------------------------------------------------------------------------------------------------------------------------------------- | --------------- |
@@ -41,7 +41,7 @@ The model is anchored on the one polity worked out in detail: the **[[affiliatio
 | Other minor western regions                                                                                                               | ~5,000,000      |
 | **Western Ankaris subtotal**                                                                                                              | **~71,000,000** |
 
-### Ankaris — the East (the great powers)
+#### Ankaris — the East (the great powers)
 
 | Region                             | Population       |
 | ---------------------------------- | ---------------- |
@@ -49,7 +49,7 @@ The model is anchored on the one polity worked out in detail: the **[[affiliatio
 | [[affiliation-tanvurempr\|Tánvür]] | ~120,000,000     |
 | **Eastern Ankaris subtotal**       | **~230,000,000** |
 
-### Xerathia
+#### Xerathia
 
 | Region                                              | Population      |
 | --------------------------------------------------- | --------------- |
@@ -57,7 +57,7 @@ The model is anchored on the one polity worked out in detail: the **[[affiliatio
 | Rest of Xerathia (Okháris, Bethûa, the rainforests) | ~10,000,000     |
 | **Xerathia subtotal**                               | **~29,000,000** |
 
-### K'ich'chik
+#### K'ich'chik
 
 | Region                  | Population      |
 | ----------------------- | --------------- |
@@ -66,14 +66,14 @@ The model is anchored on the one polity worked out in detail: the **[[affiliatio
 | Southern K'ich'chik     | <100,000        |
 | **K'ich'chik subtotal** | **~30,000,000** |
 
-### Other
+#### Other
 
 | Region                                               | Population |
 | ---------------------------------------------------- | ---------- |
 | [[place-klhrcntnnt\|Kalihara]]                       | ~3,000,000 |
 | Far north & scattered isles (Iseron, Aurionis, etc.) | ~3,000,000 |
 
-## World Total
+### World Total
 
 **≈ 365 million.**
 
@@ -86,7 +86,7 @@ The model is anchored on the one polity worked out in detail: the **[[affiliatio
 | Kalihara & scattered | ~6M        |
 | **World**            | **~365M**  |
 
-## Notes and Sanity Checks
+### Notes and Sanity Checks
 
 **The east holds the majority of humankind.** Tánvür and Vedyára together (~230M) are roughly **59% of the world's people** — mirroring Earth, where China and India alone held about half of humanity throughout the pre-modern era. The demographic center of gravity lies far to the east of Vylaria, a fact the western powers find easy to forget.
 
@@ -106,7 +106,7 @@ Tarvénia is carried at ~5,000,000 because it and Provènzia hold roughly equal 
 
 **Approximate by design.** Every figure here is round and approximate — good to roughly the nearest few million at the regional scale, not the nearest soul — and any may be revised as the setting develops.
 
-## See Also
+### See Also
 
 - [[affiliation-vylarinmpr|Vylarian Empire]] — the anchor polity, worked out province by province
 - [[place-magnapolis|Magnápolis]] — the world's great western metropolis

@@ -9,8 +9,9 @@ name:
   full: "Hekau: Maat'ken"
   aliases:
     - Per-Maat'ken
-sohl:
+data:
   templatePriority: null
+sohl:
   system:
     skillBaseFormula: "@aur, @rea"
     masteryLevelBase: 0

@@ -11,8 +11,9 @@ name:
   full: "Gwalchen Spirit Power"
   aliases:
     - Gwalchen, the Hawk of the Spine
-sohl:
+data:
   templatePriority: null
+sohl:
   system:
     skillBaseFormula: "@aur, @wil"
     masteryLevelBase: 0

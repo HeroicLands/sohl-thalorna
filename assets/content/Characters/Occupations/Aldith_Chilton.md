@@ -42,7 +42,6 @@ data:
     complexion: weathered
     extra_features: []
 sohl:
-  templatePriority: null
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 10 } }
     - { model: sohl-sohl-attribute-end, system: { scoreBase: 12 } }
@@ -556,11 +555,11 @@ sohl:
     defaultCombatGroup: null
 ---
 
-# Appearance {#appearance}
+## Appearance {#appearance}
 
 Aldith Chilton is a striking vision of carefully cultivated beauty that seems almost unnatural in its perfection. At 30, she carries herself with the assurance of one who has learned that beauty is a form of power—perhaps the most potent power in certain circles. Her deep-set gray eyes hold an almost haunting quality, watching, assessing, measuring the desire and ambition of everyone around her. She moves with practiced grace, her movements economical yet somehow mesmerizing. Her auburn hair, braided and coiled at the nape, frames a face that bears the subtle lines of someone who has lived intensely—weathered not by age but by the accumulation of countless intimate encounters and whispered confessions. There is something otherworldly about her presence, as if the perpetual mists of Aelwyth have woven themselves into her very being, making her seem simultaneously tangible and illusory.
 
-# Dossier {#dossier}
+## Dossier {#dossier}
 
 Aldith Chilton was born into the minor nobility of Aelwyth thirty years ago, a fourth-daughter in a family more concerned with accumulating wealth than molding heirs. Her beauty became apparent early—almost unsettlingly so—and from adolescence, she understood that it opened doors that birth alone could not. She chose the priesthood of Vénusia not from genuine spiritual calling but from pragmatic recognition: within Vénusia's temples, her gifts would be celebrated as divine rather than merely cosmetic, and she could operate with the authority and autonomy that marriage to some minor noble would have denied her.
 
@@ -568,7 +567,7 @@ Her rise within the temple hierarchy was meteoric. She studied the rituals of se
 
 Yet success has a peculiar hollowness to it. Those who know her well enough to see beneath the carefully maintained façade note a certain emptiness at her core. Her low reasoning and middling will suggest someone driven more by impulse than conviction, by the intoxicating thrill of being desired than by any genuine connection to Vénusia's philosophy. She believes pleasure is sacred because her life has taught her that pleasure is the only reliable source of power and validation. Whether this constitutes genuine faith or merely convenient rationalization remains an open question—even to herself.
 
-## Psyche
+### Psyche
 
 Aldith operates in a state of perpetual seduction, both outward and inward. She is creative and intuitive, able to perceive the hidden desires and vulnerabilities in those around her with almost preternatural accuracy. Yet this gift of perception is paired with a fundamental shallowness of reasoning—she feels, reads, and acts, but rarely thinks deeply about the consequences of her manipulations. Her will, while present, is undisciplined; she struggles to commit to anything beyond the immediate gratification of her appetites.
 
@@ -576,13 +575,13 @@ Her relationship to her own beauty is complex and troubling. It has become her i
 
 Her greatest strength is her supernatural ability to make others feel special, desired, understood. Her greatest weakness is that she does not genuinely understand connection—she understands only its performance. The distinction, when she allows herself to notice it, causes her considerable distress that she typically drowns in wine, scented oils, and the arms of whatever beautiful person is currently at hand.
 
-## Social
+### Social
 
 Aldith is not merely affiliated with the Temple of Vénusia in Ashford—she essentially is the Temple's public face, at least among the wealthy elite who fund its operations. The high priestess tolerates her because Aldith generates substantial coin through her salons and because her obvious piety (however self-interested) brings prestige to the order. Aldith's authority is considerable but brittle; it rests entirely on her continued beauty and charisma. Among the temple's minor priests and acolytes, she is viewed with a mixture of awe, resentment, and fear. She does not mentor; she competes.
 
 Within Ashford's upper circles, she moves with ease and recognition. Merchants' wives seek her blessing for fertility. Ambitious magistrates visit her salons to be seen among the elite. Younger noblewomen ask her for advice on matters of love and seduction, and she gives it with the smugness of someone who has never experienced genuine romantic rejection. Yet there is a brittleness to her social standing. She has made enemies through her indifference and through her casual willingness to favor some patrons over others based on whim. Some of the families whose daughters she has humiliated, whose sons she has rejected, harbor quiet resentments that, given the right circumstance, could turn into genuine danger.
 
-## Companions
+### Companions
 
 **Patrons:**
 
@@ -594,7 +593,7 @@ Within Ashford's upper circles, she moves with ease and recognition. Merchants' 
 - **Father Sérismond**, high priestess of the Temple of Vénusia, who views Aldith as a useful asset but no more than that. Their relationship is cordial but tense; Sérismond's spiritual authority stands in implicit competition with Aldith's charismatic power.
 - **Theron Blackweir**, a merchant's son whom Aldith humiliated publicly at a salon five years ago by publicly preferring another patron. He smiles when their paths cross in Ashford society, but his smile does not reach his eyes.
 
-## Plot Hooks
+### Plot Hooks
 
 1. **The Priestess's Prophecy** — A traveling oracle arrives in Ashford and attends one of Aldith's salons. She pulls Aldith aside and whispers that the goddess has shown her a vision of Aldith's beauty failing within the year—a curse, perhaps, or merely a warning of advancing age. Aldith, terrified, begins searching for ways to stave off this fate, drawing the oracle deeper into her world and potentially into conflict with the temple authorities.
 

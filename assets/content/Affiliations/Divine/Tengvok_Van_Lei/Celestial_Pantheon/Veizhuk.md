@@ -120,12 +120,10 @@ data:
     - tngvkvnlei
   relations:
     tanvurempr: aligned
-sohl:
-  templatePriority: null
 packFolder: celestialpantheon
 ---
 
-# Vëizhük Dāknëi — The Jade Sovereign
+## Vëizhük Dāknëi — The Jade Sovereign
 
 Vëizhük sits at the apex of the celestial administration, second only to Tānlüng himself — and that only nominally. Where Tānlüng is the _principle_ of classification, Vëizhük is its _administrator_: the being who runs the day-to-day machinery of cosmic bureaucracy. The title _Dāknëi_ (Jade Sovereign) reflects her station as the executor of the supreme will, though the Tānthëi note with characteristic dryness that her sovereignty is the sovereignty of a functionary — immense, but ultimately bounded by the regulatory framework that contains it.
 
@@ -133,13 +131,13 @@ Her authority is entirely procedural. Vëizhük does not create law; she enforce
 
 This procedural limitation is precisely the source of her power. Because she does not invent law, no bureau can argue that she has overstepped her mandate. Because she administers the registry, every being in the celestial hierarchy — from the lowest clerk-spirit to the mightiest bureau overseer — depends on her office to confirm their status, their authority, and their jurisdiction. Vëizhük does not command the other overseers. She has something more valuable: she has the records proving that their commands are legitimate. Strip the Jade Sovereign of her office, and within a day the celestial bureaucracy would grind to a halt — no bureau could confirm the legitimacy of another's directives, no petition could be routed to the correct overseer, no inter-departmental ruling could be executed.
 
-## The Bureau of Order (Tëngvōk Dāk)
+### The Bureau of Order (Tëngvōk Dāk)
 
 The Supreme Administrative Court is not a tribunal of judgment but a clearinghouse of administration. Petitions that cannot be processed by the relevant substantive bureau are forwarded here for jurisdictional determination. Disputes between bureaus over which department has authority to handle a particular category of cosmic business are resolved here through application of precedent. Requests for reclassification of cosmic boundaries — which happen far more frequently than mortals suspect — are evaluated here before being passed upward to the Jade Sovereign for final determination.
 
 Vëizhük's office is staffed by the most competent administrative spirits in the celestial hierarchy. The **Tëng Vüszhük** (Celestial Marshals) serve as her enforcement arm, carrying out directives from any bureau and empowered to compel cooperation from reluctant spirits. The **Zhīrvōr** (Star Registry Clerks) maintain the celestial charts and calendrical records, ensuring that the coordination between the Bureau of Storms, the Bureau of Transit, and the Bureau of Continuity does not produce scheduling conflicts that cascade into unraveling.
 
-## Mortal Engagement
+### Mortal Engagement
 
 The average mortal never petitions Vëizhük directly. Her office handles only the most unusual cases: petitions that do not fit within the classifications of any substantive bureau, requests for reclassification, and appeals of rulings from lower levels that allege procedural error (not substantive unfairness — the concept of substantive unfairness does not exist in the Tānvüri legal framework).
 
@@ -149,7 +147,7 @@ Temples devoted to the Jade Sovereign are rarely crowded. The faithful who come 
 
 This is the closest thing the celestial order offers to justice: not fairness, but _consistency_. The Tānvüri have made peace with the distinction.
 
-## See Also
+### See Also
 
 - [[affiliation-tngvkvnlei|Tëngvōk Vān Lëi]] — The Celestial Bureaucracy
 - [[lore-clstlpnthn|Celestial Pantheon]] — Other celestial officials

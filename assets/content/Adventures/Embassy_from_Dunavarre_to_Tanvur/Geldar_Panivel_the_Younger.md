@@ -22,11 +22,7 @@ data:
     - kingdmdnvr
   gender: male
   species: null
-sohl:
-  templatePriority: null
 ---
-
-# Geldar Panivel, the Younger
 
 **Role.** Ensures the embassy is fed, and its morale with it.
 

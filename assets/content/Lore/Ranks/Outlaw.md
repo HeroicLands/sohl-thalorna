@@ -10,8 +10,6 @@ shortcode: outlawrnk
 description: "Set beyond the law's protection, so that harm done to them is not answered for."
 ---
 
-# Outlaw
-
 Set beyond the law's protection, so that harm done to them is not answered for.
 
 ## Obligations and Rights

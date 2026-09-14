@@ -18,8 +18,6 @@ shortcode: frostmark
 packFolder: nordheim
 ---
 
-# Frostmark
-
 ## Overview
 
 _To be written._

@@ -7,10 +7,11 @@ description: "Brass-bossed circular shield; Damascus prestige and practical defl
 img: systems/sohl/assets/icons/game-icons/willdabeast/round-shield.svg
 shortcode: dhal
 type: weapongear
+data:
+  templatePriority: null
 sohl:
   kbcat: shield
   weaponType: Shield
-  templatePriority: null
   system:
     weightBase: 5
     valueBase: 72

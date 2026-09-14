@@ -39,7 +39,6 @@ data:
     complexion: weathered
     extra_features: []
 sohl:
-  templatePriority: null
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 12 } }
     - { model: sohl-sohl-attribute-end, system: { scoreBase: 14 } }
@@ -621,11 +620,11 @@ sohl:
     defaultCombatGroup: null
 ---
 
-# Appearance {#appearance}
+## Appearance {#appearance}
 
 Rögnvaldr stands 6'0" tall with a medium build. He has light weathered skin, graying black hair, and brown eyes. His features include a rectangular face, a straight nose, an angular jawline, a firm-set mouth, straight brows.
 
-# Dossier {#dossier}
+## Dossier {#dossier}
 
 **Humble Beginnings:** Rögnvaldr was born fifty winters ago in the common quarters of Targud's capital, the son of a street performer and a tavern keeper. From childhood, he was immersed in performance—his mother taught him to read crowds, his father to move with confidence, and the streets themselves taught him timing and ruthlessness. While other children learned trades, Rögnvaldr learned the subtle art of making people see what he wanted them to see, feel what he wanted them to feel, and spend what they otherwise intended to keep.
 
@@ -633,19 +632,19 @@ Rögnvaldr stands 6'0" tall with a medium build. He has light weathered skin, gr
 
 **Mastery Earned:** Over the decades, Rögnvaldr has become more than merely an entertainer—he has become an unofficial advisor, a subtle intelligence gatherer, and a keeper of secrets. Nobles and merchants alike seek his company, knowing that a jester can speak truths that courtiers dare not voice. His ability to navigate the treacherous waters of court politics has granted him security and influence unusual for someone of his class. Yet this very success has bred a deep cynicism; he has seen too much deception, too much cruelty masked by silk, too many promises broken for personal gain.
 
-## Psyche
+### Psyche
 
-### Personality
+#### Personality
 
 Rögnvaldr is fundamentally paradoxical—seemingly simple yet profoundly complex, openly entertaining yet secretly strategic. His humor is not mere frivolity but a carefully crafted weapon, used to deflate the pompous, expose hypocrisy, and occasionally (rarely) to offer genuine comfort to the broken. His wit can be cutting, sometimes cruelty masked as comedy, though he stops short of making enemies of the powerful or truly wounding the innocent.
 
 Beneath the performance, he is a somewhat lonely figure. His constant ability to read people and understand them perfectly has made genuine friendship nearly impossible—there is always a performance, always a calculation, even with those he genuinely cares for. He has learned to be content with affection based on his entertainment value rather than his authentic self, though this acceptance has engendered a quiet melancholy that occasionally surfaces when he thinks no one is watching.
 
-### Motivation
+#### Motivation
 
 Rögnvaldr is motivated by two seemingly contradictory drives: the desire to be remembered and remembered as genuine. Despite his cynicism, he wishes to believe that beneath all the folly and pretense, some authentic connection with his audience remains possible. He also seeks to maintain his current comfortable position—court jester is perhaps the only role in which his particular skills find legitimate and remunerative expression. Additionally, he is driven by curiosity about human nature and an almost compulsive need to understand the hidden motivations behind people's actions. Finally, somewhere beneath the worldliness, he harbors a fading hope that perhaps his subtle mockery of corruption might occasionally inspire genuine change.
 
-### Strengths
+#### Strengths
 
 - **Master Performer:** His theatrics skill (17 base, 5 focuses) is nearly unsurpassed, allowing him to command attention, shift emotional tone, and make audiences believe practically anything presented with sufficient conviction and style.
 - **Consummate Communicator:** His eloquence (16) combined with exceptional guile (16 base, 5 focuses) makes him virtually unable to be pinned down or contradicted; he can argue any position and make listeners doubt their own reasoning.
@@ -654,7 +653,7 @@ Rögnvaldr is motivated by two seemingly contradictory drives: the desire to be 
 - **Physical Artistry:** His dexterity (15), acrobatics (13, 4 focuses), and dancing (15, 2 focuses) make him capable of physical comedy and genuine acrobatic performance, surprising those who assume jesters are merely verbal performers.
 - **Weapon of Wit:** His command of discourse (14) and creativity (17) allow him to frame arguments in ways that make opposition seem foolish, making him surprisingly effective in intellectual debates.
 
-### Weaknesses
+#### Weaknesses
 
 - **Emotional Distance:** His cynicism and constant performance create barriers to genuine emotional connection; he struggles to maintain relationships beyond his usefulness as an entertainer.
 - **Strength and Durability Deficit:** His low strength (12) and modest endurance (14) mean he is vulnerable in genuine danger. His acrobatics allow him to evade, but not to withstand direct confrontation.
@@ -663,26 +662,26 @@ Rögnvaldr is motivated by two seemingly contradictory drives: the desire to be 
 - **Dependency on Audience:** His performance skills are diminished in isolation; he is less effective when alone or with small, unresponsive groups who do not feed his energy.
 - **Aging Jester Syndrome:** At fifty, he is acutely aware that fewer jokes succeed, that the court grows younger, that his particular brand of humor may be becoming dated. This awareness sometimes manifests as desperation disguised as excessive humor.
 
-## Social
+### Social
 
-### Patrons
+#### Patrons
 
 - **King Brenneth II:** The current monarch of Targud, who values Rögnvaldr's ability to speak uncomfortable truths while maintaining plausible deniability. Brenneth has publicly denied ever taking the jester's advice, but privately relies on his insights.
 - **Lady Margot Whitewood, Court Mistress:** The wife of a powerful noble and one of the few people with whom Rögnvaldr maintains something approaching genuine friendship; she values his honesty disguised as mockery.
 - **The Innkeeper Styrbjorn:** His oldest friend, who manages the _Silver Wyvern_ tavern where Rögnvaldr performs regularly and keeps a private room where the jester can remove his mask, though he rarely does.
 
-### Enemies
+#### Enemies
 
 - **Lord Castor Thorne, Duke of the Southern Marches:** A nobleman whose secret ambitions Rögnvaldr publicly mocked through elaborate theatrical sequences that were obviously directed at him. Thorne has sworn vengeance, though he dare not move openly against the king's favored jester.
 - **The Puritanical Faction:** Religious conservatives who believe jesters are agents of demoralization and have lobbied the church to declare his performances blasphemous. While they lack the power to end his position, they make his life genuinely difficult.
 - **His Own Reflection:** The tragic figure Rögnvaldr most opposes is himself—his cynicism, his fear of genuine connection, and his slowly weakening ability to maintain the performance that defines him.
 
-### Affiliations
+#### Affiliations
 
 - **None formal:** Rögnvaldr maintains independence from official guilds and organizations, preferring to be beholden to no one but the king.
 - **The Performers' Underground (unofficial):** He maintains loose connections with other entertainers, acrobats, and performers throughout the realm, creating an informal intelligence network.
 
-## Plot Hooks
+### Plot Hooks
 
 1. **The Jester's Final Riddle:** An elderly jester from a foreign court arrives in Targud, claiming to have known Rögnvaldr's father (a claim Rögnvaldr has long denied). The visitor claims to possess information about Rögnvaldr's origins that would fundamentally change his understanding of himself. Rögnvaldr finds himself unable to dismiss the claim through humor, and recruits adventurers to investigate the truth. What begins as a search for biographical information transforms into a quest touching on magic, prophecy, and the possibility that Rögnvaldr's entire life has been shaped by forces beyond his understanding.
 

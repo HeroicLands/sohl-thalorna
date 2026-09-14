@@ -11,8 +11,6 @@ img: icons/takheperu/pantheon/hapi.svg
 packFolder: deitieskemetian
 ---
 
-# Hâpi
-
 _The Golden Reveler — a golden amphora overflowing with wheat and coins._
 
 Hâpi is abundance: the fertility of the fields, the prosperity of traders, and the joy of those who

@@ -18,8 +18,6 @@ shortcode: haldrvik
 packFolder: vithgard
 ---
 
-# Haldrvík
-
 ## Overview
 
 _To be written._

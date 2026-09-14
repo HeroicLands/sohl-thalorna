@@ -8,7 +8,7 @@ shortcode: ancstrwrshp
 packFolder: celestialorder
 ---
 
-# Ancestor Worship in Tānvür
+## Ancestor Worship in Tānvür
 
 In the [[affiliation-tanvurempr|Empire of Tānvür]], ancestor worship is not reverence for the dead. It is the **maintenance of a spiritual supply chain**.
 
@@ -18,7 +18,7 @@ This is not an afterlife of reward or punishment in the Western sense. It is a _
 
 ---
 
-## The Spiritual Economy
+### The Spiritual Economy
 
 This creates a **self-reinforcing spiritual aristocracy** that is one of the most distinctive features of Tānvüri culture.
 
@@ -30,7 +30,7 @@ The Tānvüri do not see this as unjust. They see it as the natural function of 
 
 ---
 
-## The Ancestor Shrine
+### The Ancestor Shrine
 
 Every household in Tānvür, from the imperial palace to the humblest peasant dwelling, maintains an **ancestor shrine** — a physical interface with the spiritual bureaucracy. The shrine contains **ancestor tablets** (carved wooden plaques bearing the names and death-dates of deceased family members), offerings of food and spirit money, and a small brazier for burning spirit documents.
 
@@ -40,7 +40,7 @@ The ancestor tablets are not memorial objects. The Tānvüri believe each tablet
 
 ---
 
-## Obligations Flow Both Ways
+### Obligations Flow Both Ways
 
 Western visitors often mistake ancestor worship for sentimentality — the fond remembrance of departed loved ones. In Tānvür, it is nothing of the sort. The relationship between the living and the dead is one of **mutual obligation**, and the obligations run in _both directions_.
 
@@ -54,7 +54,7 @@ This means that in Tānvür, **the dead govern the living**. Not metaphorically.
 
 ---
 
-## The Lëigürt: Spirit Masters
+### The Lëigürt: Spirit Masters
 
 The **Lëigürt** (Spirit Masters) are shamanic practitioners who emerge from within [[lore-nokvur|Nōkvür]] communities, possessing the ability to commune directly with the spirit realm. They are the primary interface between living families and their ancestor spirits, serving as translators, mediators, and spiritual clerks.
 
@@ -64,13 +64,13 @@ Though technically of the [[lore-nokvur|Nōkvür]] caste, Lëigürt command prof
 
 ---
 
-## Elder Race Traditions
+### Elder Race Traditions
 
 The [[lore-flksinale|Sinalë]] and [[lore-flkkhazar|Khazári]] within the empire do not practice ancestor worship in the Tānvüri form. The Sinalë honor their dead through rituals tied to nature — planting trees and tending sacred groves in private ceremonies that bear no resemblance to the bureaucratic transaction of the Celestial Order. The Khazári revere their ancestors through the crafting of memorials and the preservation of ancient tools and weapons, which are considered sacred. Both traditions remain entirely separate from human practice, and the Tānvüri bureaucratic framework has no mechanism for incorporating them — a theological loose end that the [[lore-tanthei|Tānthëi]] prefer not to examine too closely.
 
 ---
 
-## Festivals of the Dead
+### Festivals of the Dead
 
 Several annual festivals center on the spiritual economy and the maintenance of ancestral accounts.
 
@@ -80,7 +80,7 @@ See [[lore-clndrstrlgy|Calendar and Astrology]] for the full festival calendar.
 
 ---
 
-## See Also
+### See Also
 
 - [[lore-nokvur|Nōkvür]] — The caste most closely tied to ancestor worship practices
 - [[lore-phlsphylvr|Philosophy of Lëivōr]] — The cosmological framework of Lëi and the spirit world

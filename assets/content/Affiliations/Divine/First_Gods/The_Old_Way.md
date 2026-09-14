@@ -113,12 +113,8 @@ data:
     - firstgods
   relations:
     firstgods: aligned
-sohl:
-  templatePriority: null
 packFolder: pantheonsfirstgods
 ---
-
-# The Old Way
 
 - **Pantheon:** [[affiliation-firstgods|The First Gods]]
 - **Principal adherents:** [[lore-aelendnppl|Áelendan]]

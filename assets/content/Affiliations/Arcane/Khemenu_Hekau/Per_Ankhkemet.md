@@ -76,8 +76,6 @@ data:
     iset: aligned
     hapi: aligned
     deshrut: aligned
-sohl:
-  templatePriority: null
 name:
   full: Per-Ankh'kemet
   aliases:
@@ -89,7 +87,7 @@ banner: banners/ta-kheperu-banner.webp
 packFolder: khemenuhekau
 ---
 
-# Per-Ankh'kemet (House of the Black Land)
+## Per-Ankh'kemet (House of the Black Land)
 
 The House of the Black Land holds the domain of the flood and what the flood makes possible:
 water, growth, the mending of bodies, and abundance. It is the most publicly useful House and the
@@ -102,7 +100,7 @@ eight into which the [[lore-khemenuhekau|Khemenu Hekau]] partitions the Dýnaris
 the cosmic order rather than by substance, which is why no portion of it corresponds to any single
 Eídma of the western [[lore-hexhodai|Héx Hodäi]].
 
-## See Also
+### See Also
 
 - [[lore-khemenuhekau|Khemenu Hekau]] — the philosophy and the other seven domains
 - [[place-khemenu|Khemenu]] — where the Eight are taught

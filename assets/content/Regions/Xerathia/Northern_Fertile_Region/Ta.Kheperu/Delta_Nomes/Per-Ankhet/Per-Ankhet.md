@@ -19,8 +19,6 @@ shortcode: perankhet
 packFolder: perankhet
 ---
 
-# Per-Ankhet
-
 ## Overview
 
 Per-Ankhet is the great port of [[affiliation-empirtkhpr|The Empire of Ta'Kheperu]] and the capital of [[affiliation-nomeprnkht|its nome]] — the empire's principal sea-gate, set on the westernmost and deepest of the river's mouths where the channel runs broad enough to take the largest ships. It is the richest and most cosmopolitan city in the empire after the capital, a crowded sprawl of quays, bonded warehouses, counting-houses, and foreign quarters where the wealth of forty nomes is loaded out and the goods of the wider world brought in. The harbor never sleeps: grain, papyrus, linen, gold, and exquisite artisan-work go down to the ships, and timber, metals, spices, wine, and the luxuries of [[place-midhalnrgn|Mídhalión Region]] come up the quays, every cargo taxed at the Per-Aá's customs-house and every fortune banked through the [[affiliation-perhati|Pér-Háti]] houses of the waterfront.

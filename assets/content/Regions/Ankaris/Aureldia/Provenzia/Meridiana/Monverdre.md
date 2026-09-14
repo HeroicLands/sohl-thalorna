@@ -19,8 +19,6 @@ shortcode: monverdre
 packFolder: provenzia
 ---
 
-# Monvèrdre
-
 **Monvèrdre** — the green hill — sits in the uplands above the warm southern plain, at the point where
 the settled, cultivated south runs out and the [[place-thuravelhills|Thúravel Hills]] begin.
 

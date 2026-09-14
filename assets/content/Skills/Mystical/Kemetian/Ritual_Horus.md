@@ -10,8 +10,9 @@ name:
   full: "Ritual: Hórús"
   aliases:
     - Hórús, The Guiding Falcon
-sohl:
+data:
   templatePriority: null
+sohl:
   system:
     skillBaseFormula: "@wil, @rea"
     masteryLevelBase: 0

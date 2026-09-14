@@ -19,8 +19,6 @@ data:
 packFolder: adventures
 ---
 
-# The Ghosts of Tîravlen
-
 Lake Tîravel is haunted by the spirits of ancient warriors and a fallen king. The party must investigate the ghosts at the Blood-field of Tîravlen, where King Trédavar III fell centuries before the Founding, and uncover why the dead refuse to rest.
 
 ## Overview

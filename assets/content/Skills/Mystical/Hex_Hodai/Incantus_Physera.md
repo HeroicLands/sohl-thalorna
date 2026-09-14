@@ -8,8 +8,9 @@ img: images/affiliation/hex-hodai/physera.webp
 name:
   full: Incantus Physéra
   aliases: []
-sohl:
+data:
   templatePriority: null
+sohl:
   system:
     skillBaseFormula: "@aur, @rea"
     masteryLevelBase: 0

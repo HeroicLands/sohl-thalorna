@@ -42,7 +42,6 @@ data:
     complexion: null
     extra_features: []
 sohl:
-  templatePriority: null
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 11 } }
     - { model: sohl-sohl-attribute-end, system: { scoreBase: 12 } }
@@ -593,39 +592,39 @@ sohl:
 
 **Home:** [[place-perankhet|Per-Ankhet]]
 
-# Appearance {#appearance}
+## Appearance {#appearance}
 
 Sênta stands 5'10" tall with a medium build. She has tawny skin, jet black hair, and honey brown eyes. Her features include a slightly arched nose, a tapered chin, generous lips, honey brows.
 
-# Dossier {#dossier}
+## Dossier {#dossier}
 
-## Background
+### Background
 
-### Early Life
+#### Early Life
 
 Born to the Ta'Sereket clan in the fertile valleys of the Empire of [[affiliation-empirtkhpr|Ta'Kheperu]], Sênta grew up watching her mother's brothers manage trade caravans between distant cities. Where other children played at merchant games, she scrambled up cliffside trails and learned to read the land like her elders read ledgers. Her mother, a priestess of Íšét, blessed her daughter's natural agility with sacred oils before each journey, whispering prayers to the goddess of fertility and life's bounty for safe travels. This bond to the divine marked Sênta early, though she would never serve in any temple—her calling lay elsewhere.
 
-### Training and Path
+#### Training and Path
 
 At thirteen, Sênta convinced a weathered caravan master named **Thoren the Keen-Eyed** to hire her as a porter. Within two seasons, her exceptional climbing ability and innate awareness caught the attention of the caravan's head scout, **Meshara Arrowfinder**, a hard woman in her fifties who taught Sênta everything about reconnaissance, evasion, and survival in wild country. Under Meshara's tutelage, Sênta learned not only to move silently through scrubland and avoid bandits' notice, but to read wind patterns, predict weather, and understand the subtle signs of dangerous predators or hidden camps. She earned her first scout's blade at twenty, marking her official entry into the Mercenaries' Guild of Ta'Kheperu.
 
-### Current Situation
+#### Current Situation
 
 Now at twenty-eight, Sênta stands as one of the most sought-after caravan guards in the southern routes, known for her ability to spot trouble from miles away and her uncanny luck in avoiding catastrophe. She works regularly for **Merchant Prince Valren Stoneworth**, a shrewd trader whose caravans have never been successfully robbed under her watch. Recent seasons have seen her considering other opportunities—rumor speaks of bandits more organized and vicious than before, and Sênta wonders if the old ways of caravan guarding are becoming obsolete. She maintains her position with the Mercenaries' Guild while exploring opportunities to guide adventurers through treacherous terrain.
 
-## Psyche
+### Psyche
 
-### Personality
+#### Personality
 
 Sênta is a woman of few words, her communication style honed by years of silent reconnaissance and the constant need to listen to every sound around her. She possesses a sharp, wry humor that emerges in tense moments, using wit as both a stress relief and a way to put anxious caravan members at ease. Those who work with her appreciate her steadiness—in moments of danger, she never panics, instead becoming almost eerily calm as she assesses threats and charts escape routes. However, her recklessness is legendary among her peers; she will often take risks that more cautious scouts would avoid, believing that speed and daring can accomplish what patience cannot. She has little patience for bureaucratic details or lengthy explanations, preferring action to words.
 
 Despite her dangerous occupation, Sênta possesses a genuine warmth for those she trusts, and she is fiercely loyal to companions who prove themselves reliable. She respects courage and competence above all else, and looks down on cowardice with barely concealed disdain. Her relationship with authority is complicated—she accepts the structure of the Mercenaries' Guild because it provides work, but she chafes at unnecessary hierarchy and rules that seem designed more for comfort than survival.
 
-### Motivation
+#### Motivation
 
 Sênta seeks to test herself against increasingly difficult challenges, driven by an unspoken fear that she will one day become predictable, soft, or obsolete. The thrill of a successful scouting mission, the moment when her preparations prevent a disaster, and the quiet satisfaction of bringing a dangerous caravan safely through hostile territory all feed a deeper hunger: the need to know that she is worthy, that her skills matter, that she has not wasted the gifts the goddess of fertility blessed her with. Beyond personal achievement, Sênta harbors a protective instinct toward the merchants and common folk she escorts, seeing in their vulnerability a responsibility she takes seriously. She dreams of eventually establishing her own network of scouts and training the next generation, leaving a legacy that will outlast her active years.
 
-### Strengths
+#### Strengths
 
 - **Exceptional Perception and Awareness**: Sênta's keen green eyes and heightened senses allow her to perceive threats and opportunities long before others. Her awareness score of 14 and perception of 15 make her invaluable at detecting ambushes, hidden dangers, or suspicious movements.
 
@@ -637,7 +636,7 @@ Sênta seeks to test herself against increasingly difficult challenges, driven b
 
 - **Swift Initiative and Tactical Response**: Her dexterity of 17 and agility of 16 allow her to act quickly in chaotic situations, position herself advantageously, and execute rapid tactical adjustments during combat.
 
-### Weaknesses
+#### Weaknesses
 
 - **Recklessness and Overconfidence**: Sênta's tendency to rush into dangerous situations without fully evaluating all risks has gotten her companions injured. She sometimes assumes her superior skills can overcome any obstacle, leading to close calls that could have been fatal.
 
@@ -649,9 +648,9 @@ Sênta seeks to test herself against increasingly difficult challenges, driven b
 
 - **Physical Limitations**: Though athletic and agile, Sênta's moderate strength (11) means she cannot match heavily armored warriors in raw power. Prolonged physical contests against superior strength can tire her quickly.
 
-## Social
+### Social
 
-### Patrons
+#### Patrons
 
 - **Merchant Prince Valren Stoneworth**: A shrewd and successful trader who employs Sênta as his primary scout and caravan guard. He pays extremely well and respects her independence, making him her most consistent patron. Stoneworth trusts Sênta's judgment implicitly and often acts on her tactical recommendations.
 
@@ -659,19 +658,19 @@ Sênta seeks to test herself against increasingly difficult challenges, driven b
 
 - **The Mercenaries' Guild of Ta'Kheperu**: The formal institution that certifies her as a professional guard and provides a steady stream of work. Guild contacts occasionally request her specifically for high-value or dangerous routes.
 
-### Enemies
+#### Enemies
 
 - **The Crimson Jackals**: A bandit gang that has plagued the southern trade routes for three years. Their leader, **Kraed Hardscale**, harbors deep resentment toward Sênta after she foiled six separate robbery attempts, twice escaping their ambushes with minimal losses. Kraed has sworn a blood oath to kill her.
 
 - **Scout Malachar**: A rival scout employed by competing merchant houses who views Sênta as a threat to his own livelihood. He spreads rumors about her recklessness and has twice attempted to sabotage her caravans, though he lacks Sênta's skill and has always been caught.
 
-### Affiliations
+#### Affiliations
 
 - **Mercenaries' Guild of Ta'Kheperu**: The primary organization that regulates her work and provides access to jobs. She maintains good standing and is considered one of the guild's most valuable members.
 
 - **Stoneworth Trading Company**: Informal affiliation with Merchant Prince Stoneworth's extensive trade network, giving her access to supplies, safe houses, and information along the major trade routes.
 
-## Plot Hooks
+### Plot Hooks
 
 1. **The Mysterious Caravan**: A wealthy merchant from a distant land approaches Sênta with an unusual proposal—she must escort a sealed caravan across the most dangerous route in the region, but she is forbidden from knowing what cargo she protects or who the true employer is. The pay is extraordinary, enough to fund her dream of establishing a scout school, but rumors suggest the shipment contains something that the Empire itself would desperately want to intercept. As Sênta's caravans begin to encounter increasingly organized opposition, she realizes that someone has leaked her route to multiple factions competing for the mysterious cargo.
 

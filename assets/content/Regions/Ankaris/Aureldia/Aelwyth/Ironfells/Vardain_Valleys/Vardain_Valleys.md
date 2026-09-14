@@ -20,8 +20,6 @@ shortcode: vardainvalleys
 packFolder: aelwyth
 ---
 
-# The Vardain Valleys
-
 Beneath [[place-vorgald|Vorgald]], in the eastern heights of the [[place-ironfells|Ironfells]], a
 system of high valleys runs down toward the sea cliffs. They hold about **ten thousand [[lore-vardain|Vardain]]** — one town and eight villages — and they are not part of any Aelwythan
 kingdom.

@@ -41,7 +41,6 @@ data:
     complexion: bronzed
     extra_features: []
 sohl:
-  templatePriority: null
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 14 } }
     - { model: sohl-sohl-attribute-end, system: { scoreBase: 15 } }
@@ -551,11 +550,11 @@ sohl:
     defaultCombatGroup: null
 ---
 
-# Appearance {#appearance}
+## Appearance {#appearance}
 
 Thésia Delvánor is a 29-year-old woman who stands 5'10" tall and is of moderate build. She has a diamond face with prominent cheekbones, a smooth forehead, and a strong jaw that leads to a firm chin. Her almond-shaped amber eyes sit beneath heavy brows, lending her a measured gaze. A straight nose and narrow lips complete her features. She has medium-toned skin with a bronzed complexion. Her dark brown hair is braided and coiled at the nape. A notable feature is a crooked nose from an old break.
 
-# Dossier {#dossier}
+## Dossier {#dossier}
 
 Born in the Tarvénia region to a freeman family of Tarvénan heritage, Thésia Delvánor came into the world of the mercenary through a combination of circumstance and aptitude.
 
@@ -563,37 +562,37 @@ Seraphine is a skilled fighter and mercenary who has built a reputation for her 
 
 Now at 29 years of age, Thésia Delvánor has established herself as a known figure among the mercenarys of Tarvénia. Her reputation, for better or worse, precedes her in the circles where such things matter.
 
-## Psyche
+### Psyche
 
-### Personality
+#### Personality
 
 Can be too idealistic, struggles with ruthless clients.
 
-### Motivation
+#### Motivation
 
 Thésia is driven by the desire to master her craft and secure a stable future. The uncertainties of life in mercenary work keep her vigilant and adaptable.
 
-### Strengths
+#### Strengths
 
 Excellent combat skills, strong leadership abilities, empathetic.
 
-## Social
+### Social
 
 Thésia is affiliated with Local Mercenaries' Guild.
 
 As a Tarvénan mercenary, Thésia occupies a recognized social niche within Tarvénia society.
 
-## Companions
+### Companions
 
-### Patrons
+#### Patrons
 
 Thésia's primary patron is Local communities seeking protection or help against threats.. This relationship provides both opportunity and obligation.
 
-### Enemies
+#### Enemies
 
 Few; respected by those she helps but has made enemies among those who exploit the weak.
 
-## Plot Hooks
+### Plot Hooks
 
 1. **The Mercenary's Dilemma** — Thésia faces a professional crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Tarvénia.
 

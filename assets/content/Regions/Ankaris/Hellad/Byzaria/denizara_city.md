@@ -17,8 +17,6 @@ name:
 shortcode: denizara2
 ---
 
-# Denizara
-
 ## Overview
 
 _To be written._ Denizara is the capital and principal settlement of [[affiliation-denizara|Denizara]].

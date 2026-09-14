@@ -18,8 +18,6 @@ shortcode: estivren
 packFolder: provenzia
 ---
 
-# Estivren
-
 **Estivren** sits where the terraces give out and the hill pasture begins. It is the oldest settlement
 in [[place-zuravlenrgn|Zûravlen]] — its name belongs to an older stratum than Mercadaure or Blavéra —
 and it has never been much interested in peaches.

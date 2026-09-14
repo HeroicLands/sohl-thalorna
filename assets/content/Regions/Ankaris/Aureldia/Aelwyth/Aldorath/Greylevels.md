@@ -19,8 +19,6 @@ shortcode: greylevels
 packFolder: aelwyth
 ---
 
-# The Greylevels
-
 The **Greylevels** are the low, wet, tidal country where eastern Aldorath drains to the sea: flat
 grazing, drained marsh, winding channels and extensive mudflats, with [[place-greywater|Greywater]] at
 the head of navigation. Twenty-four thousand people live on them, most within sight of water.

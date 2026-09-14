@@ -10,6 +10,4 @@ shortcode: dktrvrthtdty
 packFolder: deitiestengvokvanlei
 ---
 
-# Dāktūr Vōrthāt
-
 TBD

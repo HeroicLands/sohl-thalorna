@@ -10,6 +10,4 @@ shortcode: vyalendradty
 packFolder: deitiesvarnaka
 ---
 
-# Vyālendra
-
 TBD

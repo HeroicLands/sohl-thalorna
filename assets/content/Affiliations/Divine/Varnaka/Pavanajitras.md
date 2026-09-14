@@ -57,12 +57,10 @@ data:
     - varakpnthn
   relations:
     varakpnthn: aligned
-sohl:
-  templatePriority: null
 packFolder: pantheonsvarnaka
 ---
 
-# Pavanajitras — The Wandering Wind
+## Pavanajitras — The Wandering Wind
 
 - **Domain:** Travel, trade routes, favourable winds, the safety of the road and the sea-lane
 - **Symbol:** A wind-filled sail
@@ -73,25 +71,25 @@ The **Pavanajitras** are the Wandering Wind — a collective of minor wind-spiri
 
 The devotion is simple, widely observed, and enormously popular. Few Vedyarans undertake a long journey without leaving a coin or a pinch of millet at a Pavanajitran shrine; fewer still arrive safely without offering one at the other end.
 
-## Aspects
+### Aspects
 
 The Pavanajitras are depicted as a loose company of slender, gauze-robed figures running barefoot over hills, their scarves streaming behind them in the wind. Individual members are rarely named; the iconography favours the group. Their colour is the pale blue of a clear-weather sky and the dusty gold of the road.
 
-## Sacred Objects
+### Sacred Objects
 
 - **Wind-medallion** — a small disc engraved with the wind-filled sail, carried by travellers and merchants
 - **Traveller's cord** — a knotted cord tied about the waist before a long journey, with each knot representing a pledge to leave an offering at a named shrine along the route
 - **Harbour-bell** — a small bronze bell sounded in the harbour-shrines when a ship of the faithful sets forth
 
-## Veneration
+### Veneration
 
 The Pavanajitras are honoured everywhere by gesture rather than at a fixed household shrine. Travellers touch the wind-medallion at each crossroads and each waterway, and leave a small offering — a coin, a pinch of millet, a scrap of cloth tied to a wayside tree — at any shrine they pass. A household sending one of its own on a long journey ties the traveller's cord with ceremonial knots the evening before departure, each knot naming a shrine the traveller pledges to honour along the route. On the return, the traveller unties the cord before the household hearth and names each shrine, confirming the offerings were made.
 
-## Ordeals for Favour
+### Ordeals for Favour
 
 - **The Pilgrim's Year** — an ordeal in which the devotee travels continuously for a year, visiting every Pavanajitran shrine within a named region and keeping a record of the offerings left.
 - **The Silent Caravan** — an ordeal in which the devotee accompanies a merchant caravan through its full season, speaking only the ceremonial words of the rites and serving the company as directed.
 
-## See Also
+### See Also
 
 - [[affiliation-varakpnthn|Varṇaka Pantheon]]

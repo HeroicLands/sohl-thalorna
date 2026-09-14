@@ -9,8 +9,9 @@ img: systems/sohl/assets/icons/other/tree.svg
 shortcode: call
 type: mysticalability
 subType: arcaneincantation
-sohl:
+data:
   templatePriority: null
+sohl:
   system:
     assocSkillCode: physera
     masteryLevelBase: 0

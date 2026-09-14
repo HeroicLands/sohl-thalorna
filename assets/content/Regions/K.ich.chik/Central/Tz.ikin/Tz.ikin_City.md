@@ -16,8 +16,6 @@ name:
 shortcode: tzikin2
 ---
 
-# Tz'ikin
-
 ## Overview
 
 _To be written._ Tz'ikin is the central city and seat of the [[affiliation-tzikin|Tz'ikin]] city-state.

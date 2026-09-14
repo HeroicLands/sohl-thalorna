@@ -40,7 +40,6 @@ data:
     complexion: null
     extra_features: []
 sohl:
-  templatePriority: null
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 10 } }
     - { model: sohl-sohl-attribute-end, system: { scoreBase: 11 } }
@@ -598,11 +597,11 @@ sohl:
     defaultCombatGroup: null
 ---
 
-# Appearance {#appearance}
+## Appearance {#appearance}
 
 Pallàvi stands 5'9" tall with a light build. She has tawny brown skin, dark black hair, and hazel eyes. Her features include a heart-shaped face, a broad nose, a soft jawline, tawny brows.
 
-# Dossier {#dossier}
+## Dossier {#dossier}
 
 **Early Life and Calling**
 
@@ -616,19 +615,19 @@ At eighteen, Pallàvi formally joined the Scribes' Guild and began her professio
 
 Pallàvi now stands at a fascinating inflection point in her career. She is recognized as one of the most talented scribes in Dharmapur, with commissions from the temples of Vyālendra, wealthy collectors, and even minor nobility. However, success has brought constraints. The guild's masters increasingly press her to teach the traditional techniques to younger scribes, time she resents because it takes her away from her own creative work. Additionally, her reputation for innovation has attracted the attention of scholars and philosophers who wish to commission ambitious projects: an illustrated encyclopedia of natural philosophy, a comprehensive genealogy of the noble houses rendered in elaborate illumination, even a proposed translation of an ancient religious text from a neighboring realm. These projects call to her artistic ambition, but completing any one of them would require abandoning her current commissions and potentially breaching her contracts with the guild.
 
-## Psyche
+### Psyche
 
-### Personality
+#### Personality
 
 Pallàvi is possessed of a restless, creative energy that makes sitting still for extended periods a form of meditation rather than constraint. Her mind moves rapidly from thought to thought, idea to idea, and she struggles with the linear, repetitive work that her craft also demands. She is intensely passionate about aesthetics and meaning, capable of passionate discussion about the philosophical implications of a letter's form or the emotional resonance of a color choice. To those who share her interests, she is engaging and warm. To those who find her preoccupations frivolous, she can seem scattered and dismissive.
 
 Pallàvi has a complicated relationship with authority. She respects genuine skill and artistic vision but chafes at arbitrary rules and tradition for its own sake. She is capable of meticulous technical discipline when working on a project that engages her intellectually, but she becomes almost rebellious when asked to work in styles she considers outdated or aesthetically inferior. This combination of passion and resistance to authority has earned her both devoted admirers and critics within the guild. She is loyal to those she cares about and has a gift for making others feel that their commissions—and by extension, their stories and ideas—matter deeply to her.
 
-### Motivation
+#### Motivation
 
 Pallàvi's primary drive is the integration of beauty and meaning. She believes that every text deserves to be rendered with the care and artistry that its ideas demand, and she sees her role as a scribe not as merely transcribing but as interpreting and honoring the ideas she transcribes. She seeks creative recognition—to be remembered not as a competent technician but as an innovative artist who expanded the possibilities of her craft. She is also motivated by a desire to help others communicate their most important thoughts clearly and beautifully. There is a spiritual dimension to her motivation: she worships Vyālendra, the creator god, and she sees her work as a form of prayer, a way of honoring the creative impulse that she believes all sentient beings possess.
 
-### Strengths
+#### Strengths
 
 - **Visionary Artistic Technique**: Pallàvi's extraordinary creativity (18) and drawing skill (17 across 5 levels) allow her to create calligraphic work that is simultaneously technically perfect and artistically innovative. Her work transcends mere transcription to become interpretation and art.
 
@@ -640,7 +639,7 @@ Pallàvi's primary drive is the integration of beauty and meaning. She believes 
 
 - **Intellectual Depth**: Her ability to understand and interpret the philosophical and literary content of texts she transcribes means her work goes beyond copying to genuine artistic interpretation.
 
-### Weaknesses
+#### Weaknesses
 
 - **Distraction and Inconsistent Focus**: Pallàvi's high creativity and quick-moving mind mean she struggles with monotonous work. Projects that require extensive repetition of the same task—copying multiple pages in a simple style, transcribing dry reference materials—bore her to the point of distraction, and her work quality can suffer.
 
@@ -652,9 +651,9 @@ Pallàvi's primary drive is the integration of beauty and meaning. She believes 
 
 - **Vulnerability to Impulsive Decision-Making**: Her low will (11) suggests she can be swayed by enthusiasm or passion, potentially leading her to accept projects she cannot complete or to act without adequate forethought.
 
-## Social
+### Social
 
-### Patrons
+#### Patrons
 
 - **The Temple of Vyālendra**: The priesthood of her patron deity regularly commissions her to create sacred texts and illuminated prayers. They trust her spiritual understanding and have made her something of an unofficial artist-in-residence.
 
@@ -664,15 +663,15 @@ Pallàvi's primary drive is the integration of beauty and meaning. She believes 
 
 - **The Guild of Scribes**: The guild leadership, despite their sometimes fraught relationship with her, regularly commissions official documents, certificates of apprenticeship, and formal records that require her distinctive touch.
 
-### Enemies
+#### Enemies
 
 - **Master Yajña, Conservative Guild Elder**: A powerful senior figure in the Scribes' Guild, Yajña represents the traditionalist faction. He views Pallàvi's innovations as disrespectful to the classical traditions and has begun to publicly criticize her work as "frivolous decoration" that obscures rather than serves the text. He has subtle support from other conservatives, and there is quiet conflict over whether the guild should encourage innovation or preserve traditional forms.
 
-### Affiliations
+#### Affiliations
 
 - **The Scribes' Guild of Dharmapur**: Pallàvi is a full member of the guild and holds certain official responsibilities, though her relationship with the organization is complex due to her innovative approaches and the conservative faction's criticism.
 
-## Plot Hooks
+### Plot Hooks
 
 1. **The Forbidden Text**: A mysterious scholar approaches Pallàvi with an extraordinary commission: to create an illuminated copy of a text that has been suppressed by religious authorities. The text is a philosophical work that challenges certain orthodox interpretations of Vyālendra's nature and teachings. The scholar claims that only Pallàvi's combination of artistic vision and spiritual understanding can create a version worthy of the ideas. The commission is illegal, dangerous—possession of the text could result in censure by the priesthood—and lucrative beyond measure. Pallàvi becomes involved in a complex moral and political situation involving religious authority, freedom of thought, and the ethics of her craft. The party might help her acquire the original text, protect her from religious authorities who learn of the commission, negotiate with the temple to find a compromise that allows philosophical discussion, or help her decide whether artistic principle justifies the legal and spiritual risk.
 

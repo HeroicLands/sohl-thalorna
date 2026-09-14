@@ -86,11 +86,7 @@ data:
   lore: []
   parents: []
   relations: {}
-sohl:
-  templatePriority: null
 ---
-
-# The Warrior's Circle of the Dunhara Tribes
 
 _Dunhari: Tîgh'Bahârân — "Circle of the Mighty"_
 

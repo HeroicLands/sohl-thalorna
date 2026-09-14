@@ -9,8 +9,9 @@ img: systems/sohl/assets/icons/game-icons/badges/water.svg
 shortcode: srfcgld
 type: mysticalability
 subType: arcaneincantation
-sohl:
+data:
   templatePriority: null
+sohl:
   system:
     assocSkillCode: hydalis
     masteryLevelBase: 0

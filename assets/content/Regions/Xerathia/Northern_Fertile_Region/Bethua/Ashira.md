@@ -18,8 +18,6 @@ shortcode: ashira
 packFolder: bethua
 ---
 
-# Ashíra
-
 ## Overview
 
 _To be written._

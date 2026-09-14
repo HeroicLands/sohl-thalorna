@@ -14,8 +14,6 @@ shortcode: silvrfrsts
 packFolder: elavendre
 ---
 
-# The Silver Forests
-
 - **Type:** Ancient fae-touched woodland
 - **Region:** Interior [[place-elavendre|Élavendre]]
 - **Guardians:** [[affiliation-alndnwrdns|Áelendan Wardens]]

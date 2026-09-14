@@ -11,8 +11,9 @@ name:
   full: "Kivuli cha Msitu Spirit Power"
   aliases:
     - The Shadow of the Forest
-sohl:
+data:
   templatePriority: null
+sohl:
   system:
     skillBaseFormula: "@aur, @wil"
     masteryLevelBase: 0

@@ -83,11 +83,7 @@ data:
   lore: []
   parents: []
   relations: {}
-sohl:
-  templatePriority: null
 ---
-
-# The Grove Council
 
 - **Type:** Druidic conclave
 - **Region:** [[place-elavendre|Élavendre]], particularly the deep forests and the foothills of the [[place-drenavrspn|Drenavar Spine]]

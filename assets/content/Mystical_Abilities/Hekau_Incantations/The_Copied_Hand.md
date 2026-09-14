@@ -10,8 +10,9 @@ shortcode: cpdhnd
 img: icons/takheperu/khemenu-hekau/rensesh.svg
 type: mysticalability
 subType: arcaneincantation
-sohl:
+data:
   templatePriority: null
+sohl:
   system:
     assocSkillCode: rensesh
     masteryLevelBase: 0

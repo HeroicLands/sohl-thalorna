@@ -10,15 +10,14 @@ name:
   aliases: []
 shortcode: crwnwyrm
 packFolder: nordlands
-sohl:
+data:
   templatePriority: null
+sohl:
   system:
     weightBase: 3
     valueBase: 0
     durabilityBase: 15
 ---
-
-# The Crown of the Wyrm
 
 One of the **three regalia** that Gróa's visions name as necessary to seal away
 [[being-njorven|Njörven]], alongside the [[miscgear-hornnjordur|Horn of Njördur]] and the

@@ -10,8 +10,6 @@ shortcode: expelledrnk
 description: "Put out of a body that had received them, with the standing it gave revoked."
 ---
 
-# Expelled
-
 Put out of a body that had received them, with the standing it gave revoked.
 
 ## Obligations and Rights

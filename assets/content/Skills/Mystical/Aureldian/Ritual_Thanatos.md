@@ -11,8 +11,9 @@ name:
   aliases:
     - Thánatos
     - The Silent Judge
-sohl:
+data:
   templatePriority: null
+sohl:
   system:
     skillBaseFormula: "@wil, @rea"
     masteryLevelBase: 0

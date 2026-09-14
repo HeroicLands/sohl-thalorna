@@ -14,8 +14,6 @@ shortcode: tanwenspr
 packFolder: lorespiritsaelendan
 ---
 
-# Tanwen, the Hearth of Eshálosha
-
 - **Kind:** Hearth-kin, of [[lore-thekindred|the Kindred]]
 - **Seat:** the great ceremonial hall at [[place-eshalshldg|Eshálosha Lodge]]
 - **Territory:** the hall, its fire, and everyone under its roof

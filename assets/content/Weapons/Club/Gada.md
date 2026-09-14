@@ -7,10 +7,11 @@ description: "Heavy spherical or flanged mace-head; champion's crushing blow."
 img: systems/sohl/assets/icons/game-icons/badges/club.svg
 shortcode: gada
 type: weapongear
+data:
+  templatePriority: null
 sohl:
   kbcat: club
   weaponType: Club
-  templatePriority: null
   system:
     weightBase: 8
     valueBase: 120

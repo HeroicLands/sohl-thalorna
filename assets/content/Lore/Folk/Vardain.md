@@ -12,8 +12,6 @@ shortcode: vardain
 packFolder: aelwyth
 ---
 
-# The Vardain
-
 The **Vardain** are an Aelwythan people of the north-east, and their history divides sharply into what
 they were and what they are.
 

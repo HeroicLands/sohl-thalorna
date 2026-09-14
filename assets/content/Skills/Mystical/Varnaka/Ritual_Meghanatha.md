@@ -11,8 +11,9 @@ name:
     - Meghanātha
     - Meghanatha
     - Lord of Thunder
-sohl:
+data:
   templatePriority: null
+sohl:
   system:
     skillBaseFormula: "@wil, @rea"
     masteryLevelBase: 0

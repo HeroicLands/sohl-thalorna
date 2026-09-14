@@ -9,8 +9,9 @@ name:
   full: "Hekau: Ankh'kemet"
   aliases:
     - Per-Ankh'kemet
-sohl:
+data:
   templatePriority: null
+sohl:
   system:
     skillBaseFormula: "@aur, @rea"
     masteryLevelBase: 0

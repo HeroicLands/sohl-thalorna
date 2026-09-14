@@ -10,6 +10,4 @@ shortcode: vngdkzhtvrdty
 packFolder: deitiestengvokvanlei
 ---
 
-# Vëngdāk Zhütvōr
-
 TBD

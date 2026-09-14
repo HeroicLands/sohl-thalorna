@@ -12,8 +12,9 @@ name:
     - Trimurti Sampradaya
     - Tradition of the Three Forms
     - Trimūrti Tradition
-sohl:
+data:
   templatePriority: null
+sohl:
   system:
     skillBaseFormula: "@wil, @rea"
     masteryLevelBase: 0

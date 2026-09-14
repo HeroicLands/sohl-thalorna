@@ -70,8 +70,6 @@ data:
     - arldnpnthn
   relations:
     arldnpnthn: aligned
-sohl:
-  templatePriority: null
 name:
   full: Faith of Menerva
   aliases:

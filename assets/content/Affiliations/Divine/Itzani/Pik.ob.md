@@ -102,8 +102,6 @@ data:
     tzumaqkalanil: nemesis
     pikultzumaq: nemesis
     piqalkulqat: rival
-sohl:
-  templatePriority: null
 name:
   full: "Pik'ob"
   aliases:

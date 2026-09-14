@@ -41,7 +41,6 @@ data:
     complexion: fair
     extra_features: []
 sohl:
-  templatePriority: null
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 12 } }
     - { model: sohl-sohl-attribute-end, system: { scoreBase: 14 } }
@@ -551,11 +550,11 @@ sohl:
     defaultCombatGroup: null
 ---
 
-# Appearance {#appearance}
+## Appearance {#appearance}
 
 Féthar Óthral is a 40-year-old man who stands 6'1" tall and is of moderate build. He has an angular face with angular cheekbones, a wide forehead, and a rounded jaw that leads to a firm chin. His round green eyes sit beneath arched brows, lending him a candid gaze. A narrow nose and full lips complete his features. He has medium-toned skin with a fair complexion. His chestnut hair is tied in a low tail.
 
-# Dossier {#dossier}
+## Dossier {#dossier}
 
 Born in the Élavendre region to a freeman family of Élavendri heritage, Féthar Óthral came into the world of the potter through a combination of circumstance and aptitude.
 
@@ -563,37 +562,37 @@ Jorin is a seasoned potter known for his expertise in creating sturdy stoneware.
 
 Now at 40 years of age, Féthar Óthral has established himself as a known figure among the potters of Élavendre. His reputation, for better or worse, precedes him in the circles where such things matter.
 
-## Psyche
+### Psyche
 
-### Personality
+#### Personality
 
 Can be resistant to new techniques, struggles with modern design trends.
 
-### Motivation
+#### Motivation
 
 Féthar is driven by the desire to master his craft and secure a stable future. The uncertainties of life in potter work keep him vigilant and adaptable.
 
-### Strengths
+#### Strengths
 
 Experienced, skilled in crafting durable pottery, good mentor.
 
-## Social
+### Social
 
 Féthar is affiliated with Local Potters' Guild.
 
 As a Élavendri potter, Féthar occupies a recognized social niche within Élavendre society.
 
-## Companions
+### Companions
 
-### Patrons
+#### Patrons
 
 Féthar's primary patron is Local families and restaurants seeking durable pottery.. This relationship provides both opportunity and obligation.
 
-### Enemies
+#### Enemies
 
 Few; generally respected but sometimes seen as traditionalist.
 
-## Plot Hooks
+### Plot Hooks
 
 1. **The Potter's Dilemma** — Féthar faces a professional crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Élavendre.
 

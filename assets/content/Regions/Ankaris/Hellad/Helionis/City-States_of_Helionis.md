@@ -119,8 +119,6 @@ data:
     panepistmm: aligned
     ordoarcanis: unaligned
     vylarinmpr: aligned
-sohl:
-  templatePriority: null
 packFolder: helionis
 ---
 

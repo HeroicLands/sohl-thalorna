@@ -41,7 +41,6 @@ data:
     complexion: weathered
     extra_features: []
 sohl:
-  templatePriority: null
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 10 } }
     - { model: sohl-sohl-attribute-end, system: { scoreBase: 11 } }
@@ -549,11 +548,11 @@ sohl:
     defaultCombatGroup: null
 ---
 
-# Appearance {#appearance}
+## Appearance {#appearance}
 
 Ríthara Dómivar is a 22-year-old woman who stands 5'8" tall and is of moderate build. She has a long face with defined cheekbones, a narrow forehead, and an angular jaw that leads to a strong chin. Her large dark brown eyes sit beneath thick brows, lending her an expressive gaze. A prominent nose and narrow lips complete her features. She has medium-toned skin with a weathered complexion. Her black hair is pulled back tightly from her face.
 
-# Dossier {#dossier}
+## Dossier {#dossier}
 
 Born in the Tarvénia region to a freeman family of Tarvénan heritage, Ríthara Dómivar came into the world of the common seaman through a combination of circumstance and aptitude.
 
@@ -561,37 +560,37 @@ Lira is a young and spirited seaman who dreams of adventure on the open sea. She
 
 Now at 22 years of age, Ríthara Dómivar has established herself as a known figure among the common seamans of Tarvénia. Her reputation, for better or worse, precedes her in the circles where such things matter.
 
-## Psyche
+### Psyche
 
-### Personality
+#### Personality
 
 Can be naive, struggles with physical tasks.
 
-### Motivation
+#### Motivation
 
 Ríthara is driven by the desire to master her craft and secure a stable future. The uncertainties of life in common seaman work keep her vigilant and adaptable.
 
-### Strengths
+#### Strengths
 
 Quick learner, enthusiastic, good with navigation.
 
-## Social
+### Social
 
 Ríthara is affiliated with None; works as a hired hand..
 
 As a Tarvénan common seaman, Ríthara occupies a recognized social niche within Tarvénia society.
 
-## Companions
+### Companions
 
-### Patrons
+#### Patrons
 
 Ríthara's primary patron is Ship captains and crew members who appreciate her spirit.. This relationship provides both opportunity and obligation.
 
-### Enemies
+#### Enemies
 
 Few; generally well-liked, though some may underestimate her abilities.
 
-## Plot Hooks
+### Plot Hooks
 
 1. **The Common Seaman's Dilemma** — Ríthara faces a professional crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Tarvénia.
 

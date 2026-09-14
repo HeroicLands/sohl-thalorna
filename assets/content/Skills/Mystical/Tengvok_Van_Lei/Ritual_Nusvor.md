@@ -10,8 +10,9 @@ name:
   aliases:
     - Nüsvōr
     - The Minister of Dissolution
-sohl:
+data:
   templatePriority: null
+sohl:
   system:
     skillBaseFormula: "@wil, @rea"
     masteryLevelBase: 0

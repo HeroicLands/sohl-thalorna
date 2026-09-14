@@ -22,11 +22,7 @@ data:
     - kingdmdnvr
   gender: male
   species: null
-sohl:
-  templatePriority: null
 ---
-
-# Baridan Aléndavel
 
 **Role.** Manages the household and logistics of the embassy.
 

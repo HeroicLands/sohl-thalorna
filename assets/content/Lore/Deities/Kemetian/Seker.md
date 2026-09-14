@@ -11,8 +11,6 @@ img: icons/takheperu/pantheon/seker.svg
 packFolder: deitieskemetian
 ---
 
-# Sēker
-
 _Lord of Silent Passage — a black hawk with gold-tipped wings._
 
 Sēker guides souls through the underworld, keeps the tombs, and guards the boundary between the

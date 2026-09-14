@@ -39,7 +39,6 @@ data:
     complexion: tanned
     extra_features: []
 sohl:
-  templatePriority: null
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 12 } }
     - { model: sohl-sohl-attribute-end, system: { scoreBase: 14 } }
@@ -595,37 +594,37 @@ sohl:
     defaultCombatGroup: null
 ---
 
-# Appearance {#appearance}
+## Appearance {#appearance}
 
 Brânalenîs stands 5'10" tall with a medium build. She has light tanned skin, black hair, and green eyes. Her features include a narrow face, a strong nose, a sharp jawline, a wide mouth, thick dark brows, high cheeks.
 
 Her black hair, typically worn in neat plaited pigtails, frames a face of striking symmetry—high cheekbones, a strong jaw, and green eyes that seem to perceive far more than they should. Those eyes are perpetually alert, reflexively scanning her surroundings with the paranoia-tinged awareness of one accustomed to sudden danger. At twenty-seven, she occupies an unusual position: too young to carry the gravitas of the truly experienced, yet far more competent than her youth would suggest, creating an ongoing tension in how she is perceived by others.
 
-# Dossier {#dossier}
+## Dossier {#dossier}
 
-## Background
+### Background
 
-### Daughter of the Sea
+#### Daughter of the Sea
 
 Brânalenîs was born in the great port city of Alyssa in the Empire of Vylaria, to a family of modest maritime connection—her father was a rigger, her mother a merchant's assistant. The sea was not merely present in her childhood; it was the fundamental substrate of existence. She spent more time on the docks than in any settled home, learning the language of ships and sailors before she learned the proper speech of nobility.
 
 At age six, she was effectively adopted by the crew of a merchant vessel, the _Seaflower_, whose captain—a gruff but fair-minded woman named Keira Saltwind—recognized in the young girl an unusual combination of fearlessness, quick intelligence, and physical capability. From that point forward, her childhood was structured by the rhythms of maritime commerce rather than conventional education.
 
-### The Rising Sailor
+#### The Rising Sailor
 
 Under Captain Saltwind's exacting tutelage, Brânalenîs learned every aspect of seamanship. She started as a general deckhand, performing the most menial tasks, but her quick mastery of rope work and her unusual fearlessness when climbing rigging marked her for advancement. By age sixteen, she was effectively the ship's bosun, managing crew assignments and rigging repairs. By her early twenties, she was being consulted on navigation and tactical decisions regarding course and cargo handling.
 
 Yet despite her obvious merit and growing responsibility, Brânalenîs never received formal advancement in rank, a fact that grated on her even as she understood the practical reasons. The merchant marine hierarchy was deeply conservative, and a woman—particularly a young woman of non-noble birth—advancing too visibly would create resentment and resistance throughout the maritime community. Captain Saltwind protected her protégée by keeping her advancement informal, unofficial, and therefore less threatening to the entrenched male hierarchy.
 
-### The Uncertain Present
+#### The Uncertain Present
 
 Captain Saltwind died three years ago—not at sea, but of a wasting illness in Alyssa, leaving Brânalenîs bereft and, for the first time in her adult life, unanchored. She has spent the intervening years working as a hired hand aboard various vessels, trading on her considerable reputation and skills but never again finding the kind of mentorship or genuine partnership she had with Saltwind. The competitive nature that was an asset when working toward advancement within a hierarchy has become something more complicated in her current peripatetic existence—she competes for every position, guards every advantage, and trusts no one in the way she once trusted her captain.
 
 Her status as an exceptional sailor has created an odd isolation. She is respected, sought-after even, but never quite belonged to. Most crews view her as a temporary specialist rather than a genuine member of their community.
 
-## Psyche
+### Psyche
 
-### Personality
+#### Personality
 
 Brânalenîs combines the easy confidence of a natural athlete with an underlying wariness that speaks to emotional wounds not yet fully healed. In professional contexts—sailing, rigging, navigation—she is almost transcendently competent, her movements economical and assured, her decisions rapid and sound. In social contexts, she is considerably more complicated.
 
@@ -633,13 +632,13 @@ She is genuinely competitive, driven by a need to prove herself superior in ever
 
 Beneath the competence and the competitive drive lies a surprisingly idealistic young woman who dreams of things beyond the practical reality of her existence—genuine partnership rather than transactional hiring, communities rather than crews, safety rather than constant testing. Yet she doesn't know how to bridge that gap.
 
-### Motivation
+#### Motivation
 
 Brânalenîs is driven by multiple, sometimes contradictory forces. Fundamentally, she seeks genuine belonging—a place where her extraordinary competence is recognized not as something to be exploited but as a valued contribution to something larger than herself. She seeks also to honor the memory of Captain Saltwind by becoming as great a sailor as possible, and by potentially using her position to open doors for other young women with maritime ambitions.
 
 Yet in the immediate sense, she is driven by competition and the relentless need to prove herself. Each sailing contract is an opportunity to demonstrate superiority; each challenge is an invitation to show that she is not merely equal but superior to every other sailor in the crew. This creates an exhausting pattern where she cannot rest or settle because doing so feels like admitting defeat.
 
-### Strengths
+#### Strengths
 
 - **Exceptional Seamanship**: Brânalenîs' understanding of sailing, navigation, and maritime operations is genuinely world-class. She can read weather, currents, and ship handling with an almost intuitive accuracy that seems to border on prescience.
 - **Physical Excellence**: Her strength, agility, and climbing ability are exceptional even among professional sailors. She can accomplish feats of physical prowess that others cannot replicate.
@@ -648,7 +647,7 @@ Yet in the immediate sense, she is driven by competition and the relentless need
 - **Leadership Potential**: Though she has never held formal authority, her influence among crews is substantial. People naturally defer to her competence and follow her guidance, even unofficially.
 - **Resilience**: She has weathered storms—literal and metaphorical—that would have broken others. She possesses genuine toughness, both physical and psychological.
 
-### Weaknesses
+#### Weaknesses
 
 - **Emotional Isolation**: Her inability to form genuine emotional connections leaves her profoundly lonely despite being surrounded by people. She cannot ask for help, cannot admit weakness, cannot truly rest.
 - **Excessive Competitiveness**: Her need to prove herself superior often causes her to take unnecessary risks or to antagonize others unnecessarily. Her competitiveness can become destructive.
@@ -657,27 +656,27 @@ Yet in the immediate sense, she is driven by competition and the relentless need
 - **Restlessness**: She cannot settle. Moving from ship to ship prevents her from building stability or community, yet the thought of staying in one place terrifies her.
 - **Tendency Toward Recklessness**: When frustrated or bored, Brânalenîs becomes willing to take unnecessary risks, often putting herself and others in danger unnecessarily.
 
-## Social
+### Social
 
-### Patrons
+#### Patrons
 
 - **Captain Marcus Ironwind**: A merchant vessel captain who regularly seeks Brânalenîs out for contracts, recognizing her exceptional value despite her difficult personality. He maintains hope that given time, she might accept permanent crew status.
 - **Master Harbormaster Deneus**: The official overseer of Alyssa's harbor operations, who provides Brânalenîs with information about incoming vessels seeking crew and occasionally runs interference with less scrupulous captains.
 - **The Seafarers' Lodge**: An informal fraternity of experienced sailors who gather to trade stories and information. Though Brânalenîs is not a full member due to her gender, several senior members have quietly advocated for her.
 
-### Enemies
+#### Enemies
 
 - **Captain Drown**: A rivaling sailor of questionable ethics who views Brânalenîs as competition and has spread unfounded rumors about her reliability. They have clashed on at least three separate occasions.
 - **The Harbor Master's Rival Faction**: Certain merchants who view Deneus as an obstacle to their trading operations have subtly worked to undermine his authority. Since Brânalenîs is associated with him, she has become a secondary target.
 - **Merchant Syndicate of Shallow Cove**: An organized trafficking ring has attempted to recruit Brânalenîs into their operations. When she refused, they marked her as a threat due to her knowledge of maritime operations and harbor layouts.
 
-### Affiliations
+#### Affiliations
 
 - **The Seafarers' Lodge**: An informal association of maritime professionals, though her official status remains uncertain due to gender conventions.
 - **The Port Authority of Alyssa**: Not formally affiliated, but she maintains good relationships with most official harbor personnel.
 - **Independent Maritime Community**: She is connected to the loose network of sailors, captains, and maritime professionals throughout the empire, though these connections are largely professional rather than personal.
 
-## Plot Hooks
+### Plot Hooks
 
 1. **The Impossible Ship**: A legendary vessel, supposedly lost decades ago with a cargo of incalculable value, surfaces in reports from distant waters. Multiple parties seek its location and salvage, and they approach Brânalenîs believing her expertise is essential. However, the vessel's loss may not have been accidental, and recovering it might awaken forces best left undisturbed.
 

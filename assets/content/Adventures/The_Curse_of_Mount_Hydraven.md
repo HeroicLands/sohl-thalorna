@@ -19,15 +19,15 @@ data:
 packFolder: adventures
 ---
 
-# The Curse of Mount Hýdraven
+## The Curse of Mount Hýdraven
 
 Mount Hýdraven, a peak in the Provenzian highlands, has become a place of dread. Travelers vanish, livestock sicken, and villages at its base report terrible dreams and ill fortune. The party must investigate the curse and uncover its source.
 
-## Overview
+### Overview
 
 Mount Hýdraven looms over the southern highlands of [[place-provenzrgn|Provènzia Region]], a dramatic and beautiful peak that has been a sacred site since pre-Aurèldían times. For the past year, a creeping curse has settled over the mountain and the lands surrounding it. Villagers in the foothills experience nightmares, livestock dies of inexplicable ailments, and anyone who ventures onto the mountain either does not return or returns broken and mad. The local priesthood is divided: some believe the mountain itself is angered by disrespect, others suspect dark magic or demonic influence. The party is hired to investigate and lift the curse.
 
-## Stage One: The Commission & Initial Signs
+### Stage One: The Commission & Initial Signs
 
 The party is approached by:
 
@@ -52,7 +52,7 @@ The party is approached by:
 - A scholar studying the mountain's history
 - A priestess or priest with conflicting theories about the curse
 
-## Stage Two: Research & Investigation
+### Stage Two: Research & Investigation
 
 The party gathers information about the mountain, the curse, and its potential sources:
 
@@ -71,7 +71,7 @@ The party gathers information about the mountain, the curse, and its potential s
 - Someone in the village actively works to prevent investigation (protecting a secret)
 - The [[affiliation-ordoarcanis|Ordo Arcanis]] may attempt to monopolize the investigation
 
-## Stage Three: Approaching the Mountain
+### Stage Three: Approaching the Mountain
 
 The party begins the ascent of Mount Hýdraven. Environmental and magical hazards mount:
 
@@ -88,7 +88,7 @@ The party begins the ascent of Mount Hýdraven. Environmental and magical hazard
 - Natural hazards amplified by the curse (rockslides, avalanches, crevasses)
 - A guardian creature or sentient manifestation of the curse itself
 
-## Stage Four: The Curse's Source
+### Stage Four: The Curse's Source
 
 As the party reaches higher elevations, they discover the curse's origin:
 
@@ -102,7 +102,7 @@ As the party reaches higher elevations, they discover the curse's origin:
 
 **The Focus:** The source is centered at a location on the peak: a ruined shrine, a sealed cave, an ancient stone circle, or a specific artifact or being.
 
-## Stage Five: Breaking the Curse
+### Stage Five: Breaking the Curse
 
 The party must resolve the curse by addressing its root cause. Options include:
 
@@ -119,7 +119,7 @@ The party must resolve the curse by addressing its root cause. Options include:
 - The resolution may require sacrifice or a difficult choice
 - Success lifts the curse, but there may be lasting consequences
 
-## Stage Five Aftermath & Consequences
+### Stage Five Aftermath & Consequences
 
 **If the party succeeds:**
 
@@ -137,7 +137,7 @@ The party must resolve the curse by addressing its root cause. Options include:
 - The source of the curse reveals larger threats (demonic activity, dying ancient gods, etc.)
 - Someone profits from or supports the curse's continuation and may oppose its lifting
 
-## See Also
+### See Also
 
 - [[place-provenzrgn|Provènzia Region]]
 - [[affiliation-kngdmprvnz|Kingdom of Provènzia]]

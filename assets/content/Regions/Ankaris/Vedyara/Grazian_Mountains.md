@@ -18,8 +18,6 @@ terran_analog: "The Himalayas, Karakoram, Pamir, and Tian Shan complex — the g
 packFolder: vedyara
 ---
 
-# The Grazian Mountains
-
 - **Type:** Great mountain range
 - **Region:** Border between [[place-vedyarargn|Vedyara]] and the [[place-khzryndsrtrgn|Khazryn Desert]]
 - **Controlled by:** Effectively no one — the range is too high, too cold, and too remote for sustained occupation by any of the surrounding peoples.

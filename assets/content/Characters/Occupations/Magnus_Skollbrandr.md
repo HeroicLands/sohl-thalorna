@@ -42,7 +42,6 @@ data:
     complexion: weathered
     extra_features: []
 sohl:
-  templatePriority: null
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 10 } }
     - { model: sohl-sohl-attribute-end, system: { scoreBase: 12 } }
@@ -552,11 +551,11 @@ sohl:
     defaultCombatGroup: null
 ---
 
-# Appearance {#appearance}
+## Appearance {#appearance}
 
 Magnús Sköllbrandr is a 35-year-old man who stands 5'6" tall and is of moderate build. He has an oval face with wide-set cheekbones, a lined forehead, and a strong jaw that leads to a broad chin. His hooded green eyes sit beneath straight brows, lending him a guarded gaze. A strong nose and curved lips complete his features. He has light skin with a weathered complexion. His red hair is pulled back in a warrior's knot.
 
-# Dossier {#dossier}
+## Dossier {#dossier}
 
 Born in the Nordheim region to a guilded family of Nordheimn heritage, Magnús Sköllbrandr came into the world of the jeweler through a combination of circumstance and aptitude.
 
@@ -564,37 +563,37 @@ Alaric comes from a family of skilled artisans and has dedicated his life to mas
 
 Now at 35 years of age, Magnús Sköllbrandr has established himself as a known figure among the jewellers of Nordheim. His reputation, for better or worse, precedes him in the circles where such things matter.
 
-## Psyche
+### Psyche
 
-### Personality
+#### Personality
 
 Can be overly meticulous, struggles with time management during busy periods.
 
-### Motivation
+#### Motivation
 
 Magnús is driven by the desire to master his craft and secure a stable future. The uncertainties of life in jeweler work keep him vigilant and adaptable.
 
-### Strengths
+#### Strengths
 
 Highly skilled in gem cutting, creative, good business sense.
 
-## Social
+### Social
 
 Magnús is affiliated with Local Jewellers' Guild.
 
 As a Nordheimn jeweler, Magnús occupies a recognized social niche within Nordheim society.
 
-## Companions
+### Companions
 
-### Patrons
+#### Patrons
 
 Magnús's primary patron is Local nobles and affluent merchants.. This relationship provides both opportunity and obligation.
 
-### Enemies
+#### Enemies
 
 Few; generally respected by fellow artisans.
 
-## Plot Hooks
+### Plot Hooks
 
 1. **The Jeweler's Dilemma** — Magnús faces a professional crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Nordheim.
 

@@ -7,10 +7,11 @@ description: "Deeply curved supple single-edged saber; cavalry officer's refined
 img: systems/sohl/assets/icons/other/sword.svg
 shortcode: shmshr
 type: weapongear
+data:
+  templatePriority: null
 sohl:
   kbcat: sword
   weaponType: Sword
-  templatePriority: null
   system:
     weightBase: 2.5
     valueBase: 168

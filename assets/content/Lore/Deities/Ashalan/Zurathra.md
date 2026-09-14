@@ -10,6 +10,4 @@ shortcode: zurathradty
 packFolder: deitiesashalan
 ---
 
-# Zúráthrä
-
 TBD

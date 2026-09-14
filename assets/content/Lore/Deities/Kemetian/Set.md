@@ -11,8 +11,6 @@ img: icons/takheperu/pantheon/set.svg
 packFolder: deitieskemetian
 ---
 
-# Sét
-
 _Bringer of Tempests — a serpent coiled around a lightning bolt._
 
 Sét is the god of storms, wind, and the ferocious power of nature at its most violent. The

@@ -22,11 +22,7 @@ data:
     - kingdmdnvr
   gender: male
   species: null
-sohl:
-  templatePriority: null
 ---
-
-# Baloth Nemirina
 
 **Role.** A Senator of the [[affiliation-repblctrvn|Tarvennan Republic]].
 

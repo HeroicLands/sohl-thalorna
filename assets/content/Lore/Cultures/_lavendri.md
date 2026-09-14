@@ -10,6 +10,4 @@ shortcode: elavendriclt
 description: "The Élavendri — their beliefs, their mores, and what they hold a person owes."
 ---
 
-# Élavendri
-
 TBD.

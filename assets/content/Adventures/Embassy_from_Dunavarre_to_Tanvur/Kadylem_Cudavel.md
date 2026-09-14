@@ -22,11 +22,7 @@ data:
     - kingdmdnvr
   gender: male
   species: null
-sohl:
-  templatePriority: null
 ---
-
-# Kadylem Cúdavel
 
 **Role.** Announces the Ambassador's arrival and status.
 

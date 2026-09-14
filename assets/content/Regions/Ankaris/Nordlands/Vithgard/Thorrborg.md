@@ -18,8 +18,6 @@ shortcode: thorrborg
 packFolder: vithgard
 ---
 
-# Thorrborg
-
 ## Overview
 
 _To be written._

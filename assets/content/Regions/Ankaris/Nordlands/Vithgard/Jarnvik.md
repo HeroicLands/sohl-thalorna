@@ -18,8 +18,6 @@ shortcode: jarnvik
 packFolder: vithgard
 ---
 
-# Járnvík
-
 ## Overview
 
 _To be written._

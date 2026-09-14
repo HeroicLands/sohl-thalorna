@@ -9,8 +9,9 @@ name:
   full: "Ritual: Anhur"
   aliases:
     - Anhur, Patron of the Hunt
-sohl:
+data:
   templatePriority: null
+sohl:
   system:
     skillBaseFormula: "@wil, @rea"
     masteryLevelBase: 0

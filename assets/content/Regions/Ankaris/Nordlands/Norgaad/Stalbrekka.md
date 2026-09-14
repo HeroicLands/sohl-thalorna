@@ -18,8 +18,6 @@ shortcode: stalbrekka
 packFolder: norgaad
 ---
 
-# Stálbrekka
-
 ## Overview
 
 _To be written._

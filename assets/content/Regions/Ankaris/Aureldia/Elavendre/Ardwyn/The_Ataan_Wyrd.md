@@ -19,8 +19,6 @@ shortcode: ataanwyrd
 packFolder: elavendre
 ---
 
-# The At'aan Wyrd
-
 A single vast tree standing alone in a clearing of the Silver Forests that nothing else grows in.
 It is older than any Áelendan tribe and older, the shamen say, than the tribes' arrival in the
 land. The tree and the spirit are not distinguished: [[lore-ataanspr|the At'aan Wyrd]] is what

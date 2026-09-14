@@ -19,8 +19,6 @@ shortcode: wyndmarch
 packFolder: aelwyth
 ---
 
-# The Wyndmarch
-
 The **Wyndmarch** is Aldorath's eastern frontier: the foothill country under the
 [[place-ironfells|Ironfells]], running from the approaches to the two passes in the north down toward the
 [[place-hallowwood|Hallowwood]] in the south. Thirty-four thousand people, and the kingdom's whole

@@ -10,8 +10,6 @@ shortcode: apprenticernk
 description: "Bound to a master for a term of years, fed and taught and holding neither tools nor wage."
 ---
 
-# Apprentice
-
 Bound to a master for a term of years, fed and taught and holding neither tools nor wage.
 
 ## Obligations and Rights

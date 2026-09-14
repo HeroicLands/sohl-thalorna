@@ -10,6 +10,4 @@ shortcode: ixilanchalixdty
 packFolder: deitiesitzani
 ---
 
-# Ix'ilan Ch'alix
-
 TBD

@@ -11,8 +11,9 @@ name:
   aliases:
     - The Sacred Forge
     - Vúlcani Orthodox
-sohl:
+data:
   templatePriority: null
+sohl:
   system:
     skillBaseFormula: "@wil, @rea"
     masteryLevelBase: 0

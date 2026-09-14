@@ -17,8 +17,6 @@ name:
 shortcode: altinkale2
 ---
 
-# Altinkale
-
 ## Overview
 
 _To be written._ Altinkale is the capital and principal settlement of [[affiliation-altinkale|Altinkale]].

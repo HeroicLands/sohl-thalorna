@@ -39,7 +39,6 @@ data:
     complexion: null
     extra_features: []
 sohl:
-  templatePriority: null
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 14 } }
     - { model: sohl-sohl-attribute-end, system: { scoreBase: 15 } }
@@ -579,39 +578,39 @@ sohl:
     defaultCombatGroup: null
 ---
 
-# Appearance {#appearance}
+## Appearance {#appearance}
 
 Ídrisè stands 6'3" tall with a medium build. She has warm olive skin, brown hair, and green eyes. Her features include an angular face, a strong nose, a pointed chin, full lips, arched brows, angular cheeks.
 
-# Dossier {#dossier}
+## Dossier {#dossier}
 
-## Background
+### Background
 
-### The Foundling
+#### The Foundling
 
 Ídrisè's earliest memory is of cold stone and the sound of chanting. She was raised in the Shrine of **Táranon the Stormkeeper**, in the Kingdom of Provènzia, by a community of warrior-monks devoted to the storm god. Whether she was left there as an infant or born within the shrine, no one would ever tell her—the monks spoke only of her arrival as an act of divine will. They raised her alongside their sons and daughters, training her from childhood in the disciplines of blade, body, and spirit. While other children played, Ídrisè trained. While other girls learned needlework, she learned the anatomy of vulnerable points on the human body.
 
-### The Training and the Breaking
+#### The Training and the Breaking
 
 At sixteen, the shrine was attacked by bandits seeking to loot the treasury. Ídrisè fought alongside the elder monks and proved herself devastatingly effective. In the aftermath, as the wounded were tended and the dead were mourned, the shrine's hierarchy made a decision: Ídrisè was too dangerous to keep cloistered. She was sent into the world with the monks' blessing to become what she was born to become—a protector, a warrior, a tool of the god's will. The transition from the spiritual discipline of the shrine to the brutal pragmatism of the mercenary world was profoundly disorienting.
 
-### Current Path
+#### Current Path
 
 For the last decade, Ídrisè has worked as an independent bodyguard and security expert in Provènzia's major cities, though she maintains loose affiliation with the Mercenaries Guild for contract purposes. She has developed a sterling reputation for absolute reliability and lethality, taking contracts only with clients whose goals she can morally accept. Her rates are high, and her services in constant demand. Yet beneath the professional competence lies a profound disconnection from normal human life—she moves through the world aware of threat angles and exit routes, unable to simply exist without tactical assessment.
 
-## Psyche
+### Psyche
 
-### Personality
+#### Personality
 
 Ídrisè is reserved to the point of austerity, speaking only when necessary and rarely about anything beyond the immediate professional concern. Her humor, when it emerges, is dry and often dark—laughing at absurdities that others might find horrifying. She is not unfriendly, but she maintains emotional walls so high that even those she has worked with for years describe her as distant. She has learned through painful experience that attachments create vulnerabilities, and vulnerabilities get people killed.
 
 However, beneath this fortress of control lies a deeply ethical individual. She will not take contracts to harm the innocent, refuses to work for obviously corrupt nobility, and has walked away from lucrative work when she discovered the true nature of what she was being asked to do. This rigid morality, combined with her lethal competence, makes her rare—a killer with a conscience, which some see as contradiction and others as profound integrity.
 
-### Motivation
+#### Motivation
 
 Ídrisè is driven by a need to protect, rooted in the spiritual training of the shrine but complicated by her observation that most people are not worthy of protection—they pursue petty ambitions and hurt those weaker than themselves. Still, she continues working because the act of preventing harm is the closest she comes to feeling meaningful purpose. Beneath this lies a deeper motivation she seldom acknowledges: she seeks redemption for the damage she causes, attempting to balance the scales by protecting innocent lives from those who would prey upon them.
 
-### Strengths
+#### Strengths
 
 - **Exceptional Martial Skill**: Her combat training spans multiple disciplines and decades of practice. She is ambidextrous, skilled with blade and ranged weapons, and devastatingly effective in hand-to-hand combat. Few people in the realm could match her in single combat.
 - **Threat Assessment and Tactical Analysis**: She reads situations with almost supernatural accuracy, identifying threats and exit strategies within moments of entering any space. This skill extends to understanding human behavior and motivation.
@@ -620,7 +619,7 @@ However, beneath this fortress of control lies a deeply ethical individual. She 
 - **Perception and Awareness**: Her senses are exceptionally sharp; she notices details others miss and remains aware of her surroundings at all times.
 - **Physical Endurance and Strength**: Years of training have left her capable of incredible feats of stamina and strength. She can travel for days on minimal rest, carry heavy loads, and push through conditions that would incapacitate ordinary people.
 
-### Weaknesses
+#### Weaknesses
 
 - **Emotional Isolation and Difficulty Forming Bonds**: Her walls are so high that even those closest to her struggle to truly connect. She is incapable of genuine intimacy and views emotions as weaknesses to be controlled rather than experienced.
 - **Over-Protectiveness**: Because she views the world primarily through the lens of threat, she often smothers those in her charge with excessive caution, preventing them from living normally or taking acceptable risks.
@@ -629,26 +628,26 @@ However, beneath this fortress of control lies a deeply ethical individual. She 
 - **Moral Rigidity**: While her ethics are admirable, they occasionally prevent her from taking expedient action. A more flexible person might achieve better outcomes in complex situations.
 - **Difficulty with Ambiguity**: She prefers situations where right and wrong are clear. When morality becomes gray and complex, she struggles with decision-making and second-guesses herself.
 
-## Social
+### Social
 
-### Patrons
+#### Patrons
 
 - **Duke Reginald Stormthorne**: A minor nobleman of genuine virtue who has employed Ídrisè multiple times for security work. He respects her integrity and has become one of the few people whose company she actively seeks rather than merely tolerates.
 - **Lady Merchant Selena Goldleaf**: A wealthy trader specializing in luxury goods who employs Ídrisè for high-value escort work. Their professional relationship has extended into something approaching friendship, though Ídrisè would never use that word.
 - **The Shrine of Táranon**: The monks who raised her remain her deepest loyalty. Though she no longer practices their faith in any formal way, she maintains a connection to the community and would move mountains to protect them.
 
-### Enemies
+#### Enemies
 
 - **The Red Syndicate**: A criminal organization that attempted to force Ídrisè into their employ. When she refused, they placed a contract on her life. The contract remains technically active, though several assassins have already tried and failed. The Syndicate views her refusal as an insult that must be answered.
 - **Lord Petyr the Cruel**: A nobleman whose cruelty toward servants and dependents violated every principle Ídrisè holds. When she discovered he was considering hiring her services, she refused and then discovered evidence of his crimes. She has become a quiet enemy, gathering information against him while maintaining professional distance.
 - **Her Own Past**: In her younger years as a mercenary, before she developed her current moral code, Ídrisè took contracts whose purposes she now regrets. She wonders if any of her former victims or their families will one day come seeking revenge.
 
-### Affiliations
+#### Affiliations
 
 - **The Mercenaries Guild of Provènzia**: She maintains loose membership for contract purposes, though she is often at odds with the Guild's leadership over their willingness to take any contract regardless of moral considerations.
 - **The Shrine of Táranon**: Her spiritual home and place of origin, where the warrior-monks still speak of her as one of their most accomplished students, though she has moved beyond their direct community.
 
-## Plot Hooks
+### Plot Hooks
 
 1. **The Mirror in the Storm**: Ídrisè is hired to protect **Lord Kael Vesperos**, a nobleman she has guarded before who seems paranoid and frightened. He confesses that he has become aware of a shadow that mirrors his movements—a skilled fighter matching his patterns, present at multiple locations where he has been, never attacking but always watching. Kael is convinced he is being hunted by a professional assassin. As Ídrisè investigates, she discovers that the shadow is actually **Myrrh**, another warrior trained at the Shrine of **Táranon** decades before Ídrisè was born. **Myrrh** claims to be hunting Kael for a dark secret in his past, and asks Ídrisè to stand aside. Ídrisè must decide whether her loyalty to her client supersedes her respect for a sister from the Shrine, and whether she truly knows her employer's past.
 

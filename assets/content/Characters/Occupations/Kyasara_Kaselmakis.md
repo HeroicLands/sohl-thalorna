@@ -42,7 +42,6 @@ data:
     extra_features:
       - a tattoo of a dragonfly on the neck
 sohl:
-  templatePriority: null
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 9 } }
     - { model: sohl-sohl-attribute-end, system: { scoreBase: 11 } }
@@ -547,11 +546,11 @@ sohl:
     defaultCombatGroup: null
 ---
 
-# Appearance {#appearance}
+## Appearance {#appearance}
 
 Kyàsârâ Kâselmakîs is a 29-year-old woman who stands 5'4" tall and is slender. She has a long face with sharp cheekbones, a high forehead, and a strong jaw that leads to a strong chin. Her almond-shaped hazel eyes sit beneath arched brows, lending her a measured gaze. A strong nose and firm lips complete her features. She has warm-toned skin with a sun-tanned complexion. Her brown hair is gathered in a practical bun.
 
-# Dossier {#dossier}
+## Dossier {#dossier}
 
 Born in the Vylaría region to a freeman family of Vylarian heritage, Kyàsârâ Kâselmakîs came into the world of the thespian through a combination of circumstance and aptitude.
 
@@ -559,37 +558,37 @@ Isolde began her acting career as a street performer before being discovered by 
 
 Now at 29 years of age, Kyàsârâ Kâselmakîs has established herself as a known figure among the thespians of Vylaria. Her reputation, for better or worse, precedes her in the circles where such things matter.
 
-## Psyche
+### Psyche
 
-### Personality
+#### Personality
 
 Prone to self-doubt, struggles with personal relationships.
 
-### Motivation
+#### Motivation
 
 Kyàsârâ is driven by the desire to master her craft and secure a stable future. The uncertainties of life in thespian work keep her vigilant and adaptable.
 
-### Strengths
+#### Strengths
 
 Versatile actress, skilled at improvisation, strong emotional range.
 
-## Social
+### Social
 
 Kyàsârâ is affiliated with City Theater Company.
 
 As a Vylarian thespian, Kyàsârâ occupies a recognized social niche within Vylaria society.
 
-## Companions
+### Companions
 
-### Patrons
+#### Patrons
 
 Kyàsârâ's primary patron is Theater enthusiasts and local nobles who attend her performances.. This relationship provides both opportunity and obligation.
 
-### Enemies
+#### Enemies
 
 Envious actresses who see her as a threat.
 
-## Plot Hooks
+### Plot Hooks
 
 1. **The Thespian's Dilemma** — Kyàsârâ faces a professional crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Vylaria.
 

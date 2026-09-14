@@ -18,8 +18,6 @@ shortcode: waldburg
 packFolder: vrystwald
 ---
 
-# Waldburg
-
 ## Overview
 
 _To be written._

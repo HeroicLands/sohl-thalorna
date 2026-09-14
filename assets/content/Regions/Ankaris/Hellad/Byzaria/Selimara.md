@@ -18,8 +18,6 @@ data:
 packFolder: byzaria
 ---
 
-# Selímara
-
 ## Overview
 
 _To be written._

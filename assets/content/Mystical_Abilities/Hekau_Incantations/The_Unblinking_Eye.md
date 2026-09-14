@@ -10,8 +10,9 @@ shortcode: unblnkngey
 img: icons/takheperu/khemenu-hekau/atenre.svg
 type: mysticalability
 subType: arcaneincantation
-sohl:
+data:
   templatePriority: null
+sohl:
   system:
     assocSkillCode: atenre
     masteryLevelBase: 0

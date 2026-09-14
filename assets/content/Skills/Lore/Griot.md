@@ -11,8 +11,9 @@ name:
   aliases:
     - Griot Tradition
     - Keeper of Memory
-sohl:
+data:
   templatePriority: null
+sohl:
   system:
     skillBaseFormula: "@rea, @wil"
     masteryLevelBase: 0

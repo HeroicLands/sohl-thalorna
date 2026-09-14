@@ -42,7 +42,6 @@ data:
     extra_features:
       - a tattoo of a serpent on the back
 sohl:
-  templatePriority: null
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 13 } }
     - { model: sohl-sohl-attribute-end, system: { scoreBase: 13 } }
@@ -554,11 +553,11 @@ sohl:
     defaultCombatGroup: null
 ---
 
-# Appearance {#appearance}
+## Appearance {#appearance}
 
 Sölmundr Blóthöll is a 32-year-old man who stands 6'1" tall and is of moderate build. He has an oval face with prominent cheekbones, a broad forehead, and a strong jaw that leads to a broad chin. His sharp hazel eyes sit beneath heavy brows, lending him an incisive gaze. A prominent nose and thin lips complete his features. He has fair skin with a weathered complexion. His dark blonde hair is pulled back in a warrior's knot.
 
-# Dossier {#dossier}
+## Dossier {#dossier}
 
 Born in the Nordheim region to a freeman family of Nordheimn heritage, Sölmundr Blóthöll came into the world of the yeoman archer through a combination of circumstance and aptitude.
 
@@ -566,37 +565,37 @@ Elric has always had a knack for archery, learning to hunt with a bow from a you
 
 Now at 32 years of age, Sölmundr Blóthöll has established himself as a known figure among the yeoman archers of Nordheim. His reputation, for better or worse, precedes him in the circles where such things matter.
 
-## Psyche
+### Psyche
 
-### Personality
+#### Personality
 
 Not as strong in close combat, tends to rely too much on his bow.
 
-### Motivation
+#### Motivation
 
 Sölmundr is driven by the desire to master his craft and secure a stable future. The uncertainties of life in yeoman archer work keep him vigilant and adaptable.
 
-### Strengths
+#### Strengths
 
 Skilled archer, excellent vision, steady under pressure.
 
-## Social
+### Social
 
 Sölmundr is affiliated with Local Militia.
 
 As a Nordheimn yeoman archer, Sölmundr occupies a recognized social niche within Nordheim society.
 
-## Companions
+### Companions
 
-### Patrons
+#### Patrons
 
 Sölmundr's primary patron is The local lord who values his skill as a marksman.. This relationship provides both opportunity and obligation.
 
-### Enemies
+#### Enemies
 
 Poachers and rival archers who challenge his reputation.
 
-## Plot Hooks
+### Plot Hooks
 
 1. **The Yeoman Archer's Dilemma** — Sölmundr faces a professional crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Nordheim.
 

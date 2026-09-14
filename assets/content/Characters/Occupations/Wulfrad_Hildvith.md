@@ -41,7 +41,6 @@ data:
     complexion: rugged
     extra_features: []
 sohl:
-  templatePriority: null
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 16 } }
     - { model: sohl-sohl-attribute-end, system: { scoreBase: 15 } }
@@ -553,11 +552,11 @@ sohl:
     defaultCombatGroup: null
 ---
 
-# Appearance {#appearance}
+## Appearance {#appearance}
 
 Wulfrád Hildvith is a 40-year-old man who stands 6'1" tall and is broad and solidly built. He has a diamond face with prominent cheekbones, a narrow forehead, and a strong jaw that leads to a broad chin. His hooded blue eyes sit beneath furrowed brows, lending him a guarded gaze. A prominent nose and expressive lips complete his features. He has light skin with a rugged complexion. His white hair is braided at the temples.
 
-# Dossier {#dossier}
+## Dossier {#dossier}
 
 Born in the Vrystwald region to a freeman family of Varokhi heritage, Wulfrád Hildvith came into the world of the man-at-arms (sapper) through a combination of circumstance and aptitude.
 
@@ -565,37 +564,37 @@ Garrick has dedicated his life to the art of siege warfare as a sapper. With yea
 
 Now at 40 years of age, Wulfrád Hildvith has established himself as a known figure among the man-at-arms (sapper)s of Vrystwald. His reputation, for better or worse, precedes him in the circles where such things matter.
 
-## Psyche
+### Psyche
 
-### Personality
+#### Personality
 
 Can be set in his ways, struggles with adapting to new methods.
 
-### Motivation
+#### Motivation
 
 Wulfrád is driven by the desire to master his craft and secure a stable future. The uncertainties of life in man-at-arms (sapper) work keep him vigilant and adaptable.
 
-### Strengths
+#### Strengths
 
 Highly experienced, strong leadership skills, skilled in engineering.
 
-## Social
+### Social
 
 Wulfrád is affiliated with Local Engineers' Guild.
 
 As a Varokhi man-at-arms (sapper), Wulfrád occupies a recognized social niche within Vrystwald society.
 
-## Companions
+### Companions
 
-### Patrons
+#### Patrons
 
 Wulfrád's primary patron is Military leaders who rely on his expertise.. This relationship provides both opportunity and obligation.
 
-### Enemies
+#### Enemies
 
 Few; respected in the community.
 
-## Plot Hooks
+### Plot Hooks
 
 1. **The Man-at-Arms (Sapper)'s Dilemma** — Wulfrád faces a professional crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Vrystwald.
 

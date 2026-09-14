@@ -107,12 +107,8 @@ data:
     - ctysttshlns
   relations:
     arldnpnthn: aligned
-sohl:
-  templatePriority: null
 packFolder: helionis
 ---
-
-# Athenikos
 
 ## Overview
 

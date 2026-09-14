@@ -91,12 +91,8 @@ data:
   parents: []
   relations:
     theoldway: aligned
-sohl:
-  templatePriority: null
 packFolder: pantheonsfirstgods
 ---
-
-# The First Gods
 
 The **First Gods** are the ancestral pantheon of the [[lore-aelendnppl|Áelendan]] and, through them, of the [[lore-pelwarpepl|Pelwar People]] peoples more broadly. The Áelendan hold that the First Gods are older than any other gods worshipped anywhere on [[place-ankrscntnnt|Ankaris Continent]] — that all later pantheons, including the [[affiliation-arldnpnthn|Aurèldían]], the [[affiliation-asguardian|Asguardian]], and the [[affiliation-kemtnpnthn|Kemetian]], arose out of the First, whether as descendants, refractions, or mortal misreadings of powers too great to be named.
 

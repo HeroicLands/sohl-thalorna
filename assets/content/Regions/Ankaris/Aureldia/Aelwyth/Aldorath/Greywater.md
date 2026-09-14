@@ -19,8 +19,6 @@ shortcode: greywater
 packFolder: aelwyth
 ---
 
-# Greywater
-
 **Greywater** stands on the tidal reach of the river that drains eastern Aldorath, at the point where
 sea-going hulls can come up and no further. It is the kingdom's outlet: what Ashford gathers, Greywater
 ships.

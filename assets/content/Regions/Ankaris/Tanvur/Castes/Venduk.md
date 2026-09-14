@@ -8,8 +8,6 @@ shortcode: venduk
 packFolder: castes
 ---
 
-# Vëndük
-
 **Chattel Sorcerers**
 
 Though technically enslaved, the Vëndük occupy a unique and highly respected position within [[affiliation-tanvurempr|Tānvür]] society. Born with powerful innate magical abilities, they are bound to the service of [[lore-zheklung|Zhëklüng]] from birth. Their magical mastery makes them invaluable counselors, artificers, and ritualists, elevating them far above the status of common slaves despite their legal bondage.

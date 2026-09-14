@@ -32,7 +32,6 @@ data:
     extra_features: []
 sohl:
   kbcat: animal
-  templatePriority: 0
   attrRollFormula:
     str: 1d6+53
     end: 1d6+45
@@ -394,59 +393,59 @@ sohl:
         disabled: false
 ---
 
-# Appearance {#appearance}
+## Appearance {#appearance}
 
 Presence announces itself before sight — the earth trembles rhythmically with hoofsteps that carry impossible weight. The creature that emerges is a living mountain of gray flesh, powerful beyond immediate comprehension. The long tusks gleam like ivory swords, and the vast ears shaped vaguely like continents fan the air with hypnotic rhythm. The trunk is a secondary limb of remarkable intelligence and power, and the eyes hold a sadness and awareness that speaks of profound intelligence and emotional capacity. You understand you're looking at not merely the largest land animal, but something that carries weight in multiple senses.
 
-# Dossier {#dossier}
+## Dossier {#dossier}
 
 The Xerathian Savanna Elephant is the largest land creature on the planet, standing 10-13 feet at the shoulder and weighing up to 10-14 tons, found in grasslands across the Xerathian continent and surrounding regions. These magnificent creatures are highly social, traveling in herds led by experienced matriarchs. Adventurers encounter them while crossing savanna regions or when herds conflict with human settlements.
 
-## Presentation
+### Presentation
 
 The savanna elephant is enormous, wrinkled gray skinned, with long curved tusks and ears proportionally larger than forest cousins. The trunk is powerful and dexterous. The overall presence is both magnificent and intimidating.
 
-## Key Behaviors
+### Key Behaviors
 
 Savanna elephants are highly social, traveling in family groups led by matriarchs. They are intelligent and emotional, mourning dead and forming bonds. They spend much of their time foraging. They are generally peaceful unless defending young or territory.
 
-## Combat Strategy
+### Combat Strategy
 
 A charging elephant is nearly unstoppable, using tusks to gore and trunk to strike or throw. When defending young or herds, elephants become completely committed to defense.
 
-## Attack Methods
+### Attack Methods
 
-### Tusk Gore
+#### Tusk Gore
 
 The long tusks gore and crush with devastating force.
 
-### Trunk Strike
+#### Trunk Strike
 
 The trunk delivers powerful blows that can kill or maim.
 
-### Trampling Stomp
+#### Trampling Stomp
 
 The creature's weight crushing targets under its feet.
 
-## Special Abilities
+### Special Abilities
 
-### Incredible Strength
+#### Incredible Strength
 
 The elephant possesses strength far exceeding most creatures.
 
-### Herd Coordination
+#### Herd Coordination
 
 Elephants work together defensively, protecting young and injured members.
 
-### Intelligent Manipulation
+#### Intelligent Manipulation
 
 The trunk can manipulate environment and objects with precision.
 
-### Additional Information
+#### Additional Information
 
 Elephants defending young are nearly unbeatable and should be avoided. The tusks can be harvested after death and are extraordinarily valuable. Herds can be dangerous if panicked or threatened.
 
-## Attributes
+### Attributes
 
 - **Strength:** 54-59 (1d6+53)
 

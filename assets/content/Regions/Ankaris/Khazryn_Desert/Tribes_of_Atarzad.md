@@ -116,8 +116,6 @@ data:
     ashanpnthn: aligned
     khzrncnfdrtn: nemesis
     sultntmrdd: unaligned
-sohl:
-  templatePriority: null
 terran_analog: "Israelites of the Exodus and Conquest — twelve-tribe nomadic-pastoral confederation, monolatrous fire-cult, covenantal land-claim, post-bondage founding narrative under a singular prophet, blood-feud with the indigenous urban polytheists whose territory they seized"
 packFolder: khazryndesert
 ---

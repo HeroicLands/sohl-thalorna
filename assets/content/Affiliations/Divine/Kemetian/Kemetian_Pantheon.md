@@ -119,12 +119,8 @@ data:
   lore: []
   parents: []
   relations: {}
-sohl:
-  templatePriority: null
 packFolder: pantheonskemetian
 ---
-
-# Kemetían Pantheon
 
 **Pronunciation**: _Keh-MEH-tee-ahn_
 

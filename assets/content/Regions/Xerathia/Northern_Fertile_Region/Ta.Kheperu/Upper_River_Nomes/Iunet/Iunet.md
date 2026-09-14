@@ -18,8 +18,6 @@ shortcode: iunet
 packFolder: upperrivernomes
 ---
 
-# Iunet
-
 ## Overview
 
 Iunet is the capital of [[affiliation-nomeiunet|the Nome of Iunet]] and the seat of its [[affiliation-empirtkhpr#titles-and-forms-of-address|Haty'a]]. It holds the nome's chief temple of [[affiliation-iset|Íšét]], the Haty'a's court and granaries, the scribal bureau that keeps the tax rolls, and the markets that serve the surrounding villages and estate-towns. Its character is the nome's: healing-temples and birth-shrines; the great cult of the mother-goddess.

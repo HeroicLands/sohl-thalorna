@@ -18,8 +18,6 @@ shortcode: alyssar
 packFolder: vylaria
 ---
 
-# Alyssar
-
 ## Overview
 
 _To be written._
