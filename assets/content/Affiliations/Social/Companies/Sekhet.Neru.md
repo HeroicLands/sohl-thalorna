@@ -94,8 +94,6 @@ data:
     kemtnpnthn: aligned
     sobek: aligned
     pernuw: aligned
-sohl:
-  templatePriority: null
 name:
   full: Sekhet'Neru
   aliases:
@@ -105,7 +103,7 @@ banner: banners/ta-kheperu-banner.webp
 shortcode: sekhetneru
 ---
 
-# Sekhet'Neru — The Sacred Hunt of the Khetai
+## Sekhet'Neru — The Sacred Hunt of the Khetai
 
 _Kheperi: "The Mighty Ones of the Field"_ _Kemetian Hunting Party_
 
@@ -113,7 +111,7 @@ Along the great southern reaches of the Taméresh River, where crocodiles bask o
 
 The hunt is ceremonial, political, and dangerous. Success brings honor to the Khetai and meat for the temples. Failure brings shame — and famine, because the upper river nomes depend on the hunt to control the hippopotami that destroy crops and capsize fishing boats. Death in the service of the hunt brings eternal favor with the gods. The Sekhet'Neru is not sport. It is survival dressed in sacred robes.
 
-# Backstory
+## Backstory
 
 The Khetai family has held the Steersman's charter — the Per-Aá's grant of hunting authority over this stretch of the Taméresh — for seven generations. In those seven generations, the river has been kind more often than not: the flood cycle predictable, the herds manageable, the temples well-fed with sacrificial meat and riverine bounty. But in the last three years, something has changed.
 
@@ -123,7 +121,7 @@ Amûnmat Khâfirah, the current Steersman, believes the cause is natural — a s
 
 The stakes are existential. Amûnmat has called the full Sekhet'Neru together for the most ambitious hunt in a generation: a systematic cull of the southern marshes, working upriver over the course of a full lunar month, to thin the herds and prove to the Haty'a that the Khetai can still do what they were born to do.
 
-# Organization
+## Organization
 
 The hunt is led by **Amûnmat Khâfirah**, a noble lord of the Medjay caste and holder of the ancient title of Steersman of the Sacred Waters. He is in his early forties, lean and scarred from a hippopotamus attack fifteen years ago that nearly took his left eye. He rules with formal authority, supported by the weight of religious custom and the backing of the provincial governors. His word is law — but his authority has never been more fragile.
 
@@ -138,7 +136,7 @@ The current roster stands at eight:
 - **Wan'om Behfard** — Net-master and gamesman. Handles the ceremonial nets used to capture rather than kill; enjoys the pageantry more than the danger. His father was Steersman before Amûnmat.
 - **Taiya Henuret** — Apprentice healer and record-keeper. Youngest member, observing her first full hunting season. The Khetai are watching to see if she has the stomach for the work — and the talent for the temple politics that come with it.
 
-# Territory
+## Territory
 
 The Sekhet'Neru operates along approximately eighty miles of the Taméresh River, from the Shattered Delta in the north to the Twin Rock narrows in the south. The river is sacred territory, belonging nominally to the Haty'a but spiritually to Khet'Amun, the river god. Two primary camps — the Summer Lodge at the Shattered Delta and the Winter Fort at Twin Rock — serve as bases. The party moves between them following the migration of hippopotami, crocodiles, and the great river cats.
 
@@ -146,7 +144,7 @@ The river is marked by sacred stones and boundary shrines. Unauthorized hunting 
 
 The southern marshes — the focus of the current crisis — are a labyrinth of reed beds, mud islands, and channels that shift with every flood. Even the Khetai do not know them perfectly, and the marshes are reputed to shelter not just hippos and crocodiles but something older: ruins half-submerged in the muck, stone markers in scripts that predate the current dynasty, and stories among the marsh-dwelling fishermen of lights that move beneath the water at night.
 
-# Methods
+## Methods
 
 A hunt of the Sekhet'Neru is an elaborate ceremonial affair. Each expedition begins with three days of religious preparation: Imhûtep makes offerings, reads auguries in bird flight and water patterns, and pronounces whether the hunt should proceed. If the gods are favorable, the party departs.
 
@@ -156,7 +154,7 @@ When a major kill is made, the entire party participates in the ritual butcherin
 
 The current crisis has forced the Sekhet'Neru to depart from tradition. The scale of the cull requires killing more animals than ritual normally permits, and Amûnmat has had to seek a special dispensation from the temple — which Hem'Netjer Seben'ra granted only grudgingly, and with conditions that amount to political surveillance of the hunt.
 
-# Internal Dynamics
+## Internal Dynamics
 
 The party maintains formal cohesion through ritual and hierarchy, but the crisis has sharpened every tension:
 
@@ -166,7 +164,7 @@ The party maintains formal cohesion through ritual and hierarchy, but the crisis
 - **Wan'om's resentment** simmers quietly. His father held the Steersman's title, and the Behfard family believes the position was stolen when Amûnmat's branch of the Khetai maneuvered the succession. Wan'om obeys orders, but his enthusiasm for the hunt — and for Amûnmat's leadership — has visibly cooled.
 - **Taiya's presence** is contentious. Some members believe she is too young and untested for the most dangerous hunt in a generation. Others see her as the future — but Amûnmat has not yet decided where he stands, and her performance on this hunt will determine whether she is inducted into the Medjay or sent home.
 
-# Plot Hooks
+## Plot Hooks
 
 - **The Cull.** The Sekhet'Neru is preparing for its most dangerous operation in living memory — a month-long sweep of the southern marshes to thin the hippopotamus herds. They need additional hands: experienced fighters, healers, or anyone who can handle a boat in treacherous water. Payment is in honor, temple favor, and a share of the meat. The work is brutal and the marshes are lethal.
 - **The Drowned Ruins.** During a preliminary scouting run, Dajeka spotted something in the deep marshes: stone walls beneath the waterline, carved with symbols that are not Kheperi. He told Amûnmat, who told him to forget about it — the hunt comes first. But Taiya overheard, and she is burning with curiosity. The ruins predate the current dynasty, and whatever is down there might explain why the hippo herds have shifted south — or it might be something far more dangerous.
@@ -174,7 +172,7 @@ The party maintains formal cohesion through ritual and hierarchy, but the crisis
 - **The Succession Crisis.** Sephren Thûtmêsu has been meeting privately with Haty'a Per'ra Ankherê, and Akhren — whose loyalties remain unclear — has been seen carrying messages between the Haty'a's estate and the Summer Lodge. If Amûnmat falls or fails, the Steersman's charter could pass to a rival family, ending seven generations of Khetai stewardship. The political maneuvering is as dangerous as the hippos.
 - **The Marsh Fisher's Warning.** The fishermen who live in the southern marshes — poor, superstitious, and largely ignored by the Medjay — have been warning anyone who will listen that the hippo surge is not natural. They say the animals are being driven north by something in the deep marsh — something that moves at night, something that smells of rot and old stone. Amûnmat dismisses this as peasant superstition. Isgard is not so sure.
 
-# Using the Sekhet'Neru
+## Using the Sekhet'Neru
 
 The company works well as:
 

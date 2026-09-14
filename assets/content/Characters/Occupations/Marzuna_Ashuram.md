@@ -41,7 +41,6 @@ data:
     complexion: tanned
     extra_features: []
 sohl:
-  templatePriority: null
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 14 } }
     - { model: sohl-sohl-attribute-end, system: { scoreBase: 15 } }
@@ -549,11 +548,11 @@ sohl:
     defaultCombatGroup: null
 ---
 
-# Appearance {#appearance}
+## Appearance {#appearance}
 
 Marzûna Ashûram is a 29-year-old woman who stands 6'3" tall and is of moderate build. She has a long face with sharp cheekbones, a high forehead, and a narrow jaw that leads to a prominent chin. Her round brown eyes sit beneath heavy brows, lending her a candid gaze. A hawkish nose and curved lips complete her features. She has golden skin with a sun-tanned complexion. Her dark brown hair is falling in dark cascades.
 
-# Dossier {#dossier}
+## Dossier {#dossier}
 
 Born in the Harad region to a freeman family of Haradian heritage, Marzûna Ashûram came into the world of the bodyguard through a combination of circumstance and aptitude.
 
@@ -561,37 +560,37 @@ Rhea has spent several years as a bodyguard, specializing in protecting merchant
 
 Now at 29 years of age, Marzûna Ashûram has established herself as a known figure among the bodyguards of Harad. Her reputation, for better or worse, precedes her in the circles where such things matter.
 
-## Psyche
+### Psyche
 
-### Personality
+#### Personality
 
 Can be overly protective, struggles with vulnerability.
 
-### Motivation
+#### Motivation
 
 Marzûna is driven by the desire to master her craft and secure a stable future. The uncertainties of life in bodyguard work keep her vigilant and adaptable.
 
-### Strengths
+#### Strengths
 
 Skilled fighter, observant, good at reading situations.
 
-## Social
+### Social
 
 Marzûna is affiliated with Local Mercenaries Guild.
 
 As a Haradian bodyguard, Marzûna occupies a recognized social niche within Harad society.
 
-## Companions
+### Companions
 
-### Patrons
+#### Patrons
 
 Marzûna's primary patron is Merchants and minor nobles seeking reliable protection.. This relationship provides both opportunity and obligation.
 
-### Enemies
+#### Enemies
 
 Few; respected among peers.
 
-## Plot Hooks
+### Plot Hooks
 
 1. **The Bodyguard's Dilemma** — Marzûna faces a professional crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Harad.
 

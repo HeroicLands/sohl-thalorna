@@ -20,8 +20,6 @@ shortcode: caerwynd
 packFolder: aelwyth
 ---
 
-# Caerwynd
-
 **Caerwynd** stands where Aldorath's settled country runs out and the interior forest begins, and it is a
 fortress before it is anything else: a stone keep, a walled bailey, a garrison maintained at the crown's
 expense, and a town that exists because the garrison does.

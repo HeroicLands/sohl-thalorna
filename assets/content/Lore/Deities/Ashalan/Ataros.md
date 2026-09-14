@@ -10,6 +10,4 @@ shortcode: atarosdty
 packFolder: deitiesashalan
 ---
 
-# Ātáröš
-
 TBD

@@ -12,8 +12,6 @@ shortcode: mwangadty
 packFolder: deitiesnyaluba
 ---
 
-# Mwánga-Kúbwa
-
 The diffuse creative presence the Nyáluba name, in the idiom of the griots, as **the Great
 Brightness** — the source from which all spirits emerged and into which, at the far end of all
 things, all spirits will return.

@@ -12,8 +12,9 @@ img: systems/sohl/assets/icons/other/speaking.svg
 shortcode: kalihrlng
 type: skill
 subType: language
-sohl:
+data:
   templatePriority: null
+sohl:
   system:
     skillBaseFormula: "@elo, @rea"
     masteryLevelBase: 0

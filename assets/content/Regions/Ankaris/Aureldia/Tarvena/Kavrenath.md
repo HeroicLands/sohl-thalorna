@@ -18,8 +18,6 @@ shortcode: kavrenath
 packFolder: tarvenia
 ---
 
-# Kávrenath
-
 ## Overview
 
 _To be written._

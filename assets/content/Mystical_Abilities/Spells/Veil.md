@@ -9,8 +9,9 @@ img: systems/sohl/assets/icons/game-icons/badges/anvil.svg
 shortcode: veil
 type: mysticalability
 subType: arcaneincantation
-sohl:
+data:
   templatePriority: null
+sohl:
   system:
     assocSkillCode: sideros
     masteryLevelBase: 0

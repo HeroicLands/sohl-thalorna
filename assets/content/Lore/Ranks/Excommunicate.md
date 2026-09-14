@@ -10,8 +10,6 @@ shortcode: excmmnctrnk
 description: "Cut off from the rites and the community of a faith or tradition."
 ---
 
-# Excommunicate
-
 Cut off from the rites and the community of a faith or tradition.
 
 ## Obligations and Rights

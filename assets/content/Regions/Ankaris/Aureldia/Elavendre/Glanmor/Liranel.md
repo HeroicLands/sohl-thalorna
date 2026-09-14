@@ -19,8 +19,6 @@ shortcode: liranel
 packFolder: elavendre
 ---
 
-# Liranel
-
 **Liranel** stands a few miles inland of the [[place-glanmor|Glanmor]] cliffs, in the belt of worked
 forest between the coast road and the deep wood. Some three thousand four hundred people live there,
 and its business is timber and everything that follows from timber.

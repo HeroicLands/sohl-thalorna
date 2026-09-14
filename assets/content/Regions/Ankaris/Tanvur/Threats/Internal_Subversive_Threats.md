@@ -8,8 +8,6 @@ shortcode: intrnlsbvrsvthrts
 packFolder: threats
 ---
 
-# Internal Subversive Threats
-
 The [[affiliation-tanvurempr|Empire of Tānvür]] faces numerous threats from within — secret societies, rogue magic-users, caste unrest, and natural disaster conspire to undermine the imperial order.
 
 ---

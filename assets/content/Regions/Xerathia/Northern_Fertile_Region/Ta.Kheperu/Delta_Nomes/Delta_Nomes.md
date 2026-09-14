@@ -110,12 +110,8 @@ data:
     - empirtkhpr
   relations:
     kemtnpnthn: aligned
-sohl:
-  templatePriority: null
 packFolder: deltanomes
 ---
-
-# The Delta Nomes
 
 ## Overview
 

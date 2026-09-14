@@ -78,8 +78,6 @@ data:
     kemtnpnthn: aligned
     thoth: aligned
     khatnu: aligned
-sohl:
-  templatePriority: null
 name:
   full: Per-Ren'sesh
   aliases:
@@ -91,7 +89,7 @@ banner: banners/ta-kheperu-banner.webp
 packFolder: khemenuhekau
 ---
 
-# Per-Ren'sesh (House of the Name)
+## Per-Ren'sesh (House of the Name)
 
 The House of the Name holds what the whole tradition rests on. If power is correct address, then
 the true name is the address, and Per-Ren'sesh is the House that finds, holds and guards them. It is
@@ -104,7 +102,7 @@ of the eight into which the [[lore-khemenuhekau|Khemenu Hekau]] partitions the D
 function in the cosmic order rather than by substance, which is why no portion of it corresponds
 to any single Eídma of the western [[lore-hexhodai|Héx Hodäi]].
 
-## See Also
+### See Also
 
 - [[lore-khemenuhekau|Khemenu Hekau]] — the philosophy and the other seven domains
 - [[place-khemenu|Khemenu]] — where the Eight are taught

@@ -17,8 +17,6 @@ shortcode: valgard
 packFolder: targud
 ---
 
-# Valgard
-
 ## Overview
 
 _To be written._

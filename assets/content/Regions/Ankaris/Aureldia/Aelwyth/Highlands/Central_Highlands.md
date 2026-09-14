@@ -19,8 +19,6 @@ shortcode: cntrlhghlnds
 packFolder: aelwyth
 ---
 
-# The Central Highlands
-
 The **Central Highlands** occupy the middle of Aelwyth between the western coast and the farmland of
 [[affiliation-kngdmldrth|Aldorath]]: open, rolling, largely treeless upland, held by the
 [[affiliation-repblctrvn|Republic of Tarvenne]] and home to some fifty-eight thousand of its people.

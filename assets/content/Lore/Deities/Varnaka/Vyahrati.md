@@ -10,6 +10,4 @@ shortcode: vyahratidty
 packFolder: deitiesvarnaka
 ---
 
-# Vyāhrati
-
 TBD

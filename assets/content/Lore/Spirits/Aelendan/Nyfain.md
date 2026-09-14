@@ -12,8 +12,6 @@ shortcode: nyfainspr
 packFolder: lorespiritsaelendan
 ---
 
-# Nyfain, the White Owl of the Hollow
-
 - **Kind:** Animal-kin, of [[lore-thekindred|the Kindred]]
 - **Seat:** [[place-owlhollow|The Owl Hollow]]
 - **Territory:** the hollow and the wood immediately about it, in the Áelendan Tribal Lands

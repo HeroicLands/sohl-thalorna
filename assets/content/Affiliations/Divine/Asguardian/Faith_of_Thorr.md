@@ -90,8 +90,6 @@ name:
     - The Stormborn Path
 shortcode: thorr
 img: images/affiliation/asguardian/thorr.webp
-sohl:
-  templatePriority: null
 packFolder: pantheonsasguardian
 ---
 

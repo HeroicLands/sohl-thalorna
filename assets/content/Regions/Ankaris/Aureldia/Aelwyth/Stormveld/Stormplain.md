@@ -18,8 +18,6 @@ shortcode: stormplain
 packFolder: aelwyth
 ---
 
-# The Stormplain
-
 The **Stormplain** is the broad, low, wind-scoured plain that fills the centre of
 [[affiliation-jrldmstrmvld|Stormveld]] between the [[place-nordfells|Nordfells]] and the
 [[place-sunderfells|Sunderfells]]. It is the only substantial farmland in the Jarldom and it holds the

@@ -10,6 +10,4 @@ shortcode: morvanadty
 packFolder: deitiesaureldian
 ---
 
-# Mórváná
-
 TBD

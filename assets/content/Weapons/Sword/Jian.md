@@ -7,10 +7,11 @@ description: "Straight double-edged leaf-point blade; duelist's responsive steel
 img: systems/sohl/assets/icons/other/sword.svg
 shortcode: jian
 type: weapongear
+data:
+  templatePriority: null
 sohl:
   kbcat: sword
   weaponType: Sword
-  templatePriority: null
   system:
     weightBase: 2
     valueBase: 144

@@ -88,8 +88,6 @@ data:
   lore: []
   parents: []
   relations: {}
-sohl:
-  templatePriority: null
 packFolder: politiescompanies
 name:
   full: Tîgh'Savâran of the Zarnûsh
@@ -108,7 +106,7 @@ Across the central steppe of the Khazryn Desert, where grass grows sparse and wa
 
 The Tîgh'Savâran exists because without it, the Zarnûsh would not exist at all.
 
-# Backstory
+## Backstory
 
 The Zarnûsh have never been rich or powerful. Their territory sits at the junction of three stronger tribal confederations — the Âzardan to the north, the Shirzâri to the southeast, and the Dûrmand to the west — and the tribe has survived for generations through a combination of cunning diplomacy, strategic marriages, and a warband skilled enough to make raiding the Zarnûsh more expensive than it is worth.
 
@@ -122,7 +120,7 @@ Bahrazad has been given one season to solve the problem. If he cannot recover th
 
 The Tîgh'Savâran is the tribe's last weapon, and Bahrazad knows it.
 
-# Organization
+## Organization
 
 **Bahrazad Darûsh** is the war captain, a man in his late thirties with the scarred face and missing ear of someone who has survived twenty years of steppe combat. He commands through a combination of personal charisma, demonstrated skill in combat, and an almost supernatural ability to predict rival tribal movements. He answers to the Khan through tribal hierarchy, but the Khan has given him effectively unlimited authority for this season's campaign. The Khan's mandate is simple: bring back the captives, punish the Shirzâri, and hold the tribe together. How Bahrazad accomplishes this is his problem.
 
@@ -141,7 +139,7 @@ The band currently musters twelve warriors — every fighting man the Zarnûsh c
 - **Nersad Bârkârin** — Cultural keeper and musician. Maintains the songs and traditions of the Zarnûsh; holds the war-band's history in memory. His role is not merely ceremonial — when morale falters, Nersad reminds them who they are and what they are fighting for.
 - **Jamaris Parvaran** — Newest member, barely initiated. Fierce and driven, determined to prove his worth. His mother was among the women taken by the Shirzâri. He volunteered for the Tîgh'Savâran the day after the raid.
 
-# Territory
+## Territory
 
 The Zarnûsh territory encompasses roughly two hundred square miles of mixed steppe — grassland, scattered salt marshes, and three strategic wells that are the true source of the tribe's survival. Four semi-permanent camps are positioned around the wells: Karânat (the northern well), Shir-Vân (the central gathering point and the tribe's heart), Dûbzar (the eastern well, closest to Dûrmand territory), and Zamir-Kâr (a seasonal camp moved by water availability — currently abandoned since the drought).
 
@@ -149,7 +147,7 @@ The territory borders the lands of three rival tribes, making constant vigilance
 
 The band maintains a network of hidden water sources and escape routes — the steppe's unwritten geography, known only to those who have ridden it since childhood.
 
-# Methods
+## Methods
 
 The Khazryn are pure cavalry warriors, operating at speeds and with mobility that sedentary armies cannot match. Standard tactics involve rapid mounted reconnaissance, coordinated archer barrages while riding, lance charges against enemies caught flat-footed, and feigned retreats to draw enemies into prepared ambushes. Bahrazad's particular genius is in predicting enemy movements — he has turned the landscape itself into a weapon, positioning his warriors to use natural features and water sources as tactical advantages.
 
@@ -159,7 +157,7 @@ Kâvehân's reconnaissance has identified two possible locations where the capti
 
 Combat training is continuous and brutal. Wrestling, archery while riding, spear techniques, and the complex maneuvers required for coordinated cavalry are drilled obsessively. The stakes are too high for anything less than perfection.
 
-# Internal Dynamics
+## Internal Dynamics
 
 The band maintains warrior solidarity, but the crisis has exposed fault lines that peacetime concealed:
 
@@ -171,7 +169,7 @@ The band maintains warrior solidarity, but the crisis has exposed fault lines th
 
 The band functions well as a unit, but Bahrazad's grip on authority depends on success. If the rescue fails — or worse, if warriors die and the captives are not recovered — the Tîgh'Savâran will fracture, and the Zarnûsh tribe will follow.
 
-# Plot Hooks
+## Plot Hooks
 
 - **The Rescue.** Bahrazad is preparing the most dangerous operation in Zarnûsh history: a strike deep into Shirzâri territory to recover kidnapped women and children. He needs additional fighters — ideally, outsiders whose faces the Shirzâri will not recognize. Payment is in horses, water rights, and the gratitude of a tribe that never forgets a debt.
 - **The Dûrmand Betrayal.** Razâshar's gambling debts have come due. His Dûrmand creditor — a horse-trader named Shâbâr Gorâvân — is demanding payment in information: the Zarnûsh's well locations, patrol routes, and the timing of Bahrazad's planned strike. Razâshar has not yet agreed, but he has not refused either. If the party learns of this before Bahrazad does, they face a choice: expose the betrayal and destroy the warband's cohesion before the rescue, or handle it quietly and risk the information leaking anyway.
@@ -179,7 +177,7 @@ The band functions well as a unit, but Bahrazad's grip on authority depends on s
 - **The Blood Price.** Shirvand's daughter Farina has been offered in marriage to a Shirzâri chieftain's son — a political alliance that would end the hostility but permanently absorb the captives into the Shirzâri. The Shirzâri have sent a messenger to the Zarnûsh with this "generous offer." Shirvand considers it an act of war. Mithran considers it the best deal they are likely to get. The warband is divided, and Bahrazad must decide before the offer expires.
 - **The Oasis Road.** A merchant caravan from Harad is crossing Zarnûsh territory, heading east. The caravan master carries goods worth a fortune by steppe standards — weapons, textiles, spices — and the caravan guard is light. Bahrazad has always maintained the Zarnûsh's reputation as reliable protectors of trade (the caravan tolls are a vital income source), but the warband needs weapons and supplies desperately. Some warriors are arguing that one robbery would fund the entire rescue operation. The question is whether the short-term gain is worth the permanent loss of caravan revenue — and the Zarnûsh's honor.
 
-# Using the Tîgh'Savâran
+## Using the Tîgh'Savâran
 
 The warband works well as:
 

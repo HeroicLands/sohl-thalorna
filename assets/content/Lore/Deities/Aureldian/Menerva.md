@@ -10,6 +10,4 @@ shortcode: menervadty
 packFolder: deitiesaureldian
 ---
 
-# Ménérva
-
 TBD

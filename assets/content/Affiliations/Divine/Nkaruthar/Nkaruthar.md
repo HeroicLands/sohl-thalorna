@@ -118,12 +118,10 @@ data:
     - nkaruthar
   relations:
     njiayaroho: aligned
-sohl:
-  templatePriority: null
 packFolder: pantheonsnkaruthar
 ---
 
-# Nkaru'thar: The Eternal Flame
+## Nkaru'thar: The Eternal Flame
 
 - **Region:** [[affiliation-okharis|Kingdom of Okháris]]
 - **Nature:** Monotheistic with tripartite aspects and animistic sub-traditions
@@ -133,7 +131,7 @@ The people of [[affiliation-okharis|Okháris]] worship **Nkaru'thar** — the Et
 
 Nkaru'thar is not depicted in human or animal form. The Eternal Flame is understood as a living force — the fire that burned before the world existed, that kindled the first life, and that will one day consume all things so they may be reborn. Every hearth fire, every forge flame, every bolt of lightning is a fragment of Nkaru'thar's presence in the mortal world.
 
-## The Three Aspects
+### The Three Aspects
 
 The theology of Nkaru'thar holds that the Eternal Flame's power divides into three sacred aspects, each tended by a city-state and its priesthood:
 
@@ -145,7 +143,7 @@ The theology of Nkaru'thar holds that the Eternal Flame's power divides into thr
 
 The three aspects are not rivals but necessary complements — spirit without strength is helpless, strength without wisdom is blind, and neither endures without prosperity. The Overlord, currently [[being-takorozanethar|Tákoro Zanethar]] (the Keeper of the Three Flames), embodies the unity of all three, regularly visiting each city-state's temple to participate in grand ceremonies that reaffirm the wholeness of the Eternal Flame.
 
-## The Zohira: Intermediary Spirits
+### The Zohira: Intermediary Spirits
 
 Between Nkaru'thar and the mortal world stand the **[[lore-zohira|zohira]]** — demi-gods or intermediary spirits tied to specific aspects of life such as fertility, storms, rivers, death, and the hunt. The shamanic tradition that deals with them is the [[affiliation-njiayaroho|Njia ya Roho]], which is not a branch of this faith but the older ground it stands on. Their shrines are scattered across the kingdom, from the pyramidal complexes of the city-states to simple stone cairns in tribal territories.
 
@@ -153,24 +151,24 @@ The zohira are not worshipped as independent gods but understood as emissaries a
 
 The distinction between urban temple worship and rural spirit practice is one of emphasis, not doctrine. The city priesthoods acknowledge the zohira as part of Nkaru'thar's design, and the rural shamans recognize the Eternal Flame as the ultimate source. In practice, however, tension sometimes arises between the formalized temple hierarchy and the more intuitive, shamanic traditions of the outlying tribes.
 
-## Sacred Objects
+### Sacred Objects
 
 - **Pyrestone:** A fragment of volcanic glass, carried by the faithful as a personal connection to the Eternal Flame.
 - **Three-Wick Oil Lamp:** Lit during prayers, each wick representing one aspect of the Flame. Extinguishing any wick before the others is considered deeply inauspicious.
 - **Ashmark Paste:** A mixture of temple hearth-ash and sacred oils, applied to the forehead and hands during ceremonies of passage, mourning, or consecration.
 - **Spirit Bone Pendant:** Carved from the bones of animals taken during the Spirit Hunt, worn by shamans and warriors as a mark of their spiritual bond.
 
-## Relics
+### Relics
 
 - **The First Ember:** (Unique) Housed in the deepest chamber of the Zarhánis temple, the First Ember is said to be an undying flame kindled by Nkaru'thar at the moment of creation. It has never been extinguished. The High Pyremant alone may enter its chamber, and all temple fires in Okháris are symbolically descended from it.
 - **The Warden's Brand:** A ceremonial iron blade kept at Vuthráka, heated in sacred fire and used to mark warriors who have proven themselves in the Trial of Flames. The scars it leaves are borne with pride as proof of Nkaru'thar's favor.
 - **The Scales of Kaljékor:** A gilded balance kept in the temple-marketplace, used to weigh offerings and seal trade oaths. Merchants who swear false oaths upon the Scales are said to suffer ruin within a year and a day.
 
-## Clergy
+### Clergy
 
 The priesthood of Nkaru'thar is divided among the three city-states, each maintaining its own hierarchy. All three ultimately defer to the High Pyremant of Zarhánis in matters of doctrine, though in practice the Warden of the Flame and the council of Kaljékor exercise considerable autonomy.
 
-### Zarhánis (Spirit Flame)
+#### Zarhánis (Spirit Flame)
 
 - **Mwanafunzi** ("Student of the Flame") — Initiate
 - **Mtaalamu wa Moto** ("Scholar of the Fire") — Priest/Priestess
@@ -178,7 +176,7 @@ The priesthood of Nkaru'thar is divided among the three city-states, each mainta
 - **Nabii wa Mwanga** ("Prophet of Light") — Temple Master
 - **Pyremant Mkuu** (High Pyremant) — Supreme spiritual leader of Okháris (unique title, one holder)
 
-### Kaljékor (Golden Flame)
+#### Kaljékor (Golden Flame)
 
 - **Mwanafunzi** ("Student of the Flame") — Initiate
 - **Mhudumu wa Dhahabu** ("Servant of Gold") — Priest/Priestess
@@ -186,7 +184,7 @@ The priesthood of Nkaru'thar is divided among the three city-states, each mainta
 - **Mtawala wa Soko** ("Master of the Market") — Temple Master
 - **Baraza ya Moto** ("Council of Fire") — The ruling priest-nobles (collective authority)
 
-### Vuthráka (Wild Flame)
+#### Vuthráka (Wild Flame)
 
 - **Mwanafunzi** ("Student of the Flame") — Initiate
 - **Askari wa Moto** ("Soldier of Fire") — Warrior-Priest
@@ -194,18 +192,18 @@ The priesthood of Nkaru'thar is divided among the three city-states, each mainta
 - **Jemadari wa Moto** ("Commander of Fire") — Temple Master
 - **Mlinzi wa Mwali** (Warden of the Flame) — Supreme military-spiritual leader of Vuthráka (unique title, one holder)
 
-### Tribal Shamans
+#### Tribal Shamans
 
 Outside the city-states, the faith is maintained by **shamans** (often called **mwalimu wa roho**, "teachers of the spirit") who are initiated through the **Spirit Hunt** — a sacred rite in which the candidate must track and defeat a powerful jungle predator, consuming its heart in a ritual that binds their soul more closely to the spirit realm and the zohira. These shamans do not hold formal rank within the temple hierarchy but are respected as intermediaries who maintain the spiritual balance of the rural communities.
 
 **Key Skills:** Herbalism, Physician, Trance, Folklore, Singing, Survival, Tracking
 
-## Divine Servants
+### Divine Servants
 
 - **Zohira:** The intermediary spirits — powerful but not omniscient, each tied to a specific domain (storms, rivers, fertility, death, the hunt, etc.). They appear in visions, dreams, and moments of crisis to guide or warn the faithful.
 - **Moto-Walinzi** ("Fire Guardians"): Spectral presences said to inhabit the great temple fires. When the flames burn in unusual colors or patterns, priests interpret these as messages from the Fire Guardians.
 
-## Ceremonies and Festivals
+### Ceremonies and Festivals
 
 **Low Ceremonies:**
 
@@ -223,14 +221,14 @@ Outside the city-states, the faith is maintained by **shamans** (often called **
 - **The Night of Ashes:** Held at midwinter, this solemn festival honors the dead and the destructive aspect of the Eternal Flame. Families burn offerings to their ancestors, and shamans perform rites to appease restless spirits. The zohira are said to walk openly among mortals on this night.
 - **The Market of Flames:** An annual trade festival at Kaljékor, combining commerce and devotion. Merchants make offerings at the Golden Flame temple before conducting their most important transactions of the year, and oaths sworn during the festival are considered sacred and unbreakable.
 
-## Ordeals for Favor
+### Ordeals for Favor
 
 - **The Firewalk:** The most common ordeal, in which the faithful walk barefoot across a bed of coals drawn from a temple fire. Those who cross without injury are said to have Nkaru'thar's direct favor.
 - **The Trial of Three Flames:** A grueling ordeal for those seeking high office in the priesthood, requiring the candidate to fast for three days while maintaining three sacred fires without allowing any to go out, even through storm and wind.
 - **The Spirit Hunt:** Described above — the initiation ordeal for shamans, but also undertaken by warriors and leaders seeking to prove their spiritual worthiness.
 - **The Vigil of Ashes:** An ordeal of mourning and purification, in which the penitent covers themselves in ash and sits before a dying fire from dusk to dawn, meditating on loss, destruction, and renewal. Often undertaken after a great failure or transgression.
 
-## Orders
+### Orders
 
 **Priestly Orders:**
 
@@ -241,7 +239,7 @@ Outside the city-states, the faith is maintained by **shamans** (often called **
 
 - **The Ashborn:** Elite warrior-priests of Vuthráka who have passed the Trial of Three Flames and bear the Warden's Brand. They fight with ritual scarification visible on their arms and chest, and are said to be immune to fear. In battle they serve as both shock troops and spiritual anchors for the army, chanting war-hymns that invoke the Wild Flame.
 
-## A Worshipped Faith on Older Ground
+### A Worshipped Faith on Older Ground
 
 Nkaru'thar is **worshipped**, and that distinguishes it from the ground it stands on. To be Okháric
 is already to be of the spirits — the [[affiliation-njiayaroho|Njia ya Roho]] is not joined, not
@@ -268,7 +266,7 @@ nothing to renounce — only [[affiliation-njiayaroho|Spirit-Deafness]], which i
 than chosen, and which the Okhárics regard as a far worse thing to have happen to a person than
 being burned for refusing the Flame.
 
-## Relationship to Other Faiths
+### Relationship to Other Faiths
 
 Nkaru'thar is a distinctly Okháric tradition with no direct counterpart in any other Thalorna pantheon. The fire-worship elements bear a superficial resemblance to the [[affiliation-surtr|Faith of Súrtr]] in the [[affiliation-asguardian|Asguardian]] tradition, but the theological foundations are entirely different: where Súrtr represents destruction and chaos as ends in themselves, Nkaru'thar's destructive aspect is always understood as part of a cycle of renewal.
 

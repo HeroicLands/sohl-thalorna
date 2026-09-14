@@ -15,7 +15,7 @@ name:
 packFolder: affiliationshexhodai
 ---
 
-# The Héx Hodäi (The Six Ways)
+## The Héx Hodäi (The Six Ways)
 
 The **Héx Hodäi** — the Six Ways — is the foundational framework of arcane philosophy in western [[place-ankrscntnnt|Ankaris Continent]]. Developed over centuries by scholars of the [[affiliation-panepistmm|Panepistemium]] and refined into doctrine by the [[affiliation-ordoarcanis|Ordo Arcanis]], it holds that all magical phenomena belong to one of six fundamental **Eídmata** — six elemental forms of the arcane, each corresponding to a principle of reality. Within Ordo cosmology, the Héx Hodäi is not a model of magic; it _is_ magic. The arcane is composed of six Eídmata, and the Eídmata exhaust the arcane.
 
@@ -23,7 +23,7 @@ This conviction is so foundational that it is invisible to those inside it. To a
 
 The framework predates the Ordo. Its roots lie in the Helionite city-states, where the College of Arcane Philosophy within the Epistemium first proposed that the bewildering diversity of magical effects could be reduced to a small number of elemental principles in dynamic tension with one another. Early versions of the classification were debated for generations — some scholars proposed four principles, others eight, and one famous dissenter argued for a single unified field with no meaningful subdivisions at all. The six-Eídmata model won out because it proved the most practically useful: students trained within its framework learned faster, achieved greater mastery, and — crucially — were easier to evaluate and regulate. When the Vylarian Republic extracted the College of Arcane Philosophy from the Epistemium and rebuilt it as the Ordo Arcanis, the Héx Hodäi came with it and was hardened from theory into doctrine. Whatever uncertainty the original Helionite scholars had entertained about the model's completeness was, over the generations that followed, quietly forgotten.
 
-## The Sigillum
+### The Sigillum
 
 The six Eídmata are traditionally represented as a hexagonal diagram known as the **Sigillum** (the Seal), with one Eídma at each vertex. The arrangement is not arbitrary — it encodes the relationships between the Eídmata in geometric form.
 
@@ -33,7 +33,7 @@ The Sigillum appears throughout the Ordo's iconography: carved above chapter hou
 
 In formal Ordo usage, an Eídma is named with the Eídma word first and the qualifier following — _Eídma Physéra_, _Eídma Pyréthos_ — mirroring the construction of the Sodalitates. In casual speech among mages, the _Eídma_ is often dropped: "Pyréthos mages," "the Hydälis," "those Sidéros types." Both forms are correct; the formal construction is preferred in Ordo documents, ceremony, and instruction.
 
-## The Three Oppositions
+### The Three Oppositions
 
 The hexagram's geometry encodes three fundamental oppositions — pairs of Eídmata whose principles are antithetical:
 
@@ -45,17 +45,17 @@ The hexagram's geometry encodes three fundamental oppositions — pairs of Eídm
 
 These oppositions are not merely theoretical. A practitioner deeply attuned to one Eídma finds the opposing Eídma's magic genuinely more difficult to grasp, like trying to think in a language whose grammar contradicts everything they know. The Ordo's training exploits this: by channelling students into a single Eídma early, it accelerates their mastery of that Eídma's magic at the cost of making the opposing Eídma's approach increasingly alien. This is efficient, but it also means that most Ordo-trained mages are fundamentally lopsided — brilliant within their Eídma, and increasingly limited outside it.
 
-## Adjacencies and Accord
+### Adjacencies and Accord
 
 If the oppositions define what conflicts within the Sigillum, the _adjacencies_ define what harmonises. Eídmata that sit beside one another on the hexagram share sympathies — their principles overlap, and practitioners of adjacent Eídmata often find each other's magic intuitive.
 
 Pyréthos and Zephäris share the quality of dynamism — both deal in energy, motion, and change, though fire burns and air flows. Zephäris and Physéra both engage with the natural world — air as weather and earth as terrain, the sky and the ground that are always in conversation. Physéra and Hydälis share the principle of sustenance and growth — earth nourishes and water heals, and both concern themselves with living things. Hydälis and Sidéros share the quality of patience — water adapts and metal endures, and both prize the slow work of shaping over the sudden act of force. Sidéros and Pneuménos both deal in _order imposed on chaos_ — metal through material craft and spirit through the binding of wills and entities. And Pneuménos and Pyréthos share an intensity, a willingness to reach beyond safe limits — fire through raw power and spirit through communion with forces that most people would rather not contemplate.
 
-## Dýnaris and Morphís {#dynaris-and-morphis}
+### Dýnaris and Morphís {#dynaris-and-morphis}
 
 Beneath the six Eídmata and their relationships lies a more fundamental theory of how magic actually _works_ — a theory that every Initiatus learns before they are ever assigned to an Eídma. The Ordo teaches that all magical practice rests on two principles: **Dýnaris** (force) and **Morphís** (form).
 
-### Dýnaris: The Force
+#### Dýnaris: The Force
 
 Magic, in the Ordo's understanding, is not something a practitioner generates from within. It is an ambient reality — a vast reservoir of arcane potential that permeates all of existence, pressing against the material world like water behind a dike. This reservoir is the **Dýnaris**: raw magical force, immense and waiting to be drawn upon.
 
@@ -67,7 +67,7 @@ This is why the very first lesson every Initiatus receives is not a spell but a 
 
 As a practitioner matures, they learn to modulate their channel with increasing precision — widening it when more force is needed, narrowing it when delicacy is required, and closing it cleanly when the working is complete. The masters of Dýnaris control can hold multiple channels of different widths simultaneously, feeding different workings with exactly the force each requires. The greatest practitioners can open channels of staggering width — enough to power magic that reshapes landscapes or shatters fortifications — and hold them without being swept away. But even the most powerful mage is drawing from the same reservoir; the difference between the Initiatus and the Archmagister is not the source of their power but the size and stability of the channel they can sustain — and the Eídma to which their channel is attuned.
 
-### The Eídmata as Currents of the Dýnaris
+#### The Eídmata as Currents of the Dýnaris
 
 Because the Dýnaris is inherently six-fold, drawing upon it is always drawing upon one of the six Eídmata. This is not a matter of perception or training — it is a fact of the arcane reality itself, as the Ordo understands it. A Pyréthos mage does not perceive the Dýnaris differently from a Hydälis mage; they draw from a different _current_ of it. The Dýnaris is not one ocean that practitioners filter into different streams; it is six interwoven currents, and each Eídma is the practice of attuning to one of those currents.
 
@@ -75,7 +75,7 @@ A mage's training in their Eídma teaches them to recognise their Eídma's curre
 
 To a fully trained Pyréthos mage, the world hums with the current of Pyréthos — heat, light, the urge to transform — because they have spent decades attuning to that current. They are not blind to the other Eídmata; they can recognise them when they are present. But the current they draw from, the current they shape, the current that comes to them when they reach for it, is Pyréthos. To shift their attunement to another current is the work of years and is rarely successfully accomplished outside of [[affiliation-kentra|Kentra]].
 
-### Morphís: The Form
+#### Morphís: The Form
 
 Raw force, however powerful, accomplishes nothing on its own. The Dýnaris flowing through an open channel is simply _energy_, as purposeless as a river pouring through a breach in a dam. It will cause effects, certainly, but they will be chaotic, uncontrolled, and almost certainly destructive. To make the force _do_ something useful, the practitioner must shape it — and the shaping is the **Morphís**.
 
@@ -87,7 +87,7 @@ This is where the six Eídmata become essential. Each Eídma teaches its practit
 
 The most powerful workings require both mastery of Dýnaris (the ability to open and sustain a wide channel attuned to one's Eídma) and mastery of Morphís (the ability to construct and hold a complex form under the stress of enormous force). This dual requirement is why the Ordo's training takes so long — the two skills develop on different timelines. Young mages often develop Morphís sophistication faster than Dýnaris control, producing practitioners who can construct elegant forms but lack the force to power them. Others develop Dýnaris control faster, producing practitioners who can channel enormous power but lack the forms to direct it safely. The balanced practitioner — strong in both force and form — is the Ordo's goal, and the reason its training lasts a decade or more.
 
-## Foreign Traditions and Cosmological Scandal
+### Foreign Traditions and Cosmological Scandal
 
 The Ordo's conviction that the Héx Hodäi _is_ magic — that the Dýnaris is six-fold and the Eídmata exhaust the arcane — produces a particular kind of distress when its members encounter the magical traditions of other peoples. The arcanists of [[affiliation-tanvurempr|Tānvür]] work magic that does not align cleanly with any of the six Eídmata. The priesthood of [[affiliation-empirtkhpr|Ta'Kheperu]] speaks of nine sacred aspects of the divine arcane, drawn through divine patronage in patterns that cut across the Ordo's elemental categories entirely. The druidic traditions of [[place-elavendre|Élavendre]] appear to work without any clear Eídma attunement at all, accepting whatever the moment provides and shaping it as it comes. The völvur of the [[affiliation-kngdmnrdhm|Nordmen]] kingdoms work through runes and fate-patterns that bear no resemblance to the Sigillum. The [[lore-flksinale|Sinalë]] regard the Héx Hodäi with a polite tolerance that the Ordo finds maddening and refuses to examine too closely.
 
@@ -103,7 +103,7 @@ What the Ordo cannot do — what the framework structurally prevents it from doi
 
 The Ordo's response to these objections, when pressed, is pragmatic rather than philosophical: the Héx Hodäi produces results. The Ordo produces more competent mages, in greater numbers, than any rival tradition. Whether this reflects the framework's truth or merely its efficiency as a training system is a question the Ordo would rather not examine. Asking it too persistently is the kind of thing that gets a Magister referred for evaluation.
 
-## The Eídmata
+### The Eídmata
 
 - **[[affiliation-pyrethos|Eídma Pyréthos]]** — Fire: heat, light, energy, transformation through destruction
 - **[[affiliation-zepharis|Eídma Zephäris]]** — Air: wind, weather, sound, illusion, the intangible
@@ -113,7 +113,7 @@ The Ordo's response to these objections, when pressed, is pragmatic rather than 
 - **[[affiliation-pneumenos|Eídma Pneuménos]]** — Spirit: mind, soul, communion with otherworldly entities, the immaterial
 - **[[affiliation-kentra|Kentra]]** — Centre: mastery of all six Eídmata
 
-## See Also
+### See Also
 
 - [[affiliation-ordoarcanis|Ordo Arcanis]] — The institution that codified and enforces the Héx Hodäi
 - [[affiliation-panepistmm|Panepistemium]] — Where the foundational concepts were first developed

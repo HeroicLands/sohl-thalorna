@@ -7,10 +7,11 @@ description: "Flexible-bladed whip spiraling from grip; specialist's weapon dema
 img: systems/sohl/assets/icons/other/sword.svg
 shortcode: urumi
 type: weapongear
+data:
+  templatePriority: null
 sohl:
   kbcat: sword
   weaponType: Sword
-  templatePriority: null
   system:
     weightBase: 2
     valueBase: 96

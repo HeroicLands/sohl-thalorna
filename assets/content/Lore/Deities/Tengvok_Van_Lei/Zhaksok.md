@@ -10,6 +10,4 @@ shortcode: zhaksokdty
 packFolder: deitiestengvokvanlei
 ---
 
-# Zhāksōk
-
 TBD

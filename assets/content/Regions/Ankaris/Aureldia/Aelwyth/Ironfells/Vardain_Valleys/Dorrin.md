@@ -20,8 +20,6 @@ shortcode: dorrin
 packFolder: aelwyth
 ---
 
-# Dorrin
-
 **Dorrin** is the highest inhabited place in the valleys, on the shoulder where the ground falls away
 east toward the sea cliffs. Two hundred and eighty people, and the view.
 

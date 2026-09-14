@@ -10,6 +10,4 @@ shortcode: thanatosdty
 packFolder: deitiesaureldian
 ---
 
-# Thánatos
-
 TBD

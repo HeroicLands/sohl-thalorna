@@ -92,11 +92,7 @@ data:
   lore: []
   parents: []
   relations: {}
-sohl:
-  templatePriority: null
 ---
-
-# The Merchant Collective of Vedyara
 
 _Vedyaran: Vyāpārī Sangha — "the Merchants' Assembly"_
 

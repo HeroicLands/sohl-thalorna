@@ -42,7 +42,6 @@ data:
     extra_features:
       - a tattoo of a crescent moon on the neck and a Seaman's Guild tatoo on his right arm.
 sohl:
-  templatePriority: null
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 15 } }
     - { model: sohl-sohl-attribute-end, system: { scoreBase: 16 } }
@@ -550,11 +549,11 @@ sohl:
     defaultCombatGroup: null
 ---
 
-# Appearance {#appearance}
+## Appearance {#appearance}
 
 Thâven Fárwèn is a 45-year-old man who stands 6'0" tall and is broad and solidly built. He has a heart-shaped face with wide-set cheekbones, a wide forehead, and an angular jaw that leads to a pointed chin. His wide-set brown eyes sit beneath expressive brows, lending him an open gaze. A narrow nose and firm lips complete his features. He has fair skin with a fair complexion. His red hair is short and swept back.
 
-# Dossier {#dossier}
+## Dossier {#dossier}
 
 Born in the Provènzia region to a freeman family of Provenzian heritage, Thâven Fárwèn came into the world of the bosun through a combination of circumstance and aptitude.
 
@@ -562,37 +561,37 @@ Bosun Kellan is a seasoned veteran of the sea and is responsible for the ship's 
 
 Now at 45 years of age, Thâven Fárwèn has established himself as a known figure among the bosuns of Provènzia. His reputation, for better or worse, precedes him in the circles where such things matter.
 
-## Psyche
+### Psyche
 
-### Personality
+#### Personality
 
 Can be too strict, struggles with adapting to new technologies.
 
-### Motivation
+#### Motivation
 
 Thâven is driven by the desire to master his craft and secure a stable future. The uncertainties of life in bosun work keep him vigilant and adaptable.
 
-### Strengths
+#### Strengths
 
 Strong leader, highly experienced, excellent at managing crew.
 
-## Social
+### Social
 
 Thâven is affiliated with None; works on a hired basis..
 
 As a Provenzian bosun, Thâven occupies a recognized social niche within Provènzia society.
 
-## Companions
+### Companions
 
-### Patrons
+#### Patrons
 
 Thâven's primary patron is Ship captains and crew members who respect his authority.. This relationship provides both opportunity and obligation.
 
-### Enemies
+#### Enemies
 
 Few; generally well-respected, though some may resent his strictness.
 
-## Plot Hooks
+### Plot Hooks
 
 1. **The Bosun's Dilemma** — Thâven faces a professional crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Provènzia.
 

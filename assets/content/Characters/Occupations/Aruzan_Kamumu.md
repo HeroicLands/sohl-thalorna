@@ -42,7 +42,6 @@ data:
     extra_features:
       - a scar on the right forearm
 sohl:
-  templatePriority: null
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 16 } }
     - { model: sohl-sohl-attribute-end, system: { scoreBase: 15 } }
@@ -552,11 +551,11 @@ sohl:
     defaultCombatGroup: null
 ---
 
-# Appearance {#appearance}
+## Appearance {#appearance}
 
 Arûzan Kamûmû is a 35-year-old man who stands 6'2" tall and is broad and solidly built. He has a heart-shaped face with wide-set cheekbones, a broad forehead, and a sharp jaw that leads to a prominent chin. His almond-shaped brown eyes sit beneath prominent brows, lending him a measured gaze. A straight nose and thin lips complete his features. He has tanned skin with an even complexion. His black hair is cropped short.
 
-# Dossier {#dossier}
+## Dossier {#dossier}
 
 Born in the Harad region to a freeman family of Haradian heritage, Arûzan Kamûmû came into the world of the bodyguard through a combination of circumstance and aptitude.
 
@@ -564,37 +563,37 @@ Garrick is a seasoned bodyguard with years of experience in protecting merchants
 
 Now at 35 years of age, Arûzan Kamûmû has established himself as a known figure among the bodyguards of Harad. His reputation, for better or worse, precedes him in the circles where such things matter.
 
-## Psyche
+### Psyche
 
-### Personality
+#### Personality
 
 Can be too aggressive, struggles with negotiation skills.
 
-### Motivation
+#### Motivation
 
 Arûzan is driven by the desire to master his craft and secure a stable future. The uncertainties of life in bodyguard work keep him vigilant and adaptable.
 
-### Strengths
+#### Strengths
 
 Strong and intimidating, skilled in hand-to-hand combat, good at intimidation.
 
-## Social
+### Social
 
 Arûzan is affiliated with Local Mercenaries Guild.
 
 As a Haradian bodyguard, Arûzan occupies a recognized social niche within Harad society.
 
-## Companions
+### Companions
 
-### Patrons
+#### Patrons
 
 Arûzan's primary patron is Merchants and minor lords requiring strong protection.. This relationship provides both opportunity and obligation.
 
-### Enemies
+#### Enemies
 
 Few; generally well-respected but some may fear him.
 
-## Plot Hooks
+### Plot Hooks
 
 1. **The Bodyguard's Dilemma** — Arûzan faces a professional crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Harad.
 

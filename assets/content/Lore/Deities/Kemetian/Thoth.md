@@ -11,8 +11,6 @@ img: icons/takheperu/pantheon/thoth.svg
 packFolder: deitieskemetian
 ---
 
-# Thōth
-
 _Scribe of the Eternal Library — an ibis quill writing on a golden scroll._
 
 Thōth is the custodian of all knowledge and the divine scribe, recording not merely the deeds of

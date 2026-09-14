@@ -20,8 +20,6 @@ shortcode: owlhollow
 packFolder: elavendre
 ---
 
-# The Owl Hollow
-
 A steep wooded fold in the lower [[place-drenavrspn|Drenavar]] country, dark under its canopy at
 midday and quiet in a way visitors remark on before they are told why. The [[lore-aelendnppl|Áelendan]]
 named it for what is seated in it — [[lore-nyfainspr|Nyfain]], the White Owl — and the tribes of the

@@ -20,8 +20,6 @@ shortcode: aelirosse
 packFolder: elavendre
 ---
 
-# Aelirossë
-
 **Aelirossë** lies deep in the **[[place-silvrfrsts|Silver Forests]]**, within the
 [[place-alndntrblnds|Áelendan Tribal Lands]] of [[place-ardwyn|Ardwyn]], not far from the
 [[place-ataanwyrd|At'aan Wyrd]]. Perhaps a hundred and twenty [[lore-flksinale|Sinalë]] live there, and

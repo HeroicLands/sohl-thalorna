@@ -10,8 +10,6 @@ shortcode: sobekdty
 packFolder: deitieskemetian
 ---
 
-# Sobek
-
 _The Crocodile-God._
 
 Sobek is the god of the river-beasts, and his cult carries the sharpest practical tension in the

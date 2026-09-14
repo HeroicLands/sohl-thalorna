@@ -13,8 +13,6 @@ shortcode: ngurumospr
 packFolder: lorespiritsokharic
 ---
 
-# Ngurumo
-
 - **Kind:** [[lore-zohira|Zohira]], emissary of [[affiliation-nkaruthar|the Eternal Flame]]
 - **Domain:** Storms
 - **Also called:** the Thunder Above

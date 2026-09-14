@@ -21,8 +21,6 @@ terran_analog: "The Swiss Alps and adjacent French Alpine massifs — the great 
 packFolder: elavendre
 ---
 
-# The Drenavar Spine
-
 - **Type:** Sacred mountain range
 - **Region:** Interior [[place-elavendre|Élavendre]]
 - **Controlled by:** [[lore-aelendnppl|Áelendan]]

@@ -15,6 +15,4 @@ shortcode: vylarisrvr
 packFolder: vylaria
 ---
 
-# River Vylaris
-
 The river the Vylarian heartland is named for.

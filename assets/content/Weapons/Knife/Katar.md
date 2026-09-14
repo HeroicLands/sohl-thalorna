@@ -7,10 +7,11 @@ description: "H-gripped forearm-blade for knuckle-punch; tavern brawler's forcin
 img: systems/sohl/assets/icons/game-icons/lorc/broad-dagger.svg
 shortcode: katr
 type: weapongear
+data:
+  templatePriority: null
 sohl:
   kbcat: knife
   weaponType: Knife
-  templatePriority: null
   system:
     weightBase: 1
     valueBase: 60

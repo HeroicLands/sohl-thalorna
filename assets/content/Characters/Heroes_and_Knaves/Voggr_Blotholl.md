@@ -40,7 +40,6 @@ data:
     extra_features:
       - a scar running down the back
 sohl:
-  templatePriority: null
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 15 } }
     - { model: sohl-sohl-attribute-end, system: { scoreBase: 15 } }
@@ -592,11 +591,11 @@ sohl:
     defaultCombatGroup: null
 ---
 
-# Appearance {#appearance}
+## Appearance {#appearance}
 
 Vöggr stands 5'11" tall with a heavy build. He has tanned weathered skin, gray hair, and blue eyes. His features include a long face, a long nose, a strong jawline, a firm-set mouth, low-set brows, angular cheeks. A distinguishing mark is a scar running down the back.
 
-# Dossier {#dossier}
+## Dossier {#dossier}
 
 **The Forest's Education**
 
@@ -614,9 +613,9 @@ For the next thirty years, Vöggr has been regarded as the finest practitioner o
 
 Now at fifty-two winters, Vöggr finds himself increasingly out of step with his own profession. A new generation of woodcutters has emerged who prioritize speed and volume over sustainability, who use newer, faster techniques that sacrifice the careful deliberation he believes essential. Younger merchants seek cheaper timber and care nothing for the philosophy of its sourcing. Vöggr remains committed to his ideals, but he recognizes that his way may die with him, and this knowledge weighs heavily on his spirit.
 
-## Psyche
+### Psyche
 
-### Personality
+#### Personality
 
 Vöggr is a man of profound silence. Where others might fill gaps with conversation, he observes and thinks. This quietness is not the result of shyness or social incapacity; rather, it reflects a mind that prefers to understand a situation thoroughly before speaking. When he does choose to offer words, they are typically few, direct, and considered carefully. He has little patience for pretense or deception, and he makes his disapproval of such things clear through his bearing rather than elaborate explanation.
 
@@ -624,43 +623,43 @@ Despite his gruff exterior, Vöggr possesses a deep capacity for connection with
 
 Vöggr's primary emotional reality, however, is one of slow-burning melancholy. He is not depressed in an incapacitating sense, but rather profoundly aware of the dying of an era and the approaching obsolescence of his own way of life. This sadness informs his interactions with the world, lending him a gravitas that younger men mistake for grimness.
 
-### Motivation
+#### Motivation
 
 Vöggr is driven by two interrelated motivations: a determination to practice his craft according to the highest principles of care and sustainability, and a desperate hope that he might somehow preserve this philosophy for future generations despite overwhelming evidence that the world is moving in the opposite direction. His actions are guided by the conviction that the proper relationship between humans and the natural world is one of careful stewardship rather than aggressive exploitation. He seeks opportunities to demonstrate this philosophy's validity and to inspire—or force—others to adopt more thoughtful practices. At his deepest level, he is fighting against inevitable decline, attempting to leave a legacy of understanding and method that might survive him.
 
-### Strengths
+#### Strengths
 
 - **Incomparable Expertise**: Vöggr's knowledge of trees, wood quality, sustainable harvesting, and timber preparation is unmatched in the region. No other living woodcutter can match his ability to assess a tree's readiness for harvest or identify the optimal use for any given piece of timber.
 - **Physical Endurance**: Despite his age, Vöggr possesses exceptional strength and stamina, capable of work that would exhaust younger men. His body is a tool perfectly calibrated through decades of use.
 - **Unquestionable Integrity**: His reputation for conducting his business with complete honesty and commitment to stated principles is absolute. Carpenters, nobles, and ordinary people alike know that Vöggr's word is reliable and his judgment incorruptible.
 - **Deep Forest Knowledge**: Beyond woodcutting, Vöggr possesses extensive practical knowledge of forest ecology, medicinal plants, animal behavior, and wilderness survival—years of careful observation accumulated through constant presence in wild spaces.
 
-### Weaknesses
+#### Weaknesses
 
 - **Stubborn Inflexibility**: Vöggr's commitment to traditional methods blinds him to potential applications of newer techniques, even when such techniques might achieve sustainability through different means.
 - **Difficulty Adapting to Markets**: He struggles to understand and accept that commercial realities may require compromise. His refusal to cut corners sometimes makes him uncompetitive in a market that increasingly values speed over quality.
 - **Cautionary Pessimism**: His awareness of cultural decline and generational change sometimes manifests as fatalism—a belief that resistance is ultimately futile and that the best he can do is maintain his own standards while the world changes around him.
 - **Limited Capacity for Trust**: Vöggr's experiences with those who ignore his warnings and proceed with foolish practices have left him deeply skeptical of others' commitment to careful work, making collaboration difficult.
 
-## Social
+### Social
 
-### Patrons
+#### Patrons
 
 - **The Masterwork Carpenters' Alliance**: A collective of the region's finest woodworkers who depend upon Vöggr's timber for their most important commissions and fiercely defend his methods against criticism.
 - **Jarl Hálrek Forestborn**: A noble who has made the surprising commitment to sustainable forest management and contracts Vöggr for all major timber needs across his extensive lands.
 - **The Herbal Society of Nordheim**: An organization dedicated to preserving forest knowledge and sustainable practices that values Vöggr's expertise and advocates for his methods throughout the kingdom.
 
-### Enemies
+#### Enemies
 
 - **The Rapid Timber Consortium**: A coalition of aggressive woodcutters and merchants who prioritize extraction volume over sustainability and view Vöggr as an obstacle to profit, regularly underbidding his contracts and spreading rumors about his inflexibility.
 - **Master Loggen the Efficient**: A younger, talented woodcutter who has embraced modern techniques that allow rapid felling and processing. He and Vöggr have clashed repeatedly over philosophy and methods, with Loggen publicly mocking the elder's "outdated sentimentality."
 - **The Expanding Cities Guild**: An organization of merchants and builders who source timber for urban expansion and have no interest in the slower pace and higher costs of sustainable harvesting.
 
-### Affiliations
+#### Affiliations
 
 - **The Woodcutters' Guild of Nordheim**: Vöggr holds significant prestige within the Guild as one of its most respected masters, and his advocacy for traditional standards provides the primary counterweight to those pushing toward more aggressive practices.
 
-## Plot Hooks
+### Plot Hooks
 
 1. **The Forest's Dying Plea**: A forester friend of Vöggr's discovers that an entire region of the forest is being systematically poisoned by something—whether deliberate contamination or industrial runoff from a distant settlement, it is killing the trees slowly and methodically. Vöggr is devastated but uncertain how to respond, as the poisoning is subtle enough that conventional harvesting practices won't resolve it. The party must help him investigate the source while also deciding whether the response requires violence, negotiation, or something more complex. The adventure challenges Vöggr's peaceable nature and his commitment to working within established systems.
 

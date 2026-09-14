@@ -15,8 +15,6 @@ name:
 shortcode: bartercnmy
 ---
 
-# The Barter Economy
-
 ## Overview
 
 The **barter economy** is the practice of direct goods-for-goods exchange without monetary intermediary. It is the predominant economic system in much of Thalorna — the tribal regions, the pastoral steppes, the frontier highlands, and the deep interiors of any region the formal currency systems do not reach. It is also a substantial _secondary_ economy in regions that have currency: most rural commerce in the Aurèldían kingdoms, most clan-level exchange in the Nordlands, most market-day transactions in Bethûan villages, and a substantial fraction of the daily commerce of every Thalornan polity operates in barter even where coined currency is technically available.

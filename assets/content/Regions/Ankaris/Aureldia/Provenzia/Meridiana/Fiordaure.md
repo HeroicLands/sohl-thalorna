@@ -18,8 +18,6 @@ shortcode: fiordaure
 packFolder: provenzia
 ---
 
-# Fiòrdaure
-
 **Fiòrdaure** lies on the warm southern coast between the great ports, a town of some six thousand
 that would be unremarkable but for what lies immediately east of it: the **salt flats**.
 

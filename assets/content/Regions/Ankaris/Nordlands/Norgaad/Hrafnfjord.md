@@ -17,8 +17,6 @@ shortcode: hrafnfjord
 packFolder: norgaad
 ---
 
-# Hrafnfjord
-
 ## Overview
 
 Hrafnfjord nestles deep within a narrow fjord on the western coast of Norgaad, accessible only by sea or through treacherous mountain passes. The settlement takes its name from the ravens that wheel above the cliffs—birds believed to be messengers of Odin—and the locals regard them with a reverence bordering on sacred awe. The village is small, perhaps 300 souls, living in turf-roofed houses clustered near the water's edge. The mountains that tower above create an atmosphere of isolation and mystery; the fjord's waters run cold and deep, and the villagers speak in hushed tones of currents that pull wrongly and lights that dance beneath the ice in winter.

@@ -118,8 +118,6 @@ data:
     kngdmvthgrd: unaligned
     grukarholm: nemesis
     vrystwldtrbs: rival
-sohl:
-  templatePriority: null
 packFolder: nordheim
 ---
 

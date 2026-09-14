@@ -9,8 +9,9 @@ name:
   full: "Ritual: Ázráván"
   aliases:
     - Lord of the Final Horizon
-sohl:
+data:
   templatePriority: null
+sohl:
   system:
     skillBaseFormula: "@wil, @rea"
     masteryLevelBase: 0

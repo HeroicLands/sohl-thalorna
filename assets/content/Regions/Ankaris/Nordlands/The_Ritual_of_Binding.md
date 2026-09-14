@@ -12,8 +12,6 @@ shortcode: njordurritlbinding
 packFolder: nordlands
 ---
 
-# The Ritual of Binding
-
 The **Ritual of Binding** is the rite by which the Sea Wraith [[being-njorven|Njörven]] is sealed
 away. It is the object of [[scenario-groascmpgn|Gróa's Campaign]], and the campaign's final act
 consists of getting it performed.

@@ -41,7 +41,6 @@ data:
     complexion: weathered
     extra_features: []
 sohl:
-  templatePriority: null
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 16 } }
     - { model: sohl-sohl-attribute-end, system: { scoreBase: 15 } }
@@ -553,11 +552,11 @@ sohl:
     defaultCombatGroup: null
 ---
 
-# Appearance {#appearance}
+## Appearance {#appearance}
 
 Gálver Maríthran is a 50-year-old man who stands 6'0" tall and is broad and solidly built. He has a long face with prominent cheekbones, a lined forehead, and an angular jaw that leads to a square chin. His piercing brown eyes sit beneath straight brows, lending him a penetrating gaze. A straight nose and narrow lips complete his features. He has olive-tanned skin with a weathered complexion. His white hair is tied in a low tail.
 
-# Dossier {#dossier}
+## Dossier {#dossier}
 
 Born in the Tarvénia region to a freeman family of Tarvénan heritage, Gálver Maríthran came into the world of the mason through a combination of circumstance and aptitude.
 
@@ -565,37 +564,37 @@ Gorvin is a veteran mason with over thirty years of experience. He has worked on
 
 Now at 50 years of age, Gálver Maríthran has established himself as a known figure among the masons of Tarvénia. His reputation, for better or worse, precedes him in the circles where such things matter.
 
-## Psyche
+### Psyche
 
-### Personality
+#### Personality
 
 Can be resistant to change, sometimes too strict with apprentices.
 
-### Motivation
+#### Motivation
 
 Gálver is driven by the desire to master his craft and secure a stable future. The uncertainties of life in mason work keep him vigilant and adaptable.
 
-### Strengths
+#### Strengths
 
 Highly experienced, strong leadership skills, excellent craftsmanship.
 
-## Social
+### Social
 
 Gálver is affiliated with Local Masons' Guild.
 
 As a Tarvénan mason, Gálver occupies a recognized social niche within Tarvénia society.
 
-## Companions
+### Companions
 
-### Patrons
+#### Patrons
 
 Gálver's primary patron is Architects and builders seeking experienced masons.. This relationship provides both opportunity and obligation.
 
-### Enemies
+#### Enemies
 
 Few; respected in the community.
 
-## Plot Hooks
+### Plot Hooks
 
 1. **The Mason's Dilemma** — Gálver faces a professional crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Tarvénia.
 

@@ -19,8 +19,6 @@ shortcode: aldorvale
 packFolder: aelwyth
 ---
 
-# The Aldorvale
-
 The **Aldorvale** is the broad, lush, well-watered heart of [[affiliation-kngdmldrth|Aldorath]], and the
 reason the kingdom is the largest on Aelwyth. Ninety-five thousand people live in it — half of
 Aldorath's total — on some of the best arable ground in the Aurèldían west.

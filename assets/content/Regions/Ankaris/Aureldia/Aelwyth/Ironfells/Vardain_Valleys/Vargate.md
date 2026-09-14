@@ -20,8 +20,6 @@ shortcode: vargate
 packFolder: aelwyth
 ---
 
-# Vargate
-
 **Vargate** stands at the foot of the road that climbs to [[place-vorgald|Vorgald]], and it is the only
 reason anyone outside the [[place-vardainvalleys|valleys]] has heard of the
 [[lore-vardain|Vardain]]. Five thousand people — much the largest settlement in the Ironfells, and

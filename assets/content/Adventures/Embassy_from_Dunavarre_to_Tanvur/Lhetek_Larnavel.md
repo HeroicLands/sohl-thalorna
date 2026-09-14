@@ -22,11 +22,7 @@ data:
     - kingdmdnvr
   gender: male
   species: null
-sohl:
-  templatePriority: null
 ---
-
-# Lhetek Larnavel
 
 **Role.** Provides spiritual guidance and conducts the mission's rites.
 

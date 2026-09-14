@@ -42,7 +42,6 @@ data:
     extra_features:
       - a tattoo of a heart on the chest
 sohl:
-  templatePriority: null
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 15 } }
     - { model: sohl-sohl-attribute-end, system: { scoreBase: 16 } }
@@ -550,11 +549,11 @@ sohl:
     defaultCombatGroup: null
 ---
 
-# Appearance {#appearance}
+## Appearance {#appearance}
 
 Arzânalàs Bâredâs is a 54-year-old man who stands 6'2" tall and is broad and solidly built. He has an oval face with broad cheekbones, a high forehead, and an angular jaw that leads to a prominent chin. His large dark brown eyes sit beneath arched brows, lending him an expressive gaze. A straight nose and wide lips complete his features. He has medium-toned skin with an olive-toned complexion. His gray hair is kept practical and short. A notable feature is crow's feet at the corners of sharp eyes.
 
-# Dossier {#dossier}
+## Dossier {#dossier}
 
 Born in the Vylaría region to a freeman family of Vylarian heritage, Arzânalàs Bâredâs came into the world of the huscarl through a combination of circumstance and aptitude.
 
@@ -562,37 +561,37 @@ Ulfric has dedicated his life to serving as a huscarl for Lord Halvar. With deca
 
 Now at 54 years of age, Arzânalàs Bâredâs has established himself as a known figure among the huscarls of Vylaria. His reputation, for better or worse, precedes him in the circles where such things matter.
 
-## Psyche
+### Psyche
 
-### Personality
+#### Personality
 
 Slow to adapt to new methods, struggles with physical demands of battle due to age.
 
-### Motivation
+#### Motivation
 
 Arzânalàs is driven by the desire to master his craft and secure a stable future. The uncertainties of life in huscarl work keep him vigilant and adaptable.
 
-### Strengths
+#### Strengths
 
 Highly experienced, excellent strategist, resilient.
 
-## Social
+### Social
 
 Arzânalàs is affiliated with Lord Halvar's retinue.
 
 As a Vylarian huscarl, Arzânalàs occupies a recognized social niche within Vylaria society.
 
-## Companions
+### Companions
 
-### Patrons
+#### Patrons
 
 Arzânalàs's primary patron is Lord Halvar and his family.. This relationship provides both opportunity and obligation.
 
-### Enemies
+#### Enemies
 
 Few; respected by peers and young warriors.
 
-## Plot Hooks
+### Plot Hooks
 
 1. **The Huscarl's Dilemma** — Arzânalàs faces a professional crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Vylaria.
 

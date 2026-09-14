@@ -20,8 +20,6 @@ shortcode: wasetkara
 packFolder: capitalnome
 ---
 
-# Wasetkara
-
 ## Overview
 
 Wasetkara is the imperial city of [[affiliation-empirtkhpr|The Empire of Ta'Kheperu]] — seat of the Per-Aá, capital of the [[affiliation-capitalnom|The Capital Nome]], and by far the largest city in the empire. For three thousand years it has been the center of the oldest civilization on Thalorna, and it wears the weight of that antiquity in stone: the immense temple-complexes that define the empire's official doctrine, the palace where the semi-divine Per-Aá rules through ritual and ceremony, the bureaus and treasuries of the central bureaucracy, the [[affiliation-kenbetpat|Kenbet'Pat]] council-halls, and the scribal schools that staff the realm. Midstream, on a sacred island held to be the very mound where creation began, stand the palace and the Great Temple of [[affiliation-kemtnpnthn|Rā]]; and across the water on the western desert shore stretch the necropoli — the pyramids and rock-cut tombs of dynasty upon dynasty. The living city, the god's island, and the city of the dead lie strung from east to west along the path of the sun.

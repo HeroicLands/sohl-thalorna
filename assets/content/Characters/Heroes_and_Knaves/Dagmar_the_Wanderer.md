@@ -42,7 +42,6 @@ data:
     complexion: null
     extra_features: []
 sohl:
-  templatePriority: null
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 10 } }
     - { model: sohl-sohl-attribute-end, system: { scoreBase: 11 } }
@@ -585,17 +584,17 @@ sohl:
     defaultCombatGroup: null
 ---
 
-# Appearance {#appearance}
+## Appearance {#appearance}
 
 Dagmar stands 5'7\" tall with a light build. He has light skin, brown hair, and green eyes. His features include a prominent nose, a firm-set mouth, heavy brows, flat cheeks.
 
-# Dossier {#dossier}
+## Dossier {#dossier}
 
 Dagmar is a skald from the far northern reaches of Norgaad, where he wandered from clan to clan, composing songs and telling tales of great heroes and legendary battles. He is clanless, having been exiled for an unknown crime—though some whisper that he had an affair with a powerful lord’s wife, others say he was involved in a conspiracy against his clan. [[being-grosdrnrgd|Gróa]] met Dagmar at a village blót, where the skald’s sharp wit and knowledge of ancient lore impressed her. Dagmar’s songs often contain veiled warnings and prophecies, hinting at the deeper wisdom he possesses.
 
-## Background
+### Background
 
-### Skills and Abilities
+#### Skills and Abilities
 
 - **Strength**: Not particularly strong, relies more on wit than brawn.
 - **Endurance**: Can handle long travels but not extreme physical strain.
@@ -612,29 +611,29 @@ Dagmar is a skald from the far northern reaches of Norgaad, where he wandered fr
 - **Morality**: As a rogue skald, Dagmar enjoys his freedom and has a loose relationship with the mores of his culture. He’s willing to take advantage of situations as long as it benefits him.
 - **Voice**: As a rogue skald, Dagmar’s voice is one of his greatest assets. He can captivate an audience with his melodious tone, turning his songs and stories into unforgettable performances.
 
-## Psyche
+### Psyche
 
-### Personality
+#### Personality
 
 Cynical and secretive, Dagmar is a skilled manipulator and strategist. He is not above bending the truth or playing both sides to his advantage, but his loyalty to [[being-grosdrnrgd|Gróa]] is genuine. Dagmar sees the Seidr as a kindred spirit, both outcasts who walk between worlds.
 
-### Motivation
+#### Motivation
 
 Dagmar’s interest in [[being-grosdrnrgd|Gróa]] lies in the Seidr’s connection to the spirit world, which fascinates him. She sees [[being-grosdrnrgd|Gróa]]’s journey as an opportunity to witness something truly extraordinary and to compose the greatest saga ever told.
 
-### Strengths
+#### Strengths
 
 - **Storytelling**: Expert skald, crafting stories and songs.
 - **Sleight of Hand**: Skilled at manipulating objects.
 - **Lore**: Deep knowledge of ancient tales and prophecies.
 
-## Social
+### Social
 
-### Patrons
+#### Patrons
 
 Local clans
 
-## Plot Hooks
+### Plot Hooks
 
 1. **The Song of Unwritten Fates**: Dagmar is approached by a mysterious figure who claims to have an ancient saga meant to be sung only once, at a time when fate hangs in the balance. The figure insists Dagmar is the only one worthy of delivering it, but as Dagmar deciphers the verses, he realizes the saga predicts events that could destroy his companions—or save them. The choice of how and when to use it rests with him.
 

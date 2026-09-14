@@ -18,8 +18,6 @@ shortcode: aureliane
 packFolder: provenzia
 ---
 
-# Aurèliane
-
 **Aurèliane** stands inland in the south, on the great road, and is the oldest city in Provènzia. It
 was founded as a [[affiliation-vylarinmpr|Vylarian]] colony, laid out on the imperial grid, and served
 for centuries as the provincial capital of everything the empire held west of the sea.

@@ -12,8 +12,9 @@ name:
     - Vyalendravada
     - The Doctrine of Vyālendra
     - Vyāndran School
-sohl:
+data:
   templatePriority: null
+sohl:
   system:
     skillBaseFormula: "@wil, @rea"
     masteryLevelBase: 0

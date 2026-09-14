@@ -8,7 +8,7 @@ shortcode: fvlmntlrds
 packFolder: celestialorder
 ---
 
-# The Five Elemental Lords
+## The Five Elemental Lords
 
 The **Five Elemental Lords** are the elemental administrators of the [[lore-clstlpnthn|Celestial Pantheon]], each holding the portfolio for one of the five _material_ domains of classification that sustain the physical world within the [[affiliation-tanvurempr|Empire of Tānvür]]. They are not gods to be worshipped but **bureau chiefs to be petitioned** — powerful officials appointed during the Great Sorting to maintain the elemental categories that keep the physical world from dissolving back into the Hürnlëi.
 
@@ -18,7 +18,7 @@ Each Elemental Lord governs a domain established by Tānlüng during the [[affil
 
 ---
 
-## Vëngdāk Zhütvōr — Azure Wind of Sacred Breath
+### Vëngdāk Zhütvōr — Azure Wind of Sacred Breath
 
 - **Element:** Air
 - **Domain:** Breath, Communication, and the Medium of Classification
@@ -32,7 +32,7 @@ Sailors, messengers, and those who depend on the movement of goods and informati
 
 ---
 
-## Röthöt Dākvëng — Blazing Flame of Glorious Fire
+### Röthöt Dākvëng — Blazing Flame of Glorious Fire
 
 - **Element:** Fire
 - **Domain:** Fire, Transformation, and Transmission
@@ -46,7 +46,7 @@ Smiths, who transform raw ore into metal through fire, are understood to be perf
 
 ---
 
-## Dāktūr Vōrthāt — Warm Stone of Deep Earth
+### Dāktūr Vōrthāt — Warm Stone of Deep Earth
 
 - **Element:** Earth
 - **Domain:** Stability, Foundation, and Persistence
@@ -60,7 +60,7 @@ Builders, miners, and engineers file petitions with this bureau for structural i
 
 ---
 
-## Vōrjīk Jëk — Sword of Pure Metal
+### Vōrjīk Jëk — Sword of Pure Metal
 
 - **Element:** Metal
 - **Domain:** Distinction, Boundary, and Enforcement
@@ -74,7 +74,7 @@ Weaponsmiths and judges alike petition this bureau. Warriors of the [[lore-vusho
 
 ---
 
-## Zhütshüt Lüng — Blue Water Dragon
+### Zhütshüt Lüng — Blue Water Dragon
 
 - **Element:** Water
 - **Domain:** Flow, Transition, and Adaptability
@@ -86,7 +86,7 @@ He is depicted as a majestic dragon, his scales shimmering in shades of blue and
 
 Sailors, healers, and the Yātvōr physicians of the [[lore-zathuk|Zāthük]] caste maintain close administrative ties to this bureau. The healing arts in particular draw heavily on the Water domain, since restoring a body's health is understood as realigning its internal classification channels — a process that Zhütshüt Lüng's bureau administers.
 
-## See Also
+### See Also
 
 - [[lore-clstlpnthn|Celestial Pantheon]] — The senior officials of the celestial administration
 - [[lore-phlsphylvr|Philosophy of Lëivōr]] — The elemental philosophy underlying these domains

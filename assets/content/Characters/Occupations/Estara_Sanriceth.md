@@ -41,7 +41,6 @@ data:
     complexion: olive_toned
     extra_features: []
 sohl:
-  templatePriority: null
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 12 } }
     - { model: sohl-sohl-attribute-end, system: { scoreBase: 14 } }
@@ -550,11 +549,11 @@ sohl:
     defaultCombatGroup: null
 ---
 
-# Appearance {#appearance}
+## Appearance {#appearance}
 
 Estára Sánriceth is a 29-year-old woman who stands 5'11" tall and is of moderate build. She has an oval face with sharp cheekbones, a prominent forehead, and a sharp jaw that leads to a prominent chin. Her hooded amber eyes sit beneath heavy brows, lending her a guarded gaze. A prominent nose and wide lips complete her features. She has tanned skin with an olive-toned complexion. Her black hair is plaited in a single thick braid.
 
-# Dossier {#dossier}
+## Dossier {#dossier}
 
 Born in the Tarvénia region to a freeman family of Tarvénan heritage, Estára Sánriceth came into the world of the teamster through a combination of circumstance and aptitude.
 
@@ -562,37 +561,37 @@ Brynna grew up in a bustling city, where her father worked as a teamster. She le
 
 Now at 29 years of age, Estára Sánriceth has established herself as a known figure among the teamsters of Tarvénia. Her reputation, for better or worse, precedes her in the circles where such things matter.
 
-## Psyche
+### Psyche
 
-### Personality
+#### Personality
 
 Impatient with delays, tends to take risks when pressed for time.
 
-### Motivation
+#### Motivation
 
 Estára is driven by the desire to master her craft and secure a stable future. The uncertainties of life in teamster work keep her vigilant and adaptable.
 
-### Strengths
+#### Strengths
 
 Resourceful, skilled at maneuvering through crowded streets, good with animals.
 
-## Social
+### Social
 
 Estára is affiliated with City Teamsters' Guild.
 
 As a Tarvénan teamster, Estára occupies a recognized social niche within Tarvénia society.
 
-## Companions
+### Companions
 
-### Patrons
+#### Patrons
 
 Estára's primary patron is Local businesses that need reliable delivery services.. This relationship provides both opportunity and obligation.
 
-### Enemies
+#### Enemies
 
 Rival teamsters who resent her for taking business away from them.
 
-## Plot Hooks
+### Plot Hooks
 
 1. **The Teamster's Dilemma** — Estára faces a professional crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Tarvénia.
 

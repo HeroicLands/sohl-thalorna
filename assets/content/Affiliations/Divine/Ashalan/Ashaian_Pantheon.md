@@ -87,12 +87,8 @@ data:
   lore: []
   parents: []
   relations: {}
-sohl:
-  templatePriority: null
 packFolder: ashaian
 ---
-
-# Āsháian Pantheon
 
 **Pronunciation**: _Ah-SHY-uhn_
 

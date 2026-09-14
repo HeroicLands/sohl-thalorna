@@ -10,8 +10,6 @@ shortcode: servantrnk
 description: "Kept for labour about a household or a company, and not counted among its members."
 ---
 
-# Servant
-
 Kept for labour about a household or a company, and not counted among its members.
 
 ## Obligations and Rights

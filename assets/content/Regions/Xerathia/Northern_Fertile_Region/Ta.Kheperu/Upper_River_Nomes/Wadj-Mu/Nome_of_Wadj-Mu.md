@@ -8,6 +8,7 @@ name:
 shortcode: nomewadjmu
 subType: polity
 data:
+  templatePriority: null
   governance:
     model: monarchy
     summary: >-
@@ -106,12 +107,8 @@ data:
   relations:
     kemtnpnthn: aligned
     hapi: aligned
-sohl:
-  templatePriority: null
 packFolder: upperrivernomes
 ---
-
-# The Nome of Wadj-Mu
 
 ## Overview
 

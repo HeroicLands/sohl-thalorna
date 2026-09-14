@@ -9,8 +9,9 @@ name:
   full: "Ritual: Ángáróš"
   aliases:
     - The Shadowed Serpent
-sohl:
+data:
   templatePriority: null
+sohl:
   system:
     skillBaseFormula: "@wil, @rea"
     masteryLevelBase: 0

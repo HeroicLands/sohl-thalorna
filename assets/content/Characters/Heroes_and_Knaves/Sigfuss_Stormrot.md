@@ -39,7 +39,6 @@ data:
     complexion: weathered
     extra_features: []
 sohl:
-  templatePriority: null
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 13 } }
     - { model: sohl-sohl-attribute-end, system: { scoreBase: 15 } }
@@ -589,11 +588,11 @@ sohl:
     defaultCombatGroup: null
 ---
 
-# Appearance {#appearance}
+## Appearance {#appearance}
 
 Sigfúss stands 6'2" tall with a medium build. He has tanned weathered skin, brown hair, and blue eyes. His features include an oblong face, a narrow nose, a broad chin, a small mouth, thick brows, high cheeks.
 
-# Dossier {#dossier}
+## Dossier {#dossier}
 
 Sigfúss was born in Bjornstad, a minor coastal settlement of the Kingdom of Vithgard, to parents of modest means. His mother, **Ragnhildr**, ran a small inn catering to sailors, while his father, **Jostein Stormrót**, was himself a ship's navigator until a boarding accident left him partially crippled. Rather than burden his aging parents further, Sigfúss took to the sea at fourteen, climbing the ranks from cabin boy through sheer competence and an intuitive understanding of ships and seafaring.
 
@@ -601,19 +600,19 @@ For sixteen years, Sigfúss has served aboard merchant vessels, fishing fleets, 
 
 Five years ago, after the death of his father, Sigfúss briefly returned to Bjornstad to ensure his mother's security, purchasing property in her name from his accumulated wages. Satisfied that she would never want, he returned to the sea—his truest home.
 
-## Psyche
+### Psyche
 
-### Personality
+#### Personality
 
 Sigfúss possesses the easy confidence of a man comfortable in his domain and secure in his competence. He is neither arrogant nor boastful; simply untroubled by doubt. In crisis, he becomes crystalline in focus, his mind operating with preternatural clarity. Outside of emergencies, he is gregarious and quick to laugh, entertaining crew with tales of impossible catches and narrow escapes told with theatrical flair. He views himself as servant of Fréyja, goddess of prosperity, and attributes his survival of multiple storms to her grace.
 
 His philosophy is fundamentally practical. He sees little point in unnecessary worry or elaborate planning when experience has taught him the sea's true nature—unpredictable, dangerous, beautiful, and ultimately indifferent to human pretense. This makes him seem cavalier to those who don't understand him, though in reality, he has internalized decades of nautical knowledge into instinctive decision-making that appears intuitive but is grounded in rigorous observation.
 
-### Motivation
+#### Motivation
 
 Sigfúss sails because it is what he is—the sea is not merely his occupation but his identity. He accumulates wealth not for luxury but for security and freedom; having enough coin means never being forced to ship aboard a vessel or captain he distrusts, never being compelled to accept degrading work. Beneath the surface lies a quieter motivation: a need to prove that his father's disability and early death need not define family destiny, that through strength and persistence, one can escape poverty and claim genuine agency in a harsh world.
 
-### Strengths
+#### Strengths
 
 - **Supernatural Navigation**: Sigfúss can read weather patterns hours before they fully manifest and navigate by stars, currents, and the flight patterns of seabirds with accuracy that seems almost prescient. He has brought ships to port through storms that should have claimed them.
 - **Expert Seamanship**: Decades of practical experience at sea translate into unmatched proficiency in ship-handling, rigging, knot-work, and improvised repairs. He can coax a damaged vessel to harbor through sheer ingenuity.
@@ -621,7 +620,7 @@ Sigfúss sails because it is what he is—the sea is not merely his occupation b
 - **Environmental Intuition**: His perception of the natural world extends beyond water to weather, wildlife, and survival. He can provide food and freshwater where others would perish.
 - **Calm Under Extreme Pressure**: Combat, disaster, and catastrophe do not rattle Sigfúss. His mind operates more clearly during crisis, enabling decisive action when others freeze.
 
-### Weaknesses
+#### Weaknesses
 
 - **Contempt for Authority**: Sigfúss chafes under rigid hierarchies and bureaucratic nonsense. Captains who rule through fear or blind adherence to rules without pragmatic consideration find him insubordinate and troublesome, despite his competence.
 - **Wanderlust Over Commitment**: His loyalty to any single employer or captain rarely exceeds a year or two. He perpetually hears the call of the horizon and grows restless with routine.
@@ -629,27 +628,27 @@ Sigfúss sails because it is what he is—the sea is not merely his occupation b
 - **Poor Administrative Skills**: Sigfúss is hopeless with paperwork, contracts, and negotiation. He leaves himself vulnerable to exploitation by clever merchants and unscrupulous captains who take advantage of his disinterest in financial detail.
 - **Emotional Distance**: His comfort at sea translates to discomfort in cities and with land-dwellers. He struggles to maintain relationships beyond the crew, leaving him fundamentally alone despite his gregariousness.
 
-## Social
+### Social
 
-### Patrons
+#### Patrons
 
 - **Captain Thorgrim Ironhull**: A grizzled merchant captain whose aging vessel has become famous across the northern routes. He brings Sigfúss aboard whenever his schedule allows, calling him "the best navigator in Vithgard's service." Thorgrim has twice promoted Sigfúss to first mate, though Sigfúss has refused permanent rank.
 - **Merchant Princess Astrid Gylvedóttir**: A wealthy trading magnate who contracts sailors for her extensive merchant fleet. She has offered Sigfúss command of her flagship multiple times, recognizing his value and offering wages that would set him for life. His refusals perplex and intrigue her.
 - **The Fishermen's Collective of Bjornstad**: Local fishing masters who regularly hire Sigfúss for particularly dangerous catches or rescue operations. They consider him family and ensure he always has work.
 - **The Lighthouse Order**: Keepers of navigational beacons along Vithgard's coast. They maintain informal communication with Sigfúss, warning of hazardous conditions and occasionally requesting specific intelligence about distant waters.
 
-### Enemies
+#### Enemies
 
 - **Harbormaster Aldwin Coldstone**: A bureaucrat tasked with port regulation in Vithgard's capital. Aldwin views Sigfúss as a troublemaker who flouts maritime law and encourages crew insubordination. Their conflicts are frequent and bitter.
 - **Captain Ragnar Blackbrine**: A rival sailor who captains a merchant vessel and views Sigfúss as competition for the most prestigious contracts. Ragnar has twice maneuvered to undercut Sigfúss's negotiations through lies and political leverage.
 - **The Smugglers' Network**: Criminal elements operating across the Vithgard coast view Sigfúss as a threat because he occasionally reports suspicious activity to maritime authorities and refuses to accept smuggling contracts regardless of payment.
 
-### Affiliations
+#### Affiliations
 
 - **The Seafarers' Guild of Vithgard**: Though maintaining independence, Sigfúss is a registered member in good standing, benefiting from the guild's information networks about routes, hazards, and available work.
 - **The Crew of the _Stormrider_**: Though not officially organized, Sigfúss maintains bonds with the rotating crew of his preferred vessel, and they actively seek his continued involvement in their ventures.
 
-## Plot Hooks
+### Plot Hooks
 
 1. **The Lost Expedition**: A wealthy scholar approaches Sigfúss with a commission to sail to the Shattered Archipelago in search of **ancient ruins of the Old Kingdom**, believed to hold libraries of lost knowledge. The last expedition to find them vanished seven years ago without sending word. The scholar, **Magister Haldón**, is willing to pay extraordinary sums, but Sigfúss discovers through cautious inquiry that the last crew encountered something in the deep caves that drove survivors mad. The archipelago itself seems to resist mapping—charts reveal contradictory information, and sailors report islands that weren't where they should be. Sigfúss must decide whether the astronomical pay justifies investigating a phenomenon that suggests the islands themselves are somehow concealed by magic or living intelligence.
 

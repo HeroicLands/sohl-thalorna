@@ -80,12 +80,10 @@ data:
     - varakpnthn
   relations:
     varakpnthn: aligned
-sohl:
-  templatePriority: null
 packFolder: pantheonsvarnaka
 ---
 
-# Agnī-panthā — The Path of the Flame
+## Agnī-panthā — The Path of the Flame
 
 - **Tradition:** Agnī-panthā — _The Path of the Flame_
 - **Deities Venerated:** [[affiliation-rasikara|Rásikara]] as primary focus; [[affiliation-vyahrati|Vyāhrati]] honoured as the gentle complement of the purging fire
@@ -99,7 +97,7 @@ Agnī-panthā priests own little. They carry a clay vessel containing a living e
 
 The sect's history includes a number of celebrated reformist movements and at least three notable schisms with the orthodox hierarchy. Agnī-panthā priests have been, by turn, lauded as saints, banned from city limits, and memorialised in statuary by the same city councils that banned them. The tradition regards this uneven reception as evidence of its necessity. It also venerates [[affiliation-vyahrati|Vyāhrati]] as the gentle sister of the fire: what yields of itself need not be burned, and many of the sect's kindest rites are Vyāhratan in character.
 
-## Clergy
+### Clergy
 
 - **Dahana-Mūla** ("Root of the Burning") — the senior priest of a regional Agnī-panthā chapter; a rare rank, since most of the sect's authority rests with individual priests on the road.
 - **Jvālita** ("Kindled One") — the ordinary priesthood; itinerant, typically travelling alone or in pairs, each carrying their own ember-vessel.
@@ -107,7 +105,7 @@ The sect's history includes a number of celebrated reformist movements and at le
 
 **Key Skills:** Survival, Herblore, Physician, Melee, Trance, Folklore, Discourse, Alchemy
 
-## Ceremonies and Festivals
+### Ceremonies and Festivals
 
 **Low Ceremonies:**
 
@@ -124,17 +122,17 @@ The sect's history includes a number of celebrated reformist movements and at le
 - **The Night of the Kindled Road** — observed at the autumn equinox; Agnī-panthā priests at a rendezvous site light their ember-vessels into a common fire, renew their vows, and then carry new embers out along the year's routes.
 - **The Mendicant's Welcome** — a local festival in communities that host a Flame-priest on their route; a feast is given to the priest in exchange for a blessing of the community hearth.
 
-## Ordeals for Favour
+### Ordeals for Favour
 
 - **The Walk of Coals** — shared with the wider Rásikaran tradition; in the Agnī-panthā form, the coals are drawn from the aspirant's own carried ember-vessel.
 - **The Firebrand's Year** — a year spent travelling, carrying a lit torch from settlement to settlement, kindling purgation-fires wherever the priest is asked. Completion of this ordeal is required before ordination to Jvālita.
 - **The Vigil at the Threshold** — a three-day fast at the threshold of a community that has refused to receive the priest, seated in silent witness until the community's decision is reconsidered or the period elapses.
 
-## Orders
+### Orders
 
 - **Order of the Broken Ring** — the most storied of the sect's orders; ascetic priest-warriors who undertake to confront and break entrenched corruption, wherever their seniors judge it to have taken root. Their numbers are small, their methods severe, and their reputation is mixed.
 - **Sisterhood of the Gentle Ash** — a Vyāhrati-tinged order whose members specialise in the quieter purgations — the end of a marriage, the dissolution of a guild, the release of an inheritance.
 
-## Geographic Presence
+### Geographic Presence
 
 Agnī-panthā priests are found everywhere the road leads, but the sect's recognised chapters are concentrated in the smaller cities and the frontier towns, where its work is more welcome. In the great Vedyaran capitals, the Flame-priests are permitted entry but rarely a permanent chapter-house; tradition has it that a city large enough to merit a settled Agnī-panthā chapter is a city already past the point where the sect might have done it any good.

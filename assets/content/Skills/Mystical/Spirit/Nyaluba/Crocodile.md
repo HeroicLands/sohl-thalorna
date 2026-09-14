@@ -12,8 +12,9 @@ name:
   aliases:
     - Crocodile Spirit
     - Kambezi Crocodile
-sohl:
+data:
   templatePriority: null
+sohl:
   system:
     skillBaseFormula: "@aur, @wil"
     masteryLevelBase: 0

@@ -93,11 +93,7 @@ data:
   lore: []
   parents: []
   relations: {}
-sohl:
-  templatePriority: null
 ---
-
-# Málalidabandalag
 
 _Old Norse: "Pay-Troop Compact" — the league of mercenary companies_
 

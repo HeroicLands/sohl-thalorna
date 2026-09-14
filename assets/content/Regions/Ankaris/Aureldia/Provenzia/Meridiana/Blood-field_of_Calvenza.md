@@ -17,8 +17,6 @@ shortcode: bldfldcalvenza
 packFolder: provenzia
 ---
 
-# Blood-field of Calvènza
-
 Above the warm sandy coast of the south, in the richest and most comfortable country in Provènzia,
 lies a field where nothing sings.
 

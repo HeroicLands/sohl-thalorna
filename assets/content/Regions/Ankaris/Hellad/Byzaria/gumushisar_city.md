@@ -17,8 +17,6 @@ name:
 shortcode: gumushisar2
 ---
 
-# Gümüşhisar
-
 ## Overview
 
 _To be written._ Gümüşhisar is the capital and principal settlement of [[affiliation-gumushisar|Gümüşhisar]].

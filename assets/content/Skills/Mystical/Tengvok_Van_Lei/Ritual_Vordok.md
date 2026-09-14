@@ -10,8 +10,9 @@ name:
   aliases:
     - Vōrdōk
     - The Minister of Roads
-sohl:
+data:
   templatePriority: null
+sohl:
   system:
     skillBaseFormula: "@wil, @rea"
     masteryLevelBase: 0

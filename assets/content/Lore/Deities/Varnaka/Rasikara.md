@@ -10,6 +10,4 @@ shortcode: rasikaradty
 packFolder: deitiesvarnaka
 ---
 
-# Rásikara
-
 TBD

@@ -10,8 +10,6 @@ description: Playable adventures and modules.
 banner: systems/sohl/assets/images/banners/adventure.webp
 ---
 
-# Adventures
-
 Playable adventures and modules.
 
 ```sql

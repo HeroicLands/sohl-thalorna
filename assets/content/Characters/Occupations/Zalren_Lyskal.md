@@ -42,7 +42,6 @@ data:
     extra_features:
       - a tattoo of a butterfly on the neck
 sohl:
-  templatePriority: null
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 14 } }
     - { model: sohl-sohl-attribute-end, system: { scoreBase: 13 } }
@@ -552,11 +551,11 @@ sohl:
     defaultCombatGroup: null
 ---
 
-# Appearance {#appearance}
+## Appearance {#appearance}
 
 Zálren Lýskal is a 54-year-old man who stands 6'0" tall and is of moderate build. He has an angular face with high cheekbones, a wide forehead, and a strong jaw that leads to a strong chin. His deep-set blue eyes sit beneath straight brows, lending him a watchful gaze. A narrow nose and full lips complete his features. He has medium-toned skin with an olive-toned complexion. His gray hair is combed neatly to one side.
 
-# Dossier {#dossier}
+## Dossier {#dossier}
 
 Born in the Provènzia region to a freeman family of Provenzian heritage, Zálren Lýskal came into the world of the woodcrafter through a combination of circumstance and aptitude.
 
@@ -564,37 +563,37 @@ Harvin has been a woodcrafter for over thirty years, known for his craftsmanship
 
 Now at 54 years of age, Zálren Lýskal has established himself as a known figure among the woodcrafters of Provènzia. His reputation, for better or worse, precedes him in the circles where such things matter.
 
-## Psyche
+### Psyche
 
-### Personality
+#### Personality
 
 Uninterested in decorative work, prefers traditional methods over innovation.
 
-### Motivation
+#### Motivation
 
 Zálren is driven by the desire to master his craft and secure a stable future. The uncertainties of life in woodcrafter work keep him vigilant and adaptable.
 
-### Strengths
+#### Strengths
 
 Skilled at creating sturdy, functional items, highly experienced, practical.
 
-## Social
+### Social
 
 Zálren is affiliated with Rural Craftsmen's Guild.
 
 As a Provenzian woodcrafter, Zálren occupies a recognized social niche within Provènzia society.
 
-## Companions
+### Companions
 
-### Patrons
+#### Patrons
 
 Zálren's primary patron is Local farmers and townspeople who need durable wooden goods.. This relationship provides both opportunity and obligation.
 
-### Enemies
+#### Enemies
 
 None; respected for his consistency and reliability.
 
-## Plot Hooks
+### Plot Hooks
 
 1. **The Woodcrafter's Dilemma** — Zálren faces a professional crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Provènzia.
 

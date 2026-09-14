@@ -20,8 +20,6 @@ shortcode: lhenavren
 packFolder: provenzia
 ---
 
-# Lhénavren
-
 Deep in the borderlands between the [[place-provenzrgn|Provènzia Region]] and
 [[place-elavendre|Élavendre]], in the wooded country of **[[place-tramontana|Tramontàna]]** below the Áelendan
 mountains, stand the crumbling ruins of **Lhénavren**.

@@ -19,10 +19,6 @@ data:
   affiliations: []
   gender: null
   species: null
-sohl:
-  templatePriority: null
 ---
-
-# Njörven
 
 A creature of the Nordlands, venerated by [[affiliation-njorvencult|a cult of its own]].

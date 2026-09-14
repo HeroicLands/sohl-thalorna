@@ -22,11 +22,7 @@ data:
     - kingdmdnvr
   gender: female
   species: null
-sohl:
-  templatePriority: null
 ---
-
-# Dame Toradh Taravren
 
 **Role.** Captain of the [[affiliation-justbladeordr|Order of the Just Blade]], and gives military counsel.
 

@@ -9,8 +9,9 @@ img: systems/sohl/assets/icons/noun/divination.svg
 shortcode: sage
 type: mysticalability
 subType: arcaneincantation
-sohl:
+data:
   templatePriority: null
+sohl:
   system:
     assocSkillCode: pneumenos
     masteryLevelBase: 0

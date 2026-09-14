@@ -42,7 +42,6 @@ data:
     complexion: fair
     extra_features: []
 sohl:
-  templatePriority: null
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 10 } }
     - { model: sohl-sohl-attribute-end, system: { scoreBase: 11 } }
@@ -553,11 +552,11 @@ sohl:
     defaultCombatGroup: null
 ---
 
-# Appearance {#appearance}
+## Appearance {#appearance}
 
 Vélaria Óthral is a 29-year-old woman who stands 5'11" tall and is of moderate build. She has a long face with broad cheekbones, a prominent forehead, and a sharp jaw that leads to a delicate chin. Her deep-set hazel eyes sit beneath thin brows, lending her a watchful gaze. A delicate nose and thin lips complete her features. She has medium-toned skin with a fair complexion. Her blonde hair hangs in ringlets, usually loosely tied back and often dusted with charcoal from her drawing. She dresses in the plain linen robes common to Flórania's clergy, though hers tend to carry the evidence of her day — herb stains on the sleeves, chalk dust on the hem — and she rarely looks as composed as someone of her height and bearing could.
 
-# Dossier {#dossier}
+## Dossier {#dossier}
 
 Vélaria was born in Liranel to a freeman family. Her father was a joiner; her mother worked as a seamstress for one of the minor merchant houses. The family was respectable but not prosperous, and Vélaria grew up in the streets around Liranel's lower market — close enough to the city's poorer quarters to see how illness, hunger, and neglect ate away at people the rest of the city preferred to ignore.
 
@@ -573,9 +572,9 @@ Her drawings have become something more than a medical tool. Over the years she 
 
 She also plays the wooden flute she carries, mostly for children and for the dying — simple melodies that she learned from her mother and has never thought to consider as anything more than comfort. She does not know that her musician's skill is unusual. She has never performed for anyone who would tell her.
 
-## Psyche
+### Psyche
 
-### Personality
+#### Personality
 
 Vélaria is quiet, observant, and deeply compassionate, but she is not soft. Seven years of working among the urban poor have given her a clear-eyed understanding of suffering that has nothing romantic about it. She has seen children die of preventable diseases because their parents could not afford treatment. She has treated women beaten by their husbands and watched them go home again because they had nowhere else to go. She has learned that compassion without competence is useless, and that the best thing she can do for the people she serves is to be very, very good at her work.
 
@@ -583,23 +582,23 @@ She is more shrewd than she appears. Growing up in the lower quarters and spendi
 
 She struggles with the weight of her work. She is better at managing it than she was as a younger woman — she has learned to sleep when she can, to eat when food is available, and to accept that she cannot save everyone — but the losses accumulate, and she carries them. She does not talk about this. She draws instead, and the drawings are how she processes what she has seen.
 
-### Motivation
+#### Motivation
 
 Vélaria wants to build a proper clinic in the lower quarters — a real one, with beds, a storeroom, an assistant, and enough supplies to treat the volume of patients who need her. She has been working toward this for years, saving what little coin she receives, cultivating relationships with sympathetic merchants, and petitioning the temple for support. The temple has been politely noncommittal. The city council considers the lower quarters a problem to be contained rather than invested in. She is running out of channels to try and is beginning to consider less conventional ones.
 
 Beyond the clinic, she is motivated by a conviction she does not often articulate: that the way a society treats its poorest members reveals what it truly believes, and that Élavendre, for all its beauty and tradition, has been failing this test for a long time. She does not frame this as political — she is not an agitator — but her daily work is, in its quiet way, an indictment of every feast and festival held while children in the lower quarters go hungry.
 
-### Strengths
+#### Strengths
 
 Vélaria is an exceptional physician — perceptive, creative, and experienced far beyond her years. Her empathy allows her to sense distress in ways that border on the uncanny, and her clinical skills are rigorous enough to act on what her instincts tell her. She is trusted absolutely by the community she serves, which gives her access and influence that no official or noble could replicate. Her drawing talent, while she considers it peripheral, has made her a beloved figure in the lower quarters and has given her a detailed visual record of the community that no one else possesses. She is also tougher than she looks — she has not survived seven years in the poorest part of Liranel by being fragile.
 
-### Weaknesses
+#### Weaknesses
 
 Her world is small. She knows the lower quarters intimately and operates there with confidence, but she has almost no experience of the city's upper strata — the court, the merchant houses, the temple hierarchy's politics. If her ambition to build a clinic forces her to engage with those worlds, she will be out of her depth. She does not know how to navigate formal social settings, does not understand the currency of favors and obligations that governs elite Élavendri society, and is likely to be either overlooked or patronized by people who view charity to the poor as a pleasant abstraction rather than the daily, physical work she knows it to be.
 
 Her attachment to her community also makes her vulnerable. She cares deeply about specific people — the families she has treated for years, the children she has delivered, the elderly she has kept alive season after season — and a threat to them would compromise her judgment in ways that a threat to herself would not. Someone who understood this could use the community as leverage against her.
 
-## Social
+### Social
 
 Vélaria is well known and well loved in the lower quarters of Liranel, where she is simply called "the priestess" as though no other exists. She is a familiar figure in the streets and market stalls, and people approach her freely with ailments, worries, and the kinds of problems that have nothing to do with medicine but that she listens to anyway. Her rented room above the chandler's shop functions as an unofficial community center as much as a surgery.
 
@@ -607,17 +606,17 @@ Outside the lower quarters, she is largely invisible. The guild physicians know 
 
 Within the [[affiliation-florania|Faith of Flórania]], she reports to the temple at Liranel, which supplies her with a small allowance and occasional materiel. The temple's senior priestess, Mother Caelwen, respects Vélaria's work but has warned her that the temple cannot indefinitely support a ministry that generates no revenue and serves a population with no political voice.
 
-## Companions
+### Companions
 
-### Patrons
+#### Patrons
 
 Vélaria's only institutional patron is the temple of Flórania at Liranel, and that support is conditional and may not last. She has recently attracted the quiet attention of a merchant named Brégan who has made several anonymous donations of supplies to her surgery. She does not know the donor's identity. Brégan's motives are mixed — he is genuinely moved by her work, but he also has business interests in the lower quarters and sees value in having a beloved community figure in his debt.
 
-### Enemies
+#### Enemies
 
 Vélaria has no enemies in the conventional sense, but she has irritants that could become threats. The guild physicians resent her unlicensed practice, and one in particular — a man named Drévan — has made pointed remarks at guild meetings about unqualified healers endangering public health. The complaints have not gained traction because Vélaria's patients have nowhere else to go, but Drévan is persistent and has the ear of several council members. A landlord named Fáerel, who owns several of the worst tenements in the lower quarters, views her presence as an inconvenience — she has, on more than one occasion, publicly documented the conditions in his properties by sketching them and showing the drawings to anyone who would look, and he would like her gone.
 
-## Plot Hooks
+### Plot Hooks
 
 1. **The Clinic** — A wealthy patron has offered to fund Vélaria's clinic, but the offer comes with conditions: the patron wants naming rights, control over which patients are admitted, and the right to use the clinic's reputation for political purposes. Vélaria must decide whether half a dream is better than none, or whether accepting would compromise everything the clinic is meant to be.
 

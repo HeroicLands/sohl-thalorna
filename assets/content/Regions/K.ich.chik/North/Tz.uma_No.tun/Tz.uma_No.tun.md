@@ -104,8 +104,6 @@ data:
     - humanflk
   parents: []
   relations: {}
-sohl:
-  templatePriority: null
 terran_analog: Appalachian Region and eastward through the Southeast, south into Florida and Louisiana
 packFolder: tzumanotun
 ---

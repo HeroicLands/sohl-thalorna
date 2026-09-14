@@ -12,8 +12,9 @@ type: concoctiongear
 subType: exotic
 hmk:
   name: "Potion, Coagulant, Great"
-sohl:
+data:
   templatePriority: null
+sohl:
   system:
     weightBase: 0.25
     valueBase: 480

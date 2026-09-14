@@ -120,18 +120,16 @@ data:
     - tngvkvnlei
   relations:
     tngvkvnlei: aligned
-sohl:
-  templatePriority: null
 packFolder: elementallords
 ---
 
-# Röthöt Dākvëng — The Lord of Wood
+## Röthöt Dākvëng — The Lord of Wood
 
 The Elemental Lord of Wood manifests in the celestial records as a figure of organic complexity and patient growth—an official whose authority extends across all states and uses of wood, yet whose administration is marked by a peculiar tolerance for variation and branching. Unlike Dāktūr Vōrthāt (the Lord of Metal), who maintains absolute categorization, Röthöt Dākvëng permits multiple simultaneous interpretations of his domain, accommodating different regional traditions and craft-lineages as long as they remain within defined boundaries. Some Tānthëi scholars suggest this flexibility reflects the nature of wood itself: alive in its growing state, yet capable of rigid structure once worked; subject to rot and decay, yet capable of being renewed through replanting and regrowth.
 
 Like all Elemental Lords, Röthöt Dākvëng answers directly to the Jade Sovereign rather than to a bureau overseer. His authority encompasses wood in all its manifestations—living trees, harvested timber, worked wood used in construction and craftsmanship, wood burned as fuel, and wood in ritual contexts. In the Tānvüri cosmological framework, wood occupies a unique position: it is the only element that bears life within itself, and therefore overlaps significantly with the Bureau of Persistence (Zāt Sëi). This overlap creates both opportunity and constant administrative friction.
 
-## The Classification of Wood
+### The Classification of Wood
 
 The Lord of Wood maintains the boundary between five administrative categories, each governed according to canonical protocols and delegated to subordinate clerk-spirits:
 
@@ -145,7 +143,7 @@ The Lord of Wood maintains the boundary between five administrative categories, 
 
 **Fuel and Waste Wood (Vōr Nürthöt)** — Wood burned as fuel or decomposing into component materials. This category overlaps with both the Bureau of Transformation (Höt Sëi) and the Bureau of Returns (Nüs Sëi), creating a triangular jurisdictional dispute that has never been formally resolved. When wood is burned, is it being _transformed_ (Zhürhöt's claim)? Or is it being _returned_ to its component elements (Nüsvōr's claim)? Or is it being _released_ from classification and drifting back toward the Hürnlëi (Gürnhürn's claim, though this is the most controversial interpretation)? Röthöt Dākvëng himself maintains that fuel-wood is still his responsibility until the moment of ignition, and that the subsequent combustion is a separate administrative matter. Most practitioners acknowledge that this position is philosophically weak, but it allows Röthöt Dākvëng to claim deference while declining to adjudicate the deeper dispute.
 
-## Authority and Jurisdictional Tensions
+### Authority and Jurisdictional Tensions
 
 Röthöt Dākvëng's primary administrative relationships are with the **Earth Lord** (Vëngdāk Zhütvōr), with whom he shares jurisdiction over forests and living wood, and with **Nëizāt** (Overseer of the Bureau of Persistence), whose claims over the "continuity" function of worked wood Röthöt Dākvëng resists. The conflicts with the Earth Lord are relatively formalized; the conflicts with the Bureau of Persistence are more ideological—Röthöt Dākvëng argues that the Bureau of Persistence claims authority over wood's _function_ rather than its _material nature_, a distinction that Nëizāt rejects.
 
@@ -153,7 +151,7 @@ A secondary but persistent tension involves the **Bureau of Transformation** (H�
 
 Röthöt Dākvëng also maintains an uneasy relationship with the **Bureau of Entropy** (Hürn Sëi), whose overseer Gürnhürn treats forests as sites where controlled dissolution can be managed (forest fires, disease clearing deadwood). Röthöt Dākvëng resists this interpretation vehemently, arguing that managed forest renewal is fundamentally different from entropy's uncontrolled unraveling, but his arguments lack institutional force—Gürnhürn can invoke the authority of Vëizhük Dāknëi directly.
 
-## Mortal Engagement
+### Mortal Engagement
 
 Mortals petition Röthöt Dākvëng through offerings at temple shrines, through the burning of spirit-documents stamped with the Lord of Wood's seal, or through mediation by the Tānthëi priesthood. Unlike petitions to the rigid Dāktūr Vōrthāt, petitions to Röthöt Dākvëng permit greater variation in form and language, though all must still follow essential protocol. The Lord of Wood is considered more accessible than the Lord of Metal, though still fundamentally bureaucratic in demeanor.
 
@@ -167,7 +165,7 @@ Mortals petition Röthöt Dākvëng through offerings at temple shrines, through
 
 **Temple Authorities** coordinate with Röthöt Dākvëng's office regarding the maintenance of wooden temple structures and the licensing of novel ritual uses of wood. Annual petitions are filed to maintain approval for wooden temple furnishings and ceremonial vessels.
 
-## See Also
+### See Also
 
 - [[affiliation-tngvkvnlei|Tëngvōk Vān Lëi]] — The Celestial Bureaucracy that appointed Röthöt Dākvëng as Elemental Lord
 - [[affiliation-vngdkzhtvr|Vëngdāk Zhütvōr]] — The Elemental Lord of Earth, with whom Röthöt Dākvëng shares jurisdiction over forests

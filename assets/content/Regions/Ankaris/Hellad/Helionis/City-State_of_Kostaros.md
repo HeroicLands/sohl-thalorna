@@ -108,12 +108,8 @@ data:
     - ctysttshlns
   relations:
     arldnpnthn: aligned
-sohl:
-  templatePriority: null
 packFolder: helionis
 ---
-
-# Kostaros
 
 ## Overview
 

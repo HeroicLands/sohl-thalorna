@@ -92,11 +92,7 @@ data:
   lore: []
   parents: []
   relations: {}
-sohl:
-  templatePriority: null
 ---
-
-# The Praetar Augustarum
 
 _Vylarian: Praetar Augustarum — "the Guard of the Augustars"_
 

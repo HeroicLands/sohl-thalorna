@@ -15,8 +15,6 @@ name:
 shortcode: tanvrcrncy
 ---
 
-# Tánvür Currency
-
 _Stub — to be designed and expanded._
 
 ## Overview

@@ -40,7 +40,6 @@ data:
     complexion: null
     extra_features: []
 sohl:
-  templatePriority: null
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 14 } }
     - { model: sohl-sohl-attribute-end, system: { scoreBase: 13 } }
@@ -590,31 +589,31 @@ sohl:
     defaultCombatGroup: null
 ---
 
-# Appearance {#appearance}
+## Appearance {#appearance}
 
 Sharmînah stands 5'11" tall with a medium build. She has warm olive skin, dark brown hair, and honey brown eyes. Her features include a diamond-shaped face, a long nose, a sharp jawline, full lips, dark brows.
 
-# Dossier {#dossier}
+## Dossier {#dossier}
 
-## Background
+### Background
 
-### The Foundling's Calling
+#### The Foundling's Calling
 
 Sharmînah was born in a settlement that no longer exists, destroyed in a wildfire that consumed everything when she was barely old enough to walk. Her parents died in the flames, but the child was pulled from the burning ruins by a wandering priest of Ātáröš named **Salmeir the Flame-Bearer**, who took the miraculous survival as a sign of the god's will. Salmeir brought the girl to the Great Fire-Temple of Ātáröš in the heart of the Khazryn Desert, where she was raised by the priesthood. From her earliest years, Sharmînah demonstrated an unusual affinity for fire—flames seemed to bend to her will, burn at her command, and treat her with an almost protective reverence that startled even experienced priests.
 
-### Training and Spiritual Development
+#### Training and Spiritual Development
 
 Rather than resist her violent impulses and passion, the temple channeled them into service of Ātáröš, the Sacred Flame and visible manifestation of cosmic order. From age six onward, Sharmînah trained in both priestly ritual and martial combat, becoming a warrior-priestess. Her mentor was **High Priestess Zahara**, a woman nearly eighty years old who had served the god for sixty years and who understood that true service sometimes required not compassion but necessary sacrifice. Zahara taught Sharmînah to view compassion as a weakness that compromised divine purpose, and to see mercy as an insult to those worthy of a warrior's death. Under Zahara's guidance, Sharmînah learned to summon the god's power through ritual, to hear Ātáröš's voice in the crackle of flames, and to perceive her own desires as inseparable from divine will.
 
 By her twentieth year, Sharmînah had earned the rank of priestess-warrior and begun leading ritual hunts and expeditions against those deemed enemies of the god's order. She became known throughout the desert as a terrifying figure—the Flame of Tahvân, they called her, a woman whose very presence suggested divine judgment made flesh.
 
-### Current Role and Conflicts
+#### Current Role and Conflicts
 
 Now at thirty-two, Sharmînah serves as one of the temple's primary enforcers and spiritual counselors, though her methods are harsh and her theology increasingly questioned even by her own order. She leads mercenaries and warriors seeking the god's blessing and has begun consulting with various political factions within the desert kingdoms, believing that spreading the influence of Ātáröš's transformative power justifies almost any alliance. Recent actions have earned her both admiration from fanatics and contempt from those who see her zealotry as corrupting the ancient traditions of the faith. She has become a divisive figure, even within the temple hierarchy, with some believing her methods have strayed from true piety into mere cruelty.
 
-## Psyche
+### Psyche
 
-### Personality
+#### Personality
 
 Sharmînah is a paradox of conviction and cruelty, her personality shaped by a theology that equates transformation and purification with the elimination of weakness. She speaks with absolute certainty about what the god demands, and her eloquence of 16 makes her arguments compelling to those predisposed to believe them. Her words flow like heated molten metal, burning away ambiguity and doubt, leaving only the stark clarity of her interpretation of the Sacred Flame's will. To her followers and fellow believers, she is inspiring and righteous; to her enemies, she is a zealot and a monster.
 
@@ -622,11 +621,11 @@ Her low empathy score of 8 reflects her genuine inability to comprehend or value
 
 Yet despite her cruelty, Sharmînah is not mad. She operates within an internally consistent (if terrifying) logical framework. She keeps her word when oath-bound, honors the rules of her faith meticulously, and demonstrates loyalty to those she considers part of her sacred order. For her followers, she is a magnificent leader—strong, decisive, capable, and absolutely certain in her convictions.
 
-### Motivation
+#### Motivation
 
 Sharmînah exists to expand the influence and power of Ātáröš, genuinely believing that the world would be better—more purified, more transformed, more aligned with the god's transformative will—if the Sacred Flame's teachings ruled all peoples. She is not motivated by ambition in a personal sense; she genuinely cares little for wealth or personal comfort. Rather, she is driven by an absolute conviction that the god speaks through her, that her judgments are divine judgments, and that any action taken in service of spreading this divine transformation is justified. She believes that Ātáröš has uniquely blessed her, that the survival of the fire that killed her parents while she lived unharmed is proof of her destiny. She seeks to become the perfect instrument of her god's will, even if that requires becoming something less than human—a weapon, a flame, an unstoppable force of righteous violence.
 
-### Strengths
+#### Strengths
 
 - **Commanding Presence and Eloquence**: With eloquence of 16 and command of 15, Sharmînah can inspire warriors to fanatical devotion or terrify enemies with her words alone. Her ability to articulate her vision is exceptional and persuasive, particularly to those who share her worldview.
 
@@ -638,7 +637,7 @@ Sharmînah exists to expand the influence and power of Ātáröš, genuinely bel
 
 - **Willful Determination**: Her will of 15 makes her nearly impossible to intimidate, manipulate, or sway once she has committed to a course. She will pursue her goals relentlessly despite any opposition.
 
-### Weaknesses
+#### Weaknesses
 
 - **Absolute Rigidity and Inability to Compromise**: Sharmînah cannot negotiate or compromise on matters of principle, and her principles are rigid and absolute. This makes her a catastrophically bad diplomat and leaves no room for creative solutions or understanding other perspectives.
 
@@ -650,9 +649,9 @@ Sharmînah exists to expand the influence and power of Ātáröš, genuinely bel
 
 - **Vulnerability to Moral Argument**: While she cannot be moved by emotional appeals or compassion, Sharmînah is vulnerable to theological challenges. If someone can convince her that her interpretation of divine will is incorrect, she may shift her entire understanding of her purpose.
 
-## Social
+### Social
 
-### Patrons
+#### Patrons
 
 - **High Priestess Zahara**: Though now quite elderly and spending most of her time in deep meditation, Zahara remains the highest authority in the temple and Sharmînah's spiritual mother. Zahara does not restrain Sharmînah's zealotry, instead encouraging her to pursue what she believes the god demands.
 
@@ -660,7 +659,7 @@ Sharmînah exists to expand the influence and power of Ātáröš, genuinely bel
 
 - **Desert Warlords and Mercenary Captains**: Various military leaders seek Sharmînah's blessing and counsel, viewing her divine connection as a source of legitimacy and supernatural aid. They pay the temple handsomely for her services.
 
-### Enemies
+#### Enemies
 
 - **The Cult of the Twilight**: A heretical sect that Sharmînah has systematically hunted, viewing their more moderate theology as a corruption of true faith. The sect's leader, **Prophet Malachar**, views Sharmînah as an abomination and works to counter her influence.
 
@@ -668,13 +667,13 @@ Sharmînah exists to expand the influence and power of Ātáröš, genuinely bel
 
 - **Priest Salim of the Northern Temple**: A fellow priest of Ātáröš who broke with orthodox teachings to advocate for compassion and mercy. He represents everything Sharmînah despises about weakness in faith, and she would eagerly destroy him to prevent his teachings from corrupting others.
 
-### Affiliations
+#### Affiliations
 
 - **The Great Fire-Temple of Ātáröš**: Sharmînah's primary institution and source of authority. The temple sponsors her missions and employs her as a warrior-priest and enforcer of orthodox doctrine.
 
 - **The Order of the Eternal Flame**: A monastic military order of Ātáröš's followers, dedicated to the spread of divine transformation and purification through whatever means necessary. Sharmînah is one of their most prominent and feared members.
 
-## Plot Hooks
+### Plot Hooks
 
 1. **The Heretical Priesthood**: Sharmînah discovers that **High Priestess Zahara**, her beloved mentor and the woman who shaped her entire worldview, may have been harboring doubts about the rigid orthodoxy they have both served. Among Zahara's private possessions, Sharmînah finds hidden writings suggesting that the High Priestess secretly believes compassion and mercy might be compatible with serving Ātáröš. This discovery strikes at the very core of Sharmînah's understanding of her purpose. Rather than abandoning her convictions, Sharmînah must decide whether to suppress this evidence to preserve her faith or confront the possibility that she has fundamentally misunderstood what the god demands.
 

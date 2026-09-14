@@ -74,8 +74,6 @@ data:
   lore: []
   parents: []
   relations: {}
-sohl:
-  templatePriority: null
 packFolder: politiescompanies
 name:
   full: Wuldjagâr erund Gárskald
@@ -92,7 +90,7 @@ The deep Vrystwald forests belong to those who know them, and the Wuldjagâr of 
 
 The Wuldjagâr exists because the Gárskald cannot survive without it. The clan numbers perhaps two hundred souls — warriors, farmers, children, elders — spread across a handful of forest settlements in the central Vrystwald. The forest provides, but only to those who know how to take from it. The Wuldjagâr feeds the clan.
 
-# Backstory
+## Backstory
 
 The Gárskald have hunted the central Vrystwald for as long as anyone can remember. Their territory — bounded by the Moldûn River to the south and Blackthorn Ridge to the north — is rich hunting ground: dense stands of oak and pine sheltering elk, boar, bear, and the smaller game that keeps the clan fed between the great hunts. The Gárskald's skill as hunters has always been their identity and their pride. Other clans are warriors or smiths or farmers. The Gárskald are hunters. It is who they are.
 
@@ -106,7 +104,7 @@ The Gárskald face a winter they may not survive. The elk are in Hildskorn terri
 
 Chief Helmrík has given his reluctant blessing. The Wuldjagâr is preparing to march north.
 
-# Organization
+## Organization
 
 The party is led by **Thâralund Gárskald**, a scarred veteran huntmaster in his fifties with an unforgiving reputation and three kills of the great northern bear to his name. He leads by example and unquestioned authority — a Varokh hunting company is not a democracy. Thâralund answers directly to the clan chief and holds his position through demonstrated skill and the respect of every warrior in the Vrystwald. But this season's failures have shaken confidence in his leadership for the first time, and the younger hunters smell opportunity.
 
@@ -120,7 +118,7 @@ The current roster stands at seven — every experienced hunter the clan can spa
 - **Isgard Waldaric** — Healer and naturalist. Knows the forest's plants and can treat wounds; trusted advisor to Thâralund. She has been studying the boar disease obsessively, and her concern is deepening — she believes it may not be natural.
 - **Wulfrin Thornik** — Youngest hunter, only recently inducted. Still learning the ways, haunted by his first kill of an elk cow earlier this season. The others watch him for signs of weakness — Varokh hunters cannot afford squeamishness — but Thâralund sees potential in the boy that the others miss.
 
-# Territory
+## Territory
 
 The Gárskald's traditional hunting grounds stretch across roughly sixty miles of the central Vrystwald, bounded on the south by the Moldûn River and on the north by Blackthorn Ridge. Three seasonal camps serve as bases: the Summer Lodge in the eastern meadows, the Winter Hold in the protected Deepwood valleys, and the Swift-Elk Camp along the Moldûn where river crossings make good ambush points for migrating herds.
 
@@ -128,7 +126,7 @@ Trails are marked subtly — notches in bark, arrangements of stone, carved symb
 
 The territory beyond Blackthorn Ridge — the target of Thâralund's northern hunt — is a different matter entirely. No Varokh clan claims it. The forest there is older, darker, and denser than anything in the central Vrystwald. The trees are enormous, their canopy so thick that snow barely reaches the ground. There are game trails — Thâralund has seen them from the ridge — but no one in living memory has hunted there systematically. The Gárskald's elders tell stories about the ridge country: stories of stone circles in forest clearings, of sounds that carry wrong in the mist, of hunters who went north and came back changed — or did not come back at all. Thâralund dismisses these as grandmother tales. Isgard is not so certain.
 
-# Methods
+## Methods
 
 Thâralund's hunts are elaborate affairs, planned weeks in advance through careful observation of animal movements, weather patterns, and the tribal calendar. The Wuldjagâr uses a combination of tactics: long-distance tracking to locate prey, ambush positions set with patience, and coordinated drives to herd game toward prepared killing zones. Frodmûn reads the forest like text, identifying the age and health of animals from tracks and droppings. Erinthil waits in tree stands for hours at a time. Skáldar prepares blind positions where a single strike with his axe drops a boar or brings down a wounded elk.
 
@@ -138,7 +136,7 @@ The Wuldjagâr does not hunt for sport or trophy. They hunt to feed the clan, to
 
 The northern expedition will test every skill the Wuldjagâr possesses. They will be operating in unknown territory, without prepared camps or familiar trails, in weather that may turn lethal. Thâralund has allocated three weeks for the hunt — one week to reach the northern valleys, one week to hunt, one week to return with the meat. If they take longer, the deep snows will close Blackthorn Ridge behind them, and they will not get home until spring. The clan cannot afford to lose its hunters for that long.
 
-# Internal Dynamics
+## Internal Dynamics
 
 The Wuldjagâr functions with remarkable cohesion, but the food crisis has exposed fault lines:
 
@@ -148,7 +146,7 @@ The Wuldjagâr functions with remarkable cohesion, but the food crisis has expos
 - **Skáldar's political weight** as the chief's nephew creates an uncomfortable dynamic. He is a good hunter but not a great one, and he knows his position in the Wuldjagâr owes something to his bloodline. If the northern hunt goes badly, Skáldar's report to the chief will carry more weight than Thâralund's — and Skáldar and Hârundar have been talking.
 - **Wulfrin's sensitivity** stands out in a group of hardened killers. He struggles with the violence of the hunt, despite his growing skill. Thâralund sees in the boy something the others do not — a depth of attention to the forest that the more experienced hunters have lost. Wulfrin notices things: shifts in birdsong, changes in the soil, the subtle wrongness that Isgard has been trying to articulate. Whether this sensitivity is a gift or a liability depends on what they find beyond the ridge.
 
-# Plot Hooks
+## Plot Hooks
 
 - **The Northern Hunt.** The Wuldjagâr is preparing to cross Blackthorn Ridge into unclaimed territory — a desperate gamble to find elk herds that will keep the Gárskald alive through winter. They could use additional hands: fighters who can handle themselves in deep forest, a healer to supplement Isgard, or anyone who has traveled the country beyond the ridge. The work is hard, the territory is unknown, and the clan's survival depends on success.
 - **The Hildskorn Dispute.** The elk herds that normally feed the Gárskald have migrated into Hildskorn territory. Hârundar Hildrik wants to negotiate — his relationship with the Hildskorn chief's daughter could open a door. Thâralund refuses, viewing it as surrendering the clan's independence. A mediator who could broker a deal between the two clans would be worth a great deal — but both sides have pride invested in the outcome, and a clumsy intervention could trigger a feud.
@@ -156,7 +154,7 @@ The Wuldjagâr functions with remarkable cohesion, but the food crisis has expos
 - **The Stone Circles.** The elders' stories about the land beyond Blackthorn Ridge are more than superstition. There are stone circles in the northern forest — ancient, moss-covered, carved with symbols that are neither Varokh nor Vylarian. The few hunters who have seen them from a distance report an unsettling feeling of being watched. If the Wuldjagâr crosses the ridge, they will enter territory where these ruins are common — and whatever purpose they served may not be entirely in the past.
 - **The Vylarian Logging Camp.** A new Vylarian logging operation has established itself along the Moldûn River, within sight of the Gárskald's southern boundary markers. The loggers are cutting deep into the forest, felling ancient trees that the Varokh consider sacred. The clan chief wants them gone but cannot afford a military confrontation with the empire. A more subtle approach — sabotage, negotiation, or finding leverage over the logging company's patron — would be worth exploring.
 
-# Using the Wuldjagâr
+## Using the Wuldjagâr
 
 The company works well as:
 

@@ -42,7 +42,6 @@ data:
     extra_features:
       - a tattoo of a snake on the chest
 sohl:
-  templatePriority: null
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 14 } }
     - { model: sohl-sohl-attribute-end, system: { scoreBase: 15 } }
@@ -558,11 +557,11 @@ sohl:
     defaultCombatGroup: null
 ---
 
-# Appearance {#appearance}
+## Appearance {#appearance}
 
 Thóren Bélthal is a 49-year-old man who stands 5'11" tall and is broad and solidly built. He has a long face with soft cheekbones, a narrow forehead, and a rounded jaw that leads to a firm chin. His large green eyes sit beneath expressive brows, lending him an expressive gaze. A narrow nose and full lips complete his features. He has pale skin with a flawless complexion. His chestnut hair is falling in loose waves. A notable feature is rough, work-worn hands.
 
-# Dossier {#dossier}
+## Dossier {#dossier}
 
 Born in the Élavendre region to a freeman family of Élavendri heritage, Thóren Bélthal came into the world of the shipwright through a combination of circumstance and aptitude.
 
@@ -570,37 +569,37 @@ Garvin has spent his entire life by the sea, learning the craft of shipbuilding 
 
 Now at 49 years of age, Thóren Bélthal has established himself as a known figure among the shipwrights of Élavendre. His reputation, for better or worse, precedes him in the circles where such things matter.
 
-## Psyche
+### Psyche
 
-### Personality
+#### Personality
 
 Stubborn, refuses to compromise on quality even if it means losing clients.
 
-### Motivation
+#### Motivation
 
 Thóren is driven by the desire to master his craft and secure a stable future. The uncertainties of life in shipwright work keep him vigilant and adaptable.
 
-### Strengths
+#### Strengths
 
 Skilled in shipbuilding, excellent understanding of maritime conditions.
 
-## Social
+### Social
 
 Thóren is affiliated with Coastal Shipwrights' Guild.
 
 As a Élavendri shipwright, Thóren occupies a recognized social niche within Élavendre society.
 
-## Companions
+### Companions
 
-### Patrons
+#### Patrons
 
 Thóren's primary patron is Local merchants and ship captains who value his craftsmanship.. This relationship provides both opportunity and obligation.
 
-### Enemies
+#### Enemies
 
 Rival shipwrights who undercut his prices.
 
-## Plot Hooks
+### Plot Hooks
 
 1. **The Shipwright's Dilemma** — Thóren faces a professional crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Élavendre.
 

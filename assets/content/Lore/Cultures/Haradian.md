@@ -10,6 +10,4 @@ shortcode: haradianclt
 description: "The Haradian — their beliefs, their mores, and what they hold a person owes."
 ---
 
-# Haradian
-
 TBD.

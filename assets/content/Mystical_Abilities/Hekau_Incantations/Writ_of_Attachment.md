@@ -10,8 +10,9 @@ shortcode: wrtattchmnt
 img: icons/takheperu/khemenu-hekau/maatken.svg
 type: mysticalability
 subType: arcaneincantation
-sohl:
+data:
   templatePriority: null
+sohl:
   system:
     assocSkillCode: maatken
     masteryLevelBase: 0

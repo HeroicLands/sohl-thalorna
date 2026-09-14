@@ -10,6 +10,4 @@ shortcode: ahurdaendty
 packFolder: deitiesashalan
 ---
 
-# Āhúrdáén
-
 TBD

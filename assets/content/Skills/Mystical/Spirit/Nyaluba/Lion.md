@@ -12,8 +12,9 @@ name:
   aliases:
     - Lion Spirit
     - Mvuzi Lion
-sohl:
+data:
   templatePriority: null
+sohl:
   system:
     skillBaseFormula: "@aur, @wil"
     masteryLevelBase: 0

@@ -91,11 +91,7 @@ data:
   lore: []
   parents: []
   relations: {}
-sohl:
-  templatePriority: null
 ---
-
-# The Collegium Argentariorum
 
 _Vylarian: Collegium Argentariorum — "the Bankers' College" or "the Moneylenders' Guild"_
 

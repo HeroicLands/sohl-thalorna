@@ -40,7 +40,6 @@ data:
     extra_features:
       - a scar on the left ear
 sohl:
-  templatePriority: null
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 14 } }
     - { model: sohl-sohl-attribute-end, system: { scoreBase: 15 } }
@@ -590,11 +589,11 @@ sohl:
     defaultCombatGroup: null
 ---
 
-# Appearance {#appearance}
+## Appearance {#appearance}
 
 Xerôphôn stands 5'11" tall with a medium build. He has tanned weathered skin, dark brown hair, and green eyes. His features include a narrow face, a hawkish nose, an angular jawline, a wide mouth, dark brows, sculpted cheeks. A distinguishing mark is a scar on the left ear.
 
-# Dossier {#dossier}
+## Dossier {#dossier}
 
 **The Soldier's Path**
 
@@ -612,9 +611,9 @@ Over nearly two decades, Xerôphôn has become, in many respects, the de facto r
 
 Now at thirty-nine winters, Xerôphôn finds himself increasingly aware of generational change within his profession. A new cadre of younger guards, trained in increasingly sophisticated methods of control and surveillance, approaches imprisonment more like a technical problem than a human one. They speak of innovative systems and new chains and technologies that promise to reduce the need for the kind of intuitive, constant attention that Xerôphôn has made his life's work. He senses, though it has not been explicitly stated, that his position may eventually become redundant, superseded by systems that promise greater efficiency and lower cost. This awareness does not frighten him as such, but it fills him with a subtle sense of ending, of a way of life approaching its natural conclusion.
 
-## Psyche
+### Psyche
 
-### Personality
+#### Personality
 
 Xerôphôn is a man of extreme discipline, emotional economy, and almost monastic dedication to principle. He speaks sparingly, and when he does, his words are direct and unadorned. He does not traffic in flattery, small talk, or social niceties that serve no functional purpose. This can read to those unused to him as coldness or even cruelty, but those who work closely with him understand that his directness is actually a form of respect—he treats everyone with sufficient regard to be truthful rather than soothing.
 
@@ -622,43 +621,43 @@ Beneath the stern exterior lies a profound sense of duty that borders on the the
 
 Paradoxically, Xerôphôn possesses a subtle capacity for compassion that he carefully constrains to prevent it from compromising his effectiveness. He will, on rare occasions, extend a small mercy—a slightly better treatment, a quiet word of encouragement to a prisoner genuinely attempting reform—because he understands that complete dehumanization serves no constructive purpose. However, these mercies are offered carefully and never in ways that would suggest weakness or inconsistency.
 
-### Motivation
+#### Motivation
 
 Xerôphôn is motivated fundamentally by the belief that order is a prerequisite for all other goods, and that his work—however unpleasant—is essential to maintaining that order. He has internalized the philosophy of the Aurèldián Pantheon's emphasis on organization and structure, viewing himself as a servant of larger cosmic principles of law and consequence. He seeks not glory or advancement but rather to perform his duties with the maximum competence and integrity of which he is capable. As he approaches the latter part of his life, he is motivated by an awareness that his legacy will be measured not in dramatic achievements but in the consistency of his principles and the respect of those who worked beneath him.
 
-### Strengths
+#### Strengths
 
 - **Authoritative Presence**: Xerôphôn's bearing and voice command immediate respect and obedience. His ability to establish and maintain control over potentially dangerous populations is exceptional and relies primarily on consistency rather than excessive force.
 - **Profound Knowledge of Human Nature**: His nearly two decades managing confined populations have given him remarkable insight into human psychology, deception, and the subtle indicators of danger or instability.
 - **Systematic Competence**: He excels at organizing complex systems, managing hierarchies, maintaining records, and establishing protocols that allow large numbers of people to coexist in close quarters without disorder.
 - **Unquestionable Integrity**: No one—from the highest official to the lowest prisoner—questions Xerôphôn's commitment to his stated principles. His word is considered absolutely reliable.
 
-### Weaknesses
+#### Weaknesses
 
 - **Inflexibility**: Xerôphôn's commitment to consistent application of rules sometimes prevents him from recognizing when situations call for flexibility or when circumstances have changed enough to justify different approaches.
 - **Emotional Distance**: His discipline and reserve, while useful in his profession, can prevent genuine connection with others. He struggles to communicate in ways that acknowledge emotional reality or individual human complexity.
 - **Resistance to Innovation**: He views new systems and methods with suspicion, believing that proven approaches are inherently superior to untested innovation, sometimes preventing adoption of genuinely beneficial changes.
 - **Limited Vision Beyond Duty**: Xerôphôn has organized his entire life around his role as Jailer. He has little sense of self or purpose beyond this function and faces genuine existential uncertainty as he contemplates eventual retirement or diminishment of his position.
 
-## Social
+### Social
 
-### Patrons
+#### Patrons
 
 - **Commander Vâlaris of the City Watch**: The highest official in Moktur's law enforcement structure who values Xerôphôn's judgment and regularly defers to his recommendations regarding prison management.
 - **The Imperial Council of Moktur**: Various officials who have depended upon Xerôphôn's discretion and integrity in managing sensitive prisoners and classified matters.
 - **Magistrate Théodôr the Strict**: A justice official known for harsh sentencing who appreciates Xerôphôn's reliable implementation of punishment and consequence.
 
-### Enemies
+#### Enemies
 
 - **Ferûn the Escaped**: A cunning prisoner who orchestrated an attempted escape eight years ago that resulted in the death of three guards. Though captured and returned, the incident damaged Xerôphôn's reputation for complete control, and Ferûn remains in the facility as a subtle ongoing insult to his authority.
 - **Warden Kasânder**: The political administrator appointed to manage the prison bureaucratically, a man who Xerôphôn views as incompetent and corrupt. They maintain an awkward relationship of mutual necessity while harboring profound disdain for one another.
 - **The Brotherhood of the Freed**: A criminal organization dedicated to liberating imprisoned members through violence, bribery, or escape. Xerôphôn has thwarted multiple attempts at incarcerated members' release, making him a known enemy to the organization.
 
-### Affiliations
+#### Affiliations
 
 - **The City Watch of Moktur**: Xerôphôn maintains formal affiliation with the Watch though he works primarily in the prison system, and his judgment on matters of law enforcement carries significant weight.
 
-## Plot Hooks
+### Plot Hooks
 
 1. **The Political Prisoner**: A high-status prisoner of unclear guilt is placed under Xerôphôn's custody, with covert instructions from government officials to ensure the prisoner's "safety" while also effectively removing them from political relevance. Xerôphôn begins to suspect that the prisoner is innocent and that corruption exists at the highest levels of government. The party becomes entangled when they discover that the prisoner actually committed the crime they're charged with, but other powerful people have orchestrated the imprisonment to consolidate power. Xerôphôn must decide whether to maintain order and follow orders or to act on suspicions that challenge the legitimacy of his entire system.
 

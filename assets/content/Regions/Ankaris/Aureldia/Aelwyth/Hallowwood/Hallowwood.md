@@ -19,8 +19,6 @@ shortcode: hallowwood
 packFolder: aelwyth
 ---
 
-# The Hallowwood
-
 The **Hallowwood** covers the south of Aelwyth, between the farmland of
 [[affiliation-kngdmldrth|Aldorath]] to the north and the lowlands of
 [[affiliation-kingdmdnvr|Dúnavarre]] to the east: old, deep, unbroken forest, part of the third of the

@@ -42,7 +42,6 @@ data:
     extra_features:
       - a tattoo of a skull on the upper arm
 sohl:
-  templatePriority: null
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 11 } }
     - { model: sohl-sohl-attribute-end, system: { scoreBase: 13 } }
@@ -555,11 +554,11 @@ sohl:
     defaultCombatGroup: null
 ---
 
-# Appearance {#appearance}
+## Appearance {#appearance}
 
 Rhália Zálreth is a 36-year-old woman who stands 5'7" tall and is of moderate build. She has an angular face with soft cheekbones, a broad forehead, and a sharp jaw that leads to a firm chin. Her deep-set green eyes sit beneath arched brows, lending her a watchful gaze. A narrow nose and narrow lips complete her features. She has tanned skin with a smooth complexion. Her blonde hair is twisted into an elaborate arrangement.
 
-# Dossier {#dossier}
+## Dossier {#dossier}
 
 Born in the Élavendre region to a noble family of Élavendri heritage, Rhália Zálreth came into the world of the pilot through a combination of circumstance and aptitude.
 
@@ -567,37 +566,37 @@ Captain Elysia is an experienced pilot known for her exceptional navigation skil
 
 Now at 36 years of age, Rhália Zálreth has established herself as a known figure among the pilots of Élavendre. Her reputation, for better or worse, precedes her in the circles where such things matter.
 
-## Psyche
+### Psyche
 
-### Personality
+#### Personality
 
 Can be overly cautious, struggles with delegating tasks.
 
-### Motivation
+#### Motivation
 
 Rhália is driven by the desire to master her craft and secure a stable future. The uncertainties of life in pilot work keep her vigilant and adaptable.
 
-### Strengths
+#### Strengths
 
 Highly skilled navigator, composed under pressure, good mentor.
 
-## Social
+### Social
 
 Rhália is affiliated with Local Pilots' Guild.
 
 As a Élavendri pilot, Rhália occupies a recognized social niche within Élavendre society.
 
-## Companions
+### Companions
 
-### Patrons
+#### Patrons
 
 Rhália's primary patron is Merchants and adventurers seeking reliable air travel.. This relationship provides both opportunity and obligation.
 
-### Enemies
+#### Enemies
 
 Few; well-respected, but may face rivalry from less experienced pilots.
 
-## Plot Hooks
+### Plot Hooks
 
 1. **The Pilot's Dilemma** — Rhália faces a professional crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Élavendre.
 

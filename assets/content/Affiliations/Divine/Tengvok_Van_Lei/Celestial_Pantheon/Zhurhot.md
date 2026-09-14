@@ -119,12 +119,10 @@ data:
     - tngvkvnlei
   relations:
     tanvurempr: aligned
-sohl:
-  templatePriority: null
 packFolder: celestialpantheon
 ---
 
-# Zhürhöt — The Minister of Fire
+## Zhürhöt — The Minister of Fire
 
 - **Bureau:** Höt Sëi, The Bureau of Transformation
 - **Domain:** Fire
@@ -143,12 +141,12 @@ successfully petitioned to have the arrangement changed.
 The bureau also seats the **Zātkür** in every household in Tānvür, which means it holds the raw
 observations on which every moral ledger is built.
 
-## Lesser Spirits
+### Lesser Spirits
 
 - **Zātkür** — The Hearth Monitor — a household spirit assigned to every family, who observes daily conduct and files annual reports to the Ministry of Final Account. Families make offerings to Zātkür not out of devotion but to ensure favourable reports.
 - **Dākhöt Vōr** — Wildfire Spirits, the enforcement arm for fire-related punitive action.
 
-## See Also
+### See Also
 
 - [[affiliation-tngvkvnlei|Tëngvōk Vān Lëi]] — the Celestial Bureaucracy this bureau belongs to
 - [[affiliation-tanvurempr|Empire of Tānvür]] — the mortal realm it administers

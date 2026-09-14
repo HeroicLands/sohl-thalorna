@@ -1,8 +1,6 @@
 ---
 description: "Haradian maritime guild—war-veteran captains blurring legitimate shipping and piracy, providing de facto navy and naval muscle for the Confederation."
 type: affiliation
-sohl:
-  templatePriority: null
 name:
   full: Corsair League
   aliases: []

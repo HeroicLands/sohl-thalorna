@@ -22,11 +22,7 @@ data:
     - kingdmdnvr
   gender: male
   species: null
-sohl:
-  templatePriority: null
 ---
-
-# Elowyr Nimávren
 
 **Role.** Ensures accurate record-keeping and correspondence.
 

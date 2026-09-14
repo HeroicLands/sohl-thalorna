@@ -18,8 +18,6 @@ shortcode: belekos
 packFolder: vylaria
 ---
 
-# Belekos
-
 ## Overview
 
 Belekos has earned its reputation as a city of wealthy merchant families, its opulent townhouses and manicured gardens overlooking the fertile river valleys that supply much of Alyssa's grain. The city's prosperity derives not from manufacturing or artisanship, but from the control of agricultural surplus and trade. The great mercantile families—houses that have accumulated wealth and influence over centuries—operate from elaborate estates that blend palatial residence with warehousing and counting rooms, blurring the line between domicile and commercial enterprise.

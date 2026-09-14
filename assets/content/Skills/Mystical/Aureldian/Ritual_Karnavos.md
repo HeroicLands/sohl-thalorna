@@ -10,8 +10,9 @@ name:
   full: "Ritual: Karnavos"
   aliases:
     - The Wild Beast
-sohl:
+data:
   templatePriority: null
+sohl:
   system:
     skillBaseFormula: "@wil, @rea"
     masteryLevelBase: 0

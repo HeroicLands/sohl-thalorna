@@ -41,7 +41,6 @@ data:
     complexion: tanned
     extra_features: []
 sohl:
-  templatePriority: null
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 13 } }
     - { model: sohl-sohl-attribute-end, system: { scoreBase: 14 } }
@@ -549,11 +548,11 @@ sohl:
     defaultCombatGroup: null
 ---
 
-# Appearance {#appearance}
+## Appearance {#appearance}
 
 Nûlazî Zarrâshî is a 31-year-old woman who stands 6'0" tall and is of moderate build. She has a diamond face with high cheekbones, a wide forehead, and a narrow jaw that leads to a strong chin. Her almond-shaped dark brown eyes sit beneath straight brows, lending her a measured gaze. A hawkish nose and thin lips complete her features. She has warm-toned skin with a sun-tanned complexion. Her dark brown hair is falling in dark cascades.
 
-# Dossier {#dossier}
+## Dossier {#dossier}
 
 Born in the Harad region to a freeman family of Haradian heritage, Nûlazî Zarrâshî came into the world of the timberwright through a combination of circumstance and aptitude.
 
@@ -561,37 +560,37 @@ Elara comes from a family of timberwrights and has always felt at home in the fo
 
 Now at 31 years of age, Nûlazî Zarrâshî has established herself as a known figure among the timberwrights of Harad. Her reputation, for better or worse, precedes her in the circles where such things matter.
 
-## Psyche
+### Psyche
 
-### Personality
+#### Personality
 
 Can be overly cautious when selecting trees, sometimes hesitant to take risks.
 
-### Motivation
+#### Motivation
 
 Nûlazî is driven by the desire to master her craft and secure a stable future. The uncertainties of life in timberwright work keep her vigilant and adaptable.
 
-### Strengths
+#### Strengths
 
 Skilled at selecting and processing wood, knowledgeable about different tree species.
 
-## Social
+### Social
 
 Nûlazî is affiliated with Timberwrights' Guild.
 
 As a Haradian timberwright, Nûlazî occupies a recognized social niche within Harad society.
 
-## Companions
+### Companions
 
-### Patrons
+#### Patrons
 
 Nûlazî's primary patron is Local carpenters who appreciate her careful selection of timber.. This relationship provides both opportunity and obligation.
 
-### Enemies
+#### Enemies
 
 Few, though some older timberwrights doubt her abilities due to her gender.
 
-## Plot Hooks
+### Plot Hooks
 
 1. **The Timberwright's Dilemma** — Nûlazî faces a professional crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Harad.
 

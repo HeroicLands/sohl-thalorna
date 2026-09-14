@@ -19,8 +19,6 @@ shortcode: yharvalenhenge
 packFolder: provenzia
 ---
 
-# Yhârvalen Henge
-
 In the far north of the [[place-provenzrgn|Provènzia Region]] — in **[[place-tramontana|Tramontàna]]**, on the
 low coastal country that runs inland from the [[place-batarengulf|Gulf of Batáren]] and up toward the
 Áelendan mountains — stands **Yhârvalen Henge**, or what remains of it. The

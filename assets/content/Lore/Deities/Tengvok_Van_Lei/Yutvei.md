@@ -10,6 +10,4 @@ shortcode: yutveidty
 packFolder: deitiestengvokvanlei
 ---
 
-# Yütvëi
-
 TBD

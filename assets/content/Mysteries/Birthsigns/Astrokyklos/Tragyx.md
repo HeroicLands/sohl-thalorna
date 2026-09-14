@@ -8,9 +8,10 @@ img: systems/sohl/assets/icons/other/astrology.svg
 shortcode: tragyx
 type: mystery
 subType: birthsign
+data:
+  templatePriority: 0
 sohl:
   kbcat: birthsign
-  templatePriority: 0
   system:
     levelBase: 0
     skillAptitudes:

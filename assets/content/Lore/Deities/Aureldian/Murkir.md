@@ -10,6 +10,4 @@ shortcode: murkirdty
 packFolder: deitiesaureldian
 ---
 
-# Múrkír
-
 TBD

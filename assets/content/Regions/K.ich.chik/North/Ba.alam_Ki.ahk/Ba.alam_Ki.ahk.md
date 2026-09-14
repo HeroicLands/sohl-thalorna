@@ -104,8 +104,6 @@ data:
     - humanflk
   parents: []
   relations: {}
-sohl:
-  templatePriority: null
 terran_analog: Western U.S. to Rockies and up to British Columbia and southern Alaska
 packFolder: baalamkiahk
 ---

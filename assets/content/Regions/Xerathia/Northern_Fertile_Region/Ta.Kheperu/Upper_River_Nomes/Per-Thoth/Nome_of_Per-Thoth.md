@@ -110,12 +110,8 @@ data:
   relations:
     kemtnpnthn: aligned
     thoth: aligned
-sohl:
-  templatePriority: null
 packFolder: perthoth
 ---
-
-# The Nome of Per-Thōth
 
 ## Overview
 

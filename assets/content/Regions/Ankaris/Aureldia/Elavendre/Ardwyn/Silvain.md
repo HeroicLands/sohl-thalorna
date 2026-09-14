@@ -19,8 +19,6 @@ shortcode: silvain
 packFolder: elavendre
 ---
 
-# Silvain
-
 **Silvain** lies inside the **[[place-silvrfrsts|Silver Forests]]** of [[place-ardwyn|Ardwyn]], which
 makes it unusual: a settled, permanent, largely Élavendri community of some six hundred souls, standing
 in country where such things are not normally permitted.

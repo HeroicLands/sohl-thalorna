@@ -41,7 +41,6 @@ data:
     complexion: rugged
     extra_features: []
 sohl:
-  templatePriority: null
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 12 } }
     - { model: sohl-sohl-attribute-end, system: { scoreBase: 14 } }
@@ -552,11 +551,11 @@ sohl:
     defaultCombatGroup: null
 ---
 
-# Appearance {#appearance}
+## Appearance {#appearance}
 
 Thaldrá Druthgar is a 27-year-old woman who stands 5'10" tall and is of moderate build. She has a square face with defined cheekbones, a broad forehead, and a heavy jaw that leads to a strong chin. Her hooded hazel eyes sit beneath prominent brows, lending her a guarded gaze. A straight nose and firm lips complete her features. She has light skin with a rugged complexion. Her brown hair is loose and wavy.
 
-# Dossier {#dossier}
+## Dossier {#dossier}
 
 Born in the Vrystwald region to a freeman family of Varokhi heritage, Thaldrá Druthgar came into the world of the common seaman through a combination of circumstance and aptitude.
 
@@ -564,37 +563,37 @@ Known as "Thorn" for her sharp wit and tenacity, Thalia is a fierce seaman who h
 
 Now at 27 years of age, Thaldrá Druthgar has established herself as a known figure among the common seamans of Vrystwald. Her reputation, for better or worse, precedes her in the circles where such things matter.
 
-## Psyche
+### Psyche
 
-### Personality
+#### Personality
 
 Can be overly competitive, struggles with vulnerability.
 
-### Motivation
+#### Motivation
 
 Thaldrá is driven by the desire to master her craft and secure a stable future. The uncertainties of life in common seaman work keep her vigilant and adaptable.
 
-### Strengths
+#### Strengths
 
 Agile and quick, skilled in rigging and navigation, good problem solver.
 
-## Social
+### Social
 
 Thaldrá is affiliated with None; works as a hired hand..
 
 As a Varokhi common seaman, Thaldrá occupies a recognized social niche within Vrystwald society.
 
-## Companions
+### Companions
 
-### Patrons
+#### Patrons
 
 Thaldrá's primary patron is Ship captains seeking capable crew members.. This relationship provides both opportunity and obligation.
 
-### Enemies
+#### Enemies
 
 Few; generally well-respected, but may face jealousy from some.
 
-## Plot Hooks
+### Plot Hooks
 
 1. **The Common Seaman's Dilemma** — Thaldrá faces a professional crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Vrystwald.
 

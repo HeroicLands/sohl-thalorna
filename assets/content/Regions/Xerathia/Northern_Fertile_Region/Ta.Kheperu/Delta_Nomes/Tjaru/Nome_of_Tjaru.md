@@ -8,6 +8,7 @@ name:
 shortcode: nometjaru
 subType: polity
 data:
+  templatePriority: null
   governance:
     model: monarchy
     summary: >-
@@ -106,12 +107,8 @@ data:
   relations:
     kemtnpnthn: aligned
     seker: aligned
-sohl:
-  templatePriority: null
 packFolder: deltanomes
 ---
-
-# The Nome of Tjaru
 
 ## Overview
 

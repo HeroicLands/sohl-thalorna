@@ -101,8 +101,6 @@ data:
   parents: []
   relations:
     arldnpnthn: aligned
-sohl:
-  templatePriority: null
 name:
   full: The Order of the Sealed Word
   aliases:
@@ -111,8 +109,6 @@ name:
     - The Oath-Wardens
 shortcode: ordrsldwrd
 ---
-
-# The Order of the Sealed Word
 
 _Aurèldían: Ordo Verbi Signati — "The Order of the Sealed Word"_
 
