@@ -94,11 +94,7 @@ data:
   lore: []
   parents: []
   relations: {}
-sohl:
-  templatePriority: null
 ---
-
-# The Magnum Collegium
 
 _Vylarian: Magnum Collegium Collegiorum — "The Great Guild of the Guilds"_
 

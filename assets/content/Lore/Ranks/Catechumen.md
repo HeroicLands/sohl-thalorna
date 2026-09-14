@@ -10,8 +10,6 @@ shortcode: catechumenrnk
 description: "Under instruction and not yet received: permitted to hear and not to partake."
 ---
 
-# Catechumen
-
 Under instruction and not yet received: permitted to hear and not to partake.
 
 ## Obligations and Rights

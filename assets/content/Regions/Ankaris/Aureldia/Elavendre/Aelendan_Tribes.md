@@ -105,8 +105,6 @@ data:
     kngdmlvndr: aligned
     alndnwrdns: aligned
     ordoarcanis: nemesis
-sohl:
-  templatePriority: null
 packFolder: elavendre
 ---
 

@@ -19,8 +19,6 @@ shortcode: yandamalaika
 packFolder: okharis
 ---
 
-# Yánda Maláika
-
 The high range beyond the settled Okháric country, said by the tribes to be where the gods dwell.
 Shamans of the [[affiliation-njiayaroho|Njia ya Roho]] speak of it as the place the spirit world
 lies closest to the mortal one, and few of them go: what is there does not need intercession and

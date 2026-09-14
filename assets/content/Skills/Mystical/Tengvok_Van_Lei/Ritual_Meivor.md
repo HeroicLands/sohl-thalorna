@@ -10,8 +10,9 @@ name:
   aliases:
     - Mëivōr
     - The Minister of Dreams
-sohl:
+data:
   templatePriority: null
+sohl:
   system:
     skillBaseFormula: "@wil, @rea"
     masteryLevelBase: 0

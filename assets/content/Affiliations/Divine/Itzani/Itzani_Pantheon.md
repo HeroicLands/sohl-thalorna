@@ -122,12 +122,10 @@ data:
   lore: []
   parents: []
   relations: {}
-sohl:
-  templatePriority: null
 packFolder: pantheonitzani
 ---
 
-# The Itzáni Faith
+## The Itzáni Faith
 
 **Pronunciation**: _Eet-ZAH-nee_
 
@@ -137,9 +135,9 @@ Unlike the Aurèldían tradition, where separate and often competing priesthoods
 
 This unified structure gives the Itzáni priesthood extraordinary power. Where an Aurèldían city might see the priests of one god balanced against the priests of another, a Ki'ichek city-state has a single priestly caste that controls the calendar, manages the temples, interprets the celestial cycles, oversees the sacrifices, and mediates between every aspect of divine power and mortal need. The priesthood rivals — and in many city-states exceeds — the authority of the temporal rulers. No seed is planted, no war declared, no marriage consummated, no king crowned, and no building begun without the priests first consulting the celestial cycles to determine whether the day is auspicious. This gives the priestly caste an absolute monopoly on the timing of all significant human activity, and with it, political power without parallel in the known world.
 
-## Theology
+### Theology
 
-### Celestial Recurrence
+#### Celestial Recurrence
 
 The central theological framework of the Itzáni faith is the doctrine of **Celestial Recurrence** — the belief that time moves not in a line but in vast cycles, and that the gods do not merely watch creation but participate in its perpetual destruction and renewal. The world has been created and destroyed four times before the current age. Each age ended when the celestial cycles aligned in a configuration of total dissolution, and the gods sacrificed their own divine substance to kindle a new creation. This theology gives the Itzáni faith a character fundamentally different from the other major traditions: the gods are not eternal and unchanging but active participants in the same cycles of creation, destruction, and renewal that govern mortal life. They bleed. They sacrifice. They die and are reborn. And they demand the same of their worshippers.
 
@@ -147,13 +145,13 @@ The First Age was destroyed by flood — waters so vast they covered every mount
 
 This eschatology creates an extraordinary urgency that pervades all Ki'ichek religion. Every sunrise is a victory. Every harvest is a reprieve. Every sacrifice buys time. The Ki'ichek do not worship out of gratitude for a stable world; they worship because the world is not stable, because it must be actively maintained, and because the cost of failure is absolute.
 
-### Blood and Reciprocity
+#### Blood and Reciprocity
 
 Blood sacrifice is the most visible — and to outsiders, the most troubling — expression of this theology. The Ki'ichek understanding of blood as the currency of cosmic renewal is not mere barbarism but the logical consequence of a theology in which the gods themselves bled to create the world. Blood given to the gods is not tribute extracted by fear but reciprocity — the mortal share of the cosmic bargain that keeps the sun rising and the rains falling.
 
 The scale and form of sacrifice varies enormously across the K'ich'chik continent: from the personal bloodletting of pierced tongues and earlobes practiced by common worshippers, through the elaborate autosacrificial rites of the priestly caste, to the battlefield captive sacrifices that punctuate the great festivals. The ethical dimensions of these practices are debated even within Ki'ichek society, and the theological justifications are complex and internally coherent even where they horrify foreign observers.
 
-## The Priesthood
+### The Priesthood
 
 The Itzáni priesthood is organized in a three-tier hierarchy that mirrors the structure of the cosmos itself:
 
@@ -163,7 +161,7 @@ The Itzáni priesthood is organized in a three-tier hierarchy that mirrors the s
 
 **Tq'an'ik** ("Edge-Walker") — initiates and acolytes who serve in the temples while undergoing the long training required for ordination. A Tq'an'ik spends years learning to read the calendar, memorize the sacred texts, perform the basic rituals, and endure the autosacrificial practices that the priesthood demands of all its members.
 
-### Specialist Branches
+#### Specialist Branches
 
 Within this unified hierarchy, priests specialize in the service of particular gods. These specializations function as branches or orders within the single institution — a priest might spend their career serving one god's temples, but they answer to the same K'ul Tq'an and share the same theological training as all other priests. The major specialist branches are:
 
@@ -171,7 +169,7 @@ The **solar priests** of K'in'ul Tq'an, who maintain the great pyramid-temples, 
 
 The tension within Ki'ichek politics is not between rival priesthoods of different gods, but between the unified priestly caste and the secular authority of the K'inmah. And within the priesthood itself, the competition is between specialist branches vying for resources, influence, and the K'ul Tq'an's favor — the rain-callers arguing for more resources during drought, the serpent-keepers demanding attention when earthquakes shake the land, the astronomers insisting that their calculations take priority over the fire-keepers' ceremonial schedule.
 
-## The Celestial Calendar
+### The Celestial Calendar
 
 The Itzáni faith is organized around the movements of the celestial bodies, which the Ki'ichek observe with extraordinary precision. The theological framework is built on the interaction of multiple interlocking cycles:
 
@@ -179,7 +177,7 @@ The **K'in Cycle** (the 365-day solar year) governs agriculture, seasonal festiv
 
 Every fifty-two years, when the K'in Cycle and the Tq'an Cycle realign, the great **New Fire Ceremony** is conducted. Every fire in the city is ritually extinguished. The temples grow dark. For a day and a night, the city observes silence, knowing that if the fire cannot be rekindled, K'in'ul Tq'an has withdrawn his sanction and the age is ending. Then, at the appointed hour, the K'ul Tq'an and the highest fire-priests ascend the great pyramid. Using obsidian mirrors and polished jade, they focus the rising sun's rays onto dry tinder, seeking to draw fire directly from the celestial sphere. When the first spark catches and a flame springs to life, a roar erupts from the city below. Runners carry the sacred fire to every corner of the city, rekindling every hearth. It is at once a moment of terror and relief, an affirmation that the gods have granted the city another cycle of life.
 
-## The Ten
+### The Ten
 
 Each of the Ten has its own specialist branch within the single Itzáni priesthood, and its own faith note, linked in the table below. The faithful do not choose between them; a Ki'ichek calls upon whichever god the occasion requires, and one priestly caste serves them all.
 
@@ -196,7 +194,7 @@ Each of the Ten has its own specialist branch within the single Itzáni priestho
 | Dreams         | **Nal'ik Tz'uqal**  | The Dreamer in Moonlight     | A crescent moon trailing threads of silver mist                                     | [[affiliation-naliktzuqal\|Faith of Nal'ik Tz'uqal]]   |
 | Fertility      | **Xaq'ik Ha'nal**   | The Blossom of Living Waters | A water lily blooming from a jade spring                                            | [[affiliation-xaqikhanal\|Faith of Xaq'ik Ha'nal]]     |
 
-## Heterodoxy
+### Heterodoxy
 
 The tradition's gravest heresy came out of its own household, and its orthodox contemplative
 wing sits uncomfortably close to the same argument. Each is documented in its own note.
@@ -214,7 +212,7 @@ wing sits uncomfortably close to the same argument. Each is documented in its ow
   a root with the Awakener heresy, and the boundary between accepting that all things end and
   hastening the ending is thinner than the priesthood would like.
 
-## Dreadspawn on K'ich'chik
+### Dreadspawn on K'ich'chik
 
 [[lore-dreadspawn|Dreadspawn]] — unique, non-reproducing creatures of deliberate divine creation — are found on the K'ich'chik continent just as they are found across all of Thalorna. On K'ich'chik, they are the work of **P'iqal Kul'qat**, the creation goddess who has built the world five times and whose theology of perpetual experimentation and learning-through-failure maps directly onto the Dreadspawn phenomenon. Where the [[affiliation-asguardian|Asguardian]] creator god [[affiliation-ymir|Ymir]] crafts his Dreadspawn in vast laboratories with the frustrated energy of a perfectionist tinkerer, P'iqal Kul'qat's creations feel more _placed_ — deliberate features of the landscape, guardians set over sacred sites, experiments in what life can become in the jungle environment.
 
@@ -222,7 +220,7 @@ The Ki'ichek do not find Dreadspawn theologically alarming. A Dreadspawn encount
 
 The K'ich'chik term for Dreadspawn is **Kul'ik P'iqal** — "Living Works of the Builder" — a name that reflects neither fear nor reverence but professional acknowledgment. They are P'iqal Kul'qat's output, and documenting them is part of understanding her ongoing creative work.
 
-## See Also
+### See Also
 
 - [[place-kchchkcntnnt|K'ich'chik]] — The continent
 - [[skill-kicheklng|Ki'ichek Language]] — the tongue and its naming conventions

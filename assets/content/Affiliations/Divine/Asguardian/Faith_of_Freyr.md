@@ -88,8 +88,6 @@ name:
     - The Verdant Path
 shortcode: freyr
 img: images/affiliation/asguardian/freyr.webp
-sohl:
-  templatePriority: null
 packFolder: pantheonsasguardian
 ---
 

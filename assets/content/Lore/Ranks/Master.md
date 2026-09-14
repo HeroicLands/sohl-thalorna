@@ -10,8 +10,6 @@ shortcode: masterrnk
 description: "Admitted on a masterpiece or its equivalent, competent to keep a shop and teach."
 ---
 
-# Master
-
 Admitted on a masterpiece or its equivalent, competent to keep a shop and teach.
 
 ## Obligations and Rights

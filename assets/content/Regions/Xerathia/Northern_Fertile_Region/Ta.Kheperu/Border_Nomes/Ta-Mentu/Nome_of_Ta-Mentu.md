@@ -8,6 +8,7 @@ name:
 shortcode: nometament
 subType: polity
 data:
+  templatePriority: null
   governance:
     model: monarchy
     summary: >-
@@ -106,12 +107,8 @@ data:
   relations:
     kemtnpnthn: aligned
     ra: aligned
-sohl:
-  templatePriority: null
 packFolder: bordernomes
 ---
-
-# The Nome of Ta-Mentu
 
 ## Overview
 

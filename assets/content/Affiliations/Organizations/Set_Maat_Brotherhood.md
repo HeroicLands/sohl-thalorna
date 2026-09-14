@@ -89,8 +89,6 @@ data:
     ptah: aligned
     seker: aligned
     anubis: aligned
-sohl:
-  templatePriority: null
 name:
   full: The Brotherhood of Set-Maat
   aliases:
@@ -98,8 +96,6 @@ name:
 shortcode: setmaatbr
 banner: banners/ta-kheperu-banner.webp
 ---
-
-# The Brotherhood of Set-Maat
 
 A walled company-village on the western bank of the Khensuret necropolis, whose people are the stonecutters, draughtsmen, sculptors and painters who cut and decorate the great tombs. An elite of hereditary craftsmen, their trades and their secrets passed father to son, set above the ordinary labour-gangs and proud of it. Behind its walls the village keeps itself: its own headmen, its own little courts, its own shrines, and a closed brotherhood that guards both the mysteries of its craft and the locations of what it builds.
 

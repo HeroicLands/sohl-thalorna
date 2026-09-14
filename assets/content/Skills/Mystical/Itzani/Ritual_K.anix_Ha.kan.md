@@ -11,8 +11,9 @@ name:
   aliases:
     - K'anix Ha'kan
     - The Golden Giver
-sohl:
+data:
   templatePriority: null
+sohl:
   system:
     skillBaseFormula: "@wil, @rea"
     masteryLevelBase: 0

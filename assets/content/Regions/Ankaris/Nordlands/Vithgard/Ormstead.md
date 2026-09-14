@@ -17,8 +17,6 @@ shortcode: ormstead
 packFolder: vithgard
 ---
 
-# Ormstead
-
 ## Overview
 
 _To be written._

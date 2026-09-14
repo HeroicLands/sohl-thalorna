@@ -10,6 +10,4 @@ shortcode: lusiniadty
 packFolder: deitiesaureldian
 ---
 
-# Lúsinía
-
 TBD

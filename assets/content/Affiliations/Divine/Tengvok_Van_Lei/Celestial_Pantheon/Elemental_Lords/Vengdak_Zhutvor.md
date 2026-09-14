@@ -120,18 +120,16 @@ data:
     - tngvkvnlei
   relations:
     tngvkvnlei: aligned
-sohl:
-  templatePriority: null
 packFolder: elementallords
 ---
 
-# Vëngdāk Zhütvōr — The Lord of Earth
+## Vëngdāk Zhütvōr — The Lord of Earth
 
 The Elemental Lord of Earth manifests in the celestial records as a figure of absolute fixedness and foundational authority—an official whose jurisdiction is broader than any other Elemental Lord's, whose claims to territorial sovereignty override most competing bureaus, and whose administration is marked by a conservative insistence that the earth's domains remain unmoved, unstudied, and unmolested except through proper petition. Vëngdāk Zhütvōr does not delegate authority readily and maintains personal oversight of the most significant earth-related matters. Some Tānthëi scholars suggest that the Lord of Earth, more than any Elemental Lord, embodies the cosmological principle: the earth _is_ the foundation upon which all other classifications rest, and therefore its administrator must be correspondingly rigorous and skeptical of disruptions to established order.
 
 Like all Elemental Lords, Vëngdāk Zhütvōr answers directly to the Jade Sovereign rather than to a specific bureau overseer. His authority extends across all manifestations of earth—soil, stone, minerals, caves, mountains, and all solid terrestrial matter. In the Tānvüri cosmological framework, the earth is understood not as a mere material substrate but as the _primary classification_: the first and most fundamental boundary between that-which-is-above and that-which-is-below. Vëngdāk Zhütvōr's role is therefore to maintain that boundary with absolute integrity. Any disturbance to the earth without proper authorization is understood not merely as environmental damage but as a breach of cosmic order.
 
-## The Classification of Earth
+### The Classification of Earth
 
 The Lord of Earth maintains the boundary between four primary administrative categories, each governed with characteristic strictness:
 
@@ -143,7 +141,7 @@ The Lord of Earth maintains the boundary between four primary administrative cat
 
 **Metals and Ore (Zhüt Vōrthāt)** — Metal-bearing ore and mineral deposits within the earth. This category overlaps directly with the Metal Lord's (Dāktūr Vōrthāt's) jurisdiction, creating one of the most formally documented and yet persistently fraught jurisdictional boundaries in the celestial bureaucracy. The formal understanding is that Vëngdāk Zhütvōr maintains authority over ore _as part of the earth_ while Dāktūr Vōrthāt claims authority over the ore _as metal awaiting extraction_. When does ore cease being "part of the earth" and become "metal waiting to be extracted"? The distinction generates constant litigation and administrative tension. The practical compromise requires that any mining operation must file petitions with _both_ the Earth Lord (requesting permission to disturb the earth) and the Metal Lord (requesting permission to extract and classify the ore), ensuring that both Elemental Lords maintain some degree of jurisdictional satisfaction through involvement in the process.
 
-## Authority and Jurisdictional Tensions
+### Authority and Jurisdictional Tensions
 
 Vëngdāk Zhütvōr's authority is broader and less contested than most Elemental Lords' precisely because his domain is foundational. Most competing claims come from other Elemental Lords rather than bureau overseers—the Water Lord claims authority over groundwater and springs; the Wood Lord claims authority over forests (rooted in soil, but alive); the Metal Lord claims authority over ore.
 
@@ -155,7 +153,7 @@ Vëngdāk Zhütvōr also maintains a relationship with **Röthöt Dākvëng** (L
 
 Finally, Vëngdāk Zhütvōr maintains potential tension with the **Bureau of Persistence** (Zāt Sëi), whose authority over agricultural continuity could be interpreted to include some oversight of soil fertility. Nëizāt (the Persistence overseer) has generally conceded that soil is the Earth Lord's domain, but the relationship remains formally undefined.
 
-## Mortal Engagement
+### Mortal Engagement
 
 Mortals petition Vëngdāk Zhütvōr through offerings at earth shrines, through the pouring of blood-offerings into the soil, through burying spirit-documents inscribed with petitions, or through mediation by the Tānthëi priesthood and local Tūrvōr (territorial officials). Petitions to the Lord of Earth are considered among the most formal and demanding; the Lord of Earth is known for rejecting petitions that lack proper documentation or sufficient spiritual merit.
 
@@ -171,7 +169,7 @@ Mortals petition Vëngdāk Zhütvōr through offerings at earth shrines, through
 
 **Individuals experiencing earth-related misfortune** (sinking foundations, earth tremors, soil degradation, crop failure) may petition Vëngdāk Zhütvōr as part of investigating underlying spiritual imbalance. The Lord of Earth, however, typically interprets such petitions as confessions of the petitioner's moral deficit rather than requests for intervention, and rarely grants relief—the proper remedy is understood to be correcting the moral ledger rather than requesting celestial modification of the earth.
 
-## See Also
+### See Also
 
 - [[affiliation-tngvkvnlei|Tëngvōk Vān Lëi]] — The Celestial Bureaucracy that appointed Vëngdāk Zhütvōr as Elemental Lord
 - [[affiliation-daktrvrtht|Dāktūr Vōrthāt]] — The Elemental Lord of Metal, with whom Vëngdāk Zhütvōr shares jurisdiction over ore deposits

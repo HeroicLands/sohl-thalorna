@@ -19,8 +19,6 @@ data:
 packFolder: adventures
 ---
 
-# The Enigma of Lhénavren
-
 Ancient ruins in the borderlands hold secrets from before human memory, guarded by the reclusive [[skill-aelendlng|Áelendi]] tribes and their [[lore-flksinale|Sinalë]] allies. The artifacts within could reshape Provenzian power—if the party can uncover them without awakening what guards them.
 
 ## Overview

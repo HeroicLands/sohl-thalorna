@@ -10,6 +10,4 @@ shortcode: floraniadty
 packFolder: deitiesaureldian
 ---
 
-# Flórania
-
 TBD

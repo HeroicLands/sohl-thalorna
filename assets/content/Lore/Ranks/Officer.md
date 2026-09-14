@@ -10,8 +10,6 @@ shortcode: officerrnk
 description: "Holding a charge of a body — its stores, its discipline, its accounts, its people."
 ---
 
-# Officer
-
 Holding a charge of a body — its stores, its discipline, its accounts, its people.
 
 ## Obligations and Rights

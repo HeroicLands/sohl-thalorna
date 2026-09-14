@@ -10,8 +10,9 @@ name:
   aliases:
     - Zhütshüt Lüng
     - Zhutshut Lung
-sohl:
+data:
   templatePriority: null
+sohl:
   system:
     skillBaseFormula: "@wil, @rea"
     masteryLevelBase: 0

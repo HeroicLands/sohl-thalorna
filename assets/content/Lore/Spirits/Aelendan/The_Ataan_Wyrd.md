@@ -12,8 +12,6 @@ shortcode: ataanspr
 packFolder: lorespiritsaelendan
 ---
 
-# The At'aan Wyrd
-
 - **Kind:** Place-kin, of [[lore-thekindred|the Kindred]]
 - **Seat:** [[place-ataanwyrd|The At'aan Wyrd]]
 - **Territory:** the clearing, and as far as the tree's shadow reaches

@@ -93,11 +93,7 @@ data:
   lore: []
   parents: []
   relations: {}
-sohl:
-  templatePriority: null
 ---
-
-# The Crown Trades of Okháris
 
 - **Type:** Royal-chartered trade guilds; small federation of urban commercial institutions
 - **Region:** The kingdom of [[affiliation-okharis|Okháris]] — based in the three great temple-cities of **Zarhánis**, **Kaljékor**, and **Vuthráka**; activity extends into the surrounding savannah through tribal-clan trade relationships

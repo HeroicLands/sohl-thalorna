@@ -41,7 +41,6 @@ data:
     complexion: weathered
     extra_features: []
 sohl:
-  templatePriority: null
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 14 } }
     - { model: sohl-sohl-attribute-end, system: { scoreBase: 15 } }
@@ -553,11 +552,11 @@ sohl:
     defaultCombatGroup: null
 ---
 
-# Appearance {#appearance}
+## Appearance {#appearance}
 
 Ellimû Ashîmâ is a 42-year-old man who stands 5'10" tall and is broad and solidly built. He has an oval face with prominent cheekbones, a wide forehead, and a sharp jaw that leads to a pointed chin. His deep-set brown eyes sit beneath prominent brows, lending him a watchful gaze. A straight nose and wide lips complete his features. He has warm golden skin with a weathered complexion. His dark brown hair is cropped short.
 
-# Dossier {#dossier}
+## Dossier {#dossier}
 
 Born in the Harad region to a freeman family of Haradian heritage, Ellimû Ashîmâ came into the world of the teamster through a combination of circumstance and aptitude.
 
@@ -565,37 +564,37 @@ Harlan has spent his life transporting goods across the countryside, driving wag
 
 Now at 42 years of age, Ellimû Ashîmâ has established himself as a known figure among the teamsters of Harad. His reputation, for better or worse, precedes him in the circles where such things matter.
 
-## Psyche
+### Psyche
 
-### Personality
+#### Personality
 
 Gruff and unpolished, struggles with social niceties.
 
-### Motivation
+#### Motivation
 
 Ellimû is driven by the desire to master his craft and secure a stable future. The uncertainties of life in teamster work keep him vigilant and adaptable.
 
-### Strengths
+#### Strengths
 
 Skilled in handling draft animals, experienced in navigating rough terrain.
 
-## Social
+### Social
 
 Ellimû is affiliated with Teamsters' Guild.
 
 As a Haradian teamster, Ellimû occupies a recognized social niche within Harad society.
 
-## Companions
+### Companions
 
-### Patrons
+#### Patrons
 
 Ellimû's primary patron is Local merchants who trust him to transport their goods safely.. This relationship provides both opportunity and obligation.
 
-### Enemies
+#### Enemies
 
 Bandits who view his well-loaded wagons as targets.
 
-## Plot Hooks
+### Plot Hooks
 
 1. **The Teamster's Dilemma** — Ellimû faces a professional crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Harad.
 

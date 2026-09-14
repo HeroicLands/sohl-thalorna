@@ -10,8 +10,6 @@ description: Distinct peoples, races, and lineages.
 banner: banners/people.webp
 ---
 
-# Peoples
-
 Distinct peoples, races, and lineages.
 
 ```sql

@@ -17,8 +17,6 @@ name:
 shortcode: pelagora2
 ---
 
-# Pelagora
-
 ## Overview
 
 _To be written._ Pelagora is the capital and principal settlement of [[affiliation-pelagora|Pelagora]].

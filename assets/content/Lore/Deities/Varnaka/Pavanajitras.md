@@ -10,6 +10,4 @@ shortcode: pvnjtrsdty
 packFolder: deitiesvarnaka
 ---
 
-# Pavanajitras
-
 TBD

@@ -10,8 +10,6 @@ shortcode: professedrnk
 description: "Vowed for life to an order, holding no property and owing obedience to its officers."
 ---
 
-# Professed
-
 Vowed for life to an order, holding no property and owing obedience to its officers.
 
 ## Obligations and Rights

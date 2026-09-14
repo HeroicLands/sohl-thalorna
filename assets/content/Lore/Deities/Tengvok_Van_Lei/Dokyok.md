@@ -10,6 +10,4 @@ shortcode: dokyokdty
 packFolder: deitiestengvokvanlei
 ---
 
-# Dōkyök
-
 TBD

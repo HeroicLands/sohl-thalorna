@@ -40,7 +40,6 @@ data:
     extra_features:
       - a tattoo of a tiger on the forearm
 sohl:
-  templatePriority: null
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 11 } }
     - { model: sohl-sohl-attribute-end, system: { scoreBase: 12 } }
@@ -587,13 +586,13 @@ sohl:
     defaultCombatGroup: null
 ---
 
-# Appearance {#appearance}
+## Appearance {#appearance}
 
 Anûraja stands 6'0" tall with a medium build. He has golden brown skin, dark brown hair, and deep brown eyes. His features include a diamond-shaped face, a straight nose, a soft jawline, full lips, golden brows, rounded cheeks. A distinguishing mark is a tattoo of a tiger on the forearm.
 
 Most striking is the tiger tattoo that adorns his right forearm—a creature rendered in intricate detail, seeming to move in candlelight. The tattoo is not mere decoration but a marker of his lineage, indicating his training within the Vedyaran tradition of shadow-work. His hands, with their precise fingers and evident dexterity of 18, are as dangerous as any blade; despite their slender appearance, they possess devastating capability.
 
-# Dossier {#dossier}
+## Dossier {#dossier}
 
 Anûraja was born into a city-state family of middling merchants in Vedyara, the youngest child of a father whose business interests were built upon careful political positioning rather than genuine commerce. From earliest childhood, he displayed an unsettling affinity for violence—not the hot-blooded rage of a typical child, but a cold, analytical interest in how injury could be inflicted with maximum efficiency and minimum effort.
 
@@ -601,9 +600,9 @@ At age eight, his father, recognizing something exceptional in the boy, engaged 
 
 Now, at thirty-one, Anûraja has become something of a legend within certain circles—an assassin of such skill that the wealthy and powerful quietly compete to engage his services, and the paranoid take extraordinary precautions merely knowing he exists in the world. He has never failed a contract, a perfect record maintained through meticulous planning, ruthless decision-making, and a willingness to abandon assignments that show any sign of compromised conditions. He operates independently, taking contracts only from sources he verifies personally, and maintaining absolute operational security.
 
-## Psyche
+### Psyche
 
-### Personality
+#### Personality
 
 Anûraja is defined by emotional distance so profound it approaches the sociopathic. He experiences the world intellectually rather than emotionally—he understands human motivation through study rather than intuition, and performs social interactions through memorized patterns rather than genuine connection. This does not make him overtly threatening in casual interaction; rather, he has trained himself to mimic human emotion convincingly enough that most people fail to notice the absence beneath the surface.
 
@@ -611,7 +610,7 @@ In professional contexts, he is meticulous to the point of obsession. Every cont
 
 With those rare few he interacts with repeatedly, Anûraja develops something approaching fondness, though he would never use such a sentimental term. These relationships are transactional but reliable; he honors agreements with them and maintains their secrets as he maintains his own. Beyond these rare connections, he views humanity with anthropological interest—observing patterns, studying motivation, but maintaining absolute psychological distance.
 
-### Motivation
+#### Motivation
 
 On the surface, Anûraja is motivated by financial gain and professional pride. The contracts he accepts pay extraordinarily well, and his perfect record represents the kind of mastery within his chosen field that most humans can never achieve. This ambition is genuine but ultimately secondary to deeper drives.
 
@@ -619,7 +618,7 @@ Fundamentally, Anûraja is motivated by the philosophical principles he absorbed
 
 Additionally, Anûraja is driven by an need to understand the limits of his capability. He accepts contracts not merely for income but to test himself against new challenges, different opponents, unexpected variables. He is motivated by the intellectual puzzle of each assassination—how best to execute the target, how to avoid detection, how to accomplish the impossible.
 
-### Strengths
+#### Strengths
 
 - **Lethal Dexterity**: A dexterity score of 18, combined with four specializations in melee combat, grants Anûraja devastating capability in close combat. His hands and daggers move with such speed and precision that most opponents never realize they are dead until the knowledge becomes irrelevant.
 - **Extraordinary Agility**: An agility score of 16 allows him to move with liquid grace, climbing impossible angles, balancing on surfaces others would fall from, and executing acrobatic movements in combat that confound opponents' expectations.
@@ -629,7 +628,7 @@ Additionally, Anûraja is driven by an need to understand the limits of his capa
 - **Intellectual Capability**: A reasoning score of 14 combined with his training makes him excellent at planning complex operations, anticipating counteractions, and adapting to unexpected developments.
 - **Exceptional Weapons Capability**: His throwing skill of 17 base with four specializations, melee of 17 with four specializations, and weaponcraft knowledge make him formidable with any instrument of violence.
 
-### Weaknesses
+#### Weaknesses
 
 - **Emotional Atrophy**: His near-total inability to connect with others emotionally makes him vulnerable to manipulation through the emotions of others. Those he cares about (few as they are) can be used against him.
 - **Questionable Morality**: His willingness to kill for money and his philosophical distance from the consequences of his work leave him morally isolated. The positions he accepts sometimes place him in conflict with genuinely principled opposition.
@@ -638,24 +637,24 @@ Additionally, Anûraja is driven by an need to understand the limits of his capa
 - **Reduced Physical Resilience**: His focus on precision and stealth rather than durability means his strength and endurance are modest (11 and 12 respectively). Direct confrontation against physically superior opponents is dangerous for him.
 - **Isolation**: His self-imposed separation from genuine human connection leaves him psychologically fragile in ways he doesn't recognize. Disruption to his solitary routine can produce unexpected consequences.
 
-## Social
+### Social
 
-### Patrons
+#### Patrons
 
 - **The House of Vedyan Merchants**: A noble merchant family that has contracted Anûraja's services repeatedly over eight years, always for high-stakes elimination of political or commercial rivals. They pay extraordinarily well and understand the necessity of discretion.
 - **The Shadow-Brotherhoods of Vedyara**: While Anûraja operates independently, he maintains loose affiliation with the organizations that trained him. They occasionally provide contracts, intelligence, or assistance when his own projects require additional capability.
 
-### Enemies
+#### Enemies
 
 - **The Righteous Order of Preservation**: A loose confederation of paladins, clerics, and holy warriors who view assassins as abominations requiring eradication. They have a standing contract to hunt Anûraja, though he has so far managed to avoid direct confrontation through his superior intelligence and stealth.
 - **Vex the Undying**: Anûraja's former mentor, **Grandmother Vex**, has begun to hunt him for reasons he does not fully understand. She seems to believe that Anûraja has strayed from the philosophical principles of shadow-work and must be eliminated. Their war is conducted in shadows, with neither able to gain decisive advantage.
 - **The Guild of Ironhands**: A mercenary organization that views Anûraja as competition. They have attempted several times to eliminate him or recruit him forcibly, none of which has succeeded.
 
-### Affiliations
+#### Affiliations
 
 - **The Shadow-Brotherhoods**: While not formally affiliated, Anûraja maintains connections with these organizations, taking contracts through them when it suits him, though his independent commissions generally pay far better.
 
-## Plot Hooks
+### Plot Hooks
 
 1. **The Impossible Target**: Anûraja is approached through his usual channels with an extraordinary contract: eliminate an individual who appears to have no fixed location, no predictable pattern, and no clear identity. The fee is the largest he has ever been offered, and the employer is someone of sufficient power that refusal would be dangerous. As he begins investigation, he discovers that the target may not be human—or may not even be singular. The contract forces him into territories where his usual methods prove inadequate.
 

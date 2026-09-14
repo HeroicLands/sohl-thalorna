@@ -8,7 +8,7 @@ shortcode: castelaws
 packFolder: tanvur
 ---
 
-# Caste Laws of the Empire of Tānvür
+## Caste Laws of the Empire of Tānvür
 
 The Caste Laws, or **Zhāklüt**, are the foundation of the social structure in the [[affiliation-tanvurempr|Empire of Tānvür]]. These laws strictly define the rights, duties, and restrictions of each caste, ensuring that social order and cosmic balance are maintained. Violations are met with severe and often deadly punishments, particularly concerning the use of magic, which is tightly controlled and regulated within the empire.
 
@@ -16,7 +16,7 @@ See also: [[lore-zeisik|Law and Honor]] for the legal system and punishment fram
 
 ---
 
-## The Eight Castes
+### The Eight Castes
 
 The society of Tānvür is divided into eight castes, ranked from highest to lowest:
 
@@ -31,7 +31,7 @@ The society of Tānvür is divided into eight castes, ranked from highest to low
 
 ---
 
-## Universal Principles
+### Universal Principles
 
 Several rules apply across all castes:
 
@@ -45,11 +45,11 @@ Several rules apply across all castes:
 
 ---
 
-## The Imperial Registry and Identification
+### The Imperial Registry and Identification
 
 In a society built on classification, accountability is not optional — it is existential. If the cosmic order depends on everything being sorted, then the administration must _know_ what has been sorted. Every person within the empire — from the Son of Heaven to the lowest Nützōk — is recorded in the **Dāk Rën Thōk** (the Great Person Record), the imperial census that is the mortal equivalent of the celestial Master Registry maintained by the Archive of All Records ([[affiliation-tngvkvnlei|Thōk Sëi]]). The census is complete. Nobody falls through the cracks. To be unrecorded is to be unclassified, and what is unclassified dissolves into the Hürnlëi.
 
-### The Dāk Rën Thōk (Great Person Record)
+#### The Dāk Rën Thōk (Great Person Record)
 
 The Dāk Rën Thōk is not a single document but a vast, distributed registry maintained at every level of administration. Village headmen report to local magistrates, who report to the Warlords, who report to the imperial chancellery. Every birth is registered. Every death is recorded. Every marriage, every change of household, every caste reclassification — all of it is documented, copied, and filed. The registry records each person's name (or identifying designation, for the unnamed lower castes), caste, clan, household, region of residence, and any notable classification events (magical testing results, criminal convictions, military service, caste promotions or demotions).
 
@@ -57,7 +57,7 @@ The census is conducted with obsessive thoroughness not because the empire is pa
 
 In practice, the census also serves the empire's more mundane interests: taxation, military conscription, labor allocation, and the enforcement of caste boundaries. A person who cannot be found in the registry cannot be taxed, cannot be drafted, and cannot be held accountable under the Tëng Lüt. The administration's spiritual obligation to maintain the cosmic order aligns perfectly with its practical need to control the population.
 
-### The Zhāk Müt (Classification Tablet)
+#### The Zhāk Müt (Classification Tablet)
 
 Every person in the empire who travels beyond the area where they are personally known must carry a **Zhāk Müt** — a wooden identification tablet that declares their place within the classification system. The Zhāk Müt is a flat plaque of hardwood, typically palm-sized, inscribed with the bearer's essential classification data: their caste, clan or household affiliation, region of registration, and the jurisdictional authority that issued the tablet. The reverse bears the official seal of the issuing magistrate or Warlord — a stamped impression in lacquer that serves as authentication.
 
@@ -71,13 +71,13 @@ Forging a Zhāk Müt is among the most serious crimes in the Tëng Lüt. It is n
 
 ---
 
-## Foreigners and the Unclassified
+### Foreigners and the Unclassified
 
 The caste system classifies the inhabitants of the empire. Foreigners — traders from [[affiliation-cnfdrtnhrdnstts|Confederation of Haradian States]], diplomats from [[affiliation-vylarinmpr|Vylarian Empire]], scholars from [[place-helionis|Heliónis]], wanderers from anywhere beyond the empire's borders — are _not inhabitants_. They have no caste, no moral ledger, no ancestor spirits posted within the celestial bureaucracy, and no bureau with jurisdiction over their affairs. In the classification cosmology, they are **unclassified material** — not hostile like the Hürnlëi, but simply unsorted. A document that arrived at the office without a filing number.
 
 This is not a metaphor. The Tānvüri genuinely understand foreigners as existing outside the cosmic order. A foreigner has no spiritual infrastructure within the empire: temples cannot process their petitions (no moral ledger on file), magistrates have no framework for adjudicating their disputes (no caste to determine jurisdiction), and the celestial administration has no bureau assigned to their affairs. They are, in administrative terms, _invisible_ — present in the physical world but absent from the cosmic filing system.
 
-### Administrative Classification
+#### Administrative Classification
 
 Foreigners are not, however, left permanently unsorted. The classification system has mechanisms for processing the unclassified — it must, or the existence of foreigners within the empire's borders would be a standing classification breach.
 
@@ -87,7 +87,7 @@ Foreigners are not, however, left permanently unsorted. The classification syste
 
 **No Classification:** A foreigner who enters the empire without obtaining any classification — a wanderer, an uninvited traveler, someone who slipped through without paperwork — has _no standing whatsoever_. They cannot legally own property, enter into contracts, seek the protection of the law, or conduct any business that the classification system governs. In practice, they are treated roughly as one might treat a stray animal: not actively persecuted (unless they cause problems), but with no rights, no protections, and no recourse. Crimes committed _against_ an unclassified foreigner are technically not crimes at all under the Tëng Lüt, since the victim does not exist within the legal system. Crimes committed _by_ an unclassified foreigner are treated as disruptions to the classification order — dealt with swiftly and harshly.
 
-### The Foreigner's Experience
+#### The Foreigner's Experience
 
 For a visitor from Western Ankaris, the experience of being unclassified in Tānvür is profoundly disorienting. The empire is not overtly hostile — the Tānvüri are not barbarians, and they understand that foreign trade and diplomacy serve the empire's interests. But the systems that make daily life function simply _do not see you_. You cannot enter a temple and file a petition for anything. You cannot appeal to a magistrate if you are cheated. Your money is accepted (commerce is pragmatic), but your personhood is not recognized. You are a walking administrative gap — tolerated, managed, confined to designated trading quarters or diplomatic compounds, and spiritually quarantined from the classified population.
 
@@ -95,13 +95,13 @@ Even a foreigner with a bureau classification remains permanently marked as _oth
 
 ---
 
-## The Elder Races and the Classification System
+### The Elder Races and the Classification System
 
 The [[lore-flksinale|Sinalë]] and [[lore-flkkhazar|Khazári]] present an entirely different case from foreign humans. They are not unclassified. They predate the empire — indeed, they predate humanity — and the classification system has already absorbed them. The Great Sorting, the Tānthëi teach, classified _all_ of existence, including beings that existed long before humans were organized into the caste system. The Elder Races were sorted. They have their place.
 
 But that place is not quite the same as the human caste hierarchy. The Elder Races are **classified functionally** — slotted into the caste system based on the role they perform within the empire, not based on the cosmological reasoning that underlies the human castes. The distinction is subtle but important: a human Zāthük artisan is Zāthük because the Great Sorting designated that classification for craft-workers. A Sinalo master jeweler is classified as Zāthük because that is the closest administrative category the system has for what they do. The classification fits, but it was not _designed_ for them.
 
-### Caste Placement
+#### Caste Placement
 
 **Zāthük (the majority):** Most Sinalë and Khazári within the empire are classified as [[lore-zathuk|Zāthük]]. Their legendary craftsmanship — Sinalëan woodwork, textiles, and jewelry; Khazárian metalwork, masonry, and engineering — makes this the obvious functional classification. Their work commands extraordinary prices and respect, often elevating individual Elder Race artisans to wealth and influence that far exceeds their nominal caste standing. See [[lore-zathuk|Elder Races Among Zāthük]] for details.
 
@@ -111,7 +111,7 @@ But that place is not quite the same as the human caste hierarchy. The Elder Rac
 
 **Never Vëndük:** Despite the fact that magic is intrinsic to the Elder Races — woven into their nature in a way that has no human equivalent — no Sinalo or Khazár is ever classified as [[lore-venduk|Vëndük]]. The Vëndük classification is specifically for humans with innate magical ability who must be controlled through the chattel system. Elder Race magic operates outside the bureaucratic petition model entirely — it is not channeled through mental forms built from aura in the way that human magic (whether Ordo or Vëndük) functions. The classification system can _categorize_ the Elder Races, but it cannot fully _explain_ their magic, which is a theological loose end that the [[lore-tanthei|Tānthëi]] find deeply uncomfortable and prefer not to examine too closely.
 
-### The Dual Existence
+#### The Dual Existence
 
 The Elder Races exist in two worlds simultaneously. Within the empire — in human cities, at court, in trade and military service — they accept and operate within their assigned classifications. They attend the Son of Heaven when summoned. They serve in the armies when called. They participate in commerce under the same rules as any other Zāthük or Vüshōk. They understand, pragmatically, that interacting with the human world requires fitting within the human hierarchy. Refusal would mean being reclassified downward — or worse, being treated as unclassified, with all the loss of standing that entails.
 
@@ -123,7 +123,7 @@ See [[lore-elderraces|Elder Races]] for full details on territories, autonomy, c
 
 ---
 
-## See Also
+### See Also
 
 - [[lore-zeisik|Law and Honor]] — The Tëng Lüt (Heavenly Law) and punishment framework
 - [[lore-marriage|Marriage]] — Marriage customs and caste restrictions

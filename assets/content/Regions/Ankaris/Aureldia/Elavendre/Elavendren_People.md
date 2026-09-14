@@ -12,8 +12,6 @@ shortcode: elavendrnppl
 packFolder: elavendre
 ---
 
-# Élavendren People
-
 The **Élavendren** are the settled, courtly people of [[place-elavendre|Élavendre]] — the kingdom's
 cities, its farms and its court — and the kin of the [[lore-aelendnppl|Áelendan]], with whom they
 share a common Pelwar ancestry. The two peoples are the two halves of one inheritance: the Élavendren

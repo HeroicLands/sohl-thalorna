@@ -18,8 +18,6 @@ shortcode: kharalsulr
 packFolder: dunharadesert
 ---
 
-# Khar al-Sular
-
 ## Overview
 
 _To be written._

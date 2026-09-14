@@ -103,8 +103,6 @@ data:
     - vylarinmpr
   relations:
     arldnpnthn: aligned
-sohl:
-  templatePriority: null
 packFolder: vylaria
 ---
 

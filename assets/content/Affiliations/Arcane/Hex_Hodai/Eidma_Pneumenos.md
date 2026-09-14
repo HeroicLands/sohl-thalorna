@@ -92,8 +92,6 @@ name:
   full: Pneuménos
   aliases:
     - Eídma Pneuménos
-sohl:
-  templatePriority: null
 thalorna:
   school: spirit
 packFolder: affiliationshexhodai

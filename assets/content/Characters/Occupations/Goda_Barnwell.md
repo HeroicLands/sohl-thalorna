@@ -41,7 +41,6 @@ data:
     complexion: weathered
     extra_features: []
 sohl:
-  templatePriority: null
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 10 } }
     - { model: sohl-sohl-attribute-end, system: { scoreBase: 11 } }
@@ -549,11 +548,11 @@ sohl:
     defaultCombatGroup: null
 ---
 
-# Appearance {#appearance}
+## Appearance {#appearance}
 
 Goda Barnwell is a 29-year-old woman who stands 5'7" tall and is slender. She has an angular face with prominent cheekbones, a prominent forehead, and an angular jaw that leads to a firm chin. Her deep-set green eyes sit beneath expressive brows, lending her a watchful gaze. A narrow nose and firm lips complete her features. She has fair skin with a weathered complexion. Her black hair is adorned with simple pins.
 
-# Dossier {#dossier}
+## Dossier {#dossier}
 
 Born in the Aelwyth region to a freeman family of Aelwythan heritage, Goda Barnwell came into the world of the potter through a combination of circumstance and aptitude.
 
@@ -561,37 +560,37 @@ Mira is a talented potter with a passion for creating vibrant and colorful potte
 
 Now at 29 years of age, Goda Barnwell has established herself as a known figure among the potters of Aelwyth. Her reputation, for better or worse, precedes her in the circles where such things matter.
 
-## Psyche
+### Psyche
 
-### Personality
+#### Personality
 
 Can be overly ambitious, struggles with time management.
 
-### Motivation
+#### Motivation
 
 Goda is driven by the desire to master her craft and secure a stable future. The uncertainties of life in potter work keep her vigilant and adaptable.
 
-### Strengths
+#### Strengths
 
 Creative, skilled in glazing techniques, good at marketing her work.
 
-## Social
+### Social
 
 Goda is affiliated with Local Artisans' Guild.
 
 As a Aelwythan potter, Goda occupies a recognized social niche within Aelwyth society.
 
-## Companions
+### Companions
 
-### Patrons
+#### Patrons
 
 Goda's primary patron is Art collectors and local families seeking unique pottery.. This relationship provides both opportunity and obligation.
 
-### Enemies
+#### Enemies
 
 Few; generally well-liked, though some traditionalists may disapprove of her style.
 
-## Plot Hooks
+### Plot Hooks
 
 1. **The Potter's Dilemma** — Goda faces a professional crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Aelwyth.
 

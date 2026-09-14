@@ -17,8 +17,6 @@ name:
 shortcode: thyrenae2
 ---
 
-# Thyrenae
-
 ## Overview
 
 _To be written._ Thyrenae is the capital and principal settlement of [[affiliation-thyrenae|Thyrenae]].

@@ -11,8 +11,9 @@ name:
   full: "Tanwen Spirit Power"
   aliases:
     - Tanwen, the Hearth of Eshálosha
-sohl:
+data:
   templatePriority: null
+sohl:
   system:
     skillBaseFormula: "@aur, @wil"
     masteryLevelBase: 0

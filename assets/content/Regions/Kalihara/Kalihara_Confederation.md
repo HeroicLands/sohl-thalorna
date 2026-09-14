@@ -22,15 +22,11 @@ data:
   lore: []
   parents: []
   relations: {}
-sohl:
-  templatePriority: null
 name:
   full: Kalihara Confederation
   aliases: []
 shortcode: kaliharacnfd
 packFolder: kalihara
 ---
-
-# Kalihara Confederation
 
 The confederation of Kalihara.

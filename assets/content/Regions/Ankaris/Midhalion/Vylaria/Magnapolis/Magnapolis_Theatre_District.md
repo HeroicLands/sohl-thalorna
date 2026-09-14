@@ -20,8 +20,6 @@ shortcode: magntheatredstr
 packFolder: vylaria
 ---
 
-# Theatre District
-
 The **Theatre District** is the quieter of Magnápolis's two quarters of pleasure — the Circus quarter
 about the Circus Circle being the loud one — and by some distance the more celebrated abroad.
 

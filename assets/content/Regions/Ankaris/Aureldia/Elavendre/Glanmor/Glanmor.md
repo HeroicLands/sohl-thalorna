@@ -19,8 +19,6 @@ shortcode: glanmor
 packFolder: elavendre
 ---
 
-# Glanmor
-
 **Glanmor** — _the shore of the sea_ — is Élavendre's western coast: some four hundred and twenty
 thousand people along a seaboard of cliffs, coves and drowned river-mouths, with ancient forest running
 down almost to the tideline.

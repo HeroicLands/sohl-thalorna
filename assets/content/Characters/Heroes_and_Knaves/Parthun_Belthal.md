@@ -41,7 +41,6 @@ data:
     extra_features:
       - a scar on the left foot
 sohl:
-  templatePriority: null
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 10 } }
     - { model: sohl-sohl-attribute-end, system: { scoreBase: 12 } }
@@ -601,11 +600,11 @@ sohl:
     defaultCombatGroup: null
 ---
 
-# Appearance {#appearance}
+## Appearance {#appearance}
 
 Párthun stands 5'9" tall with a medium build. He has tanned ruddy skin, dark brown hair, and brown eyes. His features include a heart-shaped face, a small nose, a gentle jawline, dark brows. A distinguishing mark is a scar on the left foot.
 
-# Dossier {#dossier}
+## Dossier {#dossier}
 
 **Birth in the Shadow of Law**
 
@@ -625,19 +624,19 @@ The scar on his foot dates to a pivotal moment in his career. Five years ago, P�
 
 At present, Párthun is effectively the most powerful unelected official in Valdûn's administration. He controls the flow of documents, manipulates the interpretation of regulations, and has built a network of subordinates who are loyal to him either through genuine belief in his ability or through fear and obligation. He has become moderately wealthy through entirely legal means—though the methods by which he achieved that wealth would scandalize those unfamiliar with administrative practice. His ambition continues to grow. He speaks openly of seeking legitimate election to the city council, a position that would formalize the power he already wields in the shadows.
 
-## Psyche
+### Psyche
 
-### Personality
+#### Personality
 
 Párthun is a student of human nature, endlessly fascinated by the mechanisms of motivation and control. In conversation, he is careful and measured, asking probing questions and revealing little about himself unless there is clear advantage to doing so. He maintains the public persona of a dedicated servant of the realm, a man committed to the proper functioning of government and the fair application of law. Those who work closely with him, however, recognize his capacity for ruthlessness and his willingness to sacrifice allies if they become inconvenient.
 
 He is not cruel for cruelty's sake, nor does he act out of simple greed or ambition. Rather, he is a pragmatist who has developed a personal philosophy in which morality is subservient to utility. If a rule serves the functioning of society, he will uphold it scrupulously; if a rule hinders the goals he has deemed important, he will work to circumvent it. This makes him both reliable in certain contexts and deeply untrustworthy in others. His rare moments of warmth emerge when he is discussing the elegant logic of administrative systems or when he is sharing quiet hours with people he considers to have truly understood him—such moments are rare indeed.
 
-### Motivation
+#### Motivation
 
 Párthun seeks to consolidate his power and expand his influence to the highest levels of government. He believes that most people are fundamentally incompetent or corrupt, and that his role is to be the hidden architect directing the machinery of government in ways that prevent catastrophic failure. While he would claim that his ultimate goal is the good of the kingdom, his actual priority is the advancement of his own position and the security of his power base. He is increasingly fascinated by the possibility of influence at the regional level, and has begun to consider whether a position as aide to a high-ranking noble might not afford him even greater leverage than a seat on the city council.
 
-### Strengths
+#### Strengths
 
 - **Master of Administrative Systems**: Párthun possesses an encyclopedic knowledge of regulations, precedents, and procedures. He can cite obscure clauses, discover loopholes, and manipulate bureaucratic structures in ways that accomplish his objectives while remaining technically legal.
 
@@ -649,7 +648,7 @@ Párthun seeks to consolidate his power and expand his influence to the highest 
 
 - **Emotional Control**: His face rarely betrays his actual thoughts or feelings. He is difficult to pressure, intimidate, or manipulate, as his emotions are a tool he consciously controls rather than forces that control him.
 
-### Weaknesses
+#### Weaknesses
 
 - **Physical Limitation**: The scar on his foot leaves him with a slight limp that worsens under stress or extended exertion. He is not suited to physical conflict and would flee rather than fight in most situations.
 
@@ -661,15 +660,15 @@ Párthun seeks to consolidate his power and expand his influence to the highest 
 
 - **Contempt for Others**: His belief in the fundamental incompetence of most people occasionally manifests as arrogance, leading him to underestimate threats or to treat potential allies dismissively.
 
-## Social
+### Social
 
-### Patrons
+#### Patrons
 
 - **Lord Merkus Vethrand**: Despite the complications between them, Merkus remains technically Párthun's patron and the relationship continues, though now on more equal terms. Merkus values Párthun's continued assistance and has become dependent on his problem-solving abilities, even as he suspects the young man may be manipulating him.
 
 - **The Lord Chancellor of Élavendre**: At the highest level of government, Párthun has begun to attract the attention of the realm's ultimate administrative authority. Whether this represents genuine patronage or merely the normal monitoring of an unusually capable official is unclear.
 
-### Enemies
+#### Enemies
 
 - **Magistrate Helvren Blackstone**: A judge who has clashed with Párthun on numerous occasions over the interpretation of law and regulation. She views him as a dangerous influence on the administrative system and would gladly see him removed from his position.
 
@@ -677,13 +676,13 @@ Párthun seeks to consolidate his power and expand his influence to the highest 
 
 - **Displaced Administrators**: Those who have been forced out of positions by Párthun's machinations nurse considerable resentment. Some have enough knowledge of his methods to pose genuine threats.
 
-### Affiliations
+#### Affiliations
 
 - **The City Administration of Valdûn**: His official position and the primary source of his power, though his actual loyalty is to himself rather than the institution.
 
 - **The Bureaucrats' Collegia**: A loose fraternal organization of administrative officials across the kingdom. He maintains good standing while carefully using the organization's resources for his own benefit.
 
-## Plot Hooks
+### Plot Hooks
 
 1. **The Auditor from the Capital**: A representative from the Lord Chancellor's office arrives in Valdûn announcing a comprehensive audit of all municipal administrative functions. The auditor, a sharp-eyed woman named **Thecia Rothel**, seems to take unusual interest in the Records department and Párthun's particular domain. He becomes increasingly aware that she is asking questions that are far more specific than a routine audit would warrant—she appears to be investigating him personally. Worse, she has begun to examine transactions that Párthun was quite certain he had successfully obscured. Now he must determine whether she is acting on actual evidence, whether her investigation is a political maneuver by his enemies, or whether she might be someone he can turn to his advantage before she uncovers something that could destroy him.
 

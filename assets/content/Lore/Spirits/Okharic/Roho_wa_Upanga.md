@@ -13,8 +13,6 @@ shortcode: upangaspr
 packFolder: lorespiritsokharic
 ---
 
-# Roho wa Upanga
-
 - **Kind:** [[lore-zohira|Zohira]], emissary of [[affiliation-nkaruthar|the Eternal Flame]]
 - **Domain:** The blade
 - **Also called:** the Spirit of the Blade

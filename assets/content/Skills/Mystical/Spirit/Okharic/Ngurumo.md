@@ -11,8 +11,9 @@ name:
   full: "Ngurumo Spirit Power"
   aliases:
     - The Thunder Above
-sohl:
+data:
   templatePriority: null
+sohl:
   system:
     skillBaseFormula: "@aur, @wil"
     masteryLevelBase: 0

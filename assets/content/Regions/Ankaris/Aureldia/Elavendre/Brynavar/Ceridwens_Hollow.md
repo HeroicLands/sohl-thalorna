@@ -19,8 +19,6 @@ shortcode: cerdwnshlw
 packFolder: elavendre
 ---
 
-# Ceridwen's Hollow
-
 **Ceridwen's Hollow** sits in a deep fold of the [[place-brynavar|Brynavar]] hills, off the ridge roads
 and out of sight of them, with perhaps two hundred and eighty people in it.
 

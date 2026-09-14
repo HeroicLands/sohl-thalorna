@@ -17,8 +17,6 @@ shortcode: bloth
 packFolder: nordheim
 ---
 
-# Blód
-
 ## Overview
 
 Blód—the Place of Blood-Sacrifice—is the oldest inhabited settlement in Nordheim, a site of profound religious significance that predates the current kingdoms by centuries, perhaps millennia. The settlement is small and austere, no more than 300 souls, built around a sacred grove and standing stones of unknown origin. The very landscape seems ancient and worn, as if the gods themselves had walked the earth here and left their footprints impressed forever into the soil. The settlement's remoteness is deliberate; it lies in the interior of Nordheim, far from the coast and merchant routes, accessible only through difficult terrain that few outsiders willingly traverse.

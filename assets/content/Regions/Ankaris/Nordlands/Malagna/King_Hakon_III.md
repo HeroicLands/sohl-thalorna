@@ -21,10 +21,6 @@ data:
     - kingdomlgn
   gender: male
   species: null
-sohl:
-  templatePriority: null
 ---
-
-# King Hákon III
 
 A king of the Nordlands, seated at [[place-skorrborg|Skorrborg]].

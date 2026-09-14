@@ -14,8 +14,6 @@ shortcode: zohira
 packFolder: settinglore
 ---
 
-# Zohira
-
 Between [[affiliation-nkaruthar|Nkaru'thar]] and the mortal world stand the **zohira** — demi-gods
 or intermediary spirits tied to specific aspects of life such as fertility, storms, rivers, death,
 and the hunt. Their shrines are scattered across the kingdom, from the pyramidal complexes of the

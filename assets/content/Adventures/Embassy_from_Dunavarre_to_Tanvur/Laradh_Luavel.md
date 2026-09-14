@@ -22,11 +22,7 @@ data:
     - kingdmdnvr
   gender: male
   species: null
-sohl:
-  templatePriority: null
 ---
-
-# Laradh Lúavel
 
 **Role.** Manages the financial affairs of the embassy.
 

@@ -93,12 +93,10 @@ data:
   relations:
     nylbtrblntn: aligned
     nyalbleop: aligned
-sohl:
-  templatePriority: null
 packFolder: politiesnyaluba
 ---
 
-# The Fénjara
+## The Fénjara
 
 The **Fénjara** are a small tribe of the [[affiliation-nylbtrblntn|Nyáluba Tribal Nation]], living
 where the southeastern savannah closes into gallery forest and thicket. They are not one of the
@@ -112,7 +110,7 @@ trees, the Fénjara measure themselves in ground known: which trails, which wate
 and whose pacts run where. Their seat is [[place-fenjaravlg|Fénjara Village]], and for much of the
 year most of them are not in it.
 
-## Tracking
+### Tracking
 
 The Fénjara reputation rests on one claim, which the tribe makes plainly and the rest of the
 confederation does not dispute: that certain of their lineages can follow a trail across the
@@ -128,7 +126,7 @@ What is done about the thing found is somebody else's office.
 This has made the Fénjara useful to every clan in the confederation and dependent on none, and it
 is why so small a tribe is heard at the Great Indaba at all.
 
-## See Also
+### See Also
 
 - [[affiliation-nylbtrblntn|Nyáluba Tribal Nation]] — the confederation the tribe belongs to
 - [[affiliation-nyalbleop|Leopard Totem]] — the guide the Fénjara keep

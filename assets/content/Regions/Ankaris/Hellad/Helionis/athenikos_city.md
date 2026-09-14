@@ -17,8 +17,6 @@ name:
 shortcode: athenikos2
 ---
 
-# Athenikos
-
 ## Overview
 
 _To be written._ Athenikos is the capital and principal settlement of [[affiliation-athenikos|Athenikos]].

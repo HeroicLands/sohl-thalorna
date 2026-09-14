@@ -11,8 +11,9 @@ name:
   aliases:
     - Griot Tradition
     - Keeper of Memory
-sohl:
+data:
   templatePriority: null
+sohl:
   system:
     skillBaseFormula: "@rea, @wil"
     masteryLevelBase: 0
@@ -33,6 +34,5 @@ misremembered is a pact broken. Training is measured in decades, and the test of
 recitation before people who already know the answer.
 
 Among the [[affiliation-nyalbpnthn|Nyáluba]] the office is senior, and the Bombwe griots hold the
-Long Pact and the genealogies of all five clans — see [[affiliation-nylbtrblntn|Nyáluba Tribal
-Nation]]. It is also the office that decides, in practice, who exists: a name the griot will not
+Long Pact and the genealogies of all five clans — see [[affiliation-nylbtrblntn|Nyáluba Tribal Nation]]. It is also the office that decides, in practice, who exists: a name the griot will not
 speak in a genealogy is a name the clan no longer carries.

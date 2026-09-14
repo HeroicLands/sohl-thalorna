@@ -14,8 +14,6 @@ shortcode: nyalbsprts
 packFolder: settinglore
 ---
 
-# Nyáluba Spirits
-
 The spirits are the active substance of the [[affiliation-nyalbpnthn|Nyáluba Way]]. Beneath the
 single diffuse source — [[lore-mwangadty|Mwánga-Kúbwa]], which receives nothing — it is the
 **guides** that Nyáluba religious life is directed at. They are not gods and they are not

@@ -21,8 +21,6 @@ name:
 shortcode: vylrncrncy
 ---
 
-# Vylarian Currency
-
 **Scope:** The Vylarian currency is the standard currency of western and central Ankaris. It is the legal tender of [[affiliation-vylarinmpr|Vylaria]] and [[place-helionis|Heliónis]] (the territories under direct imperial governance); it is the practical standard of commerce in the [[place-aureldirgn|Aurèldían kingdoms]] and [[place-byzariargn|Byzaría]] (the post-imperial commonwealth members); it is accepted (as a foreign currency, alongside the local Ta'Kheperan system) in the **Northern Fertile Region of [[place-xerathia|Xerathia]]** — [[place-bethuargn|Bethûa]], [[place-okharisrgn|Okháris]], and [[place-takheperurgn|Ta'Kheperu]]. Outside these regions it is exchangeable through moneylenders but is not the dominant medium of exchange.
 
 The currency is minted and authorized by the imperial [[affiliation-aerarimmpr|The Aerarium Imperii]]. Provincial mints (in Vylarian and Heliónite cities) strike Argenti and Octi under Aerarium standards; Aurions are minted only at Magnápolis. Post-imperial polities do not mint Vylarian coin themselves; their commercial life draws on the imperial coinage as circulating currency without producing it.

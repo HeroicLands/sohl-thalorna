@@ -10,6 +10,4 @@ shortcode: freyjadty
 packFolder: deitiesasguardian
 ---
 
-# Fréyja
-
 TBD

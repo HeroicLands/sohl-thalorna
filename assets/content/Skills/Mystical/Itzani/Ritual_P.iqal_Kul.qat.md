@@ -11,8 +11,9 @@ name:
   aliases:
     - P'iqal Kul'qat
     - Builder of the Sacred Peak
-sohl:
+data:
   templatePriority: null
+sohl:
   system:
     skillBaseFormula: "@wil, @rea"
     masteryLevelBase: 0

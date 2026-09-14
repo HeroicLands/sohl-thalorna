@@ -41,7 +41,6 @@ data:
     extra_features:
       - a tattoo of a lion on the thigh
 sohl:
-  templatePriority: null
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 12 } }
     - { model: sohl-sohl-attribute-end, system: { scoreBase: 14 } }
@@ -603,11 +602,11 @@ sohl:
     defaultCombatGroup: null
 ---
 
-# Appearance {#appearance}
+## Appearance {#appearance}
 
 Philándros stands 5'9" tall with a medium build. He has sun-tanned skin, graying brown hair, and hazel eyes. His features include an angular face, an aquiline nose, a pointed chin, an expressive mouth, graying brows, sculpted cheeks. A distinguishing mark is a tattoo of a lion on the thigh.
 
-# Dossier {#dossier}
+## Dossier {#dossier}
 
 **A Born Voice**
 
@@ -623,19 +622,19 @@ The lion tattoo on his thigh dates to Philándros's youth, when he served briefl
 
 As he has aged, Philándros has become ever more committed to the preservation of traditional ceremony and the maintenance of proper form. He views himself as a guardian of civilization's structure, the man who ensures that society's most important moments are treated with appropriate solemnity and significance. This commitment has made him invaluable to the governing classes and somewhat resistant to innovation or change. When the city government proposed modernizing certain ceremonial elements a decade ago, Philándros opposed the changes so strenuously that the proposal was quietly abandoned. He has become the living embodiment of continuity and order in a world that he perceives as increasingly chaotic.
 
-## Psyche
+### Psyche
 
-### Personality
+#### Personality
 
 Philándros is a man of absolute conviction in the importance of proper form, decorum, and tradition. In public, he is the perfect herald: authoritative, dignified, commanding respect through bearing and voice rather than volume alone. In private, however, a different personality emerges. He is warm, even jovial, prone to laughing at remembrances of ceremonial gaffes or the amusing incidents that occur during official functions. He has a dry wit that catches people by surprise, and he is capable of genuine affection toward those he considers to be part of his inner circle.
 
 His relationship with change is deeply ambivalent. He intellectually recognizes that all things change over time, yet he believes that the pace of change in modern society is unprecedented and corrosive. He views younger people with a mixture of concern and judgment, seeing in their willingness to experiment with new forms of ceremony a troubling lack of respect for the accumulated wisdom of generations. Yet he is not entirely rigid—he has grudgingly accepted certain necessary innovations, though always while maintaining that the fundamental principles of ceremony remain unchanged.
 
-### Motivation
+#### Motivation
 
 Philándros is driven by a desire to preserve what he considers to be the essential structures that hold civilization together. He believes that without proper ceremony, without the maintenance of form and tradition, society will descend into chaos and barbarism. His ultimate hope is that he can train a successor worthy of inheriting his role—someone who will understand not merely the technical aspects of being a herald but the deeper spiritual and philosophical significance of the position. He has become increasingly concerned that no such successor exists among the younger generation of heralds, and this concern haunts him as he contemplates his eventual retirement.
 
-### Strengths
+#### Strengths
 
 - **Voice and Presence**: His voice is a trained instrument capable of expressing any emotion with perfect clarity, carrying across vast spaces and commanding attention without ever needing to raise his volume to an unpleasant level. His physical presence complements this—he has learned to stand, move, and gesture in ways that maximize his natural authority.
 
@@ -647,7 +646,7 @@ Philándros is driven by a desire to preserve what he considers to be the essent
 
 - **Unwavering Stability**: In times of chaos or transition, his commitment to proper form and continuity provides stability. When everything else seems uncertain, the presence of a herald maintaining proper ceremony becomes a reassuring anchor.
 
-### Weaknesses
+#### Weaknesses
 
 - **Resistance to Necessary Change**: His commitment to tradition sometimes blinds him to legitimate improvements or necessary adaptations. He has been known to oppose beneficial changes simply because they deviate from established form.
 
@@ -659,9 +658,9 @@ Philándros is driven by a desire to preserve what he considers to be the essent
 
 - **Emotional Restraint**: His training in perfect control sometimes creates a barrier between himself and genuine human connection. Those closest to him have noted that he can seem distant or emotionally unavailable despite his intellectual warmth.
 
-## Social
+### Social
 
-### Patrons
+#### Patrons
 
 - **Governor Anthus Meridian**: The current chief executive of Byzaris, who values Philándros's expertise in ceremonial matters and relies heavily on his judgment regarding questions of proper protocol and precedent in official functions.
 
@@ -669,7 +668,7 @@ Philándros is driven by a desire to preserve what he considers to be the essent
 
 - **High Priestess Teresia of Flórania**: A priestess of the same order as his mother, who occasionally consults Philándros regarding the intersection of religious ceremony and civic ritual.
 
-### Enemies
+#### Enemies
 
 - **Herald Markus Vex**: A younger, more progressive herald who has begun to introduce informal elements into ceremonial contexts and who publicly advocates for modernization of heraldic traditions. Philándros views him as a threat to the entire order of society.
 
@@ -677,13 +676,13 @@ Philándros is driven by a desire to preserve what he considers to be the essent
 
 - **The Modernist Movement**: A loose coalition of intellectuals, artists, and reformers who view traditional ceremony as archaic and oppressive. They have begun to mock Philándros publicly for his "outdated practices."
 
-### Affiliations
+#### Affiliations
 
 - **The City Heralds' Guild of Byzaris**: The official organization of heralds, of which Philándros is a senior member and de facto leader despite having no official title.
 
 - **The Order of Ceremony Preservationists**: An informal but growing network of people committed to maintaining traditional forms in civic and religious contexts. Philándros is becoming increasingly involved in this organization's activities.
 
-## Plot Hooks
+### Plot Hooks
 
 1. **The New Herald's Challenge**: A young herald named **Cassios** arrives in Byzaris from the outer territories, bearing credentials that mark him as a Herald of considerable skill and training, but also as someone raised in a tradition quite different from Byzaris's formal ceremonial system. Cassios begins to be assigned to important state functions, and his approach to these events is notable for its flexibility and innovation. Where Philándros would follow strict precedent, Cassios adapts ceremony to the specific needs and personalities of those involved. Initially, Philándros views this as disrespectful innovation, but as he watches, he begins to notice that Cassios's ceremonies, while different, are actually deeply effective—perhaps more effective than his own more rigid performances. This challenges Philándros's fundamental beliefs and forces him to confront whether preserving tradition is more important than serving its actual purpose.
 

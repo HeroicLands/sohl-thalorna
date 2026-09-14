@@ -10,8 +10,9 @@ shortcode: klnhrt
 img: icons/takheperu/khemenu-hekau/deshrut.svg
 type: mysticalability
 subType: arcaneincantation
-sohl:
+data:
   templatePriority: null
+sohl:
   system:
     assocSkillCode: deshrut
     masteryLevelBase: 0

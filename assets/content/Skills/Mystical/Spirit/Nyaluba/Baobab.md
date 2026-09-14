@@ -12,8 +12,9 @@ name:
   aliases:
     - Baobab Spirit
     - Bombwe Baobab
-sohl:
+data:
   templatePriority: null
+sohl:
   system:
     skillBaseFormula: "@aur, @wil"
     masteryLevelBase: 0

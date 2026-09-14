@@ -101,8 +101,6 @@ data:
   parents: []
   relations:
     arldnpnthn: aligned
-sohl:
-  templatePriority: null
 name:
   full: The Twinblade Order
   aliases:
@@ -111,8 +109,6 @@ name:
     - The Gate-Wardens
 shortcode: twinbldrdr
 ---
-
-# The Twinblade Order
 
 _Aurèldían: Ordo Bifrons — "The Order of Two Faces"_
 

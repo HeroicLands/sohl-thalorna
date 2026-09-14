@@ -10,8 +10,6 @@ shortcode: slavernk
 description: "Owned outright, with no standing at law except through an owner."
 ---
 
-# Slave
-
 Owned outright, with no standing at law except through an owner.
 
 ## Obligations and Rights

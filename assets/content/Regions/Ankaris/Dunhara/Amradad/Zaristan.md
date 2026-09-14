@@ -17,8 +17,6 @@ shortcode: zaristan
 packFolder: amradad
 ---
 
-# Zaristan
-
 ## Overview
 
 _To be written._

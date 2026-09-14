@@ -19,8 +19,6 @@ shortcode: mercadaure
 packFolder: provenzia
 ---
 
-# Mercadaure
-
 **Mercadaure** stands where the Zûravlen valley opens toward the plain, and it exists to sell what the
 valley grows. Some fourteen hundred people live there — more in August, very many more during the
 fair — and almost none of them farm.

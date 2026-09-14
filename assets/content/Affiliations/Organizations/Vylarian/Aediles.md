@@ -79,11 +79,7 @@ data:
   relations:
     curiaurbis: aligned
     vylrnmltry: aligned
-sohl:
-  templatePriority: null
 ---
-
-# The Aediles
 
 The Aediles are the civic magistrates of [[place-magnapolis|Magnápolis]], and the only court most of
 its people will ever stand before. They keep the **district law** — the intricate and jealously

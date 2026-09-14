@@ -12,8 +12,9 @@ name:
     - Mother of New Beginnings
     - Íšét
     - Iset
-sohl:
+data:
   templatePriority: null
+sohl:
   system:
     skillBaseFormula: "@wil, @rea"
     masteryLevelBase: 0

@@ -10,8 +10,9 @@ name:
   aliases:
     - The Keeper of Harmony
     - Ahura Mazda
-sohl:
+data:
   templatePriority: null
+sohl:
   system:
     skillBaseFormula: "@wil, @rea"
     masteryLevelBase: 0

@@ -19,8 +19,6 @@ shortcode: shrinethuravelhills
 packFolder: provenzia
 ---
 
-# Shrine of Thúravel Hills
-
 Somewhere in the [[place-thuravelhills|Thúravel Hills]] of southern
 [[place-provenzrgn|Provènzia Region]] stands a shrine that official history has forgotten and old songs
 have not. It was raised long before the [[affiliation-arldnpnthn|Aurèldían]] Twelve came west, for the

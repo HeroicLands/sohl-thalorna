@@ -71,8 +71,6 @@ data:
     - nyalbpnthn
   relations:
     nyalbpnthn: aligned
-sohl:
-  templatePriority: null
 name:
   full: "Eagle Totem"
   aliases:

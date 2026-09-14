@@ -42,7 +42,6 @@ data:
     complexion: smooth
     extra_features: []
 sohl:
-  templatePriority: null
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 14 } }
     - { model: sohl-sohl-attribute-end, system: { scoreBase: 13 } }
@@ -545,11 +544,11 @@ sohl:
     defaultCombatGroup: null
 ---
 
-# Appearance {#appearance}
+## Appearance {#appearance}
 
 Glýenna Cárdeth is a 32-year-old woman who stands 5'11" tall and carries herself with the upright, unhurried posture of someone who has never had to rush for anyone. She has a diamond face with high cheekbones, a prominent forehead, and a sharp jaw that leads to a pointed chin. Her round gray eyes sit beneath arched brows, and she has a way of looking at people that makes them feel they are being assessed — because they are. A slightly upturned nose and thin lips complete her features. She has light skin with a smooth complexion. Her blonde hair falls past her shoulders, usually arranged in one of the elaborate styles fashionable among the Élavendri court. She dresses impeccably — velvet robes, silk gloves, fine leather boots — and wears the signet ring of House Cárdeth on her right hand. She carries a dagger openly at her waist, which is not unusual for a noblewoman in a kingdom where even courtiers are expected to be capable of their own defense, though few who have seen her draw it socially would guess how proficient she truly is.
 
-# Dossier {#dossier}
+## Dossier {#dossier}
 
 Glýenna was born into House Cárdeth, a noble family of moderate standing in the Élavendre court — old enough name to command respect, not prominent enough to attract unwanted scrutiny. She was raised in the way of Élavendri noblewomen: tutored in letters, heraldry, law, and the arts of discourse; expected to manage a household, navigate court politics, and represent her house with grace. She excelled at all of it. Where other young noblewomen found the endless social maneuvering of court life tedious, Glýenna found it invigorating — not because she enjoyed people, but because she enjoyed winning.
 
@@ -567,9 +566,9 @@ Her working relationship with Dháran is the operational backbone of the Black F
 
 Dháran, for his part, treats Glýenna with genuine respect — not the performative deference that men of his temperament sometimes offer to noblewomen, but the real regard of a man who recognizes a peer. She has proven herself ruthless when the situation demands it, capable with a blade when circumstances have forced her hand, and utterly reliable in a crisis. She arranged her own husband's death without flinching and managed the aftermath with flawless composure. In the Black Flame's hierarchy of strength, that earns respect regardless of gender or station. When Glýenna requires martial support — a threat silenced, a message delivered with force — Dháran provides it without question.
 
-## Psyche
+### Psyche
 
-### Personality
+#### Personality
 
 Glýenna presents to the world as a composed, capable noblewoman of the Élavendri court — dignified, articulate, and socially precise. She observes every courtesy, fulfills every obligation of her station, and conducts herself with the kind of controlled grace that earns admiration from peers and deference from subordinates. None of this is false, exactly. She is genuinely skilled at the work of court life. But the warmth is performed, and those who spend enough time around her begin to sense it.
 
@@ -577,17 +576,17 @@ She has a reputation for being stern. Servants and lesser nobility experience he
 
 Beneath the surface, Glýenna is as cold and calculating as any operative the Black Flame has ever produced. She does not experience the hot, physical fervor that drives Dháran and his followers. Her commitment to the faith is intellectual and absolute: she believes the strong should rule because she has observed, her entire life, that they do — and that everything else is pretense designed to make the arrangement more palatable to those on the bottom. She feels no guilt over Ráegon's death, no remorse over the people Dháran's followers have harmed, and no conflict between her public persona and her private beliefs. The mask of the gracious noblewoman fits comfortably because she has worn it since childhood, and because she understands, in a way that Dháran does not, that the mask is itself a weapon.
 
-### Motivation
+#### Motivation
 
 Glýenna wants power — not the ceremonial kind that comes with a title, but the operational kind that determines outcomes. She wants to be the person in the room whose word shapes what happens next, and she wants this not for its own sake but because she believes she is better at it than anyone else around her. The Black Flame's philosophy validates this ambition: if the strong should rule, and if she is demonstrably more capable than the men and women who currently hold authority in Élavendre, then her rise is not merely justified but inevitable.
 
 More practically, she is building House Cárdeth into a vehicle for the Black Flame's influence at the council level. She wants a seat at the tables where Élavendri policy is made — not to burn those tables, but to control who sits at them. She understands, as Dháran sometimes does not, that the Black Flame's long-term success in Élavendre depends not on open confrontation but on having enough people in the right positions that confrontation becomes unnecessary.
 
-### Strengths
+#### Strengths
 
 Glýenna's greatest asset is her ability to operate in two worlds simultaneously without the seams showing. She can spend a morning manipulating a council vote, an afternoon hosting a perfectly gracious reception for visiting dignitaries, and an evening reviewing intelligence from Dháran's network, and no observer would see anything but a busy noblewoman managing her affairs. Her social skills are exceptional — she reads people quickly and accurately, knows when to charm and when to intimidate, and has an instinct for the leverage points in any political situation. Her knowledge of law, heraldry, and mercantile affairs gives her practical tools that complement Dháran's martial ones. And while she is no warrior, she is more capable with a blade than her station would suggest — she trained seriously in her youth and has maintained her skills discreetly, and the few people who have seen her fight did not live to revise their assumptions.
 
-### Weaknesses
+#### Weaknesses
 
 Glýenna's contempt for those she considers lesser is her most dangerous liability. She manages it well in public — the mask rarely slips — but her dismissiveness toward servants, minor officials, and lower nobility means she is blind to threats from below. The servant who overhears a conversation, the clerk who notices a discrepancy in the accounts, the minor lord whose humiliation at her hands festers into something actionable — these are the threats she consistently underestimates because she does not consider such people worth her attention.
 
@@ -595,7 +594,7 @@ Her emotional coldness, while operationally useful, has left her without genuine
 
 Finally, she is more fragile than she appears. Her composure is total and unbroken, but it depends on control — control of her environment, her household, her public image. A situation that stripped away her ability to manage perceptions, that forced her to operate without the social apparatus she has spent her life mastering, would expose vulnerabilities she has never had to confront.
 
-## Social
+### Social
 
 Glýenna holds a respected position in Élavendri society as the head of House Cárdeth and the widow of Lord Ráegon. The sympathy that attended her husband's death has long since faded into a settled recognition that Lady Cárdeth manages her house's affairs with notable competence. She sits on the regional council in her own right, votes on matters of local policy, and is courted by various factions who value her sharp mind and her willingness to make decisions.
 
@@ -603,19 +602,19 @@ She is not loved. She is respected, and in some quarters feared, which she consi
 
 Her connection to Dháran is known publicly only as the professional relationship between a councillor and the captain of the local Wardens — she was, after all, the bereaved party in the investigation he led. That she privately directs his political protection, and that his followers provide her with enforcement capabilities she could never maintain openly, is known to no one outside the Black Flame's inner circle.
 
-## Companions
+### Companions
 
-### Patrons
+#### Patrons
 
 Glýenna's position within the Black Flame places her under the same handler as Dháran — the senior priest who coordinates the faith's operations across the region. This handler regards the Dháran-Glýenna partnership as a model of how the Black Flame should operate in hostile territory: martial strength and political influence working in concert. Within legitimate society, Glýenna has cultivated relationships with several influential council members and the heads of two prominent merchant houses, none of whom suspect her true affiliations.
 
-### Enemies
+#### Enemies
 
 Glýenna's most dangerous adversary does not yet know he is one. A young nobleman who is Ráegon's cousin, Lord Thenélar Cárdeth, has recently returned from service abroad and has begun asking pointed questions about the circumstances of Ráegon's death. The original investigation satisfied the family at the time, but Thenélar is sharper than his late cousin and has a soldier's eye for tactical details that do not add up. His inquiries are currently social rather than formal — conversations at gatherings, letters to family members who were present in the aftermath — but they have the potential to reopen a case that Glýenna considered permanently closed.
 
 The druid Aelineth, who has been investigating Black Flame activity in the forests around Elanmere, has also made contact with Glýenna in her capacity as a council member, asking for support in pushing for a more thorough investigation than the Wardens have provided. Glýenna handled the request gracefully, expressing concern and promising to raise the matter at the next council session — a promise she has no intention of keeping, but one that has placed her in Aelineth's line of sight.
 
-## Plot Hooks
+### Plot Hooks
 
 1. **The Cousin's Questions** — Lord Thenélar has obtained a copy of the original Warden report on Ráegon's death and has noted several inconsistencies. He has requested a private meeting with Glýenna to discuss his concerns. She must decide how to manage a man who is both family and a potential threat — reassure him, mislead him, discredit him, or arrange something more permanent, each option carrying different risks given that the family is watching.
 

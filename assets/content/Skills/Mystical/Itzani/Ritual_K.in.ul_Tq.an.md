@@ -11,8 +11,9 @@ name:
   aliases:
     - K'in'ul Tq'an
     - The Sun at the World's Edge
-sohl:
+data:
   templatePriority: null
+sohl:
   system:
     skillBaseFormula: "@wil, @rea"
     masteryLevelBase: 0

@@ -11,8 +11,6 @@ shortcode: vulcanischism
 packFolder: aureldia
 ---
 
-# The Vúlcani Schism
-
 **Vúlcan** the Forge-Lord holds both aspects of flame at once — the forge that shapes and the inferno
 that consumes — and for most of the [[affiliation-arldnpnthn|Aurèldían Pantheon]]'s history that
 duality was carried without difficulty. A god of fire was understood to be a god of both what fire

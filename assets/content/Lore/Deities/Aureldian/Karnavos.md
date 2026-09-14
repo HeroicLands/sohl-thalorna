@@ -10,6 +10,4 @@ shortcode: karnavosdty
 packFolder: deitiesaureldian
 ---
 
-# Karnavos
-
 TBD

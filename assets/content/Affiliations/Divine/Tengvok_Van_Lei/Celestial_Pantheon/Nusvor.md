@@ -119,12 +119,10 @@ data:
     - tngvkvnlei
   relations:
     tanvurempr: aligned
-sohl:
-  templatePriority: null
 packFolder: celestialpantheon
 ---
 
-# Nüsvōr — The Minister of Dissolution
+## Nüsvōr — The Minister of Dissolution
 
 - **Bureau:** Nüs Sëi, The Bureau of Returns
 - **Domain:** Dissolution
@@ -140,12 +138,12 @@ Mortals rarely petition it directly and are wary when they must. A request to N�
 that something be ended, and the bureau is scrupulous about establishing that the petitioner
 understands what they have asked for.
 
-## Lesser Spirits
+### Lesser Spirits
 
 - **Nüslëi** — Dissolution Spirits, who break down expired classifications.
 - **Zhëkvōr** — Renewal Spirits, who feed recycled materials back into the Bureau of Persistence's processes.
 
-## See Also
+### See Also
 
 - [[affiliation-tngvkvnlei|Tëngvōk Vān Lëi]] — the Celestial Bureaucracy this bureau belongs to
 - [[affiliation-tanvurempr|Empire of Tānvür]] — the mortal realm it administers

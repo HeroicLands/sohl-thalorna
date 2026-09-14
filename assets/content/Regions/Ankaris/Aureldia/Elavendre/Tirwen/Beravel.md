@@ -19,8 +19,6 @@ shortcode: beravel
 packFolder: elavendre
 ---
 
-# Béravel
-
 **Béravel** stands on the [[place-beravriver|Bérav]] some **fifteen miles up from the western sea**, at
 the point where the tide stops and sea-going hulls must give way to barges. It is the capital of
 [[affiliation-kngdmlvndr|Élavendre]], the largest city in the kingdom at around fifty-five thousand

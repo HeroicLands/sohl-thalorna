@@ -18,8 +18,6 @@ shortcode: kvenndal
 packFolder: vithgard
 ---
 
-# Kvenndal
-
 ## Overview
 
 _To be written._

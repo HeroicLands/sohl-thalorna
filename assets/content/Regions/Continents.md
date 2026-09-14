@@ -10,8 +10,6 @@ description: Major landmasses of the world.
 banner: banners/continent.webp
 ---
 
-# Continents
-
 Major landmasses of the world.
 
 ```sql

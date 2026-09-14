@@ -7,10 +7,11 @@ description: "Curved iron claws for raking close brawl; street fighter's mercy-l
 img: systems/sohl/assets/icons/game-icons/lorc/broad-dagger.svg
 shortcode: bghnkh
 type: weapongear
+data:
+  templatePriority: null
 sohl:
   kbcat: knife
   weaponType: Knife
-  templatePriority: null
   system:
     weightBase: 0.5
     valueBase: 12

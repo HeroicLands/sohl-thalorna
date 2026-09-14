@@ -42,7 +42,6 @@ data:
     extra_features:
       - a scar on the lower abdomen
 sohl:
-  templatePriority: null
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 12 } }
     - { model: sohl-sohl-attribute-end, system: { scoreBase: 14 } }
@@ -554,11 +553,11 @@ sohl:
     defaultCombatGroup: null
 ---
 
-# Appearance {#appearance}
+## Appearance {#appearance}
 
 Kólrith Delvánor is a 29-year-old man who stands 5'11" tall and is of moderate build. He has an oval face with prominent cheekbones, a high forehead, and an angular jaw that leads to a prominent chin. His hooded dark brown eyes sit beneath prominent brows, lending him a guarded gaze. A strong nose and narrow lips complete his features. He has olive skin with a bronzed complexion. His black hair is cropped short.
 
-# Dossier {#dossier}
+## Dossier {#dossier}
 
 Born in the Tarvénia region to a freeman family of Tarvénan heritage, Kólrith Delvánor came into the world of the pilot through a combination of circumstance and aptitude.
 
@@ -566,37 +565,37 @@ Tobias is a daring pilot known for his adventurous spirit and quick reflexes. He
 
 Now at 29 years of age, Kólrith Delvánor has established himself as a known figure among the pilots of Tarvénia. His reputation, for better or worse, precedes him in the circles where such things matter.
 
-## Psyche
+### Psyche
 
-### Personality
+#### Personality
 
 Can be reckless, struggles with authority.
 
-### Motivation
+#### Motivation
 
 Kólrith is driven by the desire to master his craft and secure a stable future. The uncertainties of life in pilot work keep him vigilant and adaptable.
 
-### Strengths
+#### Strengths
 
 Fast reflexes, skilled at maneuvers, resourceful in challenging situations.
 
-## Social
+### Social
 
 Kólrith is affiliated with Local Pilots' Guild.
 
 As a Tarvénan pilot, Kólrith occupies a recognized social niche within Tarvénia society.
 
-## Companions
+### Companions
 
-### Patrons
+#### Patrons
 
 Kólrith's primary patron is Adventurers and thrill-seekers looking for exciting flights.. This relationship provides both opportunity and obligation.
 
-### Enemies
+#### Enemies
 
 Few; generally well-liked, but some competitors may resent his success.
 
-## Plot Hooks
+### Plot Hooks
 
 1. **The Pilot's Dilemma** — Kólrith faces a professional crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Tarvénia.
 

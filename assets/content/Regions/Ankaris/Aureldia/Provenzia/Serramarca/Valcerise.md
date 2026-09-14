@@ -19,8 +19,6 @@ shortcode: valcerise
 packFolder: provenzia
 ---
 
-# Valcèrise
-
 **Valcèrise** — the cherry vale — is a hill town of [[place-serramarca|Sèrramarca]], standing above the
 [[place-tiravellake|Lake Tiravel]] basin on the road that climbs toward the Tarvénian passes.
 

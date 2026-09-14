@@ -18,8 +18,6 @@ shortcode: greyfjord
 packFolder: nordheim
 ---
 
-# Greyfjord
-
 ## Overview
 
 _To be written._

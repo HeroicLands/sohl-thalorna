@@ -10,8 +10,6 @@ shortcode: greatlordrnk
 description: "Holding a province of the sovereign directly, and commanding lesser lords in turn."
 ---
 
-# Great Lord
-
 Holding a province of the sovereign directly, and commanding lesser lords in turn.
 
 ## Obligations and Rights

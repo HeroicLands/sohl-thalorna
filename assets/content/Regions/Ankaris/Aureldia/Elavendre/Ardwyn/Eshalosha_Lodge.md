@@ -18,8 +18,6 @@ shortcode: eshalshldg
 packFolder: elavendre
 ---
 
-# Eshálosha Lodge
-
 **Controlled by:** [[lore-aelendnppl|Áelendan]]
 
 ## Overview

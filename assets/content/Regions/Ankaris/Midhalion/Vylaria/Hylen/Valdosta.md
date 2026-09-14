@@ -17,8 +17,6 @@ shortcode: valdosta
 packFolder: vylaria
 ---
 
-# Valdosta
-
 ## Overview
 
 _To be written._

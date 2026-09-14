@@ -22,11 +22,7 @@ data:
     - kingdmdnvr
   gender: female
   species: null
-sohl:
-  templatePriority: null
 ---
-
-# Lady Ilara Lúavel
 
 **Role.** Daughter of the embassy's Steward.
 

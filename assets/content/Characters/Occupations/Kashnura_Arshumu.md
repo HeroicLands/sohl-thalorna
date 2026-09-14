@@ -41,7 +41,6 @@ data:
     complexion: weathered
     extra_features: []
 sohl:
-  templatePriority: null
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 10 } }
     - { model: sohl-sohl-attribute-end, system: { scoreBase: 13 } }
@@ -555,11 +554,11 @@ sohl:
     defaultCombatGroup: null
 ---
 
-# Appearance {#appearance}
+## Appearance {#appearance}
 
 Kashnûra Arshûmû is a 47-year-old woman who stands 5'6" tall and is of moderate build. She has an oval face with wide-set cheekbones, a lined forehead, and a narrow jaw that leads to a pointed chin. Her large hazel eyes sit beneath prominent brows, lending her an expressive gaze. An aquiline nose and firm lips complete her features. She has olive skin with a weathered complexion. Her dark brown hair is falling in dark cascades.
 
-# Dossier {#dossier}
+## Dossier {#dossier}
 
 Born in the Harad region to a freeman family of Haradian heritage, Kashnûra Arshûmû came into the world of the chandler through a combination of circumstance and aptitude.
 
@@ -567,37 +566,37 @@ Edda has been making candles for over twenty years in her small village. She lea
 
 Now at 47 years of age, Kashnûra Arshûmû has established herself as a known figure among the chandlers of Harad. Her reputation, for better or worse, precedes her in the circles where such things matter.
 
-## Psyche
+### Psyche
 
-### Personality
+#### Personality
 
 Set in her ways and resistant to adopting new techniques.
 
-### Motivation
+#### Motivation
 
 Kashnûra is driven by the desire to master her craft and secure a stable future. The uncertainties of life in chandler work keep her vigilant and adaptable.
 
-### Strengths
+#### Strengths
 
 Skilled at making high-quality candles and soap.
 
-## Social
+### Social
 
 Kashnûra is affiliated with Village Craft Guild.
 
 As a Haradian chandler, Kashnûra occupies a recognized social niche within Harad society.
 
-## Companions
+### Companions
 
-### Patrons
+#### Patrons
 
 Kashnûra's primary patron is Local villagers and merchants who appreciate her craftsmanship.. This relationship provides both opportunity and obligation.
 
-### Enemies
+#### Enemies
 
 A younger chandler who tries to undercut her prices.
 
-## Plot Hooks
+### Plot Hooks
 
 1. **The Chandler's Dilemma** — Kashnûra faces a professional crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Harad.
 

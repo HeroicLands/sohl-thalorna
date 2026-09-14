@@ -17,8 +17,6 @@ name:
 shortcode: ashkabel2
 ---
 
-# Ashkabel
-
 ## Overview
 
 _To be written._ Ashkabel is the capital and principal settlement of [[affiliation-ashkabel|Ashkabel]].

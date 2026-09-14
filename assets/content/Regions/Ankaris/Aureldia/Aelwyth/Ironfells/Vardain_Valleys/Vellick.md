@@ -19,8 +19,6 @@ shortcode: vellick
 packFolder: aelwyth
 ---
 
-# Vellick
-
 **Vellick** sits where the beck drops enough to drive hammers, and it is where the
 [[lore-vardain|Vardain]] work metal. Five hundred and forty people, most of them in the trade or
 married into it.

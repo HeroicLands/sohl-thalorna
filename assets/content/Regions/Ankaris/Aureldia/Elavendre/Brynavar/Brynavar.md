@@ -19,8 +19,6 @@ shortcode: brynavar
 packFolder: elavendre
 ---
 
-# Brynavar
-
 **Brynavar** — _the hill country_ — is Élavendre's eastern march: some two hundred and forty thousand
 people in rolling wooded hills between the [[place-tirwen|Tirwen]] basin and the borders beyond, rising
 southward into the mountains of [[place-ardwyn|Ardwyn]].

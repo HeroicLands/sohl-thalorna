@@ -10,8 +10,6 @@ description: Cities, towns, villages, and other inhabited places.
 banner: banners/settlement.webp
 ---
 
-# Settlements
-
 Cities, towns, villages, and other inhabited places.
 
 ```sql

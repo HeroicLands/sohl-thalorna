@@ -19,8 +19,6 @@ shortcode: ravenmoor
 packFolder: aelwyth
 ---
 
-# Ravenmoor
-
 **Ravenmoor** stands on Aelwyth's south-eastern coast where the open moor that gives it its name breaks
 off into a deep sheltered anchorage. Twenty thousand people, the seat of the
 [[affiliation-kingdmdnvr|Kingdom of Dúnavarre]], and the seat of the **Synod**.

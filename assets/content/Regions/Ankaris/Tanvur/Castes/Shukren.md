@@ -8,8 +8,6 @@ shortcode: shukren
 packFolder: castes
 ---
 
-# Shükrën
-
 **Merchants and Usurers**
 
 The Shükrën comprise merchants, traders, moneylenders, and others who engage in commerce and finance but do not create goods themselves. Though they occupy a lower caste position than artisans, successful Shükrën can accumulate extraordinary wealth through trade. However, this freedom to prosper is heavily regulated and constrained by strict imperial law designed to prevent merchants from translating economic power into political influence.

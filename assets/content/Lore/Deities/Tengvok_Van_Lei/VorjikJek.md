@@ -10,6 +10,4 @@ shortcode: vorjikjekdty
 packFolder: deitiestengvokvanlei
 ---
 
-# Vōrjīk Jëk
-
 TBD

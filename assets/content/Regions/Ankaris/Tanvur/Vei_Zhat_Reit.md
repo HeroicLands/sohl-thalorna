@@ -10,7 +10,7 @@ shortcode: veizhatret
 packFolder: tanvur
 ---
 
-# Vëi Zhāt Rëit ("The Jade Fan Dance")
+## Vëi Zhāt Rëit ("The Jade Fan Dance")
 
 The **Vëi Zhāt Rëit** is the term used to describe the intricate and perilous game of political intrigue that takes place within the imperial court of the [[affiliation-tanvurempr|Empire of Tānvür]]. Played by noble houses, influential officials, and high-ranking members of the celestial administration, the Jade Fan Dance is a constant, invisible war where the weapons are information, deception, alliances, and betrayal. The stakes are extraordinary: not merely power and wealth, but the [[lore-celestlrdr|moral ledger]] standing of entire families, the effectiveness of their [[lore-ancstrwrshp|ancestor spirits]], and — in the most extreme cases — their very classification within the cosmic order.
 
@@ -18,7 +18,7 @@ The Tānvüri do not consider the Jade Fan Dance dishonorable. Even bureaucracie
 
 ---
 
-## The Celestial Precedent
+### The Celestial Precedent
 
 The Jade Fan Dance is not a mortal invention. The Tānvüri believe it is a reflection — perhaps an inevitability — of the same dynamics that govern the [[affiliation-tngvkvnlei|celestial administration itself]]. The eleven spirit bureaus compete for jurisdiction, overseers lobby for expanded authority, the Ministry of Final Account leverages its bottleneck position, and ancestor spirits form political blocs to advance their descendants' interests. The Great Sorting did not eliminate competition — it classified it. (See [[affiliation-tngvkvnlei|The Celestial Politics]] for the full theological basis.)
 
@@ -28,7 +28,7 @@ This theological framing — that political competition is the cosmic order oper
 
 ---
 
-## Structure of the Game
+### Structure of the Game
 
 The primary players are members of the [[lore-zheklung|Zhëklüng]] caste — the Emperor's advisors, ministers, Warlords, and their families. Powerful [[lore-vushok|Vüshōk]] lords participate as military stakeholders whose support can tip the balance of any faction. Key [[lore-tanthei|Tānthëi]] scholars wield enormous influence through their monopoly on interpreting celestial signs — an omen read one way can justify a policy; read another way, it can condemn a minister.
 
@@ -38,7 +38,7 @@ The [[lore-venduk|Vëndük]] occupy a unique position. As chattel bound to the Z
 
 ---
 
-## Tactics and Strategies
+### Tactics and Strategies
 
 **Alliances:** Noble houses form temporary alliances to achieve mutual goals — securing advantageous [[lore-marriage|marriages]], influencing legislation, or discrediting rivals. These alliances are always fragile, built on calculated advantage rather than trust. A marriage alliance merges two families' moral ledgers and ancestor spirits, which means a broken alliance has spiritual consequences: the ancestors of both houses may issue conflicting commands, and the shared spiritual infrastructure becomes a battlefield.
 
@@ -54,7 +54,7 @@ The [[lore-venduk|Vëndük]] occupy a unique position. As chattel bound to the Z
 
 ---
 
-## The Emperor's Shadow
+### The Emperor's Shadow
 
 Within the Jade Fan Dance, there exists a powerful and secretive faction known as the **Thürzhük Hëkvōr** ("Emperor's Shadow"). This group is composed of highly influential nobles and officials who seek to control the Emperor and steer the empire according to their collective interests. The Thürzhük Hëkvōr operates behind the scenes, manipulating the bureaucratic channels through which imperial authority flows — ensuring that certain petitions reach the Emperor while others are lost, that certain omens are read favorably while others are suppressed, and that key appointments go to their allies.
 
@@ -64,7 +64,7 @@ The Thürzhük Hëkvōr is not monolithic. Internal power struggles within the f
 
 ---
 
-## Consequences
+### Consequences
 
 **Victory and Reward:** A successful player secures prestigious appointments, advantageous marriages, and the accumulation of political influence that translates directly into spiritual power. Their household's moral ledger swells with credits from their elevated position. Their ancestor spirits, bolstered by lavish offerings funded by their new wealth, become more effective advocates. Their descendants inherit a stronger spiritual infrastructure. In the Jade Fan Dance, winning compounds over generations.
 
@@ -76,7 +76,7 @@ In the most extreme cases, a failed player is quietly assassinated, their death 
 
 ---
 
-## See Also
+### See Also
 
 - [[affiliation-yurthatzhk|Yürtthāt Zhāk]] — A noble house whose fall illustrates the Jade Fan Dance's consequences
 - [[lore-ttjkvngyrt|Tëitjëk Vëngyürt]] — A rebellion shaped by the same political dynamics

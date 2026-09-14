@@ -12,8 +12,9 @@ name:
     - The Eternal Flame
     - The Three Flames
     - The Triune Fire
-sohl:
+data:
   templatePriority: null
+sohl:
   system:
     skillBaseFormula: "@wil, @rea"
     masteryLevelBase: 0

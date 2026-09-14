@@ -42,7 +42,6 @@ data:
     extra_features:
       - tattoo on arm
 sohl:
-  templatePriority: null
   items:
     - { model: sohl-sohl-attribute-agl, system: { scoreBase: 11 } }
     - { model: sohl-sohl-attribute-aur, system: { scoreBase: 10 } }
@@ -529,11 +528,11 @@ sohl:
     defaultCombatGroup: null
 ---
 
-# Appearance {#appearance}
+## Appearance {#appearance}
 
 Leónidês is striking in his proportions — 6'5" tall with a massive, heavily muscled frame that makes him the largest man in most rooms he enters. His dark brown hair is thick and curling, worn to his collar in the Byzarian style, and his brown eyes are unexpectedly gentle in a face built for war. His fair skin is smooth and largely unmarked despite his martial profession, though a sprawling tattoo of a griffon in dark ink covers his right shoulder and upper arm — the mark of his regiment. His features are broad and heavy-boned, with a wide nose and a strong chin softened by a neatly trimmed black beard. He wears his Byzarian heavy infantry kit with obvious pride: a polished mail hauberk over a padded coat, kurbul greaves, and a broadsword that looks almost proportional in his enormous grip.
 
-# Dossier {#dossier}
+## Dossier {#dossier}
 
 Leónidês was born in a Byzarian trading family that was more interested in commerce than he was in the family business. At seventeen, instead of accepting a position in his father's company, he took his military training into the field and joined a private military company that defended merchant convoys across the Byzarian crossroads. The Black Serpent Company was not prestigious, but they were effective, and for eight years Leónidês worked himself into a senior position through competence and a willingness to do the work others considered beneath them.
 
@@ -541,35 +540,35 @@ At twenty-five, the Black Serpent Company disbanded after a disastrous campaign 
 
 Now at thirty years old, Leónidês has established a reputation as reliable but expensive security. He has saved enough money to consider retirement within a decade, though the prospect of settled civilian life deeply unsettles him. He is professionally competent, personally isolated, and quietly haunted by the company dissolution—specifically, by the knowledge that the military leadership was corrupted by political pressure and abandoned soldiers in the field.
 
-## Psyche
+### Psyche
 
-### Personality
+#### Personality
 
 Leónidês is quiet in the manner of a man who learned early that his size makes language unnecessary. He observes before acting, thinks before speaking, and is remarkably patient with people who are trying to communicate. When he does speak, his words carry weight because they are infrequent. He has a dry, understated appreciation for absurdity and occasionally surprises people with observations of unusual insight.
 
-### Motivation
+#### Motivation
 
 Leónidês wants personal autonomy more than anything else. After serving under command structures that were compromised and corrupted, he has no interest in institutional loyalty. His motivation is professional excellence and financial independence—the security of knowing that he will never need to compromise his judgment to survive. His secondary motivation, which he acknowledges rarely, is the desire to save soldiers from the kind of betrayal he experienced during the Black Serpent dissolution.
 
-### Strengths
+#### Strengths
 
 His combat ability is exceptional, honed through years of actual field experience rather than training ground posturing. He is strategically minded and can assess threat quickly and accurately. He is genuinely difficult to intimidate and maintains composure under extreme pressure.
 
-## Social
+### Social
 
 Leónidês operates in the liminal space between military structures and civilian commerce. He is respected by soldiers and merchants both, but belongs fully to neither world. His Byzarian identity is evident but not particularly important to his sense of self.
 
-## Companions
+### Companions
 
-### Patrons
+#### Patrons
 
 **Master Merchant Theodor Kantakouzenios** — A wealthy merchant who has retained Leónidês for significant operations over the past five years. Theodor recognizes Leónidês's value and pays generously, but more importantly, he does not attempt to micromanage or demand unnecessary risks. Their relationship is purely professional, but Theodor has begun suggesting that Leónidês consider permanent employment with his merchant house—a position that would provide wealth and security beyond what freelance work offers.
 
-### Enemies
+#### Enemies
 
 **Colonel Marian Vex** — The military officer who commanded the operational decisions that led to the Black Serpent Company's dissolution. Marian was acting under political pressure but knew what the orders would cost. He sacrificed soldiers he commanded to satisfy higher authorities. Leónidês has heard rumors that Marian was promoted for his "effective command" of a difficult situation. The knowledge that political corruption was rewarded rather than punished drives Leónidês's deepest resentment.
 
-## Plot Hooks
+### Plot Hooks
 
 1. **The Impossible Cargo** — Master Merchant Kantakouzenios asks Leónidês to escort a caravan carrying sealed containers that nobody is allowed to inspect. The cargo is valuable enough that Kantakouzenios offers double his usual rates. Leónidês agrees, but during the journey, bandits attack with tactical knowledge that suggests they knew exactly where the caravan would be and what route it would take. Leónidês fights them off, but realizes the attack was too coordinated to be coincidence. Investigation reveals that Kantakouzenios has been using his merchant operation to move restricted military supplies to political factions, and the bandits were military forces attempting to intercept the contraband. Leónidês is now caught between his respect for Kantakouzenios and his ethical opposition to military corruption.
 

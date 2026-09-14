@@ -40,7 +40,6 @@ data:
     extra_features:
       - a scar on the left thigh
 sohl:
-  templatePriority: null
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 11 } }
     - { model: sohl-sohl-attribute-end, system: { scoreBase: 12 } }
@@ -601,11 +600,11 @@ sohl:
     defaultCombatGroup: null
 ---
 
-# Appearance {#appearance}
+## Appearance {#appearance}
 
 Kallínikos stands 5'9" tall with a medium build. He has warm tanned skin, dark brown hair, and warm brown eyes. His features include an oval face, a strong nose, an angular jawline, an expressive mouth, dark brows, prominent cheeks. A distinguishing mark is a scar on the left thigh.
 
-# Dossier {#dossier}
+## Dossier {#dossier}
 
 Born into the Zygomálas family of minor nobility within the Byzarian League, Kallínikos was trained in the traditional scholarly arts—mathematics, heraldry, classical texts. He showed early aptitude for drawing, and his family eventually allowed him to apprentice with the renowned cartographer **Master Soren** rather than forcing him into administrative service. Under Soren's tutelage, he mastered both the technical precision required of military and merchant cartography and the artistic rendering that transforms maps into objects of beauty.
 
@@ -613,19 +612,19 @@ By his early thirties, Kallínikos had established himself as the League's fines
 
 Now at thirty-nine, Kallínikos is something of a legend—part explorer, part artist, part reckless adventurer. He maintains a workshop in the Byzarian capital but spends at least a third of each year on expedition, mapping uncharted lands and returning with stories as intriguing as his maps.
 
-## Psyche
+### Psyche
 
-### Personality
+#### Personality
 
 Kallínikos is a man of genuine charm and infectious enthusiasm. In social settings, he is witty and engaging, his mind making unexpected connections between seemingly disparate subjects. He speaks eloquently about art, geography, history, and philosophy, and his passion for discovery is genuinely compelling. He cultivates relationships carefully, understanding that patronage and partnerships depend on goodwill.
 
 However, beneath this polished exterior lies something more driven and potentially reckless. In the field, away from civilized society, he becomes almost feral in his focus—pushing beyond prudent limits, taking risks that seasoned explorers would consider suicidal. There is something almost compulsive about his need to see what lies beyond the next ridge, to chart what others have not. His colleagues sometimes wonder if he is seeking something specific rather than merely exploration for its own sake.
 
-### Motivation
+#### Motivation
 
 Kallínikos is driven by the deep human desire to know, to map the unmapped, to leave a legacy of discovery and artistic beauty. On the surface, he seeks to expand the League's knowledge and influence, to create maps so beautiful and comprehensive that they become treasured objects in their own right. Beneath this lies something darker—a conviction that something important awaits discovery on the edges of the known world, something that might change everything. He cannot articulate what he seeks, but he knows with absolute certainty that he will recognize it when he finds it.
 
-### Strengths
+#### Strengths
 
 - **Master Cartographer**: His Script, Drawing, and Mathematical skills all exceed 15, making him capable of creating maps of unprecedented accuracy and detail.
 - **Artistic Vision**: With Creativity at 16, he sees maps not merely as functional documents but as works of art, which drives demand for his commissions among wealthy collectors.
@@ -633,7 +632,7 @@ Kallínikos is driven by the deep human desire to know, to map the unmapped, to 
 - **Persuasive Communicator**: His Eloquence and Command scores of 14 allow him to secure funding, gather followers, and talk his way out of dangerous situations.
 - **Well-Rounded Outdoor Skills**: His Climbing, Riding, and Swimming scores are all solid, and his practical knowledge of dozens of environments is extensive.
 
-### Weaknesses
+#### Weaknesses
 
 - **Reckless Adventurer**: His drive to explore often overrides prudent judgment. He will venture into clearly dangerous territory against the advice of companions, sometimes with tragic consequences.
 - **Obsessive Tendencies**: Once fixated on a particular expedition or mystery, he becomes nearly impossible to dissuade from pursuing it, sometimes abandoning commissioned work.
@@ -641,25 +640,25 @@ Kallínikos is driven by the deep human desire to know, to map the unmapped, to 
 - **Limited Combat Training**: Though he can handle himself adequately, his Melee score of 13 is underwhelming, leaving him dependent on companions in true combat situations.
 - **Divided Loyalties**: His commitment to exploration sometimes conflicts with his commercial obligations, making him an unreliable partner when expeditions take longer than anticipated.
 
-## Social
+### Social
 
-### Patrons
+#### Patrons
 
 - **The Royal Cartographers' Society**: Official patron organization that grants him access to resources, archive materials, and occasionally funding for expeditions of strategic importance.
 - **Lord Commander Hieronymus**: A military leader who has commissioned numerous military maps and occasionally funds expeditions specifically to gather information on potential threats or expansion opportunities.
 - **Lady Investress Calyndra**: A wealthy collector of fine maps and geographical art who has become increasingly invested in funding his expeditions, ostensibly for the beauty of his work.
 
-### Enemies
+#### Enemies
 
 - **The Orthodox Cartographers' Alliance**: Conservative practitioners who view Kallínikos's artistic approach as compromising precision and his expeditions as wasteful spending on unnecessary discovery.
 - **The Faceless Warden**: An entity or individual Kallínikos encountered during his Shadowpeak expedition, something that clearly does not want him—or anyone—mapping the deep mountain regions. They have tried multiple times to kill him.
 
-### Affiliations
+#### Affiliations
 
 - **The Royal Cartographers' Society**: Official membership providing resources and legitimacy, though his maverick approach creates occasional friction.
 - **The Explorers' Fellowship**: An informal network of adventurers and naturalists dedicated to expanding geographical knowledge.
 
-## Plot Hooks
+### Plot Hooks
 
 1. **The Disappearing Expedition**: Kallínikos's latest expedition to the western wastes simply vanishes—no contact, no return, no bodies. Three months overdue, sponsors demand answers. When another group sent to investigate reports finds evidence that Kallínikos deliberately eluded them and continued deeper into unmapped territory, the question becomes urgent: did he discover something so important he was willing to fake his expedition's disappearance? Is he alive, dead, or transformed into something else entirely?
 

@@ -16,8 +16,6 @@ name:
 shortcode: kinhalcrdt
 ---
 
-# Kin and Hall Credit
-
 ## Overview
 
 Across the tribal and clan-based polities of Thalorna — the [[place-nrdlndsrgn|Nordlands]], [[place-vrystwald|Vrystwald]], [[place-dunharargn|Dunhara]], [[place-khzryndsrtrgn|Khazryn steppe]], the [[affiliation-aelndntrbs|Áelendan]] of Élavendre, and the deep-interior tribes of every continent — a distinctive form of long-term commercial credit operates **without currency, without banking institutions, without written instruments, and without formal contracts**. It is the credit system of _kin obligation_ and _hall affiliation_: the principle that members of an extended family, a clan, or a hall's sworn following can extend value to one another against the security of their relationship, with repayment expected in time but not necessarily on any fixed schedule.

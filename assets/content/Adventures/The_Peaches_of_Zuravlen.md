@@ -20,8 +20,6 @@ data:
 packFolder: adventures
 ---
 
-# The Peaches of Zûravlen
-
 The orchards of [[place-zuravlenrgn|Zûravlen]] produce the finest peaches in [[place-provenzrgn|Provènzia Region]], but a curse has turned the fruit into a deadly poison. The party must uncover whether this is sabotage, magic, or something far stranger—while powerful interests fight to control the narrative.
 
 ## Overview

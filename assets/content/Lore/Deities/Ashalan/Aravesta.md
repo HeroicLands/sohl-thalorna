@@ -10,6 +10,4 @@ shortcode: aravestadty
 packFolder: deitiesashalan
 ---
 
-# Árávēštä
-
 TBD

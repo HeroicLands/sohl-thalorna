@@ -18,8 +18,6 @@ shortcode: castamere
 packFolder: tarvenia
 ---
 
-# Castamere
-
 ## Overview
 
 _To be written._

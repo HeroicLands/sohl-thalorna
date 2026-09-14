@@ -23,15 +23,11 @@ data:
   parents:
     - arldnpnthn
   relations: {}
-sohl:
-  templatePriority: null
 name:
   full: Order of the Just Blade
   aliases: []
 shortcode: justbladeordr
 packFolder: aelwyth
 ---
-
-# Order of the Just Blade
 
 A militant order of the [[affiliation-janus|Faith of Jánus]], god of order and justice. Its Knight-Captains carry his principles into the field, and one of them, [[being-toradhtaravren|Dame Toradh Taravren]], secretly holds the crusade against the Saelvri to be a betrayal of them.

@@ -17,8 +17,6 @@ shortcode: ravensholm
 packFolder: nordheim
 ---
 
-# Ravensholm
-
 ## Overview
 
 Ravensholm sits on the northern coast of Nordheim, a settlement of perhaps 500 souls that has grown around an ancient temple dedicated to Odin, the All-Father. The site is revered throughout the frozen north; local tradition holds that it was founded in the age of heroes, when Odin himself walked the earth and blessed the place with his presence. Ravens wheel constantly above the settlement—far more than natural population would suggest—and the locals regard them as direct extensions of Odin's will, his eyes watching all that transpires below. The birds are fed with reverence and never hunted; to harm a raven in Ravensholm is considered the gravest of blasphemies, punishable by exile or death.

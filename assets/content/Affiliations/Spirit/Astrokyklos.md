@@ -94,8 +94,6 @@ data:
   relations: {}
 shortcode: astrokyklos
 img: null
-sohl:
-  templatePriority: null
 packFolder: astrokyklos
 ---
 

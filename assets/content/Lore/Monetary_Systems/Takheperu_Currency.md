@@ -19,8 +19,6 @@ name:
 shortcode: tkhprcrncy
 ---
 
-# Ta'Kheperu Currency
-
 **Scope:** The Ta'Kheperu currency is the standard currency of the **Northern Fertile Region of Xerathia** — the empire of [[affiliation-empirtkhpr|Ta'Kheperu]] itself, the [[affiliation-mtrrchybth|Matriarchy of Bethûa]], and the kingdom of [[affiliation-okharis|Okháris]]. Outside the Northern Fertile Region it is exchangeable as foreign currency, principally against the [[lore-vylrncrncy|Vylarian system]] through moneylenders at the trading ports of the Vylarian Sea.
 
 The system is **weight-based rather than coined**. Where the Vylarian Aerarium Imperii strikes named coins (Aurion, Argentus, Octus) bearing the Augustar's image and the imperial Aquila, the Kheperi temples attest **standardized weight-pieces** of copper, silver, and gold — small ingots, rings, or stamped wedges of fixed mass, marked with the issuing temple's seal certifying their weight and metal purity. The pieces are not called coins. They are _attested metal of known weight_, and they are accepted at face value in commerce throughout the Northern Fertile Region without need for re-weighing.

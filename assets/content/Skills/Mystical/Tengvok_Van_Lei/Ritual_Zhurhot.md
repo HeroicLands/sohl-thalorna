@@ -10,8 +10,9 @@ name:
   aliases:
     - Zhürhöt
     - The Minister of Fire
-sohl:
+data:
   templatePriority: null
+sohl:
   system:
     skillBaseFormula: "@wil, @rea"
     masteryLevelBase: 0

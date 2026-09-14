@@ -18,8 +18,6 @@ shortcode: bldfldtiravlen
 packFolder: provenzia
 ---
 
-# Blood-field of Tiravlen
-
 On the shore of [[place-tiravellake|Lake Tiravel]], which gives it its name, lies the second of
 Provènzia's named [[lore-bloodfields|blood-fields]] — and the one most people have actually seen,
 since the lake road runs along its edge and nobody has ever thought to move the road.

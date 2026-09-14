@@ -19,8 +19,6 @@ shortcode: ardwyn
 packFolder: elavendre
 ---
 
-# Ardwyn
-
 **Ardwyn** — _the high land_ — is the mountain quarter of [[place-elavendre|Élavendre]], running along
 the kingdom's eastern and southern borders: perhaps a hundred and eighty thousand people in a country
 that could hold far more and does not, because most of it is not the kingdom's to settle.

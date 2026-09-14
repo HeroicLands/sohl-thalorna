@@ -42,7 +42,6 @@ data:
     extra_features:
       - a scar on the left arm
 sohl:
-  templatePriority: null
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 9 } }
     - { model: sohl-sohl-attribute-end, system: { scoreBase: 14 } }
@@ -554,11 +553,11 @@ sohl:
     defaultCombatGroup: null
 ---
 
-# Appearance {#appearance}
+## Appearance {#appearance}
 
 Thórdís Dróttgar is a 34-year-old woman who stands 5'7" tall and is slender. She has an oval face with sharp cheekbones, a broad forehead, and a heavy jaw that leads to a broad chin. Her deep-set gray eyes sit beneath straight brows, lending her a watchful gaze. A broad nose and wide lips complete her features. She has fair skin with a weathered complexion. Her blonde hair is braided and coiled at the nape.
 
-# Dossier {#dossier}
+## Dossier {#dossier}
 
 Born in the Nordheim region to a freeman family of Nordheimn heritage, Thórdís Dróttgar came into the world of the apothecary through a combination of circumstance and aptitude.
 
@@ -566,37 +565,37 @@ Liora grew up in a small village where her mother was a healer. She learned the 
 
 Now at 34 years of age, Thórdís Dróttgar has established herself as a known figure among the apothecarys of Nordheim. Her reputation, for better or worse, precedes her in the circles where such things matter.
 
-## Psyche
+### Psyche
 
-### Personality
+#### Personality
 
 Often overworks herself and struggles to turn away those in need, leading to financial struggles.
 
-### Motivation
+#### Motivation
 
 Thórdís is driven by the desire to master her craft and secure a stable future. The uncertainties of life in apothecary work keep her vigilant and adaptable.
 
-### Strengths
+#### Strengths
 
 Compassionate and highly skilled in natural remedies.
 
-## Social
+### Social
 
 Thórdís is affiliated with Independent healer.
 
 As a Nordheimn apothecary, Thórdís occupies a recognized social niche within Nordheim society.
 
-## Companions
+### Companions
 
-### Patrons
+#### Patrons
 
 Thórdís's primary patron is Poor villagers and city laborers.. This relationship provides both opportunity and obligation.
 
-### Enemies
+#### Enemies
 
 None, though some apothecaries see her charity as competition.
 
-## Plot Hooks
+### Plot Hooks
 
 1. **The Apothecary's Dilemma** — Thórdís faces a professional crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Nordheim.
 

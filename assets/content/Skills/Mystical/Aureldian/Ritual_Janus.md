@@ -10,8 +10,9 @@ name:
   full: "Ritual: Janus"
   aliases:
     - The Keeper of the Gates
-sohl:
+data:
   templatePriority: null
+sohl:
   system:
     skillBaseFormula: "@wil, @rea"
     masteryLevelBase: 0

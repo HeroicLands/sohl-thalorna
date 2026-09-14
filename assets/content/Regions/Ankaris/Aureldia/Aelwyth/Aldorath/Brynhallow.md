@@ -19,8 +19,6 @@ shortcode: brynhallow
 packFolder: aelwyth
 ---
 
-# Brynhallow
-
 **Brynhallow** sits high in Aldorath's upland country, where the manorial arable gives out and the land
 is good for sheep, stone and very little else. Eighteen hundred people, and a reputation in the lowlands
 for being difficult.

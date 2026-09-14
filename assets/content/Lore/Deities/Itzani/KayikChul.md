@@ -10,6 +10,4 @@ shortcode: kayikchuldty
 packFolder: deitiesitzani
 ---
 
-# K'ayik Ch'ul
-
 TBD

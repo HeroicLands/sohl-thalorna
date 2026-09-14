@@ -112,12 +112,8 @@ data:
   relations:
     kemtnpnthn: aligned
     ra: aligned
-sohl:
-  templatePriority: null
 packFolder: capitalnome
 ---
-
-# The Capital Nome
 
 ## Overview
 

@@ -17,7 +17,7 @@ packFolder: settinglore
 shortcode: godsrelign
 ---
 
-# Religion and Gods Are Not the Same Thing
+## Religion and Gods Are Not the Same Thing
 
 The most important conceptual distinction in this document is the one between **religion** and **gods**.
 
@@ -29,7 +29,7 @@ These two things are _related_ — religions usually claim to worship one or mor
 
 This document develops the implications of that distinction.
 
-# What Gods Are
+## What Gods Are
 
 Within the cosmology established in [[lore-magictruth|Magic Truth]], gods are not metaphysically distinct from other beings. They are _souls_ — the same kind of thing that mortals, spirits, elementals, and dragons are. What distinguishes them is the magnitude of what they have, and what they can do with it.
 
@@ -47,7 +47,7 @@ Several specific consequences of this scale matter for understanding the gods:
 
 This is the cosmology's answer to the question of what gods _are_. They are souls — points on the same spectrum that mortals and spirits and dragons occupy — at a position so far up the curve that the difference of degree becomes a difference of kind in every practical sense. The same potential that a Magister channels through a six-Eídma framework is what a god channels through whatever-it-is gods channel through. The mechanism is continuous; the scale is incomparable.
 
-# Gods Differ from One Another
+## Gods Differ from One Another
 
 Because gods are souls, and souls differ, gods differ. The cosmology imposes no uniformity on what kind of beings gods are or how they relate to mortal affairs. Just as mortals range from the deeply communal to the radically solitary, from the attention-hungry to the entirely self-contained, from the engaged to the indifferent, gods occupy the full breadth of these dispositions — at scales and intensities that match their other capacities.
 
@@ -67,13 +67,13 @@ A consequence worth noting: because some gods may need or desire worship, while 
 
 A further wrinkle: a god worshipped under multiple names by multiple traditions may exhibit _different dispositions toward different traditions_. The disposition is not a fixed property of the god in isolation; it is a property of the god's relationship to a particular tradition. The same being might be worship-desiring with respect to one religion that names it, aloof toward another, and indifferent to a third. Why a god relates differently to different traditions is among the questions mortals cannot answer — perhaps the traditions differ in ways the god cares about, perhaps the god's attention has simply landed differently across them, perhaps some other principle is at work. The GM's per-deity decisions therefore extend to per-tradition decisions: which tradition is this god most engaged with, and which is it indifferent toward?
 
-# Pantheons as Human Constructs
+## Pantheons as Human Constructs
 
 The previous sections have treated "the gods" as if they were a definite set of beings that mortal religions worship. This treatment is convenient for exposition but is, strictly, false. What mortals call pantheons — the Aureldian Twelve, the Itzani Ten, the Sinalë's beings of light and dark, the various Norden god-families — are _human organisational schemes_ projected onto the divine field. The schemes are real cultural facts. They are not descriptions of how the divine field actually carves itself.
 
 This is the same principle that operates throughout the cosmology of Thalorna. The Ordo's six Eídmata are real categories _as the Ordo's framework produces them_, but they are not the structure of magic; the formless potential admits any framework. Pantheons work the same way one level up: they are real categories _as their cultures produce them_, but they are not the structure of the divine. The actual divine field — whatever that phrase even means — admits any framework that mortal minds can build to engage with it.
 
-## What Mortal Schemes Project
+### What Mortal Schemes Project
 
 Several specific projections are worth being explicit about, because each shapes how religions appear in the world.
 
@@ -91,7 +91,7 @@ A pantheon may lack gods of certain domains entirely — and this absence does n
 
 **The number of gods is unknowable.** Are there a small handful of true gods, named differently across thousands of traditions? Are there thousands of gods, each tradition recognising a small subset? Is the answer somewhere in between? The cosmology does not commit. Even a Sinalë philosopher of unusual depth would say that the question itself presupposes a clean enumeration that the divine field may not admit. There may be beings whose distinctness is itself a mortal projection — what one framework treats as one being, another might reasonably treat as several. The actual _count_ of divine beings, if there is such a thing, is among the things mortals cannot determine.
 
-## Order and Chaos Are Objective; Good and Evil Are Not {#order-and-chaos-are-objective-good-and-evil-are-not}
+### Order and Chaos Are Objective; Good and Evil Are Not {#order-and-chaos-are-objective-good-and-evil-are-not}
 
 A particular subset of mortal projections deserves explicit attention, because confusing what is and is not objective in this domain is one of the most consequential cosmological errors a culture can make.
 
@@ -123,7 +123,7 @@ This is harder than either pure relativism (where no judgment is possible) or pu
 
 **Most cultures do not do this.** Most cultures simply assume their morality is universal. Most do not, in their everyday self-understanding, think _our morality is one framework among many_. They think _this is what is right._ The universalising assumption is the default position of nearly every culture in Thalorna.
 
-## The Sinalë as Cosmological Outlier
+### The Sinalë as Cosmological Outlier
 
 The Sinalë are the exception to the universalising default, on every dimension this section has discussed. They are the people who have internalised the principles the section is articulating.
 
@@ -146,7 +146,7 @@ This makes the Sinalë the most useful in-world voice for articulating the cosmo
 
 The Sinalë's quiet tolerance of younger civilisations' frameworks is not condescension. It is the patience of a tradition that knows that institutions cannot be told these truths; only sustained engagement with the divine, over many lifetimes, produces the recognition. The Sinalë wait. They do not push.
 
-# The Non-Intervention of the Gods {#the-non-intervention-of-the-gods}
+## The Non-Intervention of the Gods {#the-non-intervention-of-the-gods}
 
 For reasons known only to themselves, the gods of Thalorna do not directly intervene in the affairs of mortals. This is the foundational fact about divine action in the world, and it shapes every other aspect of how religion functions.
 
@@ -172,7 +172,7 @@ What matters for play is the consequence: from inside the world, divine action i
 
 The mechanisms by which the non-intervention principle is enforced — and how the gods nevertheless engage with the world through agents and proxies — are developed in detail in [[lore-divineactn|Divine Action]]. This document focuses on what religions are and how they function; the political and metaphysical apparatus by which gods act on the world (or refrain from acting) is the subject of that companion document.
 
-# Real Gods, Fictitious Gods, and the Indistinguishability Problem
+## Real Gods, Fictitious Gods, and the Indistinguishability Problem
 
 A consequence of the gods' non-intervention is that _the existence of a god is essentially invisible from inside its religion_. Both real-god and fictitious-god religions look and feel exactly the same to their adherents. They have priests who teach, services that inspire, rituals that produce effects, communities that flourish or struggle, scriptures that comfort and instruct. Nothing in the day-to-day operation of the religion requires the god to exist.
 
@@ -188,7 +188,7 @@ The GM should decide, on a case-by-case basis, which of Thalorna's gods are real
 
 **The most interesting cases are the ambiguous ones.** A god who _was_ real but has gone silent in recent centuries. A god whose adherents have radically misunderstood its nature. A "god" who is in fact a powerful spirit that has been mistaken for a god. A real god whose religion has fractured into several sects, only one of which still has any meaningful contact with the actual deity. These produce richer narrative material than clean-cut "this one exists, this one doesn't" categorisation.
 
-## Beyond Real and Fictitious
+### Beyond Real and Fictitious
 
 The "real god / fictitious god" distinction is a useful first approximation, but in light of the previous section's discussion of pantheons as human constructs, it must be refined. A _named deity_ in some pantheon may stand in any of several relationships to the underlying divine field, only the simplest of which is the clean "real" or "fictitious" binary. The GM's per-deity decision is therefore more nuanced than picking from a binary; it is choosing among (at least) the following cases:
 
@@ -208,7 +208,7 @@ The cases shade into one another, and the categorisation may itself be too clean
 
 For the rest of this document, the analysis applies equally to real-god and fictitious-god religions unless explicitly noted. The mechanisms of religion — pastoral function, blessings, priestly thaumaturgy — operate the same way whether or not the god behind the religion exists, or exists in the form the religion believes.
 
-# What "Divine" Effects Actually Are
+## What "Divine" Effects Actually Are
 
 Religions on Thalorna produce or claim to produce a range of observable effects: blessings on adherents, miraculous healings, curses on enemies, prophetic visions, sanctified objects, sacred fires, fortunate coincidences, and more. From inside the religion, all of these are the work of the god, mediated through priests and rituals. From outside — that is, from the metaphysical perspective this document occupies — these effects are produced by four distinct mechanisms, each operating by entirely different principles. The mechanisms are:
 
@@ -221,7 +221,7 @@ A worshipper experiences all four as "the god's work." A theologian within the r
 
 The four are described in turn below.
 
-## 1. Naturalistic Divine Intervention
+### 1. Naturalistic Divine Intervention
 
 The least frequent mechanism. A real god turns its attention, briefly, toward some matter on the material plane and produces a naturalistic outcome favourable (or unfavourable) to one party. The avalanche, the storm, the unusual fortune. The god does not appear, does not announce itself, does not produce any unambiguous evidence of its action. The intervention is entirely deniable from outside the faith.
 
@@ -229,7 +229,7 @@ This mechanism is only available to _real_ gods. A fictitious god cannot interve
 
 The GM should use this mechanism sparingly. It is most powerful as a story tool when a single intervention occurs at a critical moment in a campaign — the saving of a city, the breaking of a siege, the unexplainable survival of a beloved character. Used frequently, it cheapens the mystery; used rarely, it produces unforgettable moments. Players should never be certain whether a fortunate event was divine or coincidental, even when the GM has decided that it was.
 
-## 2. Priestly Framework-Magic
+### 2. Priestly Framework-Magic
 
 A real and consequential mechanism. A priest with sufficient Aura, trained in the framework embedded in their religion's deep tradition, can perform actual magic — channelling the formless potential through their soul and the religion's grammar to produce specific effects.
 
@@ -241,11 +241,11 @@ Critically, **priestly framework-magic does not require the god to exist.** A pr
 
 This means that magical priests in Thalorna — the ones who heal wounds that should be fatal, banish spirits, hallow weapons, light fires that burn without fuel — are operating exactly as the [[affiliation-ordoarcanis|Ordo's]] mages do, with theological vocabulary and ritual structure standing in for elemental classification and arcane gestures. The Ordo, of course, would deny this if the suggestion were put to them. The priests would also deny it. Neither has any incentive to recognise the equivalence.
 
-## 3. Inspiration and Pastoral Effect
+### 3. Inspiration and Pastoral Effect
 
 The most common mechanism, by orders of magnitude — and the one that produces the standard "blessings" that adherents receive at religious services. This is treated in detail in its own section below. In brief: the priest's pastoral work — teaching, counselling, leading services, framing daily life within a meaningful narrative — produces real, measurable improvements in adherents' performance on related skills. This is not magic. It is the natural and well-understood effect of teaching, reinforcement, moral framing, social accountability, and conviction. The bonus is real because the underlying effects are real. The mechanism is human and mundane.
 
-## 4. Thin Places and Consecrated Objects
+### 4. Thin Places and Consecrated Objects
 
 A subset of religious sites and ritual objects are also thin places (in the sense established in [[lore-magictruth#thin-places-and-focused-objects|Magic Truth]]) — locations or objects through which the formless potential leaks into the material world. When such thinness exists, the surrounding religious activity may be amplified by the ambient potential, and consecrated objects may produce effects of their own without any priest's direct working.
 
@@ -255,7 +255,7 @@ Consecrated objects — altar stones, ritual implements, holy relics, certain ga
 
 This mechanism does not require the god to exist either. Thinness is a property of the place or object, not of any being's attention. A relic of a fictitious saint of a fictitious god can still be a thin object. The effects it produces are real regardless.
 
-# The Pastoral and the Thaumaturgic
+## The Pastoral and the Thaumaturgic
 
 One of the most important practical distinctions in religion is the split between two priestly functions:
 
@@ -274,13 +274,13 @@ The split has consequences that propagate through the religion's structure:
 - **Religious power maps onto Aura distribution.** Religions whose adherent populations include more high-Aura individuals end up with more thaumaturgic priests. This is partly luck and partly self-selection: high-Aura children whose souls are recognised by the religion's testing (which often resembles the [[affiliation-ordoarcanis|Ordo's]] testing, though framed in theological terms) are channelled into deeper training. The Ordo does not always succeed in identifying every high-Aura child before the religions do. There is real institutional competition between the Ordo and the more sophisticated priesthoods over who gets to claim a given gifted child.
 - **Religions of fictitious gods can have thaumaturgic priests.** The framework-magic mechanism does not require the god to be real. As long as the religion's accumulated tradition has produced a workable thaumaturgic framework, high-Aura priests trained in that framework produce real miracles. The fictitious god remains fictitious. The miracles remain real.
 
-# Blessings: Inspiration as Mechanic
+## Blessings: Inspiration as Mechanic
 
 The most common form of "divine effect" in Thalorna is the **blessing** — a temporary improvement in an adherent's skill performance conferred at a religious service, lasting roughly a month before fading without renewal. In game terms, a blessing typically grants +2 or +3 ML to one or more skills associated with the religion's domain. An agricultural god's blessing improves Agriculture and Animalcraft; a war god's improves Combat skills; a god of trade improves Mercantile and Rhetoric. The specific skills depend on the religion's character and what its priests teach.
 
 The mechanism of blessing is, despite appearances, **not magic at all**. A blessing is the cumulative effect of teaching, reinforcement, moral framing, social accountability, and conviction. It is real. It is measurable. It is mechanically significant. But it is produced by entirely natural means.
 
-## How a Blessing Actually Works
+### How a Blessing Actually Works
 
 Consider the farmer who attends weekly services dedicated to an agricultural god. At each service, the priest:
 
@@ -294,7 +294,7 @@ Consider the farmer who attends weekly services dedicated to an agricultural god
 
 The cumulative effect is a measurable improvement in the farmer's actual skill execution. He really is better at Agriculture and Animalcraft. The +2 or +3 ML is the mechanical reflection of this real improvement. No magic occurred. No god intervened. The priest channelled no potential. What happened was teaching, reinforcement, framing, accountability, and conviction — operating on a human being who was capable of being taught, reinforced, framed, held accountable, and convinced.
 
-## Why the Blessing Fades
+### Why the Blessing Fades
 
 Because inspiration is not magic, it must work the way real-world inspiration works: it decays without renewal. A month after the last service, the practical knowledge is still there — that part is permanent learning, not blessing. But the _fervor_ has cooled. The sense that milking on time matters cosmically has faded. The neighbours' attention is no longer in the farmer's foreground awareness. The conviction has weakened. The farmer still knows how to milk well; he is just less reliably inclined to apply that knowledge with full attention. The +2 or +3 ML reverts to baseline.
 
@@ -302,7 +302,7 @@ If he returns to a service, the fervor renews. The same human mechanisms reactiv
 
 The one-month duration is roughly how long emotional reinforcement lasts before fading without active renewal. Different religions might vary slightly — a particularly vivid or moving tradition might sustain its effects somewhat longer; a perfunctory or distracted one might let them fade faster. The standard is one month, and that is what the GM should use unless there is a specific reason to vary.
 
-## Implications
+### Implications
 
 This mechanism produces a number of consequences worth tracking:
 
@@ -320,11 +320,11 @@ This mechanism produces a number of consequences worth tracking:
 
 **The priest's belief matters.** A priest who genuinely believes in the religion's teachings and lives them out produces stronger blessings than a cynical functionary going through motions. This is because the priest's conviction is part of what produces the adherents' conviction. A priest whose own faith is shaky cannot generate the same depth of moral framing, the same persuasive force, the same sense of weight in the work. Religions therefore have institutional reasons to ensure their clergy are believers — not only to maintain doctrinal stability, but to maintain the actual functional efficacy of the religion's pastoral effect.
 
-# Curses
+## Curses
 
 Curses operate as the inverse of blessings, but with a more complex mechanism that splits across multiple categories. Where blessings are essentially inspirational, curses can be inspirational, magical, or both — and the GM must distinguish among them.
 
-## Inspirational Curses
+### Inspirational Curses
 
 The wronged widow, weeping over her husband's body, declaims a curse on the murderer in the presence of witnesses. The murderer goes home shaken. He believes himself cursed. Over the following weeks, he sleeps poorly, eats poorly, makes worse decisions than he otherwise would. His judgment fails him at critical moments. Misfortunes accumulate. He may become ill. He may have an accident. He may simply find himself increasingly unable to function.
 
@@ -334,7 +334,7 @@ Inspirational curses work without any Aura on the part of the curser. They requi
 
 In game terms, an inspirational curse might apply -2 or -3 ML to skills the target performs, lasting until the target either successfully shrugs off the belief (often through ritual cleansing, which may itself be entirely psychological) or until the social context shifts enough that the target no longer feels cursed.
 
-## Framework Curses
+### Framework Curses
 
 A high-Aura priest, witch, or hedge-mage trained in a curse-framework can perform real magical curses. This is mechanically equivalent to a thaumaturgic blessing in reverse — a long-duration negative enchantment imposed on the target, drawing on the practitioner's Aura and shaped by the framework. The effects are real magic. They do not depend on the target's belief. They cannot be dispelled merely by the target ceasing to believe in them.
 
@@ -342,13 +342,13 @@ Framework curses are more dangerous and more durable than inspirational ones. Th
 
 The Quaesitorium hunts framework-cursing practitioners aggressively. A framework curse is unsanctioned magic with identifiable victims, which is exactly the kind of thing the [[affiliation-ordoarcanis|Ordo's]] enforcement arm exists to suppress. Folk practitioners who work with curses operate at considerable personal risk.
 
-## Mixed Curses
+### Mixed Curses
 
 Most actual curses in Thalorna are mixtures. The cursing practitioner has some Aura, some framework knowledge, and the target has some belief. The total effect is a combination of framework-magic and inspirational damage. Distinguishing the components from inside the situation is essentially impossible. The target experiences a single curse; the practitioner experiences a single working; the community experiences a single afflicted person. Whether the underlying mechanism is purely psychological, purely magical, or both is rarely possible to determine.
 
 This indistinguishability is one reason curses are taken so seriously across all Thalornan cultures. The fact that some curses are "merely" inspirational does not make them less real or less dangerous. The fact that some are real magic makes the whole category a matter of grave concern. A priest, a midwife, a wise-woman, a Quaesitor, or a cunning-folk healer may be called in to help with a cursed person, and any of them may be able to help — through framework counter-magic, through ritual cleansing that addresses the psychological dimension, or through both at once.
 
-# Saints, Prophets, and Mystics {#saints-prophets-and-mystics}
+## Saints, Prophets, and Mystics {#saints-prophets-and-mystics}
 
 Some figures in religious history are described as having abilities far beyond ordinary priests. They produce greater miracles. They see further. They heal more reliably. They command unusual phenomena. They claim direct communion with the divine, see visions, hear voices, fall into ecstatic states. The religion explains them as divinely chosen — saints, prophets, mystics, holy fools.
 
@@ -368,7 +368,7 @@ Under the cosmology of this document, these figures have several possible underl
 
 In any given case in Thalorna's history or contemporary reality, the truth may be one of these or a combination. The GM should know, for any saint or prophet relevant to the campaign, which underlying reality applies. The players' characters may never learn — or may learn slowly, through investigation, contact with the figure, or eventual revelation. The categories are deliberately not mutually exclusive: a real saint may be a high-Aura thaumaturgic priest _and_ divinely attended _and_ prone to framework-induced altered states all at once. Such a figure would be exactly the sort of person their religion canonises.
 
-# Worked Example: Vulcan, the Sacred Forge, and the Black Flame
+## Worked Example: Vulcan, the Sacred Forge, and the Black Flame
 
 The relationships among god, religion, and lived practice are illustrated most clearly by example. Consider Vulcan, the god of fire and forge.
 
@@ -406,7 +406,7 @@ If, alternatively, a religion of Vulcan were to exist whose god _did not actuall
 
 This is the practical reality of religion in Thalorna: it works, regardless of theology, because the mechanisms that make it work are not theological. They are pastoral, magical, and ambient — and all three of those operate by mortal means or by metaphysical principles that do not require gods.
 
-# GM Notes: Running Religion in Thalorna
+## GM Notes: Running Religion in Thalorna
 
 Several practical implications follow from the cosmology described above.
 
@@ -438,7 +438,7 @@ The GM may, of course, have personal moral views, and so may the players. Nothin
 
 **Some questions are deliberately open.** Why don't the gods intervene more directly? Are the gods of Thalorna a fixed set, or can new ones come into being? Can a god die? What is the relationship of the gods to the Spirit world (where mortal souls go after death)? Can a sufficiently powerful mortal soul become a god, or approach godhood? These questions are not answered by this document, because the answers are choices the GM should make as the campaign requires. The cosmology supports multiple answers.
 
-# See Also
+## See Also
 
 - [[lore-magictruth|Magic Truth]] — The underlying metaphysics of magic, Aura, frameworks, and thin places
 - [[lore-divineactn|Divine Action]] — How the gods engage with the world through agents and proxies, the Balance, divine intelligence and non-omniscience, the Heroic Age

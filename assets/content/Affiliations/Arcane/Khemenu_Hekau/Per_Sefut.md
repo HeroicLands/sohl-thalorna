@@ -78,8 +78,6 @@ data:
     kemtnpnthn: aligned
     maatken: aligned
     apophis: nemesis
-sohl:
-  templatePriority: null
 name:
   full: Per-Sefút
   aliases:
@@ -91,7 +89,7 @@ banner: banners/ta-kheperu-banner.webp
 packFolder: khemenuhekau
 ---
 
-# Per-Sefút (House of the Unmaking)
+## Per-Sefút (House of the Unmaking)
 
 The House nobody joins. Per-Sefút is the warded college seated inside the temples of Rā and Thōth
 that holds the treatises on the chaos god, and its members are seconded to it from the other
@@ -105,7 +103,7 @@ eight into which the [[lore-khemenuhekau|Khemenu Hekau]] partitions the Dýnaris
 the cosmic order rather than by substance, which is why no portion of it corresponds to any single
 Eídma of the western [[lore-hexhodai|Héx Hodäi]].
 
-## See Also
+### See Also
 
 - [[lore-khemenuhekau|Khemenu Hekau]] — the philosophy and the other seven domains
 - [[place-khemenu|Khemenu]] — where the Eight are taught

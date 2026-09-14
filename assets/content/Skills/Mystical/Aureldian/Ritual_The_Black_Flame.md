@@ -11,8 +11,9 @@ name:
   aliases:
     - The Black Flame
     - Vúlcani Heresy
-sohl:
+data:
   templatePriority: null
+sohl:
   system:
     skillBaseFormula: "@wil, @rea"
     masteryLevelBase: 0

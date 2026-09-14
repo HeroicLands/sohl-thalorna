@@ -10,6 +10,4 @@ shortcode: tzuqilixbaldty
 packFolder: deitiesitzani
 ---
 
-# Tz'uqil Ix'bal
-
 TBD

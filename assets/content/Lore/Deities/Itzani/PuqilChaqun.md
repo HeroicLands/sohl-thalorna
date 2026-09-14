@@ -10,6 +10,4 @@ shortcode: puqilchaqundty
 packFolder: deitiesitzani
 ---
 
-# P'uqil Ch'aqun
-
 TBD

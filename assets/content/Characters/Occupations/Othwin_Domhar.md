@@ -41,7 +41,6 @@ data:
     complexion: weathered
     extra_features: []
 sohl:
-  templatePriority: null
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 14 } }
     - { model: sohl-sohl-attribute-end, system: { scoreBase: 15 } }
@@ -551,11 +550,11 @@ sohl:
     defaultCombatGroup: null
 ---
 
-# Appearance {#appearance}
+## Appearance {#appearance}
 
 Óthwin Dómhár is a 52-year-old man who stands 6'0" tall and is broad and solidly built. He has a diamond face with sharp cheekbones, a wide forehead, and a strong jaw that leads to a square chin. His almond-shaped hazel eyes sit beneath furrowed brows, lending him a measured gaze. A broad nose and full lips complete his features. He has light skin with a weathered complexion. His gray hair is thick and unkempt. A notable feature is deep lines etched into a weathered brow.
 
-# Dossier {#dossier}
+## Dossier {#dossier}
 
 Born in the Vrystwald region to a freeman family of Varokhi heritage, Óthwin Dómhár came into the world of the trapper through a combination of circumstance and aptitude.
 
@@ -563,37 +562,37 @@ Harlan has lived in the woods his entire life, learning to trap animals for food
 
 Now at 52 years of age, Óthwin Dómhár has established himself as a known figure among the trappers of Vrystwald. His reputation, for better or worse, precedes him in the circles where such things matter.
 
-## Psyche
+### Psyche
 
-### Personality
+#### Personality
 
 Gruff and unapproachable, reluctant to trust others.
 
-### Motivation
+#### Motivation
 
 Óthwin is driven by the desire to master his craft and secure a stable future. The uncertainties of life in trapper work keep him vigilant and adaptable.
 
-### Strengths
+#### Strengths
 
 Expert tracker, highly experienced in trapping, resilient and tough.
 
-## Social
+### Social
 
 Óthwin is affiliated with None; works as a lone trapper..
 
 As a Varokhi trapper, Óthwin occupies a recognized social niche within Vrystwald society.
 
-## Companions
+### Companions
 
-### Patrons
+#### Patrons
 
 Óthwin's primary patron is Farmers and woodsmen who need dangerous predators removed.. This relationship provides both opportunity and obligation.
 
-### Enemies
+#### Enemies
 
 Local officials who disapprove of his disregard for hunting regulations.
 
-## Plot Hooks
+### Plot Hooks
 
 1. **The Trapper's Dilemma** — Óthwin faces a professional crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Vrystwald.
 

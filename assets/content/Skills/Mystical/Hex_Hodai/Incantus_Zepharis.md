@@ -8,8 +8,9 @@ img: images/affiliation/hex-hodai/zepharis.webp
 name:
   full: Incantus Zephäris
   aliases: []
-sohl:
+data:
   templatePriority: null
+sohl:
   system:
     skillBaseFormula: "@aur, @rea"
     masteryLevelBase: 0

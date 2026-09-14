@@ -8,8 +8,6 @@ shortcode: ttjkvngyrt
 packFolder: threats
 ---
 
-# Tëitjëk Vëngyürt
-
 **"Iron Spear Piercing the Clouds"**
 
 Tëitjëk Vëngyürt was once a highly respected general within the [[lore-vushok|Vüshōk]] caste. His defiance of a direct imperial order during a critical campaign, though resulting in victory, was viewed as grave insubordination. For this, he was stripped of his rank and exiled.

@@ -11,8 +11,6 @@ img: icons/takheperu/pantheon/maat.svg
 packFolder: deitieskemetian
 ---
 
-# Má'át
-
 _Keeper of Truth and Harmony — a feather atop a golden scale._
 
 Má'át is the great balancing force of the cosmos, and she is **not a goddess of compassion or

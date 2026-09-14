@@ -10,8 +10,6 @@ shortcode: priestrnk
 description: "Ordained to the rites and empowered to perform them in the tradition's name."
 ---
 
-# Priest
-
 Ordained to the rites and empowered to perform them in the tradition's name.
 
 ## Obligations and Rights

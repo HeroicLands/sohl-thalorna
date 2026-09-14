@@ -42,7 +42,6 @@ data:
     extra_features:
       - crooked nose
 sohl:
-  templatePriority: null
   items:
     - { model: sohl-sohl-attribute-agl, system: { scoreBase: 11 } }
     - { model: sohl-sohl-attribute-aur, system: { scoreBase: 11 } }
@@ -529,11 +528,11 @@ sohl:
     defaultCombatGroup: null
 ---
 
-# Appearance {#appearance}
+## Appearance {#appearance}
 
 Sigríthr stands 5'3" with a lean, weathered frame that has been carved down to sinew and stubborn endurance by forty years of northern living. Her gray hair, once dark, is pulled back in a severe braid that hangs between her shoulder blades. Her golden-toned skin is lined and wind-burned, and her honey-brown eyes sit beneath heavy brows in a face that has long since stopped caring about softness. Her nose is crooked — broken at least twice and never set properly — and she bears a thin white scar along her left jawline from a knife fight she does not discuss. She wears a mail shirt over a quilted tunic, both well-maintained but visibly old, and carries a hand axe on her belt with the easy familiarity of a woman who has used it for purposes beyond chopping wood.
 
-# Dossier {#dossier}
+## Dossier {#dossier}
 
 Sigríthr Hafringr was born to a shield-maiden lineage in Nordheim's frozen northern coast. Her mother, **Álfa Stormborn**, was legendary along the Greyfjord: a warrior who commanded a crew of twenty raiders and died defending her hold against an Ibeerian incursion when Sigríthr was barely four winters old. Sigríthr has no memory of her mother, only the stories—how Álfa stood alone in a mountain pass, holding back thirty soldiers until the rest of her crew escaped. Those stories became a weight.
 
@@ -543,35 +542,35 @@ Fortress commander **Jarl Rothgar Hrondinsson** laughed at her—a girl, barely 
 
 Now at forty years old, she is graying, scarred, and the only woman in Greyfjord fortress command who has never been forced into a marriage-alliance. She has become indispensable to Jarl Rothgar as his personal guard and occasional scout. The work is steady if brutal.
 
-## Psyche
+### Psyche
 
-### Personality
+#### Personality
 
 Sigríthr speaks rarely and never wastes words. She observes people the way a hunter observes prey—noting habits, weaknesses, patterns. This makes her appear cold, but those who have worked closely with her recognize a grim compassion. She is disgusted by casual cruelty and will walk away from commissions involving the abuse of the helpless. She respects only two things in humans: competence and genuine honor. Everything else is noise.
 
-### Motivation
+#### Motivation
 
 Sigríthr has spent forty years trying to prove that her mother's sacrifice meant something—that women in Nordheim do not have to accept the roles men assign them. She has no love for fame and actively dislikes being known. Her primary motivation is quiet: to die on her feet as her mother did, not in a bed surrounded by people she never cared for. Secondary to that is a burning need to mentor younger women into the warrior's path, to ensure that her mother's legacy becomes a tradition rather than an anomaly.
 
-### Strengths
+#### Strengths
 
 Her combat skill is exceptional—spear work with a fluidity that suggests decades of meditation alongside training. She reads people's intentions from their body language alone. She is immune to fear-tactics and intimidation, having already accepted her own likely death a thousand times.
 
-## Social
+### Social
 
 Sigríthr occupies a liminal space in Nordheim society: respected by warriors, distrusted by merchants, pitied by the nobility who do not understand her choice to refuse elevation. She has no family beyond the fortress and no intention of starting one.
 
-## Companions
+### Companions
 
-### Patrons
+#### Patrons
 
 **Jarl Rothgar Hrondinsson** — The Greyfjord fortress commander. Rothgar is in his sixties and increasingly aware that his time is ending. He has come to rely on Sigríthr absolutely—she is the only person in his court he trusts completely. In his will, he has made arrangements for her to receive a small pension and permanent fortress residence, though he cannot guarantee his successor will honor it.
 
-### Enemies
+#### Enemies
 
 **Merchant-Lord Karvik Stormwind** — A coastal merchant prince who wanted to hire Sigríthr's services for a private war against a rival merchant. When she refused (the rival was protecting a village from his exploitation), Karvik circulated rumors that she was aging out of genuine combat ability and was taking refuge in the fortress as charity. The rumor is untrue and infuriates her, but he is powerful enough that she cannot safely kill him.
 
-## Plot Hooks
+### Plot Hooks
 
 1. **The Succession Crisis** — Jarl Rothgar dies. His chosen heir is a pragmatist who sees the old warrior traditions as expensive sentimentality. Sigríthr learns that her fortress pension will be terminated and her position eliminated. Worse, the new Jarl intends to offer the fortress as a mercenary stronghold to foreign employers—specifically, Vylarian imperial agents seeking to establish a presence in Nordheim. Sigríthr must choose between watching Greyfjord become a foreign military base or attempting to rally the traditional warrior families to prevent the succession.
 

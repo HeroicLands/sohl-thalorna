@@ -9,8 +9,9 @@ name:
   full: "Hekau: Imnetáu"
   aliases:
     - Per-Imnetáu
-sohl:
+data:
   templatePriority: null
+sohl:
   system:
     skillBaseFormula: "@aur, @rea"
     masteryLevelBase: 0

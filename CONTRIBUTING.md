@@ -30,11 +30,11 @@ request.
    e.g. `feat/12_hegovyn-bestiary`, `bug/19_dead-region-wikilink`. Issue-free
    housekeeping is `chore/<slug>`.
 
-   **Git refuses a commit on `main`.** Hooks in `.githooks/` — `pre-commit`
-   and `pre-merge-commit` — decline it, so the mistake surfaces before the
-   commit exists rather than at push time. `npm install` activates them. To
-   commit on `main` anyway, `git commit --no-verify`; to opt this checkout out
-   entirely, `git config hooks.allowCommitOnMain true`.
+   **Git refuses a commit on `main`.** The `pre-commit` and `pre-merge-commit`
+   hooks from the `@heroiclands/package-build` toolchain decline it, so the
+   mistake surfaces before the commit exists rather than at push time. `npm ci`
+   installs them. To commit on `main` anyway, `git commit --no-verify`; to opt
+   this checkout out entirely, `git config hooks.allowCommitOnMain true`.
 
 3. **Make the change**, keeping it small and focused — one feature, one fix, or one
    documentation improvement per pull request.
