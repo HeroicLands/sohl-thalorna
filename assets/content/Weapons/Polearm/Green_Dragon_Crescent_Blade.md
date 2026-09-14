@@ -7,10 +7,11 @@ description: "Curved polearm blade for slashing across multiple foes."
 img: systems/sohl/assets/icons/noun/polearm.svg
 shortcode: gundao
 type: weapongear
+data:
+  templatePriority: null
 sohl:
   kbcat: polearm
   weaponType: Polearm
-  templatePriority: null
   system:
     weightBase: 10
     valueBase: 300

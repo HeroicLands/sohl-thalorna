@@ -11,8 +11,9 @@ name:
     - Jñānasūra
     - Jnanasura
     - The Radiant Sage
-sohl:
+data:
   templatePriority: null
+sohl:
   system:
     skillBaseFormula: "@wil, @rea"
     masteryLevelBase: 0

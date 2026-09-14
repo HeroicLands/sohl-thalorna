@@ -122,8 +122,6 @@ data:
     - itzanpnthn
   relations:
     itzanpnthn: aligned
-sohl:
-  templatePriority: null
 ---
 
 **Domain:** Storms, Chaos, Rain, Destruction, and Cosmic Dissolution

@@ -19,8 +19,6 @@ shortcode: mazeofechos
 packFolder: provenzia
 ---
 
-# Maze of Echoes
-
 A maze encountered within [[lore-aralwen|Úqua-Arálwen]], where sound does not behave as it should — the
 obstacle that stands between a party and the [[miscgear-heartofdhirikri|Heart of Dhiríkri]].
 

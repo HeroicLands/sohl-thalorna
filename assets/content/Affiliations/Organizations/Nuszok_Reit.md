@@ -59,12 +59,8 @@ data:
   relations:
     yokveng: aligned
     tngvkvnlei: nemesis
-sohl:
-  templatePriority: null
 packFolder: organizations
 ---
-
-# Nüszōk Rëit
 
 - **Type:** Nihilistic apocalyptic cult
 - **Region:** [[affiliation-tanvurempr|Empire of Tānvür]]

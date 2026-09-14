@@ -14,8 +14,6 @@ shortcode: longnhrtnc
 packFolder: settinglore
 ---
 
-# The Long Inheritance
-
 Both Elder Races came to Thalorna and found humanity already here, living in scattered hunter-gatherer bands, and both decided — separately, and for reasons neither has ever fully explained to a human — to leave humanity to its own becoming. That policy is real. It was sincerely held, it has been maintained for fifty centuries, and both peoples believe to this day that they kept it.
 
 They also uplifted us. The two statements are not in conflict, because non-interference is a description of intent and uplift is a description of outcome, and five thousand years of proximity settles the matter without anyone's permission. Humanity did not become what it is on its own. Neither was it taught. What happened lies between those, and has no clean name; the scholars who admit it at all call it the Long Inheritance.

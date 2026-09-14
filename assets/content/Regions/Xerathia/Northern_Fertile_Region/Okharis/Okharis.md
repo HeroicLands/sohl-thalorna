@@ -101,8 +101,6 @@ data:
   relations:
     nkaruthar: aligned
     empirtkhpr: unaligned
-sohl:
-  templatePriority: null
 terran_analog: "Niger + Mali + Chad (the Sahel — pastoral savanna with temple-city trading centers)"
 packFolder: okharis
 ---

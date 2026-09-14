@@ -14,8 +14,6 @@ shortcode: leopardsengalaspr
 packFolder: lorespiritsnyaluba
 ---
 
-# Leopard Spirit
-
 The totemic being venerated by the [[affiliation-nylbtrblntn|Sengala]]. For the cult, its
 offices and its observances, see [[affiliation-nyalbleop|Leopard Totem]]; for the kinds of guide
 and the three postures, see [[lore-nyalbsprts|Nyáluba Spirits]].

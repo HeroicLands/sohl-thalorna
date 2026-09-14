@@ -14,8 +14,6 @@ shortcode: lionmvuzispr
 packFolder: lorespiritsnyaluba
 ---
 
-# Lion Spirit
-
 The totemic being venerated by the [[affiliation-nylbtrblntn|Mvuzi]]. For the cult, its
 offices and its observances, see [[affiliation-nyalblion|Lion Totem]]; for the kinds of guide
 and the three postures, see [[lore-nyalbsprts|Nyáluba Spirits]].

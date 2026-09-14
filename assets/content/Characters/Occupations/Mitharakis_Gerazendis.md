@@ -41,7 +41,6 @@ data:
     complexion: weathered
     extra_features: []
 sohl:
-  templatePriority: null
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 12 } }
     - { model: sohl-sohl-attribute-end, system: { scoreBase: 14 } }
@@ -552,11 +551,11 @@ sohl:
     defaultCombatGroup: null
 ---
 
-# Appearance {#appearance}
+## Appearance {#appearance}
 
 Mitharâkîs Gêrazêndis is a 50-year-old man who stands 6'0" tall and is of moderate build. He has a diamond face with angular cheekbones, a high forehead, and a sharp jaw that leads to a strong chin. His almond-shaped green eyes sit beneath heavy brows, lending him a measured gaze. A prominent nose and narrow lips complete his features. He has light skin with a weathered complexion. His gray hair is short and swept back.
 
-# Dossier {#dossier}
+## Dossier {#dossier}
 
 Born in the Vylaría region to a freeman family of Vylarian heritage, Mitharâkîs Gêrazêndis came into the world of the jester through a combination of circumstance and aptitude.
 
@@ -564,37 +563,37 @@ Finn has spent decades as a jester, earning a reputation for his infectious laug
 
 Now at 50 years of age, Mitharâkîs Gêrazêndis has established himself as a known figure among the jesters of Vylaria. His reputation, for better or worse, precedes him in the circles where such things matter.
 
-## Psyche
+### Psyche
 
-### Personality
+#### Personality
 
 Can be cynical, sometimes struggles with feeling relevant.
 
-### Motivation
+#### Motivation
 
 Mitharâkîs is driven by the desire to master his craft and secure a stable future. The uncertainties of life in jester work keep him vigilant and adaptable.
 
-### Strengths
+#### Strengths
 
 Experienced performer, great storyteller, knowledgeable about court politics.
 
-## Social
+### Social
 
 Mitharâkîs is affiliated with None; works independently..
 
 As a Vylarian jester, Mitharâkîs occupies a recognized social niche within Vylaria society.
 
-## Companions
+### Companions
 
-### Patrons
+#### Patrons
 
 Mitharâkîs's primary patron is Nobility and common folk alike.. This relationship provides both opportunity and obligation.
 
-### Enemies
+#### Enemies
 
 Few; generally well-liked but sometimes dismissed by the younger jesters.
 
-## Plot Hooks
+### Plot Hooks
 
 1. **The Jester's Dilemma** — Mitharâkîs faces a professional crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Vylaria.
 

@@ -18,8 +18,6 @@ shortcode: brunvik
 packFolder: malagna
 ---
 
-# Brúnvík
-
 ## Overview
 
 _To be written._

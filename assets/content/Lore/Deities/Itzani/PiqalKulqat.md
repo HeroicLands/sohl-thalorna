@@ -10,6 +10,4 @@ shortcode: piqalkulqatdty
 packFolder: deitiesitzani
 ---
 
-# P'iqal Kul'qat
-
 TBD

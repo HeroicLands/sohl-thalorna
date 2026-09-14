@@ -40,7 +40,6 @@ data:
     extra_features:
       - a tattoo of a crescent moon on the neck
 sohl:
-  templatePriority: null
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 9 } }
     - { model: sohl-sohl-attribute-end, system: { scoreBase: 11 } }
@@ -603,11 +602,11 @@ sohl:
     defaultCombatGroup: null
 ---
 
-# Appearance {#appearance}
+## Appearance {#appearance}
 
 Damáklios stands 5'6" tall with a medium build. He has light tanned skin, graying brown hair, and hazel eyes. His features include an angular face, a hawkish nose, a pronounced chin, slightly pursed lips, graying brows. A distinguishing mark is a tattoo of a crescent moon on the neck.
 
-# Dossier {#dossier}
+## Dossier {#dossier}
 
 Damáklios Sampsiôn was born in the Byzarian League to a family of skilled artisans—his father a mapmaker of modest renown, his mother a weaver of exceptional ability. He showed early talent for drawing and composition, and by his teens, he had begun apprenticing formally with the **Cartographers' Guild**. His training under the legendary **Master Cartographer Vésalon** was rigorous and exacting; Vésalon demanded precision to the point of obsession, absolute fidelity to source material, and the integration of artistic sensibility with mathematical accuracy. By his twenties, Damáklios had become a skilled cartographer, creating maps commissioned by merchant houses, the League's administrative bodies, and wealthy collectors.
 
@@ -615,9 +614,9 @@ Yet as his capabilities increased, so did his appetite. He began to recognize th
 
 Over the past decade, however, the machinery of his justification has begun to crack. The Byzarian League's city guard suspects him of espionage and possible treason. His relationship with the Cartographers' Guild has become strained. Rival cartographers have begun openly questioning his integrity. He has made powerful enemies among the criminal syndicates by occasionally providing information to authorities in attempts to mitigate his own culpability, while simultaneously becoming more dependent on criminal patronage as his legitimate commissions have dried up.
 
-## Psyche
+### Psyche
 
-### Personality
+#### Personality
 
 Damáklios is fundamentally a man caught between conflicting aspects of self. He is a genuine artist and scholar, capable of losing himself entirely in the pursuit of perfect representation of the world; when engaged in pure cartographic work, he experiences states of profound focus and satisfaction. Yet this same man is capable of justifying profound moral compromise, of selling information that results in deaths and exploitation, all while maintaining a narrative in which he is merely an objective observer recording facts rather than an active participant in harm.
 
@@ -625,11 +624,11 @@ He is socially withdrawn and uncomfortable in most situations, preferring the co
 
 He is haunted by guilt he does not wish to acknowledge—he drinks more than he admits, experiences nightmares about the places his maps have led to destruction, and occasionally engages in bursts of self-harm disguised as philosophical contemplation. Yet he rationalizes continuously, telling himself that his choices are pragmatic, necessary, and ultimately the fault of those who employ the maps rather than of himself as their creator.
 
-### Motivation
+#### Motivation
 
 Damáklios is driven by a complex tangle of motivations. Primarily, he seeks to accumulate sufficient wealth to retire from his current life, to purchase a property in a remote location far from the Byzarian League, and to spend his remaining years engaged in pure cartographic work focused on mapping regions of the world poorly understood—work with no apparent commercial or military application. This dream of escape and redemption through isolation keeps him engaged in darker work even as it repels him morally. Secondarily, he harbors a petty desire for recognition and respect within the Cartographers' Guild, a status that seems increasingly impossible as his espionage becomes more widely suspected. Finally, beneath these surface motivations, he seeks to prove that his understanding of the world—expressed through maps—is superior to that of politicians, generals, and philosophers; he wishes for his work to be recognized as the truest representation of reality.
 
-### Strengths
+#### Strengths
 
 - **Cartographic Mastery**: Damáklios is among the finest cartographers in the known world. His maps combine extraordinary technical precision with aesthetic beauty; they are accurate to a degree that borders on the supernatural, capturing not merely geography but the subtle relationships between terrain, culture, and resource.
 - **Drawing and Artistic Skill**: His dexterity and creativity make him exceptionally skilled at all forms of visual representation. He can capture the essential character of a place or a person through drawing, communicating information through image that would require extensive text.
@@ -637,7 +636,7 @@ Damáklios is driven by a complex tangle of motivations. Primarily, he seeks to 
 - **Mathematical Reasoning**: His mathematics and reasoning skills allow him to understand spatial relationships, calculate distances and scales, and identify patterns in geographical or political data.
 - **Survival and Practical Knowledge**: He possesses greater practical knowledge than expected for a cartographer, including understanding of navigation, wilderness travel, and the ability to interpret landscapes intuitively.
 
-### Weaknesses
+#### Weaknesses
 
 - **Moral Compromise and Self-Deception**: His ability to rationalize away the consequences of his espionage work has become a profound vulnerability. His self-deception is so complete that he cannot accurately assess the danger he is in or the actual moral weight of his choices.
 - **Physical Fragility**: He is not physically strong or particularly athletic. His endurance is moderate, and extended physical exertion exhausts him. In any physical confrontation, he would be at severe disadvantage and dependent on others for protection.
@@ -645,27 +644,27 @@ Damáklios is driven by a complex tangle of motivations. Primarily, he seeks to 
 - **Alcoholism and Psychological Deterioration**: He drinks heavily to manage the anxiety and guilt he will not openly acknowledge. His cognitive function is increasingly compromised by alcohol consumption, though he believes himself still clear-thinking.
 - **Notoriety and Legal Vulnerability**: The Byzarian League's authorities suspect him of espionage, and his name appears in investigations. Should evidence of his intelligence-selling become conclusive, he faces execution for treason.
 
-## Social
+### Social
 
-### Patrons
+#### Patrons
 
 - **Military Intelligence Operatives of the Byzarian League**: Paradoxically, the League's military establishment remains his primary legitimate patron, even as they suspect him of selling maps to their enemies. The contradiction remains unresolved because Damáklios's maps are so exceptionally valuable that the military continues to commission them while simultaneously investigating him.
 - **Merchant-Lord **Davos the Uncouth\*\*: A wealthy merchant with significant smuggling interests throughout the coastal territories. Davos commissions maps identifying hidden coves, unpatrolled routes, and secure locations for illicit goods storage. Davos is also one of Damáklios's few social contacts and occasional drinking companions.
 - **Unknown Foreign Power**: Damáklios has been receiving increasingly lucrative commissions from intermediaries operating on behalf of a foreign power (possibly the Kingdom of Tarvénia or a distant northern confederation). He does not know the true identity of these patrons, which both attracts him (plausible deniability) and terrifies him.
 
-### Enemies
+#### Enemies
 
 - **The Byzarian League's City Guard (Official)**: Suspicion of espionage has created an official enmity. Damáklios is being watched, and they have commissioned rival **Cartographer Méchon** to produce competing maps to verify whether Damáklios's accuracy is exceptional or potentially involves access to classified information.
 - **Rival Cartographer Méchon**: A talented but jealous competitor who suspects Damáklios of receiving commissions through underhanded means. Méchon has been cultivating relationships with city guard officials and spreading insinuations about Damáklios's integrity.
 - **The Theft Syndicate of the Eastern Docks**: A criminal organization whose operations were severely disrupted when Damáklios, attempting to reduce his own complicity in harm, provided information to the city guard about their hidden supply caches (which he had previously mapped for them at high cost). They now view him as a traitor and have marked him for death.
 
-### Affiliations
+#### Affiliations
 
 - **Cartographers' Guild of the Byzarian League**: His official professional affiliation, though increasingly tenuous. The guild knows of suspicions against him but maintains his membership pending formal charges.
 - **Flórania's Mystery Cults**: His crescent moon tattoo marks him as formally initiated into one of the fertility mystery cults. The cult provides some spiritual comfort and occult understanding, though his involvement has become more distant over the years.
 - **The Black Ledger (Underground Cartography Network)**: An informal network of cartographers willing to map forbidden territories and create specialized maps for illegal purposes. Membership is by reputation; Damáklios maintains contact with this network as insurance and alternative income source.
 
-## Plot Hooks
+### Plot Hooks
 
 1. **The Compromised Archives**: The Byzarian League's Cartographic Archive—the repository of the League's most valuable and sensitive maps, some dating back centuries—is discovered to have been compromised. Several maps have been stolen; others have been copied. The city guard's investigation leads inevitably to Damáklios, who had access to the archive as a commissioned artist tasked with creating updated versions of classical maps. He is arrested and brought in for interrogation, even though the actual theft was orchestrated by agents of a foreign power. Damáklios must either confess to espionage work that he theoretically did not commit, thereby becoming scapegoat for a crime beyond his involvement, or maintain innocence while evidence circumstantially connects him to the theft. His actual espionage work—selling maps to foreign powers—remains undiscovered but vulnerable to exposure during investigation.
 

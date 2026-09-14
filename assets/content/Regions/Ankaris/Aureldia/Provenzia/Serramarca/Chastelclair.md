@@ -20,8 +20,6 @@ shortcode: chastelclr
 packFolder: provenzia
 ---
 
-# Chastèlclair
-
 **Chastèlclair** — the bright castle — commands the road below the Tarvénian passes, and is the
 military seat of Sèrramarca, Provènzia's eastern march, **Sèrramarca**.
 

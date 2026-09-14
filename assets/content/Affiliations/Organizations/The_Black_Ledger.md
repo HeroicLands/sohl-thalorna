@@ -100,11 +100,7 @@ data:
   lore: []
   parents: []
   relations: {}
-sohl:
-  templatePriority: null
 ---
-
-# The Black Ledger
 
 - **Type:** Underground professional network
 - **Region:** [[place-byzariargn|Byzaría]] principally, with active members in every League city and known correspondents in Provènzia, Heliónis, and Vylaria

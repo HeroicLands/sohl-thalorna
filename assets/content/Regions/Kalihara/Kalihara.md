@@ -102,8 +102,6 @@ data:
   parents: []
   relations:
     tharivaan: aligned
-sohl:
-  templatePriority: null
 packFolder: kalihara
 ---
 

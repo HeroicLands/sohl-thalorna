@@ -11,8 +11,9 @@ name:
   full: "Mama wa Mito Spirit Power"
   aliases:
     - The Mother of Rivers
-sohl:
+data:
   templatePriority: null
+sohl:
   system:
     skillBaseFormula: "@aur, @wil"
     masteryLevelBase: 0

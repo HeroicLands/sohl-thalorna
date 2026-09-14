@@ -18,8 +18,6 @@ shortcode: velysara
 packFolder: vylaria
 ---
 
-# Velysâra
-
 ## Overview
 
 Velysâra stands as one of the secondary cities of the Province of Alyssa, its white columned buildings and paved forums echoing the architectural grandeur of the empire's golden age. Once a thriving center of provincial administration and commerce, the city has begun to feel the subtle decline that grips Vylaria itself—the marble facades, though still impressive, show signs of weathering and repair rather than renewal. The forums remain centers of civic life, but the crowds that once thronged them have thinned, and the voices of merchants and civic orators carry a note of nostalgia mixed with anxiety about an uncertain future.

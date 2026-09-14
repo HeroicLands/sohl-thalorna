@@ -122,8 +122,6 @@ data:
     - itzanpnthn
   relations:
     itzanpnthn: aligned
-sohl:
-  templatePriority: null
 ---
 
 **Domain:** Prosperity, Agriculture, Abundance, Sustenance

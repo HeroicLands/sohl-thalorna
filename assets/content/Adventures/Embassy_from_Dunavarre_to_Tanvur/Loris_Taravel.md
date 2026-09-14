@@ -22,11 +22,7 @@ data:
     - kingdmdnvr
   gender: male
   species: null
-sohl:
-  templatePriority: null
 ---
-
-# Loris Taravel
 
 **Role.** Handles negotiations and translates documents.
 

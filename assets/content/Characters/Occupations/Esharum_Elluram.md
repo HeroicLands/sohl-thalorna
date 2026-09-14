@@ -42,7 +42,6 @@ data:
     extra_features:
       - a tattoo of a waterfall on the shoulder
 sohl:
-  templatePriority: null
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 10 } }
     - { model: sohl-sohl-attribute-end, system: { scoreBase: 12 } }
@@ -551,11 +550,11 @@ sohl:
     defaultCombatGroup: null
 ---
 
-# Appearance {#appearance}
+## Appearance {#appearance}
 
 Eshârum Ellûram is a 29-year-old man who stands 5'7" tall and is lean and wiry. He has a long face with angular cheekbones, a wide forehead, and an angular jaw that leads to a pointed chin. His piercing brown eyes sit beneath arched brows, lending him a penetrating gaze. A straight nose and thin lips complete his features. He has warm-toned skin with an olive-toned complexion. His black hair is kept practical and short.
 
-# Dossier {#dossier}
+## Dossier {#dossier}
 
 Born in the Harad region to a freeman family of Haradian heritage, Eshârum Ellûram came into the world of the domestic servant through a combination of circumstance and aptitude.
 
@@ -563,37 +562,37 @@ Edwin works as a footman in a city manor, attending to the needs of his employer
 
 Now at 29 years of age, Eshârum Ellûram has established himself as a known figure among the domestic servants of Harad. His reputation, for better or worse, precedes him in the circles where such things matter.
 
-## Psyche
+### Psyche
 
-### Personality
+#### Personality
 
 Has trouble asserting himself, sometimes taken advantage of by other servants.
 
-### Motivation
+#### Motivation
 
 Eshârum is driven by the desire to master his craft and secure a stable future. The uncertainties of life in domestic servant work keep him vigilant and adaptable.
 
-### Strengths
+#### Strengths
 
 Polite and attentive, skilled in social etiquette.
 
-## Social
+### Social
 
 Eshârum is affiliated with None; keeps to himself..
 
 As a Haradian domestic servant, Eshârum occupies a recognized social niche within Harad society.
 
-## Companions
+### Companions
 
-### Patrons
+#### Patrons
 
 Eshârum's primary patron is His employer, who appreciates Edwin's loyalty and good service.. This relationship provides both opportunity and obligation.
 
-### Enemies
+#### Enemies
 
 None; generally well-liked, though some higher-ranking servants look down on him.
 
-## Plot Hooks
+### Plot Hooks
 
 1. **The Domestic Servant's Dilemma** — Eshârum faces a professional crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Harad.
 

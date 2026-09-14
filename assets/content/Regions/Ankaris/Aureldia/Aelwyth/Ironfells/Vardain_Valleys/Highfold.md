@@ -19,8 +19,6 @@ shortcode: highfold
 packFolder: aelwyth
 ---
 
-# Highfold
-
 **Highfold** is the highest grazing, a scatter of stone steadings around a village of three hundred and
 ninety, on the tops where nothing but grass will grow.
 

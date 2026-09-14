@@ -33,7 +33,6 @@ data:
     extra_features: []
 sohl:
   kbcat: mythic
-  templatePriority: 0
   attrRollFormula:
     str: 1d6+33
     end: 1d6+24
@@ -474,7 +473,7 @@ sohl:
         disabled: false
 ---
 
-# Appearance {#appearance}
+## Appearance {#appearance}
 
 You round the outcropping of rust-colored stone and freeze. The heat hits you first—a visible shimmer rising from the canyon floor, so intense it makes your eyes water. Then you smell it: sulfur and something older, something primal. Your skin prickles with warning.
 
@@ -486,7 +485,7 @@ The creature's movements are sharp, almost twitchy—the energy of adolescence b
 
 The dragon's head snaps toward a distant sound—a rockslide perhaps, or a frightened animal. It launches from the ledge with a roar that scorches the air, and you understand, with sickening clarity, that there are moments when the world remakes itself around the existence of something this primal.
 
-# Dossier {#dossier}
+## Dossier {#dossier}
 
 The Young Fire Dragon represents the dragon at its most volatile and aggressive stage of development. Roughly a century old, it has only recently claimed territory and begun building its hoard. Lacking the sophisticated cruelty of an ancient wyrm, the young dragon kills with straightforward ferocity and territorial rage. It has survived the vulnerable years when larger predators hunted it, and now it hungers to establish itself as an apex threat.
 
@@ -494,7 +493,7 @@ Young fire dragons are known for their impetuous nature. They attack without str
 
 These dragons typically inhabit volcanic highlands, volcanic canyons, and mountain regions with extensive cave systems. They are more likely to be sighted than older dragons, partly because they hunt more actively and range further from their lairs. Merchants, adventurers, and settlements in mountain valleys must contend with periodic sightings and attacks.
 
-## Presentation
+### Presentation
 
 A young fire dragon is sleek and muscular, built for speed as much as raw power. Its scales form an overlapping pattern of crimson, copper, and burnished gold, with undertones of burned orange that deepen near the spine. The scales themselves are warm to the touch, radiating heat even at rest. Its eyes are molten amber, tracking motion with predatory focus.
 
@@ -502,7 +501,7 @@ The creature stands roughly 16 feet from nose to rump, with a wingspan extending
 
 Heat shimmers constantly around the young dragon. Its breath steams visibly even in warm weather. Where it walks, the ground darkens from heat stress. Its presence is announced by temperature gradients—the air grows progressively hotter as one approaches.
 
-## Key Behaviors
+### Key Behaviors
 
 **Territorial Aggression:** The young dragon will attack anything it perceives as a threat to its territory or hoard. It does not negotiate or parley; it has not yet learned that words can be more useful than fire.
 
@@ -514,7 +513,7 @@ Heat shimmers constantly around the young dragon. Its breath steams visibly even
 
 **Response to Perceived Disrespect:** Any challenge or act of defiance triggers immediate, explosive retaliation. Diplomacy is nearly impossible once offense has been taken.
 
-## Combat Strategy
+### Combat Strategy
 
 The young dragon relies on speed and aggression rather than tactics. Its strategy in battle is straightforward: close to melee range, burn everything, and pursue fleeing enemies. It favors high-altitude combat when possible, using the advantage of flight to strafe enemies while remaining out of reach.
 
@@ -522,43 +521,43 @@ When cornered or facing a numerically superior foe, the young dragon will unleas
 
 The dragon will attempt to isolate individual foes and destroy them one at a time rather than spread its attention across a large group. It has minimal respect for human tactics and armor, believing its own hide to be invulnerable—a belief reinforced by its recent victories against lesser predators.
 
-## Attack Methods
+### Attack Methods
 
-### Bite
+#### Bite
 
 A young dragon's bite can sever limbs. The creature attacks with its full body weight behind the strike, often using a bite to grab and pin prey before clawing or burning them. Damage is catastrophic to any target unable to withstand the force.
 
-### Claw Rake
+#### Claw Rake
 
 The dragon rakes with both front claws in a blurring combination, capable of shredding armor and flesh alike. This attack is favored as a finishing move on pinned opponents or a follow-up to successful bite attacks.
 
-### Tail Sweep
+#### Tail Sweep
 
 The dragon whips its tail in a wide arc, using the appendage as both a weapon and an area-denial tool. This attack can knock smaller creatures prone or off balance, creating opening for other attacks.
 
-### Fire Breath
+#### Fire Breath
 
 The dragon exhales a 15-foot cone of roiling flame. The fire ignites combustibles instantly and causes severe thermal damage to all caught in its path. The young dragon can use this ability multiple times before fatiguing, though each use drains its reserves.
 
-## Special Abilities
+### Special Abilities
 
-### Fire Breath
+#### Fire Breath
 
 The young dragon can exhale a 15-foot cone of intense flame as an action. Creatures caught in the area of effect suffer severe thermal damage. The dragon can use this ability three times before requiring rest, though it may push itself to use it more frequently at the cost of temporary exhaustion.
 
-### Flight
+#### Flight
 
 With a wingspan of nearly 24 feet, the young dragon is a powerful flier capable of sustained aerial combat. It uses flight to maintain distance from grounded opponents and to pursue fleeing prey.
 
-### Armored Scales
+#### Armored Scales
 
 The dragon's scales provide substantial protection against physical damage. Conventional weapons struggle to penetrate deeply; magical weapons or sustained focused attacks are required to cause significant injury.
 
-### Heat Aura
+#### Heat Aura
 
 Ambient heat radiates from the dragon constantly. The temperature within 30 feet of the creature rises noticeably, causing discomfort and making the area difficult to traverse quickly. Extended exposure to this heat can cause exhaustion.
 
-## Attributes
+### Attributes
 
 - **Strength:** 34-39 (1d6+33)
 

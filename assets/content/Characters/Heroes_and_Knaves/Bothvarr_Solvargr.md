@@ -40,7 +40,6 @@ data:
     extra_features:
       - a tattoo of a lion's mane on the chest
 sohl:
-  templatePriority: null
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 15 } }
     - { model: sohl-sohl-attribute-end, system: { scoreBase: 14 } }
@@ -583,35 +582,35 @@ sohl:
     defaultCombatGroup: null
 ---
 
-# Appearance {#appearance}
+## Appearance {#appearance}
 
 Böthvarr stands 6'3" tall with a heavy build. He has tanned weathered skin, gray hair, and blue eyes. His features include a broad face, a straight nose, a soft jawline, full lips, gently curved brows. A distinguishing mark is a tattoo of a lion's mane on the chest.
 
-# Dossier {#dossier}
+## Dossier {#dossier}
 
-## Background
+### Background
 
-### The Making of a Warrior
+#### The Making of a Warrior
 
 Böthvarr was born to minor landed gentry in the borderlands of Malagna, in a region perpetually contested by warring factions. His father, himself a veteran of a dozen campaigns, saw his firstborn son as natural material for the warrior's path and began his training before Böthvarr could properly walk. By age ten, he could handle a short blade with reasonable competence. By age fifteen, he was serving as a junior infantry soldier in the border garrison, learning through bitter experience what his father's training had only theoretically prepared him for.
 
 The early years were brutal. Böthvarr participated in three major conflicts before he was twenty, witnessing horrors that would have broken a less resolute soul. He earned his first significant scar defending a merchant caravan—a curved blade opened his ribs when he threw himself in front of a terrified woman fleeing bandits. Rather than embittering him, the experience crystallized his understanding of the soldier's purpose: protection of the defenseless, maintenance of order against chaos, and personal honor above all other considerations.
 
-### The Master of the Blade
+#### The Master of the Blade
 
 Over the following two decades, Böthvarr rose through the ranks through a combination of martial skill, unwavering loyalty, and an almost fanatical dedication to the craft of war. He survived wounds that should have been fatal and campaigns that should have broken his spirit. He earned the trust of successive commanders through his reliability and his quiet competence. More importantly, he developed a reputation as a trainer of exceptional quality—soldiers under his instruction became renowned for their discipline, their effectiveness, and their ability to face overwhelming odds without breaking.
 
 This reputation led to his current position: Master-at-Arms for the garrison defending Malagna's most critical border territory. It was a position of relative authority and genuine responsibility, though he would forever remain a soldier rather than achieve the rank of noble officer.
 
-### The Weight of Command
+#### The Weight of Command
 
 Yet the past decade has been increasingly difficult for Böthvarr. The wars have become less clear in their justifications. The recruits he trains seem younger and more frightened each passing year. And most troublingly, his body has begun to betray him—not dramatically, but with the subtle erosion that comes to men who have spent their entire lives in martial service. Injuries that once healed cleanly now leave persistent aches. Campaigns that once invigorated him now leave him exhausted.
 
 Worst of all, Böthvarr has begun to question whether his life of service has genuinely served any higher purpose, or whether he has simply been a tool of politicians and ambitious lords, enabling their schemes and ambitions. This philosophical crisis, coupled with his physical decline, has left him increasingly isolated—a man whose entire identity is rooted in a profession he can no longer fully embrace.
 
-## Psyche
+### Psyche
 
-### Personality
+#### Personality
 
 Böthvarr is a man of few words and fewer emotional displays. He communicates primarily through action and example, believing that words are often lies masquerading as truth. When he does speak, his statements are typically direct, practical, and unadorned with politeness or social grace. This bluntness is often mistaken for rudeness, though Böthvarr himself would find such interpretation baffling—he simply sees no purpose in flowery language when direct communication suffices.
 
@@ -619,11 +618,11 @@ His sense of humor is entirely absent or expressed through irony so dry it passe
 
 Yet beneath this forbidding exterior lies a surprisingly complex man. He possesses a martial code of honor that is absolute and uncompromising. He is capable of unexpected gentleness toward those he judges to be genuinely vulnerable. And he is haunted by a deep-seated fear that his entire life has been built upon illusions about purpose and meaning.
 
-### Motivation
+#### Motivation
 
 Böthvarr is driven primarily by the code he has constructed for himself: protect the weak, serve with absolute dedication, maintain personal honor regardless of cost, and face all challenges—physical or philosophical—with unflinching resolve. Yet increasingly, this motivation is fracturing. He continues to serve not out of conviction that his service matters, but out of genuine uncertainty about what else his life could possibly contain. He seeks, in some unarticulated way, to discover whether a soldier's life can have meaning beyond the mere mechanical execution of violence and command. This quest for meaning, combined with his advancing years and declining physical prowess, has made him simultaneously more dangerous and more vulnerable than ever before.
 
-### Strengths
+#### Strengths
 
 - **Master Combatant**: Böthvarr has spent his entire life perfecting the arts of martial engagement. His skill with axe, sword, and hand-to-hand combat is genuinely legendary, and few living warriors can match his technical proficiency.
 - **Tactical Acumen**: Despite his gruff exterior, Böthvarr understands the strategic dimensions of conflict. He can read a battlefield, anticipate enemy movements, and organize defensive positions with remarkable precision.
@@ -632,7 +631,7 @@ Böthvarr is driven primarily by the code he has constructed for himself: protec
 - **Physical Resilience**: Despite his advancing age, Böthvarr remains extraordinarily strong and enduring. His body is a finely-tuned instrument of martial capability.
 - **Loyalty**: Those he swears to serve receive his absolute dedication. He does not betray oaths or abandon those under his protection.
 
-### Weaknesses
+#### Weaknesses
 
 - **Emotional Stunting**: His inability or unwillingness to process or express emotion has left him deeply isolated. He cannot form genuine connections with others, and he is often baffled by the motivations and feelings of those around him.
 - **Physical Decline**: Age is catching up with him. His reflexes, once superhuman, are becoming merely excellent. His stamina, while still impressive, is noticeably less than it once was. He refuses to acknowledge this decline, which makes him increasingly dangerous to himself and others.
@@ -641,27 +640,27 @@ Böthvarr is driven primarily by the code he has constructed for himself: protec
 - **Lack of Self-Awareness**: Böthvarr is largely blind to his own emotional needs and psychological vulnerabilities. His existential crisis about the meaning of his life leaves him dangerously unstable, though he would vehemently deny this.
 - **Interpersonal Ineptitude**: Beyond military contexts, Böthvarr is genuinely poor at human interaction. He offends without realizing it, fails to recognize subtle social cues, and is incapable of the kind of warmth that builds genuine friendships.
 
-## Social
+### Social
 
-### Patrons
+#### Patrons
 
 - **Lord Commander Aldric Stonewall**: The highest-ranking military officer in the region, who has repeatedly relied on Böthvarr's counsel and expertise. Aldric genuinely respects Böthvarr and has sheltered him from some of the more politically motivated aspects of military service.
 - **The Garrison Community**: The soldiers under his command, though they fear him, have genuine loyalty to Böthvarr. They know he will not ask them to take risks he would not take himself.
 - **Master Weaponsmith Gorath**: A craftsman who creates superior weapons and armor. Gorath and Böthvarr have a tacit understanding that supplies weapons to the garrison in exchange for protection and Böthvarr's advocacy.
 
-### Enemies
+#### Enemies
 
 - **Captain Meredith Vane**: A rival soldier of approximately equal skill who has competed with Böthvarr for recognition and advancement for the past fifteen years. Their conflicts have become personal and vicious, extending beyond the battlefield into political maneuvering.
 - **The Warlord Garak**: A notorious mercenary commander whose forces have clashed with Böthvarr's garrison repeatedly. Garak has vowed to eventually face Böthvarr in single combat to prove his superiority.
 - **Councilor Harvis Blackthorn**: A political figure who views military power as a threat to his authority. He has worked systematically to undermine Böthvarr's position and credibility, seeking to replace him with someone more politically pliable.
 
-### Affiliations
+#### Affiliations
 
 - **The Royal Guard of Malagna**: The elite military force tasked with protecting the kingdom's borders and internal stability. Böthvarr serves as one of their most valued sergeants-at-arms.
 - **The Order of the Lion's Heart**: An informal fraternity of veteran soldiers who have survived significant military engagements. They meet occasionally to share war stories and honor fallen comrades.
 - **The Garrison at Stonewatch**: The specific military installation where Böthvarr serves as Master-at-Arms, training recruits and managing daily operations.
 
-## Plot Hooks
+### Plot Hooks
 
 1. **The Impossible Recruit**: A young soldier appears at the garrison with extraordinary natural talent for combat—almost supernatural in their reflexes and intuition. As Böthvarr begins training them, he recognizes patterns that suggest they are not entirely human. The youth refuses to explain their origins, and Böthvarr becomes increasingly certain they are being hunted by something beyond the kingdom's borders. He must decide whether to report the situation to his commanders or protect the recruit and uncover whatever truth lies behind their mysterious arrival.
 

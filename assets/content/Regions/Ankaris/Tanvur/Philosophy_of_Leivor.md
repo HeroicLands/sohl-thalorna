@@ -8,7 +8,7 @@ shortcode: phlsphylvr
 packFolder: tanvur
 ---
 
-# The Philosophy of Lëivōr in Tānvür
+## The Philosophy of Lëivōr in Tānvür
 
 Part of the [[affiliation-tanvurempr|Empire of Tānvür]] world-building.
 
@@ -18,7 +18,7 @@ At its core, Lëivōr holds that the universe is sustained by **Lëi** — the r
 
 ---
 
-## Lëi and the Cosmic Energy
+### Lëi and the Cosmic Energy
 
 The Tānvüri understanding of Lëi corresponds to what the [[affiliation-ordoarcanis|Ordo Arcanis]] calls the underlying cosmic force — the universal energy that all magical traditions channel. The Ordo models this energy through elemental geometries. The Sinalë perceive it as a living current woven through nature. The Khazári sense it as resonance in stone and metal. Each culture builds a different _mental model_ to interact with the same underlying reality.
 
@@ -26,9 +26,9 @@ The Tānvüri model is **administrative**. They understand Lëi as the energy th
 
 ---
 
-## The Duality of Existence
+### The Duality of Existence
 
-### The Sorted World and the Hürnlëi
+#### The Sorted World and the Hürnlëi
 
 Where other philosophies divide existence into physical and spiritual, or material and divine, Lëivōr divides it into **Sorted and Unsorted**.
 
@@ -36,7 +36,7 @@ The **Sorted World** is everything that was classified during the Great Sorting 
 
 The **Hürnlëi** (the Unsorted, the Unclassified) is not a place — it is a _condition_. It is what exists when classification breaks down. It lurks at the margins of every category, in the spaces between elements, in paradoxes and contradictions. When a thing loses its classification — when a fire does not behave as fire should, when a person's caste becomes ambiguous, when a ritual is performed incorrectly — the Hürnlëi seeps in through the gap.
 
-### Lëng and Hëk: The Two Flows
+#### Lëng and Hëk: The Two Flows
 
 Lëi flows in two complementary modes:
 
@@ -48,11 +48,11 @@ Neither flow is good or evil. Both are necessary. A cosmos of pure Lëng would b
 
 ---
 
-## Domains of Classification
+### Domains of Classification
 
 Magic in Tānvür is structured around **Domains of Classification** — the fundamental categories established during the Great Sorting. Each domain represents a primary sorting axis, and each is associated with a specific elemental quality and a bureau of the celestial administration.
 
-### The Five Material Domains
+#### The Five Material Domains
 
 Each of the five material domains is administered by one of the [[lore-fvlmntlrds|Five Elemental Lords]] — elemental bureau chiefs appointed during the Great Sorting.
 
@@ -66,7 +66,7 @@ Each of the five material domains is administered by one of the [[lore-fvlmntlrd
 
 5. **Water (Shüt):** The domain of flow, adaptation, and transition. Water carries Lëi between classifications, enabling things to change from one sorted state to another without passing through the Unsorted. Governed by Zhütshüt Lüng.
 
-### The Two Transcendent Domains
+#### The Two Transcendent Domains
 
 Two domains lie beyond the jurisdiction of any single Elemental Lord. They are too fundamental to the classification system itself to be administered by a bureau chief.
 
@@ -76,7 +76,7 @@ Two domains lie beyond the jurisdiction of any single Elemental Lord. They are t
 
 ---
 
-## Magic as Bureaucratic Form
+### Magic as Bureaucratic Form
 
 The practical application of Lëivōr to magical practice is what makes Tānvüri magic distinctive among the world's traditions. All magical traditions channel the same cosmic energy through _mental forms_ — structured visualizations built with the practitioner's innate aura. The form shapes how the energy flows, and the cultural model determines what the form looks like.
 
@@ -102,7 +102,7 @@ This is not metaphor. The bureaucratic visualization genuinely shapes how the co
 
 ---
 
-## Lëi in Medicine
+### Lëi in Medicine
 
 The medical practices of Tānvür are built on Lëivōr's classification framework. The body is understood as a **microcosm of the sorted world** — each organ corresponds to an element, each system to an administrative channel, and health is the state in which all classifications within the body are properly maintained.
 
@@ -126,7 +126,7 @@ The medical practices of Tānvür are built on Lëivōr's classification framewo
 
 ---
 
-## Lëi in Governance
+### Lëi in Governance
 
 The concept of Lëi-as-classification extends directly into political philosophy. Each caste and role within Tānvüri society is understood as occupying a specific classification within the Great Sorting:
 
@@ -140,16 +140,16 @@ Marriages, rituals, and daily practices are designed to maintain the flow of Lë
 
 ---
 
-## Practices and Rituals
+### Practices and Rituals
 
-### Daily Cultivation of Lëi
+#### Daily Cultivation of Lëi
 
 All citizens of Tānvür, regardless of caste, are expected to engage in daily practices that maintain their classification-alignment. **Lëithëi** (Spirit-Wisdom), a form of meditative movement, is the most common — a daily physical practice that the Tānvüri understand as realigning the body's internal classifications with the cosmic order. Breathing exercises reinforce the Air domain. Mindful performance of caste-appropriate tasks reinforces the practitioner's position within the Great Sorting.
 
-### Rituals of Classification
+#### Rituals of Classification
 
 Major life events — births, marriages, deaths — require rituals that register the event with the celestial administration. A birth must be properly classified: the child's caste must be confirmed, their Lëi channels assessed, and their existence filed with the relevant bureaus. A marriage is a _merger of two households' spiritual accounts_, requiring complex bureaucratic paperwork to ensure the classification system remains coherent. A death triggers the transit of a soul to the Ministry of Final Account, which must be facilitated by proper ritual.
 
-### The Festival of Harmonious Lëi (Hōk Lëi Jëit)
+#### The Festival of Harmonious Lëi (Hōk Lëi Jëit)
 
 The most significant annual festival, the Hōk Lëi Jëit celebrates the ongoing success of the Great Sorting. The Emperor himself performs the central ritual — a formal _audit_ of the empire's Lëi, in which he (assisted by the Tānthëi) symbolically reviews the cosmic classification system and confirms that it remains in good order. The Festival is simultaneously a religious observance, a political ceremony, and an administrative procedure. Its failure — or any disruption during its performance — is considered a profoundly ill omen for the year ahead.

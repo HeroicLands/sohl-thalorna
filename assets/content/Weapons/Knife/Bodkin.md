@@ -7,10 +7,11 @@ description: "Needle-pointed dart punches mail and plate; duelist's finishing st
 img: systems/sohl/assets/icons/game-icons/lorc/broad-dagger.svg
 shortcode: kel
 type: weapongear
+data:
+  templatePriority: null
 sohl:
   kbcat: knife
   weaponType: Knife
-  templatePriority: null
   system:
     weightBase: 2
     valueBase: 36

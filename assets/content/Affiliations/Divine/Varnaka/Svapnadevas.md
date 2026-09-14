@@ -54,12 +54,10 @@ data:
     - varakpnthn
   relations:
     varakpnthn: aligned
-sohl:
-  templatePriority: null
 packFolder: pantheonsvarnaka
 ---
 
-# Svapnadēvas — The Dreaming Host
+## Svapnadēvas — The Dreaming Host
 
 - **Domain:** visions, omens, prophecy, the inner life of sleep
 - **Symbol:** A crescent moon cradling a lotus stem
@@ -70,26 +68,26 @@ The **Svapnadēvas** are not a single deity but a celestial court — a host of 
 
 The Svapnadēvas draw the devotion of seers, mystics, healers of disturbed minds, and all those whose vocation requires them to read beneath the surface of events.
 
-## Aspects
+### Aspects
 
 The Svapnadēvas are depicted as a company of slender, silver-robed figures moving together in a gentle dance, their faces half-lit by moonlight and half-lost in shadow. They are rarely depicted individually; iconography favours the Host as a whole, with the crescent moon and lotus as the collective sign of their presence.
 
-## Sacred Objects
+### Sacred Objects
 
 - **Dream-stone** — a dark moonstone kept beneath the sleeper's pillow, said to steady and clarify the dreams of the faithful
 - **Silver mirror** — used in rites of divination; the seer meditates upon its polished surface until the waking mind quiets
 - **Lotus-cord** — a braided cord worn about the wrist of those undertaking a dream-vigil; it is untied when the vigil ends and the dream is spoken aloud
 
-## Veneration
+### Veneration
 
 The Svapnadēvas are honoured at the edges of the day — dusk and dawn — rather than at a fixed hour. Devout households keep a small dream-stone under the pillow of each sleeper and replace it at the new moon with a stone newly consecrated at a temple. On waking, the head of the household speaks a brief formula naming the Host and asking that any dream of import be remembered. Dreams considered meaningful are spoken aloud to another family member before the morning meal, so that the dream is committed to shared memory. Silver mirrors are kept covered except at the moments of divination; to catch one's own waking reflection unprepared in such a mirror is considered a small misfortune.
 
-## Ordeals for Favour
+### Ordeals for Favour
 
 - **The Seven-Night Vigil** — an ordeal of seven consecutive nights of dream-vigil, during which the devotee sleeps lightly in a temple chamber and reports each morning on the night's dreams. Few complete it without the intervention of a senior seer.
 - **The Mirror Year** — a year spent serving in a temple's divination chamber, reading the silver mirror for all petitioners who come, without refusing a reading and without accepting fee.
 
-## See Also
+### See Also
 
 - [[affiliation-varakpnthn|Varṇaka Pantheon]]
 - [[affiliation-svapnasarisamaja|Svapnasāri-samāja]] — the mystical assembly devoted to the Dreaming Host

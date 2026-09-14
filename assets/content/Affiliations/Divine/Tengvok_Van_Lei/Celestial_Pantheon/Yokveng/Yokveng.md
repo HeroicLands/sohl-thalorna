@@ -88,12 +88,8 @@ data:
     - tngvkvnlei
   relations:
     tngvkvnlei: aligned
-sohl:
-  templatePriority: null
 packFolder: yokveng
 ---
-
-# Yokveng
 
 - **Type:** Celestial realm of subversion and failure
 - **Parent cosmology:** [[affiliation-tngvkvnlei|Tëngvōk Vān Lëi]]

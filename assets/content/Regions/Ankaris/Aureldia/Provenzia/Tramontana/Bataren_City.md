@@ -19,8 +19,6 @@ shortcode: batarencity
 packFolder: provenzia
 ---
 
-# Batáren City
-
 **Batáren** stands on the [[place-batarengulf|Gulf of Batáren]] in the northwest, and is Provènzia's
 window on the cold ocean and the northern sea-roads. It is the kingdom's second harbour and its most
 awkward city.

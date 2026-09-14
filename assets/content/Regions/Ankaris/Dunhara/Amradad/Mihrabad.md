@@ -17,8 +17,6 @@ shortcode: mihrabad
 packFolder: amradad
 ---
 
-# Mihrabad
-
 ## Overview
 
 _To be written._

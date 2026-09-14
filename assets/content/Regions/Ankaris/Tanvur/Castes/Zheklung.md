@@ -8,8 +8,6 @@ shortcode: zheklung
 packFolder: castes
 ---
 
-# Zhëklüng
-
 **Sons of the Dragon**
 
 Zhëklüng form the apex of [[affiliation-tanvurempr|Tānvür]] society, composed of the Emperor, his immediate family, and the Warlords. Members of this caste are classified as the administrative lineage of the mortal plane — their authority derives not from divine blood but from the celestial bureaucracy's designation of their family as the rightful administrators of the sorted world.

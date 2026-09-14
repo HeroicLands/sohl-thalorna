@@ -103,11 +103,7 @@ data:
   parents: []
   relations:
     arldnpnthn: aligned
-sohl:
-  templatePriority: null
 ---
-
-# The Order of the Ashen Vow
 
 _Aurèldían: Ordo Voti Cinerei — "The Order of the Ashen Vow"_
 

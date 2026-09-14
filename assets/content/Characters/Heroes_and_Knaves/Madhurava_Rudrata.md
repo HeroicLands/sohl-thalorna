@@ -41,7 +41,6 @@ data:
     extra_features:
       - a scar on the left foot
 sohl:
-  templatePriority: null
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 13 } }
     - { model: sohl-sohl-attribute-end, system: { scoreBase: 14 } }
@@ -595,37 +594,37 @@ sohl:
     defaultCombatGroup: null
 ---
 
-# Appearance {#appearance}
+## Appearance {#appearance}
 
 Màdhurava stands 5'10" tall with a medium build. He has medium brown skin, graying dark brown hair, and honey brown eyes. His features include a diamond-shaped face, a narrow nose, a narrow chin, a wide mouth, medium brows, soft cheeks. A distinguishing mark is a scar on the left foot.
 
-# Dossier {#dossier}
+## Dossier {#dossier}
 
-## Background
+### Background
 
-### The Scholar's Calling
+#### The Scholar's Calling
 
 Màdhurava was born into House Rudraṭa, a minor but respected family in the City-States of Vedyara known for their expertise in written records and genealogical study. His father, a scribe of some renown, taught young Màdhurava the sacred discipline of heraldry—not merely as the art of rendering arms and blazonry, but as a language of political authority, ancestral legitimacy, and divine right. Where other youths his age pursued martial glory or mercantile wealth, Màdhurava devoted himself to the study of lineages, precedences, and the elaborate ceremonial protocols that governed the complex relationships between the city's competing noble factions. By his twentieth year, he had begun to establish himself as an authority on matters of succession and genealogical claim.
 
-### The Rise to Authority
+#### The Rise to Authority
 
 His true ascension came at age twenty-two, when he successfully arbitrated a succession dispute that threatened to tear apart the northern districts of the city. Through meticulous genealogical research and masterful interpretation of obscure heraldic precedent, Màdhurava determined the legitimate heir to a disputed merchant-lord title. The case established his reputation as both scholar and diplomat, and the City Heralds' Guild recognized his genius by offering him full membership—an extraordinary honor rarely extended to one so young. Over the ensuing decades, his counsel was sought by increasingly powerful nobles, his interpretations of protocol became authority, and his voice shaped the very structure of succession and legitimacy within the city-states.
 
-### The Keeper of Tradition
+#### The Keeper of Tradition
 
 Now, at fifty, Màdhurava has become something of a living institution. He has served under four different Lord Mayors, advised the appointments of countless noble heirs, and witnessed the rise and fall of three major houses through carefully documented genealogical records. His chambers in the Herald's Archive contain records dating back two centuries, all meticulously maintained and cross-referenced by his own hand. Younger heralds regard him with a mixture of reverence and resentment—he is the keeper of the old ways, the guardian of tradition against the modernizing impulses that increasingly threaten to undermine the formal structures of noble governance. He has trained fewer than a dozen successors in his long career, preferring to maintain absolute control over the most sensitive genealogical records and precedential interpretations.
 
-## Psyche
+### Psyche
 
-### Personality
+#### Personality
 
 Màdhurava is, above all, a man devoted to order and precedent. He speaks with deliberate formality, referencing historical precedent and documented protocol in virtually every utterance. His sense of humor is dry and often mystifying to those not deeply versed in heraldic subtlety. He approaches every situation as a potential establishment of legal precedent, viewing informal or spontaneous action as a dangerous threat to established order. Yet beneath this rigid exterior lies genuine intellectual passion—he delights in the elegant logic of genealogical problems, and will spend hours in discussion of the finer points of succession law with those who can keep pace with his thinking. He views younger heralds with a complex mixture of paternal interest and territorial suspicion, often testing them with obscure questions to determine whether they are worthy of the knowledge he guards. In private, particularly when discussing history and lineage, he can be surprisingly warm and even avuncular.
 
-### Motivation
+#### Motivation
 
 Màdhurava is driven by a conviction that the careful maintenance of heraldic tradition and genealogical record is essential to the preservation of civilization itself. He sees his role as guardian not merely of records, but of the very fabric of social order. He is also motivated by a deep concern that the rising generation of heralds lacks the rigor and dedication necessary to maintain these standards, and he fears that once his knowledge passes from the world, the city-states will lose touch with the historical understanding that has preserved stability through generations. Additionally, there is a personal element: Màdhurava has never married and has dedicated his entire life to his work, and he seeks a successor worthy enough to inherit not just his office but his absolute commitment to heraldic truth and historical accuracy.
 
-### Strengths
+#### Strengths
 
 - **Encyclopedic Heraldic Knowledge**: Màdhurava's understanding of precedent, protocol, and genealogical law is virtually unmatched across the city-states. He can cite obscure rulings from a century prior without consulting records.
 - **Diplomatic Acumen**: Though rigid in matters of formal protocol, he is extraordinarily skilled at navigating complex political situations when they involve matters of precedence and legitimacy.
@@ -633,7 +632,7 @@ Màdhurava is driven by a conviction that the careful maintenance of heraldic tr
 - **Master Orator**: His eloquence and vocal control are exceptional; he can deliver formal pronouncements, genealogical recitations, and ceremonial speeches with compelling authority.
 - **Record-Keeping Excellence**: His personal archives are models of organization and accuracy; he possesses instantaneous recall of genealogical connections and historical precedent.
 
-### Weaknesses
+#### Weaknesses
 
 - **Rigidity in Crisis**: When situations demand flexibility or improvisation outside formal protocols, Màdhurava becomes uncertain and potentially paralyzed by concern for precedent.
 - **Dismissiveness of Innovation**: He regards new methods of record-keeping, new interpretations of law, or departures from traditional ceremony as threats rather than potential improvements.
@@ -641,25 +640,25 @@ Màdhurava is driven by a conviction that the careful maintenance of heraldic tr
 - **Isolation and Insularity**: He has limited experience of the common people or the realities of life outside formal noble circles, making his judgments sometimes naive regarding practical human concerns.
 - **Physical Vulnerability**: Despite his authority, he is physically unimposing and has never trained in combat; any direct physical confrontation would overwhelm him.
 
-## Social
+### Social
 
-### Patrons
+#### Patrons
 
 - **Lady Maharani Sávia of the Central House**: The most powerful noble in the city-states, who has relied on Màdhurava's counsel for thirty years to maintain her family's dominance and resolve succession questions in her favor.
 - **The Council of Lord Mayors**: The executive body of the city collectively seeks his counsel on matters affecting the governance and legitimacy of their collective rule.
 
-### Enemies
+#### Enemies
 
 - **Herald Kárvesh the Modernizer**: A younger herald of considerable talent who advocates for streamlined heraldic processes and argues that many of Màdhurava's "sacred traditions" are merely outdated bureaucratic theater, directly challenging his authority.
 - **House Vákhara**: An ambitious merchant family whose genealogical claims Màdhurava has repeatedly denied in favor of more established houses; they are rumored to be sponsoring forged genealogical documents to discredit him.
 
-### Affiliations
+#### Affiliations
 
 - **The City Heralds' Guild**: Senior member and de facto keeper of the archive; wields enormous influence over the guild's direction and standards.
 - **The Council of Historical Scholars**: Founding member of an elite academic circle devoted to the preservation and study of the city-states' historical records.
 - **House Rudraṭa**: His family house, for whom he serves as primary genealogical advisor and keeper of family records.
 
-## Plot Hooks
+### Plot Hooks
 
 1. **The Forged Heir**: A scandal erupts when evidence appears suggesting that a document in Màdhurava's own archive—one establishing the legitimacy of the current Lord Mayor's line—is a forgery dating back forty years. The discovery threatens not merely one political figure but the stability of the entire city governance structure. Màdhurava becomes both investigator and defendant as competing factions use the scandal to advance their positions. The party might be hired to discover who forged the document, when, and to what purpose—or to help Màdhurava manage the political aftermath while preserving what remains of the legal order he has maintained.
 

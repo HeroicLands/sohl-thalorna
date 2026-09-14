@@ -17,8 +17,6 @@ shortcode: batarengulf
 packFolder: provenzia
 ---
 
-# Gulf of Batáren
-
 Provènzia's western shore is a cliff coast: craggy, wind-scoured and almost entirely useless to
 shipping. In the **northwest** it opens.
 

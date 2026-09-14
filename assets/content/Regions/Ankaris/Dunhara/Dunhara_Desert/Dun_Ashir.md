@@ -18,8 +18,6 @@ shortcode: dunashir
 packFolder: dunharadesert
 ---
 
-# Dûn Ashir
-
 ## Overview
 
 _To be written._

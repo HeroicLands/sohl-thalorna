@@ -98,12 +98,8 @@ data:
   lore: []
   parents: []
   relations: {}
-sohl:
-  templatePriority: null
 packFolder: companies
 ---
-
-# The Jackals of the South Marches
 
 ## Overview
 

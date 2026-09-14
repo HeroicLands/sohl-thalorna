@@ -7,10 +7,11 @@ description: "Rope-spiked dart for ranged pierce and entangle; cavalry raider's 
 img: systems/sohl/assets/icons/game-icons/delapouite/flail.svg
 shortcode: biao
 type: weapongear
+data:
+  templatePriority: null
 sohl:
   kbcat: flail
   weaponType: Flail
-  templatePriority: null
   system:
     weightBase: 1
     valueBase: 36

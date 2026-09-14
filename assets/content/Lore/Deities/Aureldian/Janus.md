@@ -10,6 +10,4 @@ shortcode: janusdty
 packFolder: deitiesaureldian
 ---
 
-# Jánus
-
 TBD

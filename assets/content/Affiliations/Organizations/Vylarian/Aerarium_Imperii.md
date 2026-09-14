@@ -87,11 +87,7 @@ data:
   lore: []
   parents: []
   relations: {}
-sohl:
-  templatePriority: null
 ---
-
-# The Aerarium Imperii
 
 _Vylarian: Aerarium Imperii — "the Imperial Treasury"_
 

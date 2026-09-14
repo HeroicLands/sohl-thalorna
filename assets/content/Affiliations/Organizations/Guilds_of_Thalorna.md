@@ -13,8 +13,6 @@ type: lore
 subType: economy
 ---
 
-# The Guilds of Thalorna
-
 - **Type:** Overview note describing the guild system as a continent-spanning phenomenon
 - **Region:** All settled regions of [[place-ankrscntnnt|Ankaris]], [[place-xerathia|Xerathia]], [[affiliation-kalihara|Kalihara]], and trading enclaves elsewhere; form and authority vary substantially by region
 

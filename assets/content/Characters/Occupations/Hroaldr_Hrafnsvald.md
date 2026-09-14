@@ -42,7 +42,6 @@ data:
     complexion: weathered
     extra_features: []
 sohl:
-  templatePriority: null
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 12 } }
     - { model: sohl-sohl-attribute-end, system: { scoreBase: 14 } }
@@ -553,11 +552,11 @@ sohl:
     defaultCombatGroup: null
 ---
 
-# Appearance {#appearance}
+## Appearance {#appearance}
 
 Hróaldr Hrafnsvald is a 48-year-old man who stands 5'10" tall and is broad and solidly built. He has an angular face with defined cheekbones, a smooth forehead, and a strong jaw that leads to a broad chin. His round brown eyes sit beneath straight brows, lending him a candid gaze. A straight nose and curved lips complete his features. He has fair skin with a weathered complexion. His dark blonde hair is thick and unkempt.
 
-# Dossier {#dossier}
+## Dossier {#dossier}
 
 Born in the Nordheim region to a guilded family of Nordheimn heritage, Hróaldr Hrafnsvald came into the world of the jeweler through a combination of circumstance and aptitude.
 
@@ -565,37 +564,37 @@ Oswin has spent more than two decades in the jewelry trade, honing his skills in
 
 Now at 48 years of age, Hróaldr Hrafnsvald has established himself as a known figure among the jewellers of Nordheim. His reputation, for better or worse, precedes him in the circles where such things matter.
 
-## Psyche
+### Psyche
 
-### Personality
+#### Personality
 
 Can be too focused on profit, sometimes dismissive of new trends.
 
-### Motivation
+#### Motivation
 
 Hróaldr is driven by the desire to master his craft and secure a stable future. The uncertainties of life in jeweler work keep him vigilant and adaptable.
 
-### Strengths
+#### Strengths
 
 Experienced, excellent negotiator, skilled in both design and craftsmanship.
 
-## Social
+### Social
 
 Hróaldr is affiliated with Local Jewellers' Guild.
 
 As a Nordheimn jeweler, Hróaldr occupies a recognized social niche within Nordheim society.
 
-## Companions
+### Companions
 
-### Patrons
+#### Patrons
 
 Hróaldr's primary patron is Nobles and local traders who trust his expertise.. This relationship provides both opportunity and obligation.
 
-### Enemies
+#### Enemies
 
 Few; generally respected within the industry.
 
-## Plot Hooks
+### Plot Hooks
 
 1. **The Jeweler's Dilemma** — Hróaldr faces a professional crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Nordheim.
 

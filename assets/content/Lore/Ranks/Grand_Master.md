@@ -10,8 +10,6 @@ shortcode: grandmasterrnk
 description: "Head of an order or a guild, elected by its chapter and bound by its rule."
 ---
 
-# Grand Master
-
 Head of an order or a guild, elected by its chapter and bound by its rule.
 
 ## Obligations and Rights

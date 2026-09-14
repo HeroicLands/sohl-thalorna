@@ -9,8 +9,9 @@ name:
   full: "Hekau: Deshr'ut"
   aliases:
     - Per-Deshr'ut
-sohl:
+data:
   templatePriority: null
+sohl:
   system:
     skillBaseFormula: "@aur, @rea"
     masteryLevelBase: 0

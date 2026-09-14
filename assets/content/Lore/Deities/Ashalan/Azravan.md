@@ -10,6 +10,4 @@ shortcode: azravandty
 packFolder: deitiesashalan
 ---
 
-# Ázráván
-
 TBD

@@ -42,7 +42,6 @@ data:
     complexion: null
     extra_features: []
 sohl:
-  templatePriority: null
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 9 } }
     - { model: sohl-sohl-attribute-end, system: { scoreBase: 10 } }
@@ -584,19 +583,19 @@ sohl:
     defaultCombatGroup: null
 ---
 
-# Appearance {#appearance}
+## Appearance {#appearance}
 
 Layla stands 5'6" tall with a light build. She has light golden skin, dark brown hair, and brown eyes. Her features include a narrow face, a noble nose, a narrow chin, well-shaped lips, thin brows.
 
-# Dossier {#dossier}
+## Dossier {#dossier}
 
 Layla Marut is the eldest daughter — and heir-presumptive — of **House Marut**, a prosperous Lesser House of the [[affiliation-bthntrdhss|Bethûan Trade-Houses]], whose trade reaches from the orchard-ports of the [[affiliation-mtrrchybth|Bethûan]] coast across the [[place-vylarianse|Vylarian Sea]] to [[affiliation-empirtkhpr|Ta'Kheperu]] and the wider Northern Fertile Region. As is the Bethûan way, the House is led by its matriarch — Layla's mother — and it is Layla, the eldest daughter, who is meant one day to take the bench and the seal. She was trained from childhood in the arts of negotiation, trade, reckoning, and diplomacy, and she is formidable at all of them; her sharp mind and quicker tongue have already won the House deals and clients beyond its station. But the prospect of a life spent on the matriarch's bench, marrying for advantage and counting another generation's coin, stifles her. She wants the world, not the ledger.
 
 Layla and [[being-zahirmlkht|Zahira]] met when House Marut hired the bounty hunter to run down a thief who had robbed one of the family's caravans. Taken with Zahira's nerve and skill, Layla talked her mother into letting her ride along "to learn the trade-roads first-hand" — and never quite came back to the counting-house. She brings to Zahira's hunts a web of mercantile contacts, an intimate grasp of the trade-routes and the credit that moves along them, and a reading of people and politics as sharp as any blade in the company.
 
-## Background
+### Background
 
-### Skills and Abilities
+#### Skills and Abilities
 
 - **Strength**: While not physically imposing, Layla has enough strength for day-to-day activities but lacks martial prowess.
 - **Endurance**: She can handle the rigors of travel, but her life has been more about negotiations than physical challenges.
@@ -616,24 +615,24 @@ Layla and [[being-zahirmlkht|Zahira]] met when House Marut hired the bounty hunt
 - **Trade Network Knowledge**: Layla’s extensive knowledge of trade routes, contacts, and economic systems makes her an expert at gathering information. She can leverage her family’s connections to open doors or find hidden opportunities.
 - **Cunning and Strategy**: Layla excels at reading people and situations, often advising [[being-zahirmlkht|Zahira]] on the political and social dynamics at play in any given situation. Her strategic mind allows the team to stay one step ahead of their enemies.
 
-## Psyche
+### Psyche
 
-### Personality
+#### Personality
 
 Layla is a charming and confident woman, skilled in negotiation and persuasion. She is driven by a desire for excitement and freedom, and she relishes the chance to escape the stifling confines of her merchant clan’s expectations. Layla’s adventurous spirit is balanced by a keen sense of survival—she is always thinking several steps ahead, especially when it comes to deals and alliances. While she lacks [[being-zahirmlkht|Zahira]]’s martial skills, her sharp tongue and keen mind make her a force to be reckoned with.
 
-### Motivation
+#### Motivation
 
 Layla is driven by a desire for freedom and adventure. She views her alliance with [[being-zahirmlkht|Zahira]] as a way to break free from the matriarch's bench her family has reserved for her. At the same time she is her mother's daughter to the bone — she hopes to build a network of contacts and influence all her own, and harbours a quiet ambition to see House Marut rise from a Lesser House to one of the Great Houses of the federation, on terms she set herself rather than ones handed down to her.
 
-### Strengths
+#### Strengths
 
 - **Negotiation**
 - **Trade Network Knowledge**
 
-## Social
+### Social
 
-## Plot Hooks
+### Plot Hooks
 
 1. **The Rival House**:
 

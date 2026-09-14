@@ -22,11 +22,7 @@ data:
     - kingdmdnvr
   gender: male
   species: null
-sohl:
-  templatePriority: null
 ---
-
-# Marric Háravrel
 
 **Role.** Security and the training of guards; and, secretly, the gathering of intelligence.
 

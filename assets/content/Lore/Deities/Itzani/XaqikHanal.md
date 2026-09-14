@@ -10,6 +10,4 @@ shortcode: xaqikhanaldty
 packFolder: deitiesitzani
 ---
 
-# Xaq'ik Ha'nal
-
 TBD

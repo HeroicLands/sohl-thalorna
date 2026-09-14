@@ -32,7 +32,6 @@ data:
     extra_features: []
 sohl:
   kbcat: animal
-  templatePriority: 0
   attrRollFormula:
     str: 1d6+17
     end: 1d6+15
@@ -271,55 +270,55 @@ sohl:
         disabled: false
 ---
 
-# Appearance {#appearance}
+## Appearance {#appearance}
 
 The ground itself seems to tremble with deliberate, rhythmic footsteps. A dark, gleaming shape emerges from vegetation, and you realize you're looking at something between insect and small fortress. The chitinous shell is polished like dark metal, segmented and proportioned with alien grace. The six legs are thick and powerful, each step producing a crunching sound that carries an implicit promise of weight and strength. The head is broad and flat, dominated by massive mandibles that open and close in a slow, testing motion that suggests absolute confidence in their power to crush and cleave.
 
-# Dossier {#dossier}
+## Dossier {#dossier}
 
 The Titan Beetle is a massive armored insect reaching 6-8 feet in body length and weighing several hundred pounds, found in dense forests, rocky badlands, and caves across tropical and temperate regions. Despite their herbivorous diet, these creatures are formidable defensive combatants that will aggressively protect territory or themselves when threatened. Adventurers encounter titan beetles primarily in dense vegetation or while mining/quarrying in beetle territory.
 
-## Presentation
+### Presentation
 
 The titan beetle is an armor-plated insect with a body covered entirely in dark, polished chitin that resembles burnished metal. The exoskeleton is segmented into plates that allow flexibility while providing protection. The head is broad with powerful mandibles that curve downward and are capable of tremendous crushing force. The eyes are relatively small and positioned on the sides of the head. Six thick, muscular legs support the creature's weight, each leg ending in curved claws suitable for gripping and climbing. The back is marked with ridges and darker striations.
 
-## Key Behaviors
+### Key Behaviors
 
 Titan beetles are herbivorous, spending much of their time feeding on vegetation, leaves, and bark. They are fundamentally peaceful creatures that will tolerate humanoid presence until threatened. When endangered, they immediately shift to defensive stance and will aggressively defend territory. Females defending eggs become nearly uncontrollable in aggression. Beetles are solitary except during mating season. They can survive for extended periods without food.
 
-## Combat Strategy
+### Combat Strategy
 
 The titan beetle defends itself through sheer durability and crushing power. It charges opponents with all its weight, using mandibles to deliver devastating bites. The creature is slow but relentless, simply overwhelming opposition through durability and repeated attacks. If escape is possible, the beetle will flee rather than continue losing battle.
 
-## Attack Methods
+### Attack Methods
 
-### Mandible Crush
+#### Mandible Crush
 
 The beetle delivers a crushing bite using its powerful mandibles, capable of breaking bone and tearing through armor.
 
-### Body Slam
+#### Body Slam
 
 The creature uses its weight as a weapon, colliding with opponents and attempting to crush them under its mass.
 
-## Special Abilities
+### Special Abilities
 
-### Natural Armor
+#### Natural Armor
 
 The chitin shell provides genuine protection equivalent to heavy armor against slashing and piercing attacks.
 
-### Immovable Mass
+#### Immovable Mass
 
 The beetle's weight and low center of gravity make it nearly impossible to knock off balance or move against its will.
 
-### Relentless Strength
+#### Relentless Strength
 
 The beetle continues fighting despite damage, driven by territorial instinct rather than fear or pain.
 
-### Additional Information
+#### Additional Information
 
 Titan beetles are most dangerous when defending territory or eggs. Outside of protective instinct, they are relatively passive. The creature's chitin can be harvested after death and used for armor or crafting. Females defending eggs are nearly unbeatable and should be avoided entirely.
 
-## Attributes
+### Attributes
 
 - **Strength:** 18-23 (1d6+17)
 

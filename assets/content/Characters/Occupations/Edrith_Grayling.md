@@ -41,7 +41,6 @@ data:
     complexion: rough
     extra_features: []
 sohl:
-  templatePriority: null
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 10 } }
     - { model: sohl-sohl-attribute-end, system: { scoreBase: 12 } }
@@ -550,11 +549,11 @@ sohl:
     defaultCombatGroup: null
 ---
 
-# Appearance {#appearance}
+## Appearance {#appearance}
 
 Edrith Grayling is a 28-year-old woman who stands 5'8" tall and is slender. She has an angular face with defined cheekbones, a lined forehead, and a rounded jaw that leads to a delicate chin. Her sharp blue eyes sit beneath expressive brows, lending her an incisive gaze. A narrow nose and full lips complete her features. She has pale skin with a rough complexion. Her blonde hair is braided and coiled at the nape.
 
-# Dossier {#dossier}
+## Dossier {#dossier}
 
 Born in the Aelwyth region to a freeman family of Aelwythan heritage, Edrith Grayling came into the world of the hideworker through a combination of circumstance and aptitude.
 
@@ -562,37 +561,37 @@ Freya learned the art of hideworking from her mother, who taught her the secrets
 
 Now at 28 years of age, Edrith Grayling has established herself as a known figure among the hideworkers of Aelwyth. Her reputation, for better or worse, precedes her in the circles where such things matter.
 
-## Psyche
+### Psyche
 
-### Personality
+#### Personality
 
 Often underestimated due to her gender, struggles with heavy lifting.
 
-### Motivation
+#### Motivation
 
 Edrith is driven by the desire to master her craft and secure a stable future. The uncertainties of life in hideworker work keep her vigilant and adaptable.
 
-### Strengths
+#### Strengths
 
 Creative, skilled in design and crafting, resourceful.
 
-## Social
+### Social
 
 Edrith is affiliated with None; works independently..
 
 As a Aelwythan hideworker, Edrith occupies a recognized social niche within Aelwyth society.
 
-## Companions
+### Companions
 
-### Patrons
+#### Patrons
 
 Edrith's primary patron is Local women who seek unique leather clothing and accessories.. This relationship provides both opportunity and obligation.
 
-### Enemies
+#### Enemies
 
 Some male hideworkers who resent her success.
 
-## Plot Hooks
+### Plot Hooks
 
 1. **The Hideworker's Dilemma** — Edrith faces a professional crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Aelwyth.
 

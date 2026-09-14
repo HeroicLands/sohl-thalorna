@@ -9,8 +9,9 @@ img: systems/sohl/assets/icons/other/speaking.svg
 shortcode: kheperlng
 type: skill
 subType: language
-sohl:
+data:
   templatePriority: null
+sohl:
   system:
     skillBaseFormula: "@elo, @rea"
     masteryLevelBase: 0

@@ -17,8 +17,6 @@ name:
 shortcode: marendal
 ---
 
-# Maréndal
-
 ## Overview
 
 _To be written._ Maréndal is the capital and principal settlement of [[affiliation-kngdmglvrn|Kingdom of Galváren]].

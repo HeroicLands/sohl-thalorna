@@ -42,7 +42,6 @@ data:
     extra_features:
       - a tattoo of a dragonfly on the neck
 sohl:
-  templatePriority: null
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 9 } }
     - { model: sohl-sohl-attribute-end, system: { scoreBase: 11 } }
@@ -586,29 +585,29 @@ sohl:
 
 **Home:** [[place-meruhotep|Meru-Hotep]]
 
-# Appearance {#appearance}
+## Appearance {#appearance}
 
 Tirye stands 5'4" tall with a light build. She has dark skin, black hair, and brown eyes. Her features include a narrow face, a slightly arched nose, a smooth jawline, elegantly curved brows. A distinguishing mark is a tattoo of a dragonfly on the neck.
 
-# Dossier {#dossier}
+## Dossier {#dossier}
 
-## Background
+### Background
 
-### The Daughter of Performance
+#### The Daughter of Performance
 
 Born in 691 in one of [[affiliation-empirtkhpr|Ta'Kheperu]]'s greatest theatrical centers, Tirye was practically delivered upon a stage—her parents were both established performers in the grand tradition of Kemetían theater, known for their emotional intensity and interpretive brilliance. From infancy, she was surrounded by rehearsals, costuming, and the intoxicating atmosphere of artistic creation. Rather than a conventional education, she received training in movement, voice, character work, and the elaborate mythology of the Kemetían Pantheon from the finest theatrical masters in the empire. Her dragonfly tattoo, received at the age of thirteen during a mystical retreat, marked her formal dedication to the art and her spiritual commitment to the goddess of transformation.
 
-### The Rising Star
+#### The Rising Star
 
 By her early twenties, Tirye had transitioned from child performer to celebrated actress in her own right, commanding substantial roles in the City Theater Company's productions. Her interpretations became known for their psychological depth and vulnerability—a willingness to expose raw emotion that many performers lacked. She has garnered particular acclaim for her portrayals of tragic heroines and complex antagonists, earning regular standing ovations and attracting devoted followers who attend every performance. Nobles have begun commissioning private performances, and rumors speak of potential opportunities with the imperial court itself.
 
-### The Hidden Struggle
+#### The Hidden Struggle
 
 Beneath her luminous stage presence, Tirye battles internal demons that threaten to undermine her career. The intense emotional labor of her craft has begun to take a toll; the line between performance and authentic self has blurred dangerously. She struggles with paralyzing self-doubt between performances, questioning whether her success is earned or merely illusory, wondering if she possesses genuine talent or if she is merely a talented mimic lacking true artistic substance. Personal relationships have suffered as a result of her tendency toward emotional withdrawal and her habit of retreating into character rather than engaging authentically.
 
-## Psyche
+### Psyche
 
-### Personality
+#### Personality
 
 Tirye is a paradox of intensity and fragility, confident on stage and uncertain in life. On the boards, she is commanding, magnetic, fully present—a presence that seems to enlarge to fill entire amphitheaters. Away from performance, she becomes noticeably quieter, more reserved, almost tentative in her interactions. She possesses a keen observational instinct, constantly studying people, collecting mannerisms and speech patterns, always somewhat in performance even in ostensibly private moments.
 
@@ -616,11 +615,11 @@ Her creativity is extraordinary and seems almost to drive her; she experiences t
 
 She maintains careful control over her public image, always gracious to admirers and patrons, yet hoards her genuine friendships fiercely and guards her private self with almost paranoid vigilance. There is a loneliness at her core—a sense that to be truly known would be to be diminished, that her mystique is inseparable from her artistic power.
 
-### Motivation
+#### Motivation
 
 Tirye is driven by an insatiable hunger to create beauty and truthfulness in art, to illuminate the human condition through performance, and to achieve immortality through her roles—to be remembered, to matter, to have her existence validated through the applause and tears of audiences. Yet beneath this noble artistic aspiration lies a more desperate need: validation. Having spent her life in performance, she struggles to believe that she possesses inherent worth independent of audience reception. She seeks roles that challenge her, that push her emotional and technical boundaries, hoping that with each new character conquered she will find greater certainty in her own existence. She is also motivated by a protective concern for the younger actresses in the Company, remembering her own uncertainty and seeking to provide the mentorship and support she lacked.
 
-### Strengths
+#### Strengths
 
 - **Transcendent Performance**: An actress of rare gifts, capable of inhabiting characters with such completeness that audiences report genuine emotional experiences; her performances have been known to leave spectators weeping or shaken for days afterward.
 
@@ -634,7 +633,7 @@ Tirye is driven by an insatiable hunger to create beauty and truthfulness in art
 
 - **Multilingual Artistry**: Fluent in eight languages, she is capable of performing with nuance and cultural authenticity across diverse theatrical traditions.
 
-### Weaknesses
+#### Weaknesses
 
 - **Fragile Self-Concept**: Away from the stage, her sense of identity becomes uncertain and permeable; without the structure of character and script, she experiences disorientation and a profound sense of emptiness.
 
@@ -648,9 +647,9 @@ Tirye is driven by an insatiable hunger to create beauty and truthfulness in art
 
 - **Spiritual Dependency**: Her connection to Hâpi and her mystical practices can become obsessive; she is vulnerable to spiritual charlatans and may make decisions based on superstition rather than reason.
 
-## Social
+### Social
 
-### Patrons
+#### Patrons
 
 - **Lord Architect Merenset**: A powerful nobleman and principal patron of the City Theater Company who is captivated by Tirye's artistry; he has commissioned private performances and provided financial support for experimental theatrical productions she wishes to develop.
 
@@ -660,7 +659,7 @@ Tirye is driven by an insatiable hunger to create beauty and truthfulness in art
 
 - **The Merchant Prince Aahmes**: A wealthy collector of fine art and patron of performers who has recently become fascinated with Tirye's work and has begun offering generous patronage and connections to elite audiences.
 
-### Enemies
+#### Enemies
 
 - **Actress Nebunia**: A rival performer of nearly equal talent whose roles have been repeatedly passed over in favor of Tirye; she harbors deep resentment and has begun circulating cruel rumors about Tirye's personal life and emotional stability.
 
@@ -668,13 +667,13 @@ Tirye is driven by an insatiable hunger to create beauty and truthfulness in art
 
 - **Critic Amenhotep**: An influential theater critic whose scathing review of Tirye's early work wounded her deeply; he remains dismissive of her talent despite her subsequent success and continues to write devastating critiques.
 
-### Affiliations
+#### Affiliations
 
 - **City Theater Company**: A senior member of the ensemble, though not yet achieving official leadership status; she is the Company's most celebrated performer and serves as a subtle informal mentor to younger actresses.
 
 - **The Artistic Collective of Hâpi**: A group of performers, painters, and musicians dedicated to exploring the spiritual dimensions of art and maintaining the Kemetían artistic traditions; Tirye is a committed though sometimes erratic participant.
 
-## Plot Hooks
+### Plot Hooks
 
 1. **The Inheritance of Impossible Expectation**: Tirye receives word that her retired mother has fallen gravely ill and wishes to see her before death—but has also declared that she will disinherit Tirye unless the young woman agrees to abandon theater and marry a respectable merchant, settling into domestic life as is proper. Tirye must journey to her mother's home, navigating family expectations, cultural pressures, and her own deep ambivalence. The situation grows complex when she discovers that her mother's illness may be financially motivated manipulation by relatives seeking to control the family estate, and that her mother may be using Tirye's theatrical career as leverage in family power struggles. The resolution forces Tirye to define her own values and to choose between family obligation and authentic selfhood.
 

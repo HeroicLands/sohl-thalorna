@@ -8,7 +8,7 @@ shortcode: clstlpnthn
 packFolder: celestialorder
 ---
 
-# The Celestial Pantheon of Tānvür
+## The Celestial Pantheon of Tānvür
 
 The Celestial Pantheon of the [[affiliation-tanvurempr|Empire of Tānvür]] is not a collection of gods in the Western sense. It is the **senior administrative staff** of the celestial bureaucracy — immensely powerful beings who hold posts within the cosmic classification system. Their power derives not from inherent divinity but from the authority of their office, and the Tānvüri relate to them not through worship but through **petition, transaction, and procedural compliance**.
 
@@ -16,7 +16,7 @@ The pantheon is organized as the **Celestial Bureaucracy**, with Tānlüng as th
 
 ---
 
-## Tānlüng Zhükvōr — The First Classifier
+### Tānlüng Zhükvōr — The First Classifier
 
 **Domain:** Classification, Cosmic Order, and the Neutral Lëi
 
@@ -28,7 +28,7 @@ Tānlüng is represented in art not as a figure but as a **single vertical line*
 
 ---
 
-## Vëizhük Dāknëi — The Jade Sovereign
+### Vëizhük Dāknëi — The Jade Sovereign
 
 **Domain:** Administration, Celestial Coordination, and the Master Registry
 
@@ -40,7 +40,7 @@ The [[lore-tanthei|Tānthëi]] (Celestial Scholars) consider themselves servants
 
 ---
 
-## Rëkgüng Vōrdāk — The Minister of Storms
+### Rëkgüng Vōrdāk — The Minister of Storms
 
 **Domain:** Thunder, Storms, Justice, and Punitive Action
 
@@ -52,7 +52,7 @@ Rëkgüng is depicted as an armored figure with lightning in one hand and a _sta
 
 ---
 
-## Yütvëi Tëngyōk — The Minister of the Moon
+### Yütvëi Tëngyōk — The Minister of the Moon
 
 **Domain:** Moon, Night, Dreams, Cycles, and Prophecy
 
@@ -64,7 +64,7 @@ Yütvëi is depicted as a pale figure holding a lantern in one hand (the light o
 
 ---
 
-## See Also
+### See Also
 
 - [[lore-fvlmntlrds|Five Elemental Lords]] — The elemental administrators who serve beneath the major officials
 - [[lore-celestlrdr|Celestial Order]] — The broader cosmological and administrative framework

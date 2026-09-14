@@ -10,6 +10,4 @@ shortcode: tyrdty
 packFolder: deitiesasguardian
 ---
 
-# Týr
-
 TBD

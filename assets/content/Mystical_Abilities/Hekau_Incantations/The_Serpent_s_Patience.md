@@ -10,8 +10,9 @@ shortcode: srpntsptnc
 img: icons/takheperu/khemenu-hekau/sefut.svg
 type: mysticalability
 subType: arcaneincantation
-sohl:
+data:
   templatePriority: null
+sohl:
   system:
     assocSkillCode: sefut
     masteryLevelBase: 0

@@ -10,8 +10,6 @@ shortcode: landedlordrnk
 description: "Holding a fief or an estate in his own right, with dependents beneath him."
 ---
 
-# Landed Lord
-
 Holding a fief or an estate in his own right, with dependents beneath him.
 
 ## Obligations and Rights

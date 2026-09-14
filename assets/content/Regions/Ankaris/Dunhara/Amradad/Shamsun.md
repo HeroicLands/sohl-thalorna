@@ -18,8 +18,6 @@ shortcode: shamsun
 packFolder: amradad
 ---
 
-# Shamsûn
-
 ## Overview
 
 _To be written._

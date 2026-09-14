@@ -12,8 +12,9 @@ name:
     - The Solar Flame
     - Rā
     - Ra
-sohl:
+data:
   templatePriority: null
+sohl:
   system:
     skillBaseFormula: "@wil, @rea"
     masteryLevelBase: 0

@@ -93,16 +93,12 @@ data:
   relations:
     tngvkvnlei: aligned
     tanvurempr: unaligned
-sohl:
-  templatePriority: null
 name:
   full: Yürtthāt Zhāk
   aliases: []
 shortcode: yurthatzhk
 packFolder: threats
 ---
-
-# Yürtthāt Zhāk
 
 **The House of the Clouded Mountain**
 

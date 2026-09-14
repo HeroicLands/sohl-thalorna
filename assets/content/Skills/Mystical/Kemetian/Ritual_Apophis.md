@@ -14,8 +14,9 @@ name:
     - Apep
     - The Devouring Shadow
     - The Chaos Serpent
-sohl:
+data:
   templatePriority: null
+sohl:
   system:
     skillBaseFormula: "@wil, @rea"
     masteryLevelBase: 0

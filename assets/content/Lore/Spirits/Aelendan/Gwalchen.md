@@ -12,8 +12,6 @@ shortcode: gwalchenspr
 packFolder: lorespiritsaelendan
 ---
 
-# Gwalchen, the Hawk of the Spine
-
 - **Kind:** Animal-kin, of [[lore-thekindred|the Kindred]]
 - **Seat:** [[place-drenavrspn|the Drenavar Spine]]
 - **Territory:** the high air over the Spine, and the crags the hawks nest in

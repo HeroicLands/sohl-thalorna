@@ -40,7 +40,6 @@ data:
     extra_features:
       - a scar on the right cheek
 sohl:
-  templatePriority: null
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 16 } }
     - { model: sohl-sohl-attribute-end, system: { scoreBase: 15 } }
@@ -591,71 +590,71 @@ sohl:
     defaultCombatGroup: null
 ---
 
-# Appearance {#appearance}
+## Appearance {#appearance}
 
 Snorri stands 6'3" tall with a heavy build. He has tanned weathered skin, dark brown hair, and brown eyes. His features include an oval face, a narrow nose, a broad chin, a slightly downturned mouth, dark brows. A distinguishing mark is a scar on the right cheek.
 
-# Dossier {#dossier}
+## Dossier {#dossier}
 
-## Background
+### Background
 
-### Born into Chains
+#### Born into Chains
 
 Snorri was born to unfreedom. His parents were thralls on the estate of **Jarl Erik Bloodstone**, a minor noble of the Kingdom of Nordheim whose lands produced little of value except grain and suffering. Snorri's father died when he was eight, worked to death in the harvest season, and his mother disappeared five years later—sold to another jarl to settle debts. From his earliest memory, Snorri knew only the rhythms of agricultural labor, the constant threat of punishment, and the weight of absolute powerlessness.
 
-### The Stirring of Rebellion
+#### The Stirring of Rebellion
 
 At seventeen, something broke inside Snorri. An overseer named **Hrollaug the Cruel** ordered him to work through a fever that nearly killed him, then beat him for slowing his pace. When Snorri recovered, he waited for his moment. One evening, he caught Hrollaug unaware and beat him so severely that the overseer never fully regained his faculties. The beating was attributed to bandits, but everyone knew the truth. Snorri received thirty lashes for the "suspicion" of involvement, and the scar on his cheek serves as a permanent reminder of his defiance—and the price of resistance.
 
 Since that day, Snorri has been marked as a troublemaker, assigned the worst tasks, watched constantly. Yet his determination has only hardened. He studies the skills the jarl's farmhands use, learns metalworking from stolen time near the smithy, and practices with weapons whenever possible. He has spoken to other thralls about the possibility of escape, has learned the names of free peoples in distant lands, and has begun to believe that unfreedom is not inevitable.
 
-### Present Bondage
+#### Present Bondage
 
 Now thirty-one years old, Snorri represents an unique threat to his masters—strong enough to be valuable, intelligent enough to be dangerous, and rebellious enough to be constantly suspect. Jarl Erik would have sold him years ago, but Snorri's productivity remains too high to easily replace. Instead, he is watched, controlled, and kept perpetually on the edge of severe punishment. Yet something in his spirit remains unbroken.
 
-## Psyche
+### Psyche
 
-### Personality
+#### Personality
 
 Snorri is a man of contained fury and dangerous eloquence. He speaks little, having learned that words often precede punishment, but when he does speak, his observations cut through pretense with the clarity of a well-honed blade. He possesses a grim humor, finding dark comedy in the absurdity and cruelty of his situation. Those who know him well recognize that his silence masks an extraordinary mind—one that observes, catalogs, and strategizes constantly. He is not cruel by nature, and his anger is not misdirected at his fellow thralls; rather, it burns with singular focus toward his masters and the system that enslaves him.
 
 He is spiritually devoted to Týr, the god of order and law, though his faith has evolved into something complex and defiant. He believes that true order demands justice, and that the false order imposed by his enslavers is a perversion of divine law. He prays in secret, asking Týr to grant him strength and clarity, and to make him an instrument of the reordering that must come.
 
-### Motivation
+#### Motivation
 
 Snorri is consumed by two intertwined motivations: the visceral desire for freedom and the burning need to create change that extends beyond his own liberation. He does not simply wish to escape—he wishes to break the system that creates thralls. This ambition, dangerous and likely to get him killed, is the fire that sustains him through impossible labor and constant surveillance. He would sacrifice his own freedom if it meant striking a meaningful blow against the institution of bondage itself.
 
-### Strengths
+#### Strengths
 
 - **Extraordinary Physical Strength**: Snorri's frame was built for labor, but his strength far exceeds that of ordinary thralls. He can accomplish in a day what typically requires two workers.
 - **Resilience and Endurance**: Years of maltreatment have forged Snorri into something nearly indestructible. He can work through pain, hunger, and exhaustion that would break others.
 - **Strategic Intelligence**: Snorri's mind is constantly analyzing, learning, and strategizing. He understands complex agricultural systems, the politics of the noble estates, and the routes by which thralls might escape.
 - **Inspired Leadership**: Despite his bondage, Snorri's defiance has become a beacon of hope to other thralls. They look to him as a figure of resistance, though he has carefully avoided openly organizing (which would bring immediate execution).
 
-### Weaknesses
+#### Weaknesses
 
 - **Impulsive Defiance**: Snorri's rage sometimes overrides his strategic thinking. He has taken risks that could have ended his life, driven more by anger than reason.
 - **Physical Vulnerability to Punishment**: Despite his strength, Snorri remains legally powerless. He cannot defend himself against official punishment without sealing his death warrant.
 - **Limited Education**: While intelligent, Snorri lacks formal learning. He cannot read, write, or speak languages beyond his native tongue—limitations that could prevent escape or advancement.
 - **Dangerous Attention**: His reputation for defiance and his close monitoring mean that any escape attempt will be met with extreme prejudice, and any revolutionary activity would immediately fall under suspicion.
 
-## Social
+### Social
 
-### Patrons
+#### Patrons
 
 Snorri has no patrons in the traditional sense. His masters view him as property, not as a person worthy of patronage. However, a few figures in his world show him kindness: **Astrid the Healer**, a free woman who treats thrall injuries in secret, has become a quiet ally. She provides him with medical care and information, though both know the risks of their contact. **Father Rúnarr**, a traveling priest of Týr, once stayed at the estate and spoke with Snorri of divine justice—leaving him with a hidden talisman and words of encouragement that sustained him through dark years.
 
-### Enemies
+#### Enemies
 
 - **Jarl Erik Bloodstone**: His nominal master, a man more interested in profit than cruelty, but nonetheless the embodiment of the system that enslaves him. Jarl Erik views Snorri as a potentially valuable asset that is becoming too dangerous.
 - **Haldor, the New Overseer**: The replacement for Hrollaug, and no less cruel. Haldor treats Snorri with particular savagery, viewing him as a threat that must be constantly suppressed.
 - **The System Itself**: Snorri's true enemy is the legal and social structure of thralldom that permits his bondage. He sees every noble, every priest who accepts the status quo, as complicit.
 
-### Affiliations
+#### Affiliations
 
 Snorri is forbidden from formal associations, but he maintains unofficial connections: an informal network of thralls who share information about escape routes, a loose spiritual affinity with followers of Týr who believe in divine justice, and a dangerous proximity to whispers of resistance movements in distant lands.
 
-## Plot Hooks
+### Plot Hooks
 
 1. **The Chance of Escape**: A merchant caravan arrives at the estate, and Snorri recognizes one of the drivers as a former thrall who achieved freedom. That night, he is offered a genuine opportunity to escape—a hidden cart, a route to safety, and a life of freedom. But the escape would require leaving others behind, abandoning his dream of systematic change, and accepting that he alone survives while the system continues. His choice will define whether he is a revolutionary or a survivor.
 

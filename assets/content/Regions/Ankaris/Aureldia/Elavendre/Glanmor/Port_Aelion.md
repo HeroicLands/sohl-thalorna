@@ -18,8 +18,6 @@ shortcode: portaelion
 packFolder: elavendre
 ---
 
-# Port Aelion
-
 ## Overview
 
 Port Aelion sits upon the western coast of Élavendre where the great cliffs yield to gentler slopes and natural harbors provide shelter for merchant vessels and fishing boats alike. The town has emerged as Élavendre's primary gateway for sea trade, its wharves bustling with commerce between the kingdom and distant realms. Yet despite its mercantile function, Port Aelion retains a character distinctly Élavendren—the stone buildings incorporate fae architectural motifs, the markets honor both traditional crafts and the subtle magics that characterize Élavendre's culture, and the town's foundational stones are said to have been blessed by Sinalë who once walked the coastline.

@@ -22,11 +22,7 @@ data:
     - kingdmdnvr
   gender: male
   species: null
-sohl:
-  templatePriority: null
 ---
-
-# Nhelyn Vélthravel
 
 **Role.** Provides medical care to the party.
 

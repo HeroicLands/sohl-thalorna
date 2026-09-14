@@ -10,6 +10,4 @@ shortcode: morvahnadty
 packFolder: deitiesashalan
 ---
 
-# Mórváhñä
-
 TBD

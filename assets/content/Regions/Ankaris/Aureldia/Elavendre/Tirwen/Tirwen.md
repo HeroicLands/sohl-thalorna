@@ -19,8 +19,6 @@ shortcode: tirwen
 packFolder: elavendre
 ---
 
-# Tirwen
-
 **Tirwen** — _the fair land_ — is the heartland of [[place-elavendre|Élavendre]]: the broad, green,
 well-watered basin of the [[place-beravriver|Bérav]], running from the northwestern uplands down to the
 sea. It holds roughly nine hundred thousand people, the capital, the University, and the great majority
@@ -54,8 +52,7 @@ Tirwen produces the least raw material of any Élavendren region and almost all 
 
 ## The Contest
 
-Tirwen is where the kingdom's central argument is conducted. The [[affiliation-ordoarcanis|Ordo
-Arcanis]] holds the University of Béravel — the largest [[affiliation-panepistmm|Panepistemium]] campus
+Tirwen is where the kingdom's central argument is conducted. The [[affiliation-ordoarcanis|Ordo Arcanis]] holds the University of Béravel — the largest [[affiliation-panepistmm|Panepistemium]] campus
 outside the Vylarian Empire — and the [[affiliation-bardicolgs|Bardic Colleges]], the Grove Council and
 the Áelendan tradition contest its authority over the kingdom's supernatural life. In Tirwen that
 contest is polite, institutional and conducted through patronage. Beyond it, it is not.

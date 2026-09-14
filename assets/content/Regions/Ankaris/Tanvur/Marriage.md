@@ -8,7 +8,7 @@ shortcode: marriage
 packFolder: tanvur
 ---
 
-# Marriage Customs of the Empire of Tānvür
+## Marriage Customs of the Empire of Tānvür
 
 Marriage in the [[affiliation-tanvurempr|Empire of Tānvür]] is not a union of hearts. It is a **reclassification event** — the merging of two families' spiritual accounts into a new administrative unit, registered with the celestial bureaucracy and assigned its own [[lore-celestlrdr|moral ledger]]. Love and marriage are understood as entirely separate categories. One is a private sentiment; the other is a filing that restructures the cosmic order of two households.
 
@@ -16,7 +16,7 @@ The customs surrounding marriage vary significantly by caste, but the underlying
 
 ---
 
-## Marriage as Classification
+### Marriage as Classification
 
 When two families agree to a marriage, they are not merely joining their children — they are **merging spiritual infrastructure**. The combined household will share a single moral ledger, a single set of [[lore-ancstrwrshp|ancestor spirits]] drawn from both lineages, and a single [[lore-celestlrdr|Hearth Monitor (Zātkür)]] assigned by the celestial administration to observe and report on the new unit.
 
@@ -24,7 +24,7 @@ This is why marriages are arranged by clan councils rather than by the individua
 
 ---
 
-## Marriage Eligibility
+### Marriage Eligibility
 
 **Caste Restrictions:** Legal marriage — that is, marriage _registered with the celestial administration_ — is reserved for members of the [[lore-zheklung|Zhëklüng]] (Sons of the Dragon), [[lore-vushok|Vüshōk]] (Warrior Nobility), [[lore-tanthei|Tānthëi]] (Celestial Scholars), and [[lore-zathuk|Zāthük]] (Artisans and Craftsmen). These castes are classified at a level that warrants the administrative overhead of a formal household merger.
 
@@ -36,7 +36,7 @@ The Nōkvür compensate through the [[lore-ancstrwrshp|Lëigürt]], who perform 
 
 ---
 
-## The Marriage Ceremony
+### The Marriage Ceremony
 
 The marriage ceremony is a **registration ritual** — a formal filing that creates the new household classification and activates its spiritual infrastructure. The ceremony's elements are not symbolic gestures of affection; they are bureaucratic steps, each of which accomplishes a specific administrative function.
 
@@ -52,7 +52,7 @@ The marriage ceremony is a **registration ritual** — a formal filing that crea
 
 ---
 
-## Marriage and Love
+### Marriage and Love
 
 Love is not forbidden in Tānvür. It is simply _irrelevant_ to the classification system.
 
@@ -62,7 +62,7 @@ Among the elite castes, sophisticated courtship customs exist — poetry, gift-g
 
 ---
 
-## Consorts
+### Consorts
 
 In addition to their legal spouse, both men and women of sufficient wealth may maintain multiple consorts. The number of consorts is limited only by the household's ability to support them — both materially and _spiritually_, since each additional member of the household increases the moral ledger's complexity and the offerings required to maintain the ancestor spirits.
 
@@ -70,7 +70,7 @@ Consorts are recognized members of the household but are not parties to the marr
 
 ---
 
-## Children and Inheritance
+### Children and Inheritance
 
 Children born from a legal marriage are registered with the celestial administration at birth — a rite performed by the Lëigürt that assigns the child a place in the household's moral ledger and a classification under their birth-year's spirit animal. The choice of heir is determined by the clan leader in consultation with the clan council, based on the child's abilities, character, and astrological classification. Divination is frequently employed to determine which child the ancestor spirits favor.
 
@@ -78,7 +78,7 @@ Inheritance in Tānvür is not merely the transfer of material wealth. It is the
 
 ---
 
-## Divorce and Dissolution
+### Divorce and Dissolution
 
 Divorce is extremely rare, because dissolving a marriage is not merely ending a personal relationship — it is **deregistering a classified unit** from the cosmic order. The celestial administration does not process reversals easily.
 
@@ -88,7 +88,7 @@ The dissolution process requires a formal petition to the Bureau of Continuity, 
 
 ---
 
-## See Also
+### See Also
 
 - [[lore-castelaws|Caste Laws]] — The caste restrictions that govern marriage eligibility
 - [[lore-ancstrwrshp|Ancestor Worship]] — The ancestor spirits whose approval is required for marriage

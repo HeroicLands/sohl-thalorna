@@ -102,8 +102,6 @@ data:
   parents: []
   relations:
     arldnpnthn: aligned
-sohl:
-  templatePriority: null
 name:
   full: The Iron Cinder
   aliases:
@@ -112,8 +110,6 @@ name:
     - The Black Fist
 shortcode: ironcinder
 ---
-
-# The Iron Cinder
 
 _Aurèldían: Cinis Ferreus — "Iron Cinder"_
 

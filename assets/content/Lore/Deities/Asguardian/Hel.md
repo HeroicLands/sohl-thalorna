@@ -10,6 +10,4 @@ shortcode: heldty
 packFolder: deitiesasguardian
 ---
 
-# Hél
-
 TBD

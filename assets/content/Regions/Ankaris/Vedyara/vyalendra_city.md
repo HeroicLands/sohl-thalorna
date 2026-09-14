@@ -16,8 +16,6 @@ name:
 shortcode: vyalendra3
 ---
 
-# Vyālendra
-
 ## Overview
 
 _To be written._ Vyālendra is the capital and principal settlement of [[affiliation-vyalendra2|Vyālendra]].

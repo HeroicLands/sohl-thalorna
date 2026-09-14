@@ -8,8 +8,6 @@ shortcode: bthrhrtzhk
 packFolder: threats
 ---
 
-# Bāthür Hürtzhük
-
 **"Master Tiger of the Steppes"**
 
 The formidable and feared **Bāthür Hürtzhük** has emerged as a powerful warlord from the northern wilderness, known as the **Hëkvōr** (Hëkvōr), or the "Black Wilds." A master strategist and ruthless leader, he has united the disparate and warring barbarian tribes under a single banner. His rise to power has sent shockwaves throughout the [[affiliation-tanvurempr|Empire of Tānvür]], as his forces grow ever stronger and more disciplined.

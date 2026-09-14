@@ -7,8 +7,9 @@ img: systems/sohl/assets/icons/noun/psionics.svg
 shortcode: vsnm
 type: mysticalability
 subType: arcanetalent
-sohl:
+data:
   templatePriority: null
+sohl:
   system:
     assocSkillCode: ""
     masteryLevelBase: 0

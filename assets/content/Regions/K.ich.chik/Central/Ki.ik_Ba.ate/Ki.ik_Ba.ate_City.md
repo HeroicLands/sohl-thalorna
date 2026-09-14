@@ -16,8 +16,6 @@ name:
 shortcode: kiikbaate2
 ---
 
-# Ki'ik Ba'ate
-
 ## Overview
 
 _To be written._ Ki'ik Ba'ate is the central city and seat of the [[affiliation-kiikbaate|Ki'ik Ba'ate]] city-state.

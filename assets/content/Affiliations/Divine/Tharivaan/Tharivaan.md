@@ -72,12 +72,10 @@ data:
   parents:
     - tharivaan
   relations: {}
-sohl:
-  templatePriority: null
 packFolder: pantheonstharivaan
 ---
 
-# Thári'vaan: The Living Whole
+## Thári'vaan: The Living Whole
 
 - **Region:** [[affiliation-kalihara|Kalihara]]
 - **Nature:** Non-theistic philosophical tradition
@@ -90,7 +88,7 @@ The Kaliharan understanding of Thári'vaan is at once philosophical and practica
 
 The closest Ankarian equivalent might be a kind of reverence — not worship, but a deep and abiding respect for the world as it is, combined with a sense of obligation to maintain its balance. Kaliharans do not pray; they observe. They do not make offerings; they tend.
 
-## The Three Observances
+### The Three Observances
 
 Kaliharan practice, as taught to children from the earliest age, is organised around three foundational observances that the Ithári'kaan describe as the minimum discipline by which any adult participates in Thári'vaan.
 
@@ -100,13 +98,13 @@ The second is **vaan'ari** — "right tending." Every Kaliharan is responsible f
 
 The third is **kaan'vaar** — "holding what was left." This is the observance most closely associated with the Ithári'kaan, but in diluted form it is practised by every Kaliharan. It consists of the preservation — through exact repetition, through careful teaching of the next generation, through refusal of improvisation in matters of significance — of inherited practice. A Kaliharan farmer plants according to patterns that their grandmother's grandmother planted. A Kaliharan fisher sets nets at depths and in sequences that have not changed in living memory. The underlying theory is simple: if the balance has held for ten thousand years, the practices that produced it are not to be lightly altered. Innovation is not forbidden — the Kaliharans are not fools — but it is treated as a weighty decision, to be undertaken only when the old way has demonstrably failed.
 
-## The Ithári'kaan
+### The Ithári'kaan
 
 The custodial priesthood, the **Ithári'kaan** ("Keepers of What Was Left"), forms the spiritual and institutional heart of Kaliharan society. Their role is to preserve the knowledge and practices of the Ithári precursors, to maintain the ancient structures, and to ensure that the balance of Thári'vaan is not disrupted.
 
 Over ten thousand years, the original understanding of what they are maintaining has inevitably shifted. Procedures that the Ithári may have understood as practical engineering — the tending of specific structures, the performance of specific sequences of action at specific times — have acquired layers of ritual meaning. The Ithári'kaan perform these maintenance liturgies with meticulous precision, believing them essential to the health of the island, even as the original technical purpose has been forgotten or transformed into something closer to ceremony.
 
-### Ranks and Formation
+#### Ranks and Formation
 
 The Ithári'kaan are organised into four ranks, each defined less by hierarchy than by the kind of responsibility held.
 
@@ -118,11 +116,11 @@ A **kaan'thári** — "one who keeps what came before" — is the senior rank, r
 
 A **sílhari'kaan** — "clear-seer of the keepers" — is the rarest rank, held by perhaps a dozen individuals at any time. These are Kaliharans of extraordinary discernment and encyclopaedic knowledge, responsible for coordinating custodial practice across the whole island, for convening the councils that decide when an ancient procedure must be adjusted in the face of structural failure, and for carrying — in strict confidence — the knowledge of how deep the crisis of the failing structures has actually become.
 
-### The Sanctuaries
+#### The Sanctuaries
 
 Ithári'kaan formation and practice is anchored at a small number of interior sanctuaries, each associated with a particular cluster of ithári'sul structures and with a particular branch of custodial knowledge. The Sanctuary of **Veshvaan** in the central highlands is the oldest and largest, housing the most extensive archives of inherited procedure; the Sanctuary of **Thal'ari** on the western slopes is the formation-centre for custodians whose vaan'ari will concern coastal and oceanic structures; the Sanctuary of **Mirthaan** in the eastern river valleys trains custodians of the agricultural installations. There are perhaps two dozen sanctuaries in all, each functioning as a kind of combined seminary, archive, workshop, and working site. Foreigners have never been permitted to visit any of them.
 
-## Sacred Objects
+### Sacred Objects
 
 Thári'vaan has no idols, no devotional images, no reliquaries in the Ankarian sense. What it has instead is a small and carefully maintained set of objects that the Ithári'kaan regard as load-bearing — objects through which the practice of custodianship is organised and transmitted.
 
@@ -134,7 +132,7 @@ Thári'vaan has no idols, no devotional images, no reliquaries in the Ankarian s
 
 **Ithári records** are carved stone slabs and inscribed metal plaques, many still undeciphered, held in the deepest archives of the interior sanctuaries. Only sílhari'kaan and the most senior kaan'thári have access to them. Most carry procedural instructions for the maintenance of specific structures; a minority contain what appear to be philosophical or historical texts whose meaning has been partially lost over ten millennia.
 
-## Ceremonies and Maintenance Liturgies
+### Ceremonies and Maintenance Liturgies
 
 Kaliharans do not celebrate ceremonies in the festive, communal sense that characterises Ankarian religious life. What the Ithári'kaan call **sari'kaan** — "the tending-acts" — are closer to what an Ankarian engineer might recognise as scheduled maintenance, performed with the solemnity that the passage of ten thousand years has invested in procedures whose original technical purpose is no longer understood.
 
@@ -146,7 +144,7 @@ Kaliharans do not celebrate ceremonies in the festive, communal sense that chara
 
 **The Rite of Last Tending** is the most quietly weighted ceremony the Ithári'kaan perform. When a structure is judged to have failed beyond recovery — when the procedures no longer produce any observable effect, when the stone has cooled or darkened or cracked — the senior custodians of the region assemble to perform one final tending, break a single fragment of ithári'sul from the installation to carry back to the sanctuary, and record the failure in the master archive. No mourning is permitted; the Ithári'kaan hold that grief for a structure is grief misdirected, and that the proper response to loss is renewed attention to what remains. In the last three generations, the Rite of Last Tending has been performed more often than in the previous three centuries combined, and the sílhari'kaan who carry the count of failures speak of this to no one outside their rank.
 
-## Seasonal Observances
+### Seasonal Observances
 
 The island's year is marked by four turnings of the monsoon, and each is the occasion for a quiet, widely observed rhythm rather than a festival in the Ankarian sense.
 
@@ -158,7 +156,7 @@ The island's year is marked by four turnings of the monsoon, and each is the occ
 
 **Deepwater** (the heart of the wet season, late in the year) is the most inward turning, when travel in the interior is impractical and households keep to their own thresholds. The Ithári'kaan perform the Dawn Tendings in the rain without variation; the laity spend the time on archival work — copying worn sílhari manuals, teaching children the names of plants, reviewing the records of the lineage.
 
-## Relationship to Other Faiths
+### Relationship to Other Faiths
 
 Thári'vaan has no counterpart in any other Thalorna tradition. It is not a pantheon, not animism, and not ancestor worship. Ankarian scholars have struggled to categorise it, variously labeling it a philosophy, a nature cult, or a form of ancestor veneration — none of which accurately captures what it is. The Kaliharans themselves are sanguine about the confusion. They do not seek converts, they do not debate doctrine, and they regard the entire question of comparative religion as a distraction from the work of tending.
 

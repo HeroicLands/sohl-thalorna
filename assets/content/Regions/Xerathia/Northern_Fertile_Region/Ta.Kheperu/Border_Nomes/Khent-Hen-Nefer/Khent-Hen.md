@@ -18,8 +18,6 @@ shortcode: khenthen
 packFolder: bordernomes
 ---
 
-# Khent-Hen
-
 ## Overview
 
 Khent-Hen is the capital of [[affiliation-nomekhnthn|the Nome of Khent-Hen-Nefer]] and the seat of its [[affiliation-empirtkhpr#titles-and-forms-of-address|Haty'a]]. It holds the nome's chief temple of [[affiliation-mentu|Mentu]], the Haty'a's court and granaries, the scribal bureau that keeps the tax rolls, and the markets that serve the surrounding villages and estate-towns. Its character is the nome's: forward southern forts beyond the first cataract; the empire's hardest postings.

@@ -12,8 +12,9 @@ type: concoctiongear
 subType: elixir
 hmk:
   name: Sustenance
-sohl:
+data:
   templatePriority: null
+sohl:
   system:
     weightBase: 0.25
     valueBase: 0

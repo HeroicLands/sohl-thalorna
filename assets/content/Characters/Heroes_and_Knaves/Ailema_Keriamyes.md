@@ -40,7 +40,6 @@ data:
     complexion: null
     extra_features: []
 sohl:
-  templatePriority: null
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 10 } }
     - { model: sohl-sohl-attribute-end, system: { scoreBase: 12 } }
@@ -607,43 +606,43 @@ sohl:
     defaultCombatGroup: null
 ---
 
-# Appearance {#appearance}
+## Appearance {#appearance}
 
 Ailêmâ stands 5'11" tall with a medium build. She has light olive skin, chestnut hair, and brown eyes. Her features include a long face, an aquiline nose, a pointed chin, full lips, heavy brows, sculpted cheeks.
 
-# Dossier {#dossier}
+## Dossier {#dossier}
 
-## Background
+### Background
 
-### The Child of Letters
+#### The Child of Letters
 
 Ailêmâ was born in the capital city of Alyssa, within the Empire of Vylaria, into the Kêrîamyês family—a family of scholars and administrators of modest means but considerable reputation for intellectual achievement. Her father, **Veridân Kêrîamyês**, was himself a scribe of some renown, known for his meticulous work on historical chronicles and legal documents. Her mother, **Istrylla d'Alyssa**, came from a merchant family but was equally educated and served as a teacher to the children of nobility. From her earliest years, Ailêmâ was immersed in the world of letters. She learned to form her first words while watching her father at his work table, fascinated by the transformation of thought into visible marks upon parchment. By age five, she was already being tutored in basic script; by ten, she was assisting her father on commissioned work.
 
-### Scholarly Apprenticeship
+#### Scholarly Apprenticeship
 
 At age fourteen, Ailêmâ was formally apprenticed to **Master Scriptorium Director Vexillus**, the head of the Imperial Scribal Academy and arguably the most respected calligrapher in the Empire. Where many apprentices would have been daunted by Vexillus's exacting standards and legendary harshness, Ailêmâ found them clarifying. His demand for perfection mirrored her own internal standards; his refusal to accept excuses motivated her to achieve at the highest level. Under his mentorship for six years, she mastered not only the basic Vylarian script but three additional historical and ceremonial scripts, studied the theory and practice of ink preparation, learned the craft of parchment evaluation and treatment, and developed a philosophical understanding of her work as a bridge between thought and permanence.
 
 Her apprenticeship culminated in an extraordinary achievement: at age twenty, she was commissioned to create an illuminated copy of the **Codex of Imperial Law**—a manuscript that required eighteen months of meticulous work and represented the most significant commission ever given to someone of her age. The completed work was displayed in the Imperial Palace and became the subject of considerable acclaim. She was granted her full Guildmaster credentials at age twenty-two, an unusually early achievement, and was awarded standing within the Scribal Guild that ensured her access to the finest materials and most prestigious commissions.
 
-### Current Life and Growing Complications
+#### Current Life and Growing Complications
 
 Now twenty-nine, Ailêmâ operates a well-established scribal practice in Alyssa. She maintains a small workshop where she takes on commissions ranging from legal documents and historical transcriptions to artistic illuminated texts and personal correspondence for the nobility. Her reputation for quality and reliability is exceptional—clients know that when they commission work from Ailêmâ Kêrîamyês, it will be completed on schedule, to exacting standards, and with the kind of attention to detail that justifies the premium prices she commands. Her income is substantial, though much of it is reinvested in maintaining her workshop and acquiring the finest materials.
 
 However, beneath her successful exterior, Ailêmâ has begun to experience a growing sense of dissatisfaction and questioning. Her perfectionism, once a strength, has begun to feel like a cage. She finds herself endlessly revising and perfecting commissions, unable to declare them truly "finished" even when objectively they surpass client expectations. She has begun to wonder whether her devotion to Flórania—the fertility goddess whose aspect encompasses growth, change, and the cycles of life—has been eclipsed by her fixation on creating permanent, unchanging perfection. She is increasingly aware that her personal life has atrophied: she has few close relationships, no romantic attachments, and her world has shrunk to encompass primarily her workshop and her clients. The internal conflict between her excellence as a craftsperson and her sense of having missed out on larger dimensions of living is beginning to push her toward significant life changes.
 
-## Psyche
+### Psyche
 
-### Personality
+#### Personality
 
 Ailêmâ is an intensely cerebral person whose thoughts move quickly and incisively. She is articulate and intelligent, comfortable discussing complex topics and willing to engage in rigorous debate about matters of importance. However, her eloquence is more academic than charismatic—she speaks with precision and clarity but without the emotional resonance or persuasive force that draws crowds. In professional contexts, she is composed and gracious; in social situations, she can be reserved and somewhat aloof, her low empathy (10) making it difficult for her to intuitively understand the emotional needs or perspectives of others.
 
 She is exacting with herself and others, holding everyone—but especially herself—to high standards of professionalism and integrity. This makes her trustworthy and dependable but also can make her seem harsh or unforgiving when others fail to meet her expectations. She has little patience for mediocrity or excuses, viewing them as signs of insufficient effort rather than circumstance. Her wit, when expressed, tends toward pointed commentary rather than warm humor. Despite these seemingly austere qualities, those who know her well recognize that beneath her controlled exterior lies a woman of deep principle and genuine commitment to her values—she is simply not skilled at expressing warmth, and she assumes that her consistent, reliable presence over time will communicate her regard more clearly than any effusive gesture could.
 
-### Motivation
+#### Motivation
 
 Ailêmâ is driven by competing desires that create significant internal tension. On one level, she is motivated by a commitment to excellence and a desire to create works of lasting beauty and significance—to produce artifacts of such quality that they will endure and be valued across generations. This drive has made her an exceptional craftsperson but has also become somewhat consuming. On another level, she has begun to feel an entirely different motivation emerging: a hunger to experience life more fully, to take risks, to pursue growth and transformation rather than crystallized perfection. She is beginning to wonder whether her greatest work might not be a perfectly executed manuscript, but rather a fully lived life—one that includes adventure, genuine connection with others, and engagement with the world beyond her workshop. This tension between her established identity as a master scribe and her emerging sense that she has been living too small a life is the engine driving her toward significant change.
 
-### Strengths
+#### Strengths
 
 - **Exceptional Intellectual Acuity**: With reasoning at 18, Ailêmâ possesses extraordinary analytical capability. She can parse complex information, identify logical patterns and inconsistencies, and solve difficult intellectual problems with remarkable speed. She excels at understanding how systems work and how to navigate them efficiently.
 
@@ -655,7 +654,7 @@ Ailêmâ is driven by competing desires that create significant internal tension
 
 - **Physical Precision**: Her dexterity (17) is her highest physical attribute, and she can perform intricate manipulations with remarkable control. She is also skilled at climbing (14) and possesses decent archery (16) and throwing ability (16), suggesting martial training uncommon for scribes.
 
-### Weaknesses
+#### Weaknesses
 
 - **Limited Physical Strength**: With strength at only 10, Ailêmâ is physically weak. She cannot engage in sustained physical combat or heavy labor, and she would be genuinely vulnerable in direct confrontation.
 
@@ -669,9 +668,9 @@ Ailêmâ is driven by competing desires that create significant internal tension
 
 - **Limited Resilience in Adversity**: Her modest will (12) and endurance (12) mean she does not recover quickly from setback or physical hardship. She is psychologically brittle when circumstances deviate significantly from her plans.
 
-## Social
+### Social
 
-### Patrons
+#### Patrons
 
 - **Imperial Archivist Salûdor**: The head of the Imperial Archives, who commissions Ailêmâ regularly for the transcription and preservation of historical documents. He values her reliability and her understanding of archival standards.
 
@@ -679,19 +678,19 @@ Ailêmâ is driven by competing desires that create significant internal tension
 
 - **Master Vexillus**: Her former teacher, now elderly and retired, who maintains contact with Ailêmâ and occasionally seeks her advice on historical scribal techniques and serves as an informal mentor regarding her career.
 
-### Enemies
+#### Enemies
 
 - **Scribe-Master Thelvûn**: A rival scribe who operates a competing workshop in Alyssa. Thelvûn practices a more commercial, volume-oriented approach to scribal work, and he views Ailêmâ's perfectionism and premium pricing as elitist. He has actively worked to undercut her prices and has spread rumors questioning whether her premium pricing is justified by proportionally superior quality.
 
 - **The Merchant-Bureaucrats of Trade**: A faction within the merchant guilds who view scribal services as an unnecessary luxury and have advocated for the replacement of hand-written documents with printed or more economical alternatives. They see Ailêmâ as an embodiment of the kind of unnecessary refinement that keeps commerce from being more efficient.
 
-### Affiliations
+#### Affiliations
 
 - **The Imperial Scribal Guild**: Ailêmâ maintains full Guildmaster standing and participates in the guild's formal structures, though she does not hold an official position. She is well-respected within the organization and is occasionally consulted on matters of standards and authenticity.
 
 - **The Temple of Flórania**: She participates sporadically in temple activities and maintains a nominal spiritual affiliation with the fertility goddess. However, her engagement with the temple has been minimal compared to her earlier years, a fact that occasionally troubles her conscience.
 
-## Plot Hooks
+### Plot Hooks
 
 1. **The Codex of Lost Kings**: An elderly nobleman approaches Ailêmâ with an unusual commission. He possesses a fragmentary ancient manuscript—portions of what appears to be a historical account from the early days of the Vylarian Empire. Most pages are damaged, faded, or illegible; others are in a dialect of ancient Vylarian script that is only partially understood. He wants Ailêmâ to restore, interpret, and transcribe the text into modern script, creating a complete readable version. The pay is extraordinary, and the intellectual challenge is captivating. However, as Ailêmâ works through the text, she begins to discover that the manuscript contains accounts of historical events that contradict the official Imperial history—accounts that suggest the empire's founding was far more morally complex and troubling than the sanctioned narrative. If she completes the transcription faithfully, she will create a document that could undermine the legitimacy of the current Imperial dynasty. She must decide whether to complete the work as requested, to censor certain passages, or to abandon the project entirely.
 

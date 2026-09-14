@@ -18,8 +18,6 @@ shortcode: sulun
 packFolder: harad
 ---
 
-# Sulûn
-
 ## Overview
 
 _To be written._

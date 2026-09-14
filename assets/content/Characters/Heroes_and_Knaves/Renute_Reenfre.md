@@ -42,7 +42,6 @@ data:
     complexion: null
     extra_features: []
 sohl:
-  templatePriority: null
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 15 } }
     - { model: sohl-sohl-attribute-end, system: { scoreBase: 14 } }
@@ -614,11 +613,11 @@ sohl:
 
 **Home:** [[place-wasetkara|Wasetkara]]
 
-# Appearance {#appearance}
+## Appearance {#appearance}
 
 Renutê stands 5'7" tall with a light build. She has dark skin, black hair, and dark brown eyes. Her features include a high-cheekboned face, a straight narrow nose, a gentle jawline, generous lips, dark brows, angular cheeks.
 
-# Dossier {#dossier}
+## Dossier {#dossier}
 
 **From Humble Hearth to the Reenfré**
 
@@ -632,19 +631,19 @@ Over three decades, **Renutê** transformed her modest inn into one of the city'
 
 Now in her early sixties (though she claims fifty), **Renutê** reigns over the Reenfré with benevolent authority. Her establishment has expanded over the years, with private rooms for important guests, a kitchen that produces both everyday fare and culinary masterworks, and accommodations ranging from simple rooms for traveling merchants to more luxurious suites. She serves on the Local Innkeepers' Association and uses that position to advocate for the interests of hospitality workers and small proprietors. She has become the keeper of the city's stories—she knows the histories, scandals, secrets, and victories of hundreds of people, and this knowledge makes her a subtle but significant power broker. Yet for all her influence and success, she remains genuinely connected to the work of the inn, personally cooking many of its most important meals and greeting regular patrons with authentic warmth.
 
-## Psyche
+### Psyche
 
-### Personality
+#### Personality
 
 **Renutê** is boisterous and vivacious, with a laugh that can be heard across the common room and a tendency to express herself in dramatic gestures and colorful language. She is a natural storyteller who can transfix an audience with tales of notable guests, historical events, or her own adventurous past (the extent to which her stories embellish reality is a matter of good-natured debate). She treats most people with genuine warmth but is not naive; she can size up a person's character quickly and will refuse service to those she deems dangerous or disreputable.
 
 Beneath the boisterousness is a sharp mind for business, a deep understanding of human nature, and a genuine commitment to the welfare of her staff and regular patrons. She can be maternal in her concern for those she feels responsible for, though she expresses this through practical help and honest counsel rather than sentimentality. She has strong opinions and expresses them freely, though she is secure enough in herself that disagreement doesn't threaten her. She is fiercely proud of her inn and its reputation, and she takes personally any attack on its quality or standing.
 
-### Motivation
+#### Motivation
 
 **Renutê** is motivated by her vision of her inn as a sanctuary—a place where people can find honest food, genuine hospitality, and the freedom to be themselves without pretense or judgment. She continues working long past the age when she could have retired, because the Reenfré has become more than a business to her; it is a vocation and an expression of her values. She is driven by a desire to create and maintain a space where community happens naturally, where the lonely can find connection and the weary can find rest. She takes pride in the success of her patrons—when adventurers who planned their journeys at her tables return with stories of triumph, or when business partnerships made at her tables flourish, she feels that her inn has fulfilled its purpose. She also maintains a commitment to paying her staff fairly and treating them with respect, viewing the Reenfré as much as an experiment in creating a just workplace as in providing hospitality.
 
-### Strengths
+#### Strengths
 
 - **Culinary Mastery:** **Renutê** is a genuine artist with food and drink; her creations are among the finest in the empire, and her knowledge of cuisines, ingredients, and flavor combinations is extensive and sophisticated. She has trained numerous cooks who now run their own establishments.
 - **Exceptional Memory for People:** She remembers the names, histories, families, and preferences of hundreds of patrons; this gift makes guests feel genuinely valued and gives her remarkable ability to facilitate connections between people.
@@ -654,7 +653,7 @@ Beneath the boisterousness is a sharp mind for business, a deep understanding of
 - **Substantial Physical Strength:** She is stronger than most people would assume from looking at her; she can handle herself in physical confrontation if necessary, though she prefers to avoid it.
 - **Political Savvy:** She navigates guild politics and city governance with considerable skill, using her position on the Innkeepers' Association to advocate effectively for her interests and values.
 
-### Weaknesses
+#### Weaknesses
 
 - **Aversion to Detail Work:** While she manages her business adequately, she struggles with meticulous record-keeping, complex accounting, and the fine administrative details that separate adequate management from excellence. She relies on capable staff members to compensate for this weakness.
 - **Overconfidence in Her Judgment:** Her generally accurate assessment of people can occasionally lead her to misjudge someone, particularly if they appeal to her sympathies or if she is emotionally invested in believing in their integrity.
@@ -663,28 +662,28 @@ Beneath the boisterousness is a sharp mind for business, a deep understanding of
 - **Protective Impulsiveness:** Her fierce loyalty to her staff and regular patrons can cause her to act without full consideration of consequences; she has been known to shelter fugitives or become involved in disputes that endanger her business.
 - **Age and Stamina:** While still strong and vital, she is no longer young; sustained physical exertion tires her, and she recovers from injuries more slowly than she once did.
 
-## Social
+### Social
 
-### Patrons
+#### Patrons
 
 - **Captain Ahmet Sekar:** A decorated naval officer who frequently stays at the Reenfré and uses her common room for important meetings. He values her discretion and her ability to ensure that conversations remain private.
 - **Master Merchant Khadija:** The head of a major trading concern who has relied on **Renutê's** recommendations for finding trustworthy business associates and reliable travel partners. Their relationship has made both of them substantial profits.
 - **The Scholars' Circle:** A group of learned individuals who hold regular meetings at the Reenfré and have come to depend on **Renutê's** ability to provide excellent meals on their schedule and maintain privacy for their discussions.
 - **Various Adventuring Companies:** Numerous groups of adventurers have made the Reenfré their base of operations between expeditions, and they maintain loyalty to **Renutê** across the years.
 
-### Enemies
+#### Enemies
 
 - **Vex the Competitor:** The proprietor of a rival establishment who views **Renutê's** success with jealousy and has begun spreading rumors about food quality and sanitation at the Reenfré. The conflict is more professional rivalry than genuine enmity, but it is real enough.
 - **City Magistrate Tomás:** An official who attempted to impose onerous new regulations on innkeepers, which **Renutê** organized opposition against. He views her advocacy as insubordination and has looked for ways to harass or fine her establishment.
 - **The Debt Collector's Guild:** A disreputable organization that **Renutê** has refused to pay protection fees to, insisting that her inn exists under the city's legitimate jurisdiction. They view her as a target and an example, though direct action against her is risky given her popularity.
 
-### Affiliations
+#### Affiliations
 
 - **Local Innkeepers' Association:** **Renutê** serves as an active member and advocate for innkeeper interests, though her focus on fair labor practices and customer treatment sometimes puts her at odds with more profit-focused proprietors.
 - **The Harbor Community:** As someone located near the docks, **Renutê** maintains connections with merchants, sailors, and port workers; she is considered part of the harbor community and is trusted by its members.
 - **The Scholars' Circle:** While not formally a member, **Renutê** has close ties to this intellectual group and allows them preferential access to her private spaces.
 
-## Plot Hooks
+### Plot Hooks
 
 1. **The Mysterious Inheritance:**: A wealthy patron whom **Renutê** knew casually decades ago arrives at her inn and announces that she has been named in his will as the inheritor of a substantial estate and fortune. The catch: the estate is located far from the city, in a region she has never visited, and accepting it would require her to leave the Reenfré for an extended period or permanently. Moreover, the patron's family contests the will, suggesting that **Renutê** somehow manipulated him. The party becomes involved in traveling to the estate to investigate the situation, potentially defending **Renutê's** character while discovering what the deceased patron's true intentions were.
 

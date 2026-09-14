@@ -22,11 +22,7 @@ data:
     - kingdmdnvr
   gender: male
   species: null
-sohl:
-  templatePriority: null
 ---
-
-# Alananor Enéavel
 
 **Role.** Provides medicinal and magical support to the embassy.
 

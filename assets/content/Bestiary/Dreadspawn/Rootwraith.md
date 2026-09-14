@@ -32,7 +32,6 @@ data:
     extra_features: []
 sohl:
   kbcat: dreadspawn
-  templatePriority: 0
   attrRollFormula:
     str: 1d4+9
     end: 1d6+10
@@ -608,63 +607,63 @@ sohl:
         disabled: false
 ---
 
-# Appearance {#appearance}
+## Appearance {#appearance}
 
 The forest stirs around you though there is no wind—leaves rustle, branches creak and bend, and the very ground beneath your feet shifts with disturbing purpose. Then you see it rise from among the trees: a figure wrought from gnarled wood and twisted root, human in shape but horrifyingly plant-like in execution. Its eyes burn with a sickly green luminescence, and where it moves, the vegetation seems to sicken and wither despite—or perhaps because of—its passage. The air smells of rot and grave-earth, and you feel the temperature drop as if the creature carries an unnatural cold. Long, root-like appendages uncoil from its form, and you realize with terrible clarity that the forest itself is moving in concert with this thing, all of it dancing to a single malevolent will.
 
-# Dossier {#dossier}
+## Dossier {#dossier}
 
 Rootwraiths are the corrupted remnants of nature’s will made manifest—creatures of twisted vegetation and ancient malice that haunt deep forests and wild places where human civilization has never truly taken root. They seem less born than conjured, emerging from soil and root systems as though the earth itself has grown a thorn to punish intrusion. A Rootwraith is utterly territorial and possesses an intelligence that runs counter to nature—not the simple cunning of an animal but something older and colder, with patience measured in decades or centuries. They communicate through the growth and movement of vegetation around them, leaving messages written in withered trees and strangled vines. Some scholars theorize that Rootwraiths are the echo of forest gods rejected and corrupted, their divinity twisted into something malevolent.
 
-## Presentation
+### Presentation
 
 A Rootwraith stands roughly 7 to 9 feet in height, with a humanoid frame composed entirely of densely intertwined vines, gnarled roots, and hardened bark. Its body structure mimics natural anatomy but is deliberately twisted, with joints that bend in unsettling ways and limbs that taper into root-like appendages. Its "face" is a hollow, bark-covered void with two points of sickly bioluminescence where eyes should be—a green-white glow that seems to burn rather than reflect light. Its fingers taper into thorns or root-tips, and it trails wisps of dead vegetation as it moves, leaving behind a path of withered plants. Where the Rootwraith stands, the ground becomes hard and cracked, as though its presence leeches all life from the soil. The air around it smells of decay, loam, and something acrid—the scent of corruption seeping into natural places.
 
-## Key Behaviors
+### Key Behaviors
 
 A Rootwraith is an absolute sentinel of its territory, maintaining dominion over a stretch of forest with patient, implacable certainty. It does not hunt for food but seems to hunt for the sake of hunting—perhaps feeding on the life force it drains, or perhaps simply acting out some ancient directive to eliminate the living from its domain. It is most active at dusk and dawn, moving slower during the height of day but never ceasing entirely. A Rootwraith can command the vegetation within sight, directing trees to move, roots to strangle, and vines to entangle. It seems to communicate with plants around it, and standing in a forest ruled by a Rootwraith creates a pervasive sense of being watched and judged.
 
-## Combat Strategy
+### Combat Strategy
 
 A Rootwraith opens combat by animate the surrounding environment—roots erupting from the ground, vines lashing out from branches, trees swaying to block escape routes. It manipulates terrain to create hazards and prevent retreat while its physical form moves slowly forward, deliberately, as though confident in its inevitable victory. The creature is patient, willing to let terrain and vegetation do much of the work while it delivers finishing touches. If pressed hard or cornered, it becomes more aggressive, its movements faster and its attacks more direct. It will never flee but may retreat into the forest proper, where its control over vegetation is absolute.
 
-## Attack Methods
+### Attack Methods
 
-### Vine Lash
+#### Vine Lash
 
 Long, whip-like vines unfurl from the Rootwraith’s form with terrible speed, capable of cutting, constricting, and dragging. These attacks can be launched from surprising distance and often come from unexpected angles as vines approach from sides and above.
 
-### Thorned Appendage Strike
+#### Thorned Appendage Strike
 
 The creature’s limbs transform or extend into appendages covered in wicked thorns, used for piercing and raking attacks. These strikes are surprisingly precise and often target vulnerable points in armor or exposed flesh.
 
-### Decay Touch
+#### Decay Touch
 
 When the Rootwraith makes contact with living flesh, it can drain the life force directly, causing rapid decomposition of tissue. Victims experience a terrible, burning sensation as their own bodies begin to rot while still alive.
 
-## Special Abilities
+### Special Abilities
 
-### Forest Authority
+#### Forest Authority
 
 The Rootwraith commands all plant life within line of sight as though it were an extension of its own body. Trees move, roots erupt from soil, vines lash out—all at the creature’s command. Terrain becomes a weapon in the Rootwraith’s arsenal.
 
-### Life Drain
+#### Life Drain
 
 The Rootwraith’s very presence saps vitality from living creatures nearby. Those within its aura feel weakened, sickened, and as though their strength is flowing into the corrupted soil beneath their feet.
 
-### Terrain Melding
+#### Terrain Melding
 
 The Rootwraith can sink into the earth, merge with a tree, or disappear into dense vegetation, allowing it to reposition, evade attacks, or launch surprise assaults from unexpected angles. In forested terrain, tracking it becomes nearly impossible.
 
-### Regeneration Through Plant Life
+#### Regeneration Through Plant Life
 
 So long as the Rootwraith remains in contact with living vegetation, it regenerates from damage. Only by severing it from plant life or destroying all vegetation in its vicinity can sustained damage be achieved.
 
-## Additional Information
+### Additional Information
 
 Fire is the Rootwraith’s primary vulnerability, as flames destroy its plant-matter composition and sever its connection to surrounding vegetation. Radiant or holy magic is equally effective, as it seems to oppose the corrupted essence that animates the creature. Cutting down trees around a Rootwraith forces it to seek new vegetation, and in barren areas it becomes slowly weaker. The creatures cannot abide in deserts or desolate places, and transporting one to such an environment effectively kills it. Rootwraiths seem to hold particular hatred for those who harm forests deliberately, and they have been known to pursue loggers and settlers with terrible persistence. Some ancient forests are said to be entirely ruled by Rootwraiths, with every clearing held in check and every traveler who enters never emerging again.
 
-## Attributes
+### Attributes
 
 - **Strength:** 10-13 (1d4+9)
 

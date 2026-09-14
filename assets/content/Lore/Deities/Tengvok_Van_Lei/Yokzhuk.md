@@ -10,6 +10,4 @@ shortcode: yokzhukdty
 packFolder: deitiestengvokvanlei
 ---
 
-# Yökzhük
-
 TBD

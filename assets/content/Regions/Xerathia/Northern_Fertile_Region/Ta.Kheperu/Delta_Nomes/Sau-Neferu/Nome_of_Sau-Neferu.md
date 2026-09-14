@@ -110,12 +110,8 @@ data:
   relations:
     kemtnpnthn: aligned
     iset: aligned
-sohl:
-  templatePriority: null
 packFolder: sauneferu
 ---
-
-# The Nome of Sau-Neferu
 
 ## Overview
 

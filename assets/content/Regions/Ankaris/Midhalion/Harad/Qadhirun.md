@@ -18,8 +18,6 @@ shortcode: qadhirun
 packFolder: harad
 ---
 
-# Qadhirun
-
 ## Overview
 
 _To be written._

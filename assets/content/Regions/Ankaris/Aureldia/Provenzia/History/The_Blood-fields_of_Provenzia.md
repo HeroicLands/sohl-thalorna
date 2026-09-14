@@ -12,8 +12,6 @@ shortcode: bloodfields
 packFolder: provenzia
 ---
 
-# The Blood-fields of Provènzia
-
 Provènzia's history is one of dispute and warfare going back as far as anyone can remember, and the
 kingdom carries the record of it in its ground. Scattered across the region are the **blood-fields**:
 places where a battle was fought at such cost that something of it stayed behind.

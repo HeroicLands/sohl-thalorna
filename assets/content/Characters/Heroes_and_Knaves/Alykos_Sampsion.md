@@ -40,7 +40,6 @@ data:
     complexion: tanned
     extra_features: []
 sohl:
-  templatePriority: null
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 10 } }
     - { model: sohl-sohl-attribute-end, system: { scoreBase: 12 } }
@@ -595,11 +594,11 @@ sohl:
     defaultCombatGroup: null
 ---
 
-# Appearance {#appearance}
+## Appearance {#appearance}
 
 Alýkos stands 5'7" tall with a medium build. He has light tanned skin, gray hair, and dark hazel eyes. His features include a long face, a strong nose, a pronounced chin, full lips, expressive brows.
 
-# Dossier {#dossier}
+## Dossier {#dossier}
 
 Alýkos was born into a merchant family of the Byzarian League, the younger son of a silk trader who expected him to eventually manage family commerce. Yet from childhood, Alýkos demonstrated an obsessive fascination with the mechanisms of the body and the nature of disease. At sixteen, against his father's strong objections, he apprenticed himself to **Physician Theordos**, a respected healer whose small practice operated from a converted storehouse near the harbor district.
 
@@ -607,9 +606,9 @@ Theordos recognized immediately that Alýkos possessed not merely intelligence b
 
 For the past fourteen years, Alýkos has maintained a thriving medical practice, training young physicians, consulting on difficult cases for other healers, and slowly building a comprehensive personal library of medical texts, herbal references, and anatomical illustrations. His reputation for accuracy in diagnosis and innovation in treatment has made him wealthy and respected, yet increasingly isolated by the very dedication that created his success.
 
-## Psyche
+### Psyche
 
-### Personality
+#### Personality
 
 Alýkos is a man of passionate intellect, whose mind moves at velocities that leave most casual conversation behind. He speaks with precision, preferring clarity over social convention, and will interrupt pleasantries to engage in substantive discussion of his latest medical theories or observations. This directness, combined with his evident enjoyment of intellectual challenge, makes him fascinating to those who can match his pace but somewhat intimidating to those who cannot.
 
@@ -617,13 +616,13 @@ Despite his focus on scientific reasoning, Alýkos possesses a deep wellspring o
 
 Beneath this composed exterior lies a man struggling under accumulated grief. Each patient he cannot save, each illness he cannot master despite his knowledge and effort, accumulates as a small wound in his psyche. He has become increasingly solitary, withdrawing from social engagement beyond what professional necessity demands, channeling his emotional energy into his work.
 
-### Motivation
+#### Motivation
 
 Alýkos is driven by a consuming desire to advance medical knowledge itself, not merely to apply existing understanding. He believes that many of the diseases that plague humanity can be overcome if the fundamental mechanisms of illness are properly understood. He envisions a future in which physicians operate from a foundation of genuine scientific knowledge rather than inherited tradition and educated guesswork.
 
 Privately, Alýkos is also motivated by a need for mastery and control—not of people, but of disease. His inability to save every patient, despite his growing expertise, haunts him. He pursues difficult cases with almost obsessive intensity, driven by the conviction that the right knowledge, the right approach, the right insight will unlock the secrets of recovery. This motivation has become increasingly unhealthy; he drives himself toward exhaustion and sacrifices personal relationships in pursuit of medical breakthroughs.
 
-### Strengths
+#### Strengths
 
 - **Unparalleled Medical Expertise**: His physician skill of 18 base with four specializations represents mastery of the healing arts. There are few ailments within the Byzarian League that Alýkos cannot diagnose or treat with remarkable effectiveness. His knowledge encompasses herbalism, surgical technique, and the subtle signs of internal disease.
 - **Exceptional Perception**: A perception score of 18 grants him the ability to notice minute signs—a discoloration of the lips suggesting anemia, a tremor indicating nerve damage, a subtle smell indicating certain infections. Few details escape his observation.
@@ -632,7 +631,7 @@ Privately, Alýkos is also motivated by a need for mastery and control—not of 
 - **Intellectual Reasoning**: A reasoning score of 18 allows him to synthesize observations into theories, identify patterns across diverse cases, and make intuitive leaps that advance his understanding of disease.
 - **Charm and Empathy**: Despite his intensity, his genuine compassion and ability to make patients feel understood provides tremendous therapeutic value. His empathy of 16 means he instinctively understands the emotional dimensions of suffering.
 
-### Weaknesses
+#### Weaknesses
 
 - **Emotional Burden**: The accumulated weight of patient deaths, incurable illnesses, and cases beyond his reach has left Alýkos emotionally fragile. He is prone to despondency, occasionally verging on despair when faced with particularly tragic cases.
 - **Work Obsession**: His tendency to become entirely focused on professional challenges means he neglects personal relationships, physical self-care, and emotional processing. Those close to him struggle with his absence even when physically present.
@@ -641,25 +640,25 @@ Privately, Alýkos is also motivated by a need for mastery and control—not of 
 - **Limited Combat Ability**: His lack of martial training makes him vulnerable in physical conflict, a limitation that troubles him intellectually even if not practically.
 - **Social Isolation**: His intensity and tendency to dominate conversation with technical medical details make social interaction awkward for him. Most casual friendships have dwindled over the years.
 
-## Social
+### Social
 
-### Patrons
+#### Patrons
 
 - **House Polytimós**: A noble merchant family that has engaged Alýkos for decades as their personal physician, providing stable income and access to their extensive private library for research purposes.
 - **The Physicians' Guild of the Byzarian League**: Both as member and occasional consultant, the Guild provides Alýkos with referrals, research resources, and professional standing. However, his sometimes heterodox approaches occasionally create friction with more traditionalist guild members.
 - **The Temple of Múrkír**: The religious institution has engaged Alýkos to advise on public health matters and the treatment of pilgrims afflicted with various ailments, providing both financial support and access to the temple's historical medical archives.
 
-### Enemies
+#### Enemies
 
 - **The Traditionalist Faction of the Physicians' Guild**: Conservative healers who view Alýkos's experimental approaches and willingness to question inherited medical doctrine as dangerous and disrespectful. Led by the elderly physician **Markinos**, they regularly oppose his positions within the Guild and spread rumors that his innovations have resulted in patient deaths—a charge with just enough truth to be damaging.
 - **Charlatan Healers**: Various fraudulent practitioners throughout the League whom Alýkos has publicly exposed or reported to authorities, resulting in lost income for them. Some have threatened retaliation.
 
-### Affiliations
+#### Affiliations
 
 - **The Physicians' Guild of the Byzarian League**: A formal organization maintaining standards for medical practice and licensing. Alýkos holds high standing despite occasional controversy.
 - **The Circle of Medical Scholars**: An informal association of physicians and natural philosophers who share research and meet periodically to discuss advances in medical knowledge.
 
-## Plot Hooks
+### Plot Hooks
 
 1. **The Plague**: A mysterious illness begins spreading through the League's port cities, bearing symptoms Alýkos has never encountered before. The disease progresses rapidly and proves resistant to standard treatments. As the affliction spreads, panic grows, and desperate patients flock to Alýkos seeking a cure. He becomes locked in an intellectual race against the disease itself, attempting to understand its nature before it claims thousands. The investigation reveals that the plague may not be natural—someone or something may have deliberately unleashed it.
 

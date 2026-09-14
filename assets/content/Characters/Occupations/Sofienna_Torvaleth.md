@@ -43,7 +43,6 @@ data:
     extra_features:
       - a scar on the right elbow
 sohl:
-  templatePriority: null
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 12 } }
     - { model: sohl-sohl-attribute-end, system: { scoreBase: 14 } }
@@ -556,11 +555,11 @@ sohl:
     defaultCombatGroup: null
 ---
 
-# Appearance {#appearance}
+## Appearance {#appearance}
 
 Sofíenna Torvaleth is a woman marked by labor and weather. At thirty-four, her gray hair and weathered complexion make her appear older, yet there is no quality of fragility in her bearing. She stands five feet eight inches with a lean, muscular frame—the build of someone who works physically and outdoors daily. Her angular face carries the practical beauty of strong bone structure rather than softness, and her large hazel eyes hold a combination of sharp intelligence and genuine warmth that puts common people at ease. The scar running along her right elbow tells a story she rarely elaborates on: an accident, or perhaps something more deliberate, that could have ended her ability to work but did not. Her hands are calloused and stained with soil and herbal preparations that will never quite wash clean. She wears the simple, sturdy robes of a field priest—functional rather than ceremonial—often topped with a worn linen mantle that has traveled the roads and harbors of Tarvénia's coastal regions.
 
-# Dossier {#dossier}
+## Dossier {#dossier}
 
 Sofíenna was born and raised in the coastal villages around Valdés, the daughter of a fishing family whose livelihood depended upon the whims of season and sea. Her mother died in childbirth when she was twelve, and she was raised by her father and her father's sisters in the tight-knit world of families that worked the water and the land in complementary rhythm. She learned to fish before she learned formal prayer, to read the signs of weather in wind and water, to preserve the year's abundance against the hunger of winter.
 
@@ -570,7 +569,7 @@ She joined the temple formally at eighteen and has spent the intervening sixteen
 
 Her premature graying began seven years ago, after a series of harsh seasons that produced drought, crop failure, and hunger. She fasted in solidarity with her community and undertook extended ritual petitions that nearly killed her. She recovered, but the strain aged her visibly. Some whisper that she carries a curse; others insist she bears a blessing that the goddess marked upon her. She herself remains characteristically quiet on the matter.
 
-## Psyche
+### Psyche
 
 Sofíenna is a woman of profound integrity and practical wisdom who has chosen a deliberately quieter life than her gifts might have allowed. She possesses the high empathy (17) and creativity (16) that would qualify her for positions of greater prominence within the priesthood, but she has consistently declined advancement, preferring her direct work with the families and fishing crews of Valdés and the surrounding regions.
 
@@ -580,13 +579,13 @@ She struggles with isolation. Her work demands so much of her energy that she ha
 
 Her high guile (51) and intrigue (45) are somewhat surprising for someone who appears so straightforward, suggesting that she has learned through experience to navigate complexity carefully. She is more politically aware than she allows others to realize, understanding the tensions between traditional Tarvénan values and the merchant oligarchies beginning to reshape the peninsula's coastal cities. She has positioned her temple work in a way that allows her to remain useful to multiple power centers without belonging entirely to any.
 
-## Social
+### Social
 
 Sofíenna's formal affiliation is with the Temple of Flórania, yet her actual position in Valdés transcends formal religious hierarchy. She is one of the few figures in the city who commands respect from both the traditional fishing families and the increasingly powerful merchant classes who control the harbor. The communal assembly—that foundational Tarvénan institution where free citizens gather to decide matters of common concern—listens when she speaks. She has never sought formal political power; her influence emerges from the fact that everyone understands her decisions are made in their genuine interest rather than her own advancement.
 
 This position is increasingly precarious. As Valdés grows wealthier and the merchant oligarchy consolidates control, there is quiet pressure to modernize the city's institutions, to make them more "efficient" and "organized." The temple is no exception. Some merchant leaders view Sofíenna's field-based work as antiquated, her mediation of disputes as inefficient compared to formal magistrates, her lack of interest in expanding the temple's institutional power as a failure of leadership. Meanwhile, more conservative elements within Tarvénia's priesthood view her willingness to work with the dispossessed and the common folk as a violation of priestly dignity.
 
-## Companions
+### Companions
 
 **Patrons:**
 
@@ -598,7 +597,7 @@ This position is increasingly precarious. As Valdés grows wealthier and the mer
 - **Merchant-Captain Lucien Vasquez**, whose family has been consolidating control of Valdés's harbor trade. He views Sofíenna's influence over the common people as an obstacle to the modernization he is implementing and has been quietly working to undermine her authority.
 - **Bishop Aldhelm**, a high-ranking member of the formal priesthood who visited Valdés two years ago and was scandalized by what he perceived as Sofíenna's informal, unstructured approach to her duties. He has recommended that she be placed under closer oversight and that her temple funding be redirected toward more formally trained clergy.
 
-## Plot Hooks
+### Plot Hooks
 
 1. **The Drought Returns** — A severe drought descends upon the Tarvénan coast, threatening the agricultural and fishing cycles that sustain Valdés. Sofíenna undertakes an extended fast and ritual petition as she did seven years before, but this time a visitor arrives—a wandering healer or scholar from outside Tarvénia who claims to know the cause of the drought and offers a solution that would require Sofíenna to abandon her ethical principles or her community's traditions to implement. The price of salvation may be unacceptable.
 

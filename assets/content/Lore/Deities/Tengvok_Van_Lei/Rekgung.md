@@ -10,6 +10,4 @@ shortcode: rekgungdty
 packFolder: deitiestengvokvanlei
 ---
 
-# Rëkgüng
-
 TBD

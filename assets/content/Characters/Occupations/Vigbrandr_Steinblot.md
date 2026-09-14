@@ -42,7 +42,6 @@ data:
     extra_features:
       - a scar on the left side of the neck
 sohl:
-  templatePriority: null
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 11 } }
     - { model: sohl-sohl-attribute-end, system: { scoreBase: 12 } }
@@ -552,11 +551,11 @@ sohl:
     defaultCombatGroup: null
 ---
 
-# Appearance {#appearance}
+## Appearance {#appearance}
 
 Vígbrandr Steinblót is a 35-year-old man who stands 5'7" tall and is of moderate build. He has a long face with high cheekbones, a narrow forehead, and a broad jaw that leads to a cleft chin. His sharp gray eyes sit beneath prominent brows, lending him an incisive gaze. A straight nose and wide lips complete his features. He has pale skin with a pale complexion. His brown hair is braided at the temples.
 
-# Dossier {#dossier}
+## Dossier {#dossier}
 
 Born in the Nordheim region to a noble family of Nordheimn heritage, Vígbrandr Steinblót came into the world of the perfumer through a combination of circumstance and aptitude.
 
@@ -564,37 +563,37 @@ Lucien is a renowned perfumer who specializes in crafting bold and exotic scents
 
 Now at 35 years of age, Vígbrandr Steinblót has established himself as a known figure among the perfumers of Nordheim. His reputation, for better or worse, precedes him in the circles where such things matter.
 
-## Psyche
+### Psyche
 
-### Personality
+#### Personality
 
 Can be too experimental, sometimes alienates traditional customers.
 
-### Motivation
+#### Motivation
 
 Vígbrandr is driven by the desire to master his craft and secure a stable future. The uncertainties of life in perfumer work keep him vigilant and adaptable.
 
-### Strengths
+#### Strengths
 
 Innovative, highly knowledgeable about exotic ingredients, great at storytelling through scent.
 
-## Social
+### Social
 
 Vígbrandr is affiliated with Local Artisans' Guild.
 
 As a Nordheimn perfumer, Vígbrandr occupies a recognized social niche within Nordheim society.
 
-## Companions
+### Companions
 
-### Patrons
+#### Patrons
 
 Vígbrandr's primary patron is Nobles and adventurers seeking unique fragrances.. This relationship provides both opportunity and obligation.
 
-### Enemies
+#### Enemies
 
 Few; generally well-respected but some traditionalists may disapprove of his methods.
 
-## Plot Hooks
+### Plot Hooks
 
 1. **The Perfumer's Dilemma** — Vígbrandr faces a professional crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Nordheim.
 

@@ -40,7 +40,6 @@ data:
     complexion: weathered
     extra_features: []
 sohl:
-  templatePriority: null
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 14 } }
     - { model: sohl-sohl-attribute-end, system: { scoreBase: 15 } }
@@ -598,27 +597,27 @@ sohl:
     defaultCombatGroup: null
 ---
 
-# Appearance {#appearance}
+## Appearance {#appearance}
 
 Faradûn stands 5'10" tall with a heavy build. He has tanned weathered skin, dark brown hair, and brown eyes. His features include an oval face, a hawkish nose, a narrow chin, a firm-set mouth, dark brows.
 
-# Dossier {#dossier}
+## Dossier {#dossier}
 
 Faradûn was born the second son of a herder family in the borderlands of the Sultanate of Amradad, in country where the line between settled civilization and wild frontier remains deliberately thin. His childhood was spent learning to manage livestock, to understand the temperament and needs of draft animals, and to navigate the unpredictable terrain of his homeland. When his older brother inherited the family's herds, Faradûn, at eighteen, sought his fortune on the trade roads, joining a merchant caravan as an assistant teamster.
 
 For twenty-four years, he has traveled the routes connecting the major cities of the Sultanate and beyond, driving supply wagons and managing the animals that pulled them. Over time, his expertise and reliability earned him respect within the caravan trade; merchants began to specifically request him, and rival teamsters came to respect his skill. Fourteen years ago, he earned his place in the Teamsters' Guild and began accepting independent contracts. Since then, he has built a modest but genuine reputation as a teamster of uncommon skill and total integrity—a man who will deliver his cargo safely regardless of circumstances, and who treats his animals with genuine care.
 
-## Psyche
+### Psyche
 
-### Personality
+#### Personality
 
 Faradûn is a man of few words and considerable emotional depth, though he expresses that depth primarily through action rather than speech. He is gruff and direct, uncomfortable with social niceties and elaborate courtesy, and his blunt manner sometimes offends those unfamiliar with his character. Yet beneath his rough exterior lies genuine warmth toward those he considers friends, a fierce protective instinct, and a philosophical nature honed by years spent in quiet contemplation while guiding wagons across long distances. He is neither educated nor eloquent, but he possesses a practical wisdom and an understanding of human nature born from observing people under stress and duress. He has little patience for pretense or cruelty, and though he avoids violence when possible, he will defend himself and those dependent on him with remarkable ferocity.
 
-### Motivation
+#### Motivation
 
 Faradûn's primary motivation is to maintain his reputation as a reliable transport contractor and to build sufficient wealth and security to eventually settle on land of his own—perhaps establishing a waystation or trading post where he can continue to serve the caravan routes without constant travel. Beyond this material goal, he seeks genuine respect within his guild and community, and he feels particular responsibility toward other teamsters and toward the routes themselves. He also harbors a quieter, more complex motivation: he seeks redemption and respect because he is aware that the work he does—transporting goods across dangerous roads—sometimes involves moving things he would prefer not to move. He has learned to live with this moral compromise, but it troubles him.
 
-### Strengths
+#### Strengths
 
 - **Mastery of Animal Husbandry**: Faradûn's skill with draft animals is exceptional; he can manage even difficult or temperamental teams, understands their needs and psychology, and treats them with genuine compassion.
 - **Expert Navigation and Survival**: His knowledge of the routes, terrain, weather patterns, and survival in harsh environments is comprehensive and intuitive.
@@ -626,7 +625,7 @@ Faradûn's primary motivation is to maintain his reputation as a reliable transp
 - **Mechanical Knowledge**: Years managing wagon repair and maintenance have given him solid practical skills with tools and sohl.
 - **Exceptional Judgment**: He has a keen sense of when situations are dangerous, which people can be trusted, and how to de-escalate conflicts.
 
-### Weaknesses
+#### Weaknesses
 
 - **Limited Social Grace**: His gruffness and discomfort with social situations make him poor at negotiation, courtly settings, or complex political situations.
 - **Low Formal Education**: He is functionally literate but lacks broader learning; complex intellectual tasks are difficult for him.
@@ -634,26 +633,26 @@ Faradûn's primary motivation is to maintain his reputation as a reliable transp
 - **Emotional Guardedness**: His difficulty expressing feeling can lead to misunderstandings and isolates him from closer relationships.
 - **Weariness**: Years of hard travel and responsibility have left him with a deep fatigue; he sometimes struggles with motivation and mood.
 
-## Social
+### Social
 
-### Patrons
+#### Patrons
 
 - **Merchant Lord Vashir**: One of the most prominent trading masters in the Sultanate has employed Faradûn repeatedly and trusts him with valuable cargo; Vashir actively recommends him to other merchants.
 - **The Merchants' Consortium of the Eastern Roads**: A formal organization of wealthy traders maintains Faradûn on contract for important shipments and considers him one of their most valued contractors.
 - **Stablemaster Khorvan**: The master of the central waystation relies on Faradûn to bring in animals and goods, and the two have developed a genuine friendship despite their different temperaments.
 
-### Enemies
+#### Enemies
 
 - **The Crimson Crag Bandits**: A well-organized band of brigands that operates along the eastern routes has repeatedly targeted Faradûn's wagons; their leader, a scarred woman called **Kela the Knife**, has marked him as a particular enemy for foiling her ambushes.
 - **Rival Teamster Gazren**: A unscrupulous competitor who undercuts prices through unsafe practices and harbors deep resentment toward Faradûn's success and reputation. Gazren occasionally sabotages Faradûn's wagons or spreads lies about his reliability.
 - **Merchant Overlord Shassik**: A wealthy trader whom Faradûn once refused to transport goods for (due to suspicions about their nature) has harbored a grudge and occasionally works to interfere with Faradûn's contracts.
 
-### Affiliations
+#### Affiliations
 
 - **The Teamsters' Guild of Amradad**: Faradûn maintains an active position within this organization and is respected for his adherence to its codes and standards.
 - **The Waystation Keepers' Brotherhood**: An informal network of those who maintain rest stops and supply depots along the major routes; Faradûn networks with this group and assists them when possible.
 
-## Plot Hooks
+### Plot Hooks
 
 1. **The Cursed Cargo**: Faradûn accepts a contract to transport a sealed cargo under mysterious circumstances—the payment is exceptional, but the client is evasive about contents. As he travels, strange phenomena occur: animals become ill, the wagon seems to grow heavier without explanation, and traveling companions experience nightmares. He must discover what he's carrying and decide whether to complete the journey or break the contract.
 

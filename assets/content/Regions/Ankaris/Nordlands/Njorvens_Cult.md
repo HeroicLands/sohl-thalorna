@@ -22,15 +22,11 @@ data:
   lore: []
   parents: []
   relations: {}
-sohl:
-  templatePriority: null
 name:
   full: Njörven's Cult
   aliases: []
 shortcode: njorvencult
 packFolder: nordlands
 ---
-
-# Njörven's Cult
 
 The cult that venerates [[being-njorven|Njörven]].

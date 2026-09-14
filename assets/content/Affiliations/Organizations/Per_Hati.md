@@ -98,11 +98,7 @@ data:
   lore: []
   parents: []
   relations: {}
-sohl:
-  templatePriority: null
 ---
-
-# Pér-Háti
 
 _Kheperi: Pér-Háti — "the House of the Account"_
 

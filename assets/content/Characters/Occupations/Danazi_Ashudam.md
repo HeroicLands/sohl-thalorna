@@ -42,7 +42,6 @@ data:
     extra_features:
       - a scar on the right upper arm
 sohl:
-  templatePriority: null
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 13 } }
     - { model: sohl-sohl-attribute-end, system: { scoreBase: 12 } }
@@ -546,11 +545,11 @@ sohl:
     defaultCombatGroup: null
 ---
 
-# Appearance {#appearance}
+## Appearance {#appearance}
 
 Dânâzi Ashûdam is a 29-year-old woman who stands 6'1" tall and is of moderate build. She has a long face with prominent cheekbones, a broad forehead, and a narrow jaw that leads to a pointed chin. Her sharp brown eyes sit beneath straight brows, lending her an incisive gaze. A strong nose and expressive lips complete her features. She has olive skin with an olive-toned complexion. Her black hair is twisted into an elaborate arrangement. A notable feature is a crooked nose from an old break.
 
-# Dossier {#dossier}
+## Dossier {#dossier}
 
 Born in the Harad region to a freeman family of Haradian heritage, Dânâzi Ashûdam came into the world of the gladiator through a combination of circumstance and aptitude.
 
@@ -558,37 +557,37 @@ Selene grew up as a street orphan and fought for survival every day. She was dis
 
 Now at 29 years of age, Dânâzi Ashûdam has established herself as a known figure among the gladiators of Harad. Her reputation, for better or worse, precedes her in the circles where such things matter.
 
-## Psyche
+### Psyche
 
-### Personality
+#### Personality
 
 Lacks raw strength, can be reckless in her pursuit of glory.
 
-### Motivation
+#### Motivation
 
 Dânâzi is driven by the desire to master her craft and secure a stable future. The uncertainties of life in gladiator work keep her vigilant and adaptable.
 
-### Strengths
+#### Strengths
 
 Fast, agile, skilled in acrobatic combat.
 
-## Social
+### Social
 
 Dânâzi is affiliated with Gladiators' Guild.
 
 As a Haradian gladiator, Dânâzi occupies a recognized social niche within Harad society.
 
-## Companions
+### Companions
 
-### Patrons
+#### Patrons
 
 Dânâzi's primary patron is Arena patrons who admire her style and grace.. This relationship provides both opportunity and obligation.
 
-### Enemies
+#### Enemies
 
 Rival fighters who resent her quick rise to fame.
 
-## Plot Hooks
+### Plot Hooks
 
 1. **The Gladiator's Dilemma** — Dânâzi faces a professional crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Harad.
 

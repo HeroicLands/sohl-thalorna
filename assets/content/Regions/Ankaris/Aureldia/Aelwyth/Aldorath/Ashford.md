@@ -19,8 +19,6 @@ shortcode: ashford
 packFolder: aelwyth
 ---
 
-# Ashford
-
 **Ashford** grew where the drove roads out of Aldorath's manorial country meet the ford, and it is the
 kingdom's principal market for what that country produces.
 

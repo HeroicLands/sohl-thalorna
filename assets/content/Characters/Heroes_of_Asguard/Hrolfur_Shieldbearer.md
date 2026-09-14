@@ -42,7 +42,6 @@ data:
     complexion: fair
     extra_features: []
 sohl:
-  templatePriority: null
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 15 } }
     - { model: sohl-sohl-attribute-end, system: { scoreBase: 17 } }
@@ -520,47 +519,47 @@ sohl:
     defaultCombatGroup: null
 ---
 
-# Appearance {#appearance}
+## Appearance {#appearance}
 
 Hrólfur stands 6'0" with a broad, solidly built frame, weighing about 210 pounds. His light skin is ruddy and weather-beaten, and his brown hair is kept short and practical. His hazel eyes are gentle and steady, surprisingly soft for a man of his martial reputation. His features are plain and honest, with a wide face, a blunt nose, a square chin, and a mouth that settles naturally into a mild, approachable expression. His arms and the backs of his hands are scarred from deflecting countless blows, and his shoulders are visibly overdeveloped from years of bearing his massive iron-bound shield. He wears a well-maintained mail byrnie over a padded gambeson and carries the great shield — nearly as tall as he is — strapped to his left arm at almost all times. A simple sword hangs at his hip, clearly secondary to the shield that defines him.
 
-# Dossier {#dossier}
+## Dossier {#dossier}
 
 Hrólfur was a warrior dedicated to the protection of his clan and the upholding of justice. From a young age, he trained in the ways of combat, but his true calling was as a defender rather than an aggressor. Hrólfur believed that a warrior's duty was not only to fight but to protect the weak and uphold the law. He carried a massive shield, said to be blessed by Týr himself, which he used to defend those who could not defend themselves. Hrólfur became known as Shieldbearer for his unyielding defense of justice and his role in maintaining peace in his homeland.
 
 The saga of Hrólfur Shieldbearer tells of a time when a band of mercenaries threatened to overthrow a rightful clan leader. The mercenaries, known for their ruthlessness, laid siege to the settlement, intending to force the clan leader to surrender. Hrólfur, standing alone at the gates, challenged the leader of the mercenaries to a duel, knowing that the fate of his people rested on his shoulders. With his shield in hand, Hrólfur withstood the relentless attacks, deflecting blow after blow with the strength and precision granted by Týr. As the duel raged on, Hrólfur saw an opening and struck the leader down, ending the siege and saving his people.
 
-## Psyche
+### Psyche
 
-### Personality
+#### Personality
 
 Hrólfur is patient and steadfast, a man who would rather absorb a hundred blows than deliver one unjust strike. He is quietly courageous, the kind of person who steps forward when everyone else steps back, not from recklessness but from a deep conviction that someone must stand between the innocent and harm. He is uncomfortable with praise and deflects compliments with self-deprecating humor. He has a gentle nature that surprises those who know him only by reputation, and he is particularly protective of the elderly and infirm.
 
-### Motivation
+#### Motivation
 
 Hrólfur believes that true strength lies not in the ability to destroy but in the ability to protect. He seeks to embody this principle in every aspect of his life, standing as a living shield for those who cannot defend themselves. He carries the memory of his father, who died protecting their village, and strives to honor that sacrifice by ensuring no one under his protection comes to harm.
 
-### Strengths
+#### Strengths
 
 Hrólfur's defensive combat style is nearly impenetrable; his ability to read an opponent's attacks and position his shield accordingly borders on precognition. His blessed shield is said to be unbreakable, and it serves as a rallying point for allies in battle. His endurance is extraordinary — he can fight defensively for hours without tiring, wearing down opponents who rely on aggression. His reputation as the man who held the gates alone makes him a symbol of hope in besieged communities.
 
-## Social
+### Social
 
-## Companions
+### Companions
 
-### Patrons
+#### Patrons
 
 **The Clan of Hrólfur's Father** — His extended family and clan, who view him as their champion and provide him with shelter, supplies, and warriors when needed.
 
 **Sigvardr One-Hand** — The famous judge recognizes Hrólfur as a kindred spirit and has appointed him as his personal protector during dangerous travels through hostile territories.
 
-### Enemies
+#### Enemies
 
 **The Blackfang Company** — The remnants of the mercenary band whose leader Hrólfur slew. They have reorganized under new leadership and seek revenge.
 
 **Jarl Hreidmar the Cruel** — A tyrant who views Hrólfur's protection of the weak as an implicit challenge to his authority and has declared him an outlaw in his territory.
 
-## Plot Hooks
+### Plot Hooks
 
 1. **The Unbreakable Shield** — Hrólfur's blessed shield has developed a crack for the first time. The priests of Týr believe it is a sign that the god is testing Hrólfur's faith, or that a great evil is approaching that even divine protection cannot fully withstand.
 

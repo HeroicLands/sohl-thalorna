@@ -11,8 +11,9 @@ name:
     - Rásikara
     - Rasikara
     - The Flame of Renewal
-sohl:
+data:
   templatePriority: null
+sohl:
   system:
     skillBaseFormula: "@wil, @rea"
     masteryLevelBase: 0

@@ -91,11 +91,7 @@ data:
   lore: []
   parents: []
   relations: {}
-sohl:
-  templatePriority: null
 ---
-
-# The Imperial Scribal Guild
 
 - **Type:** Imperial chartered guild
 - **Region:** [[affiliation-vylarinmpr|Vylarian Empire]] — central hall in [[place-magnapolis|Magnápolis]], chapterhouses in every provincial capital

@@ -17,8 +17,6 @@ shortcode: ulfheim
 packFolder: nordheim
 ---
 
-# Ulfheim
-
 ## Overview
 
 _To be written._

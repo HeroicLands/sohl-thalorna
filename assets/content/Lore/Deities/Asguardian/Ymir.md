@@ -10,6 +10,4 @@ shortcode: ymirdty
 packFolder: deitiesasguardian
 ---
 
-# Ymir
-
 TBD

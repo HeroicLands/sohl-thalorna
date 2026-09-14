@@ -19,8 +19,6 @@ shortcode: jarnhavn
 packFolder: norgaad
 ---
 
-# Járnhavn
-
 ## Overview
 
 Járnhavn—Iron Harbor—is Norgaad's principal port on the southern coast, a fortified settlement of roughly 800 souls built around a natural harbor protected by towering headlands. The town bristles with the apparatus of war: a timber palisade with stone-faced watchtowers overlooks the harbor, a longship berth can shelter a dozen raiders at a time, and the streets are laid out with military precision. Iron bells hang from the watchtowers; their chiming at dawn and dusk is as reliable as the tide. The settlement's heart is the Shield-Hall, where the town's most distinguished shield-maiden holds court and where the honor-bonds between crews are sealed.

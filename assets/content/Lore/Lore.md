@@ -10,8 +10,6 @@ description: Myths, legends, and background lore.
 banner: systems/sohl/assets/images/banners/lore.webp
 ---
 
-# Lore
-
 Myths, legends, and background lore.
 
 ```sql

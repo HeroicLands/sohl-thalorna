@@ -18,8 +18,6 @@ shortcode: bldfldserravel
 packFolder: provenzia
 ---
 
-# Blood-field of Serravel
-
 High on the Tarvénian frontier, where the passes come down out of the cold mountains, lies the
 **Blood-field of Serravel** — and it is the only one of Provènzia's [[lore-bloodfields|blood-fields]]
 that is not finished.

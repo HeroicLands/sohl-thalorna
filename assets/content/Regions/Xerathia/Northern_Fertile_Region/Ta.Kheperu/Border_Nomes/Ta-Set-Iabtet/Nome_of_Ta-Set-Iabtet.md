@@ -110,12 +110,8 @@ data:
   relations:
     kemtnpnthn: aligned
     ptah: aligned
-sohl:
-  templatePriority: null
 packFolder: tasetiabtet
 ---
-
-# The Nome of Ta-Set-Iabtet
 
 ## Overview
 

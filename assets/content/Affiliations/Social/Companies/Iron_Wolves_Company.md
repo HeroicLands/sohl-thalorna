@@ -89,8 +89,6 @@ data:
   lore: []
   parents: []
   relations: {}
-sohl:
-  templatePriority: null
 subtype: social
 name:
   full: The Iron Wolves Company
@@ -100,8 +98,6 @@ name:
 shortcode: irnwlvscmpny
 banner: banners/company.webp
 ---
-
-# The Iron Wolves Company
 
 _Byzarian: Lupi Ferri_
 

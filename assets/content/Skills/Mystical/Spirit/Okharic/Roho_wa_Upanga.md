@@ -11,8 +11,9 @@ name:
   full: "Roho wa Upanga Spirit Power"
   aliases:
     - The Spirit of the Blade
-sohl:
+data:
   templatePriority: null
+sohl:
   system:
     skillBaseFormula: "@aur, @wil"
     masteryLevelBase: 0

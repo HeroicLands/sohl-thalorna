@@ -19,8 +19,6 @@ shortcode: dunmere
 packFolder: aelwyth
 ---
 
-# Dunmere
-
 **Dunmere** is the seat of the [[affiliation-kngdmldrth|Kingdom of Aldorath]] and, at some twenty
 thousand people, the only place in the realm that is a city rather than a market town. It stands inland
 on the eastern side of Aelwyth, under a castle that has been extended by every king who could afford to.

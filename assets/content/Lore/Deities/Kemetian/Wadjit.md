@@ -10,8 +10,6 @@ shortcode: wadjitdty
 packFolder: deitieskemetian
 ---
 
-# Wadjit
-
 _The Cobra-Goddess._
 
 Wadjit is a delta goddess of the papyrus marshes, whose nome lives by fowling, reed-craft and the

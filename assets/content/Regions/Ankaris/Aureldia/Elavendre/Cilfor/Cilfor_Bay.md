@@ -18,8 +18,6 @@ shortcode: cilforbay
 packFolder: elavendre
 ---
 
-# Cilfor Bay
-
 **Cilfor Bay** bites deep into the northern coast of Ankaris between [[place-elavendre|Élavendre]] and
 [[place-vrystwald|Vrystwald]], enclosed by two long arms of land that curve toward one another like a
 **backward C**. It is roughly fifty miles across and fifty deep; at the narrows, where the two horns

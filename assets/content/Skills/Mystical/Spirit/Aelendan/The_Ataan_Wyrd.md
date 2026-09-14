@@ -11,8 +11,9 @@ name:
   full: "The At'aan Wyrd Spirit Power"
   aliases:
     - The At'aan Wyrd
-sohl:
+data:
   templatePriority: null
+sohl:
   system:
     skillBaseFormula: "@aur, @wil"
     masteryLevelBase: 0

@@ -10,6 +10,4 @@ shortcode: tanlungdty
 packFolder: deitiestengvokvanlei
 ---
 
-# Tānlüng
-
 TBD

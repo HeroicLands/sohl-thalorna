@@ -10,8 +10,6 @@ shortcode: sovereignrnk
 description: "The apex from which every other standing in the body derives."
 ---
 
-# Sovereign
-
 The apex from which every other standing in the body derives.
 
 ## Obligations and Rights

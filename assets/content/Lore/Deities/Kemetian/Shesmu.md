@@ -10,8 +10,6 @@ shortcode: shesmudty
 packFolder: deitieskemetian
 ---
 
-# Shesmu
-
 _Patron of the Hunt._
 
 Shesmu is the second of Ta'Kheperu's two hunt-patrons, inseparable in practice from

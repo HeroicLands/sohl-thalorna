@@ -11,8 +11,9 @@ name:
   full: "Rhysgen Spirit Power"
   aliases:
     - Rhysgen, the Red Fox of the Lower Wood
-sohl:
+data:
   templatePriority: null
+sohl:
   system:
     skillBaseFormula: "@aur, @wil"
     masteryLevelBase: 0

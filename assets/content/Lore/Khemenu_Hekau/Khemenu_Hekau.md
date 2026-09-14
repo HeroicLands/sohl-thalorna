@@ -18,7 +18,7 @@ name:
 packFolder: khemenuhekau
 ---
 
-# Khemenu Hekau (The Eight Powers)
+## Khemenu Hekau (The Eight Powers)
 
 The **Khemenu Hekau** — the Eight Powers — is the arcane philosophy of
 [[affiliation-empirtkhpr|The Empire of Ta'Kheperu]], and the oldest continuously taught account of
@@ -31,7 +31,7 @@ It predates the [[lore-hexhodai|Héx Hodäi]] by some thousands of years, and it
 it. The two traditions are not rival schools within one framework. They are two complete and
 incompatible accounts of the same thing.
 
-## The Same Ocean, Cut Differently
+### The Same Ocean, Cut Differently
 
 Both traditions agree on the underlying fact. There is one undifferentiated reservoir of arcane
 force permeating existence — what the Ordo names the **Dýnaris** — and all practice consists of
@@ -63,7 +63,7 @@ Neither priesthood is much troubled by the other's existence. The Ordo has no pr
 and no prospect of gaining one; the Kheperi priesthood regards its agents as arrogant amateurs, and
 the few who have tried to recruit Kheperi practitioners have been politely and firmly expelled.
 
-## The Eight
+### The Eight
 
 Each domain carries a Kheperi name; the House that holds it is that name under **Per-**, "the House
 of". Seven Houses are entered by initiation; the eighth is not entered at all.
@@ -89,7 +89,7 @@ erased, which in this tradition is the whole of the sentence.
 the _ren_ that is inscribed and the _khat_ that is embalmed, the one written on every surface and the
 other wrapped in linen. The pairing was not invented for the philosophy; the philosophy noticed it.
 
-## The Frame: Maat'ken and Sefút
+### The Frame: Maat'ken and Sefút
 
 The eight are not eight equal parts. Two of them are the frame, and six work inside it.
 
@@ -104,7 +104,7 @@ Every other domain occupies a position within that framework, and the tradition 
 A hekau does not learn Aten'ré as a subject and Maat'ken as another subject; they learn Aten'ré as one
 of the ways in which order is maintained against the alternative.
 
-### Sefút is taught, and Sefút is proscribed
+#### Sefút is taught, and Sefút is proscribed
 
 This is the hardest thing in the tradition to explain to outsiders, and the temples make no attempt.
 
@@ -129,7 +129,7 @@ price of a defence that works, and they are not wrong to: the sect that would br
 cursed road is the thing the priesthood of Rā fears in its bones, and it is priests who know how it
 would be done.
 
-## The Three Pairs
+### The Three Pairs
 
 The six working domains are three pairs, and the pairing is not opposition. In each case the two
 halves are **both required**, and a practitioner who holds one without the other is not a specialist
@@ -156,7 +156,7 @@ available surface. Destroy either and the person ends. This is why the erasure o
 gravest sentence the empire can pass, and why a disgraced house has its monuments quarried and its
 names struck from every wall.
 
-## Wholeness Against the Vertex
+### Wholeness Against the Vertex
 
 The two traditions therefore train in opposite directions, and both know it.
 
@@ -175,7 +175,7 @@ This is the deeper reason the Kheperi regard western practitioners as half-educa
 the empire has no mage class to speak of. The Eight are not a curriculum a temple offers. They are
 the shape the temple believes reality has.
 
-## Ren'sesh and Khat'nu in Practice
+### Ren'sesh and Khat'nu in Practice
 
 Because the domains are functions rather than substances, the technique of reaching them is not the
 Ordo's either. Kheperi power derives from knowledge of sacred words, divine names and ritual formulae,
@@ -199,7 +199,7 @@ Three practical consequences follow, and they mark Kheperi working out as unmist
   what was actually written, which is the origin of a great deal of Kheperi caution and a fair
   proportion of its ghost stories.
 
-## Khemenu
+### Khemenu
 
 The tradition takes its name from [[place-khemenu|Khemenu]], the temple-city of Thōth in the scribal
 nome, where the Eight are taught in their fullest form and where the deepest archive in the empire is
@@ -209,7 +209,7 @@ king-lists run.
 That a philosophy of magic should be seated in an archive rather than a sanctum is not incidental. In
 a tradition where power is correct address, the library _is_ the armoury.
 
-## See Also
+### See Also
 
 - [[lore-hexhodai|Héx Hodäi]] — the western six-fold partition of the same Dýnaris
 - [[affiliation-maatken|Per-Maat'ken]] · [[affiliation-sefut|Per-Sefút]] · [[affiliation-atenre|Per-Aten'ré]] ·

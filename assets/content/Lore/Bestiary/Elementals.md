@@ -10,8 +10,6 @@ type: lore
 subType: bestiary
 ---
 
-# Elementals
-
 Physical manifestations of spirits from the astral realm that embody a single elemental aspect.
 
 ```sql

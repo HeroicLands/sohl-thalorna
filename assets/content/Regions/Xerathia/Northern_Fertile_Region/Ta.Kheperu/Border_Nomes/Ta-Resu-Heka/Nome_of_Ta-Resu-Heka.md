@@ -110,12 +110,8 @@ data:
   relations:
     kemtnpnthn: aligned
     mentu: aligned
-sohl:
-  templatePriority: null
 packFolder: taresuheka
 ---
-
-# The Nome of Ta-Resu-Heka
 
 ## Overview
 

@@ -19,15 +19,15 @@ data:
 packFolder: adventures
 ---
 
-# The Curse of Yhârvalen Henge
+## The Curse of Yhârvalen Henge
 
 Yhârvalen Henge, a megalithic monument destroyed during the Nordheim raids, has become a place of blood and death. A dark cult has awakened its curse, and the surrounding lands are dying. The party must uncover the cult's purposes and stop them before the blight spreads beyond the bloodfields.
 
-## Overview
+### Overview
 
 In the northernmost reaches of [[place-provenzrgn|Provènzia Region]], near the border with [[affiliation-kngdmnrdhm|Kingdom of Nordheim]], stands Yhârvalen Henge—or what remains of it. Once a sacred site of pre-Aurèldían traditions, the megalithic circle was destroyed approximately 200 years ago during the Nordheim raids that swept through northern [[place-provenzrgn|Provènzia Region]]. The land around the henge became known as the Blood-field of Yhârvalen, cursed and dying. For centuries, it lay dormant and avoided. Now, something has awakened the curse, and the lands surrounding the henge are withering. Crops fail, animals die, people sicken, and the very soil seems poisoned. Investigation reveals that a cult—the [[affiliation-blackflame|Cult of the Black Flame]]—has been deliberately awakening and magnifying the curse, drawing power from the destruction and death.
 
-## Stage One: The Blight Discovered
+### Stage One: The Blight Discovered
 
 The party becomes aware of the curse through:
 
@@ -55,7 +55,7 @@ The party becomes aware of the curse through:
 - A scholar studying the henge's history
 - A mysterious figure connected to the Cult of the Black Flame
 
-## Stage Two: Investigation & the Cult Revealed
+### Stage Two: Investigation & the Cult Revealed
 
 The party investigates the blight's source and discovers the Cult of the Black Flame:
 
@@ -91,7 +91,7 @@ The party investigates the blight's source and discovers the Cult of the Black F
 - The blight spreads faster as the cult accelerates their ritual schedule
 - A party member is revealed to have a connection to or be compromised by the cult
 
-## Stage Three: The Blood-Field
+### Stage Three: The Blood-Field
 
 The party approaches Yhârvalen Henge and enters the cursed land:
 
@@ -111,7 +111,7 @@ The party approaches Yhârvalen Henge and enters the cursed land:
 - Cult guardian constructs or summoned entities
 - A rival faction or the [[affiliation-ordoarcanis|Ordo Arcanis]] investigating the site
 
-## Stage Four: Confronting the Cult
+### Stage Four: Confronting the Cult
 
 The party must locate and stop the Cult of the Black Flame's activities:
 
@@ -138,7 +138,7 @@ The party must locate and stop the Cult of the Black Flame's activities:
 - Restore sanctity or peace to the blood-field through cleansing and memorial
 - Seal or bind the curse, preventing further awakening
 
-## Stage Five: Aftermath & Consequences
+### Stage Five: Aftermath & Consequences
 
 **If the party succeeds:**
 
@@ -167,7 +167,7 @@ The party must locate and stop the Cult of the Black Flame's activities:
 - The party is hunted by the cult or blamed for the failure
 - A larger dark entity may be summoned or awakened
 
-## See Also
+### See Also
 
 - [[place-provenzrgn|Provènzia Region]]
 - [[affiliation-kngdmprvnz|Kingdom of Provènzia]]

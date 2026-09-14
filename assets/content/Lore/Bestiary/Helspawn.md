@@ -11,8 +11,6 @@ type: lore
 subType: bestiary
 ---
 
-# Helspawn
-
 A creeping dread fills the air as the Helspawn emerge from the shadows — a host of ghastly figures summoned from the underworld by dark priests. Their appearances vary from grotesque and decayed to eerily beautiful, a testament to the fell energhy that binds them. Some retain a semblance of their former selves but with a chill touch of death, while others are twisted and malformed, their bodies marred by necrotic energy. Each Helspawn exudes an unsettling aura, a tangible sense of the unnatural that makes one's skin crawl and breath catch in the throat.
 
 When they move, it is with a graceless, relentless determination for some, and a terrifying, fluid elegance for others. Their hollow eyes, whether ablaze with malevolent intelligence or empty and vacant, speak of an unholy existence bound to serve their necromantic masters. The mere presence of Helspawn can dampen light, casting an oppressive gloom that chills the soul and foretells doom.

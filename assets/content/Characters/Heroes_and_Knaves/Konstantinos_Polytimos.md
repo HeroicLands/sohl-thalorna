@@ -39,7 +39,6 @@ data:
     complexion: tanned
     extra_features: []
 sohl:
-  templatePriority: null
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 13 } }
     - { model: sohl-sohl-attribute-end, system: { scoreBase: 15 } }
@@ -591,39 +590,39 @@ sohl:
     defaultCombatGroup: null
 ---
 
-# Appearance {#appearance}
+## Appearance {#appearance}
 
 Konstántinos stands 5'10" tall with a medium build. He has light brown tanned skin, dark brown hair, and brown eyes. His features include a diamond-shaped face, a straight nose, a strong jawline, full lips, light brows.
 
-# Dossier {#dossier}
+## Dossier {#dossier}
 
-## Background
+### Background
 
-### Early Life
+#### Early Life
 
 Konstántinos was born in a small village on the margins of the Byzarian League, the son of a widow who took in laundry for merchants and traveled folk. Money was scarce, and meals were often thin, but his mother possessed an innate wisdom about making simple ingredients sing with flavor. She taught him that cooking was not about abundance but about understanding—understanding the essential nature of an ingredient and coaxing from it its best self. When Konstántinos was ten years old, a merchant caravan became trapped in their village by a winter storm for three days. His mother and he fed the entire caravan for those days with nothing but their skill and the basic stores available in their home. Word of this miracle spread, and from that day forward, Konstántinos knew his path.
 
-### Training and Apprenticeship
+#### Training and Apprenticeship
 
 At fourteen, Konstántinos was contracted as a kitchen assistant to **Master Chef Valisar**, one of the most renowned cooks in the Byzarian League's greatest city. Valisar was a harsh but magnificent teacher who believed that cooking was a form of alchemy and that every student must understand both the philosophy and the mechanics of their craft. For twenty years, Konstántinos worked under Valisar's exacting eye, rising from chopping vegetables to planning entire feasts for the city's elite. Valisar taught him that true mastery came not from endless complexity but from perfect execution of fundamental technique and deep understanding of ingredients. When Valisar passed into age and retirement, he recommended Konstántinos to the proprietor of the **Copper Kettle**, a renowned tavern in a major trading city, where Konstántinos has now established himself for the past several years.
 
-### Current Situation
+#### Current Situation
 
 At the **Copper Kettle**, Konstántinos has transformed a decent tavern kitchen into a destination for merchants, scholars, and travelers who know that exceptional food can be found there. He works with whatever the local markets provide, never compromising on quality regardless of cost, and has built relationships with local farmers and suppliers who save their finest goods for him. He works longer hours than almost anyone else at the tavern, preparing stocks and doughs in the pre-dawn hours and maintaining the kitchen until well past the dinner service. He has refused several offers to train new cooks, claiming he lacks the patience for teaching, though the truth is more complex—he fears that showing others his methods would somehow diminish the sacred nature of his work.
 
-## Psyche
+### Psyche
 
-### Personality
+#### Personality
 
 Konstántinos is a man of passionate, contained intensity. In the kitchen, he is fully present—every movement precise, every decision made with certainty, every ingredient treated with respect. Outside the kitchen, he is quieter, more reserved, as if the intensity required in his work has consumed the portion of himself available for broad socializing. He is not unfriendly, but neither is he particularly outgoing. He speaks in measured tones, often pausing mid-sentence to consider his words, and he has a tendency to become distracted when discussing subjects other than food. With those who understand cooking, however, he opens up considerably, and conversations about technique, ingredients, or the philosophy of flavor can draw him into hours of passionate discourse.
 
 His relationship with the god **Vúlcan** is not one of formal piety but of genuine kinship. He sees in Vúlcan's domain—fire, forge, transformation—a perfect mirror of his own work. Each meal is a kind of alchemy, raw ingredients transformed through heat and knowledge into sustenance that nourishes both body and spirit. He approaches his work as a form of prayer, a daily dedication to excellence and care.
 
-### Motivation
+#### Motivation
 
 Konstántinos is driven by the conviction that food is one of humanity's greatest joys and that those who prepare it hold a sacred responsibility. He seeks to prove that exceptional food can be created anywhere, using whatever is available, if one possesses sufficient skill and dedication. On a personal level, he is haunted by the memory of his mother's frugal meals and driven to ensure that others never experience the deprivation of his childhood. He also harbors an unspoken desire for recognition—not the shallow accolades of the wealthy, but genuine acknowledgment from those who truly understand cooking that he is among the masters of his craft. He dreams, quietly, of one day writing a comprehensive treatise on cooking that would preserve and share the techniques and philosophies that Master Valisar imparted to him.
 
-### Strengths
+#### Strengths
 
 - **Culinary Mastery**: With cookery skills at 13 base and multiplied 4 times, Konstántinos can create extraordinary meals from virtually any ingredients. He understands flavor theory at such a deep level that he can improvise dishes of excellence under any circumstances, transforming scraps into treasures.
 - **Ingredient Knowledge**: His herblore (13, ×4) and botany/agriculture skills (13, ×2) allow him to identify wild plants, understand their properties, and use them to enhance dishes or even provide subtle medicinal benefits.
@@ -632,7 +631,7 @@ Konstántinos is driven by the conviction that food is one of humanity's greates
 - **Practical Woodcraft and Metalwork**: His timbercraft (13, ×4) and metalcraft (12, ×4) skills allow him to maintain his kitchen equipment, construct specialized tools, and even build upgrades to his workspace without needing to hire outside help.
 - **Singing and Performance**: An unexpected talent for singing (14, ×4) gives him a way to relax and to bring joy to others outside his cooking, and his singing in the tavern kitchen has become a beloved feature of the establishment.
 
-### Weaknesses
+#### Weaknesses
 
 - **Social Anxiety and Isolation**: His single-minded focus on cooking has left him socially awkward and somewhat isolated from broader community involvement. He struggles in situations requiring extensive social navigation or political finesse.
 - **Imposter Syndrome**: Despite his genuine mastery, he chronically underestimates his own talent and remains convinced that true masters (like his beloved Master Valisar) were somehow superior to him. He is vulnerable to criticism and quick to blame himself for any imperfection.
@@ -640,26 +639,26 @@ Konstántinos is driven by the conviction that food is one of humanity's greates
 - **Perfectionism and Rigidity**: His exacting standards can make him difficult to work with in the kitchen. He can become frustrated with others who don't share his commitment to perfection, leading to harsh words and alienation.
 - **Fear of Change**: Despite his creativity within cooking, he is surprisingly conservative about trying new approaches or leaving the comfortable structure of the **Copper Kettle**. He has turned down opportunities that might have advanced his reputation due to fear of the unknown.
 
-## Social
+### Social
 
-### Patrons
+#### Patrons
 
 - **The Proprietor of the Copper Kettle**: His employer, **Merchant-Master Theron**, trusts him completely and defers to his judgment on all kitchen matters. Theron has invested significantly in the kitchen and treats Konstántinos almost as a partner.
 - **Wealthy Merchant Families**: Several prominent merchant houses in the city specifically patronize the Copper Kettle to enjoy Konstántinos's cooking and have requested private catering for their events.
 - **Scholarly Community**: Academics and philosophers who gather in the tavern's back room have become devoted to his meals and often engage him in discussions about the philosophy of cooking.
 - **Guild of Farmers and Growers**: Local farmers view him as a patron of quality and a customer who truly values their best work, making him central to their business success.
 
-### Enemies
+#### Enemies
 
 - **The Merchant Prince Varkûs**: A wealthy entrepreneur who once offered Konstántinos an enormous sum to work exclusively for his household. When Konstántinos declined, Varkûs took it as a personal insult and has since worked to undermine the **Copper Kettle's** reputation through rumor and sabotage.
 - **The Synthetic Food Consortium**: A merchant group promoting cheaper, magically-created food substitutes views Konstántinos's commitment to traditional cooking as an obstacle to their profits and spreads propaganda against his work.
 
-### Affiliations
+#### Affiliations
 
 - **The Copper Kettle Tavern**: His primary workplace and the center of his professional identity.
 - **Informal Network of Master Cooks**: Through reputation and occasional encounters, he maintains loose connections with other skilled cooks throughout the Byzarian League, though he rarely formalizes these relationships.
 
-## Plot Hooks
+### Plot Hooks
 
 1. **The Lost Recipe of the Ages**: An elderly scholar arrives at the tavern claiming to possess fragments of a cookbook from the ancient era before the current kingdoms arose, describing dishes said to possess not merely nutritional and pleasure value but genuine magical properties—meals that could heal wounds, sharpen minds, or even extend life. The scholar, **Professor Aldanus**, seeks Konstántinos's help to reconstruct and test these ancient recipes. Success could elevate Konstántinos's reputation beyond anything he's imagined, but failure could result in harm if the ancient formulas contain unknown dangers.
 

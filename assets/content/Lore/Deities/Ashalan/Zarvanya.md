@@ -10,6 +10,4 @@ shortcode: zarvanyadty
 packFolder: deitiesashalan
 ---
 
-# Zárványä
-
 TBD

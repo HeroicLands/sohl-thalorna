@@ -10,8 +10,6 @@ shortcode: swornmemberrnk
 description: "Sworn to a body's articles, sharing in what it takes and bound by what it agrees."
 ---
 
-# Sworn Member
-
 Sworn to a body's articles, sharing in what it takes and bound by what it agrees.
 
 ## Obligations and Rights

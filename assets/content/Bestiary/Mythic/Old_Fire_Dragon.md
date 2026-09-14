@@ -34,7 +34,6 @@ data:
     extra_features: []
 sohl:
   kbcat: mythic
-  templatePriority: 0
   attrRollFormula:
     str: 1d6+57
     end: 1d6+42
@@ -475,7 +474,7 @@ sohl:
         disabled: false
 ---
 
-# Appearance {#appearance}
+## Appearance {#appearance}
 
 You should have known. In every story, in every warning passed between settlements, in every omen the seers read in fire and bone—you should have known not to come here.
 
@@ -493,7 +492,7 @@ It only watches. And in that watching, you understand—with the crystal clarity
 
 The dragon's mouth opens, and flame pools in its throat like the heart of a star.
 
-# Dossier {#dossier}
+## Dossier {#dossier}
 
 The Old Fire Dragon is a force of nature given consciousness and will. Over a thousand years old, it has accumulated wealth that would bankrupt kingdoms, conquered and reconquered territory across multiple regions, and left a legacy written in ash and legend. An old fire dragon is not merely a predator—it is a calamity, a natural disaster with intelligence, memory, and purpose.
 
@@ -503,7 +502,7 @@ An old fire dragon's territory is typically a vast region encompassing multiple 
 
 The dragon at this age is sometimes called by name. Legends speak of it as a historical figure, not merely an animal. It has counseled with mages, negotiated with church leaders, and engaged in philosophical debates with the greatest minds of the age—usually before burning their towers.
 
-## Presentation
+### Presentation
 
 An old fire dragon is a creature of terrifying majesty. Thirty-two feet in length from snout to rump, with wings spanning nearly fifty feet, the dragon dwarfs smaller creatures utterly. Its scales are thick and layered like plate armor, with beveling and angles that deflect even siege weapons. The coloration is ancient—crimsons so dark they border on black, golds so tarnished they seem silver in certain light, oranges that pulse with ember-light at joints and seams. Every scale bears scars: deep gouges, burn marks, small fractures that have healed imperfectly. These scars are earned, each one a trophy from some forgotten battle or conquest.
 
@@ -513,7 +512,7 @@ The dragon's wings are proportionally smaller than those of younger dragons but 
 
 Heat radiates from the dragon in shimmering waves. The ambient temperature within 100 feet of the creature is dangerously high. Within 50 feet, unprotected humans begin to take burn damage. The dragon's presence literally scorches the earth.
 
-## Key Behaviors
+### Key Behaviors
 
 **Absolute Territorial Dominance:** Every square foot of the dragon's claimed territory is under its awareness and dominion. It knows every cave, every stream, every animal within its range. Anything moving on or above its land is noted and classified as either tribute-payer, prey, or threat.
 
@@ -529,7 +528,7 @@ Heat radiates from the dragon in shimmering waves. The ambient temperature withi
 
 **Teaching and Delegation:** The very oldest dragons sometimes take students or establish hierarchies among lesser creatures—wyverns, fire elementals, or even intelligent servant species. The Old Fire Dragon may delegate lesser tasks to these subordinates while reserving the most important kills for itself.
 
-## Combat Strategy
+### Combat Strategy
 
 An old fire dragon is a master tactician with a thousand years of battle experience. It understands siege warfare, cavalry tactics, and the limitations of human weapons systems. It positions itself to maximize terrain advantage and minimize vulnerability. It uses feints and false retreats to lure enemies into prepared positions.
 
@@ -541,71 +540,71 @@ The old dragon may employ servants or subordinate creatures to harass enemies, k
 
 If truly threatened, the old dragon will retreat to its volcanic lair, where it has established magical defenses, prepared terrain advantages, and escape routes. From the lair, it can rain down catastrophic fire on invaders while remaining relatively safe. A dragon in its own volcanic castle is nearly unassailable.
 
-## Attack Methods
+### Attack Methods
 
-### Bite
+#### Bite
 
 The old dragon's bite is apocalyptic in force. The teeth can pierce through steel plate and shear stone. A bite at full strength can sever limbs or decapitate large creatures. The dragon's bite is powerful enough to destroy siege equipment, demolish castle gates, and crush armor as though it were parchment.
 
-### Claw Rake
+#### Claw Rake
 
 The dragon rakes with all four limbs in rapid sequence, a flurry of attacks that is nearly impossible to defend against. Each claw is as long as a sword and hard as adamant. A full claw rake from an old dragon can be absolutely fatal to unprepared opponents.
 
-### Wing Buffet
+#### Wing Buffet
 
 The dragon sweeps its massive wings with enough force to topple buildings. This attack can knock creatures prone, scatter formations, and even overturn siege equipment. The force is hurricane-strength.
 
-### Tail Sweep
+#### Tail Sweep
 
 The dragon's tail is a weapon unto itself—thick, powerful, and capable of striking a wide area in a sweeping arc. A full strength tail strike can shatter walls or overturn castle gates. Multiple creatures can be struck and potentially killed by a single tail sweep.
 
-### Fire Breath
+#### Fire Breath
 
 The dragon exhales a 60-foot cone of roiling flame so hot it melts stone and vaporizes water instantly. The fire is hot enough to reduce solid stone to lava. Structures in the path of the breath weapon may partially collapse. The dragon can use this ability repeatedly, and its fires are effectively endless—it will not tire from using this weapon.
 
-## Special Abilities
+### Special Abilities
 
-### Fire Breath
+#### Fire Breath
 
 The old dragon can exhale a 60-foot cone of apocalyptic flame. The fire is hot enough to melt castle stone, vaporize water, and reduce fortifications to rubble. It can be used repeatedly without fatigue. The flames can be directed in specific patterns, allowing the dragon to minimize collateral damage to specific objects while incinerating everything else.
 
-### Flight
+#### Flight
 
 The dragon is an incomparably powerful flier, capable of sustained flight at extreme altitudes and in severe weather. It can carry enormous loads—the ruins of a tower, a felled giant, or treasures beyond count. The dragon can engage in aerial combat against flying foes while maintaining superior positioning.
 
-### Armored Scales
+#### Armored Scales
 
 The dragon's scales are nearly impervious to conventional weapons. Siege weapons, arrows, and swords inflict minimal damage. Magical weapons can penetrate, but extensive effort is required. The dragon's age has made it armor itself—a living fortress.
 
-### Heat Aura
+#### Heat Aura
 
 Intense, lethal heat radiates from the dragon in a 100-foot radius. Temperatures within 50 feet cause burn damage to unprotected flesh. Within 20 feet, metal becomes hot enough to blister skin. The dragon can modulate this aura somewhat, allowing selected individuals safe passage if it chooses.
 
-### Draconic Presence
+#### Draconic Presence
 
 The dragon radiates absolute predatory dominance. Intelligent creatures within 100 feet experience profound dread and terror, recognizing the dragon as an apex threat beyond their capability to defeat. Animals panic, cavalry breaks, and many combatants experience overwhelming urges to flee.
 
-### Fire Immunity
+#### Fire Immunity
 
 The dragon is completely immune to all fire, heat, and thermal damage. It can swim through lava, rest in infernos, and breathe superheated air. Its immunity extends to its hoard and possessions.
 
-### Spell Resistance
+#### Spell Resistance
 
 The dragon has developed resistance to magic across its millennium of existence. Many magical effects are partially or completely ineffective against it. Spells that would devastate other creatures are merely inconveniences.
 
-### Lair Awareness
+#### Lair Awareness
 
 The dragon knows every stone, passage, and chamber within its lair. It knows the precise location of every object, every treasure, every corner. It can sense tremors and movement throughout the lair as though it were a direct extension of its senses. Sneaking within the dragon's own mountain is nearly impossible.
 
-### Speech and Sapience
+#### Speech and Sapience
 
 The old dragon speaks. It speaks human languages, draconic speech, and languages that have been dead for centuries. It can engage in negotiation, philosophy, poetry, and threats. It uses language as a weapon, understanding psychological manipulation and the power of words.
 
-### Immortal Memory
+#### Immortal Memory
 
 The dragon remembers every significant event from over a thousand years of existence. It recalls the names of long-dead warriors, the locations of ancient treasures, the bloodlines of kingdoms now reduced to history. This perfect memory makes it an invaluable source of historical knowledge—should one survive negotiating with it.
 
-## Attributes
+### Attributes
 
 - **Strength:** 58-63 (1d6+57)
 

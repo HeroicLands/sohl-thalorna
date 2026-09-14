@@ -8,6 +8,7 @@ name:
 shortcode: nomewawat
 subType: polity
 data:
+  templatePriority: null
   governance:
     model: monarchy
     summary: >-
@@ -106,12 +107,8 @@ data:
   relations:
     kemtnpnthn: aligned
     ptah: aligned
-sohl:
-  templatePriority: null
 packFolder: bordernomes
 ---
-
-# The Nome of Wawat
 
 ## Overview
 

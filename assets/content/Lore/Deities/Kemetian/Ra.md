@@ -11,8 +11,6 @@ img: icons/takheperu/pantheon/ra.svg
 packFolder: deitieskemetian
 ---
 
-# Rā
-
 _The Solar Flame — a blazing sun disk with rays of fire._
 
 Rā is the primordial fire from which all creation springs, but he is more than the sun in the sky: he
