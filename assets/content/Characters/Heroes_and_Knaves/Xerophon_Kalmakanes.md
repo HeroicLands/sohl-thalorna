@@ -2,6 +2,7 @@
 tags:
   - heroes-and-knaves
   - soldiery
+  - character
 name:
   full: Xerôphôn Kâlmâkanês
   title: ""
@@ -588,6 +589,8 @@ sohl:
         disabled: false
     defaultCombatGroup: null
 ---
+
+![Xerôphôn Kâlmâkanês](images/beings/characters/xrphnklmkns-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

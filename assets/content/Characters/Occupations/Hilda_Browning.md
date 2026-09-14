@@ -2,6 +2,7 @@
 tags:
   - draft
   - underworld
+  - character
 name:
   full: Hilda Browning
   title: ""

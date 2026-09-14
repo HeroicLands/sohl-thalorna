@@ -3,6 +3,7 @@ tags:
   - heroes-and-knaves
   - guilded
   - administration
+  - character
 name:
   full: Kallíxenos Paraklávos
   title: ""
@@ -582,6 +583,8 @@ sohl:
         disabled: false
     defaultCombatGroup: null
 ---
+
+![Kallíxenos Paraklávos](images/beings/characters/klxnsprklvs-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

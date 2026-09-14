@@ -2,6 +2,7 @@
 tags:
   - heroes-and-knaves
   - tradesfolk
+  - character
 name:
   full: Damáklios Sampsiôn
   title: ""
@@ -601,6 +602,8 @@ sohl:
         disabled: false
     defaultCombatGroup: null
 ---
+
+![Damáklios Sampsiôn](images/beings/characters/damklsmpsn-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

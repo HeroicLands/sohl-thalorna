@@ -3,6 +3,7 @@ tags:
   - heroes-and-knaves
   - guilded
   - tradesfolk
+  - character
 name:
   full: Pallàvi Drâviksha
   title: ""
@@ -596,6 +597,8 @@ sohl:
         disabled: false
     defaultCombatGroup: null
 ---
+
+![Pallàvi Drâviksha](images/beings/characters/palvdrvksh-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

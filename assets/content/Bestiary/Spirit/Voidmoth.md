@@ -1,6 +1,7 @@
 ---
 tags:
   - spirit
+  - creature
 name:
   full: Voidmoth
   aliases: []
@@ -307,6 +308,8 @@ sohl:
         factors: []
         disabled: false
 ---
+
+![Voidmoth](images/beings/creatures/voidmoth-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

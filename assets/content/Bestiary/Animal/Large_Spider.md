@@ -1,6 +1,7 @@
 ---
 tags:
   - animal
+  - creature
 name:
   full: Large Spider
   aliases: []
@@ -215,6 +216,8 @@ sohl:
         factors: []
         disabled: false
 ---
+
+![Large Spider](images/beings/creatures/lrgspdr-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

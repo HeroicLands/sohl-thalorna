@@ -2,6 +2,7 @@
 tags:
   - heroes-and-knaves
   - soldiery
+  - character
 name:
   full: Érython Ûselîndâs
   title: ""
@@ -584,6 +585,8 @@ sohl:
         disabled: false
     defaultCombatGroup: null
 ---
+
+![Érython Ûselîndâs](images/beings/characters/erythnslnds-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

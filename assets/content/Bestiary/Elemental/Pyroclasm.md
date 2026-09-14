@@ -1,6 +1,7 @@
 ---
 tags:
   - elemental
+  - creature
 name:
   full: Pyroclasm
   aliases: []
@@ -612,6 +613,8 @@ sohl:
             textValue: "0"
         disabled: false
 ---
+
+![Pyroclasm](images/beings/creatures/pyrclsm-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

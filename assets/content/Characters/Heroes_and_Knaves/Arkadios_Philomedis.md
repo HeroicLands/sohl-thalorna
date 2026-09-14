@@ -2,6 +2,7 @@
 tags:
   - heroes-and-knaves
   - soldiery
+  - character
 name:
   full: Arkádios Philomédis
   title: ""
@@ -576,6 +577,8 @@ sohl:
         disabled: false
     defaultCombatGroup: null
 ---
+
+![Arkádios Philomédis](images/beings/characters/arkdsphlmds-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

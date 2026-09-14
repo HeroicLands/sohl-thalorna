@@ -1,6 +1,7 @@
 ---
 tags:
   - dreadspawn
+  - creature
 name:
   full: Glassfang
   aliases: []
@@ -323,6 +324,8 @@ sohl:
         factors: []
         disabled: false
 ---
+
+![Glassfang](images/beings/creatures/glssfng-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

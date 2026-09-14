@@ -4,6 +4,7 @@ tags:
   - todo
   - hero
   - clergy
+  - character
 name:
   full: Father Iztéban Alkássar
   title: Father
@@ -603,6 +604,8 @@ sohl:
         disabled: false
     defaultCombatGroup: null
 ---
+
+![Father Iztéban Alkássar](images/beings/characters/frztbnlksr-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

@@ -3,6 +3,7 @@ tags:
   - heroes-and-knaves
   - guilded
   - mages
+  - character
 name:
   full: Tárellia Bélthal
   title: ""
@@ -601,6 +602,8 @@ sohl:
         disabled: false
     defaultCombatGroup: null
 ---
+
+![Tárellia Bélthal](images/beings/characters/tarelblthl-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

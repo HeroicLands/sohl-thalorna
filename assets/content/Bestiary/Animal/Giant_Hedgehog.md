@@ -1,6 +1,7 @@
 ---
 tags:
   - animal
+  - creature
 name:
   full: Giant Hedgehog
   aliases: []
@@ -328,6 +329,8 @@ sohl:
         factors: []
         disabled: false
 ---
+
+![Giant Hedgehog](images/beings/creatures/gnthdghg-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

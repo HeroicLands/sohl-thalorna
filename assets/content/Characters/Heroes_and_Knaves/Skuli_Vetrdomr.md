@@ -3,6 +3,7 @@ tags:
   - heroes-and-knaves
   - guilded
   - tradesfolk
+  - character
 name:
   full: Skúli Vetrdómr
   title: ""
@@ -590,6 +591,8 @@ sohl:
         disabled: false
     defaultCombatGroup: null
 ---
+
+![Skúli Vetrdómr](images/beings/characters/skulvtrdmr-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

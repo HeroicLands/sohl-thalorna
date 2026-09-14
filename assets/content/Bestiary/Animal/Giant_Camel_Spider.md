@@ -2,6 +2,7 @@
 tags:
   - animal
   - image-needed
+  - creature
 name:
   full: Giant Camel Spider
   aliases: []
@@ -251,6 +252,8 @@ sohl:
         factors: []
         disabled: false
 ---
+
+![Giant Camel Spider](images/beings/creatures/gntcmlsp-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

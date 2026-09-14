@@ -1,6 +1,7 @@
 ---
 tags:
   - animal
+  - creature
 name:
   full: Dragonfly Hawk
   aliases: []
@@ -307,6 +308,8 @@ sohl:
         factors: []
         disabled: false
 ---
+
+![Dragonfly Hawk](images/beings/creatures/drgnflyh-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

@@ -2,6 +2,7 @@
 tags:
   - heroes-and-knaves
   - tradesfolk
+  - character
 name:
   full: Vishali Bâlarṇaya
   title: ""
@@ -581,6 +582,8 @@ sohl:
         disabled: false
     defaultCombatGroup: null
 ---
+
+![Vishali Bâlarṇaya](images/beings/characters/vishalblry-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

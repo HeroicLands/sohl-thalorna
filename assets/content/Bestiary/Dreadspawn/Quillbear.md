@@ -1,6 +1,7 @@
 ---
 tags:
   - dreadspawn
+  - creature
 name:
   full: Quillbear
   aliases: []
@@ -368,6 +369,8 @@ sohl:
         factors: []
         disabled: false
 ---
+
+![Quillbear](images/beings/creatures/qllbr-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

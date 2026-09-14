@@ -2,6 +2,7 @@
 tags:
   - heroes-and-knaves
   - common-folk
+  - character
 name:
   full: Viśvàra Mahâpara
   title: ""
@@ -593,6 +594,8 @@ sohl:
         disabled: false
     defaultCombatGroup: null
 ---
+
+![Viśvàra Mahâpara](images/beings/characters/visvarmhpr-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

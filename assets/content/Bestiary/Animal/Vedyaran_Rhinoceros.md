@@ -2,6 +2,7 @@
 tags:
   - animal
   - image-needed
+  - creature
 name:
   full: Vedyaran Rhinoceros
   aliases: []
@@ -381,6 +382,8 @@ sohl:
         factors: []
         disabled: false
 ---
+
+![Vedyaran Rhinoceros](images/beings/creatures/vdyrnrhn-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

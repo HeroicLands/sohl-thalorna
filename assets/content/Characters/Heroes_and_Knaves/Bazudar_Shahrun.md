@@ -2,6 +2,7 @@
 tags:
   - heroes-and-knaves
   - tradesfolk
+  - character
 name:
   full: Bazûdar Shahrûn
   title: ""
@@ -593,6 +594,8 @@ sohl:
         disabled: false
     defaultCombatGroup: null
 ---
+
+![Bazûdar Shahrûn](images/beings/characters/bazdrshhrn-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

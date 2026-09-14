@@ -2,6 +2,7 @@
 tags:
   - animal
   - image-needed
+  - creature
 name:
   full: Giant Rat
   aliases: []
@@ -294,6 +295,8 @@ sohl:
         factors: []
         disabled: false
 ---
+
+![Giant Rat](images/beings/creatures/giantrat-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

@@ -2,6 +2,7 @@
 tags:
   - heroes-and-knaves
   - common-folk
+  - character
 name:
   full: Satîya Neb'akhet
   title: ""
@@ -618,6 +619,8 @@ sohl:
         disabled: false
     defaultCombatGroup: null
 ---
+
+![Satîya Neb'akhet](images/beings/characters/satiynbkht-portrait.webp){float: top-left}
 
 **Home:** [[place-meruhotep|Meru-Hotep]]
 

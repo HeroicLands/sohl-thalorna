@@ -1,6 +1,7 @@
 ---
 tags:
   - animal
+  - creature
 name:
   full: Titan Beetle
   aliases: []
@@ -269,6 +270,8 @@ sohl:
         factors: []
         disabled: false
 ---
+
+![Titan Beetle](images/beings/creatures/ttnbtl-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

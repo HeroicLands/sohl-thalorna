@@ -4,6 +4,7 @@ tags:
   - hero
   - guilded
   - tradesfolk
+  - character
 name:
   full: Layla Marut
   title: ""
@@ -582,6 +583,8 @@ sohl:
         disabled: false
     defaultCombatGroup: null
 ---
+
+![Layla Marut](images/beings/characters/laylamarut-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

@@ -2,6 +2,7 @@
 tags:
   - heroes-and-knaves
   - soldiery
+  - character
 name:
   full: Gávrilos Niktariôtês
   title: ""
@@ -597,6 +598,8 @@ sohl:
         disabled: false
     defaultCombatGroup: null
 ---
+
+![Gávrilos Niktariôtês](images/beings/characters/gvrlsnktrts-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

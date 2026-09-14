@@ -1,6 +1,7 @@
 ---
 tags:
   - animal
+  - creature
 name:
   full: Rockscale Anklyte
   aliases: []
@@ -392,6 +393,8 @@ sohl:
             textValue: "0"
         disabled: false
 ---
+
+![Rockscale Anklyte](images/beings/creatures/rcksclan-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

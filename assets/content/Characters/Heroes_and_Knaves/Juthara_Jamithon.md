@@ -2,6 +2,7 @@
 tags:
   - heroes-and-knaves
   - tradesfolk
+  - character
 name:
   full: Júthâra Jâmîthôn
   title: ""
@@ -597,6 +598,8 @@ sohl:
         disabled: false
     defaultCombatGroup: null
 ---
+
+![Júthâra Jâmîthôn](images/beings/characters/juthrjmthn-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

@@ -1,6 +1,7 @@
 ---
 tags:
   - dreadspawn
+  - creature
 name:
   full: Earthcharger
   aliases: []
@@ -269,6 +270,8 @@ sohl:
         factors: []
         disabled: false
 ---
+
+![Earthcharger](images/beings/creatures/erthchrg-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

@@ -3,6 +3,7 @@ tags:
   - heroes-and-knaves
   - hero
   - tradesfolk
+  - character
 name:
   full: Kiroba of the Shókuma
   title: ""
@@ -584,6 +585,8 @@ sohl:
         disabled: false
     defaultCombatGroup: null
 ---
+
+![Kiroba of the Shókuma](images/beings/characters/kirobashkm-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

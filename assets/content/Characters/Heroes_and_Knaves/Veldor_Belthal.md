@@ -2,6 +2,7 @@
 tags:
   - heroes-and-knaves
   - tradesfolk
+  - character
 name:
   full: Véldor Bélthal
   title: ""
@@ -588,6 +589,8 @@ sohl:
         disabled: false
     defaultCombatGroup: null
 ---
+
+![Véldor Bélthal](images/beings/characters/veldrblthl-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

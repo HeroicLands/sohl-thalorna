@@ -1,6 +1,7 @@
 ---
 tags:
   - dreadspawn
+  - creature
 name:
   full: Nightwraith
   aliases: []
@@ -326,6 +327,8 @@ sohl:
         factors: []
         disabled: false
 ---
+
+![Nightwraith](images/beings/creatures/nghtwrth-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

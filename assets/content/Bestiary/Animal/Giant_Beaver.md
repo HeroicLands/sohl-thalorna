@@ -1,6 +1,7 @@
 ---
 tags:
   - animal
+  - creature
 name:
   full: Giant Beaver
   aliases: []
@@ -337,6 +338,8 @@ sohl:
         factors: []
         disabled: false
 ---
+
+![Giant Beaver](images/beings/creatures/gntbvr-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

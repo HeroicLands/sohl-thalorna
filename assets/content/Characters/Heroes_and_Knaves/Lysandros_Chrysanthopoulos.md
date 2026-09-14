@@ -3,6 +3,7 @@ tags:
   - heroes-and-knaves
   - guilded
   - tradesfolk
+  - character
 name:
   full: Lysándros Chrysanthópoulos
   title: ""
@@ -592,6 +593,8 @@ sohl:
         disabled: false
     defaultCombatGroup: null
 ---
+
+![Lysándros Chrysanthópoulos](images/beings/characters/lysndrschrysnthpls-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

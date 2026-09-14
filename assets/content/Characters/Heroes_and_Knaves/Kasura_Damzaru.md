@@ -2,6 +2,7 @@
 tags:
   - tamzir-crew
   - tradesfolk
+  - character
 name:
   full: Kasûra Damzarû
   title: ""
@@ -558,6 +559,8 @@ sohl:
         disabled: false
     defaultCombatGroup: null
 ---
+
+![Kasûra Damzarû](images/beings/characters/kasuradmzr-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

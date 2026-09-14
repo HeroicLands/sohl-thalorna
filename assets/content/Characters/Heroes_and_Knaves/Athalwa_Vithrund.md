@@ -2,6 +2,7 @@
 tags:
   - heroes-and-knaves
   - administration
+  - character
 name:
   full: Athalwa Vithrúnd
   title: ""
@@ -591,6 +592,8 @@ sohl:
         disabled: false
     defaultCombatGroup: null
 ---
+
+![Athalwa Vithrúnd](images/beings/characters/athlwvthrnd-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

@@ -2,6 +2,7 @@
 tags:
   - heroes-and-knaves
   - tradesfolk
+  - character
 name:
   full: Isidôra Melissenós
   title: ""
@@ -596,6 +597,8 @@ sohl:
         disabled: false
     defaultCombatGroup: null
 ---
+
+![Isidôra Melissenós](images/beings/characters/isidrmlsns-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

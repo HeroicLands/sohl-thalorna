@@ -3,6 +3,7 @@ tags:
   - heroes-and-knaves
   - guilded
   - common-folk
+  - character
 name:
   full: Sâbir Âjira
   title: ""
@@ -599,6 +600,8 @@ sohl:
         disabled: false
     defaultCombatGroup: null
 ---
+
+![Sâbir Âjira](images/beings/characters/sabirajira-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

@@ -2,6 +2,7 @@
 tags:
   - heroes-and-knaves
   - tradesfolk
+  - character
 name:
   full: Phótianos Stratégopoulos
   title: ""
@@ -584,6 +585,8 @@ sohl:
         disabled: false
     defaultCombatGroup: null
 ---
+
+![Phótianos Stratégopoulos](images/beings/characters/phtnstrtgpls-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

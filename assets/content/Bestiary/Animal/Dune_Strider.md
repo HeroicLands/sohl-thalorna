@@ -1,6 +1,7 @@
 ---
 tags:
   - animal
+  - creature
 name:
   full: Dune Strider
   aliases: []
@@ -321,6 +322,8 @@ sohl:
             textValue: "0"
         disabled: false
 ---
+
+![Dune Strider](images/beings/creatures/dnstrdr-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

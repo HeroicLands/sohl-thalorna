@@ -2,6 +2,7 @@
 tags:
   - tamzir-crew
   - tradesfolk
+  - character
 name:
   full: Lucerian Serentia
   title: ""
@@ -554,6 +555,8 @@ sohl:
         disabled: false
     defaultCombatGroup: null
 ---
+
+![Lucerian Serentia](images/beings/characters/lucernsrnt-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

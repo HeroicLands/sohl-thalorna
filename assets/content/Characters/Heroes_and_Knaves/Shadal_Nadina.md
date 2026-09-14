@@ -3,6 +3,7 @@ tags:
   - heroes-and-knaves
   - guilded
   - tradesfolk
+  - character
 name:
   full: Shadal Nadina
   title: ""
@@ -606,6 +607,8 @@ sohl:
         disabled: false
     defaultCombatGroup: null
 ---
+
+![Shadal Nadina](images/beings/characters/shadalnadn-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

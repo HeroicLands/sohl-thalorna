@@ -1,6 +1,7 @@
 ---
 tags:
   - dreadspawn
+  - creature
 name:
   full: Abyssdrake
   aliases: []
@@ -370,6 +371,8 @@ sohl:
         factors: []
         disabled: false
 ---
+
+![Abyssdrake](images/beings/creatures/abyssdrk-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

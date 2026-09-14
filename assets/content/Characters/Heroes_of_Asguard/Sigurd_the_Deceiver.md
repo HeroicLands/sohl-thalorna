@@ -4,6 +4,7 @@ tags:
   - heroes-of-asguard
   - unguilded
   - underworld
+  - character
 name:
   full: Sigurd the Deceiver
   title: null

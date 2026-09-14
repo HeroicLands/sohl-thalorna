@@ -1,6 +1,7 @@
 ---
 tags:
   - animal
+  - creature
 name:
   full: Ridged Skimmer
   aliases: []
@@ -281,6 +282,8 @@ sohl:
         factors: []
         disabled: false
 ---
+
+![Ridged Skimmer](images/beings/creatures/rdgdskmm-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

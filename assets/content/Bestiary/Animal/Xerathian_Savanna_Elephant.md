@@ -1,6 +1,7 @@
 ---
 tags:
   - animal
+  - creature
 name:
   full: Xerathian Savanna Elephant
   aliases: []
@@ -392,6 +393,8 @@ sohl:
         factors: []
         disabled: false
 ---
+
+![Xerathian Savanna Elephant](images/beings/creatures/xrthnsvn-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

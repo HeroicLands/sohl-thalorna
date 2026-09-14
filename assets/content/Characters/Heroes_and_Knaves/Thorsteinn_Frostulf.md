@@ -2,6 +2,7 @@
 tags:
   - heroes-and-knaves
   - tradesfolk
+  - character
 name:
   full: Thorsteinn Frostulf
   title: ""
@@ -584,6 +585,8 @@ sohl:
         disabled: false
     defaultCombatGroup: null
 ---
+
+![Thorsteinn Frostulf](images/beings/characters/thrstnfrstlf-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

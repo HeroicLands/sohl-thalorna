@@ -2,6 +2,7 @@
 tags:
   - heroes-and-knaves
   - common-folk
+  - character
 name:
   full: Sigfúss Stormrót
   title: ""
@@ -587,6 +588,8 @@ sohl:
         disabled: false
     defaultCombatGroup: null
 ---
+
+![Sigfúss Stormrót](images/beings/characters/sigfstrmrt-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

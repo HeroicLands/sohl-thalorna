@@ -4,6 +4,7 @@ tags:
   - heroes-of-asguard
   - unguilded
   - underworld
+  - character
 name:
   full: Helgya Shadow-Walker
   title: null

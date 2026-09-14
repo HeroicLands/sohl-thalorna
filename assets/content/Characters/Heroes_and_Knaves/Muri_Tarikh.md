@@ -2,6 +2,7 @@
 tags:
   - heroes-and-knaves
   - soldiery
+  - character
 name:
   full: Muri Târikh
   title: ""
@@ -571,6 +572,8 @@ sohl:
         disabled: false
     defaultCombatGroup: null
 ---
+
+![Muri Târikh](images/beings/characters/muritarikh-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

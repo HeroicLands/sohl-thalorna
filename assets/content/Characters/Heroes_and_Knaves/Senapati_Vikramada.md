@@ -2,6 +2,7 @@
 tags:
   - heroes-and-knaves
   - tradesfolk
+  - character
 name:
   full: Sénapati Vikramâda
   title: ""
@@ -634,6 +635,8 @@ sohl:
         disabled: false
     defaultCombatGroup: null
 ---
+
+![Sénapati Vikramâda](images/beings/characters/senptvkrmd-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

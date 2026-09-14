@@ -2,6 +2,7 @@
 tags:
   - heroes-and-knaves
   - tradesfolk
+  - character
 name:
   full: Nárava Sūryatejamahānanda
   title: ""
@@ -596,6 +597,8 @@ sohl:
         disabled: false
     defaultCombatGroup: null
 ---
+
+![Nárava Sūryatejamahānanda](images/beings/characters/nrvsrytjmhnnd-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

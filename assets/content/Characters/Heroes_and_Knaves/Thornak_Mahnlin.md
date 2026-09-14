@@ -3,6 +3,7 @@ tags:
   - heroes-and-knaves
   - hero
   - tradesfolk
+  - character
 name:
   full: Thornak Blodtūsc Bār
   title: ""
@@ -595,6 +596,8 @@ sohl:
         disabled: false
     defaultCombatGroup: null
 ---
+
+![Thornak Blodtūsc Bār](images/beings/characters/thrnkbldtscbr-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

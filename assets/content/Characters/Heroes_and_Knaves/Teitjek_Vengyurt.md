@@ -1,6 +1,7 @@
 ---
 tags:
   - draft
+  - character
 name:
   full: Tëitjëk Vëngyürt
   title: General

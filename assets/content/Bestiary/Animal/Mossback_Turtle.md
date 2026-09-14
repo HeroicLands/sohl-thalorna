@@ -1,6 +1,7 @@
 ---
 tags:
   - animal
+  - creature
 name:
   full: Mossback Turtle
   aliases: []
@@ -325,6 +326,8 @@ sohl:
         factors: []
         disabled: false
 ---
+
+![Mossback Turtle](images/beings/creatures/mssbcktr-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

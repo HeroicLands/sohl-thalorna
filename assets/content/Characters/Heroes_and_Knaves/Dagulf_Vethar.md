@@ -5,6 +5,7 @@ tags:
   - serf
   - vrystwald
   - underworld
+  - character
 name:
   full: Dágulf Véthar
   title: ""
@@ -557,6 +558,8 @@ sohl:
         disabled: false
     defaultCombatGroup: null
 ---
+
+![Dágulf Véthar](images/beings/characters/dagulfvthr-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

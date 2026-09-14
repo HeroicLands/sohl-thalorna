@@ -1,6 +1,7 @@
 ---
 tags:
   - dreadspawn
+  - creature
 name:
   full: Duneclaw
   aliases: []
@@ -255,6 +256,8 @@ sohl:
             textValue: "0"
         disabled: false
 ---
+
+![Duneclaw](images/beings/creatures/duneclaw-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

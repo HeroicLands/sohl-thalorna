@@ -2,6 +2,7 @@
 tags:
   - heroes-and-knaves
   - common-folk
+  - character
 name:
   full: Akákios Polytimós
   title: ""
@@ -585,6 +586,8 @@ sohl:
         disabled: false
     defaultCombatGroup: null
 ---
+
+![Akákios Polytimós](images/beings/characters/akksplytms-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

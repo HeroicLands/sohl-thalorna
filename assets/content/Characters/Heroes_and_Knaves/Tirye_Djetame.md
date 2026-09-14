@@ -2,6 +2,7 @@
 tags:
   - heroes-and-knaves
   - tradesfolk
+  - character
 name:
   full: Tirye Djet'amê
   title: ""
@@ -582,6 +583,8 @@ sohl:
         disabled: false
     defaultCombatGroup: null
 ---
+
+![Tirye Djet'amê](images/beings/characters/tiryedjetm-portrait.webp){float: top-left}
 
 **Home:** [[place-meruhotep|Meru-Hotep]]
 

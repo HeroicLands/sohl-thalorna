@@ -2,6 +2,7 @@
 tags:
   - heroes-and-knaves
   - soldiery
+  - character
 name:
   full: Kyriákos Patrikîos
   title: ""
@@ -587,6 +588,8 @@ sohl:
         disabled: false
     defaultCombatGroup: null
 ---
+
+![Kyriákos Patrikîos](images/beings/characters/kyrksptrks-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

@@ -2,6 +2,7 @@
 tags:
   - heroes-and-knaves
   - common-folk
+  - character
 name:
   full: Mer'tep Ankh'Khes
   title: ""
@@ -600,6 +601,8 @@ sohl:
         disabled: false
     defaultCombatGroup: null
 ---
+
+![Mer'tep Ankh'Khes](images/beings/characters/mrtpnkhkhs-portrait.webp){float: top-left}
 
 **Home:** [[place-perankhet|Per-Ankhet]]
 

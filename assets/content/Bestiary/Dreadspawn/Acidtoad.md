@@ -1,6 +1,7 @@
 ---
 tags:
   - dreadspawn
+  - creature
 name:
   full: Acidtoad
   aliases: []
@@ -323,6 +324,8 @@ sohl:
         factors: []
         disabled: false
 ---
+
+![Acidtoad](images/beings/creatures/acidtoad-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

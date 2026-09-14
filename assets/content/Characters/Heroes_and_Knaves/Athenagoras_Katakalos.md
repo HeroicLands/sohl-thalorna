@@ -2,6 +2,7 @@
 tags:
   - heroes-and-knaves
   - soldiery
+  - character
 name:
   full: Athênagoras Katakálos
   title: ""
@@ -587,6 +588,8 @@ sohl:
         disabled: false
     defaultCombatGroup: null
 ---
+
+![Athênagoras Katakálos](images/beings/characters/athngrsktkls-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

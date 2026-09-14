@@ -1,6 +1,7 @@
 ---
 tags:
   - elemental
+  - creature
 name:
   full: Frostwing
   aliases: []
@@ -319,6 +320,8 @@ sohl:
         factors: []
         disabled: false
 ---
+
+![Frostwing](images/beings/creatures/frstwng-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

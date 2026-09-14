@@ -2,6 +2,7 @@
 tags:
   - tamzir-crew
   - administration
+  - character
 name:
   full: Isâra Khalîdra
   title: ""
@@ -556,6 +557,8 @@ sohl:
         disabled: false
     defaultCombatGroup: null
 ---
+
+![Isâra Khalîdra](images/beings/characters/isarakhldr-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

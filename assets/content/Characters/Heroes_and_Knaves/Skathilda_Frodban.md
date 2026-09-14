@@ -4,6 +4,7 @@ tags:
   - brigand
   - vrystwald
   - underworld
+  - character
 name:
   full: Skathilda Fródbán
   title: ""
@@ -554,6 +555,8 @@ sohl:
         disabled: false
     defaultCombatGroup: null
 ---
+
+![Skathilda Fródbán](images/beings/characters/skthldfrdbn-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

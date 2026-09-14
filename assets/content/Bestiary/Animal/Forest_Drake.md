@@ -1,6 +1,7 @@
 ---
 tags:
   - animal
+  - creature
 name:
   full: Forest Drake
   aliases: []
@@ -406,6 +407,8 @@ sohl:
         factors: []
         disabled: false
 ---
+
+![Forest Drake](images/beings/creatures/frstdrk-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

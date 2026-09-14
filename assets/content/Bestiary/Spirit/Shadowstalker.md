@@ -1,6 +1,7 @@
 ---
 tags:
   - spirit
+  - creature
 name:
   full: Shadowstalker
   aliases: []
@@ -558,6 +559,8 @@ sohl:
             textValue: "0"
         disabled: false
 ---
+
+![Shadowstalker](images/beings/creatures/shdwstlk-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

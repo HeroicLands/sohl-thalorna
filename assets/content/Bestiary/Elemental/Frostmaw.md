@@ -1,6 +1,7 @@
 ---
 tags:
   - elemental
+  - creature
 name:
   full: Frostmaw
   aliases: []
@@ -361,6 +362,8 @@ sohl:
         factors: []
         disabled: false
 ---
+
+![Frostmaw](images/beings/creatures/frostmaw-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

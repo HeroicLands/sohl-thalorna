@@ -1,6 +1,7 @@
 ---
 tags:
   - elemental
+  - creature
 name:
   full: Emberhound
   aliases: []
@@ -362,6 +363,8 @@ sohl:
         factors: []
         disabled: false
 ---
+
+![Emberhound](images/beings/creatures/embrhnd-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

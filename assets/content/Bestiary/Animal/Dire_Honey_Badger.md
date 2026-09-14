@@ -1,6 +1,7 @@
 ---
 tags:
   - animal
+  - creature
 name:
   full: Dire Honey Badger
   aliases: []
@@ -333,6 +334,8 @@ sohl:
         factors: []
         disabled: false
 ---
+
+![Dire Honey Badger](images/beings/creatures/drhnybdg-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

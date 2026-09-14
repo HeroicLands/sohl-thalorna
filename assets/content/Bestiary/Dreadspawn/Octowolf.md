@@ -1,6 +1,7 @@
 ---
 tags:
   - dreadspawn
+  - creature
 name:
   full: Octowolf
   aliases: []
@@ -340,6 +341,8 @@ sohl:
         factors: []
         disabled: false
 ---
+
+![Octowolf](images/beings/creatures/octowolf-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

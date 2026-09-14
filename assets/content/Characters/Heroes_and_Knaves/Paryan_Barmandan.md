@@ -3,6 +3,7 @@ tags:
   - heroes-and-knaves
   - guilded
   - tradesfolk
+  - character
 name:
   full: Paryan Barmandan
   title: ""
@@ -593,6 +594,8 @@ sohl:
         disabled: false
     defaultCombatGroup: null
 ---
+
+![Paryan Barmandan](images/beings/characters/prynbrmndn-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

@@ -4,6 +4,7 @@ tags:
   - todo
   - guilded
   - mages
+  - character
 name:
   full: Ángelides Patrikîos
   title: ""
@@ -592,6 +593,8 @@ sohl:
         disabled: false
     defaultCombatGroup: null
 ---
+
+![Ángelides Patrikîos](images/beings/characters/angldsptrks-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

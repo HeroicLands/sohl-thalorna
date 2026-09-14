@@ -3,6 +3,7 @@ tags:
   - hero
   - silent-talon
   - soldiery
+  - character
 name:
   full: Brànwâal Dôrgaar
   title: Captain
@@ -576,6 +577,8 @@ sohl:
         disabled: false
     defaultCombatGroup: null
 ---
+
+![Brànwâal Dôrgaar](images/beings/characters/branwldrgr-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

@@ -2,6 +2,7 @@
 tags:
   - heroes-and-knaves
   - common-folk
+  - character
 name:
   full: Thêsaloníke Katharópoulos
   title: ""
@@ -595,6 +596,8 @@ sohl:
         disabled: false
     defaultCombatGroup: null
 ---
+
+![Thêsaloníke Katharópoulos](images/beings/characters/thslnkkthrpls-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

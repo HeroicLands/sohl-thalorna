@@ -3,6 +3,7 @@ tags:
   - heroes-and-knaves
   - guilded
   - tradesfolk
+  - character
 name:
   full: Sip'rah Ip'maâr
   title: ""
@@ -589,6 +590,8 @@ sohl:
         disabled: false
     defaultCombatGroup: null
 ---
+
+![Sip'rah Ip'maâr](images/beings/characters/siprahipmr-portrait.webp){float: top-left}
 
 **Home:** [[place-wasetkara|Wasetkara]]
 

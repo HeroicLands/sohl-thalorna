@@ -4,6 +4,7 @@ tags:
   - hero
   - guilded
   - tradesfolk
+  - character
 name:
   full: Eldrid Firehair
   title: ""
@@ -590,6 +591,8 @@ sohl:
         disabled: false
     defaultCombatGroup: null
 ---
+
+![Eldrid Firehair](images/beings/characters/eldridfrhr-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

@@ -1,6 +1,7 @@
 ---
 tags:
   - animal
+  - creature
 name:
   full: Giant Tortoise
   aliases: []
@@ -318,6 +319,8 @@ sohl:
         factors: []
         disabled: false
 ---
+
+![Giant Tortoise](images/beings/creatures/gnttrts-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

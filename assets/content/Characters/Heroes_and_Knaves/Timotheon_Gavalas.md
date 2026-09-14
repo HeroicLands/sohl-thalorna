@@ -3,6 +3,7 @@ tags:
   - heroes-and-knaves
   - guilded
   - common-folk
+  - character
 name:
   full: Timothéon Gaválas
   title: ""
@@ -586,6 +587,8 @@ sohl:
         disabled: false
     defaultCombatGroup: null
 ---
+
+![Timothéon Gaválas](images/beings/characters/timthngvls-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

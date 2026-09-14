@@ -2,6 +2,7 @@
 tags:
   - heroes-and-knaves
   - common-folk
+  - character
 name:
   full: Íngrithr Skýrekkr
   title: ""
@@ -587,6 +588,8 @@ sohl:
         disabled: false
     defaultCombatGroup: null
 ---
+
+![Íngrithr Skýrekkr](images/beings/characters/ingrthrskyrkr-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

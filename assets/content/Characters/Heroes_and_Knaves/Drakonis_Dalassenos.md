@@ -2,6 +2,7 @@
 tags:
   - heroes-and-knaves
   - common-folk
+  - character
 name:
   full: Drákonis Dalássênos
   title: ""
@@ -587,6 +588,8 @@ sohl:
         disabled: false
     defaultCombatGroup: null
 ---
+
+![Drákonis Dalássênos](images/beings/characters/drknsdlsns-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

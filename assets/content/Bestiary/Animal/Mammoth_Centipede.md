@@ -1,6 +1,7 @@
 ---
 tags:
   - animal
+  - creature
 name:
   full: Mammoth Centipede
   aliases: []
@@ -253,6 +254,8 @@ sohl:
         factors: []
         disabled: false
 ---
+
+![Mammoth Centipede](images/beings/creatures/mmmthcnt-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

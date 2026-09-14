@@ -3,6 +3,7 @@ tags:
   - heroes-and-knaves
   - hero
   - clergy
+  - character
 name:
   full: Hotep Anu
   title: ""
@@ -582,6 +583,8 @@ sohl:
         disabled: false
     defaultCombatGroup: null
 ---
+
+![Hotep Anu](images/beings/characters/hotepanu-portrait.webp){float: top-left}
 
 **Home:** [[place-ankhsetun|Ankh-Setûn]]
 

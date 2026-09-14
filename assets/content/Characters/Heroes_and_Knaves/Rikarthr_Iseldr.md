@@ -4,6 +4,7 @@ tags:
   - todo
   - guilded
   - mages
+  - character
 name:
   full: Ríkarthr Íseldr
   title: ""
@@ -622,6 +623,8 @@ sohl:
         disabled: false
     defaultCombatGroup: null
 ---
+
+![Ríkarthr Íseldr](images/beings/characters/rkrthrsldr-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

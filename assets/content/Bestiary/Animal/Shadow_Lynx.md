@@ -1,6 +1,7 @@
 ---
 tags:
   - animal
+  - creature
 name:
   full: Shadow Lynx
   aliases: []
@@ -333,6 +334,8 @@ sohl:
         factors: []
         disabled: false
 ---
+
+![Shadow Lynx](images/beings/creatures/shdwlynx-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

@@ -2,6 +2,7 @@
 tags:
   - heroes-and-knaves
   - tradesfolk
+  - character
 name:
   full: Pasher Het'remet
   title: ""
@@ -581,6 +582,8 @@ sohl:
         disabled: false
     defaultCombatGroup: null
 ---
+
+![Pasher Het'remet](images/beings/characters/pashrhtrmt-portrait.webp){float: top-left}
 
 **Home:** [[place-wasetkara|Wasetkara]]
 

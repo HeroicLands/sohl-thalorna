@@ -2,6 +2,7 @@
 tags:
   - heroes-and-knaves
   - soldiery
+  - character
 name:
   full: Thêkla Rhomaios
   title: ""
@@ -587,6 +588,8 @@ sohl:
         disabled: false
     defaultCombatGroup: null
 ---
+
+![Thêkla Rhomaios](images/beings/characters/theklarhms-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

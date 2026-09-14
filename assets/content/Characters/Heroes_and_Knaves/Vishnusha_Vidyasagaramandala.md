@@ -2,6 +2,7 @@
 tags:
   - heroes-and-knaves
   - common-folk
+  - character
 name:
   full: Vishnusha Vidyāsāgaramaṇḍala
   title: ""
@@ -590,6 +591,8 @@ sohl:
         disabled: false
     defaultCombatGroup: null
 ---
+
+![Vishnusha Vidyāsāgaramaṇḍala](images/beings/characters/vshnshvdysgrml-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

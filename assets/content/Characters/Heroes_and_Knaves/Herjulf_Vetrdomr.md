@@ -2,6 +2,7 @@
 tags:
   - heroes-and-knaves
   - common-folk
+  - character
 name:
   full: Herjúlf Vetrdómr
   title: ""
@@ -591,6 +592,8 @@ sohl:
         disabled: false
     defaultCombatGroup: null
 ---
+
+![Herjúlf Vetrdómr](images/beings/characters/hrjlfvtrdmr-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

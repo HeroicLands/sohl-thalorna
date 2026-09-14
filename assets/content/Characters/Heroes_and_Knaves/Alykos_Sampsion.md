@@ -3,6 +3,7 @@ tags:
   - heroes-and-knaves
   - guilded
   - tradesfolk
+  - character
 name:
   full: Alýkos Sampsiôn
   title: ""
@@ -593,6 +594,8 @@ sohl:
         disabled: false
     defaultCombatGroup: null
 ---
+
+![Alýkos Sampsiôn](images/beings/characters/alykosmpsn-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

@@ -3,6 +3,7 @@ tags:
   - paragon
   - heroes-of-asguard
   - soldiery
+  - character
 name:
   full: Skjaldmaer Eiriksdottir
   title: null

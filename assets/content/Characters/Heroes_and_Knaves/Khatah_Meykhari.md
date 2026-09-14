@@ -2,6 +2,7 @@
 tags:
   - heroes-and-knaves
   - soldiery
+  - character
 name:
   full: Khatah Mey'khari
   title: ""
@@ -582,6 +583,8 @@ sohl:
         disabled: false
     defaultCombatGroup: null
 ---
+
+![Khatah Mey'khari](images/beings/characters/khathmykhr-portrait.webp){float: top-left}
 
 **Home:** [[place-ankhsetun|Ankh-Setûn]]
 

@@ -3,6 +3,7 @@ tags:
   - heroes-and-knaves
   - guilded
   - tradesfolk
+  - character
 name:
   full: Afzandah Parnâzar
   title: ""
@@ -584,6 +585,8 @@ sohl:
         disabled: false
     defaultCombatGroup: null
 ---
+
+![Afzandah Parnâzar](images/beings/characters/afzndhprnzr-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

@@ -1,6 +1,7 @@
 ---
 tags:
   - animal
+  - creature
 name:
   full: Giant Eagle
   aliases: []
@@ -333,6 +334,8 @@ sohl:
         factors: []
         disabled: false
 ---
+
+![Giant Eagle](images/beings/creatures/gntegl-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

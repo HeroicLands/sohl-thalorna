@@ -2,6 +2,7 @@
 tags:
   - heroes-and-knaves
   - common-folk
+  - character
 name:
   full: Minàka Parikṣhana
   title: ""
@@ -591,6 +592,8 @@ sohl:
         disabled: false
     defaultCombatGroup: null
 ---
+
+![Minàka Parikṣhana](images/beings/characters/minakprkhn-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

@@ -2,6 +2,7 @@
 tags:
   - heroes-and-knaves
   - administration
+  - character
 name:
   full: Pritàrika Padmadîksha
   title: ""
@@ -594,6 +595,8 @@ sohl:
         disabled: false
     defaultCombatGroup: null
 ---
+
+![Pritàrika Padmadîksha](images/beings/characters/prtrkpdmdksh-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

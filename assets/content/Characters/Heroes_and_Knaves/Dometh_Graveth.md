@@ -3,6 +3,7 @@ tags:
   - heroes-and-knaves
   - guilded
   - tradesfolk
+  - character
 name:
   full: Dómeth Gráveth
   title: ""
@@ -600,6 +601,8 @@ sohl:
         disabled: false
     defaultCombatGroup: null
 ---
+
+![Dómeth Gráveth](images/beings/characters/domthgrvth-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

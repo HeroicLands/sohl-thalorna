@@ -3,6 +3,7 @@ tags:
   - heroes-and-knaves
   - guilded
   - tradesfolk
+  - character
 name:
   full: Sekhemet Ka'sekhen
   title: ""
@@ -630,6 +631,8 @@ sohl:
         disabled: false
     defaultCombatGroup: null
 ---
+
+![Sekhemet Ka'sekhen](images/beings/characters/skhmtkskhn-portrait.webp){float: top-left}
 
 **Home:** [[place-khensuret|Khensuret]]
 

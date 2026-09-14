@@ -1,6 +1,7 @@
 ---
 tags:
   - elemental
+  - creature
 name:
   full: Lithogiant
   aliases: []
@@ -619,6 +620,8 @@ sohl:
         factors: []
         disabled: false
 ---
+
+![Lithogiant](images/beings/creatures/lthgnt-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

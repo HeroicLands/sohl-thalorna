@@ -2,6 +2,7 @@
 tags:
   - heroes-and-knaves
   - common-folk
+  - character
 name:
   full: Mithran Mazânid
   title: ""
@@ -575,6 +576,8 @@ sohl:
         disabled: false
     defaultCombatGroup: null
 ---
+
+![Mithran Mazânid](images/beings/characters/mithrnmznd-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

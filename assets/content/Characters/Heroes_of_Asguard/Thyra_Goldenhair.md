@@ -3,6 +3,7 @@ tags:
   - hero
   - heroes-of-asguard
   - administration
+  - character
 name:
   full: Thyra Goldenhair
   title: null

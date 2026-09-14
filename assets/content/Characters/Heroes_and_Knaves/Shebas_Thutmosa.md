@@ -3,6 +3,7 @@ tags:
   - heroes-and-knaves
   - guilded
   - tradesfolk
+  - character
 name:
   full: Shebas Thutmosa
   title: ""
@@ -597,6 +598,8 @@ sohl:
         disabled: false
     defaultCombatGroup: null
 ---
+
+![Shebas Thutmosa](images/beings/characters/shebsthtms-portrait.webp){float: top-left}
 
 **Home:** [[place-ankhsetun|Ankh-Setûn]]
 

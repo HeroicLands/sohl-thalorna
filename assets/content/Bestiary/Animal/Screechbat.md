@@ -1,6 +1,7 @@
 ---
 tags:
   - animal
+  - creature
 name:
   full: Screechbat
   aliases: []
@@ -320,6 +321,8 @@ sohl:
         factors: []
         disabled: false
 ---
+
+![Screechbat](images/beings/creatures/scrchbt-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

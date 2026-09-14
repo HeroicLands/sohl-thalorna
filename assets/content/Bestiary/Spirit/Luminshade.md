@@ -1,6 +1,7 @@
 ---
 tags:
   - spirit
+  - creature
 name:
   full: Luminshade
   aliases: []
@@ -584,6 +585,8 @@ sohl:
         factors: []
         disabled: false
 ---
+
+![Luminshade](images/beings/creatures/lmnshd-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

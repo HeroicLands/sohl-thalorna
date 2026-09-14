@@ -3,6 +3,7 @@ tags:
   - heroes-and-knaves
   - guilded
   - tradesfolk
+  - character
 name:
   full: Raiah Sekmet'â
   title: ""
@@ -570,6 +571,8 @@ sohl:
         disabled: false
     defaultCombatGroup: null
 ---
+
+![Raiah Sekmet'â](images/beings/characters/raiahsekmt-portrait.webp){float: top-left}
 
 **Home:** [[place-wasetkara|Wasetkara]]
 

@@ -1,6 +1,7 @@
 ---
 tags:
   - animal
+  - creature
 name:
   full: Shadowclaw
   aliases: []
@@ -367,6 +368,8 @@ sohl:
             textValue: "0"
         disabled: false
 ---
+
+![Shadowclaw](images/beings/creatures/shdwclw-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

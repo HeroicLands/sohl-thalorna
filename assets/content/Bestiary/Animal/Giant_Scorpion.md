@@ -1,6 +1,7 @@
 ---
 tags:
   - animal
+  - creature
 name:
   full: Giant Scorpion
   aliases: []
@@ -251,6 +252,8 @@ sohl:
         factors: []
         disabled: false
 ---
+
+![Giant Scorpion](images/beings/creatures/gntscrpn-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

@@ -1,6 +1,7 @@
 ---
 tags:
   - animal
+  - creature
 name:
   full: Giant Ant
   aliases: []
@@ -269,6 +270,8 @@ sohl:
         factors: []
         disabled: false
 ---
+
+![Giant Ant](images/beings/creatures/giantant-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

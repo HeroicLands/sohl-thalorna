@@ -1,6 +1,7 @@
 ---
 tags:
   - dreadspawn
+  - creature
 name:
   full: Nemespite
   aliases: []
@@ -284,6 +285,8 @@ sohl:
         factors: []
         disabled: false
 ---
+
+![Nemespite](images/beings/creatures/nmspt-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

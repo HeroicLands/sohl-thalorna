@@ -3,6 +3,7 @@ tags:
   - heroes-and-knaves
   - guilded
   - mages
+  - character
 name:
   full: Kayvonad Zârîd
   title: ""
@@ -593,6 +594,8 @@ sohl:
         disabled: false
     defaultCombatGroup: null
 ---
+
+![Kayvonad Zârîd](images/beings/characters/kayvondzrd-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

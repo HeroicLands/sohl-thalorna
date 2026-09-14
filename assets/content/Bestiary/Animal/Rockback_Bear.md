@@ -1,6 +1,7 @@
 ---
 tags:
   - animal
+  - creature
 name:
   full: Rockback Bear
   aliases: []
@@ -333,6 +334,8 @@ sohl:
         factors: []
         disabled: false
 ---
+
+![Rockback Bear](images/beings/creatures/rckbckbr-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

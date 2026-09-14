@@ -2,6 +2,7 @@
 tags:
   - heroes-and-knaves
   - common-folk
+  - character
 name:
   full: Agápeia Varzánês
   title: ""
@@ -586,6 +587,8 @@ sohl:
         disabled: false
     defaultCombatGroup: null
 ---
+
+![Agápeia Varzánês](images/beings/characters/agapevrzns-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

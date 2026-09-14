@@ -1,6 +1,7 @@
 ---
 tags:
   - dreadspawn
+  - creature
 name:
   full: Luminophage
   aliases: []
@@ -215,6 +216,8 @@ sohl:
         factors: []
         disabled: false
 ---
+
+![Luminophage](images/beings/creatures/lmnphg-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

@@ -1,6 +1,7 @@
 ---
 tags:
   - spirit
+  - creature
 name:
   full: Specterwolf
   aliases: []
@@ -324,6 +325,8 @@ sohl:
             textValue: "0"
         disabled: false
 ---
+
+![Specterwolf](images/beings/creatures/spctrwlf-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

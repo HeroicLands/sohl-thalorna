@@ -1,6 +1,7 @@
 ---
 tags:
   - dreadspawn
+  - creature
 name:
   full: Summitdrake
   aliases: []
@@ -418,6 +419,8 @@ sohl:
         factors: []
         disabled: false
 ---
+
+![Summitdrake](images/beings/creatures/smmtdrk-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

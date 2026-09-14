@@ -2,6 +2,7 @@
 tags:
   - heroes-and-knaves
   - common-folk
+  - character
 name:
   full: Vànika Ratniseṇa
   title: ""
@@ -585,6 +586,8 @@ sohl:
         disabled: false
     defaultCombatGroup: null
 ---
+
+![Vànika Ratniseṇa](images/beings/characters/vanikartns-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

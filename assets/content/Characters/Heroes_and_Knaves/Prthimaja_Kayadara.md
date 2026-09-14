@@ -3,6 +3,7 @@ tags:
   - heroes-and-knaves
   - guilded
   - tradesfolk
+  - character
 name:
   full: Prthîmâja Kâyadara
   title: ""
@@ -597,6 +598,8 @@ sohl:
         disabled: false
     defaultCombatGroup: null
 ---
+
+![Prthîmâja Kâyadara](images/beings/characters/prthmjkydr-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

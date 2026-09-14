@@ -2,6 +2,7 @@
 tags:
   - heroes-and-knaves
   - tradesfolk
+  - character
 name:
   full: Xadrôs Dâemâtês
   title: ""
@@ -590,6 +591,8 @@ sohl:
         disabled: false
     defaultCombatGroup: null
 ---
+
+![Xadrôs Dâemâtês](images/beings/characters/xadrosdmts-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

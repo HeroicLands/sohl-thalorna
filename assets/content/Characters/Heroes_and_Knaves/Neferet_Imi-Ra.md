@@ -4,6 +4,7 @@ tags:
   - hero
   - guilded
   - tradesfolk
+  - character
 name:
   full: Neferet Imi-Ra
   title: ""
@@ -595,6 +596,8 @@ sohl:
         disabled: false
     defaultCombatGroup: null
 ---
+
+![Neferet Imi-Ra](images/beings/characters/neferetimr-portrait.webp){float: top-left}
 
 **Home:** [[place-wasetkara|Wasetkara]]
 

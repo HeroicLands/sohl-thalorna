@@ -1,6 +1,7 @@
 ---
 tags:
   - dreadspawn
+  - creature
 name:
   full: Mountain Troll
   aliases: []
@@ -626,6 +627,8 @@ sohl:
         factors: []
         disabled: false
 ---
+
+![Mountain Troll](images/beings/creatures/mntntrll-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

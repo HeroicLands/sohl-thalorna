@@ -1,6 +1,7 @@
 ---
 tags:
   - dreadspawn
+  - creature
 name:
   full: Webcrawler
   aliases: []
@@ -252,6 +253,8 @@ sohl:
         factors: []
         disabled: false
 ---
+
+![Webcrawler](images/beings/creatures/wbcrwlr-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

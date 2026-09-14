@@ -1,6 +1,7 @@
 ---
 tags:
   - dreadspawn
+  - creature
 name:
   full: Necrotic Mire
   aliases: []
@@ -253,6 +254,8 @@ sohl:
             textValue: "0"
         disabled: false
 ---
+
+![Necrotic Mire](images/beings/creatures/ncrtcmr-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

@@ -1,6 +1,7 @@
 ---
 tags:
   - dreadspawn
+  - creature
 name:
   full: Bramblefang
   aliases: []
@@ -344,6 +345,8 @@ sohl:
             textValue: "0"
         disabled: false
 ---
+
+![Bramblefang](images/beings/creatures/brmblfng-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

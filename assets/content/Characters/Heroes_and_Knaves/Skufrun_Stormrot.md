@@ -3,6 +3,7 @@ tags:
   - heroes-and-knaves
   - guilded
   - tradesfolk
+  - character
 name:
   full: Skúfrún Stormrót
   title: ""
@@ -594,6 +595,8 @@ sohl:
         disabled: false
     defaultCombatGroup: null
 ---
+
+![Skúfrún Stormrót](images/beings/characters/skfrnstrmrt-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

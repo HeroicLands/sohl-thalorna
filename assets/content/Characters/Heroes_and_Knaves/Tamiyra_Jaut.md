@@ -2,6 +2,7 @@
 tags:
   - heroes-and-knaves
   - administration
+  - character
 name:
   full: Ta'miyra Jâut
   title: ""
@@ -601,6 +602,8 @@ sohl:
         disabled: false
     defaultCombatGroup: null
 ---
+
+![Ta'miyra Jâut](images/beings/characters/tamiyrajat-portrait.webp){float: top-left}
 
 **Home:** [[place-perankhet|Per-Ankhet]]
 

@@ -2,6 +2,7 @@
 tags:
   - tamzir-crew
   - soldiery
+  - character
 name:
   full: Ylíra Skorrsdottir
   title: ""
@@ -560,6 +561,8 @@ sohl:
         disabled: false
     defaultCombatGroup: null
 ---
+
+![Ylíra Skorrsdottir](images/beings/characters/ylrskrsdtr-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

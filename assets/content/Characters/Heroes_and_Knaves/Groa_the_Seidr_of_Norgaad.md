@@ -3,6 +3,7 @@ tags:
   - heroes-and-knaves
   - hero
   - clergy
+  - character
 name:
   full: Gróa the Seidr of Norgaad
   title: ""
@@ -596,6 +597,8 @@ sohl:
         disabled: false
     defaultCombatGroup: null
 ---
+
+![Gróa the Seidr of Norgaad](images/beings/characters/grosdrnrgd-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

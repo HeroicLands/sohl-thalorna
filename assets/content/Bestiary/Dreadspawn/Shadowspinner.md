@@ -1,6 +1,7 @@
 ---
 tags:
   - dreadspawn
+  - creature
 name:
   full: Shadowspinner
   aliases: []
@@ -251,6 +252,8 @@ sohl:
         factors: []
         disabled: false
 ---
+
+![Shadowspinner](images/beings/creatures/shdwspnn-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

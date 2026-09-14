@@ -2,6 +2,7 @@
 tags:
   - heroes-and-knaves
   - common-folk
+  - character
 name:
   full: Björg Drekanótt
   title: ""
@@ -587,6 +588,8 @@ sohl:
         disabled: false
     defaultCombatGroup: null
 ---
+
+![Björg Drekanótt](images/beings/characters/bjorgdrknt-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

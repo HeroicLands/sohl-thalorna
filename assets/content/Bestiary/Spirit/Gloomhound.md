@@ -1,6 +1,7 @@
 ---
 tags:
   - spirit
+  - creature
 name:
   full: Gloomhound
   aliases: []
@@ -361,6 +362,8 @@ sohl:
             textValue: "0"
         disabled: false
 ---
+
+![Gloomhound](images/beings/creatures/glmhnd-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

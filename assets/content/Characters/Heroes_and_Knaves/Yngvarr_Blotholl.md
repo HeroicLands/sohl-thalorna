@@ -2,6 +2,7 @@
 tags:
   - heroes-and-knaves
   - tradesfolk
+  - character
 name:
   full: Yngvarr Blóthöll
   title: ""
@@ -583,6 +584,8 @@ sohl:
         disabled: false
     defaultCombatGroup: null
 ---
+
+![Yngvarr Blóthöll](images/beings/characters/yngvrblthl-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

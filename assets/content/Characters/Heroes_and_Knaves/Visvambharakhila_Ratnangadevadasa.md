@@ -3,6 +3,7 @@ tags:
   - heroes-and-knaves
   - guilded
   - tradesfolk
+  - character
 name:
   full: Viśvambhārākhila Ratnāṅgadēvadāsa
   title: ""
@@ -584,6 +585,8 @@ sohl:
         disabled: false
     defaultCombatGroup: null
 ---
+
+![Viśvambhārākhila Ratnāṅgadēvadāsa](images/beings/characters/vsvmbhrkhlrtngdvds-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

@@ -2,6 +2,7 @@
 tags:
   - heroes-and-knaves
   - tradesfolk
+  - character
 name:
   full: Gârlen Dhárel
   title: ""
@@ -599,6 +600,8 @@ sohl:
         disabled: false
     defaultCombatGroup: null
 ---
+
+![Gârlen Dhárel](images/beings/characters/garlendhrl-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

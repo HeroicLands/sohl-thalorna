@@ -1,6 +1,7 @@
 ---
 tags:
   - dreadspawn
+  - creature
 name:
   full: Tuskcrasher
   aliases: []
@@ -344,6 +345,8 @@ sohl:
         factors: []
         disabled: false
 ---
+
+![Tuskcrasher](images/beings/creatures/tskcrshr-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

@@ -1,6 +1,7 @@
 ---
 tags:
   - dreadspawn
+  - creature
 name:
   full: Forest Troll
   aliases: []
@@ -590,6 +591,8 @@ sohl:
         factors: []
         disabled: false
 ---
+
+![Forest Troll](images/beings/creatures/frsttrll-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

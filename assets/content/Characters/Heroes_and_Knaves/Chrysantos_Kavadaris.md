@@ -3,6 +3,7 @@ tags:
   - heroes-and-knaves
   - guilded
   - tradesfolk
+  - character
 name:
   full: Chrysántos Kavadáris
   title: ""
@@ -594,6 +595,8 @@ sohl:
         disabled: false
     defaultCombatGroup: null
 ---
+
+![Chrysántos Kavadáris](images/beings/characters/chrysntskvdrs-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

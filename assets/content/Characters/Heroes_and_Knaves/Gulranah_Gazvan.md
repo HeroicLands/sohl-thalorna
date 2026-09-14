@@ -3,6 +3,7 @@ tags:
   - heroes-and-knaves
   - guilded
   - common-folk
+  - character
 name:
   full: Gulrânah Gazvân
   title: ""
@@ -585,6 +586,8 @@ sohl:
         disabled: false
     defaultCombatGroup: null
 ---
+
+![Gulrânah Gazvân](images/beings/characters/gulrnhgzvn-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

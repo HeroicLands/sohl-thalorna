@@ -1,6 +1,7 @@
 ---
 tags:
   - spirit
+  - creature
 name:
   full: Wraithbloom
   aliases: []
@@ -215,6 +216,8 @@ sohl:
             textValue: "0"
         disabled: false
 ---
+
+![Wraithbloom](images/beings/creatures/wrthblm-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

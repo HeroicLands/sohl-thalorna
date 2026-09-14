@@ -3,6 +3,7 @@ tags:
   - heroes-and-knaves
   - todo
   - clergy
+  - character
 name:
   full: Hélénaia Mystákês
   title: ""
@@ -597,6 +598,8 @@ sohl:
         disabled: false
     defaultCombatGroup: null
 ---
+
+![Hélénaia Mystákês](images/beings/characters/helnmystks-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

@@ -2,6 +2,7 @@
 tags:
   - tamzir-crew
   - tradesfolk
+  - character
 name:
   full: Féthar Dhárel
   title: ""
@@ -557,6 +558,8 @@ sohl:
         disabled: false
     defaultCombatGroup: null
 ---
+
+![Féthar Dhárel](images/beings/characters/fethardhrl-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

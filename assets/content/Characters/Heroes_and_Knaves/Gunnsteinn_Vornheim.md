@@ -2,6 +2,7 @@
 tags:
   - heroes-and-knaves
   - soldiery
+  - character
 name:
   full: Gunnsteinn Vörnheim
   title: ""
@@ -574,6 +575,8 @@ sohl:
         disabled: false
     defaultCombatGroup: null
 ---
+
+![Gunnsteinn Vörnheim](images/beings/characters/gnstnvrnhm-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

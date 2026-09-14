@@ -2,6 +2,7 @@
 tags:
   - heroes-and-knaves
   - tradesfolk
+  - character
 name:
   full: Akhrem Re'en'fré
   title: ""
@@ -598,6 +599,8 @@ sohl:
         disabled: false
     defaultCombatGroup: null
 ---
+
+![Akhrem Re'en'fré](images/beings/characters/akhremrnfr-portrait.webp){float: top-left}
 
 **Home:** [[place-perankhet|Per-Ankhet]]
 

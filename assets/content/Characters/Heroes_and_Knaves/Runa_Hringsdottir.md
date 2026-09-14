@@ -3,6 +3,7 @@ tags:
   - heroes-and-knaves
   - hero
   - soldiery
+  - character
 name:
   full: Rúna Hringsdóttir
   title: ""
@@ -590,6 +591,8 @@ sohl:
         disabled: false
     defaultCombatGroup: null
 ---
+
+![Rúna Hringsdóttir](images/beings/characters/rnhrngsdtr-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

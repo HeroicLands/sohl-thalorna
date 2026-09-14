@@ -3,6 +3,7 @@ tags:
   - todo-warrior
   - draft
   - soldiery
+  - character
 name:
   full: Namrûsh Gazrûm
   title: ""

@@ -3,6 +3,7 @@ tags:
   - heroes-and-knaves
   - hero
   - administration
+  - character
 name:
   full: Shadiq ibn Rahman, The Diplomatic Blade Dancer
   title: ""
@@ -608,6 +609,8 @@ sohl:
         disabled: false
     defaultCombatGroup: null
 ---
+
+![Shadiq ibn Rahman, The Diplomatic Blade Dancer](images/beings/characters/shdqbnrhmndplmtcblddncr-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

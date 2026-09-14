@@ -3,6 +3,7 @@ tags:
   - paragon
   - heroes-of-asguard
   - mages
+  - character
 name:
   full: Leif Runaskald
   title: null

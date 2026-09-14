@@ -2,6 +2,7 @@
 tags:
   - heroes-and-knaves
   - tradesfolk
+  - character
 name:
   full: Philothêia Niktariôtês
   title: ""
@@ -582,6 +583,8 @@ sohl:
         disabled: false
     defaultCombatGroup: null
 ---
+
+![Philothêia Niktariôtês](images/beings/characters/phlthnktrts-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

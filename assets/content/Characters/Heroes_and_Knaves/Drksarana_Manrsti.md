@@ -2,6 +2,7 @@
 tags:
   - heroes-and-knaves
   - common-folk
+  - character
 name:
   full: Drkṣàrana Manṛṣṭi
   title: ""
@@ -596,6 +597,8 @@ sohl:
         disabled: false
     defaultCombatGroup: null
 ---
+
+![Drkṣàrana Manṛṣṭi](images/beings/characters/drkaranamn-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

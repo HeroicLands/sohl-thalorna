@@ -1,6 +1,7 @@
 ---
 tags:
   - animal
+  - creature
 name:
   full: Sand Stalker
   aliases: []
@@ -337,6 +338,8 @@ sohl:
             textValue: "0"
         disabled: false
 ---
+
+![Sand Stalker](images/beings/creatures/sndstlkr-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

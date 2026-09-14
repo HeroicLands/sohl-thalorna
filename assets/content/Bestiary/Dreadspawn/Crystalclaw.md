@@ -1,6 +1,7 @@
 ---
 tags:
   - dreadspawn
+  - creature
 name:
   full: Crystalclaw
   aliases: []
@@ -326,6 +327,8 @@ sohl:
         factors: []
         disabled: false
 ---
+
+![Crystalclaw](images/beings/creatures/crystlcl-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

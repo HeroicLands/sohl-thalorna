@@ -1,6 +1,7 @@
 ---
 tags:
   - folk
+  - creature
 name:
   full: Forest Goblin
   aliases: []
@@ -336,6 +337,8 @@ sohl:
         strMod: "-5 * floor((str - 10) / 2)"
         disabled: false
 ---
+
+![Forest Goblin](images/beings/creatures/frstgbln-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

@@ -1,6 +1,7 @@
 ---
 tags:
   - dreadspawn
+  - creature
 name:
   full: Verdantcoil
   aliases: []
@@ -265,6 +266,8 @@ sohl:
             textValue: "0"
         disabled: false
 ---
+
+![Verdantcoil](images/beings/creatures/vrdntcl-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

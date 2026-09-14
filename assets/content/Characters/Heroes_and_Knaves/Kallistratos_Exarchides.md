@@ -3,6 +3,7 @@ tags:
   - heroes-and-knaves
   - hero
   - mages
+  - character
 name:
   full: Kallistratos Exarchides
   title: ""
@@ -603,6 +604,8 @@ sohl:
         disabled: false
     defaultCombatGroup: null
 ---
+
+![Kallistratos Exarchides](images/beings/characters/klstrtsxrchds-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

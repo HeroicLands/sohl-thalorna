@@ -2,6 +2,7 @@
 tags:
   - draft
   - mages
+  - character
 name:
   full: Mákrion Nâfrinês
   title: ""

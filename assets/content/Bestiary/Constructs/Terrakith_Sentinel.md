@@ -1,6 +1,7 @@
 ---
 tags:
   - construct
+  - creature
 name:
   full: Terrakith Sentinel
   aliases: []
@@ -62,6 +63,8 @@ sohl:
         factors: []
         disabled: false
 ---
+
+![Terrakith Sentinel](images/beings/creatures/trrkthsn-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

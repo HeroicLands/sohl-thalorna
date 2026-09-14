@@ -3,6 +3,7 @@ tags:
   - heroes-and-knaves
   - guilded
   - common-folk
+  - character
 name:
   full: Faradûn Afrûn
   title: ""
@@ -596,6 +597,8 @@ sohl:
         disabled: false
     defaultCombatGroup: null
 ---
+
+![Faradûn Afrûn](images/beings/characters/faradunfrn-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

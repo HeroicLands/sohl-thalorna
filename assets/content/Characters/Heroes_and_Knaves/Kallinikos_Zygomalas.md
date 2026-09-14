@@ -2,6 +2,7 @@
 tags:
   - heroes-and-knaves
   - tradesfolk
+  - character
 name:
   full: Kallínikos Zygomálas
   title: ""
@@ -599,6 +600,8 @@ sohl:
         disabled: false
     defaultCombatGroup: null
 ---
+
+![Kallínikos Zygomálas](images/beings/characters/klnkszygmls-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

@@ -2,6 +2,7 @@
 tags:
   - heroes-and-knaves
   - administration
+  - character
 name:
   full: Sunáti Āyodhyārājavardhan
   title: ""
@@ -594,6 +595,8 @@ sohl:
         disabled: false
     defaultCombatGroup: null
 ---
+
+![Sunáti Āyodhyārājavardhan](images/beings/characters/sntydhyrjvrdhn-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

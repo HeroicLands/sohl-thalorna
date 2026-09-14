@@ -2,6 +2,7 @@
 tags:
   - heroes-and-knaves
   - soldiery
+  - character
 name:
   full: Korêmdânis Bárkrâtys
   title: ""
@@ -589,6 +590,8 @@ sohl:
         disabled: false
     defaultCombatGroup: null
 ---
+
+![Korêmdânis Bárkrâtys](images/beings/characters/krmdnsbrkrtys-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

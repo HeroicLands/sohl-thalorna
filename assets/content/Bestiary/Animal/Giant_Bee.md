@@ -1,6 +1,7 @@
 ---
 tags:
   - animal
+  - creature
 name:
   full: Giant Bee
   aliases: []
@@ -320,6 +321,8 @@ sohl:
         factors: []
         disabled: false
 ---
+
+![Giant Bee](images/beings/creatures/giantbee-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

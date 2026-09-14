@@ -3,6 +3,7 @@ tags:
   - heroes-and-knaves
   - hero
   - soldiery
+  - character
 name:
   full: Eshe wa Magara
   title: ""
@@ -597,6 +598,8 @@ sohl:
         disabled: false
     defaultCombatGroup: null
 ---
+
+![Eshe wa Magara](images/beings/characters/eshewamagr-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

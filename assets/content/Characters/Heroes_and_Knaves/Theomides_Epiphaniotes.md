@@ -2,6 +2,7 @@
 tags:
   - heroes-and-knaves
   - common-folk
+  - character
 name:
   full: Theomídes Epiphaniôtês
   title: ""
@@ -596,6 +597,8 @@ sohl:
         disabled: false
     defaultCombatGroup: null
 ---
+
+![Theomídes Epiphaniôtês](images/beings/characters/thmdspphnts-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

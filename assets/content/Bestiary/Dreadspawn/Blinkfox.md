@@ -1,6 +1,7 @@
 ---
 tags:
   - dreadspawn
+  - creature
 name:
   full: Blinkfox
   aliases: []
@@ -330,6 +331,8 @@ sohl:
         factors: []
         disabled: false
 ---
+
+![Blinkfox](images/beings/creatures/blinkfox-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

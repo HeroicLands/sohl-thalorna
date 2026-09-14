@@ -2,6 +2,7 @@
 tags:
   - heroes-and-knaves
   - soldiery
+  - character
 name:
   full: Böthvarr Sólvargr
   title: ""
@@ -581,6 +582,8 @@ sohl:
         disabled: false
     defaultCombatGroup: null
 ---
+
+![Böthvarr Sólvargr](images/beings/characters/bthvrslvrgr-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

@@ -1,6 +1,7 @@
 ---
 tags:
   - dreadspawn
+  - creature
 name:
   full: Stonebeast
   aliases: []
@@ -373,6 +374,8 @@ sohl:
             textValue: "0"
         disabled: false
 ---
+
+![Stonebeast](images/beings/creatures/stnbst-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

@@ -1,6 +1,7 @@
 ---
 tags:
   - spirit
+  - creature
 name:
   full: Voidserpent
   aliases: []
@@ -260,6 +261,8 @@ sohl:
             textValue: "0"
         disabled: false
 ---
+
+![Voidserpent](images/beings/creatures/vdsrpnt-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

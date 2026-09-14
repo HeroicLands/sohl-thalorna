@@ -3,6 +3,7 @@ tags:
   - todo
   - draft
   - administration
+  - character
 name:
   full: Glýenna Cárdeth
   title: Lady

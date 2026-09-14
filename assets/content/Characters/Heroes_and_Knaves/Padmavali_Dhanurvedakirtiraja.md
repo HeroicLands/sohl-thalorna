@@ -2,6 +2,7 @@
 tags:
   - heroes-and-knaves
   - tradesfolk
+  - character
 name:
   full: Padmàvali Dhanurvedakīrtirāja
   title: ""
@@ -593,6 +594,8 @@ sohl:
         disabled: false
     defaultCombatGroup: null
 ---
+
+![Padmàvali Dhanurvedakīrtirāja](images/beings/characters/pdmvldhnrvdkrtrj-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

@@ -3,6 +3,7 @@ tags:
   - heroes-and-knaves
   - guilded
   - tradesfolk
+  - character
 name:
   full: Ángelides Kantakouzenós
   title: ""
@@ -594,6 +595,8 @@ sohl:
         disabled: false
     defaultCombatGroup: null
 ---
+
+![Ángelides Kantakouzenós](images/beings/characters/angldskntkzns-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

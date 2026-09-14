@@ -1,6 +1,7 @@
 ---
 tags:
   - dreadspawn
+  - creature
 name:
   full: Nightshade Serpent
   aliases: []
@@ -261,6 +262,8 @@ sohl:
             textValue: "0"
         disabled: false
 ---
+
+![Nightshade Serpent](images/beings/creatures/nghtshds-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

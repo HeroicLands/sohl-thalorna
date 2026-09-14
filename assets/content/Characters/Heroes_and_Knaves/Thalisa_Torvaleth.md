@@ -3,6 +3,7 @@ tags:
   - heroes-and-knaves
   - guilded
   - tradesfolk
+  - character
 name:
   full: Thalísa Torvaleth
   title: ""
@@ -599,6 +600,8 @@ sohl:
         disabled: false
     defaultCombatGroup: null
 ---
+
+![Thalísa Torvaleth](images/beings/characters/thlstrvlth-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

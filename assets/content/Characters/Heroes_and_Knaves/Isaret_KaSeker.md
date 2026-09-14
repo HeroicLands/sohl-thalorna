@@ -3,6 +3,7 @@ tags:
   - heroes-and-knaves
   - hero
   - underworld
+  - character
 name:
   full: Isaret Ka'Seker
   title: ""
@@ -595,6 +596,8 @@ sohl:
         disabled: false
     defaultCombatGroup: null
 ---
+
+![Isaret Ka'Seker](images/beings/characters/isaretkskr-portrait.webp){float: top-left}
 
 **Home:** [[place-khensuret|Khensuret]]
 

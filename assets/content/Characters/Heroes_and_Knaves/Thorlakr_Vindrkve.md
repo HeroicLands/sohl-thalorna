@@ -2,6 +2,7 @@
 tags:
   - heroes-and-knaves
   - common-folk
+  - character
 name:
   full: Thorlákr Vindrkvé
   title: ""
@@ -604,6 +605,8 @@ sohl:
         disabled: false
     defaultCombatGroup: null
 ---
+
+![Thorlákr Vindrkvé](images/beings/characters/thrlkrvndrkv-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

@@ -2,6 +2,7 @@
 tags:
   - heroes-and-knaves
   - tradesfolk
+  - character
 name:
   full: Ályra Kálmereth
   title: ""
@@ -604,6 +605,8 @@ sohl:
         disabled: false
     defaultCombatGroup: null
 ---
+
+![Ályra Kálmereth](images/beings/characters/alyrklmrth-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

@@ -3,6 +3,7 @@ tags:
   - heroes-and-knaves
   - guilded
   - tradesfolk
+  - character
 name:
   full: Harkhîs Bàremydês
   title: ""
@@ -602,6 +603,8 @@ sohl:
         disabled: false
     defaultCombatGroup: null
 ---
+
+![Harkhîs Bàremydês](images/beings/characters/hrkhsbrmyds-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

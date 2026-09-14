@@ -2,6 +2,7 @@
 tags:
   - heroes-and-knaves
   - tradesfolk
+  - character
 name:
   full: Óskunn Bjargskorn
   title: ""
@@ -584,6 +585,8 @@ sohl:
         disabled: false
     defaultCombatGroup: null
 ---
+
+![Óskunn Bjargskorn](images/beings/characters/osknbjrgskrn-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

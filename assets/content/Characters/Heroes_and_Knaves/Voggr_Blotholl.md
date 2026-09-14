@@ -2,6 +2,7 @@
 tags:
   - heroes-and-knaves
   - common-folk
+  - character
 name:
   full: Vöggr Blóthöll
   title: ""
@@ -590,6 +591,8 @@ sohl:
         disabled: false
     defaultCombatGroup: null
 ---
+
+![Vöggr Blóthöll](images/beings/characters/vogrblothl-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

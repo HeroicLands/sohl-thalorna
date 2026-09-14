@@ -1,6 +1,7 @@
 ---
 tags:
   - animal
+  - creature
 name:
   full: Cliff Stalker
   aliases: []
@@ -337,6 +338,8 @@ sohl:
             textValue: "0"
         disabled: false
 ---
+
+![Cliff Stalker](images/beings/creatures/clffstlk-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

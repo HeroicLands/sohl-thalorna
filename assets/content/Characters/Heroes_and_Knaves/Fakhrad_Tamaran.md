@@ -3,6 +3,7 @@ tags:
   - heroes-and-knaves
   - guilded
   - mages
+  - character
 name:
   full: Fakhrad Tamârân
   title: ""
@@ -604,6 +605,8 @@ sohl:
         disabled: false
     defaultCombatGroup: null
 ---
+
+![Fakhrad Tamârân](images/beings/characters/fakhrdtmrn-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

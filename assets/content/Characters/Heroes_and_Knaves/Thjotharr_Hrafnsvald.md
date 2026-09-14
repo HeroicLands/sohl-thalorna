@@ -2,6 +2,7 @@
 tags:
   - heroes-and-knaves
   - tradesfolk
+  - character
 name:
   full: Thjótharr Hrafnsvald
   title: ""
@@ -601,6 +602,8 @@ sohl:
         disabled: false
     defaultCombatGroup: null
 ---
+
+![Thjótharr Hrafnsvald](images/beings/characters/thjthrhrfnsvld-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

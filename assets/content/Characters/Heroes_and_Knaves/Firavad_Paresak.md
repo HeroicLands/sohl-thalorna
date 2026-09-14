@@ -2,6 +2,7 @@
 tags:
   - heroes-and-knaves
   - clergy
+  - character
 name:
   full: Firâvâd Pâresak
   title: ""
@@ -598,6 +599,8 @@ sohl:
         disabled: false
     defaultCombatGroup: null
 ---
+
+![Firâvâd Pâresak](images/beings/characters/firavdprsk-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

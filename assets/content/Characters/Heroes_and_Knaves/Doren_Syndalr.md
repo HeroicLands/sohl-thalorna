@@ -4,6 +4,7 @@ tags:
   - silent-talon
   - unguilded
   - soldiery
+  - character
 name:
   full: Dôren Sýndalr
   title: ""
@@ -568,6 +569,8 @@ sohl:
         disabled: false
     defaultCombatGroup: null
 ---
+
+![Dôren Sýndalr](images/beings/characters/dornsyndlr-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

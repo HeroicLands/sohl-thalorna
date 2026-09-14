@@ -2,6 +2,7 @@
 tags:
   - heroes-and-knaves
   - tradesfolk
+  - character
 name:
   full: Kárr Íseldr
   title: ""
@@ -588,6 +589,8 @@ sohl:
         disabled: false
     defaultCombatGroup: null
 ---
+
+![Kárr Íseldr](images/beings/characters/karriseldr-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

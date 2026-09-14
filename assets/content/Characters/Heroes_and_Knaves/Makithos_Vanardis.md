@@ -2,6 +2,7 @@
 tags:
   - heroes-and-knaves
   - tradesfolk
+  - character
 name:
   full: Màkîthos Vânardis
   title: ""
@@ -586,6 +587,8 @@ sohl:
         disabled: false
     defaultCombatGroup: null
 ---
+
+![Màkîthos Vânardis](images/beings/characters/mkthsvnrds-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

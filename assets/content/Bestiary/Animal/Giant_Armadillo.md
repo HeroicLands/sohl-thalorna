@@ -1,6 +1,7 @@
 ---
 tags:
   - animal
+  - creature
 name:
   full: Giant Armadillo
   aliases: []
@@ -329,6 +330,8 @@ sohl:
         factors: []
         disabled: false
 ---
+
+![Giant Armadillo](images/beings/creatures/gntarmdl-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

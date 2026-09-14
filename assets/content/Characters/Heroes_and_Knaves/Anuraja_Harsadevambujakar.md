@@ -2,6 +2,7 @@
 tags:
   - heroes-and-knaves
   - underworld
+  - character
 name:
   full: Anûraja Harṣadēvāmbujakar
   title: ""
@@ -585,6 +586,8 @@ sohl:
         disabled: false
     defaultCombatGroup: null
 ---
+
+![Anûraja Harṣadēvāmbujakar](images/beings/characters/anrjhrdvmbjkr-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

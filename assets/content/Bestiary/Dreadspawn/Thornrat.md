@@ -1,6 +1,7 @@
 ---
 tags:
   - dreadspawn
+  - creature
 name:
   full: Thornrat
   aliases: []
@@ -330,6 +331,8 @@ sohl:
         factors: []
         disabled: false
 ---
+
+![Thornrat](images/beings/creatures/thornrat-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

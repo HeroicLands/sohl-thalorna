@@ -1,6 +1,7 @@
 ---
 tags:
   - animal
+  - creature
 name:
   full: Crag Lurker
   aliases: []
@@ -263,6 +264,8 @@ sohl:
             textValue: "0"
         disabled: false
 ---
+
+![Crag Lurker](images/beings/creatures/crglrkr-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

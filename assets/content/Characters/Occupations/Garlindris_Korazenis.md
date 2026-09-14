@@ -2,6 +2,7 @@
 tags:
   - draft
   - administration
+  - character
 name:
   full: Garlîndris Korâzênis
   title: ""

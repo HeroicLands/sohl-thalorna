@@ -2,6 +2,7 @@
 tags:
   - draft
   - administration
+  - character
 name:
   full: Gália Rálwen
   title: Lady

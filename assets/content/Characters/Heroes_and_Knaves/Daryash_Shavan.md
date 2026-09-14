@@ -2,6 +2,7 @@
 tags:
   - heroes-and-knaves
   - tradesfolk
+  - character
 name:
   full: Daryash Shavân
   title: ""
@@ -584,6 +585,8 @@ sohl:
         disabled: false
     defaultCombatGroup: null
 ---
+
+![Daryash Shavân](images/beings/characters/daryshshvn-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

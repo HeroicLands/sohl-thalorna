@@ -1,6 +1,7 @@
 ---
 tags:
   - dreadspawn
+  - creature
 name:
   full: Shardbeak
   aliases: []
@@ -326,6 +327,8 @@ sohl:
         factors: []
         disabled: false
 ---
+
+![Shardbeak](images/beings/creatures/shrdbk-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

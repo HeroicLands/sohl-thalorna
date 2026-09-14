@@ -3,6 +3,7 @@ tags:
   - heroes-and-knaves
   - guilded
   - mages
+  - character
 name:
   full: Dómrithâs Vîshârdâs
   title: ""
@@ -590,6 +591,8 @@ sohl:
         disabled: false
     defaultCombatGroup: null
 ---
+
+![Dómrithâs Vîshârdâs](images/beings/characters/dmrthsvshrds-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

@@ -2,6 +2,7 @@
 tags:
   - heroes-and-knaves
   - tradesfolk
+  - character
 name:
   full: Tamûra Sūryatejamahānanda
   title: ""
@@ -594,6 +595,8 @@ sohl:
         disabled: false
     defaultCombatGroup: null
 ---
+
+![Tamûra Sūryatejamahānanda](images/beings/characters/tmrsrytjmhnnd-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

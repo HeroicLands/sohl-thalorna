@@ -1,6 +1,7 @@
 ---
 tags:
   - animal
+  - creature
 name:
   full: Giant Boar
   aliases: []
@@ -344,6 +345,8 @@ sohl:
         factors: []
         disabled: false
 ---
+
+![Giant Boar](images/beings/creatures/gntbr-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

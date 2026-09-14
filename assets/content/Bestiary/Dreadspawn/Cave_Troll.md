@@ -1,6 +1,7 @@
 ---
 tags:
   - dreadspawn
+  - creature
 name:
   full: Cave Troll
   aliases: []
@@ -591,6 +592,8 @@ sohl:
         factors: []
         disabled: false
 ---
+
+![Cave Troll](images/beings/creatures/cvtrll-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

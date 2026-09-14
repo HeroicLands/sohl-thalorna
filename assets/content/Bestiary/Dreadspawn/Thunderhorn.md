@@ -1,6 +1,7 @@
 ---
 tags:
   - dreadspawn
+  - creature
 name:
   full: Thunderhorn
   aliases: []
@@ -373,6 +374,8 @@ sohl:
         factors: []
         disabled: false
 ---
+
+![Thunderhorn](images/beings/creatures/thndrhrn-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

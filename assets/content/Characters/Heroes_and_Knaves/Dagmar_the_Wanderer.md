@@ -4,6 +4,7 @@ tags:
   - hero
   - guilded
   - tradesfolk
+  - character
 name:
   full: Dagmar the Wanderer
   title: ""
@@ -583,6 +584,8 @@ sohl:
         disabled: false
     defaultCombatGroup: null
 ---
+
+![Dagmar the Wanderer](images/beings/characters/dagmrwndrr-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

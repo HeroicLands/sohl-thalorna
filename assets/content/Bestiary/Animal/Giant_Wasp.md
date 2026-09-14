@@ -1,6 +1,7 @@
 ---
 tags:
   - animal
+  - creature
 name:
   full: Giant Wasp
   aliases: []
@@ -320,6 +321,8 @@ sohl:
         factors: []
         disabled: false
 ---
+
+![Giant Wasp](images/beings/creatures/gntwsp-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

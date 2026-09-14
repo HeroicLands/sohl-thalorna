@@ -2,6 +2,7 @@
 tags:
   - heroes-and-knaves
   - common-folk
+  - character
 name:
   full: Dek Vetrdómr
   title: ""
@@ -585,6 +586,8 @@ sohl:
         disabled: false
     defaultCombatGroup: null
 ---
+
+![Dek Vetrdómr](images/beings/characters/dekvetrdmr-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

@@ -3,6 +3,7 @@ tags:
   - heroes-and-knaves
   - guilded
   - soldiery
+  - character
 name:
   full: Yngvarr Dróttgar
   title: ""
@@ -576,6 +577,8 @@ sohl:
         disabled: false
     defaultCombatGroup: null
 ---
+
+![Yngvarr Dróttgar](images/beings/characters/yngvrdrtgr-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

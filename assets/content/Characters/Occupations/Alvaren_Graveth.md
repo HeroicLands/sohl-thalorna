@@ -2,6 +2,7 @@
 tags:
   - draft
   - common-folk
+  - character
 name:
   full: Alváren Gráveth
   title: ""

@@ -1,6 +1,7 @@
 ---
 tags:
   - animal
+  - creature
 name:
   full: Thornback Boar
   aliases: []
@@ -344,6 +345,8 @@ sohl:
         factors: []
         disabled: false
 ---
+
+![Thornback Boar](images/beings/creatures/thrnbckb-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

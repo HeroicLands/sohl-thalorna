@@ -1,6 +1,7 @@
 ---
 tags:
   - dreadspawn
+  - creature
 name:
   full: Spindlefiend
   aliases: []
@@ -251,6 +252,8 @@ sohl:
         factors: []
         disabled: false
 ---
+
+![Spindlefiend](images/beings/creatures/spndlfnd-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

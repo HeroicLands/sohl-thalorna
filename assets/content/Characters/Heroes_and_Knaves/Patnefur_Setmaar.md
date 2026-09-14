@@ -3,6 +3,7 @@ tags:
   - heroes-and-knaves
   - guilded
   - tradesfolk
+  - character
 name:
   full: Pat'nefur Set'maâr
   title: ""
@@ -597,6 +598,8 @@ sohl:
         disabled: false
     defaultCombatGroup: null
 ---
+
+![Pat'nefur Set'maâr](images/beings/characters/patnfrstmr-portrait.webp){float: top-left}
 
 **Home:** [[place-wasetkara|Wasetkara]]
 

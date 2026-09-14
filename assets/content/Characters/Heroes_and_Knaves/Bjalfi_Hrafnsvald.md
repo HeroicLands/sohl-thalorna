@@ -2,6 +2,7 @@
 tags:
   - heroes-and-knaves
   - soldiery
+  - character
 name:
   full: Bjalfi Hrafnsvald
   title: ""
@@ -583,6 +584,8 @@ sohl:
         disabled: false
     defaultCombatGroup: null
 ---
+
+![Bjalfi Hrafnsvald](images/beings/characters/bjlfhrfnsvld-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

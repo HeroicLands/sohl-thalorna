@@ -1,6 +1,7 @@
 ---
 tags:
   - dreadspawn
+  - creature
 name:
   full: Boulderback
   aliases: []
@@ -617,6 +618,8 @@ sohl:
         factors: []
         disabled: false
 ---
+
+![Boulderback](images/beings/creatures/bldrbck-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

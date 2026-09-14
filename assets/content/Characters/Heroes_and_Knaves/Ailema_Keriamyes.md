@@ -3,6 +3,7 @@ tags:
   - heroes-and-knaves
   - guilded
   - tradesfolk
+  - character
 name:
   full: Ailêmâ Kêrîamyês
   title: ""
@@ -605,6 +606,8 @@ sohl:
         disabled: false
     defaultCombatGroup: null
 ---
+
+![Ailêmâ Kêrîamyês](images/beings/characters/ailemkrmys-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

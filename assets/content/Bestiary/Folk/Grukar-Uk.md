@@ -1,6 +1,7 @@
 ---
 tags:
   - folk
+  - creature
 name:
   full: Grukar-Uk
   aliases: []
@@ -342,6 +343,8 @@ sohl:
         strMod: "-5 * floor((str - 10) / 2)"
         disabled: false
 ---
+
+![Grukar-Uk](images/beings/creatures/grukaruk-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

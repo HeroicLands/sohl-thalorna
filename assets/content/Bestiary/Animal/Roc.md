@@ -1,6 +1,7 @@
 ---
 tags:
   - animal
+  - creature
 name:
   full: Roc
   aliases: []
@@ -369,6 +370,8 @@ sohl:
         factors: []
         disabled: false
 ---
+
+![Roc](images/beings/creatures/roc-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

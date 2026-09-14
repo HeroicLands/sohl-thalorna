@@ -3,6 +3,7 @@ tags:
   - heroes-and-knaves
   - guilded
   - tradesfolk
+  - character
 name:
   full: Satara Re'en'Khensu
   title: ""
@@ -603,6 +604,8 @@ sohl:
         disabled: false
     defaultCombatGroup: null
 ---
+
+![Satara Re'en'Khensu](images/beings/characters/satrrnkhns-portrait.webp){float: top-left}
 
 **Home:** [[place-khensuret|Khensuret]]
 

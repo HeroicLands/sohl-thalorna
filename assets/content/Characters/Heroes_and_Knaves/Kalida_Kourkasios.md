@@ -2,6 +2,7 @@
 tags:
   - heroes-and-knaves
   - tradesfolk
+  - character
 name:
   full: Kalída Kourkásios
   title: ""
@@ -596,6 +597,8 @@ sohl:
         disabled: false
     defaultCombatGroup: null
 ---
+
+![Kalída Kourkásios](images/beings/characters/kalidkrkss-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

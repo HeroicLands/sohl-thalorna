@@ -3,6 +3,7 @@ tags:
   - heroes-and-knaves
   - guilded
   - common-folk
+  - character
 name:
   full: Bránakis Kâserânis
   title: ""
@@ -596,6 +597,8 @@ sohl:
         disabled: false
     defaultCombatGroup: null
 ---
+
+![Bránakis Kâserânis](images/beings/characters/brnksksrns-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

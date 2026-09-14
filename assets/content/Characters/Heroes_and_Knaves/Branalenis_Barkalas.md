@@ -2,6 +2,7 @@
 tags:
   - heroes-and-knaves
   - common-folk
+  - character
 name:
   full: Brânalenîs Bárkalâs
   title: ""
@@ -593,6 +594,8 @@ sohl:
         disabled: false
     defaultCombatGroup: null
 ---
+
+![Brânalenîs Bárkalâs](images/beings/characters/brnlnsbrkls-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

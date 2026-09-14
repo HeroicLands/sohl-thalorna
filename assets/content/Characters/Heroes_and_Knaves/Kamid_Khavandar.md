@@ -2,6 +2,7 @@
 tags:
   - heroes-and-knaves
   - common-folk
+  - character
 name:
   full: Kamîd Khâvandar
   title: ""
@@ -560,6 +561,8 @@ sohl:
         disabled: false
     defaultCombatGroup: null
 ---
+
+![Kamîd Khâvandar](images/beings/characters/kamdkhvndr-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

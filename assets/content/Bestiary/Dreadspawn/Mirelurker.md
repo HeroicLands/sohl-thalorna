@@ -1,6 +1,7 @@
 ---
 tags:
   - dreadspawn
+  - creature
 name:
   full: Mirelurker
   aliases: []
@@ -642,6 +643,8 @@ sohl:
         factors: []
         disabled: false
 ---
+
+![Mirelurker](images/beings/creatures/mrlrkr-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

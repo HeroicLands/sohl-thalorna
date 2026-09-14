@@ -2,6 +2,7 @@
 tags:
   - heroes-and-knaves
   - tradesfolk
+  - character
 name:
   full: Hildr Steinblót
   title: ""
@@ -606,6 +607,8 @@ sohl:
         disabled: false
     defaultCombatGroup: null
 ---
+
+![Hildr Steinblót](images/beings/characters/hldrstnblt-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

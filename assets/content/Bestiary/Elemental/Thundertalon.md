@@ -1,6 +1,7 @@
 ---
 tags:
   - elemental
+  - creature
 name:
   full: Thundertalon
   aliases: []
@@ -319,6 +320,8 @@ sohl:
         factors: []
         disabled: false
 ---
+
+![Thundertalon](images/beings/creatures/thndrtln-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

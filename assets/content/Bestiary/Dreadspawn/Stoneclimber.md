@@ -1,6 +1,7 @@
 ---
 tags:
   - dreadspawn
+  - creature
 name:
   full: Stoneclimber
   aliases: []
@@ -343,6 +344,8 @@ sohl:
             textValue: "0"
         disabled: false
 ---
+
+![Stoneclimber](images/beings/creatures/stnclmbr-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

@@ -1,6 +1,7 @@
 ---
 tags:
   - dreadspawn
+  - creature
 name:
   full: Stygian Leviathan
   aliases: []
@@ -281,6 +282,8 @@ sohl:
         factors: []
         disabled: false
 ---
+
+![Stygian Leviathan](images/beings/creatures/stygnlvt-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

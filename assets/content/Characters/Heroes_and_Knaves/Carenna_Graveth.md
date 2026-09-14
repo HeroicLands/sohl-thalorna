@@ -3,6 +3,7 @@ tags:
   - heroes-and-knaves
   - guilded
   - administration
+  - character
 name:
   full: Cárenna Gráveth
   title: ""
@@ -589,6 +590,8 @@ sohl:
         disabled: false
     defaultCombatGroup: null
 ---
+
+![Cárenna Gráveth](images/beings/characters/carengrvth-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

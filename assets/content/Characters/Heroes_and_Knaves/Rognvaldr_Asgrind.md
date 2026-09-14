@@ -2,6 +2,7 @@
 tags:
   - heroes-and-knaves
   - tradesfolk
+  - character
 name:
   full: Rögnvaldr Ásgrind
   title: ""
@@ -619,6 +620,8 @@ sohl:
         disabled: false
     defaultCombatGroup: null
 ---
+
+![Rögnvaldr Ásgrind](images/beings/characters/rgnvldrsgrnd-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

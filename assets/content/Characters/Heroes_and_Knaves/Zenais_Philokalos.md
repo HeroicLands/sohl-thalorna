@@ -2,6 +2,7 @@
 tags:
   - heroes-and-knaves
   - tradesfolk
+  - character
 name:
   full: Zênais Philokálos
   title: ""
@@ -591,6 +592,8 @@ sohl:
         disabled: false
     defaultCombatGroup: null
 ---
+
+![Zênais Philokálos](images/beings/characters/zensphlkls-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

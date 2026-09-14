@@ -4,6 +4,7 @@ tags:
   - brigand
   - vrystwald
   - underworld
+  - character
 name:
   full: Hródar Arnthúl
   title: ""
@@ -551,6 +552,8 @@ sohl:
         disabled: false
     defaultCombatGroup: null
 ---
+
+![Hródar Arnthúl](images/beings/characters/hrodrrnthl-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

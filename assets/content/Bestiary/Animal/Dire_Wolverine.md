@@ -1,6 +1,7 @@
 ---
 tags:
   - animal
+  - creature
 name:
   full: Dire Wolverine
   aliases: []
@@ -333,6 +334,8 @@ sohl:
         factors: []
         disabled: false
 ---
+
+![Dire Wolverine](images/beings/creatures/drwlvrn-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

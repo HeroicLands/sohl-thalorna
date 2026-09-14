@@ -1,6 +1,7 @@
 ---
 tags:
   - elemental
+  - creature
 name:
   full: Frostjaw
   aliases: []
@@ -362,6 +363,8 @@ sohl:
         factors: []
         disabled: false
 ---
+
+![Frostjaw](images/beings/creatures/frostjaw-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

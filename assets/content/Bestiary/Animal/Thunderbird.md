@@ -1,6 +1,7 @@
 ---
 tags:
   - animal
+  - creature
 name:
   full: Thunderbird
   aliases: []
@@ -369,6 +370,8 @@ sohl:
         factors: []
         disabled: false
 ---
+
+![Thunderbird](images/beings/creatures/thndrbrd-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

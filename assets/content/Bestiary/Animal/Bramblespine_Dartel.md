@@ -1,6 +1,7 @@
 ---
 tags:
   - animal
+  - creature
 name:
   full: Bramblespine Dartel
   aliases: []
@@ -366,6 +367,8 @@ sohl:
         factors: []
         disabled: false
 ---
+
+![Bramblespine Dartel](images/beings/creatures/brmblspn-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

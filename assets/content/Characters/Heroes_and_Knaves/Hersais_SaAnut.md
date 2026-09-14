@@ -2,6 +2,7 @@
 tags:
   - heroes-and-knaves
   - administration
+  - character
 name:
   full: Her'sa'îs Sa'Anut
   title: Haty'a
@@ -611,6 +612,8 @@ sohl:
         disabled: false
     defaultCombatGroup: null
 ---
+
+![Her'sa'îs Sa'Anut](images/beings/characters/hersaisant-portrait.webp){float: top-left}
 
 **Home:** [[place-ankhsetun|Ankh-Setûn]]
 

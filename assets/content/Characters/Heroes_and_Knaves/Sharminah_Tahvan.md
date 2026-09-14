@@ -3,6 +3,7 @@ tags:
   - heroes-and-knaves
   - todo
   - clergy
+  - character
 name:
   full: Sharmînah Tahvân
   title: ""
@@ -588,6 +589,8 @@ sohl:
         disabled: false
     defaultCombatGroup: null
 ---
+
+![Sharmînah Tahvân](images/beings/characters/shrmnhthvn-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

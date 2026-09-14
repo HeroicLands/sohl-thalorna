@@ -2,6 +2,7 @@
 tags:
   - heroes-and-knaves
   - soldiery
+  - character
 name:
   full: Ídrisè Kórisvar
   title: ""
@@ -577,6 +578,8 @@ sohl:
         disabled: false
     defaultCombatGroup: null
 ---
+
+![Ídrisè Kórisvar](images/beings/characters/idriskrsvr-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

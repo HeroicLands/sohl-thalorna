@@ -2,6 +2,7 @@
 tags:
   - heroes-and-knaves
   - tradesfolk
+  - character
 name:
   full: Ermelína Drekanótt
   title: ""
@@ -589,6 +590,8 @@ sohl:
         disabled: false
     defaultCombatGroup: null
 ---
+
+![Ermelína Drekanótt](images/beings/characters/ermlndrknt-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

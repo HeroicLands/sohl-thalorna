@@ -2,6 +2,7 @@
 tags:
   - tamzir-crew
   - clergy
+  - character
 name:
   full: Dámàsûn Ghôlâron
   title: ""
@@ -559,6 +560,8 @@ sohl:
         disabled: false
     defaultCombatGroup: null
 ---
+
+![Dámàsûn Ghôlâron](images/beings/characters/damsnghlrn-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

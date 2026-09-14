@@ -3,6 +3,7 @@ tags:
   - heroes-and-knaves
   - guilded
   - tradesfolk
+  - character
 name:
   full: Grégoras Ephthymiópoulos
   title: ""
@@ -597,6 +598,8 @@ sohl:
         disabled: false
     defaultCombatGroup: null
 ---
+
+![Grégoras Ephthymiópoulos](images/beings/characters/grgrsphthympls-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

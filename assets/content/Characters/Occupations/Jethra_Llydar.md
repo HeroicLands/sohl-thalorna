@@ -3,6 +3,7 @@ tags:
   - draft
   - guilded
   - mages
+  - character
 name:
   full: Jéthra Llýdar
   title: ""

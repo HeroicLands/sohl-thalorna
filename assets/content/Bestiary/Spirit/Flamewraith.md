@@ -1,6 +1,7 @@
 ---
 tags:
   - spirit
+  - creature
 name:
   full: Flamewraith
   aliases: []
@@ -608,6 +609,8 @@ sohl:
             textValue: "0"
         disabled: false
 ---
+
+![Flamewraith](images/beings/creatures/flmwrth-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

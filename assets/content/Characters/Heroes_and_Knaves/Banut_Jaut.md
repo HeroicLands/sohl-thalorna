@@ -3,6 +3,7 @@ tags:
   - heroes-and-knaves
   - guilded
   - mages
+  - character
 name:
   full: Bânut Jâut
   title: ""
@@ -602,6 +603,8 @@ sohl:
         disabled: false
     defaultCombatGroup: null
 ---
+
+![Bânut Jâut](images/beings/characters/banutjaut-portrait.webp){float: top-left}
 
 **Home:** [[place-meruhotep|Meru-Hotep]]
 

@@ -1,6 +1,7 @@
 ---
 tags:
   - animal
+  - creature
 name:
   full: Giant Owl
   aliases: []
@@ -333,6 +334,8 @@ sohl:
         factors: []
         disabled: false
 ---
+
+![Giant Owl](images/beings/creatures/giantowl-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

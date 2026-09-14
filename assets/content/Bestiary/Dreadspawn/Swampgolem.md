@@ -1,6 +1,7 @@
 ---
 tags:
   - dreadspawn
+  - creature
 name:
   full: Swampgolem
   aliases: []
@@ -588,6 +589,8 @@ sohl:
         factors: []
         disabled: false
 ---
+
+![Swampgolem](images/beings/creatures/swmpglm-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

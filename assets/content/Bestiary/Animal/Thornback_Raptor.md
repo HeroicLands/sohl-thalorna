@@ -1,6 +1,7 @@
 ---
 tags:
   - animal
+  - creature
 name:
   full: Thornback Raptor
   aliases: []
@@ -318,6 +319,8 @@ sohl:
         factors: []
         disabled: false
 ---
+
+![Thornback Raptor](images/beings/creatures/thrnbckr-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

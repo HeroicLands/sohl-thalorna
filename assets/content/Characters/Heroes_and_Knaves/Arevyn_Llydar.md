@@ -2,6 +2,7 @@
 tags:
   - heroes-and-knaves
   - common-folk
+  - character
 name:
   full: Arévyn Llýdar
   title: ""
@@ -593,6 +594,8 @@ sohl:
         disabled: false
     defaultCombatGroup: null
 ---
+
+![Arévyn Llýdar](images/beings/characters/arevynlydr-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

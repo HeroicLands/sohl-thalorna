@@ -2,6 +2,7 @@
 tags:
   - heroes-and-knaves
   - common-folk
+  - character
 name:
   full: Guthrún Sólvargr
   title: ""
@@ -595,6 +596,8 @@ sohl:
         disabled: false
     defaultCombatGroup: null
 ---
+
+![Guthrún Sólvargr](images/beings/characters/gthrnslvrgr-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

@@ -2,6 +2,7 @@
 tags:
   - heroes-and-knaves
   - administration
+  - character
 name:
   full: Vīrāṅgaśikharam Dukṣana
   title: ""
@@ -583,6 +584,8 @@ sohl:
         disabled: false
     defaultCombatGroup: null
 ---
+
+![Vīrāṅgaśikharam Dukṣana](images/beings/characters/vrgskhrmdkn-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

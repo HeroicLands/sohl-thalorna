@@ -2,6 +2,7 @@
 tags:
   - heroes-and-knaves
   - common-folk
+  - character
 name:
   full: Arkhêa Kourkásios
   title: ""
@@ -595,6 +596,8 @@ sohl:
         disabled: false
     defaultCombatGroup: null
 ---
+
+![Arkhêa Kourkásios](images/beings/characters/arkhekrkss-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

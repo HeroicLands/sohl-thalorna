@@ -3,6 +3,7 @@ tags:
   - paragon
   - heroes-of-asguard
   - mages
+  - character
 name:
   full: Valdrik the Shaper
   title: null

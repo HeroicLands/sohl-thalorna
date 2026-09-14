@@ -1,6 +1,7 @@
 ---
 tags:
   - animal
+  - creature
 name:
   full: Margrush
   aliases: []
@@ -333,6 +334,8 @@ sohl:
         factors: []
         disabled: false
 ---
+
+![Margrush](images/beings/creatures/margrush-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

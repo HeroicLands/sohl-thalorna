@@ -4,6 +4,7 @@ tags:
   - todo
   - guilded
   - mages
+  - character
 name:
   full: Kassándria Bessarîon
   title: ""
@@ -592,6 +593,8 @@ sohl:
         disabled: false
     defaultCombatGroup: null
 ---
+
+![Kassándria Bessarîon](images/beings/characters/kasndrbsrn-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

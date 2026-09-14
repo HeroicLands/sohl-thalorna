@@ -3,6 +3,7 @@ tags:
   - heroes-and-knaves
   - hero
   - mages
+  - character
 name:
   full: Meret-Sebek Heka’amun
   title: ""
@@ -601,6 +602,8 @@ sohl:
         disabled: false
     defaultCombatGroup: null
 ---
+
+![Meret-Sebek Heka’amun](images/beings/characters/mrtsbkhkmn-portrait.webp){float: top-left}
 
 **Home:** [[place-meruhotep|Meru-Hotep]]
 

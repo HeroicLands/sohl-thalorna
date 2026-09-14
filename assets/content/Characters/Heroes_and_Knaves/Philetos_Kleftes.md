@@ -3,6 +3,7 @@ tags:
   - heroes-and-knaves
   - hero
   - tradesfolk
+  - character
 name:
   full: Philetos Kleftes
   title: ""
@@ -585,6 +586,8 @@ sohl:
         disabled: false
     defaultCombatGroup: null
 ---
+
+![Philetos Kleftes](images/beings/characters/phltsklfts-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

@@ -1,6 +1,7 @@
 ---
 tags:
   - construct
+  - creature
 name:
   full: Aegiron Sentinel
   aliases: []
@@ -62,6 +63,8 @@ sohl:
         factors: []
         disabled: false
 ---
+
+![Aegiron Sentinel](images/beings/creatures/agrnsntn-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

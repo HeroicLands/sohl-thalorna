@@ -2,6 +2,7 @@
 tags:
   - heroes-and-knaves
   - common-folk
+  - character
 name:
   full: Rängr Vetrdómr
   title: ""
@@ -602,6 +603,8 @@ sohl:
         disabled: false
     defaultCombatGroup: null
 ---
+
+![Rängr Vetrdómr](images/beings/characters/rngrvtrdmr-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

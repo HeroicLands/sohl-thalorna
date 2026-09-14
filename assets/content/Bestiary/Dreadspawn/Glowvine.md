@@ -1,6 +1,7 @@
 ---
 tags:
   - dreadspawn
+  - creature
 name:
   full: Glowvine
   aliases: []
@@ -252,6 +253,8 @@ sohl:
             textValue: "0"
         disabled: false
 ---
+
+![Glowvine](images/beings/creatures/glowvine-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

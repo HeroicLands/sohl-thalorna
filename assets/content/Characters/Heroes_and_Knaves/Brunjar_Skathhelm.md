@@ -4,6 +4,7 @@ tags:
   - brigand
   - vrystwald
   - underworld
+  - character
 name:
   full: Brunjár Skathhelm
   title: ""
@@ -554,6 +555,8 @@ sohl:
         disabled: false
     defaultCombatGroup: null
 ---
+
+![Brunjár Skathhelm](images/beings/characters/brunjarskathhel-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

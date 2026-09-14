@@ -3,6 +3,7 @@ tags:
   - draft
   - guilded
   - administration
+  - character
 name:
   full: Alîmû Lâmarû
   title: ""

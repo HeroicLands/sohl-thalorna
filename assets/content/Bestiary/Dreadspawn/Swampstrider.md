@@ -1,6 +1,7 @@
 ---
 tags:
   - dreadspawn
+  - creature
 name:
   full: Swampstrider
   aliases: []
@@ -374,6 +375,8 @@ sohl:
             textValue: "0"
         disabled: false
 ---
+
+![Swampstrider](images/beings/creatures/swmpstrd-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

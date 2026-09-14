@@ -2,6 +2,7 @@
 tags:
   - draft
   - common-folk
+  - character
 name:
   full: Wilfred Dunwell
   title: ""

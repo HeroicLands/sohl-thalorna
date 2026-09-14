@@ -2,6 +2,7 @@
 tags:
   - tamzir-crew
   - tradesfolk
+  - character
 name:
   full: Eshârum Tarûzî
   title: Captain
@@ -563,6 +564,8 @@ sohl:
         disabled: false
     defaultCombatGroup: null
 ---
+
+![Eshârum Tarûzî](images/beings/characters/esharumtrz-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

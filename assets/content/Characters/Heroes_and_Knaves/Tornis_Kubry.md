@@ -4,6 +4,7 @@ tags:
   - silent-talon
   - unguilded
   - soldiery
+  - character
 name:
   full: Tórnis Kúbrý
   title: ""
@@ -565,6 +566,8 @@ sohl:
         disabled: false
     defaultCombatGroup: null
 ---
+
+![Tórnis Kúbrý](images/beings/characters/torniskbry-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

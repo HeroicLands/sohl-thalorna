@@ -1,6 +1,7 @@
 ---
 tags:
   - helspawn
+  - creature
 name:
   full: Nightwights
   aliases: []
@@ -520,6 +521,8 @@ sohl:
         factors: []
         disabled: false
 ---
+
+![Nightwights](images/beings/creatures/nghtwght-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

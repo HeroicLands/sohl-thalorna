@@ -1,6 +1,7 @@
 ---
 tags:
   - elemental
+  - creature
 name:
   full: Fireflit
   aliases: []
@@ -313,6 +314,8 @@ sohl:
         factors: []
         disabled: false
 ---
+
+![Fireflit](images/beings/creatures/fireflit-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

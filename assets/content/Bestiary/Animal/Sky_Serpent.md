@@ -1,6 +1,7 @@
 ---
 tags:
   - animal
+  - creature
 name:
   full: Sky Serpent
   aliases: []
@@ -261,6 +262,8 @@ sohl:
             textValue: "0"
         disabled: false
 ---
+
+![Sky Serpent](images/beings/creatures/skysrpnt-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

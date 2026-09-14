@@ -1,6 +1,7 @@
 ---
 tags:
   - spirit
+  - creature
 name:
   full: Gloomsprite
   aliases: []
@@ -271,6 +272,8 @@ sohl:
         factors: []
         disabled: false
 ---
+
+![Gloomsprite](images/beings/creatures/glmsprt-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

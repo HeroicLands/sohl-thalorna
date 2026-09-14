@@ -2,6 +2,7 @@
 tags:
   - heroes-and-knaves
   - soldiery
+  - character
 name:
   full: Dharmàpala Vimuktaṇa
   title: ""
@@ -574,6 +575,8 @@ sohl:
         disabled: false
     defaultCombatGroup: null
 ---
+
+![Dharmàpala Vimuktaṇa](images/beings/characters/dhrmplvmkt-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

@@ -2,6 +2,7 @@
 tags:
   - heroes-and-knaves
   - tradesfolk
+  - character
 name:
   full: Björn Vetrdómr
   title: ""
@@ -583,6 +584,8 @@ sohl:
         disabled: false
     defaultCombatGroup: null
 ---
+
+![Björn Vetrdómr](images/beings/characters/bjrnvtrdmr-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

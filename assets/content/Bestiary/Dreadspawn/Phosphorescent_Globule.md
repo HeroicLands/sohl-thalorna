@@ -1,6 +1,7 @@
 ---
 tags:
   - dreadspawn
+  - creature
 name:
   full: Phosphorescent Globule
   aliases: []
@@ -216,6 +217,8 @@ sohl:
         factors: []
         disabled: false
 ---
+
+![Phosphorescent Globule](images/beings/creatures/phsphrsc-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

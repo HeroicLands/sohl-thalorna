@@ -1,6 +1,7 @@
 ---
 tags:
   - dreadspawn
+  - creature
 name:
   full: Abyssal Silt
   aliases: []
@@ -252,6 +253,8 @@ sohl:
         factors: []
         disabled: false
 ---
+
+![Abyssal Silt](images/beings/creatures/abysslsl-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

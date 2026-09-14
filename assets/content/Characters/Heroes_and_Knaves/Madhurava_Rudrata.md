@@ -3,6 +3,7 @@ tags:
   - heroes-and-knaves
   - guilded
   - administration
+  - character
 name:
   full: Màdhurava Rudraṭa
   title: ""
@@ -593,6 +594,8 @@ sohl:
         disabled: false
     defaultCombatGroup: null
 ---
+
+![Màdhurava Rudraṭa](images/beings/characters/madhurvrdr-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

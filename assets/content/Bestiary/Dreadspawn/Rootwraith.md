@@ -1,6 +1,7 @@
 ---
 tags:
   - dreadspawn
+  - creature
 name:
   full: Rootwraith
   aliases: []
@@ -606,6 +607,8 @@ sohl:
             textValue: "0"
         disabled: false
 ---
+
+![Rootwraith](images/beings/creatures/rtwrth-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

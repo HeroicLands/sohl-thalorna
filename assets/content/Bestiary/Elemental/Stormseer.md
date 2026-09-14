@@ -1,6 +1,7 @@
 ---
 tags:
   - elemental
+  - creature
 name:
   full: Stormseer
   aliases: []
@@ -319,6 +320,8 @@ sohl:
         factors: []
         disabled: false
 ---
+
+![Stormseer](images/beings/creatures/strmsr-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

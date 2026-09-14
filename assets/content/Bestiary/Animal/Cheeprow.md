@@ -1,6 +1,7 @@
 ---
 tags:
   - animal
+  - creature
 name:
   full: Cheeprow
   aliases: []
@@ -337,6 +338,8 @@ sohl:
         factors: []
         disabled: false
 ---
+
+![Cheeprow](images/beings/creatures/cheeprow-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

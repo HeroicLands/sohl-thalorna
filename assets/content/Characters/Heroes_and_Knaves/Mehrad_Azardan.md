@@ -3,6 +3,7 @@ tags:
   - heroes-and-knaves
   - guilded
   - tradesfolk
+  - character
 name:
   full: Mehrâd Âzardan
   title: ""
@@ -602,6 +603,8 @@ sohl:
         disabled: false
     defaultCombatGroup: null
 ---
+
+![Mehrâd Âzardan](images/beings/characters/mehradzrdn-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

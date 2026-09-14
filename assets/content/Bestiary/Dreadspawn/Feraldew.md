@@ -1,6 +1,7 @@
 ---
 tags:
   - dreadspawn
+  - creature
 name:
   full: Feraldew
   aliases: []
@@ -381,6 +382,8 @@ sohl:
         factors: []
         disabled: false
 ---
+
+![Feraldew](images/beings/creatures/feraldew-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

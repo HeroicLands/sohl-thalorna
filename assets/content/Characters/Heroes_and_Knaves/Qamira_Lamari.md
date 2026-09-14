@@ -3,6 +3,7 @@ tags:
   - heroes-and-knaves
   - guilded
   - mages
+  - character
 name:
   full: Qâmira Lamari
   title: ""
@@ -602,6 +603,8 @@ sohl:
         disabled: false
     defaultCombatGroup: null
 ---
+
+![Qâmira Lamari](images/beings/characters/qamiralamr-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

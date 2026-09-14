@@ -3,6 +3,7 @@ tags:
   - heroes-and-knaves
   - guilded
   - tradesfolk
+  - character
 name:
   full: Vígbrandr Skýrekkr
   title: ""
@@ -586,6 +587,8 @@ sohl:
         disabled: false
     defaultCombatGroup: null
 ---
+
+![Vígbrandr Skýrekkr](images/beings/characters/vgbrndrskyrkr-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

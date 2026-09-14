@@ -3,6 +3,7 @@ tags:
   - heroes-and-knaves
   - guilded
   - administration
+  - character
 name:
   full: Philándros Kyriákos
   title: ""
@@ -601,6 +602,8 @@ sohl:
         disabled: false
     defaultCombatGroup: null
 ---
+
+![Philándros Kyriákos](images/beings/characters/phlndrskyrks-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

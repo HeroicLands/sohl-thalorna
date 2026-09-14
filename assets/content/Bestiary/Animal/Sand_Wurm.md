@@ -1,6 +1,7 @@
 ---
 tags:
   - animal
+  - creature
 name:
   full: Sand Wurm
   aliases: []
@@ -256,6 +257,8 @@ sohl:
             textValue: "0"
         disabled: false
 ---
+
+![Sand Wurm](images/beings/creatures/sandwurm-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

@@ -1,6 +1,7 @@
 ---
 tags:
   - animal
+  - creature
 name:
   full: Nüsvōrroth
   aliases: []
@@ -318,6 +319,8 @@ sohl:
         factors: []
         disabled: false
 ---
+
+![Nüsvōrroth](images/beings/creatures/nsvrroth-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

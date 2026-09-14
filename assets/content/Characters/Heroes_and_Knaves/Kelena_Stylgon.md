@@ -2,6 +2,7 @@
 tags:
   - heroes-and-knaves
   - administration
+  - character
 name:
   full: Kêlena Stýlgon
   title: ""
@@ -575,6 +576,8 @@ sohl:
         disabled: false
     defaultCombatGroup: null
 ---
+
+![Kêlena Stýlgon](images/beings/characters/kelnstylgn-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

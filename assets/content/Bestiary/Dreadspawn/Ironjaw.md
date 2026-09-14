@@ -1,6 +1,7 @@
 ---
 tags:
   - dreadspawn
+  - creature
 name:
   full: Ironjaw
   aliases: []
@@ -369,6 +370,8 @@ sohl:
         factors: []
         disabled: false
 ---
+
+![Ironjaw](images/beings/creatures/ironjaw-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

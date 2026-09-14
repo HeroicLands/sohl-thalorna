@@ -4,6 +4,7 @@ tags:
   - todo
   - guilded
   - clergy
+  - character
 name:
   full: Leónantos Stratégopoulos
   title: ""
@@ -600,6 +601,8 @@ sohl:
         disabled: false
     defaultCombatGroup: null
 ---
+
+![Leónantos Stratégopoulos](images/beings/characters/lnntstrtgpls-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

@@ -1,6 +1,7 @@
 ---
 tags:
   - dreadspawn
+  - creature
 name:
   full: Gloomfang
   aliases: []
@@ -330,6 +331,8 @@ sohl:
         factors: []
         disabled: false
 ---
+
+![Gloomfang](images/beings/creatures/glmfng-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

@@ -1,6 +1,7 @@
 ---
 tags:
   - spirit
+  - creature
 name:
   full: Vaporwisp
   aliases: []
@@ -162,6 +163,8 @@ sohl:
         factors: []
         disabled: false
 ---
+
+![Vaporwisp](images/beings/creatures/vprwsp-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

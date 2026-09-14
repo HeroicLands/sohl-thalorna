@@ -4,6 +4,7 @@ tags:
   - hero
   - guilded
   - mages
+  - character
 name:
   full: Sevion Myrkelis
   title: ""
@@ -615,6 +616,8 @@ sohl:
         disabled: false
     defaultCombatGroup: null
 ---
+
+![Sevion Myrkelis](images/beings/characters/sevnmyrkls-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

@@ -3,6 +3,7 @@ tags:
   - heroes-and-knaves
   - guilded
   - administration
+  - character
 name:
   full: Tot'kar Het'Wera
   title: ""
@@ -586,6 +587,8 @@ sohl:
         disabled: false
     defaultCombatGroup: null
 ---
+
+![Tot'kar Het'Wera](images/beings/characters/totkarhtwr-portrait.webp){float: top-left}
 
 **Home:** [[place-meruhotep|Meru-Hotep]]
 

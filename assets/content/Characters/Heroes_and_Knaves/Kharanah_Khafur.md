@@ -3,6 +3,7 @@ tags:
   - heroes-and-knaves
   - guilded
   - tradesfolk
+  - character
 name:
   full: Khârânah Khafûr
   title: ""
@@ -590,6 +591,8 @@ sohl:
         disabled: false
     defaultCombatGroup: null
 ---
+
+![Khârânah Khafûr](images/beings/characters/kharnhkhfr-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

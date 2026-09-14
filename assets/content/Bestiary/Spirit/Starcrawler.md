@@ -1,6 +1,7 @@
 ---
 tags:
   - spirit
+  - creature
 name:
   full: Starcrawler
   aliases: []
@@ -282,6 +283,8 @@ sohl:
         factors: []
         disabled: false
 ---
+
+![Starcrawler](images/beings/creatures/strcrwlr-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

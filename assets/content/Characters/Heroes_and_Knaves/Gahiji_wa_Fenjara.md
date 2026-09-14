@@ -3,6 +3,7 @@ tags:
   - heroes-and-knaves
   - hero
   - tradesfolk
+  - character
 name:
   full: Gahiji wa Fénjara
   title: ""
@@ -593,6 +594,8 @@ sohl:
         disabled: false
     defaultCombatGroup: null
 ---
+
+![Gahiji wa Fénjara](images/beings/characters/gahijwfnjr-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

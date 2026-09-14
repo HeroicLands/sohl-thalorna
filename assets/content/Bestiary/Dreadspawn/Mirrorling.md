@@ -1,6 +1,7 @@
 ---
 tags:
   - dreadspawn
+  - creature
 name:
   full: Mirrorling
   aliases: []
@@ -554,6 +555,8 @@ sohl:
         factors: []
         disabled: false
 ---
+
+![Mirrorling](images/beings/creatures/mrrrlng-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

@@ -2,6 +2,7 @@
 tags:
   - heroes-and-knaves
   - administration
+  - character
 name:
   full: Shâdezar Kamruz
   title: ""
@@ -594,6 +595,8 @@ sohl:
         disabled: false
     defaultCombatGroup: null
 ---
+
+![Shâdezar Kamruz](images/beings/characters/shadzrkmrz-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

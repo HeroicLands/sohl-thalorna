@@ -1,6 +1,7 @@
 ---
 tags:
   - animal
+  - creature
 name:
   full: Xerathian Forest Elephant
   aliases: []
@@ -392,6 +393,8 @@ sohl:
         factors: []
         disabled: false
 ---
+
+![Xerathian Forest Elephant](images/beings/creatures/xrthnfrs-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

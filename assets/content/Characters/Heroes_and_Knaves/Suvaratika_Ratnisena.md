@@ -2,6 +2,7 @@
 tags:
   - heroes-and-knaves
   - tradesfolk
+  - character
 name:
   full: Suvaratika Ratniseṇa
   title: ""
@@ -593,6 +594,8 @@ sohl:
         disabled: false
     defaultCombatGroup: null
 ---
+
+![Suvaratika Ratniseṇa](images/beings/characters/suvrtkrtns-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

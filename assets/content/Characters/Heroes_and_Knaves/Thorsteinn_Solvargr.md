@@ -3,6 +3,7 @@ tags:
   - heroes-and-knaves
   - guilded
   - tradesfolk
+  - character
 name:
   full: Thorsteinn Sólvargr
   title: ""
@@ -588,6 +589,8 @@ sohl:
         disabled: false
     defaultCombatGroup: null
 ---
+
+![Thorsteinn Sólvargr](images/beings/characters/thrstnslvrgr-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

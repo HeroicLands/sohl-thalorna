@@ -2,6 +2,7 @@
 tags:
   - heroes-and-knaves
   - tradesfolk
+  - character
 name:
   full: Renutê Re'en'fré
   title: ""
@@ -610,6 +611,8 @@ sohl:
         disabled: false
     defaultCombatGroup: null
 ---
+
+![Renutê Re'en'fré](images/beings/characters/renuternfr-portrait.webp){float: top-left}
 
 **Home:** [[place-wasetkara|Wasetkara]]
 

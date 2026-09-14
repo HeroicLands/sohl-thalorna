@@ -4,6 +4,7 @@ tags:
   - silent-talon
   - guilded
   - mages
+  - character
 name:
   full: Elýsè Skýrn
   title: ""
@@ -581,6 +582,8 @@ sohl:
         disabled: false
     defaultCombatGroup: null
 ---
+
+![Elýsè Skýrn](images/beings/characters/elyseskyrn-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

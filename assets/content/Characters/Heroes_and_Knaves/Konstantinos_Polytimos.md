@@ -2,6 +2,7 @@
 tags:
   - heroes-and-knaves
   - common-folk
+  - character
 name:
   full: Konstántinos Polytimós
   title: ""
@@ -589,6 +590,8 @@ sohl:
         disabled: false
     defaultCombatGroup: null
 ---
+
+![Konstántinos Polytimós](images/beings/characters/knstntnsplytms-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

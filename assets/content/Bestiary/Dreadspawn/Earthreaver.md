@@ -1,6 +1,7 @@
 ---
 tags:
   - dreadspawn
+  - creature
 name:
   full: Earthreaver
   aliases: []
@@ -245,6 +246,8 @@ sohl:
         factors: []
         disabled: false
 ---
+
+![Earthreaver](images/beings/creatures/erthrvr-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

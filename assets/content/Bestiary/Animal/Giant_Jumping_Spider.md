@@ -1,6 +1,7 @@
 ---
 tags:
   - animal
+  - creature
 name:
   full: Giant Jumping Spider
   aliases: []
@@ -251,6 +252,8 @@ sohl:
         factors: []
         disabled: false
 ---
+
+![Giant Jumping Spider](images/beings/creatures/gntjmpng-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

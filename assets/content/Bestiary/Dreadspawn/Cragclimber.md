@@ -1,6 +1,7 @@
 ---
 tags:
   - dreadspawn
+  - creature
 name:
   full: Cragclimber
   aliases: []
@@ -342,6 +343,8 @@ sohl:
             textValue: "0"
         disabled: false
 ---
+
+![Cragclimber](images/beings/creatures/crgclmbr-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

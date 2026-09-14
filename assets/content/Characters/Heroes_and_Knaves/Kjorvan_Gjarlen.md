@@ -3,6 +3,7 @@ tags:
   - heroes-and-knaves
   - guilded
   - common-folk
+  - character
 name:
   full: Kjôrvan Gjârlen
   title: ""
@@ -586,6 +587,8 @@ sohl:
         disabled: false
     defaultCombatGroup: null
 ---
+
+![Kjôrvan Gjârlen](images/beings/characters/kjrvngjrln-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

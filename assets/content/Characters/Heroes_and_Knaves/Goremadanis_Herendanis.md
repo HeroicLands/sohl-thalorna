@@ -2,6 +2,7 @@
 tags:
   - heroes-and-knaves
   - common-folk
+  - character
 name:
   full: Goremadânis Hérendânis
   title: ""
@@ -576,6 +577,8 @@ sohl:
         disabled: false
     defaultCombatGroup: null
 ---
+
+![Goremadânis Hérendânis](images/beings/characters/grmdnshrndns-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

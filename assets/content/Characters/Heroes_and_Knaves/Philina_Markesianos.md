@@ -2,6 +2,7 @@
 tags:
   - heroes-and-knaves
   - tradesfolk
+  - character
 name:
   full: Philína Markêsianos
   title: ""
@@ -592,6 +593,8 @@ sohl:
         disabled: false
     defaultCombatGroup: null
 ---
+
+![Philína Markêsianos](images/beings/characters/phlnmrksns-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

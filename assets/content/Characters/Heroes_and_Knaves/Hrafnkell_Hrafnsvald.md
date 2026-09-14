@@ -3,6 +3,7 @@ tags:
   - heroes-and-knaves
   - guilded
   - tradesfolk
+  - character
 name:
   full: Hrafnkell Hrafnsvald
   title: ""
@@ -602,6 +603,8 @@ sohl:
         disabled: false
     defaultCombatGroup: null
 ---
+
+![Hrafnkell Hrafnsvald](images/beings/characters/hrfnklhrfnsvld-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

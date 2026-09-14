@@ -1,6 +1,7 @@
 ---
 tags:
   - animal
+  - creature
 name:
   full: Stone Ram
   aliases: []
@@ -356,6 +357,8 @@ sohl:
             textValue: "0"
         disabled: false
 ---
+
+![Stone Ram](images/beings/creatures/stoneram-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

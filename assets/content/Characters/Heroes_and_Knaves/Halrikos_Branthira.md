@@ -3,6 +3,7 @@ tags:
   - heroes-and-knaves
   - guilded
   - administration
+  - character
 name:
   full: Hálrikos Bránthira
   title: ""
@@ -599,6 +600,8 @@ sohl:
         disabled: false
     defaultCombatGroup: null
 ---
+
+![Hálrikos Bránthira](images/beings/characters/hlrksbrnthr-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

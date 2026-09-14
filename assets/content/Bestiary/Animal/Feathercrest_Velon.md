@@ -1,6 +1,7 @@
 ---
 tags:
   - animal
+  - creature
 name:
   full: Feathercrest Velon
   aliases: []
@@ -325,6 +326,8 @@ sohl:
         factors: []
         disabled: false
 ---
+
+![Feathercrest Velon](images/beings/creatures/fthrcrst-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

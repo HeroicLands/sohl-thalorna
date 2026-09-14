@@ -3,6 +3,7 @@ tags:
   - heroes-and-knaves
   - hero
   - clergy
+  - character
 name:
   full: Nari Sahravân
   title: ""
@@ -585,6 +586,8 @@ sohl:
         disabled: false
     defaultCombatGroup: null
 ---
+
+![Nari Sahravân](images/beings/characters/narisahrvn-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

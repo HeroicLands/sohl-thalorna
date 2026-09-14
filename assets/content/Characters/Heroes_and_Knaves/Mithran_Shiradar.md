@@ -2,6 +2,7 @@
 tags:
   - heroes-and-knaves
   - administration
+  - character
 name:
   full: Mithran Shiradar
   title: ""
@@ -571,6 +572,8 @@ sohl:
         disabled: false
     defaultCombatGroup: null
 ---
+
+![Mithran Shiradar](images/beings/characters/mthrnshrdr-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

@@ -3,6 +3,7 @@ tags:
   - heroes-and-knaves
   - guilded
   - tradesfolk
+  - character
 name:
   full: Rosharan Barmandan
   title: ""
@@ -616,6 +617,8 @@ sohl:
         disabled: false
     defaultCombatGroup: null
 ---
+
+![Rosharan Barmandan](images/beings/characters/rshrnbrmndn-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

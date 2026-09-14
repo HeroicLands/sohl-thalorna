@@ -4,6 +4,7 @@ tags:
   - brigand
   - vrystwald
   - underworld
+  - character
 name:
   full: Vandaric Garwald
   title: ""
@@ -551,6 +552,8 @@ sohl:
         disabled: false
     defaultCombatGroup: null
 ---
+
+![Vandaric Garwald](images/beings/characters/vndrcgrwld-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

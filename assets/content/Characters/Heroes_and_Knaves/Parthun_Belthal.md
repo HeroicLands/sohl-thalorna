@@ -3,6 +3,7 @@ tags:
   - heroes-and-knaves
   - guilded
   - administration
+  - character
 name:
   full: Párthun Bélthal
   title: ""
@@ -599,6 +600,8 @@ sohl:
         disabled: false
     defaultCombatGroup: null
 ---
+
+![Párthun Bélthal](images/beings/characters/prthnblthl-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

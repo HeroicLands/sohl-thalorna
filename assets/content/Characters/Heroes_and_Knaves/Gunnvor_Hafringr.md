@@ -3,6 +3,7 @@ tags:
   - heroes-and-knaves
   - guilded
   - common-folk
+  - character
 name:
   full: Gunnvör Hafringr
   title: ""
@@ -591,6 +592,8 @@ sohl:
         disabled: false
     defaultCombatGroup: null
 ---
+
+![Gunnvör Hafringr](images/beings/characters/gnvrhfrngr-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

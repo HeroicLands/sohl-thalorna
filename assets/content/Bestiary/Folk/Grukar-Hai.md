@@ -1,6 +1,7 @@
 ---
 tags:
   - folk
+  - creature
 name:
   full: Grukar-Hai
   aliases: []
@@ -525,6 +526,8 @@ sohl:
         strMod: "-5 * floor((str - 10) / 2)"
         disabled: false
 ---
+
+![Grukar-Hai](images/beings/creatures/grkrh-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

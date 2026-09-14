@@ -2,6 +2,7 @@
 tags:
   - tamzir-crew
   - tradesfolk
+  - character
 name:
   full: Sélvara Válskyr
   title: ""
@@ -561,6 +562,8 @@ sohl:
         disabled: false
     defaultCombatGroup: null
 ---
+
+![Sélvara Válskyr](images/beings/characters/slvrvlskyr-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

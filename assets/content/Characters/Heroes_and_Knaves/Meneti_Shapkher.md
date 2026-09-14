@@ -3,6 +3,7 @@ tags:
   - heroes-and-knaves
   - guilded
   - administration
+  - character
 name:
   full: Meneti Shap'kher
   title: ""
@@ -599,6 +600,8 @@ sohl:
         disabled: false
     defaultCombatGroup: null
 ---
+
+![Meneti Shap'kher](images/beings/characters/mentshpkhr-portrait.webp){float: top-left}
 
 **Home:** [[place-khensuret|Khensuret]]
 

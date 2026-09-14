@@ -3,6 +3,7 @@ tags:
   - heroes-and-knaves
   - guilded
   - tradesfolk
+  - character
 name:
   full: Alýkos Theotókis
   title: ""
@@ -593,6 +594,8 @@ sohl:
         disabled: false
     defaultCombatGroup: null
 ---
+
+![Alýkos Theotókis](images/beings/characters/alyksthtks-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

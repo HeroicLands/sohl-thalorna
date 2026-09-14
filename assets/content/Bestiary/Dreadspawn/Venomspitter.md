@@ -1,6 +1,7 @@
 ---
 tags:
   - dreadspawn
+  - creature
 name:
   full: Venomspitter
   aliases: []
@@ -245,6 +246,8 @@ sohl:
         factors: []
         disabled: false
 ---
+
+![Venomspitter](images/beings/creatures/vnmspttr-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

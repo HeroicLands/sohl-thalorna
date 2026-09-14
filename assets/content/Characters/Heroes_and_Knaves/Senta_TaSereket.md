@@ -2,6 +2,7 @@
 tags:
   - heroes-and-knaves
   - soldiery
+  - character
 name:
   full: Sênta Ta'Sereket
   title: ""
@@ -589,6 +590,8 @@ sohl:
         disabled: false
     defaultCombatGroup: null
 ---
+
+![Sênta Ta'Sereket](images/beings/characters/sentatsrkt-portrait.webp){float: top-left}
 
 **Home:** [[place-perankhet|Per-Ankhet]]
 

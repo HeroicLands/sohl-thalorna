@@ -3,6 +3,7 @@ tags:
   - heroes-and-knaves
   - guilded
   - tradesfolk
+  - character
 name:
   full: Unnr Eldskari
   title: ""
@@ -579,6 +580,8 @@ sohl:
         disabled: false
     defaultCombatGroup: null
 ---
+
+![Unnr Eldskari](images/beings/characters/unreldskar-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

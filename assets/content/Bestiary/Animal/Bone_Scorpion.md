@@ -1,6 +1,7 @@
 ---
 tags:
   - animal
+  - creature
 name:
   full: Bone Scorpion
   aliases: []
@@ -251,6 +252,8 @@ sohl:
         factors: []
         disabled: false
 ---
+
+![Bone Scorpion](images/beings/creatures/bnscrpn-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

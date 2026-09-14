@@ -3,6 +3,7 @@ tags:
   - heroes-and-knaves
   - guilded
   - tradesfolk
+  - character
 name:
   full: Par'ri Re'en'Khensu
   title: ""
@@ -595,6 +596,8 @@ sohl:
         disabled: false
     defaultCombatGroup: null
 ---
+
+![Par'ri Re'en'Khensu](images/beings/characters/parirnkhns-portrait.webp){float: top-left}
 
 **Home:** [[place-wasetkara|Wasetkara]]
 

@@ -1,6 +1,7 @@
 ---
 tags:
   - animal
+  - creature
 name:
   full: Mountain Drake
   aliases: []
@@ -369,6 +370,8 @@ sohl:
         factors: []
         disabled: false
 ---
+
+![Mountain Drake](images/beings/creatures/mntndrk-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

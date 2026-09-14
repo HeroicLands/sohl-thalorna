@@ -2,6 +2,7 @@
 tags:
   - heroes-and-knaves
   - common-folk
+  - character
 name:
   full: Snorri Járnskel
   title: ""
@@ -589,6 +590,8 @@ sohl:
         disabled: false
     defaultCombatGroup: null
 ---
+
+![Snorri Járnskel](images/beings/characters/snorjrnskl-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

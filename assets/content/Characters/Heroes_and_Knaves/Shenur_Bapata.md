@@ -3,6 +3,7 @@ tags:
   - heroes-and-knaves
   - guilded
   - tradesfolk
+  - character
 name:
   full: Shenur Ba'pata
   title: ""
@@ -593,6 +594,8 @@ sohl:
         disabled: false
     defaultCombatGroup: null
 ---
+
+![Shenur Ba'pata](images/beings/characters/shenurbapt-portrait.webp){float: top-left}
 
 **Home:** [[place-ankhsetun|Ankh-Setûn]]
 

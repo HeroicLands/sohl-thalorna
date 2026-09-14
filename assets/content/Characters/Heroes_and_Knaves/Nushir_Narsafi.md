@@ -3,6 +3,7 @@ tags:
   - heroes-and-knaves
   - guilded
   - tradesfolk
+  - character
 name:
   full: Nushir Narsâfî
   title: ""
@@ -597,6 +598,8 @@ sohl:
         disabled: false
     defaultCombatGroup: null
 ---
+
+![Nushir Narsâfî](images/beings/characters/nushirnrsf-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

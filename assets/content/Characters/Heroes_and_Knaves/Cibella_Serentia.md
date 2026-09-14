@@ -2,6 +2,7 @@
 tags:
   - tamzir-crew
   - dependents
+  - character
 name:
   full: Cibella Serentia
   title: ""
@@ -552,6 +553,8 @@ sohl:
         disabled: false
     defaultCombatGroup: null
 ---
+
+![Cibella Serentia](images/beings/characters/cibelasrnt-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

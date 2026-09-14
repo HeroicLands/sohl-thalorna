@@ -1,6 +1,7 @@
 ---
 tags:
   - animal
+  - creature
 name:
   full: Giant Octopus
   aliases: []
@@ -252,6 +253,8 @@ sohl:
         factors: []
         disabled: false
 ---
+
+![Giant Octopus](images/beings/creatures/gntoctps-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

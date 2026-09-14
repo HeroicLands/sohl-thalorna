@@ -1,6 +1,7 @@
 ---
 tags:
   - animal
+  - creature
 name:
   full: Tānvüran Elephant
   aliases: []
@@ -392,6 +393,8 @@ sohl:
         factors: []
         disabled: false
 ---
+
+![Tānvüran Elephant](images/beings/creatures/tnvrnelp-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

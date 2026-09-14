@@ -1,6 +1,7 @@
 ---
 tags:
   - animal
+  - creature
 name:
   full: Mega Hyena
   aliases: []
@@ -304,6 +305,8 @@ sohl:
             textValue: "0"
         disabled: false
 ---
+
+![Mega Hyena](images/beings/creatures/mghyn-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

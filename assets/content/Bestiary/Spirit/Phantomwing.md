@@ -1,6 +1,7 @@
 ---
 tags:
   - spirit
+  - creature
 name:
   full: Phantomwing
   aliases: []
@@ -290,6 +291,8 @@ sohl:
         factors: []
         disabled: false
 ---
+
+![Phantomwing](images/beings/creatures/phntmwng-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

@@ -3,6 +3,7 @@ tags:
   - heroes-and-knaves
   - hero
   - soldiery
+  - character
 name:
   full: Zahira Malkhet
   title: ""
@@ -580,6 +581,8 @@ sohl:
         disabled: false
     defaultCombatGroup: null
 ---
+
+![Zahira Malkhet](images/beings/characters/zahirmlkht-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

@@ -4,6 +4,7 @@ tags:
   - brigand
   - vrystwald
   - underworld
+  - character
 name:
   full: Thráwald Hildskorn
   title: ""
@@ -548,6 +549,8 @@ sohl:
         disabled: false
     defaultCombatGroup: null
 ---
+
+![Thráwald Hildskorn](images/beings/characters/thrwldhldskrn-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

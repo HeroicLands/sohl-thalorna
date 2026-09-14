@@ -2,6 +2,7 @@
 tags:
   - heroes-and-knaves
   - common-folk
+  - character
 name:
   full: Nakhtar Amun'Râshet
   title: ""
@@ -591,6 +592,8 @@ sohl:
         disabled: false
     defaultCombatGroup: null
 ---
+
+![Nakhtar Amun'Râshet](images/beings/characters/nkhtrmnrsht-portrait.webp){float: top-left}
 
 **Home:** [[place-wasetkara|Wasetkara]]
 

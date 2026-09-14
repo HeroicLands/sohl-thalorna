@@ -2,6 +2,7 @@
 tags:
   - heroes-and-knaves
   - common-folk
+  - character
 name:
   full: Samarína Kalokyrês
   title: ""
@@ -623,6 +624,8 @@ sohl:
         disabled: false
     defaultCombatGroup: null
 ---
+
+![Samarína Kalokyrês](images/beings/characters/smrnklkyrs-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

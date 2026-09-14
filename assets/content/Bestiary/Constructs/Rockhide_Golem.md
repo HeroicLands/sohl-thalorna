@@ -1,6 +1,7 @@
 ---
 tags:
   - construct
+  - creature
 name:
   full: Rockhide Golem
   aliases: []
@@ -62,6 +63,8 @@ sohl:
         factors: []
         disabled: false
 ---
+
+![Rockhide Golem](images/beings/creatures/rckhdglm-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

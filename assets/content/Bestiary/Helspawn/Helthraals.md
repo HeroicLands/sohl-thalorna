@@ -1,6 +1,7 @@
 ---
 tags:
   - helspawn
+  - creature
 name:
   full: Helthraals
   aliases: []
@@ -514,6 +515,8 @@ sohl:
         factors: []
         disabled: false
 ---
+
+![Helthraals](images/beings/creatures/hlthrls-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

@@ -2,6 +2,7 @@
 tags:
   - heroes-and-knaves
   - common-folk
+  - character
 name:
   full: Ósk Drekanótt
   title: ""
@@ -588,6 +589,8 @@ sohl:
         disabled: false
     defaultCombatGroup: null
 ---
+
+![Ósk Drekanótt](images/beings/characters/oskdrekant-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

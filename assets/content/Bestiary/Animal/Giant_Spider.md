@@ -1,6 +1,7 @@
 ---
 tags:
   - animal
+  - creature
 name:
   full: Giant Spider
   aliases: []
@@ -215,6 +216,8 @@ sohl:
         factors: []
         disabled: false
 ---
+
+![Giant Spider](images/beings/creatures/gntspdr-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

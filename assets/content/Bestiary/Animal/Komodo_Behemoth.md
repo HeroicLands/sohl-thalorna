@@ -1,6 +1,7 @@
 ---
 tags:
   - animal
+  - creature
 name:
   full: Komodo Behemoth
   aliases: []
@@ -333,6 +334,8 @@ sohl:
         factors: []
         disabled: false
 ---
+
+![Komodo Behemoth](images/beings/creatures/kmdbhmth-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

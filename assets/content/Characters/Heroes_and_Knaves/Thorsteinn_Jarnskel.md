@@ -2,6 +2,7 @@
 tags:
   - heroes-and-knaves
   - common-folk
+  - character
 name:
   full: Thorsteinn Járnskel
   title: ""
@@ -580,6 +581,8 @@ sohl:
         disabled: false
     defaultCombatGroup: null
 ---
+
+![Thorsteinn Járnskel](images/beings/characters/thrstnjrnskl-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

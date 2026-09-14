@@ -2,6 +2,7 @@
 tags:
   - heroes-and-knaves
   - administration
+  - character
 name:
   full: Raiya Waset'neb
   title: Nebet
@@ -595,6 +596,8 @@ sohl:
         disabled: false
     defaultCombatGroup: null
 ---
+
+![Raiya Waset'neb](images/beings/characters/raiyawstnb-portrait.webp){float: top-left}
 
 **Home:** [[place-wasetkara|Wasetkara]]
 

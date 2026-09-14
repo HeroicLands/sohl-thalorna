@@ -3,6 +3,7 @@ tags:
   - draft
   - guilded
   - tradesfolk
+  - character
 name:
   full: Dárya Náredh
   title: ""

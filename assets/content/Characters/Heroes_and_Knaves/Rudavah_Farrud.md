@@ -3,6 +3,7 @@ tags:
   - heroes-and-knaves
   - guilded
   - common-folk
+  - character
 name:
   full: Rudâvah Farrud
   title: ""
@@ -608,6 +609,8 @@ sohl:
         disabled: false
     defaultCombatGroup: null
 ---
+
+![Rudâvah Farrud](images/beings/characters/rudavahfrd-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

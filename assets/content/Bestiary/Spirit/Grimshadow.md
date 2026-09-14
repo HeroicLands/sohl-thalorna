@@ -1,6 +1,7 @@
 ---
 tags:
   - spirit
+  - creature
 name:
   full: Grimshadow
   aliases: []
@@ -190,6 +191,8 @@ sohl:
             textValue: "0"
         disabled: false
 ---
+
+![Grimshadow](images/beings/creatures/grmshdw-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

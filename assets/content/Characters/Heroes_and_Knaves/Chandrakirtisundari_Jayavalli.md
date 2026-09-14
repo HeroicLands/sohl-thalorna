@@ -2,6 +2,7 @@
 tags:
   - heroes-and-knaves
   - underworld
+  - character
 name:
   full: Chandrakīrtisundarī Jayavalli
   title: ""
@@ -589,6 +590,8 @@ sohl:
         disabled: false
     defaultCombatGroup: null
 ---
+
+![Chandrakīrtisundarī Jayavalli](images/beings/characters/chndrkrtsndrjyvl-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

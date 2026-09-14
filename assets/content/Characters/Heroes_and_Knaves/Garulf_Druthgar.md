@@ -2,6 +2,7 @@
 tags:
   - tamzir-crew
   - soldiery
+  - character
 name:
   full: Garulf Druthgar
   title: ""
@@ -565,6 +566,8 @@ sohl:
         disabled: false
     defaultCombatGroup: null
 ---
+
+![Garulf Druthgar](images/beings/characters/grlfdrthgr-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

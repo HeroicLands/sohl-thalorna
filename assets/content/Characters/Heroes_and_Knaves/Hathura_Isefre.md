@@ -2,6 +2,7 @@
 tags:
   - heroes-and-knaves
   - clergy
+  - character
 name:
   full: Hathura Ise'fré
   title: Nebet
@@ -617,6 +618,8 @@ sohl:
         disabled: false
     defaultCombatGroup: null
 ---
+
+![Hathura Ise'fré](images/beings/characters/hathurasfr-portrait.webp){float: top-left}
 
 **Home:** [[place-meruhotep|Meru-Hotep]]
 

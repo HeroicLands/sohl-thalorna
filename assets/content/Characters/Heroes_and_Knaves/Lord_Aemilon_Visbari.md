@@ -7,6 +7,7 @@ tags:
   - spymaster
   - vylaria
   - administration
+  - character
 name:
   full: Lord Aemilon Visbari
   title: Lord
@@ -581,6 +582,8 @@ sohl:
         disabled: false
     defaultCombatGroup: null
 ---
+
+![Lord Aemilon Visbari](images/beings/characters/lrdmlnvsbr-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

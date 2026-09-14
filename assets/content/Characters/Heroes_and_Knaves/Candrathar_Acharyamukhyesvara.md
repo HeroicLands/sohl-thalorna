@@ -3,6 +3,7 @@ tags:
   - heroes-and-knaves
   - guilded
   - tradesfolk
+  - character
 name:
   full: Càndrathar Āchāryamukhyēśvara
   title: ""
@@ -586,6 +587,8 @@ sohl:
         disabled: false
     defaultCombatGroup: null
 ---
+
+![Càndrathar Āchāryamukhyēśvara](images/beings/characters/cndrthrchrymkhysvr-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

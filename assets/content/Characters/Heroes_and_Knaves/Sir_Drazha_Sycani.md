@@ -3,6 +3,7 @@ tags:
   - heroes-and-knaves
   - hero
   - soldiery
+  - character
 name:
   full: Sir Drazha Sycâni, Knight of the Black Flame
   title: Sir
@@ -587,6 +588,8 @@ sohl:
         disabled: false
     defaultCombatGroup: null
 ---
+
+![Sir Drazha Sycâni, Knight of the Black Flame](images/beings/characters/srdrzhsycnknghtblckflm-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 

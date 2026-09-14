@@ -1,6 +1,7 @@
 ---
 tags:
   - elemental
+  - creature
 name:
   full: Embermaw
   aliases: []
@@ -390,6 +391,8 @@ sohl:
             textValue: "0"
         disabled: false
 ---
+
+![Embermaw](images/beings/creatures/embermaw-portrait.webp){float: top-left}
 
 ## Appearance {#appearance}
 
