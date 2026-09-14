@@ -62,8 +62,6 @@ data:
 packFolder: organizations
 ---
 
-# Nüszōk Rëit
-
 - **Type:** Nihilistic apocalyptic cult
 - **Region:** [[affiliation-tanvurempr|Empire of Tānvür]]
 - **Composition:** Lower-caste recruits, displaced and condemned persons, Demon Lord devotees

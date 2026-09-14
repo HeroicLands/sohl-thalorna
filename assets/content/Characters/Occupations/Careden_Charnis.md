@@ -550,11 +550,11 @@ sohl:
     defaultCombatGroup: null
 ---
 
-# Appearance {#appearance}
+## Appearance {#appearance}
 
 Cáreden Chárnis is a 62-year-old man who stands 5'6" tall and is of moderate build. He has a long face with angular cheekbones, a smooth forehead, and a strong jaw that leads to a strong chin. His narrow brown eyes sit beneath straight brows, lending him a keen gaze. An aquiline nose and expressive lips complete his features. He has light skin with a bronzed complexion. His white hair is short and swept back.
 
-# Dossier {#dossier}
+## Dossier {#dossier}
 
 Born in the Provènzia region to a freeman family of Provenzian heritage, Cáreden Chárnis came into the world of the shaman through a combination of circumstance and aptitude.
 
@@ -562,37 +562,37 @@ Korga is a respected shaman who has guided his tribe for decades, serving as a h
 
 Now at 62 years of age, Cáreden Chárnis has established himself as a known figure among the shamans of Provènzia. His reputation, for better or worse, precedes him in the circles where such things matter.
 
-## Psyche
+### Psyche
 
-### Personality
+#### Personality
 
 Physically frail due to age, occasionally struggles with more demanding tasks.
 
-### Motivation
+#### Motivation
 
 Cáreden is driven by the desire to master his craft and secure a stable future. The uncertainties of life in shaman work keep him vigilant and adaptable.
 
-### Strengths
+#### Strengths
 
 Knowledgeable in herbal healing, rituals, and spiritual matters.
 
-## Social
+### Social
 
 Cáreden is affiliated with Tribal Spiritual Council.
 
 As a Provenzian shaman, Cáreden occupies a recognized social niche within Provènzia society.
 
-## Companions
+### Companions
 
-### Patrons
+#### Patrons
 
 Cáreden's primary patron is The tribe's chieftain, who seeks his counsel.. This relationship provides both opportunity and obligation.
 
-### Enemies
+#### Enemies
 
 Rival shamans who question his methods and beliefs.
 
-## Plot Hooks
+### Plot Hooks
 
 1. **The Shaman's Dilemma** — Cáreden faces a professional crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Provènzia.
 

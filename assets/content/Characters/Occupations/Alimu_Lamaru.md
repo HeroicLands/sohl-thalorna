@@ -554,11 +554,11 @@ sohl:
     defaultCombatGroup: null
 ---
 
-# Appearance {#appearance}
+## Appearance {#appearance}
 
 Alîmû Lâmarû is a 53-year-old man who stands 5'4" tall and is of moderate build. He has a diamond face with prominent cheekbones, a smooth forehead, and a strong jaw that leads to a pointed chin. His deep-set black eyes sit beneath heavy brows, lending him a watchful gaze. An aquiline nose and full lips complete his features. He has olive skin with a smooth complexion. His brown hair is kept practical and short.
 
-# Dossier {#dossier}
+## Dossier {#dossier}
 
 Born in the Harad region to a guilded family of Haradian heritage, Alîmû Lâmarû came into the world of the bureaucrat through a combination of circumstance and aptitude.
 
@@ -566,37 +566,37 @@ Cedric has worked in the city’s administrative offices for over three decades,
 
 Now at 53 years of age, Alîmû Lâmarû has established himself as a known figure among the bureaucrats of Harad. His reputation, for better or worse, precedes him in the circles where such things matter.
 
-## Psyche
+### Psyche
 
-### Personality
+#### Personality
 
 Cynical and resistant to change, especially when it comes to reform.
 
-### Motivation
+#### Motivation
 
 Alîmû is driven by the desire to master his craft and secure a stable future. The uncertainties of life in bureaucrat work keep him vigilant and adaptable.
 
-### Strengths
+#### Strengths
 
 Extremely organized and knowledgeable about city regulations.
 
-## Social
+### Social
 
 Alîmû is affiliated with City Bureaucracy.
 
 As a Haradian bureaucrat, Alîmû occupies a recognized social niche within Harad society.
 
-## Companions
+### Companions
 
-### Patrons
+#### Patrons
 
 Alîmû's primary patron is City officials who value his experience.. This relationship provides both opportunity and obligation.
 
-### Enemies
+#### Enemies
 
 Reformists who view him as a symbol of the stagnant system.
 
-## Plot Hooks
+### Plot Hooks
 
 1. **The Bureaucrat's Dilemma** — Alîmû faces a professional crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Harad.
 

@@ -13,8 +13,6 @@ shortcode: mamamitospr
 packFolder: lorespiritsokharic
 ---
 
-# Mama wa Mito
-
 - **Kind:** [[lore-zohira|Zohira]], emissary of [[affiliation-nkaruthar|the Eternal Flame]]
 - **Domain:** Rivers
 - **Also called:** the Mother of Rivers

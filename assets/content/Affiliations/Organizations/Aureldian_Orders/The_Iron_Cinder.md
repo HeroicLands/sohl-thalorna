@@ -111,8 +111,6 @@ name:
 shortcode: ironcinder
 ---
 
-# The Iron Cinder
-
 _Aurèldían: Cinis Ferreus — "Iron Cinder"_
 
 - **Type:** Covert fighting religious order (heretical to the mainstream Aurèldían faith)

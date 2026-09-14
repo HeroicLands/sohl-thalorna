@@ -10,8 +10,6 @@ shortcode: anhurdty
 packFolder: deitieskemetian
 ---
 
-# Anhur
-
 _Patron of the Hunt._
 
 Anhur is one of Ta'Kheperu's two hunt-patrons, and never invoked alone: he is paired in every rite

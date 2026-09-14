@@ -114,8 +114,6 @@ data:
 packFolder: khensuret
 ---
 
-# The Nome of Khensuret
-
 ## Overview
 
 Khensuret is the great mortuary nome of the [[affiliation-uperivrnms|upper river]] — the place where [[affiliation-empirtkhpr|The Empire of Ta'Kheperu]] tends its dead. Built around the temple-city of [[place-khensuret|Khensuret]] on the river's east bank and the vast necropolis that faces it across the water on the west, the nome is the beating heart of the empire's funerary civilization: its embalmers, its tomb-builders, its funerary artists, and the priesthoods of [[affiliation-kemtnpnthn|Sēker]] and [[affiliation-kemtnpnthn|Ánubís]], lords of the passage into death. The empire's largest pilgrimage flows here, for to be buried in the sacred ground of Khensuret — or merely to make the journey and lay an offering — is held to weigh favorably when the heart is set against the feather of [[affiliation-kemtnpnthn|Má'át]]. The nome is not large or rich in the worldly sense, but in the economy of the afterlife it is the capital of the world.

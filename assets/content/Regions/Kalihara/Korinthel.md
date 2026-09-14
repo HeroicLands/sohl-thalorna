@@ -18,8 +18,6 @@ shortcode: korinthel
 packFolder: kalihara
 ---
 
-# Korinthel
-
 ## Overview
 
 _To be written._

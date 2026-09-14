@@ -96,7 +96,7 @@ data:
 packFolder: yokveng
 ---
 
-# Yökzhük — The Custodian of Lost Seals
+## Yökzhük — The Custodian of Lost Seals
 
 Yökzhük occupies an anomalous position within the Yokveng hierarchy: neither a Demon Lord in the full sense nor a mere lesser demon, but something closer to a provincial administrator of the Infernal Realms. Once a functionary scribe in the Bureau of All Records (Thōk Sëi), Yökzhük's duties involved the manufacture and distribution of seals — the celestial stamps by which directives became binding, petitions became actionable, and bureaucratic authority was made manifest across the classified cosmos.
 
@@ -104,7 +104,7 @@ At some point — the celestial record is conspicuously vague on the circumstanc
 
 The theft was eventually discovered, though the full extent of Yökzhük's counterfeiting operation remains unknown. What is documented is the escape: Yökzhük fled into the Yokveng with an archive of counterfeit seals and the knowledge of how to produce more — knowledge it zealously guards and occasionally deploys.
 
-## Authority in Exile
+### Authority in Exile
 
 Yökzhük now maintains a peculiar dominion within the Infernal Realms as an administrator of documents and authentication. It is not appointed to this role by any Demon Lord — there is no official structure to grant appointments in the Yokveng — yet by common tacit understanding among the lesser demons, Yökzhük maintains custody over the Infernal Archive, the repository of stolen records, false documents, and bureaucratic tools that have leaked or been absconded with from the celestial bureaucracy.
 
@@ -112,7 +112,7 @@ The exact nature of Yökzhük's relationship to the five named Demon Lords is un
 
 Yökzhük does not issue commands but instead operates as a gatekeeper: mortals or lesser demons seeking access to the Infernal Archive, or requiring documents that bear the weight of false authority, must petition Yökzhük directly. This has made the Custodian of Lost Seals one of the more actively accessible powers within the Yokveng for those willing to engage the Infernal Realms through intermediaries.
 
-## Mortal Engagement
+### Mortal Engagement
 
 Yökzhük rarely deals directly with mortals. Its transactions are reserved for those with sufficient cosmological understanding or ambition to recognize what a stolen or forged celestial seal might accomplish. A nobleman seeking to manufacture a reclassification order, a scholar attempting to recover a destroyed record, a cult operative needing documentation that will survive celestial audit — these are the mortals who might successfully petition Yökzhük.
 
@@ -120,7 +120,7 @@ The price is invariably specific: bring Yökzhük a document from the celestial 
 
 The [[affiliation-nuszokreit|Nüszōk Rëit]] maintains discrete contact with Yökzhük through a single trusted intermediary, a former records clerk who understands the protocols of celestial authentication. The cult's archive corruptions and falsified directives often carry Yökzhük's seals, a partnership of mutual interest: the cult provides Yökzhük with fresh celestial documents to study and copy, while Yökzhük provides the cult with the tools to conduct its bureaucratic sabotage.
 
-## See Also
+### See Also
 
 - [[affiliation-yokveng|Yokveng]] — The Demon Realm where Yökzhük maintains custody
 - [[affiliation-vekthor|Vëkthōr]] — The Forger of False Records, occasional client of Yökzhük's services

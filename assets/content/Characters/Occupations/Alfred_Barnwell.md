@@ -550,11 +550,11 @@ sohl:
     defaultCombatGroup: null
 ---
 
-# Appearance {#appearance}
+## Appearance {#appearance}
 
 Alfred Barnwell cuts an unassuming figure—a lean man of moderate height with the pale, weather-worn complexion of someone more comfortable in laboratories and wild places than in sunlit halls. His sharp, angular features are framed by striking red hair, swept back in a practical manner, and his piercing brown eyes miss nothing. There is an intensity in his gaze that suggests constant calculation, and the thin set of his lips hints at carefully guarded secrets. Despite his modest dress and worn traveler's cloak, he carries himself with the quiet confidence of a man who understands dangerous things.
 
-# Dossier {#dossier}
+## Dossier {#dossier}
 
 Alfred Barnwell was born in Kingshollow, a smaller settlement in the wilder reaches of Aelwyth, to a freeman's family with no connections to the Ordo Arcanis or any formal magical institution. His early aptitude for herbalism and mineral lore was unremarkable until a wandering scholar from the Panepistemium recognized something deeper—a gift for understanding the old ways of making, the marriage of folk tradition and systematic inquiry. By his mid-twenties, he had secured a place as a lay apprentice within the Epistemium's eastern chapter, and for ten years he immersed himself in the Sodalitas Physéra, the Earth school of alchemy.
 
@@ -564,7 +564,7 @@ For the past seven years, he has lived as what most know him as: a traveling hea
 
 He is faithful to Ménérva—the goddess of knowledge and wisdom—not the communal faith of his birth, but a personal devotion born from his conviction that true understanding transcends institutional boundaries.
 
-## Psyche
+### Psyche
 
 Alfred is a man torn between two worlds. Part of him remains the dutiful, theory-hungry scholar who was once proud to wear the Epistemium's mark; the other part is the cunning, independent practitioner who understands that knowledge guarded is knowledge dead. His worldview is fundamentally skeptical of authority—not out of mere rebellion, but from hard-won experience that the most important truths are rarely the ones institutions want publicized. He is naturally reserved, preferring observation to conversation, and his humor runs dark and quick. Those who mistake his quietness for timidity have misjudged gravely.
 
@@ -572,7 +572,7 @@ Alfred's core strength is adaptability rooted in deep understanding. His excepti
 
 His weaknesses are equally real. His physical frailty (strength: 10) is no liability for an alchemist, but it means direct confrontation is a poor strategy for him. More critically, his past—his departure from the Ordo, the texts he took, the practices he has maintained—is a constant shadow. He lives with the knowledge that the Quaesitorium does not forget, and that his safety depends on remaining obscure and useful rather than famous. This creates a kind of existential paranoia; he trusts few, commits fully to none, and always keeps exit routes in mind.
 
-## Social
+### Social
 
 Alfred's official affiliation is formally severed from the Panepistemium, though he maintains clandestine correspondence with one of its more liberal-minded archivists in the Dúnavarre chapterhouse. Should he ever be discovered, he would be considered a lapsed Adept operating without sanction—a serious violation in Dúnavarre's Ordo-dominated society.
 
@@ -580,21 +580,21 @@ Locally, in the scattered settlements and forest communities of the borderlands 
 
 His status as a freeman and an outsider to formal Aelwythan power structures actually provides him protection; he is too minor to interest the nobility, and too useful to the common folk to simply disappear.
 
-## Companions
+### Companions
 
-### Patrons and Allies
+#### Patrons and Allies
 
 **Aldus Thorne**, elderly master craftsfolk of Kingshollow and the closest thing Alfred has to a patron, provides shelter and discreet access to his extensive workshop. Their relationship predates Alfred's departure from the Epistemium; Aldus has long been sympathetic to folk practitioners and quietly funded Alfred's research into traditional methods. The bond is strong but carefully maintained.
 
 **The Archivist**, a mysterious figure within the Epistemium's Dúnavarre chapter known only to Alfred by coded letters, supplies carefully laundered copies of restricted texts and serves as a backstop—someone who, should the worst occur, might provide refuge or warning. This relationship is fragile, held together only by shared intellectual conviction and the Archivist's own private doubts about the Ordo's direction.
 
-### Enemies and Threats
+#### Enemies and Threats
 
 **Magister Corvus**, an austere enforcer for the Quaesitorium's western investigations, has taken particular interest in "irregular practices" in the Aelwyth borderlands. He does not yet know Alfred by name, but he is asking the right questions. The tension between them is building steadily.
 
 **The Jealous Circle**, a coterie of independent practitioners in the larger towns who resent Alfred's discretion and growing reputation. They would not hesitate to betray him to the Ordo if they believed it would eliminate a rival—or at minimum, to undercut his standing with shared clients.
 
-## Plot Hooks
+### Plot Hooks
 
 1. **The Quaesitorium's Attention** — Magister Corvus has begun interviewing the inhabitants of villages where "Thalos Graymoor" is known to operate. A villager has already described Alfred in passing detail, and Corvus is correlating the description with old Epistemium records. Alfred learns of this threat through his intelligence network and must decide whether to disappear, establish an alibi, or take a more dangerous path—offering the Magister something he cannot refuse.
 

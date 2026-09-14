@@ -594,11 +594,11 @@ sohl:
     defaultCombatGroup: null
 ---
 
-# Appearance {#appearance}
+## Appearance {#appearance}
 
 Padmàvali stands 5'2" tall with a light build. She has warm caramel skin, dark black hair, and deep brown eyes. Her features include an oval face, a delicate nose, a soft jawline, well-shaped lips, deep brows, full cheeks.
 
-# Dossier {#dossier}
+## Dossier {#dossier}
 
 **Early Life and Artistic Awakening**
 
@@ -612,19 +612,19 @@ Padmàvali spent her twenties undertaking commissions for increasingly important
 
 Padmàvali stands at a crossroads of opportunity and vulnerability. Her commission to create the Great Map has consumed her for two years, and its impending completion promises to establish her as one of the most accomplished cartographers of the age. However, the work has made her nervous. The project's patronage comes from a coalition of merchant lords, each with political interests in how their city-state is represented. She has begun to sense subtle pressure from her patrons to "adjust" boundaries, emphasize certain trade routes, or downplay the territories of rival city-states. Her innocence regarding political power—her belief that cartography should reflect truth rather than serve propaganda—has begun to collide with the realities of patronage. Additionally, she has been approached by scholars and explorers seeking her to undertake dangerous expeditions to uncharted lands, offers that terrify and tempt her in equal measure.
 
-## Psyche
+### Psyche
 
-### Personality
+#### Personality
 
 Padmàvali is an intensely imaginative soul, prone to losing herself in her work for days at a time, forgetting to eat or sleep. She speaks quietly and deliberately, choosing her words with an artist's care, and she has little patience for small talk or social convention. Her mind moves constantly, analyzing spatial relationships, color harmonies, and the mathematical patterns underlying natural phenomena. She is genuinely curious about people, places, and systems, though her curiosity is often abstract rather than personal—she is more interested in understanding how a city functions as a whole than in the gossip of its inhabitants.
 
 Despite her talent, Padmàvali harbors deep self-doubt. She questions whether her artistic choices are merely indulgent decoration or genuine contributions to her craft. She worries constantly about making mistakes that could mislead travelers or explorers. This anxiety, combined with her naïveté regarding human nature and power, makes her vulnerable to manipulation by those with stronger personalities and clearer ambitions. She can be stubborn when defending her artistic vision, but she lacks confidence in other domains of life.
 
-### Motivation
+#### Motivation
 
 Padmàvali is driven by the pursuit of truth and beauty working in harmony. She believes that maps are sacred documents—that they represent humanity's relationship with the world and should reflect reality as faithfully as possible. Her deepest motivation is to create works that will endure, that will help people understand their world, and that might prevent suffering caused by ignorance or misdirection. She also secretly harbors a romantic notion of exploration and discovery; part of her dreams of abandoning her workshop to travel to unmapped lands, to see extraordinary places firsthand, and to capture them in her art. She seeks validation—not wealth or fame, but recognition that her work matters and that her artistic choices were right.
 
-### Strengths
+#### Strengths
 
 - **Extraordinary Cartographic Precision**: Padmàvali can render maps of stunning accuracy, capturing spatial relationships, distances, and geographical features with mathematical precision. Her knowledge of projection, scale, and the translation of three-dimensional terrain into two-dimensional representation is nearly comprehensive.
 
@@ -636,7 +636,7 @@ Padmàvali is driven by the pursuit of truth and beauty working in harmony. She 
 
 - **Physical Capability and Resilience**: Her dexterity (15), climbing (14 across 5 levels), and related physical skills suggest she is more capable of fieldwork than her delicate appearance suggests. She can navigate difficult terrain and gather firsthand data.
 
-### Weaknesses
+#### Weaknesses
 
 - **Naive Regarding Power and Politics**: Padmàvali genuinely believes that truth and objectivity matter more than political interests. She is shockingly unprepared for patrons who demand that she falsify or manipulate her maps for political gain, and she struggles to navigate situations where her integrity is in conflict with her patrons' demands.
 
@@ -648,9 +648,9 @@ Padmàvali is driven by the pursuit of truth and beauty working in harmony. She 
 
 - **Limited Practical Experience Outside Her Craft**: While talented in her field, Padmàvali has little experience with the practical necessities of survival, commerce, or conflict. She would be entirely dependent on companions for protection and basic survival needs.
 
-## Social
+### Social
 
-### Patrons
+#### Patrons
 
 - **The Five City-States Merchant Coalition**: Collectively, the merchant lords of the five city-states have commissioned her to create the Great Map, a comprehensive and politically significant project that has both elevated her status and exposed her to their conflicting interests.
 
@@ -658,15 +658,15 @@ Padmàvali is driven by the pursuit of truth and beauty working in harmony. She 
 
 - **House of Saṃgha**: The leading merchant family of her native city continues to patronize her work and has offered her a permanent workshop in exchange for priority commissions.
 
-### Enemies
+#### Enemies
 
 - **None Named, But Tensions Exist**: Various political factions within the city-states view her with suspicion, each believing she might be secretly aligned with their rivals. She has not yet made true enemies, but her refusal to manipulate her maps for political advantage is beginning to create tensions.
 
-### Affiliations
+#### Affiliations
 
 - **Independent Cartographers' Fellowship**: Padmàvali is a member of an informal but respected network of master cartographers who maintain high standards for accuracy and integrity. The Fellowship occasionally commissions collaborative works and provides moral support.
 
-## Plot Hooks
+### Plot Hooks
 
 1. **The Great Map's Secret Demand**: As Padmàvali nears completion of the Great Map, the political pressure on her intensifies. A faction of merchant lords—those whose city-states have diminished economically in recent years—secretly approaches her and demands that she adjust the map to make their territories appear larger, more strategic, or more wealthy. They offer enormous payment and threaten financial ruin if she refuses. Padmàvali, caught between her artistic integrity and her economic dependence on these patrons, turns to the party for help. The characters might investigate the political situation, work to broker a compromise that preserves the map's integrity, gather evidence of the attempted bribery to expose the lords publicly, or help Padmàvali secure alternative patronage that would free her from this coercion. The situation escalates when she discovers that one of the merchant lords has already secretly attempted to alter the nearly-finished map themselves.
 

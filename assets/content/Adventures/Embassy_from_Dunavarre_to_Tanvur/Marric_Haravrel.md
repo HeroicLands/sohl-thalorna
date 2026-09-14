@@ -24,8 +24,6 @@ data:
   species: null
 ---
 
-# Marric Háravrel
-
 **Role.** Security and the training of guards; and, secretly, the gathering of intelligence.
 
 **Background.** Known for leadership in military settings. The retinue knows him as Sergeant-at-Arms; only the Ambassador knows him as Spymaster.

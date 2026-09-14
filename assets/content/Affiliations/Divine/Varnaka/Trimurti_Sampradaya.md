@@ -84,7 +84,7 @@ data:
 packFolder: pantheonsvarnaka
 ---
 
-# Trimūrti-sampradāya — The Tradition of the Three Forms
+## Trimūrti-sampradāya — The Tradition of the Three Forms
 
 - **Tradition:** Trimūrti-sampradāya — _Tradition of the Three Forms_
 - **Deities Venerated:** [[affiliation-vyalendra|Vyālendra]], [[affiliation-mahajaya|Mahájaya]], [[affiliation-rasikara|Rásikara]] — as three faces of a single cosmic truth; lesser gods observed as occasion requires
@@ -98,7 +98,7 @@ The defining doctrine of the sect is the **trimūrti** itself: the teaching that
 
 Temples of the Trimūrti-sampradāya are typically large three-chambered complexes, each chamber given over to one of the three forms. The largest temples are architectural marvels whose proportions are themselves theological statements: the central chamber devoted to the form most beloved of the city's founding, flanked by the other two in balanced wings.
 
-## Clergy
+### Clergy
 
 - **Triyācārya** ("Master of the Three") — the senior priest of a Trimūrti temple; a single cleric ordained to serve all three forms. The rank is difficult to attain; most priests specialise in one form and serve under the Triyācārya.
 - **Ácārya** — the working priesthood, ordained to one of the three forms but required to keep the rites of the other two. A temple of middling size may have three Ácāryas, one for each form.
@@ -106,7 +106,7 @@ Temples of the Trimūrti-sampradāya are typically large three-chambered complex
 
 **Key Skills:** Engineering, Agriculture, Mercantilism, Survival, Mathematics, Folklore, Law, Discourse, Singing
 
-## Ceremonies and Festivals
+### Ceremonies and Festivals
 
 **Low Ceremonies:**
 
@@ -123,16 +123,16 @@ Temples of the Trimūrti-sampradāya are typically large three-chambered complex
 - **The Procession of the Three** — a week-long festival at midsummer, observed in every Vedyaran city where a Trimūrti temple stands. Processions of each form move through the streets, converging at the central temple for a combined dedication.
 - **The Reconciliation of the Year** — observed at the winter solstice; community disputes left unresolved from the year are brought before the Triyācārya, who mediates with the three forms as witnesses.
 
-## Ordeals for Favour
+### Ordeals for Favour
 
 - **The Triple Year** — three successive years of service, one in each form's chamber, with the aspirant required to keep the full liturgical calendar of each.
 - **The Architect's Ordeal** — an ordeal in which the aspirant designs and helps construct a small three-chambered shrine in a place that lacks one, with no assistance from other clergy and no payment from the community.
 
-## Orders
+### Orders
 
 - **Order of the Balanced Temple** — the senior administrative order of the sect, which adjudicates disputes between temples and sets the liturgical calendar.
 - **Council of the Triyācāryas** — the ruling council of the sect, comprising the senior Triyācārya of each great Vedyaran city.
 
-## Geographic Presence
+### Geographic Presence
 
 The Trimūrti-sampradāya is the dominant sect throughout [[place-vedyarargn|Vedyara Region]]'s city-states and along the major river-valleys. It is less influential in the uplands and in the more remote villages, where older folk traditions and minor sects persist. Its greatest temples are at the capitals of the large city-states, where the sect is inseparable from civic authority.

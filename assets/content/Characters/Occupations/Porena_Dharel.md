@@ -546,11 +546,11 @@ sohl:
     defaultCombatGroup: null
 ---
 
-# Appearance {#appearance}
+## Appearance {#appearance}
 
 Pórena Dhárel is a 28-year-old woman who stands 5'8" tall and is of moderate build. She has an oval face with wide-set cheekbones, a broad forehead, and a narrow jaw that leads to a firm chin. Her deep-set green eyes sit beneath arched brows, lending her a watchful gaze. A slightly upturned nose and firm lips complete her features. She has pale skin with a smooth complexion. Her dark brown hair is loose and wavy.
 
-# Dossier {#dossier}
+## Dossier {#dossier}
 
 Born in the Élavendre region to a freeman family of Élavendri heritage, Pórena Dhárel came into the world of the longshorewoman through a combination of circumstance and aptitude.
 
@@ -558,37 +558,37 @@ Elara has worked as a longshorewoman since she was a teenager, breaking stereoty
 
 Now at 28 years of age, Pórena Dhárel has established herself as a known figure among the longshorewomans of Élavendre. Her reputation, for better or worse, precedes her in the circles where such things matter.
 
-## Psyche
+### Psyche
 
-### Personality
+#### Personality
 
 Sometimes faces prejudice, struggles with heavy lifting.
 
-### Motivation
+#### Motivation
 
 Pórena is driven by the desire to master her craft and secure a stable future. The uncertainties of life in longshorewoman work keep her vigilant and adaptable.
 
-### Strengths
+#### Strengths
 
 Agile and quick, skilled in logistics, good communicator.
 
-## Social
+### Social
 
 Pórena is affiliated with Local Longshorewomen's Union.
 
 As a Élavendri longshorewoman, Pórena occupies a recognized social niche within Élavendre society.
 
-## Companions
+### Companions
 
-### Patrons
+#### Patrons
 
 Pórena's primary patron is Cargo merchants and shipping companies.. This relationship provides both opportunity and obligation.
 
-### Enemies
+#### Enemies
 
 Few; respected but occasionally faces skepticism from traditionalists.
 
-## Plot Hooks
+### Plot Hooks
 
 1. **The Longshorewoman's Dilemma** — Pórena faces a professional crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Élavendre.
 

@@ -85,7 +85,7 @@ banner: banners/ta-kheperu-banner.webp
 packFolder: khemenuhekau
 ---
 
-# Per-Maat'ken (House of the Balance)
+## Per-Maat'ken (House of the Balance)
 
 The House of the Balance holds the domain by which anything is made to stay as it was set: the
 oath that binds, the ward that stands, the seal that is not opened. Its work is the most
@@ -97,7 +97,7 @@ It is one of the eight into which the [[lore-khemenuhekau|Khemenu Hekau]] partit
 by function in the cosmic order rather than by substance, which is why no portion of it
 corresponds to any single Eídma of the western [[lore-hexhodai|Héx Hodäi]].
 
-## See Also
+### See Also
 
 - [[lore-khemenuhekau|Khemenu Hekau]] — the philosophy and the other seven domains
 - [[place-khemenu|Khemenu]] — where the Eight are taught

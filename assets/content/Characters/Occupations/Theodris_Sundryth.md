@@ -547,11 +547,11 @@ sohl:
     defaultCombatGroup: null
 ---
 
-# Appearance {#appearance}
+## Appearance {#appearance}
 
 Theódris Sundrýth is a 29-year-old woman who stands 5'3" tall and is slender. She has a square face with defined cheekbones, a lined forehead, and a heavy jaw that leads to a broad chin. Her round blue eyes sit beneath heavy brows, lending her a candid gaze. A strong nose and full lips complete her features. She has light skin with a ruddy complexion. Her dark blonde hair is plaited in a single thick braid.
 
-# Dossier {#dossier}
+## Dossier {#dossier}
 
 Born in the Vrystwald region to a freeman family of Varokhi heritage, Theódris Sundrýth came into the world of the beggar through a combination of circumstance and aptitude.
 
@@ -559,37 +559,37 @@ Mirabelle was left to fend for herself at a young age after her mother passed aw
 
 Now at 29 years of age, Theódris Sundrýth has established herself as a known figure among the beggars of Vrystwald. Her reputation, for better or worse, precedes her in the circles where such things matter.
 
-## Psyche
+### Psyche
 
-### Personality
+#### Personality
 
 Easily taken advantage of due to her trusting nature.
 
-### Motivation
+#### Motivation
 
 Theódris is driven by the desire to master her craft and secure a stable future. The uncertainties of life in beggar work keep her vigilant and adaptable.
 
-### Strengths
+#### Strengths
 
 Charismatic and a talented singer.
 
-## Social
+### Social
 
 Theódris is affiliated with Informal network of street performers..
 
 As a Varokhi beggar, Theódris occupies a recognized social niche within Vrystwald society.
 
-## Companions
+### Companions
 
-### Patrons
+#### Patrons
 
 Theódris's primary patron is Occasionally receives coin for singing from kind strangers.. This relationship provides both opportunity and obligation.
 
-### Enemies
+#### Enemies
 
 None, but has been targeted by pickpockets.
 
-## Plot Hooks
+### Plot Hooks
 
 1. **The Beggar's Dilemma** — Theódris faces a professional crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Vrystwald.
 

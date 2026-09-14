@@ -19,8 +19,6 @@ data:
 packFolder: adventures
 ---
 
-# The Provenzian Grand Games
-
 The Giochi Grandi (Provenzian Grand Games), the realm's greatest athletic and martial competition, is held in the City of Hárivren. The party may compete, investigate corruption, or become entangled in plots and assassinations that threaten the event and those attending.
 
 ## Overview

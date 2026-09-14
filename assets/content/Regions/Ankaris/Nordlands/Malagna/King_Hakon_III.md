@@ -23,6 +23,4 @@ data:
   species: null
 ---
 
-# King Hákon III
-
 A king of the Nordlands, seated at [[place-skorrborg|Skorrborg]].

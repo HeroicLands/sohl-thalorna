@@ -553,11 +553,11 @@ sohl:
     defaultCombatGroup: null
 ---
 
-# Appearance {#appearance}
+## Appearance {#appearance}
 
 Dháran Véldarin is a 45-year-old man who stands 6'3" tall and is broad and solidly built, the kind of frame earned through years of drill and hard riding rather than careful diet. He has a diamond face with defined cheekbones, a lined forehead, and a rounded jaw that leads to a blunt chin. His piercing gray eyes sit beneath heavy brows, and he has the steady, appraising stare of a man accustomed to sizing people up quickly. A nose broken and set at least once and firm, unyielding lips complete his features. He has pale skin, weathered from years spent on patrol in all seasons. His auburn hair is cropped short in military fashion. He wears a mail shirt under a surcoat bearing the Elanmere Wardens' sigil as a matter of course, and carries his warhammer as naturally as other men carry a walking stick. Beneath his mail, above his heart, the brand of the Black Flame is scarred into his skin — the one secret his armor always covers.
 
-# Dossier {#dossier}
+## Dossier {#dossier}
 
 Dháran Véldarin was born to House Véldarin, a minor noble family of the Élavendri with a long tradition of military service along the kingdom's borders. His father commanded a garrison; his grandfather died fighting border raiders. The expectation was always that Dháran would follow the sword, and he took to it with an aptitude that surprised no one. He was strong, aggressive, and possessed of the kind of commanding presence that makes other men fall in line without quite knowing why.
 
@@ -589,9 +589,9 @@ Witness testimony gets garbled in his reports. Physical evidence — charred rit
 
 Under the alias Viriâhn Roderick Flamebearer, he leads the rites himself. There is no separation between the man who commands the Wardens by day and the man who stands before the sacred fire by night. The warhammer he carries on patrol is the same one he raises in invocation. His sermons are not whispered — they are bellowed, fierce and physical, delivered with the same force he uses to rally his soldiers before a fight. His followers do not cower before him; they are emboldened by him. He preaches that the strong should rule, and then he demonstrates it, every day, in both of his lives.
 
-## Psyche
+### Psyche
 
-### Personality
+#### Personality
 
 Dháran is direct, forceful, and impatient with inefficiency. He does not pretend to be something he is not — he simply omits the part of himself that would get him killed. As Captain Véldarin, he is exactly the man he appears to be: hard, competent, demanding, respected by his troops. He pays lip service to the social graces expected of an Élavendri officer — he attends the right gatherings, makes the right noises, observes the forms — but it is plainly not natural to him, and no one is fooled. He is a soldier doing his best impression of a gentleman, and the impression is merely adequate. This is, paradoxically, what makes him so effective as a cover. No one suspects a man whose limitations are so visible of concealing anything more interesting than a lack of refinement. The idea that Captain Véldarin might harbor a secret devotion seems faintly absurd — the man can barely manage a toast at a formal dinner without sounding like he is addressing a formation. That is his greatest deception.
 
@@ -599,17 +599,17 @@ He has a soldier's dark humor and a commanding officer's instinct for loyalty. H
 
 What he lacks is a sense of proportion in the application of force, and the political awareness to understand when that matters. He views compassion as a luxury that the frontier cannot afford, and he does not always recognize when he has crossed the line from firm into excessive. He does not set out to brutalize — he is not gratuitously cruel — but he solves problems with the tools he understands best, and those tools leave marks. His superiors know this about him. They accept it as the cost of his effectiveness, but it is the reason his career has stalled, and on some level he knows it.
 
-### Motivation
+#### Motivation
 
 Dháran believes the Black Flame's philosophy is simply the truth that civilized people are too comfortable to admit. The strong rule. The weak serve or die. Fire purifies. Everything else is decoration. He does not seek to destroy Élavendre so much as to burn away what he sees as its rot — the endless deliberation, the reverence for tradition over action, the assumption that beauty and wisdom are substitutes for strength. He wants to see a kingdom that fights for what it has instead of assuming the old ways will protect it forever.
 
 More immediately, he wants to build the Black Flame's power in Élavendre to the point where it can operate openly — not through some patient multi-generational plan, but because his people are strong enough and numerous enough that the authorities cannot afford to move against them. He is not interested in waiting for a perfect moment. He is interested in making his side too powerful to be denied.
 
-### Strengths
+#### Strengths
 
 Dháran is a genuinely dangerous fighter — strong, heavily built, skilled with his warhammer, and experienced from years of real combat on the frontier. His command skill is extraordinary; men follow him because he projects absolute certainty and backs it up with action. His position as Captain of the Wardens gives him direct control over the very apparatus that would be used to hunt his followers, making him almost impossible to catch through normal channels. He knows the terrain around Elanmere intimately, controls the patrol routes, and has final say over which reports reach the authorities and what they contain. He is also a powerful ritual leader — his iron will and booming voice make his ceremonies viscerally compelling, and his followers would die for him without hesitation.
 
-### Weaknesses
+#### Weaknesses
 
 Dháran's core limitation is that he cannot operate effectively outside his element. He is excellent at command, at frontier justice, at leading men in the field — but anything requiring political navigation, diplomatic nuance, or social performance exposes the gap between what he is and what Élavendri society expects of its leaders. This gap is not dramatic enough to make him a pariah, but it is persistent enough to cap his advancement and to ensure that sensitive matters are routed around him rather than through him. He is aware of this dynamic in a general way but attributes it to the softness of the culture rather than to any deficiency in himself.
 
@@ -617,7 +617,7 @@ His private contempt for the Élavendri way of life blinds him to its real stren
 
 He also has a growing problem with his own people: the more violent and emboldened his followers become, the harder it is to contain the evidence, and he is beginning to run out of convenient scapegoats. His followers see his stalled career as proof that the system is rotten, which emboldens them further — a feedback loop he has encouraged but may not be able to control. Finally, his low empathy makes him a poor judge of loyalty. He assumes everyone is motivated by strength and ambition, which means he cannot see betrayal coming from someone motivated by conscience.
 
-## Social
+### Social
 
 Dháran occupies a position of real but circumscribed authority in the Elanmere region. As Captain of the Wardens, he commands roughly forty soldiers and is responsible for law enforcement, border security, and investigation of criminal and heretical activity across a wide rural territory. His operational record is excellent. His social reputation is more complicated.
 
@@ -625,19 +625,19 @@ Among the nobility, he is respected for his competence but not sought out for hi
 
 His own soldiers, by contrast, are fiercely loyal. They serve in a thankless post, dealing with bandits and border trouble that the rest of the kingdom prefers to ignore, and they follow a captain who shares every hardship and never asks more of them than he gives himself. This loyalty is genuine and it extends, in the case of several trusted men, into his other life. His Black Flame congregation numbers around a dozen hardened followers, plus a wider circle of sympathizers and informants who may not participate in rites but share the philosophy and provide information, shelter, or alibis when needed. Several of his followers are embedded in his own Warden company — soldiers who answer to him in both capacities and who see his stalled career as confirmation of everything the Black Flame teaches about the strong being held down by the timid.
 
-## Companions
+### Companions
 
-### Patrons
+#### Patrons
 
 Within the Black Flame's hierarchy, Dháran reports to a senior priest operating out of a neighboring realm who coordinates the faith's covert presence across the region. This handler values Dháran's position highly — a Black Flame captain running the very force tasked with hunting the Black Flame is an asset beyond price. In his public life, Dháran has the backing of House Véldarin's military connections, modest but sufficient to maintain his commission. His family name still carries enough weight to shield him from the worst consequences of his reputation, though his father — retired and deeply traditional — has made it privately clear that the family's patience is not inexhaustible.
 
-### Enemies
+#### Enemies
 
 The most immediate threat comes from within the system. A young Warden lieutenant named Caelith has begun to notice discrepancies — investigations that go nowhere, reports that don't match what he saw on the ground, witnesses who change their stories after speaking privately with the captain. Caelith is not yet sure what he is looking at, but he is honest, stubborn, and increasingly troubled. If he takes his concerns to the Grove Council rather than up the chain of command, Dháran's control over the investigation process breaks down.
 
 A druid named Aelineth, attached to a grove near several sites of Black Flame activity, has been conducting her own quiet inquiry into the burned shrines and scorched clearings that keep appearing in the forest. She does not trust the Wardens' explanations. She has not connected this to Dháran specifically, but she is thorough and has the institutional patience that he lacks.
 
-## Plot Hooks
+### Plot Hooks
 
 1. **The Honest Lieutenant** — Caelith has written a private letter to a Grove Council elder detailing the pattern of botched investigations under Dháran's command. The letter has not been sent yet — it sits in Caelith's quarters. Dháran has learned of its existence through a loyal Warden. He must decide how to handle a man who is both his subordinate and a genuine threat: destroy the letter, discredit Caelith, transfer him to a remote posting, or silence him permanently — each option carrying different risks.
 

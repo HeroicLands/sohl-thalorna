@@ -550,11 +550,11 @@ sohl:
     defaultCombatGroup: null
 ---
 
-# Appearance {#appearance}
+## Appearance {#appearance}
 
 Óskar Brýlond is a 46-year-old man who stands 5'9" tall and is broad and solidly built. He has a heart-shaped face with angular cheekbones, a lined forehead, and a strong jaw that leads to a firm chin. His deep-set gray eyes sit beneath expressive brows, lending him a watchful gaze. A straight nose and thin lips complete his features. He has warm-toned skin with a sun-tanned complexion. His black hair is combed neatly to one side.
 
-# Dossier {#dossier}
+## Dossier {#dossier}
 
 Born in the Provènzia region to a noble family of Provenzian heritage, Óskar Brýlond came into the world of the mercantyler through a combination of circumstance and aptitude.
 
@@ -562,37 +562,37 @@ Anton has been in the mercantile business for decades, specializing in the trade
 
 Now at 46 years of age, Óskar Brýlond has established himself as a known figure among the mercantylers of Provènzia. His reputation, for better or worse, precedes him in the circles where such things matter.
 
-## Psyche
+### Psyche
 
-### Personality
+#### Personality
 
 Can be overly cautious, sometimes resistant to new ideas in trading.
 
-### Motivation
+#### Motivation
 
 Óskar is driven by the desire to master his craft and secure a stable future. The uncertainties of life in mercantyler work keep him vigilant and adaptable.
 
-### Strengths
+#### Strengths
 
 Highly knowledgeable about precious metals, excellent negotiator, mentor to young traders.
 
-## Social
+### Social
 
 Óskar is affiliated with Local Merchant's Guild.
 
 As a Provenzian mercantyler, Óskar occupies a recognized social niche within Provènzia society.
 
-## Companions
+### Companions
 
-### Patrons
+#### Patrons
 
 Óskar's primary patron is Jewelers and high-profile clients looking for valuable goods.. This relationship provides both opportunity and obligation.
 
-### Enemies
+#### Enemies
 
 Few; generally well-respected but has rivals in the precious metals trade.
 
-## Plot Hooks
+### Plot Hooks
 
 1. **The Mercantyler's Dilemma** — Óskar faces a professional crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Provènzia.
 

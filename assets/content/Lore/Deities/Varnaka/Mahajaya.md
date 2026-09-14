@@ -10,6 +10,4 @@ shortcode: mahajayadty
 packFolder: deitiesvarnaka
 ---
 
-# Mahájaya
-
 TBD

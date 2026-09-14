@@ -96,8 +96,6 @@ data:
 packFolder: crimesyndicates
 ---
 
-# The Crimson Ledger
-
 ## Overview
 
 A financial crime network rooted in the shadows of Harad's post-independence banking boom. When the Auric Compact consolidated power after the War of Independence, it squeezed out smaller money changers, loan brokers, and trade factors who had operated in the margins of the old Vylarian colonial economy. Some went legitimate under the new order. Others went underground.

@@ -554,11 +554,11 @@ sohl:
     defaultCombatGroup: null
 ---
 
-# Appearance {#appearance}
+## Appearance {#appearance}
 
 Pitûrû Tûbanî is a 30-year-old man who stands 5'11" tall and is of moderate build. He has an oval face with high cheekbones, a high forehead, and an angular jaw that leads to a strong chin. His large brown eyes sit beneath arched brows, lending him an expressive gaze. A straight nose and curved lips complete his features. He has warm-toned skin with a dusky complexion. His graying black hair is combed neatly to one side.
 
-# Dossier {#dossier}
+## Dossier {#dossier}
 
 Born in the Harad region to a freeman family of Haradian heritage, Pitûrû Tûbanî came into the world of the man-at-arms (sapper) through a combination of circumstance and aptitude.
 
@@ -566,37 +566,37 @@ Cedric has always been fascinated by the art of siege warfare and demolition. He
 
 Now at 30 years of age, Pitûrû Tûbanî has established himself as a known figure among the man-at-arms (sapper)s of Harad. His reputation, for better or worse, precedes him in the circles where such things matter.
 
-## Psyche
+### Psyche
 
-### Personality
+#### Personality
 
 Can be overly cautious, struggles with physical strength compared to others.
 
-### Motivation
+#### Motivation
 
 Pitûrû is driven by the desire to master his craft and secure a stable future. The uncertainties of life in man-at-arms (sapper) work keep him vigilant and adaptable.
 
-### Strengths
+#### Strengths
 
 Skilled in engineering, good at problem-solving, calm under pressure.
 
-## Social
+### Social
 
 Pitûrû is affiliated with Local Engineers' Guild.
 
 As a Haradian man-at-arms (sapper), Pitûrû occupies a recognized social niche within Harad society.
 
-## Companions
+### Companions
 
-### Patrons
+#### Patrons
 
 Pitûrû's primary patron is Military leaders who require his expertise.. This relationship provides both opportunity and obligation.
 
-### Enemies
+#### Enemies
 
 Few; respected for his skills.
 
-## Plot Hooks
+### Plot Hooks
 
 1. **The Man-at-Arms (Sapper)'s Dilemma** — Pitûrû faces a professional crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Harad.
 

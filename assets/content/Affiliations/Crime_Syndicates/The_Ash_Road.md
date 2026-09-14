@@ -96,8 +96,6 @@ data:
 packFolder: crimesyndicates
 ---
 
-# The Ash Road
-
 ## Overview
 
 The oldest of the four major syndicates, predating even the Haradian independence by generations. The Ash Road takes its name from the ancient caravan practice of scattering ash at desert crossroads to mark safe paths — a tradition the organization adopted and perverted, using ash marks to indicate safe houses, caches, and meeting points along the vast overland trade routes that cross Dunhara, the Khazryn Desert, and the borderlands of Xerathia.

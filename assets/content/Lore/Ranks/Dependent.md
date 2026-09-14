@@ -10,8 +10,6 @@ shortcode: dependentrnk
 description: "Sheltered by a body without being of it — a client, a guest, a kinsman by courtesy."
 ---
 
-# Dependent
-
 Sheltered by a body without being of it — a client, a guest, a kinsman by courtesy.
 
 ## Obligations and Rights

@@ -10,6 +10,4 @@ shortcode: xilanixlandty
 packFolder: deitiesitzani
 ---
 
-# Xilan Ix'lan
-
 TBD

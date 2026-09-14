@@ -73,8 +73,6 @@ banner: banners/ta-kheperu-banner.webp
 packFolder: pantheonskemetian
 ---
 
-# Faith of Min
-
 An upper-river cult of harvest-festivals and virility rites, seated at the caravan-head for the eastern desert roads — so the same god is asked for the increase of the fields and for the safe return of the caravans, and his festivals mark both.
 
 See [[affiliation-kemtnpnthn|the Kemetían Pantheon]] for the temple hierarchy every

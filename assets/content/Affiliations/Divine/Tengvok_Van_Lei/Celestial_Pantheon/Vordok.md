@@ -122,7 +122,7 @@ data:
 packFolder: celestialpantheon
 ---
 
-# Vōrdōk — The Minister of Roads
+## Vōrdōk — The Minister of Roads
 
 - **Bureau:** Dōk Sëi, The Bureau of Passage
 - **Domain:** Transit
@@ -137,12 +137,12 @@ business in the empire because so many are made. It is also the bureau most dama
 Yokveng's Gap-Makers: every forged boundary is a waymark that no longer marks anything, and Dōk Sëi
 is the office that has to discover this, usually when somebody fails to arrive.
 
-## Lesser Spirits
+### Lesser Spirits
 
 - **Dōkzhīr** — Waymark Spirits, who maintain the boundaries between classified regions.
 - **Lüngvōr** — River Passage Spirits, who govern safe transit on waterways.
 
-## See Also
+### See Also
 
 - [[affiliation-tngvkvnlei|Tëngvōk Vān Lëi]] — the Celestial Bureaucracy this bureau belongs to
 - [[affiliation-tanvurempr|Empire of Tānvür]] — the mortal realm it administers

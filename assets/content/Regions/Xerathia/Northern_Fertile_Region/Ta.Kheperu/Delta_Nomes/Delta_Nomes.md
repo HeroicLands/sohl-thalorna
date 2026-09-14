@@ -113,8 +113,6 @@ data:
 packFolder: deltanomes
 ---
 
-# The Delta Nomes
-
 ## Overview
 
 Where the great river meets the [[place-vylarianse|Vylarian Sea]], it breaks apart into a fan of channels, marshes, and silt-islands hundreds of leagues wide — the Delta, the richest and most worldly land in [[affiliation-empirtkhpr|The Empire of Ta'Kheperu]]. The ten **Delta Nomes** are the empire's face to the sea and its purse: they hold the international ports, the garden-strip that grows the empire's luxury crops, and the densest farmland in the known world. The delta's nomarchs are merchants and diplomats as much as governors, and their estates and counting-houses make them, collectively, the wealthiest aristocracy in the empire.

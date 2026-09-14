@@ -106,8 +106,6 @@ data:
 packFolder: harad
 ---
 
-# Azhûn
-
 - **Type:** Port City
 - **Region:** [[affiliation-cnfdrtnhrdnstts|Confederation of Haradian States]]
 - **Language:** Haradi

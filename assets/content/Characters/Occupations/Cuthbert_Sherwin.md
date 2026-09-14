@@ -548,11 +548,11 @@ sohl:
     defaultCombatGroup: null
 ---
 
-# Appearance {#appearance}
+## Appearance {#appearance}
 
 Cuthbert Sherwin is a 52-year-old man who stands 5'11" tall and is broad and solidly built. He has a long face with wide-set cheekbones, a smooth forehead, and a narrow jaw that leads to a delicate chin. His bright green eyes sit beneath arched brows, lending him a lively gaze. A rounded nose and wide lips complete his features. He has fair skin with a fair complexion. His dark blonde hair is falling in loose waves.
 
-# Dossier {#dossier}
+## Dossier {#dossier}
 
 Born in the Aelwyth region to a freeman family of Aelwythan heritage, Cuthbert Sherwin came into the world of the woodcutter through a combination of circumstance and aptitude.
 
@@ -560,37 +560,37 @@ Tovan is a veteran woodcutter who has spent decades working in the forests. Know
 
 Now at 52 years of age, Cuthbert Sherwin has established himself as a known figure among the woodcutters of Aelwyth. His reputation, for better or worse, precedes him in the circles where such things matter.
 
-## Psyche
+### Psyche
 
-### Personality
+#### Personality
 
 Resistant to new methods, sometimes overly cautious about tree selection.
 
-### Motivation
+#### Motivation
 
 Cuthbert is driven by the desire to master his craft and secure a stable future. The uncertainties of life in woodcutter work keep him vigilant and adaptable.
 
-### Strengths
+#### Strengths
 
 Experienced, physically strong, resilient, committed to sustainable practices.
 
-## Social
+### Social
 
 Cuthbert is affiliated with Woodcutters' Guild.
 
 As a Aelwythan woodcutter, Cuthbert occupies a recognized social niche within Aelwyth society.
 
-## Companions
+### Companions
 
-### Patrons
+#### Patrons
 
 Cuthbert's primary patron is Local carpenters and environmental groups who appreciate his sustainable approach.. This relationship provides both opportunity and obligation.
 
-### Enemies
+#### Enemies
 
 Few, though some modern woodcutters find him old-fashioned.
 
-## Plot Hooks
+### Plot Hooks
 
 1. **The Woodcutter's Dilemma** — Cuthbert faces a professional crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Aelwyth.
 

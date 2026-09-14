@@ -14,8 +14,6 @@ shortcode: eaglengonzispr
 packFolder: lorespiritsnyaluba
 ---
 
-# Eagle Spirit
-
 The totemic being venerated by the [[affiliation-nylbtrblntn|Ngonzi]]. For the cult, its
 offices and its observances, see [[affiliation-nyalbeagl|Eagle Totem]]; for the kinds of guide
 and the three postures, see [[lore-nyalbsprts|Nyáluba Spirits]].

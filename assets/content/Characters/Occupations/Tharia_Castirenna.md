@@ -548,11 +548,11 @@ sohl:
     defaultCombatGroup: null
 ---
 
-# Appearance {#appearance}
+## Appearance {#appearance}
 
 Thária Castírenna is a 27-year-old woman who stands 5'8" tall and is slender. She has an angular face with angular cheekbones, a prominent forehead, and a strong jaw that leads to a firm chin. Her large amber eyes sit beneath straight brows, lending her an expressive gaze. A hawkish nose and thin lips complete her features. She has olive skin with a battle-scarred complexion. Her gray hair is braided and coiled at the nape.
 
-# Dossier {#dossier}
+## Dossier {#dossier}
 
 Born in the Tarvénia region to a freeman family of Tarvénan heritage, Thária Castírenna came into the world of the domestic servant through a combination of circumstance and aptitude.
 
@@ -560,37 +560,37 @@ Ilara was captured during a raid on her village and sold into slavery in the cit
 
 Now at 27 years of age, Thária Castírenna has established herself as a known figure among the domestic servants of Tarvénia. Her reputation, for better or worse, precedes her in the circles where such things matter.
 
-## Psyche
+### Psyche
 
-### Personality
+#### Personality
 
 Tends to be anxious and fearful of punishment, struggles with self-worth.
 
-### Motivation
+#### Motivation
 
 Thária is driven by the desire to master her craft and secure a stable future. The uncertainties of life in domestic servant work keep her vigilant and adaptable.
 
-### Strengths
+#### Strengths
 
 Quick-witted, resourceful, skilled in domestic tasks.
 
-## Social
+### Social
 
 Thária is affiliated with None; has no freedom to join any groups..
 
 As a Tarvénan domestic servant, Thária occupies a recognized social niche within Tarvénia society.
 
-## Companions
+### Companions
 
-### Patrons
+#### Patrons
 
 Thária's primary patron is None; regarded only as a servant by her masters.. This relationship provides both opportunity and obligation.
 
-### Enemies
+#### Enemies
 
 Other servants who resent her for trying to gain favor with the masters.
 
-## Plot Hooks
+### Plot Hooks
 
 1. **The Domestic Servant's Dilemma** — Thária faces a professional crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Tarvénia.
 

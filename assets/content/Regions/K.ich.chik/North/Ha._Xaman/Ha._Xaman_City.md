@@ -16,8 +16,6 @@ name:
 shortcode: haxaman2
 ---
 
-# Ha' Xaman
-
 ## Overview
 
 _To be written._ Ha' Xaman is the central city and seat of the [[affiliation-haxaman|Ha' Xaman]] city-state.

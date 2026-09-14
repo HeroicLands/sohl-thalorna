@@ -600,11 +600,11 @@ sohl:
     defaultCombatGroup: null
 ---
 
-# Appearance {#appearance}
+## Appearance {#appearance}
 
 Thalísa stands 5'10" tall with a light build. She has warm olive skin, dark brown hair, and green eyes. Her features include a diamond-shaped face, a hawkish nose, a pronounced chin, slightly pursed lips, dark brows. A distinguishing mark is a tattoo of a wolf on the shoulder.
 
-# Dossier {#dossier}
+## Dossier {#dossier}
 
 Thalísa Torvaleth was born in the Kingdom of Tarvénia to a family with established but not exceptional ties to craftsmanship. Her father was a metalworker of modest reputation, and her mother kept a small herb garden and cultivated rare plants. From childhood, Thalísa was fascinated by light and color—particularly the way sunlight transformed when passing through colored glass in the windows of the local cathedral. By age twelve, she had begun seeking out the cathedral's glassworker, Master Aldwin, begging him to teach her his craft.
 
@@ -612,19 +612,19 @@ Aldwin, having no children of his own and recognizing unusual talent, agreed to 
 
 At twenty-three, following Aldwin's death, Thalísa established her own workshop in a smaller city within Tarvénia. Her work—bold, unconventional, sometimes verging on abstract—attracted a dedicated clientele of churches with progressive theology, wealthy collectors, and merchants seeking distinctive pieces. However, this success has come with significant friction from traditional glassworkers who view her work as a betrayal of the craft's fundamental purposes. She remains fiercely independent, refusing to compromise her artistic vision for commercial acceptance, a stance that has both built her reputation and created powerful enemies.
 
-## Psyche
+### Psyche
 
-### Personality
+#### Personality
 
 Thalísa is a creature of paradoxes: confident in her vision to the point of stubbornness, yet sensitive to criticism and sometimes paralyzed by doubt about her direction. She is intensely creative and innovative but can become obsessive about small details, sometimes losing sight of larger projects. She is reserved in personal matters, rarely discussing her inner life, yet profoundly empathetic when encountering others' struggles—she gives generously of her time and often takes commissions at reduced cost from those with genuine need.
 
 She possess a dry wit and surprising humor, though these emerge only in situations where she feels truly safe. She is spiritually inclined in a non-traditional way, viewing her glasswork as a form of meditation and spiritual expression rather than mere craft. She is independent to the point of isolation, having structured her life to minimize emotional entanglement, though she harbors deeper longings for connection that she rarely acknowledges.
 
-### Motivation
+#### Motivation
 
 Thalísa is motivated by a drive to create beauty that expresses truth as she perceives it, regardless of whether that truth aligns with conventional understanding. She seeks to prove that glasswork need not be limited to functional windows or traditional ecclesiastical imagery, but can be a vehicle for personal and spiritual expression. Underneath this artistic motivation lies a quieter drive: to establish herself as an artist of the first rank, respected not because she conforms to tradition but because she has transcended and transformed it.
 
-### Strengths
+#### Strengths
 
 - **Exceptional Artistic Vision**: Her creativity (17)—her highest attribute—combined with her drawing (16), ceramics (16), and theater (15) skills give her an aesthetic sensibility that is genuinely rare. She can perceive color relationships and compositional balances that others miss entirely.
 
@@ -636,7 +636,7 @@ Thalísa is motivated by a drive to create beauty that expresses truth as she pe
 
 - **Versatile Craftsmanship**: Her abilities span ceramics (16), metalcraft (14), hideworking (16), and script (14), making her capable of creating complete artistic works integrating multiple materials and techniques.
 
-### Weaknesses
+#### Weaknesses
 
 - **Limited Large-Scale Experience**: While she excels at smaller pieces and moderate installations, she has not yet completed major architectural glasswork projects. Large commissions intimidate her, and she sometimes struggles with the logistics and timeline management such projects require.
 
@@ -648,9 +648,9 @@ Thalísa is motivated by a drive to create beauty that expresses truth as she pe
 
 - **Lack of Patrons and Institutional Support**: Unlike more traditional glassworkers who benefit from guild support and established patron networks, her unconventional approach has left her relatively isolated from these networks, making her economically vulnerable.
 
-## Social
+### Social
 
-### Patrons
+#### Patrons
 
 - **Bishop Matthias of Riverside Cathedral**: A progressive religious leader who commissioned Thalísa to create unconventional windows that express spiritual concepts beyond literal religious imagery. He has become her primary patron and most vocal advocate, defending her work against criticism from more conservative ecclesiastical figures.
 
@@ -660,19 +660,19 @@ Thalísa is motivated by a drive to create beauty that expresses truth as she pe
 
 - **Master Aldwin's Estate**: Though her mentor passed years ago, his will established a small trust specifically to commission an annual work from Thalísa, ensuring both financial stability and continuity of their artistic relationship.
 
-### Enemies
+#### Enemies
 
 - **Master Glassworker Helmut Thorne**: A traditionalist of great reputation who views Thalísa's work as a corruption of the glassmaker's craft. He has publicly criticized her work, called her a charlatan, and actively encourages clients and institutions to hire more "authentic" traditionalist glassworkers instead. He views her success as a personal threat to the integrity of his life's work.
 
 - **Rival Artisan Cassian Darkglass**: A younger glassworker who initially studied under Thalísa but left her workshop in bitter circumstances, feeling inadequate compared to her natural talents. Cassian has adopted traditional methods specifically to distance himself from her influence and publicly portrays her as a fraud whose innovations are merely abandonment of proper technique.
 
-### Affiliations
+#### Affiliations
 
 - **the Glassworkers' Guild of Tarvénia**: Thalísa maintains formal membership but exists in uneasy relationship with the organization, which leans conservative and has several times suggested she adopt more traditional practices. She attends meetings sporadically and resists their authority.
 
 - **the Ravencroft Artistic Circle**: An informal community of progressive artists, philosophers, and cultural innovators who see Thalísa as a key member and voice for artistic freedom and innovation.
 
-## Plot Hooks
+### Plot Hooks
 
 1. **The Commission from Beyond**: A mysterious patron appears with an extraordinary commission—a massive window installation of dazzling technical complexity with imagery that Thalísa cannot quite decipher. The patron demands complete secrecy about the project, provides exceptionally generous payment, and insists on specific timing. As Thalísa works, she begins to suspect the imagery contains magical properties or hidden meaning, and questions emerge about who the patron truly is and what purpose this window will serve.
 

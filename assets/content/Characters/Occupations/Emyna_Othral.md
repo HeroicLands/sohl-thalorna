@@ -550,11 +550,11 @@ sohl:
     defaultCombatGroup: null
 ---
 
-# Appearance {#appearance}
+## Appearance {#appearance}
 
 Émyna Óthral is a 36-year-old woman who stands 5'3" tall and is slender. She has a heart-shaped face with angular cheekbones, a wide forehead, and a narrow jaw that leads to a narrow chin. Her narrow gray eyes sit beneath thin brows, lending her a keen gaze. A delicate nose and thin lips complete her features. She has fair skin with a pale complexion. Her blonde hair is twisted into an elaborate arrangement.
 
-# Dossier {#dossier}
+## Dossier {#dossier}
 
 Born in the Élavendre region to a noble family of Élavendri heritage, Émyna Óthral came into the world of the courtesan through a combination of circumstance and aptitude.
 
@@ -562,37 +562,37 @@ Seraphina is the daughter of a minor noble, but scandal forced her to leave her 
 
 Now at 36 years of age, Émyna Óthral has established herself as a known figure among the courtesans of Élavendre. Her reputation, for better or worse, precedes her in the circles where such things matter.
 
-## Psyche
+### Psyche
 
-### Personality
+#### Personality
 
 Haunted by her past scandal, overly cautious about reputation.
 
-### Motivation
+#### Motivation
 
 Émyna's driving force is the search that defines her life — a quest that shapes every decision she makes and every risk she takes.
 
-### Strengths
+#### Strengths
 
 Graceful, intelligent, skilled at navigating social dynamics.
 
-## Social
+### Social
 
 Émyna is affiliated with Informal network of high-society courtesans..
 
 As a Élavendri courtesan, Émyna occupies a recognized social niche within Élavendre society.
 
-## Companions
+### Companions
 
-### Patrons
+#### Patrons
 
 Émyna's primary patron is Wealthy intellectuals and nobles who enjoy her company.. This relationship provides both opportunity and obligation.
 
-### Enemies
+#### Enemies
 
 Former suitor who resents her independence.
 
-## Plot Hooks
+### Plot Hooks
 
 1. **The Courtesan's Dilemma** — Émyna faces a professional crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Élavendre.
 

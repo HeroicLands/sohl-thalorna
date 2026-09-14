@@ -30,6 +30,4 @@ shortcode: hrafnvar
 packFolder: malagna
 ---
 
-# Hrafnvar
-
 A polity of Malagna, under the crown of Lögnheim.

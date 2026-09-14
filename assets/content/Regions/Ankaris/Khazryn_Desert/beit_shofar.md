@@ -17,8 +17,6 @@ name:
 shortcode: beitshofar
 ---
 
-# Beit-Shōfár
-
 ## Overview
 
 _To be written._ Beit-Shōfár is the capital and principal settlement of [[affiliation-tribestrzd|Tribes of Ātárzád]].

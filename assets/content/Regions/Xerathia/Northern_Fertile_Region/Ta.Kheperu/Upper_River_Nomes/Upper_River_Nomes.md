@@ -113,8 +113,6 @@ data:
 packFolder: upperrivernomes
 ---
 
-# The Upper River Nomes
-
 ## Overview
 
 Upstream of the delta, the great river runs for hundreds of leagues through a narrow, fabulously fertile valley walled by upland on either side — the agricultural heartland of [[affiliation-empirtkhpr|The Empire of Ta'Kheperu]]. The eighteen **Upper River Nomes** are the most numerous of the four nome-classes and hold the empire's grain. Each year the flood drowns and renews their fields; each harvest fills the granaries that feed the cities and the army. This is the oldest-settled, most thickly templed, most stubbornly traditional country in the realm, and its nomarchs are the conscience and the dead weight of the empire in equal measure.

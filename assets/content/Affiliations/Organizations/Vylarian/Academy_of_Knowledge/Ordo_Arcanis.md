@@ -99,8 +99,6 @@ data:
 packFolder: academyofknowledge
 ---
 
-# Ordo Arcanis
-
 The **Ordo Arcanis** is the dominant arcane guild of western [[place-ankrscntnnt|Ankaris Continent]] and one of the most powerful institutions in [[place-midhalnrgn|Mídhalión Region]]. It holds a monopoly on the practice, research, and teaching of arcane lore throughout the regions under its authority. Only members of the Ordo are sanctioned to practice magic; all others are subject to investigation, sanction, and — if necessary — elimination.
 
 The Ordo predates even the [[affiliation-vylarinmpr|Vylarian Empire]] itself — it was founded during the days of the Vylarian Republic, making it one of the oldest surviving institutions in western Ankaris. When the Republic became an Empire in Year 1 of the common calendar, the Ordo was already an established power.

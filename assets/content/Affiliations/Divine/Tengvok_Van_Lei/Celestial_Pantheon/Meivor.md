@@ -122,7 +122,7 @@ data:
 packFolder: celestialpantheon
 ---
 
-# Mëivōr — The Minister of Dreams
+## Mëivōr — The Minister of Dreams
 
 - **Bureau:** Mëi Sëi, The Bureau of Night Counsel
 - **Domain:** Dreams
@@ -138,12 +138,12 @@ Kemetíans Bēs. In the Tānvüri framework this is not a coincidence but a bure
 being appears to hold the Dream portfolio across several celestial administrations at once, which
 no procedure accounts for and which the Tānthëi find deeply troubling.
 
-## Lesser Spirits
+### Lesser Spirits
 
 - **Lëngvōr** — Clerks of Auspicious Dreams, who deliver favourable omens.
 - **Hëkyök** — Clerks of Warning Dreams, who deliver cautionary visions. Not malevolent — a nightmare is simply an urgent memo.
 
-## See Also
+### See Also
 
 - [[affiliation-tngvkvnlei|Tëngvōk Vān Lëi]] — the Celestial Bureaucracy this bureau belongs to
 - [[affiliation-tanvurempr|Empire of Tānvür]] — the mortal realm it administers

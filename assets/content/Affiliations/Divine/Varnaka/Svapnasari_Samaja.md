@@ -83,7 +83,7 @@ data:
 packFolder: pantheonsvarnaka
 ---
 
-# Svapnasāri-samāja — The Assembly of the Dream-Followers
+## Svapnasāri-samāja — The Assembly of the Dream-Followers
 
 - **Tradition:** Svapnasāri-samāja — _The Assembly of the Dream-Followers_
 - **Deities Venerated:** [[affiliation-svapnadevas|Svapnadēvas]] (the Dreaming Host) as primary; through them, the elder [[lore-goddreams|The God of Dreams]] is revered but not named; [[affiliation-kalavrata|Kālavrata]] honoured as a companion presence, since the dead and the dream share the threshold
@@ -97,7 +97,7 @@ The Samāja's temples are often set at a remove from the bustle of civic life: a
 
 The sect's relationship with the orthodox Trimūrti-sampradāya is cautious but cooperative. The orthodox hierarchy does not contest the Samāja's expertise on dreams, and the Samāja does not contest the orthodox hierarchy's authority over public religion. Both traditions recognise that the other has work they could not do themselves.
 
-## Clergy
+### Clergy
 
 - **Svapna-Ácārya** ("Master of Dreams") — the senior priest of a Samāja monastery or temple; almost always a proven oneiromancer of many years' standing.
 - **Darśaka** ("Seer") — the working priesthood; trained in dream-reading, meditation, and the careful recording of the dreams brought by the faithful.
@@ -105,7 +105,7 @@ The sect's relationship with the orthodox Trimūrti-sampradāya is cautious but 
 
 **Key Skills:** Trance, Astrology, Folklore, Herblore, Physician, Empathy, Singing
 
-## Ceremonies and Festivals
+### Ceremonies and Festivals
 
 **Low Ceremonies:**
 
@@ -122,16 +122,16 @@ The sect's relationship with the orthodox Trimūrti-sampradāya is cautious but 
 - **The Night of Silver** — observed at the full moon nearest the autumn equinox; dreamers gather at the monastery to keep a communal vigil under the moon.
 - **The Festival of the Quiet Mind** — a minor summer festival; the monastery's meditation gardens are opened to the public, and instruction in the stilling arts is offered without fee.
 
-## Ordeals for Favour
+### Ordeals for Favour
 
 - **The Seven-Night Vigil** — seven consecutive nights of dream-vigil, during which the aspirant sleeps lightly in the monastery chamber and reports each morning on the night's dreams. Few aspirants complete it without the intervention of a Darśaka.
 - **The Mirror Year** — a year spent serving in a monastery's divination chamber, reading the silver mirror for all petitioners who come, without refusing a reading and without accepting fee.
 
-## Orders
+### Orders
 
 - **Order of the Crescent** — an itinerant order of Darśakas who travel the Vedyaran cities, offering dream-readings and prophetic counsel to those who cannot afford the monastery's fees.
 - **Council of the Dream** — a senior council of oneiromancers who adjudicate disputed readings, maintain the great dream-registers of the tradition, and advise on matters that pass from dream into consequential civic decision.
 
-## Geographic Presence
+### Geographic Presence
 
 Established Samāja monasteries are found in the uplands north of [[place-vedyarargn|Vedyara Region]], at a handful of desert edge-towns, and in the quiet quarters of the oldest cities. Every major city has at least one Samāja-trained Darśaka in civic residence, often attached to a royal or noble household.

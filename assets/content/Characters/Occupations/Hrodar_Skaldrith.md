@@ -551,11 +551,11 @@ sohl:
     defaultCombatGroup: null
 ---
 
-# Appearance {#appearance}
+## Appearance {#appearance}
 
 Hródar Skáldrith is a 45-year-old man who stands 6'4" tall and is broad and solidly built. He has a long face with soft cheekbones, a smooth forehead, and an angular jaw that leads to a strong chin. His narrow gray eyes sit beneath furrowed brows, lending him a keen gaze. A strong nose and expressive lips complete his features. He has medium-toned skin with a ruddy complexion. His red hair is long and gathered with a leather thong. A notable feature is a chipped front tooth.
 
-# Dossier {#dossier}
+## Dossier {#dossier}
 
 Born in the Vrystwald region to a freeman family of Varokhi heritage, Hródar Skáldrith came into the world of the mercenary through a combination of circumstance and aptitude.
 
@@ -563,37 +563,37 @@ Garrick is a veteran mercenary with extensive experience in various conflicts. H
 
 Now at 45 years of age, Hródar Skáldrith has established himself as a known figure among the mercenarys of Vrystwald. His reputation, for better or worse, precedes him in the circles where such things matter.
 
-## Psyche
+### Psyche
 
-### Personality
+#### Personality
 
 Can be overly cautious, struggles with the moral complexities of his work.
 
-### Motivation
+#### Motivation
 
 Hródar is driven by the desire to master his craft and secure a stable future. The uncertainties of life in mercenary work keep him vigilant and adaptable.
 
-### Strengths
+#### Strengths
 
 Highly skilled in combat, experienced strategist, respected leader.
 
-## Social
+### Social
 
 Hródar is affiliated with Local Mercenaries' Guild.
 
 As a Varokhi mercenary, Hródar occupies a recognized social niche within Vrystwald society.
 
-## Companions
+### Companions
 
-### Patrons
+#### Patrons
 
 Hródar's primary patron is Clients seeking reliable and experienced mercenaries.. This relationship provides both opportunity and obligation.
 
-### Enemies
+#### Enemies
 
 Few; generally respected but has made rivals in the mercenary community.
 
-## Plot Hooks
+### Plot Hooks
 
 1. **The Mercenary's Dilemma** — Hródar faces a professional crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Vrystwald.
 

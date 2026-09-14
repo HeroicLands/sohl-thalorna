@@ -554,11 +554,11 @@ sohl:
     defaultCombatGroup: null
 ---
 
-# Appearance {#appearance}
+## Appearance {#appearance}
 
 Fródwyn Dómhár is a 38-year-old woman who stands 5'8" tall and is of moderate build. She has a long face with sharp cheekbones, a wide forehead, and an angular jaw that leads to a square chin. Her wide-set green eyes sit beneath heavy brows, lending her an open gaze. A broad nose and narrow lips complete her features. She has fair skin with a lightly freckled complexion. Her dark blonde hair is plaited in a single thick braid.
 
-# Dossier {#dossier}
+## Dossier {#dossier}
 
 Born in the Vrystwald region to a noble family of Varokhi heritage, Fródwyn Dómhár came into the world of the scholar through a combination of circumstance and aptitude.
 
@@ -566,37 +566,37 @@ Professor Liraen is a distinguished scholar of natural sciences, known for her g
 
 Now at 38 years of age, Fródwyn Dómhár has established herself as a known figure among the scholars of Vrystwald. Her reputation, for better or worse, precedes her in the circles where such things matter.
 
-## Psyche
+### Psyche
 
-### Personality
+#### Personality
 
 Can be overly critical of herself, struggles with time management.
 
-### Motivation
+#### Motivation
 
 Fródwyn's driving force is the search that defines her life — a quest that shapes every decision she makes and every risk she takes.
 
-### Strengths
+#### Strengths
 
 Innovative thinker, excellent teacher, strong analytical skills.
 
-## Social
+### Social
 
 Fródwyn is affiliated with Local Scholars' Guild.
 
 As a Varokhi scholar, Fródwyn occupies a recognized social niche within Vrystwald society.
 
-## Companions
+### Companions
 
-### Patrons
+#### Patrons
 
 Fródwyn's primary patron is Students, local herbalists, and community organizations seeking knowledge.. This relationship provides both opportunity and obligation.
 
-### Enemies
+#### Enemies
 
 Few; generally well-respected, though some traditionalists may oppose her methods.
 
-## Plot Hooks
+### Plot Hooks
 
 1. **The Scholar's Dilemma** — Fródwyn faces a professional crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Vrystwald.
 

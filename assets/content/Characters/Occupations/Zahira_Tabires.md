@@ -550,11 +550,11 @@ sohl:
     defaultCombatGroup: null
 ---
 
-# Appearance {#appearance}
+## Appearance {#appearance}
 
 Zahîra Tâbîrês is a 32-year-old woman who stands 5'7" tall and is slender. She has an angular face with soft cheekbones, a broad forehead, and a sharp jaw that leads to a prominent chin. Her deep-set amber eyes sit beneath prominent brows, lending her a watchful gaze. A straight nose and narrow lips complete her features. She has fair skin with a weathered complexion. Her black hair is flowing past her shoulders.
 
-# Dossier {#dossier}
+## Dossier {#dossier}
 
 Born in the Heliónis region to a freeman family of Helionite heritage, Zahîra Tâbîrês came into the world of the tentmaker through a combination of circumstance and aptitude.
 
@@ -562,37 +562,37 @@ Elira learned the craft of tentmaking from her father, who ran a small shop in a
 
 Now at 32 years of age, Zahîra Tâbîrês has established herself as a known figure among the tentmakers of Heliónis. Her reputation, for better or worse, precedes her in the circles where such things matter.
 
-## Psyche
+### Psyche
 
-### Personality
+#### Personality
 
 Focuses on aesthetics, which sometimes compromises durability.
 
-### Motivation
+#### Motivation
 
 Zahîra is driven by the desire to master her craft and secure a stable future. The uncertainties of life in tentmaker work keep her vigilant and adaptable.
 
-### Strengths
+#### Strengths
 
 Skilled in decorative stitching and embroidery, creative.
 
-## Social
+### Social
 
 Zahîra is affiliated with None; works independently in her father's old shop..
 
 As a Helionite tentmaker, Zahîra occupies a recognized social niche within Heliónis society.
 
-## Companions
+### Companions
 
-### Patrons
+#### Patrons
 
 Zahîra's primary patron is Local travelers who appreciate her craftsmanship.. This relationship provides both opportunity and obligation.
 
-### Enemies
+#### Enemies
 
 Competitors who criticize her decorative approach.
 
-## Plot Hooks
+### Plot Hooks
 
 1. **The Tentmaker's Dilemma** — Zahîra faces a professional crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Heliónis.
 

@@ -96,13 +96,11 @@ banner: banners/company.webp
 packFolder: politiescompanies
 ---
 
-# The Blackpine Wolves
-
 ![The Blackpine Wolves](https://cdn.heroiclands.org/images/blackpine_wolves.webp)
 
 The Blackpine Wolves are a small, vicious band of road bandits who prey on travelers along the crumbling old Vylarian trade road that threads through the dark pine forests of Vrystwald. They are not a disciplined military company or a romantic band of outlaws — they are desperate, violent men and one very dangerous woman, held together by fear of their leader and the absence of better options.
 
-# Organization
+## Organization
 
 The gang is led by [[being-dagulfvthr|Dágulf Véthar]], a Varokh runaway serf with a cruel streak and a gift for ambush. He rules through unpredictability and sudden violence, rewarding loyalty one day and punishing imagined slights the next. There is no formal hierarchy below him, though [[being-thrwldhldskrn|Thráwald Hildskorn]] serves as a de facto second-in-command by virtue of seniority and sheer physical size.
 
@@ -115,13 +113,13 @@ The current membership stands at six:
 - **[[being-hrodrrnthl|Hródar Arnthúl]]** — Woodsman and fighter. A bitter former timber cutter who hates the Vylarian Empire with a cold, personal fury.
 - **Brunjár Skathhelm** — Lookout. The youngest and most reluctant member, a freckle-faced boy with a guilty conscience and a good sling arm.
 
-# Territory
+## Territory
 
 The Blackpine Wolves operate along a stretch of the old imperial trade road roughly two days' ride south of the Vylarian border garrison. Their territory is a dense section of ancient dark pine forest, riddled with fog-filled valleys, overgrown ruins, and crumbling Vylarian milestones. The terrain strongly favors ambush — narrow road, poor sightlines, abundant cover — and the gang knows every trail, gully, and hiding place within a day's walk.
 
 Their camp shifts regularly to avoid detection, but tends to cluster around a set of half-collapsed Vylarian waystation ruins deep in the pines, where stone walls provide shelter and the ruins offer multiple escape routes into the forest.
 
-# Methods
+## Methods
 
 The gang's operations are simple and brutal. Vandaric scouts targets in border taverns, identifying merchant caravans and estimating their escort strength and cargo value. The gang sets up ambush positions along the road — felled trees, concealed bowmen, and Dágulf's preferred tactic of attacking from both sides of the road simultaneously. Brunjár serves as a forward lookout, using bird calls to signal the caravan's approach and composition.
 
@@ -129,7 +127,7 @@ Resistance is met with swift, overwhelming violence. Compliance is met with robb
 
 Stolen goods are fenced through contacts Vandaric maintains in border towns, at a fraction of their value.
 
-# Internal Tensions
+## Internal Tensions
 
 The Blackpine Wolves are not a stable organization. Several fault lines threaten to tear the gang apart:
 
@@ -141,7 +139,7 @@ The Blackpine Wolves are not a stable organization. Several fault lines threaten
 
 Only Thráwald is stable — because he doesn't care enough about anything to cause trouble.
 
-# Using the Blackpine Wolves
+## Using the Blackpine Wolves
 
 The gang works best as a recurring low-level threat for parties traveling through Vrystwald. They can serve as:
 

@@ -551,11 +551,11 @@ sohl:
     defaultCombatGroup: null
 ---
 
-# Appearance {#appearance}
+## Appearance {#appearance}
 
 Harphôs Ôrchârenîs is a 38-year-old man who stands 5'10" tall and is of moderate build. He has a long face with wide-set cheekbones, a high forehead, and a sharp jaw that leads to a square chin. His wide-set green eyes sit beneath straight brows, lending him an open gaze. A straight nose and narrow lips complete his features. He has medium-toned skin with a sun-tanned complexion. His black hair is receding at the temples.
 
-# Dossier {#dossier}
+## Dossier {#dossier}
 
 Born in the Vylaría region to a guilded family of Vylarian heritage, Harphôs Ôrchârenîs came into the world of the chandler through a combination of circumstance and aptitude.
 
@@ -563,37 +563,37 @@ Alric operates a bustling candle shop in the city, catering to the demands of th
 
 Now at 38 years of age, Harphôs Ôrchârenîs has established himself as a known figure among the chandlers of Vylaria. His reputation, for better or worse, precedes him in the circles where such things matter.
 
-## Psyche
+### Psyche
 
-### Personality
+#### Personality
 
 Focused on profit, sometimes at the expense of quality.
 
-### Motivation
+#### Motivation
 
 Harphôs is driven by the desire to master his craft and secure a stable future. The uncertainties of life in chandler work keep him vigilant and adaptable.
 
-### Strengths
+#### Strengths
 
 Business savvy, skilled at marketing his products.
 
-## Social
+### Social
 
 Harphôs is affiliated with Urban Craft Guild.
 
 As a Vylarian chandler, Harphôs occupies a recognized social niche within Vylaria society.
 
-## Companions
+### Companions
 
-### Patrons
+#### Patrons
 
 Harphôs's primary patron is Local nobles who purchase scented candles for their homes.. This relationship provides both opportunity and obligation.
 
-### Enemies
+#### Enemies
 
 Competitors who resent his aggressive business tactics.
 
-## Plot Hooks
+### Plot Hooks
 
 1. **The Chandler's Dilemma** — Harphôs faces a professional crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Vylaria.
 

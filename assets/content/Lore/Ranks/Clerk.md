@@ -10,8 +10,6 @@ shortcode: clerkrnk
 description: "Lettered and in a body's service, copying and reckoning under supervision."
 ---
 
-# Clerk
-
 Lettered and in a body's service, copying and reckoning under supervision.
 
 ## Obligations and Rights

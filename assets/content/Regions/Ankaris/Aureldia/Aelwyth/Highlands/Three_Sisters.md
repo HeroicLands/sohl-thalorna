@@ -20,8 +20,6 @@ shortcode: threesisters
 packFolder: aelwyth
 ---
 
-# The Three Sisters
-
 Three peaks standing together above the open ground of the [[place-cntrlhghlnds|Central Highlands]], in
 the middle of Aelwyth. They are unremarkable mountains and the most important place on the island.
 

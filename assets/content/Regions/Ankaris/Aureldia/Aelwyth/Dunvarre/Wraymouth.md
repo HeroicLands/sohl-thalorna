@@ -19,8 +19,6 @@ shortcode: wraymouth
 packFolder: aelwyth
 ---
 
-# Wraymouth
-
 **Wraymouth** stands where the Wray comes down to the sea on Aelwyth's south-eastern coast, and is the
 second city of the [[affiliation-kingdmdnvr|Kingdom of Dúnavarre]] at about fifteen thousand people.
 

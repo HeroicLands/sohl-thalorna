@@ -29,6 +29,4 @@ shortcode: kaliharacnfd
 packFolder: kalihara
 ---
 
-# Kalihara Confederation
-
 The confederation of Kalihara.

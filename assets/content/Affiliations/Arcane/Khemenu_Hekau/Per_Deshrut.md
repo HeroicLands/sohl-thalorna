@@ -84,7 +84,7 @@ banner: banners/ta-kheperu-banner.webp
 packFolder: khemenuhekau
 ---
 
-# Per-Deshr'ut (House of the Red Land)
+## Per-Deshr'ut (House of the Red Land)
 
 The House of the Red Land holds the country's other half and everything the valley is defended
 from: fire and drought, the storm, the endurance that crossing the waste demands, and plague. Its
@@ -96,7 +96,7 @@ of the eight into which the [[lore-khemenuhekau|Khemenu Hekau]] partitions the D
 function in the cosmic order rather than by substance, which is why no portion of it corresponds
 to any single Eídma of the western [[lore-hexhodai|Héx Hodäi]].
 
-## See Also
+### See Also
 
 - [[lore-khemenuhekau|Khemenu Hekau]] — the philosophy and the other seven domains
 - [[place-khemenu|Khemenu]] — where the Eight are taught

@@ -13,8 +13,6 @@ shortcode: mzazispr
 packFolder: lorespiritsokharic
 ---
 
-# Mzazi wa Ardhi
-
 - **Kind:** [[lore-zohira|Zohira]], emissary of [[affiliation-nkaruthar|the Eternal Flame]]
 - **Domain:** Fertility
 - **Also called:** the Begetter of the Earth

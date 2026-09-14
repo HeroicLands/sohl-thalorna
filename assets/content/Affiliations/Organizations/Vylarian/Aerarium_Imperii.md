@@ -89,8 +89,6 @@ data:
   relations: {}
 ---
 
-# The Aerarium Imperii
-
 _Vylarian: Aerarium Imperii — "the Imperial Treasury"_
 
 - **Type:** Imperial state institution; central bank and imperial treasury

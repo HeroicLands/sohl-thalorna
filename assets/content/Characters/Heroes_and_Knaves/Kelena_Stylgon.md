@@ -576,39 +576,39 @@ sohl:
     defaultCombatGroup: null
 ---
 
-# Appearance {#appearance}
+## Appearance {#appearance}
 
 Kêlena stands 5'7" tall with a heavy build. She has golden-toned skin, Flowing black hair, and alert eyes. Her features include an angular face, a prominent nose, a pronounced chin, heavy brows, sculpted cheeks. A distinguishing mark is a tattoo of intertwining dark green vines on the right upper arm and shoulder.
 
-# Dossier {#dossier}
+## Dossier {#dossier}
 
-## Background
+### Background
 
-### The Dancer's Daughter
+#### The Dancer's Daughter
 
 Kêlena was born in the Kingdom of Provènzia to a musician mother and a father whose identity she has never disclosed and seems reluctant to discuss. Her childhood was spent in the theatrical world—her mother performed in various traveling troupes, and young **Kêlena** was raised backstage, absorbing the arts of performance, seduction, and social manipulation as naturally as other children learn language. By age ten, she performed minor roles in stage productions; by fifteen, she was drawing attention as a dancer of unusual grace and charisma. Yet she demonstrated an early intelligence about the performance itself—understanding that physical beauty and dancing skill, while important, were secondary to the art of capturing and holding an audience's emotional attention.
 
-### The Rise Through Society
+#### The Rise Through Society
 
 At eighteen, **Kêlena** made a deliberate transition from theatrical performer to courtesan—a shift that scandalized some but which she understood perfectly as an evolution rather than a degradation. She became the kept companion of a wealthy merchant, leveraging that position to gain access to high society. From there, she cultivated relationships systematically and brilliantly, moving through the kingdom's social hierarchy with calculated grace. She became known not merely for her physical charms but for her remarkable ability to engage in meaningful conversation on topics ranging from philosophy to commerce, from art to intrigue. She learned languages, studied history, memorized genealogies—all in service of her craft.
 
-### Current Circumstances
+#### Current Circumstances
 
 Now established as one of Provènzia's most sought-after courtesans, **Kêlena** has transformed her profession into something approaching an art form. She maintains relationships with multiple powerful patrons simultaneously, each believing himself her favorite, each showering her with gifts and attention. She owns a townhouse in the capital, maintains several business interests including a small but fashionable theater troupe, and has accumulated considerable wealth and influence. Yet she has carefully avoided becoming too dependent on any single patron, having learned young the fragility of fortunes built on others' affection.
 
-## Psyche
+### Psyche
 
-### Personality
+#### Personality
 
 **Kêlena** is fundamentally a creature of performance—every interaction is crafted, every expression calibrated for effect. She is brilliant at reading people and understanding what they most desire to hear or experience, and she can become whatever version of herself will best serve her interests in any given moment. This chameleonic quality is not dishonest in her mind—it is simply the nature of her profession and her art. She has maintained this level of control for so long that it is genuinely unclear to what extent there is a "true" **Kêlena** beneath the performances, or whether she has become purely the sum of her various personas.
 
 That said, those few people who have broken through her carefully maintained emotional walls report finding someone capable of surprising depth and genuine humor. She is prone to dark moods, particularly when alone, and there is evidence of a sadness beneath the glittering surface. She drinks wine regularly and has recently begun exploring certain substances that enhance her performances and help her manage the emotional cost of her carefully constructed life. She is capable of loyalty to those she considers genuine friends, though she defines friendship with extreme selectivity.
 
-### Motivation
+#### Motivation
 
 **Kêlena** operates from multiple, sometimes contradictory motivations. On the surface, she seeks wealth, influence, and the security that comes from being essential to powerful people. At a deeper level, she is driven by a need to prove something—to herself and to her absent father—that she can be valuable, essential, irreplaceable. There is a component of revenge as well: an intention to use her talents and intelligence to gain advantages over those who would underestimate her because of her profession. Beneath all of this lies a more melancholic motivation: the desire to be known and truly valued for who she is, even though she has carefully ensured that no one ever will be.
 
-### Strengths
+#### Strengths
 
 - **Masterful Charisma**: **Kêlena** possesses a natural magnetism and charm that is genuinely difficult to resist. She can convince almost anyone to like her, trust her, or provide her assistance through the sheer force of her personality.
 - **Social Intelligence**: Her understanding of social hierarchies, etiquette, and the hidden power structures of noble society is exceptionally sophisticated. She can navigate complex political situations with grace and extract maximum advantage.
@@ -616,7 +616,7 @@ That said, those few people who have broken through her carefully maintained emo
 - **Linguistic Fluency**: She speaks multiple languages and dialects fluently, allowing her to operate across different social strata and regions.
 - **Exceptional Eloquence**: Her ability to craft compelling narratives, deliver persuasive arguments, and communicate with eloquence is nearly unmatched.
 
-### Weaknesses
+#### Weaknesses
 
 - **Emotional Distance**: **Kêlena's** constant performance has left her emotionally isolated and incapable of genuine vulnerability. This makes it difficult for her to form truly deep connections, even when she might desire them.
 - **Lack of Genuine Agency**: Having organized her entire life around being what others want, **Kêlena** has relatively little sense of what she actually wants independent of others' desires. Her life is reactive rather than self-directed.
@@ -624,23 +624,23 @@ That said, those few people who have broken through her carefully maintained emo
 - **Substance Dependence**: Her use of various substances to manage the emotional cost of her life is increasing, and she is moving toward genuine dependency.
 - **Vulnerability to Blackmail**: Her position depends entirely on maintaining her current reputation and relationships. Someone with knowledge of her personal history or private actions could prove extraordinarily dangerous to her position.
 
-## Social
+### Social
 
-### Patrons
+#### Patrons
 
 - **The Duke of Ravenshold**: A powerful noble of considerable influence who has maintained a relationship with **Kêlena** for the past four years. Their arrangement is more transactional than intimate, though he is genuinely fond of her and consistently provides substantial financial support in exchange for her company and discretion regarding his private matters.
 - **Merchant-Prince Aldric Covens**: A wealthy merchant who profits considerably from the wine and luxury goods trade. **Covens** views **Kêlena** as an investment and source of status within high society, providing her with gifts and access to merchant circles in exchange for her presence at his events.
 
-### Enemies
+#### Enemies
 
 - **Margot Thesselier**: A rival courtesan who has cultivated connections with some of **Kêlena's** former patrons and actively works to undermine her reputation in high society. **Margot** views **Kêlena** as superior in talent but lower in status, and resents deeply what she sees as **Kêlena's** undeserved prominence.
 - **The Hidden Hand**: A shadowy organization rumored to traffic in information and maintain leverage over powerful individuals. **Kêlena** has reason to believe they possess information about her past that could devastate her current position, and she lives in constant low-level fear of their attention.
 
-### Affiliations
+#### Affiliations
 
 - **The Provènzia Theater Collective**: An informal association of performers and theater operators that **Kêlena** helped establish and continues to influence. Through this group, she maintains connections to the artistic and performance communities even as she operates primarily in high society.
 
-## Plot Hooks
+### Plot Hooks
 
 1. **The Blackmail Plot**: Someone begins sending **Kêlena** letters containing detailed knowledge of her past—specific incidents she believed forgotten or hidden, details about her family she has never shared with anyone, evidence of transactions she conducted under assumed names. The sender demands she use her influence with various patrons to facilitate specific political or commercial objectives. **Kêlena** hires the party to discover who holds this leverage over her, but her investigation must be conducted with absolute discretion, as exposure of the blackmail itself could damage her carefully constructed reputation. The party discovers the blackmailer is someone from her theatrical past who has dedicated years to collecting information, believing **Kêlena** betrayed them years ago.
 

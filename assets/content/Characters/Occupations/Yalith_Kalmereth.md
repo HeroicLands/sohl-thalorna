@@ -551,11 +551,11 @@ sohl:
     defaultCombatGroup: null
 ---
 
-# Appearance {#appearance}
+## Appearance {#appearance}
 
 Yálith Kálmereth is a 33-year-old woman who stands 5'8" tall and is of moderate build. She has a diamond face with broad cheekbones, a high forehead, and an angular jaw that leads to a firm chin. Her bright gray eyes sit beneath expressive brows, lending her a lively gaze. A delicate nose and wide lips complete her features. She has light skin with a lightly freckled complexion. Her white hair is flowing past her shoulders.
 
-# Dossier {#dossier}
+## Dossier {#dossier}
 
 Born in the Élavendre region to a freeman family of Élavendri heritage, Yálith Kálmereth came into the world of the bard through a combination of circumstance and aptitude.
 
@@ -563,37 +563,37 @@ Brynn earned the name "Silversong" for her clear, melodic voice. She grew up in 
 
 Now at 33 years of age, Yálith Kálmereth has established herself as a known figure among the bards of Élavendre. Her reputation, for better or worse, precedes her in the circles where such things matter.
 
-## Psyche
+### Psyche
 
-### Personality
+#### Personality
 
 Struggles with the formalities of court life, hesitant to settle in one place.
 
-### Motivation
+#### Motivation
 
 Yálith is driven by the desire to master her craft and secure a stable future. The uncertainties of life in bard work keep her vigilant and adaptable.
 
-### Strengths
+#### Strengths
 
 Skilled singer, emotionally expressive, connects with common people.
 
-## Social
+### Social
 
 Yálith is affiliated with Minstrels' Guild.
 
 As a Élavendri bard, Yálith occupies a recognized social niche within Élavendre society.
 
-## Companions
+### Companions
 
-### Patrons
+#### Patrons
 
 Yálith's primary patron is Villagers and small-town lords who value her heartfelt songs.. This relationship provides both opportunity and obligation.
 
-### Enemies
+#### Enemies
 
 Few, though some court bards view her as a simple minstrel.
 
-## Plot Hooks
+### Plot Hooks
 
 1. **The Bard's Dilemma** — Yálith faces a professional crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Élavendre.
 

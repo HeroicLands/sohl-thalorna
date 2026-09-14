@@ -10,8 +10,6 @@ shortcode: councillorrnk
 description: "Of the body that deliberates and decides, seated by election, birth or standing."
 ---
 
-# Councillor
-
 Of the body that deliberates and decides, seated by election, birth or standing.
 
 ## Obligations and Rights

@@ -548,11 +548,11 @@ sohl:
     defaultCombatGroup: null
 ---
 
-# Appearance {#appearance}
+## Appearance {#appearance}
 
 Elfreda Lewknor is a 28-year-old woman who stands 5'10" tall and is of moderate build. She has a long face with prominent cheekbones, a lined forehead, and an angular jaw that leads to a pointed chin. Her deep-set brown eyes sit beneath expressive brows, lending her a watchful gaze. A narrow nose and expressive lips complete her features. She has light skin with a lightly freckled complexion. Her auburn hair is loose and wavy.
 
-# Dossier {#dossier}
+## Dossier {#dossier}
 
 Born in the Aelwyth region to a freeman family of Aelwythan heritage, Elfreda Lewknor came into the world of the farmer through a combination of circumstance and aptitude.
 
@@ -560,37 +560,37 @@ Elara grew up on her family's farm, where she learned to tend to animals and gro
 
 Now at 28 years of age, Elfreda Lewknor has established herself as a known figure among the farmers of Aelwyth. Her reputation, for better or worse, precedes her in the circles where such things matter.
 
-## Psyche
+### Psyche
 
-### Personality
+#### Personality
 
 Sometimes takes on too many projects, struggles to ask for help.
 
-### Motivation
+#### Motivation
 
 Elfreda is driven by the desire to master her craft and secure a stable future. The uncertainties of life in farmer work keep her vigilant and adaptable.
 
-### Strengths
+#### Strengths
 
 Resourceful, skilled in animal care and crop rotation, adaptable.
 
-## Social
+### Social
 
 Elfreda is affiliated with Rural Farmers' Cooperative.
 
 As a Aelwythan farmer, Elfreda occupies a recognized social niche within Aelwyth society.
 
-## Companions
+### Companions
 
-### Patrons
+#### Patrons
 
 Elfreda's primary patron is Local villagers who buy her fresh produce.. This relationship provides both opportunity and obligation.
 
-### Enemies
+#### Enemies
 
 A rival farmer who often competes for the same markets.
 
-## Plot Hooks
+### Plot Hooks
 
 1. **The Farmer's Dilemma** — Elfreda faces a professional crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Aelwyth.
 

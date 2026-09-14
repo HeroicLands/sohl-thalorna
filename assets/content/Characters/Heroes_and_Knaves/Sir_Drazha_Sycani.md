@@ -588,35 +588,35 @@ sohl:
     defaultCombatGroup: null
 ---
 
-# Appearance {#appearance}
+## Appearance {#appearance}
 
 Drazhan is a towering figure at 6'4" with a heavily muscled frame, weighing around 235 pounds. His skin is a deep brown, and his body bears many scars from battles fought. His black hair is shaved close to his scalp, and his piercing dark eyes give him a predatory air. His face is hardened, with a broad nose, full lips, and a square jaw, often set in a grim expression. A tattoo of a flaming sword adorns his right arm, signifying his devotion to [[affiliation-blackflame|The Black Flame]]. Drazhan wears heavy, blackened steel armor etched with Black Flame symbols, and his weapon of choice is a wickedly curved greatsword that he wields with ease.
 
-# Dossier {#dossier}
+## Dossier {#dossier}
 
 Drazha Sycâni is from **Zánatu**, a kingdom situated in a harsh and unforgiving landscape. Once a province of the Vylarian Empire, Zánatu gained independence and is now ruled by a monarch alongside the **Council of Syndics**, an oligarchic council of trade syndics. The land of Zánatu is shaped by the austere values of its people, influenced by both the Vylarian and Kaliharan cultures.
 
 Drazhan was born into the Sycâni, a powerful warrior clan, his father a fierce warlord and his mother a devoted priestess of the Black Flame. From his earliest years, Drazhan was trained to embrace the tenets of the Black Flame, which glorifies pain and suffering as paths to strength and transcendence. He was taught that strength and dominance are the measures of a person’s worth, and the weak should be crushed beneath the weight of their betters. His childhood was a brutal series of trials designed to harden him into an unrelenting warrior. The sacred **Trial of the Flames**, which every aspiring Black Flame must endure, left Drazhan’s body scarred but his spirit unbroken.
 
-## Background
+### Background
 
-### The Black Flame Order and Rise to Power
+#### The Black Flame Order and Rise to Power
 
 By the age of 16, Drazhan had joined the **Servants of Sycânus**, one of the most feared military orders of Black Flame knights. The order is notorious for its ruthlessness, and Drazhan quickly rose through the ranks by excelling in battle, particularly during campaigns against neighboring regions. His ferocity in combat and willingness to embrace pain as a means of glorifying Vúlcan earned him the title of **Blazewarden**, a position of honor within the order.
 
 As a Blazewarden, Drazhan became known for leading punitive raids across the borders of Zánatu, particularly into the **Desert of Hek’ar**, a barren and desolate region. These raids were intended to spread terror and reinforce the dominance of the Black Flame. Drazhan’s ability to inspire fear and loyalty among his troops made him a rising star within the Servants of Sycânus.
 
-### The Blazing Oath and the Search for the Eye of Velok
+#### The Blazing Oath and the Search for the Eye of Velok
 
 Drazhan’s most dangerous and ambitious mission began when he was chosen to lead a group of elite knights known as the **Blazing Oath**. This secretive faction within the Servants of Sycânus is dedicated to seeking out ancient relics of Vúlcan, said to contain immense destructive power. Drazhan’s mission is to retrieve the **Eye of Velok**, a legendary gem rumored to hold the essence of a powerful fire demon bound to Vúlcan.
 
 The Eye is believed to be hidden within the **Ruins of Arkor**, an ancient city buried beneath the sands of the Desert of Hek’ar. If recovered, the Eye could grant its bearer the ability to command fire on a massive scale, a power that Drazhan believes could fulfill Vúlcan’s vision of a world engulfed in flames. However, many dangers stand in his way, including rival factions within the Black Flame, foreign mercenaries, and the harsh environment of the desert itself.
 
-### End Goal
+#### End Goal
 
 Drazhan’s primary goal is to retrieve the **Eye of Velok** and unleash its destructive power in Vúlcan’s name. However, as he journeys deeper into the Desert of Hek’ar and faces opposition from enemies both external and within the Vúlcanian order **Nakarys the Scourge**, Drazhan begins to realize that the path to true power may not be as straightforward as he believed. Whether he succeeds or falls may well determine the future of Zánatu and the broader Black Flame movement.
 
-### Skills and Abilities
+#### Skills and Abilities
 
 - **Strength**: A knight trained for battle, Drazhan is physically powerful.
 - **Endurance**: Capable of withstanding great physical hardship and long campaigns.
@@ -633,32 +633,32 @@ Drazhan’s primary goal is to retrieve the **Eye of Velok** and unleash its des
 - **Morality**: Drazhan, as a Vúlcanian knight, often revels in battle and follows the principles of his church, but he is willing to bend some moral guidelines if it benefits his goals and survival.
 - **Voice**: Drazhan’s voice reflects his warrior lifestyle—gruff and forceful, lacking the finesse required for melodious singing.
 
-## Psyche
+### Psyche
 
-## Personality and Motivations
+### Personality and Motivations
 
 Drazhan is a cold and calculating warrior who believes that pain and destruction are not only tools but sacred acts of devotion to Vúlcan. He has no mercy for the weak and views suffering as a necessary path to strength. However, he also respects those who prove their worth in battle, valuing loyalty and strength above all else. His ultimate goal is to bring about the Black Flame’s vision of a world consumed by fire, and he sees the recovery of the **Eye of Velok** as the key to achieving this.
 
 Despite his unwavering faith, Drazhan is not without doubt. The deeper he delves into his mission, the more he begins to question whether his actions are truly serving Vúlcan’s will or if he is merely being used by those in power within the church. This inner conflict, though rarely visible to others, drives him to seek the ultimate truth behind the Blazing Oath’s goals.
 
-### Strengths
+#### Strengths
 
 - **Combat**
 - **Leadership**
 
-## Social
+### Social
 
-### Patrons
+#### Patrons
 
 - **High Blazewarden Hadrik**: The leader of the Servants of Sycânus, Hadrik is both Drazhan’s mentor and rival. While Hadrik respects Drazhan’s abilities, he is wary of his growing influence within the order. Hadrik secretly hopes that Drazhan’s quest for the Eye of Velok will either elevate him to new heights or end in his destruction, eliminating him as a potential threat.
 - **Zirael of the Bloodfire**: A high-ranking priestess of the Black Flame and a member of the Blazing Oath, Zirael is a sexual partner and one of Drazhan’s closest allies. She provides spiritual guidance and leads the dark rituals that invoke Vúlcan’s favor before battle. Zirael is fiercely loyal to Drazhan, though she has her own ambitions within the church.
 
-### Enemies
+#### Enemies
 
 - **Sir Thalion Râskar**: A Jánusian knight of the **Order of the Righteous Path**, sworn to protect the weak and uphold justice, Thalion has crossed paths with Drazhan on several occasions. Their enmity began when Drazhan’s forces massacred a Jánusian outpost, and Thalion has since sworn to bring him to justice. The two are destined to clash again, as Thalion views Drazhan as the embodiment of everything he stands against.
 - **Sir Vashek of Nakarys the Scourge**: Once a fellow knight of the Blazing Oath, Sir Vashek turned traitor and now leads a faction within the **Nakarys the Scourge**, a rival Black Flame fighting order. Drazhan sees Vashek’s defection as the ultimate betrayal and has vowed to hunt him down. However, Vashek has proven elusive, and members of his order continue to disrupt Servants of Sycânus operations throughout the Desert of Hek’ar.
 
-## Plot Hooks
+### Plot Hooks
 
 1. **The Quest for the Eye of Velok**: Drazhan’s search for the Eye of Velok could involve players joining him on a dangerous expedition into the **Ruins of Arkor**, where they must navigate ancient traps, rival factions, and the harsh conditions of the Desert of Hek’ar.
 

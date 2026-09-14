@@ -551,11 +551,11 @@ sohl:
     defaultCombatGroup: null
 ---
 
-# Appearance {#appearance}
+## Appearance {#appearance}
 
 Oswald Dunwell is a 33-year-old man who stands 6'0" tall and is of moderate build. He has a long face with sharp cheekbones, a high forehead, and a narrow jaw that leads to a rounded chin. His wide-set gray eyes sit beneath expressive brows, lending him an open gaze. A straight nose and firm lips complete his features. He has pale skin with a weathered complexion. His blonde hair is short and swept back.
 
-# Dossier {#dossier}
+## Dossier {#dossier}
 
 Born in the Aelwyth region to a freeman family of Aelwythan heritage, Oswald Dunwell came into the world of the nobility (manor lord) through a combination of circumstance and aptitude.
 
@@ -563,37 +563,37 @@ Sir Cedric is a minor noble who oversees his family's lands and is known for his
 
 Now at 33 years of age, Oswald Dunwell has established himself as a known figure among the nobility (manor lord)s of Aelwyth. His reputation, for better or worse, precedes him in the circles where such things matter.
 
-## Psyche
+### Psyche
 
-### Personality
+#### Personality
 
 Can be overly idealistic, struggles with political maneuvering.
 
-### Motivation
+#### Motivation
 
 Oswald is driven by the desire to master his craft and secure a stable future. The uncertainties of life in nobility (manor lord) work keep him vigilant and adaptable.
 
-### Strengths
+#### Strengths
 
 Knowledgeable about agriculture, pragmatic, respected leader.
 
-## Social
+### Social
 
 Oswald is affiliated with Local Agricultural Society.
 
 As a Aelwythan nobility (manor lord), Oswald occupies a recognized social niche within Aelwyth society.
 
-## Companions
+### Companions
 
-### Patrons
+#### Patrons
 
 Oswald's primary patron is Local farmers and merchants seeking fair trade.. This relationship provides both opportunity and obligation.
 
-### Enemies
+#### Enemies
 
 Few; respected but faces opposition from industrial-focused nobles.
 
-## Plot Hooks
+### Plot Hooks
 
 1. **The Nobility (Manor Lord)'s Dilemma** — Oswald faces a professional crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Aelwyth.
 

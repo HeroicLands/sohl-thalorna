@@ -10,8 +10,6 @@ shortcode: magistraternk
 description: "Elected or appointed to an office of state, and audited at the end of the term."
 ---
 
-# Magistrate
-
 Elected or appointed to an office of state, and audited at the end of the term.
 
 ## Obligations and Rights

@@ -84,7 +84,7 @@ data:
 packFolder: pantheonsvarnaka
 ---
 
-# Vyālendravāda — The Doctrine of Vyālendra
+## Vyālendravāda — The Doctrine of Vyālendra
 
 - **Tradition:** Vyālendravāda — _The Doctrine of Vyālendra_
 - **Deities Venerated:** [[affiliation-vyalendra|Vyālendra]] as supreme; all other Varṇakan deities treated as emanations or aspects of the shaping power
@@ -98,7 +98,7 @@ The sect is strongest among the building trades, the great guilds of masons and 
 
 The relationship with the orthodox Trimūrti-sampradāya is cordial but not without friction. Orthodox priests regard the Vyālendravāda's interpretation of the lesser gods as reductive; Vyāndran scholars regard the orthodox triad as a pedagogical convenience that should not be mistaken for the deepest truth. In practice, most Vedyarans move freely between temples of both sects without difficulty.
 
-## Clergy
+### Clergy
 
 - **Parama-Ácārya** ("Supreme Master") — the senior priest of a Vyāndran temple. The rank is only granted after a rigorous philosophical examination, and a Parama-Ácārya is expected to have published at least one original treatise on the doctrine.
 - **Ácārya** — the working priesthood; scholar-priests trained in architecture, mathematics, and theological argument as well as in liturgy.
@@ -106,7 +106,7 @@ The relationship with the orthodox Trimūrti-sampradāya is cordial but not with
 
 **Key Skills:** Engineering, Masonry, Mathematics, Drawing, Woodworking, Astrology, Law, Discourse, Folklore
 
-## Ceremonies and Festivals
+### Ceremonies and Festivals
 
 **Low Ceremonies:**
 
@@ -122,16 +122,16 @@ The relationship with the orthodox Trimūrti-sampradāya is cordial but not with
 
 - **The Founder's Day** — observed at the spring equinox; commemorates the semi-legendary first articulation of the doctrine. Celebrated with the dedication of new works and the formal admission of new Antevāsins.
 
-## Ordeals for Favour
+### Ordeals for Favour
 
 - **The Geometer's Ordeal** — the aspirant must design, from first principles, a small temple that conforms in all its proportions to the canonical diagram, and defend the design publicly against the criticism of a council of Ácāryas.
 - **The Silent Reading** — a year of philosophical study in the temple library, without speech and without the company of any other living soul but the librarian.
 
-## Orders
+### Orders
 
 - **Academy of the Shining Pattern** — the philosophical arm of the sect; the premier school of architecture and theology in [[place-vedyarargn|Vedyara Region]], with branches in every major city.
 - **Guild of the Scholar-Builders** — an order of architect-priests who take the doctrine into the field, designing and supervising the construction of the sect's great works.
 
-## Geographic Presence
+### Geographic Presence
 
 Vyālendravāda is strongest in the old scholarly capitals of [[place-vedyarargn|Vedyara Region]] and in cities where the building guilds hold particular political weight. It has little presence in the villages, and its priests are rarely found travelling rural circuits.

@@ -600,33 +600,33 @@ sohl:
 
 **Home:** [[place-ankhsetun|Ankh-Setûn]]
 
-# Appearance {#appearance}
+## Appearance {#appearance}
 
 Shebas stands 5'7" tall with a light build. She has deep bronze skin, jet black hair, and black eyes. Her features include an aquiline nose, a gentle jawline, elegantly curved brows. A distinguishing mark is a scar on the left arm.
 
-# Dossier {#dossier}
+## Dossier {#dossier}
 
-## Background
+### Background
 
-### Early Life and Loss
+#### Early Life and Loss
 
 Shebas was born in the capital city of the Empire of [[affiliation-empirtkhpr|Ta'Kheperu]] into the moderately wealthy Thutmosa family, merchants of spices and exotic goods. Her childhood was comfortable, filled with the abundance that merchant wealth provided. However, at age eight, a terrible plague swept through the lower quarters of the city where her family maintained warehouses and trading posts. Shebas's younger brother, only four years old, contracted the plague despite their family's wealth and protection. She watched her parents employ physician after physician, spend vast sums on treatments and remedies, but none could save the boy. The child died screaming in pain, and young Shebas was left with the conviction that there must be a better way, that someone could have saved her brother if only they had possessed proper knowledge.
 
 After her brother's death, Shebas became obsessed with learning every remedy, every healing art, every herb that might have helped him. Her parents, grieving and indulgent, allowed her to apprentice with an elderly apothecary named **Meshara the Wise**, a woman of legendary skill who had served the city's poor for decades.
 
-### Training and Awakening
+#### Training and Awakening
 
 Under Meshara's mentorship for sixteen years, Shebas learned not just the craft of herbalism and remedy-making but the deeper calling of healing. Meshara was a woman of profound principle—she treated everyone with equal care, rich and poor alike, and her practice was sustained by the gratitude of the poor whom she charged minimally, balanced by the wealthy patients who paid well. Meshara taught Shebas that a healer's greatest power was not wealth but knowledge and compassion, and that the true measure of a healer's success was the health of their community, not the coins in their purse.
 
 When Meshara died at an extraordinary age, Shebas inherited her practice and her philosophy. She took over the apothecary shop, located in the warehouse district where her family's business was based, and gradually transformed it into a destination for the city's poorest and most desperate patients. She began giving discounts, then free treatments, then accepting payment in goods or services from those who could not afford coins. Her reputation grew as a healer of uncommon skill and boundless compassion.
 
-### Present Struggles and Moral Conflict
+#### Present Struggles and Moral Conflict
 
 Now at thirty-four, Shebas has become a legend in the lower quarters—a saint to some, a source of hope to many. However, her generosity has created severe financial difficulties. She barely maintains her shop, and she has been forced to sell family properties and assets to continue her work. Her family views her as wasteful and have largely disowned her, considering her commitment to the poor as a betrayal of merchant principles. Recently, an ambitious apothecary named **Corven Marchant** opened an expensive shop catering to wealthy patients, spreading rumors that Shebas's free treatments are low-quality and that her methods are outdated. He has begun systematically trying to drive her out of business.
 
-## Psyche
+### Psyche
 
-### Personality
+#### Personality
 
 Shebas is defined by a deep, abiding compassion that colors every aspect of her existence. Her empathy of 16 means she feels others' suffering almost as acutely as her own, and this capacity for emotional resonance drives her decisions in ways that others often find naive or impractical. She is gentle and kind, speaking softly even to those who snap at her, and she has infinite patience for the sick and desperate. However, this same compassion has become something of a burden—she cannot bring herself to turn away anyone in need, regardless of her own financial or physical condition.
 
@@ -634,11 +634,11 @@ Her reasoning of 12 and creativity of 14 allow her to approach problems thoughtf
 
 Shebas is not naturally assertive or commanding. Her eloquence of 13 and charm of 13 suggest she can communicate effectively one-on-one, but she lacks the forceful presence needed to dominate conversations or stand firm in negotiations. She tends to apologize profusely, assume blame for situations outside her control, and second-guess her own excellent decisions. This self-doubt, combined with her compassion, makes her vulnerable to exploitation by those less scrupulous than herself.
 
-### Motivation
+#### Motivation
 
 Shebas is fundamentally driven by a desire to ensure that no one suffers as her brother suffered, that no child dies needlessly of disease or injury when knowledge and care might have saved them. She envisions a world where every person, regardless of wealth, has access to competent healing and where diseases that kill thousands might be prevented or cured. Beyond this noble vision, Shebas also harbors a private shame—she wonders if her generosity is genuinely virtuous or if it is actually a form of guilt, an attempt to save others because she could not save her brother. This uncertainty drives her to work even harder, to give even more, as though enough service might finally absolve her of a guilt that rationally she knows is not hers to bear.
 
-### Strengths
+#### Strengths
 
 - **Exceptional Herblore and Natural Knowledge**: With herblore of 14 and mineralogy of 14, Shebas possesses rare expertise in natural remedies and the properties of various substances. She can identify rare plants, create complex tinctures, and diagnose conditions through close observation.
 
@@ -650,7 +650,7 @@ Shebas is fundamentally driven by a desire to ensure that no one suffers as her 
 
 - **Creative Problem-Solving**: Her creativity of 14 allows her to approach healing challenges innovatively. She can synthesize solutions from limited resources and create new remedies when traditional approaches prove insufficient.
 
-### Weaknesses
+#### Weaknesses
 
 - **Poor Business Acumen and Financial Management**: With low strength (9) and limited command presence, Shebas is terrible at managing her business. She cannot negotiate prices effectively, cannot bring herself to demand payment from those in need, and is easily manipulated by those with sharper business instincts.
 
@@ -662,9 +662,9 @@ Shebas is fundamentally driven by a desire to ensure that no one suffers as her 
 
 - **Vulnerability to Exploitation**: Shebas's compassion and poor business sense make her a target for manipulation. Those seeking free services, discounts, or advantage often exploit her kindness, knowing she will struggle to refuse them.
 
-## Social
+### Social
 
-### Patrons
+#### Patrons
 
 - **The City's Poor and Laboring Classes**: Shebas's primary patrons, though they rarely pay in conventional coin. They repay her kindness with loyalty, gratitude, and protection. If anyone threatened Shebas, they would respond with fierce devotion.
 
@@ -672,7 +672,7 @@ Shebas is fundamentally driven by a desire to ensure that no one suffers as her 
 
 - **Wealthy Merchants Seeking Discretion**: A few affluent clients seek Shebas specifically because they trust her discretion and know she will never betray their confidences. These clients pay well and help sustain her practice.
 
-### Enemies
+#### Enemies
 
 - **Apothecary Corven Marchant**: A wealthy, ambitious apothecary who views Shebas as competition and a threat to his practice. He spreads rumors about her methods, undercuts her prices with wealthy clients, and has tried to convince the city's merchant council to regulate her practice out of existence.
 
@@ -680,7 +680,7 @@ Shebas is fundamentally driven by a desire to ensure that no one suffers as her 
 
 - **The City Guard Commander**: A military official who views independent healers as outside the proper authority structure. He has begun harassing Shebas, threatening to arrest her for practicing medicine without proper licensing, though the licensing he references is not officially required.
 
-### Affiliations
+#### Affiliations
 
 - **Independent Apothecary**: Shebas operates her own practice without formal affiliation to any larger institution, though she maintains good standing with the Apothecaries' Guild (which she pays dues to, even if she often disagrees with their practices).
 
@@ -688,7 +688,7 @@ Shebas is fundamentally driven by a desire to ensure that no one suffers as her 
 
 - **The Community of the Lower Quarters**: Informal but strong affiliation with the neighborhoods she serves, who view her as one of their own and would rally to her defense.
 
-## Plot Hooks
+### Plot Hooks
 
 1. **The Plague Returns**: A new disease begins spreading through the city's lower quarters—a sickness with symptoms Shebas has never encountered before. Wealthy physicians dismiss it as merely a variant of common ailments, but Shebas recognizes something more dangerous. As deaths mount among her patients, she becomes obsessed with discovering a cure, working without sleep, neglecting her own health. Her investigation reveals that the plague may be deliberately spread, either as a biological weapon or by a group seeking to eliminate the poor to make room for development. Shebas must prove the intentional spread while fighting to save her patients and deciding whether exposing the truth is worth potentially destabilizing the city's government.
 

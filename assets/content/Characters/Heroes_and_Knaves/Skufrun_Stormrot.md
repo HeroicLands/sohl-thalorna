@@ -595,11 +595,11 @@ sohl:
     defaultCombatGroup: null
 ---
 
-# Appearance {#appearance}
+## Appearance {#appearance}
 
 Skúfrún stands 5'7" tall with a light build. She has pale fair skin, blonde hair, and green eyes. Her features include an oval face, a narrow nose, a rounded chin, rosy lips, light brows.
 
-# Dossier {#dossier}
+## Dossier {#dossier}
 
 **Skúfrún** was born in the Kingdom of Malagna to **Vigram Stormrót**, a skilled tentmaker of considerable reputation, and **Ashjora**, a woman known for her excellence in textile dying and pattern design. From infancy, she was surrounded by fabrics, dyes, and the rhythmic sounds of looms and needles. Where her father **Vigram** was practical—designing tents to withstand mountain gales and desert heat—her mother **Ashjora** was artistic, creating patterns that made functional items beautiful.
 
@@ -607,9 +607,9 @@ Skúfrún stands 5'7" tall with a light build. She has pale fair skin, blonde ha
 
 Since then, **Skúfrún** has transformed the family business from an utilitarian tentmaker into a workshop celebrated across Malagna and beyond for bespoke, beautiful, and surprisingly durable textiles. She commissions are sought by nobles, wealthy merchants, and traveling companies that value appearing grand as much as being protected. At thirty-two, she is unmarried by choice—she sees her craft as her life's partner and views most potential suitors as threats to her independence rather than complements to it.
 
-## Psyche
+### Psyche
 
-### Personality
+#### Personality
 
 **Skúfrún** is animated, passionate, and utterly absorbed in her creative work. She experiences conversation as secondary to the world of form, color, and texture; people are interesting primarily as they relate to art. This makes her seem scattered or self-absorbed to those who don't understand her nature, though those who work with her recognize a mind operating at considerable depth, just not on conventional social channels.
 
@@ -617,11 +617,11 @@ She is ambitious in an artistic sense—not seeking power or wealth but recognit
 
 Despite her artistic temperament, **Skúfrún** is surprisingly pragmatic about the business aspects of her work. She maintains scrupulous records, meets deadlines (mostly), and understands that her vision must occasionally bend to client reality. However, her pragmatism has limits—she will refuse work that compromises her principles, losing profitable commissions rather than create something she considers mediocre.
 
-### Motivation
+#### Motivation
 
 **Skúfrún** is driven by a desire to create beauty that endures, to produce work that moves the heart and demonstrates that functional craft and artistic expression are not opposing forces but can be integrated seamlessly. She also harbors a quiet wound from always being compared to her father—recognized as talented but somehow derivative of his example rather than an innovator in her own right. She works, in part, to establish that Skúfrún Stormrót is not merely **Vigram's daughter** but an artist in her own standing.
 
-### Strengths
+#### Strengths
 
 - **Extraordinary Decorative Technique**: **Skúfrún's** embroidery, dyeing, and pattern design are exceptional. Her work conveys emotion and narrative through purely textile means, creating garments and furnishings that tell stories through color and form.
 - **Color Theory Mastery**: She possesses an intuitive understanding of how colors interact, complement, and transform each other. Her dye work produces hues that seem impossible—shades of green that appear to shift in different light, crimsons that seem to pulse with warmth.
@@ -629,7 +629,7 @@ Despite her artistic temperament, **Skúfrún** is surprisingly pragmatic about 
 - **Efficient Production**: Despite her focus on beauty, she has learned to balance artistic ambition with practical production timelines. She manages her workshop expertly, maintaining quality while meeting deadlines that would overwhelm less organized makers.
 - **Patron Engagement**: Unlike many artists, **Skúfrún** genuinely enjoys discussing commissions with clients, translating their desires into artistic visions. She can elevate a vague request into something genuinely beautiful through collaborative process.
 
-### Weaknesses
+#### Weaknesses
 
 - **Aesthetic Over Durability**: Her commitment to beauty sometimes comes at the expense of practical longevity. A stunning, intricately embroidered tent may sacrifice structural integrity in small ways, or delicate dyes may fade faster than more stable pigments. Clients who use items harshly rather than displaying them sometimes experience disappointment.
 - **Perfectionism Paralysis**: She can become so focused on perfecting one element of a design that projects stall. A single color choice might occupy her for days; a particular stitch pattern might be reworked dozens of times in pursuit of absolute rightness.
@@ -637,26 +637,26 @@ Despite her artistic temperament, **Skúfrún** is surprisingly pragmatic about 
 - **Limited Technical Diversity**: Her genius lies in decoration and artistry, but she is less skilled at the structural engineering and advanced construction techniques her father mastered. Complex structural problems cause her frustration.
 - **Financial Naïveté**: She undercharges for her work, not fully valuing her own expertise. She has lost money on commissions that consumed more time and materials than initially calculated, reflecting poor business acumen despite her pragmatic inclinations.
 
-## Social
+### Social
 
-### Patrons
+#### Patrons
 
 - **Lord Brennan Silvercrest**: A wealthy noble with appreciation for fine art and textiles. He has commissioned multiple tapestries and furnishings from **Skúfrún** and frequently recommends her work to his peers, providing steady access to high-value commissions.
 - **The Traveling Muse Theater Company**: A prestigious performance group that requires stunning costumes and set dressings. They commission **Skúfrún** multiple times yearly and have become her most visible patrons, as her work appears before large audiences.
 - **The Merchant Consortium's Flagship Crews**: Successful merchant captains who value appearing prosperous commission elaborate tent pavilions and shipboard furnishings from her workshop. These provide both income and maritime visibility for her work.
 - **Princess Solveig of Malagna**: The royal family has begun commissioning items from **Skúfrún**, including ceremonial banners and royal furnishings. Though royal patronage is recent, it promises to elevate her status considerably.
 
-### Enemies
+#### Enemies
 
 - **Master Craftsman Thorvald the Practical**: An older male tentmaker who represents the "function-first" philosophy **Skúfrún's** father embodied. **Thorvald** publicly criticizes her work as beautiful but impractical and has won contracts she sought by undercutting her prices and emphasizing durability over aesthetics.
 - **Magdala the Copyist**: A jealous rival artisan who specializes in producing close imitations of **Skúfrún's** original designs at lower cost. **Magdala's** plagiarism has cost **Skúfrún** several clients, though legal action has proven difficult given the custom nature of textile work.
 - **Her Own Father**: **Vigram** Stormrót, though retired and no longer a direct business threat, occasionally makes critical comments about **Skúfrún's** prioritization of artistry over durability, implying she is abandoning family traditions.
 
-### Affiliations
+#### Affiliations
 
 - **The Artisans' Collective of Malagna**: **Skúfrún** is a prominent member and serves on the council, though she remains somewhat isolated due to her focus on textiles rather than more traditionally respected arts like sculpture or painting.
 
-## Plot Hooks
+### Plot Hooks
 
 1. **The Royal Commission That Changes Everything**: Princess **Solveig** of Malagna personally visits **Skúfrún's** workshop with an unprecedented request: create the wedding trousseau and ceremonial garments for her betrothal to a foreign prince—an union intended to forge peace between warring kingdoms. The commission is worth a fortune and will elevate **Skúfrún's** status immeasurably. However, the wedding is in six months, requiring **Skúfrún** to design and execute the most complex and beautiful work of her entire life while also managing a workshop stretched beyond capacity. As she works, she discovers that the betrothal itself is politically contentious; elements of the court actively work to sabotage the marriage. **Skúfrún** finds her art caught in political crossfire, with her finished pieces being used as symbols in a court struggle over succession and power. She must decide whether to continue the commission knowing her beautiful work will become propaganda, or abandon it and lose everything.
 

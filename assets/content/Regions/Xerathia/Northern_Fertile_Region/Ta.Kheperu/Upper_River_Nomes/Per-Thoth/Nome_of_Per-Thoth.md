@@ -113,8 +113,6 @@ data:
 packFolder: perthoth
 ---
 
-# The Nome of Per-Thōth
-
 ## Overview
 
 Per-Thōth — "the House of Thōth" — is the learned nome of the [[affiliation-uperivrnms|upper river]], the empire's seat of writing, reckoning, and recorded knowledge. At its centre stands [[place-khemenu|Khemenu]], the foremost temple-city of [[affiliation-kemtnpnthn|Thōth]], keeper of sacred wisdom, whose great library-temple holds the deepest archive in [[affiliation-empirtkhpr|The Empire of Ta'Kheperu]] and whose priest-scribes maintain the meticulous king-lists that stretch back, unbroken, to the [[affiliation-empirtkhpr#the-kheperi-calendar-and-dating|Sep Tepy]]. Here are the finest scribal schools in the empire, the astronomers who keep the calendar that is the most accurate in the known world, and the archivists, lawyers, mathematicians, and physicians whose training begins under Thōth's wing. The nome's worldly produce is ordinary upper-river grain; its real export is literate, numerate, and learned men, and the records by which the empire knows itself.

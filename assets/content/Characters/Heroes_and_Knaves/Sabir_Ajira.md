@@ -600,11 +600,11 @@ sohl:
     defaultCombatGroup: null
 ---
 
-# Appearance {#appearance}
+## Appearance {#appearance}
 
 Sâbir stands 6'1" tall with a medium build. He has deep ebony skin, black hair, and dark amber eyes. His features include an angular face, a straight nose, a refined jawline, full lips, fine brows, sculpted cheeks.
 
-# Dossier {#dossier}
+## Dossier {#dossier}
 
 Sâbir Âjira was born in the industrial heart of the Kalihara Confederation, in a district where the sky itself seems perpetually gray with woodsmoke. His father was a charcoaler of modest reputation, and Sâbir showed early aptitude for understanding fire's temperament and the subtle sciences of carbonization. Where others saw monotonous black dust, Sâbir perceived infinite variation in quality, purity, and character—each batch of charcoal an unique creation born from the controlled transformation of wood into something fundamentally different.
 
@@ -612,21 +612,21 @@ By his early twenties, he had begun experimenting, moving beyond his father's tr
 
 Sâbir's devotion to Vúlcan, the fire-aspect deity of the Aurèldían pantheon, feels less like religious duty and more like natural extension of his work. He sees in his carefully tended flames a sacred process of transformation, a small echo of the god's cosmic power.
 
-## Psyche
+### Psyche
 
-### Personality
+#### Personality
 
 Sâbir is a man of contemplative intensity, prone to long silences broken by sudden, passionate bursts of explanation about his work. He speaks deliberately and precisely, particularly when discussing the nuances of different wood types or kiln management—topics that transform him from quiet craftsman into animated teacher. Around those he does not know well, he maintains a reserved distance, though this coolness masks genuine warmth toward those he considers part of his professional circle.
 
 His defining characteristic is perfectionism bordering on obsession. He can spend hours testing variations in wood moisture content or kiln temperature, seemingly indifferent to the profit or deadline that hangs over such experimentation. This dedication impresses those who share his values and frustrates those who prioritize commerce over craft. Despite the rigidity of his standards, Sâbir possesses a dry, subtle humor that emerges once one knows him well—usually self-directed and focused on his own endless pursuit of incremental improvement.
 
-### Motivation
+#### Motivation
 
 Sâbir is driven by a singular, almost monastic vision: to create the perfect charcoal. He understands intellectually that "perfect" is an unreachable horizon, yet this does not discourage him—if anything, it energizes his pursuit. He believes that by constantly improving his craft, he honors both Vúlcan and the wood itself, transforming one noble material into another through discipline and knowledge. Recognition and profit matter less to him than the knowledge that, somewhere, a blacksmith or metalworker is creating something magnificent with his charcoal.
 
 More subtly, Sâbir seeks to prove that mastery in a craft considered humble or utilitarian can be as profound as any "higher" pursuit. His charcoal feeds industry and creation; he is not a servant to commerce but a servant of transformation itself.
 
-### Strengths
+#### Strengths
 
 - **Pyrogenic Mastery**: Understands fire and combustion with intuitive depth, able to manage kiln temperatures with precision and predict burn outcomes with near-perfect accuracy.
 - **Experimental Discipline**: Methodically tests variations and innovations, documenting results in detailed journals that represent a library of carbonization knowledge.
@@ -634,7 +634,7 @@ More subtly, Sâbir seeks to prove that mastery in a craft considered humble or 
 - **Reliable Quality**: His reputation for consistent, superior product means that those who receive his charcoal know precisely what they are getting—reliability that justifies his premium prices.
 - **Mentoring**: Though he appears solitary, Sâbir proves an excellent teacher to those few he accepts as apprentices, conveying both technical knowledge and philosophical understanding of the craft.
 
-### Weaknesses
+#### Weaknesses
 
 - **Paralyzing Perfectionism**: Will delay shipments indefinitely in pursuit of quality increments that may be imperceptible to the end user, damaging client relationships and profits.
 - **Communication Deficit**: His tendency to internalize thoughts and speak rarely makes him seem brusque or dismissive, sometimes alienating potential allies or patrons.
@@ -642,26 +642,26 @@ More subtly, Sâbir seeks to prove that mastery in a craft considered humble or 
 - **Hermitic Isolation**: His focus on work leaves little room for the broader social and political networks that might advance his reputation or interests.
 - **Vulnerability to Exploitation**: His passion for craft makes him susceptible to those who appeal to his professional pride, potentially leading him to commit resources to projects that do not serve his interests.
 
-## Social
+### Social
 
-### Patrons
+#### Patrons
 
 - **Master Smith Khardun**: A renowned metalworker whose forges exclusively use Sâbir's charcoal and who has publicly praised his work, creating demand among other smiths seeking the "Âjira advantage."
 - **The Confederation's Arsenal**: The state military purchasing authority regularly commissions Sâbir's charcoal for weapons production, providing steady if not always punctual income.
 - **Merchant-Artificer Sornak**: A dealer in high-quality tools and materials who maintains exclusive distribution rights to Sâbir's premium charcoal in three provinces.
 
-### Enemies
+#### Enemies
 
 - **The Bulk Producers**: A consortium of larger charcoaling operations views Sâbir's premium methods and higher prices as a threat to their market dominance. They have begun spreading rumors about his reliability and attempting to poach his key clients.
 - **Market Pressure**: The Confederation's rapid industrialization demands ever-larger quantities of charcoal, and many officials view Sâbir's refusal to scale production as an obstruction to progress.
 - **Rival Craftsman Voth**: Another charcoaler who attempted to copy Sâbir's methods but failed to achieve comparable results. Voth publicly claims Sâbir guards proprietary secrets rather than admitting his own inferiority.
 
-### Affiliations
+#### Affiliations
 
 - **Charcoalers' Guild of the Kalihara Confederation**: Member and standard-bearer of quality standards, though increasingly at odds with the guild's push toward mass production.
 - **The Order of Vúlcan's Flame**: A semi-religious society of craftspeople who work with fire, from smiths to brewers, where Sâbir maintains a contemplative presence.
 
-## Plot Hooks
+### Plot Hooks
 
 1. **The Commission of Urgency**: A high-ranking Confederation military official approaches Sâbir with an enormous commission—enough charcoal to supply an entire army for a campaign of conquest into neighboring territories. The payment is staggering, enough to secure Sâbir's fortune for life. However, completing the order would require abandoning his standards, using inferior wood and rushing production. The official makes it clear that refusal will be considered unpatriotic. Sâbir must navigate the tension between his personal code and his country's needs, and discover what exactly the Confederation intends to wage war upon.
 

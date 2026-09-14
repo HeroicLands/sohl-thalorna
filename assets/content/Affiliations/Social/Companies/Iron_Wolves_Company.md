@@ -99,8 +99,6 @@ shortcode: irnwlvscmpny
 banner: banners/company.webp
 ---
 
-# The Iron Wolves Company
-
 _Byzarian: Lupi Ferri_
 
 - **Type:** Independent mercenary company

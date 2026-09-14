@@ -10,6 +10,4 @@ shortcode: kamavratadty
 packFolder: deitiesvarnaka
 ---
 
-# Kāmavrata
-
 TBD

@@ -18,8 +18,6 @@ shortcode: qasirah
 packFolder: kalihara
 ---
 
-# Qasirah
-
 ## Overview
 
 Qasirah perches on the eastern coast of the central Kaliharan islands, its harbors sheltered by natural breakwaters and blessed with trade winds that make it the primary entrepôt for spice merchants and gem traders moving goods between Vedyara, Harad, and the western realms. The city is home to three great merchant families whose warehouses overflow with cardamom, cloves, and precious stones—goods that command extraordinary prices in distant markets. Qasirah's merchant class has grown wealthy beyond measure, and their influence extends far beyond the islands, reaching into trading houses throughout the known world.

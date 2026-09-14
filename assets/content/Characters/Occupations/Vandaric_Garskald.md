@@ -550,11 +550,11 @@ sohl:
     defaultCombatGroup: null
 ---
 
-# Appearance {#appearance}
+## Appearance {#appearance}
 
 Vandaric Gárskald is a 25-year-old man who stands 6'1" tall and is of moderate build. He has a long face with wide-set cheekbones, a wide forehead, and an angular jaw that leads to a firm chin. His deep-set brown eyes sit beneath heavy brows, lending him a watchful gaze. A strong nose and firm lips complete his features. He has medium-toned skin with a rough complexion. His blonde hair is long and gathered with a leather thong.
 
-# Dossier {#dossier}
+## Dossier {#dossier}
 
 Born in the Vrystwald region to a freeman family of Varokhi heritage, Vandaric Gárskald came into the world of the ostler through a combination of circumstance and aptitude.
 
@@ -562,37 +562,37 @@ Finn grew up around horses and has always had a natural affinity for caring for 
 
 Now at 25 years of age, Vandaric Gárskald has established himself as a known figure among the ostlers of Vrystwald. His reputation, for better or worse, precedes him in the circles where such things matter.
 
-## Psyche
+### Psyche
 
-### Personality
+#### Personality
 
 Can be overly cautious, struggles with conflict.
 
-### Motivation
+#### Motivation
 
 Vandaric is driven by the desire to master his craft and secure a stable future. The uncertainties of life in ostler work keep him vigilant and adaptable.
 
-### Strengths
+#### Strengths
 
 Skilled in animal care, patient, hardworking.
 
-## Social
+### Social
 
 Vandaric is affiliated with None; works independently for the inn..
 
 As a Varokhi ostler, Vandaric occupies a recognized social niche within Vrystwald society.
 
-## Companions
+### Companions
 
-### Patrons
+#### Patrons
 
 Vandaric's primary patron is Travelers and merchants needing stabling for their horses.. This relationship provides both opportunity and obligation.
 
-### Enemies
+#### Enemies
 
 Few; well-liked among the community.
 
-## Plot Hooks
+### Plot Hooks
 
 1. **The Ostler's Dilemma** — Vandaric faces a professional crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Vrystwald.
 

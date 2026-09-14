@@ -591,11 +591,11 @@ sohl:
     defaultCombatGroup: null
 ---
 
-# Appearance {#appearance}
+## Appearance {#appearance}
 
 Xadrôs stands 6'1" tall with a medium build. He has light tanned skin, dark brown hair, and brown eyes. His features include a long face, a snub nose, a strong jawline, dark brows, rounded cheeks.
 
-# Dossier {#dossier}
+## Dossier {#dossier}
 
 **The Inherited Craft**
 
@@ -613,49 +613,49 @@ However, Xadrôs' work, for all its quality, has remained confined to his villag
 
 Now at thirty-eight winters, with his father deceased and the workshop responsibilities entirely his own, Xadrôs finds himself at an unexpected crossroads. The village itself is slowly changing—younger people departing for cities, traditional crafts becoming less valued as manufactured goods become available, patrons becoming fewer and their commissions smaller. His prices, set according to the cost of materials and the traditional rates his family has always charged, seem inadequate to the labor involved. He struggles to understand pricing in commercial terms rather than as a matter of fairness and tradition. The security of inherited position is eroding, and Xadrôs must decide whether to remain confined to his village, watching his craft fade, or whether to overcome his doubts and attempt to achieve the broader recognition his skill arguably deserves.
 
-## Psyche
+### Psyche
 
-### Personality
+#### Personality
 
 Xadrôs is a man of quiet introspection and gentle sensibility. He is capable of extended periods of focused silence, becoming almost absent from the external world when absorbed in his work. Those who know him describe him as unfailingly courteous, genuinely interested in others' well-being, and never quick to anger or judgment. However, this gentleness masks a persistent current of self-doubt and mild depression. He tends to undervalue his own work, deflecting compliments with self-deprecation, and to overestimate the work of other craftsmen. He carries a subtle sadness about the state of the world, the decline of traditional crafts, and a sense that he is fighting a losing battle against inevitable change.
 
 Despite these melancholic tendencies, Xadrôs is not paralyzed by despair. He continues to create, to teach his apprentices (though fewer arrive each year), and to find genuine pleasure in the act of creation. His sadness is more the quietly aching awareness of impermanence and limitation—a recognition that his beautiful work will likely outlive his fame and will eventually be forgotten, as all things are forgotten.
 
-### Motivation
+#### Motivation
 
 Xadrôs is motivated fundamentally by the creative impulse and the desire to create objects of genuine beauty. He works because the act of working brings satisfaction and meaning, not primarily because he seeks fame or wealth. However, he is also motivated by a growing fear that his craft will die—both personally, when he eventually passes, and more broadly, as traditional woodworking becomes less valued in an increasingly modernizing world. This mixture of genuine artistic drive and defensive worry about cultural irrelevance shapes his current life. He wants to believe that beauty created with care and skill is its own justification, but he is increasingly aware that the market for such things may be finite and declining.
 
-### Strengths
+#### Strengths
 
 - **Masterful Craftsmanship**: Xadrôs' technical skill in woodworking, carving, and finishing is exceptional. His understanding of wood properties, tool technique, and aesthetic composition is evident in every piece he creates.
 - **Artistic Vision**: Beyond mere technical competence, Xadrôs possesses genuine artistic sensibility. His designs show imagination, elegance, and an intuitive understanding of how form creates meaning.
 - **Patient Teaching**: Though he has had fewer apprentices in recent years, Xadrôs is a gifted teacher capable of conveying not merely the mechanical aspects of the craft but also the philosophical and aesthetic principles underlying good design.
 - **Deep Knowledge**: His six-generation family legacy has provided him with extensive practical knowledge of wood types, tool maintenance, finishing techniques, and the history of his craft.
 
-### Weaknesses
+#### Weaknesses
 
 - **Crippling Self-Doubt**: Xadrôs profoundly underestimates his own abilities and potential, consistently assuming his work is merely competent when it is genuinely exceptional. This self-doubt prevents him from pursuing opportunities that might elevate his reputation.
 - **Inadequate Business Sense**: He struggles with fundamental commercial concepts like pricing for value rather than cost, marketing his work, or negotiating with potential patrons. He tends to accept whatever customers offer without advocating for fair compensation.
 - **Social Anxiety**: Xadrôs is fundamentally introverted and uncomfortable with self-promotion, social performance, or interaction with large groups. The idea of leaving his workshop to pursue broader recognition is genuinely distressing to him.
 - **Learned Fatalism**: Despite his actual quality, Xadrôs has increasingly internalized the assumption that his craft is dying and that resistance is futile, leading to passive acceptance of decline rather than active effort to ensure the craft's survival.
 
-## Social
+### Social
 
-### Patrons
+#### Patrons
 
 - **The Temple of Vénusia**: The local religious order regularly commissions altar adornments, decorative panels, and ceremonial objects from Xadrôs, valuing both his skill and his personal piety.
 - **Merchant Peldan the Prosperous**: A wealthy local trader who appreciates fine craftsmanship and has commissioned several pieces for his home, serving as Xadrôs' most reliable repeat customer.
 - **Village Elder Marîn**: The village's governing elder who treasures Xadrôs' work and regularly recommends him to visiting dignitaries, serving as an informal advocate for the craftsman's talents.
 
-### Enemies
+#### Enemies
 
 - **None formally, though tensions exist with imported goods manufacturers who have begun selling cheaper, mass-produced items in the village market, undercutting local craftspeople's prices.**
 
-### Affiliations
+#### Affiliations
 
 - **The Dâemâtês Family Workshop**: Operating for six generations, this establishment remains Xadrôs' primary identity and focus.
 
-## Plot Hooks
+### Plot Hooks
 
 1. **The Unexpected Patron**: A wealthy merchant from a major city visits the village and discovers Xadrôs' work, becoming genuinely impressed by its quality. The merchant offers a substantial commission for a series of pieces to be created for his family home, along with an invitation for Xadrôs to travel to the city to oversee installation and to meet other potential patrons. The offer represents genuine opportunity but requires Xadrôs to overcome his anxiety, leave his comfortable village, and risk rejection in a broader market. The party becomes involved when obstacles emerge—perhaps the merchant turns out to have less-than-honorable intentions, or perhaps circumstances arise that test Xadrôs' commitment to the opportunity.
 

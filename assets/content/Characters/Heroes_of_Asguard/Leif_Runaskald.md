@@ -519,47 +519,47 @@ sohl:
     defaultCombatGroup: null
 ---
 
-# Appearance {#appearance}
+## Appearance {#appearance}
 
 Leif stands 5'10" with a lean, wiry frame, weighing about 165 pounds. His fair skin has a ruddy undertone from years of travel in all weathers, and his auburn hair falls loose to his shoulders, often tangled and unkempt. His hazel eyes are bright and expressive, dancing with humor or clouding with melancholy depending on his mood. His features are open and mobile, with a broad forehead, a slightly upturned nose, a generous mouth quick to grin, and laugh lines that crinkle at the corners of his eyes. Runic tattoos cover his forearms, each one a verse from a different saga. He carries a well-worn lyre slung across his back and dresses in a patchwork of fine and humble garments — a silk scarf from a grateful jarl's wife, a threadbare woolen cloak, boots that have seen a thousand roads. His fingers are callused from years of playing strings and carving runes.
 
-# Dossier {#dossier}
+## Dossier {#dossier}
 
 Leif Runaskald was a wandering skald, known throughout the lands for his enchanting voice and his mastery of the ancient runes. Unlike many warriors of his time, Leif chose the path of the bard, believing that words and knowledge held a power greater than any sword. He traveled from village to village, sharing stories of Ódinn and the gods, teaching the secrets of the runes, and recording the sagas of great heroes. Leif was revered not only for his musical talents but for his deep understanding of the mystical arts, which he used to heal, protect, and inspire.
 
 The most famous saga of Leif Runaskald is the tale of how he saved a kingdom with nothing but his voice and a single rune. When the realm of Fjallheim was beset by a terrible blight, which no healer could cure, the people turned to Leif for help. Guided by Ódinn, Leif spent three days and nights in a trance, seeking the root of the curse. On the third night, he emerged with a single rune inscribed on a piece of bark. Leif traveled to the heart of Fjallheim, where he sang the ancient verses of Ódinn and pressed the rune into the earth. As he did, the blight lifted, the land healed, and the crops began to grow once more. The people of Fjallheim hailed Leif as a savior, and his song became a part of their harvest rituals for generations to come.
 
-## Psyche
+### Psyche
 
-### Personality
+#### Personality
 
 Leif is gregarious and warm, with an infectious enthusiasm for stories both old and new. He has a gift for making strangers feel like old friends within minutes of meeting them. Behind his cheerful exterior, however, Leif carries a deep melancholy — he has seen too many heroes fall and too many villages burn, and each loss adds another verse to the sorrowful songs he sings alone at night. He drinks more than he should and has a weakness for gambling, though his uncanny luck at dice suggests Ódinn may be watching the throws.
 
-### Motivation
+#### Motivation
 
 Leif believes that the sagas are more than entertainment — they are the living memory of his people, and if they are forgotten, the people themselves will fade. He travels ceaselessly to collect and preserve stories, driven by the fear that the old ways are dying. He also seeks the legendary Song of Creation, said to be the first words Ódinn ever spoke, which Leif believes could heal any wound and mend any broken thing.
 
-### Strengths
+#### Strengths
 
 Leif's voice carries supernatural resonance when he sings the old sagas, capable of inspiring courage in the fearful and calming rage in the wrathful. His runic knowledge, while more limited than a dedicated runemaster's, is versatile and practical — focused on healing, warding, and revealing hidden things. His vast network of contacts across the northern lands means he can find shelter, information, and allies in almost any settlement.
 
-## Social
+### Social
 
-## Companions
+### Companions
 
-### Patrons
+#### Patrons
 
 **The Skalds' Hall of Vinterheim** — This prestigious gathering of northern bards and loremasters considers Leif one of their finest, granting him the right to speak with their authority and access their archives of ancient sagas.
 
 **Freya Halvsdottir** — A wealthy merchant's widow who funds Leif's travels in exchange for first hearing of any new sagas he discovers. She harbors a quiet affection for the skald that he pretends not to notice.
 
-### Enemies
+#### Enemies
 
 **Ivar the Silencer** — A fanatical warrior-priest who believes the old sagas contain dangerous heresies. He has burned several libraries and murdered two skalds, and Leif is next on his list.
 
 **The Whispering Court** — A cabal of sorcerers who believe Leif unknowingly carries fragments of a powerful incantation within the sagas he sings. They seek to capture him and extract the knowledge by force.
 
-## Plot Hooks
+### Plot Hooks
 
 1. **The Lost Saga** — Leif has heard rumors of a saga so old it predates the founding of the northern kingdoms. The only surviving copy is said to be hidden in a barrow guarded by a draugr king who demands a worthy story in exchange for the text.
 

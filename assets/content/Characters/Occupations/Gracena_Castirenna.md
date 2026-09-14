@@ -528,11 +528,11 @@ sohl:
     defaultCombatGroup: null
 ---
 
-# Appearance {#appearance}
+## Appearance {#appearance}
 
 Grácena is a tall woman — 6'0" — with a medium build that has been hardened by twenty-one years of gate watch duty into something resembling old leather over iron. Her dark blonde hair is shot through with gray and worn in a single heavy braid coiled at the nape of her neck. Her green eyes are arresting — bright and sharp beneath sun-darkened brows — and they miss nothing that passes through her gate. Her olive skin is deeply tanned, lined at the eyes and mouth, and a missing lower tooth on the right side gives her smile a slightly rakish quality that she has never bothered to correct. She wears the Montaña gate watch uniform: a leather surcoat over quilted padding, leather knee boots, a broadsword on her hip, and a heavy iron ring of gate keys that jangles with every step.
 
-# Dossier {#dossier}
+## Dossier {#dossier}
 
 Grácena was born in the Montaña city to a family of gate keepers—her father managed the southern gates for thirty years, and his father before him. The position is not particularly prestigious but requires the kind of attention to detail and integrity that few people maintain. Grácena inherited both the job and the work ethic. She joined the gate watch formally at nineteen and has served there for twenty-one years.
 
@@ -540,35 +540,35 @@ Gate watch work is different from street patrol. It requires the ability to make
 
 At forty years old, she is the senior watch commander for the Montaña gates and has trained most of the younger guards in current service. She is missing a tooth from a smuggler's elbow during a confrontation years ago—a physical reminder that gate work can become violent. She has not smiled broadly since the incident, a behavioral shift born more from self-consciousness than actual pain.
 
-## Psyche
+### Psyche
 
-### Personality
+#### Personality
 
 Grácena is direct and skeptical, approaching most people with the assumption that they are attempting some form of deception. This outlook makes her seem cold to those who do not know her, but it is actually a refinement born from years of learning that almost everyone lies about something. She is fair and will adjust her skepticism if evidence warrants it, but initial assumption of guilt is her default. She is not cruel, but she is not friendly.
 
-### Motivation
+#### Motivation
 
 Grácena's primary motivation is preventing threat from entering the city. She takes this responsibility seriously, perhaps more seriously than most, because she has internalized her family's tradition of integrity. Her secondary motivation is proving that a woman can be as effective at security work as any man. She has encountered sexism throughout her career and has worked deliberately to exceed expectations.
 
-### Strengths
+#### Strengths
 
 Her ability to detect deception is exceptional. She is physically capable and experienced in restraint techniques. She understands the city's economics well enough to recognize what people are likely smuggling and why. Her judgment in crisis situations is sound and often brilliant.
 
-## Social
+### Social
 
 Grácena is respected and feared in equal measure. She has few friends outside her work family and prefers it that way. Her gender has been less of an obstacle than she anticipated, partially because she established competence early and refused to accept limitations.
 
-## Companions
+### Companions
 
-### Patrons
+#### Patrons
 
 **City Governor Alexios Monteros** — The official administrator of Montaña city. Alexios has held power for twelve years and has come to rely on Grácena's intelligence about who is entering the city and what they are bringing with them. He has supported her advancement in the gate watch and has made it clear that she can request assistance for major operations.
 
-### Enemies
+#### Enemies
 
 **Smuggling Magnate Rodion Carex** — A merchant of questionable legitimacy who has been running contraband through Montaña's gates for decades. Grácena has prevented his operations repeatedly, seized contraband, even temporarily arrested his agents. But Carex is wealthy enough to work through the legal system, and his seized property has been returned through appeals. The man is her direct professional rival, and they have come to respect and deeply resent each other in equal measure.
 
-## Plot Hooks
+### Plot Hooks
 
 1. **The Impossible Choice** — Grácena detects a significant smuggling operation coming through the gates: weapons destined for what she later learns is a separatist faction. She has evidence to arrest the operatives and seize the weapons. But investigation reveals that the separatists are actually a group of refugees fleeing political persecution in a neighboring state, and the weapons are for self-defense against those pursuing them. Arresting them sends them back to execution. Allowing them through violates the city's neutrality policy. Grácena must choose between legal duty and human conscience.
 

@@ -13,8 +13,6 @@ shortcode: orclbonesspr
 packFolder: lorespiritsokharic
 ---
 
-# The Oracle of Bones
-
 - **Kind:** [[lore-zohira|Zohira]], emissary of [[affiliation-nkaruthar|the Eternal Flame]]
 - **Domain:** Death and prophecy
 - **Also called:** the Reader in the Yánda Maláika

@@ -20,8 +20,6 @@ shortcode: serenthale
 packFolder: elavendre
 ---
 
-# Serenthalë
-
 **Serenthalë** stands in the old forest of [[place-glanmor|Glanmor]], somewhere in the country between
 the coast cliffs and the hill line, where the deep wood runs almost to the sea. Ninety
 [[lore-flksinale|Sinalë]], perhaps; nobody outside has counted, and the count would not hold.

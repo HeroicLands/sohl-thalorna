@@ -12,8 +12,6 @@ shortcode: rhysgenspr
 packFolder: lorespiritsaelendan
 ---
 
-# Rhysgen, the Red Fox of the Lower Wood
-
 - **Kind:** Animal-kin, of [[lore-thekindred|the Kindred]]
 - **Seat:** [[place-silvrfrsts|the Silver Forests]]
 - **Territory:** the lower wood, the field-edges and the middens

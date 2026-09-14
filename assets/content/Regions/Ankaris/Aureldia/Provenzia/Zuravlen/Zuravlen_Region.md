@@ -21,8 +21,6 @@ shortcode: zuravlenrgn
 packFolder: provenzia
 ---
 
-# Zûravlen Region
-
 **Zûravlen** is a barony of the [[affiliation-kngdmprvnz|Kingdom of Provènzia]], in the
 [[place-provenzrgn|Provènzia Region]] — a short, cliff-bound coast and the long river valley behind
 it, and the source of the finest peaches in Ankaris and some of its more highly regarded wine.

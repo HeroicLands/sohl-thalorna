@@ -93,8 +93,6 @@ data:
   relations: {}
 ---
 
-# The Imperial Scribal Guild
-
 - **Type:** Imperial chartered guild
 - **Region:** [[affiliation-vylarinmpr|Vylarian Empire]] — central hall in [[place-magnapolis|Magnápolis]], chapterhouses in every provincial capital
 - **Charter:** Granted by imperial edict in the eighty-third year of the present dynasty; renewed and expanded twice since

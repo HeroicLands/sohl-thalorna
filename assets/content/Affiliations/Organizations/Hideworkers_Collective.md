@@ -29,6 +29,4 @@ shortcode: hideworkerscltv
 packFolder:
 ---
 
-# Hideworkers' Collective
-
 A collective of hideworkers — the tanners, curriers and leatherdressers of a trade kept at arm's length from the cities it supplies.

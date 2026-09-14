@@ -553,11 +553,11 @@ sohl:
     defaultCombatGroup: null
 ---
 
-# Appearance {#appearance}
+## Appearance {#appearance}
 
 Hallveig Stormrót carries herself with the natural authority of the Nordheimn nobility, though her features speak of something deeper—a woman caught between two worlds. Slender and lithe, she stands with the practiced grace of someone trained from childhood to command attention. Her face is angular and striking, with sharp cheekbones, a broad forehead, and an unwavering gaze framed by thick brows that give her a perpetually appraising expression. Her green eyes are luminous and oddly distant, as though she is calculating probabilities in some unseen realm. Her blonde hair, plaited in a thick braid, is bound with silver wire wound in intricate patterns. There is something almost otherworldly about her presence—a shimmer in the air around her that hints at veils not quite seen, at realities that shift when one looks away.
 
-# Dossier {#dossier}
+## Dossier {#dossier}
 
 Born into the Stormrót clan, one of Frostmark's most prominent noble houses, Hallveig's path should have been simple: marry strategically, manage estates, produce heirs. Instead, her childhood was shaped by an unusual gift—the ability to perceive and manipulate the boundary between seen and unseen, a talent she would later recognize as akin to what the southern scholars call Zephäris magic, the school of illusion. In Nordheim, such things came under different names: the work of a völva, a seer-woman who walked between worlds through trance and vision. That Hallveig manifested these gifts was not inherently scandalous; women had always been the keepers of seidr, the mystical knowledge that flowed through the land.
 
@@ -567,7 +567,7 @@ The Nordheimn name for her work was gefjallan—enchantment, illusion, the glamo
 
 Now at thirty-seven, Hallveig maintains her scholarly cover with elaborate care, but her reputation in the hidden circles of Nordheim's mage-craft is far more profound. She is known as Lysandra Aetherwind among the Epistemium's chapters, a visiting scholar of ancient lore. She is known as the Mistress of Veils among the practitioners who traffic in forbidden knowledge. And she is known to her family as a disappointment—a woman who will never marry because no man of suitable rank would accept a wife so utterly consumed by her scholarly pursuits.
 
-## Psyche
+### Psyche
 
 Hallveig is driven by an intellectual hunger so profound it verges on compulsion. She seeks knowledge not for power's sake, though power certainly flows from her mastery, but because she believes in the fundamental truth that Ódinn himself discovered: that understanding reality from every angle, every perspective, every hidden vantage point is the closest mortals come to divinity. She is ambitious, yes—fiercely so—but her ambition is not for rank or wealth; it is for mastery, for the moment when the impossible becomes merely difficult, when mysteries yield to clarity.
 
@@ -575,7 +575,7 @@ Her greatest strengths lie in her extraordinary intellect (reasoning: 17, creati
 
 But this same quality that makes her brilliant makes her dangerous. She has become emotionally distant (empathy: 11, morality: 11), in a way that troubles even her. The constant manipulation of perception, the layers of false identity, the constant awareness of how easily people can be made to believe anything—it has hollowed something in her. She struggles with genuine connection; she finds herself constantly analyzing people instead of relating to them, calculating their vulnerabilities instead of their merits. She is reckless in her pursuit of knowledge, willing to risk others' safety for understanding, and increasingly conscious of that willingness without being able to stop it. And there is a brittleness to her—a sense that if someone were ever to fully penetrate her carefully constructed reality, if someone were to make her _see herself_, she might shatter.
 
-## Social
+### Social
 
 Hallveig's official position is as an independent scholar affiliated with the Panepistemium, particularly with the Heliónis chapterhouse, where she conducts research into ancient Nordheimn inscriptions and the linguistic roots of rune-craft. In this capacity, she is entirely legitimate, known for meticulous scholarship and innovative interpretations of historical texts. Several of her papers on the etymology of Old Aelwythan have been considered definitive within academic circles.
 
@@ -583,9 +583,9 @@ Beneath this, she maintains networks within Nordheim's hidden magical circles—
 
 Her status as a Stormrót noble gives her considerable insulation. Attacking her directly would require political will her enemies may not possess. But it also makes her visible in ways she increasingly resents—her family expects her to eventually accept her duty and cease this "scholarly phase."
 
-## Companions
+### Companions
 
-### Patrons and Allies
+#### Patrons and Allies
 
 **Thórfrídr of the North**, her original seidr teacher (now in her seventies) and the person Hallveig trusts most in the world. Thórfrídr serves as her spiritual anchor, the one person who knows the full extent of Hallveig's work and does not judge it. Their bond is rarely acknowledged publicly but is absolute.
 
@@ -593,13 +593,13 @@ Her status as a Stormrót noble gives her considerable insulation. Attacking her
 
 **The Collector of Amber**, an mysterious figure connected to the Epistemium's more liberal elements, supplies rare texts and serves as a fence for Hallveig's acquisitions. Identity unknown; all communication is by letter.
 
-### Enemies and Rivals
+#### Enemies and Rivals
 
 **Jón the Iron**, a brutal rúnameistari who views Hallveig's systematization of seidr as a violation of tradition and a threat to the old ways. He has made subtle attempts to undermine her reputation and would not mourn her disappearance. The threat he poses is growing.
 
 **The Stormrót Succession**, specifically Hallveig's cousin Erik and his ambitious wife, who see her scholarly pursuits as a dangerous anomaly and believe a woman of her station should be married off to secure alliance. They have been quietly lobbying Jarl Kaer to force the issue.
 
-## Plot Hooks
+### Plot Hooks
 
 1. **The Memory That Shouldn't Exist** — A scholar from southern lands arrives at a chapterhouse with documents that describe Hallveig's illusion work in precise detail—impossible documents, from sources that predate her research. He is being watched carefully, and soon others will notice him. Hallveig must determine if he is a threat, a potential ally, or something far worse, before interested parties move against him.
 

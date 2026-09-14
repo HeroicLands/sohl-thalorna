@@ -18,8 +18,6 @@ shortcode: corvinus
 packFolder: vylaria
 ---
 
-# Corvinus
-
 ## Overview
 
 _To be written._

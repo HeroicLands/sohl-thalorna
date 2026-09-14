@@ -118,8 +118,6 @@ data:
     vindhyalay: unaligned
 ---
 
-# The Twilight House
-
 - **Type:** Courtesan establishment and intelligence network
 - **Region:** [[place-vedyarargn|Vedyara Region]] — principal house in the capital, satellite houses in each major Vedyaran city
 - **Founded:** Traditionally dated to the reign of the eleventh Maharaja; historically uncertain

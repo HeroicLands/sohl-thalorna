@@ -88,8 +88,6 @@ data:
   relations: {}
 ---
 
-# The Warrior's Circle of the Dunhara Tribes
-
 _Dunhari: Tîgh'Bahârân — "Circle of the Mighty"_
 
 - **Type:** Pan-tribal warrior council

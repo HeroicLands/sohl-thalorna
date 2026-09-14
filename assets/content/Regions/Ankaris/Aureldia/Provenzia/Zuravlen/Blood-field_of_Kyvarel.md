@@ -18,8 +18,6 @@ shortcode: bldfldkyvarel
 packFolder: provenzia
 ---
 
-# Blood-field of Kývarel
-
 In the western valleys, in the barony of Kývarel — held with [[place-zuravlenrgn|Zûravlen]] by Álegar
 alrí Zûravel — lies a **quickening**: a [[lore-bloodfields|blood-field]] where the ground grows too
 well.

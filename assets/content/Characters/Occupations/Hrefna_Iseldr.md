@@ -553,11 +553,11 @@ sohl:
     defaultCombatGroup: null
 ---
 
-# Appearance {#appearance}
+## Appearance {#appearance}
 
 Hrefna Íseldr is a 34-year-old woman who stands 5'10" tall and is of moderate build. She has an oval face with sharp cheekbones, a wide forehead, and a square jaw that leads to a strong chin. Her bright hazel eyes sit beneath straight brows, lending her a lively gaze. A broad nose and firm lips complete her features. She has pale skin with a pale complexion. Her dark blonde hair is plaited in a single thick braid.
 
-# Dossier {#dossier}
+## Dossier {#dossier}
 
 Born in the Nordheim region to a freeman family of Nordheimn heritage, Hrefna Íseldr came into the world of the woodcutter through a combination of circumstance and aptitude.
 
@@ -565,37 +565,37 @@ Maera grew up in a family of woodcutters and took to the trade naturally. She is
 
 Now at 34 years of age, Hrefna Íseldr has established herself as a known figure among the woodcutters of Nordheim. Her reputation, for better or worse, precedes her in the circles where such things matter.
 
-## Psyche
+### Psyche
 
-### Personality
+#### Personality
 
 Sometimes overexerts herself, can be stubborn about taking advice.
 
-### Motivation
+#### Motivation
 
 Hrefna is driven by the desire to master her craft and secure a stable future. The uncertainties of life in woodcutter work keep her vigilant and adaptable.
 
-### Strengths
+#### Strengths
 
 Skilled in felling trees, efficient worker, knowledgeable about forest navigation.
 
-## Social
+### Social
 
 Hrefna is affiliated with Woodcutters' Guild.
 
 As a Nordheimn woodcutter, Hrefna occupies a recognized social niche within Nordheim society.
 
-## Companions
+### Companions
 
-### Patrons
+#### Patrons
 
 Hrefna's primary patron is Local builders and furniture makers.. This relationship provides both opportunity and obligation.
 
-### Enemies
+#### Enemies
 
 Few, though some older woodcutters were initially skeptical of her abilities.
 
-## Plot Hooks
+### Plot Hooks
 
 1. **The Woodcutter's Dilemma** — Hrefna faces a professional crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Nordheim.
 

@@ -21,8 +21,6 @@ shortcode: longstair
 packFolder: elavendre
 ---
 
-# The Long Stair
-
 Seven falls in succession where a headwater of the [[place-drenavrspn|Drenavar Spine]] drops through a
 stepped gorge, each pool deeper and colder than the last. The [[lore-aelendnppl|Áelendan]] do not treat
 the Stair as seven things. It is one water and one spirit — [[lore-aranwyspr|Aranwy]] — and the

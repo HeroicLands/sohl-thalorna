@@ -24,8 +24,6 @@ data:
   species: null
 ---
 
-# Alananor Enéavel
-
 **Role.** Provides medicinal and magical support to the embassy.
 
 **Background.** Expert in alchemy and in producing the potions and remedies a long mission requires.

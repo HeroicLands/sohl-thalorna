@@ -19,8 +19,6 @@ shortcode: tramontana
 packFolder: provenzia
 ---
 
-# Tramontàna
-
 **Tramontàna** — _beyond the mountains_, and also the name of the cold wind that comes over them.
 
 The **Tramontàna** is Provènzia's frontier with [[place-elavendre|Élavendre]] and with the northern

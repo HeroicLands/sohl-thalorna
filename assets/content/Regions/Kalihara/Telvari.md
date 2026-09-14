@@ -18,8 +18,6 @@ shortcode: telvari
 packFolder: kalihara
 ---
 
-# Telvári
-
 ## Overview
 
 _To be written._

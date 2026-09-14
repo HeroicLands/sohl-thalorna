@@ -582,41 +582,41 @@ sohl:
     defaultCombatGroup: null
 ---
 
-# Appearance {#appearance}
+## Appearance {#appearance}
 
 Vishali stands 5'8" tall with a light build. She has rich brown skin, dark black hair, and warm brown eyes. Her features include a round face, a slightly arched nose, a gentle jawline, generous lips, rich brows. A distinguishing mark is a scar on the right elbow.
 
-# Dossier {#dossier}
+## Dossier {#dossier}
 
-## Background
+### Background
 
-### Early Life and Training
+#### Early Life and Training
 
 Vishali was born into the merchant caste of the Vedyara city-states, the daughter of a spice trader who prided himself on legitimate business practices. Her childhood was one of relative comfort, spent navigating the bustling marketplaces and trade routes that connected the city-states. However, at age twelve, a devastating fire claimed both her parents and the family's trading house, leaving her orphaned and destitute. Rather than fall into indentured servitude or worse, Vishali attached herself to a traveling fair—a caravan of performers, acrobats, and charlatans who moved from city to city in the Vedyara territories.
 
 It was here, under the tutelage of **Korvin the Magician**, a cynical but talented performer with a sharp eye for raw talent, that Vishali discovered her gifts. Korvin taught her the arts of misdirection, sleight of hand, and performance—not to deceive for malice, but to amaze and delight. She proved to be an apt student with natural grace and an almost supernatural dexterity that made her especially suited to acrobatic performance. More importantly, Korvin recognized that Vishali possessed something rare: the courage to push boundaries and make people uncomfortable through comedy that cut close to bone.
 
-### Coming of Age
+#### Coming of Age
 
 By her late teens, Vishali had become the star attraction of **Master Korvin's Traveling Spectacular**, renowned throughout the Vedyara city-states for her daring acrobatic feats combined with biting comedy that often left audiences laughing even as they questioned whether they should. She developed a reputation for physical comedy that bordered on the obscene, for jokes that targeted sacred cows and powerful individuals, and for a reckless disregard for propriety that made her beloved by common folk and despised by those of delicate sensibilities.
 
-### Current Situation
+#### Current Situation
 
 Now, at twenty-seven, Vishali operates independently, having parted amicably from **Master Korvin's company** five years prior. She travels the Vedyara city-states and beyond, performing at festivals, fairs, and in the courts of those wealthy enough and progressive enough to hire her. She has developed something of a following—a reputation as a court jester without a court, a fool-for-hire who will perform anywhere and for anyone willing to pay. Yet beneath the performance lies a sharp intelligence and a strategic mind. Her relationships with various patrons and city governments give her access to information and influence that she occasionally leverages to assist those in genuine need.
 
-## Psyche
+### Psyche
 
-### Personality
+#### Personality
 
 Vishali's dominant quality is her shameless irreverence. She treats authority with casual dismissal and has perfected the art of making the powerful uncomfortable through humor that borders on insolence. Yet this is not mere rebelliousness—it comes from a carefully cultivated philosophy that holds that the greatest duty of a fool is to speak truth through jest, to remind the powerful of their human frailty and folly.
 
 Beneath the quick wit and acerbic humor lies a person of genuine depth and surprising compassion. Having lost everything at a young age, she harbors a particular sympathy for the dispossessed and will often perform for the poor at reduced rates or for free. Her relationships tend to be superficial by design—she has learned that attachment breeds vulnerability—yet she is capable of fierce loyalty to those few she considers genuine friends. She is also mercurial and impulsive, prone to making decisions based on momentary whim rather than careful consideration, which has sometimes led her into dangerous situations.
 
-### Motivation
+#### Motivation
 
 Vishali is driven by a contradictory pair of impulses: a desire for freedom so absolute that she refuses to allow any person, institution, or circumstance to constrain her, and a secret yearning to matter, to use her talents in service of something larger than herself. She performs partly for the coins and partly for the pure joy of making people feel something—whether that is laughter, discomfort, or the unsettling sensation of having their assumptions challenged. Beneath her irreverent exterior lies a young woman trying to build a life of meaning and autonomy from ashes, while simultaneously fearing that she is fundamentally incapable of genuine connection or lasting purpose.
 
-### Strengths
+#### Strengths
 
 - **Virtuosic Physical Performer**: Vishali's acrobatic abilities are extraordinary. She can scale walls, perform death-defying tumbling sequences, and move through spaces with the fluidity of water. Her body is a precise instrument.
 - **Master of Misdirection**: Her sleight of hand is exceptional, and her understanding of perception and attention-manipulation is nearly supernatural. She can make crowds see what she wants them to see and miss what she intends to hide.
@@ -624,7 +624,7 @@ Vishali is driven by a contradictory pair of impulses: a desire for freedom so a
 - **Exceptional Dexterity**: Beyond acrobatics and sleight of hand, Vishali's manual dexterity extends to fine craftwork, drawing, and any task requiring precise finger control. She is an accomplished artist.
 - **Survival Resourcefulness**: Having survived loss and homelessness, Vishali possesses practical skills in cooking, herblore, and survival that make her capable of thriving in harsh conditions.
 
-### Weaknesses
+#### Weaknesses
 
 - **Reckless Impulsivity**: Vishali acts on whim without fully considering consequences. This has led her into dangerous situations multiple times, and her ability to talk her way out is not always successful.
 - **Boundary-Crossing Humor**: Her comedy, while brilliant, often offends those in power or those with delicate sensibilities. She has made enemies among nobility and clergy through jokes that crossed the line from clever to genuinely insulting.
@@ -632,24 +632,24 @@ Vishali is driven by a contradictory pair of impulses: a desire for freedom so a
 - **Physical Limitations in Direct Conflict**: While acrobatic, Vishali lacks strength and formal combat training. In any situation involving direct physical confrontation with armed opponents, she would be severely outmatched.
 - **Dependency on Performance**: Like all performers, Vishali's sense of self-worth is deeply tied to audience reaction. When performances fail or audiences are unreceptive, she becomes withdrawn and bitter.
 
-## Social
+### Social
 
-### Patrons
+#### Patrons
 
 - **Lord Vikram of House Deshani**: A progressive noble of one of the Vedyara city-states who has hired Vishali multiple times for court performances. He appreciates her boundary-pushing humor and has developed a genuine, if platonic, fondness for her. His support provides her with regular employment and credibility.
 - **Traveling Fair Circuit**: The various festival organizers, merchants' guilds, and market masters throughout the Vedyara territories who regularly book Vishali for performances. These relationships are transactional but reliable.
 
-### Enemies
+#### Enemies
 
 - **Priest Vandal of the Temple of Ashkanti**: A high-ranking priest offended by one of Vishali's performances in which she mocked certain temple practices as superstitious theater. He has used his influence to have her banned from several religious festivals and considers her a heretic.
 - **Lady Malvina the Austere**: A noblewoman whose reputation Vishali devastated through a performance that highlighted her well-known hypocrisy regarding virtue and morality. Lady Malvina has sworn to ensure Vishali never performs in her territories and has hired informants to track her movements.
 - **The Masked Collective**: A shadowy group of puritanical extremists who view Vishali's performances as a corruption of traditional Vedyaran values. They have threatened her on several occasions, and one member attempted violence against her in a marketplace.
 
-### Affiliations
+#### Affiliations
 
 - **The Traveling Fair Network**: While technically independent, Vishali maintains close connections with various traveling fairs and circus companies that move through the Vedyara territories. She often collaborates with performers from these groups.
 
-## Plot Hooks
+### Plot Hooks
 
 1. **The Royal Commission**: A desperate royal court summons Vishali to perform for a dying prince whose spirits have grown so dark that nothing can lift them. The king offers a substantial reward if she can make the prince laugh. However, Vishali discovers that the prince's darkness stems from genuine trauma and political corruption, and making him laugh requires her to become involved in court intrigues that threaten her life and challenge her commitment to remaining uninvolved in others' struggles.
 

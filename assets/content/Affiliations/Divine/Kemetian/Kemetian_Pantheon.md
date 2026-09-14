@@ -122,8 +122,6 @@ data:
 packFolder: pantheonskemetian
 ---
 
-# Kemetían Pantheon
-
 **Pronunciation**: _Keh-MEH-tee-ahn_
 
 The Kemetían pantheon is the religious tradition of [[affiliation-empirtkhpr|Ta'Kheperu]], the oldest continuously existing civilization in [[place-worldthlrn|Thalorna]]. The pantheon comprises twelve deities, each governing a fundamental aspect of existence — the same twelve domains found in the [[affiliation-arldnpnthn|Aurèldían Pantheon]] of western [[place-ankrscntnnt|Ankaris Continent]], though the Kheperi would note, with characteristic equanimity, that their gods were ancient before the Aurèldían names were spoken.

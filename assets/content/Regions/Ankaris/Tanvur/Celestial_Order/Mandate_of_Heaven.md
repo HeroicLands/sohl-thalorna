@@ -8,13 +8,13 @@ shortcode: mandatehvn
 packFolder: celestialorder
 ---
 
-# The Mandate of Heaven (Tëngvōr)
+## The Mandate of Heaven (Tëngvōr)
 
 The **Mandate of Heaven** is the foundational political and cosmological doctrine of the [[affiliation-tanvurempr|Empire of Tānvür]]. It is not a divine blessing, not a covenant, not a promise. It is a **cosmic appointment** — the assignment of administrative authority over the mortal plane to the imperial line, issued by the celestial bureaucracy and subject to review.
 
 ---
 
-## The Doctrine
+### The Doctrine
 
 The Tānvüri do not believe the Emperor rules because a god loves him, or because he conquered his enemies, or because he was chosen by prophecy. They believe the Emperor rules because the celestial bureaucracy **assigned the position to his lineage** as part of the Great Sorting. Just as Tānlüng classified the elements and appointed bureau overseers, the mortal plane required an administrator — and the imperial line was classified as the family suited to the role.
 
@@ -26,7 +26,7 @@ The current imperial line has held the Mandate for centuries. But the empire's m
 
 ---
 
-## The Mandate as Cyclical Pattern
+### The Mandate as Cyclical Pattern
 
 The Tānvüri view of history is profoundly different from the Western model of linear progress toward a climactic confrontation. In the Celestial Order, history does not _progress_. It **cycles**.
 
@@ -38,7 +38,7 @@ For Western visitors accustomed to cultures that celebrate progress, invention, 
 
 ---
 
-## The Mandate in Practice
+### The Mandate in Practice
 
 The Mandate underpins the entire legal, political, and spiritual structure of the empire:
 
@@ -50,13 +50,13 @@ The Mandate underpins the entire legal, political, and spiritual structure of th
 
 ---
 
-## The Number Nine
+### The Number Nine
 
 The number nine holds deep significance in all ceremonies pertaining to the Emperor and the [[lore-zheklung|Zhëklüng]] caste. Nine is the highest single digit — the fullest expression of quantity before cycling back to unity. It represents the _completeness of classification_, the Great Sorting at its most comprehensive. Imperial audiences convene in nines, ritual offerings are presented in sets of nine, and the celestial calendar marks nine as the number of administrative completion. See [[lore-numerology|Numerology]] for the broader significance of numbers in Tānvür culture.
 
 ---
 
-## See Also
+### See Also
 
 - [[lore-clstlpnthn|Celestial Pantheon]] — The officials from whom the Mandate derives
 - [[lore-zheklung|Zhëklüng]] — The caste that holds the Mandate

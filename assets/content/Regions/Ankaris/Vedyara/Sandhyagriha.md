@@ -21,8 +21,6 @@ name:
 shortcode: sandhyagrha
 ---
 
-# Sandhyāgriha
-
 > **Draft.** This note is the building. The body that keeps it is
 > [[affiliation-twilighths|The Twilight House]], where its people, its ranks and
 > its business are described.

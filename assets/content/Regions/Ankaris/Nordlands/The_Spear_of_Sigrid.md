@@ -19,8 +19,6 @@ sohl:
     durabilityBase: 15
 ---
 
-# The Spear of Sigrid
-
 One of the **three regalia** required to seal away [[being-njorven|Njörven]], with the
 [[miscgear-crwnwyrm|Crown of the Wyrm]] and the [[miscgear-hornnjordur|Horn of Njördur]].
 

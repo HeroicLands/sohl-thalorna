@@ -550,11 +550,11 @@ sohl:
     defaultCombatGroup: null
 ---
 
-# Appearance {#appearance}
+## Appearance {#appearance}
 
 Thálrik Hálren is a 46-year-old man who stands 6'5" tall and is broad and solidly built. He has an angular face with high cheekbones, a broad forehead, and a sharp jaw that leads to a delicate chin. His large green eyes sit beneath thin brows, lending him an expressive gaze. A slightly upturned nose and full lips complete his features. He has pale skin with a flawless complexion. His blonde hair is long and gathered with a leather thong.
 
-# Dossier {#dossier}
+## Dossier {#dossier}
 
 Born in the Élavendre region to a freeman family of Élavendri heritage, Thálrik Hálren came into the world of the woodcutter through a combination of circumstance and aptitude.
 
@@ -562,37 +562,37 @@ Garrick has spent his entire life working in the forests, cutting down trees and
 
 Now at 46 years of age, Thálrik Hálren has established himself as a known figure among the woodcutters of Élavendre. His reputation, for better or worse, precedes him in the circles where such things matter.
 
-## Psyche
+### Psyche
 
-### Personality
+#### Personality
 
 Gruff demeanor, prefers working alone, struggles with social skills.
 
-### Motivation
+#### Motivation
 
 Thálrik is driven by the desire to master his craft and secure a stable future. The uncertainties of life in woodcutter work keep him vigilant and adaptable.
 
-### Strengths
+#### Strengths
 
 Physically strong, experienced in forestry, knowledgeable about tree selection.
 
-## Social
+### Social
 
 Thálrik is affiliated with Woodcutters' Guild.
 
 As a Élavendri woodcutter, Thálrik occupies a recognized social niche within Élavendre society.
 
-## Companions
+### Companions
 
-### Patrons
+#### Patrons
 
 Thálrik's primary patron is Local carpenters and builders who rely on his lumber.. This relationship provides both opportunity and obligation.
 
-### Enemies
+#### Enemies
 
 Few, though some villagers find him intimidating.
 
-## Plot Hooks
+### Plot Hooks
 
 1. **The Woodcutter's Dilemma** — Thálrik faces a professional crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Élavendre.
 

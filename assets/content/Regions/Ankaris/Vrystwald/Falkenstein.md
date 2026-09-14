@@ -18,8 +18,6 @@ shortcode: falkensten
 packFolder: vrystwald
 ---
 
-# Falkenstein
-
 ## Overview
 
 _To be written._

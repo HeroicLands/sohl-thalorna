@@ -18,8 +18,6 @@ shortcode: dunkelwald
 packFolder: vrystwald
 ---
 
-# Dunkelwald
-
 ## Overview
 
 _To be written._

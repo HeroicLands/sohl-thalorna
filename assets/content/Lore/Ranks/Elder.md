@@ -10,8 +10,6 @@ shortcode: elderrnk
 description: "Senior of a body, whose recollection of its custom settles what the young dispute."
 ---
 
-# Elder
-
 Senior of a body, whose recollection of its custom settles what the young dispute.
 
 ## Obligations and Rights

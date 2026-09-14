@@ -122,7 +122,7 @@ data:
 packFolder: celestialpantheon
 ---
 
-# Vënsōk Zhük — The Chief Auditor of Souls
+## Vënsōk Zhük — The Chief Auditor of Souls
 
 - **Bureau:** Sīkvōk, The Ministry of Final Account
 - **Domain:** Death
@@ -139,12 +139,12 @@ household will pay. The ministry's reputation among the other bureaus is of an o
 cooperates when it chooses to and cannot be compelled, because everyone's file ends up on its
 desk eventually.
 
-## Lesser Spirits
+### Lesser Spirits
 
 - **Vāt Sīkzhük** — The Ten Magistrates of the Dead, each presiding over a different category of moral failing.
 - **Hëklëi** — Transit Spirits, who escort souls from death to processing.
 
-## See Also
+### See Also
 
 - [[affiliation-tngvkvnlei|Tëngvōk Vān Lëi]] — the Celestial Bureaucracy this bureau belongs to
 - [[affiliation-tanvurempr|Empire of Tānvür]] — the mortal realm it administers

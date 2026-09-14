@@ -10,6 +10,4 @@ shortcode: vekthordty
 packFolder: deitiestengvokvanlei
 ---
 
-# Vëkthōr
-
 TBD

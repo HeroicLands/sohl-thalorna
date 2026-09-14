@@ -14,8 +14,6 @@ shortcode: crocodilekambezispr
 packFolder: lorespiritsnyaluba
 ---
 
-# Crocodile Spirit
-
 The totemic being venerated by the [[affiliation-nylbtrblntn|Kambezi]]. For the cult, its
 offices and its observances, see [[affiliation-nyalbcroc|Crocodile Totem]]; for the kinds of guide
 and the three postures, see [[lore-nyalbsprts|Nyáluba Spirits]].

@@ -14,8 +14,6 @@ shortcode: aralwen
 packFolder: settinglore
 ---
 
-# Arálwen
-
 An **arálwen** is a place where the material world and the spirit world lie thin against one another
 — close enough that things pass between them. They are the reason [[place-elavendre|Élavendre]] has
 the reputation it does. Almost all of the known ones are in its mountains and deep forests, and the

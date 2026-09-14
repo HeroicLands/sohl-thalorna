@@ -128,7 +128,7 @@ data:
 packFolder: celestialpantheon
 ---
 
-# Rëkgüng — The Minister of Storms
+## Rëkgüng — The Minister of Storms
 
 Weather is not random. This is the first principle of the Bureau of Thunder and Rain, and the source of both the bureau's power and its vulnerability. Every storm, every flood, every drought, every season of plenty is the result of administrative decision — petition and counter-petition, allocation and denial, the relentless accounting of cosmic credit and deficit. Rëkgüng does not make these decisions in the manner of a sentient judge weighing moral evidence. He administers a vast matrix of celestial schedules, agreed-upon allocations, and precedent-based procedures.
 
@@ -136,7 +136,7 @@ The celestial calendar dictates when each region receives its annual rainfall, h
 
 What mortals experience as divine capriciousness is actually the visible friction of the system. When a city that should have received timely rain instead suffers drought, what has occurred is one of the following: the local ancestor spirits have lost administrative standing due to accumulated moral deficits; the city has filed an incomplete petition and thus forfeited its claim; a competing bureau has filed a counter-petition claiming priority (the Bureau of Entropy may petition for water diversion to flood an area as authorized unraveling); or the celestial record-keeping has been temporarily disrupted. None of these outcomes are unfair. They are simply the administration's operation according to established rules.
 
-## The Bureau of Thunder and Rain (Rëkshüt Sëi)
+### The Bureau of Thunder and Rain (Rëkshüt Sëi)
 
 Rëkgüng's ministry maintains three overlapping functions: temporal scheduling, petition processing, and enforcement through punitive weather. The first two are routine bureaucratic work — clerks filing forms, maintaining the region-by-region allocation ledgers, processing petitions for emergency water diversion during drought or for storm suppression during critical harvest periods. The third function, enforcement, is where Rëkgüng's power becomes most visible.
 
@@ -144,7 +144,7 @@ A region that grossly violates celestial norms — that commits crimes severe en
 
 These punitive storms are officially recorded in the celestial archives. The decision to strike is documented in the minutes of inter-bureau conferences. The specific targets are noted. This is not hidden judgment — it is administered punishment, which means there is a record, which means it can be appealed, which means precedent can be cited. A region struck by lightning can petition the Supreme Administrative Court arguing that the strike violated established protocols for proportional punishment. Most such petitions fail. But the avenue exists.
 
-## Mortal Engagement: Petition and Allocation
+### Mortal Engagement: Petition and Allocation
 
 The Tānvüri understand weather not as a force of nature but as a service provided by a celestial bureau — one that requires proper application and maintenance of one's spiritual standing. A village facing drought will not pray to Rëkgüng; it will file a formal petition requesting emergency water allocation, citing the precedent of previous droughts, the current moral standing of the village's ancestors, and the consequences to the agricultural schedule if the drought continues.
 
@@ -156,7 +156,7 @@ Those regions that maintain close relations with ancestor spirits in favorable c
 
 The appearance of a lightning strike is understood not as divine judgment but as official notice that a formal punishment order has been executed. The family struck by lightning does not grieve silently — they immediately petition for an investigation into whether the strike violated proper procedures, whether their moral standing was correctly assessed, whether the precedent for their level of transgression actually warranted immediate execution rather than notice and opportunity for remediation. Some such petitions succeed. Most fail. But the effort to appeal is itself a recognized social practice, and the Tānvüri are far more likely to help a family prosecute an appeal than to shame them for the strike itself.
 
-## See Also
+### See Also
 
 - [[affiliation-tngvkvnlei|Tëngvōk Vān Lëi]] — The Celestial Bureaucracy
 - [[lore-clstlpnthn|Celestial Pantheon]] — Other celestial officials

@@ -78,8 +78,6 @@ data:
   relations: {}
 ---
 
-# The Skalds' Circle
-
 _Old Norse: Skaldahringr — "the Ring of the Skalds"_
 
 - **Type:** Pan-regional bardic fellowship

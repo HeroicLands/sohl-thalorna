@@ -88,8 +88,6 @@ data:
   relations: {}
 ---
 
-# The Curia Fiscalis
-
 _Vylarian: Curia Fiscalis — "the Fiscal Court"_
 
 - **Type:** Imperial state institution; taxation administration

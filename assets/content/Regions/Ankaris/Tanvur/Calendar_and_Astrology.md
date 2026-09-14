@@ -8,7 +8,7 @@ shortcode: clndrstrlgy
 packFolder: tanvur
 ---
 
-# Tānvür Calendar and Astrology
+## Tānvür Calendar and Astrology
 
 Part of the [[affiliation-tanvurempr|Empire of Tānvür]] world-building.
 
@@ -16,7 +16,7 @@ In the Empire of Tānvür, time is not merely measured — it is **administered*
 
 ---
 
-## Months of the Year
+### Months of the Year
 
 The twelve months of the Tānvüri year follow the cycle of elemental classification — each month is governed by a specific domain and corresponds to a phase of the cosmic sorting cycle. The months are not arbitrary divisions of time. They are **administrative periods**, each with its own filing deadlines, ritual obligations, and bureau jurisdictions.
 
@@ -46,7 +46,7 @@ The twelve months of the Tānvüri year follow the cycle of elemental classifica
 
 ---
 
-## Dynasty-Based Year Naming (Secular Calendar)
+### Dynasty-Based Year Naming (Secular Calendar)
 
 For secular and administrative purposes, the years are named according to the ruling dynasty and the current emperor. This system is used for legal records, commercial contracts, administrative filings, and historical documentation, marking each emperor's reign as a distinct administrative era.
 
@@ -59,17 +59,17 @@ For secular and administrative purposes, the years are named according to the ru
 
 ---
 
-## The Celestial Calendar (Spiritual Calendar)
+### The Celestial Calendar (Spiritual Calendar)
 
 The Celestial Calendar is the deeper, older system — used by scholars, astrologers, the Tānthëi, and the celestial administration itself. While the dynastic calendar marks human political time, the Celestial Calendar marks **cosmic administrative time** — the grand cycles through which the classification system renews and maintains itself.
 
-### Zero Date and the Great Convergence
+#### Zero Date and the Great Convergence
 
 The Celestial Calendar begins at the **Great Convergence (Dāk Vān Hōk)**, which occurred exactly **6,959 years ago**. This event was not a mystical revelation or a divine creation — it was the moment when all celestial bodies, elemental forces, and spiritual energies achieved their first _perfect alignment_ after the Great Sorting. The Tānvüri understand this as the moment when Tānlüng's classification system first achieved full operational status — when every element was sorted, every bureau staffed, every jurisdiction defined, and the entire cosmic administration began processing its first cycle of business.
 
 The Great Convergence is considered the founding of both cosmic time and the first imperial dynasty. The first Emperor was the first mortal designated to administer the mortal plane — the initial appointment under the Mandate of Heaven.
 
-### Celestial Generations
+#### Celestial Generations
 
 The Celestial Calendar is structured around **Celestial Generations (Tëng Dāk)**, each lasting **27 years**. A Generation represents one full administrative cycle — the time it takes for the classification system to process a complete round of cosmic business, from initial filing to final resolution.
 
@@ -81,7 +81,7 @@ Each Generation moves through three **Phases of Lëi**, each lasting nine years:
 
 **Jöng Lëi (Descending Phase)** — Years 19–27. Hëk flow is ascendant. Classifications begin to loosen, boundaries blur, and the cosmic administration approaches the limits of its current cycle. Old filings expire. Institutional fatigue sets in. The risk of Hürnlëi seepage increases. This is a phase of consolidation, retrenchment, and preparation for the next cycle's renewal. Wise emperors focus on preservation during Descending phases; ambitious ones who attempt expansion during this phase risk overextending the classification system.
 
-### The 15 Spirit Animals
+#### The 15 Spirit Animals
 
 Each year within a Celestial Generation is associated with a **spirit animal** — a classified spiritual entity whose characteristics influence the cosmic administration's processing during that year. The 15 animals cycle through the 27-year Generation in overlapping patterns, with each animal appearing in at least two of the three phases.
 
@@ -112,7 +112,7 @@ The spirit animals are not gods, not totems, and not mascots. They are **adminis
 | Vëklüng (Echo Dragon)     | Adaptation, response | Inter-bureau communication most efficient                  |
 | Zhützhāt (Azure Bird)     | Guidance, hope       | Transit petitions most likely to succeed                   |
 
-### Current Celestial Date
+#### Current Celestial Date
 
 **"20th Year of the 257th Celestial Generation, Year of the Golden Dragon, in the Descending Lëi Phase"**
 
@@ -124,42 +124,42 @@ This places the current moment in the Descending Phase — the period of retrenc
 
 ---
 
-## Holidays and Festivals
+### Holidays and Festivals
 
 The Tānvüri festival calendar is not a set of celebrations. It is a **schedule of mandatory administrative obligations** — cosmic filing deadlines that the empire must meet to keep the classification system operational. Missing a festival is not merely disrespectful; it is a failure to process essential spiritual paperwork, with consequences that propagate through the entire system.
 
-### Festival of Harmonious Lëi (Hōk Lëi Jëit)
+#### Festival of Harmonious Lëi (Hōk Lëi Jëit)
 
 The most significant festival in Tānvür, held on the first day of Jëityüt at the new year. The Emperor performs the **annual audit** — a formal review of the empire's Lëi, in which he (assisted by the Tānthëi) symbolically opens the celestial filing system for the new year, confirms that the previous year's accounts are settled, and authorizes the processing of new business. Communal feasts, lantern lightings, and public performances accompany the ritual, but these are understood not as celebrations but as **the population's collective contribution to the cosmic audit** — their participation ensures that the empire's aggregate Lëi is properly accounted for.
 
 - **Time**: First day of Jëityüt (new year, transition from winter to spring)
 - **Castes Involved:** Zhëklüng (Emperor and Warlords lead the audit), Tānthëi (process divinations and verify the cosmic accounts), Vëndük (perform the magical workings that formally open the new filing cycle), Nōkvür (community participation registers the population's collective Lëi)
 
-### Festival of the Five Elements (Vürt Zāt Jëit)
+#### Festival of the Five Elements (Vürt Zāt Jëit)
 
 A five-day festival in which each day is dedicated to one of the primary elemental classifications. The purpose is to **verify that the elemental categories are holding** — that wood still behaves as wood, fire as fire, earth as earth. Each day's rituals are specifically designed to test and reinforce one element: planting on the day of Wood, forge-work on the day of Metal, purification burning on the day of Fire, water rituals on the day of Water, construction on the day of Earth.
 
 - **Time**: Mid-Mütyüt, when the elements are believed to be in their most stable alignment
 
-### The Mid-Year Festival of Balance (Hōk Nëir Jëit)
+#### The Mid-Year Festival of Balance (Hōk Nëir Jëit)
 
 Held at the peak of summer during Hōkyüt, this festival is the **mid-year reconciliation** — the point at which the celestial administration's semi-annual accounts are balanced. Disputes are settled, conflicts resolved, and inter-bureau jurisdictional issues addressed. For ordinary people, this is the time to settle debts, resolve family quarrels, and ensure that their moral ledgers are not accumulating hidden debits.
 
-### Moon Festival (Yüt Jëit)
+#### Moon Festival (Yüt Jëit)
 
 Celebrated during Yütjëit in late autumn, when the Minister of the Moon's jurisdiction is strongest and the boundary between Sorted and Unsorted is thinnest. The festival serves a dual purpose: to **collect the celestial administration's annual dispatches** (interpreted through prophecy and divination) and to **reinforce the classification boundary** that the loosening Hëk flow is weakening. Lanterns are lit not for beauty but for function — they are points of Lëng energy that shore up the boundary. Offerings to Yütvëi request that her bureau maintain classification integrity through the dangerous winter months.
 
-### Festival of the Dead (Sīklëi Jëit)
+#### Festival of the Dead (Sīklëi Jëit)
 
 The most elaborate and expensive festival in the calendar, held during Zhürtyüt in mid-winter. This is the **annual settlement with the ancestor spirits** — the time when families burn massive quantities of spirit money and goods to provision their ancestors for the coming year, review the ancestral ledgers, and receive commands from the dead through the Lëigürt. See [[lore-ancstrwrshp|Ancestor Worship]] for the full implications of this festival, including its role in reinforcing the spiritual aristocracy.
 
-### New Year Purification (Shëit Nëir Vōr)
+#### New Year Purification (Shëit Nëir Vōr)
 
 The final administrative event of the year, held during Thürtyüt. Every household, temple, and administrative office is ritually cleansed — not symbolically, but _bureaucratically_. Old spirit documents are burned (transmitting them to the celestial archive), expired filings are cleared, and the Hearth Monitors (Zātkür) submit their final annual moral reports on each household. The purification is the closing of the books — the last act before the new year's audit begins the cycle again.
 
 ---
 
-## See Also
+### See Also
 
 - [[lore-celestlrdr|Celestial Order]] — The cosmological and administrative framework that the calendar serves
 - [[lore-phlsphylvr|Philosophy of Lëivōr]] — The Lëi philosophy underlying the elemental month system

@@ -86,11 +86,11 @@ data:
   relations: {}
 ---
 
-# The Courts of Magnápolis
+## The Courts of Magnápolis
 
 Justice and civic government in the imperial capital run along three separate tracks that meet only at the throne. The **[[place-magnapolis|city]] beyond the Inner Wall** — its administration, its courts, its Watch, and its daily supply — is governed by the **Curia Urbis**, the Council of the City. The **Inner City** keeps its own order under the [[affiliation-vylrnmltry|Praetar Augustarum]], the imperial guard. And the **imperial tribunals** — the throne's own courts — sit apart from both, within the [[affiliation-aerarimmpr|Officia Imperii]] compound, answerable to the Augustar alone.
 
-## The Curia Urbis — the Council of the City
+### The Curia Urbis — the Council of the City
 
 Magnápolis is not ruled by a prefect. The Empire learned long ago that a single man set over a city of a million — commanding its courts, its granaries, and its armed Watch all at once — is a man with the means to make himself a rival to the throne. So the city is governed instead by a **council of five**, the **Curia Urbis**, whose members are appointed (and dismissed) by the Augustar, most often drawn from the senatorial order.
 
@@ -104,7 +104,7 @@ The five **Curators** sit as equals and decide the weightier matters as a body, 
 
 The chair rotates among them so that none becomes "the" head of the city, and the Augustar takes deliberate care to appoint Curators who will check rather than collude with one another. A council that grows too harmonious is a council the throne begins to watch. In practice the five are perpetual rivals — for the Augustar's favor, for the richest portfolios, and for the patronage that flows through each office — and a great deal of the city's real politics is the politics of the Curia Urbis.
 
-## The Civic Courts
+### The Civic Courts
 
 Beneath the council runs a tiered court system. The **[[affiliation-vylrnmltry|City Watch]]** enforces and investigates; it does not judge. Judgment belongs to the courts.
 
@@ -114,17 +114,17 @@ Beneath the council runs a tiered court system. The **[[affiliation-vylrnmltry|C
 
 Appeals, and the gravest civic cases, rise to the **Curia Urbis** sitting as a body under the Curator of Law. There the civic system ends; it has no authority over the nobility, the Senate, or the crown.
 
-## The Imperial Tribunals
+### The Imperial Tribunals
 
 Entirely separate from the civic courts stand the **imperial tribunals** — the courts of the throne itself. They sit within the Inner City, in the **[[affiliation-aerarimmpr|Officia Imperii]]**, the great bureaucratic compound that also houses the treasury, the tax administration, and the imperial archives, and they answer to the Augustar and his appointed judges, never to the Curia Urbis.
 
 Their jurisdiction is everything the civic courts cannot touch. Any matter involving a member of the nobility, any cause touching the [[affiliation-curiavylar|Senate]] or the imperial house, the great suits between provinces and crowns, and **treason** above all, are imperial business from the first moment — and a case can be lifted out of the civic courts into the imperial tribunals at the throne's word. For senatorial persons in the gravest matters, judgment may rise higher still, to the [[affiliation-curiavylar|Curia Vylaria]] itself. To be summoned from the Aediles' bench to the Officia is, for most of the city, a terror in itself: it means one's affair has caught the attention of powers far above the ward.
 
-## The Reach of Influence
+### The Reach of Influence
 
 For all its tiers and titles, the law of Magnápolis runs partly on influence, and everyone knows it. A defendant with the right friends, the right purse, or the right patron finds the courts remarkably accommodating; one without learns how heavy they can be. The Aediles are famously bribable; a Curator's favor can move a case between courts or bury it in the Officia's bottomless archives; and the perpetual rivalry of the Curia Urbis means that a well-placed enemy on the council can be as dangerous to a citizen as any charge. Among the quieter profits of the courts, too, is the trade in **residency waivers** — the papers that let a non-citizen dwell within the walls in some great house's service (see [[doc-vylrnctznshp|Vylarian Citizenship]]); granted through the courts, they move remarkably fast for the right consideration. Justice is real in Magnápolis — but it is also, always, a currency.
 
-## See Also
+### See Also
 
 - [[place-magnapolis|Magnápolis]] — the imperial capital this council and these courts govern
 - [[affiliation-vylrnmltry|The Vylarian Military]] — home of the City Watch (a branch of the legions) and the Praetar Augustarum (the imperial guard)

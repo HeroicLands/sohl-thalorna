@@ -552,11 +552,11 @@ sohl:
     defaultCombatGroup: null
 ---
 
-# Appearance {#appearance}
+## Appearance {#appearance}
 
 Sáfêrús Ghôlâris is a 52-year-old man who stands 5'9" tall and is of moderate build. He has a square face with sharp cheekbones, a lined forehead, and a square jaw that leads to a strong chin. His round dark brown eyes sit beneath prominent brows, lending him a candid gaze. An aquiline nose and expressive lips complete his features. He has medium-toned skin with a weathered complexion. His graying brown hair is short and swept back.
 
-# Dossier {#dossier}
+## Dossier {#dossier}
 
 Born in the Heliónis region to a noble family of Helionite heritage, Sáfêrús Ghôlâris came into the world of the clothier through a combination of circumstance and aptitude.
 
@@ -564,37 +564,37 @@ Otto is a master clothier whose shop has served the city’s nobility for decade
 
 Now at 52 years of age, Sáfêrús Ghôlâris has established himself as a known figure among the clothiers of Heliónis. His reputation, for better or worse, precedes him in the circles where such things matter.
 
-## Psyche
+### Psyche
 
-### Personality
+#### Personality
 
 Arrogant and demanding, often dismisses potential customers who can't afford his prices.
 
-### Motivation
+#### Motivation
 
 Sáfêrús is driven by the desire to master his craft and secure a stable future. The uncertainties of life in clothier work keep him vigilant and adaptable.
 
-### Strengths
+#### Strengths
 
 Expertise in luxury fabrics, knowledge of fashion trends.
 
-## Social
+### Social
 
 Sáfêrús is affiliated with City Tailors' Guild, Upper-class social circles.
 
 As a Helionite clothier, Sáfêrús occupies a recognized social niche within Heliónis society.
 
-## Companions
+### Companions
 
-### Patrons
+#### Patrons
 
 Sáfêrús's primary patron is Wealthy nobles who seek the finest garments.. This relationship provides both opportunity and obligation.
 
-### Enemies
+#### Enemies
 
 Competitors who dislike his elitist attitude.
 
-## Plot Hooks
+### Plot Hooks
 
 1. **The Clothier's Dilemma** — Sáfêrús faces a professional crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Heliónis.
 

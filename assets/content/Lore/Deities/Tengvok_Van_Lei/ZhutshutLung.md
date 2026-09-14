@@ -10,6 +10,4 @@ shortcode: zhtshtlngdty
 packFolder: deitiestengvokvanlei
 ---
 
-# Zhütshüt Lüng
-
 TBD

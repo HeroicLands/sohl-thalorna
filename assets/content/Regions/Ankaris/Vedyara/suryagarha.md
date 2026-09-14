@@ -17,8 +17,6 @@ name:
 shortcode: suryagarha
 ---
 
-# Sūryāgarha
-
 ## Overview
 
 _To be written._ Sūryāgarha is the capital and principal settlement of [[affiliation-vindhyalay|Vindhyālaya]].

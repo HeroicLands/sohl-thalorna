@@ -18,8 +18,6 @@ shortcode: vashuran
 packFolder: kalihara
 ---
 
-# Vashurán
-
 ## Overview
 
 _To be written._

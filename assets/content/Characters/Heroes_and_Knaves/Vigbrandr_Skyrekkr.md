@@ -587,11 +587,11 @@ sohl:
     defaultCombatGroup: null
 ---
 
-# Appearance {#appearance}
+## Appearance {#appearance}
 
 Vígbrandr stands 5'10" tall with a medium build. He has light fair skin, dark blonde hair, and blue eyes. His features include a rectangular face, a prominent nose, a heavy jawline, a small mouth, heavy brows. A distinguishing mark is a scar on the right hand.
 
-# Dossier {#dossier}
+## Dossier {#dossier}
 
 **The Wandering Years**
 
@@ -605,51 +605,51 @@ As a young man, Vígbrandr earned his scar defending the honor of the Skalds' Gu
 
 Now at forty-three winters, Vígbrandr maintains an almost religious adherence to the traditional methods of his craft. His vast wealth and position allow him to be selective in his commissions, accepting only those performances that align with the authentic traditions he has spent a lifetime perfecting. Yet the world around him shifts in ways both subtle and profound. Younger skalds arrive in the great halls with new compositions, introducing foreign melodies and modern narratives that draw the applause of lords and ladies alike. Where once his voice alone could command silence and rapt attention, he now finds himself competing with spectacle and innovation. This reality sits uneasily with him, though he masks it beneath layers of gravitas and nostalgic wisdom.
 
-## Psyche
+### Psyche
 
-### Personality
+#### Personality
 
 Vígbrandr is a man of formidable presence and unshakeable principle. He carries himself with the bearing of one who has been the center of attention for the greater portion of his life, yet his pride does not manifest as vanity. Rather, it emerges as a deep conviction in the importance of his role as guardian of cultural memory. He is capable of great warmth and generosity toward those he considers worthy—young apprentices of genuine talent, noble families who maintain the old traditions, fellow skalds committed to authenticity. However, he can be dismissive bordering on contemptuous toward what he perceives as dilution or compromise of the craft. His sense of humor is sharp and frequently tinged with irony, and he is known to engage in cutting remarks about contemporary trends in storytelling and performance.
 
 Despite the hardening edges of age and inflexibility, Vígbrandr possesses a profound capacity for melancholy. In his quieter moments, often late in the evening over strong mead, he reflects on the inevitability of cultural change and the limitations of even the most forceful personality in stemming the tide of progress. These contemplative moods are rare but genuine, revealing depths of philosophical inquiry beneath the confident exterior.
 
-### Motivation
+#### Motivation
 
 Vígbrandr's driving force is the preservation of cultural memory and the validation of his life's work through its perpetual relevance. He genuinely believes that the ancient sagas contain truths about the northern peoples that cannot be adequately expressed through modern innovation and borrowed forms. To see his carefully maintained traditions fade into obscurity would constitute a kind of death more profound than mere physical mortality—a death of the immortal thread that connects past, present, and future generations. He seeks not merely to perform, but to prove through each recitation that the old ways remain superior to the new, and that in an age of increasing complexity and change, there is sanctuary and truth in tradition.
 
-### Strengths
+#### Strengths
 
 - **Master Orator**: Vígbrandr possesses a voice of extraordinary range and power, capable of enthralling audiences from intimate chambers to vast feasting halls. His command of vocal techniques allows him to manipulate emotion with surgical precision.
 - **Encyclopedic Memory**: He has committed to perfect recollection the vast corpus of northern sagas, genealogies, historical chronicles, and mythological narratives—a living library of accumulated cultural knowledge.
 - **Unquestionable Authority**: His thirty-year reputation and position within the Skalds' Guild grant him unparalleled credibility when authenticating tales, resolving disputes about proper traditions, and influencing cultural opinion among the nobility.
 - **Seasoned Warrior's Discipline**: Though he has long abandoned combat, his youth spent among fighters has given him understanding of warfare, strategy, and the warrior's code that lends authenticity to his martial narratives.
 
-### Weaknesses
+#### Weaknesses
 
 - **Rigidity**: Vígbrandr is constitutionally resistant to innovation and change, viewing modern approaches as inherently inferior rather than simply different. This blindness costs him opportunities and alienates potential allies.
 - **Compositional Stagnation**: While he is unparalleled in reciting existing material, he has largely ceased creating original works, believing that new compositions cannot match the refined perfection of ancient sagas.
 - **Dismissive of Youth**: His tendency to view younger skalds as shallow imitators without understanding their genuine talents blinds him to the possibility of mentorship or productive collaboration.
 - **Vulnerability to Irrelevance**: Despite his current eminence, Vígbrandr harbors deep anxiety about becoming outdated, which manifests as aggressive defensiveness of traditional methods and scorn for alternatives.
 
-## Social
+### Social
 
-### Patrons
+#### Patrons
 
 - **House of Bergvorn**: A noble family of exceptional conservatism and wealth who commission Vígbrandr annually for their great winter festival, honoring the deeds of their ancestors as recounted through his voice.
 - **The High Thegn of Targud**: The kingdom's ruler has relied upon Vígbrandr to authenticate historical claims and validate dynastic narratives, making him an informal advisor on matters of cultural importance.
 - **Jarl Torsten the Unyielding**: A provincial ruler who views Vígbrandr as the keeper of his family's honor and commissions performances that serve to elevate his status among rival jarls.
 
-### Enemies
+#### Enemies
 
 - **Sindri the Innovator**: A young skald of genuine talent who has begun introducing foreign musical traditions into traditional sagas, attracting patronage from progressive nobles and earning Vígbrandr's bitter enmity.
 - **The Modern Skalds' Collective**: A loose association of younger performers who view traditional methods as restrictive and seek to establish alternative traditions based on individual creativity rather than historical accuracy.
 - **Kveld of the Eastern Reaches**: A rival skald who publically challenged Vígbrandr's interpretations of certain sagas, claiming the elder has distorted ancient stories to suit noble patrons—a wound that has never fully healed.
 
-### Affiliations
+#### Affiliations
 
 - **Nordic Skalds' Guild**: As the Guild's Master of Lore and most celebrated active member, Vígbrandr holds substantial influence over certification, dispute resolution, and the maintenance of traditional standards.
 
-## Plot Hooks
+### Plot Hooks
 
 1. **The Forgotten Saga**: A traveling scholar approaches Vígbrandr with an ancient, partially damaged manuscript claiming to contain a saga he has never encountered—one that contradicts several key elements of the narratives he has spent decades perfecting. The scholar offers significant coin for Vígbrandr to authenticate and learn the tale, but authenticity would require him to publicly acknowledge gaps in his own knowledge and potentially revise his understanding of northern history. The adventure becomes one of deciding whether truth or pride matters more, with potential complications arising from other parties who have vested interests in certain historical narratives remaining unchallenged.
 

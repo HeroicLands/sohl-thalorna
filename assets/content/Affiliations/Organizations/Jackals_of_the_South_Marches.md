@@ -101,8 +101,6 @@ data:
 packFolder: companies
 ---
 
-# The Jackals of the South Marches
-
 ## Overview
 
 The Jackals are the most feared free company of the **South Marches**, the dry borderlands south of the [[affiliation-mtrrchybth|Matriarchy of Bethûa]] where the matriarchal writ grows thin. They are not a clan and not a marcher tribe but something stranger: a warband of the **Houseless**, gathered out of everything the great matriarchy to the north throws away. They take their name from their queen, the renegade spear-sister **[[being-yasurajckl|Yâsûra the Jackal]]** — an exiled Bethûan officer who built, out of the realm's castoffs, the one thing Bethûa fears above all others: a company of armed exiles, women and gelded men both, who know the matriarchy's own ways of war and owe it nothing.

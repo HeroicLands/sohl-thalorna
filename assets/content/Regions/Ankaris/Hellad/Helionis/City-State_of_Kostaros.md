@@ -111,8 +111,6 @@ data:
 packFolder: helionis
 ---
 
-# Kostaros
-
 ## Overview
 
 Kostaros is one of the [[affiliation-ctysttshlns|Helionite city-states]], a coastal polity that governs the surrounding district, including the town of [[place-myrtillos|Myrtillos]]. _To be expanded._

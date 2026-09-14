@@ -24,8 +24,6 @@ data:
   species: null
 ---
 
-# Laradh Lúavel
-
 **Role.** Manages the financial affairs of the embassy.
 
 **Background.** A keen eye for detail and a strong grip on resources.

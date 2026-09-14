@@ -573,11 +573,11 @@ sohl:
 
 **Home:** [[place-wasetkara|Wasetkara]]
 
-# Appearance {#appearance}
+## Appearance {#appearance}
 
 Raiah stands 6'0" tall with a heavy build. He has ebony skin, graying black hair, and brown eyes. His features include a diamond-shaped face, a slightly arched nose, a narrow chin, well-shaped lips, arched brows.
 
-# Dossier {#dossier}
+## Dossier {#dossier}
 
 **Early Mastery**
 
@@ -591,19 +591,19 @@ Four decades of meticulous work transformed Raiah from a talented artisan into t
 
 Now at fifty-five, Raiah operates from his spacious forge near the Temple Quarter, where nobles and generals still journey to commission arms of legendary quality. Though he moves with slightly less speed than in his youth, his accumulated knowledge and surgical precision have only deepened. He trains a handful of apprentices—a privilege he grants rarely and only to those of exceptional character and aptitude. He lives modestly, pouring his considerable wealth back into his craft: acquiring rare metals, funding research into new tempering techniques, and collecting the finest whetstones and tools available across the known world.
 
-## Psyche
+### Psyche
 
-### Personality
+#### Personality
 
 **Raiah** is a man of unflinching principle who speaks plainly and without flattery, qualities that make him both revered and occasionally avoided. He views his work not as mere commerce but as a solemn responsibility—the sword he forges may decide the fate of kingdoms, and he carries that weight without complaint. Though his standards alienate lesser craftspeople, those who meet his exacting requirements discover a man of surprising warmth, capable of appreciating genuine effort and offering mentorship to those worthy of it. He possesses a dry humor that catches people off guard, often delivered in the midst of discussing metallurgical theory or pointing out some flaw in a competitor's work.
 
 There is a profound melancholy beneath his gruff exterior—a man who has spent fifty-five years in service to perfection, knowing it will always elude him. He finds solace in the unchanging laws of metalcraft and the predictable heat of his forge. He is neither gregarious nor misanthropic, but moves through the world with the bearing of someone whose craft has elevated him beyond petty social concerns.
 
-### Motivation
+#### Motivation
 
 **Raiah Sekmetâ** drives himself forward by a singular obsession: to create the perfect blade before age or death claims him. This is not a goal achievable in one lifetime, and he knows it—yet the pursuit itself is what gives his days meaning. He believes that through his craft he serves Íšét's principle of creation and renewal, and that every weapon forged with true excellence contributes some measure of order and balance to a chaotic world. Beyond personal legacy, he is motivated by a fierce protectiveness of his craft's integrity; he works tirelessly to ensure that inferior smiths do not tarnish the reputation of genuine weaponcraft or deceive nobles into commissioning dangerous, shoddy arms.
 
-### Strengths
+#### Strengths
 
 - **Master Metalworking:** **Raiah's** technical mastery is unparalleled across the empire; his hands can coax metal into forms others deemed impossible. His skill with both common and rare alloys is encyclopedic.
 - **Uncompromising Standards:** He refuses to compromise on quality, which has made his name synonymous with genuine excellence in weaponcraft. He will reject commissions that cannot meet his rigorous specifications.
@@ -611,7 +611,7 @@ There is a profound melancholy beneath his gruff exterior—a man who has spent 
 - **Ritual Expertise:** His devotion to Íšét has made him skilled in ceremonial craft and ritual metalworking; weapons blessed through his hands are said to carry divine favor.
 - **Leadership and Command:** Despite his age, **Raiah** commands immediate respect and loyalty from those in his sphere, serving as a moral anchor and arbiter in disputes among craftspeople.
 
-### Weaknesses
+#### Weaknesses
 
 - **Unbending Rigidity:** His refusal to bend standards or acknowledge merit in different approaches has cost him opportunities and business; many nobles grow impatient waiting for his meticulous work.
 - **Age and Mortality:** His movements have slowed considerably, and his eyes, though sharp, tire more quickly than in youth. He tires more easily and recovers from injury more slowly.
@@ -619,26 +619,26 @@ There is a profound melancholy beneath his gruff exterior—a man who has spent 
 - **Dismissiveness of Innovation:** While traditional knowledge is his strength, he can be blind to new techniques or unconventional approaches that might improve his craft, viewing them as shortcuts or gimmicks.
 - **Vulnerability to Manipulation:** His deep sense of honor makes him susceptible to those who appeal to his pride or his principles, potentially drawing him into situations not in his interest.
 
-## Social
+### Social
 
-### Patrons
+#### Patrons
 
 - **Lord Commander Khenti:** The military's chief weapons officer who commissions custom arms for elite guard units and prestigious officer candidates. He trusts **Raiah** implicitly and often vouches for the smith's uncompromising standards to impatient nobles.
 - **The House of Amenhotep:** A noble family known for their warrior traditions; **Raiah** has forged the ancestral blades of this house for thirty years, creating works that are as much heirloom as weapon.
 - **Master Architect Seneb:** A renowned builder and engineer who has learned to commission weapons of precise specifications that align with his exacting vision; he respects **Raiah** as a peer in the pursuit of structural perfection.
 - **Captain Meryt:** A decorated military officer of common birth who has fought her way to prominence; **Raiah** has equipped her with three successive blades, and she has become one of his most vocal advocates.
 
-### Enemies
+#### Enemies
 
 - **Theras the Swift:** A rival blacksmith of middling talent who has built a lucrative business by undercutting **Raiah's** prices and using mass production techniques. **Raiah** openly denounces his work as dangerous and inferior, damaging **Theras's** reputation among informed patrons.
 - **The Foundry Collective:** A guild of lesser smiths operating on the city's southern dock, jealous of **Raiah's** prestige and monopoly on high-profile commissions. They have attempted to spread rumors that his age is affecting his work quality.
 - **Lord Nekhebu:** A corrupt noble who once commissioned a sword from **Raiah**, then refused payment, claiming the blade was overpriced. **Raiah's** public refusal to forge for him further soured the relationship.
 
-### Affiliations
+#### Affiliations
 
 - **City Blacksmiths' Guild:** **Raiah** serves as an informal ethical leader and arbiter within the guild, setting standards that maintain the profession's reputation and integrity.
 
-## Plot Hooks
+### Plot Hooks
 
 1. **The Perfect Metal:**: A merchant arrives in the city claiming to possess an ingot of meteoric iron, a material that fell from the heavens itself. **Raiah Sekmetâ** has heard legends of such metal—impossibly strong, impossibly rare—but is skeptical of the merchant's claims. The party is contracted to authenticate the material or track down its true origin, only to discover that the meteor fragment may not have come from the heavens at all, but from a fell sorcery involving a dead god's burial site. **Raiah** becomes obsessed with obtaining the metal, potentially drawing the party into dangerous mystical territory they hadn't anticipated.
 

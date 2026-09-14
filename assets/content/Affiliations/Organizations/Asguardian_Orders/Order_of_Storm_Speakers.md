@@ -105,8 +105,6 @@ data:
     asguardian: aligned
 ---
 
-# The Order of the Storm-Speakers
-
 _Old Norse: Stormmaelendir — "Storm-Speakers"_
 
 - **Type:** Fighting religious order

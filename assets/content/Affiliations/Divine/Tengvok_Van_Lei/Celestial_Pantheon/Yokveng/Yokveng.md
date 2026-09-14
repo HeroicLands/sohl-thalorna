@@ -91,8 +91,6 @@ data:
 packFolder: yokveng
 ---
 
-# Yokveng
-
 - **Type:** Celestial realm of subversion and failure
 - **Parent cosmology:** [[affiliation-tngvkvnlei|Tëngvōk Vān Lëi]]
 - **Inhabitants:** Demon Lords, lesser demons (Yōkvëng), and the rare fallen functionary

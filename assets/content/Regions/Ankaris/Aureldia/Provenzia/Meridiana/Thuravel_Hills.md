@@ -19,8 +19,6 @@ shortcode: thuravelhills
 packFolder: provenzia
 ---
 
-# Thúravel Hills
-
 The **Thúravel Hills** roll across the south of the [[place-provenzrgn|Provènzia Region]] — low,
 wooded, thinly settled, and mapped with a vagueness unusual in so well-surveyed a kingdom. Roads skirt
 them. The villages at their edges are small, old and inward, and the shepherds who take flocks onto the

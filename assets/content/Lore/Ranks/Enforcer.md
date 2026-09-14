@@ -10,8 +10,6 @@ shortcode: enforcerrnk
 description: "Charged with what a body collects by fear, and with what follows when fear fails."
 ---
 
-# Enforcer
-
 Charged with what a body collects by fear, and with what follows when fear fails.
 
 ## Obligations and Rights

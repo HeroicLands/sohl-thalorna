@@ -24,8 +24,6 @@ data:
   species: null
 ---
 
-# Loris Taravel
-
 **Role.** Handles negotiations and translates documents.
 
 **Background.** Skilled in several languages and in international custom.

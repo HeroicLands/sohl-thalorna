@@ -528,11 +528,11 @@ sohl:
     defaultCombatGroup: null
 ---
 
-# Appearance {#appearance}
+## Appearance {#appearance}
 
 Sigrún stands 5'11" with a heavy, broad-shouldered build that would not look out of place on a blacksmith's apprentice. Her black hair is thick and wiry, pulled back in a tight knot that keeps it from her face during patrols. Her dark amber eyes are fierce and direct in a dark-skinned, ruddy face that flushes darker still when her temper rises, which is not infrequently. Her features are strong and blunt: a wide jaw, a flat nose, a mouth that sets into a hard line when she is displeased. A burn mark on her left wrist — a crescent of shiny, puckered skin — is the result of a forge accident in her youth, before she left her family's smithy for the watch. She wears a mail shirt over quilted padding, leather gauntlets, and heavy boots, and carries a mace at her hip with the casual grip of someone who has used it.
 
-# Dossier {#dossier}
+## Dossier {#dossier}
 
 Sigrún was born in a working-class Aelwythan community where her family operated a small weaving business. She grew up in relative poverty but with genuine community connection. At sixteen, her family's business failed due to competition from larger operations, and her parents fell into debt. At eighteen, Sigrún joined the market square guard partially for employment and partially for reasons she would not articulate clearly: a need to protect her community from the kind of predatory economics that destroyed her family.
 
@@ -540,35 +540,35 @@ At twenty-six, during a fire that consumed a warehouse in the market district, S
 
 Now at thirty-one, she serves as market square guard with the reputation of someone who will rush into burning buildings for her community. This reputation is accurate but also somewhat misleading; Sigrún is methodical and careful in her actual work. She simply refuses to abandon people who are in danger, even when doing so would be professionally wise.
 
-## Psyche
+### Psyche
 
-### Personality
+#### Personality
 
 Sigrún is fierce and protective, moving through the market with the bearing of someone who owns the space. She speaks loudly and confidently, and has little patience for people who exploit the vulnerable. She is not cruel but she is not gentle to those she perceives as predatory. She has a fierce sense of humor and is capable of genuine warmth with people she respects. She carries herself with aggressive confidence that makes most people instinctively defer to her.
 
-### Motivation
+#### Motivation
 
 Sigrún's primary motivation is protecting her community—literally and figuratively. She wants the market square to be a safe place for working people and explicitly distrusts merchants and authorities who treat the poor as disposable. Her secondary motivation is preventing the kind of economic exploitation that destroyed her family. She is driven by both love for her community and anger at systems that prey upon it.
 
-### Strengths
+#### Strengths
 
 Her physical strength and capability are exceptional. She is genuinely fearless in the face of danger to others. She has sophisticated understanding of community dynamics and can read social situations accurately. Her willingness to personally intervene in dangerous situations makes her extraordinarily effective as a protective force.
 
-## Social
+### Social
 
 Sigrún is beloved by the working-class community of the market square and deeply trusted by merchants of moderate means. She is distrusted and avoided by wealthy merchants who she has opposed, and treated with careful respect by city authorities who recognize her community support.
 
-## Companions
+### Companions
 
-### Patrons
+#### Patrons
 
 **Market Master Elyric Thornwell** — The administrator responsible for market square operations. Elyric is a fair-minded merchant himself who respects Sigrún's commitment to community protection. He has supported her and ensured that her authority is recognized and backed by institutional power.
 
-### Enemies
+#### Enemies
 
 **Merchant Magnate Verath Coldstone** — A wealthy merchant who has been systematically buying up small businesses in the market district and consolidating them under his control. Sigrún recognizes this process as similar to what destroyed her family and has actively opposed him. Verath views her as an obstacle and is working to have her reassigned or dismissed from the market square.
 
-## Plot Hooks
+### Plot Hooks
 
 1. **The Corporate Takeover** — Merchant Magnate Verath accelerates his acquisition of market businesses and Sigrún realizes his plan is to eliminate independent merchants entirely and monopolize the market under his control. He is using technically legal financial mechanisms to do so. Sigrún can see it happening but can barely stop any individual transaction. She attempts to warn merchants, but many are desperate enough to accept Verath's buyout offers. Sigrún considers more aggressive interference but that would exceed her authority. She must choose between accepting the takeover or taking extra-legal action to prevent it.
 

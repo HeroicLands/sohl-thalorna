@@ -16,8 +16,6 @@ name:
 shortcode: kiximtzul2
 ---
 
-# K'ixim Tzul
-
 ## Overview
 
 _To be written._ K'ixim Tzul is the central city and seat of the [[affiliation-kiximtzul|K'ixim Tzul]] city-state.

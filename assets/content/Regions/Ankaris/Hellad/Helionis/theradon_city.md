@@ -17,8 +17,6 @@ name:
 shortcode: theradon2
 ---
 
-# Therádon
-
 ## Overview
 
 _To be written._ Therádon is the capital and principal settlement of [[affiliation-theradon|Therádon]].

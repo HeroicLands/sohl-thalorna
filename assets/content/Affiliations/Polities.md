@@ -10,8 +10,6 @@ description: States, kingdoms, empires, and other political bodies.
 banner: systems/sohl/assets/images/banners/polity.webp
 ---
 
-# Polities
-
 States, kingdoms, empires, and other political bodies.
 
 ```sql

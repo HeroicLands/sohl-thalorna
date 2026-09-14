@@ -10,6 +10,4 @@ shortcode: kanixhakandty
 packFolder: deitiesitzani
 ---
 
-# K'anix Ha'kan
-
 TBD

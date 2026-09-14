@@ -18,8 +18,6 @@ shortcode: tiravellake
 packFolder: provenzia
 ---
 
-# Lake Tiravel
-
 **Lake Tiravel** lies in the eastern uplands, in a broad basin below the Tarvénian passes — a large,
 deep, cold mountain lake, and the one part of Sèrramarca, Provènzia's eastern march that is not principally about
 the frontier.

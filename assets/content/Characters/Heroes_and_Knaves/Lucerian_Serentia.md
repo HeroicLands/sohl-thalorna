@@ -555,23 +555,23 @@ sohl:
     defaultCombatGroup: null
 ---
 
-# Appearance {#appearance}
+## Appearance {#appearance}
 
 Lucerian Serentia is a handsome young man whose appearance screams wealth and education in an environment that has neither. His brown hair is neatly trimmed, his green eyes are sharp and analytical behind an expression of perpetual, slightly anxious alertness, and his clothing — though travel-worn — is of noticeably finer quality than anything else aboard the Tamzîr. He maintains his grooming with fastidious care, a habit his crewmates find equal parts admirable and irritating. He carries a large leather medical bag of exquisite craftsmanship, containing surgical instruments of the finest quality and an extensive supply of drugs and herbs. He also carries an eating fork, which the crew considers the height of pretension.
 
-# Dossier {#dossier}
+## Dossier {#dossier}
 
-## Background
+### Background
 
-### Origin
+#### Origin
 
 Lucerian was born in the Vylarian city of Belekos, the son of a wealthy and successful guild merchant. His family occupied the comfortable upper tiers of Vylarian society — not nobility, but close enough to move in those circles. Lucerian was brilliant from childhood, excelling in every academic pursuit, and his parents had every expectation that he would enter the imperial civil service or perhaps the university. Instead, at sixteen, he chose medicine.
 
-### Training
+#### Training
 
 Lucerian apprenticed to a renowned surgeon-physician in Azerya, the intellectual capital of the southern coast, where medical training is considered the finest in the known world. He proved to be a prodigy — his hands were supernaturally steady, his mind was sharp as a scalpel, and his capacity for absorbing complex medical knowledge was extraordinary. By twenty-two he had completed his training and was poised for a brilliant career in the Vylarian medical establishment.
 
-### The Rescue
+#### The Rescue
 
 Everything changed when Lucerian's younger sister, Cibella, was taken by the Ordo Arcanis.
 
@@ -579,43 +579,43 @@ Cibella had always been different — brilliant, mercurial, and possessed of an 
 
 Lucerian sacrificed everything to get her out. He used his family's wealth, called in every favor he had, and ultimately resorted to outright theft and deception to extract Cibella from the Ordo's facility. In doing so, he made himself a fugitive. The Ordo does not forgive theft of their property, and they consider Cibella exactly that — their property.
 
-### Aboard the Tamzîr
+#### Aboard the Tamzîr
 
 Lucerian and Cibella boarded the Tamzîr eighteen months ago in a desperate arrangement brokered through Shâ's network of contacts. Lucerian pays well for their passage and provides the crew with medical care they could never otherwise afford. In return, the Tamzîr's constant movement and the crew's discretion keep the siblings one step ahead of the Ordo's agents. It is a fragile arrangement, and Lucerian lives in constant fear that it will collapse.
 
-## Psyche
+### Psyche
 
-### Personality
+#### Personality
 
 Lucerian is brilliant, anxious, and deeply out of his depth in the world he now inhabits. He was raised for drawing rooms and lecture halls, not smuggling ships and dockside brawls. He can be prickly, condescending, and socially clumsy — not out of malice but out of a fundamental inability to calibrate his behavior to his surroundings. He is fiercely protective of his sister to the point of obsession, and this protectiveness sometimes makes him rigid, controlling, and blind to Cibella's own agency.
 
-### Motivation
+#### Motivation
 
 Cibella. Everything Lucerian does is for his sister. He gave up his career, his family, his wealth, and his future to save her, and he would do it again without hesitation. Beyond her safety, he harbors a growing anger toward the Ordo Arcanis — not the hot anger of a revolutionary, but the cold fury of a man who has seen what institutional power does when it operates without accountability.
 
-### Strengths
+#### Strengths
 
 Lucerian is one of the finest physicians alive. His surgical skill is extraordinary, his pharmacological knowledge is encyclopedic, and his diagnostic ability borders on the intuitive. He is also genuinely brilliant — able to learn quickly, think clearly under pressure, and solve complex problems.
 
-### Weaknesses
+#### Weaknesses
 
 He is arrogant about his intelligence and dismissive of people he considers less educated. He has poor social skills in casual settings and can be maddeningly rigid about protocol and propriety. His obsessive focus on protecting Cibella sometimes blinds him to her needs as a person rather than a patient. He is also physically unimposing and nearly useless in a fight.
 
-## Social
+### Social
 
-### Patrons
+#### Patrons
 
 Lucerian's family wealth has been largely spent on the escape and subsequent flight. He still has enough gold to pay for passage, but his resources are dwindling. He has no patrons — the Ordo has ensured that anyone who might help him knows the cost.
 
-### Enemies
+#### Enemies
 
 The **Ordo Arcanis** wants Cibella back, and they want Lucerian punished for taking her. They operate through Vylarian imperial channels — court agents, bounty hunters, political leverage — making every Vylarian port a potential trap. The deeper danger is that the Ordo's interest in Cibella is not merely proprietary; the experiments they conducted suggest they believe she possesses abilities of extraordinary strategic value.
 
-### Affiliations
+#### Affiliations
 
 Passenger aboard the **Tamzîr**. Brother and guardian of **Cibella Serentia**. He has formed a grudging mutual respect with **Captain Eshârum Tarûzî**, who reminds him — uncomfortably — that principle and pragmatism are not always compatible.
 
-## Plot Hooks
+### Plot Hooks
 
 1. **The Cure That Isn't**: Lucerian hears of a physician in a distant port who claims to have treated patients with damage similar to Cibella's. The treatment is experimental and risky, but it offers hope where there has been none. Reaching the physician means sailing into waters heavily patrolled by Vylarian naval forces.
 

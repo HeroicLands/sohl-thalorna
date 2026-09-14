@@ -10,6 +10,4 @@ shortcode: angarosdty
 packFolder: deitiesashalan
 ---
 
-# Ángáróš
-
 TBD

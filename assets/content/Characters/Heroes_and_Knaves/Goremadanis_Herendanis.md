@@ -577,11 +577,11 @@ sohl:
     defaultCombatGroup: null
 ---
 
-# Appearance {#appearance}
+## Appearance {#appearance}
 
 Goremadânis stands 5'8" tall with a medium build. She has light olive skin, light brown hair, and brown eyes. Her features include a diamond-shaped face, an aquiline nose, a sharp jawline, an expressive mouth, light brows, high cheeks.
 
-# Dossier {#dossier}
+## Dossier {#dossier}
 
 **Orphaned Beginnings**
 
@@ -595,19 +595,19 @@ For fifteen years, the sea has been Goremadânis's home and her education. She s
 
 At twenty-two, Goremadânis operates as a reliable hired hand—a deck worker, navigator, and general utility crew member for whichever captain can afford her services. She maintains deep loyalty to **Captain Revik Saltmask**, who saved her life, but she also works other vessels when **Saltmask** has no need of her services. She has begun saving coin toward a distant dream—perhaps one day to own a small vessel of her own, or to become a navigator-for-hire to adventurers and explorers. She remains blissfully unaware that she has caught the romantic eye of several crew members and minor naval officers who admire her spirit from a distance.
 
-## Psyche
+### Psyche
 
-### Personality
+#### Personality
 
 Goremadânis possesses an uncomplicated joy in her work and an infectious enthusiasm for the sea that borders on the spiritual. She approaches new tasks with confidence, assuming that if others can do something, she can learn to do it, given sufficient time and effort. This optimism occasionally makes her underestimate dangers or fail to grasp the complexities of political maneuvering—she tends to interpret the world in straightforward terms, and deception sometimes catches her off guard.
 
 She is genuinely friendly and open-hearted, forming quick attachments to people who treat her kindly. She is fiercely loyal to those she considers part of her circle, particularly **Captain Saltmask**, and she would perform dangerous acts without hesitation for those who have earned her trust. She laughs readily, sings passably, and finds humor in difficult situations. She has a practical sensibility about work and survival—no shame in doing difficult labor, no false pride about her origins.
 
-### Motivation
+#### Motivation
 
 Goremadânis is driven by gratitude toward **Captain Saltmask** and a desire to eventually achieve independence through mastery of seamanship and navigation. She dreams of commanding her own vessel someday, though this dream feels distant and somewhat improbable. She seeks to prove that her humble origins do not limit her potential, and she yearns for recognition of her skills beyond the patronizing approval that sometimes comes from crew members who view her primarily as a charming young woman. She is also increasingly curious about the larger world beyond the merchant routes she knows—she envies adventurers their freedom and their ability to pursue meaningful quests beyond the simple business of commerce and cargo.
 
-### Strengths
+#### Strengths
 
 - **Exceptional Climbing and Physical Agility**: Her climbing score of 14 reflects years of scrambling through ship's rigging, shinning up masts, and navigating complex three-dimensional vessel architecture. She is more comfortable in vertical spaces and on swaying lines than most people are on solid ground.
 - **Skilled Navigator**: Though self-taught, she has developed an intuitive understanding of celestial navigation, current patterns, and weather prediction. Her dexterity and perception enable her to manage complex navigation calculations with reasonable accuracy.
@@ -615,7 +615,7 @@ Goremadânis is driven by gratitude toward **Captain Saltmask** and a desire to 
 - **Quick Learning**: Her reasoning score of 12 combined with her genuine enthusiasm allows her to grasp new concepts rapidly. She has learned most of her skills through observation and imitation rather than formal instruction, testimony to her adaptive intelligence.
 - **Seamanship and Awareness**: She possesses an almost intuitive understanding of water conditions, ship behavior, and the subtle signs of approaching weather. Her awareness and seamanship scores reflect countless hours spent in genuine attentiveness.
 
-### Weaknesses
+#### Weaknesses
 
 - **Limited Physical Strength**: Her strength score of 10 means she struggles with tasks requiring brute force—hauling the heaviest cargo, wrestling with stubborn rigging in high wind, or engaging in prolonged physical labor relative to larger crew members.
 - **Naiveté Regarding Social Complexity**: She tends toward straightforward honesty and is sometimes blind to political maneuvering, betrayal, or social manipulation. She assumes people's statements are truthful unless proven otherwise, a vulnerability in urban and courtly settings.
@@ -623,23 +623,23 @@ Goremadânis is driven by gratitude toward **Captain Saltmask** and a desire to 
 - **Practical Inexperience Beyond the Sea**: She struggles with horseback riding, sustained walking on land, and the business aspects of commerce. Her practical skills are almost entirely maritime.
 - **Insufficient Confidence in Authority**: Younger and lacking formal rank, she sometimes struggles to assert herself or give orders to older crew members, even when she has superior knowledge of a situation.
 
-## Social
+### Social
 
-### Patrons
+#### Patrons
 
 - **Captain Revik Saltmask**: Her adoptive father figure and original savior, **Saltmask** remains her primary patron and deepest loyalty. He has refused several offers to purchase her contract and insists she maintain her independence and freedom to choose her work.
 - **The Crews of Various Merchant Vessels**: The collective captains and officers of the ships she regularly works for, who value her reliability and skills. She has become a known commodity among **Moktur's** merchant marine.
 
-### Enemies
+#### Enemies
 
 - **Slave Trader Devorin**: A merchant of human suffering who operates out of hidden docks in **Moktur**, **Devorin** has attempted multiple times to capture **Goremadânis**, viewing her as a valuable commodity. **Captain Saltmask** has protected her thus far, but the threat remains.
 - **The Stern Order of Naval Tradition**: Some of the older, more conservative naval officers view her presence aboard vessels as a violation of maritime tradition and believe women have no place in honest seafaring. They sometimes attempt to bar her from work or undermine her standing with captains.
 
-### Affiliations
+#### Affiliations
 
 - **Informal Merchant Marine Community**: While not a member of any formal organization, she is known among **Moktur's** maritime workers and enjoys a loose affiliation based on reputation and mutual respect.
 
-## Plot Hooks
+### Plot Hooks
 
 1. **The Cartographer's Prize**: An elderly scholar and cartographer approaches **Goremadânis** with an unusual proposition: he believes he has discovered evidence that ancient, pre-sinking maps to legendary islands exist, and he needs a skilled navigator to help recover them from a wreck site far beyond the established shipping lanes. He cannot persuade **Captain Saltmask** to risk his vessel, so he hires the party to escort and assist **Goremadânis**. The journey becomes an extended expedition into unknown waters, where the party encounters rival explorers, actual dangers marked only on ancient charts, and eventually discovers whether the legendary islands are real—and whether reaching them would be fortune or doom.
 

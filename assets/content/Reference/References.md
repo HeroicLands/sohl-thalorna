@@ -10,8 +10,6 @@ description: Reference materials and source documents.
 banner: systems/sohl/assets/images/banners/reference.webp
 ---
 
-# References
-
 Reference materials and source documents.
 
 ```sql

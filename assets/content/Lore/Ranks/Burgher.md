@@ -10,8 +10,6 @@ shortcode: burgherrnk
 description: "Enrolled in a city's register, entitled to trade in its markets and plead in its courts."
 ---
 
-# Burgher
-
 Enrolled in a city's register, entitled to trade in its markets and plead in its courts.
 
 ## Obligations and Rights

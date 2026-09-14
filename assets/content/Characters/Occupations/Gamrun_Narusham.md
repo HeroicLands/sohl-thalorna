@@ -550,11 +550,11 @@ sohl:
     defaultCombatGroup: null
 ---
 
-# Appearance {#appearance}
+## Appearance {#appearance}
 
 Gamrûn Narûsham is a 45-year-old man who stands 6'1" tall and is of moderate build. He has a diamond face with soft cheekbones, a narrow forehead, and an angular jaw that leads to a firm chin. His piercing brown eyes sit beneath prominent brows, lending him a penetrating gaze. A hawkish nose and expressive lips complete his features. He has tanned skin with a smooth complexion. His brown hair is cropped short.
 
-# Dossier {#dossier}
+## Dossier {#dossier}
 
 Born in the Harad region to a guilded family of Haradian heritage, Gamrûn Narûsham came into the world of the swordmaster through a combination of circumstance and aptitude.
 
@@ -562,37 +562,37 @@ Cedric is a veteran swordsman who once served as a guard captain for a prominent
 
 Now at 45 years of age, Gamrûn Narûsham has established himself as a known figure among the swordmasters of Harad. His reputation, for better or worse, precedes him in the circles where such things matter.
 
-## Psyche
+### Psyche
 
-### Personality
+#### Personality
 
 Age has affected his stamina and flexibility; struggles with accepting that he is past his prime.
 
-### Motivation
+#### Motivation
 
 Gamrûn is driven by the desire to master his craft and secure a stable future. The uncertainties of life in swordmaster work keep him vigilant and adaptable.
 
-### Strengths
+#### Strengths
 
 Expert in swordsmanship, experienced in combat tactics, skilled teacher.
 
-## Social
+### Social
 
 Gamrûn is affiliated with City Swordmasters' Guild.
 
 As a Haradian swordmaster, Gamrûn occupies a recognized social niche within Harad society.
 
-## Companions
+### Companions
 
-### Patrons
+#### Patrons
 
 Gamrûn's primary patron is Wealthy nobles who hire him to train their children.. This relationship provides both opportunity and obligation.
 
-### Enemies
+#### Enemies
 
 Rival swordmasters who challenge his reputation.
 
-## Plot Hooks
+### Plot Hooks
 
 1. **The Swordmaster's Dilemma** — Gamrûn faces a professional crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Harad.
 

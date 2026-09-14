@@ -549,11 +549,11 @@ sohl:
     defaultCombatGroup: null
 ---
 
-# Appearance {#appearance}
+## Appearance {#appearance}
 
 Áleren Párdalen is a 48-year-old man who stands 5'9" tall and is of moderate build. He has a heart-shaped face with angular cheekbones, a broad forehead, and an angular jaw that leads to a narrow chin. His hooded hazel eyes sit beneath thin brows, lending him a guarded gaze. A slightly upturned nose and thin lips complete his features. He has light skin with a clear complexion. His brown hair is combed neatly to one side.
 
-# Dossier {#dossier}
+## Dossier {#dossier}
 
 Born in the Élavendre region to a freeman family of Élavendri heritage, Áleren Párdalen came into the world of the shaman through a combination of circumstance and aptitude.
 
@@ -561,37 +561,37 @@ Torvin became a shaman after a profound vision during a hunting expedition. Sinc
 
 Now at 48 years of age, Áleren Párdalen has established himself as a known figure among the shamans of Élavendre. His reputation, for better or worse, precedes him in the circles where such things matter.
 
-## Psyche
+### Psyche
 
-### Personality
+#### Personality
 
 Less inclined to believe in grand mystical experiences, prefers a more grounded approach.
 
-### Motivation
+#### Motivation
 
 Áleren is driven by the desire to master his craft and secure a stable future. The uncertainties of life in shaman work keep him vigilant and adaptable.
 
-### Strengths
+#### Strengths
 
 Skilled mediator, experienced in practical rituals and conflict resolution.
 
-## Social
+### Social
 
 Áleren is affiliated with Tribal Council of Shamans.
 
 As a Élavendri shaman, Áleren occupies a recognized social niche within Élavendre society.
 
-## Companions
+### Companions
 
-### Patrons
+#### Patrons
 
 Áleren's primary patron is Tribal warriors who respect his no-nonsense attitude.. This relationship provides both opportunity and obligation.
 
-### Enemies
+#### Enemies
 
 Traditionalist shamans who think he lacks reverence for ancient customs.
 
-## Plot Hooks
+### Plot Hooks
 
 1. **The Shaman's Dilemma** — Áleren faces a professional crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Élavendre.
 

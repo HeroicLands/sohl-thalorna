@@ -95,8 +95,6 @@ data:
   relations: {}
 ---
 
-# Málalidabandalag
-
 _Old Norse: "Pay-Troop Compact" — the league of mercenary companies_
 
 - **Type:** Mercenary compact / regulatory body

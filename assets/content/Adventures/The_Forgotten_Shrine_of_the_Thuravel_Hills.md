@@ -19,15 +19,15 @@ data:
 packFolder: adventures
 ---
 
-# The Forgotten Shrine of the Thúravel Hills
+## The Forgotten Shrine of the Thúravel Hills
 
 A shrine hidden in the Thúravel Hills holds secrets of pre-Aurèldían traditions. The party must locate and explore it, uncovering what knowledge or power the ancients left behind—and what prices came with it.
 
-## Overview
+### Overview
 
 Deep in the Thúravel Hills of southern [[place-provenzrgn|Provènzia Region]] stands a shrine forgotten by official history but remembered in old songs and fragmentary records. Built long before the [[affiliation-arldnpnthn|Aurèldían]] faith took root in the region, the shrine was dedicated to deities and traditions that predate human civilization or were supplanted centuries ago. Local legends speak of the shrine as a place of great power and terrible danger, where those who worship there gain favor or incur wrath from forces beyond human comprehension. The party is hired to locate the shrine, document its contents, and recover any artifacts or knowledge it contains.
 
-## Stage One: The Commission & Research
+### Stage One: The Commission & Research
 
 The party is approached by:
 
@@ -53,7 +53,7 @@ The party is approached by:
 - A suspicious Aurèldían priestess concerned about heresy
 - A mysterious figure with knowledge of or connection to the old traditions
 
-## Stage Two: The Search
+### Stage Two: The Search
 
 The party must locate the shrine, a journey that may prove challenging:
 
@@ -72,7 +72,7 @@ The party must locate the shrine, a journey that may prove challenging:
 - Environmental hazards grow more severe as the party approaches
 - A party member is drawn by dreams or visions toward the shrine (welcome or unwelcome)
 
-## Stage Three: Approaching the Shrine
+### Stage Three: Approaching the Shrine
 
 As the party draws near, they discover:
 
@@ -90,7 +90,7 @@ As the party draws near, they discover:
 - A rival expedition or faction seeking the shrine's knowledge
 - Environmental hazards woven into the sacred space
 
-## Stage Four: Exploration & Discovery
+### Stage Four: Exploration & Discovery
 
 Within the shrine, the party discovers:
 
@@ -118,7 +118,7 @@ Within the shrine, the party discovers:
 - A warning or prophecy inscribed in the shrine
 - The shrine's true purpose is different from what history or legend claims
 
-## Stage Five: Resolution & Consequences
+### Stage Five: Resolution & Consequences
 
 The party must decide what to do with the shrine and its secrets:
 
@@ -147,7 +147,7 @@ The party must decide what to do with the shrine and its secrets:
 - The shrine becomes a focus point for larger conflicts (factions vying for its control or power)
 - The party may be drawn into worship of the old traditions or become their defenders
 
-## See Also
+### See Also
 
 - [[place-provenzrgn|Provènzia Region]]
 - [[affiliation-kngdmprvnz|Kingdom of Provènzia]]

@@ -550,11 +550,11 @@ sohl:
     defaultCombatGroup: null
 ---
 
-# Appearance {#appearance}
+## Appearance {#appearance}
 
 Júlisa Maríthran is a 52-year-old woman who stands 5'10" tall and is of moderate build. She has an oval face with sharp cheekbones, a narrow forehead, and a strong jaw that leads to a prominent chin. Her hooded brown eyes sit beneath straight brows, lending her a guarded gaze. A strong nose and narrow lips complete her features. She has dark skin with a weathered complexion. Her brown hair is pulled back tightly from her face.
 
-# Dossier {#dossier}
+## Dossier {#dossier}
 
 Born in the Tarvénia region to a guilded family of Tarvénan heritage, Júlisa Maríthran came into the world of the innkeeper through a combination of circumstance and aptitude.
 
@@ -562,37 +562,37 @@ Sigrun took over the Stoneheart Inn after her husband passed away. She is known 
 
 Now at 52 years of age, Júlisa Maríthran has established herself as a known figure among the innkeepers of Tarvénia. Her reputation, for better or worse, precedes her in the circles where such things matter.
 
-## Psyche
+### Psyche
 
-### Personality
+#### Personality
 
 Can be overly strict with staff, struggles with stress.
 
-### Motivation
+#### Motivation
 
 Júlisa is driven by the desire to master her craft and secure a stable future. The uncertainties of life in innkeeper work keep her vigilant and adaptable.
 
-### Strengths
+#### Strengths
 
 Skilled cook, strong work ethic, resilient.
 
-## Social
+### Social
 
 Júlisa is affiliated with Local Innkeepers' Association.
 
 As a Tarvénan innkeeper, Júlisa occupies a recognized social niche within Tarvénia society.
 
-## Companions
+### Companions
 
-### Patrons
+#### Patrons
 
 Júlisa's primary patron is Regular guests and local families.. This relationship provides both opportunity and obligation.
 
-### Enemies
+#### Enemies
 
 Few; generally respected in her community.
 
-## Plot Hooks
+### Plot Hooks
 
 1. **The Innkeeper's Dilemma** — Júlisa faces a professional crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Tarvénia.
 

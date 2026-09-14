@@ -552,11 +552,11 @@ sohl:
     defaultCombatGroup: null
 ---
 
-# Appearance {#appearance}
+## Appearance {#appearance}
 
 Vólyra Brýlond is a 34-year-old woman who stands 5'7" tall and is slender. She has a heart-shaped face with wide-set cheekbones, a lined forehead, and an angular jaw that leads to a firm chin. Her narrow brown eyes sit beneath thin brows, lending her a keen gaze. A straight nose and curved lips complete her features. She has light skin with a bronzed complexion. Her gray hair is swept up and held with carved combs.
 
-# Dossier {#dossier}
+## Dossier {#dossier}
 
 Born in the Provènzia region to a freeman family of Provenzian heritage, Vólyra Brýlond came into the world of the thatcher through a combination of circumstance and aptitude.
 
@@ -564,37 +564,37 @@ Marwen learned the craft of thatching from her father, a well-known thatcher in 
 
 Now at 34 years of age, Vólyra Brýlond has established herself as a known figure among the thatchers of Provènzia. Her reputation, for better or worse, precedes her in the circles where such things matter.
 
-## Psyche
+### Psyche
 
-### Personality
+#### Personality
 
 Sometimes takes on too much work, struggles to say no to clients.
 
-### Motivation
+#### Motivation
 
 Vólyra is driven by the desire to master her craft and secure a stable future. The uncertainties of life in thatcher work keep her vigilant and adaptable.
 
-### Strengths
+#### Strengths
 
 Skilled in thatching, attentive to detail, innovative.
 
-## Social
+### Social
 
 Vólyra is affiliated with None; works independently..
 
 As a Provenzian thatcher, Vólyra occupies a recognized social niche within Provènzia society.
 
-## Companions
+### Companions
 
-### Patrons
+#### Patrons
 
 Vólyra's primary patron is Farmers and villagers who appreciate her work.. This relationship provides both opportunity and obligation.
 
-### Enemies
+#### Enemies
 
 Few; has generally earned the respect of the community.
 
-## Plot Hooks
+### Plot Hooks
 
 1. **The Thatcher's Dilemma** — Vólyra faces a professional crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Provènzia.
 

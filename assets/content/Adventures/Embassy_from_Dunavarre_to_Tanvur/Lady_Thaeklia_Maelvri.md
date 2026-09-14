@@ -24,8 +24,6 @@ data:
   species: null
 ---
 
-# Lady Thaeklia Maelvri
-
 **Role.** Assists in negotiations and serves as an interpreter.
 
 **Background.** Possesses extensive knowledge of eastern customs.

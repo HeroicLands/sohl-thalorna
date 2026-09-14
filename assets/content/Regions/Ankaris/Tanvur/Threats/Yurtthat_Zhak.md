@@ -100,8 +100,6 @@ shortcode: yurthatzhk
 packFolder: threats
 ---
 
-# Yürtthāt Zhāk
-
 **The House of the Clouded Mountain**
 
 The **Yürtthāt Zhāk**, once a pillar of the [[affiliation-tanvurempr|Empire of Tānvür]], now stands on the precipice of ruin.

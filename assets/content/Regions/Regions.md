@@ -10,8 +10,6 @@ description: Geographic and cultural regions.
 banner: banners/region.webp
 ---
 
-# Regions
-
 Geographic and cultural regions.
 
 ```sql

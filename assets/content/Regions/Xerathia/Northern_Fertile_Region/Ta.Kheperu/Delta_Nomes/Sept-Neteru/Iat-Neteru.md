@@ -18,8 +18,6 @@ shortcode: iatneteru
 packFolder: deltanomes
 ---
 
-# Iat-Neteru
-
 ## Overview
 
 Iat-Neteru is the capital of [[affiliation-nomesptntr|the Nome of Sept-Neteru]] and the seat of its [[affiliation-empirtkhpr#titles-and-forms-of-address|Haty'a]]. It holds the nome's chief temple of [[affiliation-iset|Íšét]], the Haty'a's court and granaries, the scribal bureau that keeps the tax rolls, and the markets that serve the surrounding villages and estate-towns. Its character is the nome's: the shrine-islands; a quiet pilgrimage nome of marsh-temples and few people.

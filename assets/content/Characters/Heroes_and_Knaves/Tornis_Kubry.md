@@ -566,11 +566,11 @@ sohl:
     defaultCombatGroup: null
 ---
 
-# Appearance {#appearance}
+## Appearance {#appearance}
 
 Tórnis is a man of thirty with a slender, roguish appearance—fair-skinned, with dark blonde hair and green eyes. His face is the kind that is easy to forget: pleasant, unremarkable, and perfectly suited to a man who makes his living not being noticed. He moves with an easy, unhurried confidence that makes him look like he belongs wherever he happens to be.
 
-# Dossier {#dossier}
+## Dossier {#dossier}
 
 The man who calls himself Tórnis Kúbrý was born Calen, a Tarvénan outlaw who spent years operating with a brigand band along the Ibiria-Provènzia border. He was skilled in stealth, sabotage, and manipulation—known among his comrades for his cunning and his ability to talk his way out of situations that would get a less charming man killed.
 
@@ -580,9 +580,9 @@ Tórnis presents himself as a simple, affable traveler. He is charming, easy to 
 
 Recently, his carefully maintained emotional walls have developed a crack: he has begun developing genuine feelings for Elýsè, and he is not entirely sure what to do about it.
 
-## Background
+### Background
 
-### Skills and Abilities
+#### Skills and Abilities
 
 - **Stealth**: Tórnis can move through hostile territory, urban streets, or fortified buildings without being detected. This is his primary professional skill and the reason the Silent Talon hired him.
 - **Infiltration**: He can assume identities, blend into crowds, and gain access to places and people that are supposed to be inaccessible.
@@ -590,40 +590,40 @@ Recently, his carefully maintained emotional walls have developed a crack: he ha
 - **Scouting**: An experienced pathfinder who knows the roads—particularly the ones most people avoid. He is often sent ahead of the band to survey terrain, identify threats, and gather intelligence.
 - **Combat**: Tórnis is not a frontline fighter, but he can handle himself in a scrape. He prefers a knife in close quarters and avoids fair fights whenever possible.
 
-## Psyche
+### Psyche
 
-### Personality
+#### Personality
 
 Tórnis is charming and affable, able to blend into any crowd. However, beneath his smooth exterior lies a deeply cautious and calculating individual. He trusts no one completely, preferring to stay emotionally distant even while maintaining a friendly demeanor. His past haunts him, but he is determined never to let it define him.
 
-### Motivation
+#### Motivation
 
 Tórnis seeks to distance himself from his past life as a Tarvénan brigand and build something new. The Silent Talon has given him purpose and, in Elýsè, something he did not expect to find. Whether he can let go of the habits that kept him alive as an outlaw—the lies, the distance, the constant readiness to run—remains to be seen.
 
-### Strengths
+#### Strengths
 
 - **Stealth**
 - **Deception**
 - **Infiltration**
 
-## Social
+### Social
 
-## Companions
+### Companions
 
 - **[[being-branwldrgr|Brànwâal Dôrgaar]]**: Captain of the Silent Talon. Tórnis respects Brànwâal's competence and is loyal to him—as loyal as Tórnis is capable of being.
 - **[[being-elyseskyrn|Elýsè Skýrn]]**: A developing romantic relationship that Tórnis is unsure how to handle.
 - **[[being-chlbrhydyn|Chéleb Rhýddýn]]**: Fellow band member.
 - **[[being-dornsyndlr|Dôren Sýndalr]]**: Fellow band member.
 
-### Patrons
+#### Patrons
 
 None.
 
-### Enemies
+#### Enemies
 
 Former comrades from his brigand days who survived the massacre and may be looking for Calen.
 
-## Plot Hooks
+### Plot Hooks
 
 1. **The Past Returns**: Someone from Tórnis's old life recognizes him—or worse, comes looking for Calen specifically. He must decide whether to run, fight, or finally tell the Silent Talon the truth about who he was before he joined them.
 

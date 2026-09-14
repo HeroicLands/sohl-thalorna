@@ -552,11 +552,11 @@ sohl:
     defaultCombatGroup: null
 ---
 
-# Appearance {#appearance}
+## Appearance {#appearance}
 
 Rísàkós Ibârìthôs is a 46-year-old man who stands 5'8" tall and is of moderate build. He has a long face with prominent cheekbones, a high forehead, and a square jaw that leads to a square chin. His bright brown eyes sit beneath heavy brows, lending him a lively gaze. A straight nose and firm lips complete his features. He has olive skin with a clear complexion. His black hair is tied in a low tail.
 
-# Dossier {#dossier}
+## Dossier {#dossier}
 
 Born in the Heliónis region to a freeman family of Helionite heritage, Rísàkós Ibârìthôs came into the world of the apothecary through a combination of circumstance and aptitude.
 
@@ -564,37 +564,37 @@ Osbert began as an assistant to an apothecary who dealt with both legitimate med
 
 Now at 46 years of age, Rísàkós Ibârìthôs has established himself as a known figure among the apothecarys of Heliónis. His reputation, for better or worse, precedes him in the circles where such things matter.
 
-## Psyche
+### Psyche
 
-### Personality
+#### Personality
 
 Morally flexible and willing to bend the rules for the right price.
 
-### Motivation
+#### Motivation
 
 Rísàkós is driven by the desire to master his craft and secure a stable future. The uncertainties of life in apothecary work keep him vigilant and adaptable.
 
-### Strengths
+#### Strengths
 
 Extensive knowledge of toxins and antidotes.
 
-## Social
+### Social
 
 Rísàkós is affiliated with Underground Apothecaries.
 
 As a Helionite apothecary, Rísàkós occupies a recognized social niche within Heliónis society.
 
-## Companions
+### Companions
 
-### Patrons
+#### Patrons
 
 Rísàkós's primary patron is Criminals, mercenaries, and desperate people.. This relationship provides both opportunity and obligation.
 
-### Enemies
+#### Enemies
 
 The city watch, who are suspicious of his dealings.
 
-## Plot Hooks
+### Plot Hooks
 
 1. **The Apothecary's Dilemma** — Rísàkós faces a professional crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Heliónis.
 

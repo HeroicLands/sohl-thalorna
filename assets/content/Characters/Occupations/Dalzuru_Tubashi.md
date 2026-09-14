@@ -551,11 +551,11 @@ sohl:
     defaultCombatGroup: null
 ---
 
-# Appearance {#appearance}
+## Appearance {#appearance}
 
 Dalzûru Tûbashî is a 43-year-old man who stands 5'10" tall and is of moderate build. He has an angular face with prominent cheekbones, a high forehead, and a narrow jaw that leads to a strong chin. His large hazel eyes sit beneath arched brows, lending him an expressive gaze. A straight nose and curved lips complete his features. He has medium-toned skin with an olive-toned complexion. His dark brown hair is cropped short.
 
-# Dossier {#dossier}
+## Dossier {#dossier}
 
 Born in the Harad region to a freeman family of Haradian heritage, Dalzûru Tûbashî came into the world of the skald through a combination of circumstance and aptitude.
 
@@ -563,37 +563,37 @@ Sigurd was raised in a warrior's family but found his true calling as a skald, w
 
 Now at 43 years of age, Dalzûru Tûbashî has established himself as a known figure among the skalds of Harad. His reputation, for better or worse, precedes him in the circles where such things matter.
 
-## Psyche
+### Psyche
 
-### Personality
+#### Personality
 
 Sometimes perceived as aloof, struggles to adapt stories for different audiences.
 
-### Motivation
+#### Motivation
 
 Dalzûru is driven by the desire to master his craft and secure a stable future. The uncertainties of life in skald work keep him vigilant and adaptable.
 
-### Strengths
+#### Strengths
 
 Skilled storyteller, powerful voice, knowledgeable in Nordmen history.
 
-## Social
+### Social
 
 Dalzûru is affiliated with Nordic Skalds' Guild.
 
 As a Haradian skald, Dalzûru occupies a recognized social niche within Harad society.
 
-## Companions
+### Companions
 
-### Patrons
+#### Patrons
 
 Dalzûru's primary patron is Local chieftains and warriors who appreciate his tales of heroism.. This relationship provides both opportunity and obligation.
 
-### Enemies
+#### Enemies
 
 Rival skalds who envy his skill and fame.
 
-## Plot Hooks
+### Plot Hooks
 
 1. **The Skald's Dilemma** — Dalzûru faces a professional crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Harad.
 

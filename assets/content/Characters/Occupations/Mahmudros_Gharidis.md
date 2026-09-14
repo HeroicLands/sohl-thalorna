@@ -553,11 +553,11 @@ sohl:
     defaultCombatGroup: null
 ---
 
-# Appearance {#appearance}
+## Appearance {#appearance}
 
 Maḥmûdrós Gharîdís is a 54-year-old man who stands 6'0" tall and is broad and solidly built. He has a long face with broad cheekbones, a wide forehead, and a sharp jaw that leads to a firm chin. His wide-set dark brown eyes sit beneath arched brows, lending him an open gaze. An aquiline nose and expressive lips complete his features. He has medium-toned skin with a smooth complexion. His graying brown hair is tied in a low tail. A notable feature is crow's feet at the corners of sharp eyes.
 
-# Dossier {#dossier}
+## Dossier {#dossier}
 
 Born in the Heliónis region to a freeman family of Helionite heritage, Maḥmûdrós Gharîdís came into the world of the hideworker through a combination of circumstance and aptitude.
 
@@ -565,37 +565,37 @@ Grimwald has been a hideworker for decades, known for his expertise in working w
 
 Now at 54 years of age, Maḥmûdrós Gharîdís has established himself as a known figure among the hideworkers of Heliónis. His reputation, for better or worse, precedes him in the circles where such things matter.
 
-## Psyche
+### Psyche
 
-### Personality
+#### Personality
 
 Set in his ways, struggles with new techniques or trends.
 
-### Motivation
+#### Motivation
 
 Maḥmûdrós is driven by the desire to master his craft and secure a stable future. The uncertainties of life in hideworker work keep him vigilant and adaptable.
 
-### Strengths
+#### Strengths
 
 Highly skilled, strong, experienced in working with tough materials.
 
-## Social
+### Social
 
 Maḥmûdrós is affiliated with None; prefers to work independently..
 
 As a Helionite hideworker, Maḥmûdrós occupies a recognized social niche within Heliónis society.
 
-## Companions
+### Companions
 
-### Patrons
+#### Patrons
 
 Maḥmûdrós's primary patron is Local warriors and merchants who need strong leather goods.. This relationship provides both opportunity and obligation.
 
-### Enemies
+#### Enemies
 
 Few; respected by peers, but some younger craftsmen see him as old-fashioned.
 
-## Plot Hooks
+### Plot Hooks
 
 1. **The Hideworker's Dilemma** — Maḥmûdrós faces a professional crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Heliónis.
 

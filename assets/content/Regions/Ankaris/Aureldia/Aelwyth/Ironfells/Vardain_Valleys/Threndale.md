@@ -20,8 +20,6 @@ shortcode: threndale
 packFolder: aelwyth
 ---
 
-# Threndale
-
 **Threndale** is a side valley given over to the dead, and the village of three hundred and fifty that
 tends them.
 

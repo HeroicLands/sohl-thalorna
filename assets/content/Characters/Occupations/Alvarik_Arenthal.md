@@ -552,11 +552,11 @@ sohl:
     defaultCombatGroup: null
 ---
 
-# Appearance {#appearance}
+## Appearance {#appearance}
 
 Alvárik Árenthal is a 41-year-old man who stands 6'2" tall and is broad and solidly built. He has a long face with defined cheekbones, a prominent forehead, and an angular jaw that leads to a firm chin. His piercing gray eyes sit beneath straight brows, lending him a penetrating gaze. A prominent nose and firm lips complete his features. He has medium-toned skin with a bronzed complexion. His gray hair is shorn at the sides with length on top.
 
-# Dossier {#dossier}
+## Dossier {#dossier}
 
 Born in the Tarvénia region to a freeman family of Tarvénan heritage, Alvárik Árenthal came into the world of the farmer through a combination of circumstance and aptitude.
 
@@ -564,37 +564,37 @@ Jory comes from a long line of farmers and has spent his life tending the fields
 
 Now at 41 years of age, Alvárik Árenthal has established himself as a known figure among the farmers of Tarvénia. His reputation, for better or worse, precedes him in the circles where such things matter.
 
-## Psyche
+### Psyche
 
-### Personality
+#### Personality
 
 Stubborn, resistant to new farming techniques, struggles with finances.
 
-### Motivation
+#### Motivation
 
 Alvárik is driven by the desire to master his craft and secure a stable future. The uncertainties of life in farmer work keep him vigilant and adaptable.
 
-### Strengths
+#### Strengths
 
 Skilled in agriculture, strong work ethic, experienced in animal husbandry.
 
-## Social
+### Social
 
 Alvárik is affiliated with Rural Farmers' Cooperative.
 
 As a Tarvénan farmer, Alvárik occupies a recognized social niche within Tarvénia society.
 
-## Companions
+### Companions
 
-### Patrons
+#### Patrons
 
 Alvárik's primary patron is Local millers and bakers who buy his grain.. This relationship provides both opportunity and obligation.
 
-### Enemies
+#### Enemies
 
 Landowners who occasionally dispute boundaries or water rights.
 
-## Plot Hooks
+### Plot Hooks
 
 1. **The Farmer's Dilemma** — Alvárik faces a professional crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Tarvénia.
 

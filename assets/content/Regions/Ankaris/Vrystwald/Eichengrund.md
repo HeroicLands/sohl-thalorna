@@ -18,8 +18,6 @@ shortcode: eichengrnd
 packFolder: vrystwald
 ---
 
-# Eichengrund
-
 ## Overview
 
 _To be written._

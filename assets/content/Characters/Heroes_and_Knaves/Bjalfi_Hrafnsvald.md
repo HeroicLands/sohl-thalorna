@@ -584,11 +584,11 @@ sohl:
     defaultCombatGroup: null
 ---
 
-# Appearance {#appearance}
+## Appearance {#appearance}
 
 Thjótharr stands 6'0" tall with a medium build. He has light fair skin, brown hair, and gray eyes. His features include a rectangular face, a slightly upturned nose, a square jawline, a firm-set mouth, thick brows, hollow cheeks.
 
-# Dossier {#dossier}
+## Dossier {#dossier}
 
 Bjalfi was born in a rural settlement of the **Kingdom of Vithgard**, the son of **[[being-hrfnklhrfnsvld|Hrafnkell Hrafnsvald]]**, a soldier who enlisted in Vithgard's levy when Bjalfi was only three years old. With his father away fighting in the border conflicts, Bjalfi was raised primarily by his mother on the family's small farm in the borderlands—a region prone to bandit raids and territorial disputes. He grew up knowing his father only through stories and the occasional brief visit between campaigns.
 
@@ -600,19 +600,19 @@ At eighteen, Bjalfi joined the local militia, impressing his commander almost im
 
 Recently promoted to the rank of sergeant, Bjalfi stands at a crossroads. **Captain Aldric** has suggested he could rise further, perhaps eventually assume leadership of the militia itself. Yet Bjalfi feels the weight of something larger stirring—hints that bandit activity is coordinated by unseen powers, suggestions that the relative peace of the region may be ending.
 
-## Psyche
+### Psyche
 
-### Personality
+#### Personality
 
 Bjalfi is earnest and direct, with little interest in political maneuvering or social posturing. He speaks plainly and acts decisively. What he lacks in years of experience he compensates for with determination and an almost supernatural capacity to learn from each encounter. In conversation, he is respectful and humble, showing particular deference to experienced fighters who have wisdom to share.
 
 There is an underlying idealism to Bjalfi that sometimes puts him at odds with the cynicism of older soldiers. He genuinely believes that order can be maintained, that justice serves a purpose, and that individual actions matter. This idealism has occasionally made him reckless—charging into situations that more experienced heads would have cautioned against—but it also makes him beloved by the common people he protects.
 
-### Motivation
+#### Motivation
 
 Bjalfi is motivated by a desire to ensure no one else suffers what his family endured—to create a world where families need not live in constant fear of violence while those who should protect them are elsewhere. He wants to be the kind of soldier and leader that **Captain Aldric** has shown is possible—someone who acts with both strength and integrity, who is present when it matters. There is also ambition beneath the idealism: a drive to rise in status, to gain the resources and authority to affect larger changes. And somewhere deeper, a need to prove to his father—and to himself—that he became something worth being proud of, despite everything.
 
-### Strengths
+#### Strengths
 
 - **Exceptional Agility and Reflexes**: Bjalfi's physical reactions are among the fastest in the militia. He can exploit openings in combat that others cannot perceive quickly enough to use.
 - **Melee Combat Mastery**: His skill with spear and shield is advanced for his age. He has trained obsessively under **Captain Aldric** and has extensive real combat experience.
@@ -620,7 +620,7 @@ Bjalfi is motivated by a desire to ensure no one else suffers what his family en
 - **Inspirational Presence**: Younger militia members naturally follow his lead, and common citizens respond positively to his straightforward manner and genuine commitment to their protection.
 - **Quick Learning**: Bjalfi absorbs lessons rapidly, both from training and from field experience. Each encounter teaches him something new, and he integrates those lessons quickly.
 
-### Weaknesses
+#### Weaknesses
 
 - **Inexperience**: At twenty-nine, Bjalfi has significant combat experience but lacks the decades of perspective that true mastery requires. There are situations he has never encountered and pitfalls he cannot anticipate.
 - **Impulsiveness**: His earnestness sometimes becomes recklessness. He occasionally rushes into dangerous situations without fully considering alternatives or waiting for support.
@@ -628,28 +628,28 @@ Bjalfi is motivated by a desire to ensure no one else suffers what his family en
 - **Naiveté about Politics**: Bjalfi tends to trust authority and has limited understanding of the political maneuvering that occurs at higher levels. He could be used as a pawn by ambitious nobles.
 - **Emotional Investment**: His genuine care for the people he protects sometimes clouds judgment. He may take risks to save individuals that endanger larger objectives.
 
-## Social
+### Social
 
-### Patrons
+#### Patrons
 
 - **Captain **Aldric Stonefist\*\*: Bjalfi's commanding officer and mentor. Aldric became the father figure Bjalfi lacked growing up, and his opinion matters more to Bjalfi than almost anyone else's.
 - **The Farming Council of **Vithgard\*\*: The communities Bjalfi's militia protects recognize him as their primary defender. They advocate for his promotions and provide support for militia operations.
 - **The Village Elder **Kara Stonekeeper\*\*: An influential elder who sees potential in Bjalfi and has been mentoring him in aspects of leadership beyond combat.
 
-### Enemies
+#### Enemies
 
 - **The Crimson Raiders**: A particularly organized bandit gang that has proven difficult to eliminate. Their leader, **Blackthorn**, has specifically marked Bjalfi, seeing him as an obstacle to their plans.
 - **Corrupt Local Officials**: Some magistrates profit from allowing banditry to continue unchecked. Bjalfi's aggressive pursuit of raiders threatens their arrangements.
 - **Ambitious Militia Rivals**: Some older militia members resent Bjalfi's rapid advancement and question whether his youth and idealism suit him for leadership.
 
-### Affiliations
+#### Affiliations
 
 - **The Militia of **Vithgard\*\*: Bjalfi's primary affiliation. He is a dedicated member and now a sergeant with increasing responsibility.
 - **The Followers of Týr**: Bjalfi actively participates in worship of the god of order and justice, and his faith is genuine—not merely ritual.
 - **[[being-hrfnklhrfnsvld|Hrafnkell Hrafnsvald]] (Father)**: Bjalfi's father, a former soldier turned tentmaker in Vithgard. Their relationship is complicated by years of absence during Bjalfi's childhood and the unspoken weight of his mother's death. They see each other from time to time, and there is love beneath the tension, but reconciliation remains a work in progress.
 - **[[being-thjthrhrfnsvld|Thjótharr Hrafnsvald]] (Uncle)**: Bjalfi's uncle, a renowned clothier in the Kingdom of Norgaad. Though they live in different realms and lead very different lives, the family bond remains. [[being-thjthrhrfnsvld|Thjótharr]]'s connections among nobility have occasionally proven useful, and Bjalfi's martial reputation lends a certain rugged credibility to the Hrafnsvald name that his uncle quietly appreciates.
 
-## Plot Hooks
+### Plot Hooks
 
 1. **The Coordinated Threat**: Bjalfi's investigations into bandit activity begin revealing patterns that suggest the raids are coordinated by a larger force—possibly a noble house, a religious faction, or something darker. **Captain Aldric** dismisses his concerns, but Bjalfi's evidence becomes increasingly difficult to ignore. Pursuing the truth might require him to act against his commander or to discover that superiors are complicit in what he has been investigating.
 

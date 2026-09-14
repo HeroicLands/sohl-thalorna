@@ -550,11 +550,11 @@ sohl:
     defaultCombatGroup: null
 ---
 
-# Appearance {#appearance}
+## Appearance {#appearance}
 
 Chánnâon Hàbîlês is a 53-year-old man who stands 6'0" tall and is of moderate build. He has a square face with defined cheekbones, a lined forehead, and a square jaw that leads to a firm chin. His almond-shaped blue eyes sit beneath heavy brows, lending him a measured gaze. A strong nose and expressive lips complete his features. He has olive-tanned skin with a smooth complexion. His brown hair is falling in loose waves.
 
-# Dossier {#dossier}
+## Dossier {#dossier}
 
 Born in the Heliónis region to a freeman family of Helionite heritage, Chánnâon Hàbîlês came into the world of the timberwright through a combination of circumstance and aptitude.
 
@@ -562,37 +562,37 @@ Brynden has been a timberwright for over three decades, providing wood for count
 
 Now at 53 years of age, Chánnâon Hàbîlês has established himself as a known figure among the timberwrights of Heliónis. His reputation, for better or worse, precedes him in the circles where such things matter.
 
-## Psyche
+### Psyche
 
-### Personality
+#### Personality
 
 Resistant to change, slower due to age.
 
-### Motivation
+#### Motivation
 
 Chánnâon is driven by the desire to master his craft and secure a stable future. The uncertainties of life in timberwright work keep him vigilant and adaptable.
 
-### Strengths
+#### Strengths
 
 Vast experience, skilled in traditional techniques, good teacher.
 
-## Social
+### Social
 
 Chánnâon is affiliated with Timberwrights' Guild.
 
 As a Helionite timberwright, Chánnâon occupies a recognized social niche within Heliónis society.
 
-## Companions
+### Companions
 
-### Patrons
+#### Patrons
 
 Chánnâon's primary patron is Builders and craftsmen who value his expertise.. This relationship provides both opportunity and obligation.
 
-### Enemies
+#### Enemies
 
 Younger timberwrights who see his methods as outdated.
 
-## Plot Hooks
+### Plot Hooks
 
 1. **The Timberwright's Dilemma** — Chánnâon faces a professional crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Heliónis.
 

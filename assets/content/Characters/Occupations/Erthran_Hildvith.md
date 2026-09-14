@@ -551,11 +551,11 @@ sohl:
     defaultCombatGroup: null
 ---
 
-# Appearance {#appearance}
+## Appearance {#appearance}
 
 Erthran Hildvith is a 44-year-old man who stands 6'0" tall and is of moderate build. He has a diamond face with defined cheekbones, a narrow forehead, and a strong jaw that leads to a firm chin. His large hazel eyes sit beneath furrowed brows, lending him an expressive gaze. A prominent nose and firm lips complete his features. He has light skin with a weathered complexion. His dark blonde hair is long and gathered with a leather thong.
 
-# Dossier {#dossier}
+## Dossier {#dossier}
 
 Born in the Vrystwald region to a freeman family of Varokhi heritage, Erthran Hildvith came into the world of the trapper through a combination of circumstance and aptitude.
 
@@ -563,37 +563,37 @@ Bram has spent his entire life in the forest, trapping animals for their fur and
 
 Now at 44 years of age, Erthran Hildvith has established himself as a known figure among the trappers of Vrystwald. His reputation, for better or worse, precedes him in the circles where such things matter.
 
-## Psyche
+### Psyche
 
-### Personality
+#### Personality
 
 Prefers solitude, struggles with social interactions and bargaining.
 
-### Motivation
+#### Motivation
 
 Erthran is driven by the desire to master his craft and secure a stable future. The uncertainties of life in trapper work keep him vigilant and adaptable.
 
-### Strengths
+#### Strengths
 
 Skilled tracker and trapper, knowledgeable about wildlife, resilient.
 
-## Social
+### Social
 
 Erthran is affiliated with None; works independently..
 
 As a Varokhi trapper, Erthran occupies a recognized social niche within Vrystwald society.
 
-## Companions
+### Companions
 
-### Patrons
+#### Patrons
 
 Erthran's primary patron is Local traders who purchase furs, and farmers who hire him to handle problem animals.. This relationship provides both opportunity and obligation.
 
-### Enemies
+#### Enemies
 
 Poachers who exploit the land and overhunt.
 
-## Plot Hooks
+### Plot Hooks
 
 1. **The Trapper's Dilemma** — Erthran faces a professional crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Vrystwald.
 

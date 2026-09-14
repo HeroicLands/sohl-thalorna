@@ -73,8 +73,6 @@ data:
   relations: {}
 ---
 
-# The Provènzia Theater Collective
-
 - **Type:** Cultural federation
 - **Region:** [[place-provenzrgn|Provènzia]] — based at the great theater quarter in the capital, with affiliated companies in every Provenzian city of consequence
 - **Founded:** Formally constituted twenty-three years ago; informal predecessor traditions stretch back centuries

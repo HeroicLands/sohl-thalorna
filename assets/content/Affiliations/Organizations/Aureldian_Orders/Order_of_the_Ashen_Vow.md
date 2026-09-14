@@ -105,8 +105,6 @@ data:
     arldnpnthn: aligned
 ---
 
-# The Order of the Ashen Vow
-
 _Aurèldían: Ordo Voti Cinerei — "The Order of the Ashen Vow"_
 
 - **Type:** Fighting religious order (heretical to the mainstream Aurèldían faith)

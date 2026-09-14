@@ -93,7 +93,7 @@ data:
 packFolder: nyaluba
 ---
 
-# The Nyáluba Way
+## The Nyáluba Way
 
 - **Pronunciation**: _n'YAH-loo-bah_
 - **Region:** [[affiliation-nylbtrblntn|Nyáluba Tribal Nation]] (southern [[place-xerathia|Xerathia]])
@@ -118,7 +118,7 @@ Between the two stand the people: five clans, each in ancestral relationship wit
 a body of specialists who hold no office over anyone's belief and every office concerning the
 pacts.
 
-## The Five Totems
+### The Five Totems
 
 A clan's totem is a guide of the first kind, and the only kind with a formal cult of its own. A
 clan whose totem is the lion does not admire lions; it understands itself to be _of_ the lion.
@@ -144,7 +144,7 @@ Some clans keep a secondary totem or an ancestral companion-guide reflecting the
 history of a lineage; and beyond the five, innumerable guides are held by single villages,
 crossings and kin-lines without any cult at all.
 
-## Specialists, Not Clergy
+### Specialists, Not Clergy
 
 The Nyáluba have no equivalent of an Aurèldían priest, and no rank above the council. Religious
 function is distributed across four roles, and individuals commonly hold more than one.
@@ -168,7 +168,7 @@ consensus is sought rather than imposed. Where the tradition must decide somethi
 all five clans, it goes instead to the Great Indaba, which is a political body and not a
 religious one.
 
-## Relationship to Other Faiths
+### Relationship to Other Faiths
 
 Northern contact with the Okháric worship of [[affiliation-nkaruthar|Nkaru'thar]] has produced
 overlaps in the vocabulary of shamanism — the Spirit Hunt, the _mwalimu wa roho_, the
@@ -187,7 +187,7 @@ The few scholars who have attempted to catalogue them treat them as variants of 
 underlying Xerathian substrate, with the Nyáluba Way the most elaborated and the most internally
 coherent of the documented forms.
 
-## See Also
+### See Also
 
 - [[lore-nyalbsprts|Nyáluba Spirits]] — the guides, the seven kinds, the three postures, the pacts
 - [[lore-mwangadty|Mwánga-Kúbwa]] — the source, which is acknowledged and never venerated
