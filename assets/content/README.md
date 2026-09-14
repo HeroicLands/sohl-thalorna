@@ -47,8 +47,9 @@ aliases:
   - weapongear-brzgnt # the canonical `<type>-<shortcode>` address
 shortcode: brzgnt # unique within (type, package); referenced by saved data
 type: weapongear
-sohl:
+data:
   templatePriority: null # tri-state: a number if this note is a template, null if not, never absent
+sohl:
   subType: melee # required on every subType-bearing type
 packFolder: totems
 ---
@@ -59,10 +60,11 @@ Two fields are load-bearing and easy to get wrong:
 - **`shortcode`** is the address other notes and saved world data use, and it
   is the URL segment: a page is addressed `<type>-<shortcode>`, so renaming a
   shortcode changes the page's address.
-- **`sohl.templatePriority`** is required on every item type, with no default.
-  It is tri-state: a number states the note's priority as a template, `null`
-  states it is not a template, and absent is an authoring error — so "not a
-  template" is never silently assumed.
+- **`data.templatePriority`** is required on every type that compiles into a
+  SoHL Item or Actor, with no default. It is tri-state: a number states the
+  note's priority as a template, `null` states it is not a template, and
+  absent is an authoring error — so "not a template" is never silently
+  assumed.
 
 **`id` is an escape hatch, not a field every note carries.** A document's `_id`
 derives from its canonical address
