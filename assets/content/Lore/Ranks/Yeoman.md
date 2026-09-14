@@ -10,8 +10,6 @@ shortcode: yeomanrnk
 description: "A free landholder bearing arms in his own name and speaking at the assembly."
 ---
 
-# Yeoman
-
 A free landholder bearing arms in his own name and speaking at the assembly.
 
 ## Obligations and Rights

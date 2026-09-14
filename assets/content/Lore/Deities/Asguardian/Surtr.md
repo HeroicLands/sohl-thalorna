@@ -10,6 +10,4 @@ shortcode: surtrdty
 packFolder: deitiesasguardian
 ---
 
-# Súrtr
-
 TBD

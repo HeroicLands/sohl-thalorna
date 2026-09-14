@@ -10,6 +10,4 @@ shortcode: kingtredavariii
 packFolder: provenzia
 ---
 
-# King Trédavar III
-
 A king of Provènzia.

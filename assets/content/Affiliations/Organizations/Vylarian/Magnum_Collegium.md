@@ -96,8 +96,6 @@ data:
   relations: {}
 ---
 
-# The Magnum Collegium
-
 _Vylarian: Magnum Collegium Collegiorum — "The Great Guild of the Guilds"_
 
 - **Type:** Imperial umbrella institution; mandatory federation of chartered guilds

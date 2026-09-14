@@ -11,8 +11,6 @@ img: icons/takheperu/pantheon/iset.svg
 packFolder: deitieskemetian
 ---
 
-# Íšét
-
 _Mother of New Beginnings — a blooming lotus intertwined with a serpent._
 
 Íšét is the great mother goddess of Ta'Kheperu: fertility, renewal and healing, the principle that

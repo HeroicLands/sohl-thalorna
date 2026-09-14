@@ -10,6 +10,4 @@ shortcode: theriadty
 packFolder: deitiesaureldian
 ---
 
-# Aethería
-
 TBD

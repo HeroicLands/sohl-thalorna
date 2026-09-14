@@ -19,8 +19,6 @@ shortcode: brynwold
 packFolder: aelwyth
 ---
 
-# Brynwold
-
 **Brynwold** is Aldorath's upland country, rising west and north of the [[place-aldorvale|Aldorvale]]
 into hills too high and thin-soiled for grain. Twenty-six thousand people, and a great many more sheep.
 

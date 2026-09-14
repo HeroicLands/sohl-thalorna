@@ -16,8 +16,6 @@ sohl:
     durabilityBase: 10
 ---
 
-# Heart of Dhiríkri
-
 A crystalline artifact believed to hold the essence of the powerful elemental spirits known as the
 **Dhiríkri**. It emanates an aura that enhances natural growth, and it can manipulate time within a
 time-zone arálwen — which is very probably why [[lore-aralwen|Úqua-Arálwen]] is a slow zone at all,

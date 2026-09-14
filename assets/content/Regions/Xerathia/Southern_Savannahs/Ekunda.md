@@ -19,8 +19,6 @@ shortcode: ekunda
 packFolder: southernsavannahs
 ---
 
-# Ékunda
-
 ## Overview
 
 _To be written._

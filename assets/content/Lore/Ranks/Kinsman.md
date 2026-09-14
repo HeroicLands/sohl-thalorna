@@ -10,8 +10,6 @@ shortcode: kinsmanrnk
 description: "Of a house's blood or sworn following, entitled to its protection and its quarrels."
 ---
 
-# Kinsman
-
 Of a house's blood or sworn following, entitled to its protection and its quarrels.
 
 ## Obligations and Rights

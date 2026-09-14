@@ -18,8 +18,6 @@ shortcode: kashmuret
 packFolder: harad
 ---
 
-# Kashmuret
-
 ## Overview
 
 Kashmuret lies inland from the coast, positioned at the convergence of trade routes that funnel goods from the Dunhari desert and southern Vedyara northward toward the interior city-states. It is smaller and less cosmopolitan than Azhûn, but no less crucial to the confederation's economy—the town serves as a waypoint where caravans restock, establish credit, and negotiate prices with local factors before undertaking the dangerous journey to distant markets. Kashmuret's bazaars are famous for their cloth merchants, spice brokers, and money changers who have cultivated relationships with trading houses across three continents.

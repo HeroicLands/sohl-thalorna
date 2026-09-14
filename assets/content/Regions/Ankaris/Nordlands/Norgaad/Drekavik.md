@@ -18,8 +18,6 @@ shortcode: drekavik
 packFolder: norgaad
 ---
 
-# Drekavík
-
 ## Overview
 
 _To be written._

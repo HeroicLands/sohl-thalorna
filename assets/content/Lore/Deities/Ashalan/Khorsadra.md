@@ -10,6 +10,4 @@ shortcode: khorsadradty
 packFolder: deitiesashalan
 ---
 
-# Khóršádrä
-
 TBD

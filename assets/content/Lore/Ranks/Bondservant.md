@@ -10,8 +10,6 @@ shortcode: bondservantrnk
 description: "Bound to a person or a house by debt, birth or sentence, and unable to depart."
 ---
 
-# Bondservant
-
 Bound to a person or a house by debt, birth or sentence, and unable to depart.
 
 ## Obligations and Rights

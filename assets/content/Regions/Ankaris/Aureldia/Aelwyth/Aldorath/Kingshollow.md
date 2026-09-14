@@ -18,8 +18,6 @@ shortcode: kingsholow
 packFolder: aelwyth
 ---
 
-# Kingshollow
-
 **Kingshollow** is a village of perhaps fourteen hundred in a sheltered fold of Aldorath's eastern
 country, and it would be of no consequence at all except for what stands in it.
 

@@ -106,8 +106,6 @@ data:
     asguardian: aligned
 ---
 
-# The Order of Fréyr's Guardians
-
 _Old Norse: Fréyrsverdir — "Fréyr's Swords"_
 
 - **Type:** Fighting religious order

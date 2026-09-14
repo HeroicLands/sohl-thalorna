@@ -11,8 +11,6 @@ img: icons/takheperu/pantheon/horus.svg
 packFolder: deitieskemetian
 ---
 
-# Hórús
-
 _The Guiding Falcon — a falcon in flight with a compass rose._
 
 Hórús is the god of travellers, explorers, and all who venture into the unknown. He manifests as a

@@ -8,8 +8,6 @@ shortcode: vushok
 packFolder: castes
 ---
 
-# Vüshōk
-
 **Warrior Nobility**
 
 The Vüshōk form the military and administrative backbone of [[affiliation-tanvurempr|Tānvür]], a nobility bound by codes of martial honor and duty to the realm. From Warlords (Vüszhük) who govern entire provinces to skilled swordmasters who lead armies, the Vüshōk hold the exclusive right to bear arms and command forces in war.

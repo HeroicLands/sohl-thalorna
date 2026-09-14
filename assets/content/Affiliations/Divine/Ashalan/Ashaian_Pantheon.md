@@ -90,8 +90,6 @@ data:
 packFolder: ashaian
 ---
 
-# Āsháian Pantheon
-
 **Pronunciation**: _Ah-SHY-uhn_
 
 The Āsháian pantheon is the religious tradition of the desert and steppe peoples of central and south-central [[place-ankrscntnnt|Ankaris Continent]] — the nomadic tribes of [[place-dunharargn|Dunhara Region]] and the [[place-khzryndsrtrgn|Khazryn Desert Region]], the settled civilization of the [[affiliation-sultntmrdd|Sultanate of Amradad]], and the eastern reaches of the [[affiliation-cnfdrtnhrdnstts|Haradian Confederation]]. The pantheon comprises twelve deities, each governing a fundamental aspect of existence — the same twelve domains found in the [[affiliation-arldnpnthn|Aurèldían Pantheon]] of the west and the [[affiliation-kemtnpnthn|Kemetían Pantheon]] of Ta'Kheperu, though the faithful would insist that the Āsháian names are the true ones, spoken first by the first peoples in the first desert beneath the first stars.

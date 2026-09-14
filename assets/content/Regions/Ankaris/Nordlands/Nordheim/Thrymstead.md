@@ -18,8 +18,6 @@ shortcode: thrymstead
 packFolder: nordheim
 ---
 
-# Thrymstead
-
 ## Overview
 
 _To be written._

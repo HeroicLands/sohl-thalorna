@@ -10,8 +10,6 @@ shortcode: knightrnk
 description: "Holding land by military service, owing that service in person."
 ---
 
-# Knight
-
 Holding land by military service, owing that service in person.
 
 ## Obligations and Rights

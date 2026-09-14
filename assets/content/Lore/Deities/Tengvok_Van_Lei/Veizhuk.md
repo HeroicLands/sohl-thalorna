@@ -10,6 +10,4 @@ shortcode: veizhukdty
 packFolder: deitiestengvokvanlei
 ---
 
-# Vëizhük
-
 TBD

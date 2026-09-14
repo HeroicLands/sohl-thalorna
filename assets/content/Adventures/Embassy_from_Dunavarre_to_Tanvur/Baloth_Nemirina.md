@@ -24,8 +24,6 @@ data:
   species: null
 ---
 
-# Baloth Nemirina
-
 **Role.** A Senator of the [[affiliation-repblctrvn|Tarvennan Republic]].
 
 **Background.** Kidnapped and murdered in 717.

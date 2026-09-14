@@ -19,8 +19,6 @@ shortcode: tadjeser
 packFolder: capitalnome
 ---
 
-# Ta-Djeser
-
 ## Overview
 
 Ta-Djeser — "the Sacred Land" — is the necropolis-city on the western bank opposite [[place-wasetkara|Wasetkara]], the city of the royal dead. Here, in the shadow of the pyramids and rock-cut tombs of the dynasties, live the embalmers, tomb-builders, funerary artists, and mortuary priests who tend the eternal houses of the Per-Aás and the high nobility, together with the tomb-workers' settlements and the priest-guarded mortuary temples that serve the cult of the royal dead. It is a place apart — solemn, walled, and watched — where the wealth buried in the tombs and the sanctity of the kings make for an uneasy mix of devotion, secrecy, and temptation. The mortuary priesthoods and the necropolis-guards hold the western bank against the tomb-robbers who have plagued it since the first dynasty, and the embalmers' and craftsmen's guilds guard their trades and their dangerous knowledge of where the dead and their treasures lie.

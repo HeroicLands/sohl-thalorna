@@ -24,8 +24,6 @@ data:
   species: null
 ---
 
-# Lady Ilara Lúavel
-
 **Role.** Daughter of the embassy's Steward.
 
 **Background.** Beloved daughter of [[being-laradhluavel|Laradh Lúavel]], living under the shadow of his debts.

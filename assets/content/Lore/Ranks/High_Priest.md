@@ -10,8 +10,6 @@ shortcode: highpriestrnk
 description: "Head of a temple or a cult, speaking with the voice of its god on doctrine."
 ---
 
-# High Priest
-
 Head of a temple or a cult, speaking with the voice of its god on doctrine.
 
 ## Obligations and Rights

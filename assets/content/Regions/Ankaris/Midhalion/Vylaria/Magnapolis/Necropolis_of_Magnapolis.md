@@ -16,6 +16,4 @@ shortcode: necropolismagnapolis
 packFolder: vylaria
 ---
 
-# Necropolis of Magnápolis
-
 The burial ground of [[place-magnapolis|Magnápolis]], outside the walls with the rest of what the city will not keep within them.

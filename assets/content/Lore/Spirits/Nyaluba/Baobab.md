@@ -14,8 +14,6 @@ shortcode: baobabbombwespr
 packFolder: lorespiritsnyaluba
 ---
 
-# Baobab Spirit
-
 The totemic being venerated by the [[affiliation-nylbtrblntn|Bombwe]]. For the cult, its
 offices and its observances, see [[affiliation-nyalbbaob|Baobab Totem]]; for the kinds of guide
 and the three postures, see [[lore-nyalbsprts|Nyáluba Spirits]].

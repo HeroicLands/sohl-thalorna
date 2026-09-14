@@ -20,8 +20,6 @@ name:
 shortcode: aldorathrgn
 ---
 
-# Aldorath Region
-
 > **Draft.** This note exists so that the
 > [[affiliation-kngdmldrth|Kingdom of Aldorath]] has a place to hold sway over.
 > Its settlements, its terrain and its boundaries are not yet written.

@@ -10,6 +10,4 @@ shortcode: meghanathadty
 packFolder: deitiesvarnaka
 ---
 
-# Meghanātha
-
 TBD

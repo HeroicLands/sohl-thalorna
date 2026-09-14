@@ -10,6 +10,4 @@ shortcode: hurnzhukdty
 packFolder: deitiestengvokvanlei
 ---
 
-# Hürnzhük
-
 TBD

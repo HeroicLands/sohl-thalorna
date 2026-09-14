@@ -110,8 +110,6 @@ data:
 packFolder: bordernomes
 ---
 
-# The Nome of Iabet-Heqa
-
 ## Overview
 
 Iabet-Heqa is one of the border nomes of [[affiliation-empirtkhpr|The Empire of Ta'Kheperu]]: eastern desert wells and quarry-roads; a dry, sun-burnt garrison nome. Like every nome it is held by a hereditary [[affiliation-empirtkhpr#titles-and-forms-of-address|Haty'a]] who commands its levies, collects its taxes and dispenses its justice, answering to the Per-Aá at a distance that varies with the strength of the throne. Its patron is [[affiliation-sobek|Sobek]], and the nome's religious life runs through that cult's temples and their estates.

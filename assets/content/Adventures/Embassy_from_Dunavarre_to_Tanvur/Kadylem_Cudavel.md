@@ -24,8 +24,6 @@ data:
   species: null
 ---
 
-# Kadylem Cúdavel
-
 **Role.** Announces the Ambassador's arrival and status.
 
 **Background.** Skilled in ceremonial duty and official occasion.

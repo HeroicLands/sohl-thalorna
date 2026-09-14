@@ -10,8 +10,6 @@ shortcode: commonerrnk
 description: "Free at law, owing the body's dues and holding no rank within it."
 ---
 
-# Commoner
-
 Free at law, owing the body's dues and holding no rank within it.
 
 ## Obligations and Rights

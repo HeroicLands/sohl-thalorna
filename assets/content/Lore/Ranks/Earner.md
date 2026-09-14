@@ -10,8 +10,6 @@ shortcode: earnerrnk
 description: "Running a business of the body's and paying up from it."
 ---
 
-# Earner
-
 Running a business of the body's and paying up from it.
 
 ## Obligations and Rights

@@ -102,8 +102,6 @@ data:
   relations: {}
 ---
 
-# The Black Ledger
-
 - **Type:** Underground professional network
 - **Region:** [[place-byzariargn|Byzaría]] principally, with active members in every League city and known correspondents in Provènzia, Heliónis, and Vylaria
 - **Founded:** Informal in origin, perhaps two centuries old; never chartered

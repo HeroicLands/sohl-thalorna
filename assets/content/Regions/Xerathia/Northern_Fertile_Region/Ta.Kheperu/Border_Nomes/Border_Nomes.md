@@ -113,8 +113,6 @@ data:
 packFolder: bordernomes
 ---
 
-# The Border Nomes
-
 ## Overview
 
 Beyond the green ribbon of the river valley, [[affiliation-empirtkhpr|The Empire of Ta'Kheperu]] shades into harder country: the southern **cataracts** where the river breaks into rapids and the tribal lands begin; the **eastern hills**, rugged and mineral-rich; and the **western steppe-edge**, where Kheperi irrigation gives out and the nomad pastures begin. The ten **Border Nomes** hold these margins. They are the empire's thinnest-peopled and roughest provinces, their nomarchs functioning less as landlords than as military governors, and their chief export is not grain or gold but hardened soldiers.

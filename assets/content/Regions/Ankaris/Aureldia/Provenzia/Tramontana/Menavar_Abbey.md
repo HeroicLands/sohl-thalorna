@@ -18,8 +18,6 @@ shortcode: menavarabbey
 packFolder: provenzia
 ---
 
-# Ménavar Abbey
-
 **Ménavar** was once a centre of Aurèldían learning and spiritual practice — a great house of the
 Twelve in the north of Provènzia, with a library, a school and an endowment, standing on the low
 country of [[place-tramontana|Tramontàna]] within reach of the sea.

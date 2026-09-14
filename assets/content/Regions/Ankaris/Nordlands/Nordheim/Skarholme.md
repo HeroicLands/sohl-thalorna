@@ -17,8 +17,6 @@ shortcode: skarholme
 packFolder: nordheim
 ---
 
-# Skarholme
-
 ## Overview
 
 _To be written._

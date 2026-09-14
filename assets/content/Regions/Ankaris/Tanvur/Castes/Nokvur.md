@@ -8,8 +8,6 @@ shortcode: nokvur
 packFolder: castes
 ---
 
-# Nōkvür
-
 **Peasant Farmers**
 
 The Nōkvür comprise the agricultural base of [[affiliation-tanvurempr|Tānvür]]—peasant farmers, laborers, and common folk who work the land and constitute the largest portion of the empire's population. Though legally unfree and bound to their labor obligations, the Nōkvür maintain their own spiritual traditions centered on ancestor veneration and connection to the natural world through their shamanic Lëigürt.

@@ -19,8 +19,6 @@ shortcode: thornbury
 packFolder: aelwyth
 ---
 
-# Thornbury
-
 **Thornbury** is the seat of the [[affiliation-repblctrvn|Republic of Tarvenne]], on Aelwyth's western
 coast: fourteen thousand people, the republic's chief harbour, and the stage on which its entire
 political performance is mounted.

@@ -18,8 +18,6 @@ shortcode: haukstad
 packFolder: nordheim
 ---
 
-# Haukstad
-
 ## Overview
 
 _To be written._

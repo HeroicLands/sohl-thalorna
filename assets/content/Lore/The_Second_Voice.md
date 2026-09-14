@@ -18,8 +18,6 @@ sohl:
     durabilityBase: 20
 ---
 
-# The Second Voice
-
 The **Second Voice** is the most dangerous object known to have existed on Thalorna. It has been missing
 for a very long time, and the two peoples who know what it is have spent that time not discussing it.
 

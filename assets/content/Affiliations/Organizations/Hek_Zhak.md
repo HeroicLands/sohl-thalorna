@@ -100,8 +100,6 @@ data:
 packFolder: organizations
 ---
 
-# Hëk Zhāk
-
 - **Type:** Subversive magical sect
 - **Region:** [[affiliation-tanvurempr|Empire of Tānvür]]
 - **Composition:** Rogue [[lore-venduk|Vëndük]] sorcerers and their collaborators

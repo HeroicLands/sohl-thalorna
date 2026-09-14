@@ -17,8 +17,6 @@ name:
 shortcode: chandrapur2
 ---
 
-# Chandrapur
-
 ## Overview
 
 _To be written._ Chandrapur is the capital and principal settlement of [[affiliation-chandrapur|Chandrapur]].

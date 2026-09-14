@@ -94,8 +94,6 @@ data:
   relations: {}
 ---
 
-# The Merchant Collective of Vedyara
-
 _Vedyaran: Vyāpārī Sangha — "the Merchants' Assembly"_
 
 - **Type:** Mercantile federation

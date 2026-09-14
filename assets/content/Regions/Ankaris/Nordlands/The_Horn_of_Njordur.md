@@ -19,8 +19,6 @@ sohl:
     durabilityBase: 12
 ---
 
-# The Horn of Njördur
-
 One of the **three regalia** required to seal away [[being-njorven|Njörven]], with the
 [[miscgear-crwnwyrm|Crown of the Wyrm]] and the [[miscgear-sprsigrid|Spear of Sigrid]]. All three are
 needed for the [[lore-njordurritlbinding|Ritual of Binding]].

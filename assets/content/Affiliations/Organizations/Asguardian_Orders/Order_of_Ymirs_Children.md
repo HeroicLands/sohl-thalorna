@@ -106,8 +106,6 @@ data:
     asguardian: aligned
 ---
 
-# The Order of Ymir's Children
-
 _Old Norse: Ymisbörn — "Ymir's Children"_
 
 - **Type:** Initiatic fighting religious order

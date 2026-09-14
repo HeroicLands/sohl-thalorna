@@ -10,6 +10,4 @@ shortcode: thfrstgdsthdty
 packFolder: deitiesfirstgods
 ---
 
-# The First Gods (the Bright and the Dark)
-
 TBD

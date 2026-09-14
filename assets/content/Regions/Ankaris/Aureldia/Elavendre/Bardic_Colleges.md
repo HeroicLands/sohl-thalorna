@@ -93,8 +93,6 @@ shortcode: bardicolgs
 packFolder: elavendre
 ---
 
-# The Bardic Colleges
-
 - **Type:** Institutions of music, memory, magic, and diplomacy
 - **Region:** [[place-elavendre|Élavendre]]
 - **Tradition:** [[lore-pelwarpepl|Pelwar People]] / [[lore-aelendnppl|Áelendi]] ancestral

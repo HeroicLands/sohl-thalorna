@@ -10,6 +10,4 @@ shortcode: jnanasuradty
 packFolder: deitiesvarnaka
 ---
 
-# Jñānasūra
-
 TBD

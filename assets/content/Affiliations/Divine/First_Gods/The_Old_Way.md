@@ -116,8 +116,6 @@ data:
 packFolder: pantheonsfirstgods
 ---
 
-# The Old Way
-
 - **Pantheon:** [[affiliation-firstgods|The First Gods]]
 - **Principal adherents:** [[lore-aelendnppl|Áelendan]]
 - **Ancestral origin:** [[lore-pelwarpepl|Pelwar People]]

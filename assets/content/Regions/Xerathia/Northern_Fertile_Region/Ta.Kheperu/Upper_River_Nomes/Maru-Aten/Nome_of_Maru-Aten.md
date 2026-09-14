@@ -110,8 +110,6 @@ data:
 packFolder: upperrivernomes
 ---
 
-# The Nome of Maru-Aten
-
 ## Overview
 
 Maru-Aten is one of the upper-river nomes of [[affiliation-empirtkhpr|The Empire of Ta'Kheperu]]: A planned temple-city of one zealous dynasty, half-abandoned, still inhabited. Like every nome it is held by a hereditary [[affiliation-empirtkhpr#titles-and-forms-of-address|Haty'a]] who commands its levies, collects its taxes and dispenses its justice, answering to the Per-Aá at a distance that varies with the strength of the throne. Its patron is [[affiliation-ra|Rā]], and the nome's religious life runs through that cult's temples and their estates.

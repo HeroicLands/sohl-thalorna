@@ -94,8 +94,6 @@ data:
   relations: {}
 ---
 
-# The Praetar Augustarum
-
 _Vylarian: Praetar Augustarum — "the Guard of the Augustars"_
 
 - **Type:** Imperial military institution; household guard and Inner City garrison

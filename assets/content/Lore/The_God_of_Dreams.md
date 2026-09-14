@@ -19,8 +19,6 @@ subType: deity
 packFolder: pantheons
 ---
 
-# The God of Dreams
-
 This deity — of dreams, light, and the stewardship of the natural world — is the oldest continuously worshipped god in Thalorna. The [[lore-flksinale|Sinalë]] and [[lore-flkkhazar|Khazári]] each venerated this god for millennia before the first human civilizations arose. Every human faith that touches this deity's domains is, knowingly or not, derivative of the elder races' original worship.
 
 The Sinalë and Khazári do not acknowledge the human faiths as legitimate expressions of their god. They tolerate them.

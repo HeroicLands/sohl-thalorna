@@ -10,8 +10,6 @@ shortcode: initiaternk
 description: "Received into a tradition and bound by its oaths, holding its first mysteries."
 ---
 
-# Initiate
-
 Received into a tradition and bound by its oaths, holding its first mysteries.
 
 ## Obligations and Rights

@@ -10,6 +10,4 @@ shortcode: bahramisdty
 packFolder: deitiesashalan
 ---
 
-# Báhrámiš
-
 TBD

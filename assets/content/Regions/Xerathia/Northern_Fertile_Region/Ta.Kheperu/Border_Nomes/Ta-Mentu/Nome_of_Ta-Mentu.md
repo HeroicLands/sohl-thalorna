@@ -110,8 +110,6 @@ data:
 packFolder: bordernomes
 ---
 
-# The Nome of Ta-Mentu
-
 ## Overview
 
 Ta-Mentu is one of the border nomes of [[affiliation-empirtkhpr|The Empire of Ta'Kheperu]]: the western steppe-edge; horse-pasture and the watch against nomad raiders. Like every nome it is held by a hereditary [[affiliation-empirtkhpr#titles-and-forms-of-address|Haty'a]] who commands its levies, collects its taxes and dispenses its justice, answering to the Per-Aá at a distance that varies with the strength of the throne. Its patron is [[affiliation-ra|Rā]], and the nome's religious life runs through that cult's temples and their estates.

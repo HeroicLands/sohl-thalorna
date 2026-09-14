@@ -110,8 +110,6 @@ name:
 shortcode: twinbldrdr
 ---
 
-# The Twinblade Order
-
 _Aurèldían: Ordo Bifrons — "The Order of Two Faces"_
 
 - **Type:** Fighting religious order

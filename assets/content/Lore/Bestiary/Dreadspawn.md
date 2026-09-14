@@ -9,8 +9,6 @@ type: lore
 subType: bestiary
 ---
 
-# Dreadspawn
-
 Dreadspawn are unique creatures presumably formed as experiments by the gods of creation. Generally speaking, they cannot reproduce naturally, although for some reason known only to the gods some of them seem to be favored templates and are recreated over and over again.
 
 ```sql

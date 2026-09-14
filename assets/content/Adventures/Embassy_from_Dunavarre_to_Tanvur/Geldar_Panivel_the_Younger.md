@@ -24,8 +24,6 @@ data:
   species: null
 ---
 
-# Geldar Panivel, the Younger
-
 **Role.** Ensures the embassy is fed, and its morale with it.
 
 **Background.** Well known for his culinary skill.

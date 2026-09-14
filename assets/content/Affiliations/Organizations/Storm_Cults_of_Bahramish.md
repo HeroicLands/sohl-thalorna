@@ -115,8 +115,6 @@ data:
     dunhartrbs: aligned
 ---
 
-# The Storm Cults of Báhrámiš
-
 _Dunhari: Bahârâmî-Pîravân — "the Followers of Báhrámiš"_
 
 - **Type:** Decentralized religious organization (multiple semi-autonomous lineages)

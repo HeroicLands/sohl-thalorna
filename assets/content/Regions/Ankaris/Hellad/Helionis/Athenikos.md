@@ -110,8 +110,6 @@ data:
 packFolder: helionis
 ---
 
-# Athenikos
-
 ## Overview
 
 Athenikos is one of the [[affiliation-ctysttshlns|Helionite city-states]], governed by an oligarchy of its wealthy patron families. _To be expanded._

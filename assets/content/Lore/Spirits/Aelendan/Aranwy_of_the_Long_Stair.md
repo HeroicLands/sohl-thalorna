@@ -12,8 +12,6 @@ shortcode: aranwyspr
 packFolder: lorespiritsaelendan
 ---
 
-# Aranwy of the Long Stair
-
 - **Kind:** Water-kin, of [[lore-thekindred|the Kindred]]
 - **Seat:** [[place-longstair|The Long Stair]]
 - **Territory:** the seven falls and the gorge beneath them

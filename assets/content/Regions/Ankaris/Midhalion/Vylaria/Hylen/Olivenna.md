@@ -17,8 +17,6 @@ shortcode: olivenna
 packFolder: vylaria
 ---
 
-# Olivenna
-
 ## Overview
 
 Olivenna lies in [[affiliation-provnchyln|Hylen]]'s olive country, a town of presses and oil-merchants whose sealed amphorae of olive oil travel across the [[place-vylarianse|Vylarian Sea]]. Its prosperity rises and falls with the olive harvest and the price of oil in distant markets, and the press-owning families guard their groves and their pressing-rights jealously.

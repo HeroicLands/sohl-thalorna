@@ -10,8 +10,6 @@ shortcode: warriorrnk
 description: "Bearing arms by right and reckoned a fighter rather than a levy."
 ---
 
-# Warrior
-
 Bearing arms by right and reckoned a fighter rather than a levy.
 
 ## Obligations and Rights

@@ -113,8 +113,6 @@ data:
 packFolder: sauneferu
 ---
 
-# The Nome of Sau-Neferu
-
 ## Overview
 
 Sau-Neferu — "the fair land of Sau" — is the garden coast of the [[affiliation-deltanomes|delta]], a wet, mild strip running west along the [[place-vylarianse|Vylarian Sea]] shore where the sea-air and the winter rains grow what the river-valley cannot. This is the empire's orchard: citrus and olive, vine and fig, and the date-palm plantations that supply the high tables of [[affiliation-empirtkhpr|The Empire of Ta'Kheperu]] and the export markets of [[place-midhalnrgn|Mídhalión Region]]. It is also the prettiest country in the empire, and the merchant-princes of [[affiliation-nomeprnkht|Per-Ankhet]] and the other ports keep their country villas here, so that the nome is at once a working farm-belt and the leisured retreat of the delta's rich. Its patron is [[affiliation-kemtnpnthn|Íšét]], goddess of fertility and abundance, fittingly enough for a land that exists to grow good things.

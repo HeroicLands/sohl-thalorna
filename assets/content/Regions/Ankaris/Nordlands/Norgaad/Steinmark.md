@@ -19,8 +19,6 @@ shortcode: steinmark
 packFolder: norgaad
 ---
 
-# Steinmark
-
 ## Overview
 
 Steinmark rises on the southern edge of the Kjaldar mountains, at the confluence of two swift rivers, where merchants from the coast meet traders from the high passes and the interior valleys. The town of perhaps 600 souls is built of stone quarried from the surrounding hills—unusual for a Nordmen settlement—and its sturdy buildings seem to grow directly from the rock. The marketplace is the settlement's beating heart, a broad square surrounded by warehouses where furs, amber, and whale bone from the coastal settlements meet timber, iron, and salt brought south from the mining regions beyond the mountains.

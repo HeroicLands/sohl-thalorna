@@ -11,8 +11,6 @@ img: icons/takheperu/pantheon/apophis.svg
 packFolder: deitieskemetian
 ---
 
-# Ápōphis
-
 _The Devouring Shadow — a coiled serpent encircling a shattered star._
 
 Ápōphis is that which opposes the divine order: the primordial chaos that existed before creation

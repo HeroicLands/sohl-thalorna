@@ -16,8 +16,6 @@ name:
 shortcode: vdyrnbnkng
 ---
 
-# Vedyaran Banking
-
 _Stub — to be expanded._
 
 ## Overview

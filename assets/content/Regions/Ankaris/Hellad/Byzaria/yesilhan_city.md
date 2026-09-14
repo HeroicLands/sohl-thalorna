@@ -17,8 +17,6 @@ name:
 shortcode: yesilhan2
 ---
 
-# Yeşilhan
-
 ## Overview
 
 _To be written._ Yeşilhan is the capital and principal settlement of [[affiliation-yesilhan|Yeşilhan]].

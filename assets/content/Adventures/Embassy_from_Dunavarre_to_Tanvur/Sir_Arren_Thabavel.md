@@ -24,8 +24,6 @@ data:
   species: null
 ---
 
-# Sir Arren Thábavel
-
 **Role.** Bodyguard to the Ambassador, and gives security counsel.
 
 **Background.** A brave and experienced knight of great martial reputation, lately winner of the Royal Celivren Tournament of Chivalry.

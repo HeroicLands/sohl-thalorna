@@ -18,8 +18,6 @@ shortcode: aelissium
 packFolder: vylaria
 ---
 
-# Aelissium
-
 ## Overview
 
 _To be written._

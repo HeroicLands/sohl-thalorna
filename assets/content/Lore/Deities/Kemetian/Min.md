@@ -10,8 +10,6 @@ shortcode: mindty
 packFolder: deitieskemetian
 ---
 
-# Min
-
 _The Fertility-God._
 
 Min is an upper-river god of harvest-festivals and virility cults, seated at the caravan-head for

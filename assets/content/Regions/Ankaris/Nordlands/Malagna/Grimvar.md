@@ -30,6 +30,4 @@ shortcode: grimvar
 packFolder: malagna
 ---
 
-# Grímvar
-
 A polity of Malagna, under the crown of Lögnheim.

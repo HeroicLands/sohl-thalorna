@@ -99,8 +99,6 @@ data:
 packFolder: crimesyndicates
 ---
 
-# Hëk Lōt Zhāk
-
 ## Overview
 
 The **Hëk Lōt Zhāk** — known to outsiders and lowland translators as the **Black Lotus Society** — is the preeminent criminal organization of the [[affiliation-tanvurempr|Empire of Tānvür]] and the largest crime syndicate of eastern Ankaris. While the four Vylarian Sea syndicates divide the western criminal underworld among themselves, the Black Lotus operates on a scale that has no peer in the east: an open secret woven into the very fabric of the empire's commerce, politics, and religious life.

@@ -29,6 +29,4 @@ shortcode: njorvencult
 packFolder: nordlands
 ---
 
-# Njörven's Cult
-
 The cult that venerates [[being-njorven|Njörven]].

@@ -18,8 +18,6 @@ shortcode: sanctara
 packFolder: vylaria
 ---
 
-# Sanctara
-
 ## Overview
 
 _To be written._

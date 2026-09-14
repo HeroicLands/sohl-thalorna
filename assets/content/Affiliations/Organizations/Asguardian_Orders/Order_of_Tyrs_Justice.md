@@ -105,8 +105,6 @@ data:
     asguardian: aligned
 ---
 
-# The Order of Týr's Justice
-
 _Old Norse: Týrshönd — "The Hand of Týr"_
 
 - **Type:** Fighting religious order

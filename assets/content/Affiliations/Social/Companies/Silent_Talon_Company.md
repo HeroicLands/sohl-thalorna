@@ -92,8 +92,6 @@ name:
   aliases: []
 ---
 
-# The Silent Talon Company
-
 _Precision, Discretion, and Expertise for Every Mission_
 
 ## Who We Are

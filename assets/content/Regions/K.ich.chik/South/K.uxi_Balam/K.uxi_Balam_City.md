@@ -16,8 +16,6 @@ name:
 shortcode: kuxibalam2
 ---
 
-# K'uxi Balam
-
 ## Overview
 
 _To be written._ K'uxi Balam is the central city and seat of the [[affiliation-kuxibalam|K'uxi Balam]] city-state.

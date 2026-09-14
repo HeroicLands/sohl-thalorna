@@ -96,8 +96,6 @@ banner: banners/company.webp
 packFolder: politiescompanies
 ---
 
-# The Blackpine Wolves
-
 ![The Blackpine Wolves](https://cdn.heroiclands.org/images/blackpine_wolves.webp)
 
 The Blackpine Wolves are a small, vicious band of road bandits who prey on travelers along the crumbling old Vylarian trade road that threads through the dark pine forests of Vrystwald. They are not a disciplined military company or a romantic band of outlaws — they are desperate, violent men and one very dangerous woman, held together by fear of their leader and the absence of better options.

@@ -18,8 +18,6 @@ shortcode: nartum
 packFolder: vylaria
 ---
 
-# Nartûm
-
 ## Overview
 
 _To be written._

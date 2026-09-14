@@ -12,8 +12,6 @@ shortcode: khazarturn
 packFolder: settinglore
 ---
 
-# The Fall of Khazártúrn
-
 **Khazártúrn** was the greatest city the [[lore-flkkhazar|Khazári]] ever built. In **2800 BF** it was
 destroyed with every soul in it, and nothing before or since has come near it in the reckoning of the
 Deep Folk. It is **the worst thing that has ever happened to them on Thalorna**.

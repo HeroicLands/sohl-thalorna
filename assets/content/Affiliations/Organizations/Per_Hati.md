@@ -100,8 +100,6 @@ data:
   relations: {}
 ---
 
-# Pér-Háti
-
 _Kheperi: Pér-Háti — "the House of the Account"_
 
 - **Type:** Religious-institutional treasury network; the Kheperi temple banking system

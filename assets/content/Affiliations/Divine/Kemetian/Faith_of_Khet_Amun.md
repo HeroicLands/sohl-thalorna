@@ -82,8 +82,6 @@ banner: banners/ta-kheperu-banner.webp
 packFolder: pantheonskemetian
 ---
 
-# Faith of Khet'Amun
-
 A river god rather than a nome god: Khet'Amun holds the Taméresh itself, and the sacred waters of its southern reach belong to him spiritually where they belong to the Haty'a in law. His cult has no great temple and no Wer'Hekau of its own — it is carried by the hunting companies that work the river, above all the Sekhet'Neru, whose Wab of the Hunt reads his will before any expedition launches and without whose word it does not. Every beast taken from the water is commended to him for judgment.
 
 See [[affiliation-sekhetneru|Sekhet'Neru]], the sacred hunt that carries this cult, and

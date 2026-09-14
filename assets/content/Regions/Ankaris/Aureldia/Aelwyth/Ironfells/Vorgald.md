@@ -18,8 +18,6 @@ shortcode: vorgald
 packFolder: aelwyth
 ---
 
-# Vorgald
-
 **Vorgald** is a hold of the [[lore-flkkhazar|Khazári]] in the eastern heights of the
 [[place-ironfells|Ironfells]], where the range meets the sea cliffs. It is the only Khazári presence
 anyone on Aelwyth can name, and almost everything said about it is inference.

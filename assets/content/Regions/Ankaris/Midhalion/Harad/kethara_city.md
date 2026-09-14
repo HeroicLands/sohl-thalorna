@@ -17,8 +17,6 @@ name:
 shortcode: kethara2
 ---
 
-# Kethara
-
 ## Overview
 
 _To be written._ Kethara is the capital and principal settlement of [[affiliation-kethara|Kethara]].

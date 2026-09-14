@@ -10,8 +10,6 @@ shortcode: commanderrnk
 description: "Commanding a house, a crew or a company, and answerable for it to the body above."
 ---
 
-# Commander
-
 Commanding a house, a crew or a company, and answerable for it to the body above.
 
 ## Obligations and Rights

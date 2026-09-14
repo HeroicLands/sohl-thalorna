@@ -21,6 +21,4 @@ data:
   species: null
 ---
 
-# Njörven
-
 A creature of the Nordlands, venerated by [[affiliation-njorvencult|a cult of its own]].

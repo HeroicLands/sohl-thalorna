@@ -24,8 +24,6 @@ data:
   species: null
 ---
 
-# Rickar Lúavel
-
 **Role.** Cares for the horses and other animals.
 
 **Background.** Expert in animal care and handling.

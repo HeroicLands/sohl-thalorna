@@ -16,8 +16,6 @@ name:
 shortcode: xikulchakl2
 ---
 
-# Xik'ul Ch'akal
-
 ## Overview
 
 _To be written._ Xik'ul Ch'akal is the central city and seat of the [[affiliation-xikulchakl|Xik'ul Ch'akal]] city-state.

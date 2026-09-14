@@ -17,8 +17,6 @@ name:
 shortcode: kalydria2
 ---
 
-# Kalydria
-
 ## Overview
 
 _To be written._ Kalydria is the capital and principal settlement of [[affiliation-kalydria|Kalydria]].

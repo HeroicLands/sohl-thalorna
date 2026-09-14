@@ -110,8 +110,6 @@ name:
 shortcode: ordrsldwrd
 ---
 
-# The Order of the Sealed Word
-
 _Aurèldían: Ordo Verbi Signati — "The Order of the Sealed Word"_
 
 - **Type:** Fighting religious order

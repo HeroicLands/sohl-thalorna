@@ -94,8 +94,6 @@ data:
   relations: {}
 ---
 
-# The Cartographers' Guild of the Byzarian League
-
 - **Type:** Chartered professional guild
 - **Region:** [[place-byzariargn|Byzaría]], with chapterhouses in every League city
 - **Charter:** Originally granted by the [[affiliation-byzarianlg|Byzarian League]] Council; rolled up into the [[affiliation-magnumclgm|The Magnum Collegium]] when Byzaría was incorporated into Vylarian territory two centuries ago; both charters remain operative — the League charter as the guild's municipal foundation, the Collegium charter as its supra-realm standing

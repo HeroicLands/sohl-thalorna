@@ -10,6 +10,4 @@ shortcode: nkaruthardty
 packFolder: deitiesnkaruthar
 ---
 
-# Nkaru'thar
-
 TBD

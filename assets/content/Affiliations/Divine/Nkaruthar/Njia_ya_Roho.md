@@ -100,8 +100,6 @@ data:
 packFolder: pantheonsnkaruthar
 ---
 
-# Njia ya Roho
-
 The **Njia ya Roho** — the Spirit Path — is the shamanic tradition of the Okháric tribes: the
 practice of standing in relationship with the [[lore-zohira|zohira]], the intermediary spirits
 that govern rivers, storms, the hunt, fertility and death.

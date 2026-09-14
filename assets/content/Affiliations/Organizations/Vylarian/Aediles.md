@@ -81,8 +81,6 @@ data:
     vylrnmltry: aligned
 ---
 
-# The Aediles
-
 The Aediles are the civic magistrates of [[place-magnapolis|Magnápolis]], and the only court most of
 its people will ever stand before. They keep the **district law** — the intricate and jealously
 enforced body of rule that dictates precisely what trade, craft and commerce may be conducted in each

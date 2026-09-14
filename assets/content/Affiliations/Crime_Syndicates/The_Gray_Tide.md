@@ -96,8 +96,6 @@ data:
 packFolder: crimesyndicates
 ---
 
-# The Gray Tide
-
 ## Overview
 
 A maritime crime network operating where the Vylarian Sea meets the cold northern waters. The Gray Tide began as a loose alliance of Nordheim smugglers, Aelwyth fences, and Vrystwald coastal raiders who discovered that cooperation paid better than competition — at least some of the time. What started as handshake deals in waterfront taverns hardened into an organization over generations, driven by the simple economics of geography: the northern Vylarian Sea is vast, poorly patrolled, dotted with islands and hidden coves, and absolutely critical to legitimate trade. Every merchant ship passing through pays tariffs to someone. The Gray Tide makes sure some of those tariffs are paid to them.

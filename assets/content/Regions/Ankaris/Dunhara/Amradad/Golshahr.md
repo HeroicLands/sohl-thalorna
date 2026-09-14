@@ -17,8 +17,6 @@ shortcode: golshahr
 packFolder: amradad
 ---
 
-# Golshahr
-
 ## Overview
 
 _To be written._

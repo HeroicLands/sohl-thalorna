@@ -16,8 +16,6 @@ name:
 shortcode: vylrnctznshp
 ---
 
-# Vylarian Citizenship
-
 The deepest division in Vylarian society is not between rich and poor but between **citizen** and **resident**. The great mass of the people under imperial rule are _residents_ — subjects of the Empire, born to it, taxed by it, protected (after a fashion) by it, but holding no share in it. **Citizens** are a privileged minority who have _earned_ a stake, and the gap between the two is one of the central facts of life in [[affiliation-vylarinmpr|Vylaria]].
 
 ## Citizen and Resident

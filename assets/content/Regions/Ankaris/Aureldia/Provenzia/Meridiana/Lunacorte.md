@@ -19,8 +19,6 @@ shortcode: lunacorte
 packFolder: provenzia
 ---
 
-# Lunacòrte
-
 **Lunacòrte** is the capital of the [[affiliation-kngdmprvnz|Kingdom of Provènzia]] and, with some
 seventy thousand people, its largest city. It stands on the warm southern coast, on the
 [[place-vylarianse|Vylarian Sea]] — a working port as well as a court, which is unusual among the

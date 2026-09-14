@@ -103,8 +103,6 @@ data:
     permesnu: aligned
 ---
 
-# Per'Nuw
-
 _Kheperi: "The House of Hunters" — the guild of professional hunters of Ta'Kheperu_
 
 - **Type:** Imperial chartered guild

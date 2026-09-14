@@ -96,8 +96,6 @@ data:
 packFolder: crimesyndicates
 ---
 
-# The Velvet Hand
-
 ## Overview
 
 Born from the intersection of Helionite mystery cults and the Vylarian court's insatiable appetite for intrigue, the Velvet Hand trades in the most valuable commodity of all: secrets. Where the Crimson Ledger follows the money and the Gray Tide follows the cargo, the Velvet Hand follows the whisper — the unguarded word in a bedchamber, the letter left unsealed on a senator's desk, the confession extracted from a dying man by a sympathetic healer who happens to have a very good memory.

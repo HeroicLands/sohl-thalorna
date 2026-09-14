@@ -10,8 +10,6 @@ shortcode: sprtspkrrnk
 description: "Permitted to address the spirit directly on another's behalf."
 ---
 
-# Spirit-Speaker
-
 Permitted to address the spirit directly on another's behalf.
 
 ## Obligations and Rights

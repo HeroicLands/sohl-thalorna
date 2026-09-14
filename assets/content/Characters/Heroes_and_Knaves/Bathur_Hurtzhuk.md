@@ -40,8 +40,6 @@ data:
     extra_features: []
 ---
 
-# Bāthür Hürtzhük
-
 **"Master Tiger of the Steppes"**
 
 > **Draft.** This note exists so that the warlord the

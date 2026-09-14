@@ -93,8 +93,6 @@ data:
   relations: {}
 ---
 
-# The Collegium Argentariorum
-
 _Vylarian: Collegium Argentariorum — "the Bankers' College" or "the Moneylenders' Guild"_
 
 - **Type:** Chartered trade guild under the [[affiliation-magnumclgm|The Magnum Collegium]]; effective banking institution of the post-imperial commonwealth

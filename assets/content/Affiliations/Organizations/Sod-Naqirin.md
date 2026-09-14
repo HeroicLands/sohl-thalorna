@@ -102,8 +102,6 @@ data:
   relations: {}
 ---
 
-# Sôd-Naqîrîn
-
 _Haradi: Sôd-Naqîrîn — "The Council of the Guild-Wardens"_
 
 - **Type:** Confederation-chartered guild umbrella; institutional replacement for the [[affiliation-magnumclgm|The Magnum Collegium]]'s former Haradian operations

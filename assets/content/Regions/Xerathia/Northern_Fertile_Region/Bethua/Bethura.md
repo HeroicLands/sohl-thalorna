@@ -18,8 +18,6 @@ shortcode: bethura
 packFolder: bethua
 ---
 
-# Bethûra
-
 ## Overview
 
 _To be written._

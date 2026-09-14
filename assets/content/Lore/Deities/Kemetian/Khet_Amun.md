@@ -10,8 +10,6 @@ shortcode: khetamundty
 packFolder: deitieskemetian
 ---
 
-# Khet'Amun
-
 _The River-God._
 
 Khet'Amun holds the Taméresh itself. The sacred waters of its southern reach belong to the Haty'a in

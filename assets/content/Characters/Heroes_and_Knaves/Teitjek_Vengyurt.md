@@ -40,8 +40,6 @@ data:
     extra_features: []
 ---
 
-# Tëitjëk Vëngyürt
-
 **"Iron Spear Piercing the Clouds"**
 
 > **Draft.** This note exists so that the general the

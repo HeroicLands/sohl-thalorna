@@ -10,8 +10,6 @@ shortcode: freedmanrnk
 description: "Manumitted, and still bound in obligation to a former master."
 ---
 
-# Freedman
-
 Manumitted, and still bound in obligation to a former master.
 
 ## Obligations and Rights

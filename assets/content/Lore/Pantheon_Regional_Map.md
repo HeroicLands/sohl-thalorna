@@ -9,8 +9,6 @@ subType: theology
 packFolder: pantheons
 ---
 
-# Pantheon Regional Map
-
 This note maps which pantheons are worshipped in which regions of [[place-worldthlrn|Thalorna]].
 
 One item of interest are that many of the gods called the god/goddess of dreams are possibly the same deity, [[lore-goddreams|The God of Dreams]].

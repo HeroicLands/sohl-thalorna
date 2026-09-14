@@ -18,8 +18,6 @@ data:
 packFolder: byzaria
 ---
 
-# Kostaros
-
 ## Overview
 
 _To be written._
