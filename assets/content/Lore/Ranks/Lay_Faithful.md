@@ -10,8 +10,6 @@ shortcode: layfaithfulrnk
 description: "Of a tradition by profession and observance, without office in it."
 ---
 
-# Lay Faithful
-
 Of a tradition by profession and observance, without office in it.
 
 ## Obligations and Rights

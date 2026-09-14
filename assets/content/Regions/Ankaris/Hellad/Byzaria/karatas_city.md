@@ -17,8 +17,6 @@ name:
 shortcode: karatas2
 ---
 
-# Karataş
-
 ## Overview
 
 _To be written._ Karataş is the capital and principal settlement of [[affiliation-karatas|Karataş]].

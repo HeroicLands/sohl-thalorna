@@ -22,11 +22,7 @@ data:
     - kingdmdnvr
   gender: male
   species: null
-sohl:
-  templatePriority: null
 ---
-
-# Rickar Lúavel
 
 **Role.** Cares for the horses and other animals.
 

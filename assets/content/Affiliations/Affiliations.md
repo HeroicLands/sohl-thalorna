@@ -10,8 +10,6 @@ description: Every organized body of Thalorna — religions, schools of magic, s
 banner: banners/organization.webp
 ---
 
-# Affiliations
-
 An affiliation is any organized body a character can belong to, and belonging to
 one is a standing within it rather than a label on the character. What kind of
 body it is comes from its subtype.

@@ -19,8 +19,6 @@ shortcode: sunnerslade
 packFolder: aelwyth
 ---
 
-# Sunnerslade
-
 **Sunnerslade** is the strip of south- and west-facing slope where the
 [[place-ironfells|Ironfells]] foothills come down into the [[place-aldorvale|Aldorvale]], and it is the
 warmest, driest and most improbable ground on Aelwyth.

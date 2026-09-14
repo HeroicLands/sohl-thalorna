@@ -11,8 +11,9 @@ name:
   aliases:
     - Xilan Ix'lan
     - The Walker of Paths
-sohl:
+data:
   templatePriority: null
+sohl:
   system:
     skillBaseFormula: "@wil, @rea"
     masteryLevelBase: 0

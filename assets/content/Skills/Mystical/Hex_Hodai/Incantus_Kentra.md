@@ -8,8 +8,9 @@ shortcode: kentra
 name:
   full: Incantus Kentra
   aliases: []
-sohl:
+data:
   templatePriority: null
+sohl:
   system:
     skillBaseFormula: "@aur, @rea"
     masteryLevelBase: 0

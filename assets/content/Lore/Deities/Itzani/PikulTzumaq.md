@@ -10,6 +10,4 @@ shortcode: pikultzumaqdty
 packFolder: deitiesitzani
 ---
 
-# Pik'ul Tz'umaq
-
 TBD

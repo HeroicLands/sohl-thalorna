@@ -7,15 +7,14 @@ name:
   aliases: []
 shortcode: heartofdhirikri
 packFolder: elavendre
-sohl:
+data:
   templatePriority: null
+sohl:
   system:
     weightBase: 1
     valueBase: 0
     durabilityBase: 10
 ---
-
-# Heart of Dhiríkri
 
 A crystalline artifact believed to hold the essence of the powerful elemental spirits known as the
 **Dhiríkri**. It emanates an aura that enhances natural growth, and it can manipulate time within a

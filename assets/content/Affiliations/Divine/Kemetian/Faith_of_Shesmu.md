@@ -69,8 +69,6 @@ data:
     kemtnpnthn: aligned
     pernuw: aligned
     anhur: aligned
-sohl:
-  templatePriority: null
 name:
   full: Faith of Shesmu
   aliases:
@@ -79,8 +77,6 @@ shortcode: shesmu
 banner: banners/ta-kheperu-banner.webp
 packFolder: pantheonskemetian
 ---
-
-# Faith of Shesmu
 
 The second of Ta'Kheperu's two hunt-patrons, paired with Anhur in every rite that matters. Per'Nuw's senior elevations are conducted at both temples in tandem, and the god's patronage is understood to cover not merely the hunt's success but the manner of the killing.
 

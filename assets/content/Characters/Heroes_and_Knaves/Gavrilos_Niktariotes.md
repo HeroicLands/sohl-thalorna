@@ -39,7 +39,6 @@ data:
     complexion: tanned
     extra_features: []
 sohl:
-  templatePriority: null
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 14 } }
     - { model: sohl-sohl-attribute-end, system: { scoreBase: 13 } }
@@ -599,11 +598,11 @@ sohl:
     defaultCombatGroup: null
 ---
 
-# Appearance {#appearance}
+## Appearance {#appearance}
 
 Gávrilos stands 6'1" tall with a medium build. He has light tanned skin, graying black hair, and green eyes. His features include a long face, a hawkish nose, a pronounced chin, arched brows, hollow cheeks.
 
-# Dossier {#dossier}
+## Dossier {#dossier}
 
 **The Rising Star**
 
@@ -617,19 +616,19 @@ For the next twenty years, Gávrilos took on wealthy patrons and noble household
 
 Now at forty-five, Gávrilos has begun to confront a truth that no champion wishes to acknowledge: his body no longer obeys with the instantaneous precision it once did. His wind is shorter, his recovery time longer, his reflexes fractionally slower. Younger swordmasters—hungry, untested, and blessed with the advantages of youth—have begun to circle his reputation like wolves testing an aging lion. His recent victories have become less decisive, more grinding affairs of attrition rather than elegant superiority. He continues to accept students and contracts, driven by pride and the refusal to acknowledge decline, yet the edge of anxiety is beginning to show through his controlled demeanor.
 
-## Psyche
+### Psyche
 
-### Personality
+#### Personality
 
 Gávrilos embodies the Byzarian martial virtue of _sophrosyne_—measured wisdom wedded to perfect discipline. He speaks deliberately, his words chosen with the same economy he brings to swordplay, never wasting motion or breath. His humor is rare and cutting, deployed with surgical precision to humble students who grow arrogant. He treats even his most trivial students with the respect due to serious practitioners; he despises dilettantes and those who seek swordsmanship as decoration.
 
 Beneath his composed exterior seethes a competitive fire that borders on obsessive. He reviews his own duels constantly, analyzing moments of weakness with the pitiless severity he brings to critiquing his students. He has difficulty accepting compliments, deflecting praise toward his teachers or his students' dedication. His relationship with joy is complex—he experiences profound satisfaction in executing a perfect technique or in witnessing a student achieve mastery, but these moments of fulfillment are accompanied by melancholy as he recognizes them as increasingly rare.
 
-### Motivation
+#### Motivation
 
 Gávrilos is driven by two conflicting forces: the desire to cement his legacy as the greatest swordmaster of his generation, and a growing hunger to identify and nurture the successor who will carry his methods beyond his own mortality. He begins to suspect that traditional prowess alone may not be enough to maintain his reputation as age accelerates its theft of his capabilities. He seeks worthy adversaries and students not merely to train or defeat, but to prove to himself that his dominance was not merely a gift of youth but a product of superior understanding that will outlive his aging frame. He drives himself toward achievements that will be remembered beyond his death.
 
-### Strengths
+#### Strengths
 
 - **Mastery of Melee Combat**: His skill with a broadsword is legendary, each movement economical and devastating. His technique remains flawless even as his strength diminishes—he overcomes opponents through superior positioning and timing rather than raw power.
 - **Tactical Intelligence**: He reads opponents with uncanny precision, identifying weaknesses and exploiting them with minimal wasted effort. His Command score reflects his authority and ability to direct complex tactical maneuvers.
@@ -637,7 +636,7 @@ Gávrilos is driven by two conflicting forces: the desire to cement his legacy a
 - **Enduring Reputation**: His name carries weight in noble circles and military hierarchies. Nobles compete for his tutelage; garrison commanders seek his counsel; enemies sometimes hesitate, knowing they face a legend.
 - **Weapon Craftsmanship**: His deep knowledge of swords—their balance, weight distribution, and optimal techniques for different blade designs—allows him to evaluate weapons and even craft specialized training pieces.
 
-### Weaknesses
+#### Weaknesses
 
 - **Declining Physical Capacity**: His endurance, while still formidable, no longer permits the extended, intense bouts he once dominated. Extended combat fatigues him in ways younger swordmasters never experience.
 - **Psychological Fragility Regarding Age**: He struggles deeply with the reality of aging, sometimes pushing himself to dangerous extremes to prove his continued dominance. This pride occasionally blinds him to tactical reality.
@@ -645,26 +644,26 @@ Gávrilos is driven by two conflicting forces: the desire to cement his legacy a
 - **Empathetic Gaps**: His focus on excellence makes him occasionally harsh with students who lack natural talent but show dedication. He struggles to remember that not everyone processes failure the same way.
 - **Vulnerability to Schemes**: His reputation and pride make him susceptible to manipulation; rivals can bait him into disadvantageous situations by challenging his status.
 
-## Social
+### Social
 
-### Patrons
+#### Patrons
 
 - **House Markedon**: A wealthy merchant dynasty that has employed Gávrilos as a private weapons master for fifteen years. Their eldest son, **Theron Markedon**, now serves as garrison commander, a position Gávrilos helped him prepare for.
 - **Captain-General Isidore of the City Guard**: The supreme military commander of Chrysamar personally consults with Gávrilos on matters of combat doctrine and maintains him on an annual retainer.
 - **Archon Paulides**: A senior political figure who guards Gávrilos jealously, ensuring he receives prominent civic positions and shielding him from rivals' schemes—in exchange for advice on matters requiring decisive action.
 
-### Enemies
+#### Enemies
 
 - **Swordmaster Nikolaos the Younger**: A ambitious rival twenty years Gávrilos's junior who has begun publicly questioning whether the aging master still deserves his reputation. **Nikolaos** has cultivated alliances among newer swordmasters and has won several public bouts against Gávrilos's former students, building confidence and a following.
 - **The Merchants' Syndicate Faction**: A group of mercantile powers who resent Gávrilos's alliance with noble houses and have begun recruiting alternative weapons masters, seeking to dilute his monopoly on quality training.
 - **His Own Reputation**: Perhaps his greatest enemy is the impossibly high standard he has created through forty years of undefeated excellence. Every student now expects perfection; every new pupil hopes to be trained by an immortal legend rather than an aging master. This psychological burden grows heavier with each passing year.
 
-### Affiliations
+#### Affiliations
 
 - **Byzarian Swordmasters' Guild**: A prestigious organization to which only masters of proven excellence are admitted. Gávrilos sits on the Council of Masters that adjudicates disputes and sets standards.
 - **The Scholars of Vénusia**: A philosophical circle devoted to the goddess of prosperity and martial excellence. Gávrilos attends their quarterly meetings, where swordmasters debate technique and history.
 
-## Plot Hooks
+### Plot Hooks
 
 1. **The Challenge from Beyond the Sea**: A legendary swordmaster from a distant Byzarian colony arrives in Chrysamar, claiming to have defeated all challengers across three continents. He specifically requests to duel **Gávrilos Niktariôtês**, challenging the aging master's reputation before the gathered nobility. The adventurers might be hired by **Gávrilos** to investigate this challenger's true background, only to discover he is not a trained warrior at all but a warrior-servant bound by dark magic to an ancient curse, doomed to defeat every master swordsman he faces. Only by breaking the curse can **Gávrilos** gain a truly honorable victory.
 

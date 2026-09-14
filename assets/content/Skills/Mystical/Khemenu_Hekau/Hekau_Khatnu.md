@@ -9,8 +9,9 @@ name:
   full: "Hekau: Khat'nu"
   aliases:
     - Per-Khat'nu
-sohl:
+data:
   templatePriority: null
+sohl:
   system:
     skillBaseFormula: "@aur, @rea"
     masteryLevelBase: 0

@@ -11,8 +11,6 @@ shortcode: grukaraelwyth
 packFolder: aelwyth
 ---
 
-# The Grukar of Aelwyth
-
 There are **[[lore-grukarfolk|Grukar]] on Aelwyth**, and there have been for the better part of **seven
 hundred years**. They are not an invasion, a recent misfortune or anybody's crisis. They are a permanent
 condition of the island, in the way rats are a permanent condition of a granary, and the comparison is

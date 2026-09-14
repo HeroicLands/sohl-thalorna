@@ -11,8 +11,6 @@ img: icons/takheperu/pantheon/anubis.svg
 packFolder: deitieskemetian
 ---
 
-# Ánubís
-
 _The Keeper of Transitions — a jackal's head cradling a crescent moon._
 
 Ánubís is the god of decay, mummification and transformation, and the compassionate guide of the

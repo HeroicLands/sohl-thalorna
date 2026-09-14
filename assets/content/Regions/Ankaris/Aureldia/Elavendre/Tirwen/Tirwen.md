@@ -19,8 +19,6 @@ shortcode: tirwen
 packFolder: elavendre
 ---
 
-# Tirwen
-
 **Tirwen** — _the fair land_ — is the heartland of [[place-elavendre|Élavendre]]: the broad, green,
 well-watered basin of the [[place-beravriver|Bérav]], running from the northwestern uplands down to the
 sea. It holds roughly nine hundred thousand people, the capital, the University, and the great majority

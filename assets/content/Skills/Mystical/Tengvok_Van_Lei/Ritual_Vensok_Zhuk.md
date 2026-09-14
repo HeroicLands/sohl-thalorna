@@ -10,8 +10,9 @@ name:
   aliases:
     - Vënsōk Zhük
     - The Chief Auditor of Souls
-sohl:
+data:
   templatePriority: null
+sohl:
   system:
     skillBaseFormula: "@wil, @rea"
     masteryLevelBase: 0

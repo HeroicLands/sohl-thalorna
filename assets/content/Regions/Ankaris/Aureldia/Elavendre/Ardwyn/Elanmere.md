@@ -19,8 +19,6 @@ shortcode: elanmere
 packFolder: elavendre
 ---
 
-# Elanmere
-
 **Elanmere** stands on the shore of the lake that gives it its name, in a glacial valley at the western
 foot of [[place-ardwyn|Ardwyn]] where the mountains give way to the [[place-tirwen|Tirwen]] basin. Some
 two thousand one hundred people live there year-round, and a great many more pass through.

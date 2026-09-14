@@ -18,8 +18,6 @@ shortcode: skorrborg
 packFolder: malagna
 ---
 
-# Skorrborg
-
 ## Overview
 
 _To be written._

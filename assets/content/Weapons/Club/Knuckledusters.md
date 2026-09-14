@@ -7,10 +7,11 @@ description: "Iron rings weighted-knuckle; tavern brawl and street ambush stealt
 img: systems/sohl/assets/icons/other/knuckledusters.svg
 shortcode: kncldstr
 type: weapongear
+data:
+  templatePriority: null
 sohl:
   kbcat: club
   weaponType: Club
-  templatePriority: null
   system:
     weightBase: 0.5
     valueBase: 30

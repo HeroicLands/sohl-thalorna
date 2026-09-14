@@ -18,8 +18,6 @@ shortcode: blavera
 packFolder: provenzia
 ---
 
-# Blavéra
-
 **Blavéra** lies on the flat ground where the Zûravlen river slows, and grows wheat, barley, beans and
 a modest strip of orchard along its northern edge. It is neither rich nor poor, exports nothing under
 its own name, and feeds a good deal of the barony.

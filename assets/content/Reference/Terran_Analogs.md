@@ -9,8 +9,6 @@ subType: reference
 shortcode: trnnlgsrfrnc
 ---
 
-# Terran Analogs Reference
-
 _Private worldbuilding reference — not published to the website._
 
 ## Continents

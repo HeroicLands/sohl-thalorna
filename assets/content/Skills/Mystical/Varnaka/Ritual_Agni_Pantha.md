@@ -12,8 +12,9 @@ name:
     - Agni Pantha
     - The Path of the Flame
     - Flame Path
-sohl:
+data:
   templatePriority: null
+sohl:
   system:
     skillBaseFormula: "@wil, @rea"
     masteryLevelBase: 0

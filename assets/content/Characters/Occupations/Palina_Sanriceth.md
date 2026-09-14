@@ -43,7 +43,6 @@ data:
     extra_features:
       - a scar running down the right leg
 sohl:
-  templatePriority: null
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 11 } }
     - { model: sohl-sohl-attribute-end, system: { scoreBase: 12 } }
@@ -553,11 +552,11 @@ sohl:
     defaultCombatGroup: null
 ---
 
-# Appearance {#appearance}
+## Appearance {#appearance}
 
 Pálina Sánriceth carries the contradictions of her upbringing inscribed upon her body. At 28, she stands nearly six feet tall with the lean, muscled frame of someone accustomed to physical labor, yet moves with the grace instilled by her noble birth. Her face is notable more for its character than classical beauty—long-boned, strong-jawed, with amber eyes that hold genuine warmth rather than the calculated depths of pure charm. The scar running down her right leg, visible when she wears the flowing ritual robes of Vénusia, tells an unresolved story: not accidental, not self-inflicted, but deliberate. Her dark brown hair, worn in a single thick braid, has never been fashioned into the elaborate styles preferred by Tarvénia’s coastal nobility. There is something fundamentally honest about her appearance—she seems incapable of pretense, even when ceremonial duty demands it.
 
-# Dossier {#dossier}
+## Dossier {#dossier}
 
 Pálina was born the eldest daughter of a minor noble house in Solárden, a coastal city where the warrior traditions of Tarvénia still held sway even as merchant wealth began to reshape the region’s hierarchy. Her family expected her to make an advantageous marriage, but Pálina showed early aptitude for matters spiritual rather than dynastic. More troublingly, she demonstrated a genuine interest in the lives and struggles of ordinary people—the fishing families, the dock workers, the dispossessed—an interest her family considered dangerously idealistic.
 
@@ -565,7 +564,7 @@ At twenty-two, following a violent incident in her family’s household that lef
 
 Now, six years into her service, Pálina has become something of an anomaly—a priestess of the goddess of seduction and sensual pleasure who approaches her work with almost ascetic dedication. She conducts fertility blessings with the solemnity of a healer; she counsels couples with genuine investment in their wellbeing; she works particularly with women of lower classes, helping them navigate pregnancy, childbirth, and the economic vulnerabilities that accompany motherhood in a society that offers them little protection. In a region suspicious of organized religion and skeptical of formal temple hierarchies, she has carved out a space of genuine respect through authenticity rather than artifice.
 
-## Psyche
+### Psyche
 
 Pálina’s defining characteristic is her absolute sincerity in a world that has taught her that sincerity is dangerous. She genuinely believes that pleasure, desire, and human connection are divine gifts and that her role is to help people access these gifts with reverence and authenticity. This conviction is both her greatest strength and her most vulnerable point.
 
@@ -575,7 +574,7 @@ Her idealism does cause genuine problems. She sees the potential for good in peo
 
 Her greatest weakness is a kind of spiritual perfectionism. She holds herself to standards of authenticity and service that human beings cannot sustain indefinitely, and when she inevitably falls short, she experiences it as profound failure. She is capable of being judgmental toward those who do not share her commitment to genuine connection, even as she consciously struggles against this judgment.
 
-## Social
+### Social
 
 Pálina occupies an unusual position in Solárden’s religious landscape. The Temple of Vénusia offers her formal affiliation and legitimacy, yet her approach to priesthood sets her apart from other temple authorities. The high priestess views her with respect but also with a degree of exasperation; Pálina’s work among the poor and dispossessed generates little revenue and considerable complications. Yet Pálina’s genuine effectiveness—the marriages she has helped thrive, the births she has attended, the women whose lives have been materially improved by her intervention—makes her difficult to dismiss or control.
 
@@ -583,7 +582,7 @@ Among Solárden’s ordinary population, her reputation approaches that of a min
 
 Among the coastal nobility and merchant classes, Pálina is viewed as somewhat quaint, a priestess who has failed to understand her true purpose. Some respect her commitment; others view her as wasteful of her obvious gifts of charm and persuasion. There are occasional whispers that her family deliberately removed her from circulation to avoid scandal, and that she makes virtue of necessity through her work with the lower classes.
 
-## Companions
+### Companions
 
 **Patrons:**
 
@@ -595,7 +594,7 @@ Among the coastal nobility and merchant classes, Pálina is viewed as somewhat q
 - **Lord Marchand**, a wealthy merchant who approached Pálina for intimate counsel and was rebuffed. He views her rejection as an affront and has begun subtly undermining her reputation in higher circles, suggesting her work is beneath her station.
 - **Father Anselm**, an older priest of the Aurèldían faith whose austere views of spirituality directly conflict with Vénusia’s philosophy. He views Pálina as a corruptor of proper religious order and has been agitating for stricter oversight of temple activities in Solárden.
 
-## Plot Hooks
+### Plot Hooks
 
 1. **The Impossible Blessing** — A young woman of high birth comes to Pálina seeking a fertility blessing, but reveals that her situation is genuinely hopeless: her husband is impotent or absent, her family will cast her out if she remains childless within the year, and she has nowhere to go. Pálina’s commitment to authentic solutions rather than magical ones is tested when the woman begins to hint at increasingly desperate measures.
 

@@ -42,7 +42,6 @@ data:
     extra_features:
       - a tattoo of a spider on the shoulder
 sohl:
-  templatePriority: null
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 12 } }
     - { model: sohl-sohl-attribute-end, system: { scoreBase: 12 } }
@@ -552,11 +551,11 @@ sohl:
     defaultCombatGroup: null
 ---
 
-# Appearance {#appearance}
+## Appearance {#appearance}
 
 Nílara Tólgen is a 27-year-old woman who stands 5'10" tall and is slender. She has a long face with soft cheekbones, a wide forehead, and an angular jaw that leads to a firm chin. Her wide-set hazel eyes sit beneath straight brows, lending her an open gaze. An aquiline nose and thin lips complete her features. She has olive-tanned skin with a weathered complexion. Her chestnut hair is twisted into an elaborate arrangement.
 
-# Dossier {#dossier}
+## Dossier {#dossier}
 
 Born in the Provènzia region to a freeman family of Provenzian heritage, Nílara Tólgen came into the world of the yeoman archer through a combination of circumstance and aptitude.
 
@@ -564,37 +563,37 @@ Maelis grew up on the outskirts of the village, where her father taught her to u
 
 Now at 27 years of age, Nílara Tólgen has established herself as a known figure among the yeoman archers of Provènzia. Her reputation, for better or worse, precedes her in the circles where such things matter.
 
-## Psyche
+### Psyche
 
-### Personality
+#### Personality
 
 Lacks strength for melee combat, can be overly reliant on her speed.
 
-### Motivation
+#### Motivation
 
 Nílara is driven by the desire to master her craft and secure a stable future. The uncertainties of life in yeoman archer work keep her vigilant and adaptable.
 
-### Strengths
+#### Strengths
 
 Skilled archer, quick and agile, excellent at tracking.
 
-## Social
+### Social
 
 Nílara is affiliated with Local Militia.
 
 As a Provenzian yeoman archer, Nílara occupies a recognized social niche within Provènzia society.
 
-## Companions
+### Companions
 
-### Patrons
+#### Patrons
 
 Nílara's primary patron is Local hunters and militia who have seen her skill firsthand.. This relationship provides both opportunity and obligation.
 
-### Enemies
+#### Enemies
 
 Poachers who encroach on her territory.
 
-## Plot Hooks
+### Plot Hooks
 
 1. **The Yeoman Archer's Dilemma** — Nílara faces a professional crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Provènzia.
 

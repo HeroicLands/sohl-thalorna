@@ -19,8 +19,6 @@ shortcode: stormveil
 packFolder: aelwyth
 ---
 
-# Stormveil
-
 **Stormveil** is the seat of the [[affiliation-jrldmstrmvld|Jarldom of Stormveld]], on the north-eastern
 coast of Aelwyth, facing the water the Nordmen came over sixty years ago and still use.
 

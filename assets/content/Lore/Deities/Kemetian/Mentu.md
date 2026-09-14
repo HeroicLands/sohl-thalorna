@@ -10,8 +10,6 @@ shortcode: mentudty
 packFolder: deitieskemetian
 ---
 
-# Mentu
-
 _The War-God._
 
 Mentu is the war-god of the Kheperi, and his cult is defined less by doctrine than by **geography**.

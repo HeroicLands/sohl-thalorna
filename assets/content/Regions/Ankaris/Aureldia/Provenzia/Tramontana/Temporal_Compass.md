@@ -8,15 +8,14 @@ name:
   aliases: []
 shortcode: temprlcmpss
 packFolder: provenzia
-sohl:
+data:
   templatePriority: null
+sohl:
   system:
     weightBase: 1
     valueBase: 0
     durabilityBase: 8
 ---
-
-# Temporal Compass
 
 The **Temporal Compass** is an ornate enchanted instrument made for one purpose: to get a living person
 through [[lore-aralwen|Úqua-Arálwen]] and out again in something close to the time they expected.

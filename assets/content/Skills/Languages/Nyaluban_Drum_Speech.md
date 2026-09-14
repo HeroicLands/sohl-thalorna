@@ -11,8 +11,9 @@ name:
   aliases:
     - Drum-Speech
     - Drum-Speaking
-sohl:
+data:
   templatePriority: null
+sohl:
   system:
     skillBaseFormula: "@elo, @rea"
     masteryLevelBase: 0

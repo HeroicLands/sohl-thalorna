@@ -117,8 +117,6 @@ data:
     kingdomlgn: unaligned
     kingdmnrgd: unaligned
     kngdmvthgrd: unaligned
-sohl:
-  templatePriority: null
 packFolder: targud
 ---
 

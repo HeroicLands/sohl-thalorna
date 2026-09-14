@@ -22,11 +22,7 @@ data:
     - kingdmdnvr
   gender: female
   species: null
-sohl:
-  templatePriority: null
 ---
-
-# Lady Thaeklia Maelvri
 
 **Role.** Assists in negotiations and serves as an interpreter.
 

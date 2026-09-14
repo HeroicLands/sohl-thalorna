@@ -8,8 +8,9 @@ img: images/affiliation/hex-hodai/sideros.webp
 name:
   full: Incantus Sidéros
   aliases: []
-sohl:
+data:
   templatePriority: null
+sohl:
   system:
     skillBaseFormula: "@aur, @rea"
     masteryLevelBase: 0

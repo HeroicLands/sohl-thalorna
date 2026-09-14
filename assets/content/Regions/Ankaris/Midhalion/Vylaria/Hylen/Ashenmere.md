@@ -18,8 +18,6 @@ shortcode: ashenmere
 packFolder: vylaria
 ---
 
-# Ashenmere
-
 ## Overview
 
 _To be written._

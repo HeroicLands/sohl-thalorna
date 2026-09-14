@@ -104,11 +104,7 @@ data:
   parents: []
   relations:
     asguardian: aligned
-sohl:
-  templatePriority: null
 ---
-
-# The Order of Fréyr's Guardians
 
 _Old Norse: Fréyrsverdir — "Fréyr's Swords"_
 

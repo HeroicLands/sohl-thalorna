@@ -10,6 +10,4 @@ shortcode: vulcandty
 packFolder: deitiesaureldian
 ---
 
-# Vúlcan
-
 TBD

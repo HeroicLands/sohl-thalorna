@@ -41,7 +41,6 @@ data:
     complexion: medium
     extra_features: []
 sohl:
-  templatePriority: null
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 11 } }
     - { model: sohl-sohl-attribute-end, system: { scoreBase: 13 } }
@@ -552,11 +551,11 @@ sohl:
     defaultCombatGroup: null
 ---
 
-# Appearance {#appearance}
+## Appearance {#appearance}
 
 Lýraen Válskyr is a 38-year-old woman who stands 6'0" tall and is of moderate build. She has an oval face with wide-set cheekbones, a high forehead, and a narrow jaw that leads to a firm chin. Her hooded green eyes sit beneath straight brows, lending her a guarded gaze. An aquiline nose and narrow lips complete her features. She has olive skin with an even complexion. Her brown hair is swept up and held with carved combs.
 
-# Dossier {#dossier}
+## Dossier {#dossier}
 
 Born in the Provènzia region to a freeman family of Provenzian heritage, Lýraen Válskyr came into the world of the domestic servant through a combination of circumstance and aptitude.
 
@@ -564,37 +563,37 @@ Beatrice has worked in service since she was a teenager, starting as a scullery 
 
 Now at 38 years of age, Lýraen Válskyr has established herself as a known figure among the domestic servants of Provènzia. Her reputation, for better or worse, precedes her in the circles where such things matter.
 
-## Psyche
+### Psyche
 
-### Personality
+#### Personality
 
 Feels unappreciated and has a tendency to hold grudges.
 
-### Motivation
+#### Motivation
 
 Lýraen is driven by the desire to master her craft and secure a stable future. The uncertainties of life in domestic servant work keep her vigilant and adaptable.
 
-### Strengths
+#### Strengths
 
 Highly organized, skilled in household management, reliable.
 
-## Social
+### Social
 
 Lýraen is affiliated with None; dedicated to her job..
 
 As a Provenzian domestic servant, Lýraen occupies a recognized social niche within Provènzia society.
 
-## Companions
+### Companions
 
-### Patrons
+#### Patrons
 
 Lýraen's primary patron is Her current employer, who trusts her to manage the household.. This relationship provides both opportunity and obligation.
 
-### Enemies
+#### Enemies
 
 Some of the younger servants who see her as too strict.
 
-## Plot Hooks
+### Plot Hooks
 
 1. **The Domestic Servant's Dilemma** — Lýraen faces a professional crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Provènzia.
 

@@ -17,8 +17,6 @@ shortcode: thornhaven
 packFolder: vrystwald
 ---
 
-# Thornhaven
-
 ## Overview
 
 _To be written._

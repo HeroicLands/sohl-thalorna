@@ -18,8 +18,6 @@ shortcode: vindborg
 packFolder: nordheim
 ---
 
-# Vindborg
-
 ## Overview
 
 _To be written._

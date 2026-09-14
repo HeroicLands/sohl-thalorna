@@ -10,8 +10,6 @@ shortcode: journeymanrnk
 description: "Out of apprenticeship and working for wages, not yet free to keep a shop."
 ---
 
-# Journeyman
-
 Out of apprenticeship and working for wages, not yet free to keep a shop.
 
 ## Obligations and Rights

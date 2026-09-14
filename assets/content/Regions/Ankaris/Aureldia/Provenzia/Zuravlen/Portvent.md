@@ -19,8 +19,6 @@ shortcode: portvent
 packFolder: provenzia
 ---
 
-# Portvent
-
 **Portvent** lies at the foot of the cliffs on [[place-zuravlenrgn|Zûravlen]]'s western shore, reached
 from the valley by a single steep cut in the rock down which everything the barony ships must be
 carried. Some nine hundred people live there. It is the only harbour in the barony and, for perhaps

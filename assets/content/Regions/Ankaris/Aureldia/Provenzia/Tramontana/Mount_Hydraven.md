@@ -20,8 +20,6 @@ shortcode: hydravenmnt
 packFolder: provenzia
 ---
 
-# Mount Hýdraven
-
 **Hýdraven** is the highest of the northern mountains, standing where Provènzia's cold uplands run up
 toward [[place-elavendre|Élavendre]], and it is the source of the kingdom's water.
 

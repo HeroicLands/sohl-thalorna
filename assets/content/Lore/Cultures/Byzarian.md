@@ -10,6 +10,4 @@ shortcode: byzarianclt
 description: "The Byzarian — their beliefs, their mores, and what they hold a person owes."
 ---
 
-# Byzarian
-
 TBD.

@@ -43,7 +43,6 @@ data:
     complexion: null
     extra_features: []
 sohl:
-  templatePriority: null
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 17 } }
     - { model: sohl-sohl-attribute-end, system: { scoreBase: 16 } }
@@ -597,15 +596,15 @@ sohl:
     defaultCombatGroup: null
 ---
 
-# Appearance {#appearance}
+## Appearance {#appearance}
 
 Thornak is a hulking figure, standing at 6'6" and weighing around 250 pounds, with a body built for battle. His skin is pale and scarred from countless battles, and his long, untamed reddish-brown hair falls wildly over his shoulders, often tied back with leather straps. His fierce blue eyes reflect a primal rage that he channels in combat, and his face is adorned with ritualistic scars, including a prominent one across his nose. His heavy jaw is framed by a thick beard, also reddish-brown, that he keeps long and untrimmed. Thornak wears furs and hides, practical for the harsh environment of the Vrystwald tribes, and he wields a massive boar spear, the symbol of his totem, along with a bone-handled axe.
 
-# Dossier {#dossier}
+## Dossier {#dossier}
 
-## Background
+### Background
 
-### Early Life
+#### Early Life
 
 Thornak Blodtūsc Bār was born into the **Mahnlin tribe**, one of the most remote and fiercely independent Vrystwald tribes. His tribe’s survival depended on their mastery of the wild, rugged terrain of Peran, a land of dense forests, deep valleys, and treacherous mountains. The Vrystwalds are known for their violent customs, deep reverence for the spirits of nature, and a resistance to outsiders. Thornak’s childhood was a brutal one, marked by intense physical and spiritual trials.
 
@@ -613,7 +612,7 @@ From an early age, Thornak exhibited a strong connection to the spirit world. Hi
 
 Thornak's father, **Hrodgar**, was a fierce warrior who led the tribe’s warbands against invaders and rival clans. His mother, **Maghildr**, was a respected spirit-talker, often called upon to interpret the will of the gods and spirits. From them, Thornak learned both the ways of war and the sacred rituals that tied his people to the land and its spirits. By the time he was 12, Thornak had undergone several brutal rites of passage, including the **Trial of the Bloodtusk**, where he was forced to kill a wild boar with nothing but a spear. This trial earned him his name, **Blodtūsc**, symbolizing his connection to the boar spirit and his role as a protector of the tribe.
 
-### Hunter Training
+#### Hunter Training
 
 As Thornak grew, under the guidance of the tribe’s elder warrior, **Gurnulf Hrothgar**, Thornak was taught the skills of a hunter and warrior. He learned how to survive in the forest, track animals, interpreting signs both physical and spiritual, and how to perform sacred rituals to invoke the blessings of Kemlar and the other Vrystwald gods both before and after the hunt. Gurnulf often reminded him that the power of a hunter-warrior was not only in their ability to hunt but also in their ability to lead the tribe through times of hardship and battle.
 
@@ -621,7 +620,7 @@ In battle, Thornak could enter a berserker state, driven by the spirit of the bo
 
 Thornak is ambitious, desiring to lead the clan himself some day. This ambition is shared with the tribe's shaman, **Sigulf the Crowcaller**, who sees Thornak as an obstruction to his own leadership. Thornak is well respected within his tribe, and Sigulf is less so, but Sigulf can commune with the spirit world engendering fear and awe, if not respect, among the tribe.
 
-### Current Challenges
+#### Current Challenges
 
 The Vrystwald tribes have always faced threats from outside their lands, but in recent years, these threats have intensified. Settlers from the southern kingdoms, backed by well-armed militias, have begun encroaching on Vrystwald territory. They cut down sacred trees, hunt in forbidden lands, and build fortifications on ancestral sites. These actions have sparked numerous skirmishes, and the Mahnlin tribe, assisted by Thornak’s leadership, has been at the forefront of the resistance.
 
@@ -629,7 +628,7 @@ However, the greatest threat to the Vrystwalds comes from the Sons of Muspell, a
 
 Within his own tribe, Thornak faces challenges to his authority as well. Sigulf the Crowcaller, the tribal shaman, has begun gathering followers, claiming that the time of the Boar Spirit is over and that the Vrystwalds must unite under a new totem—the crow, which he claims represents cunning and adaptability. Sigulf’s growing influence threatens to fracture the unity of the tribe, and Thornak must decide whether to confront Sigulf directly or attempt to win him over to his side.
 
-### Current Goal
+#### Current Goal
 
 Thornak’s immediate goal is to defend the Mahnlin tribe from the continued encroachments of southern settlers and the **Sons of Muspell**. He has been leading raids against southern outposts and ambushing Vúlcanian patrols, but he knows that these efforts are not enough. To truly protect his people, Thornak believes he must seek out the **Forgotten Barrows**, ancient burial sites said to house the spirits of the first Vrystwald ancestors.
 
@@ -637,7 +636,7 @@ Thornak’s plan is to commune with the spirits of these ancient ancestors and u
 
 If Thornak can unlock the ancient power of the first Vrystwald ancestors, he hopes to rally all the Vrystwald tribes under his leadership, uniting them in a final stand against the forces of civilization. However, he knows that Sigulf and other rivals will not easily bow to his will, and the conflict with the southern invaders is far from over.
 
-### Skills and Abilities
+#### Skills and Abilities
 
 - **Strength**: Thornak’s physical strength is his defining trait, honed through years of hunting and battle.
 - **Endurance**: His stamina is exceptional, able to track and hunt for long periods without rest.
@@ -662,22 +661,22 @@ If Thornak can unlock the ancient power of the first Vrystwald ancestors, he hop
 - **Animal Empathy**: Thornak has a natural bond with the animals of the wild, particularly boars, wolves, and other fierce creatures of the forest. He can calm and communicate with animals, gaining their trust and sometimes even their aid. This ability makes him an exceptional hunter and can also provide an edge when dealing with hostile or dangerous wildlife.
 - **Resilient Defender**: Thornak is not only a ferocious attacker but also a stalwart defender of his tribe. When protecting his people, his resolve becomes unbreakable, allowing him to withstand long battles and endure significant punishment. His defensive instincts, combined with his berserker rage, make him a fearsome warrior capable of holding his ground against overwhelming odds.
 
-## Psyche
+### Psyche
 
-### Strengths
+#### Strengths
 
 - **Berserker Rage**
 - **Axe Combat**
 
-## Social
+### Social
 
-### Enemies
+#### Enemies
 
 - **Captain Varlan Keldros**: A southern military commander who has been leading expeditions into Vrystwald territory. Keldros views the Vrystwalds as backward savages standing in the way of civilization’s progress. His raids have been particularly destructive, and he has gained a reputation for cruelty, often executing captured Vrystwalds to instill fear.
 - **The Sons of Muspell**: This Vúlcanian cult seeks to cleanse the wildlands of Vrystwald influence, seeing their worship of nature spirits as heretical. The **Blazewarden Malekir** of the Sons has personally sworn to burn the Vrystwald forests to the ground and offer the tribe’s shamans as sacrifices to Vúlcan. Thornak has clashed with Malekir’s forces on several occasions, but the Vúlcanian forces are numerous and well-armed, making them a deadly threat.
 - **Sigulf the Crowcaller**: The tribe's shaman who believes that Thornak’s connection to the Boar Spirit is outdated and that the Vrystwalds must embrace a new path of survival through cunning and deception. Sigulf emphasizes his connection to the spirit world to create awe and fear in the tribespeople. While not an outright enemy yet, Sigulf’s growing power threatens Thornak’s ambition to lead the Mahnlin tribe and ultimately unite all the Vrystwald tribes under his leadership.
 
-## Plot Hooks
+### Plot Hooks
 
 1. **War with the Vúlcanians**: The **Sons of Muspell** are planning a massive invasion of Vrystwald territory, and Thornak must lead his people in a desperate defense. Players could assist in defending Vrystwald villages, raiding ian camps, or confronting the Vúlcanian High Blazewarden Malekir in a climactic battle.
 

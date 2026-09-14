@@ -114,8 +114,6 @@ data:
     mtrrchybth: aligned
     vylarinmpr: unaligned
     okharis: unaligned
-sohl:
-  templatePriority: null
 terran_analog: "Egypt + Sudan (Nile valley civilization)"
 packFolder: takheperu
 ---

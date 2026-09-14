@@ -11,8 +11,9 @@ name:
   full: "Mzazi wa Ardhi Spirit Power"
   aliases:
     - The Begetter of the Earth
-sohl:
+data:
   templatePriority: null
+sohl:
   system:
     skillBaseFormula: "@aur, @wil"
     masteryLevelBase: 0

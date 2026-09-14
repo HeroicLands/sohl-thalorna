@@ -18,8 +18,6 @@ shortcode: meridiana
 packFolder: provenzia
 ---
 
-# Meridiàna
-
 **Meridiàna** — _the noon country_; the south, and by long implication the warm and prosperous part.
 
 The **Meridiàna** is Provènzia as the world pictures it, and as half of Provènzia actually lives:

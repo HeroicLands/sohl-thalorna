@@ -69,8 +69,6 @@ data:
     - kemtnpnthn
   relations:
     kemtnpnthn: aligned
-sohl:
-  templatePriority: null
 name:
   full: Faith of Sobek
   aliases:
@@ -79,8 +77,6 @@ shortcode: sobek
 banner: banners/ta-kheperu-banner.webp
 packFolder: pantheonskemetian
 ---
-
-# Faith of Sobek
 
 The great crocodile cult, seated in the eastern marsh at Hut-Sobek among the river-beast hunters, and patron besides of a dry garrison nome of desert wells and quarry-roads and of the narrow gorge-stretch where the valley pinches to almost nothing. Its central difficulty is that the beast sacred to the god is also the beast that takes farmers and children along the river, and must sometimes be killed.
 

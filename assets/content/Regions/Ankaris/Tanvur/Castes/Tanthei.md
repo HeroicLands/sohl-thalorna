@@ -8,8 +8,6 @@ shortcode: tanthei
 packFolder: castes
 ---
 
-# Tānthëi
-
 **Celestial Scholars**
 
 The Tānthëi form the scholarly and spiritual elite of [[affiliation-tanvurempr|Tānvür]], trained in the interpretation of omens, the mathematics of astrology, and the secrets of ancient texts. Through careful study and contemplative discipline, they discern the will of heaven and counsel the empire's highest authorities on matters of celestial import and spiritual significance.

@@ -11,8 +11,6 @@ img: icons/takheperu/pantheon/bes.svg
 packFolder: deitieskemetian
 ---
 
-# Bēs
-
 _Guardian of Night Visions — a crescent moon with a single protective eye._
 
 Bēs is the Kemetían name for [[lore-goddreams|the God of Dreams]], a deity far older than any single

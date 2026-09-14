@@ -10,6 +10,4 @@ shortcode: aelwythanclt
 description: "The Aelwythan — their beliefs, their mores, and what they hold a person owes."
 ---
 
-# Aelwythan
-
 TBD.

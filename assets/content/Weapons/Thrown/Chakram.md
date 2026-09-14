@@ -7,10 +7,11 @@ description: "Sharpened steel disc thrown or hand-held; cavalry skirmisher's pre
 img: systems/sohl/assets/icons/game-icons/delapouite/circle.svg
 shortcode: chak
 type: weapongear
+data:
+  templatePriority: null
 sohl:
   kbcat: knife
   weaponType: Knife
-  templatePriority: null
   system:
     weightBase: 0.5
     valueBase: 3

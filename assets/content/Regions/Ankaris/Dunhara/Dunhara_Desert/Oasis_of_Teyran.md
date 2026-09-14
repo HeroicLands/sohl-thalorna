@@ -17,8 +17,6 @@ shortcode: oasisteyrn
 packFolder: dunharadesert
 ---
 
-# Oasis of Teyran
-
 ## Overview
 
 _To be written._

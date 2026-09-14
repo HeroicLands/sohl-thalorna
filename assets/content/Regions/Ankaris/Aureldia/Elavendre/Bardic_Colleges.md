@@ -84,8 +84,6 @@ data:
   lore: []
   parents: []
   relations: {}
-sohl:
-  templatePriority: null
 name:
   full: The Bardic Colleges
   aliases:
@@ -94,8 +92,6 @@ name:
 shortcode: bardicolgs
 packFolder: elavendre
 ---
-
-# The Bardic Colleges
 
 - **Type:** Institutions of music, memory, magic, and diplomacy
 - **Region:** [[place-elavendre|Élavendre]]

@@ -43,7 +43,6 @@ data:
     extra_features:
       - a tattoo of a dragon wrapping around the arm
 sohl:
-  templatePriority: null
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 14 } }
     - { model: sohl-sohl-attribute-end, system: { scoreBase: 16 } }
@@ -555,13 +554,13 @@ sohl:
     defaultCombatGroup: null
 ---
 
-# Appearance {#appearance}
+## Appearance {#appearance}
 
 Azéndas Dâemâtôr is a 45-year-old man who stands 6'1" tall and is broad and solidly built. He has a diamond face with prominent cheekbones, a narrow forehead, and an angular jaw that leads to a firm chin. His almond-shaped blue eyes sit beneath heavy brows, lending him a measured gaze. A straight nose and wide lips complete his features. He has tanned skin with a weathered complexion. His dark brown hair is short and swept back.
 
 The dragon tattooed around his upper arm tells a story he rarely discusses — a coiled beast inked in deep black and rust, the kind of mark men earn in distant wars or mercenary camps. The tattoo has faded with time and sun exposure, its edges softened but unmistakable. Those familiar with such things recognize it as the mark of a soldier, though Azéndas turned toward Flórania's green blessing long ago.
 
-# Dossier {#dossier}
+## Dossier {#dossier}
 
 Azéndas did not come to the priesthood by the expected path. Born into a freeman family in rural Vylaria, he spent his younger years as what soldiers call a "contract man"—hired out to provincial warlords and trading companies, riding with militia bands across the declining empire's borderlands. The work was brutal, the pay inconsistent, and the cause always uncertain. Somewhere in those blood-soaked years, he learned horsemanship, endurance, and the hard mathematics of survival. The dragon on his arm marked him as a survivor of the Harad campaign, though he was among the fortunate few who escaped before the independence forces overran the eastern province twelve years ago.
 
@@ -571,7 +570,7 @@ Now, at forty-five, Azéndas serves the farming communities and villages through
 
 Yet the decline troubles him deeply. He watches the imperial roads fall into disrepair, sees fewer merchant caravans arriving in Tyrellan, witnesses the slow starvation of the towns that depended on imperial trade. The farming communities he serves grow more desperate, more vulnerable. He knows that in a dying empire, the priesthood becomes either the last bastion of civilized order or merely another hungry mouth competing for scraps. He works not merely as a healer but as a bulwark, trying to hold back chaos through old knowledge and genuine care.
 
-## Psyche
+### Psyche
 
 Azéndas carries two distinct temperaments in uneasy tension. The soldier in him is methodical, pragmatic, resistant to sentiment—he believes in discipline, clear hierarchy, and proven methods. The priest in him has learned genuine compassion, a deep empathy rooted in his years as a helpless laborer and a soldier who saw too much suffering. This conflict manifests as someone who can be blunt to the point of cruelty when discussing policy or change, yet profoundly gentle with the sick and dying in his care.
 
@@ -581,7 +580,7 @@ But beneath this hardness lies a man who chose the priesthood specifically becau
 
 What drives Azéndas is the need to make a tangible difference in a collapsing world. Having learned through mercenary work that glory is a lie and honor is expensive, he seeks instead to build something that lasts: healthy harvests, living children, communities resilient enough to weather the empire's decline. He no longer asks whether change is possible in the grand sense; he focuses instead on whether he can stave off hunger in the next village and ease the pain of the next dying woman. It is a small ambition, but one he pursues with the same uncompromising intensity he once gave to war.
 
-## Social
+### Social
 
 Azéndas holds the formal rank of Senior Priest of Flórania in the Tyrellan region, answerable nominally to the Temple hierarchy in Vylaria's capital but exercising near-total autonomy in his rural circuits. The Temple trusts him precisely because he asks for so little and delivers consistent results—harvests blessed under his watch feed the temple's institutional charity, and his medical knowledge has become invaluable as Vylaria's formal physicians grow scarce.
 
@@ -591,13 +590,13 @@ Yet among the Temple's upper clergy and certainly among Vylaria's senatorial cla
 
 He is not part of any faction, by design. His alliance is with Flórania and with the farming communities, in that order.
 
-## Companions
+### Companions
 
 **Patrons:** The farmers and village elders of the Tyrellan circuit are Azéndas's true patrons. Specific among them is Elder Vasken of Millhaven, a former militia commander now in his seventies, who first encouraged Azéndas to take up healing work and who provides shelter and local political cover whenever the Temple hierarchy questions his methods. The Temple Matriarch in the capital, Avrella Corisande, respects his work enough to defend his autonomy, though she wishes he were more ambitious.
 
 **Enemies:** Azéndas has few personal enemies, but he has accrued opponents through his refusal to compromise. The land-merchant Dorian Fitch, who seeks to consolidate failing farmland into vast estates, views Azéndas's work strengthening small-holder farmers as direct opposition to his ambitions—they have clashed twice over water rights. Several younger priests in the Temple hierarchy resent his influence and his old-fashioned methods, viewing him as an obstacle to modernization. And somewhere in the declining provinces, there may still be former contract soldiers who remember Azéndas's face from the Harad campaign and bear him grudges he does not even know about.
 
-## Plot Hooks
+### Plot Hooks
 
 1. **The Failing Harvest** — A blight spreads through the Tyrellan grain fields despite Azéndas's blessings and remedies, and superstitious farmers begin to whisper that he has lost Flórania's favor. In truth, the blight is something new, perhaps carried on merchant caravans from the dying eastern provinces, and requires him to venture beyond his known methods. He must travel to the capital's great libraries to consult with the Temple's scholars before the community loses faith entirely.
 

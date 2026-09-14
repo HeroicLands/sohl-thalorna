@@ -18,8 +18,6 @@ shortcode: beravriver
 packFolder: elavendre
 ---
 
-# The Bérav
-
 The **Bérav** is Élavendre's principal river and the axis of [[place-tirwen|Tirwen]]. It rises in the
 northwestern uplands and runs southwest across the heartland basin to the western sea, gathering the
 tributaries of the whole interior as it goes.

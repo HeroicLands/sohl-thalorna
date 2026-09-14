@@ -76,11 +76,7 @@ data:
   lore: []
   parents: []
   relations: {}
-sohl:
-  templatePriority: null
 ---
-
-# The Skalds' Circle
 
 _Old Norse: Skaldahringr — "the Ring of the Skalds"_
 

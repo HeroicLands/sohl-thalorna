@@ -118,8 +118,6 @@ data:
     kingdmtrgd: unaligned
     kngdmvthgrd: unaligned
     kngdmlvndr: unaligned
-sohl:
-  templatePriority: null
 packFolder: malagna
 ---
 

@@ -10,6 +10,4 @@ shortcode: oinndty
 packFolder: deitiesasguardian
 ---
 
-# Ódinn
-
 TBD

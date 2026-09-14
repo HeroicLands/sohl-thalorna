@@ -555,11 +555,11 @@ sohl:
     defaultCombatGroup: null
 ---
 
-# Appearance {#appearance}
+## Appearance {#appearance}
 
 Brunjár Skathhelm looks like what he is: a boy who ended up in a bad place and is in over his head. He has a round, freckled face that makes him look sixteen rather than twenty-two, with hazel eyes that dart nervously and never quite meet anyone's gaze. His brown hair is shaggy and unkempt, and he has the soft, unfinished look of someone who has not yet grown fully into his frame. He wears a homespun tunic and leather shoes — the worst-equipped member of the gang — and carries a club, a dagger, and a sling with a pouch of stones. He fidgets constantly, picking at his nails, shifting his weight, tugging at his sleeves. He is the member of the Blackpine Wolves that victims remember as "the one who looked like he didn't want to be there."
 
-# Dossier {#dossier}
+## Dossier {#dossier}
 
 Brunjár grew up in a small Varokh village not far from Dágulf's own birthplace, the son of a herdsman and a weaver. His was an unremarkable childhood — poor but not desperate, with parents who tried their best and an older sister who looked out for him. He was never strong or brave, but he was observant, good with animals, and a fair hand with a sling from years of chasing crows out of the barley fields.
 
@@ -567,39 +567,39 @@ His trouble began when his father was accused of stealing a neighbor's ram — a
 
 Dágulf kept him because he was useful — a good lookout, quiet on his feet, and too frightened to disobey. Brunjár has been with the Blackpine Wolves for two years now and hates every moment of it, but sees no way out. He has witnessed things that haunt him, and participated in acts he cannot undo.
 
-# Skills and Abilities
+## Skills and Abilities
 
 Brunjár is the gang's primary lookout and scout. His perception is good, he moves quietly through the forest, and his sling work is the best in the group — he can drop a crow at forty paces. He has a knack with animals and can calm horses during an ambush, which is practically useful. He is a mediocre fighter at best, lacks confidence, and freezes under pressure.
 
-## Psyche
+### Psyche
 
-### Personality
+#### Personality
 
 Brunjár is anxious, guilt-ridden, and desperately unhappy. He is not a bad person — he has genuine empathy, a functioning conscience, and the moral awareness to know that what the gang does is wrong. He simply lacks the will to leave and the courage to resist. He is eager to please and quick to obey, which makes him useful to Dágulf but contemptible to Skathilda. He talks too much when nervous, apologizes compulsively, and sleeps badly.
 
-### Motivation
+#### Motivation
 
 Brunjár wants out. He dreams of a quiet life — a small farm, a wife, honest work — but cannot see how to get there from where he is. He fears Dágulf's retribution if he tries to leave, and he fears the law if he turns himself in. He is paralyzed between guilt and cowardice, and each day he stays makes the next departure harder.
 
-### Strengths
+#### Strengths
 
 His perception and stealth make him a genuinely useful scout. His empathy, though it torments him, means he occasionally shows kindness to captives when no one is watching. His sling skill is underestimated by those who don't take the weapon seriously.
 
-## Social
+### Social
 
-## Companions
+### Companions
 
 The Blackpine Wolves, reluctantly. Thráwald ignores him. Skathilda openly despises him. Dágulf uses him. He finds the company of the gang's dogs and horses more tolerable than the company of its men.
 
-### Patrons
+#### Patrons
 
 None.
 
-### Enemies
+#### Enemies
 
 No personal enemies beyond those the gang has made collectively. His sister, Hildára, married into a village two days' walk south and does not know what her brother has become.
 
-## Plot Hooks
+### Plot Hooks
 
 1. **The Reluctant Informant** — Brunjár is captured during a botched ambush and, terrified, offers to lead the party to the Blackpine Wolves' camp in exchange for mercy. He is telling the truth and will cooperate fully, but his information may be incomplete — and if Dágulf learns of the betrayal before the party can act, Brunjár's life is forfeit.
 

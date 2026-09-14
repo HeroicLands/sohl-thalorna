@@ -10,8 +10,9 @@ name:
   aliases:
     - Fëkvōr
     - The Minister of Material Fortune
-sohl:
+data:
   templatePriority: null
+sohl:
   system:
     skillBaseFormula: "@wil, @rea"
     masteryLevelBase: 0

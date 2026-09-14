@@ -42,7 +42,6 @@ data:
     complexion: ruddy
     extra_features: []
 sohl:
-  templatePriority: null
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 12 } }
     - { model: sohl-sohl-attribute-end, system: { scoreBase: 14 } }
@@ -549,11 +548,11 @@ sohl:
     defaultCombatGroup: null
 ---
 
-# Appearance {#appearance}
+## Appearance {#appearance}
 
 Ermína Fródbán is a 30-year-old woman who stands 5'11" tall and is slender. She has a broad face with angular cheekbones, a broad forehead, and a square jaw that leads to a strong chin. Her large gray eyes sit beneath prominent brows, lending her an expressive gaze. A straight nose and firm lips complete her features. She has pale skin with a ruddy complexion. Her red hair is woven with small braids.
 
-# Dossier {#dossier}
+## Dossier {#dossier}
 
 Born in the Vrystwald region to a freeman family of Varokhi heritage, Ermína Fródbán came into the world of the fisher through a combination of circumstance and aptitude.
 
@@ -561,37 +560,37 @@ Elira grew up near the shore, where she developed a love for the sea. She became
 
 Now at 30 years of age, Ermína Fródbán has established herself as a known figure among the fishers of Vrystwald. Her reputation, for better or worse, precedes her in the circles where such things matter.
 
-## Psyche
+### Psyche
 
-### Personality
+#### Personality
 
 Tends to take risks when fishing, sometimes overconfident.
 
-### Motivation
+#### Motivation
 
 Ermína is driven by the desire to master her craft and secure a stable future. The uncertainties of life in fisher work keep her vigilant and adaptable.
 
-### Strengths
+#### Strengths
 
 Skilled in fishing and netmaking, quick thinker, adaptable.
 
-## Social
+### Social
 
 Ermína is affiliated with Coastal Fishers' Guild.
 
 As a Varokhi fisher, Ermína occupies a recognized social niche within Vrystwald society.
 
-## Companions
+### Companions
 
-### Patrons
+#### Patrons
 
 Ermína's primary patron is Local vendors who purchase her fresh catch.. This relationship provides both opportunity and obligation.
 
-### Enemies
+#### Enemies
 
 Few, though some older fishers question her methods.
 
-## Plot Hooks
+### Plot Hooks
 
 1. **The Fisher's Dilemma** — Ermína faces a professional crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Vrystwald.
 

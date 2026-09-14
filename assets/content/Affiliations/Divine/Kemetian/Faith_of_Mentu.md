@@ -69,8 +69,6 @@ data:
     - kemtnpnthn
   relations:
     kemtnpnthn: aligned
-sohl:
-  templatePriority: null
 name:
   full: Faith of Mentu
   aliases:
@@ -79,8 +77,6 @@ shortcode: mentu
 banner: banners/ta-kheperu-banner.webp
 packFolder: pantheonskemetian
 ---
-
-# Faith of Mentu
 
 A frontier cult, and deliberately so: Mentu is patron of four of the ten border nomes and rare in the gentler valley, his worship strongest where the empire's writ is thinnest. His great war-temple stands at Behen, the double-walled fortress-capital commanding the river at the first cataract.
 

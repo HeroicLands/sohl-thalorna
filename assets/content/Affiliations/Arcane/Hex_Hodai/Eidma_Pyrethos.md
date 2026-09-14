@@ -92,8 +92,6 @@ name:
   full: Pyréthos
   aliases:
     - Eídma Pyréthos
-sohl:
-  templatePriority: null
 thalorna:
   school: fire
 packFolder: affiliationshexhodai

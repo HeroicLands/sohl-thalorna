@@ -20,8 +20,6 @@ shortcode: valarencity
 packFolder: provenzia
 ---
 
-# Válaren City
-
 **Válaren** stands on the warm southern shore, on the [[place-vylarianse|Vylarian Sea]], and is the
 city outsiders mean when they say Provènzia: some forty-five thousand people, white stone and shuttered
 galleries, a harbour crowded with Vylarian shipping, and a manner so polished that other Provenzians

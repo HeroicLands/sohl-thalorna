@@ -169,8 +169,6 @@ data:
     kingdmdnvr: rival
     repblctrvn: unaligned
     jrldmstrmvld: nemesis
-sohl:
-  templatePriority: null
 packFolder: aelwyth
 ---
 

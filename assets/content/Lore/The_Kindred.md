@@ -16,8 +16,6 @@ shortcode: thekindred
 packFolder: settinglore
 ---
 
-# The Kindred
-
 - **Parent pantheon:** [[affiliation-firstgods|The First Gods]]
 - **Religion:** [[affiliation-theoldway|The Old Way]]
 

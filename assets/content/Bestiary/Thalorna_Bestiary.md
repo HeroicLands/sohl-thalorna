@@ -9,7 +9,7 @@ type: doc
 subType: reference
 ---
 
-# Animals
+## Animals
 
 Natural creatures of Thalorna.
 
@@ -25,31 +25,31 @@ WHERE type = 'being'
   AND sohl.kbcat = 'animal'
 ```
 
-# Constructs
+## Constructs
 
 See [[lore-golemcrtr|Constructs]].
 
-# Dreadspawn
+## Dreadspawn
 
 See [[lore-dreadspawncrtr|Dreadspawn]].
 
-# Elementals
+## Elementals
 
 See [[lore-elemcrtr|Elementals]].
 
-# Grukar - A Blight Upon the Land
+## Grukar - A Blight Upon the Land
 
 See [[lore-grukarfolk|Grukar]].
 
-# Goblins - The Cunning Tricksters
+## Goblins - The Cunning Tricksters
 
 See [[lore-goblinfolk|Goblins]].
 
-# Helspawn
+## Helspawn
 
 See [[lore-helspawncrtr|Helspawn]].
 
-# Mythic Creatures {#mythic}
+## Mythic Creatures {#mythic}
 
 Rare but fantastic creatures whose existence relies on arcane forces.
 
@@ -65,7 +65,7 @@ WHERE type = 'being'
   AND sohl.kbcat = 'mythic'
 ```
 
-# Spirit Creatures {#spirit}
+## Spirit Creatures {#spirit}
 
 Physical manifestations of spirits from the astral realm
 

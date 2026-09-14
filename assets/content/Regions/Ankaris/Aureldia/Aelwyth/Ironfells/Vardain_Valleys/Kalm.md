@@ -20,8 +20,6 @@ shortcode: kalm
 packFolder: aelwyth
 ---
 
-# Kalm
-
 **Kalm** holds the broadest and lowest of the valley floors, which makes it the Vardain's grain country:
 oats and barley, and rye where the drainage is poor. Four hundred and ten people.
 

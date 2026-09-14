@@ -18,8 +18,6 @@ shortcode: grimholt
 packFolder: vrystwald
 ---
 
-# Grimholt
-
 ## Overview
 
 _To be written._

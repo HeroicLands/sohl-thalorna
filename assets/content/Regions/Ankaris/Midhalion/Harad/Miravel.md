@@ -18,8 +18,6 @@ shortcode: miravel
 packFolder: harad
 ---
 
-# Míravel
-
 ## Overview
 
 _To be written._

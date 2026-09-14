@@ -19,8 +19,6 @@ shortcode: ironfells
 packFolder: aelwyth
 ---
 
-# The Ironfells
-
 The **Ironfells** are the spine of eastern Aelwyth. They rise along the southern border of
 [[affiliation-jrldmstrmvld|Stormveld]], run eastward to the coast, and then turn **south down the
 eastern seaboard**, falling away by degrees into the foothills and at last into the lowlands of

@@ -42,7 +42,6 @@ data:
     extra_features:
       - a scar across the cheek
 sohl:
-  templatePriority: null
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 10 } }
     - { model: sohl-sohl-attribute-end, system: { scoreBase: 11 } }
@@ -551,11 +550,11 @@ sohl:
     defaultCombatGroup: null
 ---
 
-# Appearance {#appearance}
+## Appearance {#appearance}
 
 Gorâzendîs Bârês is a 27-year-old woman who stands 5'10" tall and is slender. She has a diamond face with sharp cheekbones, a prominent forehead, and a square jaw that leads to a prominent chin. Her piercing hazel eyes sit beneath straight brows, lending her a penetrating gaze. A strong nose and wide lips complete her features. She has medium-toned skin with a sun-tanned complexion. Her black hair is pinned in an elegant twist.
 
-# Dossier {#dossier}
+## Dossier {#dossier}
 
 Born in the Vylaría region to a freeman family of Vylarian heritage, Gorâzendîs Bârês came into the world of the locksmith through a combination of circumstance and aptitude.
 
@@ -563,37 +562,37 @@ Lysandra is a talented locksmith with secret ties to the Velvet Hand. She uses h
 
 Now at 27 years of age, Gorâzendîs Bârês has established herself as a known figure among the locksmiths of Vylaria. Her reputation, for better or worse, precedes her in the circles where such things matter.
 
-## Psyche
+### Psyche
 
-### Personality
+#### Personality
 
 Can be reckless, struggles with the moral implications of her work.
 
-### Motivation
+#### Motivation
 
 Gorâzendîs is driven by the desire to master her craft and secure a stable future. The uncertainties of life in locksmith work keep her vigilant and adaptable.
 
-### Strengths
+#### Strengths
 
 Skilled in lockpicking and creating intricate designs, resourceful, street-smart.
 
-## Social
+### Social
 
 Gorâzendîs is affiliated with the Velvet Hand, a network of skilled operatives in Vylaria.
 
 As a Vylarian locksmith, Gorâzendîs occupies a recognized social niche within Vylaria society.
 
-## Companions
+### Companions
 
-### Patrons
+#### Patrons
 
 Gorâzendîs's primary patron is Members of the Velvet Hand and local nobles who appreciate her craft. This relationship provides both opportunity and obligation.
 
-### Enemies
+#### Enemies
 
 Some city guards who suspect her affiliations.
 
-## Plot Hooks
+### Plot Hooks
 
 1. **The Locksmith's Dilemma** — Gorâzendîs faces a professional crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Vylaria.
 

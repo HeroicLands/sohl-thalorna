@@ -23,15 +23,11 @@ data:
   parents:
     - kingdomlgn
   relations: {}
-sohl:
-  templatePriority: null
 name:
   full: Hrafnvar
   aliases: []
 shortcode: hrafnvar
 packFolder: malagna
 ---
-
-# Hrafnvar
 
 A polity of Malagna, under the crown of Lögnheim.

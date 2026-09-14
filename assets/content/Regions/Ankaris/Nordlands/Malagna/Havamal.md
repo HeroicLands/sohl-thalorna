@@ -17,8 +17,6 @@ shortcode: havamal
 packFolder: malagna
 ---
 
-# Hávamál
-
 ## Overview
 
 _To be written._

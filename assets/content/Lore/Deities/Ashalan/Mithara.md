@@ -10,6 +10,4 @@ shortcode: mitharadty
 packFolder: deitiesashalan
 ---
 
-# Míthárä
-
 TBD

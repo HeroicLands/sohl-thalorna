@@ -10,6 +10,4 @@ shortcode: svapnadevasdty
 packFolder: deitiesvarnaka
 ---
 
-# Svapnadēvas
-
 TBD

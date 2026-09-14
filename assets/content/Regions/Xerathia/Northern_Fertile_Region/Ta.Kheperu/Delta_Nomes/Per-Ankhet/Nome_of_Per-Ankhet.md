@@ -110,12 +110,8 @@ data:
   relations:
     kemtnpnthn: aligned
     hapi: aligned
-sohl:
-  templatePriority: null
 packFolder: perankhet
 ---
-
-# The Nome of Per-Ankhet
 
 ## Overview
 

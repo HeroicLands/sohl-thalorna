@@ -39,7 +39,6 @@ data:
     complexion: null
     extra_features: []
 sohl:
-  templatePriority: null
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 10 } }
     - { model: sohl-sohl-attribute-end, system: { scoreBase: 12 } }
@@ -596,11 +595,11 @@ sohl:
     defaultCombatGroup: null
 ---
 
-# Appearance {#appearance}
+## Appearance {#appearance}
 
 Pritàrika stands 5'6" tall with a medium build. She has rich brown skin, very dark brown hair, and dark brown eyes. Her features include a diamond-shaped face, a narrow nose, a narrow chin, full lips, rich brows, prominent cheeks.
 
-# Dossier {#dossier}
+## Dossier {#dossier}
 
 Pritàrika was born into the great house of Padmadîksha, one of the most ancient and respected lineages of the City-States of Vedyara. Her childhood in the sprawling family estates was one of unusual enlightenment for the era—her father, Lord Jayendra, believed that women of noble blood should receive education equal to their male counterparts in law, rhetoric, natural philosophy, and martial studies. Her mother, the learned Lady Amrita, was herself a scholar of considerable renown and passed to Pritàrika a love of knowledge and an unusually compassionate worldview.
 
@@ -610,9 +609,9 @@ When Vikrama was killed in a hunting accident at age fifty-five—an incident Pr
 
 For the past fifteen years, she has implemented innovative agricultural reforms, established fair legal codes that protect commoners alongside noble interests, invested in education for promising youth regardless of birth status, and carefully navigated the treacherous waters of inter-noble politics to strengthen her position and that of her people.
 
-## Psyche
+### Psyche
 
-### Personality
+#### Personality
 
 Pritàrika is a woman of formidable intelligence housed in a frame and manner that makes others forget to be intimidated by her. She listens more than she speaks, asks penetrating questions that expose flawed thinking, and possesses genuine patience for different viewpoints—even those she fundamentally disagrees with. This apparent gentleness masks an utterly ruthless pragmatism; she will negotiate endlessly but is prepared to destroy her enemies when negotiation fails.
 
@@ -620,13 +619,13 @@ She is driven by genuine care for those under her protection, which makes the ha
 
 She is often lonely in her position. Her authority prevents genuine friendship with those of lesser rank, while traditionalist nobles view her with deep suspicion. She maintains personal correspondence with a network of like-minded female leaders across multiple realms, a secret friendship that sustains her when isolation threatens her resolve.
 
-### Motivation
+#### Motivation
 
 Pritàrika's deepest motivation is the creation of a society that functions according to merit and justice rather than mere tradition and bloodline. She views her positions of power not as personal privilege but as stewardship, and she is determined to use her influence to gradually reshape Vedyaran society into something more humane and egalitarian. She knows this transformation will not occur in her lifetime and may be reversed after her death, but she is committed to planting seeds that might grow in future generations.
 
 Privately, she also seeks to honor the memory of her late husband by ensuring his house and legacy endure and prosper, and she wonders obsessively whether his death was truly accident or the consequence of powerful enemies who feared what she and Vikrama might accomplish together.
 
-### Strengths
+#### Strengths
 
 - **Master Negotiator and Rhetorician**: Pritàrika can find common ground between seemingly irreconcilable positions and possesses the eloquence to articulate solutions that allow all parties to save face. Her command of legal language, political tradition, and human psychology makes her nearly unstoppable in formal discourse.
 
@@ -640,7 +639,7 @@ Privately, she also seeks to honor the memory of her late husband by ensuring hi
 
 - **Genuine Compassion**: Unlike many leaders who feign care, Pritàrika's concern for her people's wellbeing is authentic. This authenticity—recognized by those under her rule—generates loyalty that fear and authority alone could never achieve.
 
-### Weaknesses
+#### Weaknesses
 
 - **Idealism in a Pragmatist's World**: Pritàrika's vision of justice sometimes blinds her to the realities of entrenched power. She has been known to propose reforms that, while philosophically sound, are simply impossible to implement given current political circumstances, leading to disappointment and wasted effort.
 
@@ -652,9 +651,9 @@ Privately, she also seeks to honor the memory of her late husband by ensuring hi
 
 - **Underestimation of Traditional Forces**: While aware intellectually of the power of tradition and conservative reaction, Pritàrika sometimes underestimates how deeply rooted resistance to change can be. She may be surprised by how effectively traditionalist opponents mobilize against her initiatives.
 
-## Social
+### Social
 
-### Patrons
+#### Patrons
 
 - **The Scholarly Circle of Vedyara**: A network of educated women from various noble houses who share Pritàrika's progressive vision. They exchange knowledge, provide mutual support, and work toward gradual transformation of Vedyaran society. Led formally by the aging matriarch Lord Shashvati, the circle functions as both salon and secret society.
 
@@ -664,7 +663,7 @@ Privately, she also seeks to honor the memory of her late husband by ensuring hi
 
 - **The Common People of Her Estates**: While not formally organized, the population broadly supports Pritàrika's rule due to the visible improvements in their lives. This widespread loyalty is her greatest political asset.
 
-### Enemies
+#### Enemies
 
 - **Lord Mantra Deshpande**: The leader of the traditionalist faction within the nobility. He views Pritàrika's reforms as an existential threat to the noble order and has made it his mission to discredit her, expose weaknesses in her administration, and ultimately force her removal or replacement with a more conservative leader.
 
@@ -674,7 +673,7 @@ Privately, she also seeks to honor the memory of her late husband by ensuring hi
 
 - **Kalindi Padmadîksha**: Pritàrika's younger brother, who was bypassed in the succession due to his youth and perceived lack of aptitude. He has grown bitter, viewing Pritàrika's success as theft of his birthright. While not directly opposing her, his resentment simmers and may become dangerous.
 
-### Affiliations
+#### Affiliations
 
 - **The Grand Council of Nobility of Vedyara**: Pritàrika holds a prominent seat and uses this platform to advocate for her vision of reformed governance.
 
@@ -684,7 +683,7 @@ Privately, she also seeks to honor the memory of her late husband by ensuring hi
 
 - **The Learned Society of Vedyara**: An organization dedicated to preserving and advancing knowledge. Pritàrika serves as a generous patron and active member.
 
-## Plot Hooks
+### Plot Hooks
 
 1. **The Murder Most Convenient**: Pritàrika receives evidence—a letter discovered in long-sealed archives—suggesting that her husband Vikrama's death fifteen years ago was deliberately orchestrated. The letter implicates a powerful figure now deceased but names co-conspirators who are still alive and influential. As she investigates, she discovers that revealing the truth would destroy powerful current alliances and cast doubt on decisions she has made since Vikrama's death. She must decide whether pursuing this ancient murder will serve justice or merely seek vengeance at the cost of stability her people depend upon. Meanwhile, someone wants these documents destroyed and may attempt to murder Pritàrika to prevent their publication.
 

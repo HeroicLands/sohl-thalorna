@@ -7,10 +7,11 @@ description: "Curved throwing-stick breaks fleeing game; war-variant non-returni
 img: systems/sohl/assets/icons/game-icons/delapouite/boomerang.svg
 shortcode: bmrg
 type: weapongear
+data:
+  templatePriority: null
 sohl:
   kbcat: thrown
   weaponType: Club
-  templatePriority: null
   system:
     weightBase: 1
     valueBase: 15

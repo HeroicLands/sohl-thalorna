@@ -10,8 +10,6 @@ shortcode: citizenrnk
 description: "Of the citizen body, voting in its assembly and serving in its levy."
 ---
 
-# Citizen
-
 Of the citizen body, voting in its assembly and serving in its levy.
 
 ## Obligations and Rights

@@ -8,6 +8,7 @@ name:
 shortcode: nomekhenet
 subType: polity
 data:
+  templatePriority: null
   governance:
     model: monarchy
     summary: >-
@@ -106,12 +107,8 @@ data:
   relations:
     kemtnpnthn: aligned
     maat: aligned
-sohl:
-  templatePriority: null
 packFolder: upperrivernomes
 ---
-
-# The Nome of Khenet-Ta
 
 ## Overview
 

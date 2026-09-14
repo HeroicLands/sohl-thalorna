@@ -12,8 +12,9 @@ name:
     - Keeper of Truth and Harmony
     - Má'át
     - Maat
-sohl:
+data:
   templatePriority: null
+sohl:
   system:
     skillBaseFormula: "@wil, @rea"
     masteryLevelBase: 0

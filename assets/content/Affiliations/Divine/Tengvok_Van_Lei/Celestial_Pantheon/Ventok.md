@@ -119,12 +119,10 @@ data:
     - tngvkvnlei
   relations:
     tanvurempr: aligned
-sohl:
-  templatePriority: null
 packFolder: celestialpantheon
 ---
 
-# Vëntōk — The Keeper of the Celestial Archive
+## Vëntōk — The Keeper of the Celestial Archive
 
 - **Bureau:** Thōk Sëi, The Archive of All Records
 - **Domain:** Knowledge
@@ -140,12 +138,12 @@ do so. The bureau's authority rests on the assumption that its records are accur
 which the archive has been quietly re-verifying ever since without admitting the scale of the
 problem.
 
-## Lesser Spirits
+### Lesser Spirits
 
 - **Thōkgürt** — Archival Scribes, who copy and preserve records.
 - **Thōklëi** — Indexing Spirits, who maintain the classification system itself.
 
-## See Also
+### See Also
 
 - [[affiliation-tngvkvnlei|Tëngvōk Vān Lëi]] — the Celestial Bureaucracy this bureau belongs to
 - [[affiliation-tanvurempr|Empire of Tānvür]] — the mortal realm it administers

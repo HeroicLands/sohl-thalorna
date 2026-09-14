@@ -19,7 +19,7 @@ shortcode: divineactn
 
 > **GM-only document.** This file describes how the gods of Thalorna engage with the material world — through what mechanisms, under what constraints, with what limitations — given the non-intervention principle established in [[lore-godsrelign|Gods and Religion]]. Where that document focuses on what religions are and how they function, this document focuses on the divine layer itself: the politics, agents, and structural constraints that shape what the gods can and cannot do. The document assumes familiarity with [[lore-magictruth|Magic Truth]] and [[lore-godsrelign|Gods and Religion]]; the cosmology established there is presupposed throughout.
 
-# The Problem This Document Solves
+## The Problem This Document Solves
 
 The non-intervention principle, as stated in [[lore-godsrelign#the-non-intervention-of-the-gods|Gods and Religion]], holds that the gods of Thalorna do not directly intervene in the affairs of mortals. Their actions on the material plane take only two forms: naturalistic interventions that look like coincidence, and mediated interventions through human agents (typically priests) that look like spellcasting. The principle is presented as universal — applying to _all_ gods regardless of their disposition.
 
@@ -27,7 +27,7 @@ This raises a problem that the previous document acknowledged but did not fully 
 
 This document develops the answer in detail, and in doing so describes the apparatus by which the gods _do_ engage with the world — through agents and proxies, with limitations on their knowledge and reach, within a Balance that the gods themselves maintain. The principle is not a single restraint imposed by metaphysics; it is a complex political and structural achievement, sustained by the gods' active participation. Understanding how it works gives the GM the tools to run divine action coherently in a campaign.
 
-# The Compact and Its Enforcement
+## The Compact and Its Enforcement
 
 The non-intervention principle holds because the gods enforce it on each other.
 
@@ -49,13 +49,13 @@ Several features of this enforcement are worth being explicit about, because the
 
 The Compact-as-enforcement framing absorbs and combines several of the theoretical hypotheses listed in [[lore-godsrelign#the-non-intervention-of-the-gods|Gods and Religion]]. It is consistent with **The Compact** (the gods agreed to restrain themselves), with **Mutual constraint** (any god's intervention is matched by others'), and with parts of **Metaphysical limit** (the gods' power, however vast, must operate through agents because the system has shaped itself this way). It explains why the principle holds universally — not because the gods all happen to agree but because they actively prevent each other from breaking ranks. And it sets up the agent typology that the rest of this document develops.
 
-# Agents of the Gods {#agents-of-the-gods}
+## Agents of the Gods {#agents-of-the-gods}
 
 If the gods themselves cannot act directly in the material world, but the gods nevertheless engage with the world (favourable or hostile, attentive or aloof, generative or dissolving), the engagement must be mediated. The gods act through _agents_: beings who can act in the material world directly, who serve a god's purposes, and who are not themselves bound by the Compact that binds the gods.
 
 Agents come in three broad layers, ranging from beings of nearly-divine power to fully mortal humans operating with divine sanction. Each layer has its own characteristics, its own visibility, and its own role in the system.
 
-## Spirit-Agents
+### Spirit-Agents
 
 The first and most powerful layer of agents are _spirit-agents_ — beings native to the Spirit world (developed in [[lore-soulspirts|Souls and Spirits]], forthcoming) who have been bound to or aligned with specific gods. They are not gods themselves; they are beings of intermediate scale, more powerful than mortals but less than the gods they serve.
 
@@ -73,7 +73,7 @@ The most powerful spirit-agents — the equivalent in Thalorna of figures like S
 
 **Their appearance can be subtle or unmistakable.** A spirit-agent need not always manifest as a glowing figure declaring its name. Many operate subtly: the stranger who arrives at the right moment with the right counsel and is gone by morning; the dream that brings exactly the warning the dreamer needed; the unusual storm that gathers around a particular ship; the cat that watches the council and is not quite a cat. The full range exists, and the GM can pick any visibility level for any agent in play. Subtle appearances allow the gods to act without provoking immediate counter-deployment by rivals; overt appearances are reserved for moments of high consequence, where the cost of visibility is justified by the gain.
 
-## Demi-Divine Entities
+### Demi-Divine Entities
 
 The second layer of agents are _demi-divine entities_ — beings of partly-divine origin or status, embedded in the material world in ways that pure spirit-agents are not. Where spirit-agents are visitors from the Spirit world, demi-divine entities are residents of the material plane, with bodies (sometimes) and lineages (sometimes) and forms of mortality (sometimes), but with capacities that exceed ordinary mortal limits.
 
@@ -89,7 +89,7 @@ The category includes:
 
 Demi-divine entities operate visibly in the world, often at the centre of major historical events. Heroic ages are largely the work of demi-divine entities: figures like Beowulf or Gilgamesh in real-world myth, or the foundational heroes of Thalorna's various cultural traditions. They are powerful enough to shape kingdoms, fight monsters that ordinary humans cannot fight, accomplish quests that ordinary humans cannot accomplish — but their power is not so overwhelming that their actions feel like direct divine intervention. They are still recognisably persons, with names and stories and ends.
 
-## Mortal Agents
+### Mortal Agents
 
 The third layer consists of _mortal agents_: fully mortal beings (in soul-terms) who have been chosen, directed, blessed, or claimed by a god to act on its behalf. They are not metaphysically different from other mortals — they have ordinary souls, ordinary Aura, ordinary bodies — but they have been granted the status of agency: a relationship with the god in which they act with the god's sanction and (when appropriate) the god's specific intent.
 
@@ -107,7 +107,7 @@ Mortal agents are the most numerous and the most narratively load-bearing catego
 
 This is also why the rival agents most commonly opposing a god's mortal heroes are _other mortal heroes_, raised up by other gods. The escalation logic operates within layers: mortal champions are countered by mortal champions; demi-divine entities by demi-divine entities; spirit-agents by spirit-agents. Crossing layers — sending a great spirit-agent against an ordinary mortal hero — would constitute a kind of escalation that would itself draw counter-deployment. The Balance is layered.
 
-# The Balance
+## The Balance
 
 The gods, through their agents at all three layers, maintain what may collectively be called the **Balance** — the dynamic equilibrium of divine engagement with the world. The Balance is not a state of zero activity; it is a state in which activity is matched, contained, and prevented from cascading into a world reshaped by overt divine action. Within the Balance, there is room for enormous variation: mortal heroes accomplishing great deeds, spirit-agents fighting in the high places, demi-divine entities founding kingdoms, naturalistic interventions by gods themselves shaping particular events. What the Balance prevents is the _unilateral_ dominance of any one god's agents — the kind of dominance that would amount, in effect, to direct divine intervention.
 
@@ -125,7 +125,7 @@ The Balance operates on several levels.
 
 This is by design. The Balance favours the quieter state, and the gods collectively work to keep it. A campaign that begins in a quiet age and pushes toward a more active one is, narratively, a campaign about the destabilisation of the Balance — and the destabilisation is itself a serious matter that the gods, through their agents, will address.
 
-# Non-Omniscience: The Gods Are Not Omnipotent
+## Non-Omniscience: The Gods Are Not Omnipotent
 
 A point of crucial importance for running divine action: **the gods are not omniscient.** They are vast — supra-beings of immense Aura and reasoning, capable of channelling potential at scales no mortal can match — but their knowledge is bounded.
 
@@ -161,7 +161,7 @@ A god does _not_ know:
 
 **The Sinalë's information advantage.** The Sinalë's exceptional longevity gives them — collectively — an unusual capacity to accumulate information about divine action over time. A Sinalë sage who has lived for two thousand years has watched many cycles of agent-activity, observed many heroic ages and quiet ages, witnessed many deceptions revealed. Their tradition's wisdom about how the gods actually engage with the world is genuinely better-informed than any human tradition's, _because_ they have had time to gather and analyse the relevant evidence. This is part of why a Sinalë sage is the most useful in-world voice for articulating the actual cosmology.
 
-# The Heroic Age and the Quiet Age
+## The Heroic Age and the Quiet Age
 
 The cosmology produces characteristic patterns of intensity and quiescence in agent-level activity. These patterns are useful to the GM as story material.
 
@@ -185,7 +185,7 @@ A **Heroic Age campaign** is a campaign in which divine action is more prominent
 
 A **transitional campaign** — set during the destabilisation of a Quiet Age into a Heroic Age, or during the consolidation of a Heroic Age back into a Quiet one — has the texture of cosmic stakes emerging in a previously stable world, or of cosmic stakes resolving into peace. These are particularly rich narrative spaces, because the players' characters may witness the change directly: the first signs that something is shifting, the rising tide of agent-activity, the dramatic peak, the long settling. Many of the great fantasy stories in real-world literature are transitional in this sense.
 
-# What This All Means for Running Campaigns
+## What This All Means for Running Campaigns
 
 The cosmology established in this document has several practical implications.
 
@@ -205,7 +205,7 @@ The cosmology established in this document has several practical implications.
 
 **Dragons are a special case.** The historical destabilisation that the Republic exploited in its war against the Helionite mages — the dragons' presence breaking framework-magic — was itself an instance of agent-level activity at the highest scale. Dragons are developed in [[lore-soulspirts|Souls and Spirits]], but they should be understood as falling somewhere in the spirit-agent / demi-divine entity range, with capacities that put them among the most powerful non-divine beings in the cosmology. Their relationship to gods, their place in the Balance, and their role in any future Heroic Age that might arise are all questions the GM should consider carefully when developing campaign material.
 
-# See Also
+## See Also
 
 - [[lore-magictruth|Magic Truth]] — The underlying metaphysics of magic, Aura, frameworks, and thin places
 - [[lore-godsrelign|Gods and Religion]] — What religions are, how they function, and the four mechanisms of "divine" effect

@@ -19,8 +19,6 @@ shortcode: cilfor
 packFolder: elavendre
 ---
 
-# Cilfor
-
 **Cilfor** is Élavendre's northern coast: a quarter of a million people along the southern shore of
 **[[place-cilforbay|Cilfor Bay]]**, from which the region takes its name.
 

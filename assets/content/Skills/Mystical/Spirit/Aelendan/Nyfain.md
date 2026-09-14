@@ -11,8 +11,9 @@ name:
   full: "Nyfain Spirit Power"
   aliases:
     - Nyfain, the White Owl of the Hollow
-sohl:
+data:
   templatePriority: null
+sohl:
   system:
     skillBaseFormula: "@aur, @wil"
     masteryLevelBase: 0

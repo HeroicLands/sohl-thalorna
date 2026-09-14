@@ -18,8 +18,6 @@ shortcode: asgarthul
 packFolder: norgaad
 ---
 
-# Asgardul
-
 ## Overview
 
 Asgardul sits in the rolling heartland of central Norgaad, a prosperous settlement of perhaps 400 souls built around the hall of a powerful local jarl. The name—Asgard's Hall—reflects the jarl's pretensions and his devotion to the old gods, though whether he truly believes in such apotheosis or merely enjoys the grandeur of the name is a matter of local speculation. The settlement is ringed by farmland that produces extraordinary crops by northern standards, and the fertile river valley has made Asgardul a natural gathering place for the scattered inland communities.

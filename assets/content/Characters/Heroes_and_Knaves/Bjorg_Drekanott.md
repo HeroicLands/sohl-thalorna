@@ -40,7 +40,6 @@ data:
     extra_features:
       - a tattoo of a crescent moon on the neck
 sohl:
-  templatePriority: null
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 8 } }
     - { model: sohl-sohl-attribute-end, system: { scoreBase: 10 } }
@@ -589,39 +588,39 @@ sohl:
     defaultCombatGroup: null
 ---
 
-# Appearance {#appearance}
+## Appearance {#appearance}
 
 Björg stands 5'3" tall with a light build. She has fair pale skin, dark brown hair, and green eyes. Her features include an oblong face, a prominent nose, a broad chin, a slightly downturned mouth, dark brows, hollow cheeks. A distinguishing mark is a tattoo of a crescent moon on the neck.
 
-# Dossier {#dossier}
+## Dossier {#dossier}
 
-## Background
+### Background
 
-### Early Years
+#### Early Years
 
 Björg was born to a fisher's family in the coastal settlements of Nordheim, where the howling wind and crashing waves formed the soundtrack of her childhood. When she was but seven winters old, a devastating storm claimed both her parents at sea. She was taken in by a monastery dedicated to Thórr, where the monks recognized in her a gift for song that seemed to transcend mortal origin. For fifteen years, she learned to weave melodies into prayers, channeling her grief into sacred music that moved even the stoniest hearts to tears. The crescent moon was marked upon her neck at her coming-of-age, a blessing and a burden both.
 
-### The Breaking
+#### The Breaking
 
 A theological schism within the monastery forced Björg to flee when she refused to renounce her personal spiritual experiences in favor of rigid doctrine. Cast out without coin or shelter, she initially despaired—until she discovered that the very gift that had protected her in the monastery could sustain her on the streets. For the past decade, she has survived by her voice and wit, performing in taverns, marketplaces, and shadowed alleyways where coin and coppers fall from purses of those moved by her haunting ballads. She has become something of a ghost, known to street folk as "the Moon Singer," appearing and vanishing like the celestial body marked upon her neck.
 
-### Present Condition
+#### Present Condition
 
 Now a fixture of Nordheim's underworld community, Björg exists in the liminal spaces between respectability and ruin. She shares her meager earnings with other street folk and has become an unofficial keeper of their stories and secrets. Yet her trusting heart has made her prey to those less scrupulous, and more than once her charity has been exploited. Still, she refuses to harden herself, believing each kindness plants a seed that might one day bloom into redemption—whether for others or herself remains uncertain.
 
-## Psyche
+### Psyche
 
-### Personality
+#### Personality
 
 Björg carries an almost ethereal quality despite her earthly struggles, as though part of her soul still dwells in those monastery halls where her voice once sanctified the air. She speaks with careful deliberation, choosing words as though they were precious gems to be gifted rather than casually scattered. There is a poetic melancholy to her humor, and she laughs rarely but deeply. Those who spend time in her presence often find themselves confessing secrets long buried, for there is something in her bearing that invites vulnerability and promises compassion in return.
 
 Yet this very openness is both her greatest strength and her fatal weakness. She sees the best in everyone, even those who prey upon her generosity, and she struggles to recognize malice when clothed in flattering words. Her idealism remains unbroken by hardship, stubbornly clinging to the belief that love and understanding can transform even the darkest hearts.
 
-### Motivation
+#### Motivation
 
 Björg seeks not fortune nor fame, but redemption—both her own and that of others. She bears an unshakeable conviction that she was spared from the storm that claimed her parents for a purpose: to be a voice for the voiceless, a song of hope in the darkness that threatens to consume the forgotten. In her quiet moments, she whispers prayers to Thórr, not asking for deliverance, but asking how she might best serve those the gods seem to have abandoned. Every coin given to a hungry child, every tale preserved in song, every moment of human connection forged in the cold streets feels to her like a small victory against the encroaching tide of despair.
 
-### Strengths
+#### Strengths
 
 - **Transcendent Voice**: Her singing is genuinely remarkable, capable of moving even cynical hearts. It is both a tool for survival and a spiritual practice that connects her to something greater than herself.
 - **Emotional Intelligence**: Björg reads people with uncanny accuracy, perceiving the hidden wounds and hopes beneath surface presentations. This makes her an invaluable confidante.
@@ -629,7 +628,7 @@ Björg seeks not fortune nor fame, but redemption—both her own and that of oth
 - **Physical Grace**: Years of movement through crowded markets and rooftops have made her graceful and agile; she climbs, dances, and dodges with an economy of motion that belies her slight frame.
 - **Resilience of Spirit**: Though her body knows hunger and cold, her spirit refuses to break. She maintains hope and kindness as fierce acts of defiance.
 
-### Weaknesses
+#### Weaknesses
 
 - **Reckless Trust**: Björg's inability to see malice makes her vulnerable to exploitation. Con artists and predators find her an easy mark, and she rarely learns from being deceived.
 - **Impractical Idealism**: Her insistence on living by spiritual rather than pragmatic principles often leaves her in precarious circumstances that could be avoided through shrewdness.
@@ -637,26 +636,26 @@ Björg seeks not fortune nor fame, but redemption—both her own and that of oth
 - **Attachment to Loss**: She carries her past—her parents' deaths, her expulsion from the monastery—as an unbridgeable chasm within her soul. This grief sometimes paralyzes her decision-making.
 - **Conflict Aversion**: Confrontation causes her genuine distress, and she will often capitulate to avoid conflict, even when standing firm would serve her better.
 
-## Social
+### Social
 
-### Patrons
+#### Patrons
 
 - **Brother Aldrin**: A sympathetic former monk from her monastery who occasionally slips her coin and information, though he himself risks punishment for maintaining the connection.
 - **Magistrate Keira Stonehearst**: A widow who fell in love with Björg's voice years ago and has quietly ensured she survives each harsh winter, though few know of their association.
 - **The Wayfarers' Council**: An informal collective of street folk who provide protection and shelter to Björg in exchange for her songs, which preserve their histories.
 
-### Enemies
+#### Enemies
 
 - **The Copper Syndicate**: A gang of organized pickpockets and con artists who view Björg's easy trust as an exploitable resource. They have repeatedly victimized her, and she has recently begun to recognize the pattern.
 - **Father Cormac**: Her former monastery's new priest, a zealot who views her as a heretic whose very existence challenges the theological authority he seeks to establish. He has forbidden anyone from assisting her.
 - **Merchant House Drâk**: A trading family whose wayward son she spurned; his wounded pride has translated into a vendetta, spreading lies about her character.
 
-### Affiliations
+#### Affiliations
 
 - **The Street Chorus**: An informal network of street performers, buskers, and wandering minstrels who share information, performance spaces, and resources.
 - **The Devotees of Thórr's Storm**: Though she no longer affiliates with any formal temple, she maintains loose spiritual bonds with independent worshippers who honor the storm god.
 
-## Plot Hooks
+### Plot Hooks
 
 1. **The Singing Stone**: A scholar seeking Björg claims that ancient texts describe a legendary artifact—the Singing Stone of Asgard—whose power can only be awakened through a voice of perfect purity. He believes Björg is the key to recovering it from a temple buried beneath Nordheim's oldest districts. What he doesn't know is that darker forces have also caught wind of this rumor, and they would sacrifice far more than ancient stone to possess such power. Björg must navigate the intersection of faith, greed, and ancient magic.
 

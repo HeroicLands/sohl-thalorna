@@ -41,7 +41,6 @@ data:
     complexion: bronzed
     extra_features: []
 sohl:
-  templatePriority: null
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 8 } }
     - { model: sohl-sohl-attribute-end, system: { scoreBase: 12 } }
@@ -552,11 +551,11 @@ sohl:
     defaultCombatGroup: null
 ---
 
-# Appearance {#appearance}
+## Appearance {#appearance}
 
 Kàlendrîs Korkâlenîs is a 30-year-old woman who stands 5'6" tall and is slender. She has an angular face with broad cheekbones, a broad forehead, and a strong jaw that leads to a prominent chin. Her sharp green eyes sit beneath arched brows, lending her an incisive gaze. An aquiline nose and curved lips complete her features. She has medium-toned skin with a bronzed complexion. Her auburn hair is gathered in a practical bun.
 
-# Dossier {#dossier}
+## Dossier {#dossier}
 
 Born in the Vylaría region to a freeman family of Vylarian heritage, Kàlendrîs Korkâlenîs came into the world of the clothier through a combination of circumstance and aptitude.
 
@@ -564,37 +563,37 @@ Marisella learned the craft of sewing from her grandmother, who was the village 
 
 Now at 30 years of age, Kàlendrîs Korkâlenîs has established herself as a known figure among the clothiers of Vylaria. Her reputation, for better or worse, precedes her in the circles where such things matter.
 
-## Psyche
+### Psyche
 
-### Personality
+#### Personality
 
 Lacks experience with high-end fabrics and formal attire.
 
-### Motivation
+#### Motivation
 
 Kàlendrîs is driven by the desire to master her craft and secure a stable future. The uncertainties of life in clothier work keep her vigilant and adaptable.
 
-### Strengths
+#### Strengths
 
 Skilled with basic sewing techniques and natural dyes, good rapport with customers.
 
-## Social
+### Social
 
 Kàlendrîs is affiliated with None, works independently..
 
 As a Vylarian clothier, Kàlendrîs occupies a recognized social niche within Vylaria society.
 
-## Companions
+### Companions
 
-### Patrons
+#### Patrons
 
 Kàlendrîs's primary patron is Local villagers who need durable and affordable clothing.. This relationship provides both opportunity and obligation.
 
-### Enemies
+#### Enemies
 
 None; well-liked within her community.
 
-## Plot Hooks
+### Plot Hooks
 
 1. **The Clothier's Dilemma** — Kàlendrîs faces a professional crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Vylaria.
 

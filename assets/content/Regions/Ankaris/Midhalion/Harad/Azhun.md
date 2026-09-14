@@ -103,12 +103,8 @@ data:
     - cnfdrtnhrdnstts
   relations:
     arldnpnthn: aligned
-sohl:
-  templatePriority: null
 packFolder: harad
 ---
-
-# Azhûn
 
 - **Type:** Port City
 - **Region:** [[affiliation-cnfdrtnhrdnstts|Confederation of Haradian States]]

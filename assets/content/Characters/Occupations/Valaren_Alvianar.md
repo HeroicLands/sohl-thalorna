@@ -42,7 +42,6 @@ data:
     extra_features:
       - a scar on the left foot
 sohl:
-  templatePriority: null
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 10 } }
     - { model: sohl-sohl-attribute-end, system: { scoreBase: 12 } }
@@ -553,11 +552,11 @@ sohl:
     defaultCombatGroup: null
 ---
 
-# Appearance {#appearance}
+## Appearance {#appearance}
 
 Valáren Álvianar is a 37-year-old man who stands 5'9" tall and is of moderate build. He has an oval face with high cheekbones, a high forehead, and an angular jaw that leads to a prominent chin. His almond-shaped brown eyes sit beneath heavy brows, lending him a measured gaze. A straight nose and expressive lips complete his features. He has light skin with an olive-toned complexion. His dark brown hair is kept practical and short.
 
-# Dossier {#dossier}
+## Dossier {#dossier}
 
 Born in the Tarvénia region to a freeman family of Tarvénan heritage, Valáren Álvianar came into the world of the bureaucrat through a combination of circumstance and aptitude.
 
@@ -565,37 +564,37 @@ Harlan began his career as a clerk and gradually climbed his way up in the city 
 
 Now at 37 years of age, Valáren Álvianar has established himself as a known figure among the bureaucrats of Tarvénia. His reputation, for better or worse, precedes him in the circles where such things matter.
 
-## Psyche
+### Psyche
 
-### Personality
+#### Personality
 
 Opportunistic and willing to bend rules for personal gain.
 
-### Motivation
+#### Motivation
 
 Valáren is driven by the desire to master his craft and secure a stable future. The uncertainties of life in bureaucrat work keep him vigilant and adaptable.
 
-### Strengths
+#### Strengths
 
 Clever and resourceful, good at navigating red tape.
 
-## Social
+### Social
 
 Valáren is affiliated with City Administration.
 
 As a Tarvénan bureaucrat, Valáren occupies a recognized social niche within Tarvénia society.
 
-## Companions
+### Companions
 
-### Patrons
+#### Patrons
 
 Valáren's primary patron is A powerful city councilor who appreciates Harlan's cunning.. This relationship provides both opportunity and obligation.
 
-### Enemies
+#### Enemies
 
 Fellow bureaucrats who distrust his methods.
 
-## Plot Hooks
+### Plot Hooks
 
 1. **The Bureaucrat's Dilemma** — Valáren faces a professional crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Tarvénia.
 

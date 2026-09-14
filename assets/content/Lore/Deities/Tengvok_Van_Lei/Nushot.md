@@ -10,6 +10,4 @@ shortcode: nushotdty
 packFolder: deitiestengvokvanlei
 ---
 
-# Nüshöt
-
 TBD

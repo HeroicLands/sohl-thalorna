@@ -121,8 +121,6 @@ data:
     - itzanpnthn
   relations:
     itzanpnthn: aligned
-sohl:
-  templatePriority: null
 ---
 
 **Domain:** Creation, Building, Renewal, Craftsmanship, Architecture

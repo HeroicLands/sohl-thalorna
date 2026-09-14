@@ -18,8 +18,6 @@ shortcode: torreviga
 packFolder: tarvenia
 ---
 
-# Torreviga
-
 ## Overview
 
 _To be written._

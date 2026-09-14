@@ -17,8 +17,6 @@ shortcode: montana
 packFolder: tarvenia
 ---
 
-# Montaña
-
 ## Overview
 
 _To be written._

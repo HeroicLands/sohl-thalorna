@@ -86,11 +86,7 @@ data:
   lore: []
   parents: []
   relations: {}
-sohl:
-  templatePriority: null
 ---
-
-# The Curia Fiscalis
 
 _Vylarian: Curia Fiscalis — "the Fiscal Court"_
 

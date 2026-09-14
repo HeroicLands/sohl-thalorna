@@ -13,8 +13,6 @@ shortcode: kivulispr
 packFolder: lorespiritsokharic
 ---
 
-# Kivuli cha Msitu
-
 - **Kind:** [[lore-zohira|Zohira]], emissary of [[affiliation-nkaruthar|the Eternal Flame]]
 - **Domain:** The hunt
 - **Also called:** the Shadow of the Forest

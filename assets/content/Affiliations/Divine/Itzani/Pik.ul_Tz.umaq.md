@@ -100,8 +100,6 @@ data:
     tzuqilixbal: nemesis
     tzumaqkalanil: aligned
     pikob: rival
-sohl:
-  templatePriority: null
 name:
   full: "Pik'ul Tz'umaq"
   aliases:

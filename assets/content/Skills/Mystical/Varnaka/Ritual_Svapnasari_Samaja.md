@@ -14,8 +14,9 @@ name:
     - Dream Assembly
     - The Assembly of the Dream-Followers
     - The Dream Assembly
-sohl:
+data:
   templatePriority: null
+sohl:
   system:
     skillBaseFormula: "@wil, @rea"
     masteryLevelBase: 0

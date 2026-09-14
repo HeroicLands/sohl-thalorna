@@ -42,7 +42,6 @@ data:
     complexion: rough
     extra_features: []
 sohl:
-  templatePriority: null
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 14 } }
     - { model: sohl-sohl-attribute-end, system: { scoreBase: 12 } }
@@ -555,11 +554,11 @@ sohl:
     defaultCombatGroup: null
 ---
 
-# Appearance {#appearance}
+## Appearance {#appearance}
 
 Thornila Ríkhild is a 35-year-old woman who stands 6'0" tall and is slender. She has a broad face with high cheekbones, a wide forehead, and a strong jaw that leads to a firm chin. Her almond-shaped amber eyes sit beneath heavy brows, lending her a measured gaze. A strong nose and full lips complete her features. She has fair skin with a rough complexion. Her black hair is plaited in a single thick braid.
 
-# Dossier {#dossier}
+## Dossier {#dossier}
 
 Born in the Vrystwald region to a noble family of Varokhi heritage, Thornila Ríkhild came into the priesthood of Jánus through a combination of circumstance and aptitude.
 
@@ -567,37 +566,37 @@ Mataké Isolde is a noble priestess devoted to the teachings of Jánus. With a s
 
 Now at 35 years of age, Thornila Ríkhild has established herself as a known figure among the priesthood of Jánus in Vrystwald. Her reputation, for better or worse, precedes her in the circles where such things matter.
 
-## Psyche
+### Psyche
 
-### Personality
+#### Personality
 
 Can be elitist, struggles to empathize with the disadvantaged.
 
-### Motivation
+#### Motivation
 
 Thornila is driven by the desire to master her craft and secure a stable future. The uncertainties of priestly work keep her vigilant and adaptable.
 
-### Strengths
+#### Strengths
 
 Passionate about her beliefs, strong leadership abilities.
 
-## Social
+### Social
 
 Thornila is affiliated with the Temple of Jánus.
 
 As a Varokhi priestess of Jánus, Thornila occupies a recognized social niche within Vrystwald society.
 
-## Companions
+### Companions
 
-### Patrons
+#### Patrons
 
 Thornila's primary patron is Nobles and knights seeking spiritual support and honor.. This relationship provides both opportunity and obligation.
 
-### Enemies
+#### Enemies
 
 Few; generally respected, but some view her as aloof.
 
-## Plot Hooks
+### Plot Hooks
 
 1. **The Priestess's Dilemma** — Thornila faces a professional crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Vrystwald.
 

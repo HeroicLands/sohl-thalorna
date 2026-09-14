@@ -99,12 +99,10 @@ data:
   lore: []
   parents: []
   relations: {}
-sohl:
-  templatePriority: null
 packFolder: academyofknowledge
 ---
 
-# Panepistemium — The Academy of Knowledge
+## Panepistemium — The Academy of Knowledge
 
 _Helonic: **Panepistēmion** — "the place of all knowledge," the Helonic word for a university. Worn smooth by Vylarian tongues into the **Panepistemium** (often clipped to the **Epistemium**), and rendered in the Common tongue simply as the Academy of Knowledge._
 
@@ -112,7 +110,7 @@ The **Panepistemium** is the oldest and broadest scholarly institution in wester
 
 The Epistemium's character changed when the [[affiliation-vylarinmpr|Vylarian Republic]] conquered [[place-helionis|Heliónis]] around 300 BF and carved out the arcane branch to create the [[affiliation-ordoarcanis|Ordo Arcanis]]. The Ordo became by far the most powerful, best-funded, and most feared element of the old Epistemium. Over the centuries, people began to associate the Epistemium primarily with its arcane offspring — the part that mattered to emperors and armies. The broader scholarly traditions continued, but they were overshadowed.
 
-## Structure
+### Structure
 
 The Epistemium is organized into **colleges**, each representing a major domain of philosophical inquiry. In its original Helionite form, these colleges were roughly equal — each headed by a senior scholar, each with its own traditions, debates, and internal politics. The colleges convened in common assembly to set institutional policy, resolve disputes, and maintain the standards of scholarship that made the Epistemium the envy of the western world.
 
@@ -120,7 +118,7 @@ That equality ended when the Ordo was born. Today, the [[affiliation-ordoarcanis
 
 The result is an institution that looks, on paper, like a great university encompassing all human knowledge. In reality, it is an arcane regulatory body with a number of underfunded scholarly departments that it keeps around for legitimacy.
 
-### The Chapterhouses
+#### The Chapterhouses
 
 The Epistemium maintains chapterhouses in cities and major towns throughout western Ankaris. These are formally Panepistemium institutions — not Ordo institutions — and this distinction matters. A chapterhouse is a house of knowledge and learning: it employs sages of all philosophical domains, maintains libraries, provides teaching in all subjects, and serves its community as a center of education and scholarly inquiry. A farmer's son learning to read, a merchant studying law, a noblewoman attending lectures on ethics — all of these are the daily business of a chapterhouse.
 
@@ -142,7 +140,7 @@ That was the past. The empire is declining, and the institution it built has dev
 
 The non-arcane scholars who staff these distant chapterhouses may resent the Ordo's control, but they depend on the institution for their credentials, their libraries, and their livelihood. The Ordo, for its part, values the reach that the Epistemium's scholarly reputation provides — it is far easier to establish an arcane monitoring presence in a foreign city when it arrives disguised as a school.
 
-### The Colleges
+#### The Colleges
 
 The traditional colleges of the Epistemium, as they existed in the Helionite period and nominally continue today:
 
@@ -170,7 +168,7 @@ The traditional colleges of the Epistemium, as they existed in the Helionite per
 
 **The College of Law** — Also known as jurisprudence. The study of the nature of law, legal systems, and legal reasoning, and the relationship between law and morality. Vylarian legal philosophy — the foundation of the imperial legal code — was heavily influenced by Helionite jurisprudential thought absorbed through this college.
 
-## The Magnápolis Campus
+### The Magnápolis Campus
 
 The institution's spiritual home is [[place-helionis|Heliónis]], and [[affiliation-thyrenae|Thyrenae]] its birthplace, but its largest and most politically central seat is in the imperial capital, **[[place-magnapolis|Magnápolis]]**, where the campus sits in two very different registers.
 
@@ -178,7 +176,7 @@ A small, rarefied compound, the [[place-aulpnpstmm|Aula Panepistemium]] stands w
 
 The working university — the vast majority of the campus — lies beyond the Inner Wall in its own chartered **Scholars' District**, ranged around the Circle of Ménérva. Here are the colleges, the lecture halls, the great reading-library, the residence halls, and the gardens and gymnasia. True to the Epistemium's character it is a purely scholarly quarter: the practical trades and their training belong to the [[affiliation-magnumclgm|Magnum Collegium]]'s guild-halls, not here, and the Epistemium keeps no trade schools of its own. Its students come from patrician and well-propertied families able to support them through the long years of study; the District neither admits nor lodges the poor, and the institution keeps no presence in the city's outskirts at all. (For the campus in its civic setting, see [[place-magnapolis|Magnápolis]].)
 
-## History
+### History
 
 The Epistemium was born in the intellectual ferment of the Helionite city-states around 400 BF, when the leading philosophical schools of the various poleis agreed to a common federation. Each city-state had its own scholarly traditions — some emphasizing natural philosophy, others ethics, others the arcane — and the Epistemium was an attempt to unite these traditions under a shared framework of standards and mutual recognition. A scholar credentialed by the Epistemium could expect to be received and respected in any Helionite city.
 
@@ -190,7 +188,7 @@ When the [[affiliation-vylarinmpr|Vylarian Republic]] turned its legions against
 
 The creation of the [[affiliation-ordoarcanis|Ordo Arcanis]] was, in institutional terms, a vivisection. The Vylarian Senate reached into the Epistemium, extracted the College of Arcane Philosophy, and rebuilt it as an instrument of state power — with military enforcement, mandatory registration of practitioners, and a legal monopoly on arcane practice. The remaining colleges were left in place, diminished and shaken, but still functioning.
 
-### The Long Decline
+#### The Long Decline
 
 In the seven centuries since the founding of the Ordo, the balance of power within the Epistemium has shifted irreversibly. The Ordo commands more wealth than all other colleges combined. It has the ear of the Vylarian Senate. It has enforcement powers — the [[affiliation-ordoarcanis|Quaesitorium Arcanum]] — that no other college possesses. And it has used the Epistemium umbrella to extend its influence into domains that are not, strictly speaking, arcane.
 
@@ -200,13 +198,13 @@ The College of Natural Inquiry has been marginalized for different reasons: on a
 
 The colleges of Ethics, Political Philosophy, and Law maintain more independence, largely because their work is politically useful. The Vylarian legal system draws on the College of Law's scholarship, and the College of Ethics provides the moral vocabulary that the empire uses to justify its policies. But even these colleges operate in the Ordo's shadow.
 
-### The Helionite Academies
+#### The Helionite Academies
 
 Despite the Ordo's dominance, the non-arcane colleges remain strongest in their place of origin: [[place-helionis|Helionis]]. The Helionite academies — the physical institutions where the colleges maintain their schools and libraries — are the last places in western Ankaris where the original vision of the Epistemium still has real force. In Heliónis, a scholar of ethics or logic or natural inquiry is still afforded genuine respect, and the tradition of open philosophical debate continues in a way that the Ordo finds faintly annoying and occasionally threatening.
 
 The relationship between the Helionite academies and the Ordo is one of mutual wariness. The academies resent the Ordo's dominance. The Ordo suspects the academies of harboring nostalgic dreams of independence. Both are probably right.
 
-## See Also
+### See Also
 
 - [[affiliation-ordoarcanis|Ordo Arcanis]] — The College of Arcane Philosophy, now the dominant institution within the Epistemium
 - [[place-helionis|Helionis]] — Birthplace and spiritual home of the Epistemium

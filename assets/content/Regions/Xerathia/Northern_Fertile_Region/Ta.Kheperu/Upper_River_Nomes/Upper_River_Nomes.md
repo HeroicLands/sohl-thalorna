@@ -110,12 +110,8 @@ data:
     - empirtkhpr
   relations:
     kemtnpnthn: aligned
-sohl:
-  templatePriority: null
 packFolder: upperrivernomes
 ---
-
-# The Upper River Nomes
 
 ## Overview
 

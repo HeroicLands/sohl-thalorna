@@ -23,15 +23,11 @@ data:
   parents: []
   relations:
     kingdmdnvr: nemesis
-sohl:
-  templatePriority: null
 name:
   full: Saelvri
   aliases: []
 shortcode: saelvri
 packFolder: aelwyth
 ---
-
-# Saelvri
 
 A people of Aelwyth against whom the [[affiliation-kingdmdnvr|Kingdom of Dúnavarre]] prosecuted a crusade of extermination.

@@ -19,8 +19,6 @@ shortcode: nordfells
 packFolder: aelwyth
 ---
 
-# The Nordfells
-
 The **Nordfells** run along the whole northern edge of [[affiliation-jrldmstrmvld|Stormveld]], from the
 [[place-pshtrwldrns|Peshtar]] forests in the west to the sea in the east. They are perhaps half the
 Jarldom's territory and hold about twenty-two thousand of its people — which is to say they are nearly

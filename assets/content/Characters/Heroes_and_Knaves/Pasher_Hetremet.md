@@ -42,7 +42,6 @@ data:
     extra_features:
       - a scar on the left eye
 sohl:
-  templatePriority: null
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 12 } }
     - { model: sohl-sohl-attribute-end, system: { scoreBase: 13 } }
@@ -585,11 +584,11 @@ sohl:
 
 **Home:** [[place-wasetkara|Wasetkara]]
 
-# Appearance {#appearance}
+## Appearance {#appearance}
 
 Pasher stands 6'1" tall with a medium build. He has ebony weathered skin, very dark brown hair, and brown eyes. His features include an oval face, a long nose, a narrow chin, an expressive mouth, very dark brows, sculpted cheeks. A distinguishing mark is a scar on the left eye.
 
-# Dossier {#dossier}
+## Dossier {#dossier}
 
 **Early Years**
 
@@ -603,19 +602,19 @@ The tragedy that scarred his face forever transformed his art. During a grand pe
 
 Now at the height of his artistic powers, Pasher finds himself torn between the security of a patron's court and the freedom of the open road. For the past five years, he has been a sometime-member of the Minstrels' Guild, though his participation is sporadic at best—he values his independence too highly to submit fully to their rigid structures. He carries with him a harp of exceptional craftsmanship, gifted to him by the Guild Master's own son, alongside a worn notebook filled with lyrics of his own composition. His reputation has grown such that small lords compete for his presence at festivals and celebrations, yet he rarely commits to more than a season or two in any one place. Of late, whispers suggest he is searching for something—some lost song or ancient melody that he believes might yet unlock the deepest magic of music itself.
 
-## Psyche
+### Psyche
 
-### Personality
+#### Personality
 
 Pasher is a man of genuine warmth tempered by a restless soul. He is the sort of person who can sit with a common farmhand over ale and make them feel like they are the most fascinating being alive through his attentive listening and genuine curiosity about their struggles. Yet this same warmth never quite permits him to put down roots; just as people begin to rely upon his presence, he feels the familiar itch to move onward. He speaks with the eloquence of one educated by travel rather than formal schooling, his words woven with proverbs and observations gleaned from a hundred villages. Though he maintains a philosophical outlook on life—believing that hardship refines the soul as fire refines metal—he is not immune to melancholy, and on dark nights his songs take on an almost mournful quality that leaves listeners moved to tears.
 
 His relationship with his own scar is complex. He wears it without shame but rarely speaks of how he received it unless pressed by those he trusts. To him, it is proof that even in our breaking, we can become more beautiful, more authentic. This philosophy extends to how he treats others—he has a gift for making the wounded feel that their damage does not diminish their worth.
 
-### Motivation
+#### Motivation
 
 Pasher seeks to capture in music the full spectrum of human experience: joy and sorrow, triumph and defeat, love and loss. He believes that song has a power akin to magic, capable of healing the spirit in ways that nothing else can. Beneath his wanderlust lies a deeper quest—rumors speak of an ancient cycle of songs believed lost during the fall of the Old Kingdom, melodies said to hold within them the very essence of the gods' first utterances. Should such songs be recovered and performed, it is said they could reshape the fabric of the world itself. Pasher's restlessness is in part this quest, though he cannot admit even to himself whether he truly believes such legends, or whether the search itself is merely an excuse to keep moving, to keep living.
 
-### Strengths
+#### Strengths
 
 - **Master Vocalist**: His voice is his greatest instrument, capable of ranging from a whisper that draws crowds to silence to a thundering declaration that shakes the rafters. Years of training and natural gift have made him one of the finest singers in Ta'Kheperu.
 
@@ -627,7 +626,7 @@ Pasher seeks to capture in music the full spectrum of human experience: joy and 
 
 - **Skilled Instrumentalist**: His mastery of the harp and lyre is exceptional, allowing him to accompany his own voice with complex and beautiful arrangements.
 
-### Weaknesses
+#### Weaknesses
 
 - **Commitment Aversion**: His inability to settle in one place for long periods makes him unreliable as a permanent patron or employee. He will inevitably leave, no matter how comfortable his circumstances.
 
@@ -639,9 +638,9 @@ Pasher seeks to capture in music the full spectrum of human experience: joy and 
 
 - **Dependence on Mood**: His performances and even his composition are deeply tied to his emotional state. A sustained bout of dark temper or melancholy can render him unable to perform.
 
-## Social
+### Social
 
-### Patrons
+#### Patrons
 
 - **Ahliya Saqqara**: A wealthy merchant widow of advancing years who once sponsored his rise to prominence. Though their romance ended decades ago, she remains his most reliable patron, offering him shelter and patronage whenever he returns to Wasetkara. She sees in him the young idealist she once knew.
 
@@ -649,19 +648,19 @@ Pasher seeks to capture in music the full spectrum of human experience: joy and 
 
 - **Master Sekhmet of the Minstrels' Guild**: The current Guild Master, herself a retired performer, who recognizes Pasher's talent and occasionally pressures him to take greater responsibility within the Guild's structure—pressure he consistently resists.
 
-### Enemies
+#### Enemies
 
 - **The Jade Serpent Collective**: A cabal of traditional court bards who view Pasher's "common" style and his independence from established guild hierarchies as a threat to their monopoly on the ear of nobles. They have been known to spread rumors that his music is somehow tainted or that his scar marks him as cursed.
 
 - **Therkus the Silent**: A rival musician who has attempted to shadow Pasher from town to town, attempting to learn his methods and his original compositions. Pasher suspects Therkus of attempting to steal his work for his own profit.
 
-### Affiliations
+#### Affiliations
 
 - **Minstrels' Guild of Ta'Kheperu**: Though only loosely connected, he maintains membership and appears at Guild gatherings sporadically.
 
 - **The Wanderers' Fellowship**: An informal network of traveling performers and storytellers who share information about safe roads, hostile regions, and potential performance venues.
 
-## Plot Hooks
+### Plot Hooks
 
 1. **The Lost Songs of the First Age**: Pasher has been contacted by **Lady Meryt**, a reclusive scholar and priestess of Sét who claims to have discovered fragmentary references to the legendary songs of creation mentioned in the oldest temple texts. She believes that if these songs could be recovered and performed in the correct sequence, they would awaken something ancient and powerful—though whether this power would be benevolent or catastrophic, she does not know. She has offered him a sum of gold and a map indicating the location of a sealed temple deep in the desert where these songs might yet be preserved. The problem: the temple is protected by wards and guardians that have not been tested in centuries, and it lies in territory claimed by the **Shadow Scorpions**, a warband of desert nomads who brook no trespassers.
 

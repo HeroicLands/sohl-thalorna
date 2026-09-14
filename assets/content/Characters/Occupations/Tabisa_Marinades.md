@@ -41,7 +41,6 @@ data:
     complexion: weathered
     extra_features: []
 sohl:
-  templatePriority: null
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 13 } }
     - { model: sohl-sohl-attribute-end, system: { scoreBase: 14 } }
@@ -550,11 +549,11 @@ sohl:
     defaultCombatGroup: null
 ---
 
-# Appearance {#appearance}
+## Appearance {#appearance}
 
 Tàbîsa Mârinadês is a 38-year-old woman who stands 5'9" tall and is of moderate build. She has an angular face with soft cheekbones, a high forehead, and a sharp jaw that leads to a prominent chin. Her narrow hazel eyes sit beneath heavy brows, lending her a keen gaze. A straight nose and wide lips complete her features. She has olive skin with a weathered complexion. Her black hair is gathered in a practical bun.
 
-# Dossier {#dossier}
+## Dossier {#dossier}
 
 Born in the Heliónis region to a freeman family of Helionite heritage, Tàbîsa Mârinadês came into the world of the huscarl through a combination of circumstance and aptitude.
 
@@ -562,37 +561,37 @@ Sigrid is a skilled huscarl who has fought alongside her comrades for years. Ser
 
 Now at 38 years of age, Tàbîsa Mârinadês has established herself as a known figure among the huscarls of Heliónis. Her reputation, for better or worse, precedes her in the circles where such things matter.
 
-## Psyche
+### Psyche
 
-### Personality
+#### Personality
 
 Can be overly protective of her comrades, struggles with societal expectations.
 
-### Motivation
+#### Motivation
 
 Tàbîsa is driven by the desire to master her craft and secure a stable future. The uncertainties of life in huscarl work keep her vigilant and adaptable.
 
-### Strengths
+#### Strengths
 
 Strong warrior, tactical thinker, skilled in hand-to-hand combat.
 
-## Social
+### Social
 
 Tàbîsa is affiliated with Lady Freydis's retinue.
 
 As a Helionite huscarl, Tàbîsa occupies a recognized social niche within Heliónis society.
 
-## Companions
+### Companions
 
-### Patrons
+#### Patrons
 
 Tàbîsa's primary patron is Lady Freydis and her household.. This relationship provides both opportunity and obligation.
 
-### Enemies
+#### Enemies
 
 Some traditionalists who doubt her abilities.
 
-## Plot Hooks
+### Plot Hooks
 
 1. **The Huscarl's Dilemma** — Tàbîsa faces a professional crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Heliónis.
 

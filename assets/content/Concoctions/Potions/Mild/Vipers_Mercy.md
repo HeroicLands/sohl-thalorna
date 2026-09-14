@@ -12,8 +12,9 @@ type: concoctiongear
 subType: exotic
 hmk:
   name: "Potion, Antivenin, Mild"
-sohl:
+data:
   templatePriority: null
+sohl:
   system:
     weightBase: 0.25
     valueBase: 16

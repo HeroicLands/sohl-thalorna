@@ -7,10 +7,11 @@ description: "Short curved single-edged blade; secondary steel marking standing 
 img: systems/sohl/assets/icons/other/sword.svg
 shortcode: waki
 type: weapongear
+data:
+  templatePriority: null
 sohl:
   kbcat: sword
   weaponType: Sword
-  templatePriority: null
   system:
     weightBase: 1.5
     valueBase: 120

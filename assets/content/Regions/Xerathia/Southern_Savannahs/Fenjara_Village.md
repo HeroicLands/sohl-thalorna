@@ -20,8 +20,6 @@ shortcode: fenjaravlg
 packFolder: southernsavannahs
 ---
 
-# Fénjara Village
-
 ## Overview
 
 The seat of the [[affiliation-fenjara|Fénjara]], set where the open savannah closes into gallery

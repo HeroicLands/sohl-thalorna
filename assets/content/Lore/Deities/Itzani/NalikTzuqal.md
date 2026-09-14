@@ -10,6 +10,4 @@ shortcode: naliktzuqaldty
 packFolder: deitiesitzani
 ---
 
-# Nal'ik Tz'uqal
-
 TBD

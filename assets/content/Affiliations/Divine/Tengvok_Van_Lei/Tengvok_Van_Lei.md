@@ -136,12 +136,8 @@ data:
   parents: []
   relations:
     tanvurempr: aligned
-sohl:
-  templatePriority: null
 packFolder: pantheonstengvokvanlei
 ---
-
-# Tëngvōk Vān Lëi
 
 _The Celestial Court of Ten Thousand Spirits_
 

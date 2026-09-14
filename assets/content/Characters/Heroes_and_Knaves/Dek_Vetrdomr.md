@@ -39,7 +39,6 @@ data:
     complexion: weathered
     extra_features: []
 sohl:
-  templatePriority: null
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 13 } }
     - { model: sohl-sohl-attribute-end, system: { scoreBase: 14 } }
@@ -587,70 +586,70 @@ sohl:
     defaultCombatGroup: null
 ---
 
-# Appearance {#appearance}
+## Appearance {#appearance}
 
 Dek stands 6'1" tall with a medium build. He has tanned weathered skin, dark brown hair, and hazel eyes. His features include a long face, a slightly upturned nose, a strong jawline, a laugh lines around the mouth, dark brows.
 
-# Dossier {#dossier}
+## Dossier {#dossier}
 
-## Background
+### Background
 
-### The Thatchers' Path
+#### The Thatchers' Path
 
 Dek was born in Malagna as the youngest son of **Vetrarr the Roofman**, a thatcher of modest reputation but unquestionable skill. Unlike his siblings who sought fortune in distant cities, Dek remained in the countryside, learning not just the mechanics of thatching but the intimate knowledge of his region's climate, materials, and needs. He mastered the art of reading weather patterns, understanding that a roof built in spring must account for the specific challenges of the following winter. His father taught him that thatching was not merely technical work—it was a promise of protection made between craftsman and family.
 
-### The Years of Mastery
+#### The Years of Mastery
 
 For the past twenty-eight years, Dek has been the preeminent thatcher across three provinces. He has built roofs that have sheltered families through catastrophic storms, has repaired ancient structures threatened by decay, and has trained younger craftspeople in his methodical approach. The Kingdom of Malagna's regional houses trust his name implicitly; there is often a waiting list of several months for his services. He has never rushed a job, never cut corners, and has maintained relationships with the families he served in his youth—now coming to him for repairs to roofs he thatched decades ago.
 
-### Present Life
+#### Present Life
 
 Now in his late forties, Dek feels the weight of his chosen trade more acutely each season. His knees protest the climb up the ladders, and younger, faster thatchers are beginning to take jobs, undercutting his prices. Yet Skúli remains content in his obscurity—he is not ambitious, has no desire for wealth or titles, and views his work as a form of meditation and service rather than merely a profession.
 
-## Psyche
+### Psyche
 
-### Personality
+#### Personality
 
 Skúli is a man of profound quietude and philosophical depth. He speaks rarely and only when he has something worth saying. To those who know him, his silences are comfortable—filled with observation and thought rather than awkwardness. He has a dry humor that emerges unexpectedly, often making light of the hardships and dangers of roof work. Unlike many of his peers, Dek harbors no bitterness toward those who choose different paths or adopt new methods. He understands that the world changes, and he views his role as steward rather than gatekeeper.
 
 He is deeply spiritual, invoking the creation-god Ymir before major projects, believing that each roof is a small act of creation in the world—making shelter from chaos, order from the raw materials of nature. He makes offerings of grain and mead to local spirits before beginning work, a practice that might seem superstitious to urban dwellers but is held as wisdom by the rural communities he serves.
 
-### Motivation
+#### Motivation
 
 Skúli is motivated by a simple but profound desire to provide protection and comfort. He has no grand ambitions, seeks no renown. What drives him is the knowledge that families sleep safely under roofs he has built, that children are kept warm in winters because of his work. As he ages, he increasingly feels the responsibility to pass on what he knows before his body fails him. He worries less about his own comfort than about ensuring that the villages he has served will have someone capable to maintain the roofs after he is gone.
 
-### Strengths
+#### Strengths
 
 - **Expert Weather Prediction**: Dek's intimate knowledge of regional climate patterns allows him to design roofs perfectly suited to their environment. He can predict problems years in advance and build preventively.
 - **Meticulous Craftsmanship**: Every straw is placed with intention. His roofs are models of durability and function, often lasting two generations before significant repair is needed.
 - **Materials Knowledge**: Dek understands the properties of every material available in his region—which grasses are most resilient, how to treat them for longevity, which woods provide the best support structure.
 - **Problem-Solving**: When encountering unusual architectural challenges or deteriorated structures, Skúli has an almost intuitive ability to design innovative solutions that preserve both aesthetic and function.
 
-### Weaknesses
+#### Weaknesses
 
 - **Aging Physicality**: His body increasingly protests the demands of constant climbing and hauling. Some mornings he moves with visible stiffness, and there is genuine uncertainty about how many more seasons he can maintain his current pace.
 - **Limited Ambition**: Dek's contentment with rural work and modest income means he has never expanded his business or sought higher-profile contracts. He is locally renowned but entirely unknown beyond three provinces.
 - **Reluctance to Teach**: Though he possesses invaluable knowledge, Dek is resistant to taking on apprentices, viewing formal training as incompatible with the intuitive understanding that true mastery requires.
 - **Stubbornness in Small Matters**: In personal dealings, Dek can be inflexible, refusing to compromise on standards that he views as matters of principle, even when practicality would serve better.
 
-## Social
+### Social
 
-### Patrons
+#### Patrons
 
 - **Jarl Thorstein Greywind**: A regional noble whose family estate Skúli has maintained for twenty-three years. Thorstein trusts Dek absolutely and has commissioned numerous repairs and renovations. The relationship is one of genuine mutual respect.
 - **The Covenant of Malagna Farmers**: An informal association of agricultural communities who, collectively, finance Dek's annual maintenance work, ensuring their collective prosperity depends on sound storage structures with weather-proof roofing.
 
-### Enemies
+#### Enemies
 
 - **No true enemies**, though **Kael Swiftthatch**, an ambitious younger craftsman, has begun undercutting Dek's prices by taking jobs Dek has declined or delayed due to age. The two maintain professional courtesy but represent opposing philosophies.
 - **The New Methods Coalition**: Progressive builders and nobles experimenting with novel roofing materials and techniques sometimes view Dek's traditionalism as an impediment to progress, though he has never actively opposed them.
 
-### Affiliations
+#### Affiliations
 
 - **The Rural Craftsmen's Guild of Malagna**: Dek holds senior membership and is frequently consulted on matters of craft standards, though his votes are increasingly overridden by younger members seeking efficiency over durability.
 - **The Order of Ymir's Children**: A loose association of rural craftspeople devoted to the creation-god, who view their work as sacred practice. Dek is among the most respected members.
 
-## Plot Hooks
+### Plot Hooks
 
 1. **The Inheritance of Knowledge**: A scholar and collector of traditional wisdom, **Lady Lysanthe of the Archives**, travels throughout Malagna documenting dying crafts before their knowledge vanishes. She approaches Dek, asking him to become the subject of a comprehensive written record of his techniques. Dek must decide whether his knowledge belongs to history or should die with him—and whether preserving it means surrendering his autonomy to a noble patron.
 

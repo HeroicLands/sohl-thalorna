@@ -12,8 +12,6 @@ shortcode: cadwyrspr
 packFolder: lorespiritsaelendan
 ---
 
-# Cadwyr, the Grey Wolf of the Ridge
-
 - **Kind:** Animal-kin, of [[lore-thekindred|the Kindred]]
 - **Seat:** [[place-drenavrspn|the Drenavar Spine]]
 - **Territory:** one long ridge and the packs that run it

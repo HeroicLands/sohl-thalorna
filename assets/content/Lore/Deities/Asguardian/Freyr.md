@@ -10,6 +10,4 @@ shortcode: freyrdty
 packFolder: deitiesasguardian
 ---
 
-# Fréyr
-
 TBD

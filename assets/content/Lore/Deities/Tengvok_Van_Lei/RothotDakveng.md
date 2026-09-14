@@ -10,6 +10,4 @@ shortcode: rthtdkvngdty
 packFolder: deitiestengvokvanlei
 ---
 
-# Röthöt Dākvëng
-
 TBD

@@ -117,8 +117,6 @@ data:
     kingdomlgn: unaligned
     kingdmnrgd: unaligned
     kingdmtrgd: unaligned
-sohl:
-  templatePriority: null
 packFolder: vithgard
 ---
 

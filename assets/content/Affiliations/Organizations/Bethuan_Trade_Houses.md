@@ -95,11 +95,7 @@ data:
   lore: []
   parents: []
   relations: {}
-sohl:
-  templatePriority: null
 ---
-
-# The Bethûan Trade-Houses
 
 - **Type:** Federation of matriarchal trading clans; commercial institution
 - **Region:** [[affiliation-mtrrchybth|The Matriarchy of Bethûa]] — principal houses concentrated in the coastal trading ports of the northern Vylarian Sea coast; lesser houses operate inland and at the southern frontier

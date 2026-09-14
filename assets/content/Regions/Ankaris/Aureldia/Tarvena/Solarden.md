@@ -18,8 +18,6 @@ shortcode: solarden
 packFolder: tarvenia
 ---
 
-# Solárden
-
 ## Overview
 
 _To be written._

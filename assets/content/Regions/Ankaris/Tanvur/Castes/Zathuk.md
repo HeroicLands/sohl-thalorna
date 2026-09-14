@@ -8,8 +8,6 @@ shortcode: zathuk
 packFolder: castes
 ---
 
-# Zāthük
-
 **Artisans, Craftsmen, and Common Warriors**
 
 The Zāthük form the productive middle stratum of [[affiliation-tanvurempr|Tānvür]] society, encompassing skilled craftspeople, artisans, and common soldiers. This diverse caste is responsible for creating the goods, tools, weapons, and works of art that sustain the empire's economy and culture. Within Zāthük, the distinguished Yātvōr (Healers) occupy a highly respected sub-caste.

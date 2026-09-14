@@ -88,8 +88,6 @@ name:
     - The Enlightened Path
 shortcode: odinn
 img: images/affiliation/asguardian/odinn.webp
-sohl:
-  templatePriority: null
 packFolder: pantheonsasguardian
 ---
 

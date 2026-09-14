@@ -18,8 +18,6 @@ shortcode: valdes
 packFolder: tarvenia
 ---
 
-# Valdés
-
 ## Overview
 
 _To be written._

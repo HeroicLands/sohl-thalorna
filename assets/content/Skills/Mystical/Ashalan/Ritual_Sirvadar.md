@@ -9,8 +9,9 @@ name:
   full: "Ritual: Šírvádár"
   aliases:
     - The Wandering Guide
-sohl:
+data:
   templatePriority: null
+sohl:
   system:
     skillBaseFormula: "@wil, @rea"
     masteryLevelBase: 0

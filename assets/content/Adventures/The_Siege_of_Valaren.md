@@ -19,8 +19,6 @@ data:
 packFolder: adventures
 ---
 
-# The Siege of Válaren
-
 The coastal City of Válaren lies under blockade by forces unknown. Adventurers must break the siege and uncover who benefits from the city's starvation.
 
 ## Overview

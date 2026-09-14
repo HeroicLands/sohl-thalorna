@@ -10,6 +10,4 @@ shortcode: venusiadty
 packFolder: deitiesaureldian
 ---
 
-# Vénusia
-
 TBD

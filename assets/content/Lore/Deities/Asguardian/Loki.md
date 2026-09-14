@@ -10,6 +10,4 @@ shortcode: lokidty
 packFolder: deitiesasguardian
 ---
 
-# Lôki
-
 TBD

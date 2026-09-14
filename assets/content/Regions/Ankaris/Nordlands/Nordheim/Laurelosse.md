@@ -14,8 +14,6 @@ shortcode: laurelosse
 packFolder: nordheim
 ---
 
-# Laurelossë
-
 - **Type:** Sinalëan enclave (destroyed)
 - **Location:** Deep interior of [[affiliation-kngdmnrdhm|Kingdom of Nordheim]], in the forested mountains between the high plateau and the glacial valleys
 - **Status:** Corrupted necropolis; no living inhabitants

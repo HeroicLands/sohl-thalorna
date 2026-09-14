@@ -9,8 +9,9 @@ name:
   full: "Ritual: Mórváhñä"
   aliases:
     - The Silent Keeper
-sohl:
+data:
   templatePriority: null
+sohl:
   system:
     skillBaseFormula: "@wil, @rea"
     masteryLevelBase: 0

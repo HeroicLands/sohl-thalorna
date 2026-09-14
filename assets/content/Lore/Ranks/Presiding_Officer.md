@@ -10,8 +10,6 @@ shortcode: prsdngffcrrnk
 description: "Presiding over a body that is itself sovereign, and holding nothing apart from it."
 ---
 
-# Presiding Officer
-
 Presiding over a body that is itself sovereign, and holding nothing apart from it.
 
 ## Obligations and Rights

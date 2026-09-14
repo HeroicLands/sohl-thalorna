@@ -20,8 +20,6 @@ shortcode: valdun
 packFolder: elavendre
 ---
 
-# Valdûn
-
 **Valdûn** stands in the eastern hills of [[place-brynavar|Brynavar]], on the ridge road where the
 drove ways out of the hill country come together before running west to the
 [[place-tirwen|Tirwen]] markets. Five thousand two hundred people, a wall that has been rebuilt three

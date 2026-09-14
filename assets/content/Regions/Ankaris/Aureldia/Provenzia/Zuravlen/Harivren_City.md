@@ -19,8 +19,6 @@ shortcode: harivrencity
 packFolder: provenzia
 ---
 
-# Hárivren City
-
 **Hárivren** is the great city of Provènzia's **western march** — inland, on the river that gathers the
 coastal valleys before they run down to the sea, at the point where the roads out of
 [[place-zuravlenrgn|Zûravlen]] and the northern coast meet the highway south.

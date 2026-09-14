@@ -11,8 +11,9 @@ name:
   aliases:
     - Táranon
     - The Thunderer
-sohl:
+data:
   templatePriority: null
+sohl:
   system:
     skillBaseFormula: "@wil, @rea"
     masteryLevelBase: 0

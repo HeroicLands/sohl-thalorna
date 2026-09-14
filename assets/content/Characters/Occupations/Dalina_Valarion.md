@@ -42,7 +42,6 @@ data:
     extra_features:
       - a scar running down the right leg
 sohl:
-  templatePriority: null
   items:
     - { model: sohl-sohl-attribute-str, system: { scoreBase: 10 } }
     - { model: sohl-sohl-attribute-end, system: { scoreBase: 12 } }
@@ -556,11 +555,11 @@ sohl:
     defaultCombatGroup: null
 ---
 
-# Appearance {#appearance}
+## Appearance {#appearance}
 
 Dálina Valárion is a 32-year-old woman who stands 5'9" tall and is slender. She has a long face with defined cheekbones, a prominent forehead, and a sharp jaw that leads to a square chin. Her large amber eyes sit beneath straight brows, lending her an expressive gaze. A hawkish nose and thin lips complete her features. She has olive-tanned skin with a sun-tanned complexion. Her dark brown hair is falling in dark cascades.
 
-# Dossier {#dossier}
+## Dossier {#dossier}
 
 Born in the Tarvénia region to a noble family of Tarvénan heritage, Dálina Valárion came into the world of the pilot through a combination of circumstance and aptitude.
 
@@ -568,37 +567,37 @@ Callista is an accomplished pilot who specializes in cargo transport. She has a 
 
 Now at 32 years of age, Dálina Valárion has established herself as a known figure among the pilots of Tarvénia. Her reputation, for better or worse, precedes her in the circles where such things matter.
 
-## Psyche
+### Psyche
 
-### Personality
+#### Personality
 
 Can be too focused on logistics, sometimes struggles with the technical aspects of piloting.
 
-### Motivation
+#### Motivation
 
 Dálina is driven by the desire to master her craft and secure a stable future. The uncertainties of life in pilot work keep her vigilant and adaptable.
 
-### Strengths
+#### Strengths
 
 Strong leader, excellent communicator, skilled in cargo management.
 
-## Social
+### Social
 
 Dálina is affiliated with Local Pilots' Guild.
 
 As a Tarvénan pilot, Dálina occupies a recognized social niche within Tarvénia society.
 
-## Companions
+### Companions
 
-### Patrons
+#### Patrons
 
 Dálina's primary patron is Merchants seeking dependable cargo transport services.. This relationship provides both opportunity and obligation.
 
-### Enemies
+#### Enemies
 
 Few; generally well-respected but may have rivals in the cargo industry.
 
-## Plot Hooks
+### Plot Hooks
 
 1. **The Pilot's Dilemma** — Dálina faces a professional crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Tarvénia.
 

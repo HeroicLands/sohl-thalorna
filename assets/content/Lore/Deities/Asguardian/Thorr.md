@@ -10,6 +10,4 @@ shortcode: thorrdty
 packFolder: deitiesasguardian
 ---
 
-# Thórr
-
 TBD

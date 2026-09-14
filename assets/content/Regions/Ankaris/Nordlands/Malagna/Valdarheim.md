@@ -17,8 +17,6 @@ shortcode: valdarheim
 packFolder: malagna
 ---
 
-# Valdarheim
-
 ## Overview
 
 _To be written._

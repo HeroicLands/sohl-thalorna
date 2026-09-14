@@ -22,11 +22,7 @@ data:
     - kingdmdnvr
   gender: male
   species: null
-sohl:
-  templatePriority: null
 ---
-
-# Sir Arren Thábavel
 
 **Role.** Bodyguard to the Ambassador, and gives security counsel.
 

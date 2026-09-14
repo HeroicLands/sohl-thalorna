@@ -12,8 +12,6 @@ shortcode: arthgenspr
 packFolder: lorespiritsaelendan
 ---
 
-# Arthgen, the Bear of the High Corries
-
 - **Kind:** Animal-kin, of [[lore-thekindred|the Kindred]]
 - **Seat:** [[place-drenavrspn|the Drenavar Spine]]
 - **Territory:** the high corries and the winter dens beneath them

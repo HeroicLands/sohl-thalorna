@@ -65,8 +65,6 @@ data:
     - kemtnpnthn
   relations:
     kemtnpnthn: aligned
-sohl:
-  templatePriority: null
 name:
   full: Faith of Wadjit
   aliases:
@@ -75,8 +73,6 @@ shortcode: wadjit
 banner: banners/ta-kheperu-banner.webp
 packFolder: pantheonskemetian
 ---
-
-# Faith of Wadjit
 
 A delta cult of the papyrus marshes, whose nome lives by fowling, reed-craft and the empire's paper-cutting. The goddess's reach is quiet but very long: in a civilization that runs on records, the reed-beds her priests bless are the material the scribal empire is written on.
 

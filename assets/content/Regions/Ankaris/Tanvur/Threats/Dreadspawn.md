@@ -8,7 +8,7 @@ shortcode: dreadspawn
 packFolder: threats
 ---
 
-# The Dreadspawn
+## The Dreadspawn
 
 **Dreadspawn** are creatures that were not born — they were _made_. Found across all of Thalorna, they are the deliberate creations of gods associated with creation, life, or primal shaping. Each is unique or nearly so: a singular design manufactured by divine will rather than a species that evolved or reproduced naturally. They do not breed. They do not form populations. Each Dreadspawn is an individual artifact of divine craftsmanship, as varied and unpredictable as the gods that made them.
 
@@ -16,7 +16,7 @@ In Western Ankaris, the Asguardian god Ymir is the most prolific known creator o
 
 ---
 
-## Purpose and Origin
+### Purpose and Origin
 
 Dreadspawn are not accidents. They are the products of deliberate creative acts — divine experimentation, bespoke manufacturing, and purpose-built design. A creation deity does not simply maintain existing species on a template; the very nature of creation is to produce _new forms_. Dreadspawn are the result of this ongoing work: each one created for a specific purpose or as an exploration of what a new form of life might be.
 
@@ -26,7 +26,7 @@ The creation forces do not value repetition. Making the same thing twice holds n
 
 ---
 
-## Dreadspawn in the Classification System
+### Dreadspawn in the Classification System
 
 In the [[affiliation-tanvurempr|Empire of Tānvür]], the classification cosmology handles Dreadspawn the same way it handles everything else: by sorting them.
 
@@ -38,7 +38,7 @@ The [[lore-tanthei|Tānthëi]] understand Dreadspawn as evidence that the Zāt S
 
 ---
 
-## The Practical Threat
+### The Practical Threat
 
 While the classification system handles Dreadspawn without theological anxiety, the military handles them with considerably more difficulty. The problem is not cosmic — it is tactical.
 
@@ -50,7 +50,7 @@ The most recent period has seen multiple Dreadspawn appearing within the empire'
 
 ---
 
-## See Also
+### See Also
 
 - [[lore-thatlung|Thātlüng]] — Reptilian pack-hunters unearthed by the northwestern earthquake
 - [[lore-celestlrdr|Celestial Order]] — The cosmological framework within which Dreadspawn are classified

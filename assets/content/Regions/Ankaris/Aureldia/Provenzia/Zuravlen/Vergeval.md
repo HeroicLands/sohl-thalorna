@@ -18,8 +18,6 @@ shortcode: vergeval
 packFolder: provenzia
 ---
 
-# Vergéval
-
 **Vergéval** holds the best of the upper terraces, and is the wealthiest manor in
 [[place-zuravlenrgn|Zûravlen]] and the most precarious. Nearly its whole demesne is under peach. In a
 good year its lord out-earns the baron; in a frost year he borrows, and everyone knows it.

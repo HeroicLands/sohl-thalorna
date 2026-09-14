@@ -10,8 +10,6 @@ description: Magical and supernatural powers.
 banner: systems/sohl/assets/images/banners/mysticalability.webp
 ---
 
-# Mystical Abilities
-
 ## Arcane Incantation
 
 Arcane incantations are divided by tradition.

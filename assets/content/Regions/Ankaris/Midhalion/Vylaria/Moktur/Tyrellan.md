@@ -18,8 +18,6 @@ shortcode: tyrellan
 packFolder: vylaria
 ---
 
-# Tyrellan
-
 ## Overview
 
 _To be written._

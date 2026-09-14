@@ -10,6 +10,4 @@ shortcode: kinultqandty
 packFolder: deitiesitzani
 ---
 
-# K'in'ul Tq'an
-
 TBD

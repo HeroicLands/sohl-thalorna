@@ -10,6 +10,4 @@ shortcode: sirvadardty
 packFolder: deitiesashalan
 ---
 
-# Šírvádár
-
 TBD
