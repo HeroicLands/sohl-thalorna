@@ -3,6 +3,7 @@ tags:
   - todo
   - draft
   - clergy
+  - character
 name:
   full: Sofíenna Torvaleth
   title: ""

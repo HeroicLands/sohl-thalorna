@@ -2,6 +2,7 @@
 tags:
   - heroes-and-knaves
   - tradesfolk
+  - character
 name:
   full: Pasher Het'remet
   title: ""

@@ -3,6 +3,7 @@ tags:
   - paragon
   - heroes-of-asguard
   - clergy
+  - character
 name:
   full: Thora Sunna's Blessing
   title: null

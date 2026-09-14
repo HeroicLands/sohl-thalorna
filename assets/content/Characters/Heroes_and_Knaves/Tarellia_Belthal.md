@@ -3,6 +3,7 @@ tags:
   - heroes-and-knaves
   - guilded
   - mages
+  - character
 name:
   full: Tárellia Bélthal
   title: ""

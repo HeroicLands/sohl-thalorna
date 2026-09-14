@@ -3,6 +3,7 @@ tags:
   - heroes-and-knaves
   - hero
   - clergy
+  - character
 name:
   full: Gróa the Seidr of Norgaad
   title: ""

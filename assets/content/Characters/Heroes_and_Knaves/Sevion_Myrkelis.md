@@ -4,6 +4,7 @@ tags:
   - hero
   - guilded
   - mages
+  - character
 name:
   full: Sevion Myrkelis
   title: ""

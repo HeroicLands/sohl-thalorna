@@ -3,6 +3,7 @@ tags:
   - heroes-and-knaves
   - guilded
   - administration
+  - character
 name:
   full: Cárenna Gráveth
   title: ""

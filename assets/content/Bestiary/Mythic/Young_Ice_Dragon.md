@@ -2,6 +2,7 @@
 tags:
   - mythic
   - image-needed
+  - creature
 name:
   full: Young Ice Dragon
   aliases: []

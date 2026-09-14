@@ -3,6 +3,7 @@ tags:
   - hero
   - heroes-of-asguard
   - tradesfolk
+  - character
 name:
   full: Freydis Silverhand
   title: null

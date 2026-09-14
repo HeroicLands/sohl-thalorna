@@ -1,6 +1,7 @@
 ---
 tags:
   - dreadspawn
+  - creature
 name:
   full: Abyssal Silt
   aliases: []

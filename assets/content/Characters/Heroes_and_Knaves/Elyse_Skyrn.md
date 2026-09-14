@@ -4,6 +4,7 @@ tags:
   - silent-talon
   - guilded
   - mages
+  - character
 name:
   full: Elýsè Skýrn
   title: ""

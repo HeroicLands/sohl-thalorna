@@ -2,6 +2,7 @@
 tags:
   - tamzir-crew
   - dependents
+  - character
 name:
   full: Cibella Serentia
   title: ""

@@ -2,6 +2,7 @@
 tags:
   - heroes-and-knaves
   - clergy
+  - character
 name:
   full: Firâvâd Pâresak
   title: ""

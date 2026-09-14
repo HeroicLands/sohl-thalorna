@@ -3,6 +3,7 @@ tags:
   - heroes-and-knaves
   - hero
   - soldiery
+  - character
 name:
   full: Sir Drazha Sycâni, Knight of the Black Flame
   title: Sir

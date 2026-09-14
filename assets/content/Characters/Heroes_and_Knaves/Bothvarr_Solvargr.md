@@ -2,6 +2,7 @@
 tags:
   - heroes-and-knaves
   - soldiery
+  - character
 name:
   full: Böthvarr Sólvargr
   title: ""

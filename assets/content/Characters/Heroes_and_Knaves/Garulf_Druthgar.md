@@ -2,6 +2,7 @@
 tags:
   - tamzir-crew
   - soldiery
+  - character
 name:
   full: Garulf Druthgar
   title: ""

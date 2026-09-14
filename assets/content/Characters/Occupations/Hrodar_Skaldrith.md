@@ -2,6 +2,7 @@
 tags:
   - draft
   - soldiery
+  - character
 name:
   full: Hródar Skáldrith
   title: ""

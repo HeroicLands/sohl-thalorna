@@ -3,6 +3,7 @@ tags:
   - heroes-and-knaves
   - todo
   - clergy
+  - character
 name:
   full: Hélénaia Mystákês
   title: ""

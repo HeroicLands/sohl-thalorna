@@ -4,6 +4,7 @@ tags:
   - brigand
   - vrystwald
   - underworld
+  - character
 name:
   full: Brunjár Skathhelm
   title: ""

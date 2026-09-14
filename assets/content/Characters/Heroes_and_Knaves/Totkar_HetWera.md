@@ -3,6 +3,7 @@ tags:
   - heroes-and-knaves
   - guilded
   - administration
+  - character
 name:
   full: Tot'kar Het'Wera
   title: ""

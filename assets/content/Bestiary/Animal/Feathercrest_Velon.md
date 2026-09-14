@@ -1,6 +1,7 @@
 ---
 tags:
   - animal
+  - creature
 name:
   full: Feathercrest Velon
   aliases: []

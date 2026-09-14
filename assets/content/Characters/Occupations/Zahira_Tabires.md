@@ -2,6 +2,7 @@
 tags:
   - draft
   - tradesfolk
+  - character
 name:
   full: Zahîra Tâbîrês
   title: ""

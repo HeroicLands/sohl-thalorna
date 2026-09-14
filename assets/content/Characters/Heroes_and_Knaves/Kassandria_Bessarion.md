@@ -4,6 +4,7 @@ tags:
   - todo
   - guilded
   - mages
+  - character
 name:
   full: Kassándria Bessarîon
   title: ""

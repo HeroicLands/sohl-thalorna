@@ -1,6 +1,7 @@
 ---
 tags:
   - animal
+  - creature
 name:
   full: Xerathian Forest Elephant
   aliases: []

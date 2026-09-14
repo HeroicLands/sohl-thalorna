@@ -7,6 +7,7 @@ tags:
   - spymaster
   - vylaria
   - administration
+  - character
 name:
   full: Lord Aemilon Visbari
   title: Lord

@@ -2,6 +2,7 @@
 tags:
   - heroes-and-knaves
   - tradesfolk
+  - character
 name:
   full: Zênais Philokálos
   title: ""

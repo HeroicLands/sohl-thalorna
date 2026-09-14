@@ -1,6 +1,7 @@
 ---
 tags:
   - draft
+  - character
 name:
   full: Bāthür Hürtzhük
   title: Hëkvōr Warlord

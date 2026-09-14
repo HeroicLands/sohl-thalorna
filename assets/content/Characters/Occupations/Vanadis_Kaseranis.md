@@ -2,6 +2,7 @@
 tags:
   - draft
   - administration
+  - character
 name:
   full: Vanâdîs Kâserânis
   title: ""

@@ -3,6 +3,7 @@ tags:
   - demigod
   - heroes-of-asguard
   - soldiery
+  - character
 name:
   full: Ragnar the Reforged
   title: null

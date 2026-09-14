@@ -2,6 +2,7 @@
 tags:
   - heroes-and-knaves
   - underworld
+  - character
 name:
   full: Chandrakīrtisundarī Jayavalli
   title: ""

@@ -2,6 +2,7 @@
 tags:
   - tamzir-crew
   - tradesfolk
+  - character
 name:
   full: Kasûra Damzarû
   title: ""

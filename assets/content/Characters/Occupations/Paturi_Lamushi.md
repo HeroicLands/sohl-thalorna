@@ -3,6 +3,7 @@ tags:
   - draft
   - guilded
   - common-folk
+  - character
 name:
   full: Pâtûri Lamûshî
   title: ""

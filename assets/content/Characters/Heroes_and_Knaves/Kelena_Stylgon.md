@@ -2,6 +2,7 @@
 tags:
   - heroes-and-knaves
   - administration
+  - character
 name:
   full: Kêlena Stýlgon
   title: ""

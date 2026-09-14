@@ -3,6 +3,7 @@ tags:
   - heroes-and-knaves
   - guilded
   - common-folk
+  - character
 name:
   full: Bránakis Kâserânis
   title: ""

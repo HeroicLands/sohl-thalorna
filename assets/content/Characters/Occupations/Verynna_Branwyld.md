@@ -2,6 +2,7 @@
 tags:
   - draft
   - clergy
+  - character
 name:
   full: Vérynna Brânwyld
   title: ""

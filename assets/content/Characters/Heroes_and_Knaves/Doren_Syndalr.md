@@ -4,6 +4,7 @@ tags:
   - silent-talon
   - unguilded
   - soldiery
+  - character
 name:
   full: Dôren Sýndalr
   title: ""

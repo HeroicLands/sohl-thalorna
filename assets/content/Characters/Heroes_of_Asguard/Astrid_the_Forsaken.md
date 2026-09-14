@@ -4,6 +4,7 @@ tags:
   - heroes-of-asguard
   - unguilded
   - soldiery
+  - character
 name:
   full: Astrid the Forsaken
   title: null

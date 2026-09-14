@@ -3,6 +3,7 @@ tags:
   - heroes-and-knaves
   - hero
   - soldiery
+  - character
 name:
   full: Yâsûra the Jackal
   title: ""

@@ -1,6 +1,7 @@
 ---
 tags:
   - folk
+  - creature
 name:
   full: Cave Goblin
   aliases: []

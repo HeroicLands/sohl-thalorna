@@ -2,6 +2,7 @@
 tags:
   - heroes-and-knaves
   - administration
+  - character
 name:
   full: Vīrāṅgaśikharam Dukṣana
   title: ""

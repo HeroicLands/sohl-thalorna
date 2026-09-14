@@ -2,6 +2,7 @@
 tags:
   - animal
   - image-needed
+  - creature
 name:
   full: Vedyaran Rhinoceros
   aliases: []

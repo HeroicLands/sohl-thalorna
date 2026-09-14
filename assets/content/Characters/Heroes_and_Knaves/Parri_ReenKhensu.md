@@ -3,6 +3,7 @@ tags:
   - heroes-and-knaves
   - guilded
   - tradesfolk
+  - character
 name:
   full: Par'ri Re'en'Khensu
   title: ""

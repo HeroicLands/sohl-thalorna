@@ -3,6 +3,7 @@ tags:
   - heroes-and-knaves
   - hero
   - administration
+  - character
 name:
   full: Shadiq ibn Rahman, The Diplomatic Blade Dancer
   title: ""

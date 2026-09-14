@@ -3,6 +3,7 @@ tags:
   - hero
   - heroes-of-asguard
   - underworld
+  - character
 name:
   full: Hakon Fire-Tongue
   title: null

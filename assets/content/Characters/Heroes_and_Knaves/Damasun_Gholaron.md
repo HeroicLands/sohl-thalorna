@@ -2,6 +2,7 @@
 tags:
   - tamzir-crew
   - clergy
+  - character
 name:
   full: Dámàsûn Ghôlâron
   title: ""

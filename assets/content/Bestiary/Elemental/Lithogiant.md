@@ -1,6 +1,7 @@
 ---
 tags:
   - elemental
+  - creature
 name:
   full: Lithogiant
   aliases: []

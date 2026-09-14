@@ -4,6 +4,7 @@ tags:
   - hero
   - guilded
   - tradesfolk
+  - character
 name:
   full: Dagmar the Wanderer
   title: ""

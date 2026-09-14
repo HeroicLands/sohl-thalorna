@@ -3,6 +3,7 @@ tags:
   - draft
   - guilded
   - soldiery
+  - character
 name:
   full: Ashârâ Hârôrdâs
   title: ""

@@ -3,6 +3,7 @@ tags:
   - heroes-and-knaves
   - hero
   - mages
+  - character
 name:
   full: Kallistratos Exarchides
   title: ""

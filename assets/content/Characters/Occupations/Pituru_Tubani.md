@@ -2,6 +2,7 @@
 tags:
   - draft
   - soldiery
+  - character
 name:
   full: Pitûrû Tûbanî
   title: ""

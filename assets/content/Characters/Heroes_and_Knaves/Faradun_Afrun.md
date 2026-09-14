@@ -3,6 +3,7 @@ tags:
   - heroes-and-knaves
   - guilded
   - common-folk
+  - character
 name:
   full: Faradûn Afrûn
   title: ""

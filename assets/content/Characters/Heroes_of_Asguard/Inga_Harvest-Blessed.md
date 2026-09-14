@@ -3,6 +3,7 @@ tags:
   - paragon
   - heroes-of-asguard
   - clergy
+  - character
 name:
   full: Inga Harvest-Blessed
   title: null

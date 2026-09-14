@@ -3,6 +3,7 @@ tags:
   - paragon
   - heroes-of-asguard
   - administration
+  - character
 name:
   full: Eiríkr Lawgiver
   title: null

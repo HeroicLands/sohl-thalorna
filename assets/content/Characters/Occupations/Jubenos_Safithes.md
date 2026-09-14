@@ -3,6 +3,7 @@ tags:
   - draft
   - guilded
   - administration
+  - character
 name:
   full: Júbênós Safîthês
   title: ""

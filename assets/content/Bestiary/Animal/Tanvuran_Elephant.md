@@ -1,6 +1,7 @@
 ---
 tags:
   - animal
+  - creature
 name:
   full: Tānvüran Elephant
   aliases: []

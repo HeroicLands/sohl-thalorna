@@ -3,6 +3,7 @@ tags:
   - heroes-and-knaves
   - guilded
   - tradesfolk
+  - character
 name:
   full: Shenur Ba'pata
   title: ""

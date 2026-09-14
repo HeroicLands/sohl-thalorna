@@ -2,6 +2,7 @@
 tags:
   - heroes-and-knaves
   - common-folk
+  - character
 name:
   full: Satîya Neb'akhet
   title: ""

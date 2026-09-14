@@ -1,6 +1,7 @@
 ---
 tags:
   - animal
+  - creature
 name:
   full: Giant Armadillo
   aliases: []

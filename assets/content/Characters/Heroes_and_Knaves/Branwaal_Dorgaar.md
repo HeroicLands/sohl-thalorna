@@ -3,6 +3,7 @@ tags:
   - hero
   - silent-talon
   - soldiery
+  - character
 name:
   full: Brànwâal Dôrgaar
   title: Captain

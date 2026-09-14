@@ -3,6 +3,7 @@ tags:
   - heroes-and-knaves
   - hero
   - underworld
+  - character
 name:
   full: Isaret Ka'Seker
   title: ""

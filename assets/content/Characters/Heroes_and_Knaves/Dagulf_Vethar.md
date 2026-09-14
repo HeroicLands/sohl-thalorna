@@ -5,6 +5,7 @@ tags:
   - serf
   - vrystwald
   - underworld
+  - character
 name:
   full: Dágulf Véthar
   title: ""

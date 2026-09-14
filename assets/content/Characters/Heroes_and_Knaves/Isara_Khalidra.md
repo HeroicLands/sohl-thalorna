@@ -2,6 +2,7 @@
 tags:
   - tamzir-crew
   - administration
+  - character
 name:
   full: Isâra Khalîdra
   title: ""

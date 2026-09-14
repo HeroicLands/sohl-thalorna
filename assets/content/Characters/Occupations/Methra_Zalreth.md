@@ -2,6 +2,7 @@
 tags:
   - draft
   - common-folk
+  - character
 name:
   full: Méthra Zálreth
   title: ""

@@ -1,6 +1,7 @@
 ---
 tags:
   - construct
+  - creature
 name:
   full: Rockhide Golem
   aliases: []

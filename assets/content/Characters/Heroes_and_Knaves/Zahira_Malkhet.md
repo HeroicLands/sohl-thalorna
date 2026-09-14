@@ -3,6 +3,7 @@ tags:
   - heroes-and-knaves
   - hero
   - soldiery
+  - character
 name:
   full: Zahira Malkhet
   title: ""

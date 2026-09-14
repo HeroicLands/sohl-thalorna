@@ -3,6 +3,7 @@ tags:
   - paragon
   - heroes-of-asguard
   - mages
+  - character
 name:
   full: Hrafnleif the Wise
   title: null

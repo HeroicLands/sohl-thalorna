@@ -1,6 +1,7 @@
 ---
 tags:
   - spirit
+  - creature
 name:
   full: Specterwolf
   aliases: []

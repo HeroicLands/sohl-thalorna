@@ -4,6 +4,7 @@ tags:
   - heroes-of-asguard
   - unguilded
   - mages
+  - character
 name:
   full: Gríma Svartrúnar
   title: null

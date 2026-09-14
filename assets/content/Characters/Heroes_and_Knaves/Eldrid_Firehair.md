@@ -4,6 +4,7 @@ tags:
   - hero
   - guilded
   - tradesfolk
+  - character
 name:
   full: Eldrid Firehair
   title: ""

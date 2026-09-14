@@ -4,6 +4,7 @@ tags:
   - todo
   - hero
   - clergy
+  - character
 name:
   full: Father Iztéban Alkássar
   title: Father

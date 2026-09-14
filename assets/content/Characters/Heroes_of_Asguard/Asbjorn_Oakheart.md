@@ -3,6 +3,7 @@ tags:
   - demigod
   - heroes-of-asguard
   - clergy
+  - character
 name:
   full: Asbjorn Oakheart
   title: null

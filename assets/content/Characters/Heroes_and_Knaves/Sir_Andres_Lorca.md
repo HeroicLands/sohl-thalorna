@@ -3,6 +3,7 @@ tags:
   - heroes-and-knaves
   - hero
   - soldiery
+  - character
 name:
   full: Sir Andrés Lorca, Knight of the Western Marches
   title: Sir

@@ -1,6 +1,7 @@
 ---
 tags:
   - helspawn
+  - creature
 name:
   full: Nightwights
   aliases: []
