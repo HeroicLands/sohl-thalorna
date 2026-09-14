@@ -111,7 +111,7 @@ The current membership stands at six:
 - **[[being-skthldfrdbn|Skathilda Fródbán]]** — Scout and knife-fighter. Small, fast, and the most dangerous member of the gang after Dágulf himself. Everyone is afraid of her.
 - **[[being-vndrcgrwld|Vandaric Garwald]]** — The talker. A confidence man and gambler who gathers intelligence in border taverns. Charming, dishonest, and loyal to nothing.
 - **[[being-hrodrrnthl|Hródar Arnthúl]]** — Woodsman and fighter. A bitter former timber cutter who hates the Vylarian Empire with a cold, personal fury.
-- **Brunjár Skathhelm** — Lookout. The youngest and most reluctant member, a freckle-faced boy with a guilty conscience and a good sling arm.
+- **[[being-brunjarskathhel|Brunjár Skathhelm]]** — Lookout. The youngest and most reluctant member, a freckle-faced boy with a guilty conscience and a good sling arm.
 
 ## Territory
 
