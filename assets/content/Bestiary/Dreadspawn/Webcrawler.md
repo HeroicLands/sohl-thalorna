@@ -253,6 +253,8 @@ sohl:
         disabled: false
 ---
 
+![Webcrawler](images/beings/creatures/wbcrwlr-portrait.webp){float: top-left}
+
 ## Appearance {#appearance}
 
 At first you cannot see it—there is only a shimmer in the air, something that might be dew on near-invisible thread, catching light that should not reach here. Then the spider itself emerges from hiding, and you see it: a creature the size of a human torso, its eight spindly legs moving with predatory grace, its body iridescent black with hints of deep purple and sickly green. The abdomen is grotesquely distended, constantly producing silken thread that glimmers with barely-visible luminescence. Its eyes are multifaceted and glowing, each one fixing on you with intelligent calculation. Fangs like curved needles protrude from its mouth, dripping venom that sizzles and steams when it touches stone. The air around it seems to vibrate with the tension of its web, and you realize with horror that you have already walked into the creature's territory—that what you thought was empty air is actually a labyrinth of nearly invisible threads waiting to ensnare you.

@@ -589,6 +589,8 @@ sohl:
     defaultCombatGroup: null
 ---
 
+![Thorsteinn Sólvargr](images/beings/characters/thrstnslvrgr-portrait.webp){float: top-left}
+
 ## Appearance {#appearance}
 
 Thorsteinn stands 6'1" tall with a medium build. He has light weathered skin, gray hair, and gray eyes. His features include an angular face, a straight nose, a slightly downturned mouth, thick brows. A distinguishing mark is a scar on the chin.

@@ -371,6 +371,8 @@ sohl:
         disabled: false
 ---
 
+![Abyssdrake](images/beings/creatures/abyssdrk-portrait.webp){float: top-left}
+
 ## Appearance {#appearance}
 
 The temperature drops as a sinuous shape moves through the water—a body serpentine and scaled in deepest obsidian, barely visible even in daylight. When it turns, your breath catches: its eyes burn with cold, actinic blue light, and along its spine, jagged fins trail a luminescence of sickly green and purple. The stench reaches you first—brine mixed with something sulfurous, decaying, wrong. Its scales catch the light in ways that hurt to watch, as if they exist slightly out of phase with reality.

@@ -586,6 +586,8 @@ sohl:
     defaultCombatGroup: null
 ---
 
+![Dek Vetrdómr](images/beings/characters/dekvetrdmr-portrait.webp){float: top-left}
+
 ## Appearance {#appearance}
 
 Dek stands 6'1" tall with a medium build. He has tanned weathered skin, dark brown hair, and hazel eyes. His features include a long face, a slightly upturned nose, a strong jawline, a laugh lines around the mouth, dark brows.

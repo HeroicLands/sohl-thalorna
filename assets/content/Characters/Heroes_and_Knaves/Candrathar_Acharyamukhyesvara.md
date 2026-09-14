@@ -587,6 +587,8 @@ sohl:
     defaultCombatGroup: null
 ---
 
+![Càndrathar Āchāryamukhyēśvara](images/beings/characters/cndrthrchrymkhysvr-portrait.webp){float: top-left}
+
 ## Appearance {#appearance}
 
 Càndrathar stands 5'7" tall with a medium build. He has tawny brown skin, graying dark brown hair, and brown eyes. His features include a diamond-shaped face, a delicate nose, a gentle jawline, an expressive mouth, tawny brows, high cheeks.

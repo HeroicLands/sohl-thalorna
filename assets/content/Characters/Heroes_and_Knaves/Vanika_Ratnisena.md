@@ -586,6 +586,8 @@ sohl:
     defaultCombatGroup: null
 ---
 
+![Vànika Ratniseṇa](images/beings/characters/vanikartns-portrait.webp){float: top-left}
+
 ## Appearance {#appearance}
 
 Vànika stands 5'10" tall with a medium build. She has warm wheat skin, deep black hair, and dark amber eyes. Her features include a heart-shaped face, a broad nose, a small chin, a wide mouth, heavy brows, full cheeks.

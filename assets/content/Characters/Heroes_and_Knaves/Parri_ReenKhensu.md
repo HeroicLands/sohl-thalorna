@@ -596,6 +596,8 @@ sohl:
     defaultCombatGroup: null
 ---
 
+![Par'ri Re'en'Khensu](images/beings/characters/parirnkhns-portrait.webp){float: top-left}
+
 **Home:** [[place-wasetkara|Wasetkara]]
 
 ## Appearance {#appearance}

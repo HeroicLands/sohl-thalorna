@@ -583,6 +583,8 @@ sohl:
     defaultCombatGroup: null
 ---
 
+![Layla Marut](images/beings/characters/laylamarut-portrait.webp){float: top-left}
+
 ## Appearance {#appearance}
 
 Layla stands 5'6" tall with a light build. She has light golden skin, dark brown hair, and brown eyes. Her features include a narrow face, a noble nose, a narrow chin, well-shaped lips, thin brows.

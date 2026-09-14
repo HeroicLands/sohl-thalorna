@@ -600,6 +600,8 @@ sohl:
     defaultCombatGroup: null
 ---
 
+![Párthun Bélthal](images/beings/characters/prthnblthl-portrait.webp){float: top-left}
+
 ## Appearance {#appearance}
 
 Párthun stands 5'9" tall with a medium build. He has tanned ruddy skin, dark brown hair, and brown eyes. His features include a heart-shaped face, a small nose, a gentle jawline, dark brows. A distinguishing mark is a scar on the left foot.

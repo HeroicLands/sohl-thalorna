@@ -594,6 +594,8 @@ sohl:
     defaultCombatGroup: null
 ---
 
+![Shenur Ba'pata](images/beings/characters/shenurbapt-portrait.webp){float: top-left}
+
 **Home:** [[place-ankhsetun|Ankh-Setûn]]
 
 ## Appearance {#appearance}

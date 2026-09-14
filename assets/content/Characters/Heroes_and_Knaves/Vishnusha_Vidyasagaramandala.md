@@ -591,6 +591,8 @@ sohl:
     defaultCombatGroup: null
 ---
 
+![Vishnusha Vidyāsāgaramaṇḍala](images/beings/characters/vshnshvdysgrml-portrait.webp){float: top-left}
+
 ## Appearance {#appearance}
 
 Vishnusha stands 6'3" tall with a heavy build. He has warm honey skin, black hair, and brown eyes. His features include a full face, a slightly arched nose, a soft jawline, generous lips, expressive brows.

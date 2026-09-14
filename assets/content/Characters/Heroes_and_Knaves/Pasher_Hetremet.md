@@ -582,6 +582,8 @@ sohl:
     defaultCombatGroup: null
 ---
 
+![Pasher Het'remet](images/beings/characters/pashrhtrmt-portrait.webp){float: top-left}
+
 **Home:** [[place-wasetkara|Wasetkara]]
 
 ## Appearance {#appearance}

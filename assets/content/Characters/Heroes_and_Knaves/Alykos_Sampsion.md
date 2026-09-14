@@ -594,6 +594,8 @@ sohl:
     defaultCombatGroup: null
 ---
 
+![Alýkos Sampsiôn](images/beings/characters/alykosmpsn-portrait.webp){float: top-left}
+
 ## Appearance {#appearance}
 
 Alýkos stands 5'7" tall with a medium build. He has light tanned skin, gray hair, and dark hazel eyes. His features include a long face, a strong nose, a pronounced chin, full lips, expressive brows.

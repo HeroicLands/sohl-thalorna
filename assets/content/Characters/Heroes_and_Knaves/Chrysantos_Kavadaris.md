@@ -595,6 +595,8 @@ sohl:
     defaultCombatGroup: null
 ---
 
+![Chrysántos Kavadáris](images/beings/characters/chrysntskvdrs-portrait.webp){float: top-left}
+
 ## Appearance {#appearance}
 
 Chrysántos stands 5'10" tall with a light build. He has light pale skin, black hair, and dark brown eyes. His features include an oval face, a straight nose, a sharp jawline, dark brows, sculpted cheeks. A distinguishing mark is a tattoo of a fire on the leg.

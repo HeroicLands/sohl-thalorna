@@ -584,6 +584,8 @@ sohl:
     defaultCombatGroup: null
 ---
 
+![Yngvarr Blóthöll](images/beings/characters/yngvrblthl-portrait.webp){float: top-left}
+
 ## Appearance {#appearance}
 
 Yngvarr stands 5'7" tall with a light build. He has light fair skin, red hair, and blue eyes. His features include an oblong face, an aquiline nose, a square jawline, a small mouth, heavy brows.

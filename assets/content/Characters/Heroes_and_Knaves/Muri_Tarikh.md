@@ -572,6 +572,8 @@ sohl:
     defaultCombatGroup: null
 ---
 
+![Muri Târikh](images/beings/characters/muritarikh-portrait.webp){float: top-left}
+
 ## Appearance {#appearance}
 
 Muri stands 6'2" tall with a heavy build. He has dark skin, black hair, and dark brown eyes. His features include an angular face, a sharp jawline, full lips, dark brows, angular cheeks. A distinguishing mark is a scar across the bridge of the nose.

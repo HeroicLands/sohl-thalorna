@@ -596,6 +596,8 @@ sohl:
     defaultCombatGroup: null
 ---
 
+![Thêsaloníke Katharópoulos](images/beings/characters/thslnkkthrpls-portrait.webp){float: top-left}
+
 ## Appearance {#appearance}
 
 Thêsaloníke stands 5'10" tall with a medium build. She has golden-toned skin, auburn hair, and green eyes. Her features include a diamond-shaped face, a straight nose, a narrow chin, an expressive mouth, arched brows, prominent cheeks.

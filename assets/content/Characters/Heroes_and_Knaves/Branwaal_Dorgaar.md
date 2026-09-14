@@ -577,6 +577,8 @@ sohl:
     defaultCombatGroup: null
 ---
 
+![Brànwâal Dôrgaar](images/beings/characters/branwldrgr-portrait.webp){float: top-left}
+
 ## Appearance {#appearance}
 
 Brànwâal is a weathered, sharp-eyed man of thirty-four with a medium frame, fair skin worn by years of battle, dark brown hair streaked with gray, and steady brown eyes. His bearing still carries traces of the noble upbringing he lost long ago. He moves with the easy confidence of a seasoned commander who has survived more battles than he cares to count.

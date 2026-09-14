@@ -617,6 +617,8 @@ sohl:
     defaultCombatGroup: null
 ---
 
+![Razanash Mervaran](images/beings/characters/rznshmrvrn-portrait.webp){float: top-left}
+
 ## Appearance {#appearance}
 
 Razanash stands 5'7" tall with a light build. She has tawny skin, black hair, and green eyes. Her features include a narrow face, an arched nose, an angular jawline, thick dark brows, sculpted cheeks. A distinguishing mark is a scar on the left thigh.

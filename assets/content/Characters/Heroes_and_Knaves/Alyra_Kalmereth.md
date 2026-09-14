@@ -605,6 +605,8 @@ sohl:
     defaultCombatGroup: null
 ---
 
+![Ályra Kálmereth](images/beings/characters/alyrklmrth-portrait.webp){float: top-left}
+
 ## Appearance {#appearance}
 
 Ályra stands 5'9" tall with a light build. She has pale fair skin, dark brown hair, and green eyes. Her features include a heart-shaped face, a snub nose, a strong jawline, full lips, dark brows, full cheeks.

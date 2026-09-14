@@ -329,6 +329,8 @@ sohl:
         disabled: false
 ---
 
+![Giant Hedgehog](images/beings/creatures/gnthdghg-portrait.webp){float: top-left}
+
 ## Appearance {#appearance}
 
 Your foot nearly comes down on it before you see it: a rounded form the size of a large boar, covered in spines that stand nearly vertical from its body. The quills catch the light and gleam like steel, and when you shift your weight, the entire creature rattles—a warning sound like a thousand dice tumbling in a barrel. A long, pointed snout pokes forward and sniffs the air, and small dark eyes lock onto you. The smell is earthy and rank. The creature seems utterly unimpressed by your presence, but those quills continue to rattle, each spine gleaming with a wickedness that promises serious harm.

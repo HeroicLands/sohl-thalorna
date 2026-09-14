@@ -624,6 +624,8 @@ sohl:
     defaultCombatGroup: null
 ---
 
+![Samarína Kalokyrês](images/beings/characters/smrnklkyrs-portrait.webp){float: top-left}
+
 ## Appearance {#appearance}
 
 Samarína stands 5'10" tall with a light build. She has light olive skin, very dark brown hair, and green eyes. Her features include an oval face, a prominent nose, a narrow chin, well-defined lips, very dark brows, hollow cheeks.

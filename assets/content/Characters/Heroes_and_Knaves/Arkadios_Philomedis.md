@@ -577,6 +577,8 @@ sohl:
     defaultCombatGroup: null
 ---
 
+![Arkádios Philomédis](images/beings/characters/arkdsphlmds-portrait.webp){float: top-left}
+
 ## Appearance {#appearance}
 
 Arkádios stands 6'4" tall with a heavy build. He has tanned weathered skin, black hair, and dark brown eyes. His features include a narrow face, an aquiline nose, a pointed chin, well-defined lips, dark brows, sculpted cheeks. A distinguishing mark is a tattoo of a serpent on the back.

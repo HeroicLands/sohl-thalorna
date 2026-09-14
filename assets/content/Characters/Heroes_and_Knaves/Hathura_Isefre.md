@@ -618,6 +618,8 @@ sohl:
     defaultCombatGroup: null
 ---
 
+![Hathura Ise'fré](images/beings/characters/hathurasfr-portrait.webp){float: top-left}
+
 **Home:** [[place-meruhotep|Meru-Hotep]]
 
 ## Appearance {#appearance}

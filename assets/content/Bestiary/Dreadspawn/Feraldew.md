@@ -382,6 +382,8 @@ sohl:
         disabled: false
 ---
 
+![Feraldew](images/beings/creatures/feraldew-portrait.webp){float: top-left}
+
 ## Appearance {#appearance}
 
 A graceful deer stands in the meadow with the others—gentle eyes, soft coat, modest antlers. Then it turns its head and smiles. Fangs gleam where no fangs should be, and its eyes are utterly wrong—cold and calculating where they should be warm. When it moves, the wrongness becomes clear: no natural deer moves with such predatory precision. You've been watching it the whole time and never realized it wasn't a deer at all.

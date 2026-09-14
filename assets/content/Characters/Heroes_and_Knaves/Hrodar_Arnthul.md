@@ -552,6 +552,8 @@ sohl:
     defaultCombatGroup: null
 ---
 
+![Hródar Arnthúl](images/beings/characters/hrodrrnthl-portrait.webp){float: top-left}
+
 ## Appearance {#appearance}
 
 Hródar Arnthúl is a tall, gaunt man with the angular look of a half-starved crow, which is how he got his nickname. He has long arms, bony wrists, and a narrow face set in a perpetual scowl beneath a leather cowl. His black hair is lank and unwashed, his skin pale from a life lived under the canopy of the Vrystwald pines, and his dark brown eyes hold a sullen, simmering resentment that never quite boils over but never cools. He wears a padded shirt under a leather vest, dark boots, and carries a handaxe and a dagger. He moves through the forest with a long-limbed, loping stride that covers ground quickly and quietly. He rarely speaks unless spoken to, and when he does, his voice is flat and grudging.

@@ -594,6 +594,8 @@ sohl:
     defaultCombatGroup: null
 ---
 
+![Arévyn Llýdar](images/beings/characters/arevynlydr-portrait.webp){float: top-left}
+
 ## Appearance {#appearance}
 
 Arévyn stands 6'1" tall with a heavy build. He has tanned weathered skin, black hair, and gray eyes. His features include a broad face, a button nose, a narrow chin, light brows, rosy cheeks.

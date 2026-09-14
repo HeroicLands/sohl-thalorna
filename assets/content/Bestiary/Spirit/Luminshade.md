@@ -585,6 +585,8 @@ sohl:
         disabled: false
 ---
 
+![Luminshade](images/beings/creatures/lmnshd-portrait.webp){float: top-left}
+
 ## Appearance {#appearance}
 
 Where there is light, a shadow moves against it. Where there is darkness, a pale luminescence blooms. The figure is beautiful in the way that the edge of a knife is beautiful—precise, dangerous, and utterly indifferent to your perception of it. Its form shifts between solid and translucent, and the longer you look at it, the harder it is to determine what you're actually seeing.

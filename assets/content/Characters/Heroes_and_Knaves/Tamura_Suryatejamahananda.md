@@ -595,6 +595,8 @@ sohl:
     defaultCombatGroup: null
 ---
 
+![Tamûra Sūryatejamahānanda](images/beings/characters/tmrsrytjmhnnd-portrait.webp){float: top-left}
+
 ## Appearance {#appearance}
 
 Tamûra stands 6'0" tall with a medium build. He has golden brown skin, graying black hair, and honey brown eyes. His features include a soft-featured face, a straight nose, a gentle jawline, an expressive mouth, golden brows, full cheeks. A distinguishing mark is a tattoo of a butterfly on the neck.

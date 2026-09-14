@@ -254,6 +254,8 @@ sohl:
         disabled: false
 ---
 
+![Mammoth Centipede](images/beings/creatures/mmmthcnt-portrait.webp){float: top-left}
+
 ## Appearance {#appearance}
 
 The vibration through the stone reaches you first—a rhythmic, undulating pulse like a second heartbeat in the earth itself. Then you see it: segment after segment of dark, chitinous plating emerging from the shadows, each plate slightly overlapping the next, rippling with an alien, fluid motion. The creature's antennae wave at the air, blindly seeking, and the sound of hundreds of tiny clawed feet pattering against stone fills the darkness. The mandibles—large, serrated, dripping something that glimmers faintly—open and close with a horrifying clacking sound. The smell is acrid, almost chemical, accompanied by the distinctive musk of something purely predatory and utterly inhuman.

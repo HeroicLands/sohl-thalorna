@@ -345,6 +345,8 @@ sohl:
         disabled: false
 ---
 
+![Bramblefang](images/beings/creatures/brmblfng-portrait.webp){float: top-left}
+
 ## Appearance {#appearance}
 
 The undergrowth shivers before anything appears. You smell iron and vegetable rot, then it emerges—a mass of thorns and twisted wood, vaguely beast-shaped but wrong. Its body writhes with barbed vines, each spike dripping something black. Where it walks, the grass dies. You catch the glint of an eye—yellow, intelligent—buried deep within the tangle of spikes, and it has already seen you.

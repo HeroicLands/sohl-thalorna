@@ -600,6 +600,8 @@ sohl:
     defaultCombatGroup: null
 ---
 
+![Thalísa Torvaleth](images/beings/characters/thlstrvlth-portrait.webp){float: top-left}
+
 ## Appearance {#appearance}
 
 Thalísa stands 5'10" tall with a light build. She has warm olive skin, dark brown hair, and green eyes. Her features include a diamond-shaped face, a hawkish nose, a pronounced chin, slightly pursed lips, dark brows. A distinguishing mark is a tattoo of a wolf on the shoulder.

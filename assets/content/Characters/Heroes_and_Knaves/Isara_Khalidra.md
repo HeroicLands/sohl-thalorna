@@ -557,6 +557,8 @@ sohl:
     defaultCombatGroup: null
 ---
 
+![Isâra Khalîdra](images/beings/characters/isarakhldr-portrait.webp){float: top-left}
+
 ## Appearance {#appearance}
 
 Isâra Khalîdra is beautiful in the way that a finely crafted instrument is beautiful — with purpose and precision behind every line. She is tall and slender, with rich brown hair that falls in carefully maintained waves, hazel eyes that shift between warmth and calculation with mercurial speed, and a complexion that seems untouched by the harshness of shipboard life. She moves with a dancer's grace, carries herself with effortless poise, and possesses a speaking voice of extraordinary beauty — low, musical, and utterly commanding. She dresses in silk and velvet even aboard the Tamzîr, maintaining an island of elegance amid the ship's general squalor. A superb dagger, its handle set with semiprecious stones, is the only concession to her surroundings.

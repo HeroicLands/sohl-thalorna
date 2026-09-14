@@ -262,6 +262,8 @@ sohl:
         disabled: false
 ---
 
+![Nightshade Serpent](images/beings/creatures/nghtshds-portrait.webp){float: top-left}
+
 ## Appearance {#appearance}
 
 The shadows between the stones seem wrong—deeper, more solid than they should be. You catch the glint of something like a jewel, then—movement that was never quite there, a shape that shifts at the edge of vision. The air grows cold and still, and you smell it: something like rotting nightflowers, a scent that makes your skin prickle with primal dread. Then you see the eyes—no, feel them—two points of sickly luminescence in the darkness, ancient and intelligent and utterly devoid of anything resembling mercy. A sinuous form rises from shadow itself, scales the color of midnight oil, and the whisper-sound of serpentine movement becomes deafening in your ears.

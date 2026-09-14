@@ -589,6 +589,8 @@ sohl:
     defaultCombatGroup: null
 ---
 
+![Kárr Íseldr](images/beings/characters/karriseldr-portrait.webp){float: top-left}
+
 ## Appearance {#appearance}
 
 Kárr stands 5'8" tall with a medium build. He has light fair skin, dark brown hair, and brown eyes. His features include a rectangular face, a straight nose, a strong jawline, a small mouth, dark brows. A distinguishing mark is a scar above the left eyebrow.

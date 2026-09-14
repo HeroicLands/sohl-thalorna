@@ -591,6 +591,8 @@ sohl:
     defaultCombatGroup: null
 ---
 
+![Skúli Vetrdómr](images/beings/characters/skulvtrdmr-portrait.webp){float: top-left}
+
 ## Appearance {#appearance}
 
 Skúli stands 6'0" tall with a medium build. He has light ruddy skin, gray hair, and gray eyes. His features include a long face, a straight nose, a square jawline, narrow lips, heavy brows, hollow cheeks. A distinguishing mark is a tattoo of a falcon on the right arm.

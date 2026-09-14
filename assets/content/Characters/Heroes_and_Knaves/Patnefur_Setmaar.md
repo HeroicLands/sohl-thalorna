@@ -598,6 +598,8 @@ sohl:
     defaultCombatGroup: null
 ---
 
+![Pat'nefur Set'maâr](images/beings/characters/patnfrstmr-portrait.webp){float: top-left}
+
 **Home:** [[place-wasetkara|Wasetkara]]
 
 ## Appearance {#appearance}

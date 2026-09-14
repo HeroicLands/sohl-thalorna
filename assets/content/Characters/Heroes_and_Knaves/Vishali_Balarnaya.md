@@ -582,6 +582,8 @@ sohl:
     defaultCombatGroup: null
 ---
 
+![Vishali Bâlarṇaya](images/beings/characters/vishalblry-portrait.webp){float: top-left}
+
 ## Appearance {#appearance}
 
 Vishali stands 5'8" tall with a light build. She has rich brown skin, dark black hair, and warm brown eyes. Her features include a round face, a slightly arched nose, a gentle jawline, generous lips, rich brows. A distinguishing mark is a scar on the right elbow.

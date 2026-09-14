@@ -322,6 +322,8 @@ sohl:
         disabled: false
 ---
 
+![Dune Strider](images/beings/creatures/dnstrdr-portrait.webp){float: top-left}
+
 ## Appearance {#appearance}
 
 The creature is impossibly tall, standing a full head and shoulders above human height on legs like living stilts. Tan and cream plumage ripples in the desert wind, providing camouflage so perfect that distance makes the creature seem to materialize from sand itself. The head is proportionally tiny, crowned with a wicked curve of beak, but the eyes are alert, intelligent, and constantly scanning. When it moves, the motion is economical and graceful: each step covers ground with remarkable efficiency, the powerful legs driving the body forward in bursts of speed. When it runs, dust rises in billowing clouds that obscure all vision, a golden veil between predator and prey.

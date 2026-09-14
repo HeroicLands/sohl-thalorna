@@ -591,6 +591,8 @@ sohl:
         disabled: false
 ---
 
+![Forest Troll](images/beings/creatures/frsttrll-portrait.webp){float: top-left}
+
 ## Appearance {#appearance}
 
 The ancient oak in front of you shifts. Bark cracks like skin, and what you thought was gnarled wood straightens into limbs and a torso. Moss and vines slide away like falling robes, revealing skin as green as rotting wood beneath. The thing is twelve feet tall and built of nothing but raw power—limbs thick as tree trunks, hands like woven roots and bone. Its breath carries the smell of wet earth and decay. Leaves are matted in hair that might be vegetable or might be vermin. It does not make sound as it moves toward you, despite its size. It simply appears closer than it was.

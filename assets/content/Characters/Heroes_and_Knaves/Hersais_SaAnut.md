@@ -612,6 +612,8 @@ sohl:
     defaultCombatGroup: null
 ---
 
+![Her'sa'îs Sa'Anut](images/beings/characters/hersaisant-portrait.webp){float: top-left}
+
 **Home:** [[place-ankhsetun|Ankh-Setûn]]
 
 ## Appearance {#appearance}

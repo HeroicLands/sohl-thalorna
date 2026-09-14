@@ -591,6 +591,8 @@ sohl:
     defaultCombatGroup: null
 ---
 
+![Xadrôs Dâemâtês](images/beings/characters/xadrosdmts-portrait.webp){float: top-left}
+
 ## Appearance {#appearance}
 
 Xadrôs stands 6'1" tall with a medium build. He has light tanned skin, dark brown hair, and brown eyes. His features include a long face, a snub nose, a strong jawline, dark brows, rounded cheeks.

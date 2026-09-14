@@ -594,6 +594,8 @@ sohl:
     defaultCombatGroup: null
 ---
 
+![Brânalenîs Bárkalâs](images/beings/characters/brnlnsbrkls-portrait.webp){float: top-left}
+
 ## Appearance {#appearance}
 
 Brânalenîs stands 5'10" tall with a medium build. She has light tanned skin, black hair, and green eyes. Her features include a narrow face, a strong nose, a sharp jawline, a wide mouth, thick dark brows, high cheeks.

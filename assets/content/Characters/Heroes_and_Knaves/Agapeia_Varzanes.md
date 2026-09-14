@@ -587,6 +587,8 @@ sohl:
     defaultCombatGroup: null
 ---
 
+![Agápeia Varzánês](images/beings/characters/agapevrzns-portrait.webp){float: top-left}
+
 ## Appearance {#appearance}
 
 Agápeia stands 6'1" tall with a medium build. She has golden-toned skin, dark hair, and dark hazel eyes. Her features include an oblong face, a straight nose, a pointed chin, slightly pursed lips, arched brows, high cheeks.

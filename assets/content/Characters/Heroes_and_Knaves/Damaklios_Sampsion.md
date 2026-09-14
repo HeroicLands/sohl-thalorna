@@ -602,6 +602,8 @@ sohl:
     defaultCombatGroup: null
 ---
 
+![Damáklios Sampsiôn](images/beings/characters/damklsmpsn-portrait.webp){float: top-left}
+
 ## Appearance {#appearance}
 
 Damáklios stands 5'6" tall with a medium build. He has light tanned skin, graying brown hair, and hazel eyes. His features include an angular face, a hawkish nose, a pronounced chin, slightly pursed lips, graying brows. A distinguishing mark is a tattoo of a crescent moon on the neck.

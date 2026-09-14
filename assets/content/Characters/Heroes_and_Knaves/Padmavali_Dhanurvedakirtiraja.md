@@ -594,6 +594,8 @@ sohl:
     defaultCombatGroup: null
 ---
 
+![Padmàvali Dhanurvedakīrtirāja](images/beings/characters/pdmvldhnrvdkrtrj-portrait.webp){float: top-left}
+
 ## Appearance {#appearance}
 
 Padmàvali stands 5'2" tall with a light build. She has warm caramel skin, dark black hair, and deep brown eyes. Her features include an oval face, a delicate nose, a soft jawline, well-shaped lips, deep brows, full cheeks.

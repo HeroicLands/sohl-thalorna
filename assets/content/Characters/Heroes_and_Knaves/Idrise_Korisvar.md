@@ -578,6 +578,8 @@ sohl:
     defaultCombatGroup: null
 ---
 
+![Ídrisè Kórisvar](images/beings/characters/idriskrsvr-portrait.webp){float: top-left}
+
 ## Appearance {#appearance}
 
 Ídrisè stands 6'3" tall with a medium build. She has warm olive skin, brown hair, and green eyes. Her features include an angular face, a strong nose, a pointed chin, full lips, arched brows, angular cheeks.

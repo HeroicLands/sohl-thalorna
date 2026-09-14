@@ -584,6 +584,8 @@ sohl:
     defaultCombatGroup: null
 ---
 
+![Vīrāṅgaśikharam Dukṣana](images/beings/characters/vrgskhrmdkn-portrait.webp){float: top-left}
+
 ## Appearance {#appearance}
 
 Vīrāṅgaśikharam stands 6'0" tall with a medium build. He has deep brown skin, very dark brown hair, and hazel eyes. His features include a round face, a delicate nose, a rounded chin, generous lips, deep brows, full cheeks.

@@ -591,6 +591,8 @@ sohl:
     defaultCombatGroup: null
 ---
 
+![Rúna Hringsdóttir](images/beings/characters/rnhrngsdtr-portrait.webp){float: top-left}
+
 ## Appearance {#appearance}
 
 Rúna is 5’10" with a strong, athletic build, weighing about 180 pounds. Her fiery red hair is kept short, and her green eyes burn with the passion of a seasoned warrior. Her facial features are rugged but attractive, with a square jaw and a broad nose. Her scarred cheek adds to her warlike appearance. She wears chainmail and carries her round shield and axe.

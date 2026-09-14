@@ -594,6 +594,8 @@ sohl:
     defaultCombatGroup: null
 ---
 
+![Viśvàra Mahâpara](images/beings/characters/visvarmhpr-portrait.webp){float: top-left}
+
 ## Appearance {#appearance}
 
 Viśvàra stands 6'4" tall with a heavy build. He has warm golden brown skin, dark black hair, and warm brown eyes. His features include a soft-featured face, a prominent nose, a tapered chin, full lips, warm golden brows, soft cheeks. A distinguishing mark is a scar on the right calf.

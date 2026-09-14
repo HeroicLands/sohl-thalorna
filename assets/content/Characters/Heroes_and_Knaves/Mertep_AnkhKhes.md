@@ -601,6 +601,8 @@ sohl:
     defaultCombatGroup: null
 ---
 
+![Mer'tep Ankh'Khes](images/beings/characters/mrtpnkhkhs-portrait.webp){float: top-left}
+
 **Home:** [[place-perankhet|Per-Ankhet]]
 
 ## Appearance {#appearance}

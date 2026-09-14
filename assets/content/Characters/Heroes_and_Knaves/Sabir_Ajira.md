@@ -600,6 +600,8 @@ sohl:
     defaultCombatGroup: null
 ---
 
+![Sâbir Âjira](images/beings/characters/sabirajira-portrait.webp){float: top-left}
+
 ## Appearance {#appearance}
 
 Sâbir stands 6'1" tall with a medium build. He has deep ebony skin, black hair, and dark amber eyes. His features include an angular face, a straight nose, a refined jawline, full lips, fine brows, sculpted cheeks.

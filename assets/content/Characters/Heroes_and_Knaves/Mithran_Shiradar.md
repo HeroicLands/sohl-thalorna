@@ -572,6 +572,8 @@ sohl:
     defaultCombatGroup: null
 ---
 
+![Mithran Shiradar](images/beings/characters/mthrnshrdr-portrait.webp){float: top-left}
+
 ## Appearance {#appearance}
 
 Mithran stands 6'2" tall with a heavy build. He has tanned weathered skin, gray hair, and dark brown eyes. His features include a diamond-shaped face, a prominent nose, a strong jawline, slightly pursed lips, dark brows. A distinguishing mark is a scar from forehead to cheek across the left eye.

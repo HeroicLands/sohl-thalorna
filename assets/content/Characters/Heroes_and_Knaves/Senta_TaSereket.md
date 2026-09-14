@@ -590,6 +590,8 @@ sohl:
     defaultCombatGroup: null
 ---
 
+![Sênta Ta'Sereket](images/beings/characters/sentatsrkt-portrait.webp){float: top-left}
+
 **Home:** [[place-perankhet|Per-Ankhet]]
 
 ## Appearance {#appearance}

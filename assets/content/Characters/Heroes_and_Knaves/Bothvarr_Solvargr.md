@@ -582,6 +582,8 @@ sohl:
     defaultCombatGroup: null
 ---
 
+![Böthvarr Sólvargr](images/beings/characters/bthvrslvrgr-portrait.webp){float: top-left}
+
 ## Appearance {#appearance}
 
 Böthvarr stands 6'3" tall with a heavy build. He has tanned weathered skin, gray hair, and blue eyes. His features include a broad face, a straight nose, a soft jawline, full lips, gently curved brows. A distinguishing mark is a tattoo of a lion's mane on the chest.

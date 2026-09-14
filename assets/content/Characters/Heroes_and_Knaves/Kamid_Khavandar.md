@@ -561,6 +561,8 @@ sohl:
     defaultCombatGroup: null
 ---
 
+![Kamîd Khâvandar](images/beings/characters/kamdkhvndr-portrait.webp){float: top-left}
+
 ## Appearance {#appearance}
 
 Kamîd stands 6'0" tall with a medium build. He has tanned ruddy skin, black hair, and dark brown eyes. His features include a narrow face, a prominent nose, a pointed chin, full lips, dark brows, sculpted cheeks. A distinguishing mark is a tattoo of a phoenix on the chest.

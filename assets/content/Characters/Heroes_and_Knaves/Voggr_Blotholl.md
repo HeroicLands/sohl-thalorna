@@ -591,6 +591,8 @@ sohl:
     defaultCombatGroup: null
 ---
 
+![Vöggr Blóthöll](images/beings/characters/vogrblothl-portrait.webp){float: top-left}
+
 ## Appearance {#appearance}
 
 Vöggr stands 5'11" tall with a heavy build. He has tanned weathered skin, gray hair, and blue eyes. His features include a long face, a long nose, a strong jawline, a firm-set mouth, low-set brows, angular cheeks. A distinguishing mark is a scar running down the back.

@@ -586,6 +586,8 @@ sohl:
     defaultCombatGroup: null
 ---
 
+![Nari Sahravân](images/beings/characters/narisahrvn-portrait.webp){float: top-left}
+
 ## Appearance {#appearance}
 
 Nari stands 5'5" tall with a light build. She has bronzed skin, dark hair, and brown eyes. Her features include an oblong face, a prominent nose, a narrow chin, slightly pursed lips, and heavy brows. A distinguishing mark is a small scar on one cheek.

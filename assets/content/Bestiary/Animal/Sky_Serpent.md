@@ -262,6 +262,8 @@ sohl:
         disabled: false
 ---
 
+![Sky Serpent](images/beings/creatures/skysrpnt-portrait.webp){float: top-left}
+
 ## Appearance {#appearance}
 
 The air above ripples with heat and motion, and you catch only glimpses of the creature — a serpentine form that seems to be made more of sky and light than flesh. The iridescent scales shimmer with hues that match the sky so perfectly that tracking the creature is nearly impossible, as if you're watching a living piece of atmosphere move with malicious intent. The undulating motion is hypnotic, almost aquatic despite the lack of water, and you notice the thin frills along the body unfurling and contracting with each shift of position. Then the creature's head swings toward you, and the slit-pupilled eyes lock on your position with predatory certainty. In that moment, you understand that you're being assessed as food, and the creature has significant advantages in this space.

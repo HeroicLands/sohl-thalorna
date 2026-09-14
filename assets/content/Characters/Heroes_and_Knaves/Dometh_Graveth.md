@@ -601,6 +601,8 @@ sohl:
     defaultCombatGroup: null
 ---
 
+![Dómeth Gráveth](images/beings/characters/domthgrvth-portrait.webp){float: top-left}
+
 ## Appearance {#appearance}
 
 Dómeth stands 5'11" tall with a heavy build. He has tanned weathered skin, graying black hair, and brown eyes. His features include a narrow face, an aquiline nose, a pointed chin, well-defined lips, prominent brows. A distinguishing mark is a tattoo of a snake on the chest.

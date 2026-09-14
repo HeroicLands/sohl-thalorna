@@ -584,6 +584,8 @@ sohl:
     defaultCombatGroup: null
 ---
 
+![Björn Vetrdómr](images/beings/characters/bjrnvtrdmr-portrait.webp){float: top-left}
+
 ## Appearance {#appearance}
 
 Björn stands 6'0" tall with a heavy build. He has tanned weathered skin, white hair, and gray eyes. His features include a rectangular face, a slightly upturned nose, a heavy jawline, a firm-set mouth, straight brows. A distinguishing mark is a tattoo of a snake on the chest.

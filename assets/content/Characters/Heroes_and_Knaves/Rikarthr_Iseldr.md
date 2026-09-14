@@ -623,6 +623,8 @@ sohl:
     defaultCombatGroup: null
 ---
 
+![Ríkarthr Íseldr](images/beings/characters/rkrthrsldr-portrait.webp){float: top-left}
+
 ## Appearance {#appearance}
 
 Ríkarthr stands 5'4" tall with a medium build. He has light pale skin, silver hair, and gray eyes. His features include an oblong face, a prominent nose, a heavy jawline, a firm-set mouth, thick brows, flat cheeks. A distinguishing mark is a tattoo of a dolphin on the left wrist.

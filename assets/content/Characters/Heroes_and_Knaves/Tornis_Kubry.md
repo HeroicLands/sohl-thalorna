@@ -566,6 +566,8 @@ sohl:
     defaultCombatGroup: null
 ---
 
+![Tórnis Kúbrý](images/beings/characters/torniskbry-portrait.webp){float: top-left}
+
 ## Appearance {#appearance}
 
 Tórnis is a man of thirty with a slender, roguish appearance—fair-skinned, with dark blonde hair and green eyes. His face is the kind that is easy to forget: pleasant, unremarkable, and perfectly suited to a man who makes his living not being noticed. He moves with an easy, unhurried confidence that makes him look like he belongs wherever he happens to be.

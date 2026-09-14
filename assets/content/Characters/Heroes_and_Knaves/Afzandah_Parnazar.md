@@ -585,6 +585,8 @@ sohl:
     defaultCombatGroup: null
 ---
 
+![Afzandah Parnâzar](images/beings/characters/afzndhprnzr-portrait.webp){float: top-left}
+
 ## Appearance {#appearance}
 
 Afzandah stands 5'8" tall with a medium build. She has golden olive skin, dark black hair, and green eyes. Her features include an oval face, a strong nose, a pointed chin, slightly pursed lips, arched brows, angular cheeks. A distinguishing mark is a scar on the left ankle.

@@ -252,6 +252,8 @@ sohl:
         disabled: false
 ---
 
+![Bone Scorpion](images/beings/creatures/bnscrpn-portrait.webp){float: top-left}
+
 ## Appearance {#appearance}
 
 The air grows cold where it stands motionless among the rocks and sand. Its exoskeleton, pale as old bone and nearly translucent in certain light, seems to drink in heat rather than reflect it. Eight legs move with terrible grace and precision, making no sound as the creature shifts its position. The pair of jagged pincers in front rattle softly against each other with a sound like dice in a cup. But it is the tail that dominates your attention—curved upward in a graceful arch, its segments catching light with a sickly iridescence, and at its tip, the stinger: a thing of nightmare, as long as a dagger and poised to strike with the speed of thought.

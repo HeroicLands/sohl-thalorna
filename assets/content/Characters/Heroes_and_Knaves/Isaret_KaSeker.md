@@ -596,6 +596,8 @@ sohl:
     defaultCombatGroup: null
 ---
 
+![Isaret Ka'Seker](images/beings/characters/isaretkskr-portrait.webp){float: top-left}
+
 **Home:** [[place-khensuret|Khensuret]]
 
 ## Appearance {#appearance}

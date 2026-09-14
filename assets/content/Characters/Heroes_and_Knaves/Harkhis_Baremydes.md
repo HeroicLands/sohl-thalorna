@@ -603,6 +603,8 @@ sohl:
     defaultCombatGroup: null
 ---
 
+![Harkhîs Bàremydês](images/beings/characters/hrkhsbrmyds-portrait.webp){float: top-left}
+
 ## Appearance {#appearance}
 
 Harkhîs stands 5'8" tall with a medium build. He has light ruddy skin, gray hair, and green eyes. His features include an oblong face, a aquiline nose, a pointed chin, full lips, heavy brows. A distinguishing mark is a scar on the left calf.

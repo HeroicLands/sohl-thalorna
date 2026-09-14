@@ -595,6 +595,8 @@ sohl:
     defaultCombatGroup: null
 ---
 
+![Skúfrún Stormrót](images/beings/characters/skfrnstrmrt-portrait.webp){float: top-left}
+
 ## Appearance {#appearance}
 
 Skúfrún stands 5'7" tall with a light build. She has pale fair skin, blonde hair, and green eyes. Her features include an oval face, a narrow nose, a rounded chin, rosy lips, light brows.

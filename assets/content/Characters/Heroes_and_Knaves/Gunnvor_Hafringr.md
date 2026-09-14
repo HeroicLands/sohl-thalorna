@@ -592,6 +592,8 @@ sohl:
     defaultCombatGroup: null
 ---
 
+![Gunnvör Hafringr](images/beings/characters/gnvrhfrngr-portrait.webp){float: top-left}
+
 ## Appearance {#appearance}
 
 Gunnvör stands 5'11" tall with a medium build. She has pale fair skin, blonde hair, and green eyes. Her features include an oval face, a prominent nose, an angular jawline, a small mouth, heavy brows, angular cheeks.

@@ -592,6 +592,8 @@ sohl:
     defaultCombatGroup: null
 ---
 
+![Zênais Philokálos](images/beings/characters/zensphlkls-portrait.webp){float: top-left}
+
 ## Appearance {#appearance}
 
 Zênais stands 5'7" tall with a light build. She has fair freckled skin, auburn hair, and green eyes. Her features include a narrow face, a hawkish nose, a sharp jawline, full lips, expressive brows, sculpted cheeks. A distinguishing mark is a tattoo of a bird on the forearm.

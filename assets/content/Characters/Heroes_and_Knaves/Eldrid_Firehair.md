@@ -591,6 +591,8 @@ sohl:
     defaultCombatGroup: null
 ---
 
+![Eldrid Firehair](images/beings/characters/eldridfrhr-portrait.webp){float: top-left}
+
 ## Appearance {#appearance}
 
 Stands 6'1" tall with a light build. He has weather-roughened skin, fiery red hair, and blue eyes. His features include an oval face, a straight nose, a prominent chin, a firm-set mouth, prominent brows.

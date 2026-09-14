@@ -596,6 +596,8 @@ sohl:
     defaultCombatGroup: null
 ---
 
+![Neferet Imi-Ra](images/beings/characters/neferetimr-portrait.webp){float: top-left}
+
 **Home:** [[place-wasetkara|Wasetkara]]
 
 ## Appearance {#appearance}

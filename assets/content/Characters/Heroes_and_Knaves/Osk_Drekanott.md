@@ -589,6 +589,8 @@ sohl:
     defaultCombatGroup: null
 ---
 
+![Ósk Drekanótt](images/beings/characters/oskdrekant-portrait.webp){float: top-left}
+
 ## Appearance {#appearance}
 
 Ósk stands 5'7" tall with a light build. She has light fair skin, blonde hair, and brown eyes. Her features include an oval face, a small nose, a rounded chin, a wide mouth, light brows, rosy cheeks. A distinguishing mark is a scar running down the right leg.

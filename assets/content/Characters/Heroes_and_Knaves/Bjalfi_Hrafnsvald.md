@@ -584,6 +584,8 @@ sohl:
     defaultCombatGroup: null
 ---
 
+![Bjalfi Hrafnsvald](images/beings/characters/bjlfhrfnsvld-portrait.webp){float: top-left}
+
 ## Appearance {#appearance}
 
 Thjótharr stands 6'0" tall with a medium build. He has light fair skin, brown hair, and gray eyes. His features include a rectangular face, a slightly upturned nose, a square jawline, a firm-set mouth, thick brows, hollow cheeks.

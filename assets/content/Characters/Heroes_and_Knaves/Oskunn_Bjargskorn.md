@@ -585,6 +585,8 @@ sohl:
     defaultCombatGroup: null
 ---
 
+![Óskunn Bjargskorn](images/beings/characters/osknbjrgskrn-portrait.webp){float: top-left}
+
 ## Appearance {#appearance}
 
 Óskunn stands 5'6" tall with a light build. She has pale fair skin, auburn hair, and green eyes. Her features include an oval face, a slightly upturned nose, a prominent chin, narrow lips, low-set brows.

@@ -600,6 +600,8 @@ sohl:
     defaultCombatGroup: null
 ---
 
+![Gârlen Dhárel](images/beings/characters/garlendhrl-portrait.webp){float: top-left}
+
 ## Appearance {#appearance}
 
 Gârlen stands 5'11" tall with a medium build. He has light tanned skin, black hair, and brown eyes. His features include a long face, a button nose, a prominent chin, rosy lips, expressive brows. A distinguishing mark is a scar running down the right leg.

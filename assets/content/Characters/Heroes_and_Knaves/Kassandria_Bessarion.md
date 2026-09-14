@@ -593,6 +593,8 @@ sohl:
     defaultCombatGroup: null
 ---
 
+![Kassándria Bessarîon](images/beings/characters/kasndrbsrn-portrait.webp){float: top-left}
+
 ## Appearance {#appearance}
 
 Kassándria stands 5'5" tall with a light build. She has warm olive skin, black hair, and brown eyes. Her features include a diamond-shaped face, a aquiline nose, a pronounced chin, strong brows, sculpted cheeks.

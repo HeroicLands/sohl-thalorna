@@ -588,6 +588,8 @@ sohl:
     defaultCombatGroup: null
 ---
 
+![Thêkla Rhomaios](images/beings/characters/theklarhms-portrait.webp){float: top-left}
+
 ## Appearance {#appearance}
 
 Thêkla stands 5'10" tall with a medium build. She has sun-tanned skin, brown hair, and green eyes. Her features include an oval face, a strong nose, a sharp jawline, well-defined lips, arched brows, hollow cheeks.

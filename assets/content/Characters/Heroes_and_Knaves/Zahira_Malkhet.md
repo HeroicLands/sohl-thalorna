@@ -581,6 +581,8 @@ sohl:
     defaultCombatGroup: null
 ---
 
+![Zahira Malkhet](images/beings/characters/zahirmlkht-portrait.webp){float: top-left}
+
 ## Appearance {#appearance}
 
 Zahira stands 5'7" tall with a heavy build. She has dark tanned skin, black hair, and brown eyes. Her features include a high-cheekboned face, an aquiline nose, a tapered chin, arched brows.

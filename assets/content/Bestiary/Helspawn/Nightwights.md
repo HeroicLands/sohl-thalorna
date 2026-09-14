@@ -521,6 +521,8 @@ sohl:
         disabled: false
 ---
 
+![Nightwights](images/beings/creatures/nghtwght-portrait.webp){float: top-left}
+
 ## Appearance {#appearance}
 
 As night falls, the temperature drops and the darkness becomes attentive. A figure emerges from shadow—beautiful and terrible in equal measure, perfect in form and proportion like a god’s statue brought to life, yet utterly wrong. It is a human shape, but humanity has been refined away, leaving only an ideal that no living person could match. Its skin is pale but luminous, and its eyes burn with dark light. Where it stands, shadows deepen and cold settles. Looking upon it for too long fills you with an aching despair, as though witnessing something you were never meant to see.

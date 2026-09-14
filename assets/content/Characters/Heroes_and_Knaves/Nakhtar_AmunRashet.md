@@ -592,6 +592,8 @@ sohl:
     defaultCombatGroup: null
 ---
 
+![Nakhtar Amun'Râshet](images/beings/characters/nkhtrmnrsht-portrait.webp){float: top-left}
+
 **Home:** [[place-wasetkara|Wasetkara]]
 
 ## Appearance {#appearance}

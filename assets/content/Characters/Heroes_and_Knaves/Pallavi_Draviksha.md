@@ -597,6 +597,8 @@ sohl:
     defaultCombatGroup: null
 ---
 
+![Pallàvi Drâviksha](images/beings/characters/palvdrvksh-portrait.webp){float: top-left}
+
 ## Appearance {#appearance}
 
 Pallàvi stands 5'9" tall with a light build. She has tawny brown skin, dark black hair, and hazel eyes. Her features include a heart-shaped face, a broad nose, a soft jawline, tawny brows.

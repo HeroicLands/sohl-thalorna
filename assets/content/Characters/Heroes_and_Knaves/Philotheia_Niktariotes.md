@@ -583,6 +583,8 @@ sohl:
     defaultCombatGroup: null
 ---
 
+![Philothêia Niktariôtês](images/beings/characters/phlthnktrts-portrait.webp){float: top-left}
+
 ## Appearance {#appearance}
 
 Philothêia stands 5'9" tall with a light build. She has sun-tanned skin, black hair, and brown eyes. Her features include a narrow face, a aquiline nose, a narrow chin, well-defined lips, thick dark brows, hollow cheeks. A distinguishing mark is a tattoo of a tree on the back.

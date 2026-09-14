@@ -594,6 +594,8 @@ sohl:
     defaultCombatGroup: null
 ---
 
+![Suvaratika Ratniseṇa](images/beings/characters/suvrtkrtns-portrait.webp){float: top-left}
+
 ## Appearance {#appearance}
 
 Suvaratika stands 5'6" tall with a light build. She has warm bronze skin, deep black hair, and black eyes. Her features include a full face, a prominent nose, a narrow chin, expressive brows, rounded cheeks. A distinguishing mark is a scar running down the right leg.

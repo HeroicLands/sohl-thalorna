@@ -581,6 +581,8 @@ sohl:
     defaultCombatGroup: null
 ---
 
+![Thorsteinn Járnskel](images/beings/characters/thrstnjrnskl-portrait.webp){float: top-left}
+
 ## Appearance {#appearance}
 
 Thorsteinn stands 6'1" tall with a heavy build. He has tanned weathered skin, black hair, and gray eyes. His features include an oblong face, a straight nose, a heavy jawline, a small mouth, low-set brows.

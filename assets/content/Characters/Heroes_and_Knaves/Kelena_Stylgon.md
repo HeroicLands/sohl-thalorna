@@ -576,6 +576,8 @@ sohl:
     defaultCombatGroup: null
 ---
 
+![Kêlena Stýlgon](images/beings/characters/kelnstylgn-portrait.webp){float: top-left}
+
 ## Appearance {#appearance}
 
 Kêlena stands 5'7" tall with a heavy build. She has golden-toned skin, Flowing black hair, and alert eyes. Her features include an angular face, a prominent nose, a pronounced chin, heavy brows, sculpted cheeks. A distinguishing mark is a tattoo of intertwining dark green vines on the right upper arm and shoulder.

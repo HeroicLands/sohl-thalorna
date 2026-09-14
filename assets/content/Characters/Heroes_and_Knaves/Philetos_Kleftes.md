@@ -586,6 +586,8 @@ sohl:
     defaultCombatGroup: null
 ---
 
+![Philetos Kleftes](images/beings/characters/phltsklfts-portrait.webp){float: top-left}
+
 ## Appearance {#appearance}
 
 Philetos stands 5'11\" tall with a heavy build. He has olive weathered skin, dark brown hair, and brown eyes. His features include a long face, a prominent nose, a pronounced chin, a wide mouth, arched brows, high cheeks.

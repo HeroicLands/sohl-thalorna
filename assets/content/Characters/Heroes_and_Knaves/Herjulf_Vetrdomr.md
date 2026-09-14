@@ -592,6 +592,8 @@ sohl:
     defaultCombatGroup: null
 ---
 
+![Herjúlf Vetrdómr](images/beings/characters/hrjlfvtrdmr-portrait.webp){float: top-left}
+
 ## Appearance {#appearance}
 
 Herjúlf stands 6'5" tall with a heavy build. He has tanned weathered skin, dark brown hair, and brown eyes. His features include an angular face, a slightly upturned nose, a broad chin, a small mouth, dark brows. A distinguishing mark is a scar along the jawline.

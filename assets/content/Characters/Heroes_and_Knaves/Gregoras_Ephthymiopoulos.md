@@ -598,6 +598,8 @@ sohl:
     defaultCombatGroup: null
 ---
 
+![Grégoras Ephthymiópoulos](images/beings/characters/grgrsphthympls-portrait.webp){float: top-left}
+
 ## Appearance {#appearance}
 
 Grégoras stands 6'0" tall with a heavy build. He has weathered tanned skin, dark brown hair, and hazel eyes. His features include a diamond-shaped face, a hawkish nose, a pronounced chin, well-defined lips, dark brows.

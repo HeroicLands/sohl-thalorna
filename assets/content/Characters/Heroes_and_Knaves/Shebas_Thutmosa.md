@@ -598,6 +598,8 @@ sohl:
     defaultCombatGroup: null
 ---
 
+![Shebas Thutmosa](images/beings/characters/shebsthtms-portrait.webp){float: top-left}
+
 **Home:** [[place-ankhsetun|Ankh-Setûn]]
 
 ## Appearance {#appearance}

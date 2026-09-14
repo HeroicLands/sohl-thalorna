@@ -605,6 +605,8 @@ sohl:
     defaultCombatGroup: null
 ---
 
+![Thorlákr Vindrkvé](images/beings/characters/thrlkrvndrkv-portrait.webp){float: top-left}
+
 ## Appearance {#appearance}
 
 Thorlákr stands 6'1" tall with a medium build. He has tanned ruddy skin, gray hair, and blue eyes. His features include an angular face, a slightly upturned nose, an angular jawline, narrow lips, thick brows, hollow cheeks. A distinguishing mark is a tattoo of a tiger on the forearm.

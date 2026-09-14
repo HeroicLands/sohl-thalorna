@@ -588,6 +588,8 @@ sohl:
     defaultCombatGroup: null
 ---
 
+![Kyriákos Patrikîos](images/beings/characters/kyrksptrks-portrait.webp){float: top-left}
+
 ## Appearance {#appearance}
 
 Kyriákos stands 6'0" tall with a heavy build. He has tanned weathered skin, gray hair, and brown eyes. His features include a diamond-shaped face, a hawkish nose, a strong jawline, expressive brows. A distinguishing mark is a scar running down the back.

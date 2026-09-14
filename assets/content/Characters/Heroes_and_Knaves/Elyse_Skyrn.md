@@ -582,6 +582,8 @@ sohl:
     defaultCombatGroup: null
 ---
 
+![Elýsè Skýrn](images/beings/characters/elyseskyrn-portrait.webp){float: top-left}
+
 ## Appearance {#appearance}
 
 Elýsè is a slender young woman of twenty-seven with fair, lightly freckled skin, dark blonde hair that falls softly around her face, and striking green eyes. Her graceful demeanor and radiant charm add to her natural allure, making her both captivating and approachable. She carries herself with the quiet competence of someone who has seen the inside of too many wounds to be squeamish about anything.

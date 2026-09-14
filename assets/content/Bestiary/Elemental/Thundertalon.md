@@ -320,6 +320,8 @@ sohl:
         disabled: false
 ---
 
+![Thundertalon](images/beings/creatures/thndrtln-portrait.webp){float: top-left}
+
 ## Appearance {#appearance}
 
 The sky darkens around it. What descends is magnificent and terrifying—an eagle the size of a great horse, wreathed in storm clouds and alive with crackling electricity. Its feathers are not feathers but formations of electrical discharge, each one glowing with electric blue. Its talons are points of pure lightning, and its eyes burn with intelligence and predatory purpose. When it moves, the air itself screams, and thunder follows its passage. The static electricity in the air becomes palpable, making hair stand on end and forcing breath to come in shallow gasps.

@@ -617,6 +617,8 @@ sohl:
     defaultCombatGroup: null
 ---
 
+![Rosharan Barmandan](images/beings/characters/rshrnbrmndn-portrait.webp){float: top-left}
+
 ## Appearance {#appearance}
 
 Rosharan stands 5'11" tall with a medium build. She has light olive skin, dark black hair, and dark brown eyes. Her features include a long face, a prominent nose, an angular jawline, full lips, dark brows. A distinguishing mark is a tattoo of a bear on the left arm.

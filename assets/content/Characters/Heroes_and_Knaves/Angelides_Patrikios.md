@@ -593,6 +593,8 @@ sohl:
     defaultCombatGroup: null
 ---
 
+![Ángelides Patrikîos](images/beings/characters/angldsptrks-portrait.webp){float: top-left}
+
 ## Appearance {#appearance}
 
 Ángelides stands 5'9" tall with a medium build. He has light weathered skin, brown hair, and green eyes. His features include a long face, a strong nose, a pronounced chin, an expressive mouth, expressive brows, prominent cheeks.

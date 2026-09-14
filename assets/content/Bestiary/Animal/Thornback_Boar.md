@@ -345,6 +345,8 @@ sohl:
         disabled: false
 ---
 
+![Thornback Boar](images/beings/creatures/thrnbckb-portrait.webp){float: top-left}
+
 ## Appearance {#appearance}
 
 The sound comes first: a furious snort that seems to explode from the undergrowth, followed by the savage crashing of something massive pushing through brush. The creature that emerges is pure, concentrated malevolence — a stocky form covered in coarse bristles, with jagged, bony spines protruding from its back like a warrior’s armor made of bone and fury. The tusks curve upward and forward, aged and stained dark, clearly used repeatedly to gore enemies into submission. The eyes are small, deep-set, and burning with an intensity that seems personal, as if this creature has decided you are a direct affront to its existence.

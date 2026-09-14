@@ -593,6 +593,8 @@ sohl:
     defaultCombatGroup: null
 ---
 
+![Philína Markêsianos](images/beings/characters/phlnmrksns-portrait.webp){float: top-left}
+
 ## Appearance {#appearance}
 
 Philína stands 5'8" tall with a light build. She has golden-toned skin, dark brown hair, and green eyes. Her features include an oval face, a strong nose, a pointed chin, slightly pursed lips, dark brows.

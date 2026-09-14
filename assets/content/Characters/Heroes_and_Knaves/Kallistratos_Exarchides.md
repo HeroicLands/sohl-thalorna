@@ -604,6 +604,8 @@ sohl:
     defaultCombatGroup: null
 ---
 
+![Kallistratos Exarchides](images/beings/characters/klstrtsxrchds-portrait.webp){float: top-left}
+
 ## Appearance {#appearance}
 
 Kallistratos stands 6'2" tall with a medium build — long-limbed and lean, with the coiled energy of a man whose body has been shaped by the physical disciplines the Ordo Arcanis imposes on its combat-track practitioners. He has olive skin, dark brown hair worn loose to the shoulders, and brown eyes that catch the light with an unsettling warmth in certain angles — a common mark among Fire mages who have spent years channeling Pyréthos energy, though the Ordo's physicians insist it is merely a trick of pigmentation. His features are angular: an oblong face, a strong nose, a pronounced chin, a wide mouth, thick dark brows, and hollow cheeks that give him a gaunt intensity even when he is well-fed. The burn scarring across both palms and the backs of his hands is the kind that comes from years of direct arcane practice — channeling fire without sufficient warding, either through ambition or impatience. A thin scar along his left jaw is from something more mundane: a Quaesitorium field operation that went sideways in a border village two years ago.

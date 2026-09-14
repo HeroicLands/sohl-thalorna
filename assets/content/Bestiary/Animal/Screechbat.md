@@ -321,6 +321,8 @@ sohl:
         disabled: false
 ---
 
+![Screechbat](images/beings/creatures/scrchbt-portrait.webp){float: top-left}
+
 ## Appearance {#appearance}
 
 The sound comes first — a shriek that splits the darkness like a blade, piercing through ears and bone and mind with a force that seems physical. As your senses recoil from the auditory assault, shapes emerge in the darkness above — dark, swift silhouettes silhouetted against the lesser black of the night sky. The wings are leathery and wide, catching what little light exists and reflecting it from their membranes in sickly highlights. Below the wings dangle creatures that are more skeleton than flesh, lean and efficient, with fangs that catch the light like split obsidian. As they circle, the screeching continues — an unbearable chorus that seems designed to break resolve and shatter thought itself.

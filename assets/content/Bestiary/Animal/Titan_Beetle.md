@@ -270,6 +270,8 @@ sohl:
         disabled: false
 ---
 
+![Titan Beetle](images/beings/creatures/ttnbtl-portrait.webp){float: top-left}
+
 ## Appearance {#appearance}
 
 The ground itself seems to tremble with deliberate, rhythmic footsteps. A dark, gleaming shape emerges from vegetation, and you realize you're looking at something between insect and small fortress. The chitinous shell is polished like dark metal, segmented and proportioned with alien grace. The six legs are thick and powerful, each step producing a crunching sound that carries an implicit promise of weight and strength. The head is broad and flat, dominated by massive mandibles that open and close in a slow, testing motion that suggests absolute confidence in their power to crush and cleave.

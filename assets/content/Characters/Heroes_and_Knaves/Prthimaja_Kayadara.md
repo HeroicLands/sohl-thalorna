@@ -598,6 +598,8 @@ sohl:
     defaultCombatGroup: null
 ---
 
+![Prthîmâja Kâyadara](images/beings/characters/prthmjkydr-portrait.webp){float: top-left}
+
 ## Appearance {#appearance}
 
 Prthîmâja stands 5'6" tall with a medium build. He has light golden skin, black hair, and brown eyes. His features include a round face, a broad nose, a tapered chin, generous lips, thick dark brows, high cheeks.

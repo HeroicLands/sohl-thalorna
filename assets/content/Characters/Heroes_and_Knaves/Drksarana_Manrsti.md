@@ -597,6 +597,8 @@ sohl:
     defaultCombatGroup: null
 ---
 
+![Drkṣàrana Manṛṣṭi](images/beings/characters/drkaranamn-portrait.webp){float: top-left}
+
 ## Appearance {#appearance}
 
 Drkṣàrana stands 5'7" tall with a light build. He has warm honey skin, dark brown hair, and deep brown eyes. His features include a round face, a narrow nose, a soft jawline, a wide mouth, dark brows, soft cheeks. A distinguishing mark is a tattoo of a waterfall on the shoulder.

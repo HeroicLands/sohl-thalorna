@@ -591,6 +591,8 @@ sohl:
     defaultCombatGroup: null
 ---
 
+![Khârânah Khafûr](images/beings/characters/kharnhkhfr-portrait.webp){float: top-left}
+
 ## Appearance {#appearance}
 
 Khârânah stands 5'10" tall with a medium build. She has light olive skin, dark black hair, and green eyes. Her features include a narrow face, a strong nose, a strong jawline, full lips, strong brows, high cheeks.

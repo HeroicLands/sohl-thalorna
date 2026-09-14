@@ -598,6 +598,8 @@ sohl:
     defaultCombatGroup: null
 ---
 
+![Júthâra Jâmîthôn](images/beings/characters/juthrjmthn-portrait.webp){float: top-left}
+
 ## Appearance {#appearance}
 
 Júthâra stands 5'11" tall with a medium build. She has warm amber skin, black hair, and brown eyes. Her features include a narrow face, a noble nose, a smooth jawline, elegantly curved brows. A distinguishing mark is a scar running across the stomach.

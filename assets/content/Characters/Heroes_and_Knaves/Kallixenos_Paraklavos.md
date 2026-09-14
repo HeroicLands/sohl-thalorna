@@ -583,6 +583,8 @@ sohl:
     defaultCombatGroup: null
 ---
 
+![Kallíxenos Paraklávos](images/beings/characters/klxnsprklvs-portrait.webp){float: top-left}
+
 ## Appearance {#appearance}
 
 Kallíxenos stands 5'7" tall with a medium build. He has light weathered skin, gray hair, and brown eyes. His features include a diamond-shaped face, a hawkish nose, a pointed chin, well-defined lips, strong brows, prominent cheeks.

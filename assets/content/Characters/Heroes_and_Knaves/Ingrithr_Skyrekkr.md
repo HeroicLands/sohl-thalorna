@@ -588,6 +588,8 @@ sohl:
     defaultCombatGroup: null
 ---
 
+![Íngrithr Skýrekkr](images/beings/characters/ingrthrskyrkr-portrait.webp){float: top-left}
+
 ## Appearance {#appearance}
 
 Íngrithr stands 5'8" tall with a light build. She has pale fair skin, black hair, and hazel eyes. Her features include a broad face, a snub nose, a narrow chin, rosy lips, light brows, soft cheeks.

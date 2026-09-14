@@ -597,6 +597,8 @@ sohl:
     defaultCombatGroup: null
 ---
 
+![Isidôra Melissenós](images/beings/characters/isidrmlsns-portrait.webp){float: top-left}
+
 ## Appearance {#appearance}
 
 Isidôra stands 5'7" tall with a light build. She has olive skin, dark brown hair, and brown eyes. Her features include a narrow face, a aquiline nose, a pointed chin, well-defined lips, dark brows.

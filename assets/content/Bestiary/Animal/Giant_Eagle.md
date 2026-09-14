@@ -334,6 +334,8 @@ sohl:
         disabled: false
 ---
 
+![Giant Eagle](images/beings/creatures/gntegl-portrait.webp){float: top-left}
+
 ## Appearance {#appearance}
 
 The shadow crosses over you first, immense and black—the wing-shadow of something so large you instinctively flinch. Then comes the sound: a cry that echoes off the mountainsides, a voice of conquest and absolute dominion. The eagle itself appears through the thermals, banking hard enough to tear sound from the air—a creature of such enormous power that you struggle to reconcile it with anything you've seen. Twenty feet of wingspan catch the light like gold and bronze, each feather visible from below. As it circles, you see the moment its eye fixes on you: bright and terrible and infinitely knowledgeable. The talons beneath it are each the length of a sword blade. The air itself seems to hold its breath.

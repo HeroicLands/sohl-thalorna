@@ -582,6 +582,8 @@ sohl:
     defaultCombatGroup: null
 ---
 
+![Lord Aemilon Visbari](images/beings/characters/lrdmlnvsbr-portrait.webp){float: top-left}
+
 ## Appearance {#appearance}
 
 Lord Aemilon Visbari presents the image of a distinguished Vylarian elder statesman gone slightly to seed. He is tall and heavy-framed, with a full gray beard and mustache kept neatly trimmed in the old imperial fashion, and pale blue eyes that miss nothing despite their grandfatherly warmth. He walks with a pronounced limp — an old injury he never discusses — and leans on a blackthorn walking stick that has seen better days. He favors plain cloth robes and a fur-trimmed cloak that speak of comfortable wealth without ostentation, and carries a Vylarian-steel broadsword at his hip with the ease of a man who once knew how to use it well. His voice is unremarkable, but his words are chosen with extraordinary precision. He has the habit of pausing before answering any question, as though weighing exactly how much truth to dispense.

@@ -585,6 +585,8 @@ sohl:
     defaultCombatGroup: null
 ---
 
+![Érython Ûselîndâs](images/beings/characters/erythnslnds-portrait.webp){float: top-left}
+
 ## Appearance {#appearance}
 
 Érython stands 6'1" tall with a medium build. He has light fair skin, brown hair, and green eyes. His features include a heart-shaped face, a narrow nose, a narrow chin, expressive brows, soft cheeks. A distinguishing mark is a tattoo of a serpent on the back.

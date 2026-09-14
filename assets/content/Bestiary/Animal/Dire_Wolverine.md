@@ -334,6 +334,8 @@ sohl:
         disabled: false
 ---
 
+![Dire Wolverine](images/beings/creatures/drwlvrn-portrait.webp){float: top-left}
+
 ## Appearance {#appearance}
 
 The reek precedes the beast—a musky, animal smell mixed with something wild and utterly fearless. What emerges is compact, squat, low-slung yet terrifyingly massive. Three feet tall at the shoulder, the Dire Wolverine is built entirely of muscle and aggression, a wedge of coiled fury wrapped in dark fur. The claws, curved and wickedly sharp, extend inches beyond the paws. The teeth, when visible in a snarl, promise a bite capable of crushing bone. The eyes—small, dark, utterly devoid of fear—fix directly on you with singular intent. The sound it makes—a growl that rumbles like distant thunder—vibrates through your chest and carries the promise of something that will fight until death and drag you with it.

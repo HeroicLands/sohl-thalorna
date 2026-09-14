@@ -590,6 +590,8 @@ sohl:
     defaultCombatGroup: null
 ---
 
+![Cárenna Gráveth](images/beings/characters/carengrvth-portrait.webp){float: top-left}
+
 ## Appearance {#appearance}
 
 Cárenna stands 6'0" tall with a light build. She has warm olive skin, black hair, and green eyes. Her features include an oblong face, a prominent nose, a strong jawline, well-defined lips, expressive brows.

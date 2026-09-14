@@ -588,6 +588,8 @@ sohl:
     defaultCombatGroup: null
 ---
 
+![Drákonis Dalássênos](images/beings/characters/drknsdlsns-portrait.webp){float: top-left}
+
 ## Appearance {#appearance}
 
 Drákonis stands 6'0" tall with a heavy build. He has tanned ruddy skin, graying brown hair, and green eyes. His features include a long face, a hawkish nose, a sharp jawline, well-defined lips, graying brows.

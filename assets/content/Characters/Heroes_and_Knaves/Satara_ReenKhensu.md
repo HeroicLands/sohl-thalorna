@@ -604,6 +604,8 @@ sohl:
     defaultCombatGroup: null
 ---
 
+![Satara Re'en'Khensu](images/beings/characters/satrrnkhns-portrait.webp){float: top-left}
+
 **Home:** [[place-khensuret|Khensuret]]
 
 ## Appearance {#appearance}

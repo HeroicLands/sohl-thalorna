@@ -602,6 +602,8 @@ sohl:
     defaultCombatGroup: null
 ---
 
+![Thjótharr Hrafnsvald](images/beings/characters/thjthrhrfnsvld-portrait.webp){float: top-left}
+
 ## Appearance {#appearance}
 
 Thjótharr stands 5'9" tall with a medium build. He has light ruddy skin, gray hair, and blue eyes. His features include a rectangular face, a slightly upturned nose, a broad chin, a slightly downturned mouth, heavy brows, high cheeks. A distinguishing mark is a scar on the abdomen.

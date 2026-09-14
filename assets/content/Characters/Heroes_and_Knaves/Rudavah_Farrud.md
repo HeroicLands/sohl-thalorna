@@ -609,6 +609,8 @@ sohl:
     defaultCombatGroup: null
 ---
 
+![Rudâvah Farrud](images/beings/characters/rudavahfrd-portrait.webp){float: top-left}
+
 ## Appearance {#appearance}
 
 Rudâvah stands 5'9" tall with a medium build. She has olive-tanned skin, jet black hair, and dark amber eyes. Her features include an oval face, a prominent nose, a narrow chin, well-defined lips, heavy brows, high cheeks. A distinguishing mark is a burn mark on the left hand.

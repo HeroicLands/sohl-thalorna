@@ -253,6 +253,8 @@ sohl:
         disabled: false
 ---
 
+![Glowvine](images/beings/creatures/glowvine-portrait.webp){float: top-left}
+
 ## Appearance {#appearance}
 
 Light blooms in the darkness—soft, beautiful, almost inviting. A pulse of bioluminescence traces along what you thought was a vine hanging from the canopy above. Except there are vines everywhere, dozens of them, and they’re all moving toward you with deliberate slowness. Gem-like nodes of light pulse along their length, each one mesmerizing to watch. The light is hypnotic, entrancing, and you don’t quite notice when the nearest vine is close enough to touch until it does—and then it pulls tight.

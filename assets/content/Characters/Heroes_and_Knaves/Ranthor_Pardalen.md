@@ -592,6 +592,8 @@ sohl:
     defaultCombatGroup: null
 ---
 
+![Ránthor Párdalen](images/beings/characters/rnthrprdln-portrait.webp){float: top-left}
+
 ## Appearance {#appearance}
 
 Ránthor stands 5'9" tall with a medium build. He has tanned weathered skin, dark brown hair, and brown eyes. His features include a long face, a button nose, a prominent chin, rosy lips, dark brows, rounded cheeks. A distinguishing mark is a tattoo of a crown on the chest.

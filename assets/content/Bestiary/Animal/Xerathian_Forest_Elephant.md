@@ -393,6 +393,8 @@ sohl:
         disabled: false
 ---
 
+![Xerathian Forest Elephant](images/beings/creatures/xrthnfrs-portrait.webp){float: top-left}
+
 ## Appearance {#appearance}
 
 The forest seems to move as a single unit before separating into distinct creature: massive, dark-skinned, and emerging with surprising grace from dense vegetation. The rounded ears fan humid air, and the straighter tusks point downward, carving through foliage with practiced ease. The trunk curls and unfolds with obvious intelligence, sampling scents and reaching for vegetation. The eyes are remarkable in their awareness and wariness.

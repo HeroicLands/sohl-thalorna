@@ -598,6 +598,8 @@ sohl:
     defaultCombatGroup: null
 ---
 
+![Gávrilos Niktariôtês](images/beings/characters/gvrlsnktrts-portrait.webp){float: top-left}
+
 ## Appearance {#appearance}
 
 Gávrilos stands 6'1" tall with a medium build. He has light tanned skin, graying black hair, and green eyes. His features include a long face, a hawkish nose, a pronounced chin, arched brows, hollow cheeks.

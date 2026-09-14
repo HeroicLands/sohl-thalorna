@@ -601,6 +601,8 @@ sohl:
     defaultCombatGroup: null
 ---
 
+![Leónantos Stratégopoulos](images/beings/characters/lnntstrtgpls-portrait.webp){float: top-left}
+
 ## Appearance {#appearance}
 
 Leónantos stands 6'3" tall with a heavy build. He has light tanned skin, black hair, and brown eyes. His features include an oblong face, a prominent nose, a pointed chin, a wide mouth, heavy brows. A distinguishing mark is a tattoo of a skill and crossbones on the chest.

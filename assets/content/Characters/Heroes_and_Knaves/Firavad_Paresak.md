@@ -599,6 +599,8 @@ sohl:
     defaultCombatGroup: null
 ---
 
+![Firâvâd Pâresak](images/beings/characters/firavdprsk-portrait.webp){float: top-left}
+
 ## Appearance {#appearance}
 
 Firâvâd stands 5'6" tall with a medium build. He has tanned weathered skin, white hair, and dark brown eyes. His features include a diamond-shaped face, a hawkish nose, a strong jawline, full lips, dark brows, angular cheeks.

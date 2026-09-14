@@ -595,6 +595,8 @@ sohl:
     defaultCombatGroup: null
 ---
 
+![Ángelides Kantakouzenós](images/beings/characters/angldskntkzns-portrait.webp){float: top-left}
+
 ## Appearance {#appearance}
 
 Ángelides stands 6'3" tall with a heavy build. He has tanned weathered skin, black hair, and green eyes. His features include a long face, a hawkish nose, a pronounced chin, well-defined lips, prominent brows. A distinguishing mark is a scar on the neck.

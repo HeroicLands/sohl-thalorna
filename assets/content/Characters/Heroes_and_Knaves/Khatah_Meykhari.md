@@ -583,6 +583,8 @@ sohl:
     defaultCombatGroup: null
 ---
 
+![Khatah Mey'khari](images/beings/characters/khathmykhr-portrait.webp){float: top-left}
+
 **Home:** [[place-ankhsetun|Ankh-Setûn]]
 
 ## Appearance {#appearance}

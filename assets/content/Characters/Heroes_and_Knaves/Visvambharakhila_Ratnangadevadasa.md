@@ -585,6 +585,8 @@ sohl:
     defaultCombatGroup: null
 ---
 
+![Viśvambhārākhila Ratnāṅgadēvadāsa](images/beings/characters/vsvmbhrkhlrtngdvds-portrait.webp){float: top-left}
+
 ## Appearance {#appearance}
 
 Viśvambhārākhila stands 5'10" tall with a medium build. He has deep brown skin, dark brown hair, and warm brown eyes. His features include a full face, a narrow nose, a small chin, full lips, deep brows.

@@ -63,6 +63,8 @@ sohl:
         disabled: false
 ---
 
+![Terrakith Sentinel](images/beings/creatures/trrkthsn-portrait.webp){float: top-left}
+
 ## Appearance {#appearance}
 
 The ground seems to shudder as the figure rises, an 8-foot-tall form sculpted from gray-brown clay with roughly hewn features that suggest both crude construction and undeniable power. The clay surface is perpetually moist, glistening with an earthen sheen, and intricate archaic runes are carved across every surface. When it moves, low grinding sounds emerge — the noise of shifting earth given form. The eyes are empty sockets yet somehow radiate unyielding determination and primal intelligence through their very emptiness. You understand you are facing something created through mystical craftsmanship and powerful enchantment, brought to unnatural life with relentless purpose.

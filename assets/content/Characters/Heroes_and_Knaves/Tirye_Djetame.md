@@ -583,6 +583,8 @@ sohl:
     defaultCombatGroup: null
 ---
 
+![Tirye Djet'amê](images/beings/characters/tiryedjetm-portrait.webp){float: top-left}
+
 **Home:** [[place-meruhotep|Meru-Hotep]]
 
 ## Appearance {#appearance}

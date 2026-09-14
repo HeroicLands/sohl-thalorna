@@ -363,6 +363,8 @@ sohl:
         disabled: false
 ---
 
+![Emberhound](images/beings/creatures/embrhnd-portrait.webp){float: top-left}
+
 ## Appearance {#appearance}
 
 The stone beneath your feet grows uncomfortably warm. A shape emerges from the heat-haze of the horizon—four-legged, wolf-like, but composed of fire and ember rather than flesh. Its eyes are steady yellow flames that fix on you with predatory intelligence. Where its paws strike the ground, the earth blackens and cracks. The heat it radiates is palpable and growing stronger, and your skin begins to feel the burn of a forge drawing near.

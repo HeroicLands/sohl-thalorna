@@ -597,6 +597,8 @@ sohl:
     defaultCombatGroup: null
 ---
 
+![Kalída Kourkásios](images/beings/characters/kalidkrkss-portrait.webp){float: top-left}
+
 ## Appearance {#appearance}
 
 Kalída stands 5'7" tall with a light build. She has light tanned skin, black hair, and green eyes. Her features include a narrow face, a aquiline nose, a pronounced chin, slightly pursed lips, strong brows.

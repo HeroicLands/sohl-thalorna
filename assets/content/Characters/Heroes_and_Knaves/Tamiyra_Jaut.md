@@ -602,6 +602,8 @@ sohl:
     defaultCombatGroup: null
 ---
 
+![Ta'miyra Jâut](images/beings/characters/tamiyrajat-portrait.webp){float: top-left}
+
 **Home:** [[place-perankhet|Per-Ankhet]]
 
 ## Appearance {#appearance}

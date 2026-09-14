@@ -588,6 +588,8 @@ sohl:
     defaultCombatGroup: null
 ---
 
+![Björg Drekanótt](images/beings/characters/bjorgdrknt-portrait.webp){float: top-left}
+
 ## Appearance {#appearance}
 
 Björg stands 5'3" tall with a light build. She has fair pale skin, dark brown hair, and green eyes. Her features include an oblong face, a prominent nose, a broad chin, a slightly downturned mouth, dark brows, hollow cheeks. A distinguishing mark is a tattoo of a crescent moon on the neck.

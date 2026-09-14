@@ -337,6 +337,8 @@ sohl:
         disabled: false
 ---
 
+![Cave Goblin](images/beings/creatures/cvgbln-portrait.webp){float: top-left}
+
 ## Appearance {#appearance}
 
 Small shapes move through the darkness, barely visible in the torchlight. Cave goblins are thin, hunched creatures with elongated features and bulging eyes that see far too well in the dark. Their gray or greenish skin clings to sharp-angled frames, and when they move, it is with liquid silence that seems unnatural in its completeness. When they watch you, there is no warmth in their regard—only hunger, cunning, and the assessment of whether you represent opportunity or threat.

@@ -627,6 +627,8 @@ sohl:
         disabled: false
 ---
 
+![Mountain Troll](images/beings/creatures/mntntrll-portrait.webp){float: top-left}
+
 ## Appearance {#appearance}
 
 The stone beneath your feet trembles before you see it—a tremor that runs through your bones and teeth. Then shadow falls across the mountainside as a mass of gray, weathered stone and twisted flesh rises against the gray sky. The creature towers fifteen feet or more, its hide the color of storm-worn granite, scarred and cracked like ancient bedrock. You hear the grinding of stone on stone as it moves, a terrible sound that echoes off cliff faces, and beneath that sound, the wet, heavy breathing of something massive and old. The air grows cold and smells of cave-depths and mineral dust.

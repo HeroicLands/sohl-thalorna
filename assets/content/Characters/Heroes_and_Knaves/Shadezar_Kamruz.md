@@ -595,6 +595,8 @@ sohl:
     defaultCombatGroup: null
 ---
 
+![Shâdezar Kamruz](images/beings/characters/shadzrkmrz-portrait.webp){float: top-left}
+
 ## Appearance {#appearance}
 
 Shâdezar stands 6'5" tall with a heavy build. He has tanned ruddy skin, dark brown hair, and brown eyes. His features include a diamond-shaped face, a hawkish nose, a narrow chin, well-defined lips, dark brows, angular cheeks.

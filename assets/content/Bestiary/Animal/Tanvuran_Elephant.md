@@ -393,6 +393,8 @@ sohl:
         disabled: false
 ---
 
+![Tānvüran Elephant](images/beings/creatures/tnvrnelp-portrait.webp){float: top-left}
+
 ## Appearance {#appearance}
 
 An impossible vastness approaches, and you understand that you're looking at sheer physical power given form. The elephant moves with surprising grace for its size, its massive gray form calmed and purposeful. The domed head gives it a regal appearance, and the trunk curves and flexes with obvious intelligence and control. The tusks, if present on males, are less prominent than you might expect, but the trunk itself is clearly sufficient weapon for any task. The eyes are surprisingly intelligent and aware, suggesting genuine cognition behind the size.

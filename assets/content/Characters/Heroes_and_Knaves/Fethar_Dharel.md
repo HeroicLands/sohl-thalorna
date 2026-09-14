@@ -558,6 +558,8 @@ sohl:
     defaultCombatGroup: null
 ---
 
+![Féthar Dhárel](images/beings/characters/fethardhrl-portrait.webp){float: top-left}
+
 ## Appearance {#appearance}
 
 Féthar Dhárel is a man who looks like he wandered off a Provenzian promenade and somehow ended up at the helm of a disreputable trading vessel. He is six feet tall with a mop of unruly red hair, a constellation of freckles, and blue eyes that perpetually carry the gleam of a man enjoying a private joke. His most notable feature is his wardrobe — he favors elaborately patterned tunics and embroidered tabards that clash spectacularly with the grimy reality of shipboard life. He is gangly and loose-limbed, without the hardened look of a fighter, but his hands on the helm are sure and steady as stone.

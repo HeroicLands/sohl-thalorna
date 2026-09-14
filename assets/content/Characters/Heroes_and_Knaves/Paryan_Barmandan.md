@@ -594,6 +594,8 @@ sohl:
     defaultCombatGroup: null
 ---
 
+![Paryan Barmandan](images/beings/characters/prynbrmndn-portrait.webp){float: top-left}
+
 ## Appearance {#appearance}
 
 Paryan stands 5'8" tall with a light build. She has light olive skin, black hair, and green eyes. Her features include an oval face, a hawkish nose, an angular jawline, well-defined lips, prominent brows.

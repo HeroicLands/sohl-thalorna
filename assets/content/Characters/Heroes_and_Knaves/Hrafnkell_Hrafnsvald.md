@@ -603,6 +603,8 @@ sohl:
     defaultCombatGroup: null
 ---
 
+![Hrafnkell Hrafnsvald](images/beings/characters/hrfnklhrfnsvld-portrait.webp){float: top-left}
+
 ## Appearance {#appearance}
 
 Hrafnkell stands 5'11" tall with a medium build. He has light fair skin, dark brown hair, and brown eyes. His features include an angular face, a prominent nose, a square jawline, a small mouth, dark brows. A distinguishing mark is a tattoo of a fire on the leg.

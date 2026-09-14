@@ -602,6 +602,8 @@ sohl:
     defaultCombatGroup: null
 ---
 
+![Philándros Kyriákos](images/beings/characters/phlndrskyrks-portrait.webp){float: top-left}
+
 ## Appearance {#appearance}
 
 Philándros stands 5'9" tall with a medium build. He has sun-tanned skin, graying brown hair, and hazel eyes. His features include an angular face, an aquiline nose, a pointed chin, an expressive mouth, graying brows, sculpted cheeks. A distinguishing mark is a tattoo of a lion on the thigh.

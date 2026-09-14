@@ -594,6 +594,8 @@ sohl:
     defaultCombatGroup: null
 ---
 
+![Alýkos Theotókis](images/beings/characters/alyksthtks-portrait.webp){float: top-left}
+
 ## Appearance {#appearance}
 
 Alýkos stands 6'0" tall with a medium build. He has light weathered skin, graying brown hair, and hazel eyes. His features include a diamond-shaped face, an aquiline nose, a strong jawline, an expressive mouth, graying brows.

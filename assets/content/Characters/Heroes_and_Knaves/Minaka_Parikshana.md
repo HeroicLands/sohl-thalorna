@@ -592,6 +592,8 @@ sohl:
     defaultCombatGroup: null
 ---
 
+![Minàka Parikṣhana](images/beings/characters/minakprkhn-portrait.webp){float: top-left}
+
 ## Appearance {#appearance}
 
 Minàka stands 5'9" tall with a heavy build. She has warm honey skin, graying dark brown hair, and hazel eyes. Her features include an oval face, a narrow nose, a tapered chin, generous lips, graying dark brows. A distinguishing mark is a tattoo of a horse on the thigh.

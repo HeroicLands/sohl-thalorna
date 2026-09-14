@@ -603,6 +603,8 @@ sohl:
     defaultCombatGroup: null
 ---
 
+![Qâmira Lamari](images/beings/characters/qamiralamr-portrait.webp){float: top-left}
+
 ## Appearance {#appearance}
 
 Qâmira stands 5'4" tall with a medium build. She has rich brown skin, white hair, and dark brown eyes. Her features include a high-cheekboned face, an aquiline nose, a tapered chin, generous lips, rich brows.

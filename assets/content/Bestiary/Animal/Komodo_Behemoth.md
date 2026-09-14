@@ -334,6 +334,8 @@ sohl:
         disabled: false
 ---
 
+![Komodo Behemoth](images/beings/creatures/kmdbhmth-portrait.webp){float: top-left}
+
 ## Appearance {#appearance}
 
 A shadow moves across the rocky ground—enormous, inexorable, patient. The air grows warmer as the massive shape draws close, and the smell reaches you first: stale, meaty, and laced with something rotten. The creature slides into view with terrifying grace for something so vast, its scales catching the light in dull, metallic flashes. The ground trembles with each footfall. Its forked tongue emerges and retracts, tasting your fear on the wind, and its eyes—ancient, knowing, utterly pitiless—lock onto yours as the tail sweeps behind it like a felled tree.

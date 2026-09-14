@@ -584,6 +584,8 @@ sohl:
     defaultCombatGroup: null
 ---
 
+![Dagmar the Wanderer](images/beings/characters/dagmrwndrr-portrait.webp){float: top-left}
+
 ## Appearance {#appearance}
 
 Dagmar stands 5'7\" tall with a light build. He has light skin, brown hair, and green eyes. His features include a prominent nose, a firm-set mouth, heavy brows, flat cheeks.

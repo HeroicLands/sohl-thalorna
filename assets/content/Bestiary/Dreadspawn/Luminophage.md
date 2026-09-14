@@ -216,6 +216,8 @@ sohl:
         disabled: false
 ---
 
+![Luminophage](images/beings/creatures/lmnphg-portrait.webp){float: top-left}
+
 ## Appearance {#appearance}
 
 A soft, pulsing radiance emanates from the shadows overhead—beautiful and hypnotic, yet radiating an almost nauseating wrongness. The light intensifies as a segmented, translucent shape descends from the darkness, its pale body wreathed in sickly luminescence that casts impossible shadows on the walls. The air grows cold, and you notice the smell of burned ozone and decay. Two points of pure brilliance fixate on you from within the glow, and you hear a faint, wet clicking sound as translucent appendages unfurl, lined with quivering needle-points that glisten with venom.

@@ -587,6 +587,8 @@ sohl:
     defaultCombatGroup: null
 ---
 
+![Vígbrandr Skýrekkr](images/beings/characters/vgbrndrskyrkr-portrait.webp){float: top-left}
+
 ## Appearance {#appearance}
 
 Vígbrandr stands 5'10" tall with a medium build. He has light fair skin, dark blonde hair, and blue eyes. His features include a rectangular face, a prominent nose, a heavy jawline, a small mouth, heavy brows. A distinguishing mark is a scar on the right hand.

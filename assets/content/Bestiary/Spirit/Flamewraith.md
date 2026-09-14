@@ -609,6 +609,8 @@ sohl:
         disabled: false
 ---
 
+![Flamewraith](images/beings/creatures/flmwrth-portrait.webp){float: top-left}
+
 ## Appearance {#appearance}
 
 Before you materializes a dancer of flame—a form that is less body than burning intention. The air itself warps and shimmers, bending light into distorted waves; you feel the heat on your skin from several paces away, like standing too close to a furnace. Where it moves, embers trail and scatter, sizzling against stone and wood. The creature's limbs form and dissolve like water running upward, and where they should be a face, there is only a churning vortex of orange and white fire that seems to regard you with terrible intelligence.

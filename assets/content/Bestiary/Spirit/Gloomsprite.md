@@ -272,6 +272,8 @@ sohl:
         disabled: false
 ---
 
+![Gloomsprite](images/beings/creatures/glmsprt-portrait.webp){float: top-left}
+
 ## Appearance {#appearance}
 
 A spark of sickly light flits past your eye—there, then gone. When you follow it, there are suddenly three, no five, all slightly different colors, all mocking your inability to track them. The air around them feels colder, and you realize with creeping unease that you cannot quite remember why you were walking down this path in the first place.

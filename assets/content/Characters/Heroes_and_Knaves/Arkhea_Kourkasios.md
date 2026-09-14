@@ -596,6 +596,8 @@ sohl:
     defaultCombatGroup: null
 ---
 
+![Arkhêa Kourkásios](images/beings/characters/arkhekrkss-portrait.webp){float: top-left}
+
 ## Appearance {#appearance}
 
 Arkhêa stands 5'5" tall with a scant build. She has pale weathered and wrinkled skin, gray hair, and brown eyes. Her features include a long face, an aquiline nose, a pronounced chin, slightly pursed lips, thick dark brows. A distinguishing mark is a limp.

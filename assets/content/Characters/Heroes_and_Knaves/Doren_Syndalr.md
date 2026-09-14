@@ -569,6 +569,8 @@ sohl:
     defaultCombatGroup: null
 ---
 
+![Dôren Sýndalr](images/beings/characters/dornsyndlr-portrait.webp){float: top-left}
+
 ## Appearance {#appearance}
 
 Dôren is a towering man of twenty-eight, standing six foot four with a heavy, muscular frame and olive-toned skin marked by battle scars. A deep, ragged scar runs diagonally across his left cheek. His short black hair and gray eyes give him a hard, uncompromising look. There is nothing subtle about him, and he would not want there to be.

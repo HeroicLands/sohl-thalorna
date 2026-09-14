@@ -595,6 +595,8 @@ sohl:
     defaultCombatGroup: null
 ---
 
+![Pritàrika Padmadîksha](images/beings/characters/prtrkpdmdksh-portrait.webp){float: top-left}
+
 ## Appearance {#appearance}
 
 Pritàrika stands 5'6" tall with a medium build. She has rich brown skin, very dark brown hair, and dark brown eyes. Her features include a diamond-shaped face, a narrow nose, a narrow chin, full lips, rich brows, prominent cheeks.

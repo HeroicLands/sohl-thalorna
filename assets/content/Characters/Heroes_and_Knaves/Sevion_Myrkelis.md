@@ -616,6 +616,8 @@ sohl:
     defaultCombatGroup: null
 ---
 
+![Sevion Myrkelis](images/beings/characters/sevnmyrkls-portrait.webp){float: top-left}
+
 ## Appearance {#appearance}
 
 Sevion stands 5'10" tall with a light build. He has pale skin, dark hair, and blue eyes. His features include a round face, a button nose, a gentle jawline, a wide mouth, expressive brows.

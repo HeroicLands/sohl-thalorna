@@ -320,6 +320,8 @@ sohl:
         disabled: false
 ---
 
+![Stormseer](images/beings/creatures/strmsr-portrait.webp){float: top-left}
+
 ## Appearance {#appearance}
 
 High above, the air itself becomes uncertain. What you see is a shape wreathed in clouds and lightning—vaguely bird-like, massive, composed of storm and electricity. Around it, the air crackles with potential energy, and the smell of ozone grows strong. Thunder rumbles at its approach, not in sequence but seeming to come from the creature itself. Lightning dances between its limbs and wings, and where its gaze falls, hair stands on end and static electricity tingles across skin.

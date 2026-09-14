@@ -393,6 +393,8 @@ sohl:
         disabled: false
 ---
 
+![Xerathian Savanna Elephant](images/beings/creatures/xrthnsvn-portrait.webp){float: top-left}
+
 ## Appearance {#appearance}
 
 Presence announces itself before sight — the earth trembles rhythmically with hoofsteps that carry impossible weight. The creature that emerges is a living mountain of gray flesh, powerful beyond immediate comprehension. The long tusks gleam like ivory swords, and the vast ears shaped vaguely like continents fan the air with hypnotic rhythm. The trunk is a secondary limb of remarkable intelligence and power, and the eyes hold a sadness and awareness that speaks of profound intelligence and emotional capacity. You understand you're looking at not merely the largest land animal, but something that carries weight in multiple senses.

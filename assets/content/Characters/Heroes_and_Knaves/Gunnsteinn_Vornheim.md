@@ -575,6 +575,8 @@ sohl:
     defaultCombatGroup: null
 ---
 
+![Gunnsteinn Vörnheim](images/beings/characters/gnstnvrnhm-portrait.webp){float: top-left}
+
 ## Appearance {#appearance}
 
 Gunnsteinn stands 6'2" tall with a heavy build. He has tanned weathered skin, dark brown hair, and blue eyes. His features include a narrow face, an aquiline nose, a broad chin, a slightly downturned mouth, dark brows. A distinguishing mark is a scar on the right forearm.

@@ -576,6 +576,8 @@ sohl:
     defaultCombatGroup: null
 ---
 
+![Mithran Mazânid](images/beings/characters/mithrnmznd-portrait.webp){float: top-left}
+
 ## Appearance {#appearance}
 
 Mithran stands 6'1" tall with a medium build. He has tanned weathered skin, dark brown hair, and brown eyes. His features include a narrow face, a hawkish nose, a sharp jawline, dark brows, a small scar on one cheeks.

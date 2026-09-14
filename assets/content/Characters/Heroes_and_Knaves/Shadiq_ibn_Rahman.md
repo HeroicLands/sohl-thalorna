@@ -609,6 +609,8 @@ sohl:
     defaultCombatGroup: null
 ---
 
+![Shadiq ibn Rahman, The Diplomatic Blade Dancer](images/beings/characters/shdqbnrhmndplmtcblddncr-portrait.webp){float: top-left}
+
 ## Appearance {#appearance}
 
 Shadiq stands 6'0" tall with a light build. He has dark skin, black hair, and dark eyes. His features include an oval face, an aquiline nose, a tapered chin, generous lips, prominent cheeks.

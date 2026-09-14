@@ -585,6 +585,8 @@ sohl:
     defaultCombatGroup: null
 ---
 
+![Kiroba of the Shókuma](images/beings/characters/kirobashkm-portrait.webp){float: top-left}
+
 ## Appearance {#appearance}
 
 Kiroba stands at 5'11" with a lean but muscular build, weighing around 170 pounds. His dark brown skin bears the marks of his spiritual journey, including faint, ritualistic tattoos along his arms and chest, signifying his connection to the **zohira** spirits. His tightly curled black hair is kept short, with a few strands falling across his forehead, adding to his contemplative appearance. His eyes are deep and piercing, dark brown in color, often reflecting the weight of the visions and responsibilities he carries. His face is angular, with a high forehead, sharp cheekbones, and a narrow jawline, framed by a thin, well-kept beard. He dresses in simple, earth-toned robes made from animal hides and natural fibers, adorned with talismans and charms tied to the spirits he communes with. Around his neck hangs a pendant carved from bone, a symbol of his role as a shaman and protector of his tribe. Kiroba moves with a quiet, deliberate grace, each step as though guided by an unseen force.

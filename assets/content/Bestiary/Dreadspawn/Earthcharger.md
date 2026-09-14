@@ -270,6 +270,8 @@ sohl:
         disabled: false
 ---
 
+![Earthcharger](images/beings/creatures/erthchrg-portrait.webp){float: top-left}
+
 ## Appearance {#appearance}
 
 The stone scrapes before you see it. A wall of chitinous armor pushes out of the cavern's mouth—a beetle the size of a wagon, its carapace gleaming black like obsidian in lamplight. Its mandibles are the length of a man's arm each, lined with serrated edges and stained dark from old kills. Antennae twitch and wave, sampling air and vibration. The creature doesn't move quickly, but every movement carries the inevitability of an oncoming cart of stone. Where it has passed, the ground is gouged by chitinous claws and the air is thick with a dry, mineral musk.

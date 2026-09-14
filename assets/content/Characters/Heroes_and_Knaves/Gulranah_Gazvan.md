@@ -586,6 +586,8 @@ sohl:
     defaultCombatGroup: null
 ---
 
+![Gulrânah Gazvân](images/beings/characters/gulrnhgzvn-portrait.webp){float: top-left}
+
 ## Appearance {#appearance}
 
 Gulrânah stands 6'1" tall with a light build. She has light olive skin, dark brown hair, and warm brown eyes. Her features include a long face, a hawkish nose, an angular jawline, full lips, dark brows, angular cheeks. A distinguishing mark is a scar on the right wrist.

@@ -567,6 +567,8 @@ sohl:
     defaultCombatGroup: null
 ---
 
+![Chéleb Rhýddýn](images/beings/characters/chlbrhydyn-portrait.webp){float: top-left}
+
 ## Appearance {#appearance}
 
 Chéleb ("KA-leb") is a lithe, wiry man of thirty-two with pale, weather-tanned skin, dark brown hair tied back with a leather thong, and watchful hazel eyes. Often cloaked in green and brown for camouflage, he has the stillness of a man who has spent most of his life in the wilderness. He moves through terrain—any terrain—with a quiet sureness that makes him almost invisible when he chooses to be.

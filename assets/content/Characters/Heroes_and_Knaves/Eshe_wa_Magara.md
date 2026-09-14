@@ -598,6 +598,8 @@ sohl:
     defaultCombatGroup: null
 ---
 
+![Eshe wa Magara](images/beings/characters/eshewamagr-portrait.webp){float: top-left}
+
 ## Appearance {#appearance}
 
 Eshe stands 5'9" tall with a heavy build. She has dark skin, dark hair, and dark eyes. Her features include a wide face, a wide-nostriled nose, a rounded chin, prominent lips, strong brows.

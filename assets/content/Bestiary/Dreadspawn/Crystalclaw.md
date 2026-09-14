@@ -327,6 +327,8 @@ sohl:
         disabled: false
 ---
 
+![Crystalclaw](images/beings/creatures/crystlcl-portrait.webp){float: top-left}
+
 ## Appearance {#appearance}
 
 Light fractures and scatters as something moves through the shadows—a shape of impossible geometry, faceted and radiant. Every color of the spectrum glints from its surfaces as it turns, and the air shimmers with refracted light that makes your eyes water. You hear it before you fully see it: a crystalline chiming, like bells or wind-chimes, with each movement. Then those eyes—bright, burning sapphire—find you, and you understand it has always been watching.

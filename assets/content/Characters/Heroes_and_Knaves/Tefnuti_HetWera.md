@@ -603,6 +603,8 @@ sohl:
     defaultCombatGroup: null
 ---
 
+![Tefnutî Het'Wera](images/beings/characters/tefnuthtwr-portrait.webp){float: top-left}
+
 **Home:** [[place-ankhsetun|Ankh-Setûn]]
 
 ## Appearance {#appearance}

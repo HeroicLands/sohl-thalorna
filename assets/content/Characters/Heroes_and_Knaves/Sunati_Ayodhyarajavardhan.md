@@ -595,6 +595,8 @@ sohl:
     defaultCombatGroup: null
 ---
 
+![Sunáti Āyodhyārājavardhan](images/beings/characters/sntydhyrjvrdhn-portrait.webp){float: top-left}
+
 ## Appearance {#appearance}
 
 Sunáti stands 5'7" tall with a medium build. She has rich brown skin, black hair, and honey brown eyes. Her features include a soft-featured face, a rounded chin, elegantly curved brows, rounded cheeks.

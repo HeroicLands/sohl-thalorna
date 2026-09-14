@@ -587,6 +587,8 @@ sohl:
     defaultCombatGroup: null
 ---
 
+![Timothéon Gaválas](images/beings/characters/timthngvls-portrait.webp){float: top-left}
+
 ## Appearance {#appearance}
 
 Timothéon stands 5'11" tall with a medium build. He has light ruddy skin, gray hair, and olive-green eyes. His features include a long face, a strong nose, a strong jawline, a wide mouth, strong brows.

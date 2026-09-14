@@ -580,6 +580,8 @@ sohl:
     defaultCombatGroup: null
 ---
 
+![Unnr Eldskari](images/beings/characters/unreldskar-portrait.webp){float: top-left}
+
 ## Appearance {#appearance}
 
 Unnr stands 5'3" tall with a light build. She has pale fair skin, dark brown hair, and green eyes. Her features include a narrow face, a long nose, a square jawline, a small mouth, dark brows, high cheeks.

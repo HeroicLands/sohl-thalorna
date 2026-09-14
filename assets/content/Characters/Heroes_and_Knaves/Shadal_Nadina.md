@@ -607,6 +607,8 @@ sohl:
     defaultCombatGroup: null
 ---
 
+![Shadal Nadina](images/beings/characters/shadalnadn-portrait.webp){float: top-left}
+
 ## Appearance {#appearance}
 
 Shadal stands 6'0" tall with a medium build. He has deep brown skin, dark close-cropped black hair, and brown eyes. His features include an oval face, a narrow nose, well-defined lips, deep brows, prominent cheeks. A distinguishing mark is a scar on the chin.

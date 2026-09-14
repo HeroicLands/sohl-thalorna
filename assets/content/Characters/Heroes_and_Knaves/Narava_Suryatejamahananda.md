@@ -597,6 +597,8 @@ sohl:
     defaultCombatGroup: null
 ---
 
+![Nárava Sūryatejamahānanda](images/beings/characters/nrvsrytjmhnnd-portrait.webp){float: top-left}
+
 ## Appearance {#appearance}
 
 Nárava stands 6'2" tall with a heavy build. He has golden brown skin, jet black hair, and dark brown eyes. His features include a diamond-shaped face, a delicate nose, a rounded chin, an expressive mouth, golden brows, soft cheeks. A distinguishing mark is a tattoo of a compass on the chest.

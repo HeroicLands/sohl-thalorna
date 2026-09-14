@@ -341,6 +341,8 @@ sohl:
         disabled: false
 ---
 
+![Octowolf](images/beings/creatures/octowolf-portrait.webp){float: top-left}
+
 ## Appearance {#appearance}
 
 Something vast disturbs the water ahead—a shape that might be a log or might be shadow given form. Then a massive wolf's head breaks the surface, water streaming from jaws of terrible size and purpose, its eyes burning with predatory hunger. As it rises further from the murk, the horror deepens: behind the wolf's snarling face, eight muscular tentacles unfurl like the legs of some blasphemous spider, each lined with dark, grasping suckers and moving with eerie, independent grace. The creature's black fur is slicked with an oily sheen, and the water around it seems to darken and thicken with its mere presence. You hear the sound of suckers releasing from stone—wet, popping sounds like bones breaking—as it advances.

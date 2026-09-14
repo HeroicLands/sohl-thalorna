@@ -252,6 +252,8 @@ sohl:
         disabled: false
 ---
 
+![Giant Jumping Spider](images/beings/creatures/gntjmpng-portrait.webp){float: top-left}
+
 ## Appearance {#appearance}
 
 Something impossible catches the corner of your eye—a shape that moves too fast to fully track. When you spin to look, you see nothing. Then, from a nearby rock, eight eyes catch the light and reflect it back at you—luminous, intelligent, watching. The spider is only visible when it moves, its mottled brown-and-black fur seemingly part of the stone itself. The moment it knows it’s been seen, the hind legs tense and bunch—you can see the muscles coiling—and the creature begins to move sideways, never breaking eye contact. All eight eyes focus on you with an intensity that feels almost predatory. The sensation is utterly wrong: a non-humanoid thing that clearly sees you as thoroughly as you see it.

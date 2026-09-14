@@ -261,6 +261,8 @@ sohl:
         disabled: false
 ---
 
+![Voidserpent](images/beings/creatures/vdsrpnt-portrait.webp){float: top-left}
+
 ## Appearance {#appearance}
 
 Where there is nothing, something moves. The Voidserpent is less a creature than an absence given purpose—a gap in reality that winds through space like a living scar. Its hide, if it can be called that, is the color of nothing, studded with points of light like a backwards night sky. When it moves, space seems to warp around it, as if the world is uncertain whether to allow its passage. The very air becomes heavy and slow in its presence.

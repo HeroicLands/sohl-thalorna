@@ -583,6 +583,8 @@ sohl:
     defaultCombatGroup: null
 ---
 
+![Hotep Anu](images/beings/characters/hotepanu-portrait.webp){float: top-left}
+
 **Home:** [[place-ankhsetun|Ankh-Setûn]]
 
 ## Appearance {#appearance}

@@ -369,6 +369,8 @@ sohl:
         disabled: false
 ---
 
+![Quillbear](images/beings/creatures/qllbr-portrait.webp){float: top-left}
+
 ## Appearance {#appearance}
 
 The forest floor cracks and splinters as something massive erupts from the earth—a explosion of dirt and debris that blocks your vision. Through the dust, you see it: a creature that resembles a bear in gross shape alone, but its entire body is encased in thousands of spear-like quills that shimmer with sickly luminescence. The beast's fur bristles around the quills like some nightmare fusion of porcupine and ursine horror, and as it shakes itself clear of the soil, individual quills vibrate with an audible, high-pitched keening. Its low growl is the rumble of earth and stone, and you can see the venom glistening on each quill's barbed tip. The creature's eyes lock on you with feral intelligence, and you smell the burning-metal stench of its venom on the air.

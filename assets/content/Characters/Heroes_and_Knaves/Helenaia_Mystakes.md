@@ -598,6 +598,8 @@ sohl:
     defaultCombatGroup: null
 ---
 
+![Hélénaia Mystákês](images/beings/characters/helnmystks-portrait.webp){float: top-left}
+
 ## Appearance {#appearance}
 
 Hélénaia stands 5'9" tall with a medium build. She has light olive skin, dark hair, and green eyes. Her features include an oblong face, a prominent nose, a pronounced chin, well-defined lips, heavy brows, angular cheeks. A distinguishing mark is a scar running down the right leg.

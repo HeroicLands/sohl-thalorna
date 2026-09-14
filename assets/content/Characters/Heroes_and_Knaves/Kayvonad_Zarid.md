@@ -594,6 +594,8 @@ sohl:
     defaultCombatGroup: null
 ---
 
+![Kayvonad Zârîd](images/beings/characters/kayvondzrd-portrait.webp){float: top-left}
+
 ## Appearance {#appearance}
 
 Kayvonad stands 5'4" tall with a medium build. He has light olive skin, a shaved head, and dark amber eyes. His features include an oblong face, a long nose, a sharp jawline, a firm-set mouth, heavy brows, high cheeks.

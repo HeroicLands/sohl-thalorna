@@ -591,6 +591,8 @@ sohl:
     defaultCombatGroup: null
 ---
 
+![Dómrithâs Vîshârdâs](images/beings/characters/dmrthsvshrds-portrait.webp){float: top-left}
+
 ## Appearance {#appearance}
 
 Dómrithâs stands 5'4" tall with a medium build. He has pale fair skin, graying brown hair, and green eyes. His features include a long face, a straight nose, a rounded chin, rosy lips, graying brows, full cheeks.

@@ -619,6 +619,8 @@ sohl:
     defaultCombatGroup: null
 ---
 
+![Satîya Neb'akhet](images/beings/characters/satiynbkht-portrait.webp){float: top-left}
+
 **Home:** [[place-meruhotep|Meru-Hotep]]
 
 ## Appearance {#appearance}

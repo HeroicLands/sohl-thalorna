@@ -338,6 +338,8 @@ sohl:
         disabled: false
 ---
 
+![Giant Beaver](images/beings/creatures/gntbvr-portrait.webp){float: top-left}
+
 ## Appearance {#appearance}
 
 The sound reaches you first—the rhythmic crack and splinter of a tree trunk being systematically gnawed. You push through the brush and find yourself staring at a creature the size of a pony, its fur dark and slick with water, its massive teeth clearly visible as it works the wood with mechanical precision. The thing does not look up, focused entirely on its labor—but you feel the weight of its attention nonetheless. Around its territory, you notice the scope of its engineering: trees felled in geometric perfection, their trunks stripped and woven into a massive dam that has entirely reshaped the river. The water level has risen dramatically, drowning the forest and creating a landscape of flooded timber and still, dark water. When the beaver finally turns to look at you, its tail—a massive, paddle-like weapon—rises and slaps the water with a thunderous crack that sends spray to your chest.

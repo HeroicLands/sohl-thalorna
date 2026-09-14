@@ -602,6 +602,8 @@ sohl:
     defaultCombatGroup: null
 ---
 
+![Meret-Sebek Heka’amun](images/beings/characters/mrtsbkhkmn-portrait.webp){float: top-left}
+
 **Home:** [[place-meruhotep|Meru-Hotep]]
 
 ## Appearance {#appearance}

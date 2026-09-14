@@ -589,6 +589,8 @@ sohl:
     defaultCombatGroup: null
 ---
 
+![Xerôphôn Kâlmâkanês](images/beings/characters/xrphnklmkns-portrait.webp){float: top-left}
+
 ## Appearance {#appearance}
 
 Xerôphôn stands 5'11" tall with a medium build. He has tanned weathered skin, dark brown hair, and green eyes. His features include a narrow face, a hawkish nose, an angular jawline, a wide mouth, dark brows, sculpted cheeks. A distinguishing mark is a scar on the left ear.

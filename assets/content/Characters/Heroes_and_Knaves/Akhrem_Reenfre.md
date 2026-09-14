@@ -599,6 +599,8 @@ sohl:
     defaultCombatGroup: null
 ---
 
+![Akhrem Re'en'fré](images/beings/characters/akhremrnfr-portrait.webp){float: top-left}
+
 **Home:** [[place-perankhet|Per-Ankhet]]
 
 ## Appearance {#appearance}

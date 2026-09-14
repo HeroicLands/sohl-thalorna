@@ -597,6 +597,8 @@ sohl:
     defaultCombatGroup: null
 ---
 
+![Faradûn Afrûn](images/beings/characters/faradunfrn-portrait.webp){float: top-left}
+
 ## Appearance {#appearance}
 
 Faradûn stands 5'10" tall with a heavy build. He has tanned weathered skin, dark brown hair, and brown eyes. His features include an oval face, a hawkish nose, a narrow chin, a firm-set mouth, dark brows.

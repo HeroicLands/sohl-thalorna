@@ -324,6 +324,8 @@ sohl:
         disabled: false
 ---
 
+![Glassfang](images/beings/creatures/glssfng-portrait.webp){float: top-left}
+
 ## Appearance {#appearance}
 
 Nothing is there, and then something is—a shimmer of light bending wrong, a shadow that isn’t quite transparent enough. You see it only when it moves, and when it does, your breath catches: the thing is made of glass, or ice, or something harder than either. Curved fangs catch light even though they shouldn’t be visible. It’s the size of a hunting cat, sleek and lethal, and it moves faster than thought toward your throat with predatory focus utterly clear in eyes like crystal slivers.

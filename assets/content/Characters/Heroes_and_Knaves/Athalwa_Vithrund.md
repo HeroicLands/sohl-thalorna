@@ -592,6 +592,8 @@ sohl:
     defaultCombatGroup: null
 ---
 
+![Athalwa Vithrúnd](images/beings/characters/athlwvthrnd-portrait.webp){float: top-left}
+
 ## Appearance {#appearance}
 
 Athalwa stands 5'10" tall with a medium build. She has pale fair skin, blonde hair, and blue eyes. Her features include an oval face, a long nose, a strong jawline, a slightly downturned mouth, straight brows, high cheeks. A distinguishing mark is a tattoo of an eagle on the back.

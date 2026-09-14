@@ -63,6 +63,8 @@ sohl:
         disabled: false
 ---
 
+![Aegiron Sentinel](images/beings/creatures/agrnsntn-portrait.webp){float: top-left}
+
 ## Appearance {#appearance}
 
 The presence hits like a physical force: an eight-foot colossus of interlocking iron plates etched with ancient runes that glow with faint, eerie light. The metallic frame gleams with cold precision, and every movement speaks of immense power held in careful check. The eyes are dark voids illuminated from within by shifting, otherworldly light that conveys watchful awareness and absolute purpose. There is no doubt whatsoever that you are facing something created for a singular purpose: to guard, to protect, and to destroy anything that threatens what it watches.

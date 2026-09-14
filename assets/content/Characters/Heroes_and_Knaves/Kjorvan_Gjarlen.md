@@ -587,6 +587,8 @@ sohl:
     defaultCombatGroup: null
 ---
 
+![Kjôrvan Gjârlen](images/beings/characters/kjrvngjrln-portrait.webp){float: top-left}
+
 ## Appearance {#appearance}
 
 Kjôrvan stands 6'1" tall with a medium build. He has sun-tanned skin, dark brown hair, and brown eyes. His features include an oblong face, a straight nose, an angular jawline, full lips, dark brows, sculpted cheeks.

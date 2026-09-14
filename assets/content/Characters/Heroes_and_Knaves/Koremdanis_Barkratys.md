@@ -590,6 +590,8 @@ sohl:
     defaultCombatGroup: null
 ---
 
+![Korêmdânis Bárkrâtys](images/beings/characters/krmdnsbrkrtys-portrait.webp){float: top-left}
+
 ## Appearance {#appearance}
 
 Korêmdânis stands 6'0" tall with a medium build. She has light olive skin, auburn hair, and amber eyes. Her features include an oblong face, a prominent nose, a narrow chin, slightly pursed lips, heavy brows, angular cheeks. A distinguishing mark is a tattoo of a dragonfly on the neck.

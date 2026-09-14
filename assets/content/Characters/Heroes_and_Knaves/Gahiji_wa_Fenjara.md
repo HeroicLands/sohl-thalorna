@@ -594,6 +594,8 @@ sohl:
     defaultCombatGroup: null
 ---
 
+![Gahiji wa Fénjara](images/beings/characters/gahijwfnjr-portrait.webp){float: top-left}
+
 ## Appearance {#appearance}
 
 Gahiji stands 6'2" tall with a heavy build. He has dark skin, dark hair, and dark eyes. His features include a square face, a strong nose, a wide jawline, an expressive mouth, thick brows, high cheeks.

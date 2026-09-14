@@ -577,6 +577,8 @@ sohl:
     defaultCombatGroup: null
 ---
 
+![Goremadânis Hérendânis](images/beings/characters/grmdnshrndns-portrait.webp){float: top-left}
+
 ## Appearance {#appearance}
 
 Goremadânis stands 5'8" tall with a medium build. She has light olive skin, light brown hair, and brown eyes. Her features include a diamond-shaped face, an aquiline nose, a sharp jawline, an expressive mouth, light brows, high cheeks.

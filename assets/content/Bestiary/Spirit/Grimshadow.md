@@ -191,6 +191,8 @@ sohl:
         disabled: false
 ---
 
+![Grimshadow](images/beings/creatures/grmshdw-portrait.webp){float: top-left}
+
 ## Appearance {#appearance}
 
 The temperature drops so suddenly you can see your breath misting in the air. In your peripheral vision, something moves—but when you turn to look directly at it, only shadow remains. You feel watched, hunted, with the specific helplessness that comes from being prey to something you cannot quite see. There is a cold on your skin that has nothing to do with winter.

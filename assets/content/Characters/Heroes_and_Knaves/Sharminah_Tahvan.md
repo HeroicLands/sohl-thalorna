@@ -589,6 +589,8 @@ sohl:
     defaultCombatGroup: null
 ---
 
+![Sharmînah Tahvân](images/beings/characters/shrmnhthvn-portrait.webp){float: top-left}
+
 ## Appearance {#appearance}
 
 Sharmînah stands 5'11" tall with a medium build. She has warm olive skin, dark brown hair, and honey brown eyes. Her features include a diamond-shaped face, a long nose, a sharp jawline, full lips, dark brows.

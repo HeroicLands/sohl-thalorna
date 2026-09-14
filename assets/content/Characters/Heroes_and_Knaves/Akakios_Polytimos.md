@@ -586,6 +586,8 @@ sohl:
     defaultCombatGroup: null
 ---
 
+![Akákios Polytimós](images/beings/characters/akksplytms-portrait.webp){float: top-left}
+
 ## Appearance {#appearance}
 
 Akákios stands 6'2" tall with a heavy build. He has tanned weathered skin, dark brown hair, and brown eyes. His features include a diamond-shaped face, an aquiline nose, a strong jawline, a wide mouth, dark brows, sculpted cheeks.

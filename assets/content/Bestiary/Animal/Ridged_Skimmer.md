@@ -282,6 +282,8 @@ sohl:
         disabled: false
 ---
 
+![Ridged Skimmer](images/beings/creatures/rdgdskmm-portrait.webp){float: top-left}
+
 ## Appearance {#appearance}
 
 The water erupts with wrongness — a sinuous neck rising from dark depths, scales sliding across each other with a wet, sliding sound. The thing’s eyes emerge first, unblinking and utterly alien, then the elongated snout with teeth like needle points revealed as the mouth opens. The creature moves with predatory grace that seems at odds with its emergence from murky water, and the sound that rumbles from its chest is something between a crocodile’s hiss and a creature gargling blood. The water around it seems to chill, and you instinctively understand that you have just been assessed as either threat or prey.

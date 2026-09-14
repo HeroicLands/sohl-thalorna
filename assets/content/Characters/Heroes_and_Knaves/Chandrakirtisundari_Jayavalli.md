@@ -590,6 +590,8 @@ sohl:
     defaultCombatGroup: null
 ---
 
+![Chandrakīrtisundarī Jayavalli](images/beings/characters/chndrkrtsndrjyvl-portrait.webp){float: top-left}
+
 ## Appearance {#appearance}
 
 Chandrakīrtisundarī stands 5'6" tall with a medium build. She has dark brown skin, dark black hair, and warm brown eyes. Her features include a diamond-shaped face, a prominent nose, a narrow chin, an expressive mouth, dark brows, rounded cheeks.

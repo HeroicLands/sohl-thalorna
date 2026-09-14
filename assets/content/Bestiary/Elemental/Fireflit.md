@@ -314,6 +314,8 @@ sohl:
         disabled: false
 ---
 
+![Fireflit](images/beings/creatures/fireflit-portrait.webp){float: top-left}
+
 ## Appearance {#appearance}
 
 A spark catches your eye, bright as a meteor. What you see is smaller than your hand—a creature of pure flame shaped vaguely like a dragonfly or fairy, with wings that beat so fast they blur into solid patterns of light. It zips through the air with startling speed, leaving a trail of sparks and heat in its wake. The sound of it is like a crackling fire and a high-pitched keening combined. If it lingers, you can feel the heat on your skin; it seems to generate warmth entirely out of proportion to its size.

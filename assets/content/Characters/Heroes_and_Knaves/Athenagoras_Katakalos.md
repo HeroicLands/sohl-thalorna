@@ -588,6 +588,8 @@ sohl:
     defaultCombatGroup: null
 ---
 
+![Athênagoras Katakálos](images/beings/characters/athngrsktkls-portrait.webp){float: top-left}
+
 ## Appearance {#appearance}
 
 Athênagoras stands 6'0" tall with a heavy build. He has light tanned skin, black hair, and brown eyes. His features include an oval face, a prominent nose, a sharp jawline, an expressive mouth, strong brows. A distinguishing mark is a tattoo of a rose vine on the leg.

@@ -596,6 +596,8 @@ sohl:
     defaultCombatGroup: null
 ---
 
+![Guthrún Sólvargr](images/beings/characters/gthrnslvrgr-portrait.webp){float: top-left}
+
 ## Appearance {#appearance}
 
 Guthrún stands 5'11" tall with a light build. She has light fair skin, brown hair, and green eyes. Her features include an angular face, a long nose, a strong jawline, a slightly downturned mouth, heavy brows, flat cheeks. A distinguishing mark is a tattoo of a skull on the upper arm.

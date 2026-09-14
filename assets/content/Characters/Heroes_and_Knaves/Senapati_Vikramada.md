@@ -635,6 +635,8 @@ sohl:
     defaultCombatGroup: null
 ---
 
+![Sénapati Vikramâda](images/beings/characters/senptvkrmd-portrait.webp){float: top-left}
+
 ## Appearance {#appearance}
 
 Sénapati stands 6'0" tall with a heavy build. He has medium brown skin, graying dark brown hair, and deep brown eyes. His features include a full face, a straight nose, a narrow chin, full lips, medium brows. A distinguishing mark is a tattoo of a crescent moon on the neck.

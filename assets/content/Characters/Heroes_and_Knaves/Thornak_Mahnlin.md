@@ -596,6 +596,8 @@ sohl:
     defaultCombatGroup: null
 ---
 
+![Thornak Blodtūsc Bār](images/beings/characters/thrnkbldtscbr-portrait.webp){float: top-left}
+
 ## Appearance {#appearance}
 
 Thornak is a hulking figure, standing at 6'6" and weighing around 250 pounds, with a body built for battle. His skin is pale and scarred from countless battles, and his long, untamed reddish-brown hair falls wildly over his shoulders, often tied back with leather straps. His fierce blue eyes reflect a primal rage that he channels in combat, and his face is adorned with ritualistic scars, including a prominent one across his nose. His heavy jaw is framed by a thick beard, also reddish-brown, that he keeps long and untrimmed. Thornak wears furs and hides, practical for the harsh environment of the Vrystwald tribes, and he wields a massive boar spear, the symbol of his totem, along with a bone-handled axe.

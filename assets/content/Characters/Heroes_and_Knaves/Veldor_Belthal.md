@@ -589,6 +589,8 @@ sohl:
     defaultCombatGroup: null
 ---
 
+![Véldor Bélthal](images/beings/characters/veldrblthl-portrait.webp){float: top-left}
+
 ## Appearance {#appearance}
 
 Véldor stands 5'9" tall with a medium build. He has light fair skin, dark brown hair, and blue eyes. His features include a broad face, a narrow nose, a rounded chin, dark brows.

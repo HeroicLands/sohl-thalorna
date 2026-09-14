@@ -588,6 +588,8 @@ sohl:
     defaultCombatGroup: null
 ---
 
+![Sigfúss Stormrót](images/beings/characters/sigfstrmrt-portrait.webp){float: top-left}
+
 ## Appearance {#appearance}
 
 Sigfúss stands 6'2" tall with a medium build. He has tanned weathered skin, brown hair, and blue eyes. His features include an oblong face, a narrow nose, a broad chin, a small mouth, thick brows, high cheeks.

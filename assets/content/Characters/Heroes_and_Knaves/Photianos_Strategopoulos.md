@@ -585,6 +585,8 @@ sohl:
     defaultCombatGroup: null
 ---
 
+![Phótianos Stratégopoulos](images/beings/characters/phtnstrtgpls-portrait.webp){float: top-left}
+
 ## Appearance {#appearance}
 
 Phótianos stands 5'8" tall with a heavy build. He has light weathered skin, gray hair, and green eyes. His features include a long face, a straight nose, a sharp jawline, prominent brows. A distinguishing mark is a scar on the right hand.

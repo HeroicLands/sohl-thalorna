@@ -566,6 +566,8 @@ sohl:
     defaultCombatGroup: null
 ---
 
+![Garulf Druthgar](images/beings/characters/grlfdrthgr-portrait.webp){float: top-left}
+
 ## Appearance {#appearance}
 
 Garulf Druthgar is an enormous man — six foot four, heavy-boned, and packed with the kind of functional muscle that comes from decades of hard use rather than deliberate training. His brown hair is shaggy and unkempt, his gray eyes are small and watchful beneath a heavy brow, and his nose has been broken so many times it sits at a permanent angle. His hands are massive, scarred across the knuckles, and he moves with the deliberate heaviness of a man who knows his own size and uses it as a weapon. He carries a heavy battleaxe he has named "Vára" — a beautifully crafted weapon that is by far the most valuable thing he owns and the only thing he treats with genuine tenderness.

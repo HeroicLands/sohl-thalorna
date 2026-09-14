@@ -603,6 +603,8 @@ sohl:
     defaultCombatGroup: null
 ---
 
+![Bânut Jâut](images/beings/characters/banutjaut-portrait.webp){float: top-left}
+
 **Home:** [[place-meruhotep|Meru-Hotep]]
 
 ## Appearance {#appearance}

@@ -594,6 +594,8 @@ sohl:
     defaultCombatGroup: null
 ---
 
+![Bazûdar Shahrûn](images/beings/characters/bazdrshhrn-portrait.webp){float: top-left}
+
 ## Appearance {#appearance}
 
 Bazûdar stands 6'3" tall with a medium build. He has dark tan skin, black hair, and dark amber eyes. His features include a diamond-shaped face, a prominent nose, a well-defined jawline, full lips, thick dark brows, angular cheeks. A distinguishing mark is a tattoo of a woman on the shoulder.

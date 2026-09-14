@@ -596,6 +596,8 @@ sohl:
     defaultCombatGroup: null
 ---
 
+![Raiya Waset'neb](images/beings/characters/raiyawstnb-portrait.webp){float: top-left}
+
 **Home:** [[place-wasetkara|Wasetkara]]
 
 ## Appearance {#appearance}

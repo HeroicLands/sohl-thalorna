@@ -571,6 +571,8 @@ sohl:
     defaultCombatGroup: null
 ---
 
+![Raiah Sekmet'â](images/beings/characters/raiahsekmt-portrait.webp){float: top-left}
+
 **Home:** [[place-wasetkara|Wasetkara]]
 
 ## Appearance {#appearance}

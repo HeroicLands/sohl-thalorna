@@ -600,6 +600,8 @@ sohl:
     defaultCombatGroup: null
 ---
 
+![Meneti Shap'kher](images/beings/characters/mentshpkhr-portrait.webp){float: top-left}
+
 **Home:** [[place-khensuret|Khensuret]]
 
 ## Appearance {#appearance}

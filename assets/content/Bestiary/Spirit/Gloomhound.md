@@ -362,6 +362,8 @@ sohl:
         disabled: false
 ---
 
+![Gloomhound](images/beings/creatures/glmhnd-portrait.webp){float: top-left}
+
 ## Appearance {#appearance}
 
 From the darkness comes a sound like no sound at all—a silence so absolute it presses against your ears. A shape coalesces, canine in outline but composed of shadow and void. Its eyes burn with a pale amber light, fixed on you with an animal’s hunger and something more—a predator’s calculation. The cold intensifies as it moves, and for just a moment you see its silhouette printed on the ground in frost that shouldn’t exist.

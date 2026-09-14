@@ -575,6 +575,8 @@ sohl:
     defaultCombatGroup: null
 ---
 
+![Dharmàpala Vimuktaṇa](images/beings/characters/dhrmplvmkt-portrait.webp){float: top-left}
+
 ## Appearance {#appearance}
 
 Dharmàpala stands 6'1" tall with a medium build. He has warm golden brown skin, dark black hair, and dark brown eyes. His features include an oval face, a broad nose, a narrow chin, an expressive mouth, warm golden brows, high cheeks. A distinguishing mark is a tattoo of a flower on the ankle.

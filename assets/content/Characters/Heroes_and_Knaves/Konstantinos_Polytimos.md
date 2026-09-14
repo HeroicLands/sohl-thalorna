@@ -590,6 +590,8 @@ sohl:
     defaultCombatGroup: null
 ---
 
+![Konstántinos Polytimós](images/beings/characters/knstntnsplytms-portrait.webp){float: top-left}
+
 ## Appearance {#appearance}
 
 Konstántinos stands 5'10" tall with a medium build. He has light brown tanned skin, dark brown hair, and brown eyes. His features include a diamond-shaped face, a straight nose, a strong jawline, full lips, light brows.

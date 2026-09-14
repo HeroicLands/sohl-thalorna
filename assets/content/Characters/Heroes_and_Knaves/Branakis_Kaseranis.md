@@ -597,6 +597,8 @@ sohl:
     defaultCombatGroup: null
 ---
 
+![Bránakis Kâserânis](images/beings/characters/brnksksrns-portrait.webp){float: top-left}
+
 ## Appearance {#appearance}
 
 Bránakis stands 6'2" tall with a heavy build. He has tanned weathered skin, black hair, and dark brown eyes. His features include an oval face, a straight nose, a prominent chin, a small mouth, dark brows. A distinguishing mark is a tattoo of a tree on the forearm.

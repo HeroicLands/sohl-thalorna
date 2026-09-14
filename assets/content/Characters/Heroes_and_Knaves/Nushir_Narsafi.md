@@ -598,6 +598,8 @@ sohl:
     defaultCombatGroup: null
 ---
 
+![Nushir Narsâfî](images/beings/characters/nushirnrsf-portrait.webp){float: top-left}
+
 ## Appearance {#appearance}
 
 Nushir stands 5'6" tall with a medium build. She has light olive skin, gray hair, and brown eyes. Her features include a diamond-shaped face, a strong nose, an angular jawline, a firm-set mouth, arched brows, prominent cheeks.

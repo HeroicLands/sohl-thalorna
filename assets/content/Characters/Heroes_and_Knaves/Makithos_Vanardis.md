@@ -587,6 +587,8 @@ sohl:
     defaultCombatGroup: null
 ---
 
+![Màkîthos Vânardis](images/beings/characters/mkthsvnrds-portrait.webp){float: top-left}
+
 ## Appearance {#appearance}
 
 Màkîthos stands 5'7" tall with a medium build. He has light tanned skin, black hair, and hazel eyes. His features include an oblong face, an aquiline nose, a pointed chin, a wide mouth, heavy brows, angular cheeks. A distinguishing mark is a scar on the right side of the face.

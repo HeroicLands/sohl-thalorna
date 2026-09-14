@@ -586,6 +586,8 @@ sohl:
     defaultCombatGroup: null
 ---
 
+![Anûraja Harṣadēvāmbujakar](images/beings/characters/anrjhrdvmbjkr-portrait.webp){float: top-left}
+
 ## Appearance {#appearance}
 
 Anûraja stands 6'0" tall with a medium build. He has golden brown skin, dark brown hair, and deep brown eyes. His features include a diamond-shaped face, a straight nose, a soft jawline, full lips, golden brows, rounded cheeks. A distinguishing mark is a tattoo of a tiger on the forearm.

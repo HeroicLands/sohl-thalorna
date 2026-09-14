@@ -561,6 +561,8 @@ sohl:
     defaultCombatGroup: null
 ---
 
+![Ylíra Skorrsdottir](images/beings/characters/ylrskrsdtr-portrait.webp){float: top-left}
+
 ## Appearance {#appearance}
 
 Ylíra Skorrsdottir is a lean, wiry young woman with the pale skin and blonde hair of the Nordheim coast. Her blue eyes carry an intensity that unnerves strangers — not aggressive, but watchful, like a hawk assessing whether something is prey or threat. Her scant frame belies a ferocious strength; she is built for speed and endurance rather than brute force, with the compact muscle of a lifelong fighter. A scar crosses her right hand where a blade once found its mark. She wears practical clothing layered with mail and plate — a byrnie, half-helm, and vambraces — and carries a warhammer and roundshield with the easy familiarity of extensions of her own body.

@@ -605,6 +605,8 @@ sohl:
     defaultCombatGroup: null
 ---
 
+![Fakhrad Tamârân](images/beings/characters/fakhrdtmrn-portrait.webp){float: top-left}
+
 ## Appearance {#appearance}
 
 Fakhrad stands 5'11" tall with a medium build. He has tanned ruddy skin, jet black hair, and green eyes. His features include a long face, a long nose, an angular jawline, a firm-set mouth, prominent brows, sculpted cheeks. A distinguishing mark is a scar on the right hand.

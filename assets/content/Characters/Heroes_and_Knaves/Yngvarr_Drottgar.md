@@ -577,6 +577,8 @@ sohl:
     defaultCombatGroup: null
 ---
 
+![Yngvarr Dróttgar](images/beings/characters/yngvrdrtgr-portrait.webp){float: top-left}
+
 ## Appearance {#appearance}
 
 Yngvarr stands 5'11" tall with a medium build. He has light fair skin, red hair, and hazel eyes. His features include an angular face, a slightly upturned nose, a heavy jawline, a firm-set mouth, thick brows. A distinguishing mark is a scar on the left shoulder.

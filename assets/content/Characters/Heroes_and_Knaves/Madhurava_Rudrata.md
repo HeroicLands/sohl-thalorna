@@ -594,6 +594,8 @@ sohl:
     defaultCombatGroup: null
 ---
 
+![Màdhurava Rudraṭa](images/beings/characters/madhurvrdr-portrait.webp){float: top-left}
+
 ## Appearance {#appearance}
 
 Màdhurava stands 5'10" tall with a medium build. He has medium brown skin, graying dark brown hair, and honey brown eyes. His features include a diamond-shaped face, a narrow nose, a narrow chin, a wide mouth, medium brows, soft cheeks. A distinguishing mark is a scar on the left foot.

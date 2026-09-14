@@ -606,6 +606,8 @@ sohl:
     defaultCombatGroup: null
 ---
 
+![Ailêmâ Kêrîamyês](images/beings/characters/ailemkrmys-portrait.webp){float: top-left}
+
 ## Appearance {#appearance}
 
 Ailêmâ stands 5'11" tall with a medium build. She has light olive skin, chestnut hair, and brown eyes. Her features include a long face, an aquiline nose, a pointed chin, full lips, heavy brows, sculpted cheeks.

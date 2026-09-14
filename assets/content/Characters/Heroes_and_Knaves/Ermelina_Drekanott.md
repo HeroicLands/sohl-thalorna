@@ -590,6 +590,8 @@ sohl:
     defaultCombatGroup: null
 ---
 
+![Ermelína Drekanótt](images/beings/characters/ermlndrknt-portrait.webp){float: top-left}
+
 ## Appearance {#appearance}
 
 Ermelína stands 5'10" tall with a medium build. She has light weathered skin, brown hair, and green eyes. Her features include an oval face, a straight nose, a strong jawline, a firm-set mouth, thick brows, hollow cheeks.

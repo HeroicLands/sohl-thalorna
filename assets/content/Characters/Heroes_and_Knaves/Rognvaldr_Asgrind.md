@@ -620,6 +620,8 @@ sohl:
     defaultCombatGroup: null
 ---
 
+![Rögnvaldr Ásgrind](images/beings/characters/rgnvldrsgrnd-portrait.webp){float: top-left}
+
 ## Appearance {#appearance}
 
 Rögnvaldr stands 6'0" tall with a medium build. He has light weathered skin, graying black hair, and brown eyes. His features include a rectangular face, a straight nose, an angular jawline, a firm-set mouth, straight brows.

@@ -593,6 +593,8 @@ sohl:
     defaultCombatGroup: null
 ---
 
+![Lysándros Chrysanthópoulos](images/beings/characters/lysndrschrysnthpls-portrait.webp){float: top-left}
+
 ## Appearance {#appearance}
 
 Lysándros stands 6'3" tall with a heavy build. He has tanned weathered skin, dark brown hair, and brown eyes. His features include a diamond-shaped face, a prominent nose, a pointed chin, an expressive mouth, dark brows.

@@ -254,6 +254,8 @@ sohl:
         disabled: false
 ---
 
+![Necrotic Mire](images/beings/creatures/ncrtcmr-portrait.webp){float: top-left}
+
 ## Appearance {#appearance}
 
 The swamp water ahead darkens and thickens, a black slick spreading across the surface like spilled oil. As it rises, the reek of millennia-old corpses and purifying flesh floods your senses—a choking, almost physical presence. The ooze forms a loosely humanoid shape, its surface roiling with blisters and pustules that burst to release vapors. Where the dark slime touches living things—grass, trees, flesh—they wither and blacken as though exposed to decades of decay in mere seconds. The creature has no eyes, yet you feel utterly, inexplicably watched by something that hungers with a ghastly patience.

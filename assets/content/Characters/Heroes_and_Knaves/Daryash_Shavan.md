@@ -585,6 +585,8 @@ sohl:
     defaultCombatGroup: null
 ---
 
+![Daryash Shavân](images/beings/characters/daryshshvn-portrait.webp){float: top-left}
+
 ## Appearance {#appearance}
 
 Daryash stands 5'10" tall with a light build. She has tawny skin, very dark brown hair, and green eyes. Her features include a narrow face, an aquiline nose, a pointed chin, very dark brows.
