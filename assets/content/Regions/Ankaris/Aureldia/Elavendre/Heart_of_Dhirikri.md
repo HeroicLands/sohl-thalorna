@@ -7,8 +7,9 @@ name:
   aliases: []
 shortcode: heartofdhirikri
 packFolder: elavendre
-sohl:
+data:
   templatePriority: null
+sohl:
   system:
     weightBase: 1
     valueBase: 0

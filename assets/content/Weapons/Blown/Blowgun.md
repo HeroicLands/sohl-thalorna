@@ -7,10 +7,11 @@ description: "Silent hollow tube for poison darts; hunter's covert strike."
 img: systems/sohl/assets/icons/other/blowgun.svg
 shortcode: bgun
 type: weapongear
+data:
+  templatePriority: null
 sohl:
   kbcat: blown
   weaponType: Blown
-  templatePriority: null
   system:
     weightBase: 1
     valueBase: 30

@@ -9,8 +9,9 @@ name:
   full: "Ritual: Míthárä"
   aliases:
     - The World's First Light
-sohl:
+data:
   templatePriority: null
+sohl:
   system:
     skillBaseFormula: "@wil, @rea"
     masteryLevelBase: 0

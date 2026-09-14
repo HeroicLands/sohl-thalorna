@@ -10,8 +10,9 @@ name:
   aliases: []
 shortcode: sprsigrid
 packFolder: nordlands
-sohl:
+data:
   templatePriority: null
+sohl:
   system:
     weightBase: 5
     valueBase: 0

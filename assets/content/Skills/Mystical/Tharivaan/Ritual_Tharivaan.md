@@ -10,8 +10,9 @@ name:
   aliases:
     - Thári'vaan
     - The Living Whole
-sohl:
+data:
   templatePriority: null
+sohl:
   system:
     skillBaseFormula: "@wil, @rea"
     masteryLevelBase: 0

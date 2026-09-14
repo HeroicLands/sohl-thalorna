@@ -7,10 +7,11 @@ description: "Folded-layer curved single-edged blade; officer's status and disci
 img: systems/sohl/assets/icons/other/sword.svg
 shortcode: ktna
 type: weapongear
+data:
+  templatePriority: null
 sohl:
   kbcat: sword
   weaponType: Sword
-  templatePriority: null
   system:
     weightBase: 3
     valueBase: 240

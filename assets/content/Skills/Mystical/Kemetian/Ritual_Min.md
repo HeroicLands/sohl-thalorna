@@ -9,8 +9,9 @@ name:
   full: "Ritual: Min"
   aliases:
     - Min, The Fertility-God
-sohl:
+data:
   templatePriority: null
+sohl:
   system:
     skillBaseFormula: "@wil, @rea"
     masteryLevelBase: 0

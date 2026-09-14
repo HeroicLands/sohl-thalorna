@@ -11,8 +11,9 @@ name:
     - Mahájaya
     - Mahajaya
     - The Eternal Preserver
-sohl:
+data:
   templatePriority: null
+sohl:
   system:
     skillBaseFormula: "@wil, @rea"
     masteryLevelBase: 0

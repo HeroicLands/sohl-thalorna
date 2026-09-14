@@ -10,8 +10,9 @@ name:
   full: "Ritual: Bēs"
   aliases:
     - Bēs, Guardian of Night Visions
-sohl:
+data:
   templatePriority: null
+sohl:
   system:
     skillBaseFormula: "@wil, @rea"
     masteryLevelBase: 0

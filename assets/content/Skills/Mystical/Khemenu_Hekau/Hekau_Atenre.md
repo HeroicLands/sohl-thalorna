@@ -9,8 +9,9 @@ name:
   full: "Hekau: Aten'ré"
   aliases:
     - Per-Aten'ré
-sohl:
+data:
   templatePriority: null
+sohl:
   system:
     skillBaseFormula: "@aur, @rea"
     masteryLevelBase: 0

@@ -11,8 +11,9 @@ name:
   full: "Arthgen Spirit Power"
   aliases:
     - Arthgen, the Bear of the High Corries
-sohl:
+data:
   templatePriority: null
+sohl:
   system:
     skillBaseFormula: "@aur, @wil"
     masteryLevelBase: 0

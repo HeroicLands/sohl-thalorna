@@ -11,8 +11,9 @@ name:
   full: "The Oracle of Bones Spirit Power"
   aliases:
     - The Reader in the Yánda Maláika
-sohl:
+data:
   templatePriority: null
+sohl:
   system:
     skillBaseFormula: "@aur, @wil"
     masteryLevelBase: 0

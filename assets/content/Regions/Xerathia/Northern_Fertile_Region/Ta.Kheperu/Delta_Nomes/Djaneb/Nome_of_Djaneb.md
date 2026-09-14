@@ -8,6 +8,7 @@ name:
 shortcode: nomedjaneb
 subType: polity
 data:
+  templatePriority: null
   governance:
     model: monarchy
     summary: >-
@@ -107,7 +108,6 @@ data:
     kemtnpnthn: aligned
     hapi: aligned
 sohl:
-  templatePriority: null
 packFolder: deltanomes
 ---
 

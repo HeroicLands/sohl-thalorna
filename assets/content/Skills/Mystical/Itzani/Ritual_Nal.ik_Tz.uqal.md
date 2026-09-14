@@ -11,8 +11,9 @@ name:
   aliases:
     - Nal'ik Tz'uqal
     - The Dreamer in Moonlight
-sohl:
+data:
   templatePriority: null
+sohl:
   system:
     skillBaseFormula: "@wil, @rea"
     masteryLevelBase: 0

@@ -12,8 +12,9 @@ name:
     - Vekthor
     - The Forger of False Records
     - The Counterfeit Scribe
-sohl:
+data:
   templatePriority: null
+sohl:
   system:
     skillBaseFormula: "@wil, @rea"
     masteryLevelBase: 0

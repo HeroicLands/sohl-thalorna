@@ -11,8 +11,9 @@ name:
   aliases:
     - K'ayik Ch'ul
     - The Sacred Flame
-sohl:
+data:
   templatePriority: null
+sohl:
   system:
     skillBaseFormula: "@wil, @rea"
     masteryLevelBase: 0

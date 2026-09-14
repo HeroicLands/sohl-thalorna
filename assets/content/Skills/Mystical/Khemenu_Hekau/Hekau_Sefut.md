@@ -9,8 +9,9 @@ name:
   full: "Hekau: Sefút"
   aliases:
     - Per-Sefút
-sohl:
+data:
   templatePriority: null
+sohl:
   system:
     skillBaseFormula: "@aur, @rea"
     masteryLevelBase: 0

@@ -8,6 +8,7 @@ name:
 shortcode: nomeanptkh
 subType: polity
 data:
+  templatePriority: null
   governance:
     model: monarchy
     summary: >-
@@ -107,7 +108,6 @@ data:
     kemtnpnthn: aligned
     anubis: aligned
 sohl:
-  templatePriority: null
 packFolder: upperrivernomes
 ---
 

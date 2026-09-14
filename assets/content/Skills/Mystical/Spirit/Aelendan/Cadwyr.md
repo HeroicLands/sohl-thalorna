@@ -11,8 +11,9 @@ name:
   full: "Cadwyr Spirit Power"
   aliases:
     - Cadwyr, the Grey Wolf of the Ridge
-sohl:
+data:
   templatePriority: null
+sohl:
   system:
     skillBaseFormula: "@aur, @wil"
     masteryLevelBase: 0

@@ -12,8 +12,9 @@ name:
     - Yokzhuk
     - The Custodian of Lost Seals
     - The Seal-Thief
-sohl:
+data:
   templatePriority: null
+sohl:
   system:
     skillBaseFormula: "@wil, @rea"
     masteryLevelBase: 0

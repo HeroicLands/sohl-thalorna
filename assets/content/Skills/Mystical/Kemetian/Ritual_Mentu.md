@@ -9,8 +9,9 @@ name:
   full: "Ritual: Mentu"
   aliases:
     - Mentu, The War-God
-sohl:
+data:
   templatePriority: null
+sohl:
   system:
     skillBaseFormula: "@wil, @rea"
     masteryLevelBase: 0

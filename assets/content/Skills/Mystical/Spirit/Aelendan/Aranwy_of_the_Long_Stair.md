@@ -11,8 +11,9 @@ name:
   full: "Aranwy of the Long Stair Spirit Power"
   aliases:
     - Aranwy of the Long Stair
-sohl:
+data:
   templatePriority: null
+sohl:
   system:
     skillBaseFormula: "@aur, @wil"
     masteryLevelBase: 0

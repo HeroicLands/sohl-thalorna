@@ -11,8 +11,9 @@ name:
     - Pavanajitras
     - The Wandering Wind
     - The Wind Spirits of the Road
-sohl:
+data:
   templatePriority: null
+sohl:
   system:
     skillBaseFormula: "@wil, @rea"
     masteryLevelBase: 0

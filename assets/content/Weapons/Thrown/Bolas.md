@@ -7,10 +7,11 @@ description: "Weighted cord-balls entangle and trip; herder's disabled-cavalry t
 img: systems/sohl/assets/icons/game-icons/lorc/bolas.svg
 shortcode: bola
 type: weapongear
+data:
+  templatePriority: null
 sohl:
   kbcat: thrown
   weaponType: Thrown
-  templatePriority: null
   system:
     weightBase: 2
     valueBase: 15

@@ -10,8 +10,9 @@ name:
   aliases: []
 shortcode: crwnwyrm
 packFolder: nordlands
-sohl:
+data:
   templatePriority: null
+sohl:
   system:
     weightBase: 3
     valueBase: 0

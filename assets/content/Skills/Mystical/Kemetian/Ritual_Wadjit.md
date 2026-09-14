@@ -9,8 +9,9 @@ name:
   full: "Ritual: Wadjit"
   aliases:
     - Wadjit, The Cobra-Goddess
-sohl:
+data:
   templatePriority: null
+sohl:
   system:
     skillBaseFormula: "@wil, @rea"
     masteryLevelBase: 0

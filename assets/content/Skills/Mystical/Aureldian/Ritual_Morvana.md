@@ -11,8 +11,9 @@ name:
   aliases:
     - Mórváná
     - Mistress of the Waning Moon
-sohl:
+data:
   templatePriority: null
+sohl:
   system:
     skillBaseFormula: "@wil, @rea"
     masteryLevelBase: 0

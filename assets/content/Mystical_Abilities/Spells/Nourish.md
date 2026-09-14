@@ -9,8 +9,9 @@ img: systems/sohl/assets/icons/noun/divination.svg
 shortcode: nourish
 type: mysticalability
 subType: arcaneincantation
-sohl:
+data:
   templatePriority: null
+sohl:
   system:
     assocSkillCode: pneumenos
     masteryLevelBase: 0

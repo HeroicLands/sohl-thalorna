@@ -14,8 +14,9 @@ name:
     - Phtah
     - The Shaper of the Eternal World
     - The Divine Craftsman
-sohl:
+data:
   templatePriority: null
+sohl:
   system:
     skillBaseFormula: "@wil, @rea"
     masteryLevelBase: 0

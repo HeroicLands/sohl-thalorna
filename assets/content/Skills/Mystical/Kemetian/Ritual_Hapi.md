@@ -14,8 +14,9 @@ name:
     - Apis
     - The Golden Reveler
     - The Overflowing One
-sohl:
+data:
   templatePriority: null
+sohl:
   system:
     skillBaseFormula: "@wil, @rea"
     masteryLevelBase: 0
