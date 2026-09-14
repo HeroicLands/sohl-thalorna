@@ -600,11 +600,11 @@ sohl:
     defaultCombatGroup: null
 ---
 
-# Appearance {#appearance}
+## Appearance {#appearance}
 
 Hálrikos stands 5'4" tall with a medium build. He has pale sallow skin, graying black hair, and hazel eyes. His features include an oval face, a strong nose, a pointed chin, a wide mouth, thick dark brows.
 
-# Dossier {#dossier}
+## Dossier {#dossier}
 
 Hálrikos was born into a merchant family of modest means in one of Tarvénia's port cities, though his parents harbored ambitions beyond trade. Recognizing their son's preternatural gift for understanding written regulations and legal structure, they apprenticed him to the Guild of Scribes at age twelve. By his eighteenth year, Hálrikos had become the fastest, most accurate copyist in the city, capable of rendering even the most complex legal documents with flawless precision. He rose through the ranks of the city's bureaucratic apparatus, becoming a record-keeper, then a clerk of minor courts, and eventually ascending to his current position as Senior Archivist and Advisory Clerk to the City Council.
 
@@ -612,19 +612,19 @@ For thirty-five years, Hálrikos has been the institutional memory of Tarvénia,
 
 Currently, Hálrikos maintains his position as one of the most indispensable figures in Tarvénia's government, though his power is wielded entirely through influence and information rather than formal authority. He lives in a modest apartment above a city administrative office, surrounded by filing cabinets and books of law, and spends nearly every waking hour either reading, cataloging, or advising city officials on procedural matters.
 
-## Psyche
+### Psyche
 
-### Personality
+#### Personality
 
 Hálrikos speaks in measured tones, precisely articulating each word as though every sentence were being entered into an official record. He is neither friendly nor hostile, but exists in a permanent state of professional courtesy—pleasant, but emotionally distant. He views emotional displays as unseemly indulgences and tends to interpret passionate advocacy as a lack of rational argument. He is deeply cynical about human nature, having spent his career witnessing how people bend, twist, and reinterpret rules to suit their interests. He has no patience for idealism and views the Reformist faction that has arisen in recent years as composed of naive fools who do not understand the delicate equilibrium that existing regulations maintain.
 
 His humor, when it emerges, is dry and acerbic—a quick observation about the absurdity of human behavior followed by immediate return to serious matters. He respects precision, consistency, and adherence to form, and he views those who violate these principles as fundamentally untrustworthy, regardless of their intentions. He is not unkind, merely indifferent to the emotional lives of others, and he has long since made peace with being viewed as cold and inhuman.
 
-### Motivation
+#### Motivation
 
 Hálrikos is motivated by a deep, almost religious belief that proper procedure, correctly applied, is the only thing that prevents civilization from descending into chaos. He views his work as a sacred duty to maintain the structural integrity of society, and he fears that abandoning the carefully balanced regulations that have evolved over centuries would lead to precisely the sort of corruption and disorder that he has spent his life preventing. His secondary motivation is the maintenance of his own position and influence—he derives genuine satisfaction from being indispensable, from being the person that city leaders must consult before making important decisions. He fears obsolescence more than death, and he views the Reformist push to modernize and streamline regulations as a personal threat to his relevance.
 
-### Strengths
+#### Strengths
 
 - **Encyclopedic Legal Knowledge**: Hálrikos has internalized every regulation, statute, precedent, and procedural rule governing Tarvénia, making him capable of citing law and procedure in nearly any situation and of identifying how existing rules apply to novel situations.
 
@@ -636,7 +636,7 @@ Hálrikos is motivated by a deep, almost religious belief that proper procedure,
 
 - **Writing Mastery**: His skill in Script is formidable, allowing him to draft complex legal documents, carefully worded advisories, and devastating administrative critiques that are both beautiful and lethal in their precision.
 
-### Weaknesses
+#### Weaknesses
 
 - **Emotional Isolation**: Hálrikos's inability to connect emotionally with others has left him friendless and deeply lonely, a fact he refuses to acknowledge and therefore never addresses.
 
@@ -648,9 +648,9 @@ Hálrikos is motivated by a deep, almost religious belief that proper procedure,
 
 - **Contempt for Intuition**: Hálrikos dismisses decisions made on intuition, instinct, or emotional grounds, viewing them as irrational; this causes him to underestimate the practical wisdom of those who make good decisions through non-rational means.
 
-## Social
+### Social
 
-### Patrons
+#### Patrons
 
 - **Magistrate Korvain**: The current city magistrate relies heavily on Hálrikos's counsel and has protected him from several attempts to diminish his authority, knowing that his administration would collapse without Hálrikos's support.
 
@@ -660,7 +660,7 @@ Hálrikos is motivated by a deep, almost religious belief that proper procedure,
 
 - **The Guild of Scribes**: His original guild regards him as one of their greatest achievements and maintains him as an honored senior member, consulting him on matters of professional standards.
 
-### Enemies
+#### Enemies
 
 - **The Reformist Coalition**: This loose alliance of younger officials, progressive merchants, and idealistic citizens views Hálrikos as the primary obstacle to necessary modernization and has made his removal from influence a central goal.
 
@@ -670,7 +670,7 @@ Hálrikos is motivated by a deep, almost religious belief that proper procedure,
 
 - **The Shadow Syndicate**: This organized crime network views Hálrikos's institutional knowledge as a threat to their operations and has made vague but unmistakable threats against him.
 
-### Affiliations
+#### Affiliations
 
 - **The City Bureaucracy**: Hálrikos is woven into the fabric of Tarvénia's government and serves as an advisor to nearly every city office.
 
@@ -680,7 +680,7 @@ Hálrikos is motivated by a deep, almost religious belief that proper procedure,
 
 - **The Order of Táranon**: Hálrikos is a pious if unemotional follower of Táranon, god of storms and order, attending temple services regularly.
 
-## Plot Hooks
+### Plot Hooks
 
 1. **The Impossible Contradiction**: A situation arises that appears to violate two fundamental and apparently equal regulations—one cannot follow both laws and still act lawfully. The city magistrate comes to Hálrikos expecting him to resolve the contradiction by finding some subtle loophole or precedent that reconciles the two rules. However, after deep investigation, Hálrikos discovers that no such reconciliation exists and never has. Moreover, he finds evidence suggesting that a previous city magistrate created this contradiction deliberately as a way to maintain flexibility in enforcement—a violation of legal principle that horrifies him. He must now decide whether to report this historical deception and undermine the city's legal foundations, or to keep the knowledge secret and violate his core principle of institutional integrity.
 

@@ -551,11 +551,11 @@ sohl:
     defaultCombatGroup: null
 ---
 
-# Appearance {#appearance}
+## Appearance {#appearance}
 
 Úrelè Rálwen is a 28-year-old woman who stands 5'10" tall and is of moderate build. She has a long face with wide-set cheekbones, a broad forehead, and a strong jaw that leads to a pointed chin. Her narrow gray eyes sit beneath expressive brows, lending her a keen gaze. A narrow nose and thin lips complete her features. She has olive skin with a fair complexion. Her dark brown hair is hanging in ringlets.
 
-# Dossier {#dossier}
+## Dossier {#dossier}
 
 Born in the Provènzia region to a noble family of Provenzian heritage, Úrelè Rálwen came into the world of the perfumer through a combination of circumstance and aptitude.
 
@@ -563,37 +563,37 @@ Mara is an up-and-coming perfumer who has gained recognition for her floral and 
 
 Now at 28 years of age, Úrelè Rálwen has established herself as a known figure among the perfumers of Provènzia. Her reputation, for better or worse, precedes her in the circles where such things matter.
 
-## Psyche
+### Psyche
 
-### Personality
+#### Personality
 
 Can be overwhelmed by competition, sometimes struggles with business logistics.
 
-### Motivation
+#### Motivation
 
 Úrelè is driven by the desire to master her craft and secure a stable future. The uncertainties of life in perfumer work keep her vigilant and adaptable.
 
-### Strengths
+#### Strengths
 
 Knowledgeable about natural ingredients, environmentally conscious, friendly.
 
-## Social
+### Social
 
 Úrelè is affiliated with Local Artisans' Guild.
 
 As a Provenzian perfumer, Úrelè occupies a recognized social niche within Provènzia society.
 
-## Companions
+### Companions
 
-### Patrons
+#### Patrons
 
 Úrelè's primary patron is Local residents and eco-conscious customers seeking natural fragrances.. This relationship provides both opportunity and obligation.
 
-### Enemies
+#### Enemies
 
 Few; generally well-liked, though some competitors may see her as a threat.
 
-## Plot Hooks
+### Plot Hooks
 
 1. **The Perfumer's Dilemma** — Úrelè faces a professional crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Provènzia.
 

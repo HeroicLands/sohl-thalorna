@@ -558,74 +558,74 @@ sohl:
     defaultCombatGroup: null
 ---
 
-# Appearance {#appearance}
+## Appearance {#appearance}
 
 Yâsûra is a lean, weather-hardened woman in her early forties, built in the wiry, fast-moving mould the Bethûan war-art prizes rather than the bulk of a marcher raider. She stands 5'8", dark-skinned and burned darker by the southern sun, her black hair shot with grey and bound back hard for the saddle. A long pale scar runs from her left brow to her jaw — the mark of the hunt that cost her everything and set her on the road south. She still carries herself like the spear-sister she was, upright and balanced, and she still wears, beneath marcher leathers, the habits of a woman trained from girlhood to kill with empty hands. Her dark eyes are flat and measuring, and she has the unhurried confidence of someone who has had a long time to grow comfortable with violence.
 
-# Dossier {#dossier}
+## Dossier {#dossier}
 
-## Background
+### Background
 
-### Origin: A Daughter of the Matriarchy
+#### Origin: A Daughter of the Matriarchy
 
 Yâsûra was born to a minor clan of the southern cantons of the [[affiliation-mtrrchybth|Matriarchy of Bethûa]] — lesser nobility, but nobility, with land enough to raise a daughter to expect standing. Like the realm's other promising women she was trained young in arms and in the **Charíssa**, the lethal Bethûan unarmed art, and she earned a place among the **Lonkhai**, the Spear-Sisterhood, rising to command a frontier company that patrolled the very marches she now haunts. For most of her life she was exactly what Bethûa raises its women to be: armed, proud, and certain of her place in an order built around her sex. The name she was born with she no longer speaks, and will kill anyone who uses it; she threw her House away the day it threw her away, and keeps only the given name her mother gave her and the byname the marches hung on her after.
 
-### The Fall
+#### The Fall
 
 Her ruin came through a hunt — the same hunt that scarred her face. Years ago a fugitive she had reason to shelter, or was bound by debt or kin to protect, was run to ground in her cantons by the rising thief-taker **[[being-zahirmlkht|Zahira Malkhet]]**, then still building the name that would become the Hound of the Veil. The hunt turned bloody on Yâsûra's own ground; people under her protection died, her judgement was called into question, and the matter reached higher than she could answer. The Houses needed a failure to blame, and a minor clan's daughter served. Yâsûra was **stripped of her commission, cast out of her House, and exiled** — unmade, in a single season, from a spear-sister of the realm into a woman with no House, no standing, and no country. She knows exactly whom to blame: had **[[being-zahirmlkht|Zahira]]** never come hunting into her cantons, Yâsûra would still have her rank, her House, and the name she was born with. Zahira is, quite simply, _the reason she is what she is_ — and that is a debt the Jackal-Queen means to collect in full. It is not the contract that drives her after the Hound of the Veil; it is the exile.
 
-### The Jackal-Queen
+#### The Jackal-Queen
 
 She fled south, across the frontier where the matriarchal writ runs thin, into the drier borderlands of the **South Marches** — a country of pastoral nomad peoples who pay Bethûa tribute but keep their own ways, are led by men, and are warily hostile to the rich matriarchy on their northern horizon. There Yâsûra became something the Marches had never seen and Bethûa most fears: an armed, exiled woman gathering an army of the matriarchy's other castoffs. To her came other **dispossessed Bethûan women** — disgraced, widowed, fled, or sold, every one of them stripped of House and home as she had been — and, most dangerously, a hard cadre of **exiled Spádai**, the gelded eunuch-warriors who are the only men Bethûa ever trusts with steel and who, gelded and Houseless by their very nature, had even less to lose than she did. These outcasts found in Yâsûra a leader who shared their exile and their training, and they became the disciplined Bethûan core of her band. Around that core she hires and spends the **men of the southern Marches** — herders' sons and marcher raiders — as light horse and expendable rank-and-file.
 
 It was in those years that the byname found her. Whether the marcher clans first spat it at her as an insult — a Houseless scavenger feeding on the edges of better people's herds — or her own followers took it up in grim pride, no one now remembers; but **Yâsûra the Jackal** is the only name she answers to, and the warband that formed around her, the **[[affiliation-jcklsthmrchs|Jackals]]**, took its name from hers. It is the most feared free company of the southern border: a brotherhood and sisterhood of the Houseless, gathered under a queen who threw her own House away.
 
-### Skills and Abilities
+#### Skills and Abilities
 
 - **The Charíssa**: Yâsûra was trained from girlhood in the Bethûan open-hand killing art, and remains lethal weaponless — a fact that has surprised more than one larger opponent who took an unarmed woman of forty for an easy mark.
 - **Spear-Sister's Craft**: Years as a Lonkha officer gave her real command, tactics, and discipline, which she has bent to the warband — her Jackals fight as a trained pack, not a rabble, and her Spádai core fights in the Bethûan manner.
 - **Mounted Raider**: A superb horsewoman, deadly with scimitar and throwing-axe from the saddle, at home in the waterless marcher country she once patrolled and now rules.
 - **A Personal Stake**: Against [[being-zahirmlkht|Zahira]] in particular she is more dangerous than any contract could make her — she has waited years for the chance to repay the woman who unmade her.
 
-## Psyche
+### Psyche
 
-### Personality and Motivations
+#### Personality and Motivations
 
 Yâsûra is cold, disciplined, and consumed by a grievance she has had years to refine into something patient and exact. She keeps a quiet, bitter devotion to **[[affiliation-morvana|Morvána]]**, the Mistress of the Waning Moon — the Aurèldían goddess of decay and endings, who presides over the slow ruin of all that once flourished. It is a faith Bethûa's sunny state-cult of goddesses does not honour, and exactly the god a cast-out woman would choose: Yâsûra has watched her own House and standing wither to nothing, and has made herself the agent of that same decline visited on others. She does not rage; she remembers. Where a marcher warlord would raid for loot and glory, Yâsûra builds, recruits, and waits, holding her motley band together by force of will, shared exile, and the certainty of what she does to those who fail her.
 
 She is not, in her own telling, a traitor or a monster but a woman who was thrown away by the order she served faithfully — and who has built, out of everything that order discards, a power that owes it nothing. That she would not have her band, her standing, or her purpose without her downfall is an irony she is too proud to examine. Her hatred of Zahira is the one place her discipline cracks: offered the Hound of the Veil, she will overcommit, pursue too far, and spend lives and caution she would otherwise hoard, for the chance to look the thief-taker in the eye before the end.
 
-### Strengths
+#### Strengths
 
 - **The Charíssa and a lifetime of arms** — lethal even unarmed
 - **A disciplined core** of exiled Spádai and Bethûan women who fight in the trained manner
 - **Real command and tactics** from her years as a Lonkha officer
 
-### Weaknesses
+#### Weaknesses
 
 - **The grudge** against [[being-zahirmlkht|Zahira]] clouds her otherwise careful judgement
 - **A divided band**: her loyal Houseless core is small; the marcher men who pad her ranks ride for loot and scatter when it dries up
 - **An exile among exiles**: feared by Bethûa and distrusted by the Marches alike, she has no true country to fall back on
 
-## Social
+### Social
 
-### Enemies
+#### Enemies
 
 - **[[being-zahirmlkht|Zahira Malkhet, the Hound of the Veil]]**: The thief-taker whose long-ago hunt cost Yâsûra her commission, her House, and her country. Yâsûra wants her dead by her own hand, and the present contract to run her down is, to the Jackal-Queen, the settling of the oldest debt she owns as much as any paid job.
 
-### Patrons of Convenience
+#### Patrons of Convenience
 
 - **[[being-casiaveric|Cassia Verric]]**: The Vylarian intelligence officer whose cut-outs have hired the Jackals to bleed away the time [[being-rshrhssfrn|Rashîra]] needs to cross the Marches toward the Kheperi frontier. Yâsûra does not know — or care — whose coin it truly is; she knows only that someone has paid her to do the thing she already meant to do.
 
-### The Band
+#### The Band
 
 - **The [[affiliation-jcklsthmrchs|Jackals of the South Marches]]**: Her own warband and her life's second work — exiled Bethûan women, a hard core of cast-out Spádai eunuch-blades, and marcher men spent as light horse, all of them Houseless. They are her instrument, her standing, and the only home left to her.
 
-### The Prize on Her Ground
+#### The Prize on Her Ground
 
 - **[[being-rshrhssfrn|Rashîra of House Safîrôn]]** and the **Purple Warrant**: The fugitive Grammatíssa is crossing Yâsûra's country with the most valuable object on the southern border — the stolen crown register that proves the matriarchy a profiteer and an oath-breaker against its own patron. Yâsûra was hired only to delay the Hound, not to take the rolls; but a warlord who rules the only road does not stay ignorant of what crosses it for long. Should she grasp what Rashîra carries, the choice is the sharpest of her exile: sell the register to the highest bidder and buy her band a kingdom's worth of coin; carry it to [[affiliation-empirtkhpr|Ta'Kheperu]] and watch the Matriarchy that unmade her brought low; or burn it, and deny every power that ever used her the prize they crave. For the register is the indictment of the very machine that scapegoated her to save itself — and the woman it threw away now holds, by sheerest accident, the power to ruin it.
 
-## Plot Hooks
+### Plot Hooks
 
 1. **The Hunt Comes South**:
 

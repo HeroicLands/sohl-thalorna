@@ -550,11 +550,11 @@ sohl:
     defaultCombatGroup: null
 ---
 
-# Appearance {#appearance}
+## Appearance {#appearance}
 
 Thêbas Ghânîdês is a 51-year-old man who stands 5'11" tall and is of moderate build. He has a diamond face with prominent cheekbones, a high forehead, and a sharp jaw that leads to a prominent chin. His almond-shaped amber eyes sit beneath prominent brows, lending him a measured gaze. A prominent nose and curved lips complete his features. He has olive skin with a weathered complexion. His white hair is tied in a low tail. A notable feature is crow's feet at the corners of sharp eyes.
 
-# Dossier {#dossier}
+## Dossier {#dossier}
 
 Born in the Heliónis region to a freeman family of Helionite heritage, Thêbas Ghânîdês came into the world of the teamster through a combination of circumstance and aptitude.
 
@@ -562,37 +562,37 @@ Cedwin has been a teamster for over thirty years, traveling countless miles and 
 
 Now at 51 years of age, Thêbas Ghânîdês has established himself as a known figure among the teamsters of Heliónis. His reputation, for better or worse, precedes him in the circles where such things matter.
 
-## Psyche
+### Psyche
 
-### Personality
+#### Personality
 
 Slower than he used to be, sometimes struggles with long days on the road.
 
-### Motivation
+#### Motivation
 
 Thêbas is driven by the desire to master his craft and secure a stable future. The uncertainties of life in teamster work keep him vigilant and adaptable.
 
-### Strengths
+#### Strengths
 
 Experienced navigator, skilled in repairs, good with people.
 
-## Social
+### Social
 
 Thêbas is affiliated with Teamsters' Guild.
 
 As a Helionite teamster, Thêbas occupies a recognized social niche within Heliónis society.
 
-## Companions
+### Companions
 
-### Patrons
+#### Patrons
 
 Thêbas's primary patron is Regular merchants who have trusted him for years.. This relationship provides both opportunity and obligation.
 
-### Enemies
+#### Enemies
 
 None; generally well-liked among fellow teamsters.
 
-## Plot Hooks
+### Plot Hooks
 
 1. **The Teamster's Dilemma** — Thêbas faces a professional crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Heliónis.
 

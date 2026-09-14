@@ -581,39 +581,39 @@ sohl:
     defaultCombatGroup: null
 ---
 
-# Appearance {#appearance}
+## Appearance {#appearance}
 
 Thorsteinn stands 6'1" tall with a heavy build. He has tanned weathered skin, black hair, and gray eyes. His features include an oblong face, a straight nose, a heavy jawline, a small mouth, low-set brows.
 
-# Dossier {#dossier}
+## Dossier {#dossier}
 
-## Background
+### Background
 
-### Origins Among the Herds
+#### Origins Among the Herds
 
 Thorsteinn was born into the Járnskel clan, a family of herders whose bloodline extends back generations among the pastoral valleys of Norgaad. His earliest memories are of following his father across windswept highlands, learning to read the moods of livestock and the moods of the weather with equal attentiveness. Where most children played with toys, Thorsteinn practiced herding techniques with the family's mixed flocks. This wasn't education forced upon him—it was the very texture of his life, as natural as breathing.
 
-### The Settling Years
+#### The Settling Years
 
 By his late teens, Thorsteinn had proven himself an exceptional herder, commanding respect from livestock and shepherds alike. He established a personal holding in the high valleys that the Járnskel family claimed, a region of dramatic seasonal variation where only the most dedicated herders could maintain successful flocks. He married **Astrid Ravensong**, a healer's daughter, and together they built what became an increasingly prosperous pastoral operation. Their children—two daughters and a son—were raised in the same tradition, though only the youngest, **Steinn the Younger**, showed the genuine passion for herding that defines the Járnskel line.
 
-### The Current Era
+#### The Current Era
 
 Now, at forty-five, Thorsteinn has become something approaching legendary in Norgaad's pastoral communities. His herds are the healthiest, his livestock the strongest, and farmers from three regions seek his counsel on animal husbandry, disease prevention, and grazing strategies. He's watched the world change around him—new kingdoms rise, trade routes shift, younger herders adopt new techniques—and he's remained largely unmoved, maintaining methods that his grandfather used because those methods still work. There's a stability to **Thorsteinn Járnskel**, a sense that he is as immovable as the mountains themselves.
 
-## Psyche
+### Psyche
 
-### Personality
+#### Personality
 
 Thorsteinn is quiet by nature, the kind of man who speaks only when he has something valuable to say, and who listens far more than he talks. This silence can be mistaken for simplicity by those who don't know him, but it masks a profound intelligence and a deep understanding of complex systems—the delicate balances that maintain healthy herds, the subtle signs that signal coming environmental changes, the intricate web of social relationships within pastoral communities. He is genuinely kind, particularly to those who approach him with honest humility seeking to learn. He has a dry, understated humor that surfaces rarely but carries genuine warmth when it does.
 
 His primary characteristic, however, is his unwavering commitment to his responsibilities. His herds are not economic assets to him—they're family members he has known individually, often from birth, and he carries genuine grief when animals are lost to predation or illness. This emotional investment sometimes strains his family relationships; his wife has occasionally remarked that he treats the livestock with more visible affection than he shows her. His children recognize this as not coldness but rather the particular nature of a man whose heart is bound to his flocks.
 
-### Motivation
+#### Motivation
 
 Thorsteinn is motivated by a desire that extends beyond human ambition—he wants to preserve the pastoral way of life and the knowledge it represents. He sees the world changing in ways that threaten traditional herding, and he works tirelessly to ensure that young herders learn the old wisdom before it's lost entirely. His herds themselves are a kind of legacy, maintained with meticulous care so that the Járnskel bloodlines continue to thrive. Beyond this, he's driven by something almost spiritual—a sense that caring for livestock is a sacred trust, that the animals in his care depend entirely upon his vigilance and wisdom, and that failing them would be a betrayal of something fundamental to his identity.
 
-### Strengths
+#### Strengths
 
 - **Extraordinary Animal Husbandry** - Thorsteinn's understanding of livestock is virtually intuitive. He can diagnose illness from behavioral changes, predict weather shifts from animal responses, manage complex herds with minimal apparent effort, and solve animal-related problems through both traditional and innovative approaches.
 - **Weather Prediction** - Through decades of observation, he has developed an almost supernatural ability to read weather patterns. He can forecast storms, temperature shifts, and seasonal changes with remarkable accuracy, sometimes days in advance of more formal weather wisdom.
@@ -623,7 +623,7 @@ Thorsteinn is motivated by a desire that extends beyond human ambition—he want
 - **Deep Environmental Knowledge** - His decades of intimate engagement with Norgaad's terrain have given him exceptional knowledge of geography, water sources, seasonal patterns, and sustainable resource use.
 - **Genuine Empathy** - Despite his quiet demeanor, Thorsteinn demonstrates genuine care for both animals and people, listening to concerns with patient attention and responding with practical assistance.
 
-### Weaknesses
+#### Weaknesses
 
 - **Inflexible Traditionalism** - Thorsteinn's greatest limitation is his profound attachment to "the way things have always been done." He views innovations with automatic suspicion and rarely adopts new techniques, even when they might improve efficiency or outcomes.
 - **Difficulty with Change** - Beyond herding practices, Thorsteinn struggles to adapt to broader social changes. New economic systems, shifting power structures, or evolving social hierarchies often confuse and frustrate him.
@@ -633,23 +633,23 @@ Thorsteinn is motivated by a desire that extends beyond human ambition—he want
 - **Overprotectiveness** - His commitment to his herds sometimes manifests as possessiveness. He can become defensive about his animals, reluctant to sell livestock or allow others to direct their care, even when such decisions might benefit his family financially.
 - **Physical Aging** - While still capable, Thorsteinn is beginning to experience the wear of decades of physically demanding work. His back aches in cold weather, and sustained physical labor leaves him more exhausted than it did twenty years ago.
 
-## Social
+### Social
 
-### Patrons
+#### Patrons
 
 - **Lord Bjorn Stormborn** - A powerful regional noble who depends on Thorsteinn's expertise to maintain the livestock that supplies his household and feeds his warriors. Bjorn has significant respect for Thorsteinn's judgment and occasionally seeks his counsel on matters beyond herding.
 - **The Pastoral Families of Norgaad** - Thorsteinn has no single patron but rather serves as a trusted advisor to dozens of herding families who regularly seek his counsel and purchase young stock from his herds.
 
-### Enemies
+#### Enemies
 
 - None formally, though there are subtle tensions with younger, more progressive herders who view Thorsteinn's traditionalism as an obstacle to modernization and improved efficiency in pastoral operations.
 
-### Affiliations
+#### Affiliations
 
 - **The Járnskel Clan** - He remains bound to his family, though his primary emotional investment is in his herds rather than in clan politics.
 - **The Norgaad Pastoral Association** - An informal network of herders across the region who gather seasonally to share knowledge and address common challenges. Thorsteinn serves as a respected elder and keeper of traditional wisdom.
 
-## Plot Hooks
+### Plot Hooks
 
 1. **The Plague Among the Herds**: - A mysterious illness begins spreading among livestock across Norgaad, affecting cattle, sheep, and goats indiscriminately. Thorsteinn's herds are among the first infected, and his ability to contain the spread becomes critical to regional survival. The disease appears to have no natural cause, leading to whispers of magical corruption or divine punishment. Thorsteinn must work with healers, nobles, and possibly adventurers to identify the source while watching his beloved herds sicken and die. The crisis tests whether traditional knowledge is sufficient or whether new approaches are necessary for survival.
 

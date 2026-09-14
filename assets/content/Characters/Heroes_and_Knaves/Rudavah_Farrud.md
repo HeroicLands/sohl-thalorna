@@ -609,11 +609,11 @@ sohl:
     defaultCombatGroup: null
 ---
 
-# Appearance {#appearance}
+## Appearance {#appearance}
 
 Rudâvah stands 5'9" tall with a medium build. She has olive-tanned skin, jet black hair, and dark amber eyes. Her features include an oval face, a prominent nose, a narrow chin, well-defined lips, heavy brows, high cheeks. A distinguishing mark is a burn mark on the left hand.
 
-# Dossier {#dossier}
+## Dossier {#dossier}
 
 **Childhood Trauma:** Rudâvah was born in a farming village outside Amradad to a merchant family of modest means. At age eight, a stable fire trapped her protecting a panicked mare. The resulting burns scarred her left hand and wrist permanently but, more importantly, taught her that her instincts about animals were extraordinary—she had known the mare would not abandon the stable, and she had been right. While other children might have developed a fear of animals or fire, Rudâvah developed an obsessive interest in understanding animal behavior and reducing the conditions that caused panic.
 
@@ -621,19 +621,19 @@ Rudâvah stands 5'9" tall with a medium build. She has olive-tanned skin, jet bl
 
 **Current Practice:** Now at thirty, Rudâvah has established herself as the preeminent ostler in the Sultanate, running a small but highly respected stable facility outside the capital. Her reputation extends throughout the region—travelers and nobles alike seek her services, paying premium prices for horse care. She has trained a few apprentices, though she is exacting and demands excellence. She is known for turning down commissions from those she believes would mistreat animals, despite financial pressure to accept all work. A mysterious burn mark on her left hand occasionally causes her pain, a chronic reminder of the event that defined her life path.
 
-## Psyche
+### Psyche
 
-### Personality
+#### Personality
 
 Rudâvah is direct to the point of bluntness, speaking plainly about what she observes and what she recommends, without softening her words for social niceties. With animals, she is patient, almost tender, spending hours with injured or traumatized creatures and seeming to take personal offense at their suffering. With humans, she reserves judgment until they have proven themselves worthy of her respect through actions, not words. She is not unfriendly, but she is not particularly warm either—transactions with her are pleasant and efficient rather than warm.
 
 Her stubbornness is legendary; once she has decided on a course of action or an ethical position, she will not compromise. This makes her an unreliable employee for authority figures (she has quit or been fired from multiple positions for refusing to follow instructions she considered harmful to animals) but a reliable friend for those who value integrity over convenience. She maintains a dry sense of humor about misfortune and a genuine laugh for jokes about animals or the absurdities of human behavior.
 
-### Motivation
+#### Motivation
 
 Rudâvah is driven by a singular, almost obsessive goal: to reduce the suffering of animals in her domain. Every decision she makes is filtered through this lens—she chooses her clients carefully, designs her stable facilities to minimize stress, and constantly researches new techniques for treating injuries and illnesses. Beyond this primary motivation, she harbors a secondary goal: to train her replacement, to pass her knowledge to someone who will maintain her standards after she can no longer work. Finally, she is motivated by a desire to prove that animals deserve better treatment than they traditionally receive—that they are not merely property or tools but sentient beings worthy of respect and care.
 
-### Strengths
+#### Strengths
 
 - **Animal Whisperer:** Her animal craft skill (14 base, 5 focuses) combined with her exceptional empathy (15) and high agility (15) make her virtually unmatched in calming, treating, and understanding horses. Animals respond to her in ways that seem almost mystical.
 - **Exceptional Horsemanship:** Her riding skill (15 base, 5 focuses) allows her to manage even wild or traumatized animals, to communicate nuance through subtle physical signals, and to understand a horse's capabilities and limitations with uncanny precision.
@@ -642,7 +642,7 @@ Rudâvah is driven by a singular, almost obsessive goal: to reduce the suffering
 - **Problem-Solver:** Her reasoning (10) may be modest, but it is focused and practical; she solves animal-related problems through testing and observation rather than abstract thought, and her solutions are eminently sensible.
 - **Melee Competence:** Her melee skill (16 base, 2 focuses) is exceptional, making her capable in direct physical conflict despite her reluctance to engage in violence.
 
-### Weaknesses
+#### Weaknesses
 
 - **Authority Dysphoria:** Her inability to accept orders that contradict her ethical judgments has cost her employment and relationships. She struggles to work within hierarchical structures, especially when superiors make decisions she considers harmful.
 - **Limited Eloquence:** Her low eloquence (10) and discourse ability (10) make her ineffective at persuading others through words; she relies on action and example rather than rhetoric, which limits her ability to influence policy or convince skeptics.
@@ -651,25 +651,25 @@ Rudâvah is driven by a singular, almost obsessive goal: to reduce the suffering
 - **Emotional Constriction:** Her difficulty expressing emotion and connecting with humans beyond practical interaction creates barriers to relationships and makes her appear colder than her genuine nature.
 - **Moral Inflexibility:** Her unwillingness to compromise on animal welfare can put her in opposition to social norms or legal requirements, creating unnecessary conflict.
 
-## Social
+### Social
 
-### Patrons
+#### Patrons
 
 - **Master Jamal of Amradad:** Her former mentor, now retired, who still provides guidance on difficult cases and advocates for her reputation. He is one of the few people with whom Rudâvah maintains something approaching warm relationship.
 - **Captain Amir al-Rashid, Royal Cavalry:** The commander of the Sultanate's cavalry forces, who contracts with Rudâvah for the care and training of elite cavalry mounts. Their relationship is complicated—Amir demands results, but respects Rudâvah's insistence on treating animals well.
 - **Lady Zahra al-Mansur, Merchant Princess:** A wealthy merchant and equestrian enthusiast who has contracted for Rudâvah's services for two decades and provides her with political protection when her stubbornness creates problems with authorities.
 
-### Enemies
+#### Enemies
 
 - **Merchant Hakkim ibn Sahar:** A wealthy trader who once contracted Rudâvah for care of his caravan horses. When she discovered he was pushing animals beyond safe limits and refused to continue serving him, he spread rumors that her care was inadequate. The economic damage was substantial, and Rudâvah has never forgiven him.
 - **The Abusive Stablehands:** Several individuals employed by other facilities have felt her judgment and intervention when she discovers them mistreating animals, and they harbor resentment for her interference and moral lectures.
 - **Her Own Pain:** The chronic pain from her burn mark occasionally resurfaces, both physically and emotionally, reminding her of vulnerability and occasionally triggering dysphoric episodes where she doubts her ability to prevent suffering.
 
-### Affiliations
+#### Affiliations
 
 - **None formal:** Rudâvah maintains independence from official organizations, though she works closely with the Sultanate's cavalry forces and maintains good relations with most of the region's stables and traders.
 
-## Plot Hooks
+### Plot Hooks
 
 1. **The Cursed Stallion:** A beautiful but clearly suffering horse is brought to Rudâvah's stable—no other ostler in the region will work with it, claiming it is cursed or demon-touched. Rudâvah's senses tell her the horse is not cursed but rather magically sick, its distress caused by some magical condition beyond her experience. She must recruit adventurers to investigate the horse's origin, discover what magical condition afflicts it, and potentially journey to dangerous locations to find components or knowledge that will cure it. As she works to save the horse, she becomes convinced that its previous owner deliberately cursed it, and her moral crusade becomes increasingly personal.
 

@@ -552,11 +552,11 @@ sohl:
     defaultCombatGroup: null
 ---
 
-# Appearance {#appearance}
+## Appearance {#appearance}
 
 Godwin Adwell is a 38-year-old man who stands 6'1" tall and is of moderate build. He has a long face with sharp cheekbones, a high forehead, and a rounded jaw that leads to a delicate chin. His bright hazel eyes sit beneath straight brows, lending him a lively gaze. A straight nose and thin lips complete his features. He has pale skin with a ruddy complexion. His gray hair is combed neatly to one side.
 
-# Dossier {#dossier}
+## Dossier {#dossier}
 
 Born in the Aelwyth region to a freeman family of Aelwythan heritage, Godwin Adwell came into the world of the herder through a combination of circumstance and aptitude.
 
@@ -564,37 +564,37 @@ Bronn comes from a long line of herders, spending his life tending sheep and goa
 
 Now at 38 years of age, Godwin Adwell has established himself as a known figure among the herders of Aelwyth. His reputation, for better or worse, precedes him in the circles where such things matter.
 
-## Psyche
+### Psyche
 
-### Personality
+#### Personality
 
 Prefers solitude, struggles with social interactions, stubborn about traditional methods.
 
-### Motivation
+#### Motivation
 
 Godwin is driven by the desire to master his craft and secure a stable future. The uncertainties of life in herder work keep him vigilant and adaptable.
 
-### Strengths
+#### Strengths
 
 Skilled in animal husbandry, knowledgeable about local terrain, calm under pressure.
 
-## Social
+### Social
 
 Godwin is affiliated with None; works independently..
 
 As a Aelwythan herder, Godwin occupies a recognized social niche within Aelwyth society.
 
-## Companions
+### Companions
 
-### Patrons
+#### Patrons
 
 Godwin's primary patron is Local farmers who buy his wool and cheese.. This relationship provides both opportunity and obligation.
 
-### Enemies
+#### Enemies
 
 Few, though some nearby farmers have disputes over grazing rights.
 
-## Plot Hooks
+### Plot Hooks
 
 1. **The Herder's Dilemma** — Godwin faces a professional crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Aelwyth.
 

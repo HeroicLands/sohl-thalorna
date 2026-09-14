@@ -596,11 +596,11 @@ sohl:
     defaultCombatGroup: null
 ---
 
-# Appearance {#appearance}
+## Appearance {#appearance}
 
 Thêsaloníke stands 5'10" tall with a medium build. She has golden-toned skin, auburn hair, and green eyes. Her features include a diamond-shaped face, a straight nose, a narrow chin, an expressive mouth, arched brows, prominent cheeks.
 
-# Dossier {#dossier}
+## Dossier {#dossier}
 
 Thêsaloníke was born into the Katharópoulos family in the heavily forested regions of the **Byzarian League**, in a village built literally within the forest itself. Her father, **Petros Katharópoulos**, was a respected woodcutter of modest renown, skilled but not ambitious. Her mother died when Thêsaloníke was young, leaving her father to raise three children with only the forest for support. Where her brothers sought other livelihoods—one became a stonemason, the other a merchant—Thêsaloníke showed early aptitude for woodcraft.
 
@@ -608,19 +608,19 @@ Her father initially resisted teaching her, believing the work unsuitable for a 
 
 Now thirty-four, Thêsaloníke has established herself as a master of her craft. She specializes in the selective harvesting of timber—taking only mature trees and in patterns that sustain the forest rather than strip it. Her reputation for both skill and forestry wisdom has made her sought-after by builders, furniture makers, and increasingly by those concerned with preserving woodland resources. She maintains membership in the **Woodcutters' Guild** but often works independently on specialized contracts.
 
-## Psyche
+### Psyche
 
-### Personality
+#### Personality
 
 Thêsaloníke is a woman of few words but genuine warmth. She expresses herself primarily through her work—perfect joints in furniture, sustainable practices in harvesting, and meticulous craftsmanship in everything she undertakes. She has little patience for idle conversation but will engage in substantive discussion for hours if the topic interests her. With clients and colleagues who show respect for both her work and the forest, she is remarkably generous with her time and knowledge.
 
 Her stubbornness is legendary among woodcutters, but it is a principled stubbornness rooted in genuine conviction about how forests should be managed. She will not compromise on practices she believes damage long-term sustainability, regardless of how much money she might earn. This has cost her lucrative contracts but has also earned her the deep respect of those who value stewardship over profit.
 
-### Motivation
+#### Motivation
 
 Thêsaloníke is driven by a profound love for the forests of her homeland and a determination to prove that harvesting timber and preserving forests are not inherently opposed goals. She wants to demonstrate that a woman can master a trade traditionally dominated by men, and that doing so with integrity and wisdom is more valuable than any amount of unethical profit. She also carries a personal mission: to ensure that the practices of careless woodcutters do not destroy the forests her descendants will inherit.
 
-### Strengths
+#### Strengths
 
 - **Master Timbercraftsman**: Thêsaloníke's understanding of wood—its properties, growth patterns, and potential—is encyclopedic. She can assess a forest and know immediately which trees should be harvested and which preserved.
 - **Exceptional Strength and Skill**: Her ability to fell a tree exactly as intended, to judge its fall with precision, and to maximize usable timber from each cut is extraordinary. She has never had an accident in decades of work.
@@ -628,7 +628,7 @@ Thêsaloníke is driven by a profound love for the forests of her homeland and a
 - **Sustainable Practices Expertise**: Her knowledge of forest management and sustainable harvesting is advanced and continually evolving. Architects and builders specifically seek her timber because of its quality and ethical provenance.
 - **Resilience and Endurance**: Decades of hard physical labor have made her remarkably durable. She can work in harsh conditions and recover quickly from exertion.
 
-### Weaknesses
+#### Weaknesses
 
 - **Stubbornness**: Thêsaloníke's principles are admirable but can make her inflexible. She will refuse lucrative contracts on moral grounds, costing herself and potentially her family financially.
 - **Limited Negotiation Skills**: She struggles with business negotiations, often accepting less favorable terms rather than haggle. Her bluntness can offend potential clients in cities where subtlety is valued.
@@ -636,26 +636,26 @@ Thêsaloníke is driven by a profound love for the forests of her homeland and a
 - **Difficulty with Urban Environments**: She is uncomfortable in cities and formal settings, feeling out of place and slightly contemptuous of those she views as soft or disconnected from honest work.
 - **Risk of Burnout**: The constant weight of sustaining both her livelihood and her principles can be exhausting. She occasionally struggles with despair about the larger forces destroying forests regardless of her efforts.
 
-## Social
+### Social
 
-### Patrons
+#### Patrons
 
 - **Master Carpenter **Stavros Leontidis\*\*: A renowned furniture maker who commissions Thêsaloníke specifically for rare wood projects. He values her craftsmanship and has become a trusted colleague and occasional confidant.
 - **The Architects' Collective of the **Byzarian League\*\*: A group of progressive builders committed to sustainable construction. They seek Thêsaloníke's timber for high-profile projects and trust her judgment on material selection.
 - **The Monastery of Silent Waters**: A religious community in the forest that employs Thêsaloníke to manage their woodlands sustainably while generating income. The head priest, **Father Damian**, shares her conservation philosophy.
 
-### Enemies
+#### Enemies
 
 - **The Logging Consortium of the Byzarian League**: A commercial enterprise that prioritizes profit over sustainability. Their operation manager, **Master Harvester Mikhail**, views Thêsaloníke as an irritant and has attempted to undercut her contracts.
 - **Corrupt Guild Officials**: Some members of the **Woodcutters' Guild** resent her for raising standards and are occasionally hostile toward her work practices.
 - **Unscrupulous Competing Woodcutters**: Several rivals view her sustainable practices as economically foolish and have spread rumors about her reliability and quality.
 
-### Affiliations
+#### Affiliations
 
 - **The Woodcutters' Guild of the Byzarian League**: Thêsaloníke maintains membership and serves informally as an advocate for sustainable practices.
 - **The Forest Stewards' Council**: An informal association of woodworkers, builders, and conservationists dedicated to balancing timber harvesting with forest preservation.
 
-## Plot Hooks
+### Plot Hooks
 
 1. **The Ancient Grove**: A developer seeks to purchase rights to harvest timber from the oldest forest in the region—a grove so ancient that **druids** are rumored to guard it. Thêsaloníke is approached both by the developer and by forest advocates. Her investigation reveals the grove may contain answers to environmental catastrophes and that powerful forces—both commercial and magical—are manipulating the situation.
 

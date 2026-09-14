@@ -617,11 +617,11 @@ sohl:
     defaultCombatGroup: null
 ---
 
-# Appearance {#appearance}
+## Appearance {#appearance}
 
 Rosharan stands 5'11" tall with a medium build. She has light olive skin, dark black hair, and dark brown eyes. Her features include a long face, a prominent nose, an angular jawline, full lips, dark brows. A distinguishing mark is a tattoo of a bear on the left arm.
 
-# Dossier {#dossier}
+## Dossier {#dossier}
 
 **Childhood on the Waves:** Rosharan was born in the bustling port city of Tahrodan, the only child of a merchant sailor and a dock administrator. Her childhood was consumed by the sea—she learned to read waves before letters, understood hull construction before grammar, and spent more time on vessels than in homes. Her parents recognized early that she possessed not merely competence with ships but a genuine gift for understanding their architecture and potential. By age twelve, she was apprenticed to **Master Shipwright Khalid Hammerhand**, the legendary designer of the Sultanate's finest vessels.
 
@@ -629,19 +629,19 @@ Rosharan stands 5'11" tall with a medium build. She has light olive skin, dark b
 
 **Current Innovations:** Now at thirty-five, Rosharan operates a prestigious shipyard near the Amradad harbor, known throughout the Sultanate for vessels that balance traditional beauty with revolutionary functionality. Her designs have attracted adventurers, explorers, and merchants willing to pay premium prices for ships that outperform their competitors. She has begun mentoring younger craftspeople, though she remains personally involved in every major project, unable to fully delegate her vision. Recent commissions include an experimental deep-water explorer for the Royal Survey Corps and a revolutionary merchant vessel designed to withstand monsoon conditions.
 
-## Psyche
+### Psyche
 
-### Personality
+#### Personality
 
 Rosharan is a blend of the practical and the dreamer—her feet planted firmly in measurable reality while her imagination soars toward what might be. She speaks with the directness of someone accustomed to giving orders and having them followed, yet her tone carries no arrogance, merely confidence earned through decades of successful innovation. She becomes animated when discussing design, suddenly expansive in ways she is not in casual conversation, speaking rapidly about hydrodynamics, load-bearing calculations, and the poetry of a well-balanced hull.
 
 Despite her success and confidence, Rosharan carries a quiet vulnerability—a fear that her innovations, while admired, are being stolen and replicated by less creative minds, that she will be remembered not as a visionary but as merely the first person to stumble upon ideas that others develop more effectively. This fear drives her relentless pursuit of new challenges and her inability to remain satisfied with past successes. In social settings, she is somewhat reserved, though capable of dry humor and warm hospitality toward those who engage her genuinely about her craft.
 
-### Motivation
+#### Motivation
 
 Rosharan is fundamentally driven by the desire to push the boundaries of what ships can be and accomplish. She believes that the perfect marriage of form and function, beauty and capability, can yet be achieved—that the great vessels of legend are not things of the past but potential futures waiting to be built. Beyond personal achievement, she is motivated by a deep respect for the sea and a desire to create vessels that honor that respect through superior design, giving sailors better chances of survival in perilous conditions. She also seeks to establish her family name—Barmandan—as synonymous with maritime excellence across generations, creating a legacy that will outlive her.
 
-### Strengths
+#### Strengths
 
 - **Master Shipwright:** With a base skill of 16 in Shipwright and five specialty focuses, she can design and construct vessels of astounding quality and innovation, adapting designs to specific purposes with remarkable flexibility.
 - **Mathematical Precision:** Her reasoning (16) and exceptional mathematics skill (16 base, 4 focuses) allow her to perform complex calculations regarding weight distribution, hull stress, and hydrodynamics that other craftspeople must estimate.
@@ -650,7 +650,7 @@ Rosharan is fundamentally driven by the desire to push the boundaries of what sh
 - **Perceptive Eye:** Her exceptional perception (15) and awareness (14) make her able to spot flaws in design or construction before they become catastrophic problems, and to understand a client's needs from minimal description.
 - **Strategic Thinker:** Her creativity (17) and discourse ability (14) allow her to conceptualize novel solutions to engineering challenges and convincingly present radically new ideas to skeptical clients.
 
-### Weaknesses
+#### Weaknesses
 
 - **Perfectionist Paralysis:** Her inability to accept anything as "good enough" sometimes causes her to miss deadlines or pursue endless refinement on projects that clients simply need completed.
 - **Conservative Client Alienation:** Her tendency to push clients toward experimental designs rather than proven ones has cost her lucrative commissions from traditional merchants and military brass who value reliability over innovation.
@@ -659,26 +659,26 @@ Rosharan is fundamentally driven by the desire to push the boundaries of what sh
 - **Physical Vulnerability:** While competent in combat (melee 14, archery 15), she is not a warrior and relies on her craftspeople for protection in dangerous situations.
 - **Overconfidence in Design:** Her absolute conviction in the superiority of her designs can blind her to legitimate concerns from experienced sailors or engineers with different perspectives.
 
-## Social
+### Social
 
-### Patrons
+#### Patrons
 
 - **Master Khalid Hammerhand:** Her former mentor and the preeminent authority on shipcraft in the Sultanate, Khalid remains Rosharan's primary confidant and advisor. Though officially retired, he reviews her most ambitious designs and provides sage counsel about navigating Guild politics.
 - **Lady Yasmin Mirza, Royal Survey Corps:** The commander of the Sultanate's maritime exploration division has become a consistent client and enthusiastic advocate, funding Rosharan's most experimental work in exchange for first access to innovative designs.
 - **The Merchant Consortium of Tahrodan:** The primary shipping authority in the major port city has contracted with Rosharan for multiple vessels and provides steady income, though conservative members sometimes clash with her approach.
 
-### Enemies
+#### Enemies
 
 - **Master Shipwright Davoud al-Farsi:** A rival craftsman from a competing shipyard who views Rosharan's popularity as an affront to "proper" tradition. He has launched a quiet campaign to convince traditional merchants that her innovations are unreliable, spreading rumors about ships that foundered using her designs (most false or exaggerated).
 - **The Iron Guilds Coalition:** A conservative alliance of traditional craftspeople across multiple disciplines who see her innovations as threats to apprenticeship systems and established practices. They lobby the Guild to revoke her membership or restrict her practices.
 - **The Reaver Fleet:** A privateer organization that seized one of her ships during its maiden voyage and has used it successfully for raiding. Rosharan takes this as a personal insult and has sworn to recover or destroy the vessel.
 
-### Affiliations
+#### Affiliations
 
 - **Coastal Shipwrights' Guild:** A formal member of the Sultanate's primary maritime craft organization, though her relationship with the Guild is complicated by her unconventional methods.
 - **The Innovators' Collective:** An informal network of craftspeople, engineers, and architects who believe in pushing the boundaries of their crafts; Rosharan is a founding member and occasional convenor.
 
-## Plot Hooks
+### Plot Hooks
 
 1. **The Lost Vessel of Legend:** An old sailor approaches Rosharan in a harbor tavern, claiming to possess maps to the wreck of _Zharifa's Dream_, a legendary ship said to have been built by the greatest craftspeople of the pre-Sultanate era. The sailor offers to guide her to the wreck in exchange for a share of any salvage, but the wreck lies in dangerous waters controlled by pirates and protected by a cursed reef. More intriguingly, some of the ship's structural innovations are unlike anything in the current maritime tradition—if Rosharan can study the wreck, she might discover lost techniques from a golden age of shipbuilding, but the expedition requires adventurers to handle the dangers she cannot.
 

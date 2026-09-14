@@ -527,11 +527,11 @@ sohl:
     defaultCombatGroup: null
 ---
 
-# Appearance {#appearance}
+## Appearance {#appearance}
 
 Êrmyn is slight — 5'8" and 128 pounds, with a light build that makes him seem younger than his twenty-three years. His hair is prematurely gray, a shock of silver-white that he keeps cropped close to his skull, and his dark brown eyes are large and watchful in a medium-toned, rugged face that carries more tension than a man his age should. His features are fine — narrow jaw, high cheekbones, a thin nose — with the slightly hollowed look of someone who does not eat or sleep enough. He moves quietly, almost silently, a habit from years as a refugee when making noise meant danger. He wears the forest-town guard's standard kit — leather tunic, quilted padding, soft boots — but everything hangs slightly loose on his spare frame, and he keeps his cloak drawn close regardless of weather, as though perpetually braced against cold.
 
-# Dossier {#dossier}
+## Dossier {#dossier}
 
 Êrmyn was born to Élavendren parents but does not remember his early childhood. He was part of a refugee cohort that fled political persecution twelve years ago, when he was eleven years old. The experience of flight, loss, and displacement marked him in ways that remain visible in his bearing. His parents died during the journey (he will not say how), and he was taken in by a settlement near Élavendre's forest edge—a community that specialized in accepting refugees and integrating them into its life.
 
@@ -539,35 +539,35 @@ At eighteen, he joined the local town guard not out of ambition but out of pragm
 
 At twenty-three, he has served five years in the town guard and has earned the respect of older, more experienced officers. His prematurely gray hair—a stress response that began during his refugee years—has become his identifying feature. He speaks quietly, often barely audible, and uses fewer words than almost anyone in his town. His reputation is for being the guard who notices things others miss and who remains calm under stress.
 
-## Psyche
+### Psyche
 
-### Personality
+#### Personality
 
 Êrmyn is quiet to the point of seeming mute. He speaks only when necessary and often seems to be observing rather than participating. He is extraordinarily aware of his surroundings and reads danger signs that others miss. He is not unfriendly but is deeply private about his internal emotional state. He has learned not to trust easily, and his relationships are characterized by caution. He moves with the deliberate silence of someone for whom noise can be dangerous.
 
-### Motivation
+#### Motivation
 
 Êrmyn's primary motivation is simple survival and security. He has experienced the worst that the world offers and has no illusions about human nature. His secondary motivation, which he rarely articulates even to himself, is the desire to protect the refugee community that saved him from death as a displaced child. He wants to ensure that others do not experience the suffering he endured.
 
-### Strengths
+#### Strengths
 
 His awareness of danger is preternatural. His ability to move silently and remain unnoticed is exceptional. His physical competence is solid and reliable. His emotional restraint allows him to remain calm under stress that would destabilize others.
 
-## Social
+### Social
 
 Êrmyn is regarded with a mixture of respect and unease by his community. His status as refugee-turned-guard makes him something of a symbol of successful integration, but his obvious trauma and emotional distance make people uncomfortable in extended interaction with him. He is welcomed but not fully accepted.
 
-## Companions
+### Companions
 
-### Patrons
+#### Patrons
 
 **Town Magistrate Aelwen Forestsong** — The administrator of the forest-edge town. Aelwen was instrumental in the refugee integration program and personally advocated for Êrmyn's acceptance. She has become his primary patron and has made it clear that she trusts him absolutely. She has also quietly supported his continued education and personal development.
 
-### Enemies
+#### Enemies
 
 **Local Extremist Kessian Forestborn** — A Élavendren traditionalist who views refugees as a contamination of local culture. Kessian has publicly opposed the refugee settlement and has made it clear that he resents Êrmyn's presence in the guard. He spreads rumors that Êrmyn is a spy for external powers and that his refugee background makes him untrustworthy.
 
-## Plot Hooks
+### Plot Hooks
 
 1. **The Refugee Crisis Revisited** — A new wave of refugees arrives at the forest-edge town, fleeing the same political persecution that displaced Êrmyn a decade ago. The new arrivals include people Êrmyn knew in his childhood—people from his refugee cohort who scattered years before. Some want to stay and settle; others are being actively hunted by the persecutors they fled. The town becomes divided about accepting the refugees. Êrmyn is personally invested in their survival but must maintain professional impartiality. Kessian uses the crisis to demand that Êrmyn be dismissed as potentially biased in favor of refugees.
 

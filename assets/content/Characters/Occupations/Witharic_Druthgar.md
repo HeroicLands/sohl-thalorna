@@ -556,11 +556,11 @@ sohl:
     defaultCombatGroup: null
 ---
 
-# Appearance {#appearance}
+## Appearance {#appearance}
 
 Wítharic Druthgar is a 42-year-old man who stands 6'0" tall and is broad and solidly built. He has a diamond face with broad cheekbones, a lined forehead, and a heavy jaw that leads to a strong chin. His piercing blue eyes sit beneath thick brows, lending him a penetrating gaze. A broad nose and thin lips complete his features. He has medium-toned skin with a weathered complexion. His dark brown hair is matted from years of outdoor work. A notable feature is a burn scar on the right forearm.
 
-# Dossier {#dossier}
+## Dossier {#dossier}
 
 Born in the Vrystwald region to a guilded family of Varokhi heritage, Wítharic Druthgar came into the world of the shipwright through a combination of circumstance and aptitude.
 
@@ -568,37 +568,37 @@ Thorne hails from a long line of shipwrights and inherited his family's business
 
 Now at 42 years of age, Wítharic Druthgar has established himself as a known figure among the shipwrights of Vrystwald. His reputation, for better or worse, precedes him in the circles where such things matter.
 
-## Psyche
+### Psyche
 
-### Personality
+#### Personality
 
 Poor management skills, quick-tempered under stress.
 
-### Motivation
+#### Motivation
 
 Wítharic is driven by the desire to master his craft and secure a stable future. The uncertainties of life in shipwright work keep him vigilant and adaptable.
 
-### Strengths
+#### Strengths
 
 Expertise in constructing durable warships, strong work ethic.
 
-## Social
+### Social
 
 Wítharic is affiliated with Maritime Shipwrights' Guild.
 
 As a Varokhi shipwright, Wítharic occupies a recognized social niche within Vrystwald society.
 
-## Companions
+### Companions
 
-### Patrons
+#### Patrons
 
 Wítharic's primary patron is Nobles and military officials seeking warships.. This relationship provides both opportunity and obligation.
 
-### Enemies
+#### Enemies
 
 Bureaucrats who clash with his no-nonsense approach.
 
-## Plot Hooks
+### Plot Hooks
 
 1. **The Shipwright's Dilemma** — Wítharic faces a professional crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Vrystwald.
 

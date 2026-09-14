@@ -550,11 +550,11 @@ sohl:
     defaultCombatGroup: null
 ---
 
-# Appearance {#appearance}
+## Appearance {#appearance}
 
 Rýlden Brânwyld is a 56-year-old man who stands 6'2" tall and is broad and solidly built. He has a long face with wide-set cheekbones, a narrow forehead, and a narrow jaw that leads to a strong chin. His hooded hazel eyes sit beneath expressive brows, lending him a guarded gaze. An aquiline nose and expressive lips complete his features. He has medium-toned skin with a lined with age complexion. His gray hair is shoulder-length and loose.
 
-# Dossier {#dossier}
+## Dossier {#dossier}
 
 Born in the Provènzia region to a noble family of Provenzian heritage, Rýlden Brânwyld came into the world of the chieftain through a combination of circumstance and aptitude.
 
@@ -562,37 +562,37 @@ Thrand is the chieftain of a powerful tribal clan known for their warriors and h
 
 Now at 56 years of age, Rýlden Brânwyld has established himself as a known figure among the chieftains of Provènzia. His reputation, for better or worse, precedes him in the circles where such things matter.
 
-## Psyche
+### Psyche
 
-### Personality
+#### Personality
 
 Paranoid and slow to trust others, especially outsiders.
 
-### Motivation
+#### Motivation
 
 Rýlden is driven by the desire to master his craft and secure a stable future. The uncertainties of life in chieftain work keep him vigilant and adaptable.
 
-### Strengths
+#### Strengths
 
 Skilled warrior, experienced leader, strong in negotiation and tactics.
 
-## Social
+### Social
 
 Rýlden is affiliated with Tribal Council.
 
 As a Provenzian chieftain, Rýlden occupies a recognized social niche within Provènzia society.
 
-## Companions
+### Companions
 
-### Patrons
+#### Patrons
 
 Rýlden's primary patron is Tribal elders who support his rule.. This relationship provides both opportunity and obligation.
 
-### Enemies
+#### Enemies
 
 Rival chieftains who wish to take his territory.
 
-## Plot Hooks
+### Plot Hooks
 
 1. **The Chieftain's Dilemma** — Rýlden faces a professional crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Provènzia.
 

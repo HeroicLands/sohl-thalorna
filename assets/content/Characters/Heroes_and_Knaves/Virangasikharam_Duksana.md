@@ -584,11 +584,11 @@ sohl:
     defaultCombatGroup: null
 ---
 
-# Appearance {#appearance}
+## Appearance {#appearance}
 
 Vīrāṅgaśikharam stands 6'0" tall with a medium build. He has deep brown skin, very dark brown hair, and hazel eyes. His features include a round face, a delicate nose, a rounded chin, generous lips, deep brows, full cheeks.
 
-# Dossier {#dossier}
+## Dossier {#dossier}
 
 **The Burden of Inheritance**
 
@@ -602,9 +602,9 @@ When Vīrāṅgaśikharam inherited the manor at the age of twenty-four, followi
 
 Now at thirty-three winters, Vīrāṅgaśikharam finds himself in an unusual position: respected by the common folk and progressive nobles for his innovations, yet viewed with suspicion by traditional powers who sense in his philosophy a challenge to their way of life. He maintains an impossible balance between idealistic conviction and pragmatic governance, constantly aware that his position grants him privilege but also imposes responsibility to those who depend upon his stewardship. He has begun to receive inquiries from other city-states seeking to adopt his methods, placing him in the uncomfortable position of having to choose between expanding his influence and maintaining focus on his own manor. This choice will likely define the next chapter of his life.
 
-## Psyche
+### Psyche
 
-### Personality
+#### Personality
 
 Vīrāṅgaśikharam is characterized by quiet intelligence and measured deliberation. Where other nobles might immediately assert authority through declarations and displays of power, he tends to pose questions, gather information, and think through implications before committing to a course of action. This methodical approach sometimes reads as hesitation or weakness to those accustomed to more aggressive leadership styles, but his steadily mounting successes have begun to establish deliberation as a form of strength rather than timidity.
 
@@ -612,44 +612,44 @@ He possesses a genuine warmth in his dealings with those he considers equals—w
 
 One of his defining characteristics is his tendency toward idealism—a belief in the possibility of systems that benefit all parties involved rather than enriching only the powerful at others' expense. This idealism has led him to some notable successes but has also made him vulnerable to exploitation by those willing to feign alignment with his values to gain concessions. He struggles with the reality that not everyone shares his conviction that prosperity can be mutual.
 
-### Motivation
+#### Motivation
 
 Vīrāṅgaśikharam is driven by a fundamental belief that leadership carries with it an inviolable obligation to the welfare of those it governs. He has rejected the assumption, so prevalent among his class, that nobility exists for the purpose of extracting maximum benefit from their lands and peoples. Instead, he envisions a system in which the productivity of the land and the well-being of its workers rise together, creating abundance that benefits all parties involved. He seeks to prove—through practical demonstration—that enlightened self-interest and genuine compassion for the common welfare are not contradictory goals but mutually reinforcing ones. The driving force behind his actions is the desire to leave his lands and his people more prosperous than he found them, and to demonstrate to the broader world that alternative systems are possible.
 
-### Strengths
+#### Strengths
 
 - **Agricultural Mastery**: Vīrāṅgaśikharam possesses both theoretical knowledge and practical experience in optimizing crop production, soil management, and sustainable land stewardship. His innovations have measurably increased yields across his territories.
 - **Clear-Eyed Pragmatism**: Despite his idealistic leanings, he is capable of making difficult decisions when necessity demands, and he does not allow dreams of the perfect to prevent achievement of the good.
 - **Natural Authority**: Those under his stewardship—from lowest laborer to visiting nobles—consistently describe him as someone worth following, even when his decisions prove unpopular. This stems from his visible commitment to his stated principles.
 - **Strategic Intellect**: His mathematical mind allows him to see patterns and predict outcomes in economic and political matters, making him a shrewd administrator and negotiator.
 
-### Weaknesses
+#### Weaknesses
 
 - **Naïveté Regarding Power**: Vīrāṅgaśikharam sometimes underestimates the depth of entrenched interests working against his reforms and does not always appreciate how threatened other nobles feel by his success.
 - **Difficulty with Political Theater**: He struggles with the performative aspects of nobility—the posturing, the flattery, the careful cultivation of advantages through social maneuvering. His straightforwardness can read as arrogance or awkwardness in court settings.
 - **Idealistic Overreach**: He can be blinded by his own vision of what is possible, sometimes pushing too hard or too fast for changes that might have succeeded with more gradual implementation and better preparation of public opinion.
 - **Vulnerability to Betrayal**: His assumption that others share his genuine desire for mutual prosperity leaves him vulnerable to those who merely feign alignment while pursuing purely selfish goals.
 
-## Social
+### Social
 
-### Patrons
+#### Patrons
 
 - **The Vedyara Farmers' Collective**: A loose association of agricultural workers who view Vīrāṅgaśikharam as their advocate within the nobility, having improved working conditions and payment structures across the entire region.
 - **Merchant Lord Tâvâros**: A wealthy trader from a distant city-state who has recognized the potential profit in the improved agricultural products emerging from Dukṣana lands and has become a reliable buyer of the finest harvest.
 - **The Council of Progressive City-States**: An informal coalition of forward-thinking rulers from multiple Vedyaran settlements who see in Vīrāṅgaśikharam a model for enlightened governance and consult him on matters of economic development.
 
-### Enemies
+#### Enemies
 
 - **Lord Śarvâdhara of the Eastern Reaches**: A powerful and conservative noble whose traditional extraction-based methods have become less profitable since surrounding farmers began following Dukṣana's example. He views Vīrāṅgaśikharam as an existential threat to his way of life.
 - **The Syndicate of Merchant Guilds**: Traditional trading houses whose monopolistic practices depended upon controlling access to goods. Dukṣana's fair pricing and direct merchant relationships undercut their profit margins and have made him a target for various schemes to discredit or destabilize him.
 - **Vyâdhar the Silent**: A former steward of the Dukṣana house who was dismissed for corrupt practices and now serves unknown masters, working subtly to undermine the manor's prosperity and prove Vīrāṅgaśikharam's methods ultimately unsustainable.
 
-### Affiliations
+#### Affiliations
 
 - **The Agricultural Society of Vedyara**: Vīrāṅgaśikharam holds a position of considerable influence within this organization and uses his standing to advocate for innovation and fair labor practices.
 - **The Council of Vedyaran Rulers**: He maintains formal relationships with the other noble houses of the city-states, serving as an advisor on economic matters to those willing to listen.
 
-## Plot Hooks
+### Plot Hooks
 
 1. **The Famine Gambit**: A severe drought strikes the region, threatening catastrophic crop failure not only for the Dukṣana manor but for all surrounding territories. While other lords scramble to hoard supplies and raise prices, Vīrāṅgaśikharam's accumulated grain reserves allow him to support both his own people and neighboring settlements. However, a rival lord interprets this generosity as weakness and political maneuvering, seeing an opportunity to consolidate power. The adventurers become embroiled in a complex situation where humanitarian action creates dangerous political vulnerabilities, and they must find ways to maintain Vīrāṅgaśikharam's ability to help while protecting him from those who would exploit his compassion.
 

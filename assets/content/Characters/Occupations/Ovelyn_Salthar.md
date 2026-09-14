@@ -552,11 +552,11 @@ sohl:
     defaultCombatGroup: null
 ---
 
-# Appearance {#appearance}
+## Appearance {#appearance}
 
 Óvelyn Sálthar is a 29-year-old woman who stands 5'3" tall and is slender. She has a diamond face with wide-set cheekbones, a narrow forehead, and a sharp jaw that leads to a narrow chin. Her round brown eyes sit beneath thin brows, lending her a candid gaze. A delicate nose and thin lips complete her features. She has fair skin with a smooth complexion. Her blonde hair is swept up and held with carved combs.
 
-# Dossier {#dossier}
+## Dossier {#dossier}
 
 Born in the Élavendre region to a freeman family of Élavendri heritage, Óvelyn Sálthar came into the world of the chandler through a combination of circumstance and aptitude.
 
@@ -564,37 +564,37 @@ Gwyneth is a young chandler who recently started her own business after apprenti
 
 Now at 29 years of age, Óvelyn Sálthar has established herself as a known figure among the chandlers of Élavendre. Her reputation, for better or worse, precedes her in the circles where such things matter.
 
-## Psyche
+### Psyche
 
-### Personality
+#### Personality
 
 Inexperienced in running a business, struggles with pricing and supply management.
 
-### Motivation
+#### Motivation
 
 Óvelyn is driven by the desire to master her craft and secure a stable future. The uncertainties of life in chandler work keep her vigilant and adaptable.
 
-### Strengths
+#### Strengths
 
 Creative and skilled at crafting aesthetically pleasing candles.
 
-## Social
+### Social
 
 Óvelyn is affiliated with None yet, but interested in joining a craft guild..
 
 As a Élavendri chandler, Óvelyn occupies a recognized social niche within Élavendre society.
 
-## Companions
+### Companions
 
-### Patrons
+#### Patrons
 
 Óvelyn's primary patron is Local clergy and townsfolk who buy her candles for special events.. This relationship provides both opportunity and obligation.
 
-### Enemies
+#### Enemies
 
 Established chandlers who view her as competition.
 
-## Plot Hooks
+### Plot Hooks
 
 1. **The Chandler's Dilemma** — Óvelyn faces a professional crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Élavendre.
 

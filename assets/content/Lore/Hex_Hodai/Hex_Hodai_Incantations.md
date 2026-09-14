@@ -12,7 +12,7 @@ name:
 packFolder: affiliationshexhodai
 ---
 
-# Pyréthos (Fire)
+## Pyréthos (Fire)
 
 ```sql
 SELECT address.slug          AS _ref,
@@ -26,7 +26,7 @@ WHERE type = 'mysticalability'
 ORDER BY sohl.system.levelBase, name.full COLLATE NOCASE
 ```
 
-# Zephäris (Air)
+## Zephäris (Air)
 
 ```sql
 SELECT address.slug          AS _ref,
@@ -40,7 +40,7 @@ WHERE type = 'mysticalability'
 ORDER BY sohl.system.levelBase, name.full COLLATE NOCASE
 ```
 
-# Physéra (Earth/Life)
+## Physéra (Earth/Life)
 
 ```sql
 SELECT address.slug          AS _ref,
@@ -54,7 +54,7 @@ WHERE type = 'mysticalability'
 ORDER BY sohl.system.levelBase, name.full COLLATE NOCASE
 ```
 
-# Hydälis (Water)
+## Hydälis (Water)
 
 ```sql
 SELECT address.slug          AS _ref,
@@ -68,7 +68,7 @@ WHERE type = 'mysticalability'
 ORDER BY sohl.system.levelBase, name.full COLLATE NOCASE
 ```
 
-# Sidéros (Metal)
+## Sidéros (Metal)
 
 ```sql
 SELECT address.slug          AS _ref,
@@ -82,7 +82,7 @@ WHERE type = 'mysticalability'
 ORDER BY sohl.system.levelBase, name.full COLLATE NOCASE
 ```
 
-# Pneuménos (Spirit)
+## Pneuménos (Spirit)
 
 ```sql
 SELECT address.slug          AS _ref,
@@ -96,7 +96,7 @@ WHERE type = 'mysticalability'
 ORDER BY sohl.system.levelBase, name.full COLLATE NOCASE
 ```
 
-# Kentra ( _The Center All_)
+## Kentra ( _The Center All_)
 
 ```sql
 SELECT address.slug          AS _ref,
@@ -110,6 +110,6 @@ WHERE type = 'mysticalability'
 ORDER BY sohl.system.levelBase, name.full COLLATE NOCASE
 ```
 
-# See Also
+## See Also
 
 - [[lore-hexhodai|Héx Hodäi]]

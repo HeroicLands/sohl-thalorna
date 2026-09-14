@@ -550,11 +550,11 @@ sohl:
     defaultCombatGroup: null
 ---
 
-# Appearance {#appearance}
+## Appearance {#appearance}
 
 Árisla Kórisvar is a 32-year-old woman who stands 6'0" tall and is slender. She has a heart-shaped face with high cheekbones, a narrow forehead, and a narrow jaw that leads to a firm chin. Her piercing gray eyes sit beneath expressive brows, lending her a penetrating gaze. An aquiline nose and narrow lips complete her features. She has olive-tanned skin with a weathered complexion. Her black hair is twisted into an elaborate arrangement. A notable feature is laugh lines around the eyes.
 
-# Dossier {#dossier}
+## Dossier {#dossier}
 
 Born in the Provènzia region to a freeman family of Provenzian heritage, Árisla Kórisvar came into the world of the herald through a combination of circumstance and aptitude.
 
@@ -562,37 +562,37 @@ Lady Elowen Faircourt was born into a minor noble family known for their service
 
 Now at 32 years of age, Árisla Kórisvar has established herself as a known figure among the heralds of Provènzia. Her reputation, for better or worse, precedes her in the circles where such things matter.
 
-## Psyche
+### Psyche
 
-### Personality
+#### Personality
 
 Sometimes lacks the gravitas expected of a herald, can be overly diplomatic.
 
-### Motivation
+#### Motivation
 
 Árisla is driven by the desire to master her craft and secure a stable future. The uncertainties of life in herald work keep her vigilant and adaptable.
 
-### Strengths
+#### Strengths
 
 Charismatic, adaptable, skilled in social etiquette and mediation.
 
-## Social
+### Social
 
 Árisla is affiliated with City Heralds' Guild.
 
 As a Provenzian herald, Árisla occupies a recognized social niche within Provènzia society.
 
-## Companions
+### Companions
 
-### Patrons
+#### Patrons
 
 Árisla's primary patron is Nobles who appreciate her modern approach and diplomatic skills.. This relationship provides both opportunity and obligation.
 
-### Enemies
+#### Enemies
 
 Traditionalists who believe she is too informal for a herald.
 
-## Plot Hooks
+### Plot Hooks
 
 1. **The Herald's Dilemma** — Árisla faces a professional crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Provènzia.
 

@@ -89,7 +89,7 @@ banner: banners/ta-kheperu-banner.webp
 packFolder: khemenuhekau
 ---
 
-# Per-Imnetáu (House of the Westward Road)
+## Per-Imnetáu (House of the Westward Road)
 
 The House of the Duat holds the night half of the same circuit, and by common agreement the most
 powerful workings in the tradition: the spells that protect the dead, guide the soul, and ward the
@@ -101,7 +101,7 @@ eight into which the [[lore-khemenuhekau|Khemenu Hekau]] partitions the Dýnaris
 the cosmic order rather than by substance, which is why no portion of it corresponds to any single
 Eídma of the western [[lore-hexhodai|Héx Hodäi]].
 
-## See Also
+### See Also
 
 - [[lore-khemenuhekau|Khemenu Hekau]] — the philosophy and the other seven domains
 - [[place-khemenu|Khemenu]] — where the Eight are taught

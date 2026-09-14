@@ -601,11 +601,11 @@ sohl:
 
 **Home:** [[place-perankhet|Per-Ankhet]]
 
-# Appearance {#appearance}
+## Appearance {#appearance}
 
 Akhrem stands 6'1" tall with a heavy build. He has dark brown skin, jet black hair, and brown eyes. His features include a long face, a prominent nose, a narrow chin, full lips, dark brows, sculpted cheeks. A distinguishing mark is a scar on the back of the left arm.
 
-# Dossier {#dossier}
+## Dossier {#dossier}
 
 Akhrem was born in the Empire of [[affiliation-empirtkhpr|Ta'Kheperu]], where the vast grasslands and savannas demanded respect for the creatures that inhabited them. His family had served as animal handlers for generations, a lineage stretching back to his great-grandfather who trained the sacred beasts for temple ceremonies. As a child, Akhrem displayed an almost preternatural ability to communicate with animals—horses would calm in his presence, wild dogs would lower their hackles, and even venomous serpents seemed to sense his lack of fear combined with his lack of malice.
 
@@ -613,9 +613,9 @@ At fifteen, he apprenticed formally to **Master Soren**, the Empire's foremost a
 
 Now, at thirty-eight, Akhrem maintains a training compound near the Empire's border cities, where he works with creatures brought to him by nobility, hunters, and occasionally desperate merchants. Yet his dedication to his craft has come at a cost—a profound isolation from human society, born of both necessity and choice.
 
-## Psyche
+### Psyche
 
-### Personality
+#### Personality
 
 Akhrem's nature is fundamentally reserved, though not from shyness. He has simply learned that most humans communicate carelessly, with their attention fractured between multiple concerns. Animals, by contrast, are present in their communication; they speak through body language and scent and subtle shifts in posture. Over decades, Akhrem has become more fluent in the languages of beasts than in the languages of men.
 
@@ -623,13 +623,13 @@ When forced to interact with people, he is cordial but limited in expression, of
 
 With animals, he displays a tenderness that surprises those who encounter it. He speaks to creatures in soft tones, celebrates small victories in their training, and mourns their deaths with unguarded emotion. His empathy—one of his most highly developed attributes at 15—is reserved almost entirely for non-human beings.
 
-### Motivation
+#### Motivation
 
 Akhrem's driving force is the preservation of balance between humanity and the wild creatures that share their world. He believes that most of the suffering inflicted upon animals stems from human ignorance rather than malice, and that training animals properly prevents both animal suffering and human harm. He envisions a world where noble hunters rely upon trained beasts that understand their role and take pride in their work, where military forces employ creatures as genuine partners rather than mindless weapons.
 
 Additionally, Akhrem carries a private mission to discover and preserve knowledge about animal training that his mentor Soren possessed, fearing that if he passes without an heir, centuries of accumulated wisdom will vanish. He takes on apprentices reluctantly, waiting for someone who demonstrates the necessary gifts—and his standards are exacting.
 
-### Strengths
+#### Strengths
 
 - **Masterful Animalcraft**: His unparalleled ability to train, communicate with, and command animals borders on the mystical. His animalcraft skill of 15 base, with four specializations, represents decades of dedicated study and natural talent combined. Wild creatures calm in his presence; aggressive beasts become obedient companions.
 - **Exceptional Endurance**: A constitution built for long hours working with demanding animals, often in harsh conditions. His endurance of 16 allows him to maintain focus and physical capability even during grueling multi-day training sessions.
@@ -638,7 +638,7 @@ Additionally, Akhrem carries a private mission to discover and preserve knowledg
 - **Keen Awareness**: A perception of 14 and awareness skills that allow him to notice subtle signs others overlook—the signs of illness in animals, the approach of dangerous creatures, the emotional state of those around him.
 - **Combat Capability**: While not a warrior by vocation, his work with dangerous beasts has honed his martial skills. His melee and throwing proficiencies make him reasonably competent in direct conflict.
 
-### Weaknesses
+#### Weaknesses
 
 - **Profound Distrust of Humans**: Years of isolation and bitter experiences with those who mistreat animals have left Akhrem skeptical of human motives. He assumes wrongdoing until proven otherwise, making alliance-building difficult.
 - **Poor Communication Skills**: His minimal eloquence (7 base) and tendency toward brevity make him ineffective at negotiation, persuasion, or any social interaction requiring nuance or emotional intelligence. He often inadvertently offends through bluntness.
@@ -646,24 +646,24 @@ Additionally, Akhrem carries a private mission to discover and preserve knowledg
 - **Limited Creativity in Non-Animal Contexts**: His creativity of 9 means he struggles with innovative problem-solving outside the domain of animal training. Complex social or political puzzles frustrate him.
 - **Aging Frame**: At thirty-eight, he remains physically capable, but the years of demanding physical labor are accumulating. He tires more easily than he did in youth and recovers more slowly from injury.
 
-## Social
+### Social
 
-### Patrons
+#### Patrons
 
 - **Lord Vaskan of the Southern March**: A noble who has contracted Akhrem for decades, providing both animal resources and payment in exchange for trained beasts for noble hunts and the occasional military campaign. Vaskan is one of the few humans Akhrem genuinely respects, as the lord treats animals with consideration.
 - **The Temple of Sacred Beasts**: A religious institution that occasionally seeks Akhrem's expertise for the training and care of sacred creatures used in ceremonies, offering both prestige and reasonable compensation.
 - **The Merchant Consortium**: Wealthy traders occasionally hire Akhrem to train guard beasts, assess the condition of animals brought through the trade routes, or consult on the transport and care of exotic creatures destined for distant markets.
 
-### Enemies
+#### Enemies
 
 - **Kharven the Brutal**: A rival animal trainer who believes in domination and fear as training methods. Kharven has sabotaged several of Akhrem's commissions, poisoned animals in his care, and spread rumors about Akhrem's competence. The enmity is personal; years ago, **Lord Vaskan** chose to employ Akhrem over Kharven, a choice Kharven has never forgiven. Recently, Kharven has been working with darker patrons, suggesting his malice toward Akhrem may escalate.
 - **The Bloodlust Cult**: A secret society that captures exotic animals for forced combat spectacles. They view Akhrem's refusal to train beasts for such purposes as obstruction, and have made several attempts to steal particularly valuable animals from his compound.
 
-### Affiliations
+#### Affiliations
 
 - **The Hunters' Guild of Ta'Kheperu**: A formal organization of professional hunters and animal specialists. While Akhrem maintains membership and respects the Guild's codes, he remains something of an outsider due to his unorthodox methods and preference for solitude.
 
-## Plot Hooks
+### Plot Hooks
 
 1. **The Dying Mentor's Legacy**: Akhrem receives word that **Master Soren**, ancient and ailing, has requested his presence before death. Soren claims to possess knowledge of a legendary beast—a creature of immense rarity and power—that he has never taught Akhrem about, fearing the responsibility too great. Now, believing his end is near, Soren wishes to pass this knowledge forward. The problem: the legendary creature may be more than myth, and powerful forces seek to control it.
 

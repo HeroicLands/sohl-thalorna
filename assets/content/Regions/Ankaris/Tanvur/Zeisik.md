@@ -8,13 +8,13 @@ shortcode: zeisik
 packFolder: tanvur
 ---
 
-# Zëisīk: The Ritual of Self-Death
+## Zëisīk: The Ritual of Self-Death
 
 **Zëisīk**, meaning "self-death," is a solemn and revered process of ritual suicide that serves multiple purposes within Tānvüri warrior culture. It is most commonly performed as a means of atonement for dishonor or failure — a voluntary act that restores the individual's [[lore-celestlrdr|moral ledger]] through a final, decisive entry. In the classification cosmology, Zëisīk is understood as a **self-initiated reclassification**: the individual removes themselves from the sorted order on their own terms, rather than waiting for the celestial administration to process their disgrace.
 
 However, Zëisīk is not limited to atonement alone. It can also be a powerful act of defiance or a statement of extreme dissatisfaction. Warriors or nobles may choose Zëisīk to express profound discontent with their superiors or to make an irrevocable statement challenging those in power. In such cases, the act generates a massive, permanent debit on the moral ledger of the person whose conduct provoked it — a spiritual debt that their entire family inherits. A Warlord who drives a subordinate to Zëisīk through injustice will carry that entry on his ledger for the rest of his life and into the afterlife.
 
-## The Ritual Process
+### The Ritual Process
 
 **Preparation:** The individual dresses in ceremonial white, the color of unclassified things — symbolizing a return to the state before sorting. They compose a final document, the **Kōt Thōk** (Last Record), which may express remorse, defiance, or reflection. This document is both a personal testament and a formal filing — it is burned after the ritual, transmitting the individual's final account to the Ministry of Final Account ([[affiliation-tngvkvnlei|Sīkvōk]]).
 
@@ -28,13 +28,13 @@ However, Zëisīk is not limited to atonement alone. It can also be a powerful a
 
 ---
 
-# The Legal System of the Empire of Tānvür
+## The Legal System of the Empire of Tānvür
 
 The legal system of the [[affiliation-tanvurempr|Empire of Tānvür]] is not a system of laws in the Western sense. It is a **classification enforcement mechanism** — an extension of the same cosmic order that sorts elements, assigns gods to bureaus, and maintains the boundary between the Sorted and the Hürnlëi. Crime in Tānvür is not merely a violation of social rules. It is a **classification breach** — an attempt, whether deliberate or careless, to move things, people, or resources from one sorted category to another without proper authorization.
 
 The legal code, the **Tëng Lüt** (Heavenly Law), is understood as the mortal-plane expression of the classification system established during the [[affiliation-tngvkvnlei|Great Sorting]]. The Emperor serves as the ultimate arbiter of justice not because he is personally wise, but because he holds the [[lore-mandatehvn|Mandate of Heaven]] — the cosmic appointment that makes him the classification system's designated administrator on the mortal plane. In practice, legal authority is exercised by the Warlords (Vüszhük) and their magistrates, who enforce the Tëng Lüt within their territories.
 
-## Legal Authority and Structure
+### Legal Authority and Structure
 
 **The Emperor (Tëngzhëi):** The supreme legal authority. His decrees carry the weight of celestial classification — to defy an imperial ruling is to defy the cosmic order itself. The Emperor rarely adjudicates individual cases, delegating this authority to the Warlords, but any case may be escalated to the imperial court, and the Emperor's ruling is final and spiritually binding.
 
@@ -46,7 +46,7 @@ The legal code, the **Tëng Lüt** (Heavenly Law), is understood as the mortal-p
 
 **Clan Elders (Zhākkōt):** Within the [[lore-nokvur|Nōkvür]] caste, clan elders have authority to resolve internal disputes and administer justice according to clan traditions. Their authority is limited to their clan members, and their decisions often blend the Tëng Lüt with ancestral customs — rulings handed down from ancestor spirits through the [[lore-ancstrwrshp|Lëigürt]].
 
-## The Tëng Lüt (Heavenly Law)
+### The Tëng Lüt (Heavenly Law)
 
 The Tëng Lüt is the codified set of laws governing all aspects of life in the empire. It is organized not by topic but by **type of classification breach**:
 
@@ -60,7 +60,7 @@ The Tëng Lüt is the codified set of laws governing all aspects of life in the 
 
 **Family and Clan Laws:** Governing [[lore-marriage|marriage]], inheritance, and family obligations — the classification events that structure households as administrative units. These laws emphasize the maintenance of the household's moral ledger, the proper care of ancestor shrines, and the fulfillment of obligations to the dead. Violations that bring dishonor to a clan generate ledger debits that affect the entire family line.
 
-## System of Punishment
+### System of Punishment
 
 Punishments in Tānvür are not merely retributive. They are **reclassification procedures** — actions that restore the sorted order by placing the offender back into their correct position (or removing them from the system entirely). Public punishments serve a dual function: they deter future breaches and they _demonstrate to the celestial administration_ that the mortal government is maintaining the classification system properly.
 
@@ -80,7 +80,7 @@ Punishments in Tānvür are not merely retributive. They are **reclassification 
 
 **Cleansing Rituals:** For crimes that disrupt the cosmic order — desecration, sorcery without authorization, violations of sacred classification boundaries — offenders may be required to undergo elaborate purification rites performed by the Tānthëi or Lëigürt. These rituals are understood as **spiritual reclassification procedures** that restore the individual's internal Lëi alignment and repair the cosmic damage caused by their offense. Failure to complete the ritual properly may result in escalation to exile or execution.
 
-## Honor and Social Order
+### Honor and Social Order
 
 In the Empire of Tānvür, honor is not an abstract virtue. It is a **classification attribute** — a measurable quality that determines one's standing within the sorted order. Personal honor directly affects the moral ledger: honorable conduct generates credits; dishonorable conduct generates debits. A person's honor is not merely their own concern — it is shared by their household, their clan, and their ancestors, all of whom are affected by the ledger entries it produces.
 
@@ -90,7 +90,7 @@ The legal system of Tānvür is not merely a tool for maintaining order. It is t
 
 ---
 
-## See Also
+### See Also
 
 - [[lore-celestlrdr|Celestial Order]] — The cosmological framework underlying the legal system
 - [[lore-castelaws|Caste Laws]] — Detailed caste classification restrictions

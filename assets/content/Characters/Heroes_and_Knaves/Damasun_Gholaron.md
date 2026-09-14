@@ -560,63 +560,63 @@ sohl:
     defaultCombatGroup: null
 ---
 
-# Appearance {#appearance}
+## Appearance {#appearance}
 
 Dámàsûn Ghôlâron — known to most simply as Parma — is a tall, dark-skinned man of sixty years who carries his age with a quiet dignity that commands respect without demanding it. His black hair has gone largely gray, kept close-cropped against his skull, and his hazel eyes hold a depth of experience that is both comforting and faintly unsettling. He is lean but not frail, and he moves with a measured deliberateness that suggests far more physical capability than his humble cleric's garments would imply. He dresses in a simple light blue tunic, leather shoes, and carries a worn leather shoulder bag that appears to contain little more than books, herbs, and writing materials.
 
-# Dossier {#dossier}
+## Dossier {#dossier}
 
-## Background
+### Background
 
-### Origin
+#### Origin
 
 Parma is a Helionite from the southern reaches of that great republic, born to a family of modest farmers in the hill country. He claims to have spent his youth in quiet contemplation, drawn to philosophy and theology from an early age. He entered religious service young, devoting himself to the study of the divine mysteries and the welfare of the common folk. This much is true, as far as anyone can verify.
 
-### The Missing Years
+#### The Missing Years
 
 What is not easily verified is anything about the thirty years between Parma's youth and his arrival aboard the Tamzîr. He speaks of theological study, of pilgrimages to holy sites, of years spent in contemplative communities. But the gaps in his story are conspicuous, and the details he provides are carefully curated. He is suspiciously well-traveled for a rural cleric. He speaks multiple languages with native fluency. He handles a blade and bow with a proficiency that no amount of "youthful military service" can adequately explain. And when violence erupts, Parma's first instinct is not to pray but to position himself for a clear field of fire.
 
-### A Man of Contradictions
+#### A Man of Contradictions
 
 Parma arrived aboard the Tamzîr five years ago, presenting himself as a wandering cleric seeking passage between ports. Shâ was suspicious — the man was too capable, too calm, too comfortable with the ship's illegal activities to be what he claimed. But Parma proved useful. His theological knowledge earned trust in ports where the crew had none. His quiet counsel helped navigate interpersonal conflicts. And on the three occasions when the Tamzîr was boarded by hostile forces, Parma proved devastatingly effective in a fight. Shâ stopped asking questions. Some mysteries, he decided, were better left alone.
 
-### Inner Turmoil
+#### Inner Turmoil
 
 Something weighs on Parma. He suffers from insomnia, and crew members have heard him in his cabin at night, speaking in low tones — prayers, arguments, or confessions directed at no visible audience. He carries a moral weariness that goes beyond his years, and there are moments when his carefully maintained serenity cracks, revealing something darker beneath. Whatever Parma was before he became a wandering cleric, it haunts him still.
 
-## Psyche
+### Psyche
 
-### Personality
+#### Personality
 
 Parma presents a face of gentle wisdom — patient, soft-spoken, and genuinely interested in the wellbeing of those around him. He offers counsel without being asked and never presses when it is refused. He is well-read, philosophically sophisticated, and possesses a dry humor that emerges unexpectedly. But there is steel beneath the gentleness. When pushed, Parma's eyes go flat and his manner becomes clipped and precise — the manner of a man accustomed to giving orders in dangerous situations. He is a mass of contradictions, and he knows it.
 
-### Motivation
+#### Motivation
 
 Parma is seeking something — redemption, perhaps, or a peace he has not yet found. His faith is genuine but troubled, tested by experiences he will not discuss. He has attached himself to the Tamzîr's crew with a protectiveness that suggests he has found, in these misfits, something worth caring about. He is particularly watchful over the younger members of the crew.
 
-### Strengths
+#### Strengths
 
 Parma is far more dangerous than he appears. He is an expert archer, a skilled melee fighter, and possesses tactical awareness that suggests formal military or intelligence training. He is also genuinely wise — his counsel is sound, his reading of people is incisive, and his knowledge of folklore, astrology, and arcane traditions is encyclopedic. He has connections that he occasionally calls upon, connections that a simple cleric should not possess.
 
-### Weaknesses
+#### Weaknesses
 
 His secrets. Parma's hidden past is a liability because the crew cannot trust what they do not understand. His inner torment sometimes clouds his judgment, and his refusal to be honest about who he was leaves him perpetually isolated, even among people who care about him. There are those from his former life who might recognize him, and not all of them would be friendly.
 
-## Social
+### Social
 
-### Patrons
+#### Patrons
 
 Parma has mysterious contacts who occasionally provide him with information or resources. The nature of these relationships is unknown to the crew. Sewn into the lining of his shoulder bag are three usurer's notes of significant value — emergency funds whose origin he has never explained.
 
-### Enemies
+#### Enemies
 
 Unknown, but clearly present. Parma avoids certain ports, certain people, and certain topics with the practiced ease of a man who has spent years managing his exposure. He is particularly cautious around Vylarian imperial officials.
 
-### Affiliations
+#### Affiliations
 
 Passenger and informal counselor aboard the **Tamzîr**. He claims affiliation with a minor contemplative order in Heliónis, but the order's records, if checked, would prove curiously incomplete.
 
-## Plot Hooks
+### Plot Hooks
 
 1. **The Past Arrives**: A stranger in a port city recognizes Parma and addresses him by a different name — a name that carries weight and danger. Parma's carefully constructed new identity begins to unravel, and the crew must decide how much they need to know about the old man's past.
 

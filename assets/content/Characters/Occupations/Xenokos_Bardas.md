@@ -528,11 +528,11 @@ sohl:
     defaultCombatGroup: null
 ---
 
-# Appearance {#appearance}
+## Appearance {#appearance}
 
 Xénokôs is young and still growing into himself — twenty-two years old, 5'9", with a light build that makes him look more like a clerk than a guardsman. His dark brown hair is worn longer than regulation permits, falling across his forehead in a way that his sergeant has remarked upon more than once. His honey-brown eyes sit in a pale, almost sallow face that rarely sees sunlight, and a thin scar runs across his forehead from an incident during his first month on duty that he would prefer to forget. His features are fine-boned and Vylarian in the classical sense: high forehead, straight nose, narrow chin. He wears his Alyssa district guard uniform — padded tunic, leather bracers, short sword at his hip — with the self-conscious stiffness of someone who has not yet learned to forget he is wearing it.
 
-# Dossier {#dossier}
+## Dossier {#dossier}
 
 Xénokôs joined the Alyssa capital district town guard eighteen months ago at twenty years old, fresh from a training program and full of idealism about protecting his home city. The idealism has held up better than he expected, though it is being gradually tempered by the reality of urban law enforcement in a declining empire. He is five feet eight, 132 pounds of lean muscle and nervous energy, still young enough that people are not entirely certain whether to take him seriously.
 
@@ -540,35 +540,35 @@ The scar on his forehead was earned during his first month of patrol, breaking u
 
 His posting is the capital district—the wealthiest, most densely populated part of Alyssa, where merchants, minor nobles, and successful tradespeople live alongside their servants and the perpetual population of urban poor. The work is managing disputes, stopping theft, enforcing the minor regulations that keep urban society functional. He is not especially skilled yet, but he is conscientious and learning quickly.
 
-## Psyche
+### Psyche
 
-### Personality
+#### Personality
 
 Xénokôs is earnest and tries too hard to treat everyone fairly. He is not yet experienced enough to understand when fairness is being manipulated against him, and older criminals have learned to exploit his good nature. He is self-doubting in ways that will probably diminish with age and experience. He is polite to almost everyone, including people who resent being treated with politeness. His humor is not yet refined, though it is developing.
 
-### Motivation
+#### Motivation
 
 Xénokôs wants to be a good guard—genuinely good, not just competent. He feels a genuine sense of responsibility to his city and its people. His secondary motivation is proving his suitability for the role despite his youth and small stature. He is concerned that people judge him on appearance and is quietly determined to demonstrate that he belongs in the position.
 
-### Strengths
+#### Strengths
 
 His physical speed is exceptional for his age and frame. His commitment to the work is genuine and unwavering. He is literate and intelligent, which helps him with paperwork and understanding legal procedures. He is emotionally resilient in ways that will serve him well.
 
-## Social
+### Social
 
 Xénokôs is on the lowest rung of the town guard hierarchy. He is barely respected by older guards and is probably invisible to the capital district's merchant class. He is beginning to build modest reputation for fairness and professionalism.
 
-## Companions
+### Companions
 
-### Patrons
+#### Patrons
 
 **Senior Guard Captain Rhelis Aumont** — The sergeant commanding the capital district patrols. Rhelis recognized Xénokôs's sincerity and has taken him under his wing as an unofficial mentor. Rhelis is an older man nearing retirement and sees potential in Xénokôs. He actively protects him from the more cynical guards who would teach him to accept bribes and overlook crimes for coin.
 
-### Enemies
+#### Enemies
 
 **Merchant Kallias** — A successful trader in the capital district who runs what is likely a lucrative black-market operation disguised as a legitimate spice importing business. Xénokôs has tried to investigate the operation twice, and both times Merchant Kallias has made it clear—through legal threats, social pressure, and subtle intimidation—that the investigation needs to stop. Xénokôs has backed off twice. Kallias views him as intimidated and beneath contempt.
 
-## Plot Hooks
+### Plot Hooks
 
 1. **The Mentor's Corruption** — Xénokôs discovers that another guard in his squad, an older man he respected, is accepting bribes from Merchant Kallias. The guard's corruption is extensive and has been ongoing for years. Xénokôs is caught between reporting his fellow guard (which will make him unpopular with everyone) or ignoring the corruption. When he reports the situation to Captain Rhelis, Rhelis tells him that the guard is well-connected and that Xénokôs would be foolish to pursue the matter. Xénokôs must decide whether to push the investigation despite his mentor's warning.
 

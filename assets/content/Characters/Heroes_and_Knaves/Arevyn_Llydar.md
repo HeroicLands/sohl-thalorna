@@ -594,39 +594,39 @@ sohl:
     defaultCombatGroup: null
 ---
 
-# Appearance {#appearance}
+## Appearance {#appearance}
 
 Arévyn stands 6'1" tall with a heavy build. He has tanned weathered skin, black hair, and gray eyes. His features include a broad face, a button nose, a narrow chin, light brows, rosy cheeks.
 
-# Dossier {#dossier}
+## Dossier {#dossier}
 
-## Background
+### Background
 
-### Early Years in Stone
+#### Early Years in Stone
 
 Arévyn was born the third son of a mining family whose lineage stretched back generations into the deep shafts beneath the Kingdom of Élavendre. From childhood, he descended into darkness where his father and uncles worked, learning the songs of stone and the subtle signatures that betrayed precious metals and gems. By fifteen, he had mapped more ore veins than many experienced miners ever would, his Mineralogy surpassing even his father's considerable expertise.
 
-### Mastery and Mentorship
+#### Mastery and Mentorship
 
 In his prime, Arévyn became renowned throughout Élavendre as the finest prospector in the realm. He discovered three major gemstone deposits that generated enormous wealth for the merchant houses, and his ability to extract materials without damaging them earned him contracts with jewelers across the Kingdom. As his physical stamina began its gradual decline with age, Arévyn transitioned from active mining to consulting, training the younger generation and overseeing complex engineering projects in the mines. His reputation grew broader—local physicians sought his knowledge of mineral healing properties, and craftspeople valued his insights into metallurgy and material sciences.
 
-### Present Circumstances
+#### Present Circumstances
 
 Now forty-five, Arévyn operates from his modest workshop in the mining quarter, where apprentices gather to study his collections of geological samples and technical diagrams. He continues active fieldwork when called upon for particularly valuable deposits, though such expeditions leave him with aching joints that require attention from the herbalists. He maintains a complicated relationship with the rapidly industrializing mining operations, which view his traditionalist methods as outdated even as they profit from his expertise.
 
-## Psyche
+### Psyche
 
-### Personality
+#### Personality
 
 Arévyn possesses the quiet confidence of a craftsman secure in his mastery, yet this certainty has hardened into a certain inflexibility that troubles his relationships with younger miners eager to implement new techniques. He speaks with deliberate precision, having learned that clarity in communication saves lives in the dangerous depths. His dry humor, often directed at those who underestimate the complexity of his work, can be mistaken for coldness by those unfamiliar with mining culture.
 
 Despite his reputation for gruffness, Arévyn harbors a genuine passion for knowledge-sharing. He views teaching as the final great work of his life—a way to ensure that dangerous mistakes born from ignorance claim no more apprentices. His loyalty to those who demonstrate genuine respect for the craft borders on fierce protectiveness.
 
-### Motivation
+#### Motivation
 
 Arévyn drives forward not from ambition or material need, but from a deep conviction that knowledge of the earth—its dangers, its possibilities, its careful balance—belongs to those who would work it responsibly. He fears that the rush for faster extraction and greater profits will lead to catastrophic accidents and the loss of irreplaceable geological knowledge. His true mission is to create a generation of miners who approach the earth as something to be respected and understood, not merely exploited. Legacy matters to Arévyn; he wants to be remembered not for the gems he extracted, but for the wisdom he preserved.
 
-### Strengths
+#### Strengths
 
 - **Master Mineralogist**: Arévyn's knowledge of ore composition, gemstone formations, and subsurface geology is unmatched in the Kingdom. He can identify deposits by sight and scent, and predict their yield with remarkable accuracy.
 - **Exceptional Physician's Knowledge**: Decades spent cataloging mineral properties have made him an expert in herbal remedies and mineral-based medicines. Healers consult him on rare compounds.
@@ -634,7 +634,7 @@ Arévyn drives forward not from ambition or material need, but from a deep convi
 - **Master Tracker and Scout**: His keen awareness and perception allow him to read landscapes and identify hidden resources. Few can match his ability to navigate treacherous terrain.
 - **Culinary and Ritual Expertise**: His knowledge of survival provisions and ceremonial practices provides unexpected depth; miners trust his judgment on both practical survival and spiritual matters.
 
-### Weaknesses
+#### Weaknesses
 
 - **Physical Limitations**: Age has begun to exact its toll. Strenuous mine work leaves him exhausted, his back protests after long hours of climbing, and recovery takes longer than it once did.
 - **Resistance to Change**: Arévyn views innovation with deep skepticism, particularly if it contradicts traditional methods that have "always worked." This can make him an obstacle to necessary modernization.
@@ -642,26 +642,26 @@ Arévyn drives forward not from ambition or material need, but from a deep convi
 - **Limited Charisma**: His abrupt manner and technical focus sometimes alienate those outside the mining community. Politicians and merchants find him difficult to negotiate with.
 - **Stubborn Pride**: He struggles to ask for help or admit limitations, viewing such requests as professional weaknesses rather than practical necessities.
 
-## Social
+### Social
 
-### Patrons
+#### Patrons
 
 - **Merchant House Kallinthiros**: The wealthy gem-trading family relies on Arévyn for prospecting expeditions and authentication services. They pay handsomely for his continued consultation.
 - **Master Jeweler Selyndor the Exquisite**: A master craftsperson who learned her trade partly under Arévyn's instruction. She remains his most loyal patron and friend.
 - **The Royal Engineering Corps of Élavendre**: The Kingdom occasionally contracts Arévyn for strategic mining projects and tunnel assessments involving critical infrastructure.
 
-### Enemies
+#### Enemies
 
 - **Foreman Kardos of the Deepmine Consortium**: A ruthless operative who views Arévyn's safety protocols as expensive obstacles to profit. They have clashed repeatedly over his warnings about unstable shafts.
 - **The Industrialists' Council**: A growing faction of younger mine owners who see Arévyn's traditionalism as a threat to their efficiency-focused operations and expansion plans.
 
-### Affiliations
+#### Affiliations
 
 - **Miners' Union of Élavendre**: Arévyn holds the rank of Senior Advisor and chairs the Safety Committee.
 - **Craftspeople's Guild**: Membership in multiple specialized circles including Jewelcrafters and Metallurgists.
 - **The Order of Jánus (Order Aspect)**: A devout follower who attends ceremonies regularly, finding spiritual meaning in the order inherent in mineral formations.
 
-## Plot Hooks
+### Plot Hooks
 
 1. **The Deepmine Disaster**: Word arrives that the Deepmine Consortium—operating against Arévyn's explicit warnings—has collapsed a major tunnel system, trapping dozens of miners. Local authorities ask Arévyn to lead a rescue and investigation. He must descend into darkness once more to save lives and prove that his age-old cautions were prescient, all while confronting the physical and emotional toll of returning to active work.
 

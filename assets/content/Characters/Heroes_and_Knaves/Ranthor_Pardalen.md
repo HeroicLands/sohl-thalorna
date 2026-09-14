@@ -592,11 +592,11 @@ sohl:
     defaultCombatGroup: null
 ---
 
-# Appearance {#appearance}
+## Appearance {#appearance}
 
 Ránthor stands 5'9" tall with a medium build. He has tanned weathered skin, dark brown hair, and brown eyes. His features include a long face, a button nose, a prominent chin, rosy lips, dark brows, rounded cheeks. A distinguishing mark is a tattoo of a crown on the chest.
 
-# Dossier {#dossier}
+## Dossier {#dossier}
 
 **Service in Stone and Strife**
 
@@ -610,19 +610,19 @@ He eventually left the kingdom's service and sought out the Kingdom of Élavendr
 
 The crown tattoo on his chest remains a point of speculation. Some whisper that **Ránthor** was nobility in his past, possibly even royal blood, and that he abandoned his position for spiritual reasons. Others suggest the crown represents something he claims from the spirits themselves. **Ránthor** addresses the question rarely, offering only that he once served crowns and now serves the tribe instead, and that this represents spiritual growth rather than loss.
 
-## Psyche
+### Psyche
 
-### Personality
+#### Personality
 
 **Ránthor** is a man of few words and direct speech; he does not traffic in spiritual pretense or mystical obscurantism. When asked for guidance, he provides practical, actionable counsel rather than cryptic prophecies. This makes him immensely popular with warriors, hunters, and practical people while earning him dismissal or contempt from more traditionally mystical shamans who view his approach as reductive. He possesses a subtle dry humor, often directed at the grandiosity of other shamans or the follies of nobility and hierarchy.
 
 Beneath his pragmatism lies a sharp intelligence and a genuine compassion for those who suffer, though he expresses this through action rather than empathetic verbalization. He respects competence and honesty in all people regardless of station, and he has little patience for pretense, self-deception, or cruelty. He is not warm but he is fair, and those who work with him develop deep respect for his integrity. There is a melancholy to him—the sense of a man who has survived things that changed him, who has seen the worst of both civilization and wilderness, and who has made peace with neither but simply accepts them as facts of existence.
 
-### Motivation
+#### Motivation
 
 **Ránthor** is motivated by a commitment to prevent the suffering he experienced in the conflicts between his former military service and the shamanic communities. He works tirelessly to build peace and understanding between the kingdom's government and the tribes, believing that spiritual wisdom and martial strength can and should be integrated rather than placed in opposition. He is driven by pragmatic belief that the shamanic arts are most valuable when applied to real human problems—healing injuries, resolving conflicts, preparing minds and spirits for necessary struggle—rather than being divorced into pure mysticism. Beyond these larger commitments, he is motivated by personal loyalty to those who have aided him, and by a quiet desire to mentor younger shamans (both traditional and pragmatic) in the integration of martial discipline with spiritual practice.
 
-### Strengths
+#### Strengths
 
 - **Combat-Ready Spiritual Training:** Unlike most shamans, **Ránthor** is a formidable physical combatant; he can fight effectively in melee or from range and integrates shamanic techniques seamlessly with martial skill.
 - **Legendary Mediation:** **Ránthor** has brokered peace between groups that seemed implacably opposed; his ability to understand both sides of a dispute and find face-saving compromises is remarkable.
@@ -631,7 +631,7 @@ Beneath his pragmatism lies a sharp intelligence and a genuine compassion for th
 - **Unshakeable Moral Authority:** **Ránthor's** reputation for absolute integrity gives his words and judgments enormous weight; even those who dislike him respect his honesty and consistency.
 - **Mixed Heritage Insight:** His background spanning both civilization and shamanic tradition, military and mystical training, gives him unique perspective on seemingly irreconcilable conflicts.
 
-### Weaknesses
+#### Weaknesses
 
 - **Dismissal of Genuine Mysticism:** His grounding in pragmatism can prevent him from recognizing or accepting true mystical phenomena that don't fit his rational framework; he may dismiss genuine spiritual threats as superstition.
 - **Limitations in Transcendent Work:** He is significantly less capable than purely mystical shamans at accessing the deepest levels of spirit realm communion, astral projection, or pure visionary work.
@@ -640,27 +640,27 @@ Beneath his pragmatism lies a sharp intelligence and a genuine compassion for th
 - **Past Conflicts Unresolved:** His history of serving both kingdom and tribe, and his mysterious past symbolized by the crown, suggests unresolved conflicts or secrets that could become liabilities if exposed.
 - **Underestimation of Subtle Threats:** His tendency to value what is concrete and observable can cause him to miss sophisticated conspiracies, subtle magic, or threats that operate through indirection rather than direct confrontation.
 
-## Social
+### Social
 
-### Patrons
+#### Patrons
 
 - **Chief Aelyndor:** The current tribal leader who relies on **Ránthor** for counsel on matters both spiritual and strategic; they have worked together for two decades and maintain deep trust despite their different temperaments.
 - **Captain Nerida:** A decorated military officer of the Kingdom of Élavendre who acts as liaison between the kingdom's forces and the tribes. She and **Ránthor** maintain a professional relationship with hints of deeper mutual respect and perhaps unresolved personal history.
 - **Elder Healer Morvain:** The oldest and most respected pure mystic shaman in the tribe who, despite their different approaches, respects **Ránthor's** results and refers patients to him for practical healing when her own spiritual work is insufficient.
 
-### Enemies
+#### Enemies
 
 - **Traditionalist Shamans' Faction:** Led by elder shamans like **Korvin the Keeper**, this faction views **Ránthor** as a dilution of true shamanic practice; they openly challenge his authority and question whether his crown tattoo marks him as a traitor who carries enemy (kingdom) symbolism into shamanic circles.
 - **Kingdom Hardliners:** Military commanders and courtiers within Élavendre who view **Ránthor's** bridging work between kingdom and tribe as disloyalty; they see his shamanic service as abandonment of his former oath.
 - **Lord Vexus of the Obsidian Order:** An ambitious noble with ties to dark magic and military ambition who views **Ránthor's** peace-brokering efforts as obstacles to his plans for territorial expansion; he has twice attempted to have **Ránthor** discredited or eliminated.
 
-### Affiliations
+#### Affiliations
 
 - **Tribal Council of Shamans:** **Ránthor** serves as a full council member and is often called upon as the tie-breaker in disputes between mystical and practical factions.
 - **Kingdom of Élavendre's Tribal Relations Bureau:** Though not formally part of the kingdom's government, **Ránthor** maintains official recognition and occasional funding from this bureau for his peace-brokering work.
 - **The Order of Balanced Stone:** An ancient and secretive organization of shamans who believe in integration of martial and mystical traditions; **Ránthor** is suspected of membership, though he neither confirms nor denies it.
 
-## Plot Hooks
+### Plot Hooks
 
 1. **The Crown's True Story:**: A royal emissary from the Kingdom of Élavendre arrives seeking **Ránthor's** assistance with a diplomatic crisis, and in conversation references details about **Ránthor's** past military service that he has never shared publicly. The emissary hints that **Ránthor** may have fled the kingdom under complicated circumstances, possibly involving a scandal or failure. **Ránthor** neither confirms nor denies the suggestion, but the party is drawn into investigating his history and the true meaning of the crown tattoo. Is **Ránthor** a disgraced noble? Did he betray the kingdom? Was he framed? The truth—if revealed—could either vindicate him or destroy the careful peace he has built between kingdom and tribe.
 

@@ -600,7 +600,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-# Appearance {#appearance}
+## Appearance {#appearance}
 
 Myrine is 5'7" with a wiry but muscular frame, weighing about 150 pounds — the build of someone who trains for combat as a matter of doctrine, not vanity. Her long, dark brown hair is usually tied back in a tight braid, with a few strands escaping to frame intense hazel eyes that hold the unsettling steadiness of someone who has spent too long staring into fire. Her tanned skin bears the markings of her devotion: the flame-shaped tattoo on her right forearm — black ink over ritual scarification, the Black Flame's mark of ordination — is positioned where it cannot be missed by anyone she extends her hand to. The burn scars across her fingertips are fainter, the accumulated evidence of years of fire divination, and she makes no effort to conceal them.
 
@@ -608,15 +608,15 @@ Her features are sharp: a long nose, full lips, high cheekbones, and a determine
 
 She moves with the coiled awareness of a trained fighter, but her bearing is warm rather than threatening. When she enters a room, people tend to look at her. When she speaks, they tend to listen. She has been cultivating both responses since she was old enough to understand that attention is its own form of power.
 
-# Dossier {#dossier}
+## Dossier {#dossier}
 
 Myrine Kalypsos is a mendicant priestess of [[affiliation-blackflame|The Black Flame]], the Aurèldían faith devoted to Vúlcan's destructive aspect — fire as purifier, weapon, and instrument of dominion. In much of western Ankaris the Black Flame is proscribed, its adherents driven underground, its shrines hidden. Vylaria is not much of western Ankaris. The empire's religious policy has always been one of pragmatic tolerance: faiths are permitted so long as they do not threaten imperial stability, and the Black Flame — despite the alarm of [[affiliation-janus|Jánite]] clergy and the bitter hostility of [[affiliation-sacredforge|The Sacred Forge]] — has never been formally suppressed within Vylarian territory. In the empire's frontier provinces and commercial cities, where strength is respected and survival is not guaranteed, the Black Flame's philosophy has roots that go back centuries. Myrine operates in this space — not as a fugitive but as a priestess, walking openly, wearing her symbols without concealment, and meeting hostility with the steady calm of someone who believes the world is proving her right.
 
 The Black Flame teaches that might makes right. This is the doctrine's core, and Myrine embraces it without reservation. But she understands "might" with a sophistication that the faith's detractors rarely credit. Might is not merely the ability to swing a sword. It is the capacity to impose one's will upon the world — through strength, yes, but also through intelligence, persuasion, spiritual authority, wealth, beauty, knowledge, and the force of personality that makes others follow where you lead. A merchant who dominates a market through sharper instincts exercises might. A scholar whose ideas reshape how people think wields might. A priestess who converts the skeptical through charm and reason demonstrates might as surely as a warlord who takes a city by storm. The strong shape the world. The weak suffer it. This is not a moral judgment — it is an observation, as obvious as the sun's rising, and Myrine presents it as such with warmth, apparent reasonableness, and the quiet conviction of someone describing water running downhill.
 
-## Background
+### Background
 
-### Origins
+#### Origins
 
 Myrine was born in [[place-belekos|Belekos]], a wealthy merchant city in the Province of Alyssa, the youngest of four children in the Kalypsos household — a Helionite-descended family that had settled in Belekos two generations prior and made a comfortable living in the grain trade. The Kalypsos name carried no particular distinction; they were prosperous enough to be comfortable, well-connected enough to be invited to the right gatherings, and shrewd enough to avoid the worst of Belekos's mercantile blood-feuds. Her father, Phaidros, managed the family's warehouses and contracts. Her mother, Alkyone, handled the accounts and maintained the social alliances that kept the house solvent. It was a sensible, practical, merchant-class upbringing — and Myrine was temperamentally unsuited to it from birth.
 
@@ -626,7 +626,7 @@ The Black Flame found her at thirteen — or rather, she found it. A mendicant p
 
 She sought him out afterward. Drakonides was experienced enough to recognize a potential convert and careful enough to test her motives. Over three days, he talked with her — not preaching, not recruiting, just conversing. He asked about her family, her city, what she believed and why. By the third day, he told her that the Temple of the Black Flame in Velysâra would accept her as an acolyte if she chose to go. She went. Her parents objected, negotiated, and ultimately relented. The Kalypsos family was practical above all else, and a daughter in a priesthood — even this one — was not the worst outcome a merchant family could imagine.
 
-### Temple Training
+#### Temple Training
 
 The Temple of the Black Flame in [[place-velysara|Velysâra]] was the largest in the Province of Alyssa — not hidden but not ostentatious, occupying a compound of dark stone in the old quarter of the city, its presence known to everyone and discussed with the careful neutrality that Vylarians apply to institutions they tolerate without endorsing. Myrine entered as an acolyte at fourteen and spent the next six years in training that was, by design, the most demanding experience of her life.
 
@@ -634,7 +634,7 @@ The Black Flame's priesthood trains its clergy as warrior-priests. The doctrine 
 
 But combat was only one stream of her training. The other — and the one that would define her calling — was rhetoric. The Black Flame understands that conversion is as much an act of might as conquest. A warlord who takes a city must hold it; a priestess who changes someone's mind has taken something far more durable. Myrine studied argument, persuasion, the arts of discourse and intrigue. She learned to read a room, to identify what people wanted and feared, and to frame the Black Flame's harsh doctrines in language that made them sound like common sense. This was not deception — Myrine genuinely believes everything she says. It was presentation. The truth of strength-as-virtue does not change, but the way you introduce it to a Jánite knight is very different from how you present it to a farmer who has just watched a lord's tax collector take half his harvest.
 
-### The Gift of Fire Reading
+#### The Gift of Fire Reading
 
 In her fourth year of training, during a routine fire ritual, Myrine's gift manifested. She was tending the sacred flame — one of the meditative exercises that every acolyte performs — when the fire spoke to her. Not in words. In images, in patterns, in a cascade of meaning that she could not articulate then and can only partially describe now. She saw shapes in the flame that corresponded to events, to possibilities, to the branching paths of what might be. When she reported this to the temple's senior priestess, Aspasia Melikhron, the reaction was immediate and serious.
 
@@ -642,7 +642,7 @@ Fire divination — the art of reading fate in flame — is an ancient and rare 
 
 The training took two years. By the time Myrine completed her education and was ordained as a full priestess at twenty, she had demonstrated sufficient mastery of fire divination that the temple recognized her as a genuine practitioner. Not all of her fellow clergy were pleased. Some regarded her gift as a mark of Vúlcan's favor that elevated her above her station. Others — particularly those whose authority rested on martial prowess rather than spiritual insight — viewed divination as theatrical mysticism that drew attention away from the faith's core doctrines. The division was not hostile, but it was real, and Myrine learned early that her gift made her simultaneously valuable and suspect.
 
-### The Mendicant's Road
+#### The Mendicant's Road
 
 At twenty, newly ordained, Myrine requested and was granted the copper cord of a mendicant priestess — the authorization to leave the temple and preach the Black Flame's doctrine wherever her road took her. This was an unusual choice for a gifted fire reader; most practitioners of her skill remain attached to a temple, where their divinations serve the local clergy and their community. Myrine chose the road because she understood something that her superiors did not fully appreciate: the Black Flame's future lay not in its existing temples but in the minds of people who had never set foot in one. The faith needed evangelists — not the wild-eyed ranters that the Jánite imagination conjured, but reasonable, articulate, persuasive voices who could present the doctrine of strength-as-virtue to people who had spent their lives being told that weakness was holy.
 
@@ -650,7 +650,7 @@ For the past four years, Myrine has traveled the Province of Alyssa and beyond, 
 
 Her success has been notable. She has not built a mass movement — that is not her method — but she has planted seeds of the Black Flame's philosophy in dozens of communities, cultivated sympathizers among merchants and minor nobles who find the doctrine commercially useful, and earned a reputation within the faith as one of its most effective proselytizers. Her title of "Mendicant Priestess" is spoken with respect in the Black Flame's scattered temples, and with wariness by Sacred Forge clergy who have learned that Myrine's gentle smile and reasonable tone are far more dangerous to their congregations than any warlord's sword.
 
-### Kallistratos
+#### Kallistratos
 
 Myrine met [[being-klstrtsxrchds|Kallistratos Exarchides]] in Velysâra, where she had returned to the temple for one of her periodic visits. Kallistratos came to the temple seeking what he called "perspective" — drawn by an interest in Vúlcan that his Ordo training framed as academic but that Myrine recognized immediately as spiritual hunger. She saw in him not just a potential convert but a figure of genuine significance: a man of extraordinary arcane talent, noble blood, burning anger, and the kind of driven ambition that the Black Flame teaches is the truest expression of Vúlcan's will.
 
@@ -660,9 +660,9 @@ She has attached herself to his company since then, serving as spiritual advisor
 
 This is not cynicism. Myrine genuinely cares for Kallistratos. She believes his anger is righteous, his ambition is divinely ordained, and his potential is extraordinary. She believes she is helping him become what Vúlcan intends him to be. The fact that this process also serves the Black Flame's strategic interests does not create a conflict for her — in her theology, divine purpose and earthly advantage are the same thing. The strong serve Vúlcan by being strong. Myrine serves Vúlcan by making others strong. There is no contradiction.
 
-## Psyche
+### Psyche
 
-### Personality
+#### Personality
 
 Myrine is intense, passionate, and utterly unapologetic about her faith. She commands attention when she enters a room — not through bluster, but through the quiet certainty of someone who knows exactly what she believes and has the strength to back it up. She meets disapproval with a calm, almost pitying smile, as though the disapprover simply hasn't understood the world yet. This is her greatest weapon as a proselytizer: she never argues, never harangues, never demands conversion. Instead she asks questions, draws out observations, and gently leads people to conclusions that happen to align perfectly with the Black Flame's doctrine. "Of course the strong rule. Look around you. Has it ever been otherwise?" Her beauty and charm make people want to agree with her; her conviction makes them believe they should.
 
@@ -672,7 +672,7 @@ Despite her sometimes cryptic manner, Myrine is deeply loyal to those she consid
 
 She is also, in quieter moments, good company. She sings well — campfire ballads, soldier's songs, the hymns of the Black Flame that sound both beautiful and vaguely threatening. She has a dry, observational humor that catches people off guard. She enjoys the road, the work, the endless variety of people and their reasons for believing what they believe. For all the severity of her doctrine, there is a vitality to Myrine that is impossible to fake: she loves what she does, and it shows.
 
-### Motivation
+#### Motivation
 
 Myrine is motivated by three things, and she does not perceive them as separate.
 
@@ -682,7 +682,7 @@ Second: the fulfillment of the prophecy she read in Kallistratos's flames. She b
 
 Third: her own mastery. The Black Flame teaches that stagnation is death, that every practitioner of might — physical, intellectual, spiritual — must constantly sharpen their edge or see it dulled. Myrine pushes herself relentlessly: refining her rhetoric, deepening her fire reading, maintaining her combat skills, studying the political and theological landscapes she navigates. She is twenty-four years old and already one of the Black Flame's most effective evangelists. She does not intend to plateau.
 
-### Strengths
+#### Strengths
 
 Myrine's most potent weapon is her eloquence. She speaks with warmth and apparent reasonableness, framing the Black Flame's harsh doctrines as simple common sense. She rarely preaches; instead she converses, drawing people toward conclusions they believe they reached on their own. Combined with her charm, beauty, commanding presence, and hypnotic voice, her eloquence makes her one of the Black Flame's most effective evangelists — and one of the Sacred Forge's most frustrating adversaries.
 
@@ -690,7 +690,7 @@ Her fire divination gives her a dimension that pure rhetoricians lack. She can c
 
 In combat, she is a trained and dangerous fighter. Her sword-and-net style emphasizes control and tactical awareness over brute force — the net to entangle and position, the sword to exploit the opening. Her initiative is exceptional: she strikes first, decisively, before opponents have finished assessing the threat.
 
-### Weaknesses
+#### Weaknesses
 
 Myrine's empathy is genuinely limited — not absent, but constrained by a doctrine that classifies compassion as weakness when it is not paired with strength. She is capable of understanding others, even of caring for them, but she does not instinctively register suffering the way someone with a stronger empathic sense would. This blind spot sometimes makes her misjudge people whose motivations are rooted in emotions she considers irrelevant: grief, guilt, tenderness unmoored from strength. She can fail to see why a grieving parent or a guilty survivor would refuse the Black Flame's offer of purpose and power, because the refusal makes no sense within her framework.
 
@@ -698,33 +698,33 @@ Her certainty, while a source of strength, also limits her. Myrine has never ser
 
 Her relationship with Kallistratos is both her greatest work and her greatest vulnerability. She has invested years and her deepest convictions in his cultivation. If he rejects the Black Flame's path — if he sees through her influence and resents it, or if his loyalty to the Ordo proves stronger than his anger — she will lose not just an ally but the central purpose around which she has organized her life since the flames showed her his face. She has no contingency for this outcome because she has never seriously imagined it.
 
-## Social
+### Social
 
-### Companions
+#### Companions
 
 - **[[being-klstrtsxrchds|Kallistratos Exarchides]]**: The young Ordo Arcanis fire mage whom Myrine considers her life's most important work. She serves as his spiritual advisor, fire reader, and — from her perspective — the instrument of Vúlcan's will in his life. Their relationship is warm, genuine, and deeply unequal in ways Kallistratos has not yet perceived.
 - **[[being-phltsklfts|Philetos Kleftes]]**: The company's tactician. Myrine respects his mind and his usefulness but considers him a man of limited vision — capable of solving problems but incapable of grasping the larger purpose that drives her.
 - **[[being-shdqbnrhmndplmtcblddncr|Shadiq ibn Rahman]]**: The blade dancer and diplomat. Myrine finds him interesting — his social gifts rival her own, and she suspects he sees through her rhetoric more clearly than most. This makes him both a potential challenge and a worthy interlocutor.
 
-### Patrons
+#### Patrons
 
 - **Aspasia Melikhron**: Senior priestess at the Temple of the Black Flame in Velysâra, Myrine's teacher in fire divination and her primary sponsor within the faith's hierarchy. Aspasia recognized Myrine's gift and invested years in training her. Now in her late fifties, Aspasia views Myrine as both her greatest student and a source of concern — the girl's talent is undeniable, but her certainty about the Kallistratos prophecy unsettles a woman who has spent decades learning how easily fire readings can deceive. She supports Myrine's mendicant work but monitors her reports carefully.
 
 - **Theron Kalypsos**: Myrine's eldest brother, who has taken over the family's grain trading operations in Belekos. Theron did not convert to the Black Flame, but he respects his sister's success and finds her philosophy commercially useful. He provides Myrine with occasional financial support and, more importantly, with the merchant-class contacts that give her access to the minor nobility and the emerging commercial elite where the Black Flame's doctrine resonates most powerfully. Their relationship is affectionate and pragmatic — the Kalypsos family does not disown its own, and a priestess with connections is an asset regardless of the faith she serves.
 
-### Enemies
+#### Enemies
 
 - **Archimandrite Dion Stephanos**: A senior Sacred Forge clergyman based in Alyssa, the imperial capital, who has made the Black Flame's growing influence a personal crusade. He cannot act against Myrine directly — Vylarian law protects the Black Flame's legal right to exist — but he has used his influence to pressure local authorities to restrict Black Flame preaching, discredit known sympathizers, and fund counter-sermons in towns where Myrine has been active. He considers her one of the most dangerous agents the Black Flame has produced in a generation, precisely because her methods are so difficult to counter: you cannot arrest a woman for having conversations.
 
 - **The Jánite Watch in Vylaria**: While the Faith of Jánus has less institutional power in Vylaria than in kingdoms where it serves as the state religion, its military orders maintain a watchful presence. The Jánite knights stationed in Alyssa province regard the Black Flame with theological hatred that transcends local law, and they have agents tracking known Black Flame clergy — including Myrine. They cannot touch her legally, but they can make her life difficult: warning innkeepers, alerting local lords, ensuring that doors close before she reaches them. Myrine treats their interference as proof that the Jánites fear what she represents.
 
-### Affiliations
+#### Affiliations
 
 - **The Black Flame**: Myrine's faith and her life's work. She is ordained, authorized as a mendicant, and recognized as a fire reader — a combination that gives her unusual independence within the faith's loose hierarchy. She reports to the Temple in Velysâra but operates with significant autonomy.
 
 - **The Mendicant Circuit**: An informal network of itinerant Black Flame priests who travel the empire, sharing information about sympathetic communities, hostile territories, and opportunities for the faith. Myrine is one of approximately two dozen active mendicants in the Province of Alyssa, and her success as a proselytizer has made her a respected voice within this network.
 
-## Plot Hooks
+### Plot Hooks
 
 1. **A Flame Rekindled**:
 

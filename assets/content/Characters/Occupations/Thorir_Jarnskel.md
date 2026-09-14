@@ -554,11 +554,11 @@ sohl:
     defaultCombatGroup: null
 ---
 
-# Appearance {#appearance}
+## Appearance {#appearance}
 
 Thórir is a compact man, built closer to the squat proportions of the deep mountain dwellers than typical Nordmen, with the weathered, ruddy face of someone who has spent decades between worlds. His brown eyes are sharp but ringed with shadow, suggesting long nights spent poring over manuscripts or traversing planes of existence most people cannot perceive. His brown hair, pulled back in a tight warrior's knot, shows streaks of gray that speak of age and hard living. But the most striking feature is the tattoo on his left wrist: a dolphin in blue ink, rendered with surprising artistry and entirely at odds with the typical Nordheimn aesthetic. It is a mark of his time in foreign ports and trading ventures—the only visible remnant of a past he does not discuss. Despite his modest stature and quiet demeanor, there is something unsettling about his presence, a sense that he perceives things others do not, that he is only partly in this world.
 
-# Dossier {#dossier}
+## Dossier {#dossier}
 
 Thórir Járnskel was born to a family of skilled metalworkers and merchants in Greyfjord, the kind of guilded-class family that occupied the space between common folk and nobility—respected, relatively comfortable, but never quite accepted into the higher tiers of Nordheimn society. His early life seemed ordinary: training in his father's smithcraft, learning the family trade, preparing for a practical merchant's life. But at sixteen, his gift manifested in a way that was catastrophic for a young man in Nordheimn culture.
 
@@ -576,7 +576,7 @@ The catalyst for his change came fifteen years ago when a spirit—a particularl
 
 But living this way has taken its toll. He is paranoid—reasonably so. He trusts almost no one. He has lost friends and lovers because he could never fully open himself to them. He suffers from recurring nightmares where his practice is discovered, where the priests come for him, where he is exposed before the thing-assembly and stripped of honor, family, and life. He drinks more than he should, and his hands shake on certain mornings.
 
-## Psyche
+### Psyche
 
 Thórir is a man living in constant fear of discovery, and that fear has hollowed him out in subtle ways. He is extraordinarily intelligent (reasoning: 18) and deeply knowledgeable in lore (folklore: 85), but he channels these gifts almost entirely into finding new ways to hide. His will is strong (15), but it is spent on maintaining cover rather than pursuing any positive goal. He is skilled at human discourse and manipulation—his Common is exceptional, and he can charm when he needs to—but these are instruments of concealment rather than genuine connection.
 
@@ -586,7 +586,7 @@ But that same awareness that makes him gifted makes him unbearably sensitive to 
 
 The metaphor he uses most often, in the rare moments he is honest about his emotional state, is drowning—he describes himself as drowning in air, unable to breathe, holding his head just above water while everyone around him remains perfectly comfortable.
 
-## Social
+### Social
 
 Officially, Thórir is a respected merchant and sometime scholar of Nordheimn antiquities, loosely affiliated with the Panepistemium. He has published a few respectable but unremarkable papers on metalcraft traditions and historical trading routes. He maintains a public persona as a somewhat eccentric but ultimately harmless middleman—someone who brings foreign goods and foreign ideas into Nordheim, and whom the authorities tolerate because the trade is economically useful and he causes no visible disruption.
 
@@ -596,15 +596,15 @@ But beneath this, he is part of an entirely different society: a network of hidd
 
 His relationship with the Panepistemium is entirely cynical: he uses their libraries and archives, their legitimacy and their protection, while contributing nothing of his real knowledge. The Epistemium would likely expel him if they understood his true practice, but he is too minor and too useful for them to bother investigating thoroughly.
 
-## Companions
+### Companions
 
-### Patrons and Teachers
+#### Patrons and Teachers
 
 **Thurídr of the Deep Roads**, his original teacher and the most powerful völva in the northern underground (though she is now in her eighties and preparing to pass her knowledge on). She is the person Thórir owes the most—she took him in when he manifested his gifts, taught him to survive and hide, gave him the framework that allowed him to live at all. She is also his greatest source of paranoia; he constantly worries that she is becoming a liability, that her age and visibility are threats to the entire community, that someone will eventually break her and trace the network back to him. His love for her is absolute; his fear that she will bring him down is equally so.
 
 **Kolr Fisherman**, an ostensible friend from his merchant days (connection from southern trading voyages) who is actually a supplier of rare materials and books from beyond Nordheim. The arrangement is old and relatively safe; Kolr asks no questions, and Thórir pays well in coin that is clean and untraced.
 
-### Enemies and Threats
+#### Enemies and Threats
 
 **Skaold Righteous**, a clerk within Ódinn's Order of the All-Seeing Eye, who has developed a personal crusade against "corruptions" in traditional practice. He is not yet investigating Thórir specifically, but his inquiries are widening, and he has the authority and institutional backing to cause serious damage. The tension is building.
 
@@ -612,7 +612,7 @@ His relationship with the Panepistemium is entirely cynical: he uses their libra
 
 **His Own Fragmented Self**, the most dangerous enemy—the part of him that is exhausted by hiding, that wants to simply _be_ without constant fear, and that increasingly questions whether this life is even worth preserving. The breakdown he feels coming is not distant; he knows it is near.
 
-## Plot Hooks
+### Plot Hooks
 
 1. **The Student's Betrayal** — One of Thórir's carefully vetted students, a younger woman he trained in seidr over the course of five years, comes to him with news: she has been approached by Skaold Righteous, and Skaold knows some (but not all) of what she practices. She is begging Thórir for guidance on whether to run, admit everything, or attempt to deceive Skaold. Thórir must decide whether to help her (risking exposure of the network), flee preemptively (abandoning her and the others), or attempt to neutralize Skaold (crossing into direct action against the institutional clergy).
 

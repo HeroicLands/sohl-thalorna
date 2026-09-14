@@ -589,29 +589,29 @@ sohl:
 
 **Home:** [[place-meruhotep|Meru-Hotep]]
 
-# Appearance {#appearance}
+## Appearance {#appearance}
 
 Tot'kar stands 5'10" tall with a heavy build. He has tawny skin, graying black hair, and green-brown eyes. His features include a diamond-shaped face, a prominent nose, a narrow chin, generous lips, high-set brows, angular cheeks. A distinguishing mark is a tattoo of a leaf on the wrist.
 
-# Dossier {#dossier}
+## Dossier {#dossier}
 
-## Background
+### Background
 
-### The Scholar's Path
+#### The Scholar's Path
 
 Born in 676 to a merchant family with modest social standing, Totkar showed early genius with language and logic, prompting his family to arrange his apprenticeship with a respected litigant rather than training him in family commerce. Under the tutelage of Master Litigant Amenhophis, a man of legendary acumen and integrity, Totkar studied the vast and intricate legal codes that governed [[affiliation-empirtkhpr|Ta'Kheperu]]'s empire, learning not merely rules but the philosophical foundations underlying them. His aptitude was extraordinary; he mastered seven languages and became fluent in the legal traditions of multiple realms before reaching his twentieth year.
 
-### The Rise to Prominence
+#### The Rise to Prominence
 
 For the past two decades, Totkar has established himself as one of the Empire's most respected litigants—a name invoked with reverence by those seeking legal protection and viewed with healthy caution by opposing counselors. His reputation rests upon unwavering commitment to justice over profit, a willingness to take on cases others deem unwinnable, and a record of success so consistent that opposing litigants often attempt to negotiate settlements simply upon learning he will defend their adversary. His reputation extends beyond Ta'Kheperu; scholars from distant lands have consulted with him, and his written interpretations of legal principles have begun to influence judicial thinking across multiple realms.
 
-### The Burden of Knowledge
+#### The Burden of Knowledge
 
 Yet Totkar's success has come at personal cost. His deep empathy for his clients' suffering, combined with his capacity to perceive nuance and injustice with painful clarity, has gradually worn upon his spirit. He has begun to question the efficacy of law as a vehicle for true justice, wondering if he merely manipulates the rules for marginally better outcomes rather than addressing fundamental corruptions in the systems he serves. He maintains a modest household and has never married, his personal life subordinated entirely to the demands of his practice.
 
-## Psyche
+### Psyche
 
-### Personality
+#### Personality
 
 Totkar is a man of profound intellectual integrity whose personality is marked by unusual depth of feeling beneath a composed, professorial exterior. He speaks deliberately, choosing words with precision, seemingly incapable of casual speech or superficial conversation. His mind is perpetually analytical, constantly examining situations for logical inconsistencies and hidden implications. Yet this intellectual rigor masks genuine emotional sensitivity; he experiences his clients' suffering with an intensity that borders on overwhelming, and his commitment to their causes transcends professional obligation.
 
@@ -619,11 +619,11 @@ He possesses unusual humility for one of his accomplishment; he is acutely aware
 
 In personal interaction, he is warm but somewhat reserved, prone to lengthy silences while he considers his words. He maintains only a few intimate friendships, but those relationships are characterized by uncommon depth and loyalty. He is capable of surprising humor—dry, intellectually sophisticated, and often emerging unexpectedly in serious conversations. His colleagues respect him deeply, though some find him daunting; his standards for legal practice are exacting, and he has little patience for procedural shortcuts or intellectual laziness.
 
-### Motivation
+#### Motivation
 
 Totkar is driven by an almost religious commitment to justice and truth—not justice as institutionalized procedure, but justice as the alignment of outcomes with genuine right action. Every case he accepts represents a belief that truth can be discovered and championed, that law can be wielded to protect the vulnerable, that his intellectual gifts are best employed in service of those who lack adequate voice in systems of power. He is motivated also by intellectual hunger—each case presents novel legal and moral questions, opportunities to deepen his understanding of how law intersects with human dignity and divine principle. Increasingly, he is motivated by mentorship, seeking to elevate the standards of his profession and to train younger litigants in the ethical framework that should undergird legal practice. He is driven too by mounting despair—a gnawing fear that his efforts, however brilliant, represent merely localized resistance against vast systemic corruption; his motivation increasingly includes a desperate search for evidence that law and justice can be meaningfully reconciled.
 
-### Strengths
+#### Strengths
 
 - **Comprehensive Legal Mastery**: Possesses encyclopedic knowledge of Ta'Kheperu's legal codes, the laws of multiple neighboring realms, and the philosophical principles underlying legal systems; his expertise is uncontested and frequently sought as authoritative.
 
@@ -637,7 +637,7 @@ Totkar is driven by an almost religious commitment to justice and truth—not ju
 
 - **Disciplined Scholar**: Maintains meticulous documentation and research practices; his written briefs are masterpieces of legal argumentation that judges explicitly praise for clarity and comprehensiveness.
 
-### Weaknesses
+#### Weaknesses
 
 - **Emotional Vulnerability**: His empathy for clients' suffering can become debilitating; he absorbs their trauma, their injustice, their despair, and carries it home with him, leading to depression and spiritual exhaustion.
 
@@ -651,9 +651,9 @@ Totkar is driven by an almost religious commitment to justice and truth—not ju
 
 - **Compulsive Perfectionism**: His high standards for legal argument and ethical practice can make him a difficult colleague; he is intolerant of sloppiness and occasionally paralyzed by the pursuit of perfect argumentation when pragmatic sufficiency would serve.
 
-## Social
+### Social
 
-### Patrons
+#### Patrons
 
 - **Priestess Seshat**: High priestess of Thōth's temple and a fellow scholar of law and wisdom; she has become both spiritual advisor and patron, commissioning Totkar to defend temple interests and consulting with him on matters of religious jurisprudence.
 
@@ -663,7 +663,7 @@ Totkar is driven by an almost religious commitment to justice and truth—not ju
 
 - **Master Scribe Amenhotep**: A former rival who has come to respect Totkar's intellect; they maintain a collegial relationship and occasionally collaborate on legal matters of particular complexity.
 
-### Enemies
+#### Enemies
 
 - **The Bureaucratic Ministry**: Totkar's willingness to challenge governmental injustice and expose administrative corruption has made him a liability to several ministers whose authority he has questioned; they work subtly to undermine his credibility and restrict his access to certain cases.
 
@@ -671,13 +671,13 @@ Totkar is driven by an almost religious commitment to justice and truth—not ju
 
 - **The Conservative Faction**: Traditionalist legal scholars who view Totkar's willingness to challenge established interpretations and to defend socially marginal clients as dangerous radicalism threatening legal stability.
 
-### Affiliations
+#### Affiliations
 
 - **Litigant's Guild**: A respected senior member who serves on the ethics committee and has been approached regarding leadership positions; his standards and reputation significantly influence Guild policy and professional standards.
 
 - **The Order of Thōth**: Committed lay member devoted to the pursuit of wisdom and truth; he participates in scholarly circles and has begun to develop written theological work exploring the intersection of divine wisdom and human justice.
 
-## Plot Hooks
+### Plot Hooks
 
 1. **The Case of Impossible Innocence**: A young person convicted of murder through what appears to be airtight legal procedure approaches Totkar requesting defense appeal—they claim absolute innocence, yet all evidence points to guilt, all testimony corroborates the conviction, and even Totkar's initial investigation seems to confirm the verdict. Yet the young person's desperation rings true, and Totkar becomes convinced that subtle but systematic deception has orchestrated a false conviction. His investigation threatens to expose corruption in the judicial system itself—evidence that the original magistrate conspired with prosecutors to manufacture guilt. As Totkar works toward appeal, he uncovers evidence that the conviction may have been orchestrated to conceal far greater crimes by more powerful figures. Success would require public exposure of judicial corruption that the system is heavily invested in concealing.
 

@@ -605,27 +605,27 @@ sohl:
     defaultCombatGroup: null
 ---
 
-# Appearance {#appearance}
+## Appearance {#appearance}
 
 Fakhrad stands 5'11" tall with a medium build. He has tanned ruddy skin, jet black hair, and green eyes. His features include a long face, a long nose, an angular jawline, a firm-set mouth, prominent brows, sculpted cheeks. A distinguishing mark is a scar on the right hand.
 
-# Dossier {#dossier}
+## Dossier {#dossier}
 
 Fakhrad was born in a remote village of the Sultanate of Amradad, the son of a minor grain merchant and a woman reputed to possess the old gift—an intuitive understanding of cycles and seasons that transcended mere agricultural knowledge. His mother taught him to read the stars before she taught him to read books, and his earliest memories are of lying on rooftops, tracing constellations and learning their names and stories. When he was sixteen, a formal astrologer passing through the region recognized his natural gift and offered to take him as apprentice. Fakhrad spent seven years in the city learning mathematical astronomy, the construction of instruments, and the formal practices of the craft.
 
 However, he eventually rejected the rigid formalism of court astrology and returned to the rural regions, where he has spent the past twenty-three years serving as adviser and interpreter of the heavens to farmers, herders, and villagers. His practical approach—using the stars to predict weather, to advise on planting and harvest, to comfort the fearful—has won him a devoted following among the common people, though it has earned him considerable scorn from the formal astrological establishment. He has published no treatises, made no grand discoveries, and built no reputation in the halls of academia. Yet his predictions are remarkably reliable, and his counsel is sought by those who know where to find him.
 
-## Psyche
+### Psyche
 
-### Personality
+#### Personality
 
 Fakhrad is a man of warmth and genuine curiosity about the world and its people. He is patient with those who come to him, never dismissive of their concerns, and he possesses a gift for explaining complex astronomical phenomena in terms simple folk can understand and appreciate. Yet he harbors a complex pride regarding his unconventional path—a defensive certainty that his practical approach is superior to the theoretical musings of court astrologers, even when evidence might suggest otherwise. He drinks deeply, laughs easily, and possesses a robust appetite for life's pleasures. He is somewhat irreverent regarding formal religion, though he maintains genuine spiritual commitment to the mysteries the stars represent. His humor tends toward bawdy and practical jokes, and he enjoys clever wordplay and satire.
 
-### Motivation
+#### Motivation
 
 Fakhrad's primary motivation is to prove that genuine wisdom and utility need not come wrapped in academic credentials or courtly approval. He seeks to deepen the understanding of his craft while keeping it accessible and valuable to common people. Beyond this personal validation, he harbors a secret ambition—he is convinced that the stars are trying to communicate something important, some pattern or portent hidden in their movements that the formal establishment has overlooked. He seeks to uncover this truth, even if it requires him to venture beyond the safety of his village and into dangerous territory.
 
-### Strengths
+#### Strengths
 
 - **Practical Astronomical Knowledge**: Fakhrad's understanding of celestial patterns, particularly as they relate to weather and seasons, is comprehensive and remarkably accurate.
 - **Herbal Mastery**: His mother's legacy includes extensive knowledge of medicinal and practical herbs; he combines this with his astronomical knowledge to create remedies timed to seasonal and celestial cycles.
@@ -633,7 +633,7 @@ Fakhrad's primary motivation is to prove that genuine wisdom and utility need no
 - **Mathematical and Logical Reasoning**: Despite his lack of formal education, he possesses a keen mind for pattern recognition and logical analysis.
 - **Resilience and Adaptability**: Years of living modestly in rural areas have made him resourceful and capable of thriving with minimal material comfort.
 
-### Weaknesses
+#### Weaknesses
 
 - **Limited Formal Education**: His lack of academic training in some areas leaves him vulnerable to dismissal by scholars and court officials, and there are genuine gaps in his knowledge.
 - **Social Insecurity**: Despite his success among commoners, he harbors deep insecurity about his lack of formal credentials and his status within the astrological establishment.
@@ -641,26 +641,26 @@ Fakhrad's primary motivation is to prove that genuine wisdom and utility need no
 - **Poor Combat Training**: His build and strength are moderate, and he has virtually no martial training or combat experience.
 - **Vulnerability to Temptation**: His appetite for drink, pleasurable company, and excitement sometimes leads him into unwise situations or compromises his judgment.
 
-## Social
+### Social
 
-### Patrons
+#### Patrons
 
 - **Farmer Torvan of the Eastern Fields**: A wealthy and influential grain merchant who has relied on Fakhrad's astronomical counsel for harvesting decisions for nearly two decades; Torvan actively defends Fakhrad against criticism.
 - **The Village Elders of Sarath**: The collective leadership of a significant rural settlement maintains Fakhrad on retainer as their adviser regarding seasonal matters and longer-term planning.
 - **Merchant Caravan Master Saffan**: A trader who conducts seasonal journeys across the sultanate uses Fakhrad's predictions to time his routes and often brings news and new knowledge to the astrologer.
 
-### Enemies
+#### Enemies
 
 - **Master Astrologer Rashid al-Kharazi**: A prominent court astrologer who views Fakhrad as a charlatan undoing the serious work of true scholars. Rashid has attempted to publicly discredit him on several occasions.
 - **Inquisitor Mazul**: A religious authority who sees Fakhrad's unconventional relationship with astronomical knowledge as heretical and has begun building a case against him.
 - **The Skeptical Merchants' Council**: A faction of urban merchants who view Fakhrad's methods as superstition and actively work to undermine his reputation among those who might hire him.
 
-### Affiliations
+#### Affiliations
 
 - **Rural Astrologers' Circle**: Fakhrad maintains membership in this loose, informal association of practitioners who share his practical approach and his distance from academic establishments.
 - **The Herblore Practitioners' Guild**: Though unofficial, he networks with other healers and herbalists who combine their knowledge with astronomical timing.
 
-## Plot Hooks
+### Plot Hooks
 
 1. **The Celestial Warning**: For months, Fakhrad has noticed a pattern in the stars that terrifies him—something is wrong with the great cycles, and his calculations suggest an approaching catastrophe. However, his interpretations are different from those of the formal astrologers, and no one in authority will listen. When strange phenomena begin to manifest—crop failures, unusual weather, celestial oddities—people finally come to him for answers. He must help the party understand and prevent the approaching disaster while proving his methods correct.
 

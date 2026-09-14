@@ -123,13 +123,13 @@ data:
 packFolder: elementallords
 ---
 
-# Dāktūr Vōrthāt — The Lord of Metal
+## Dāktūr Vōrthāt — The Lord of Metal
 
 The Elemental Lord of Metal manifests in the celestial records as a figure of absolute rigidity and reflection—an official whose appearance never varies, whose rulings are issued in identical format regardless of circumstance, whose authority extends equally across all classifications of metal without preference or exception. Some Tānthëi scholars suggest that Dāktūr Vōrthāt does not merely _administrate_ the metallic element but _is_ the principle of hardness itself made bureaucratic: unyielding, reflective, and utterly indifferent to appeal.
 
 Like all Elemental Lords, Dāktūr Vōrthāt answers directly to the Jade Sovereign (Vëizhük Dāknëi) rather than to a specific bureau overseer. His authority extends across all manifestations of metal—precious and base, worked and raw, decorative and functional. In the Tānvüri cosmology, metal is not merely a material substance but a _category of being_: the hard boundary that separates one thing from another, the reflective surface that reveals truth, the conductor of forces that would otherwise dissipate. Dāktūr Vōrthāt administers all of these simultaneously, maintaining the distinction between metal-as-boundary and metal-as-substance with obsessive precision.
 
-## The Classification of Metals
+### The Classification of Metals
 
 The Lord of Metal maintains the boundary between four primary administrative categories, each governed according to canonical protocols and subordinate clerk-spirits:
 
@@ -141,7 +141,7 @@ The Lord of Metal maintains the boundary between four primary administrative cat
 
 **Symbolic Metals (Vōrthāt Zhik)** — Metal used in ritual contexts, ceremonial garments, temple furnishings, and administrative seals. This is the category most directly supervised by Dāktūr Vōrthāt in person. Every seal used in the celestial bureaucracy is registered in the Lord of Metal's personal records, and the spiritual weight of incorrect seal usage falls directly upon Dāktūr Vōrthāt's authority. For this reason, the Lord of Metal is intensely conservative in granting permission for new ritual uses of metal. Petitions to use metal in novel ceremonial contexts are frequently denied, on the grounds that unprecedented metallic symbolism creates unclassifiable boundary conditions.
 
-## Authority and Jurisdictional Tensions
+### Authority and Jurisdictional Tensions
 
 Dāktūr Vōrthāt's primary administrative relationship is with the **Earth Lord** (Vëngdāk Zhütvōr), since all metal begins as ore in the earth. The two Elemental Lords maintain a formal protocol of coordination: Vëngdāk Zhütvōr authorizes the presence of metal ore within the earth's domain, and Dāktūr Vōrthāt authorizes its extraction and classification as separate from the earth-mass. This is theoretically clear but practically fraught—disputes over whether a particular ore deposit remains "part of the earth" or has been "classified as metal awaiting extraction" are filed with such frequency that a standing committee of the Supreme Administrative Court has been established to hear nothing else.
 
@@ -149,7 +149,7 @@ Dāktūr Vōrthāt's secondary tension is with **Zhürhöt** (Bureau of Transfor
 
 A tertiary administrative burden falls to Dāktūr Vōrthāt through his role in the **celestial record-keeping system**. The bureaucratic seals that authenticate all documents and petitions throughout the Tëngvōk Vān Lëi are metallic and therefore fall under his domain. Any disruption to the precious-metal supply directly threatens the administrative integrity of the entire celestial bureaucracy. For this reason, Dāktūr Vōrthāt petitions the Jade Sovereign regularly for expanded authority to intervene in mortal metalworking and mining—requests that are typically denied on the grounds that such direct intervention would violate administrative precedent. Nevertheless, the Lord of Metal maintains informal networks of influence through his clerk-spirits and through the priests of the Tānthëi caste who serve as intermediaries.
 
-## Mortal Engagement
+### Mortal Engagement
 
 Mortals petition Dāktūr Vōrthāt through formal offerings at temple shrines dedicated to the Elemental Lord, through the burning of spirit-documents requesting metallic prosperity or protection, or through the mediation of the Tānthëi priesthood. Petitions to Dāktūr Vōrthāt are characteristically formal and rigid—the Lord of Metal will not accept improvised or emotionally-charged prayers. All petitions must be filed according to established protocol, with correct spacing, proper seal placement, and unambiguous language.
 
@@ -161,7 +161,7 @@ Mortals petition Dāktūr Vōrthāt through formal offerings at temple shrines d
 
 **Temple Officials and Record-Keepers** petition Dāktūr Vōrthāt as part of routine maintenance of the bureaucratic infrastructure. New seals must be registered; old seals must be properly retired and recycled. The creation of new official documents that require authentic metallic seals flows through Dāktūr Vōrthāt's office, making the Lord of Metal a subtle but essential gatekeeper in the celestial administrative system.
 
-## See Also
+### See Also
 
 - [[affiliation-tngvkvnlei|Tëngvōk Vān Lëi]] — The Celestial Bureaucracy that appointed Dāktūr Vōrthāt as Elemental Lord
 - [[affiliation-vngdkzhtvr|Vëngdāk Zhütvōr]] — The Elemental Lord of Earth, with whom Dāktūr Vōrthāt maintains constant jurisdictional coordination

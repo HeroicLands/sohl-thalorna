@@ -595,29 +595,29 @@ sohl:
     defaultCombatGroup: null
 ---
 
-# Appearance {#appearance}
+## Appearance {#appearance}
 
 Chrysántos stands 5'10" tall with a light build. He has light pale skin, black hair, and dark brown eyes. His features include an oval face, a straight nose, a sharp jawline, dark brows, sculpted cheeks. A distinguishing mark is a tattoo of a fire on the leg.
 
-# Dossier {#dossier}
+## Dossier {#dossier}
 
 Chrysántos was born the second son of a wealthy Byzarian merchant family with trading interests throughout the League's territories. His older brother inherited the family's primary commercial enterprises; Chrysántos received education, capital, and the expectation that he would establish his own mercantile success. Rather than compete directly with his family's operations, he identified an underserved market: wealthy individuals and noble houses seeking custom-crafted luxury goods, rare imports, and items with historical or spiritual significance. He established himself as a merchant-broker and merchant-craftsperson, positioning himself as the intermediary between discerning buyers and the finest artisans, suppliers, and sources throughout the known world.
 
 Over the past eighteen years, he has built an exceptional network spanning the Byzarian League, the City-States of Vedyara, the Kingdom of Tarvénia, and beyond. He maintains direct relationships with master craftspeople, artisans of legendary skill, and suppliers of rare materials. He has cultivated connections with nobles, merchant lords, clergy, and collectors willing to pay extraordinary sums for specific items. Through careful cultivation of reputation and ruthless management of information, he has become indispensable to a particular tier of wealthy clientele who trust him to locate items they had not known existed and to manage acquisitions they preferred to keep discreet.
 
-## Psyche
+### Psyche
 
-### Personality
+#### Personality
 
 Chrysántos is fundamentally a man of appetite and ambition, concealed beneath layers of refinement and courtesy. He is genuinely intelligent and articulate, capable of discussing history, art, literature, and philosophy with apparent expertise—a cultural fluency that serves him well in the highest social circles. Yet his cultural knowledge is primarily instrumental; he collects facts about art and history much as he collects rare goods, valuing them for their conversational utility and their capacity to impress rather than from any deep passion for understanding.
 
 He is naturally charming when it suits him to be, and his persuasiveness derives partly from genuine interest in the perspectives of others and partly from his calculated assessment of what each person wishes to hear. He is not cruel, but he is profoundly indifferent to the circumstances of those beneath his immediate concern. A merchant's family losing their livelihood to his commercial maneuvering is abstract and remote; his responsibility extends only to those within his social circles. He takes pride in his judgment and his taste, and his opinions on matters of value—financial, artistic, or personal—are delivered with the confidence of one accustomed to being correct and rarely challenged.
 
-### Motivation
+#### Motivation
 
 Chrysántos is driven by the endless accumulation of wealth, influence, and prestige. More specifically, he seeks to surpass his family's commercial standing and establish his own merchant house as the preeminent luxury broker in all the known territories. He desires the respect and fear that comes with financial power, the ability to demand deference from others through the simple fact of his superior resources and connections. He seeks beauty, rarity, and things of exceptional value—both as commodities to trade and as personal acquisitions that reinforce his sense of superiority and excellent taste. Beneath these surface motivations lies a deeper hunger to prove that his own capacity and intellect are superior to his older brother's, that the family chose the wrong heir.
 
-### Strengths
+#### Strengths
 
 - **Mercantile Genius**: His extraordinary skill in mercantilism, combined with mathematical precision and fluent use of two languages, makes him a devastatingly effective negotiator. He understands market dynamics, supply-and-demand leverage, and the hidden valuations that determine what something is truly worth.
 - **Network and Connections**: Across two decades, he has cultivated relationships with hundreds of valuable contacts—craftspeople, collectors, nobles, clergy, and other brokers. His network is his primary asset, more valuable than any specific commodity.
@@ -625,7 +625,7 @@ Chrysántos is driven by the endless accumulation of wealth, influence, and pres
 - **Perception and Reasoning**: His keen perception allows him to read people accurately, identifying what they truly desire beneath what they claim to want. His high reasoning ability lets him analyze complex situations and identify paths to advantage.
 - **Survival and Practical Knowledge**: He possesses greater practical knowledge than many recognize, including understanding of survival skills, animal handling, and wilderness travel—useful assets when procuring items from remote or dangerous locations.
 
-### Weaknesses
+#### Weaknesses
 
 - **Moral Flexibility**: His indifference to the ethical implications of his actions has led him to participate in morally questionable transactions—acquiring artifacts from tombs, purchasing items obtained through exploitation, facilitating transactions that harm vulnerable populations.
 - **Arrogance and Dismissiveness**: His confidence in his own judgment sometimes blinds him to perspectives and information that challenge his worldview. He is prone to dismissing those from lower social classes as inherently less intelligent or capable than himself.
@@ -633,27 +633,27 @@ Chrysántos is driven by the endless accumulation of wealth, influence, and pres
 - **Vulnerability to Emotional Manipulation**: Beneath his careful exterior lies a wound related to his family dynamics—specifically, his resentment of his brother. Anyone who understands this vulnerability can leverage it against him, appealing to his pride or his desire to prove superiority.
 - **Network Dependency**: His entire operational capacity depends on his network. If major contacts betray him, if his reputation for discretion is undermined, if patrons lose faith in his judgment, his enterprise collapses. He has built nothing that survives the loss of his personal credibility.
 
-## Social
+### Social
 
-### Patrons
+#### Patrons
 
 - **Lord Daemon Voss, Master of the Byzarian League's Eastern Territory**: A powerful noble with whom Chrysántos maintains a complex relationship of mutual benefit. Voss provides official protection and access to certain restricted items; Chrysántos ensures that Voss's acquisitions remain discreet and his valuable contacts remain available exclusively.
 - **The Collector of Reliquaries**: A mysterious individual (possibly a private wealthy collector, possibly an institution) who commissions Chrysántos to locate and acquire specific items of historical or spiritual significance. These commissions are exceptionally lucrative and have provided much of his recent wealth accumulation.
 - **Master Artificer Kaelvos**: A legendary craftsperson whose work Chrysántos traffics in and whose custom commissions he brokers. Kaelvos's relationship with Chrysántos is symbiotic but delicate; should Chrysántos ever attempt to exploit Kaelvos directly, the master would have him eliminated.
 
-### Enemies
+#### Enemies
 
 - **Merchant-Lord Tharenis**: A rival merchant-broker operating in the Byzarian League's central territories. Tharenis has undercut Chrysántos's pricing on several important commissions and is aggressively cultivating some of Chrysántos's established clients. There is undeclared but intense commercial warfare between them.
 - **The Puritan Orders**: Certain monastic and priestly orders have become concerned that Chrysántos is acquiring sacred relics and religious artifacts for private collectors without proper ecclesiastical approval. They view him as a desecrator and have begun subtly working to undermine his reputation with both ecclesiastical and secular authorities.
 - **Unknown Parties with Claims to Artifacts**: Several of the items Chrysántos has acquired and sold came from tombs, ruins, or sites of previous conflict. The descendants or cultural inheritors of those sites are beginning to investigate their provenance and demanding repatriation. Some have grown hostile and begun making threats against Chrysántos directly.
 
-### Affiliations
+#### Affiliations
 
 - **Merchant's Guild of the Byzarian League**: His primary professional affiliation, providing legitimacy, protection, and access to guild resources and information networks.
 - **Prosperity Cults of Vénusia**: His fire tattoo marks him as at least peripherally involved with certain fertility and prosperity mystery cults devoted to Vénusia. His actual level of involvement with these groups remains ambiguous even to those who know him well.
 - **The Collector's Circle**: An informal network of wealthy collectors, merchants, and brokers who facilitate transactions among themselves and share information about notable acquisitions and opportunities.
 
-## Plot Hooks
+### Plot Hooks
 
 1. **The Cursed Artifact**: Chrysántos acquires what he believes to be a rare and valuable religious artifact—a relic of considerable historical significance—from a mysterious seller in Vedyara. He brokered a transaction that resulted in sale of the item to a wealthy collector in the Kingdom of Tarvénia. Within weeks, the new owner begins experiencing inexplicable misfortunes: illnesses, financial catastrophes, psychological deterioration. The collector becomes convinced the artifact is cursed and moves to recover it, first through legal means, then through more direct methods. Chrysántos is tracked down and threatened; the artifact's original seller appears to be connected to powerful forces interested in its recovery; and Chrysántos discovers that the artifact may indeed be genuinely supernatural in nature. He must determine whether to recover it, find a way to neutralize whatever curse attends it, or convince the collector that the misfortunes are coincidental.
 

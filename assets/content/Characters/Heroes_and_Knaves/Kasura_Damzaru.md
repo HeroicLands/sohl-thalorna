@@ -559,59 +559,59 @@ sohl:
     defaultCombatGroup: null
 ---
 
-# Appearance {#appearance}
+## Appearance {#appearance}
 
 Kasûra Damzarû is a young woman whose appearance perfectly reflects her profession. Her brown hair is usually pulled into a haphazard knot, secured with whatever is handy — a nail, a dowel, once a fish bone. Her hazel eyes are bright and curious, set in an open, expressive face that smiles easily and often. Her hands are her most notable feature: strong, callused, and perpetually stained with pitch, sawdust, and oil. She dresses in practical work clothes — a leather vest over a cloth tunic, both bearing the marks of a hundred repairs — and she moves with the unselfconscious grace of someone completely at home in their own body. She is not tall, but she fills a room with sheer vitality.
 
-# Dossier {#dossier}
+## Dossier {#dossier}
 
-## Background
+### Background
 
-### Origin
+#### Origin
 
 Kasûra was born in the port of Kashmuret, a bustling harbor in the Haradian Confederation, the daughter of a master shipwright. She grew up in his yard, surrounded by the smell of fresh-cut timber and hot pitch, and from the time she could walk she was underfoot — watching, touching, learning. Her father never formally apprenticed her (the guild traditions were resistant to women in the craft), but she shadowed him so constantly and so eagerly that by twelve she could identify any wood by touch and tell you where it should go in a hull.
 
-### The Gift
+#### The Gift
 
 Kasûra possesses something that defies easy explanation — an intuitive sense for how things work. She can lay her hand on a hull and _feel_ where the stress is wrong, sense the grain of wood and know how it wants to bend. Her father called it a gift from the sea itself. Others have whispered that it borders on the arcane, though Kasûra has no formal training in any mystical tradition. This instinct has allowed her to learn shipwright skills with astonishing speed, and she can diagnose and repair problems that baffle more experienced craftsmen.
 
-### Joining the Tamzîr
+#### Joining the Tamzîr
 
 Kasûra came aboard the Tamzîr two years ago when the ship limped into Kashmuret with a cracked keel and her previous carpenter dead of fever. Shâ was desperate — the Tamzîr needed repairs he could not afford, in a yard that would ask too many questions. Kasûra's father owed debts to men who owed debts to Shâ, and through that chain of obligation, Kasûra was offered up as a temporary carpenter. She took one look at the Tamzîr's battered hull, fell in love with the old ship's stubborn refusal to sink, and never left. She has since performed miracles of repair that have kept the vessel seaworthy far beyond any reasonable expectation.
 
-## Psyche
+### Psyche
 
-### Personality
+#### Personality
 
 Kasûra is sunny, enthusiastic, and possessed of an infectious optimism that seems impervious to the cynicism around her. She chatters about timber joints and hull designs with the same passion other people reserve for love affairs. She is genuinely kind, sees the best in people as a default, and has a gift for making even the most hardened crew members crack a smile. She is also tougher than she appears — growing up in a shipyard among rough workers gave her a resilience that her cheerful demeanor sometimes obscures.
 
-### Motivation
+#### Motivation
 
 Kasûra loves the Tamzîr. Not as an abstraction — she loves the ship itself, the way its hull moves through water, the particular creak of its timbers, the character of its repairs. She also loves the crew who have become her family, and the freedom of a life at sea. She wants to see the world, fix things that are broken, and build something that lasts.
 
-### Strengths
+#### Strengths
 
 She is a brilliant shipwright with an almost supernatural talent for understanding vessels. She is also the crew's heart — her warmth and optimism sustain morale. She is a strong swimmer, agile, and more physically capable than her slight frame suggests. Her mechanical intuition extends beyond ships to other devices and structures.
 
-### Weaknesses
+#### Weaknesses
 
 Kasûra is naïve about the darker aspects of the crew's work. She knows they smuggle, but she does not think deeply about the moral implications. She can be too trusting, and her desire to see the best in people has occasionally been exploited. She is also young — the youngest of the crew — and sometimes her inexperience with the world's cruelty leaves her unprepared for its realities.
 
-## Social
+### Social
 
-### Patrons
+#### Patrons
 
 Her father, **Dalzûru Damzarû**, remains in Kashmuret and worries about her constantly. He is a respected shipwright with connections in the Haradian maritime guilds.
 
-### Enemies
+#### Enemies
 
 Kasûra has no personal enemies, though the Tamzîr's enemies are by extension hers.
 
-### Affiliations
+#### Affiliations
 
 Shipwright of the **Tamzîr**. Daughter of a Haradian master shipwright. She has formed a particularly close bond with **Cibella Serentia**, the troubled young woman aboard the ship, finding in her a kindred spirit despite their vastly different circumstances.
 
-## Plot Hooks
+### Plot Hooks
 
 1. **The Ship's Secret**: During a major repair, Kasûra discovers something hidden in the Tamzîr's hull — a sealed compartment containing documents or artifacts that predate Shâ's ownership by decades. The contents could be valuable, dangerous, or both, and they suggest the Tamzîr has a history far more interesting than anyone aboard suspected.
 

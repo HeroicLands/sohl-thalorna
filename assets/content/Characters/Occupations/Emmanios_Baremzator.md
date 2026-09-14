@@ -551,13 +551,13 @@ sohl:
     defaultCombatGroup: null
 ---
 
-# Appearance {#appearance}
+## Appearance {#appearance}
 
 Émmanîôs Bàremzâtôr is a 38-year-old man who stands 5'8" tall and is of moderate build. He has a diamond face with sharp cheekbones, a lined forehead, and a square jaw that leads to a prominent chin. His round brown eyes sit beneath arched brows, lending him a candid gaze. A hawkish nose and firm lips complete his features. He has light skin with a sun-tanned complexion. His brown hair is kept practical and short.
 
 What strikes those who meet Émmanîôs is the quality of his attention. His hawkish nose and sharp cheekbones suggest severity, yet his eyes—round and earnest—soften this impression. There is something almost birdlike about him, as though he is always slightly perched, ready to pivot toward someone in distress. The lines on his forehead speak of concentration and worry rather than age. His hands, often stained with earth or herbal powders, move with practiced gentleness when dealing with the sick or frightened. He dresses simply—robes of undyed linen, reinforced at the hems for travel—and his traveling bundle never seems to contain anything beyond what is necessary for his healing work.
 
-# Dossier {#dossier}
+## Dossier {#dossier}
 
 Émmanîôs was born in a village near Valdosta to a family of tenant farmers whose fortunes mirrored the slow collapse of Vylaria's imperial structure. His childhood was a study in slow scarcity: good harvests followed by lean years, the constant pressure of taxes rising on declining yields, the awareness that the empire that once guaranteed stability was itself dying. When a blight destroyed the village's fields in his twelfth year, his parents could not pay their tithes. The family fractured; his mother and younger sister fled to the capital seeking work, while his father remained on the land, broken by something more profound than mere hunger.
 
@@ -571,7 +571,7 @@ Now, at thirty-eight, Émmanîôs is known throughout the Valdosta region as som
 
 His greatest secret is that he has begun to operate outside the Temple's official authority. He maintains a network of hidden grain caches, established redistribution channels that blur the line between charity and theft, and corresponding with radical reformist movements within the priesthood that the Temple hierarchy would certainly suppress if they knew. He is not yet a rebel, but he is becoming one.
 
-## Psyche
+### Psyche
 
 Émmanîôs is defined by a profound and sometimes almost painful empathy. He does not merely understand intellectually that others suffer; he feels it viscerally. When he tends to a dying child, he experiences something very close to the child's pain. When he sees a farmer's field failing for the third consecutive year, it affects him as though it were his own ruin. This empathy is his greatest strength—it makes him an extraordinarily effective healer and a beloved figure in his communities—and his greatest vulnerability, as it can lead to compassion-fatigue and a sense of overwhelming helplessness.
 
@@ -581,7 +581,7 @@ Yet he is not naive about the world's hard edges. His high guile (45) and intrig
 
 What drives Émmanîôs is a conviction that has only deepened with time: that the dying empire's collapse creates a specific window of opportunity for those with vision and courage to build something better. The Temple is too invested in the old order to do this work. The local lords are too focused on preserving their own advantage. But the villages, organized around networks of mutual aid and guided by someone who truly cares about their survival, might be able to survive the coming darkness. He is moving gradually toward the conviction that he must choose between institutional loyalty and genuine help for his people—and he is beginning to suspect that no institution will ultimately matter when the empire finally breaks.
 
-## Social
+### Social
 
 Officially, Émmanîôs holds the rank of Circuit Priest of Flórania for the Valdosta region, answerable to the regional Temple hierarchy but operating with significant autonomy in his day-to-day work. The Temple is content with this arrangement because he requires minimal administrative support and because his effectiveness in keeping rural populations calm and provisioned serves institutional interests.
 
@@ -591,13 +591,13 @@ But his relationship with the wider priesthood is increasingly strained. More co
 
 He is beginning to attract attention from radical reform movements within the priesthood, and also from lay communities organizing outside Church sanction. Some see him as a potential leader for a more distributed, community-based form of Floránia worship that would transcend the institutional Church. He has not committed to any such movement, but he is listening, and his resistance is weakening.
 
-## Companions
+### Companions
 
 **Patrons:** The farmers and village elders of the Valdosta circuit are Émmanîôs's true patrons. Specifically, Elder Theron of Millhaven (also patron to Azéndas Dâemâtôr, though the two priests have never met), a former militia officer, provides local political protection and shelter. Mother Celene, an elderly priestess of Flórania in the Temple hierarchy, maintains institutional support for Émmanîôs's circuit, despite her private reservations about his radical sympathies. A shadowy figure known only as "the Gathering" appears to coordinate with Émmanîôs about resource redistribution—whether ally or potential manipulator is unclear even to Émmanîôs.
 
 **Enemies:** The Temple's conservative faction views Émmanîôs as a threat to institutional stability and would remove him if they could do so without generating rural unrest. Bishop Morivan, an ambitious ecclesiastic in the capital, has marked Émmanîôs as a heretic-in-waiting and gathers evidence against him. Greedy regional lords see his charitable work as an obstacle to their own extraction of resources from the villages. A grain merchant named Solon, who has profited from village scarcity, despises Émmanîôs for disrupting the desperate desperation that makes the poor vulnerable to exploitation.
 
-## Plot Hooks
+### Plot Hooks
 
 1. **The Hidden Cache Discovered** — Soldiers conducting a random audit discover one of Émmanîôs's hidden grain caches, establishing proof that he has been stealing from Temple resources and redistributing them illegally. The Temple hierarchy demands his arrest; his villages threaten armed resistance. Émmanîôs must choose between flight, submission, or escalating into open rebellion against both the Temple and imperial authority.
 

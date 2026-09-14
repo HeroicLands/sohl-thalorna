@@ -551,11 +551,11 @@ sohl:
     defaultCombatGroup: null
 ---
 
-# Appearance {#appearance}
+## Appearance {#appearance}
 
 Eda Somervell is a 27-year-old woman who stands 5'7" tall and is slender. She has a long face with wide-set cheekbones, a narrow forehead, and a narrow jaw that leads to a delicate chin. Her narrow hazel eyes sit beneath thin brows, lending her a keen gaze. A rounded nose and full lips complete her features. She has pale skin with a smooth complexion. Her brown hair is woven with small braids.
 
-# Dossier {#dossier}
+## Dossier {#dossier}
 
 Born in the Aelwyth region to a freeman family of Aelwythan heritage, Eda Somervell came into the world of the innkeeper through a combination of circumstance and aptitude.
 
@@ -563,37 +563,37 @@ Elira manages the Willowbrook Inn, which is nestled near a popular trade route. 
 
 Now at 27 years of age, Eda Somervell has established herself as a known figure among the innkeepers of Aelwyth. Her reputation, for better or worse, precedes her in the circles where such things matter.
 
-## Psyche
+### Psyche
 
-### Personality
+#### Personality
 
 Inexperienced in business negotiations, can be too trusting.
 
-### Motivation
+#### Motivation
 
 Eda is driven by the desire to master her craft and secure a stable future. The uncertainties of life in innkeeper work keep her vigilant and adaptable.
 
-### Strengths
+#### Strengths
 
 Excellent hostess, skilled cook, personable.
 
-## Social
+### Social
 
 Eda is affiliated with Local Innkeepers' Association.
 
 As a Aelwythan innkeeper, Eda occupies a recognized social niche within Aelwyth society.
 
-## Companions
+### Companions
 
-### Patrons
+#### Patrons
 
 Eda's primary patron is Travelers and local traders.. This relationship provides both opportunity and obligation.
 
-### Enemies
+#### Enemies
 
 Few; she is generally liked by the community.
 
-## Plot Hooks
+### Plot Hooks
 
 1. **The Innkeeper's Dilemma** — Eda faces a professional crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Aelwyth.
 

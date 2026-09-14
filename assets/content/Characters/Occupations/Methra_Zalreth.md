@@ -550,11 +550,11 @@ sohl:
     defaultCombatGroup: null
 ---
 
-# Appearance {#appearance}
+## Appearance {#appearance}
 
 Méthra Zálreth is a 26-year-old woman who stands 5'11" tall and is slender. She has a diamond face with soft cheekbones, a wide forehead, and a rounded jaw that leads to a delicate chin. Her round green eyes sit beneath expressive brows, lending her a candid gaze. A slightly upturned nose and expressive lips complete her features. She has pale skin with a fair complexion. Her brown hair is swept up and held with carved combs.
 
-# Dossier {#dossier}
+## Dossier {#dossier}
 
 Born in the Élavendre region to a freeman family of Élavendri heritage, Méthra Zálreth came into the world of the laborer (unskilled) through a combination of circumstance and aptitude.
 
@@ -562,37 +562,37 @@ Mira is a hardworking young woman who assists in various labor jobs around her v
 
 Now at 26 years of age, Méthra Zálreth has established herself as a known figure among the laborer (unskilled)s of Élavendre. Her reputation, for better or worse, precedes her in the circles where such things matter.
 
-## Psyche
+### Psyche
 
-### Personality
+#### Personality
 
 Lacks physical strength compared to others, sometimes takes on too much work.
 
-### Motivation
+#### Motivation
 
 Méthra is driven by the desire to master her craft and secure a stable future. The uncertainties of life in laborer (unskilled) work keep her vigilant and adaptable.
 
-### Strengths
+#### Strengths
 
 Skilled in various tasks, positive attitude, adaptable.
 
-## Social
+### Social
 
 Méthra is affiliated with Local Laborers' Union.
 
 As a Élavendri laborer (unskilled), Méthra occupies a recognized social niche within Élavendre society.
 
-## Companions
+### Companions
 
-### Patrons
+#### Patrons
 
 Méthra's primary patron is Local farmers and artisans who appreciate her help.. This relationship provides both opportunity and obligation.
 
-### Enemies
+#### Enemies
 
 Few; generally well-liked in the community.
 
-## Plot Hooks
+### Plot Hooks
 
 1. **The Laborer (unskilled)'s Dilemma** — Méthra faces a professional crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Élavendre.
 

@@ -594,39 +594,39 @@ sohl:
     defaultCombatGroup: null
 ---
 
-# Appearance {#appearance}
+## Appearance {#appearance}
 
 Kayvonad stands 5'4" tall with a medium build. He has light olive skin, a shaved head, and dark amber eyes. His features include an oblong face, a long nose, a sharp jawline, a firm-set mouth, heavy brows, high cheeks.
 
-# Dossier {#dossier}
+## Dossier {#dossier}
 
-## Background
+### Background
 
-### The Promising Scholar
+#### The Promising Scholar
 
 Born to a merchant family of moderate wealth in the Khazryn Desert, Kayvonad demonstrated early aptitude for mathematics and molecular theory. He studied at the University of Caldar from age fifteen, where he rapidly became the favored student of the legendary alchemist **Master Aldrin Kovoss**. Under **Kovoss's** tutelage, he mastered the fundamental principles of mineral transmutation—the stable conversion of base metals and common stones into substances of greater rarity and value. His doctoral thesis on the thermodynamic principles underlying successful copper-to-silver transmutation was hailed as groundbreaking, and he was invited to join the University's prestigious research faculty at an unusually young age.
 
-### The Fall from Grace
+#### The Fall from Grace
 
 For nearly two decades, **Kayvonad** published extensively and achieved considerable renown throughout the academic world. His innovations in catalytic crystalline matrices allowed for higher-yield transmutations and more stable results. However, his fortunes shifted dramatically when his longtime colleague and rival, **Doctor Theron Casix**, published a paper demonstrating mathematical errors in **Kayvonad's** foundational work. Rather than acknowledging the corrections gracefully, **Kayvonad** publicly attacked **Casix's** methodology and character, claiming his rival had plagiarized from stolen notes. The resulting scandal divided the department, damaged both their reputations, and led to an acrimonious split. Though **Kayvonad** retained his position, he was stripped of his leadership role and relegated to diminished research funding.
 
-### Present Isolation
+#### Present Isolation
 
 Now in his fifties, **Kayvonad** continues his research in a state of dignified isolation, convinced that he was wronged and that history will vindicate him. He maintains the title of Senior Researcher at the University of Caldar, though his interaction with his colleagues has become minimal and predominantly transactional. His laboratory is a marvel of arcane equipment and alchemical apparatus, filled with bubbling retorts and shimmering essences, yet it serves more as a monument to past glory than a functioning center of discovery. He has become increasingly bitter about the "mediocrity" that runs his field, dismissive of younger scholars, and obsessively focused on proving his theories through whatever means necessary.
 
-## Psyche
+### Psyche
 
-### Personality
+#### Personality
 
 Kayvonad is the embodiment of the brilliant but embittered academic. Intellectually rigorous to the point of pedantry, he can discourse for hours on minute variations in crystalline structure or the subtle differences between catalytic mechanisms. His brilliance is undeniable but increasingly weaponized—he uses his superior knowledge not to advance understanding but to diminish others. He is caustic and dismissive toward those he deems intellectually inferior, a category that encompasses most of humanity. Yet beneath this acerbic exterior lies profound loneliness and a desperate hunger for acknowledgment that he was wronged.
 
 He has few friends and considers most social interaction an exhausting necessity. He drinks heavily in the evenings, though he never allows alcohol to impair his work during daylight hours. He is capable of surprising generosity toward promising young scholars—but only those who display sufficient deference to his expertise and unqualified agreement with his theoretical positions.
 
-### Motivation
+#### Motivation
 
 **Kayvonad** is motivated primarily by a need for vindication. He harbors a profound conviction that **Theron Casix** deliberately sabotaged his career out of jealousy, and that the academic establishment failed in their duty to recognize this injustice. He works obsessively to achieve discoveries that will prove his theories correct and restore his reputation to what he believes it should have been. Underlying this is a deeper, more melancholic motivation: a desperate wish to prove that his life's work mattered, that his contribution to human knowledge was not overshadowed by personal failures and petty academic politics.
 
-### Strengths
+#### Strengths
 
 - **Mineral Transmutation Mastery**: **Kayvonad** possesses unparalleled expertise in the stable conversion of base materials into precious substances. His theoretical understanding of the underlying mechanisms is perhaps unsurpassed in the known world.
 - **Mathematical Genius**: His reasoning and mathematical capability are exceptional. He can work through complex calculations that would confound ordinary scholars, finding patterns in numerical data that others miss.
@@ -634,7 +634,7 @@ He has few friends and considers most social interaction an exhausting necessity
 - **Rare Material Identification**: His deep knowledge of minerals and substances allows him to identify and evaluate rare materials with remarkable accuracy and speed.
 - **Ritualistic Understanding**: Though not a mage in the traditional sense, his knowledge of alchemical rituals and their theoretical underpinnings is comprehensive.
 
-### Weaknesses
+#### Weaknesses
 
 - **Physical Fragility**: **Kayvonad** possesses minimal strength or endurance. Years of sedentary work have left him poorly suited to physical exertion or combat of any kind.
 - **Arrogant Dismissiveness**: His conviction in his own intellectual superiority blinds him to genuine insights offered by others. He often rejects valuable information because it comes from sources he considers beneath consideration.
@@ -642,24 +642,24 @@ He has few friends and considers most social interaction an exhausting necessity
 - **Chemical Dependency**: His reliance on alcohol and certain stimulant compounds has begun to subtly impair his judgment, though he refuses to acknowledge this decline.
 - **Rigid Methodology**: His insistence on rigid theoretical frameworks sometimes prevents him from recognizing when experimental results demand revision of fundamental assumptions.
 
-## Social
+### Social
 
-### Patrons
+#### Patrons
 
 - **University of Caldar Administration**: The institution that employs him, though their support is increasingly perfunctory and administrative rather than genuine intellectual backing.
 - **The Mineral Consortium of Khazryn**: A loose association of wealthy merchants dealing in rare minerals who fund some of his research in exchange for first option on any transmutation breakthroughs with commercial applications.
 
-### Enemies
+#### Enemies
 
 - **Doctor Theron Casix**: His former colleague whose mathematical critique became the basis for **Kayvonad's** fall from prominence. **Casix** has since become the favored elder statesman of the University's alchemical research, a position **Kayvonad** considers his by right.
 - **The Cabal of Progressive Theorists**: A faction of younger scholars at the University who have openly criticized **Kayvonad's** methodology as outdated and advocated for embracing newer theoretical frameworks that he views as intellectually corrupt.
 
-### Affiliations
+#### Affiliations
 
 - **University of Caldar**: His institutional home, though his status has diminished considerably over the years.
 - **The Alchemists' Society**: An academic organization where he maintains membership but rarely participates in official functions.
 
-## Plot Hooks
+### Plot Hooks
 
 1. **The Impossible Transmutation**: **Kayvonad** discovers evidence that someone has achieved a transmutation he thought theoretically impossible—lead to gold through a previously unknown catalytic mechanism. He hires the party to locate the alchemist responsible, convinced this person either stole his work or has developed a genuine breakthrough. The investigation reveals that **Doctor Casix** himself appears to be behind the discovery, and **Kayvonad** must grapple with the possibility that his rival finally achieved what he could not, or that his rival's discovery is built on fraud similar to the accusations leveled against **Kayvonad** himself decades ago.
 

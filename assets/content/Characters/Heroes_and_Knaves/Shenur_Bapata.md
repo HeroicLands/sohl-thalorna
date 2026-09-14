@@ -596,11 +596,11 @@ sohl:
 
 **Home:** [[place-ankhsetun|Ankh-Setûn]]
 
-# Appearance {#appearance}
+## Appearance {#appearance}
 
 Shenur stands 6'3" tall with a heavy build. He has warm brown skin, very dark brown hair, and dark amber eyes. His features include a high-cheekboned face, a straight narrow nose, a tapered chin, generous lips, warm brows, prominent cheeks. A distinguishing mark is a tattoo of a serpent on the back.
 
-# Dossier {#dossier}
+## Dossier {#dossier}
 
 Shenur was born to the Ba'pata clan during the flooding season, third son of a metalworker's family. His father, **Neferhotep Ba'pata**, recognized early that young Shenur possessed the strength and focus required for the finest crafts. Rather than compete for inheritance, Shenur was apprenticed at age twelve to **Master Taharqo**, keeper of the Imperial forge in [[affiliation-empirtkhpr|Ta'Kheperu]]'s merchant quarter. For twenty-three years, he honed his art under Taharqo's exacting eye, learning not merely to shape metal, but to understand its voice—when to strike, when to let fire breathe, when to cool with deliberate patience.
 
@@ -608,19 +608,19 @@ Upon his master's retirement, Shenur inherited the forge and established himself
 
 Today, Shenur maintains his forge with obsessive dedication. Every dawn, before the city stirs, he stokes the fires that have burned continuously for nearly three decades. His workshop has become an institution—mercenary captains route themselves through Ta'Kheperu specifically to commission pieces from his anvil.
 
-## Psyche
+### Psyche
 
-### Personality
+#### Personality
 
 Shenur is a man of few words but absolute conviction. He measures success not in gold or prestige, but in function—a weapon must cut, armor must protect, and anything beyond utility is mere decoration distracting from purpose. This philosophy makes him invaluable to warriors and infuriating to aesthetes. He respects dedication and honest labor above all else; a person who works hard and without pretense will find in him a loyal ally, while idleness or deception earns only his contempt.
 
 Beneath his gruff exterior lies a profound spirituality. He observes the rites of Hâpi with meticulous care, believing that the prosperity god guides his hands in the shaping of metal. He keeps a small altar in the forge's corner, making daily offerings of oil and bread. To Shenur, his craft is not separate from his faith—they are inseparable aspects of a sacred covenant with his deity.
 
-### Motivation
+#### Motivation
 
 Shenur seeks to leave a legacy of excellence that will outlast his mortal years. With no biological heirs, he is driven to ensure that the standards he has established will persist through those he trains and the weapons that bear his name. He also harbors a quiet determination to prove that functionality and durability are higher virtues than ornamentation—a philosophy born from both principle and wounded pride from years of being overshadowed by flashier craftsmen.
 
-### Strengths
+#### Strengths
 
 - **Masterful Metalcraft**: Shenur's command of the forge is unparalleled within a hundred leagues. His weapons and armor are renowned for their durability and perfect balance, often surpassing military specifications.
 - **Unyielding Work Ethic**: He labors from before dawn until long past sunset, maintaining standards that lesser craftspeople cannot sustain. His reliability is absolute—commissions are always completed on schedule.
@@ -628,7 +628,7 @@ Shenur seeks to leave a legacy of excellence that will outlast his mortal years.
 - **Ritualistic Precision**: His spiritual devotion translates into meticulous attention to detail. Every hammer strike, every fold in the metal, every fitted joint receives the care of sacred work.
 - **Merchant Relations**: Decades of dealing with military quartermaster and wealthy patrons have taught him shrewd negotiation skills and the ability to manage complex commissions.
 
-### Weaknesses
+#### Weaknesses
 
 - **Disdain for Artistry**: Shenur's dismissal of decorative elements alienates potential patrons and fellow craftspeople. He refuses commissions that include inlay, filigree, or embellishment, limiting his clientele.
 - **Rigidity in Design**: His insistence on proven, functional forms leaves him vulnerable to competition from innovators. He struggles to adapt to new battlefield tactics that might require novel weapon designs.
@@ -636,27 +636,27 @@ Shenur seeks to leave a legacy of excellence that will outlast his mortal years.
 - **Social Awkwardness**: Small talk is foreign to Shenur, and his directness often reads as rudeness. He has few friends outside his professional circle and no social standing beyond his guild.
 - **Aging Body**: Decades of physical labor are exacting their toll. His strength, while still impressive, is waning, and he experiences chronic pain in his shoulders and back.
 
-## Social
+### Social
 
-### Patrons
+#### Patrons
 
 - **General Amenkhotep**: Commander of the Ta'Kheperu Imperial Guard, who has purchased from Shenur for seventeen years. Trusts no other source for his cohort's weapons and considers Ba'pata blades worth their weight in gold.
 - **Captain Khenti**: A mercenary captain of considerable renown who leads a company of two hundred soldiers. She sends at least a dozen soldiers annually to commission from Shenur.
 - **Lord Merchant Sekhenti**: A wealthy trader who deals in imperial contracts. While he cares little for the functional beauty of weapons, he appreciates the investment value of Ba'pata craftsmanship.
 - **The Bridge District Militia**: The informal neighborhood watch that maintains peace in Ta'Kheperu's merchant quarters. They scrape together funds to purchase Shenur's work whenever possible.
 
-### Enemies
+#### Enemies
 
 - **Master Khamose the Embellisher**: A rival craftsman who specializes in ornate, jeweled weapons intended for nobility. Khamose publicly mocks Shenur's "crude militarism" and has twice attempted to undercut his prices at military auctions.
 - **The Gilded Smiths' Consortium**: A merchant organization representing aesthetic craftspeople across the Empire. They view Shenur as an enemy of true artistry and have lobbied to exclude his work from noble exhibition halls.
 - **Priest Amenmose**: A mid-ranking cleric of Ptah (god of craftsmanship and architecture) who resents that Shenur worships Hâpi. Amenmose has suggested that Shenur's "heretical practices" compromise his quality and spreads this falsehood among religious merchants.
 
-### Affiliations
+#### Affiliations
 
 - **The Metalworkers' Guild of Ta'Kheperu**: Though Shenur maintains independence and refuses guild leadership positions, he remains formally registered and pays his annual dues. The guild recognizes him as the highest-ranked active craftsperson.
 - **Imperial Military Quartermaster's Office**: While not an official affiliation, Shenur maintains standing contracts with the Empire's military procurement division, granting him priority access to the finest raw materials in imperial warehouses.
 
-## Plot Hooks
+### Plot Hooks
 
 1. **The Cursed Blade**: A young soldier commissions Shenur to forge a weapon to replace one lost in a skirmish, but claims the original blade "whispered to him" in dreams and guided his sword arm. Shenur, initially dismissing this as fancy, begins experiencing disturbing visions while working the metal—images of a battlefield shrouded in unnatural mist. Investigation reveals the original weapon was forged decades ago by a metalworker now long dead, a practitioner of forbidden blood-alchemy who bound a djinn's fragment into the steel. The new blade Shenur creates risks inheriting the curse unless he can discover and perform a purification ritual. **Taharqo's Library**, his old master's sealed collection, contains references to such magic—but Taharqo's descendants have closed it to all outsiders.
 

@@ -549,11 +549,11 @@ sohl:
     defaultCombatGroup: null
 ---
 
-# Appearance {#appearance}
+## Appearance {#appearance}
 
 Syphrânôs Vârênlâs is a 37-year-old man who stands 6'2" tall and is broad and solidly built. He has an angular face with sharp cheekbones, a smooth forehead, and a strong jaw that leads to a strong chin. His hooded dark brown eyes sit beneath prominent brows, lending him a guarded gaze. A straight nose and full lips complete his features. He has light skin with a sun-tanned complexion. His black hair is short and swept back.
 
-# Dossier {#dossier}
+## Dossier {#dossier}
 
 Born in the Vylaría region to a freeman family of Vylarian heritage, Syphrânôs Vârênlâs came into the world of the gladiator through a combination of circumstance and aptitude.
 
@@ -561,37 +561,37 @@ Marcus was born into poverty and sold into slavery at a young age. He was traine
 
 Now at 37 years of age, Syphrânôs Vârênlâs has established himself as a known figure among the gladiators of Vylaria. His reputation, for better or worse, precedes him in the circles where such things matter.
 
-## Psyche
+### Psyche
 
-### Personality
+#### Personality
 
 Haunted by his past, struggles to adapt to life outside of combat.
 
-### Motivation
+#### Motivation
 
 Syphrânôs is driven by the desire to master his craft and secure a stable future. The uncertainties of life in gladiator work keep him vigilant and adaptable.
 
-### Strengths
+#### Strengths
 
 Physically powerful, skilled in multiple combat styles, experienced in the arena.
 
-## Social
+### Social
 
 Syphrânôs is affiliated with Gladiators' Guild.
 
 As a Vylarian gladiator, Syphrânôs occupies a recognized social niche within Vylaria society.
 
-## Companions
+### Companions
 
-### Patrons
+#### Patrons
 
 Syphrânôs's primary patron is Wealthy sponsors who bet on his matches.. This relationship provides both opportunity and obligation.
 
-### Enemies
+#### Enemies
 
 Rival gladiators who seek to surpass his reputation.
 
-## Plot Hooks
+### Plot Hooks
 
 1. **The Gladiator's Dilemma** — Syphrânôs faces a professional crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Vylaria.
 

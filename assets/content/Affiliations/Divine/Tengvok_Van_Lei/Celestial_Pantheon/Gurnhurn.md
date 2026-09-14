@@ -122,7 +122,7 @@ data:
 packFolder: celestialpantheon
 ---
 
-# Gürnhürn — The Minister of Entropy
+## Gürnhürn — The Minister of Entropy
 
 - **Bureau:** Hürn Sëi, The Bureau of Unraveling
 - **Domain:** Entropy
@@ -138,12 +138,12 @@ represent precisely the unravelling it has failed to keep licensed. Its Yöklëi
 embarrassment: technically subordinate, functionally uncontrollable, and the single largest source
 of jurisdictional gaps in the administration.
 
-## Lesser Spirits
+### Lesser Spirits
 
 - **Hürnvōr** — Controlled Dissolution Spirits, who execute authorised unravelling.
 - **Yöklëi** — Trickster Spirits, who inhabit the boundary between classified order and the Hürnlëi. Technically under Gürnhürn's authority and notoriously difficult to administer.
 
-## See Also
+### See Also
 
 - [[affiliation-tngvkvnlei|Tëngvōk Vān Lëi]] — the Celestial Bureaucracy this bureau belongs to
 - [[affiliation-tanvurempr|Empire of Tānvür]] — the mortal realm it administers

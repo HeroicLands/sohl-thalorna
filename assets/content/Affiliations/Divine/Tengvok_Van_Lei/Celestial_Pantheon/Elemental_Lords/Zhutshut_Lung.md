@@ -123,13 +123,13 @@ data:
 packFolder: elementallords
 ---
 
-# Zhütshüt Lüng — The Lord of Water
+## Zhütshüt Lüng — The Lord of Water
 
 The Elemental Lord of Water manifests in the celestial records as a figure of fluid motion and deceptive constancy—an official whose authority extends across all manifestations of water, yet whose administration is marked by a peculiar instability and tendency toward jurisdictional fluidity. Unlike Dāktūr Vōrthāt's rigid certainty or even Röthöt Dākvëng's organic tolerance, Zhütshüt Lüng maintains authority through constant adaptation and boundary-shifting. Some Tānthëi scholars note with concern that the Lord of Water exhibits the characteristic traits of his element: formlessness, the capacity to dissolve barriers, the ability to flow around obstacles rather than confronting them directly. Others suggest that this flexibility is precisely the attribute required to administer an element that refuses stable categorization.
 
 Like all Elemental Lords, Zhütshüt Lüng answers directly to the Jade Sovereign rather than to a specific bureau overseer. His authority encompasses water in all its manifestations—rivers, seas, lakes, rain, fog, and water incorporated into other substances. In the Tānvüri cosmological framework, water occupies a paradoxical position: it is simultaneously the most common substance and the most dangerous to categorization, because water refuses the stable boundaries that allow classification. A river is not quite a part of the earth (it moves). A cloud is not quite air (it has substance). Seawater is not quite earth (it flows) and not quite pure water (it contains minerals). Zhütshüt Lüng's entire administrative burden derives from this essential instability.
 
-## The Classification of Water
+### The Classification of Water
 
 The Lord of Water maintains the boundary between five administrative categories, each of which is notoriously difficult to define with precision:
 
@@ -143,7 +143,7 @@ The Lord of Water maintains the boundary between five administrative categories,
 
 **Salt Water (Lüng Dāk)** — The ocean and all salt-water bodies. This category is supervised by the clerk-spirit **Dāklüng** and is administered separately from fresh water, both because salt-water oceans are understood as fundamentally different from freshwater rivers and lakes, and because the ocean falls partially under the jurisdiction of Vōrdōk (the Minister of Roads), who claims authority over all "passage" including sea-transit. The relationship between Zhütshüt Lüng and Vōrdōk over ocean administration is formalized through protocol but remains contentious, particularly when storms, tidal floods, or other water-related phenomena occur at sea. Additionally, the ocean's status as a boundary between lands creates competition with the Bureau of Passage, which views the ocean as transit-space rather than water-element.
 
-## Authority and Jurisdictional Tensions
+### Authority and Jurisdictional Tensions
 
 Zhütshüt Lüng's primary administrative relationship is with **Rëkgüng** (Overseer of the Bureau of Thunder and Rain), whose claim over rainfall Zhütshüt Lüng perpetually disputes. The Lord of Water argues that water should not be subdivided by the means of its delivery; Rëkgüng argues that the celestial administration of _when and where_ rain falls is fundamentally different from the material nature of water. This dispute remains unresolved and generates petitions to the Supreme Administrative Court with notable frequency.
 
@@ -153,7 +153,7 @@ Zhütshüt Lüng also maintains an uneasy relationship with **Nëizāt** (Overse
 
 Finally, Zhütshüt Lüng maintains a relationship with the **Earth Lord** (Vëngdāk Zhütvōr) over groundwater, wells, springs, and the boundary between water as a distinct element and water as a component of soil. This dispute is less frequently adjudicated, but it creates practical problems for settlements dependent on wells and for agricultural regions dependent on groundwater.
 
-## Mortal Engagement
+### Mortal Engagement
 
 Mortals petition Zhütshüt Lüng through offerings at water shrines, through the pouring of water-offerings and spirit-documents into rivers or wells, or through mediation by the Tānthëi priesthood. Petitions to the Lord of Water are often more emotional and less formally structured than petitions to the metal or fire lords, though all must still acknowledge proper protocol. Some communities treat petitions to Zhütshüt Lüng as inherently less certain in outcome than petitions to other Elemental Lords, reflecting the Lord of Water's reputation for boundary-fluidity.
 
@@ -167,7 +167,7 @@ Mortals petition Zhütshüt Lüng through offerings at water shrines, through th
 
 **Communities suffering drought or catastrophic flooding** file emergency petitions to Zhütshüt Lüng, though such petitions are often denied or considered frivolous by celestial administrators, who view drought and flood as either _appointed_ conditions (in which case resistance is administratively improper) or as signs of spiritual imbalance (in which case the petitioning community should address the underlying moral ledger rather than requesting water-related intervention).
 
-## See Also
+### See Also
 
 - [[affiliation-tngvkvnlei|Tëngvōk Vān Lëi]] — The Celestial Bureaucracy that appointed Zhütshüt Lüng as Elemental Lord
 - [[affiliation-rekgung|Rëkgüng]] — Overseer of the Bureau of Thunder and Rain, with whom Zhütshüt Lüng disputes jurisdiction over rainfall

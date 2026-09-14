@@ -551,11 +551,11 @@ sohl:
     defaultCombatGroup: null
 ---
 
-# Appearance {#appearance}
+## Appearance {#appearance}
 
 Grímr Stormrót is a 38-year-old man who stands 5'6" tall and is of moderate build. He has a square face with prominent cheekbones, a high forehead, and a square jaw that leads to a square chin. His bright blue eyes sit beneath prominent brows, lending him a lively gaze. A strong nose and firm lips complete his features. He has pale skin with a lightly freckled complexion. His brown hair is pulled back in a warrior's knot.
 
-# Dossier {#dossier}
+## Dossier {#dossier}
 
 Born in the Nordheim region to a noble family of Nordheimn heritage, Grímr Stormrót came into the world of the litigant through a combination of circumstance and aptitude.
 
@@ -563,37 +563,37 @@ Alistair hails from a prominent family of lawyers and has made a name for himsel
 
 Now at 38 years of age, Grímr Stormrót has established himself as a known figure among the litigants of Nordheim. His reputation, for better or worse, precedes him in the circles where such things matter.
 
-## Psyche
+### Psyche
 
-### Personality
+#### Personality
 
 Can be overly ambitious, sometimes prioritizes career over personal relationships.
 
-### Motivation
+#### Motivation
 
 Grímr's driving force is the search that defines his life — a quest that shapes every decision he makes and every risk he takes.
 
-### Strengths
+#### Strengths
 
 Excellent negotiator, knowledgeable in legal matters, persuasive speaker.
 
-## Social
+### Social
 
 Grímr is affiliated with Litigant's Guild.
 
 As a Nordheimn litigant, Grímr occupies a recognized social niche within Nordheim society.
 
-## Companions
+### Companions
 
-### Patrons
+#### Patrons
 
 Grímr's primary patron is Wealthy clients and local nobles.. This relationship provides both opportunity and obligation.
 
-### Enemies
+#### Enemies
 
 A few rival litigants who envy his success.
 
-## Plot Hooks
+### Plot Hooks
 
 1. **The Litigant's Dilemma** — Grímr faces a professional crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Nordheim.
 

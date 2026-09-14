@@ -577,11 +577,11 @@ sohl:
     defaultCombatGroup: null
 ---
 
-# Appearance {#appearance}
+## Appearance {#appearance}
 
 Brànwâal is a weathered, sharp-eyed man of thirty-four with a medium frame, fair skin worn by years of battle, dark brown hair streaked with gray, and steady brown eyes. His bearing still carries traces of the noble upbringing he lost long ago. He moves with the easy confidence of a seasoned commander who has survived more battles than he cares to count.
 
-# Dossier {#dossier}
+## Dossier {#dossier}
 
 Brànwâal Dôrgaar is the founder and captain of the [[affiliation-slntlncmpny|Silent Talon]], a tight-knit mercenary band operating out of [[place-provenzrgn|Provènzia Region]]. Born into a minor noble family, he lost his lands and status when House Dôrgaar chose the wrong side in the _War of the Princes_. Rather than fade into obscurity, Brànwâal turned his strategic mind and martial skill to the mercenary trade, building a reputation in the Blood Lands as a commander who brings his people home alive.
 
@@ -589,49 +589,49 @@ He has led men for more than a decade, and his philosophy is simple: war is a ga
 
 Beneath his practical, sometimes cold exterior, Brànwâal cares deeply for his people. He sees the band as the family that replaced the one he lost, and he will take considerable risks to protect them—though he would never admit to sentimentality.
 
-## Background
+### Background
 
-### Skills and Abilities
+#### Skills and Abilities
 
 - **Leadership**: Brànwâal's greatest asset. He commands respect through experience, competence, and the unshakable loyalty he inspires in those who serve under him.
 - **Strategy**: A keen tactical mind honed over a decade of mercenary campaigns. He reads a battlefield the way a scholar reads a text—seeing patterns, weaknesses, and opportunities others miss.
 - **Personal Combat**: A skilled swordsman who can hold his own in close fighting, though he prefers to direct the battle rather than wade into it.
 - **Cunning**: Sharp-tongued and quick-witted, Brànwâal navigates negotiations, contracts, and the treacherous politics of the mercenary trade with a noble's instinct for power dynamics.
 
-## Psyche
+### Psyche
 
-### Personality
+#### Personality
 
 Brànwâal is practical, cunning, and sharp-tongued, with a strong sense of camaraderie. He commands respect through experience and skill, and though he may appear cold, he cares deeply for the welfare of his men. There is a slight arrogance about him—a remnant of his noble upbringing—and he has a taste for calculated risks that occasionally unnerves his companions.
 
-### Motivation
+#### Motivation
 
 Brànwâal seeks to restore his family's honor and reclaim their lost lands by amassing wealth and influence through mercenary work. His immediate aim is to grow the Silent Talon's reputation, attracting high-paying contracts that will bring him closer to his long-term ambition. For now, the band is enough—but he has never stopped thinking about the day he can reclaim the name Dôrgaar.
 
-### Strengths
+#### Strengths
 
 - **Leadership**
 - **Strategy**
 - **Personal Combat**
 
-## Social
+### Social
 
-## Companions
+### Companions
 
 - **[[being-elyseskyrn|Elýsè Skýrn]]**: The band's healer and alchemist.
 - **[[being-torniskbry|Tórnis Kúbrý]]**: Scout, spy, and infiltrator.
 - **[[being-chlbrhydyn|Chéleb Rhýddýn]]**: Áelendan tracker and archer.
 - **[[being-dornsyndlr|Dôren Sýndalr]]**: Frontline fighter and axeman.
 
-### Patrons
+#### Patrons
 
 None currently, though he seeks to earn the favor of powerful lords.
 
-### Enemies
+#### Enemies
 
 Those who brought down House Dôrgaar during the War of the Princes.
 
-## Plot Hooks
+### Plot Hooks
 
 1. **The Dôrgaar Claim**: Word reaches Brànwâal that the lands once held by his family are now disputed between two rival lords. If he can amass enough silver and the right allies, he may be able to press his ancestral claim—but doing so means entering the very political arena he fled a decade ago.
 

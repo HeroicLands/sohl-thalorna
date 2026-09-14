@@ -127,7 +127,7 @@ data:
 packFolder: celestialpantheon
 ---
 
-# Tānlüng — The First Classifier
+## Tānlüng — The First Classifier
 
 Tānlüng is not a being in the manner of the other celestial officials. The Tānthëi make clear distinction: Tānlüng is not a minister with a bureau, not an administrator with subordinates, not an official who hears petitions or issues directives. Tānlüng is the _principle of classification itself_ — the originating act from which all other existence flows. In the Tānvüri cosmology, Tānlüng is not named in prayers because Tānlüng is not prayed to. Tānlüng cannot be petitioned, cannot grant favors, cannot be appeased or angered. Tānlüng simply _is_ — and because Tānlüng _is_, all other things _become_.
 
@@ -137,7 +137,7 @@ Then came the **Vōr Thōk** (the First Distinction). At some moment that the T�
 
 Once that first boundary existed, all other boundaries became possible. Tānlüng then performed the **Dāk Zhāklëi** (the Great Sorting), the systematization of reality into the categories that persist to this day: fire from water, wood from metal, earth from air, light from dark, heat from cold, motion from stillness. Every category required a name. Every name established a set of rules governing what things classified under that name could and could not do. Every set of rules required administration. And so the gods were _appointed_ — not created from love or loneliness, but positioned into offices that the Great Sorting itself had established.
 
-## The Apex Without Authority
+### The Apex Without Authority
 
 The paradox at the heart of Tānvüri theology is this: Tānlüng is simultaneously the highest authority in the celestial hierarchy and completely removed from all day-to-day administrative work. The Jade Sovereign Vëizhük processes petitions, issues rulings, coordinating the bureaus — this is ordinary administration. Tānlüng does nothing of the kind. Tānlüng does not hear cases, does not settle jurisdictional disputes, does not issue new directives. Tānlüng's authority is not legislative or executive — it is _originating_. All administrative legitimacy in the celestial bureaucracy derives from Tānlüng not because Tānlüng grants it, but because Tānlüng _is_ the foundational principle from which all categories flow.
 
@@ -145,7 +145,7 @@ This means that an ambitious bureau overseer cannot appeal to Tānlüng for auth
 
 The closest mortals or spirits can come to understanding Tānlüng's will is through consultation with the Archive of All Records (Thōk Sëi), where the original classifications and distinctions established during the Great Sorting are preserved in their purest form. A scholar wishing to understand what Tānlüng's original intention was for a particular domain must study the archival records, trace the lineage of classifications backward through time, and infer the underlying principle. But even this is not consultation with Tānlüng; it is consultation with the _written record_ of Tānlüng's original act.
 
-## The Celestial Dragon and the Hürnlëi
+### The Celestial Dragon and the Hürnlëi
 
 Tānlüng is referred to as the **Celestial Dragon** (Tëngvōk Lünglëi), though the Tānthëi are careful to note that this is metaphor, not accurate description. A dragon is a creature with body and will and personality. Tānlüng is none of these things. The Celestial Dragon is instead a _form of thought_ — a way the mind can grasp something that exceeds conceptual boundaries. To think of Tānlüng-the-principle as Tānlüng-the-dragon is to smuggle in a false solidity, a false personality. But the human mind cannot contemplate pure principle without some grounding symbol, and so the dragon serves as a permissible metaphor — something that transcends all categories of living things, something ancient beyond measure, something whose true nature mortals cannot perceive.
 
@@ -155,7 +155,7 @@ The Bureau of Entropy (Hürn Sëi) exists, in part, to manage the boundary betwe
 
 This is the deepest fear in the Tānvüri cosmology: not invasion, not divine judgment, but _administrative breakdown_. The fear is that the bureaucracy itself — all its procedures, all its precedents, all its carefully maintained records — could fail. And if the administration fails, what was once sorted will slip back into the Unclassified, and nothing will remain of existence as it was known.
 
-## Mortal Engagement: Invocation and Impossibility
+### Mortal Engagement: Invocation and Impossibility
 
 Tānlüng is not prayed to. There are no temples dedicated primarily to the First Classifier. There are no rituals invoking Tānlüng's intercession. The Tānthëi teach that to pray to Tānlüng is to fundamentally misunderstand what Tānlüng is — a prayer assumes a being capable of responding, and Tānlüng is not capable of response, not because Tānlüng is distant or uninterested, but because the very concept of "response" requires categories (questioner, question, answerer) that come _after_ Tānlüng's distinguishing act.
 
@@ -165,7 +165,7 @@ Some of the most devoted scholars have spent entire lives tracing the genealogy 
 
 But this is not devotion to Tānlüng. This is the study of Tānlüng's _work_, the way one might study a master artisan's technique by examining the objects they have created. Tānlüng, the being — if "being" is even the correct word — remains forever outside the reach of petition, prayer, or invocation.
 
-## See Also
+### See Also
 
 - [[affiliation-tngvkvnlei|Tëngvōk Vān Lëi]] — The celestial bureaucracy ordained by Tānlüng's Great Sorting
 - [[affiliation-veizhuk|Vëizhük Dāknëi]] — The Jade Sovereign who administers in Tānlüng's stead

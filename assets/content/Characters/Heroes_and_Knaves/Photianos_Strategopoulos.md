@@ -585,11 +585,11 @@ sohl:
     defaultCombatGroup: null
 ---
 
-# Appearance {#appearance}
+## Appearance {#appearance}
 
 Phótianos stands 5'8" tall with a heavy build. He has light weathered skin, gray hair, and green eyes. His features include a long face, a straight nose, a sharp jawline, prominent brows. A distinguishing mark is a scar on the right hand.
 
-# Dossier {#dossier}
+## Dossier {#dossier}
 
 Phótianos was born the second son of Stratégios, a merchant of modest success in the coastal trading city of Nékropolis. His elder brother inherited the family's trading operations while Phótianos, spirited and imaginative from youth, apprenticed with his mother's brother Demetríos, proprietor of the celebrated inn called the Starlight Crown. Those early years instilled in him a deep philosophy: a good inn is not merely a place of transaction but a sanctuary, a stage where the great and small dramas of human life unfold.
 
@@ -597,9 +597,9 @@ At thirty-two, following Demetríos's death, Phótianos inherited and expanded t
 
 His greatest achievement and deepest sorrow occurred simultaneously when his daughter Lyssandra, a promising healer's apprentice, died of a fever at age nineteen, an event that haunted him for twenty years until he found redemptive meaning in expanding his inn's reputation as a place of refuge and healing knowledge. Now, in his twilight years, Phótianos operates less as a merchant and more as a keeper of traditions, a living bridge between the old ways and the modern world that increasingly threatens to leave him behind.
 
-## Psyche
+### Psyche
 
-### Personality
+#### Personality
 
 Phótianos is a man of warmth tempered with steel. His public persona—the genial host, the teller of rambling yet captivating tales—masks a sharper mind than most realize. He is perceptive nearly to the point of unsettling; he notices when a regular drinks more than usual, when a traveler's smile does not reach his eyes, when strangers exchange meaningful glances over supper. This observational skill has made him a natural confidant, and his inn has become a place where secrets flow as freely as wine.
 
@@ -607,11 +607,11 @@ He is profoundly nostalgic, sometimes painfully so. He speaks often of "the old 
 
 Beneath his genial exterior dwells a man wrestling with the approach of mortality and the fear of irrelevance. His repeated stories, while genuinely engaging, serve also as tethers to a past he cannot recapture.
 
-### Motivation
+#### Motivation
 
 Phótianos's deepest motivation is to create and maintain a sanctuary—not just a building of stone and timber, but a refuge where the weary can find restoration, where strangers might become friends, and where the old virtues of hospitality and honor still possess weight. Through this work, he seeks to honor the memory of his lost daughter and his uncle who taught him the craft. Increasingly, he is driven by a desire to pass on his knowledge and philosophy to a new generation before age claims the ability to do so. He is searching for an heir not merely of blood but of spirit—someone who understands that an inn is a sacred trust.
 
-### Strengths
+#### Strengths
 
 - **Culinary Mastery**: Phótianos is renowned throughout the League for his brewing, cooking, and especially his craft with preserved foods and medicinal broths. His herb garden and root cellar are legendary among travelers, and his ability to create nourishing, memorable meals from simple ingredients rivals master chefs of royal courts.
 
@@ -623,7 +623,7 @@ Phótianos's deepest motivation is to create and maintain a sanctuary—not just
 
 - **Steady Presence**: In crisis or sudden danger, Phótianos becomes calm and decisive. His very presence seems to settle panic. He has mediated disputes, guided lost souls away from despair, and provided practical wisdom in moments when others froze.
 
-### Weaknesses
+#### Weaknesses
 
 - **Physical Fragility of Age**: While still spry, his strength is diminished. He tires more quickly than he did in youth, and his reflexes are noticeably slower. Any physical confrontation would quickly overwhelm him.
 
@@ -635,9 +635,9 @@ Phótianos's deepest motivation is to create and maintain a sanctuary—not just
 
 - **Difficulty with Combat**: While capable of defending himself with a staff or using tactical cunning, Phótianos is not a warrior. Situations requiring sustained violence place him at severe disadvantage despite his mental sharpness.
 
-## Social
+### Social
 
-### Patrons
+#### Patrons
 
 - **The City Magistrate, Lord Theodóros**: An aging administrator who conducts much of his actual governance from a corner table in the Starlight Crown's common room. Phótianos provides him with information, advice, and the illusion of privacy while subtly influencing policy through carefully timed conversations.
 
@@ -647,7 +647,7 @@ Phótianos's deepest motivation is to create and maintain a sanctuary—not just
 
 - **Traveling Scholars and Healers**: An informal network of educated wanderers who view the inn as both sanctuary and information exchange. Phótianos subsidizes rooms for impoverished scholars in exchange for access to their knowledge.
 
-### Enemies
+#### Enemies
 
 - **Kharon the Fist**: A new criminal lord from the southern territories who has been attempting to establish an extortion racket in the district. Phótianos refused to pay protection money and has become the target of increasingly hostile "suggestions." Kharon views the innkeeper as an obstacle to establishing his power base.
 
@@ -655,7 +655,7 @@ Phótianos's deepest motivation is to create and maintain a sanctuary—not just
 
 - **The Orthodox Temple of Jánus**: Certain temple authorities believe Phótianos's inn has become "too permissive" regarding who is served and what discussions are tolerated. They have sermonized against the inn and encouraged the faithful to boycott it, viewing him as spiritually corrupted by worldliness.
 
-### Affiliations
+#### Affiliations
 
 - **The Innkeepers' Association of the Byzarian League**: Phótianos holds high standing, though he is often at philosophical odds with younger members regarding business practices and modernization.
 
@@ -663,7 +663,7 @@ Phótianos's deepest motivation is to create and maintain a sanctuary—not just
 
 - **The Starlight Crown**: His life's work and legacy, the inn functions as much as a symbol as a business.
 
-## Plot Hooks
+### Plot Hooks
 
 1. **The Mysterious Lodger**: A cloaked figure arrives at the Starlight Crown requesting the most private accommodations available, paying in gold and demanding absolute discretion. Over several nights, Phótianos observes this guest receiving late-night visitors—some clearly frightened, others angry. On the fourth night, the guest is found dead in their chamber under circumstances that appear accidental but smell of murder. Local authorities blame Phótianos's negligence, and his inn's reputation hangs in the balance. Investigation reveals the guest was a political dissident from a neighboring realm, and his death ignites a cascade of international complications that Phótianos must navigate carefully to clear his name while protecting the identities of those who visited.
 

@@ -551,11 +551,11 @@ sohl:
     defaultCombatGroup: null
 ---
 
-# Appearance {#appearance}
+## Appearance {#appearance}
 
 Ashârâ Hârôrdâs is a 34-year-old woman who stands 6'0" tall and is of moderate build. She has a square face with angular cheekbones, a high forehead, and a square jaw that leads to a square chin. Her round brown eyes sit beneath prominent brows, lending her a candid gaze. A prominent nose and thin lips complete her features. She has tanned skin with a sun-tanned complexion. Her dark brown hair is swept up and held with carved combs.
 
-# Dossier {#dossier}
+## Dossier {#dossier}
 
 Born in the Vylaría region to a guilded family of Vylarian heritage, Ashârâ Hârôrdâs came into the world of the swordmaster through a combination of circumstance and aptitude.
 
@@ -563,37 +563,37 @@ Thalia is a skilled duelist who made a name for herself in the city's fencing ci
 
 Now at 34 years of age, Ashârâ Hârôrdâs has established herself as a known figure among the swordmasters of Vylaria. Her reputation, for better or worse, precedes her in the circles where such things matter.
 
-## Psyche
+### Psyche
 
-### Personality
+#### Personality
 
 Overly competitive, sometimes lets pride dictate her actions.
 
-### Motivation
+#### Motivation
 
 Ashârâ is driven by the desire to master her craft and secure a stable future. The uncertainties of life in swordmaster work keep her vigilant and adaptable.
 
-### Strengths
+#### Strengths
 
 Exceptional reflexes, skilled in dueling, adept teacher.
 
-## Social
+### Social
 
 Ashârâ is affiliated with City Fencing Guild.
 
 As a Vylarian swordmaster, Ashârâ occupies a recognized social niche within Vylaria society.
 
-## Companions
+### Companions
 
-### Patrons
+#### Patrons
 
 Ashârâ's primary patron is Wealthy patrons who seek her instruction for their children.. This relationship provides both opportunity and obligation.
 
-### Enemies
+#### Enemies
 
 Rival fencers who challenge her for supremacy in the dueling circles.
 
-## Plot Hooks
+### Plot Hooks
 
 1. **The Swordmaster's Dilemma** — Ashârâ faces a professional crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Vylaria.
 

@@ -585,39 +585,39 @@ sohl:
     defaultCombatGroup: null
 ---
 
-# Appearance {#appearance}
+## Appearance {#appearance}
 
 Thorsteinn stands 6'1" tall with a medium build. He has tanned weathered skin, black hair, and brown eyes. His features include an oval face, a prominent nose, a prominent chin, a small mouth, straight brows.
 
-# Dossier {#dossier}
+## Dossier {#dossier}
 
-## Background
+### Background
 
-### Early Apprenticeship
+#### Early Apprenticeship
 
 Thorsteinn was born the third son of a poor farming family in Vithgard's interior, with little prospect of inheriting significant land or wealth. At age twelve, he was apprenticed to the master potter **Kalaugr Clayhand**, an aging craftsman whose hands trembled but whose mind remained sharp. Kalaugr recognized something in the boy—not flashy talent, but the kind of patient persistence that separates true craftspeople from mere imitators. For eight years, Thorsteinn learned the fundamental truths of clay work: that patience yields greater results than passion, that tradition exists because it works, that the smallest variations in temperature or technique can mean the difference between a masterpiece and a pile of shards.
 
-### The Journeyman Years
+#### The Journeyman Years
 
 At twenty, Thorsteinn completed his apprenticeship and spent five years as a journeyman, traveling to distant workshops to learn variant techniques and study master potters across the realm. He worked in the coastal kilns of the south, learning salt-firing and high-fire reduction techniques. He studied at the great centers of ceramic learning, competing in regional competitions and occasionally winning recognition. Yet with each new technique he learned, he felt himself pulled back to the foundational wisdom of **Kalaugr's** teachings. Modern trends seemed flashy and ephemeral, while traditional methods had proven themselves across centuries.
 
-### The Master's Return and Establishment
+#### The Master's Return and Establishment
 
 At thirty, Thorsteinn returned to Vithgard to establish his own workshop, purchasing land from a retiring vintner who no longer had use for the property. Over the past decade, he has built a reputation as the finest potter in the region—not for innovation or fashionable designs, but for reliability, durability, and utility. His vessels are favored by farmers, merchants, and wealthy families alike because they last. They're functional, beautiful in their simplicity, and built to survive the rigors of actual use. He trains apprentices in the traditional manner, takes pride in his work, and has become increasingly respected as a keeper of authentic craft wisdom.
 
-## Psyche
+### Psyche
 
-### Personality
+#### Personality
 
 Thorsteinn is fundamentally a pragmatist—focused, deliberate, and patient in ways that confound more impulsive individuals. He speaks slowly and deliberately, rarely wasting words, and his decisions are considered rather than reactive. This can make him seem dull or inflexible to those who don't understand him, but his students recognize it as the foundation of mastery. He takes genuine pleasure in teaching those who show real dedication, and he has the capacity to be surprisingly warm with apprentices who demonstrate the kind of earnest effort that mirrors his own.
 
 Yet there is a brittleness to Thorsteinn as well—a resistance to change that has hardened into something almost defensive. When confronted with new techniques or aesthetic approaches, his first instinct is dismissal. He has become somewhat rigid in his perspectives, viewing innovation with suspicion rather than curiosity. This has made him something of a relic even in his own time, respected by tradition-minded customers but increasingly dismissed by younger craftspeople and wealthy patrons seeking the cutting edge.
 
-### Motivation
+#### Motivation
 
 At forty, Thorsteinn is primarily motivated by the desire to preserve authentic craft knowledge before it is lost to fashionable trends and hasty shortcuts. He sees himself as a guardian of wisdom earned through generations, and he takes his role as mentor seriously. Beyond this, he is driven by the simple pleasure of creating functional beauty—the satisfaction that comes from a perfect firing, from teaching a student until they finally understand the subtle signs of readiness, from knowing that vessels he created decades ago are still being used by their original owners' descendants. Beneath this contentment, however, there's an unresolved question: is he a master who has achieved his life's work, or is he becoming obsolete?
 
-### Strengths
+#### Strengths
 
 - **Masterful Ceramics Technique** - Thorsteinn's hands have shaped thousands of pots. His touch is instinctive; he can feel when clay is at exactly the right consistency and can sense a kiln's temperature through subtle environmental cues. His firing success rate is among the highest in the region.
 - **Deep Knowledge of Materials** - He understands clay types, mineral content, and how different sources of raw material behave under various conditions. He can identify quality clay by touch and sight, and he knows precisely how to prepare and condition different earth sources.
@@ -626,7 +626,7 @@ At forty, Thorsteinn is primarily motivated by the desire to preserve authentic 
 - **Perceptive Understanding of Material Properties** - He can read clay, glaze, and fire in ways that border on intuitive. He rarely makes mistakes, and when he does, he quickly diagnoses the problem and adjusts.
 - **Respected Reputation** - His name carries weight in Vithgard and surrounding regions. Families commission his work for special occasions, and his pieces hold resale value.
 
-### Weaknesses
+#### Weaknesses
 
 - **Resistant to Innovation** - His greatest limitation, Thorsteinn's attachment to traditional methods has become almost dogmatic. He dismisses new glaze formulas, contemporary design approaches, and modern kiln technologies with reflexive skepticism.
 - **Limited Commercial Acumen** - He has never been particularly skilled at marketing, negotiating advantageous sales, or understanding broader business strategy. He makes beautiful pots and expects them to sell; he's never been ambitious about expanding his market reach.
@@ -635,25 +635,25 @@ At forty, Thorsteinn is primarily motivated by the desire to preserve authentic 
 - **Vulnerability to Economic Disruption** - Should his market shift toward different aesthetic preferences or if cheaper mass-produced ceramics flood the market, Thorsteinn's business model is vulnerable. He has never developed contingency strategies.
 - **Declining Physical Capability** - The repetitive stress of pottery work is beginning to take its toll. His hands sometimes ache in cold weather, and sustained work at the wheel leaves him more exhausted than it did twenty years ago.
 
-## Social
+### Social
 
-### Patrons
+#### Patrons
 
 - **The Merchant House Valdris** - A wealthy merchant family that has commissioned custom tableware and storage vessels from Thorsteinn for the past fifteen years. The patriarch, **Lord Aldric Valdris**, respects traditional craftsmanship and ensures that **Thorsteinn's** work remains in demand among the upper classes.
 - **The Miller's Cooperatives** - Multiple miller families depend on Thorsteinn's storage and measurement vessels, which are prized for their durability and accuracy of form.
 - **Herbalist Magga Moonwhisper** - A respected healer who commissioned a series of specialized vessels for preserving medicines and herbs, and who has become a genuine friend despite their generational difference.
 
-### Enemies
+#### Enemies
 
 - **The Merchants' Collective of New Fashion** - A coalition of younger merchants and traders who have begun importing cheaper, mass-produced ceramics from distant lands, undercutting Thorsteinn's prices and promoting contemporary aesthetic values that directly contrast with his traditional work.
 - **Artisan Corvus Brighthammer** - A younger potter of considerable talent who studied under Thorsteinn for three years before breaking away to establish a rival workshop. Corvus champions innovative glazing techniques and contemporary form, directly challenging Thorsteinn's market dominance. The ideological conflict between them runs deep.
 
-### Affiliations
+#### Affiliations
 
 - **Potters' Guild of Vithgard** - While respected, Thorsteinn holds increasingly conservative positions in guild politics, often opposing progressive initiatives or modernization efforts, creating friction with younger members.
 - **The Traditionalists' Circle** - An informal association of master craftspeople from various disciplines who meet monthly to discuss the preservation of classical techniques and resistance to what they see as corruptive modern influences.
 
-## Plot Hooks
+### Plot Hooks
 
 1. **The Apprentice's Dilemma**: - **Thorsteinn's** most talented current apprentice, a young woman named **Lyra Stonecraft**, has been offered a substantial position with **Artisan Corvus**, involving travel to distant centers of ceramic innovation and the opportunity to experiment with cutting-edge techniques. Lyra is torn between loyalty to her mentor and hunger for growth in directions Thorsteinn refuses to explore. She asks him for permission to pursue the opportunity, but his refusal forces her to choose between obedience and ambition. The dynamic ripples through Thorsteinn's workshop and brings the underlying conflict between tradition and innovation into sharp focus.
 

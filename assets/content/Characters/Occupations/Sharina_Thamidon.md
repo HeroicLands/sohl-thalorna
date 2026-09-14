@@ -551,11 +551,11 @@ sohl:
     defaultCombatGroup: null
 ---
 
-# Appearance {#appearance}
+## Appearance {#appearance}
 
 Shárîna Thâmîdon is a 28-year-old woman who stands 6'1" tall and is of moderate build. She has an angular face with defined cheekbones, a high forehead, and a strong jaw that leads to a firm chin. Her narrow hazel eyes sit beneath heavy brows, lending her a keen gaze. A strong nose and wide lips complete her features. She has warm-toned skin with an olive-toned complexion. Her dark brown hair is braided and coiled at the nape.
 
-# Dossier {#dossier}
+## Dossier {#dossier}
 
 Born in the Heliónis region to a freeman family of Helionite heritage, Shárîna Thâmîdon came into the world of the miner through a combination of circumstance and aptitude.
 
@@ -563,37 +563,37 @@ Eira has always been passionate about mining, inspired by the stories of her fam
 
 Now at 28 years of age, Shárîna Thâmîdon has established herself as a known figure among the miners of Heliónis. Her reputation, for better or worse, precedes her in the circles where such things matter.
 
-## Psyche
+### Psyche
 
-### Personality
+#### Personality
 
 Can be underestimated due to her gender, sometimes takes on too much responsibility.
 
-### Motivation
+#### Motivation
 
 Shárîna is driven by the desire to master her craft and secure a stable future. The uncertainties of life in miner work keep her vigilant and adaptable.
 
-### Strengths
+#### Strengths
 
 Skilled at extraction techniques, agile, strong leadership qualities.
 
-## Social
+### Social
 
 Shárîna is affiliated with Local Miners' Union.
 
 As a Helionite miner, Shárîna occupies a recognized social niche within Heliónis society.
 
-## Companions
+### Companions
 
-### Patrons
+#### Patrons
 
 Shárîna's primary patron is Local mining companies and jewelers seeking quality stones.. This relationship provides both opportunity and obligation.
 
-### Enemies
+#### Enemies
 
 Few; respected but occasionally faces skepticism from traditionalists.
 
-## Plot Hooks
+### Plot Hooks
 
 1. **The Miner's Dilemma** — Shárîna faces a professional crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Heliónis.
 

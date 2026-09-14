@@ -393,51 +393,51 @@ sohl:
         disabled: false
 ---
 
-# Appearance {#appearance}
+## Appearance {#appearance}
 
 The forest seems to move as a single unit before separating into distinct creature: massive, dark-skinned, and emerging with surprising grace from dense vegetation. The rounded ears fan humid air, and the straighter tusks point downward, carving through foliage with practiced ease. The trunk curls and unfolds with obvious intelligence, sampling scents and reaching for vegetation. The eyes are remarkable in their awareness and wariness.
 
-# Dossier {#dossier}
+## Dossier {#dossier}
 
 The Xerathian Forest Elephant is smaller and more elusive than its savanna cousin, standing 8-9 feet at the shoulder and weighing 4-5 tons, found exclusively in dense tropical forests. These intelligent, reclusive creatures are rarely encountered by humans due to their avoidance of human areas and their camouflage in forest environments.
 
-## Presentation
+### Presentation
 
 The forest elephant has darker gray or brownish skin compared to savanna elephants, straighter downward-pointing tusks, and relatively rounded ears. The build is adapted for forest navigation rather than open grasslands.
 
-## Key Behaviors
+### Key Behaviors
 
 Forest elephants are shy and avoid human contact when possible. They feed on wide variety of forest vegetation and play crucial role in seed dispersal. They are highly intelligent and social within family groups.
 
-## Combat Strategy
+### Combat Strategy
 
 When threatened, the forest elephant charges using tusks and trunk. It is less aggressive than savanna cousins but equally dangerous when defending young or territory.
 
-## Attack Methods
+### Attack Methods
 
-### Tusk Gore
+#### Tusk Gore
 
 The elephant uses its downward-pointing tusks to gore and create wounds.
 
-### Trunk Blow
+#### Trunk Blow
 
 The trunk delivers powerful strikes capable of knocking opponents backward.
 
-## Special Abilities
+### Special Abilities
 
-### Forest Navigation
+#### Forest Navigation
 
 The elephant can move through dense terrain with remarkable grace and speed.
 
-### Intelligent Problem-Solving
+#### Intelligent Problem-Solving
 
 The elephant understands and responds to threats tactically.
 
-### Additional Information
+#### Additional Information
 
 Forest elephants avoid confrontation and will flee if escape is possible. The creatures are most dangerous when defending young or territory. The tusks can be harvested after death.
 
-## Attributes
+### Attributes
 
 - **Strength:** 54-59 (1d6+53)
 

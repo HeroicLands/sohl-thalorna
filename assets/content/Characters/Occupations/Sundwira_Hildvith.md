@@ -549,11 +549,11 @@ sohl:
     defaultCombatGroup: null
 ---
 
-# Appearance {#appearance}
+## Appearance {#appearance}
 
 Sundwíra Hildvith is a 30-year-old woman who stands 5'9" tall and is of moderate build. She has a long face with wide-set cheekbones, a smooth forehead, and a strong jaw that leads to a firm chin. Her wide-set gray eyes sit beneath thick brows, lending her an open gaze. A strong nose and curved lips complete her features. She has light skin with a ruddy complexion. Her brown hair is plaited in a single thick braid.
 
-# Dossier {#dossier}
+## Dossier {#dossier}
 
 Born in the Vrystwald region to a freeman family of Varokhi heritage, Sundwíra Hildvith came into the world of the ostler through a combination of circumstance and aptitude.
 
@@ -561,37 +561,37 @@ Elara has worked as an ostler for many years, focusing on the health and well-be
 
 Now at 30 years of age, Sundwíra Hildvith has established herself as a known figure among the ostlers of Vrystwald. Her reputation, for better or worse, precedes her in the circles where such things matter.
 
-## Psyche
+### Psyche
 
-### Personality
+#### Personality
 
 Can be stubborn, struggles with authority figures.
 
-### Motivation
+#### Motivation
 
 Sundwíra is driven by the desire to master her craft and secure a stable future. The uncertainties of life in ostler work keep her vigilant and adaptable.
 
-### Strengths
+#### Strengths
 
 Knowledgeable about horse health, attentive, good at problem-solving.
 
-## Social
+### Social
 
 Sundwíra is affiliated with None; works independently..
 
 As a Varokhi ostler, Sundwíra occupies a recognized social niche within Vrystwald society.
 
-## Companions
+### Companions
 
-### Patrons
+#### Patrons
 
 Sundwíra's primary patron is Travelers and local riders seeking horse care and advice.. This relationship provides both opportunity and obligation.
 
-### Enemies
+#### Enemies
 
 Few; respected by the community.
 
-## Plot Hooks
+### Plot Hooks
 
 1. **The Ostler's Dilemma** — Sundwíra faces a professional crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Vrystwald.
 

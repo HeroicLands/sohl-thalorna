@@ -551,11 +551,11 @@ sohl:
     defaultCombatGroup: null
 ---
 
-# Appearance {#appearance}
+## Appearance {#appearance}
 
 Áleifr Frostulf is a 40-year-old man who stands 6'0" tall and is broad and solidly built. He has an oval face with prominent cheekbones, a high forehead, and a strong jaw that leads to a cleft chin. His almond-shaped blue eyes sit beneath heavy brows, lending him a measured gaze. A straight nose and firm lips complete his features. He has light skin with a pale complexion. His dark blonde hair is thick and unkempt. A notable feature is a faded scar on the right brow.
 
-# Dossier {#dossier}
+## Dossier {#dossier}
 
 Born in the Nordheim region to a freeman family of Nordheimn heritage, Áleifr Frostulf came into the world of the huntsman through a combination of circumstance and aptitude.
 
@@ -563,37 +563,37 @@ Garron is the chief huntsman for Lady Elenora of Wildwood Manor. With years of e
 
 Now at 40 years of age, Áleifr Frostulf has established himself as a known figure among the huntsmans of Nordheim. His reputation, for better or worse, precedes him in the circles where such things matter.
 
-## Psyche
+### Psyche
 
-### Personality
+#### Personality
 
 Can be overly cautious, struggles to adapt to new hunting methods.
 
-### Motivation
+#### Motivation
 
 Áleifr is driven by the desire to master his craft and secure a stable future. The uncertainties of life in huntsman work keep him vigilant and adaptable.
 
-### Strengths
+#### Strengths
 
 Experienced, knowledgeable about ecology, strong leadership skills.
 
-## Social
+### Social
 
 Áleifr is affiliated with Lady Elenora’s retinue.
 
 As a Nordheimn huntsman, Áleifr occupies a recognized social niche within Nordheim society.
 
-## Companions
+### Companions
 
-### Patrons
+#### Patrons
 
 Áleifr's primary patron is Lady Elenora and the manor's guests.. This relationship provides both opportunity and obligation.
 
-### Enemies
+#### Enemies
 
 Few; he is well-respected in the community.
 
-## Plot Hooks
+### Plot Hooks
 
 1. **The Huntsman's Dilemma** — Áleifr faces a professional crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Nordheim.
 

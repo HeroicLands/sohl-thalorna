@@ -552,11 +552,11 @@ sohl:
     defaultCombatGroup: null
 ---
 
-# Appearance {#appearance}
+## Appearance {#appearance}
 
 Ethelinda Wigmore is a 34-year-old woman who stands 6'0" tall and is of moderate build. She has a round face with soft cheekbones, a broad forehead, and an angular jaw that leads to a pointed chin. Her round green eyes sit beneath arched brows, lending her a candid gaze. A narrow nose and wide lips complete her features. She has fair skin with a fair complexion. Her graying brown hair is woven with small braids.
 
-# Dossier {#dossier}
+## Dossier {#dossier}
 
 Born in the Aelwyth region to a freeman family of Aelwythan heritage, Ethelinda Wigmore came into the world of the jailer through a combination of circumstance and aptitude.
 
@@ -564,37 +564,37 @@ Brenna became a jailer after serving as a city guard for several years. She was 
 
 Now at 34 years of age, Ethelinda Wigmore has established herself as a known figure among the jailers of Aelwyth. Her reputation, for better or worse, precedes her in the circles where such things matter.
 
-## Psyche
+### Psyche
 
-### Personality
+#### Personality
 
 Emotionally affected by the environment, can be too trusting of inmates.
 
-### Motivation
+#### Motivation
 
 Ethelinda is driven by the desire to master her craft and secure a stable future. The uncertainties of life in jailer work keep her vigilant and adaptable.
 
-### Strengths
+#### Strengths
 
 Observant, skilled at de-escalating conflicts, disciplined.
 
-## Social
+### Social
 
 Ethelinda is affiliated with City Watch.
 
 As a Aelwythan jailer, Ethelinda occupies a recognized social niche within Aelwyth society.
 
-## Companions
+### Companions
 
-### Patrons
+#### Patrons
 
 Ethelinda's primary patron is City officials who value her conflict resolution skills.. This relationship provides both opportunity and obligation.
 
-### Enemies
+#### Enemies
 
 A few prisoners who see her empathy as a weakness.
 
-## Plot Hooks
+### Plot Hooks
 
 1. **The Jailer's Dilemma** — Ethelinda faces a professional crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Aelwyth.
 

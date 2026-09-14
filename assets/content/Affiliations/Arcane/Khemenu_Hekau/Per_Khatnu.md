@@ -88,7 +88,7 @@ banner: banners/ta-kheperu-banner.webp
 packFolder: khemenuhekau
 ---
 
-# Per-Khat'nu (House of the Body)
+## Per-Khat'nu (House of the Body)
 
 The House of the Body holds the other half of what a being is, and the same principle extended to
 worked substance: stone, flesh, and the shaping of both. Its doctrine is the one every Kheperi
@@ -101,7 +101,7 @@ of the eight into which the [[lore-khemenuhekau|Khemenu Hekau]] partitions the D
 function in the cosmic order rather than by substance, which is why no portion of it corresponds
 to any single Eídma of the western [[lore-hexhodai|Héx Hodäi]].
 
-## See Also
+### See Also
 
 - [[lore-khemenuhekau|Khemenu Hekau]] — the philosophy and the other seven domains
 - [[place-khemenu|Khemenu]] — where the Eight are taught

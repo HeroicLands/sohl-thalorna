@@ -550,11 +550,11 @@ sohl:
     defaultCombatGroup: null
 ---
 
-# Appearance {#appearance}
+## Appearance {#appearance}
 
 Qirûsh Tarûzî is a 41-year-old man who stands 5'11" tall and is of moderate build. He has a heart-shaped face with high cheekbones, a prominent forehead, and a strong jaw that leads to a firm chin. His wide-set brown eyes sit beneath arched brows, lending him an open gaze. A prominent nose and narrow lips complete his features. He has warm golden skin with an olive-toned complexion. His dark brown hair is cropped short.
 
-# Dossier {#dossier}
+## Dossier {#dossier}
 
 Born in the Harad region to a freeman family of Haradian heritage, Qirûsh Tarûzî came into the world of the hideworker through a combination of circumstance and aptitude.
 
@@ -562,37 +562,37 @@ Torvin has spent his life working with animal hides, learning the craft from his
 
 Now at 41 years of age, Qirûsh Tarûzî has established himself as a known figure among the hideworkers of Harad. His reputation, for better or worse, precedes him in the circles where such things matter.
 
-## Psyche
+### Psyche
 
-### Personality
+#### Personality
 
 Prone to injuries from sharp tools, struggles with marketing his goods.
 
-### Motivation
+#### Motivation
 
 Qirûsh is driven by the desire to master his craft and secure a stable future. The uncertainties of life in hideworker work keep him vigilant and adaptable.
 
-### Strengths
+#### Strengths
 
 Skilled in tanning and leather crafting, knowledgeable about animal hides, resilient.
 
-## Social
+### Social
 
 Qirûsh is affiliated with None; works independently..
 
 As a Haradian hideworker, Qirûsh occupies a recognized social niche within Harad society.
 
-## Companions
+### Companions
 
-### Patrons
+#### Patrons
 
 Qirûsh's primary patron is Local hunters and farmers who buy leather products.. This relationship provides both opportunity and obligation.
 
-### Enemies
+#### Enemies
 
 Rival hideworkers who compete for the same market.
 
-## Plot Hooks
+### Plot Hooks
 
 1. **The Hideworker's Dilemma** — Qirûsh faces a professional crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Harad.
 

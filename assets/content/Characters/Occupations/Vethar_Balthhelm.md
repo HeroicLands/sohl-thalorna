@@ -550,11 +550,11 @@ sohl:
     defaultCombatGroup: null
 ---
 
-# Appearance {#appearance}
+## Appearance {#appearance}
 
 Véthar Balthhelm is a 60-year-old man who stands 5'8" tall and is broad and solidly built. He has a diamond face with soft cheekbones, a narrow forehead, and a strong jaw that leads to a strong chin. His large green eyes sit beneath prominent brows, lending him an expressive gaze. A broad nose and narrow lips complete his features. He has medium-toned skin with a rough complexion. His red hair is pulled back in a warrior's knot.
 
-# Dossier {#dossier}
+## Dossier {#dossier}
 
 Born in the Vrystwald region to a guilded family of Varokhi heritage, Véthar Balthhelm came into the world of the innkeeper through a combination of circumstance and aptitude.
 
@@ -562,37 +562,37 @@ Torvald has been the innkeeper of the Old Stone Inn for over thirty years. Known
 
 Now at 60 years of age, Véthar Balthhelm has established himself as a known figure among the innkeepers of Vrystwald. His reputation, for better or worse, precedes him in the circles where such things matter.
 
-## Psyche
+### Psyche
 
-### Personality
+#### Personality
 
 Sometimes overly nostalgic, struggles with physical tasks due to age.
 
-### Motivation
+#### Motivation
 
 Véthar is driven by the desire to master his craft and secure a stable future. The uncertainties of life in innkeeper work keep him vigilant and adaptable.
 
-### Strengths
+#### Strengths
 
 Skilled cook, excellent host, great storyteller.
 
-## Social
+### Social
 
 Véthar is affiliated with Local Innkeepers' Association.
 
 As a Varokhi innkeeper, Véthar occupies a recognized social niche within Vrystwald society.
 
-## Companions
+### Companions
 
-### Patrons
+#### Patrons
 
 Véthar's primary patron is Regulars from the local community and travelers.. This relationship provides both opportunity and obligation.
 
-### Enemies
+#### Enemies
 
 Few; well-respected in the area.
 
-## Plot Hooks
+### Plot Hooks
 
 1. **The Innkeeper's Dilemma** — Véthar faces a professional crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Vrystwald.
 

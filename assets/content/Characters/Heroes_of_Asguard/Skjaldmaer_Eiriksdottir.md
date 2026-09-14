@@ -520,47 +520,47 @@ sohl:
     defaultCombatGroup: null
 ---
 
-# Appearance {#appearance}
+## Appearance {#appearance}
 
 Skjaldmaer stands 5'7" with an athletic, well-muscled frame, weighing about 160 pounds. Her fair skin is weathered from years of campaigning, and her dark blonde hair is arranged in tight warrior's braids close to her scalp. Her blue eyes are cool and assessing, revealing nothing she does not wish to show. Her features are strong and symmetrical, with high cheekbones, a straight nose, a firm jaw, and a wide mouth that rarely smiles. Battle scars mark her forearms and the backs of her hands, earned in countless engagements. She wears well-maintained mail over a quilted tunic and carries a shield covered in intricate runic engravings that seem to shift and glow in certain lights. A longsword hangs at her hip, and a carved bone pendant of Ódinn's ravens rests against her collarbone.
 
-# Dossier {#dossier}
+## Dossier {#dossier}
 
 Skjaldmaer Eiriksdottir was the daughter of a mighty warrior, raised in the traditions of battle and the wisdom of the runes. From a young age, she was taught to balance the blade with the mind, learning the art of combat alongside the deeper mysteries of Ódinn's teachings. Known for her fierce spirit and sharp intellect, Skjaldmaer became a shieldmaiden feared by her enemies and respected by her allies. She carries a shield inscribed with powerful runes, which she believes to be a gift from Ódinn himself, guiding her through the chaos of battle.
 
 The saga of Skjaldmaer Eiriksdottir tells of her confrontation with the dread warlock Jarnvidr, who had enslaved a village with dark magic. The warlock's power was said to be unassailable, his knowledge of the dark arts unmatched. Skjaldmaer, however, knew that brute strength alone would not defeat such an opponent. She spent seven days and nights in meditation, seeking Ódinn's guidance, until she received a vision of the runes that could shatter Jarnvidr's spell. Armed with this knowledge, Skjaldmaer faced the warlock, using her shield to deflect his sorcery and her runes to break his hold over the village. In the end, it was her wisdom and faith in Ódinn's guidance that won the day, freeing the villagers and banishing Jarnvidr to the shadowy depths.
 
-## Psyche
+### Psyche
 
-### Personality
+#### Personality
 
 Skjaldmaer is disciplined and composed, a woman who speaks with the quiet authority of someone who has faced death and walked away unchanged. She is intensely private about her inner life, deflecting personal questions with practiced ease. In battle she becomes a different creature entirely — focused, relentless, and utterly without mercy. Off the battlefield, she shows unexpected tenderness toward children and animals, and she has a habit of humming old sagas while cleaning her weapons.
 
-### Motivation
+#### Motivation
 
 Skjaldmaer seeks to prove that wisdom and martial prowess are not opposing paths but complementary ones. She carries the weight of her father Eirik's legacy and strives to surpass it — not through greater feats of arms, but through the deeper understanding of the runes that her father never achieved. She hunts the remnants of Jarnvidr's dark influence, suspecting the warlock was merely a servant of a greater evil.
 
-### Strengths
+#### Strengths
 
 Skjaldmaer is a formidable warrior whose runic shield provides both physical and magical protection. Her combination of martial skill and mystical knowledge makes her uniquely effective against sorcerous enemies. She is an expert tracker and can survive in the wilderness for weeks on end. Her reputation as the woman who broke Jarnvidr's spell earns her respect and hospitality in villages throughout the north.
 
-## Social
+### Social
 
-## Companions
+### Companions
 
-### Patrons
+#### Patrons
 
 **Eirik the Gray** — Her father, now retired from active combat but still influential among the northern clans. He provides counsel and connections, though their relationship is complicated by his disappointment that she chose the path of the runes over pure warriorship.
 
 **The Shrine of Ódinn at Ravenspeak** — The high priestess of this sacred site has taken a personal interest in Skjaldmaer's runic abilities and provides her with access to ancient texts and ritual spaces.
 
-### Enemies
+#### Enemies
 
 **Remnants of Jarnvidr's Coven** — The warlock's apprentices and allies have sworn vengeance against Skjaldmaer for their master's defeat. They operate in secret, placing curses and sending assassins.
 
 **Thane Brosi Ketilsson** — A powerful northern lord who believes women should not bear arms or practice the runes. He has publicly declared Skjaldmaer an abomination and has forbidden her from entering his lands.
 
-## Plot Hooks
+### Plot Hooks
 
 1. **The Warlock's Return** — Strange signs suggest that Jarnvidr's banishment may not have been permanent. Villagers near the site of his defeat report hearing whispers in the dark and seeing shadows that move against the wind. Skjaldmaer needs allies to investigate before the warlock can rebuild his power.
 

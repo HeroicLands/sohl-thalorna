@@ -122,7 +122,7 @@ data:
 packFolder: celestialpantheon
 ---
 
-# Fëkvōr — The Minister of Material Fortune
+## Fëkvōr — The Minister of Material Fortune
 
 - **Bureau:** Fëklüt Sëi, The Bureau of Allocation
 - **Domain:** Prosperity
@@ -137,12 +137,12 @@ a given resource should be distributed or reclaimed, and the two file counter-pe
 another as a matter of routine. Merchants who understand this pay to have their filings timed for
 when Fëklüt Sëi is winning.
 
-## Lesser Spirits
+### Lesser Spirits
 
 - **Nōkvōr** — Field Allocation Spirits, who distribute harvest quality to farming communities.
 - **Fëklëi** — Coin Spirits, who influence the flow of trade and commercial fortune.
 
-## See Also
+### See Also
 
 - [[affiliation-tngvkvnlei|Tëngvōk Vān Lëi]] — the Celestial Bureaucracy this bureau belongs to
 - [[affiliation-tanvurempr|Empire of Tānvür]] — the mortal realm it administers

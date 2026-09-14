@@ -548,11 +548,11 @@ sohl:
     defaultCombatGroup: null
 ---
 
-# Appearance {#appearance}
+## Appearance {#appearance}
 
 Ármund Hildskorn is a 30-year-old man who stands 5'7" tall and is lean and wiry. He has a diamond face with sharp cheekbones, a prominent forehead, and a heavy jaw that leads to a broad chin. His bright green eyes sit beneath prominent brows, lending him a lively gaze. A strong nose and thin lips complete his features. He has fair skin with a lightly freckled complexion. His red hair is matted from years of outdoor work.
 
-# Dossier {#dossier}
+## Dossier {#dossier}
 
 Born in the Vrystwald region to a freeman family of Varokhi heritage, Ármund Hildskorn came into the world of the jester through a combination of circumstance and aptitude.
 
@@ -560,37 +560,37 @@ Jorvik grew up in the bustling streets of the city, using humor and wit to enter
 
 Now at 30 years of age, Ármund Hildskorn has established himself as a known figure among the jesters of Vrystwald. His reputation, for better or worse, precedes him in the circles where such things matter.
 
-## Psyche
+### Psyche
 
-### Personality
+#### Personality
 
 Can be overly self-critical, struggles with maintaining serious relationships.
 
-### Motivation
+#### Motivation
 
 Ármund is driven by the desire to master his craft and secure a stable future. The uncertainties of life in jester work keep him vigilant and adaptable.
 
-### Strengths
+#### Strengths
 
 Quick-witted, skilled performer, adept at reading the crowd.
 
-## Social
+### Social
 
 Ármund is affiliated with None; works independently..
 
 As a Varokhi jester, Ármund occupies a recognized social niche within Vrystwald society.
 
-## Companions
+### Companions
 
-### Patrons
+#### Patrons
 
 Ármund's primary patron is The Duke and visiting nobles.. This relationship provides both opportunity and obligation.
 
-### Enemies
+#### Enemies
 
 Rival jesters who envy his popularity.
 
-## Plot Hooks
+### Plot Hooks
 
 1. **The Jester's Dilemma** — Ármund faces a professional crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Vrystwald.
 

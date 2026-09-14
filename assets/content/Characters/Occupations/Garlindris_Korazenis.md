@@ -554,11 +554,11 @@ sohl:
     defaultCombatGroup: null
 ---
 
-# Appearance {#appearance}
+## Appearance {#appearance}
 
 Garlîndris Korâzênis is a 45-year-old man who stands 5'9" tall and is of moderate build. He has a square face with high cheekbones, a narrow forehead, and a sharp jaw that leads to a firm chin. His large hazel eyes sit beneath heavy brows, lending him an expressive gaze. A hawkish nose and thin lips complete his features. He has fair skin with a weathered complexion. His black hair is receding at the temples.
 
-# Dossier {#dossier}
+## Dossier {#dossier}
 
 Born in the Vylaría region to a freeman family of Vylarian heritage, Garlîndris Korâzênis came into the world of the herald through a combination of circumstance and aptitude.
 
@@ -566,37 +566,37 @@ Sir Cedric Loudvale comes from a long line of minor nobility who have served as 
 
 Now at 45 years of age, Garlîndris Korâzênis has established himself as a known figure among the heralds of Vylaria. His reputation, for better or worse, precedes him in the circles where such things matter.
 
-## Psyche
+### Psyche
 
-### Personality
+#### Personality
 
 Inflexible, struggles to adapt to informal or modern events.
 
-### Motivation
+#### Motivation
 
 Garlîndris is driven by the desire to master his craft and secure a stable future. The uncertainties of life in herald work keep him vigilant and adaptable.
 
-### Strengths
+#### Strengths
 
 Strong, clear voice, knowledgeable in heraldry, experienced in formal ceremonies.
 
-## Social
+### Social
 
 Garlîndris is affiliated with City Heralds' Guild.
 
 As a Vylarian herald, Garlîndris occupies a recognized social niche within Vylaria society.
 
-## Companions
+### Companions
 
-### Patrons
+#### Patrons
 
 Garlîndris's primary patron is High-ranking nobles who value his skill and adherence to tradition.. This relationship provides both opportunity and obligation.
 
-### Enemies
+#### Enemies
 
 Younger, more modern heralds who see him as outdated.
 
-## Plot Hooks
+### Plot Hooks
 
 1. **The Herald's Dilemma** — Garlîndris faces a professional crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Vylaria.
 

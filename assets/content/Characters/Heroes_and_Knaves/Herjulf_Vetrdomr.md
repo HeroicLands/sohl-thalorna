@@ -592,11 +592,11 @@ sohl:
     defaultCombatGroup: null
 ---
 
-# Appearance {#appearance}
+## Appearance {#appearance}
 
 Herjúlf stands 6'5" tall with a heavy build. He has tanned weathered skin, dark brown hair, and brown eyes. His features include an angular face, a slightly upturned nose, a broad chin, a small mouth, dark brows. A distinguishing mark is a scar along the jawline.
 
-# Dossier {#dossier}
+## Dossier {#dossier}
 
 Herjúlf was born in a small settlement in the wild borderlands of Nordheim, the fourth son of a farming family with little land and even fewer prospects. At age ten, his family apprenticed him to a master woodcutter named Forgath the Old, a massive man with whom Herjúlf seemed to develop an immediate rapport. For six years, Herjúlf learned the language of the forest—how to read a tree's character, how to identify the timber best suited to each purpose, how to fell without wasting and how to preserve without damaging.
 
@@ -606,19 +606,19 @@ After Forgath's death, Herjúlf became the finest woodcutter in all of Nordheim,
 
 He married once, in his thirties, to a woman named Brílda, the daughter of a local smith. The marriage lasted five years before Brílda left, unable to endure the isolation and emotional distance that seemed to be Herjúlf's fundamental nature. She did not leave in anger but in sadness, and Herjúlf has never blamed her. They have no children. Now, at forty-six, Herjúlf lives alone in a cabin he built himself at the edge of the great forests of Nordheim, and he asks nothing more of life than the opportunity to continue his work.
 
-## Psyche
+### Psyche
 
-### Personality
+#### Personality
 
 Herjúlf is a man of few words, and the words he does speak are chosen with the deliberation of someone adding a sentence to a permanent document. He is not unfriendly, but friendship requires a kind of emotional availability that he simply does not possess. He is direct to the point of seeming rude, answering questions literally and without embellishment, and he has no patience for social pretense or small talk. Those who know him well recognize that his gruffness masks neither malice nor cruelty, but simply a profound disinterest in human interaction beyond what basic civility demands.
 
 What Herjúlf does feel passionately about is his work. He is capable of lengthy conversations about the character of different woods, the proper techniques for specific cutting situations, and the philosophy of harvesting—the idea that taking from the forest carries an obligation to leave it healthier than you found it. These conversations occur rarely, only with those who demonstrate genuine understanding of forestry, but when they do occur, Herjúlf becomes almost animated, displaying a warmth that surprises those unaccustomed to it. He is driven by a profound sense of honor in his craft and is incapable of cutting corners or producing substandard work, regardless of payment or other incentives.
 
-### Motivation
+#### Motivation
 
 Herjúlf is motivated by a desire to work at his craft with complete mastery, and to leave the forests of Nordheim in a better state than he found them. He has no ambitions beyond this, no dreams of wealth or authority, and no desire to extend his reputation beyond the communities that rely on his timber. What drives him is not external recognition but internal satisfaction—the knowledge that he has done work worthy of the best timber and worthy of Forgath's memory. He is haunted, in a way he would never articulate, by the arbitrary nature of the accident that crippled Forgath, and he has built his entire philosophy around the idea that the only meaningful defense against randomness is excellence of craft.
 
-### Strengths
+#### Strengths
 
 - **Supernatural Strength**: Herjúlf possesses extraordinary physical power, allowing him to accomplish feats of timber-handling that require teams of other men, and to engage in violence with devastating effectiveness should he ever need to.
 
@@ -630,7 +630,7 @@ Herjúlf is motivated by a desire to work at his craft with complete mastery, an
 
 - **Unshakable Integrity**: Herjúlf is incapable of deception or compromise regarding matters of craft and honor; those who work with him know that his word is absolute and that he will never sacrifice quality for expediency.
 
-### Weaknesses
+#### Weaknesses
 
 - **Social Incompetence**: Herjúlf's inability to navigate human emotion and social expectation makes him appear cold, threatening, and sometimes hostile to those unaccustomed to his way of being; this damages his ability to build relationships or to advocate for his interests in social situations.
 
@@ -642,9 +642,9 @@ Herjúlf is motivated by a desire to work at his craft with complete mastery, an
 
 - **Isolation Creates Vulnerability**: Living alone and working alone means that a serious injury would go unaddressed until too late; his self-sufficiency is also his greatest fragility.
 
-## Social
+### Social
 
-### Patrons
+#### Patrons
 
 - **Master Carpenter Thorgrim**: The finest carpenter in Nordheim relies entirely on Herjúlf's timber and has arranged his entire business around Herjúlf's supply schedule, paying a premium for the superior quality of wood that only Herjúlf can provide.
 
@@ -654,7 +654,7 @@ Herjúlf is motivated by a desire to work at his craft with complete mastery, an
 
 - **Alderman Bórrin**: The local administrative leader respects Herjúlf's integrity and supports him against occasional attempts to regulate or control the forests from which he harvests.
 
-### Enemies
+#### Enemies
 
 - **The Merchant Consortium of Ironholm**: These ambitious merchants view Herjúlf's independent operations as an obstacle to their plans for industrial-scale timber harvesting and have attempted repeatedly to purchase his operation or absorb him into their company—attempts he has always refused.
 
@@ -662,13 +662,13 @@ Herjúlf is motivated by a desire to work at his craft with complete mastery, an
 
 - **The Corrupted Settlement**: A nearby settlement whose leaders have been bribed by the Merchant Consortium has begun making legal challenges to Herjúlf's rights to harvest in traditional territories.
 
-### Affiliations
+#### Affiliations
 
 - **The Woodcutters' Guild**: Herjúlf maintains his membership and pays his dues, though he has little involvement in guild politics and routinely skips guild meetings.
 
 - **The Followers of Thórr**: Though not a formal priest or member of any religious institution, Herjúlf is widely recognized as a genuine worshipper of the storm god through his unwavering commitment to excellence and his acceptance of danger.
 
-## Plot Hooks
+### Plot Hooks
 
 1. **The Stranger in the Forest**: A figure arrives at Herjúlf's cabin in the dead of winter, desperate, wounded, and fleeing from something or someone. Herjúlf's honor compels him to shelter the stranger, but the stranger's identity and origins become increasingly mysterious. As winter deepens, Herjúlf discovers that the stranger may be involved in something dark—perhaps murder, theft, or worse—and that there are others searching for them. Herjúlf must decide whether to shelter the stranger until the danger passes, turn them over to authorities, or discover the truth of the situation himself.
 

@@ -550,11 +550,11 @@ sohl:
     defaultCombatGroup: null
 ---
 
-# Appearance {#appearance}
+## Appearance {#appearance}
 
 Ràkhîmêa Khalîthôn is a 27-year-old woman who stands 6'1" tall and is of moderate build. She has a square face with angular cheekbones, a high forehead, and a sharp jaw that leads to a firm chin. Her piercing blue eyes sit beneath straight brows, lending her a penetrating gaze. A straight nose and curved lips complete her features. She has medium-toned skin with a sun-tanned complexion. Her chestnut hair is braided and coiled at the nape.
 
-# Dossier {#dossier}
+## Dossier {#dossier}
 
 Born in the Heliónis region to a freeman family of Helionite heritage, Ràkhîmêa Khalîthôn came into the world of the huscarl through a combination of circumstance and aptitude.
 
@@ -562,37 +562,37 @@ Freya has always been driven to prove herself in a male-dominated field. She tra
 
 Now at 27 years of age, Ràkhîmêa Khalîthôn has established herself as a known figure among the huscarls of Heliónis. Her reputation, for better or worse, precedes her in the circles where such things matter.
 
-## Psyche
+### Psyche
 
-### Personality
+#### Personality
 
 Can be hot-headed, struggles with traditional gender roles.
 
-### Motivation
+#### Motivation
 
 Ràkhîmêa is driven by the desire to master her craft and secure a stable future. The uncertainties of life in huscarl work keep her vigilant and adaptable.
 
-### Strengths
+#### Strengths
 
 Skilled in combat and tactics, resilient, inspirational leader.
 
-## Social
+### Social
 
 Ràkhîmêa is affiliated with Lady Astrid's retinue.
 
 As a Helionite huscarl, Ràkhîmêa occupies a recognized social niche within Heliónis society.
 
-## Companions
+### Companions
 
-### Patrons
+#### Patrons
 
 Ràkhîmêa's primary patron is Lady Astrid and her household.. This relationship provides both opportunity and obligation.
 
-### Enemies
+#### Enemies
 
 Few; while respected, some traditionalists doubt her abilities.
 
-## Plot Hooks
+### Plot Hooks
 
 1. **The Huscarl's Dilemma** — Ràkhîmêa faces a professional crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Heliónis.
 

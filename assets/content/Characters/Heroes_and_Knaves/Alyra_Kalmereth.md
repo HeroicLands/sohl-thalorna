@@ -605,37 +605,37 @@ sohl:
     defaultCombatGroup: null
 ---
 
-# Appearance {#appearance}
+## Appearance {#appearance}
 
 Ályra stands 5'9" tall with a light build. She has pale fair skin, dark brown hair, and green eyes. Her features include a heart-shaped face, a snub nose, a strong jawline, full lips, dark brows, full cheeks.
 
-# Dossier {#dossier}
+## Dossier {#dossier}
 
-## Background
+### Background
 
-### Early Years
+#### Early Years
 
 Ályra was born to a minor merchant family in the Kingdom of Élavendre, where her father traded in exotic woods and her mother preserved rare plants. As the youngest of five children, she was initially destined for marriage or service, yet her obsessive fascination with creating miniature worlds from scraps and wood shavings could not be ignored. By age twelve, she had apprenticed herself informally to the traveling toymaker Valdyn Ashwhisper, trading household labor for knowledge of joinery, painting, and the ancient art of bringing inanimate forms to life.
 
-### Training and Growth
+#### Training and Growth
 
 For seven years, Ályra served under Valdyn's exacting eye, learning to carve, to mix plant-based dyes from crushed flower petals and mineral pigments, and to understand the subtle magic of proportion that makes a toy compelling to a child's imagination. When Valdyn departed Élavendre at her coming of age, she was left with barely a copper in hand but possessed the technical mastery of her craft. Rather than return to her family's expectations, Ályra purchased a modest cottage on the town's edge with her savings and established herself as an independent toymaker, creating everything from jointed wooden figurines to stuffed cloth creatures filled with straw and dried lavender.
 
-### Current Station
+#### Current Station
 
 Three years into her independent work, Ályra has gained a modest reputation for whimsical, intricate toys of remarkable quality. Yet she struggles with the brutal mathematics of commerce—her prices remain far below market value, and she often underestimates the true cost of her labor. Travelers and local nobility have begun commissioning custom pieces, but Ályra's shyness and inexperience in negotiation frequently leave her at a disadvantage. Still, she works contentedly in her cottage workshop, surrounded by wood shavings, dye vats, and the imagined voices of the characters she brings into being.
 
-## Psyche
+### Psyche
 
-### Personality
+#### Personality
 
 Ályra is quiet and introspective, finding her voice through her creations rather than words. She possesses a dry wit that surfaces in conversation with those she trusts, and her eyes dance with amusement at the absurdities of human nature. Though kind-hearted and genuinely invested in the happiness of those who receive her toys, she is also stubborn—once she has set her mind to a particular design or approach, little can move her. She mistrusts flattery and excessive praise, suspecting it masks mockery or manipulation, yet takes criticism of her work with seriousness bordering on obsession. In the presence of strangers or those of significant social standing, she becomes almost paralyzed by self-consciousness, her hands fidgeting with fabric scraps or wood chips as she struggles to meet their eyes.
 
-### Motivation
+#### Motivation
 
 Ályra is driven by the desire to create joy in small, perfect forms—to craft objects that kindle wonder in the hearts of children and preserve, even momentarily, the magic of childhood belief. She works not for wealth but for the singular, luminous moments when she witnesses a child's face light up upon receiving one of her creations. Equally, she harbors a quiet ambition to prove that artisans from modest backgrounds can create works of genuine beauty, worthy of respect and fair compensation. Deep within, she yearns to transform her craft into a legacy, to build a workshop where other makers might learn and thrive alongside her.
 
-### Strengths
+#### Strengths
 
 - **Unparalleled Craftsmanship**: Ályra's hands are extensions of her vision. Her ability to work with natural materials—carving wood, weaving cloth, mixing pigments—produces toys of astounding detail and durability. She instinctively understands proportion, balance, and the subtle anatomies that bring wooden figures to life.
 
@@ -647,7 +647,7 @@ Three years into her independent work, Ályra has gained a modest reputation for
 
 - **Physical Grace**: With exceptional Agility (14) and Dexterity (15), she moves with economical precision. Her climbing (14), dancing (15), and legerdemain (14) skills make her surprisingly agile for someone who spends long hours at a workbench.
 
-### Weaknesses
+#### Weaknesses
 
 - **Crippling Self-Doubt**: Her lack of business experience leaves her chronically uncertain about the value of her work. She frequently slashes prices to secure commissions, believing herself unworthy of higher compensation, and interprets client haggling as personal rejection.
 
@@ -659,9 +659,9 @@ Three years into her independent work, Ályra has gained a modest reputation for
 
 - **Obsessive Perfectionism**: She struggles to declare work finished, often spending twice as many hours as necessary on details no customer would notice. This perfectionism frequently causes her to miss deadlines or deliver projects months behind schedule.
 
-## Social
+### Social
 
-### Patrons
+#### Patrons
 
 - **Mistress Lìrien Clearbrook**: The local schoolmistress purchases toys in bulk for the children's lessons. She has become something of a mentor figure, gently pushing Ályra toward higher prices and introducing her to noble families seeking commissioned work.
 
@@ -669,17 +669,17 @@ Three years into her independent work, Ályra has gained a modest reputation for
 
 - **The Kálmereth Family**: Despite early estrangement, Ályra's mother and elder siblings now purchase her work regularly and have begun commissioning pieces as marriage gifts for their own children and grandchildren.
 
-### Enemies
+#### Enemies
 
 - **Master Cornelus Lockwood**: The established toymaker of Élavendre, whose family has dominated the craft for three generations. He views Ályra as an unwelcome upstart and has begun spreading rumors that her dyes are toxic, her craftsmanship mediocre, and her prices represent a predatory undercutting of established artisans. In truth, his own work has grown stale and his prices inflated.
 
 - **The Merchant Consortium**: Several merchant guild officials view her independent status with suspicion and have begun threatening to impose taxation and licensing requirements specifically targeting solo craftspeople, clearly designed to force her out of business or into their ranks.
 
-### Affiliations
+#### Affiliations
 
 - **The Artisan's Path**: An informal collective of independent craftspeople—woodworkers, potters, weavers, and others—who share knowledge, materials, and occasionally commission work. Ályra is one of their youngest members but increasingly its heart, often mediating disputes and organizing collaborative works.
 
-## Plot Hooks
+### Plot Hooks
 
 1. **The Countess's Heir**: The young Countess Merevaine, whose domain lies three days' ride from Ályra's cottage, has heard extraordinary tales of a toymaker who captures the essence of her daughter's nightmares and transforms them into beloved companions. The Countess has commissioned a suite of twelve figures representing the months of the year, each accompanied by a cryptic instruction. As Ályra researches ancient festival traditions to ensure authenticity, she discovers her commission may be connected to a dark family curse, and the toys themselves may serve as ritual anchors. Completing this work could either break the curse or bind it more tightly—and completing it will demand she venture into territories both geographical and magical that terrify her.
 

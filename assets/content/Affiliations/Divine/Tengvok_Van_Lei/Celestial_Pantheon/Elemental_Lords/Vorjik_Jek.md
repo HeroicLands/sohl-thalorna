@@ -123,13 +123,13 @@ data:
 packFolder: elementallords
 ---
 
-# Vōrjīk Jëk — The Lord of Fire
+## Vōrjīk Jëk — The Lord of Fire
 
 The Elemental Lord of Fire appears in the celestial records as a figure of austere brilliance, neither kindly nor cruel but entirely devoted to the administration of combustion and transformation. Vōrjīk Jëk does not manifest in a single form. To those who encounter the Lord through dream-petition or temple vision, he appears as a pillar of ranked flame—each tier a different classification of fire, each burning according to its appointed category and schedule. His voice, when he speaks at all, is the sound of a furnace drawing breath.
 
 Unlike the Bureau Overseers, Vōrjīk Jëk answers not to a specific administrative department but directly to the Jade Sovereign. The Elemental Lords occupy a rank of their own within the celestial hierarchy: senior appointees who administer the elemental substrata upon which all bureaus depend. Fire, in the Tānvüri cosmology, is not merely heat or light—it is the principle of _transformation itself_, the force that breaks down old classifications and allows them to be reclassified anew. For this reason, Vōrjīk Jëk holds jurisdiction not merely over flame, but over all processes of change and renewal that require burning away.
 
-## The Classification of Fire
+### The Classification of Fire
 
 The Lord of Fire maintains the boundary between five canonical categories of combustion, each with its own administrative protocol and governing spirits:
 
@@ -143,7 +143,7 @@ The Lord of Fire maintains the boundary between five canonical categories of com
 
 **Transformation-Fire (Vōr Zhütshel)** — A metaphorical but administratively real category encompassing all change that requires destruction of the old form. Healing of wounds (burning away necrotic tissue), renewal of forests (fire clearing deadwood), and the alchemical transmutation of substances all fall under this jurisdiction. This category requires the closest coordination with the Bureau of Persistence (Zāt Sëi), since what appears to be destruction from one perspective is renewal from another.
 
-## Authority and Jurisdictional Tensions
+### Authority and Jurisdictional Tensions
 
 Vōrjīk Jëk's primary administrative burden is managing the perpetual jurisdictional dispute between himself and the Bureau of Transformation's overseer, Zhürhöt. Both claim authority over the burning of offerings, the transformation of substances, and the invoking of fire in ritual contexts. The formal resolution, established through multiple precedent-rulings by the Jade Sovereign, grants Zhürhöt direct authority over the _civilian_ aspects of fire-transformation (cooking, smithing, simple household burning) while reserving to Vōrjīk Jëk the authority over _celestial-administrative_ aspects (the transmission of spirit documents, the execution of bureau directives, the maintenance of fire as a category).
 
@@ -151,7 +151,7 @@ In practice, this is a border that shifts constantly. Disputes over whether a pa
 
 Additionally, Vōrjīk Jëk maintains a subordinate relationship to the Bureau of Entropy (Hürn Sëi) when wildfire is classified as "controlled dissolution." This requires constant coordination with that bureau's notoriously difficult overseer, Gürnhürn, who views fire as one of his primary tools for managing cosmic unraveling. Vōrjīk Jëk jealously guards his authority here, arguing that fires initiated by his command are fundamentally different from entropy's uncontrolled dissolution—but the distinction is philosophically unstable, and Gürnhürn frequently tests the boundary.
 
-## Mortal Engagement
+### Mortal Engagement
 
 The faithful petition Vōrjīk Jëk through formal offerings at temple furnaces, by burning spirit-documents stamped with his seal, or through the mediation of the Tānthëi (the priestly class). Unlike petitions to the Bureau Overseers, which are filed through standard clerical channels, prayers to an Elemental Lord require acknowledgment that the petitioner is addressing not a bureau but a fundamental force of the cosmos.
 
@@ -163,7 +163,7 @@ The faithful petition Vōrjīk Jëk through formal offerings at temple furnaces,
 
 **Funeral directors and mortuary workers** petition Vōrjīk Jëk for the cremation of bodies, requesting that the fire burn with proper dignity and that the ashes be released to the next stage of dissolution in acceptable form.
 
-## See Also
+### See Also
 
 - [[affiliation-tngvkvnlei|Tëngvōk Vān Lëi]] — The Celestial Bureaucracy that appointed Vōrjīk Jëk to the Elemental Lordship
 - [[affiliation-zhurhot|Zhürhöt]] — Overseer of the Bureau of Transformation, Vōrjīk Jëk's primary administrative rival

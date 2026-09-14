@@ -600,11 +600,11 @@ sohl:
 
 **Home:** [[place-wasetkara|Wasetkara]]
 
-# Appearance {#appearance}
+## Appearance {#appearance}
 
 Pat'nefur stands 5'7" tall with a medium build. He has dark skin, black hair, and brown eyes. His features include an oval face, a long nose, a refined jawline, an expressive mouth, high-set brows, sculpted cheeks. A distinguishing mark is a scar on the left side of the neck.
 
-# Dossier {#dossier}
+## Dossier {#dossier}
 
 **A Child of the Guild Quarter**
 
@@ -620,19 +620,19 @@ At twenty-two years of age, Patnefur achieved his first true triumph: a fragranc
 
 Now at the height of his powers, Patnefur operates one of the most sought-after perfumeries in all of [[affiliation-empirtkhpr|Ta'Kheperu]]. His workshop is part laboratory, part alchemical chamber—filled with hundreds of glass vessels containing exotic ingredients from across the known world: oils from the deep forests of the southern kingdoms, resins from the highest mountain peaks, rare flowers that bloom only once per lunar cycle, even compounds he has extracted from gems and minerals. His clientele extends beyond nobles to include merchants, priests, and adventurers seeking something that will define their identity. His creations are not merely pleasant to smell; they are considered transformative, capable of altering mood and perception through the power of scent alone.
 
-## Psyche
+### Psyche
 
-### Personality
+#### Personality
 
 Patnefur is a man possessed of an almost obsessive intensity when it comes to his art. Conversation with him tends to turn to discussions of olfactory sensation, the chemistry of aromatic compounds, and the deep spiritual connections between scent and memory. He is capable of remarkable charm when discussing his work, becoming animated and eloquent in ways that surprise those who first meet his rather quiet and reserved demeanor. However, he is notably cool toward those who do not share his passion for perfumery, and he can be dismissive of criticism that he perceives as coming from a place of ignorance.
 
 His mind moves at unusual speeds, making conceptual leaps that others struggle to follow. He will often disappear into his workshop for days at a time, forgetting to eat or sleep as he pursues some new fragrant combination that has possessed his thoughts. This single-mindedness extends to his personal relationships; he has never married, though he has had several long-term intimate relationships with both men and women that he terminated when they began to interfere with his work. Yet beneath his cold exterior lies a person of deep feeling—his fragrances are imbued with genuine emotion, and those who know him well understand that his perfectionism comes from a place of profound care for his craft and the experiences of those who wear his creations.
 
-### Motivation
+#### Motivation
 
 Patnefur is driven by a belief that he has not yet created his masterpiece—the fragrance that will transcend all previous efforts and achieve something akin to perfection. Each new creation is a step toward this ideal, and each time one is completed, he feels both profound satisfaction and the immediate hunger to push further. Additionally, there are whispers of an ancient formulary, a text from the Age of Divine Kings that supposedly contained recipes for fragrances of such power that they could induce visions, cure illnesses, or even grant temporary communion with the divine. Patnefur's ultimate quest is to locate this formulary, decipher its secrets, and perhaps create a fragrance that would represent the pinnacle of the art—a scent that contains within it all the wisdom and beauty of the ages.
 
-### Strengths
+#### Strengths
 
 - **Mastery of Scent and Chemistry**: His knowledge of aromatic compounds and their effects is unparalleled. He understands not merely which scents work well together, but the intricate science of how volatile compounds interact, stabilize, and fade over time.
 
@@ -644,7 +644,7 @@ Patnefur is driven by a belief that he has not yet created his masterpiece—the
 
 - **Drawn Artistry**: His hand is steady and skilled, allowing him to create elaborate designs, formulations, and artistic works in various mediums beyond his primary craft.
 
-### Weaknesses
+#### Weaknesses
 
 - **Perceived Arrogance**: His confidence in his own vision and his dismissal of more traditional approaches have earned him enemies among the conservative guild masters who view him as a reckless iconoclast.
 
@@ -656,9 +656,9 @@ Patnefur is driven by a belief that he has not yet created his masterpiece—the
 
 - **Philosophical Rigidity**: Once he has committed to a particular vision or approach, he is difficult to dissuade, even when evidence suggests he may be wrong.
 
-## Social
+### Social
 
-### Patrons
+#### Patrons
 
 - **Lord Khenti Emheb**: A wealthy merchant lord with an obsession with rare fragrances. He has become Patnefur's greatest patron and champion, commissioning custom fragrances and defending him against accusations from traditionalist guild members. There are rumors that their relationship is more intimate than mere patron and artisan.
 
@@ -666,7 +666,7 @@ Patnefur is driven by a belief that he has not yet created his masterpiece—the
 
 - **The Royal Perfumer of the Per-Aá's Court**: Though not a patron in the traditional sense, this court official has taken interest in Patnefur's innovations and occasionally brings requests from the highest levels of society.
 
-### Enemies
+#### Enemies
 
 - **Master Hatshepsut (Scarred Perfumer)**: Though he supposedly died from his wounds, whispers persist that Hatshepsut survived and has been plotting his revenge from the shadows. Some claim he has been acquiring rare poisons with which to compromise Patnefur's formulations.
 
@@ -674,13 +674,13 @@ Patnefur is driven by a belief that he has not yet created his masterpiece—the
 
 - **Shenti the Alchemist**: A mysterious figure dealing in rare ingredients who claims that Patnefur owes him a significant debt for materials supplied years ago. He periodically appears demanding payment or threatening to reveal compromising secrets about Patnefur's early experiments.
 
-### Affiliations
+#### Affiliations
 
 - **The Artisans' Guild of Ta'Kheperu**: Though technically a member in good standing, his relationship with the Guild is contentious. They benefit from his prestige but disapprove of his methods.
 
 - **The Scholars' Collective of the Temple of Thoth**: A loose network of researchers and academics with whom Patnefur exchanges information about rare substances and ancient texts.
 
-## Plot Hooks
+### Plot Hooks
 
 1. **The Formulary of Divine Scents**: A dying scholar approaches Patnefur with a fragment of an ancient papyrus—a mere scrap, but bearing unmistakable symbols associated with the Age of Divine Kings. The scholar claims to have spent decades researching references to a legendary formulary containing recipes for fragrances of impossible power. Before the scholar succumbs to his illness, he reveals that he believes the complete formulary is hidden in a sealed chamber beneath the Temple of Amun, protected by wards and guardians that have remained undisturbed for millennia. He asks Patnefur to complete the work he could not, and leaves him a cryptic map and a single vial of an extraordinary fragrance that may serve as a key to unlock the chamber. The problem: the Temple authorities have forbidden any excavation or research that might disturb the sanctity of the site, and powerful figures within the priesthood seem determined to prevent the formulary from being found.
 

@@ -620,13 +620,13 @@ sohl:
 
 **Home:** [[place-meruhotep|Meru-Hotep]]
 
-# Appearance {#appearance}
+## Appearance {#appearance}
 
 Hathura stands 5'7" tall with a light build. She has golden brown skin, black hair, and hazel eyes. Her features include a high-cheekboned face, a slightly arched nose, a tapered chin, generous lips, and golden brows. Beneath her vestments, the feather-of-Má'át scarification crosses her collarbones — the mark of ordination that every Wer'Hekau carries. A fine gold chain bearing a miniature set of golden scales hangs at her throat, usually tucked beneath the neckline of her robes where only she knows it rests.
 
 She dresses in the formal silk robes of her office when conducting judicial ceremonies or appearing at court — white linen beneath, deep blue silk without, the gold pectoral collar of the Wer'Hekau prominent at her throat. In private, she favors simpler garments but never appears unkempt. Hathura understands that appearance is testimony: a Wer'Hekau who looks disheveled is a Wer'Hekau whose authority is already half-surrendered.
 
-# Dossier {#dossier}
+## Dossier {#dossier}
 
 Hathura was born into the Ise'fré family in [[place-meruhotep|Meru-Hotep]], the eldest daughter of a minor Heka'hut whose lands produced modest harvests and whose political connections amounted to very little. Her mother, however, was a priestess of Má'át — not a powerful one, but one who understood that the temple's reach exceeded any petty estate's. When Hathura was seven, her mother placed her in the temple school at the great Má'át complex in the capital. Her brothers would inherit the estate; Hathura would inherit something more durable.
 
@@ -638,9 +638,9 @@ Now, at forty, she holds the title of Wer'Hekau of Má'át in the capital — th
 
 The irony of her position is one she contemplates in the quiet hours. Má'át is the goddess of truth — of cosmic order maintained through honest speech and just action. The weighing of the heart against the feather is the central eschatological doctrine of the Kemetían faith, and the priestess who administers it is supposed to embody the principle she serves. Hathura has spent two decades building her authority through strategic marriages, withheld information, calculated betrayals, and the careful deployment of truths that serve her purposes while concealing truths that do not. She has never fabricated an augury — she draws that line with absolute firmness — but she has chosen which truths to speak and which to keep silent, and she knows the goddess makes no distinction between a spoken lie and a deliberate silence. She considers this not hypocrisy but necessity. The cosmic order she serves cannot survive on truth alone; it requires the political architecture that her methods sustain. Whether the goddess agrees is the question that keeps her awake.
 
-## Psyche
+### Psyche
 
-### Personality
+#### Personality
 
 Hathura carries herself with the composed stillness of a woman accustomed to being watched — which, as a priestess who presides over judgments before the Per-Aá and his court, she is. She speaks with measured eloquence and chooses her words with the precision of someone who believes that language, like ritual, has the power to reshape reality. She is genuinely warm with those she has decided to trust, but that trust is not easily earned. Behind the gracious smile lies a mind that was trained from childhood to read testimony the way scribes read papyrus — for what is stated, what has been omitted, and what was never meant to be revealed.
 
@@ -648,13 +648,13 @@ She possesses dry wit and appreciates intelligent humor, often using it to defus
 
 At her core, Hathura believes that order is sacred — that the goddess Má'át embodies not just truth but the principle that holds the world together against chaos. She extends this conviction to politics: stable alliances prevent bloodshed far more effectively than steel. Yet she understands that the peace she engineers through strategic silence, withheld judgments, and the calculated application of legal authority is still a form of war — merely one fought in chambers and closed proceedings. She considers this not corruption but devotion. The goddess works through imperfect instruments.
 
-### Motivation
+#### Motivation
 
 Hathura's ambitions are inseparable from the temple's. She seeks to expand the influence of Má'át's order — not merely as an institution but as a governing philosophy, a principle of lawful order and truthful governance woven so deeply into the empire's power structures that no Per-Aá could rule without it. She spends significant resources gathering intelligence through agents, judicial proceedings, and careful observation, believing that knowledge is the truest form of the goddess's favor. The Wer'Hekau who knows all the empire's secrets is the Wer'Hekau who ensures that those secrets serve justice — or at least serve the appearance of justice, which, in the political arena, amounts to much the same thing.
 
 Her secondary motivation — one she would deny but which those close to her recognize — is personal: she wants to prove that the minor Heka'hut's daughter who was given to the temple as a girl has become indispensable to the empire itself. She wants her great-grandchildren to inherit not just wealth, but a position so entangled with the mechanisms of power that it cannot be taken from them.
 
-### Strengths
+#### Strengths
 
 Hathura's foundational strength is her judicial authority. As Wer'Hekau of Má'át, she presides over the great seasonal rites of judgment, administers the oaths that bind the empire's most consequential agreements, and conducts the auguries that guide state policy. The nobles who stand before her judgment seat confide things they would never speak aloud in council, and every ceremony doubles as an intelligence-gathering operation. Her word, spoken in her official capacity, carries the weight of cosmic law — a Wer'Hekau's ruling is not a legal opinion but a divine pronouncement, and overturning one requires challenging the goddess herself.
 
@@ -666,7 +666,7 @@ Her reasoning and analytical capabilities allow her to think several moves ahead
 
 She controls the resources of both the Má'át temple complex (land, wealth, labor, and spiritual authority) and the Ise'fré commercial network (trade contacts, merchant capital, and intelligence from foreign ports). Few individuals in the empire can mobilize assets from such disparate sources.
 
-### Weaknesses
+#### Weaknesses
 
 Hathura's most dangerous vulnerability is the contradiction at the center of her life. She is the Wer'Hekau of Má'át — the living embodiment of truth, justice, and cosmic order — and she has built her power through strategic deception, selective silence, and the careful manipulation of the legal processes she is sworn to uphold. She has never fabricated an augury. She draws that line absolutely. But she has chosen which cases to pursue and which to let die, which truths to speak and which to bury, and she knows — with the theological precision of a woman trained since childhood in the goddess's doctrine — that Má'át makes no distinction between a spoken lie and a deliberate omission. If anyone mapped the full pattern of her career — the convenient silences, the investigations that lost momentum at precisely the right moment, the judgments that always seemed to benefit the right allies — the picture would be damning. Not because any single act was corrupt, but because the cumulative shape of her decisions reveals a woman who has subordinated cosmic truth to political architecture. This is the fear she carries: not that she will be exposed by an enemy, but that the goddess she serves has already weighed her heart and found it wanting.
 
@@ -678,9 +678,9 @@ She serves the temple and she serves the Per-Aá, and most of the time those int
 
 She is not a warrior, and her moderate strength and endurance mean she is entirely dependent on others for direct physical protection. The temple guards are loyal to the institution, not to her personally — and should the Hem'Netjer beneath her ever lose confidence in her leadership, that protection could evaporate faster than she imagines.
 
-## Social
+### Social
 
-### Patrons
+#### Patrons
 
 - **Wer'Hekau Emerita Sarukhét**: The former Wer'Hekau of Má'át in the capital, now too frail to conduct the great rites, who elevated Hathura as her successor. Sarukhét retains enormous informal influence within the order and relies on Hathura to maintain the temple's political standing at court. She senses the contradictions that gnaw at her protégé — she knows what it costs to speak for a goddess of truth when truth has become a political instrument — and this troubles her deeply, though she has never spoken of it directly. Sarukhét navigated the same tensions in her own career, and she is not certain that Hathura will find a resolution she could not.
 
@@ -690,7 +690,7 @@ She is not a warrior, and her moderate strength and endurance mean she is entire
 
 - **Semer Amnakhotep**: The elderly chancellor of records owes his position partly to Hathura's intervention decades ago. He has become her reliable source for historical precedent and archival secrets — the kind of information that makes her judicial pronouncements uncannily well-supported.
 
-### Enemies
+#### Enemies
 
 - **Semer Khentiri**: A secular courtier who resents the temple's hold on the Per-Aá's ear and works constantly to position himself as an alternative source of counsel. He considers Hathura's auguries a political racket dressed in sacred vestments and would happily expose her if he could prove it.
 
@@ -702,7 +702,7 @@ She is not a warrior, and her moderate strength and endurance mean she is entire
 
 - **Wer'Hekau Senusret of Zerula** (distant): The Wer'Hekau of Má'át at Zerula, technically subordinate to Hathura's authority, whose handling of the Hotep Anu heresy case has raised questions she has not yet chosen to investigate. Senusret is careful to maintain the appearance of deference while operating with considerable independence, and Hathura suspects — without yet being able to prove — that his judicial pronouncements serve local political interests rather than the goddess's truth. Their relationship is outwardly correct and quietly poisonous.
 
-### Affiliations
+#### Affiliations
 
 - **The Temple of Má'át**: Her primary institution. As Wer'Hekau, she presides over the great judicial rites, oversees the temple's augury practices, and manages the order's political relationships with the court and the aristocracy. The temple complex itself — its lands, granaries, workshops, and treasury — is a significant economic power in its own right. She also holds nominal supervisory authority over the provincial Má'át temples, including the one at Zerula — an authority she has exercised sparingly and cautiously.
 
@@ -712,7 +712,7 @@ She is not a warrior, and her moderate strength and endurance mean she is entire
 
 - **The Sebeq'Sut** (Merchant Alliance): Through the Ise'fré commercial network she inherited from her husband, she maintains business relationships and mutual protection pacts with the empire's major trading houses — a source of wealth and intelligence that operates entirely outside temple channels.
 
-## Plot Hooks
+### Plot Hooks
 
 1. **The Missing Heir**: A young noble who was once under Hathura's tutelage has vanished while traveling to a distant province — or so his family claims. Hathura receives an anonymous letter suggesting that the young man is being held and will be ransomed for a substantial sum, but there is no signature, no demand, and no proof. She must determine whether this is a genuine kidnapping, a political trap laid by her enemies, or an elaborate scheme by the heir himself to escape an arranged marriage. The mystery deepens when she discovers that her own network of agents, always impeccably reliable, suddenly becomes unreachable or provides conflicting information.
 

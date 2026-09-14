@@ -553,13 +553,13 @@ sohl:
     defaultCombatGroup: null
 ---
 
-# Appearance {#appearance}
+## Appearance {#appearance}
 
 Audrey Harding is a 35-year-old woman who stands 5'6" tall and is of moderate build. She has a heart-shaped face with defined cheekbones, a smooth forehead, and a rounded jaw that leads to a firm chin. Her narrow amber eyes sit beneath expressive brows, lending her a keen gaze. A slightly upturned nose and thin lips complete her features. She has medium-toned skin with a weathered complexion. Her chestnut hair is flowing past her shoulders.
 
 Her weathered complexion speaks of years spent traveling, moving between the coastal settlements and inland trading routes of Aelwyth. There is something almost predatory about her stillness—she sits motionless during conversations, her amber eyes tracking movement with a raptor's precision. Her hands, when they move, are elegant and deliberate; she gestures rarely, but when she does, the gesture carries weight. She favors richly dyed silks and fine linen, always impeccably maintained, though her clothing is tailored for function as much as display. Her style is distinctly Aelwythan in its fusion of the mystical and the mercantile—there is something otherworldly about her presentation, as though she has traveled not just across geography but between states of being.
 
-# Dossier {#dossier}
+## Dossier {#dossier}
 
 Audrey Harding was born into the Harding family, a minor noble house of Aelwythan origin with deep roots in Greywater's trading networks. Her childhood was spent in the liminal spaces between the five realms of Aelwyth, traveling with her merchant-father between ports and inland markets, learning the languages of trade and the languages of power. Her father, Hrodgar Harding, was a brilliant negotiator and businessman who rose from minor merchant to something close to a trading prince—but who also harbored a ruthless pragmatism about the nature of commerce and of human beings.
 
@@ -575,7 +575,7 @@ Now, at thirty-five, Audrey stands at a peculiar apex of power. She is wealthy, 
 
 This spiritual emptiness has begun to manifest in her work. She finds herself conducting increasingly elaborate ceremonies not because they are truly necessary but because the ritual, the complexity, the performance, temporarily fills the void. She has begun to take on clients not because they are profitable but because they are fascinating—to study how they think, what they desire, how they can be persuaded or manipulated. She has developed an almost obsessive interest in a series of missing merchant ships, all lost in the misty waters between Aelwyth's realms, all carrying valuable cargo. Some part of her whispers that if she could solve this mystery, could find what is lost, it might answer the question that ordinary wealth and power cannot address.
 
-## Psyche
+### Psyche
 
 Audrey is brilliant, possessed of a reasoning capacity in the "Brilliant" range (18) that manifests as almost supernatural ability to see patterns, understand systems, and predict outcomes. She thinks in terms of incentives, leverage, and advantage—not out of malice, but because this is the lens through which her mind naturally processes the world. When she meets a person, she instinctively assesses their value, their vulnerabilities, their potential utility to her.
 
@@ -587,7 +587,7 @@ What drives Audrey is increasingly less the accumulation of wealth (she has enou
 
 She is, in essence, searching for something that cannot be purchased or negotiated—and this search is slowly driving her away from the comfortable world of commerce and toward something more dangerous.
 
-## Social
+### Social
 
 Audrey holds the formal rank of High Priestess of Vénusia in Greywater, answerable to the Temple hierarchy but operating with significant autonomy in her work. She is consulted by the Temple on major theological and practical matters, and her decisions on contract interpretation carry significant weight.
 
@@ -597,13 +597,13 @@ Yet her relationship with the Temple itself is increasingly complex. While she r
 
 Among her peers in the priesthood, she is respected but not beloved. She is not known for mentoring younger priests, for acts of genuine spiritual teaching, or for the kind of pastoral care that typically characterizes priestly work. She is known for results, for sophistication, for intellectual excellence—but not for warmth.
 
-## Companions
+### Companions
 
 **Patrons:** The merchant houses of Greywater and throughout Aelwyth are Audrey's primary patrons, particularly House Marendo (the largest trading concern in the region) and a loose consortium of northern traders. Her daughter Lyssa, while too young for formal patron relationships, is becoming increasingly involved in her mother's commercial networks. The Temple of Vénusia maintains her officially as a high priestess but is aware that her true loyalties lie with commerce rather than spiritual institution.
 
 **Enemies:** A rival merchant house, House Corven, views Audrey as an obstacle to their expansion plans and suspects (correctly) that she has deliberately manipulated contracts to disadvantage them. Lord Captain Theron, commander of Greywater's harbor guard, has grown suspicious of the lost ships—he suspects smuggling or darker activities and is beginning to believe Audrey may be involved. Several progressive priests in the Temple view her as a spiritual cancer—a priest so focused on material gain that she has forgotten Vénusia's deeper teachings about genuine abundance and human flourishing. A mysterious figure, known only as "the Gatherer," appears to be acquiring information about Audrey's operations and may be preparing to blackmail or confront her.
 
-## Plot Hooks
+### Plot Hooks
 
 1. **The Lost Fleet** — Audrey receives a fragment of evidence suggesting that the missing merchant ships are not lost but deliberately seized and hidden—perhaps by a faction within Aelwyth's government that is using them to maintain leverage over the trading houses. The evidence also suggests someone is selling information about which ships are valuable and when they will be at sea. Audrey must investigate without exposing herself, as the conspiracy may involve people who would consider her a threat if she knows too much.
 

@@ -555,13 +555,13 @@ sohl:
     defaultCombatGroup: null
 ---
 
-# Appearance {#appearance}
+## Appearance {#appearance}
 
 Dûmàrês Râfîrôs is a 40-year-old man who stands 5'9" tall and is of moderate build. He has a diamond face with angular cheekbones, a high forehead, and a sharp jaw that leads to a square chin. His wide-set hazel eyes sit beneath straight brows, lending him an open gaze. A prominent nose and expressive lips complete his features. He has medium-toned skin with a sun-tanned complexion. His dark brown hair is combed neatly to one side.
 
 Everything about Dûmàrês speaks of careful cultivation. His bearing is almost impossibly upright, shoulders back, chin raised in what might be described as noble repose—or, less charitably, chronic condescension. His hands are long-fingered and strong, the hands of a swordsman, yet they gesture with practiced grace when he speaks, as though each motion has been rehearsed to emphasize a point. His attractive face—almost startlingly so—seems designed to inspire confidence and aspiration. He is the kind of man people want to follow, at least until they have been scorched by his judgment.
 
-# Dossier {#dossier}
+## Dossier {#dossier}
 
 Dûmàrês Râfîrôs was born into one of Korinthea's most prestigious noble houses, a family whose name appears in the city's civic records dating back centuries. His ascent into the priesthood of Jánus followed the path marked for a second son of notable lineage: at fourteen, marked as intellectually gifted but temperamentally unsuited for military service, he was offered to the Temple as a candidate for high office. The priests of Jánus recognized immediately what his tutors had identified: a young man of rare eloquence and natural authority, possessed of genuine conviction about the nature of justice and honor.
 
@@ -573,7 +573,7 @@ Now at forty, Dûmàrês stands at the apex of secular influence for a priest of
 
 Yet there are cracks in this gleaming facade. Those who work closely with Dûmàrês—his younger priests, the scribes in his chambers, the refuge workers—describe a man of brilliant conviction but limited empathy. He judges the poor harshly, always finding moral failing beneath the surface of material deprivation. He establishes rules in his refuge and pursues them rigidly, content if 80% of his charges emerge "reformed" by his standards, indifferent to those who remain broken. He is capable of extraordinary kindness toward those he considers worthy—fellow nobles, persons of learning, those who share his intellectual framework—and shocking coldness toward those he judges insufficient. The charitable works he champions are genuine, but they carry an edge of condescension, a sense that those he helps are elevated by his notice rather than elevated by their own inherent worth.
 
-## Psyche
+### Psyche
 
 Dûmàrês genuinely believes in the ideals of Jánus. This is not mere lip service or political positioning; his commitment to justice, to the protection of the weak, to the sanctity of oaths is absolute. He would sacrifice personal wealth, comfort, and even life itself to uphold these principles against truly malign forces. He sees himself as an instrument of cosmic order, a mortal enforcer of the divine law that holds civilization together.
 
@@ -585,7 +585,7 @@ What drives Dûmàrês is a hunger for a very specific kind of admiration: the r
 
 Yet there is something human and even sympathetic in his construction. He is not malicious; he is trapped in a form of moral blindness that seems nearly incurable given his temperament and station. And underneath the aristocratic assurance, there is a man who genuinely wants to be what he claims to be: an agent of divine justice in a chaotic world.
 
-## Social
+### Social
 
 Dûmàrês holds the rank of High Judge of the Temple of Jánus in Korinthea, a position of immense authority and prestige. He reports nominally to the Temple's Patriarch but exercises near-total autonomy in judicial and civic matters. The Temple itself operates as a de facto court system in Korinthea, and Dûmàrês's judgment is final in most disputes.
 
@@ -595,13 +595,13 @@ Yet there is a peculiar quality to this respect. It is tinged with something aki
 
 Among the common people, his reputation is complicated. He is known as the judge who came from poverty—though this is partially false; his family was always comfortable—who champions the weak. But he is also known as the judge whose verdicts are harsh, who shows little mercy for those he judges morally deficient. The Refuge of Jánus, for all its genuine good work, is also known as the place where the weak are "reformed" according to Dûmàrês's rigorous standards.
 
-## Companions
+### Companions
 
 **Patrons:** Dûmàrês's primary patrons are the high nobility of Korinthea, particularly the merchant princes who have much to gain from his fair but firm interpretation of commercial law. Specifically, he maintains close relationships with Archon Therion of the Council of Korinthea (his primary political support), and with his own biological family, particularly his elder brother Aristides, who holds considerable influence in the Council. The Temple Patriarch, ancient Theodoros, relies heavily on Dûmàrês and has indicated that he may be groomed as successor.
 
 **Enemies:** Dûmàrês's primary adversary is Father Malachi of the Temple's Western Chapter, a much older priest who views Dûmàrês's innovations in charitable work and civic law as corruptions of Jánus's warrior-nature and who actively schemes against Dûmàrês's advancement. More personally dangerous is Ekaterina, a woman from Dûmàrês's past—the daughter of a merchant house that he once ruled against in a legal dispute. Her father died in poverty, and Ekaterina has spent twenty years building a network specifically designed to expose Dûmàrês's blindness and bring down his reputation. The Black Flame (god of domination and strength), which Jánus opposes, maintains a shadowy priesthood in Korinthea that sees Dûmàrês as a direct spiritual opponent and seeks to undermine his authority.
 
-## Plot Hooks
+### Plot Hooks
 
 1. **The Judgment That Cannot Be Rendered** — A case lands in Dûmàrês's court that destroys his careful framework: a mother who stole bread to feed her children, but also stole a merchant's copper from his counting house in the process. By Dûmàrês's own laws, she should be sentenced harshly for theft; by Jánus's principles of compassion for the weak, she should be freed. The case becomes public, attracts attention from the Council, and threatens to expose the brittleness of his moral philosophy. Worse, Ekaterina has orchestrated the trial specifically to create this impossible choice.
 

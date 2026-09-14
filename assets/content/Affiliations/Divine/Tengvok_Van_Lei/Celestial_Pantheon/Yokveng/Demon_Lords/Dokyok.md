@@ -96,7 +96,7 @@ data:
 packFolder: demonlords
 ---
 
-# Dōkyök — The Lost Road
+## Dōkyök — The Lost Road
 
 A corrupted spirit of the Bureau of Passage (Dōk Sëi), Dōkyök was once a Waymark Spirit (Dōkzhīr) tasked with maintaining the boundaries between classified regions. Its function was to ensure that travelers moving between places arrived at their intended destination — that the road from one classified space led to another classified space, and not into the gaps between.
 
@@ -104,11 +104,11 @@ At some point, Dōkyök began _redirecting_. Travelers who should have arrived a
 
 The Bureau of Passage has never explained how one of its waymark spirits became corrupted. The leading theory among the Tānthëi is that Dōkyök encountered something in the spaces between classified regions — something from the Hürnlëi that offered it an alternative cartography, a map of roads that connect not places but _states of being_. Dōkyök now maintains a network of passages that exist outside the celestial administration's jurisdiction entirely: roads that lead from despair to madness, from grief to oblivion, from ambition to ruin. Those who travel Dōkyök's roads arrive somewhere, but it is never where they intended, and it is always where they feared.
 
-## Mortal Cultus: The Nüszōk Rëit
+### Mortal Cultus: The Nüszōk Rëit
 
 Dōkyök occupies a lesser but real place in the devotional life of the [[affiliation-nuszokreit|Nüszōk Rëit]]. Where the cult's primary patrons serve its ideological and bureaucratic programs, Dōkyök serves its _operational_ discipline — the practical arts of misdirection, evasion, and escape. Cult handlers who lead imperial investigators down false trails, couriers who use bureaucratic labyrinths to lose pursuers, and operatives who survive interrogation by steering the questioning into unresolvable categorical disputes are all said to be doing "Dōkyök's work." The cult preserves a handful of small rituals, typically performed immediately before a handler goes to work, that invoke the Guide Who Leads Astray to confuse the paths of those who follow.
 
-## See Also
+### See Also
 
 - [[affiliation-nuszokreit|Nüszōk Rëit]] — The cult that venerates Dōkyök for misdirection and escape
 - [[affiliation-yokveng|Yokveng]] — The Demon Realm

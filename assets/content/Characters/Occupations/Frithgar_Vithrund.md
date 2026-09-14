@@ -549,11 +549,11 @@ sohl:
     defaultCombatGroup: null
 ---
 
-# Appearance {#appearance}
+## Appearance {#appearance}
 
 Frithgár Vithrúnd is a 42-year-old man who stands 6'2" tall and is broad and solidly built. He has an angular face with high cheekbones, a smooth forehead, and a square jaw that leads to a firm chin. His hooded green eyes sit beneath furrowed brows, lending him a guarded gaze. A strong nose and narrow lips complete his features. He has fair skin with a ruddy complexion. His red hair is pulled back in a warrior's knot.
 
-# Dossier {#dossier}
+## Dossier {#dossier}
 
 Born in the Vrystwald region to a freeman family of Varokhi heritage, Frithgár Vithrúnd came into the world of the huscarl through a combination of circumstance and aptitude.
 
@@ -561,37 +561,37 @@ Rolf has served as a loyal huscarl for Lord Sigvald for many years. With extensi
 
 Now at 42 years of age, Frithgár Vithrúnd has established himself as a known figure among the huscarls of Vrystwald. His reputation, for better or worse, precedes him in the circles where such things matter.
 
-## Psyche
+### Psyche
 
-### Personality
+#### Personality
 
 Sometimes too rigid in his tactics, can be slow to adapt.
 
-### Motivation
+#### Motivation
 
 Frithgár is driven by the desire to master his craft and secure a stable future. The uncertainties of life in huscarl work keep him vigilant and adaptable.
 
-### Strengths
+#### Strengths
 
 Experienced strategist, skilled in melee combat, good mentor.
 
-## Social
+### Social
 
 Frithgár is affiliated with Lord Sigvald's retinue.
 
 As a Varokhi huscarl, Frithgár occupies a recognized social niche within Vrystwald society.
 
-## Companions
+### Companions
 
-### Patrons
+#### Patrons
 
 Frithgár's primary patron is Lord Sigvald and his retainers.. This relationship provides both opportunity and obligation.
 
-### Enemies
+#### Enemies
 
 Few; respected in the community.
 
-## Plot Hooks
+### Plot Hooks
 
 1. **The Huscarl's Dilemma** — Frithgár faces a professional crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Vrystwald.
 

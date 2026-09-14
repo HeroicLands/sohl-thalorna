@@ -596,29 +596,29 @@ sohl:
     defaultCombatGroup: null
 ---
 
-# Appearance {#appearance}
+## Appearance {#appearance}
 
 Guthrún stands 5'11" tall with a light build. She has light fair skin, brown hair, and green eyes. Her features include an angular face, a long nose, a strong jawline, a slightly downturned mouth, heavy brows, flat cheeks. A distinguishing mark is a tattoo of a skull on the upper arm.
 
-# Dossier {#dossier}
+## Dossier {#dossier}
 
-## Background
+### Background
 
-### The Trapper's Daughter
+#### The Trapper's Daughter
 
 Guthrún was born in Nordheim's northern reaches to **Sólvi Sólvargr**, a legendary trapper whose knowledge of wilderness survival and animal behavior was unmatched in three kingdoms. Her mother died bringing her into the world, and Sólvi raised his daughter in a solitary trapping settlement far from the comforts of civilization. He taught her not through formal instruction but through living—showing her how to read animal signs in snow and mud, how to construct traps that worked through understanding prey rather than brute force, how to harvest the creatures she caught with respect for the gift of their bodies.
 
-### The Inheritance of Knowledge
+#### The Inheritance of Knowledge
 
 At her twentieth year, during a harsh winter, Sólvi attempted to cross a frozen river while pursuing unusual game tracks and fell through ice that should have held his weight. Guthrún found his body downstream, and that same day inherited not only his trapping territory but the profound isolation that came with it. For the next decade, she became what her father had been—a solitary genius of the wilderness, an expert whose traps and snares were sought by fur traders across three kingdoms. Her work was exceptional not merely because it was effective but because it demonstrated genuine knowledge of animal behavior. She never trapped more than necessary, never wasted what she took, and grew increasingly troubled by the ease with which she could kill.
 
-### Present Searching
+#### Present Searching
 
 At thirty years old, Guthrún stands at a crossroads of her own making. Her skills are in higher demand than ever—fur traders offer increasing wages, nobles contract her for estate management, and wealthy merchants seek her knowledge of herbalism and wilderness lore. Yet she has begun to experience profound doubt about the morality of her work. The line between necessary harvesting and casual slaughter has blurred in her mind, and she finds herself setting fewer traps and spending longer periods simply moving through wild places, observing rather than exploiting. Her reputation remains stellar, but her heart has begun to rebel against the killing that sustains her.
 
-## Psyche
+### Psyche
 
-### Personality
+#### Personality
 
 Guthrún is a woman of few words who speaks only when communication serves necessary purpose. In the wilderness, she becomes almost meditative—absorbed in the work with philosophical depth that suggests her mind operates on planes beyond ordinary human concern. Civilization makes her visibly uncomfortable; she shifts her weight as though the ground is unstable and her eyes track exits and threats with predatory precision. Despite this apparent coldness, those who have worked with her closely recognize a surprising well of compassion and genuine care for other living beings.
 
@@ -626,11 +626,11 @@ She possesses an unusual moral framework forged in isolation and harsh necessity
 
 Her intellectual life is rich despite her outward simplicity. She is literate, though she reads rarely in books preferring the "text" of nature and weather. She understands the deeper philosophical implications of her work and has begun to grapple with questions of sustainability and spiritual ecology that few in the industrial world even recognize exist.
 
-### Motivation
+#### Motivation
 
 Guthrún seeks only to live with integrity in a world that grows increasingly disconnected from consequence. She wishes to practice her craft—trapping, tracking, wilderness survival—but only in ways that respect the web of life her father taught her is sacred. Increasingly, she finds herself drawn toward a larger purpose: becoming a guardian of wilderness places against those who would exploit them without understanding or respect. This motivation conflicts directly with her need for income and her reputation as a tool for fur traders and hunters. She feels trapped between her inherited identity and an emerging sense of calling toward something greater than herself.
 
-### Strengths
+#### Strengths
 
 - **Master Trapper**: Possesses legendary skill in creating snares, traps, and pitfalls that work through understanding prey psychology rather than mere mechanical force; nearly all her traps succeed without causing unnecessary suffering
 - **Wilderness Mastery**: Can navigate, survive, and thrive in wild places where others perish; reads weather, animal behavior, and environmental signs with near-mystical precision
@@ -638,7 +638,7 @@ Guthrún seeks only to live with integrity in a world that grows increasingly di
 - **Ethical Hunting**: When killing is necessary, accomplishes it with minimal suffering and maximum respect; can process game animals completely, wasting no usable portion
 - **Perceptive Wisdom**: Demonstrates unusual insight into moral and philosophical questions; conversations with her often leave others with surprising clarity about complex issues
 
-### Weaknesses
+#### Weaknesses
 
 - **Excessive Compassion**: Her increasing reluctance to kill has begun to undermine her effectiveness as a trapper; major contracts sometimes go unfulfilled because she cannot overcome moral resistance
 - **Social Dysfunction**: Severely uncomfortable in civilized settings; struggles with basic courtesies and often comes across as hostile when she merely feels anxious
@@ -646,25 +646,25 @@ Guthrún seeks only to live with integrity in a world that grows increasingly di
 - **Moral Paralysis**: Her increasing philosophical opposition to killing has created a paralyzing conflict with her livelihood; unable to reconcile income-generation with emerging ethical stance
 - **Isolation Dependency**: Thrives only in solitude; relationships are profoundly difficult for her and extended time around other humans creates measurable psychological distress
 
-## Social
+### Social
 
-### Patrons
+#### Patrons
 
 - **House Nordthorne**: A noble family that has maintained standing contracts with Guthrún for exceptional furs and wilderness supplies; they pay well and respect her expertise
 - **Harvin's Fur Trading Company**: The primary commercial outlet for Guthrún's work, run by an aging merchant named **Harvin Coldwater** who has worked with her for over a decade and views her as indispensable
 - **Priest Aldwin of the Fréyr's Temple**: A spiritual authority who has taken interest in Guthrún's deepening moral philosophy and occasionally contracts her for wilderness-based spiritual retreats and teachings
 
-### Enemies
+#### Enemies
 
 - **The Blackpelt Poachers**: A criminal organization that kills game indiscriminately for quick profit; Guthrún actively interferes with their operations and has destroyed snares and traps to prevent their predatory harvesting
 - **Duke Hroarsson**: A noble of the neighboring realm who believes all wilderness should be exploited for maximum profit; he has openly declared his intention to destroy Guthrún's trapping territories and industrialize hunting in Nordheim
 - **Merchant Jorvik the Merciless**: A fur trader who views Guthrún's recent reluctance to fulfill contracts as betrayal; he has begun spreading rumors that she has gone mad from isolation and is stealing from her patrons
 
-### Affiliations
+#### Affiliations
 
 - **The Fréyr's Circle**: An informal fellowship of individuals devoted to the fertility aspect of Fréyr and the preservation of natural abundance; Guthrún has recently begun attending their gatherings and exploring deeper spiritual connection
 
-## Plot Hooks
+### Plot Hooks
 
 1. **The Illegal Hunt**: Guthrún discovers that **Duke Hroarsson** has contracted poachers working under the command of **Merchant Jorvik** to slaughter entire herds of the rare silver elk—creatures that appear in Nordheim's territories only once per decade—in order to eliminate her competitive advantage and her trapping livelihood simultaneously. The slaughter is beginning, and Guthrún must choose whether to respond with force, attempt covert intervention, or accept the loss as inevitably part of a changing world.
 
