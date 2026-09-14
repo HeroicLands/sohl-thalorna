@@ -5,7 +5,7 @@ name:
   aliases:
     - Reverse
 description: "Reverses recent action; undoes last spell or change."
-img: systems/sohl/assets/icons/game-icons/delapouite/circle.svg
+img: sohl/assets/icons/game-icons/delapouite/circle.svg
 shortcode: undo
 type: mysticalability
 subType: arcaneincantation

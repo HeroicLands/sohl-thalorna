@@ -3,7 +3,7 @@ tags: []
 name:
   full: Transference
   aliases: []
-img: systems/sohl/assets/icons/noun/psionics.svg
+img: sohl/assets/icons/noun/psionics.svg
 shortcode: trnsf
 type: mysticalability
 subType: arcanetalent

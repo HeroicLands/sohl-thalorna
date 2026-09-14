@@ -5,7 +5,7 @@ name:
   full: Spindlefiend
   aliases: []
 description: "A shadow-corrupted arachnid ambusher that fills whole chambers with nearly invisible webs, turning them into silent deathtraps."
-img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
+img: sohl/assets/icons/game-icons/delapouite/person.svg
 shortcode: spndlfnd
 type: being
 data:

@@ -5,7 +5,7 @@ name:
   full: Necrotic Mire
   aliases: []
 description: "An animate ooze born of concentrated decay in deep stagnant swamps, spreading inexorably to corrupt and consume all it touches."
-img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
+img: sohl/assets/icons/game-icons/delapouite/person.svg
 shortcode: ncrtcmr
 type: being
 data:

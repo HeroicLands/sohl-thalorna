@@ -13,7 +13,7 @@ name:
     - the Seidr of Norgaad
 packFolder: ankarisnordlands
 shortcode: grosdrnrgd
-img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
+img: sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
   portrait: images/beings/characters/grosdrnrgd-portrait.webp

@@ -6,7 +6,7 @@ name:
   aliases:
     - Potion, Poison, Strong
 description: "Vivid green oily liquid; causes violent illness and death."
-img: systems/sohl/assets/icons/other/potion.svg
+img: sohl/assets/icons/other/potion.svg
 shortcode: ptnpois
 type: concoctiongear
 subType: exotic

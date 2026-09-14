@@ -13,7 +13,7 @@ name:
   aliases: []
 packFolder: helladbyzaria
 shortcode: kasndrbsrn
-img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
+img: sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
   portrait: images/beings/characters/kasndrbsrn-portrait.webp

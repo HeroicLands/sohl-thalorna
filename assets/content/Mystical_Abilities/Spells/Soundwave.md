@@ -5,7 +5,7 @@ name:
   aliases:
     - Aural Blast
 description: "Projects sound as force; creates shockwave from noise."
-img: systems/sohl/assets/icons/noun/divination.svg
+img: sohl/assets/icons/noun/divination.svg
 shortcode: sndwv
 type: mysticalability
 subType: arcaneincantation

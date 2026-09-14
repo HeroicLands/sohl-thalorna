@@ -5,7 +5,7 @@ name:
   aliases:
     - Trigger
 description: "Sets conditional trigger on prepared spell; fires when condition met."
-img: systems/sohl/assets/icons/game-icons/delapouite/circle.svg
+img: sohl/assets/icons/game-icons/delapouite/circle.svg
 shortcode: activate
 type: mysticalability
 subType: arcaneincantation

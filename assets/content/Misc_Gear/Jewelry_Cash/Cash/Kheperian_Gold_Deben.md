@@ -5,7 +5,7 @@ name:
   full: Kheperian Gold Deben
   aliases: ["Gold Deben"]
 description: "Temple-attested gold weight-piece of one deben; the largest Kheperi denomination."
-img: systems/sohl/assets/icons/game-icons/badges/coins.svg
+img: sohl/assets/icons/game-icons/badges/coins.svg
 shortcode: gdeb
 type: miscgear
 data:

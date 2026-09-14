@@ -12,7 +12,7 @@ name:
     - Elira Willowbrook
 packFolder: aureldiaaelwyth
 shortcode: edasomervl
-img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
+img: sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
   portrait: images/being/edasomervl-portrait.webp

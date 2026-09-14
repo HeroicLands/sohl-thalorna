@@ -5,7 +5,7 @@ name:
   aliases:
     - Alarm
 description: "Traces invisible boundary; warns caster of crossers with sensation."
-img: systems/sohl/assets/icons/game-icons/delapouite/circle.svg
+img: sohl/assets/icons/game-icons/delapouite/circle.svg
 shortcode: alert
 type: mysticalability
 subType: arcaneincantation

@@ -5,7 +5,7 @@ name:
   aliases:
     - Feel
 description: "Grants empathic perception; detects nearby emotions and thoughts."
-img: systems/sohl/assets/icons/noun/divination.svg
+img: sohl/assets/icons/noun/divination.svg
 shortcode: sense
 type: mysticalability
 subType: arcaneincantation

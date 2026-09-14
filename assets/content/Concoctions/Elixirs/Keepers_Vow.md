@@ -6,7 +6,7 @@ name:
   aliases:
     - Object Aegis Elixir
 description: "Pearl-like liquid; fortifies objects against arcane intrusion."
-img: systems/sohl/assets/icons/other/potion.svg
+img: sohl/assets/icons/other/potion.svg
 shortcode: elxoba
 type: concoctiongear
 subType: elixir

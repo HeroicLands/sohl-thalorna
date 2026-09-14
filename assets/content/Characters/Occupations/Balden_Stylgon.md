@@ -12,7 +12,7 @@ name:
     - Halvard Strongvoice
 packFolder: aureldiaprovenzia
 shortcode: bldnstylgn
-img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
+img: sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
   portrait: images/being/bldnstylgn-portrait.webp

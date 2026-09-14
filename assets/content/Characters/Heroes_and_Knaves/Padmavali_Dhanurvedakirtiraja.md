@@ -11,7 +11,7 @@ name:
   aliases: []
 packFolder: ankarisvedyara
 shortcode: pdmvldhnrvdkrtrj
-img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
+img: sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
   portrait: images/beings/characters/pdmvldhnrvdkrtrj-portrait.webp

@@ -12,7 +12,7 @@ name:
     - Elara Hoofprint
 packFolder: ankarisvrystwald
 shortcode: sndwrhldvth
-img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
+img: sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
   portrait: images/being/sndwrhldvth-portrait.webp

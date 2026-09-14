@@ -5,7 +5,7 @@ name:
   full: Giant Wasp
   aliases: []
 description: "A vicious aerial carnivore with a devastating sting, forming aggressive colonies whose disturbed swarms can overwhelm entire settlements."
-img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
+img: sohl/assets/icons/game-icons/delapouite/person.svg
 shortcode: gntwsp
 type: being
 data:

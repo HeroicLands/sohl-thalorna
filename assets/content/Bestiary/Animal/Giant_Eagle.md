@@ -5,7 +5,7 @@ name:
   full: Giant Eagle
   aliases: []
 description: "A mount-sized mountain raptor with a twenty-foot wingspan and armor-piercing talons, hunting high passes with calculating tactical intelligence."
-img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
+img: sohl/assets/icons/game-icons/delapouite/person.svg
 shortcode: gntegl
 type: being
 data:

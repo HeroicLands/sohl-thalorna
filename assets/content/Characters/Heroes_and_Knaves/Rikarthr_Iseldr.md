@@ -13,7 +13,7 @@ name:
   aliases: []
 packFolder: ankarisnordlands
 shortcode: rkrthrsldr
-img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
+img: sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
   portrait: images/beings/characters/rkrthrsldr-portrait.webp

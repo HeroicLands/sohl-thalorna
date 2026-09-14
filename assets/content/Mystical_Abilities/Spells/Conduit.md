@@ -5,7 +5,7 @@ name:
   aliases:
     - Tube
 description: "Establishes flowing channel; directs water, air, or energy through."
-img: systems/sohl/assets/icons/other/wind.svg
+img: sohl/assets/icons/other/wind.svg
 shortcode: conduit
 type: mysticalability
 subType: arcaneincantation

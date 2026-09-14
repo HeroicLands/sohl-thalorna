@@ -5,7 +5,7 @@ name:
   full: Gloomfang
   aliases: []
 description: "A corrupted rodent-thing that hunts deep caverns in hive-minded packs, overwhelming prey through numbers and coordinated viciousness."
-img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
+img: sohl/assets/icons/game-icons/delapouite/person.svg
 shortcode: glmfng
 type: being
 data:

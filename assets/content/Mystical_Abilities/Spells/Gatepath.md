@@ -5,7 +5,7 @@ name:
   aliases:
     - Passage
 description: "Opens doorway between distant locations; establishes passage through barriers."
-img: systems/sohl/assets/icons/other/wind.svg
+img: sohl/assets/icons/other/wind.svg
 shortcode: gatepath
 type: mysticalability
 subType: arcaneincantation

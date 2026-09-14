@@ -5,7 +5,7 @@ name:
   full: Haradian Aurion
   aliases: ["Haradian Aurion"]
 description: "Confederation gold coin of the Bayt al-Khazînah; slightly underweight against the imperial standard."
-img: systems/sohl/assets/icons/game-icons/badges/coins.svg
+img: sohl/assets/icons/game-icons/badges/coins.svg
 shortcode: haurion
 type: miscgear
 data:

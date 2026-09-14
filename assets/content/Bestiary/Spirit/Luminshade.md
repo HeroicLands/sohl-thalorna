@@ -5,7 +5,7 @@ name:
   full: Luminshade
   aliases: []
 description: "A paradoxical liminal spirit born where light and shadow meet, dwelling in reflections and dusk, alien and incomprehensible though not inherently hostile."
-img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
+img: sohl/assets/icons/game-icons/delapouite/person.svg
 shortcode: lmnshd
 type: being
 data:

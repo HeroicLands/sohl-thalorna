@@ -5,7 +5,7 @@ name:
   full: Helthraals
   aliases: []
 description: "The mindless shambling undead—zombies, skeletons, mummies, and ghouls—animated by necromancy that binds soul-fragments to drive rotting corpses."
-img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
+img: sohl/assets/icons/game-icons/delapouite/person.svg
 shortcode: hlthrls
 type: being
 data:

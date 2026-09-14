@@ -6,7 +6,7 @@ name:
   full: Vedyaran Rhinoceros
   aliases: []
 description: "A massive semi-aquatic armored megaherbivore of the Vedyaran floodplains, wallowing among rivers, marshes, and tall lowland grasslands."
-img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
+img: sohl/assets/icons/game-icons/delapouite/person.svg
 shortcode: vdyrnrhn
 type: being
 data:

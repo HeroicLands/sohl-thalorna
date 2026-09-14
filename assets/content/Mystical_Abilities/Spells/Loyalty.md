@@ -5,7 +5,7 @@ name:
   aliases:
     - Obedience
 description: "Enchantment compelling obedience; target serves caster with unwavering devotion."
-img: systems/sohl/assets/icons/noun/divination.svg
+img: sohl/assets/icons/noun/divination.svg
 shortcode: loyalty
 type: mysticalability
 subType: arcaneincantation

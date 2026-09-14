@@ -5,7 +5,7 @@ name:
   full: Ridged Skimmer
   aliases: []
 description: "A semi-aquatic ambush predator up to eight feet long plus tail, lurking submerged in rivers and shallows to strike unsuspecting prey."
-img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
+img: sohl/assets/icons/game-icons/delapouite/person.svg
 shortcode: rdgdskmm
 type: being
 data:

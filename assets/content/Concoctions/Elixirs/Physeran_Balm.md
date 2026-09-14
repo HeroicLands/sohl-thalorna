@@ -6,7 +6,7 @@ name:
   aliases:
     - Healing Elixir
 description: "Vibrant golden life elixir; banishes wounds, bleeding, exhaustion."
-img: systems/sohl/assets/icons/other/potion.svg
+img: sohl/assets/icons/other/potion.svg
 shortcode: elxheal
 type: concoctiongear
 subType: elixir

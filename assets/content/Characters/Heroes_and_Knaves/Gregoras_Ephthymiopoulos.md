@@ -12,7 +12,7 @@ name:
   aliases: []
 packFolder: helladbyzaria
 shortcode: grgrsphthympls
-img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
+img: sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
   portrait: images/beings/characters/grgrsphthympls-portrait.webp

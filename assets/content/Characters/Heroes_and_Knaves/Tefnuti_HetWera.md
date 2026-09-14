@@ -14,7 +14,7 @@ name:
 packFolder: northernfertileregiontakheperu
 banner: banners/ta-kheperu-banner.webp
 shortcode: tefnuthtwr
-img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
+img: sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
   portrait: images/beings/characters/tefnuthtwr-portrait.webp
