@@ -3,7 +3,7 @@
     "private": true,
     "productName": "Thalorna Setting",
     "description": "Items, Actors, Journals, Scenes, and other assets to enable play in the Thalorna setting for Song of Heroic Lands",
-    "version": "0.0.1",
+    "version": "0.1.0",
     "author": {
         "name": "Tom Rodriguez",
         "email": "toasty@heroiclands.org",
