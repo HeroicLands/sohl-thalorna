@@ -58,13 +58,26 @@ publish:
 # The third surface: the content tree printed as a book. `document:` names the
 # tree that says which notes the volume carries and in what order (`book.yaml`
 # at this root) — a selection, not the whole corpus the site and the packs
-# publish. `fonts` is left unset: the renderer's own default is Libertinus
-# Serif, which is this book's face.
+# publish.
 pdf:
     title: The World of Thalorna
     subtitle: A Song of Heroic Lands Sourcebook
     document: book.yaml
     out: build/pdf
+    # All three faces are named, because an unnamed one is not a default but a
+    # fallback: `sans` resolves to `serif` when it is absent, so the headings
+    # the renderer sets in the sans slot come out in the body face.
+    #
+    # `mono` is a different family on purpose. It sets fenced blocks, which are
+    # the one place the charset allows box-drawing, geometric and arrow
+    # characters, and DejaVu Sans Mono is the face measured to carry them —
+    # Libertinus Mono reaches 40 of the 128 box-drawing characters, and Typst
+    # reports nothing when a glyph is missing. `Vylarian_Military.md` prints a
+    # command chart out of 437 of them.
+    fonts:
+        serif: Libertinus Serif
+        sans: Libertinus Sans
+        mono: DejaVu Sans Mono
 
 # How this repository frames the website it publishes. Framing only — how a page
 # gets its *address* is `publish.address` above, shared with the link manifest
