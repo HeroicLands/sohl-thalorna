@@ -5,6 +5,7 @@ description: "Nome capital of Pekhenu."
 type: place
 subType: settlement
 data:
+  banner: takheperubnr
   demonym: null
   lore: []
   parents:
@@ -13,7 +14,6 @@ data:
 name:
   full: Pekhenu
   aliases: []
-banner: takheperubnr
 shortcode: pekhenu
 packFolder: upperrivernomes
 ---

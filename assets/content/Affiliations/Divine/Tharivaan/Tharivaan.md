@@ -10,6 +10,7 @@ shortcode: tharivaan
 type: affiliation
 subType: faithtradition
 data:
+  banner: faithbnr
   templatePriority: null
   demonym: null
   epithet: The Living Whole
@@ -73,7 +74,6 @@ data:
     - tharivaan
   relations: {}
 packFolder: pantheonstharivaan
-banner: faithbnr
 ---
 
 ## Thári'vaan: The Living Whole

@@ -11,6 +11,7 @@ shortcode: vngdkzhtvr
 type: affiliation
 subType: faithtradition
 data:
+  banner: faithbnr
   templatePriority: null
   demonym: null
   epithet: The Lord of Earth
@@ -121,7 +122,6 @@ data:
   relations:
     tngvkvnlei: aligned
 packFolder: elementallords
-banner: faithbnr
 ---
 
 ## Vëngdāk Zhütvōr — The Lord of Earth

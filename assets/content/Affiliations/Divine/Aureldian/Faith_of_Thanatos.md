@@ -6,6 +6,7 @@ tags:
 type: affiliation
 subType: faithtradition
 data:
+  banner: faithbnr
   icon: thanatos
   templatePriority: null
   demonym: null
@@ -69,7 +70,6 @@ name:
     - Thánatos
 shortcode: thanatos
 packFolder: pantheonsaureldian
-banner: faithbnr
 ---
 
 God of death, the underworld, and corruption. Thánatos is a fearsome figure, embodying both implacability and terror.

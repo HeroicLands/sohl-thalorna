@@ -5,6 +5,7 @@ tags:
 type: affiliation
 subType: faithtradition
 data:
+  banner: faithbnr
   icon: freyr
   templatePriority: null
   demonym: null
@@ -89,7 +90,6 @@ name:
     - The Verdant Path
 shortcode: freyr
 packFolder: pantheonsasguardian
-banner: faithbnr
 ---
 
 Fréyr, the compassionate god of fertility, agriculture, peace, and healing, holds a special place in the hearts of farmers and rural folk. As the deity who ensures bountiful harvests and thriving livestock, Fréyr's blessings are vital to those who work the land.

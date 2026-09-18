@@ -1,13 +1,13 @@
 ---
 description: "Smith-towns and craft-temples; bronze, gold, and the ceremonial arms of the nobility — one of the upper-river nomes of Ta'Kheperu."
 type: affiliation
-banner: takheperubnr
 name:
   full: The Nome of Hut-Ptah-Resu
   aliases: []
 shortcode: nomehtpthr
 subType: polity
 data:
+  banner: takheperubnr
   templatePriority: null
   governance:
     model: monarchy

@@ -5,6 +5,7 @@ description: "Nome capital of Iabet-Heqa."
 type: place
 subType: settlement
 data:
+  banner: takheperubnr
   demonym: null
   lore: []
   parents:
@@ -13,7 +14,6 @@ data:
 name:
   full: Iabet-Heqa
   aliases: []
-banner: takheperubnr
 shortcode: iabetheqa
 packFolder: bordernomes
 ---

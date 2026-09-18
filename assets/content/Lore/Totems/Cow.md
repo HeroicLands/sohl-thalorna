@@ -11,8 +11,8 @@ name:
     - Cow Totem
 shortcode: cowttm
 packFolder: loretotems
-banner: creaturebnr
 data:
+  banner: creaturebnr
   icon: cow
 ---
 

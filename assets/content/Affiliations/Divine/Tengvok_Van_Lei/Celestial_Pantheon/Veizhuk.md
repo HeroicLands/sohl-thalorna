@@ -11,6 +11,7 @@ shortcode: veizhuk
 type: affiliation
 subType: faithtradition
 data:
+  banner: faithbnr
   templatePriority: null
   demonym: null
   epithet: The Jade Sovereign
@@ -121,7 +122,6 @@ data:
   relations:
     tanvurempr: aligned
 packFolder: celestialpantheon
-banner: faithbnr
 ---
 
 ## Vëizhük Dāknëi — The Jade Sovereign

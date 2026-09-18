@@ -11,8 +11,8 @@ name:
     - Lion Totem
 shortcode: lionttm
 packFolder: loretotems
-banner: creaturebnr
 data:
+  banner: creaturebnr
   icon: lion
 ---
 

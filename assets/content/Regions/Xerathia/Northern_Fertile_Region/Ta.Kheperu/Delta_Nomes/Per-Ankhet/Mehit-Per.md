@@ -6,6 +6,7 @@ description: "Fishing & Victualling Town"
 type: place
 subType: settlement
 data:
+  banner: takheperubnr
   demonym: null
   lore: []
   parents:
@@ -14,7 +15,6 @@ data:
 name:
   full: Mehit-Per
   aliases: []
-banner: takheperubnr
 shortcode: mehitper
 packFolder: perankhet
 ---

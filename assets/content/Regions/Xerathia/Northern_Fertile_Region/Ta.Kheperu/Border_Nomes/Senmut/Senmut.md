@@ -5,6 +5,7 @@ description: "Nome capital of Senmut."
 type: place
 subType: settlement
 data:
+  banner: takheperubnr
   demonym: null
   lore: []
   parents:
@@ -13,7 +14,6 @@ data:
 name:
   full: Senmut
   aliases: []
-banner: takheperubnr
 shortcode: senmut
 packFolder: bordernomes
 ---

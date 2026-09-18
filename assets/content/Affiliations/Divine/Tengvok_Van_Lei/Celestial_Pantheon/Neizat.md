@@ -12,6 +12,7 @@ name:
     - The Bureau of Persistence
 shortcode: neizat
 data:
+  banner: faithbnr
   templatePriority: null
   demonym: null
   epithet: The Minister of Continuity
@@ -120,7 +121,6 @@ data:
   relations:
     tanvurempr: aligned
 packFolder: celestialpantheon
-banner: faithbnr
 ---
 
 ## Nëizāt — The Minister of Continuity

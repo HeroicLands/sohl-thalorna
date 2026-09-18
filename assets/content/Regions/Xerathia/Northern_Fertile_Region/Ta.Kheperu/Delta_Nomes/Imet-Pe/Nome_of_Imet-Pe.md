@@ -1,13 +1,13 @@
 ---
 description: "Date-palm plantations and the sweet delta wines — one of the delta nomes of Ta'Kheperu."
 type: affiliation
-banner: takheperubnr
 name:
   full: The Nome of Imet-Pe
   aliases: []
 shortcode: nomeimetpe
 subType: polity
 data:
+  banner: takheperubnr
   templatePriority: null
   governance:
     model: monarchy

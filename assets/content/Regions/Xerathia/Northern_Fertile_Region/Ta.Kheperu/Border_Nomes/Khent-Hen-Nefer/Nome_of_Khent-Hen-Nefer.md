@@ -1,13 +1,13 @@
 ---
 description: "Forward southern forts beyond the first cataract; the empire's hardest postings — one of the border nomes of Ta'Kheperu."
 type: affiliation
-banner: takheperubnr
 name:
   full: The Nome of Khent-Hen-Nefer
   aliases: []
 shortcode: nomekhnthn
 subType: polity
 data:
+  banner: takheperubnr
   templatePriority: null
   governance:
     model: monarchy

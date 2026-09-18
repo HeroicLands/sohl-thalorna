@@ -6,6 +6,7 @@ description: "City (Granary Capital)"
 type: place
 subType: settlement
 data:
+  banner: takheperubnr
   demonym: null
   lore: []
   parents:
@@ -14,7 +15,6 @@ data:
 name:
   full: Ankh-Setûn
   aliases: []
-banner: takheperubnr
 shortcode: ankhsetun
 packFolder: ankhsetun
 ---

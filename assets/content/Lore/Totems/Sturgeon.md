@@ -11,8 +11,8 @@ name:
     - Sturgeon Totem
 shortcode: sturgeonttm
 packFolder: loretotems
-banner: creaturebnr
 data:
+  banner: creaturebnr
   icon: sturgeon
 ---
 

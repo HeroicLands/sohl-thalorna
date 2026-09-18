@@ -7,7 +7,8 @@ subType: reference
 shortcode: locations
 tags:
 description: Notable places — ruins, landmarks, dungeons, and wonders.
-banner: sitebnr
+data:
+  banner: sitebnr
 ---
 
 Notable places — ruins, landmarks, dungeons, and wonders.

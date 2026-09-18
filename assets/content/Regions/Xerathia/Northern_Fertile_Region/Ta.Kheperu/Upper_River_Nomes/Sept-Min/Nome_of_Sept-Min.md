@@ -1,13 +1,13 @@
 ---
 description: "Caravan-head for the eastern desert roads; harvest-festivals and virility cults — one of the upper-river nomes of Ta'Kheperu."
 type: affiliation
-banner: takheperubnr
 name:
   full: The Nome of Sept-Min
   aliases: []
 shortcode: nomeseptmi
 subType: polity
 data:
+  banner: takheperubnr
   templatePriority: null
   governance:
     model: monarchy

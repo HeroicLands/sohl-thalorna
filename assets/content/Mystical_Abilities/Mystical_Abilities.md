@@ -7,7 +7,8 @@ subType: reference
 shortcode: mysticalability
 tags:
 description: Magical and supernatural powers.
-banner: packagebuild-none-image-mysticalabilitybnr
+data:
+  banner: packagebuild-none-image-mysticalabilitybnr
 ---
 
 ## Arcane Incantation

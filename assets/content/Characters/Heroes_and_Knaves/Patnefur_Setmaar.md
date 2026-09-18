@@ -14,10 +14,10 @@ name:
     - Patnefur Setmaâr
     - Patnefur Setmaar
 packFolder: northernfertileregiontakheperu
-banner: takheperubnr
 shortcode: patnfrstmr
 type: being
 data:
+  banner: takheperubnr
   icon: sohl-none-icon-person
   portrait: patnfrstmr
   templatePriority: null

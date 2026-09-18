@@ -11,8 +11,8 @@ name:
     - Duck Totem
 shortcode: duckttm
 packFolder: loretotems
-banner: creaturebnr
 data:
+  banner: creaturebnr
   icon: duck
 ---
 

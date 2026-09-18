@@ -6,6 +6,7 @@ tags:
 type: affiliation
 subType: faithtradition
 data:
+  banner: takheperubnr
   templatePriority: null
   demonym: null
   epithet: The River-God
@@ -78,7 +79,6 @@ name:
   aliases:
     - Khet'Amun, The River-God
 shortcode: khetamun
-banner: takheperubnr
 packFolder: pantheonskemetian
 ---
 

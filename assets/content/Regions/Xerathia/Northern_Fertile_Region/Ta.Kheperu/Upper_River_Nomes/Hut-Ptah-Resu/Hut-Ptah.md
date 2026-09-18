@@ -5,6 +5,7 @@ description: "Nome capital of Hut-Ptah-Resu."
 type: place
 subType: settlement
 data:
+  banner: takheperubnr
   demonym: null
   lore: []
   parents:
@@ -13,7 +14,6 @@ data:
 name:
   full: Hut-Ptah
   aliases: []
-banner: takheperubnr
 shortcode: hutptah
 packFolder: upperrivernomes
 ---

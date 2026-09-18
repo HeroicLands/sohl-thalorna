@@ -7,7 +7,8 @@ subType: reference
 shortcode: continents
 tags:
 description: Major landmasses of the world.
-banner: continentbnr
+data:
+  banner: continentbnr
 ---
 
 Major landmasses of the world.

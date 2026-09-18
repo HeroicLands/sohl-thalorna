@@ -11,8 +11,8 @@ name:
     - Leopard Totem
 shortcode: leopardttm
 packFolder: loretotems
-banner: creaturebnr
 data:
+  banner: creaturebnr
   icon: leopard
 ---
 

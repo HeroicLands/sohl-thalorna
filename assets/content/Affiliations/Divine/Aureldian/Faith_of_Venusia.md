@@ -6,6 +6,7 @@ tags:
 type: affiliation
 subType: faithtradition
 data:
+  banner: faithbnr
   icon: venusia
   templatePriority: null
   demonym: null
@@ -71,7 +72,6 @@ name:
     - Vénusia
 shortcode: venusia
 packFolder: pantheonsaureldian
-banner: faithbnr
 ---
 
 Goddess of wealth, abundance, and seduction. Vénusia blesses people with prosperity and physical love.

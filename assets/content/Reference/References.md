@@ -7,7 +7,8 @@ subType: reference
 shortcode: reference
 tags:
 description: Reference materials and source documents.
-banner: null
+data:
+  banner: null
 ---
 
 Reference materials and source documents.

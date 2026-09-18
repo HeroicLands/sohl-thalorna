@@ -17,6 +17,7 @@ shortcode: strmcltsbhrms
 type: affiliation
 subType: faithtradition
 data:
+  banner: faithbnr
   templatePriority: null
   demonym: null
   epithet: null
@@ -113,7 +114,6 @@ data:
     ashanpnthn: aligned
     wrrscrcldnhrtrbs: aligned
     dunhartrbs: aligned
-banner: faithbnr
 ---
 
 _Dunhari: Bahârâmî-Pîravân — "the Followers of Báhrámiš"_

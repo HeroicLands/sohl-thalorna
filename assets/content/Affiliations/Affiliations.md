@@ -7,7 +7,8 @@ subType: reference
 shortcode: affiliation
 tags:
 description: Every organized body of Thalorna — religions, schools of magic, spirit traditions, and secular orders.
-banner: organizationbnr
+data:
+  banner: organizationbnr
 ---
 
 An affiliation is any organized body a character can belong to, and belonging to

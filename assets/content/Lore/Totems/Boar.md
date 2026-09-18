@@ -11,8 +11,8 @@ name:
     - Boar Totem
 shortcode: boarttm
 packFolder: loretotems
-banner: creaturebnr
 data:
+  banner: creaturebnr
   icon: boar
 ---
 

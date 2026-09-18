@@ -13,6 +13,7 @@ name:
 shortcode: kayikchul
 packFolder: pantheonitzani
 data:
+  banner: faithbnr
   icon: null
   templatePriority: null
   demonym: null
@@ -122,7 +123,6 @@ data:
     - itzanpnthn
   relations:
     itzanpnthn: aligned
-banner: faithbnr
 ---
 
 **Domain:** Fire, Transformation, Purification, Sacrifice

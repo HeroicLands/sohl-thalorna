@@ -7,6 +7,7 @@ description: "Market & Temple Town"
 type: place
 subType: settlement
 data:
+  banner: takheperubnr
   demonym: null
   lore: []
   parents:
@@ -15,7 +16,6 @@ data:
 name:
   full: Sau
   aliases: []
-banner: takheperubnr
 shortcode: sau
 packFolder: sauneferu
 ---

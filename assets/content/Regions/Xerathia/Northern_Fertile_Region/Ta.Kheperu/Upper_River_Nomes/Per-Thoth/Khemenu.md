@@ -6,6 +6,7 @@ description: "Temple City (Scribal)"
 type: place
 subType: settlement
 data:
+  banner: takheperubnr
   demonym: null
   lore: []
   parents:
@@ -14,7 +15,6 @@ data:
 name:
   full: Khemenu
   aliases: []
-banner: takheperubnr
 shortcode: khemenu
 packFolder: perthoth
 ---

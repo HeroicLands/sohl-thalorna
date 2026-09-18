@@ -5,6 +5,7 @@ description: "Nome capital of Neferusi."
 type: place
 subType: settlement
 data:
+  banner: takheperubnr
   demonym: null
   lore: []
   parents:
@@ -13,7 +14,6 @@ data:
 name:
   full: Neferusi
   aliases: []
-banner: takheperubnr
 shortcode: neferusi
 packFolder: upperrivernomes
 ---

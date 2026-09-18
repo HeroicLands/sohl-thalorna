@@ -11,8 +11,8 @@ name:
     - Bobcat Totem
 shortcode: bobcatttm
 packFolder: loretotems
-banner: creaturebnr
 data:
+  banner: creaturebnr
   icon: bobcat
 ---
 

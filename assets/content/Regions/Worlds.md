@@ -7,7 +7,8 @@ subType: reference
 shortcode: worlds
 tags:
 description: The worlds of the Heroic Lands multiverse.
-banner: null
+data:
+  banner: null
 ---
 
 The worlds of the Heroic Lands multiverse.

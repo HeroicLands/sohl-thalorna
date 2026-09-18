@@ -7,6 +7,7 @@ description: "Imperial City (Capital)"
 type: place
 subType: settlement
 data:
+  banner: takheperubnr
   demonym: null
   lore: []
   parents:
@@ -15,7 +16,6 @@ data:
 name:
   full: Wasetkara
   aliases: []
-banner: takheperubnr
 shortcode: wasetkara
 packFolder: capitalnome
 ---

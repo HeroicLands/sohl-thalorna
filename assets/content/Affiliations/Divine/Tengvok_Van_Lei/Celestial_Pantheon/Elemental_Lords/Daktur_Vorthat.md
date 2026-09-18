@@ -11,6 +11,7 @@ shortcode: daktrvrtht
 type: affiliation
 subType: faithtradition
 data:
+  banner: faithbnr
   templatePriority: null
   demonym: null
   epithet: The Lord of Metal
@@ -121,7 +122,6 @@ data:
   relations:
     tngvkvnlei: aligned
 packFolder: elementallords
-banner: faithbnr
 ---
 
 ## Dāktūr Vōrthāt — The Lord of Metal

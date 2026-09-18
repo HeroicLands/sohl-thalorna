@@ -7,6 +7,7 @@ description: "Fortified Mining Town"
 type: place
 subType: settlement
 data:
+  banner: takheperubnr
   demonym: null
   lore: []
   parents:
@@ -15,7 +16,6 @@ data:
 name:
   full: Bakhu
   aliases: []
-banner: takheperubnr
 shortcode: bakhu
 packFolder: tasetiabtet
 ---

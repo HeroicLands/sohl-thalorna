@@ -6,6 +6,7 @@ tags:
 type: affiliation
 subType: arcanetradition
 data:
+  banner: takheperubnr
   icon: maatken
   templatePriority: null
   demonym: null
@@ -81,7 +82,6 @@ name:
     - House of the Balance
     - The House of Order
 shortcode: maatken
-banner: takheperubnr
 packFolder: khemenuhekau
 ---
 

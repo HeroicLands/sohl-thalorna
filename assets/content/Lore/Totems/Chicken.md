@@ -11,8 +11,8 @@ name:
     - Chicken Totem
 shortcode: chickenttm
 packFolder: loretotems
-banner: creaturebnr
 data:
+  banner: creaturebnr
   icon: chicken
 ---
 

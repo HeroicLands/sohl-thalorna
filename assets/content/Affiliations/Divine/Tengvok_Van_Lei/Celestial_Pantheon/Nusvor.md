@@ -12,6 +12,7 @@ name:
     - The Bureau of Returns
 shortcode: nusvor
 data:
+  banner: faithbnr
   templatePriority: null
   demonym: null
   epithet: The Minister of Dissolution
@@ -120,7 +121,6 @@ data:
   relations:
     tanvurempr: aligned
 packFolder: celestialpantheon
-banner: faithbnr
 ---
 
 ## Nüsvōr — The Minister of Dissolution

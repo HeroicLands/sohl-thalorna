@@ -5,6 +5,7 @@ tags:
 type: affiliation
 subType: faithtradition
 data:
+  banner: faithbnr
   icon: hel
   templatePriority: null
   demonym: null
@@ -93,7 +94,6 @@ name:
     - The Eternal Night
 shortcode: hel
 packFolder: pantheonsasguardian
-banner: faithbnr
 ---
 
 Hél, the goddess of the underworld, harbors a profound disdain for life itself. She considers existence a blight upon the cosmos and works tirelessly to bring all creation to chaos and ruin. Her dominion over the underworld is absolute — a place of endless torment and despair, reflecting her contempt for living beings.

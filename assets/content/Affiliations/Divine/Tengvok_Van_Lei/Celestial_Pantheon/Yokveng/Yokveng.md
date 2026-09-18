@@ -11,6 +11,7 @@ shortcode: yokveng
 type: affiliation
 subType: faithtradition
 data:
+  banner: faithbnr
   templatePriority: null
   demonym: null
   epithet: null
@@ -89,7 +90,6 @@ data:
   relations:
     tngvkvnlei: aligned
 packFolder: yokveng
-banner: faithbnr
 ---
 
 - **Type:** Celestial realm of subversion and failure

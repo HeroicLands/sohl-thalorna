@@ -6,6 +6,7 @@ tags:
 type: affiliation
 subType: faithtradition
 data:
+  banner: takheperubnr
   templatePriority: null
   demonym: null
   epithet: The Fertility-God
@@ -69,7 +70,6 @@ name:
   aliases:
     - Min, The Fertility-God
 shortcode: min
-banner: takheperubnr
 packFolder: pantheonskemetian
 ---
 

@@ -11,8 +11,8 @@ name:
     - Eagle Totem
 shortcode: eaglettm
 packFolder: loretotems
-banner: creaturebnr
 data:
+  banner: creaturebnr
   icon: eagle
 ---
 

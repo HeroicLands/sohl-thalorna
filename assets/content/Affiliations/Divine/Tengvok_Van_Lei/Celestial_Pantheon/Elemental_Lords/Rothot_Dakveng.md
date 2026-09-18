@@ -11,6 +11,7 @@ shortcode: rothtdkvng
 type: affiliation
 subType: faithtradition
 data:
+  banner: faithbnr
   templatePriority: null
   demonym: null
   epithet: The Lord of Wood
@@ -121,7 +122,6 @@ data:
   relations:
     tngvkvnlei: aligned
 packFolder: elementallords
-banner: faithbnr
 ---
 
 ## Röthöt Dākvëng — The Lord of Wood

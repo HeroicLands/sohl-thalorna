@@ -13,10 +13,10 @@ name:
   aliases:
     - Totkar HetWera
 packFolder: northernfertileregiontakheperu
-banner: takheperubnr
 shortcode: totkarhtwr
 type: being
 data:
+  banner: takheperubnr
   icon: sohl-none-icon-person
   portrait: totkarhtwr
   templatePriority: null

@@ -5,6 +5,7 @@ description: "Nome capital of Iunet."
 type: place
 subType: settlement
 data:
+  banner: takheperubnr
   demonym: null
   lore: []
   parents:
@@ -13,7 +14,6 @@ data:
 name:
   full: Iunet
   aliases: []
-banner: takheperubnr
 shortcode: iunet
 packFolder: upperrivernomes
 ---

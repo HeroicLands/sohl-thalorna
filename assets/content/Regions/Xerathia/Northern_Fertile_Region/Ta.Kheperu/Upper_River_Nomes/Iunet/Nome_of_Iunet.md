@@ -1,13 +1,13 @@
 ---
 description: "Healing-temples and birth-shrines; the great cult of the mother-goddess — one of the upper-river nomes of Ta'Kheperu."
 type: affiliation
-banner: takheperubnr
 name:
   full: The Nome of Iunet
   aliases: []
 shortcode: nomeiunet
 subType: polity
 data:
+  banner: takheperubnr
   templatePriority: null
   governance:
     model: monarchy

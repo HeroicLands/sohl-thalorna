@@ -7,6 +7,7 @@ description: "Khazryn steppe warband defending a middling tribe against rivals t
 type: affiliation
 subType: venture
 data:
+  banner: companybnr
   templatePriority: null
   demonym: null
   epithet: null
@@ -95,7 +96,6 @@ name:
     - Sworn Blades of the Zarnûsh
     - Riders of the Burning Wind
 shortcode: tghsvrnzrnsh
-banner: companybnr
 ---
 
 **The Tîgh'Savâran of the Zarnûsh:** _The Riders of the Burning Wind_

@@ -6,6 +6,7 @@ description: "Necropolis City"
 type: place
 subType: settlement
 data:
+  banner: takheperubnr
   demonym: null
   lore: []
   parents:
@@ -14,7 +15,6 @@ data:
 name:
   full: Ta-Djeser
   aliases: []
-banner: takheperubnr
 shortcode: tadjeser
 packFolder: capitalnome
 ---

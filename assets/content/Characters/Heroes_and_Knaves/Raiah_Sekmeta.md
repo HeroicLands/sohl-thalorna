@@ -13,10 +13,10 @@ name:
   aliases:
     - Raiah Sekmetâ
 packFolder: northernfertileregiontakheperu
-banner: takheperubnr
 shortcode: raiahsekmt
 type: being
 data:
+  banner: takheperubnr
   icon: sohl-none-icon-person
   portrait: raiahsekmt
   templatePriority: null

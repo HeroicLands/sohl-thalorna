@@ -11,8 +11,8 @@ name:
     - Donkey Totem
 shortcode: donkeyttm
 packFolder: loretotems
-banner: creaturebnr
 data:
+  banner: creaturebnr
   icon: donkey
 ---
 

@@ -12,9 +12,9 @@ name:
     - Féth
 packFolder: aureldiaprovenzia
 shortcode: fethardhrl
-banner: tamzirbnr
 type: being
 data:
+  banner: tamzirbnr
   icon: sohl-none-icon-person
   portrait: fethardhrl
   templatePriority: null

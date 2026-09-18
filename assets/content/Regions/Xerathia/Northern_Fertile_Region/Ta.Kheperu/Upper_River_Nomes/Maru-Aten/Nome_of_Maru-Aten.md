@@ -1,13 +1,13 @@
 ---
 description: "A planned temple-city of one zealous dynasty, half-abandoned, still inhabited — one of the upper-river nomes of Ta'Kheperu."
 type: affiliation
-banner: takheperubnr
 name:
   full: The Nome of Maru-Aten
   aliases: []
 shortcode: nomemaruat
 subType: polity
 data:
+  banner: takheperubnr
   templatePriority: null
   governance:
     model: monarchy

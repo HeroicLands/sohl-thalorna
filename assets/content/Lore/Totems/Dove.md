@@ -11,8 +11,8 @@ name:
     - Dove Totem
 shortcode: dovettm
 packFolder: loretotems
-banner: creaturebnr
 data:
+  banner: creaturebnr
   icon: dove
 ---
 

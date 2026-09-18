@@ -11,8 +11,8 @@ name:
     - Shark Totem
 shortcode: sharkttm
 packFolder: loretotems
-banner: creaturebnr
 data:
+  banner: creaturebnr
   icon: shark
 ---
 

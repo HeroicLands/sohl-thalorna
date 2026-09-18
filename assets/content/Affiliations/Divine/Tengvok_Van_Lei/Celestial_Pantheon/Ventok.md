@@ -12,6 +12,7 @@ name:
     - The Archive of All Records
 shortcode: ventok
 data:
+  banner: faithbnr
   templatePriority: null
   demonym: null
   epithet: The Keeper of the Celestial Archive
@@ -120,7 +121,6 @@ data:
   relations:
     tanvurempr: aligned
 packFolder: celestialpantheon
-banner: faithbnr
 ---
 
 ## Vëntōk — The Keeper of the Celestial Archive

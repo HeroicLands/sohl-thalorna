@@ -6,6 +6,7 @@ tags:
 type: affiliation
 subType: faithtradition
 data:
+  banner: takheperubnr
   icon: horus
   templatePriority: null
   demonym: null
@@ -67,7 +68,6 @@ name:
   aliases:
     - Hórús, The Guiding Falcon
 shortcode: horus
-banner: takheperubnr
 packFolder: pantheonskemetian
 ---
 

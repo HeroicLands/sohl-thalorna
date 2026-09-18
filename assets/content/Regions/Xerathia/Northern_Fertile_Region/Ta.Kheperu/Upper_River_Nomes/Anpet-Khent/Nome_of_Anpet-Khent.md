@@ -1,13 +1,13 @@
 ---
 description: "Jackal-cult and desert-edge tombs; embalmers and tomb-guards — one of the upper-river nomes of Ta'Kheperu."
 type: affiliation
-banner: takheperubnr
 name:
   full: The Nome of Anpet-Khent
   aliases: []
 shortcode: nomeanptkh
 subType: polity
 data:
+  banner: takheperubnr
   templatePriority: null
   governance:
     model: monarchy

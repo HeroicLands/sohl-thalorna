@@ -1,13 +1,13 @@
 ---
 description: "The deepest southern fort; the empire's last writ before the tribal frontier — one of the border nomes of Ta'Kheperu."
 type: affiliation
-banner: takheperubnr
 name:
   full: The Nome of Behdet-Resu
   aliases: []
 shortcode: nomebhdtrs
 subType: polity
 data:
+  banner: takheperubnr
   templatePriority: null
   governance:
     model: monarchy

@@ -7,6 +7,7 @@ tags:
 type: affiliation
 subType: faithtradition
 data:
+  banner: takheperubnr
   icon: seker
   templatePriority: null
   demonym: null
@@ -79,7 +80,6 @@ name:
   aliases:
     - Lord of Silent Passage
 shortcode: seker
-banner: takheperubnr
 alias: Sēker, Lord of Silent Passage
 packFolder: pantheonskemetian
 ---

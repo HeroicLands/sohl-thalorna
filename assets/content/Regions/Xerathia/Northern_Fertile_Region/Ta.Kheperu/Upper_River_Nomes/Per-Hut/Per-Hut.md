@@ -5,6 +5,7 @@ description: "Nome capital of Per-Hût."
 type: place
 subType: settlement
 data:
+  banner: takheperubnr
   demonym: null
   lore: []
   parents:
@@ -13,7 +14,6 @@ data:
 name:
   full: Per-Hût
   aliases: []
-banner: takheperubnr
 shortcode: perhut
 packFolder: upperrivernomes
 ---

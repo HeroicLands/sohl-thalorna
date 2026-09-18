@@ -11,9 +11,9 @@ name:
   aliases: []
 packFolder: midhalionharad
 shortcode: kasuradmzr
-banner: tamzirbnr
 type: being
 data:
+  banner: tamzirbnr
   icon: sohl-none-icon-person
   portrait: kasuradmzr
   templatePriority: null

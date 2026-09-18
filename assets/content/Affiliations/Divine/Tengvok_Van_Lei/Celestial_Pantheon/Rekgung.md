@@ -12,6 +12,7 @@ shortcode: rekgung
 type: affiliation
 subType: faithtradition
 data:
+  banner: faithbnr
   templatePriority: null
   demonym: null
   epithet: The Minister of Storms
@@ -126,7 +127,6 @@ data:
   relations:
     tanvurempr: aligned
 packFolder: celestialpantheon
-banner: faithbnr
 ---
 
 ## Rëkgüng — The Minister of Storms

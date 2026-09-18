@@ -6,6 +6,7 @@ description: "Weathered trading vessel and her crew of misfits operating in gray
 type: affiliation
 subType: venture
 data:
+  banner: tamzirbnr
   templatePriority: null
   demonym: null
   epithet: null
@@ -92,7 +93,6 @@ name:
   full: The Tamzîr
   aliases: []
 shortcode: thetamzir
-banner: tamzirbnr
 ---
 
 The **Tamzîr** is a weathered trading vessel that works the [[affiliation-vylarinmpr|Vylarian]] Sea, named after the Battle of Tamzîr Shoals — the decisive naval engagement of the Haradian War of Independence. Her crew is a band of misfits, war veterans, and fugitives held together by necessity, loyalty, and a shared talent for finding trouble.

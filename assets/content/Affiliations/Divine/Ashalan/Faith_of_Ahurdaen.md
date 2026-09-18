@@ -6,6 +6,7 @@ tags:
 type: affiliation
 subType: faithtradition
 data:
+  banner: faithbnr
   templatePriority: null
   demonym: null
   epithet: The Keeper of Harmony
@@ -93,7 +94,6 @@ name:
 shortcode: ahurdaen
 alias: Āhúrdáén, The Keeper of Harmony
 packFolder: ashaian
-banner: faithbnr
 ---
 
 Āhúrdáén is the supreme sovereign of the Āsháian pantheon, the creator and sustainer of all existence. He is wisdom embodied, justice made manifest, the cosmic order that permits creation to persist against the endless tide of Druj. Where the Aurèldían west speaks of a pantheon of divine equals, the Āsháian faithful know a hierarchy centered on Āhúrdáén's unquestioned supremacy. Not tyranny, however, but kingship of the truest kind—the rule of one who loves creation so deeply that he has ordered every atom, every moment, every soul in accordance with Āsha. In the great fire-temples of [[affiliation-sultntmrdd|Amradad]], inscriptions proclaim his titles in letters of lapis and gold: "He who made the stars to stand in their courses. He who breathed law into the chaos. He whose flame sustains all things."

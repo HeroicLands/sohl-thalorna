@@ -8,7 +8,8 @@ description: "Physical manifestations of astral spirits, each embodying a single
 shortcode: elemcrtr
 type: lore
 subType: bestiary
-banner: creaturebnr
+data:
+  banner: creaturebnr
 ---
 
 Physical manifestations of spirits from the astral realm that embody a single elemental aspect.

@@ -7,6 +7,7 @@ tags:
 type: affiliation
 subType: faithtradition
 data:
+  banner: faithbnr
   templatePriority: null
   demonym: null
   epithet: Bearer of Eternal Light
@@ -94,7 +95,6 @@ name:
 shortcode: korsadra
 alias: Khóršádrä, Bearer of Eternal Light
 packFolder: ashaian
-banner: faithbnr
 ---
 
 Khóršádrä is the goddess of knowledge, eternal light, and the clarity that reveals truth hidden beneath layers of deception. She is depicted as a radiant female figure crowned with a sunburst, holding aloft a lamp or torch that illuminates even the deepest shadows. Her eyes are said to perceive all things without illusion—she sees through darkness and falsehood as easily as daylight pierces fog. In Āsháian theology, she embodies the principle that knowledge is the foundation of all virtue, that a person who understands truth cannot help but align with Āsha, while one who operates in ignorance cannot help but stumble into Druj. She is revered by scholars, astronomers, physicians, and all those who pursue understanding as a form of spiritual practice. Where [[affiliation-ataros|Ātáröš]] is the fire that transforms and purifies through heat, Khóršádrä is the light that shows things as they truly are—the two are complementary aspects of divine revelation.

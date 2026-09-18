@@ -12,6 +12,7 @@ shortcode: kalavrata
 type: affiliation
 subType: faithtradition
 data:
+  banner: faithbnr
   templatePriority: null
   demonym: null
   epithet: The Gatekeeper of Death
@@ -58,7 +59,6 @@ data:
   relations:
     varakpnthn: aligned
 packFolder: pantheonsvarnaka
-banner: faithbnr
 ---
 
 ## Kālavrata — The Gatekeeper of Death

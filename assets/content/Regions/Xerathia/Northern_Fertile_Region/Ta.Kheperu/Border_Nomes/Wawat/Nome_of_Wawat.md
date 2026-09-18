@@ -1,13 +1,13 @@
 ---
 description: "The southern gold-road; mines, caravan-stations, and tribute-collection — one of the border nomes of Ta'Kheperu."
 type: affiliation
-banner: takheperubnr
 name:
   full: The Nome of Wawat
   aliases: []
 shortcode: nomewawat
 subType: polity
 data:
+  banner: takheperubnr
   templatePriority: null
   governance:
     model: monarchy

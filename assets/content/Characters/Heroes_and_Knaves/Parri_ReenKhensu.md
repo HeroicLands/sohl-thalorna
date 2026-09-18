@@ -13,10 +13,10 @@ name:
   aliases:
     - Parri ReenKhensu
 packFolder: northernfertileregiontakheperu
-banner: takheperubnr
 shortcode: parirnkhns
 type: being
 data:
+  banner: takheperubnr
   icon: sohl-none-icon-person
   portrait: parirnkhns
   templatePriority: null

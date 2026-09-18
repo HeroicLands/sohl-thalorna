@@ -6,6 +6,7 @@ tags:
 type: affiliation
 subType: faithtradition
 data:
+  banner: faithbnr
   icon: lusinia
   templatePriority: null
   demonym: null
@@ -71,7 +72,6 @@ name:
     - Lúsinía
 shortcode: lusinia
 packFolder: pantheonsaureldian
-banner: faithbnr
 ---
 
 Goddess of life, earth, and creation. Lúsinía spins the fabric of existence and nurtures all living beings, from the smallest seed to the mightiest beast.

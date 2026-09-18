@@ -12,10 +12,10 @@ name:
   aliases:
     - Hathura Isefré
 packFolder: northernfertileregiontakheperu
-banner: takheperubnr
 shortcode: hathurasfr
 type: being
 data:
+  banner: takheperubnr
   icon: sohl-none-icon-person
   portrait: hathurasfr
   templatePriority: null

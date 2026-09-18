@@ -11,9 +11,9 @@ name:
   aliases: []
 packFolder: midhalionvylaria
 shortcode: cibelasrnt
-banner: tamzirbnr
 type: being
 data:
+  banner: tamzirbnr
   icon: sohl-none-icon-person
   portrait: cibelasrnt
   templatePriority: null

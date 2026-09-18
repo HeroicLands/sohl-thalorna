@@ -5,6 +5,7 @@ description: "Nome capital of Khenet-Ta."
 type: place
 subType: settlement
 data:
+  banner: takheperubnr
   demonym: null
   lore: []
   parents:
@@ -13,7 +14,6 @@ data:
 name:
   full: Khenet-Ta
   aliases: []
-banner: takheperubnr
 shortcode: khenetta
 packFolder: upperrivernomes
 ---

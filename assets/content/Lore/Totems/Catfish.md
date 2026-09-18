@@ -11,8 +11,8 @@ name:
     - Catfish Totem
 shortcode: catfishttm
 packFolder: loretotems
-banner: creaturebnr
 data:
+  banner: creaturebnr
   icon: catfish
 ---
 

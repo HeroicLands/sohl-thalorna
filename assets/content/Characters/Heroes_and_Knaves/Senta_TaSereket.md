@@ -13,10 +13,10 @@ name:
     - Sênta TaSereket
     - Senta TaSereket
 packFolder: northernfertileregiontakheperu
-banner: takheperubnr
 shortcode: sentatsrkt
 type: being
 data:
+  banner: takheperubnr
   icon: sohl-none-icon-person
   portrait: sentatsrkt
   templatePriority: null

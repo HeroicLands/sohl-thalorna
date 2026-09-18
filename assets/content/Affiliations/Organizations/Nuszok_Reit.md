@@ -15,6 +15,7 @@ shortcode: nuszokreit
 type: affiliation
 subType: faithtradition
 data:
+  banner: faithbnr
   templatePriority: null
   demonym: null
   epithet: null
@@ -60,7 +61,6 @@ data:
     yokveng: aligned
     tngvkvnlei: nemesis
 packFolder: organizations
-banner: faithbnr
 ---
 
 - **Type:** Nihilistic apocalyptic cult

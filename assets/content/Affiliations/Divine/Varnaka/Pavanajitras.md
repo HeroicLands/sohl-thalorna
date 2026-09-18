@@ -14,6 +14,7 @@ shortcode: pavanajitras
 type: affiliation
 subType: faithtradition
 data:
+  banner: faithbnr
   templatePriority: null
   demonym: null
   epithet: The Wandering Wind
@@ -58,7 +59,6 @@ data:
   relations:
     varakpnthn: aligned
 packFolder: pantheonsvarnaka
-banner: faithbnr
 ---
 
 ## Pavanajitras — The Wandering Wind

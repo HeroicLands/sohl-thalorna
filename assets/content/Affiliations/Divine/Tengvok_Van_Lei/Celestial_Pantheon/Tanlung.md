@@ -15,6 +15,7 @@ shortcode: tanlung
 type: affiliation
 subType: faithtradition
 data:
+  banner: faithbnr
   templatePriority: null
   demonym: null
   epithet: The First Classifier
@@ -125,7 +126,6 @@ data:
   relations:
     tanvurempr: aligned
 packFolder: celestialpantheon
-banner: faithbnr
 ---
 
 ## Tānlüng — The First Classifier

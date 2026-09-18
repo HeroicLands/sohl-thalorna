@@ -12,6 +12,7 @@ shortcode: arldnpnthn
 type: affiliation
 subType: faithtradition
 data:
+  banner: pantheonbnr
   templatePriority: null
   demonym: null
   epithet: null
@@ -81,7 +82,6 @@ data:
   parents: []
   relations: {}
 packFolder: pantheonsaureldian
-banner: pantheonbnr
 ---
 
 **Pronunciation:** _Aw-REL-dee-ahn_

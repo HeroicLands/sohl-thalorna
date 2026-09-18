@@ -1,13 +1,13 @@
 ---
 description: "The sea-margin; salt-pans, natron flats, and the curing of the lesser villages' catch — one of the delta nomes of Ta'Kheperu."
 type: affiliation
-banner: takheperubnr
 name:
   full: The Nome of Tjaru
   aliases: []
 shortcode: nometjaru
 subType: polity
 data:
+  banner: takheperubnr
   templatePriority: null
   governance:
     model: monarchy

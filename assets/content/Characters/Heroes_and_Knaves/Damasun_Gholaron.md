@@ -12,9 +12,9 @@ name:
     - Parma
 packFolder: helladhelionis
 shortcode: damsnghlrn
-banner: tamzirbnr
 type: being
 data:
+  banner: tamzirbnr
   icon: sohl-none-icon-person
   portrait: damsnghlrn
   templatePriority: null

@@ -11,6 +11,7 @@ shortcode: vorjikjek
 type: affiliation
 subType: faithtradition
 data:
+  banner: faithbnr
   templatePriority: null
   demonym: null
   epithet: The Lord of Fire
@@ -121,7 +122,6 @@ data:
   relations:
     tngvkvnlei: aligned
 packFolder: elementallords
-banner: faithbnr
 ---
 
 ## Vōrjīk Jëk — The Lord of Fire

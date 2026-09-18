@@ -1,7 +1,6 @@
 ---
 description: "The vast central nome surrounding the imperial city of Wasetkara — seat of the Per-Aá, home of the central bureaucracy and the greatest temples, and site of the royal necropolis; not one of a class but a single enormous province in its own right."
 type: affiliation
-banner: takheperubnr
 name:
   full: The Capital Nome
   aliases:
@@ -10,6 +9,7 @@ name:
 shortcode: capitalnom
 subType: polity
 data:
+  banner: takheperubnr
   templatePriority: null
   demonym: Kheperi
   epithet: null

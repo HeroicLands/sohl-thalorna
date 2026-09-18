@@ -14,10 +14,10 @@ name:
     - Whispers
     - The Dancing Shadow
 packFolder: northernfertileregiontakheperu
-banner: takheperubnr
 shortcode: isaretkskr
 type: being
 data:
+  banner: takheperubnr
   icon: sohl-none-icon-person
   portrait: isaretkskr
   templatePriority: null

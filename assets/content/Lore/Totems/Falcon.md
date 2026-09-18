@@ -11,8 +11,8 @@ name:
     - Falcon Totem
 shortcode: falconttm
 packFolder: loretotems
-banner: creaturebnr
 data:
+  banner: creaturebnr
   icon: falcon
 ---
 

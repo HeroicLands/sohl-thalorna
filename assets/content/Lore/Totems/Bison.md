@@ -11,8 +11,8 @@ name:
     - Bison Totem
 shortcode: bisonttm
 packFolder: loretotems
-banner: creaturebnr
 data:
+  banner: creaturebnr
   icon: bison
 ---
 

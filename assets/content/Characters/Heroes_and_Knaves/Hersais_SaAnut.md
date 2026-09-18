@@ -13,10 +13,10 @@ name:
     - Hersaîs SaAnut
     - Hersais SaAnut
 packFolder: northernfertileregiontakheperu
-banner: takheperubnr
 shortcode: hersaisant
 type: being
 data:
+  banner: takheperubnr
   icon: sohl-none-icon-person
   portrait: hersaisant
   templatePriority: null

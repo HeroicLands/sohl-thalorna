@@ -15,6 +15,7 @@ shortcode: agnipantha
 type: affiliation
 subType: faithtradition
 data:
+  banner: faithbnr
   templatePriority: null
   demonym: null
   epithet: The Path of the Flame
@@ -81,7 +82,6 @@ data:
   relations:
     varakpnthn: aligned
 packFolder: pantheonsvarnaka
-banner: faithbnr
 ---
 
 ## Agnī-panthā — The Path of the Flame

@@ -11,9 +11,9 @@ name:
   aliases: []
 packFolder: midhalionvylaria
 shortcode: lucernsrnt
-banner: tamzirbnr
 type: being
 data:
+  banner: tamzirbnr
   icon: sohl-none-icon-person
   portrait: lucernsrnt
   templatePriority: null

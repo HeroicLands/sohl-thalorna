@@ -11,8 +11,8 @@ name:
     - Sheep Totem
 shortcode: sheepttm
 packFolder: loretotems
-banner: creaturebnr
 data:
+  banner: creaturebnr
   icon: sheep
 ---
 

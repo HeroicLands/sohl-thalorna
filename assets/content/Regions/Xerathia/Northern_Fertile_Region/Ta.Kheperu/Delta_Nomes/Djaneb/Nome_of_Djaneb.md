@@ -1,13 +1,13 @@
 ---
 description: "Eastern delta port; salt-fish, curing-houses, and the trade road to Bethua — one of the delta nomes of Ta'Kheperu."
 type: affiliation
-banner: takheperubnr
 name:
   full: The Nome of Djaneb
   aliases: []
 shortcode: nomedjaneb
 subType: polity
 data:
+  banner: takheperubnr
   templatePriority: null
   governance:
     model: monarchy

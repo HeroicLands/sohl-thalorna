@@ -11,8 +11,8 @@ name:
     - Goose Totem
 shortcode: goosettm
 packFolder: loretotems
-banner: creaturebnr
 data:
+  banner: creaturebnr
   icon: goose
 ---
 

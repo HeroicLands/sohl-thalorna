@@ -14,6 +14,7 @@ shortcode: trimurtisampradaya
 type: affiliation
 subType: faithtradition
 data:
+  banner: faithbnr
   templatePriority: null
   demonym: null
   epithet: The Tradition of the Three Forms
@@ -82,7 +83,6 @@ data:
   relations:
     varakpnthn: aligned
 packFolder: pantheonsvarnaka
-banner: faithbnr
 ---
 
 ## Trimūrti-sampradāya — The Tradition of the Three Forms

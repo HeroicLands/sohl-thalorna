@@ -6,6 +6,7 @@ tags:
 type: affiliation
 subType: arcanetradition
 data:
+  banner: takheperubnr
   icon: rensesh
   templatePriority: null
   demonym: null
@@ -85,7 +86,6 @@ name:
     - House of the Name
     - The House of Name
 shortcode: rensesh
-banner: takheperubnr
 packFolder: khemenuhekau
 ---
 

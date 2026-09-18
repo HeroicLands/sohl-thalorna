@@ -12,6 +12,7 @@ name:
     - The Ministry of Final Account
 shortcode: vensokzhuk
 data:
+  banner: faithbnr
   templatePriority: null
   demonym: null
   epithet: The Chief Auditor of Souls
@@ -120,7 +121,6 @@ data:
   relations:
     tanvurempr: aligned
 packFolder: celestialpantheon
-banner: faithbnr
 ---
 
 ## Vënsōk Zhük — The Chief Auditor of Souls
