@@ -6,6 +6,7 @@ tags:
 type: affiliation
 subType: faithtradition
 data:
+  banner: takheperubnr
   templatePriority: null
   demonym: null
   epithet: The Cobra-Goddess
@@ -70,7 +71,6 @@ name:
   aliases:
     - Wadjit, The Cobra-Goddess
 shortcode: wadjit
-banner: takheperubnr
 packFolder: pantheonskemetian
 ---
 

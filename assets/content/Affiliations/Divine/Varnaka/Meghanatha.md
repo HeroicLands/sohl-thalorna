@@ -12,6 +12,7 @@ shortcode: meghanatha
 type: affiliation
 subType: faithtradition
 data:
+  banner: faithbnr
   templatePriority: null
   demonym: null
   epithet: Lord of Thunder
@@ -59,7 +60,6 @@ data:
   relations:
     varakpnthn: aligned
 packFolder: pantheonsvarnaka
-banner: faithbnr
 ---
 
 ## Meghanātha — Lord of Thunder

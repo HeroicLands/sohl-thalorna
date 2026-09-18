@@ -1,13 +1,13 @@
 ---
 description: "A small, devout nome of healing-shrines and herb-gardens — one of the upper-river nomes of Ta'Kheperu."
 type: affiliation
-banner: takheperubnr
 name:
   full: The Nome of Per-Hût
   aliases: []
 shortcode: nomeperhut
 subType: polity
 data:
+  banner: takheperubnr
   templatePriority: null
   governance:
     model: monarchy

@@ -14,6 +14,7 @@ shortcode: vyalendravada
 type: affiliation
 subType: faithtradition
 data:
+  banner: faithbnr
   templatePriority: null
   demonym: null
   epithet: The Doctrine of Vyālendra
@@ -82,7 +83,6 @@ data:
   relations:
     varakpnthn: aligned
 packFolder: pantheonsvarnaka
-banner: faithbnr
 ---
 
 ## Vyālendravāda — The Doctrine of Vyālendra

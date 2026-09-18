@@ -12,6 +12,7 @@ shortcode: vyalendra
 type: affiliation
 subType: faithtradition
 data:
+  banner: faithbnr
   templatePriority: null
   demonym: null
   epithet: The Shaper of Worlds
@@ -57,7 +58,6 @@ data:
   relations:
     varakpnthn: aligned
 packFolder: pantheonsvarnaka
-banner: faithbnr
 ---
 
 ## Vyālendra — The Shaper of Worlds

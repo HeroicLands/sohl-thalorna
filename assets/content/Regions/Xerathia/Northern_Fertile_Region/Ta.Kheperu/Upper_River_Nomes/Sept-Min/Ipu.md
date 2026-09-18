@@ -5,6 +5,7 @@ description: "Nome capital of Sept-Min."
 type: place
 subType: settlement
 data:
+  banner: takheperubnr
   demonym: null
   lore: []
   parents:
@@ -13,7 +14,6 @@ data:
 name:
   full: Ipu
   aliases: []
-banner: takheperubnr
 shortcode: ipu
 packFolder: upperrivernomes
 ---

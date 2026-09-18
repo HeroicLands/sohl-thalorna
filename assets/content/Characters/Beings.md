@@ -7,7 +7,8 @@ subType: reference
 shortcode: being
 tags:
 description: Every being across the lands of Thalorna and beyond — people, beasts, spirits, and monsters.
-banner: characterbnr
+data:
+  banner: characterbnr
 ---
 
 Every being across the lands of Thalorna and beyond: the people whose choices shape the world's ongoing history, and the beasts, spirits, and monsters that share it with them.

@@ -12,10 +12,10 @@ name:
   home: ankhsetun
   aliases: []
 packFolder: northernfertileregiontakheperu
-banner: takheperubnr
 shortcode: shebsthtms
 type: being
 data:
+  banner: takheperubnr
   icon: sohl-none-icon-person
   portrait: shebsthtms
   templatePriority: null

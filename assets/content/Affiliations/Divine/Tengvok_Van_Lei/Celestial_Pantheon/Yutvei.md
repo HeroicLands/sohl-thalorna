@@ -12,6 +12,7 @@ shortcode: yutvei
 type: affiliation
 subType: faithtradition
 data:
+  banner: faithbnr
   templatePriority: null
   demonym: null
   epithet: The Keeper of the Jade Seal
@@ -122,7 +123,6 @@ data:
   relations:
     tanvurempr: aligned
 packFolder: celestialpantheon
-banner: faithbnr
 ---
 
 ## Yütvëi — The Keeper of the Jade Seal

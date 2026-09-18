@@ -1,13 +1,13 @@
 ---
 description: "Eastern desert wells and quarry-roads; a dry, sun-burnt garrison nome — one of the border nomes of Ta'Kheperu."
 type: affiliation
-banner: takheperubnr
 name:
   full: The Nome of Iabet-Heqa
   aliases: []
 shortcode: nomeiabeth
 subType: polity
 data:
+  banner: takheperubnr
   templatePriority: null
   governance:
     model: monarchy

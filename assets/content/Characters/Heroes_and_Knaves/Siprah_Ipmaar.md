@@ -14,10 +14,10 @@ name:
     - Siprah Ipmaâr
     - Siprah Ipmaar
 packFolder: northernfertileregiontakheperu
-banner: takheperubnr
 shortcode: siprahipmr
 type: being
 data:
+  banner: takheperubnr
   icon: sohl-none-icon-person
   portrait: siprahipmr
   templatePriority: null

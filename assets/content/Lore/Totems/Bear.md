@@ -11,8 +11,8 @@ name:
     - Bear Totem
 shortcode: bearttm
 packFolder: loretotems
-banner: creaturebnr
 data:
+  banner: creaturebnr
   icon: bear
 ---
 

@@ -7,6 +7,7 @@ description: "Vrystwald road bandits—brutal, desperate men held together by fe
 type: affiliation
 subType: venture
 data:
+  banner: companybnr
   templatePriority: null
   demonym: null
   epithet: null
@@ -92,7 +93,6 @@ name:
   full: The Blackpine Wolves
   aliases: []
 shortcode: blckpnwlvs
-banner: companybnr
 packFolder: politiescompanies
 ---
 

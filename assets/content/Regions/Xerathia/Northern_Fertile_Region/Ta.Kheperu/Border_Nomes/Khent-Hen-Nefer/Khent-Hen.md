@@ -5,6 +5,7 @@ description: "Nome capital of Khent-Hen-Nefer."
 type: place
 subType: settlement
 data:
+  banner: takheperubnr
   demonym: null
   lore: []
   parents:
@@ -13,7 +14,6 @@ data:
 name:
   full: Khent-Hen
   aliases: []
-banner: takheperubnr
 shortcode: khenthen
 packFolder: bordernomes
 ---

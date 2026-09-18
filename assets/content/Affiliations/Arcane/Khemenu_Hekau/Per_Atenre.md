@@ -6,6 +6,7 @@ tags:
 type: affiliation
 subType: arcanetradition
 data:
+  banner: takheperubnr
   icon: atenre
   templatePriority: null
   demonym: null
@@ -81,7 +82,6 @@ name:
     - House of the Disk
     - The House of Sun
 shortcode: atenre
-banner: takheperubnr
 packFolder: khemenuhekau
 ---
 

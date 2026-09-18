@@ -5,6 +5,7 @@ description: "Nome capital of Ta-Wer."
 type: place
 subType: settlement
 data:
+  banner: takheperubnr
   demonym: null
   lore: []
   parents:
@@ -13,7 +14,6 @@ data:
 name:
   full: Tjenu
   aliases: []
-banner: takheperubnr
 shortcode: tjenu
 packFolder: upperrivernomes
 ---

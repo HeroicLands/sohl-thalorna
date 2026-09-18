@@ -11,8 +11,8 @@ name:
     - Jaguar Totem
 shortcode: jaguarttm
 packFolder: loretotems
-banner: creaturebnr
 data:
+  banner: creaturebnr
   icon: jaguar
 ---
 

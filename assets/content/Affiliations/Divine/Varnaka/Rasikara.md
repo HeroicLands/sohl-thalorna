@@ -13,6 +13,7 @@ shortcode: rasikara
 type: affiliation
 subType: faithtradition
 data:
+  banner: faithbnr
   templatePriority: null
   demonym: null
   epithet: The Flame of Renewal
@@ -58,7 +59,6 @@ data:
   relations:
     varakpnthn: aligned
 packFolder: pantheonsvarnaka
-banner: faithbnr
 ---
 
 ## Rásikara — The Flame of Renewal

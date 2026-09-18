@@ -6,6 +6,7 @@ description: "Fortress Town"
 type: place
 subType: settlement
 data:
+  banner: takheperubnr
   demonym: null
   lore: []
   parents:
@@ -14,7 +15,6 @@ data:
 name:
   full: Behen
   aliases: []
-banner: takheperubnr
 shortcode: behen
 packFolder: taresuheka
 ---

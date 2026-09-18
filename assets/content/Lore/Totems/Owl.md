@@ -11,8 +11,8 @@ name:
     - Owl Totem
 shortcode: owlttm
 packFolder: loretotems
-banner: creaturebnr
 data:
+  banner: creaturebnr
   icon: owl
 ---
 

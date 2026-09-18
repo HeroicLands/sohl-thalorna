@@ -5,6 +5,7 @@ description: "Nome capital of Henen-Nesut."
 type: place
 subType: settlement
 data:
+  banner: takheperubnr
   demonym: null
   lore: []
   parents:
@@ -13,7 +14,6 @@ data:
 name:
   full: Henen-Nesut
   aliases: []
-banner: takheperubnr
 shortcode: henennesut
 packFolder: upperrivernomes
 ---

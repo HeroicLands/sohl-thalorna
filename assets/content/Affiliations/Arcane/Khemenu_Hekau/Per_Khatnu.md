@@ -6,6 +6,7 @@ tags:
 type: affiliation
 subType: arcanetradition
 data:
+  banner: takheperubnr
   icon: khatnu
   templatePriority: null
   demonym: null
@@ -84,7 +85,6 @@ name:
     - House of the Body
     - The House of Form
 shortcode: khatnu
-banner: takheperubnr
 packFolder: khemenuhekau
 ---
 

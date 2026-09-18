@@ -5,6 +5,7 @@ description: "Nome capital of Behdet-Resu."
 type: place
 subType: settlement
 data:
+  banner: takheperubnr
   demonym: null
   lore: []
   parents:
@@ -13,7 +14,6 @@ data:
 name:
   full: Behdet
   aliases: []
-banner: takheperubnr
 shortcode: behdet
 packFolder: bordernomes
 ---

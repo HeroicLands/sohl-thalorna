@@ -10,10 +10,10 @@ name:
   clan: Khalîdra
   aliases: []
 packFolder: helladhelionis
-banner: tamzirbnr
 shortcode: isarakhldr
 type: being
 data:
+  banner: tamzirbnr
   icon: sohl-none-icon-person
   portrait: isarakhldr
   templatePriority: null

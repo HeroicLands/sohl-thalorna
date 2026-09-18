@@ -5,6 +5,7 @@ description: "Nome capital of Wadj-Mu."
 type: place
 subType: settlement
 data:
+  banner: takheperubnr
   demonym: null
   lore: []
   parents:
@@ -13,7 +14,6 @@ data:
 name:
   full: Wadj-Mu
   aliases: []
-banner: takheperubnr
 shortcode: wadjmu
 packFolder: upperrivernomes
 ---

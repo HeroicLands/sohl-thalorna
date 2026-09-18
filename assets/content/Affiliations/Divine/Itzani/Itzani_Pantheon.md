@@ -12,6 +12,7 @@ shortcode: itzanpnthn
 type: affiliation
 subType: faithtradition
 data:
+  banner: pantheonbnr
   templatePriority: null
   demonym: null
   epithet: null
@@ -123,7 +124,6 @@ data:
   parents: []
   relations: {}
 packFolder: pantheonitzani
-banner: pantheonbnr
 ---
 
 ## The Itzáni Faith

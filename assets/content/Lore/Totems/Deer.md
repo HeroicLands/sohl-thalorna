@@ -11,8 +11,8 @@ name:
     - Deer Totem
 shortcode: deerttm
 packFolder: loretotems
-banner: creaturebnr
 data:
+  banner: creaturebnr
   icon: deer
 ---
 

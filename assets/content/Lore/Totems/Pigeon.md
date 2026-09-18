@@ -11,8 +11,8 @@ name:
     - Pigeon Totem
 shortcode: pigeonttm
 packFolder: loretotems
-banner: creaturebnr
 data:
+  banner: creaturebnr
   icon: pigeon
 ---
 

@@ -13,6 +13,7 @@ shortcode: mahajaya
 type: affiliation
 subType: faithtradition
 data:
+  banner: faithbnr
   templatePriority: null
   demonym: null
   epithet: The Eternal Preserver
@@ -57,7 +58,6 @@ data:
   relations:
     varakpnthn: aligned
 packFolder: pantheonsvarnaka
-banner: faithbnr
 ---
 
 ## Mahájaya — The Eternal Preserver

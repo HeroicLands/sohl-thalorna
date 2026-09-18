@@ -11,8 +11,8 @@ name:
     - Turkey Totem
 shortcode: turkeyttm
 packFolder: loretotems
-banner: creaturebnr
 data:
+  banner: creaturebnr
   icon: turkey
 ---
 

@@ -6,12 +6,12 @@ tags:
 type: place
 subType: settlement
 data:
+  banner: takheperubnr
   demonym: null
   lore: []
   parents:
     - takheperurgn
   population: null
-banner: takheperubnr
 description: "The sacred midstream island at the heart of Wasetkara — held to be the primeval mound where creation began, walled in white limestone, and bearing the two poles of imperial power: the Great Temple of Rā and the palace of the Per-Aá, with the great flood-gauge called the Measure."
 name:
   full: Iat-Tepy

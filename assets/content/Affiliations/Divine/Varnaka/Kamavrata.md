@@ -13,6 +13,7 @@ shortcode: kamavrata
 type: affiliation
 subType: faithtradition
 data:
+  banner: faithbnr
   templatePriority: null
   demonym: null
   epithet: The Celestial Lover
@@ -57,7 +58,6 @@ data:
   relations:
     varakpnthn: aligned
 packFolder: pantheonsvarnaka
-banner: faithbnr
 ---
 
 ## Kāmavrata — The Celestial Lover

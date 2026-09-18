@@ -12,10 +12,10 @@ name:
   aliases:
     - Akhrem Reenfré
 packFolder: northernfertileregiontakheperu
-banner: takheperubnr
 shortcode: akhremrnfr
 type: being
 data:
+  banner: takheperubnr
   icon: sohl-none-icon-person
   portrait: akhremrnfr
   templatePriority: null

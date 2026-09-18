@@ -11,8 +11,8 @@ name:
     - Sea Bass Totem
 shortcode: seabassttm
 packFolder: loretotems
-banner: creaturebnr
 data:
+  banner: creaturebnr
   icon: seabass
 ---
 

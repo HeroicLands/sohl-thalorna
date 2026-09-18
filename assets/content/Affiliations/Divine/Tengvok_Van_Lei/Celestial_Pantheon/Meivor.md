@@ -12,6 +12,7 @@ name:
     - The Bureau of Night Counsel
 shortcode: meivor
 data:
+  banner: faithbnr
   templatePriority: null
   demonym: null
   epithet: The Minister of Dreams
@@ -120,7 +121,6 @@ data:
   relations:
     tanvurempr: aligned
 packFolder: celestialpantheon
-banner: faithbnr
 ---
 
 ## Mëivōr — The Minister of Dreams

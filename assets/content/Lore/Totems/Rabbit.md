@@ -11,8 +11,8 @@ name:
     - Rabbit Totem
 shortcode: rabbitttm
 packFolder: loretotems
-banner: creaturebnr
 data:
+  banner: creaturebnr
   icon: rabbit
 ---
 

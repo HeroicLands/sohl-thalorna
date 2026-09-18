@@ -12,10 +12,10 @@ name:
   aliases:
     - Mertep AnkhKhes
 packFolder: northernfertileregiontakheperu
-banner: takheperubnr
 shortcode: mrtpnkhkhs
 type: being
 data:
+  banner: takheperubnr
   icon: sohl-none-icon-person
   portrait: mrtpnkhkhs
   templatePriority: null

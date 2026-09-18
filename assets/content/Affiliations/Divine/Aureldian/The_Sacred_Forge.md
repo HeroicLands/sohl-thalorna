@@ -12,6 +12,7 @@ shortcode: sacredforge
 type: affiliation
 subType: faithtradition
 data:
+  banner: faithbnr
   icon: sacredforge
   templatePriority: null
   demonym: null
@@ -71,7 +72,6 @@ data:
   relations:
     arldnpnthn: aligned
 packFolder: pantheonsaureldian
-banner: faithbnr
 ---
 
 - **Deity:** Vúlcan — _The Forge-Lord_

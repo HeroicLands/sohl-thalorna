@@ -5,6 +5,7 @@ description: "Nome capital of Djaneb."
 type: place
 subType: settlement
 data:
+  banner: takheperubnr
   demonym: null
   lore: []
   parents:
@@ -13,7 +14,6 @@ data:
 name:
   full: Djaneb
   aliases: []
-banner: takheperubnr
 shortcode: djaneb
 packFolder: deltanomes
 ---

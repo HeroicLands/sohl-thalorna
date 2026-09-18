@@ -5,6 +5,7 @@ description: "Nome capital of Iat-Hemet."
 type: place
 subType: settlement
 data:
+  banner: takheperubnr
   demonym: null
   lore: []
   parents:
@@ -13,7 +14,6 @@ data:
 name:
   full: Iat-Hemet
   aliases: []
-banner: takheperubnr
 shortcode: iathemet
 packFolder: upperrivernomes
 ---

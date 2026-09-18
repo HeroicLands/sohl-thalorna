@@ -1,13 +1,13 @@
 ---
 description: '"Green Waters" — marshy floodbasin, flax and waterfowl, the wettest of the upper nomes — one of the upper-river nomes of Ta''Kheperu.'
 type: affiliation
-banner: takheperubnr
 name:
   full: The Nome of Wadj-Mu
   aliases: []
 shortcode: nomewadjmu
 subType: polity
 data:
+  banner: takheperubnr
   templatePriority: null
   governance:
     model: monarchy

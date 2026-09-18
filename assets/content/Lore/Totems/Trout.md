@@ -11,8 +11,8 @@ name:
     - Trout Totem
 shortcode: troutttm
 packFolder: loretotems
-banner: creaturebnr
 data:
+  banner: creaturebnr
   icon: trout
 ---
 

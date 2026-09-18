@@ -7,6 +7,7 @@ description: "River Town (Grain Port)"
 type: place
 subType: settlement
 data:
+  banner: takheperubnr
   demonym: null
   lore: []
   parents:
@@ -15,7 +16,6 @@ data:
 name:
   full: Meru-Hotep
   aliases: []
-banner: takheperubnr
 shortcode: meruhotep
 packFolder: ankhsetun
 ---

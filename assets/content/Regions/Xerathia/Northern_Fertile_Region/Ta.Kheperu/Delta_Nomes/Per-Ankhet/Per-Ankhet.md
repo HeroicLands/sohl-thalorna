@@ -6,6 +6,7 @@ description: "City (Port)"
 type: place
 subType: settlement
 data:
+  banner: takheperubnr
   demonym: null
   lore: []
   parents:
@@ -14,7 +15,6 @@ data:
 name:
   full: Per-Ankhet
   aliases: []
-banner: takheperubnr
 shortcode: perankhet
 packFolder: perankhet
 ---

@@ -13,10 +13,10 @@ name:
   aliases:
     - Shenur Bapata
 packFolder: northernfertileregiontakheperu
-banner: takheperubnr
 shortcode: shenurbapt
 type: being
 data:
+  banner: takheperubnr
   icon: sohl-none-icon-person
   portrait: shenurbapt
   templatePriority: null

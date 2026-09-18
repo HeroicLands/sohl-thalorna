@@ -13,10 +13,10 @@ name:
     - Tamiyra Jâut
     - Tamiyra Jaut
 packFolder: northernfertileregiontakheperu
-banner: takheperubnr
 shortcode: tamiyrajat
 type: being
 data:
+  banner: takheperubnr
   icon: sohl-none-icon-person
   portrait: tamiyrajat
   templatePriority: null

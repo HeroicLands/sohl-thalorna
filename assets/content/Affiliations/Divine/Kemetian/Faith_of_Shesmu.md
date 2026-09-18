@@ -6,6 +6,7 @@ tags:
 type: affiliation
 subType: faithtradition
 data:
+  banner: takheperubnr
   templatePriority: null
   demonym: null
   epithet: Patron of the Hunt
@@ -74,7 +75,6 @@ name:
   aliases:
     - Shesmu, Patron of the Hunt
 shortcode: shesmu
-banner: takheperubnr
 packFolder: pantheonskemetian
 ---
 

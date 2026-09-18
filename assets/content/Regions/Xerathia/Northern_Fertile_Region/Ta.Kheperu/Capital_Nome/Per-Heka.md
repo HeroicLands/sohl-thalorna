@@ -6,6 +6,7 @@ description: "Temple-Estate Town"
 type: place
 subType: settlement
 data:
+  banner: takheperubnr
   demonym: null
   lore: []
   parents:
@@ -14,7 +15,6 @@ data:
 name:
   full: Per-Heka
   aliases: []
-banner: takheperubnr
 shortcode: perheka
 packFolder: capitalnome
 ---

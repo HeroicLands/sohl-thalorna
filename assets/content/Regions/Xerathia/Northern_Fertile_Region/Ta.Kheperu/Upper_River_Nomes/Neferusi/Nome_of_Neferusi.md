@@ -1,13 +1,13 @@
 ---
 description: "Stone-quarries and master masons; the temple-workshops that carve the monuments — one of the upper-river nomes of Ta'Kheperu."
 type: affiliation
-banner: takheperubnr
 name:
   full: The Nome of Neferusi
   aliases: []
 shortcode: nomeneferu
 subType: polity
 data:
+  banner: takheperubnr
   templatePriority: null
   governance:
     model: monarchy

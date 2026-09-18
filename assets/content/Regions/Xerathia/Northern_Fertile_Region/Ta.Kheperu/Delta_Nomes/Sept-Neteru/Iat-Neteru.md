@@ -5,6 +5,7 @@ description: "Nome capital of Sept-Neteru."
 type: place
 subType: settlement
 data:
+  banner: takheperubnr
   demonym: null
   lore: []
   parents:
@@ -13,7 +14,6 @@ data:
 name:
   full: Iat-Neteru
   aliases: []
-banner: takheperubnr
 shortcode: iatneteru
 packFolder: deltanomes
 ---

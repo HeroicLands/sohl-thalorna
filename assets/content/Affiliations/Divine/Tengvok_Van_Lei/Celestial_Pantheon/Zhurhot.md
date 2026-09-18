@@ -12,6 +12,7 @@ name:
     - The Bureau of Transformation
 shortcode: zhurhot
 data:
+  banner: faithbnr
   templatePriority: null
   demonym: null
   epithet: The Minister of Fire
@@ -120,7 +121,6 @@ data:
   relations:
     tanvurempr: aligned
 packFolder: celestialpantheon
-banner: faithbnr
 ---
 
 ## Zhürhöt — The Minister of Fire

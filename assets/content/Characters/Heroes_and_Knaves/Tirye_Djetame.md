@@ -12,10 +12,10 @@ name:
   aliases:
     - Tirye Djetamê
 packFolder: northernfertileregiontakheperu
-banner: takheperubnr
 shortcode: tiryedjetm
 type: being
 data:
+  banner: takheperubnr
   icon: sohl-none-icon-person
   portrait: tiryedjetm
   templatePriority: null

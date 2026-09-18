@@ -8,6 +8,7 @@ description: "Byzarian mercenary company of brutal efficiency — willing to tak
 type: affiliation
 subType: venture
 data:
+  banner: companybnr
   templatePriority: null
   demonym: null
   epithet: null
@@ -96,7 +97,6 @@ name:
     - The Iron Wolves
     - Lupi Ferri (Byzarian)
 shortcode: irnwlvscmpny
-banner: companybnr
 ---
 
 _Byzarian: Lupi Ferri_

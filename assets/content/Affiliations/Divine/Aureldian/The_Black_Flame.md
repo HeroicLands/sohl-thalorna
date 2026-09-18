@@ -11,6 +11,7 @@ shortcode: blackflame
 type: affiliation
 subType: faithtradition
 data:
+  banner: faithbnr
   icon: blackflame
   templatePriority: null
   demonym: null
@@ -70,7 +71,6 @@ data:
   relations:
     arldnpnthn: aligned
 packFolder: pantheonsaureldian
-banner: faithbnr
 ---
 
 - **Deity:** Vúlcan — _The Forge-Lord_

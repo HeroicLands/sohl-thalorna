@@ -11,9 +11,9 @@ name:
   aliases: []
 packFolder: ankarisvrystwald
 shortcode: grlfdrthgr
-banner: tamzirbnr
 type: being
 data:
+  banner: tamzirbnr
   icon: sohl-none-icon-person
   portrait: grlfdrthgr
   templatePriority: null

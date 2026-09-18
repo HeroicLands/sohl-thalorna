@@ -5,6 +5,7 @@ description: "Nome capital of Maru-Aten."
 type: place
 subType: settlement
 data:
+  banner: takheperubnr
   demonym: null
   lore: []
   parents:
@@ -13,7 +14,6 @@ data:
 name:
   full: Maru-Aten
   aliases: []
-banner: takheperubnr
 shortcode: maruaten
 packFolder: upperrivernomes
 ---

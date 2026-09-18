@@ -12,6 +12,7 @@ name:
     - The Bureau of Passage
 shortcode: vordok
 data:
+  banner: faithbnr
   templatePriority: null
   demonym: null
   epithet: The Minister of Roads
@@ -120,7 +121,6 @@ data:
   relations:
     tanvurempr: aligned
 packFolder: celestialpantheon
-banner: faithbnr
 ---
 
 ## Vōrdōk — The Minister of Roads

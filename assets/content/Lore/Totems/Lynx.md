@@ -11,8 +11,8 @@ name:
     - Lynx Totem
 shortcode: lynxttm
 packFolder: loretotems
-banner: creaturebnr
 data:
+  banner: creaturebnr
   icon: lynx
 ---
 

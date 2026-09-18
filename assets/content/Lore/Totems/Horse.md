@@ -11,8 +11,8 @@ name:
     - Horse Totem
 shortcode: horsettm
 packFolder: loretotems
-banner: creaturebnr
 data:
+  banner: creaturebnr
   icon: horse
 ---
 

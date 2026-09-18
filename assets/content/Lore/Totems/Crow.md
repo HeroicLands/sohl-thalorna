@@ -11,8 +11,8 @@ name:
     - Crow Totem
 shortcode: crowttm
 packFolder: loretotems
-banner: creaturebnr
 data:
+  banner: creaturebnr
   icon: crow
 ---
 

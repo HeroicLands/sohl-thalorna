@@ -13,10 +13,10 @@ name:
   aliases:
     - Sekhemet Kasekhen
 packFolder: northernfertileregiontakheperu
-banner: takheperubnr
 shortcode: skhmtkskhn
 type: being
 data:
+  banner: takheperubnr
   icon: sohl-none-icon-person
   portrait: skhmtkskhn
   templatePriority: null

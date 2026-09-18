@@ -12,6 +12,7 @@ name:
     - The Bureau of Allocation
 shortcode: fekvor
 data:
+  banner: faithbnr
   templatePriority: null
   demonym: null
   epithet: The Minister of Material Fortune
@@ -120,7 +121,6 @@ data:
   relations:
     tanvurempr: aligned
 packFolder: celestialpantheon
-banner: faithbnr
 ---
 
 ## Fëkvōr — The Minister of Material Fortune

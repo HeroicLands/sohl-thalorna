@@ -12,10 +12,10 @@ name:
   aliases:
     - Pasher Hetremet
 packFolder: northernfertileregiontakheperu
-banner: takheperubnr
 shortcode: pashrhtrmt
 type: being
 data:
+  banner: takheperubnr
   icon: sohl-none-icon-person
   portrait: pashrhtrmt
   templatePriority: null

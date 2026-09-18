@@ -11,8 +11,8 @@ name:
     - Otter Totem
 shortcode: otterttm
 packFolder: loretotems
-banner: creaturebnr
 data:
+  banner: creaturebnr
   icon: otter
 ---
 

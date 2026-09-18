@@ -14,10 +14,10 @@ name:
   aliases:
     - The Scholar of Forgotten Texts
 packFolder: northernfertileregiontakheperu
-banner: takheperubnr
 shortcode: neferetimr
 type: being
 data:
+  banner: takheperubnr
   icon: sohl-none-icon-person
   portrait: neferetimr
   templatePriority: null

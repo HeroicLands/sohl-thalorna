@@ -5,6 +5,7 @@ description: "Nome capital of Imet-Pe."
 type: place
 subType: settlement
 data:
+  banner: takheperubnr
   demonym: null
   lore: []
   parents:
@@ -13,7 +14,6 @@ data:
 name:
   full: Imet
   aliases: []
-banner: takheperubnr
 shortcode: imet
 packFolder: deltanomes
 ---

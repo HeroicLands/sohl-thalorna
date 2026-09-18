@@ -13,10 +13,10 @@ name:
     - Satîya Nebakhet
     - Satiya Nebakhet
 packFolder: northernfertileregiontakheperu
-banner: takheperubnr
 shortcode: satiynbkht
 type: being
 data:
+  banner: takheperubnr
   icon: sohl-none-icon-person
   portrait: satiynbkht
   templatePriority: null

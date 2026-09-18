@@ -12,6 +12,7 @@ shortcode: nkaruthar
 type: affiliation
 subType: faithtradition
 data:
+  banner: faithbnr
   templatePriority: null
   demonym: null
   epithet: The Eternal Flame
@@ -119,7 +120,6 @@ data:
   relations:
     njiayaroho: aligned
 packFolder: pantheonsnkaruthar
-banner: faithbnr
 ---
 
 ## Nkaru'thar: The Eternal Flame

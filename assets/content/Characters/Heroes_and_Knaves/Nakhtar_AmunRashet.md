@@ -13,10 +13,10 @@ name:
     - Nakhtar AmunRâshet
     - Nakhtar AmunRashet
 packFolder: northernfertileregiontakheperu
-banner: takheperubnr
 shortcode: nkhtrmnrsht
 type: being
 data:
+  banner: takheperubnr
   icon: sohl-none-icon-person
   portrait: nkhtrmnrsht
   templatePriority: null

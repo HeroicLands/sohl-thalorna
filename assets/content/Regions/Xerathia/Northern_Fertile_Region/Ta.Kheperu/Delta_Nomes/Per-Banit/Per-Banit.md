@@ -5,6 +5,7 @@ description: "Nome capital of Per-Banit."
 type: place
 subType: settlement
 data:
+  banner: takheperubnr
   demonym: null
   lore: []
   parents:
@@ -13,7 +14,6 @@ data:
 name:
   full: Per-Banit
   aliases: []
-banner: takheperubnr
 shortcode: perbanit
 packFolder: deltanomes
 ---

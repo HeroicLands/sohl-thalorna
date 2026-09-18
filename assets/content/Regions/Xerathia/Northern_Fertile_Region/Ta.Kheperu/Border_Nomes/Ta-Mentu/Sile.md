@@ -5,6 +5,7 @@ description: "Nome capital of Ta-Mentu."
 type: place
 subType: settlement
 data:
+  banner: takheperubnr
   demonym: null
   lore: []
   parents:
@@ -13,7 +14,6 @@ data:
 name:
   full: Sile
   aliases: []
-banner: takheperubnr
 shortcode: sile
 packFolder: bordernomes
 ---

@@ -12,9 +12,9 @@ name:
     - Shâ
 packFolder: midhalionharad
 shortcode: esharumtrz
-banner: tamzirbnr
 type: being
 data:
+  banner: tamzirbnr
   icon: sohl-none-icon-person
   portrait: esharumtrz
   templatePriority: null

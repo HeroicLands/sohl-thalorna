@@ -11,8 +11,8 @@ name:
     - Fox Totem
 shortcode: foxttm
 packFolder: loretotems
-banner: creaturebnr
 data:
+  banner: creaturebnr
   icon: fox
 ---
 

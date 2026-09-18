@@ -1,7 +1,6 @@
 ---
 description: "The wealthiest and most cosmopolitan class of Kheperi nomes — the river-mouth provinces where the great river fans into the sea, controlling the empire's international trade, its finest garden-farmland, and its polyglot ports."
 type: affiliation
-banner: takheperubnr
 name:
   full: The Delta Nomes
   aliases:
@@ -9,6 +8,7 @@ name:
 shortcode: deltanomes
 subType: polity
 data:
+  banner: takheperubnr
   templatePriority: null
   demonym: Kheperi
   epithet: null

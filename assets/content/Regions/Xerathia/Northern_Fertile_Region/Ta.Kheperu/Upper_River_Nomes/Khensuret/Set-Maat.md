@@ -5,6 +5,7 @@ description: "Tomb-Workers' Village (walled)"
 type: place
 subType: settlement
 data:
+  banner: takheperubnr
   demonym: null
   lore: []
   parents:
@@ -14,7 +15,6 @@ name:
   full: Set-Maat
   aliases:
     - Set-Ma'at
-banner: takheperubnr
 shortcode: setmaat
 packFolder: khensuret
 ---

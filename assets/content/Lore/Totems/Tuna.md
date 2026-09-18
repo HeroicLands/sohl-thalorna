@@ -11,8 +11,8 @@ name:
     - Tuna Totem
 shortcode: tunattm
 packFolder: loretotems
-banner: creaturebnr
 data:
+  banner: creaturebnr
   icon: tuna
 ---
 

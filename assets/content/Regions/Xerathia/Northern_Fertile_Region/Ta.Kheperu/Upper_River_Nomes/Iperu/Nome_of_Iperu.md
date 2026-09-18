@@ -1,13 +1,13 @@
 ---
 description: "Sun-temples and wide irrigated wheatland — one of the upper-river nomes of Ta'Kheperu."
 type: affiliation
-banner: takheperubnr
 name:
   full: The Nome of Iperu
   aliases: []
 shortcode: nomeiperu
 subType: polity
 data:
+  banner: takheperubnr
   templatePriority: null
   governance:
     model: monarchy

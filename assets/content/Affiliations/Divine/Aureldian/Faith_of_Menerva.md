@@ -6,6 +6,7 @@ tags:
 type: affiliation
 subType: faithtradition
 data:
+  banner: faithbnr
   icon: menerva
   templatePriority: null
   demonym: null
@@ -78,7 +79,6 @@ name:
     - Ménérva
 shortcode: menerva
 packFolder: pantheonsaureldian
-banner: faithbnr
 ---
 
 Goddess of learning, language, and invention. Ménérva illuminates the minds of scholars, craftsmen, and leaders, guiding them to wisdom.

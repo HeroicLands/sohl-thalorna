@@ -1,13 +1,13 @@
 ---
 description: "Flax fields and the linen-weaving towns whose cloth clothes the empire — one of the delta nomes of Ta'Kheperu."
 type: affiliation
-banner: takheperubnr
 name:
   full: The Nome of Per-Banit
   aliases: []
 shortcode: nomeperban
 subType: polity
 data:
+  banner: takheperubnr
   templatePriority: null
   governance:
     model: monarchy

@@ -11,8 +11,8 @@ name:
     - Snake Totem
 shortcode: snakettm
 packFolder: loretotems
-banner: creaturebnr
 data:
+  banner: creaturebnr
   icon: snake
 ---
 

@@ -11,8 +11,8 @@ name:
     - Hedgehog Totem
 shortcode: hedgehogttm
 packFolder: loretotems
-banner: creaturebnr
 data:
+  banner: creaturebnr
   icon: hedgehog
 ---
 

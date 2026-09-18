@@ -5,6 +5,7 @@ description: "Nome capital of Hut-Sobek."
 type: place
 subType: settlement
 data:
+  banner: takheperubnr
   demonym: null
   lore: []
   parents:
@@ -13,7 +14,6 @@ data:
 name:
   full: Hut-Sobek
   aliases: []
-banner: takheperubnr
 shortcode: hutsobek
 packFolder: deltanomes
 ---

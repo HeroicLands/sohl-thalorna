@@ -13,10 +13,10 @@ name:
     - Renutê Reenfré
     - Renute Reenfre
 packFolder: northernfertileregiontakheperu
-banner: takheperubnr
 shortcode: renuternfr
 type: being
 data:
+  banner: takheperubnr
   icon: sohl-none-icon-person
   portrait: renuternfr
   templatePriority: null

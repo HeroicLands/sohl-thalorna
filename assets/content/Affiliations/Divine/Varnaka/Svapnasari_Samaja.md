@@ -17,6 +17,7 @@ shortcode: svapnasarisamaja
 type: affiliation
 subType: faithtradition
 data:
+  banner: faithbnr
   templatePriority: null
   demonym: null
   epithet: The Assembly of the Dream-Followers
@@ -81,7 +82,6 @@ data:
   relations:
     varakpnthn: aligned
 packFolder: pantheonsvarnaka
-banner: faithbnr
 ---
 
 ## Svapnasāri-samāja — The Assembly of the Dream-Followers

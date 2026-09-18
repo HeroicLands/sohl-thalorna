@@ -11,8 +11,8 @@ name:
     - Whale Totem
 shortcode: whalettm
 packFolder: loretotems
-banner: creaturebnr
 data:
+  banner: creaturebnr
   icon: whale
 ---
 

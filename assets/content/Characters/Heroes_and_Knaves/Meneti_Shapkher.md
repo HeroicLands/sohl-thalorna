@@ -13,10 +13,10 @@ name:
   aliases:
     - Meneti Shapkher
 packFolder: northernfertileregiontakheperu
-banner: takheperubnr
 shortcode: mentshpkhr
 type: being
 data:
+  banner: takheperubnr
   icon: sohl-none-icon-person
   portrait: mentshpkhr
   templatePriority: null

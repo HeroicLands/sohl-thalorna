@@ -1,13 +1,13 @@
 ---
 description: "A river-island fortress-nome at the second cataract; gateway and toll-gate — one of the border nomes of Ta'Kheperu."
 type: affiliation
-banner: takheperubnr
 name:
   full: The Nome of Senmut
   aliases: []
 shortcode: nomesenmut
 subType: polity
 data:
+  banner: takheperubnr
   templatePriority: null
   governance:
     model: monarchy

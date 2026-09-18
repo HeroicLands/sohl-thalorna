@@ -13,10 +13,10 @@ name:
   aliases:
     - Meret-Sebek Hekaamun
 packFolder: northernfertileregiontakheperu
-banner: takheperubnr
 shortcode: mrtsbkhkmn
 type: being
 data:
+  banner: takheperubnr
   icon: sohl-none-icon-person
   portrait: mrtsbkhkmn
   templatePriority: null

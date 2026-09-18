@@ -12,6 +12,7 @@ shortcode: jnanasura
 type: affiliation
 subType: faithtradition
 data:
+  banner: faithbnr
   templatePriority: null
   demonym: null
   epithet: The Radiant Sage
@@ -59,7 +60,6 @@ data:
   relations:
     varakpnthn: aligned
 packFolder: pantheonsvarnaka
-banner: faithbnr
 ---
 
 ## Jñānasūra — The Radiant Sage

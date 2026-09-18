@@ -11,8 +11,8 @@ name:
     - Stag Totem
 shortcode: stagttm
 packFolder: loretotems
-banner: creaturebnr
 data:
+  banner: creaturebnr
   icon: stag
 ---
 

@@ -1,13 +1,13 @@
 ---
 description: "Eastern marsh; the great crocodile cult and the river-beast hunters — one of the delta nomes of Ta'Kheperu."
 type: affiliation
-banner: takheperubnr
 name:
   full: The Nome of Hut-Sobek
   aliases: []
 shortcode: nomehutsob
 subType: polity
 data:
+  banner: takheperubnr
   templatePriority: null
   governance:
     model: monarchy

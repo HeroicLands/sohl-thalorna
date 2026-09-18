@@ -6,6 +6,7 @@ tags:
 type: affiliation
 subType: faithtradition
 data:
+  banner: takheperubnr
   templatePriority: null
   demonym: null
   epithet: Patron of the Hunt
@@ -74,7 +75,6 @@ name:
   aliases:
     - Anhur, Patron of the Hunt
 shortcode: anhur
-banner: takheperubnr
 packFolder: pantheonskemetian
 ---
 

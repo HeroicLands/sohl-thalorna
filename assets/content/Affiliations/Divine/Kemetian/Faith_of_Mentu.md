@@ -6,6 +6,7 @@ tags:
 type: affiliation
 subType: faithtradition
 data:
+  banner: takheperubnr
   templatePriority: null
   demonym: null
   epithet: The War-God
@@ -74,7 +75,6 @@ name:
   aliases:
     - Mentu, The War-God
 shortcode: mentu
-banner: takheperubnr
 packFolder: pantheonskemetian
 ---
 

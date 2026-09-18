@@ -1,13 +1,13 @@
 ---
 description: "Library-temples and astronomers; the calendar-keepers of the middle river — one of the upper-river nomes of Ta'Kheperu."
 type: affiliation
-banner: takheperubnr
 name:
   full: The Nome of Pekhenu
   aliases: []
 shortcode: nomepekhen
 subType: polity
 data:
+  banner: takheperubnr
   templatePriority: null
   governance:
     model: monarchy

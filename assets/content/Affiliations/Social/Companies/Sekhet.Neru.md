@@ -8,6 +8,7 @@ type: affiliation
 packFolder: politiescompanies
 subType: order
 data:
+  banner: takheperubnr
   templatePriority: null
   demonym: null
   epithet: null
@@ -99,7 +100,6 @@ name:
   aliases:
     - The Sacred Hunt of the Khetai
     - The Mighty Ones of the Field
-banner: takheperubnr
 shortcode: sekhetneru
 ---
 

@@ -11,6 +11,7 @@ shortcode: zhutshtlng
 type: affiliation
 subType: faithtradition
 data:
+  banner: faithbnr
   templatePriority: null
   demonym: null
   epithet: The Lord of Water
@@ -121,7 +122,6 @@ data:
   relations:
     tngvkvnlei: aligned
 packFolder: elementallords
-banner: faithbnr
 ---
 
 ## Zhütshüt Lüng — The Lord of Water

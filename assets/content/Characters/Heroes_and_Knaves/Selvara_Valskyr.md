@@ -11,9 +11,9 @@ name:
   aliases: []
 packFolder: aureldiatarvenia
 shortcode: slvrvlskyr
-banner: tamzirbnr
 type: being
 data:
+  banner: tamzirbnr
   icon: sohl-none-icon-person
   portrait: slvrvlskyr
   templatePriority: null

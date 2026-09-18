@@ -5,6 +5,7 @@ description: "Nome capital of Anpet-Khent."
 type: place
 subType: settlement
 data:
+  banner: takheperubnr
   demonym: null
   lore: []
   parents:
@@ -13,7 +14,6 @@ data:
 name:
   full: Anpet
   aliases: []
-banner: takheperubnr
 shortcode: anpet
 packFolder: upperrivernomes
 ---

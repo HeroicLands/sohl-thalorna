@@ -9,6 +9,7 @@ shortcode: kheperlng
 type: skill
 subType: language
 data:
+  banner: takheperubnr
   icon: sohl-none-icon-speaking
   templatePriority: null
 sohl:
@@ -23,7 +24,6 @@ packFolder: language
 flags:
   "sohl-thalorna":
     lang_family: Kheperi (isolate)
-banner: takheperubnr
 ---
 
 Kheperi is a tongue of the Kheperi (isolate) family. Fluency measures the sophistication of expression in Kheperi, from the halting phrases of a traveler to the nuanced and learned discourse of a native speaker. As with all specific languages, this skill inherits its mechanics from the general [[sohl-none-docskill-lang|Language]] skill.

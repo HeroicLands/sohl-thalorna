@@ -5,6 +5,7 @@ description: "Nome capital of Khaset-Imnt."
 type: place
 subType: settlement
 data:
+  banner: takheperubnr
   demonym: null
   lore: []
   parents:
@@ -13,7 +14,6 @@ data:
 name:
   full: Khaset
   aliases: []
-banner: takheperubnr
 shortcode: khaset
 packFolder: bordernomes
 ---

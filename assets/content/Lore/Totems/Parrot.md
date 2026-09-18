@@ -11,8 +11,8 @@ name:
     - Parrot Totem
 shortcode: parrotttm
 packFolder: loretotems
-banner: creaturebnr
 data:
+  banner: creaturebnr
   icon: parrot
 ---
 

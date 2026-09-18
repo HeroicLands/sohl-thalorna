@@ -13,6 +13,7 @@ shortcode: svapnadevas
 type: affiliation
 subType: faithtradition
 data:
+  banner: faithbnr
   templatePriority: null
   demonym: null
   epithet: null
@@ -55,7 +56,6 @@ data:
   relations:
     varakpnthn: aligned
 packFolder: pantheonsvarnaka
-banner: faithbnr
 ---
 
 ## Svapnadēvas — The Dreaming Host

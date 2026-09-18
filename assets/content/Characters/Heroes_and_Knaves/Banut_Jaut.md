@@ -12,10 +12,10 @@ name:
   home: meruhotep
   aliases: []
 packFolder: northernfertileregiontakheperu
-banner: takheperubnr
 shortcode: banutjaut
 type: being
 data:
+  banner: takheperubnr
   icon: sohl-none-icon-person
   portrait: banutjaut
   templatePriority: null

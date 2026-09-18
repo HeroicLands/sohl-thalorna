@@ -12,10 +12,10 @@ name:
   aliases:
     - Raiya Wasetneb
 packFolder: northernfertileregiontakheperu
-banner: takheperubnr
 shortcode: raiyawstnb
 type: being
 data:
+  banner: takheperubnr
   icon: sohl-none-icon-person
   portrait: raiyawstnb
   templatePriority: null

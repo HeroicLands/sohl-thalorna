@@ -6,6 +6,7 @@ tags:
 type: affiliation
 subType: faithtradition
 data:
+  banner: takheperubnr
   templatePriority: null
   demonym: null
   epithet: The Crocodile-God
@@ -74,7 +75,6 @@ name:
   aliases:
     - Sobek, The Crocodile-God
 shortcode: sobek
-banner: takheperubnr
 packFolder: pantheonskemetian
 ---
 

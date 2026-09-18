@@ -13,6 +13,7 @@ shortcode: vyahrati
 type: affiliation
 subType: faithtradition
 data:
+  banner: faithbnr
   templatePriority: null
   demonym: null
   epithet: The Keeper of Decay
@@ -56,7 +57,6 @@ data:
   relations:
     varakpnthn: aligned
 packFolder: pantheonsvarnaka
-banner: faithbnr
 ---
 
 ## Vyāhrati — The Keeper of Decay

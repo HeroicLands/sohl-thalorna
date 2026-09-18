@@ -11,8 +11,8 @@ name:
     - Badger Totem
 shortcode: badgerttm
 packFolder: loretotems
-banner: creaturebnr
 data:
+  banner: creaturebnr
   icon: badger
 ---
 

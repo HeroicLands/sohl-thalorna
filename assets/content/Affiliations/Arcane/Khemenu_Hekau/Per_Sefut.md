@@ -6,6 +6,7 @@ tags:
 type: affiliation
 subType: arcanetradition
 data:
+  banner: takheperubnr
   icon: sefut
   templatePriority: null
   demonym: null
@@ -85,7 +86,6 @@ name:
     - House of the Unmaking
     - The House of Chaos
 shortcode: sefut
-banner: takheperubnr
 packFolder: khemenuhekau
 ---
 

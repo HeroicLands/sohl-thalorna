@@ -7,6 +7,7 @@ description: "Temple City (Necropolis)"
 type: place
 subType: settlement
 data:
+  banner: takheperubnr
   demonym: null
   lore: []
   parents:
@@ -15,7 +16,6 @@ data:
 name:
   full: Khensuret
   aliases: []
-banner: takheperubnr
 shortcode: khensuret
 packFolder: khensuret
 ---

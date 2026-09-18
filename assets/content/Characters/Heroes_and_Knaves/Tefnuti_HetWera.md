@@ -13,10 +13,10 @@ name:
     - Tefnutî HetWera
     - Tefnuti HetWera
 packFolder: northernfertileregiontakheperu
-banner: takheperubnr
 shortcode: tefnuthtwr
 type: being
 data:
+  banner: takheperubnr
   icon: sohl-none-icon-person
   portrait: tefnuthtwr
   templatePriority: null

@@ -12,6 +12,7 @@ name:
     - The Bureau of Unraveling
 shortcode: gurnhurn
 data:
+  banner: faithbnr
   templatePriority: null
   demonym: null
   epithet: The Minister of Entropy
@@ -120,7 +121,6 @@ data:
   relations:
     tanvurempr: aligned
 packFolder: celestialpantheon
-banner: faithbnr
 ---
 
 ## Gürnhürn — The Minister of Entropy

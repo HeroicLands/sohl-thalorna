@@ -12,10 +12,10 @@ name:
   aliases:
     - Khatah Meykhari
 packFolder: northernfertileregiontakheperu
-banner: takheperubnr
 shortcode: khathmykhr
 type: being
 data:
+  banner: takheperubnr
   icon: sohl-none-icon-person
   portrait: khathmykhr
   templatePriority: null

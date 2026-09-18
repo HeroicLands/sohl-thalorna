@@ -6,6 +6,7 @@ tags:
 type: affiliation
 subType: arcanetradition
 data:
+  banner: takheperubnr
   icon: ankhkemet
   templatePriority: null
   demonym: null
@@ -83,7 +84,6 @@ name:
     - House of the Black Land
     - The House of River
 shortcode: ankhkemet
-banner: takheperubnr
 packFolder: khemenuhekau
 ---
 

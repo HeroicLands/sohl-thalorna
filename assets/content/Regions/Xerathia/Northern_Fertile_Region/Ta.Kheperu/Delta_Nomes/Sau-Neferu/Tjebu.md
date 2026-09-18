@@ -5,6 +5,7 @@ description: "Wine Town"
 type: place
 subType: settlement
 data:
+  banner: takheperubnr
   demonym: null
   lore: []
   parents:
@@ -13,7 +14,6 @@ data:
 name:
   full: Tjebu
   aliases: []
-banner: takheperubnr
 shortcode: tjebu
 packFolder: sauneferu
 ---

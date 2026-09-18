@@ -13,6 +13,7 @@ name:
 shortcode: kanixhakan
 packFolder: pantheonitzani
 data:
+  banner: faithbnr
   icon: null
   templatePriority: null
   demonym: null
@@ -122,7 +123,6 @@ data:
     - itzanpnthn
   relations:
     itzanpnthn: aligned
-banner: faithbnr
 ---
 
 **Domain:** Prosperity, Agriculture, Abundance, Sustenance

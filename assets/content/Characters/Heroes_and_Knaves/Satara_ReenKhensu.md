@@ -13,10 +13,10 @@ name:
   aliases:
     - Satara ReenKhensu
 packFolder: northernfertileregiontakheperu
-banner: takheperubnr
 shortcode: satrrnkhns
 type: being
 data:
+  banner: takheperubnr
   icon: sohl-none-icon-person
   portrait: satrrnkhns
   templatePriority: null

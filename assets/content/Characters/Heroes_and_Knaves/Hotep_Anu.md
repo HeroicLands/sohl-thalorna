@@ -13,10 +13,10 @@ name:
   aliases:
     - The Exiled Priest
 packFolder: northernfertileregiontakheperu
-banner: takheperubnr
 shortcode: hotepanu
 type: being
 data:
+  banner: takheperubnr
   icon: sohl-none-icon-person
   portrait: hotepanu
   templatePriority: null

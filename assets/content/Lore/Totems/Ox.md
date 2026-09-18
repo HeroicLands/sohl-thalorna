@@ -11,8 +11,8 @@ name:
     - Ox Totem
 shortcode: oxttm
 packFolder: loretotems
-banner: creaturebnr
 data:
+  banner: creaturebnr
   icon: ox
 ---
 

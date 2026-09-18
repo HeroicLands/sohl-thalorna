@@ -9,11 +9,11 @@ name:
   aliases:
     - The Twelve of the River
     - Kemetian
-banner: pantheonbnr
 shortcode: kemtnpnthn
 type: affiliation
 subType: faithtradition
 data:
+  banner: pantheonbnr
   templatePriority: null
   demonym: null
   epithet: null

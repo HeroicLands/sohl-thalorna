@@ -11,8 +11,8 @@ name:
     - Hamster Totem
 shortcode: hamsterttm
 packFolder: loretotems
-banner: creaturebnr
 data:
+  banner: creaturebnr
   icon: hamster
 ---
 

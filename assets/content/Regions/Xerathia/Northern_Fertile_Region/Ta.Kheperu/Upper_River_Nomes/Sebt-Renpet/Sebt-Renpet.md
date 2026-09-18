@@ -5,6 +5,7 @@ description: "Nome capital of Sebt-Renpet."
 type: place
 subType: settlement
 data:
+  banner: takheperubnr
   demonym: null
   lore: []
   parents:
@@ -13,7 +14,6 @@ data:
 name:
   full: Sebt-Renpet
   aliases: []
-banner: takheperubnr
 shortcode: sebtrenpet
 packFolder: upperrivernomes
 ---

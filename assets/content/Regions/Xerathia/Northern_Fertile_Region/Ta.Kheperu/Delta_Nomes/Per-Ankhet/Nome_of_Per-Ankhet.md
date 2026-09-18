@@ -1,13 +1,13 @@
 ---
 description: "The chief delta nome of Ta'Kheperu — richest and most cosmopolitan province in the empire, built around the great port of Per-Ankhet, where the empire's seaborne trade, its Haradian factories, and its wealthiest merchant-Haty'a all meet the water."
 type: affiliation
-banner: takheperubnr
 name:
   full: The Nome of Per-Ankhet
   aliases: []
 shortcode: nomeprnkht
 subType: polity
 data:
+  banner: takheperubnr
   templatePriority: null
   demonym: Kheperi
   epithet: null

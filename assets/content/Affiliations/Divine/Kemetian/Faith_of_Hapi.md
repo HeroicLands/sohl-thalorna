@@ -7,6 +7,7 @@ tags:
 type: affiliation
 subType: faithtradition
 data:
+  banner: takheperubnr
   icon: hapi
   templatePriority: null
   demonym: null
@@ -77,7 +78,6 @@ name:
     - The Golden Reveler
     - The Overflowing One
 shortcode: hapi
-banner: takheperubnr
 packFolder: pantheonskemetian
 ---
 

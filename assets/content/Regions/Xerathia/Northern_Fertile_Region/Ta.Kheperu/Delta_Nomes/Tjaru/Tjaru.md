@@ -5,6 +5,7 @@ description: "Nome capital of Tjaru."
 type: place
 subType: settlement
 data:
+  banner: takheperubnr
   demonym: null
   lore: []
   parents:
@@ -13,7 +14,6 @@ data:
 name:
   full: Tjaru
   aliases: []
-banner: takheperubnr
 shortcode: tjaru
 packFolder: deltanomes
 ---
