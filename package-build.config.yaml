@@ -58,13 +58,26 @@ publish:
 # The third surface: the content tree printed as a book. `document:` names the
 # tree that says which notes the volume carries and in what order (`book.yaml`
 # at this root) — a selection, not the whole corpus the site and the packs
-# publish. `fonts` is left unset: the renderer's own default is Libertinus
-# Serif, which is this book's face.
+# publish.
 pdf:
     title: The World of Thalorna
     subtitle: A Song of Heroic Lands Sourcebook
     document: book.yaml
     out: build/pdf
+    # All three faces are named, because an unnamed one is not a default but a
+    # fallback: `sans` resolves to `serif` when it is absent, so the headings
+    # the renderer sets in the sans slot come out in the body face.
+    #
+    # One superfamily sets the whole book, which is what it was chosen for —
+    # matched metrics across body, headings and code from one designer. The mono
+    # is the narrowest of the three: it carries the printable ASCII a fence needs
+    # and little beyond it, and every fence in this tree is ASCII. A fence that
+    # reaches outside it is the thing to check, because Typst reports nothing
+    # when a glyph is missing.
+    fonts:
+        serif: Libertinus Serif
+        sans: Libertinus Sans
+        mono: Libertinus Mono
 
 # How this repository frames the website it publishes. Framing only — how a page
 # gets its *address* is `publish.address` above, shared with the link manifest
