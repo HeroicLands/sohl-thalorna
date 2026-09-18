@@ -6,11 +6,11 @@ name:
   full: Wraithbloom
   aliases: []
 description: "The animated spirit of ancient magic-steeped plants, haunting old groves and sacred gardens where the veil between living and dead has worn thin."
-img: sohl/assets/icons/game-icons/delapouite/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 shortcode: wrthblm
 type: being
 data:
-  portrait: images/beings/creatures/wrthblm-portrait.webp
+  portrait: images/beings/creatures/wrthblm.webp
   templatePriority: null
   archetypes: []
   occupation: null
@@ -217,7 +217,7 @@ sohl:
         disabled: false
 ---
 
-![Wraithbloom](images/beings/creatures/wrthblm-portrait.webp){float: top-left}
+![Wraithbloom](images/beings/creatures/wrthblm.webp){float: top-left}
 
 ## Appearance {#appearance}
 

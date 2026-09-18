@@ -16,10 +16,10 @@ name:
     - the Shipwright's Son
 packFolder: ankarisnordlands
 shortcode: eldridfrhr
-img: sohl/assets/icons/game-icons/delapouite/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/eldridfrhr-portrait.webp
+  portrait: images/beings/characters/eldridfrhr.webp
   templatePriority: null
   archetypes: []
   occupation: Shipwright
@@ -592,7 +592,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Eldrid Firehair](images/beings/characters/eldridfrhr-portrait.webp){float: top-left}
+![Eldrid Firehair](images/beings/characters/eldridfrhr.webp){float: top-left}
 
 ## Appearance {#appearance}
 

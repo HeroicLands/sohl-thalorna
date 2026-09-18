@@ -6,11 +6,11 @@ name:
   full: Mountain Drake
   aliases: []
 description: "A lean, granite-scaled reptilian predator up to eight feet long, spined along the back and built to climb and ambush across rocky mountain terrain."
-img: sohl/assets/icons/game-icons/delapouite/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 shortcode: mntndrk
 type: being
 data:
-  portrait: images/beings/creatures/mntndrk-portrait.webp
+  portrait: images/beings/creatures/mntndrk.webp
   templatePriority: null
   archetypes: []
   occupation: null
@@ -371,7 +371,7 @@ sohl:
         disabled: false
 ---
 
-![Mountain Drake](images/beings/creatures/mntndrk-portrait.webp){float: top-left}
+![Mountain Drake](images/beings/creatures/mntndrk.webp){float: top-left}
 
 ## Appearance {#appearance}
 

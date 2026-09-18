@@ -13,7 +13,7 @@ data:
 name:
   full: Behdet
   aliases: []
-banner: banners/ta-kheperu-banner.webp
+banner: banners/takheperubnr.webp
 shortcode: behdet
 packFolder: bordernomes
 ---

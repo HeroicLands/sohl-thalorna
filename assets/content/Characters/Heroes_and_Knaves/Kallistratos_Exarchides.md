@@ -13,10 +13,10 @@ name:
   aliases: []
 packFolder: midhalionvylaria
 shortcode: klstrtsxrchds
-img: sohl/assets/icons/game-icons/delapouite/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/klstrtsxrchds-portrait.webp
+  portrait: images/beings/characters/klstrtsxrchds.webp
   templatePriority: null
   archetypes: []
   occupation: Mage (Fire)
@@ -605,7 +605,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Kallistratos Exarchides](images/beings/characters/klstrtsxrchds-portrait.webp){float: top-left}
+![Kallistratos Exarchides](images/beings/characters/klstrtsxrchds.webp){float: top-left}
 
 ## Appearance {#appearance}
 

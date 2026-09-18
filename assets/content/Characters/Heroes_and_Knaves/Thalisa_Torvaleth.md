@@ -13,10 +13,10 @@ name:
   aliases: []
 packFolder: aureldiatarvenia
 shortcode: thlstrvlth
-img: sohl/assets/icons/game-icons/delapouite/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/thlstrvlth-portrait.webp
+  portrait: images/beings/characters/thlstrvlth.webp
   templatePriority: null
   archetypes: []
   occupation: Glassworker
@@ -601,7 +601,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Thalísa Torvaleth](images/beings/characters/thlstrvlth-portrait.webp){float: top-left}
+![Thalísa Torvaleth](images/beings/characters/thlstrvlth.webp){float: top-left}
 
 ## Appearance {#appearance}
 

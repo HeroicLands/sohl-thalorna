@@ -5,7 +5,7 @@ name:
   aliases:
     - Aspect
 description: "Target's shape shifts; body transforms into beast or humanoid form."
-img: sohl/assets/icons/game-icons/badges/anvil.svg
+img: systems/sohl/assets/icons/game-icons/badges/anvilbdg.svg
 shortcode: frmshft
 type: mysticalability
 subType: arcaneincantation

@@ -78,7 +78,7 @@ name:
     - Iset
 shortcode: iset
 img: icons/takheperu/pantheon/iset.svg
-banner: banners/ta-kheperu-banner.webp
+banner: banners/takheperubnr.webp
 alias: Íšét, Mother of New Beginnings and Restorer of Health
 packFolder: pantheonskemetian
 ---

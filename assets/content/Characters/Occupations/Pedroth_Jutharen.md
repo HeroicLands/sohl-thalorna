@@ -13,10 +13,10 @@ name:
     - Thoran Blackstitch
 packFolder: aureldiatarvenia
 shortcode: pdrthjthrn
-img: sohl/assets/icons/game-icons/delapouite/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/pdrthjthrn-portrait.webp
+  portrait: null
   templatePriority: null
   archetypes: []
   occupation: Tentmaker

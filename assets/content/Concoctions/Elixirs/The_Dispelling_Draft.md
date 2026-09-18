@@ -6,7 +6,7 @@ name:
   aliases:
     - Physic Elixir
 description: "Colorless liquid; suppresses other active elixirs in imbiber body."
-img: sohl/assets/icons/other/potion.svg
+img: systems/sohl/assets/icons/other/potion.svg
 shortcode: elxphy
 type: concoctiongear
 subType: elixir

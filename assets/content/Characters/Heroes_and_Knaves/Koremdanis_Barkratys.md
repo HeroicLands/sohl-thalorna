@@ -12,10 +12,10 @@ name:
   aliases: []
 packFolder: midhalionvylaria
 shortcode: krmdnsbrkrtys
-img: sohl/assets/icons/game-icons/delapouite/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/krmdnsbrkrtys-portrait.webp
+  portrait: images/beings/characters/krmdnsbrkrtys.webp
   templatePriority: null
   archetypes: []
   occupation: Swordmaster
@@ -591,7 +591,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Korêmdânis Bárkrâtys](images/beings/characters/krmdnsbrkrtys-portrait.webp){float: top-left}
+![Korêmdânis Bárkrâtys](images/beings/characters/krmdnsbrkrtys.webp){float: top-left}
 
 ## Appearance {#appearance}
 

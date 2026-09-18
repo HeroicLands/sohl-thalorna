@@ -12,10 +12,10 @@ name:
   aliases: []
 packFolder: helladbyzaria
 shortcode: drknsdlsns
-img: sohl/assets/icons/game-icons/delapouite/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/drknsdlsns-portrait.webp
+  portrait: images/beings/characters/drknsdlsns.webp
   templatePriority: null
   archetypes: []
   occupation: Trapper
@@ -589,7 +589,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Drákonis Dalássênos](images/beings/characters/drknsdlsns-portrait.webp){float: top-left}
+![Drákonis Dalássênos](images/beings/characters/drknsdlsns.webp){float: top-left}
 
 ## Appearance {#appearance}
 

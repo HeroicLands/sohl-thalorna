@@ -12,10 +12,10 @@ name:
   aliases: []
 packFolder: helladbyzaria
 shortcode: phlnmrksns
-img: sohl/assets/icons/game-icons/delapouite/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/phlnmrksns-portrait.webp
+  portrait: images/beings/characters/phlnmrksns.webp
   templatePriority: null
   archetypes: []
   occupation: Hideworker
@@ -594,7 +594,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Philína Markêsianos](images/beings/characters/phlnmrksns-portrait.webp){float: top-left}
+![Philína Markêsianos](images/beings/characters/phlnmrksns.webp){float: top-left}
 
 ## Appearance {#appearance}
 

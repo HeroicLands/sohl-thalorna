@@ -11,11 +11,11 @@ name:
   aliases: []
 packFolder: aureldiatarvenia
 shortcode: slvrvlskyr
-banner: banners/tamzir-banner.webp
-img: sohl/assets/icons/game-icons/delapouite/person.svg
+banner: banners/tamzirbnr.webp
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/slvrvlskyr-portrait.webp
+  portrait: images/beings/characters/slvrvlskyr.webp
   templatePriority: null
   archetypes: []
   occupation: First Mate
@@ -563,7 +563,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Sélvara Válskyr](images/beings/characters/slvrvlskyr-portrait.webp){float: top-left}
+![Sélvara Válskyr](images/beings/characters/slvrvlskyr.webp){float: top-left}
 
 ## Appearance {#appearance}
 

@@ -81,7 +81,7 @@ name:
     - The House of Order
 shortcode: maatken
 img: icons/takheperu/khemenu-hekau/maatken.svg
-banner: banners/ta-kheperu-banner.webp
+banner: banners/takheperubnr.webp
 packFolder: khemenuhekau
 ---
 

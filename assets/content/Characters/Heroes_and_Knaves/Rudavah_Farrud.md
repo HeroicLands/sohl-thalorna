@@ -13,10 +13,10 @@ name:
   aliases: []
 packFolder: sultanateofamradad
 shortcode: rudavahfrd
-img: sohl/assets/icons/game-icons/delapouite/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/rudavahfrd-portrait.webp
+  portrait: images/beings/characters/rudavahfrd.webp
   templatePriority: null
   archetypes: []
   occupation: Ostler
@@ -610,7 +610,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Rudâvah Farrud](images/beings/characters/rudavahfrd-portrait.webp){float: top-left}
+![Rudâvah Farrud](images/beings/characters/rudavahfrd.webp){float: top-left}
 
 ## Appearance {#appearance}
 

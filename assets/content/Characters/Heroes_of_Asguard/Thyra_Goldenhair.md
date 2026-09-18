@@ -14,10 +14,10 @@ name:
   home: null
 packFolder: ankarisnordlands
 shortcode: thyrgldnhr
-img: sohl/assets/icons/game-icons/delapouite/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/thyrgldnhr-portrait.webp
+  portrait: null
   templatePriority: null
   archetypes: []
   occupation: Courtesan and Power Broker

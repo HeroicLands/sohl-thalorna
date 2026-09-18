@@ -96,7 +96,7 @@ name:
     - The Iron Wolves
     - Lupi Ferri (Byzarian)
 shortcode: irnwlvscmpny
-banner: banners/company.webp
+banner: banners/companybnr.webp
 ---
 
 _Byzarian: Lupi Ferri_

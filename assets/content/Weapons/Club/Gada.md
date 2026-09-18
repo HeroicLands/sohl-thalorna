@@ -4,7 +4,7 @@ name:
   full: Gada
   aliases: []
 description: "Heavy spherical or flanged mace-head; champion's crushing blow."
-img: sohl/assets/icons/game-icons/badges/club.svg
+img: systems/sohl/assets/icons/game-icons/badges/club.svg
 shortcode: gada
 type: weapongear
 data:

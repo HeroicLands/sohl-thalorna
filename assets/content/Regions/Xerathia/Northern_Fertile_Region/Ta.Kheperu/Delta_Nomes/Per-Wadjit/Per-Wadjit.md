@@ -13,7 +13,7 @@ data:
 name:
   full: Per-Wadjit
   aliases: []
-banner: banners/ta-kheperu-banner.webp
+banner: banners/takheperubnr.webp
 shortcode: perwadjit
 packFolder: deltanomes
 ---

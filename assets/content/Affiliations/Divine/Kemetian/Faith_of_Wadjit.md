@@ -70,7 +70,7 @@ name:
   aliases:
     - Wadjit, The Cobra-Goddess
 shortcode: wadjit
-banner: banners/ta-kheperu-banner.webp
+banner: banners/takheperubnr.webp
 packFolder: pantheonskemetian
 ---
 

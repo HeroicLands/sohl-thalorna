@@ -12,10 +12,10 @@ name:
   aliases: []
 packFolder: ankarisnordlands
 shortcode: ingrthrskyrkr
-img: sohl/assets/icons/game-icons/delapouite/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/ingrthrskyrkr-portrait.webp
+  portrait: images/beings/characters/ingrthrskyrkr.webp
   templatePriority: null
   archetypes: []
   occupation: Domestic Servant
@@ -589,7 +589,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Íngrithr Skýrekkr](images/beings/characters/ingrthrskyrkr-portrait.webp){float: top-left}
+![Íngrithr Skýrekkr](images/beings/characters/ingrthrskyrkr.webp){float: top-left}
 
 ## Appearance {#appearance}
 

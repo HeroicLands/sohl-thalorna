@@ -83,7 +83,7 @@ name:
     - The House of River
 shortcode: ankhkemet
 img: icons/takheperu/khemenu-hekau/ankhkemet.svg
-banner: banners/ta-kheperu-banner.webp
+banner: banners/takheperubnr.webp
 packFolder: khemenuhekau
 ---
 

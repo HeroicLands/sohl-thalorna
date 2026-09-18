@@ -13,12 +13,12 @@ name:
     - Renutê Reenfré
     - Renute Reenfre
 packFolder: northernfertileregiontakheperu
-banner: banners/ta-kheperu-banner.webp
+banner: banners/takheperubnr.webp
 shortcode: renuternfr
-img: sohl/assets/icons/game-icons/delapouite/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/renuternfr-portrait.webp
+  portrait: images/beings/characters/renuternfr.webp
   templatePriority: null
   archetypes: []
   occupation: Innkeeper
@@ -612,7 +612,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Renutê Re'en'fré](images/beings/characters/renuternfr-portrait.webp){float: top-left}
+![Renutê Re'en'fré](images/beings/characters/renuternfr.webp){float: top-left}
 
 **Home:** [[place-wasetkara|Wasetkara]]
 

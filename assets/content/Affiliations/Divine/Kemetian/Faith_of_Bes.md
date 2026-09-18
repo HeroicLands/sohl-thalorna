@@ -65,7 +65,7 @@ name:
     - Bēs, Guardian of Night Visions
 shortcode: bes
 img: icons/takheperu/pantheon/bes.svg
-banner: banners/ta-kheperu-banner.webp
+banner: banners/takheperubnr.webp
 packFolder: pantheonskemetian
 ---
 

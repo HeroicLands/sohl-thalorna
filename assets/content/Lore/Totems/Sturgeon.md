@@ -12,6 +12,7 @@ name:
 shortcode: sturgeonttm
 img: images/mystery/sturgeon.webp
 packFolder: loretotems
+banner: banners/creaturebnr.webp
 ---
 
 Resilient and steadfast, sturgeons thrive in diverse environments, moving slowly but purposefully, and enduring through various challenges with their strength and persistence.

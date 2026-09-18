@@ -1,7 +1,7 @@
 ---
 description: "Old assize-courts; a nome famous for its lawyer-priests and land-survey scribes — one of the upper-river nomes of Ta'Kheperu."
 type: affiliation
-banner: banners/ta-kheperu-banner.webp
+banner: banners/takheperubnr.webp
 name:
   full: The Nome of Khenet-Ta
   aliases: []

@@ -12,6 +12,7 @@ name:
 shortcode: turkeyttm
 img: images/mystery/turkey.webp
 packFolder: loretotems
+banner: banners/creaturebnr.webp
 ---
 
 Proud and cautious, turkeys are ground-dwelling birds that display elaborate courtship rituals while remaining vigilant against predators.

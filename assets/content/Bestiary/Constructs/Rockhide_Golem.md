@@ -6,11 +6,11 @@ name:
   full: Rockhide Golem
   aliases: []
 description: "A towering ten-foot guardian of fused stone, engineered for brute force to defend treasures within ancient ruins and fortifications."
-img: sohl/assets/icons/game-icons/delapouite/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 shortcode: rckhdglm
 type: being
 data:
-  portrait: images/beings/creatures/rckhdglm-portrait.webp
+  portrait: images/beings/creatures/rckhdglm.webp
   templatePriority: null
   archetypes: []
   occupation: null
@@ -64,7 +64,7 @@ sohl:
         disabled: false
 ---
 
-![Rockhide Golem](images/beings/creatures/rckhdglm-portrait.webp){float: top-left}
+![Rockhide Golem](images/beings/creatures/rckhdglm.webp){float: top-left}
 
 ## Appearance {#appearance}
 

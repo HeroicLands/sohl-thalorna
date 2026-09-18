@@ -6,11 +6,11 @@ name:
   full: Acidtoad
   aliases: []
 description: "A corruption-twisted amphibian of swamps and toxic pools that ambushes prey with sluggish movements and lethally venomous, acidic flesh."
-img: sohl/assets/icons/game-icons/delapouite/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 shortcode: acidtoad
 type: being
 data:
-  portrait: images/beings/creatures/acidtoad-portrait.webp
+  portrait: images/beings/creatures/acidtoad.webp
   templatePriority: null
   archetypes: []
   occupation: null
@@ -325,7 +325,7 @@ sohl:
         disabled: false
 ---
 
-![Acidtoad](images/beings/creatures/acidtoad-portrait.webp){float: top-left}
+![Acidtoad](images/beings/creatures/acidtoad.webp){float: top-left}
 
 ## Appearance {#appearance}
 

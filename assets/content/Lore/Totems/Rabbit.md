@@ -12,6 +12,7 @@ name:
 shortcode: rabbitttm
 img: images/mystery/rabbit.webp
 packFolder: loretotems
+banner: banners/creaturebnr.webp
 ---
 
 Nervous and quick, rabbits are prey animals that rely on their agility and rapid breeding to survive in environments filled with predators.

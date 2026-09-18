@@ -13,10 +13,10 @@ name:
     - Finn Stablehand
 packFolder: ankarisvrystwald
 shortcode: vndrcgrskld
-img: sohl/assets/icons/game-icons/delapouite/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/vndrcgrskld-portrait.webp
+  portrait: null
   templatePriority: null
   archetypes: []
   occupation: Ostler

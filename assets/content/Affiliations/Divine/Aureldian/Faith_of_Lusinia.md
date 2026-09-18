@@ -71,6 +71,7 @@ name:
 shortcode: lusinia
 img: images/affiliation/aureldian/lusinia.webp
 packFolder: pantheonsaureldian
+banner: banners/faithbnr.webp
 ---
 
 Goddess of life, earth, and creation. Lúsinía spins the fabric of existence and nurtures all living beings, from the smallest seed to the mightiest beast.

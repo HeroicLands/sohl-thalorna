@@ -12,12 +12,12 @@ name:
   aliases:
     - Khatah Meykhari
 packFolder: northernfertileregiontakheperu
-banner: banners/ta-kheperu-banner.webp
+banner: banners/takheperubnr.webp
 shortcode: khathmykhr
-img: sohl/assets/icons/game-icons/delapouite/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/khathmykhr-portrait.webp
+  portrait: images/beings/characters/khathmykhr.webp
   templatePriority: null
   archetypes: []
   occupation: Yeoman Archer
@@ -584,7 +584,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Khatah Mey'khari](images/beings/characters/khathmykhr-portrait.webp){float: top-left}
+![Khatah Mey'khari](images/beings/characters/khathmykhr.webp){float: top-left}
 
 **Home:** [[place-ankhsetun|Ankh-Setûn]]
 

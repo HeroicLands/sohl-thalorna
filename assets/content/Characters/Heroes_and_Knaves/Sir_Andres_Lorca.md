@@ -15,10 +15,10 @@ name:
     - Sir Andres Lorca
 packFolder: aureldiatarvenia
 shortcode: srndrslrcknghtwstrnmrchs
-img: sohl/assets/icons/game-icons/delapouite/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/srndrslrcknghtwstrnmrchs-portrait.webp
+  portrait: images/beings/characters/srndrslrcknghtwstrnmrchs.webp
   templatePriority: null
   archetypes: []
   occupation: Nobility (Knight Bachelor)
@@ -596,7 +596,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Sir Andrés Lorca, Knight of the Western Marches](images/beings/characters/srndrslrcknghtwstrnmrchs-portrait.webp){float: top-left}
+![Sir Andrés Lorca, Knight of the Western Marches](images/beings/characters/srndrslrcknghtwstrnmrchs.webp){float: top-left}
 
 ## Appearance {#appearance}
 

@@ -5,7 +5,7 @@ name:
   full: Vylarian Aurion
   aliases: ["Aurion"]
 description: "Imperial gold coin of the Aerarium Imperii; the largest Vylarian denomination."
-img: sohl/assets/icons/game-icons/badges/coins.svg
+img: systems/sohl/assets/icons/game-icons/badges/coinsbdg.svg
 shortcode: aurion
 type: miscgear
 data:

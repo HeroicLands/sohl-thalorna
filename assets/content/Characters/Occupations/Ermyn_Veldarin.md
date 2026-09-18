@@ -13,10 +13,10 @@ name:
   aliases: []
 packFolder: aureldiaelavendre
 shortcode: ermynvldrn
-img: sohl/assets/icons/game-icons/delapouite/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/ermynvldrn-portrait.webp
+  portrait: null
   templatePriority: null
   archetypes: []
   occupation: Town Guard

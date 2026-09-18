@@ -12,10 +12,10 @@ name:
   aliases: []
 packFolder: helladbyzaria
 shortcode: athngrsktkls
-img: sohl/assets/icons/game-icons/delapouite/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/athngrsktkls-portrait.webp
+  portrait: images/beings/characters/athngrsktkls.webp
   templatePriority: null
   archetypes: []
   occupation: Yeoman Infantry
@@ -589,7 +589,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Athênagoras Katakálos](images/beings/characters/athngrsktkls-portrait.webp){float: top-left}
+![Athênagoras Katakálos](images/beings/characters/athngrsktkls.webp){float: top-left}
 
 ## Appearance {#appearance}
 

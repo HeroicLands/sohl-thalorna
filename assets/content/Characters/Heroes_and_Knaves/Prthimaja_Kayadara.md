@@ -13,10 +13,10 @@ name:
   aliases: []
 packFolder: ankarisvedyara
 shortcode: prthmjkydr
-img: sohl/assets/icons/game-icons/delapouite/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/prthmjkydr-portrait.webp
+  portrait: images/beings/characters/prthmjkydr.webp
   templatePriority: null
   archetypes: []
   occupation: Jeweller
@@ -599,7 +599,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Prthîmâja Kâyadara](images/beings/characters/prthmjkydr-portrait.webp){float: top-left}
+![Prthîmâja Kâyadara](images/beings/characters/prthmjkydr.webp){float: top-left}
 
 ## Appearance {#appearance}
 

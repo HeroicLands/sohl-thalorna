@@ -122,6 +122,7 @@ data:
   relations:
     tanvurempr: aligned
 packFolder: celestialpantheon
+banner: banners/faithbnr.webp
 ---
 
 ## Yütvëi — The Keeper of the Jade Seal

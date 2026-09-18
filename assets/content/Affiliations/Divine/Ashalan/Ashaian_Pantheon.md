@@ -88,6 +88,7 @@ data:
   parents: []
   relations: {}
 packFolder: ashaian
+banner: banners/pantheonbnr.webp
 ---
 
 **Pronunciation**: _Ah-SHY-uhn_

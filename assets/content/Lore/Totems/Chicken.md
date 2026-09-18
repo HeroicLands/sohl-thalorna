@@ -12,6 +12,7 @@ name:
 shortcode: chickenttm
 img: images/mystery/chicken.webp
 packFolder: loretotems
+banner: banners/creaturebnr.webp
 ---
 
 Timid and skittish, chickens are easily startled and rely on their quick reflexes and flocking behavior for safety.

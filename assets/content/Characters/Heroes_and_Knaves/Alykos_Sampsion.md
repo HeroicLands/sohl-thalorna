@@ -13,10 +13,10 @@ name:
   aliases: []
 packFolder: helladbyzaria
 shortcode: alykosmpsn
-img: sohl/assets/icons/game-icons/delapouite/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/alykosmpsn-portrait.webp
+  portrait: images/beings/characters/alykosmpsn.webp
   templatePriority: null
   archetypes: []
   occupation: Physician
@@ -595,7 +595,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Alýkos Sampsiôn](images/beings/characters/alykosmpsn-portrait.webp){float: top-left}
+![Alýkos Sampsiôn](images/beings/characters/alykosmpsn.webp){float: top-left}
 
 ## Appearance {#appearance}
 

@@ -67,6 +67,7 @@ name:
 shortcode: karnavos
 img: images/affiliation/aureldian/karnavos.webp
 packFolder: pantheonsaureldian
+banner: banners/faithbnr.webp
 ---
 
 God of wildness, unpredictability, and primal energy. Karnavos represents the untamed force of nature and the chaotic change necessary for growth.

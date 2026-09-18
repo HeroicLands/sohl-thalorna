@@ -13,10 +13,10 @@ name:
     - Cedric Ashwood
 packFolder: midhalionharad
 shortcode: lamshrdmrn
-img: sohl/assets/icons/game-icons/delapouite/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/lamshrdmrn-portrait.webp
+  portrait: null
   templatePriority: null
   archetypes: []
   occupation: Litigant

@@ -6,7 +6,7 @@ name:
   aliases:
     - Potion, Aphrodisiac, Great
 description: "Nearly black purple-tinged liquid; seduces with overwhelming attraction."
-img: sohl/assets/icons/other/potion.svg
+img: systems/sohl/assets/icons/other/potion.svg
 shortcode: ptnaphrg
 type: concoctiongear
 subType: exotic

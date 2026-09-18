@@ -13,10 +13,10 @@ name:
   aliases: []
 packFolder: ankarisvedyara
 shortcode: palvdrvksh
-img: sohl/assets/icons/game-icons/delapouite/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/palvdrvksh-portrait.webp
+  portrait: images/beings/characters/palvdrvksh.webp
   templatePriority: null
   archetypes: []
   occupation: Scribe
@@ -598,7 +598,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Pallàvi Drâviksha](images/beings/characters/palvdrvksh-portrait.webp){float: top-left}
+![Pallàvi Drâviksha](images/beings/characters/palvdrvksh.webp){float: top-left}
 
 ## Appearance {#appearance}
 

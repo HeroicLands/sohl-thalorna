@@ -13,10 +13,10 @@ name:
     - Otto Fallowbrook
 packFolder: helladhelionis
 shortcode: safrsghlrs
-img: sohl/assets/icons/game-icons/delapouite/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/safrsghlrs-portrait.webp
+  portrait: null
   templatePriority: null
   archetypes: []
   occupation: Clothier

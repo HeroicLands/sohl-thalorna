@@ -5,7 +5,7 @@ name:
   aliases:
     - Burn
 description: "Conjures intense flames; caster's touch ignites and burns."
-img: sohl/assets/icons/game-icons/badges/fire.svg
+img: systems/sohl/assets/icons/game-icons/badges/firebdg.svg
 shortcode: srgblz
 type: mysticalability
 subType: arcaneincantation

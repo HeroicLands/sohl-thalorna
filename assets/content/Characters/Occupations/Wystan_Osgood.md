@@ -13,10 +13,10 @@ name:
     - Finn the Ratcatcher
 packFolder: aureldiaaelwyth
 shortcode: wystanosgd
-img: sohl/assets/icons/game-icons/delapouite/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/wystanosgd-portrait.webp
+  portrait: null
   templatePriority: null
   archetypes: []
   occupation: Ratter

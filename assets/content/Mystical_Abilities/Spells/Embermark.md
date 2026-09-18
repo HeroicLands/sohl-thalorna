@@ -4,7 +4,7 @@ name:
   full: Embermark
   aliases: []
 description: "Scorches persistent glowing rune; marks target or ignites later."
-img: sohl/assets/icons/game-icons/badges/fire.svg
+img: systems/sohl/assets/icons/game-icons/badges/firebdg.svg
 shortcode: embrmrk
 type: mysticalability
 subType: arcaneincantation

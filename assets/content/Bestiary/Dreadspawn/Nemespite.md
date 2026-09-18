@@ -6,11 +6,11 @@ name:
   full: Nemespite
   aliases: []
 description: "An intelligent, venomous insectoid predator that hunts in coordinated packs across warm highlands, caves, and corrupted lands."
-img: sohl/assets/icons/game-icons/delapouite/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 shortcode: nmspt
 type: being
 data:
-  portrait: images/beings/creatures/nmspt-portrait.webp
+  portrait: images/beings/creatures/nmspt.webp
   templatePriority: null
   archetypes: []
   occupation: null
@@ -286,7 +286,7 @@ sohl:
         disabled: false
 ---
 
-![Nemespite](images/beings/creatures/nmspt-portrait.webp){float: top-left}
+![Nemespite](images/beings/creatures/nmspt.webp){float: top-left}
 
 ## Appearance {#appearance}
 

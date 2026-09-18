@@ -6,11 +6,11 @@ name:
   full: Spindlefiend
   aliases: []
 description: "A shadow-corrupted arachnid ambusher that fills whole chambers with nearly invisible webs, turning them into silent deathtraps."
-img: sohl/assets/icons/game-icons/delapouite/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 shortcode: spndlfnd
 type: being
 data:
-  portrait: images/beings/creatures/spndlfnd-portrait.webp
+  portrait: images/beings/creatures/spndlfnd.webp
   templatePriority: null
   archetypes: []
   occupation: null
@@ -253,7 +253,7 @@ sohl:
         disabled: false
 ---
 
-![Spindlefiend](images/beings/creatures/spndlfnd-portrait.webp){float: top-left}
+![Spindlefiend](images/beings/creatures/spndlfnd.webp){float: top-left}
 
 ## Appearance {#appearance}
 

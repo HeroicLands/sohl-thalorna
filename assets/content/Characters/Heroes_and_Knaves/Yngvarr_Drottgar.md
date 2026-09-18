@@ -13,10 +13,10 @@ name:
   aliases: []
 packFolder: ankarisnordlands
 shortcode: yngvrdrtgr
-img: sohl/assets/icons/game-icons/delapouite/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/yngvrdrtgr-portrait.webp
+  portrait: images/beings/characters/yngvrdrtgr.webp
   templatePriority: null
   archetypes: []
   occupation: Guard
@@ -578,7 +578,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Yngvarr Dróttgar](images/beings/characters/yngvrdrtgr-portrait.webp){float: top-left}
+![Yngvarr Dróttgar](images/beings/characters/yngvrdrtgr.webp){float: top-left}
 
 ## Appearance {#appearance}
 

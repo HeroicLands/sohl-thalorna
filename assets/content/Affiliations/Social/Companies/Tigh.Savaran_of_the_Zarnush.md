@@ -95,7 +95,7 @@ name:
     - Sworn Blades of the Zarnûsh
     - Riders of the Burning Wind
 shortcode: tghsvrnzrnsh
-banner: banners/company.webp
+banner: banners/companybnr.webp
 ---
 
 **The Tîgh'Savâran of the Zarnûsh:** _The Riders of the Burning Wind_

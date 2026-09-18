@@ -13,10 +13,10 @@ name:
     - Orin Swiftbow
 packFolder: midhalionvylaria
 shortcode: hrprsvrkrtys
-img: sohl/assets/icons/game-icons/delapouite/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/hrprsvrkrtys-portrait.webp
+  portrait: null
   templatePriority: null
   archetypes: []
   occupation: Yeoman Archer

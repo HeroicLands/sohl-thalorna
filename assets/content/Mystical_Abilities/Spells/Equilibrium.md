@@ -5,7 +5,7 @@ name:
   aliases:
     - Harmony
 description: "Balances forces; negates momentum and prevents caster's displacement."
-img: sohl/assets/icons/noun/divination.svg
+img: systems/sohl/assets/icons/noun/divination.svg
 shortcode: eqlbrm
 type: mysticalability
 subType: arcaneincantation

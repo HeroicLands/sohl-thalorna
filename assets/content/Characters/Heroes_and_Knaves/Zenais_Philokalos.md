@@ -12,10 +12,10 @@ name:
   aliases: []
 packFolder: helladbyzaria
 shortcode: zensphlkls
-img: sohl/assets/icons/game-icons/delapouite/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/zensphlkls-portrait.webp
+  portrait: images/beings/characters/zensphlkls.webp
   templatePriority: null
   archetypes: []
   occupation: Animal Trainer
@@ -593,7 +593,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Zênais Philokálos](images/beings/characters/zensphlkls-portrait.webp){float: top-left}
+![Zênais Philokálos](images/beings/characters/zensphlkls.webp){float: top-left}
 
 ## Appearance {#appearance}
 

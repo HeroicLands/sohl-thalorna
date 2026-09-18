@@ -13,10 +13,10 @@ name:
     - Ilara Sunshade
 packFolder: aureldiatarvenia
 shortcode: tharicstrn
-img: sohl/assets/icons/game-icons/delapouite/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/tharicstrn-portrait.webp
+  portrait: null
   templatePriority: null
   archetypes: []
   occupation: Domestic Servant

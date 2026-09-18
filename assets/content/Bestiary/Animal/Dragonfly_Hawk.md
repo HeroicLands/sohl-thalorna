@@ -6,11 +6,11 @@ name:
   full: Dragonfly Hawk
   aliases: []
 description: "A dragonfly scaled to nightmare size, an agile aerial hunter of rivers, marshes, and coasts that strikes prey by sight."
-img: sohl/assets/icons/game-icons/delapouite/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 shortcode: drgnflyh
 type: being
 data:
-  portrait: images/beings/creatures/drgnflyh-portrait.webp
+  portrait: images/beings/creatures/drgnflyh.webp
   templatePriority: null
   archetypes: []
   occupation: null
@@ -309,7 +309,7 @@ sohl:
         disabled: false
 ---
 
-![Dragonfly Hawk](images/beings/creatures/drgnflyh-portrait.webp){float: top-left}
+![Dragonfly Hawk](images/beings/creatures/drgnflyh.webp){float: top-left}
 
 ## Appearance {#appearance}
 

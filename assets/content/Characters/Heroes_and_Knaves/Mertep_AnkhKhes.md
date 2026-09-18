@@ -12,12 +12,12 @@ name:
   aliases:
     - Mertep AnkhKhes
 packFolder: northernfertileregiontakheperu
-banner: banners/ta-kheperu-banner.webp
+banner: banners/takheperubnr.webp
 shortcode: mrtpnkhkhs
-img: sohl/assets/icons/game-icons/delapouite/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/mrtpnkhkhs-portrait.webp
+  portrait: images/beings/characters/mrtpnkhkhs.webp
   templatePriority: null
   archetypes: []
   occupation: Domestic Servant
@@ -602,7 +602,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Mer'tep Ankh'Khes](images/beings/characters/mrtpnkhkhs-portrait.webp){float: top-left}
+![Mer'tep Ankh'Khes](images/beings/characters/mrtpnkhkhs.webp){float: top-left}
 
 **Home:** [[place-perankhet|Per-Ankhet]]
 

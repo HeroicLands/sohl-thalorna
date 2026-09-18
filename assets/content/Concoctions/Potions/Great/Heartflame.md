@@ -6,7 +6,7 @@ name:
   aliases:
     - Potion, Stimulant, Great
 description: "Blazing red-gold liquid; grants enhanced strength and physical power."
-img: sohl/assets/icons/other/potion.svg
+img: systems/sohl/assets/icons/other/potion.svg
 shortcode: ptnstmg
 type: concoctiongear
 subType: exotic

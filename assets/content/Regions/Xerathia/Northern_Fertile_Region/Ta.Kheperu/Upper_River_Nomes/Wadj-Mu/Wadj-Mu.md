@@ -13,7 +13,7 @@ data:
 name:
   full: Wadj-Mu
   aliases: []
-banner: banners/ta-kheperu-banner.webp
+banner: banners/takheperubnr.webp
 shortcode: wadjmu
 packFolder: upperrivernomes
 ---

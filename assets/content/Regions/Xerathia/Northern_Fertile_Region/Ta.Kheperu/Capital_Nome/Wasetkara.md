@@ -15,7 +15,7 @@ data:
 name:
   full: Wasetkara
   aliases: []
-banner: banners/ta-kheperu-banner.webp
+banner: banners/takheperubnr.webp
 shortcode: wasetkara
 packFolder: capitalnome
 ---

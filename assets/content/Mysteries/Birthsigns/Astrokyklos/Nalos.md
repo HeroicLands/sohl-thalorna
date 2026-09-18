@@ -4,7 +4,7 @@ name:
   full: Nalos
   aliases: []
 description: "The River: welcome in any company and persuasive in every tongue, no one's idea of a fighter."
-img: sohl/assets/icons/other/astrology.svg
+img: systems/sohl/assets/icons/other/astrology.svg
 shortcode: nalos
 type: mystery
 subType: birthsign

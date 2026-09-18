@@ -12,6 +12,7 @@ name:
 shortcode: bobcatttm
 img: images/mystery/bobcat.webp
 packFolder: loretotems
+banner: banners/creaturebnr.webp
 ---
 
 Secretive and cautious, bobcats are elusive hunters, using their stealth and patience to silently stalk and ambush their prey.

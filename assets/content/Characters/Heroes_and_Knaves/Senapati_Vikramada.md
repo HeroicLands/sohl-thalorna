@@ -12,10 +12,10 @@ name:
   aliases: []
 packFolder: ankarisvedyara
 shortcode: senptvkrmd
-img: sohl/assets/icons/game-icons/delapouite/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/senptvkrmd-portrait.webp
+  portrait: images/beings/characters/senptvkrmd.webp
   templatePriority: null
   archetypes: []
   occupation: Bosun
@@ -636,7 +636,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Sénapati Vikramâda](images/beings/characters/senptvkrmd-portrait.webp){float: top-left}
+![Sénapati Vikramâda](images/beings/characters/senptvkrmd.webp){float: top-left}
 
 ## Appearance {#appearance}
 

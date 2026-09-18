@@ -5,7 +5,7 @@ name:
   aliases:
     - Focus
 description: "Sharpens blade; grants keener edge and cutting power."
-img: sohl/assets/icons/game-icons/delapouite/circle.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/circle.svg
 shortcode: sharpen
 type: mysticalability
 subType: arcaneincantation

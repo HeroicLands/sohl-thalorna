@@ -14,10 +14,10 @@ name:
     - Alric Henton
 packFolder: midhalionvylaria
 shortcode: hrphsrchrns
-img: sohl/assets/icons/game-icons/delapouite/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/hrphsrchrns-portrait.webp
+  portrait: null
   templatePriority: null
   archetypes: []
   occupation: Chandler

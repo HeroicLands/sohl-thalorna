@@ -14,12 +14,12 @@ name:
     - Patnefur Setmaâr
     - Patnefur Setmaar
 packFolder: northernfertileregiontakheperu
-banner: banners/ta-kheperu-banner.webp
+banner: banners/takheperubnr.webp
 shortcode: patnfrstmr
-img: sohl/assets/icons/game-icons/delapouite/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/patnfrstmr-portrait.webp
+  portrait: images/beings/characters/patnfrstmr.webp
   templatePriority: null
   archetypes: []
   occupation: Perfumer
@@ -599,7 +599,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Pat'nefur Set'maâr](images/beings/characters/patnfrstmr-portrait.webp){float: top-left}
+![Pat'nefur Set'maâr](images/beings/characters/patnfrstmr.webp){float: top-left}
 
 **Home:** [[place-wasetkara|Wasetkara]]
 

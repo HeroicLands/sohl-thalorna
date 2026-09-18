@@ -13,10 +13,10 @@ name:
   aliases: []
 packFolder: ankariskhazryndesert
 shortcode: kharnhkhfr
-img: sohl/assets/icons/game-icons/delapouite/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/kharnhkhfr-portrait.webp
+  portrait: images/beings/characters/kharnhkhfr.webp
   templatePriority: null
   archetypes: []
   occupation: Perfumer
@@ -592,7 +592,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Khârânah Khafûr](images/beings/characters/kharnhkhfr-portrait.webp){float: top-left}
+![Khârânah Khafûr](images/beings/characters/kharnhkhfr.webp){float: top-left}
 
 ## Appearance {#appearance}
 

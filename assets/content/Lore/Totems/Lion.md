@@ -12,6 +12,7 @@ name:
 shortcode: lionttm
 img: images/mystery/lion.webp
 packFolder: loretotems
+banner: banners/creaturebnr.webp
 ---
 
 Dominant and strategic, lions are social big cats that work cooperatively within a pride to hunt and defend their territory with calculated precision.

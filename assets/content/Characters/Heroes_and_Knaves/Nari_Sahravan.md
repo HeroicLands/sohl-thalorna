@@ -14,10 +14,10 @@ name:
     - The Desert Mystic
 packFolder: ankariskhazryndesert
 shortcode: narisahrvn
-img: sohl/assets/icons/game-icons/delapouite/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/narisahrvn-portrait.webp
+  portrait: images/beings/characters/narisahrvn.webp
   templatePriority: null
   archetypes: []
   occupation: Shaman
@@ -587,7 +587,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Nari Sahravân](images/beings/characters/narisahrvn-portrait.webp){float: top-left}
+![Nari Sahravân](images/beings/characters/narisahrvn.webp){float: top-left}
 
 ## Appearance {#appearance}
 

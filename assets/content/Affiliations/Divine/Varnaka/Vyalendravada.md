@@ -82,6 +82,7 @@ data:
   relations:
     varakpnthn: aligned
 packFolder: pantheonsvarnaka
+banner: banners/faithbnr.webp
 ---
 
 ## Vyālendravāda — The Doctrine of Vyālendra

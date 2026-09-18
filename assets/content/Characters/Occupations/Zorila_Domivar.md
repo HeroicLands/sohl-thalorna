@@ -13,10 +13,10 @@ name:
     - Brynhild Stonefoot
 packFolder: aureldiatarvenia
 shortcode: zoriladmvr
-img: sohl/assets/icons/game-icons/delapouite/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/zoriladmvr-portrait.webp
+  portrait: null
   templatePriority: null
   archetypes: []
   occupation: Hunter

@@ -7,11 +7,11 @@ name:
   full: Hippogryph
   aliases: []
 description: "A five-hundred-pound eagle-and-horse hybrid prized for balance over raw power, lacking the gryphon's fierce territorial aggression."
-img: sohl/assets/icons/game-icons/delapouite/griffin-symbol.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/griffinsymbol.svg
 shortcode: hppgryph
 type: being
 data:
-  portrait: images/being/hppgryph-portrait.webp
+  portrait: null
   templatePriority: null
   archetypes: []
   occupation: null

@@ -13,10 +13,10 @@ name:
     - Lyra Quickpaw
 packFolder: ankarisnordlands
 shortcode: frthstrmrt
-img: sohl/assets/icons/game-icons/delapouite/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/frthstrmrt-portrait.webp
+  portrait: null
   templatePriority: null
   archetypes: []
   occupation: Ratter

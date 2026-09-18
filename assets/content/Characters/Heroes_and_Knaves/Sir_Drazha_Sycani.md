@@ -15,10 +15,10 @@ name:
     - Sir Drazha Sycani
 packFolder: heroesandknaveskalihara
 shortcode: srdrzhsycnknghtblckflm
-img: sohl/assets/icons/game-icons/delapouite/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/srdrzhsycnknghtblckflm-portrait.webp
+  portrait: images/beings/characters/srdrzhsycnknghtblckflm.webp
   templatePriority: null
   archetypes: []
   occupation: Nobility (Knight Bachelor)
@@ -589,7 +589,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Sir Drazha Sycâni, Knight of the Black Flame](images/beings/characters/srdrzhsycnknghtblckflm-portrait.webp){float: top-left}
+![Sir Drazha Sycâni, Knight of the Black Flame](images/beings/characters/srdrzhsycnknghtblckflm.webp){float: top-left}
 
 ## Appearance {#appearance}
 

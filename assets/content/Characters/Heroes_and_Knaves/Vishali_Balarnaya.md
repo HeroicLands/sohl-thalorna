@@ -12,10 +12,10 @@ name:
   aliases: []
 packFolder: ankarisvedyara
 shortcode: vishalblry
-img: sohl/assets/icons/game-icons/delapouite/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/vishalblry-portrait.webp
+  portrait: images/beings/characters/vishalblry.webp
   templatePriority: null
   archetypes: []
   occupation: Fool
@@ -583,7 +583,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Vishali Bâlarṇaya](images/beings/characters/vishalblry-portrait.webp){float: top-left}
+![Vishali Bâlarṇaya](images/beings/characters/vishalblry.webp){float: top-left}
 
 ## Appearance {#appearance}
 

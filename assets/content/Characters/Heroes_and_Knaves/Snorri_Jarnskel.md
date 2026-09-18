@@ -12,10 +12,10 @@ name:
   aliases: []
 packFolder: ankarisnordlands
 shortcode: snorjrnskl
-img: sohl/assets/icons/game-icons/delapouite/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/snorjrnskl-portrait.webp
+  portrait: images/beings/characters/snorjrnskl.webp
   templatePriority: null
   archetypes: []
   occupation: Farmer
@@ -591,7 +591,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Snorri Járnskel](images/beings/characters/snorjrnskl-portrait.webp){float: top-left}
+![Snorri Járnskel](images/beings/characters/snorjrnskl.webp){float: top-left}
 
 ## Appearance {#appearance}
 

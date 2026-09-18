@@ -6,11 +6,11 @@ name:
   full: Ironjaw
   aliases: []
 description: "A metal-fused pack predator corrupted by dark magic that hunts mountains and industrial wastes, marking territory with bones and claw-scratches."
-img: sohl/assets/icons/game-icons/delapouite/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 shortcode: ironjaw
 type: being
 data:
-  portrait: images/beings/creatures/ironjaw-portrait.webp
+  portrait: images/beings/creatures/ironjaw.webp
   templatePriority: null
   archetypes: []
   occupation: null
@@ -371,7 +371,7 @@ sohl:
         disabled: false
 ---
 
-![Ironjaw](images/beings/creatures/ironjaw-portrait.webp){float: top-left}
+![Ironjaw](images/beings/creatures/ironjaw.webp){float: top-left}
 
 ## Appearance {#appearance}
 

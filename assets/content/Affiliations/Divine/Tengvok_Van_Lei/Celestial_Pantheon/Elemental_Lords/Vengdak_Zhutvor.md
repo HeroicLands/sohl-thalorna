@@ -121,6 +121,7 @@ data:
   relations:
     tngvkvnlei: aligned
 packFolder: elementallords
+banner: banners/faithbnr.webp
 ---
 
 ## Vëngdāk Zhütvōr — The Lord of Earth

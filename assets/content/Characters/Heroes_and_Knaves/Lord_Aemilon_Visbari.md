@@ -17,10 +17,10 @@ name:
   aliases: []
 packFolder: midhalionvylaria
 shortcode: lrdmlnvsbr
-img: sohl/assets/icons/game-icons/delapouite/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/lrdmlnvsbr-portrait.webp
+  portrait: images/beings/characters/lrdmlnvsbr.webp
   templatePriority: null
   archetypes: []
   occupation: Herald
@@ -583,7 +583,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Lord Aemilon Visbari](images/beings/characters/lrdmlnvsbr-portrait.webp){float: top-left}
+![Lord Aemilon Visbari](images/beings/characters/lrdmlnvsbr.webp){float: top-left}
 
 ## Appearance {#appearance}
 

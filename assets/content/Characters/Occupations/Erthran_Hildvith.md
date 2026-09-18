@@ -13,10 +13,10 @@ name:
     - Bram Hollowfoot
 packFolder: ankarisvrystwald
 shortcode: erthrnhldvth
-img: sohl/assets/icons/game-icons/delapouite/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/erthrnhldvth-portrait.webp
+  portrait: null
   templatePriority: null
   archetypes: []
   occupation: Trapper

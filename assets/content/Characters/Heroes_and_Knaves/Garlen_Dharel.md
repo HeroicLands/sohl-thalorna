@@ -12,10 +12,10 @@ name:
   aliases: []
 packFolder: aureldiaelavendre
 shortcode: garlendhrl
-img: sohl/assets/icons/game-icons/delapouite/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/garlendhrl-portrait.webp
+  portrait: images/beings/characters/garlendhrl.webp
   templatePriority: null
   archetypes: []
   occupation: Hideworker
@@ -601,7 +601,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Gârlen Dhárel](images/beings/characters/garlendhrl-portrait.webp){float: top-left}
+![Gârlen Dhárel](images/beings/characters/garlendhrl.webp){float: top-left}
 
 ## Appearance {#appearance}
 

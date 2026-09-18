@@ -13,10 +13,10 @@ name:
     - Darrin Wavebreaker
 packFolder: midhalionvylaria
 shortcode: arklrdsklmkns
-img: sohl/assets/icons/game-icons/delapouite/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/arklrdsklmkns-portrait.webp
+  portrait: null
   templatePriority: null
   archetypes: []
   occupation: Common Seaman

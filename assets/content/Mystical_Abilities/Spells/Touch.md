@@ -5,7 +5,7 @@ name:
   aliases:
     - Caress
 description: "Caster's hands conduct magic; enables touch-based spellcasting."
-img: sohl/assets/icons/game-icons/badges/fire.svg
+img: systems/sohl/assets/icons/game-icons/badges/firebdg.svg
 shortcode: touch
 type: mysticalability
 subType: arcaneincantation

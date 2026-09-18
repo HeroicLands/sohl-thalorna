@@ -1,7 +1,7 @@
 ---
 description: "A garrison heartland; the chariot-corps drill-grounds and officer schools — one of the border nomes of Ta'Kheperu."
 type: affiliation
-banner: banners/ta-kheperu-banner.webp
+banner: banners/takheperubnr.webp
 name:
   full: The Nome of Per-Mentu
   aliases: []

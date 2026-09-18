@@ -5,7 +5,7 @@ name:
   aliases:
     - Mould
 description: "Remoulds material into new form; sculpts without tool."
-img: sohl/assets/icons/game-icons/badges/anvil.svg
+img: systems/sohl/assets/icons/game-icons/badges/anvilbdg.svg
 shortcode: shaper
 type: mysticalability
 subType: arcaneincantation

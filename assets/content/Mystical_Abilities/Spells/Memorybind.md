@@ -5,7 +5,7 @@ name:
   aliases:
     - Recollection
 description: "Imprints memory into object; anyone touching it relives experience."
-img: sohl/assets/icons/noun/divination.svg
+img: systems/sohl/assets/icons/noun/divination.svg
 shortcode: mmrybnd
 type: mysticalability
 subType: arcaneincantation

@@ -6,11 +6,11 @@ name:
   full: Sky Serpent
   aliases: []
 description: "A serpentine aerial predator up to thirty feet long that glides from mountain heights and canopies to ambush and constrict prey."
-img: sohl/assets/icons/game-icons/delapouite/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 shortcode: skysrpnt
 type: being
 data:
-  portrait: images/beings/creatures/skysrpnt-portrait.webp
+  portrait: images/beings/creatures/skysrpnt.webp
   templatePriority: null
   archetypes: []
   occupation: null
@@ -263,7 +263,7 @@ sohl:
         disabled: false
 ---
 
-![Sky Serpent](images/beings/creatures/skysrpnt-portrait.webp){float: top-left}
+![Sky Serpent](images/beings/creatures/skysrpnt.webp){float: top-left}
 
 ## Appearance {#appearance}
 

@@ -13,10 +13,10 @@ name:
     - Garrick Stablemaster
 packFolder: helladhelionis
 shortcode: chnkhrghrths
-img: sohl/assets/icons/game-icons/delapouite/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/chnkhrghrths-portrait.webp
+  portrait: null
   templatePriority: null
   archetypes: []
   occupation: Ostler

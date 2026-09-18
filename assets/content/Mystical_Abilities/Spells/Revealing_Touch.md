@@ -5,7 +5,7 @@ name:
   aliases:
     - Unveiling
 description: "Ripple of light disrupts illusions and glamours completely."
-img: sohl/assets/icons/other/wind.svg
+img: systems/sohl/assets/icons/other/wind.svg
 shortcode: rvltch
 type: mysticalability
 subType: arcaneincantation

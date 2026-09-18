@@ -12,6 +12,7 @@ name:
 shortcode: dovettm
 img: images/mystery/dove.webp
 packFolder: loretotems
+banner: banners/creaturebnr.webp
 ---
 
 Gentle and peaceful, instinctively seeking harmony and companionship, often displaying strong pair bonding and a calming presence in their surroundings.

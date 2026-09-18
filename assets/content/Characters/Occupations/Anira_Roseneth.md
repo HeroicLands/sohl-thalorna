@@ -13,10 +13,10 @@ name:
     - Liora Hearthsong
 packFolder: aureldiatarvenia
 shortcode: anirarsnth
-img: sohl/assets/icons/game-icons/delapouite/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/anirarsnth-portrait.webp
+  portrait: null
   templatePriority: null
   archetypes: []
   occupation: Musician (Lute)

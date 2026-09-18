@@ -79,7 +79,7 @@ name:
     - Lord of Silent Passage
 shortcode: seker
 img: icons/takheperu/pantheon/seker.svg
-banner: banners/ta-kheperu-banner.webp
+banner: banners/takheperubnr.webp
 alias: Sēker, Lord of Silent Passage
 packFolder: pantheonskemetian
 ---

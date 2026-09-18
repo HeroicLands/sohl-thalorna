@@ -13,10 +13,10 @@ name:
     - Hilda Stoneheart
 packFolder: aureldiaaelwyth
 shortcode: hawiseshby
-img: sohl/assets/icons/game-icons/delapouite/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/hawiseshby-portrait.webp
+  portrait: null
   templatePriority: null
   archetypes: []
   occupation: Huscarl

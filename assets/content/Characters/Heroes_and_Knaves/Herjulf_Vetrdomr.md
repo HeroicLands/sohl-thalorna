@@ -12,10 +12,10 @@ name:
   aliases: []
 packFolder: ankarisnordlands
 shortcode: hrjlfvtrdmr
-img: sohl/assets/icons/game-icons/delapouite/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/hrjlfvtrdmr-portrait.webp
+  portrait: images/beings/characters/hrjlfvtrdmr.webp
   templatePriority: null
   archetypes: []
   occupation: Woodcutter
@@ -593,7 +593,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Herjúlf Vetrdómr](images/beings/characters/hrjlfvtrdmr-portrait.webp){float: top-left}
+![Herjúlf Vetrdómr](images/beings/characters/hrjlfvtrdmr.webp){float: top-left}
 
 ## Appearance {#appearance}
 

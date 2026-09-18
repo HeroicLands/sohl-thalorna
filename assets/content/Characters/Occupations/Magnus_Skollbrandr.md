@@ -14,10 +14,10 @@ name:
     - Alaric Gemcutter
 packFolder: ankarisnordlands
 shortcode: mgnsklbrndr
-img: sohl/assets/icons/game-icons/delapouite/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/mgnsklbrndr-portrait.webp
+  portrait: null
   templatePriority: null
   archetypes: []
   occupation: Jeweller

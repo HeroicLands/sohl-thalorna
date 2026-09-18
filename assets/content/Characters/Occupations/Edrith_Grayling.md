@@ -13,10 +13,10 @@ name:
     - Freya Softskin
 packFolder: aureldiaaelwyth
 shortcode: edrthgrylng
-img: sohl/assets/icons/game-icons/delapouite/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/edrthgrylng-portrait.webp
+  portrait: null
   templatePriority: null
   archetypes: []
   occupation: Hideworker

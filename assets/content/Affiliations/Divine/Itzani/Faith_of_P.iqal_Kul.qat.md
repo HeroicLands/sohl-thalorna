@@ -121,6 +121,7 @@ data:
     - itzanpnthn
   relations:
     itzanpnthn: aligned
+banner: banners/faithbnr.webp
 ---
 
 **Domain:** Creation, Building, Renewal, Craftsmanship, Architecture

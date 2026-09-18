@@ -6,11 +6,11 @@ name:
   full: Grimshadow
   aliases: []
 description: "An ancient malevolent spirit born of concentrated terror, anchored to sites of tragedy where it feeds on fear and despair rather than flesh."
-img: sohl/assets/icons/game-icons/delapouite/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 shortcode: grmshdw
 type: being
 data:
-  portrait: images/beings/creatures/grmshdw-portrait.webp
+  portrait: images/beings/creatures/grmshdw.webp
   templatePriority: null
   archetypes: []
   occupation: null
@@ -192,7 +192,7 @@ sohl:
         disabled: false
 ---
 
-![Grimshadow](images/beings/creatures/grmshdw-portrait.webp){float: top-left}
+![Grimshadow](images/beings/creatures/grmshdw.webp){float: top-left}
 
 ## Appearance {#appearance}
 

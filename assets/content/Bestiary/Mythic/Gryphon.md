@@ -7,11 +7,11 @@ name:
   full: Gryphon
   aliases: []
 description: "A three-hundred-pound eagle-lion predator of legend, lean and supremely muscled, blending the majesty of birds with the ferocity of beasts."
-img: sohl/assets/icons/game-icons/delapouite/griffin-symbol.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/griffinsymbol.svg
 shortcode: gryphon
 type: being
 data:
-  portrait: images/being/gryphon-portrait.webp
+  portrait: null
   templatePriority: null
   archetypes: []
   occupation: null

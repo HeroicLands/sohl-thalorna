@@ -4,7 +4,7 @@ name:
   full: Blazing Mantle
   aliases: []
 description: "Surrounds caster in white-hot flame; scorches those who touch."
-img: sohl/assets/icons/game-icons/badges/fire.svg
+img: systems/sohl/assets/icons/game-icons/badges/firebdg.svg
 shortcode: blzgmntl
 type: mysticalability
 subType: arcaneincantation

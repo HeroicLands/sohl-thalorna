@@ -13,12 +13,12 @@ name:
   aliases:
     - Satara ReenKhensu
 packFolder: northernfertileregiontakheperu
-banner: banners/ta-kheperu-banner.webp
+banner: banners/takheperubnr.webp
 shortcode: satrrnkhns
-img: sohl/assets/icons/game-icons/delapouite/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/satrrnkhns-portrait.webp
+  portrait: images/beings/characters/satrrnkhns.webp
   templatePriority: null
   archetypes: []
   occupation: Timberwright
@@ -605,7 +605,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Satara Re'en'Khensu](images/beings/characters/satrrnkhns-portrait.webp){float: top-left}
+![Satara Re'en'Khensu](images/beings/characters/satrrnkhns.webp){float: top-left}
 
 **Home:** [[place-khensuret|Khensuret]]
 

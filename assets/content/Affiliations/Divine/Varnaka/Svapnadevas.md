@@ -55,6 +55,7 @@ data:
   relations:
     varakpnthn: aligned
 packFolder: pantheonsvarnaka
+banner: banners/faithbnr.webp
 ---
 
 ## Svapnadēvas — The Dreaming Host

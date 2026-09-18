@@ -14,10 +14,10 @@ name:
     - the Seidr of Norgaad
 packFolder: ankarisnordlands
 shortcode: grosdrnrgd
-img: sohl/assets/icons/game-icons/delapouite/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/grosdrnrgd-portrait.webp
+  portrait: images/beings/characters/grosdrnrgd.webp
   templatePriority: null
   archetypes: []
   occupation: Shaman
@@ -598,7 +598,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Gróa the Seidr of Norgaad](images/beings/characters/grosdrnrgd-portrait.webp){float: top-left}
+![Gróa the Seidr of Norgaad](images/beings/characters/grosdrnrgd.webp){float: top-left}
 
 ## Appearance {#appearance}
 

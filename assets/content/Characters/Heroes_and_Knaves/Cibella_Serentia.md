@@ -11,11 +11,11 @@ name:
   aliases: []
 packFolder: midhalionvylaria
 shortcode: cibelasrnt
-banner: banners/tamzir-banner.webp
-img: sohl/assets/icons/game-icons/delapouite/person.svg
+banner: banners/tamzirbnr.webp
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/cibelasrnt-portrait.webp
+  portrait: images/beings/characters/cibelasrnt.webp
   templatePriority: null
   archetypes: []
   occupation: Ward
@@ -554,7 +554,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Cibella Serentia](images/beings/characters/cibelasrnt-portrait.webp){float: top-left}
+![Cibella Serentia](images/beings/characters/cibelasrnt.webp){float: top-left}
 
 ## Appearance {#appearance}
 

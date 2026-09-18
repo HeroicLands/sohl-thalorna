@@ -13,10 +13,10 @@ name:
     - Marisella Cloven
 packFolder: midhalionvylaria
 shortcode: klndrskrklns
-img: sohl/assets/icons/game-icons/delapouite/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/klndrskrklns-portrait.webp
+  portrait: null
   templatePriority: null
   archetypes: []
   occupation: Clothier

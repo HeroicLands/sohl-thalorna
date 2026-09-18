@@ -12,6 +12,7 @@ name:
 shortcode: duckttm
 img: images/mystery/duck.webp
 packFolder: loretotems
+banner: banners/creaturebnr.webp
 ---
 
 Gregarious and adaptable, ducks are social birds that thrive in diverse environments, often forming strong bonds with their flock.

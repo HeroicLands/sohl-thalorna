@@ -13,10 +13,10 @@ name:
   aliases: []
 packFolder: ankarisnordlands
 shortcode: hrfnklhrfnsvld
-img: sohl/assets/icons/game-icons/delapouite/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/hrfnklhrfnsvld-portrait.webp
+  portrait: images/beings/characters/hrfnklhrfnsvld.webp
   templatePriority: null
   archetypes: []
   occupation: Tentmaker
@@ -604,7 +604,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Hrafnkell Hrafnsvald](images/beings/characters/hrfnklhrfnsvld-portrait.webp){float: top-left}
+![Hrafnkell Hrafnsvald](images/beings/characters/hrfnklhrfnsvld.webp){float: top-left}
 
 ## Appearance {#appearance}
 

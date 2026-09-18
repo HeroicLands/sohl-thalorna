@@ -5,7 +5,7 @@ name:
   aliases:
     - Survey
 description: "Searches nearby area; detects creatures and objects remotely."
-img: sohl/assets/icons/game-icons/delapouite/circle.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/circle.svg
 shortcode: scan
 type: mysticalability
 subType: arcaneincantation

@@ -12,10 +12,10 @@ name:
   aliases: []
 packFolder: ankarisnordlands
 shortcode: oskdrekant
-img: sohl/assets/icons/game-icons/delapouite/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/oskdrekant-portrait.webp
+  portrait: images/beings/characters/oskdrekant.webp
   templatePriority: null
   archetypes: []
   occupation: Thatcher
@@ -590,7 +590,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Ósk Drekanótt](images/beings/characters/oskdrekant-portrait.webp){float: top-left}
+![Ósk Drekanótt](images/beings/characters/oskdrekant.webp){float: top-left}
 
 ## Appearance {#appearance}
 

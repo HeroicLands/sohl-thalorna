@@ -12,12 +12,12 @@ name:
   aliases:
     - Tirye Djetamê
 packFolder: northernfertileregiontakheperu
-banner: banners/ta-kheperu-banner.webp
+banner: banners/takheperubnr.webp
 shortcode: tiryedjetm
-img: sohl/assets/icons/game-icons/delapouite/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/tiryedjetm-portrait.webp
+  portrait: images/beings/characters/tiryedjetm.webp
   templatePriority: null
   archetypes: []
   occupation: Thespian
@@ -584,7 +584,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Tirye Djet'amê](images/beings/characters/tiryedjetm-portrait.webp){float: top-left}
+![Tirye Djet'amê](images/beings/characters/tiryedjetm.webp){float: top-left}
 
 **Home:** [[place-meruhotep|Meru-Hotep]]
 

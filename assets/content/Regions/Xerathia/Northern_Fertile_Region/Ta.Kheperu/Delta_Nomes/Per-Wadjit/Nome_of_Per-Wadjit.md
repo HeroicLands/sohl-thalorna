@@ -1,7 +1,7 @@
 ---
 description: "Papyrus marshes; fowling, reed-craft, and the empire's paper-cutting — one of the delta nomes of Ta'Kheperu."
 type: affiliation
-banner: banners/ta-kheperu-banner.webp
+banner: banners/takheperubnr.webp
 name:
   full: The Nome of Per-Wadjit
   aliases: []

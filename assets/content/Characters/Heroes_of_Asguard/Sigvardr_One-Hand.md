@@ -15,10 +15,10 @@ name:
   home: null
 packFolder: ankarisnordlands
 shortcode: sgvrdrnhnd
-img: sohl/assets/icons/game-icons/delapouite/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/sgvrdrnhnd-portrait.webp
+  portrait: null
   templatePriority: null
   archetypes: []
   occupation: Warrior and Judge

@@ -14,10 +14,10 @@ name:
     - Shénasenè Callista Tradewind
 packFolder: aureldiaaelwyth
 shortcode: audryhrdng
-img: sohl/assets/icons/game-icons/delapouite/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/audryhrdng-portrait.webp
+  portrait: null
   templatePriority: null
   archetypes: []
   occupation: Priest

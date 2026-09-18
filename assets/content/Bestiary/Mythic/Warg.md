@@ -7,11 +7,11 @@ name:
   full: Warg
   aliases: []
 description: "A monstrous four-hundred-pound wolf warped by fell magic into a near-sapient predator far deadlier than any dire wolf."
-img: sohl/assets/icons/game-icons/lorc/wolf-head.svg
+img: systems/sohl/assets/icons/game-icons/lorc/wolfhead.svg
 shortcode: warg
 type: being
 data:
-  portrait: images/being/warg-portrait.webp
+  portrait: null
   templatePriority: null
   archetypes: []
   occupation: null

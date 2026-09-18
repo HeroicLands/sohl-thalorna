@@ -5,7 +5,7 @@ name:
   aliases:
     - Beacon
 description: "Pillars of concentrated light descending; scorches and ignites targets."
-img: sohl/assets/icons/other/wind.svg
+img: systems/sohl/assets/icons/other/wind.svg
 shortcode: lghtspr
 type: mysticalability
 subType: arcaneincantation

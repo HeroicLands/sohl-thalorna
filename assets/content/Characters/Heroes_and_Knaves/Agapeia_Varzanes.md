@@ -12,10 +12,10 @@ name:
   aliases: []
 packFolder: helladbyzaria
 shortcode: agapevrzns
-img: sohl/assets/icons/game-icons/delapouite/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/agapevrzns-portrait.webp
+  portrait: images/beings/characters/agapevrzns.webp
   templatePriority: null
   archetypes: []
   occupation: Miner
@@ -588,7 +588,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Agápeia Varzánês](images/beings/characters/agapevrzns-portrait.webp){float: top-left}
+![Agápeia Varzánês](images/beings/characters/agapevrzns.webp){float: top-left}
 
 ## Appearance {#appearance}
 

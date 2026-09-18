@@ -14,7 +14,7 @@ data:
 name:
   full: Ankh-Setûn
   aliases: []
-banner: banners/ta-kheperu-banner.webp
+banner: banners/takheperubnr.webp
 shortcode: ankhsetun
 packFolder: ankhsetun
 ---

@@ -5,7 +5,7 @@ name:
   aliases:
     - Shape
 description: "Temporarily alters caster's physical form into different shape."
-img: sohl/assets/icons/other/tree.svg
+img: systems/sohl/assets/icons/other/tree.svg
 shortcode: morph
 type: mysticalability
 subType: arcaneincantation

@@ -122,6 +122,7 @@ data:
     - itzanpnthn
   relations:
     itzanpnthn: aligned
+banner: banners/faithbnr.webp
 ---
 
 **Domain:** Fertility, Water, Healing, Renewal, Birth, Life

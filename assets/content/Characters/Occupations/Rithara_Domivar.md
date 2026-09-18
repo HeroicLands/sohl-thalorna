@@ -13,10 +13,10 @@ name:
     - Lira Shellwhisper
 packFolder: aureldiatarvenia
 shortcode: rithardmvr
-img: sohl/assets/icons/game-icons/delapouite/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/rithardmvr-portrait.webp
+  portrait: null
   templatePriority: null
   archetypes: []
   occupation: Common Seaman

@@ -13,10 +13,10 @@ name:
     - Nyssa Shadowveil
 packFolder: aureldiaaelwyth
 shortcode: hildbrwnng
-img: sohl/assets/icons/game-icons/delapouite/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/hildbrwnng-portrait.webp
+  portrait: null
   templatePriority: null
   archetypes: []
   occupation: Prostitute

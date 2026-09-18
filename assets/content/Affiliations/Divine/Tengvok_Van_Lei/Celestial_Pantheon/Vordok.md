@@ -120,6 +120,7 @@ data:
   relations:
     tanvurempr: aligned
 packFolder: celestialpantheon
+banner: banners/faithbnr.webp
 ---
 
 ## Vōrdōk — The Minister of Roads

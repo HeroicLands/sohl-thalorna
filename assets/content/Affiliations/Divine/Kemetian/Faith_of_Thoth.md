@@ -87,7 +87,7 @@ name:
     - The Scribe of the Eternal Library
 shortcode: thoth
 img: icons/takheperu/pantheon/thoth.svg
-banner: banners/ta-kheperu-banner.webp
+banner: banners/takheperubnr.webp
 packFolder: pantheonskemetian
 ---
 

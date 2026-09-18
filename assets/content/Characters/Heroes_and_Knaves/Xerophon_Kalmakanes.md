@@ -12,10 +12,10 @@ name:
   aliases: []
 packFolder: midhalionvylaria
 shortcode: xrphnklmkns
-img: sohl/assets/icons/game-icons/delapouite/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/xrphnklmkns-portrait.webp
+  portrait: images/beings/characters/xrphnklmkns.webp
   templatePriority: null
   archetypes: []
   occupation: Gaoler
@@ -590,7 +590,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Xerôphôn Kâlmâkanês](images/beings/characters/xrphnklmkns-portrait.webp){float: top-left}
+![Xerôphôn Kâlmâkanês](images/beings/characters/xrphnklmkns.webp){float: top-left}
 
 ## Appearance {#appearance}
 

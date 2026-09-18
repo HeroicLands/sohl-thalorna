@@ -14,10 +14,10 @@ name:
     - Shénasenè Seraphine Dreamweaver
 packFolder: aureldiatarvenia
 shortcode: palnsnrcth
-img: sohl/assets/icons/game-icons/delapouite/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/palnsnrcth-portrait.webp
+  portrait: null
   templatePriority: null
   archetypes: []
   occupation: Priest

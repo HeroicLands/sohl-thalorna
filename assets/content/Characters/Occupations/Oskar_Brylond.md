@@ -13,10 +13,10 @@ name:
     - Anton Silverhand
 packFolder: aureldiaprovenzia
 shortcode: oskrbrylnd
-img: sohl/assets/icons/game-icons/delapouite/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/oskrbrylnd-portrait.webp
+  portrait: null
   templatePriority: null
   archetypes: []
   occupation: Mercantyler

@@ -81,6 +81,7 @@ data:
   parents: []
   relations: {}
 packFolder: pantheonsaureldian
+banner: banners/pantheonbnr.webp
 ---
 
 **Pronunciation:** _Aw-REL-dee-ahn_

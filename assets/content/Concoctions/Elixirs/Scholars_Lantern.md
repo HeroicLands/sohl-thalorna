@@ -6,7 +6,7 @@ name:
   aliases:
     - Erudition Elixir
 description: "Golden elixir; sharpens mind with preternatural clarity in reasoning."
-img: sohl/assets/icons/other/potion.svg
+img: systems/sohl/assets/icons/other/potion.svg
 shortcode: elxerd
 type: concoctiongear
 subType: elixir

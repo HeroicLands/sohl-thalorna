@@ -12,10 +12,10 @@ name:
   aliases: []
 packFolder: ankarisnordlands
 shortcode: yngvrblthl
-img: sohl/assets/icons/game-icons/delapouite/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/yngvrblthl-portrait.webp
+  portrait: images/beings/characters/yngvrblthl.webp
   templatePriority: null
   archetypes: []
   occupation: Jester
@@ -585,7 +585,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Yngvarr Blóthöll](images/beings/characters/yngvrblthl-portrait.webp){float: top-left}
+![Yngvarr Blóthöll](images/beings/characters/yngvrblthl.webp){float: top-left}
 
 ## Appearance {#appearance}
 

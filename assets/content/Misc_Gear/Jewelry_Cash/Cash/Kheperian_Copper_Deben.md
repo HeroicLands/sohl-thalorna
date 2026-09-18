@@ -5,7 +5,7 @@ name:
   full: Kheperian Copper Deben
   aliases: ["Copper Deben"]
 description: "Sealed bronze piece at deben weight, passing at its attested face rather than its metal."
-img: sohl/assets/icons/game-icons/badges/coins.svg
+img: systems/sohl/assets/icons/game-icons/badges/coinsbdg.svg
 shortcode: cdeb
 type: miscgear
 data:

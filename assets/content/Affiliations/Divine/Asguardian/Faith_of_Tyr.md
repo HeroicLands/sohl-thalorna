@@ -83,6 +83,7 @@ name:
 shortcode: tyr
 img: images/affiliation/asguardian/tyr.webp
 packFolder: pantheonsasguardian
+banner: banners/faithbnr.webp
 ---
 
 Týr, the god of justice and honorable combat, embodies the ideals of fairness, valor, and sacrifice. As a deity who values truth and righteousness above all, Týr is revered as the ultimate judge, whose decisions are guided by an unwavering commitment to the greater good. His most famous act of sacrifice — losing his hand to the great wolf Fenrir — exemplifies his dedication to justice and the protection of the world, even at great personal cost.

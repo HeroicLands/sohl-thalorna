@@ -12,6 +12,7 @@ name:
 shortcode: boarttm
 img: images/mystery/boar.webp
 packFolder: loretotems
+banner: banners/creaturebnr.webp
 ---
 
 Willful and stubborn, boars are highly determined and will fight vigorously when provoked, relying on their strength and tenacity.

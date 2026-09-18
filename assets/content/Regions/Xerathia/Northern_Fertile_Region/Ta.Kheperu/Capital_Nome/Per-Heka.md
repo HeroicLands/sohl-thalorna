@@ -14,7 +14,7 @@ data:
 name:
   full: Per-Heka
   aliases: []
-banner: banners/ta-kheperu-banner.webp
+banner: banners/takheperubnr.webp
 shortcode: perheka
 packFolder: capitalnome
 ---

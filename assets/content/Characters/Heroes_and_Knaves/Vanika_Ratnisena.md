@@ -12,10 +12,10 @@ name:
   aliases: []
 packFolder: ankarisvedyara
 shortcode: vanikartns
-img: sohl/assets/icons/game-icons/delapouite/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/vanikartns-portrait.webp
+  portrait: images/beings/characters/vanikartns.webp
   templatePriority: null
   archetypes: []
   occupation: Cook
@@ -587,7 +587,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Vànika Ratniseṇa](images/beings/characters/vanikartns-portrait.webp){float: top-left}
+![Vànika Ratniseṇa](images/beings/characters/vanikartns.webp){float: top-left}
 
 ## Appearance {#appearance}
 

@@ -12,10 +12,10 @@ name:
   aliases: []
 packFolder: ankarisvedyara
 shortcode: nrvsrytjmhnnd
-img: sohl/assets/icons/game-icons/delapouite/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/nrvsrytjmhnnd-portrait.webp
+  portrait: images/beings/characters/nrvsrytjmhnnd.webp
   templatePriority: null
   archetypes: []
   occupation: Glassworker
@@ -598,7 +598,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Nárava Sūryatejamahānanda](images/beings/characters/nrvsrytjmhnnd-portrait.webp){float: top-left}
+![Nárava Sūryatejamahānanda](images/beings/characters/nrvsrytjmhnnd.webp){float: top-left}
 
 ## Appearance {#appearance}
 

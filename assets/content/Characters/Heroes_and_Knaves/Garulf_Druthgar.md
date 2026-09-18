@@ -11,11 +11,11 @@ name:
   aliases: []
 packFolder: ankarisvrystwald
 shortcode: grlfdrthgr
-banner: banners/tamzir-banner.webp
-img: sohl/assets/icons/game-icons/delapouite/person.svg
+banner: banners/tamzirbnr.webp
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/grlfdrthgr-portrait.webp
+  portrait: images/beings/characters/grlfdrthgr.webp
   templatePriority: null
   archetypes: []
   occupation: Sellsword
@@ -567,7 +567,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Garulf Druthgar](images/beings/characters/grlfdrthgr-portrait.webp){float: top-left}
+![Garulf Druthgar](images/beings/characters/grlfdrthgr.webp){float: top-left}
 
 ## Appearance {#appearance}
 

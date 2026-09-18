@@ -13,7 +13,7 @@ data:
 name:
   full: Djaneb
   aliases: []
-banner: banners/ta-kheperu-banner.webp
+banner: banners/takheperubnr.webp
 shortcode: djaneb
 packFolder: deltanomes
 ---

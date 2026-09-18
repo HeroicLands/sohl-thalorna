@@ -7,7 +7,7 @@ subType: reference
 shortcode: lore
 tags:
 description: Myths, legends, and background lore.
-banner: systems/sohl/assets/images/banners/lore.webp
+banner: banners/lorebnr.webp
 ---
 
 Myths, legends, and background lore.

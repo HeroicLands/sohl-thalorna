@@ -5,7 +5,7 @@ name:
   aliases:
     - Fireworks
 description: "Creates brilliant light display; dazzles vision with color."
-img: sohl/assets/icons/game-icons/badges/fire.svg
+img: systems/sohl/assets/icons/game-icons/badges/firebdg.svg
 shortcode: sprkshw
 type: mysticalability
 subType: arcaneincantation

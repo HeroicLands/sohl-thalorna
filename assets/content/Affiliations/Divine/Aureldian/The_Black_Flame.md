@@ -70,6 +70,7 @@ data:
   relations:
     arldnpnthn: aligned
 packFolder: pantheonsaureldian
+banner: banners/faithbnr.webp
 ---
 
 - **Deity:** Vúlcan — _The Forge-Lord_

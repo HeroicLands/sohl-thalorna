@@ -13,10 +13,10 @@ name:
     - Elysia Stonehewer
 packFolder: helladhelionis
 shortcode: tamithjdrn
-img: sohl/assets/icons/game-icons/delapouite/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/tamithjdrn-portrait.webp
+  portrait: null
   templatePriority: null
   archetypes: []
   occupation: Mason

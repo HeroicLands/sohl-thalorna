@@ -12,6 +12,7 @@ name:
 shortcode: sheepttm
 img: images/mystery/sheep.webp
 packFolder: loretotems
+banner: banners/creaturebnr.webp
 ---
 
 Docile and flock-minded, sheep are highly social animals that find safety in numbers, often following a leader and sticking closely to their herd.

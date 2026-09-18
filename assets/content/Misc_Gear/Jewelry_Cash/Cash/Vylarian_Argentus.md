@@ -5,7 +5,7 @@ name:
   full: Vylarian Argentus
   aliases: ["Argentus", "Argo"]
 description: "Imperial silver coin; the standard unit of account for ordinary commerce."
-img: sohl/assets/icons/game-icons/badges/coins.svg
+img: systems/sohl/assets/icons/game-icons/badges/coinsbdg.svg
 shortcode: argo
 type: miscgear
 data:

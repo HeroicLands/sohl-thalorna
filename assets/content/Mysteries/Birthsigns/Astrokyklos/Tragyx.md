@@ -4,7 +4,7 @@ name:
   full: Tragyx
   aliases: []
 description: "The Stag: born to speak and to seek, equally useless at the anvil and in a fight."
-img: sohl/assets/icons/other/astrology.svg
+img: systems/sohl/assets/icons/other/astrology.svg
 shortcode: tragyx
 type: mystery
 subType: birthsign

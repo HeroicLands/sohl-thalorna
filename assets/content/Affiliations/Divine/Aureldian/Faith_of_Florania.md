@@ -71,6 +71,7 @@ name:
 shortcode: florania
 img: images/affiliation/aureldian/florania.webp
 packFolder: pantheonsaureldian
+banner: banners/faithbnr.webp
 ---
 
 Goddess of fertility, growth, and healing. Flórania ensures the fertility of people, animals, and the land. She is invoked during planting seasons, childbirth, rites of renewal, and healing.

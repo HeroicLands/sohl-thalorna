@@ -6,7 +6,7 @@ name:
   aliases:
     - Potion, Stimulant, Mild
 description: "Bright energetic liquid; invigorates body and stimulates mental."
-img: sohl/assets/icons/other/potion.svg
+img: systems/sohl/assets/icons/other/potion.svg
 shortcode: ptnstmm
 type: concoctiongear
 subType: exotic

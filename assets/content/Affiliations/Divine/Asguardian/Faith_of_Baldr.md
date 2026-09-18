@@ -66,6 +66,7 @@ thalorna:
   domain: Elder Races, Dreams, and Light
   symbol: Sunstone and silver leaf
 packFolder: pantheonsasguardian
+banner: banners/faithbnr.webp
 ---
 
 "Baldr" is the Asguardian name for [[lore-goddreams|The God of Dreams]] — a deity far older than any human pantheon, worshipped by the [[lore-flksinale|Sinalë]] and [[lore-flkkhazar|Khazári]] since before humanity existed. The Aurèldían peoples know the same deity as [[affiliation-aetheria|Aethería]].

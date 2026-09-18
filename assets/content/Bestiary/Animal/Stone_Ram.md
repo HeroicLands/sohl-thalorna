@@ -6,11 +6,11 @@ name:
   full: Stone Ram
   aliases: []
 description: "A powerfully built mountain herbivore and exceptional climber that holds cliffside territories beyond the reach of ground-bound predators."
-img: sohl/assets/icons/game-icons/delapouite/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 shortcode: stoneram
 type: being
 data:
-  portrait: images/beings/creatures/stoneram-portrait.webp
+  portrait: images/beings/creatures/stoneram.webp
   templatePriority: null
   archetypes: []
   occupation: null
@@ -358,7 +358,7 @@ sohl:
         disabled: false
 ---
 
-![Stone Ram](images/beings/creatures/stoneram-portrait.webp){float: top-left}
+![Stone Ram](images/beings/creatures/stoneram.webp){float: top-left}
 
 ## Appearance {#appearance}
 

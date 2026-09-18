@@ -93,6 +93,7 @@ data:
     tngvkvnlei: aligned
     yokveng: aligned
 packFolder: yokveng
+banner: banners/faithbnr.webp
 ---
 
 ## The Lesser Demons — Yōkvëng

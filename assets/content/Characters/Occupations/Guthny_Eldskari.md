@@ -13,10 +13,10 @@ name:
     - Thalia Stonehand
 packFolder: ankarisnordlands
 shortcode: gthnyldskr
-img: sohl/assets/icons/game-icons/delapouite/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/gthnyldskr-portrait.webp
+  portrait: null
   templatePriority: null
   archetypes: []
   occupation: Labourer (farm)

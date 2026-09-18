@@ -14,10 +14,10 @@ name:
     - The Spirit Blade Warrior
 packFolder: northernfertileregionokharis
 shortcode: eshewamagr
-img: sohl/assets/icons/game-icons/delapouite/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/eshewamagr-portrait.webp
+  portrait: images/beings/characters/eshewamagr.webp
   templatePriority: null
   archetypes: []
   occupation: Swordmaster
@@ -599,7 +599,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Eshe wa Magara](images/beings/characters/eshewamagr-portrait.webp){float: top-left}
+![Eshe wa Magara](images/beings/characters/eshewamagr.webp){float: top-left}
 
 ## Appearance {#appearance}
 

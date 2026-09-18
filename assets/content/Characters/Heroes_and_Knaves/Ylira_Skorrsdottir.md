@@ -11,11 +11,11 @@ name:
   aliases: []
 packFolder: ankarisnordlands
 shortcode: ylrskrsdtr
-banner: banners/tamzir-banner.webp
-img: sohl/assets/icons/game-icons/delapouite/person.svg
+banner: banners/tamzirbnr.webp
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/ylrskrsdtr-portrait.webp
+  portrait: images/beings/characters/ylrskrsdtr.webp
   templatePriority: null
   archetypes: []
   occupation: Warrior
@@ -562,7 +562,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Ylíra Skorrsdottir](images/beings/characters/ylrskrsdtr-portrait.webp){float: top-left}
+![Ylíra Skorrsdottir](images/beings/characters/ylrskrsdtr.webp){float: top-left}
 
 ## Appearance {#appearance}
 

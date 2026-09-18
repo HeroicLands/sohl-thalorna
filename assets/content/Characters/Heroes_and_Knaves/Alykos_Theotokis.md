@@ -13,10 +13,10 @@ name:
   aliases: []
 packFolder: helladbyzaria
 shortcode: alyksthtks
-img: sohl/assets/icons/game-icons/delapouite/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/alyksthtks-portrait.webp
+  portrait: images/beings/characters/alyksthtks.webp
   templatePriority: null
   archetypes: []
   occupation: Timberwright
@@ -595,7 +595,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Alýkos Theotókis](images/beings/characters/alyksthtks-portrait.webp){float: top-left}
+![Alýkos Theotókis](images/beings/characters/alyksthtks.webp){float: top-left}
 
 ## Appearance {#appearance}
 

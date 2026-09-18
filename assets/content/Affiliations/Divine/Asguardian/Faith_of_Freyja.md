@@ -91,6 +91,7 @@ name:
 shortcode: freyja
 img: images/affiliation/asguardian/freyja.webp
 packFolder: pantheonsasguardian
+banner: banners/faithbnr.webp
 ---
 
 Fréyja, the goddess of love, beauty, and prosperity, stands as an alluring and multifaceted figure in the pantheon. She inspires passion and enchantment, capturing the hearts of all who seek her favor. As the goddess of prosperity, she is a powerful patroness for merchants, usurers, and all who pursue wealth.

@@ -15,10 +15,10 @@ name:
     - the Rogue Skald
 packFolder: ankarisnordlands
 shortcode: dagmrwndrr
-img: sohl/assets/icons/game-icons/delapouite/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/dagmrwndrr-portrait.webp
+  portrait: images/beings/characters/dagmrwndrr.webp
   templatePriority: null
   archetypes: []
   occupation: Skald
@@ -585,7 +585,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Dagmar the Wanderer](images/beings/characters/dagmrwndrr-portrait.webp){float: top-left}
+![Dagmar the Wanderer](images/beings/characters/dagmrwndrr.webp){float: top-left}
 
 ## Appearance {#appearance}
 

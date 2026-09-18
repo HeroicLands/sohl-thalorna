@@ -13,10 +13,10 @@ name:
     - Eadric Sterne
 packFolder: helladhelionis
 shortcode: makrinfrns
-img: sohl/assets/icons/game-icons/delapouite/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/makrinfrns-portrait.webp
+  portrait: null
   templatePriority: null
   archetypes: []
   occupation: Astrologer

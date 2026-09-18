@@ -13,10 +13,10 @@ name:
     - Faelan Inkweaver
 packFolder: aureldiaelavendre
 shortcode: haliranrdh
-img: sohl/assets/icons/game-icons/delapouite/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/haliranrdh-portrait.webp
+  portrait: null
   templatePriority: null
   archetypes: []
   occupation: Scribe

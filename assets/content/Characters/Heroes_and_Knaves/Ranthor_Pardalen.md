@@ -12,10 +12,10 @@ name:
   aliases: []
 packFolder: aureldiaelavendre
 shortcode: rnthrprdln
-img: sohl/assets/icons/game-icons/delapouite/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/rnthrprdln-portrait.webp
+  portrait: images/beings/characters/rnthrprdln.webp
   templatePriority: null
   archetypes: []
   occupation: Shaman
@@ -593,7 +593,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Ránthor Párdalen](images/beings/characters/rnthrprdln-portrait.webp){float: top-left}
+![Ránthor Párdalen](images/beings/characters/rnthrprdln.webp){float: top-left}
 
 ## Appearance {#appearance}
 

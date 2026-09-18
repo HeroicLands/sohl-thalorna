@@ -12,10 +12,10 @@ name:
   aliases: []
 packFolder: aureldiaprovenzia
 shortcode: idriskrsvr
-img: sohl/assets/icons/game-icons/delapouite/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/idriskrsvr-portrait.webp
+  portrait: images/beings/characters/idriskrsvr.webp
   templatePriority: null
   archetypes: []
   occupation: Bodyguard
@@ -579,7 +579,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Ídrisè Kórisvar](images/beings/characters/idriskrsvr-portrait.webp){float: top-left}
+![Ídrisè Kórisvar](images/beings/characters/idriskrsvr.webp){float: top-left}
 
 ## Appearance {#appearance}
 

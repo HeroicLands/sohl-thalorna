@@ -12,10 +12,10 @@ name:
   aliases: []
 packFolder: helladbyzaria
 shortcode: thslnkkthrpls
-img: sohl/assets/icons/game-icons/delapouite/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/thslnkkthrpls-portrait.webp
+  portrait: images/beings/characters/thslnkkthrpls.webp
   templatePriority: null
   archetypes: []
   occupation: Woodcutter
@@ -597,7 +597,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Thêsaloníke Katharópoulos](images/beings/characters/thslnkkthrpls-portrait.webp){float: top-left}
+![Thêsaloníke Katharópoulos](images/beings/characters/thslnkkthrpls.webp){float: top-left}
 
 ## Appearance {#appearance}
 

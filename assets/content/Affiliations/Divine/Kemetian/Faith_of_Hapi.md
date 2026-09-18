@@ -77,7 +77,7 @@ name:
     - The Overflowing One
 shortcode: hapi
 img: icons/takheperu/pantheon/hapi.svg
-banner: banners/ta-kheperu-banner.webp
+banner: banners/takheperubnr.webp
 packFolder: pantheonskemetian
 ---
 

@@ -13,10 +13,10 @@ name:
   aliases: []
 packFolder: heroesandknaveskalihara
 shortcode: shadalnadn
-img: sohl/assets/icons/game-icons/delapouite/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/shadalnadn-portrait.webp
+  portrait: images/beings/characters/shadalnadn.webp
   templatePriority: null
   archetypes: []
   occupation: Scribe
@@ -608,7 +608,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Shadal Nadina](images/beings/characters/shadalnadn-portrait.webp){float: top-left}
+![Shadal Nadina](images/beings/characters/shadalnadn.webp){float: top-left}
 
 ## Appearance {#appearance}
 

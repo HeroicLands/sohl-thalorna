@@ -13,7 +13,7 @@ data:
 name:
   full: Pekhenu
   aliases: []
-banner: banners/ta-kheperu-banner.webp
+banner: banners/takheperubnr.webp
 shortcode: pekhenu
 packFolder: upperrivernomes
 ---

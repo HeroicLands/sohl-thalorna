@@ -6,7 +6,7 @@ name:
   aliases:
     - Languages
 shortcode: lnggsthlrn
-banner: systems/sohl/assets/images/banners/language.webp
+banner: banners/languagebnr.webp
 ---
 
 This note maps the languages spoken across [[place-worldthlrn|Thalorna]], the polities that speak them, and their linguistic heritage. Each language entry links to a full reference note with phonology, grammar, naming traditions, and name lists.

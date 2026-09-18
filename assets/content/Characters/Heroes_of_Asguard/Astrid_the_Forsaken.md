@@ -15,10 +15,10 @@ name:
   home: null
 packFolder: ankarisvrystwald
 shortcode: astrdfrskn
-img: sohl/assets/icons/game-icons/delapouite/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/astrdfrskn-portrait.webp
+  portrait: null
   templatePriority: null
   archetypes: []
   occupation: Wanderer and Warrior

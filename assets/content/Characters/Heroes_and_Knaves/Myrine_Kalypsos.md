@@ -14,10 +14,10 @@ name:
     - The Mendicant Priestess of the Black Flame
 packFolder: midhalionvylaria
 shortcode: myrnklypss
-img: sohl/assets/icons/game-icons/delapouite/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/myrnklypss-portrait.webp
+  portrait: images/beings/characters/myrnklypss.webp
   templatePriority: null
   archetypes: []
   occupation: Priest
@@ -600,7 +600,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Myrine Kalypsos](images/beings/characters/myrnklypss-portrait.webp){float: top-left}
+![Myrine Kalypsos](images/beings/characters/myrnklypss.webp){float: top-left}
 
 ## Appearance {#appearance}
 

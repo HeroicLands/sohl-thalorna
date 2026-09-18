@@ -12,10 +12,10 @@ name:
   aliases: []
 packFolder: ankarisnordlands
 shortcode: bjorgdrknt
-img: sohl/assets/icons/game-icons/delapouite/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/bjorgdrknt-portrait.webp
+  portrait: images/beings/characters/bjorgdrknt.webp
   templatePriority: null
   archetypes: []
   occupation: Beggar
@@ -589,7 +589,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Björg Drekanótt](images/beings/characters/bjorgdrknt-portrait.webp){float: top-left}
+![Björg Drekanótt](images/beings/characters/bjorgdrknt.webp){float: top-left}
 
 ## Appearance {#appearance}
 

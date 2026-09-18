@@ -5,7 +5,7 @@ name:
   aliases:
     - Foundry
 description: "The caster conjures a zone of intense, precisely controlled heat cente"
-img: sohl/assets/icons/game-icons/badges/anvil.svg
+img: systems/sohl/assets/icons/game-icons/badges/anvilbdg.svg
 shortcode: smthflam
 type: mysticalability
 subType: arcaneincantation

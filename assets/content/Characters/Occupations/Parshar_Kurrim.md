@@ -14,10 +14,10 @@ name:
     - Oswin Goldlock
 packFolder: midhalionharad
 shortcode: parsharkrm
-img: sohl/assets/icons/game-icons/delapouite/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/parsharkrm-portrait.webp
+  portrait: null
   templatePriority: null
   archetypes: []
   occupation: Locksmith

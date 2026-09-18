@@ -12,10 +12,10 @@ name:
   aliases: []
 packFolder: ankariskhazryndesert
 shortcode: kamdkhvndr
-img: sohl/assets/icons/game-icons/delapouite/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/kamdkhvndr-portrait.webp
+  portrait: images/beings/characters/kamdkhvndr.webp
   templatePriority: null
   archetypes: []
   occupation: Beggar
@@ -562,7 +562,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Kamîd Khâvandar](images/beings/characters/kamdkhvndr-portrait.webp){float: top-left}
+![Kamîd Khâvandar](images/beings/characters/kamdkhvndr.webp){float: top-left}
 
 ## Appearance {#appearance}
 

@@ -12,10 +12,10 @@ name:
   aliases: []
 packFolder: helladbyzaria
 shortcode: arkdsphlmds
-img: sohl/assets/icons/game-icons/delapouite/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/arkdsphlmds-portrait.webp
+  portrait: images/beings/characters/arkdsphlmds.webp
   templatePriority: null
   archetypes: []
   occupation: Mercenary
@@ -578,7 +578,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Arkádios Philomédis](images/beings/characters/arkdsphlmds-portrait.webp){float: top-left}
+![Arkádios Philomédis](images/beings/characters/arkdsphlmds.webp){float: top-left}
 
 ## Appearance {#appearance}
 

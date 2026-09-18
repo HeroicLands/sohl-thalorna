@@ -13,10 +13,10 @@ name:
     - Halwyn Ironbrace
 packFolder: ankarisnordlands
 shortcode: jrndrfrstlf
-img: sohl/assets/icons/game-icons/delapouite/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/jrndrfrstlf-portrait.webp
+  portrait: null
   templatePriority: null
   archetypes: []
   occupation: Gaoler

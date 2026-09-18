@@ -12,10 +12,10 @@ name:
   aliases: []
 packFolder: midhalionvylaria
 shortcode: xadrosdmts
-img: sohl/assets/icons/game-icons/delapouite/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/xadrosdmts-portrait.webp
+  portrait: images/beings/characters/xadrosdmts.webp
   templatePriority: null
   archetypes: []
   occupation: Woodcrafter
@@ -592,7 +592,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Xadrôs Dâemâtês](images/beings/characters/xadrosdmts-portrait.webp){float: top-left}
+![Xadrôs Dâemâtês](images/beings/characters/xadrosdmts.webp){float: top-left}
 
 ## Appearance {#appearance}
 

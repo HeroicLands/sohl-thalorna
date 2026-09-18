@@ -13,10 +13,10 @@ name:
     - Osbert Kett
 packFolder: helladhelionis
 shortcode: risksbrths
-img: sohl/assets/icons/game-icons/delapouite/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/risksbrths-portrait.webp
+  portrait: null
   templatePriority: null
   archetypes: []
   occupation: Apothecary

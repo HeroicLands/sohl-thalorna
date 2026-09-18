@@ -12,10 +12,10 @@ name:
   aliases: []
 packFolder: midhalionvylaria
 shortcode: brnlnsbrkls
-img: sohl/assets/icons/game-icons/delapouite/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/brnlnsbrkls-portrait.webp
+  portrait: images/beings/characters/brnlnsbrkls.webp
   templatePriority: null
   archetypes: []
   occupation: Common Seaman
@@ -595,7 +595,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Brânalenîs Bárkalâs](images/beings/characters/brnlnsbrkls-portrait.webp){float: top-left}
+![Brânalenîs Bárkalâs](images/beings/characters/brnlnsbrkls.webp){float: top-left}
 
 ## Appearance {#appearance}
 

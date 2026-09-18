@@ -85,7 +85,7 @@ name:
     - The House of Name
 shortcode: rensesh
 img: icons/takheperu/khemenu-hekau/rensesh.svg
-banner: banners/ta-kheperu-banner.webp
+banner: banners/takheperubnr.webp
 packFolder: khemenuhekau
 ---
 

@@ -12,10 +12,10 @@ name:
   aliases: []
 packFolder: ankarisvedyara
 shortcode: pdmvldhnrvdkrtrj
-img: sohl/assets/icons/game-icons/delapouite/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/pdmvldhnrvdkrtrj-portrait.webp
+  portrait: images/beings/characters/pdmvldhnrvdkrtrj.webp
   templatePriority: null
   archetypes: []
   occupation: Cartographer/Artist
@@ -595,7 +595,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Padmàvali Dhanurvedakīrtirāja](images/beings/characters/pdmvldhnrvdkrtrj-portrait.webp){float: top-left}
+![Padmàvali Dhanurvedakīrtirāja](images/beings/characters/pdmvldhnrvdkrtrj.webp){float: top-left}
 
 ## Appearance {#appearance}
 

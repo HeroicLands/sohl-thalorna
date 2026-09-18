@@ -58,6 +58,7 @@ data:
   relations:
     varakpnthn: aligned
 packFolder: pantheonsvarnaka
+banner: banners/faithbnr.webp
 ---
 
 ## Pavanajitras — The Wandering Wind

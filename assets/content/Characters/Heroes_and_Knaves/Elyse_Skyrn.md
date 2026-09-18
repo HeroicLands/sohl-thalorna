@@ -13,10 +13,10 @@ name:
   aliases: []
 packFolder: aureldiaelavendre
 shortcode: elyseskyrn
-img: sohl/assets/icons/game-icons/delapouite/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/elyseskyrn-portrait.webp
+  portrait: images/beings/characters/elyseskyrn.webp
   templatePriority: null
   archetypes: []
   occupation: Alchemist
@@ -583,7 +583,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Elýsè Skýrn](images/beings/characters/elyseskyrn-portrait.webp){float: top-left}
+![Elýsè Skýrn](images/beings/characters/elyseskyrn.webp){float: top-left}
 
 ## Appearance {#appearance}
 

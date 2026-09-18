@@ -7,7 +7,7 @@ subType: reference
 shortcode: regions
 tags:
 description: Geographic and cultural regions.
-banner: banners/region.webp
+banner: banners/regionbnr.webp
 ---
 
 Geographic and cultural regions.

@@ -4,7 +4,7 @@ name:
   full: Firestorm
   aliases: []
 description: "Conjures whirling inferno; swirls consuming flames across wide area."
-img: sohl/assets/icons/game-icons/badges/fire.svg
+img: systems/sohl/assets/icons/game-icons/badges/firebdg.svg
 shortcode: frstrm
 type: mysticalability
 subType: arcaneincantation

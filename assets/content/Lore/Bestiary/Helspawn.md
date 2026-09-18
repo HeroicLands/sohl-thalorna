@@ -9,6 +9,7 @@ description: "The undead — the dead made animate by necrotic spiritual force, 
 shortcode: helspawncrtr
 type: lore
 subType: bestiary
+banner: banners/creaturebnr.webp
 ---
 
 A creeping dread fills the air as the Helspawn emerge from the shadows — a host of ghastly figures summoned from the underworld by dark priests. Their appearances vary from grotesque and decayed to eerily beautiful, a testament to the fell energhy that binds them. Some retain a semblance of their former selves but with a chill touch of death, while others are twisted and malformed, their bodies marred by necrotic energy. Each Helspawn exudes an unsettling aura, a tangible sense of the unnatural that makes one's skin crawl and breath catch in the throat.

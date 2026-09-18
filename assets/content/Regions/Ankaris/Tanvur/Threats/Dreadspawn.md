@@ -6,6 +6,7 @@ name:
   aliases: []
 shortcode: dreadspawn
 packFolder: threats
+banner: banners/creaturebnr.webp
 ---
 
 ## The Dreadspawn

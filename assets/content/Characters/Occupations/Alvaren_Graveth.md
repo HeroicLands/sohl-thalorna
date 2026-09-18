@@ -13,10 +13,10 @@ name:
     - Thaddeus Brine
 packFolder: aureldiatarvenia
 shortcode: alvrngrvth
-img: sohl/assets/icons/game-icons/delapouite/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/alvrngrvth-portrait.webp
+  portrait: null
   templatePriority: null
   archetypes: []
   occupation: Salter

@@ -12,6 +12,7 @@ name:
 shortcode: whalettm
 img: images/mystery/whale.webp
 packFolder: loretotems
+banner: banners/creaturebnr.webp
 ---
 
 Majestic and communicative, whales are highly social marine mammals that travel in pods, using complex vocalizations to coordinate and express themselves.

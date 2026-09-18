@@ -13,10 +13,10 @@ name:
   aliases: []
 packFolder: ankarisnordlands
 shortcode: sgrthrhfrngr
-img: sohl/assets/icons/game-icons/delapouite/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/sgrthrhfrngr-portrait.webp
+  portrait: null
   templatePriority: null
   archetypes: []
   occupation: Man-at-Arms

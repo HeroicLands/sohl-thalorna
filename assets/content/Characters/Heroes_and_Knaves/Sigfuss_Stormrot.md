@@ -12,10 +12,10 @@ name:
   aliases: []
 packFolder: ankarisnordlands
 shortcode: sigfstrmrt
-img: sohl/assets/icons/game-icons/delapouite/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/sigfstrmrt-portrait.webp
+  portrait: images/beings/characters/sigfstrmrt.webp
   templatePriority: null
   archetypes: []
   occupation: Common Seaman
@@ -589,7 +589,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Sigfúss Stormrót](images/beings/characters/sigfstrmrt-portrait.webp){float: top-left}
+![Sigfúss Stormrót](images/beings/characters/sigfstrmrt.webp){float: top-left}
 
 ## Appearance {#appearance}
 

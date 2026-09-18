@@ -12,10 +12,10 @@ name:
   aliases: []
 packFolder: helladbyzaria
 shortcode: theklarhms
-img: sohl/assets/icons/game-icons/delapouite/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/theklarhms-portrait.webp
+  portrait: images/beings/characters/theklarhms.webp
   templatePriority: null
   archetypes: []
   occupation: Mercenary
@@ -589,7 +589,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Thêkla Rhomaios](images/beings/characters/theklarhms-portrait.webp){float: top-left}
+![Thêkla Rhomaios](images/beings/characters/theklarhms.webp){float: top-left}
 
 ## Appearance {#appearance}
 

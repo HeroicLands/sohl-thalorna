@@ -13,10 +13,10 @@ name:
     - Lady Elowen Faircourt
 packFolder: aureldiaprovenzia
 shortcode: arislkrsvr
-img: sohl/assets/icons/game-icons/delapouite/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/arislkrsvr-portrait.webp
+  portrait: null
   templatePriority: null
   archetypes: []
   occupation: Herald

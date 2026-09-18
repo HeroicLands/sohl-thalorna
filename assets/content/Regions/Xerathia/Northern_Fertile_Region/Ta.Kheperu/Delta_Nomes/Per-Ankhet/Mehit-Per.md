@@ -14,7 +14,7 @@ data:
 name:
   full: Mehit-Per
   aliases: []
-banner: banners/ta-kheperu-banner.webp
+banner: banners/takheperubnr.webp
 shortcode: mehitper
 packFolder: perankhet
 ---

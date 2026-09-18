@@ -14,10 +14,10 @@ name:
     - Cerys de Lune
 packFolder: aureldiaelavendre
 shortcode: jethralydr
-img: sohl/assets/icons/game-icons/delapouite/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/jethralydr-portrait.webp
+  portrait: null
   templatePriority: null
   archetypes: []
   occupation: Astrologer

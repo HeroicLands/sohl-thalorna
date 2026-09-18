@@ -13,10 +13,10 @@ name:
     - Grimwald Thickhide
 packFolder: helladhelionis
 shortcode: mmdrsghrds
-img: sohl/assets/icons/game-icons/delapouite/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/mmdrsghrds-portrait.webp
+  portrait: null
   templatePriority: null
   archetypes: []
   occupation: Hideworker

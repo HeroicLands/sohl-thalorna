@@ -5,7 +5,7 @@ name:
   aliases:
     - Fever
 description: "Accelerates victim's body temperature; induces exhaustion and eventual collapse."
-img: sohl/assets/icons/game-icons/badges/fire.svg
+img: systems/sohl/assets/icons/game-icons/badges/firebdg.svg
 shortcode: htstrk
 type: mysticalability
 subType: arcaneincantation

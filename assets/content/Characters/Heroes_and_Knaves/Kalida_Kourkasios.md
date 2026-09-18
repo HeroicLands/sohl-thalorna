@@ -12,10 +12,10 @@ name:
   aliases: []
 packFolder: helladbyzaria
 shortcode: kalidkrkss
-img: sohl/assets/icons/game-icons/delapouite/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/kalidkrkss-portrait.webp
+  portrait: images/beings/characters/kalidkrkss.webp
   templatePriority: null
   archetypes: []
   occupation: Potter
@@ -598,7 +598,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Kalída Kourkásios](images/beings/characters/kalidkrkss-portrait.webp){float: top-left}
+![Kalída Kourkásios](images/beings/characters/kalidkrkss.webp){float: top-left}
 
 ## Appearance {#appearance}
 

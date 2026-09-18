@@ -1,7 +1,7 @@
 ---
 description: '"The Great Land" — an ancient royal nome and old burial-ground of the first dynasties — one of the upper-river nomes of Ta''Kheperu.'
 type: affiliation
-banner: banners/ta-kheperu-banner.webp
+banner: banners/takheperubnr.webp
 name:
   full: The Nome of Ta-Wer
   aliases: []

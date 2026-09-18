@@ -12,10 +12,10 @@ name:
   aliases: []
 packFolder: aureldiaprovenzia
 shortcode: kelnstylgn
-img: sohl/assets/icons/game-icons/delapouite/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/kelnstylgn-portrait.webp
+  portrait: images/beings/characters/kelnstylgn.webp
   templatePriority: null
   archetypes: []
   occupation: Courtesan
@@ -577,7 +577,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Kêlena Stýlgon](images/beings/characters/kelnstylgn-portrait.webp){float: top-left}
+![Kêlena Stýlgon](images/beings/characters/kelnstylgn.webp){float: top-left}
 
 ## Appearance {#appearance}
 

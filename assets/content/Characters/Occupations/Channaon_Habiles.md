@@ -13,10 +13,10 @@ name:
     - Brynden Ash
 packFolder: helladhelionis
 shortcode: chananhbls
-img: sohl/assets/icons/game-icons/delapouite/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/chananhbls-portrait.webp
+  portrait: null
   templatePriority: null
   archetypes: []
   occupation: Timberwright

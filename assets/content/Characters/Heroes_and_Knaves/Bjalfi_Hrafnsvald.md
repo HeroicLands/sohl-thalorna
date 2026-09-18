@@ -12,10 +12,10 @@ name:
   aliases: []
 packFolder: ankarisnordlands
 shortcode: bjlfhrfnsvld
-img: sohl/assets/icons/game-icons/delapouite/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/bjlfhrfnsvld-portrait.webp
+  portrait: images/beings/characters/bjlfhrfnsvld.webp
   templatePriority: null
   archetypes: []
   occupation: Yeoman Infantry
@@ -585,7 +585,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Bjalfi Hrafnsvald](images/beings/characters/bjlfhrfnsvld-portrait.webp){float: top-left}
+![Bjalfi Hrafnsvald](images/beings/characters/bjlfhrfnsvld.webp){float: top-left}
 
 ## Appearance {#appearance}
 

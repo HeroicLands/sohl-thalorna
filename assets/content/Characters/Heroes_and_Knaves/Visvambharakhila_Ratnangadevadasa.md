@@ -13,10 +13,10 @@ name:
   aliases: []
 packFolder: ankarisvedyara
 shortcode: vsvmbhrkhlrtngdvds
-img: sohl/assets/icons/game-icons/delapouite/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/vsvmbhrkhlrtngdvds-portrait.webp
+  portrait: images/beings/characters/vsvmbhrkhlrtngdvds.webp
   templatePriority: null
   archetypes: []
   occupation: Chandler
@@ -586,7 +586,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Viśvambhārākhila Ratnāṅgadēvadāsa](images/beings/characters/vsvmbhrkhlrtngdvds-portrait.webp){float: top-left}
+![Viśvambhārākhila Ratnāṅgadēvadāsa](images/beings/characters/vsvmbhrkhlrtngdvds.webp){float: top-left}
 
 ## Appearance {#appearance}
 

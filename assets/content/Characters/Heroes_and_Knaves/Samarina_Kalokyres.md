@@ -12,10 +12,10 @@ name:
   aliases: []
 packFolder: helladbyzaria
 shortcode: smrnklkyrs
-img: sohl/assets/icons/game-icons/delapouite/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/smrnklkyrs-portrait.webp
+  portrait: images/beings/characters/smrnklkyrs.webp
   templatePriority: null
   archetypes: []
   occupation: Herder
@@ -625,7 +625,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Samarína Kalokyrês](images/beings/characters/smrnklkyrs-portrait.webp){float: top-left}
+![Samarína Kalokyrês](images/beings/characters/smrnklkyrs.webp){float: top-left}
 
 ## Appearance {#appearance}
 

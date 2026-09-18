@@ -5,7 +5,7 @@ name:
   aliases:
     - Quill
 description: "Writes text magically; creates inscriptions without visible implement."
-img: sohl/assets/icons/noun/divination.svg
+img: systems/sohl/assets/icons/noun/divination.svg
 shortcode: scribe
 type: mysticalability
 subType: arcaneincantation

@@ -12,6 +12,7 @@ name:
 shortcode: seabassttm
 img: images/mystery/seabass.webp
 packFolder: loretotems
+banner: banners/creaturebnr.webp
 ---
 
 Opportunistic and stealthy, sea bass lie in wait to ambush unsuspecting prey, capitalizing on their surroundings to strike with precision.

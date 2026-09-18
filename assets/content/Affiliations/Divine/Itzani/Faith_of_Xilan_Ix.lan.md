@@ -122,6 +122,7 @@ data:
     - itzanpnthn
   relations:
     itzanpnthn: aligned
+banner: banners/faithbnr.webp
 ---
 
 **Domain:** Travel, Trade, Journeys, Messengers, Commerce, Communication

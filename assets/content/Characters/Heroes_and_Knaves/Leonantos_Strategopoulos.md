@@ -14,10 +14,10 @@ name:
   aliases: []
 packFolder: helladbyzaria
 shortcode: lnntstrtgpls
-img: sohl/assets/icons/game-icons/delapouite/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/lnntstrtgpls-portrait.webp
+  portrait: images/beings/characters/lnntstrtgpls.webp
   templatePriority: null
   archetypes: []
   occupation: Priest
@@ -602,7 +602,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Leónantos Stratégopoulos](images/beings/characters/lnntstrtgpls-portrait.webp){float: top-left}
+![Leónantos Stratégopoulos](images/beings/characters/lnntstrtgpls.webp){float: top-left}
 
 ## Appearance {#appearance}
 

@@ -68,7 +68,7 @@ name:
     - Sét, Bringer of Tempests
 shortcode: set
 img: icons/takheperu/pantheon/set.svg
-banner: banners/ta-kheperu-banner.webp
+banner: banners/takheperubnr.webp
 packFolder: pantheonskemetian
 ---
 

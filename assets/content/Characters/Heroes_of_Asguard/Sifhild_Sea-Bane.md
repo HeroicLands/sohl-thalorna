@@ -14,10 +14,10 @@ name:
   home: null
 packFolder: ankarisnordlands
 shortcode: sifhildsbn
-img: sohl/assets/icons/game-icons/delapouite/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/sifhildsbn-portrait.webp
+  portrait: null
   templatePriority: null
   archetypes: []
   occupation: Sailor and Warrior

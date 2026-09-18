@@ -14,10 +14,10 @@ name:
     - the Liar
 packFolder: ankarisvrystwald
 shortcode: vndrcgrwld
-img: sohl/assets/icons/game-icons/delapouite/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/vndrcgrwld-portrait.webp
+  portrait: images/beings/characters/vndrcgrwld.webp
   templatePriority: null
   archetypes: []
   occupation: Brigand
@@ -553,7 +553,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Vandaric Garwald](images/beings/characters/vndrcgrwld-portrait.webp){float: top-left}
+![Vandaric Garwald](images/beings/characters/vndrcgrwld.webp){float: top-left}
 
 ## Appearance {#appearance}
 

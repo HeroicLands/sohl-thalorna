@@ -14,10 +14,10 @@ name:
     - Cedric Valewyn
 packFolder: midhalionharad
 shortcode: gamrunrshm
-img: sohl/assets/icons/game-icons/delapouite/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/gamrunrshm-portrait.webp
+  portrait: null
   templatePriority: null
   archetypes: []
   occupation: Swordmaster

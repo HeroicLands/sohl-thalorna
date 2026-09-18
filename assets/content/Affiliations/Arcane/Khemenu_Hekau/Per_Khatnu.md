@@ -84,7 +84,7 @@ name:
     - The House of Form
 shortcode: khatnu
 img: icons/takheperu/khemenu-hekau/khatnu.svg
-banner: banners/ta-kheperu-banner.webp
+banner: banners/takheperubnr.webp
 packFolder: khemenuhekau
 ---
 

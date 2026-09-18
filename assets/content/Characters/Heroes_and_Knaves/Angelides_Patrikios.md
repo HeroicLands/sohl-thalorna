@@ -14,10 +14,10 @@ name:
   aliases: []
 packFolder: helladbyzaria
 shortcode: angldsptrks
-img: sohl/assets/icons/game-icons/delapouite/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/angldsptrks-portrait.webp
+  portrait: images/beings/characters/angldsptrks.webp
   templatePriority: null
   archetypes: []
   occupation: Mage (Healing)
@@ -594,7 +594,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Ángelides Patrikîos](images/beings/characters/angldsptrks-portrait.webp){float: top-left}
+![Ángelides Patrikîos](images/beings/characters/angldsptrks.webp){float: top-left}
 
 ## Appearance {#appearance}
 

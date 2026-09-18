@@ -13,10 +13,10 @@ name:
   aliases: []
 packFolder: aureldiatarvenia
 shortcode: domthgrvth
-img: sohl/assets/icons/game-icons/delapouite/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/domthgrvth-portrait.webp
+  portrait: images/beings/characters/domthgrvth.webp
   templatePriority: null
   archetypes: []
   occupation: Shipwright
@@ -602,7 +602,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Dómeth Gráveth](images/beings/characters/domthgrvth-portrait.webp){float: top-left}
+![Dómeth Gráveth](images/beings/characters/domthgrvth.webp){float: top-left}
 
 ## Appearance {#appearance}
 

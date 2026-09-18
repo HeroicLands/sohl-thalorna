@@ -4,7 +4,7 @@ name:
   full: Wakizashi
   aliases: []
 description: "Short curved single-edged blade; secondary steel marking standing and privilege."
-img: sohl/assets/icons/other/sword.svg
+img: systems/sohl/assets/icons/other/sword.svg
 shortcode: waki
 type: weapongear
 data:

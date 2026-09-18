@@ -1,7 +1,7 @@
 ---
 description: "The delta apex, where the river first divides; old shrines and customs-stations — one of the delta nomes of Ta'Kheperu."
 type: affiliation
-banner: banners/ta-kheperu-banner.webp
+banner: banners/takheperubnr.webp
 name:
   full: The Nome of Kheraha
   aliases: []

@@ -13,10 +13,10 @@ name:
   aliases: []
 packFolder: ankariskhazryndesert
 shortcode: afzndhprnzr
-img: sohl/assets/icons/game-icons/delapouite/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/afzndhprnzr-portrait.webp
+  portrait: images/beings/characters/afzndhprnzr.webp
   templatePriority: null
   archetypes: []
   occupation: Weaponcrafter (Armorer)
@@ -586,7 +586,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Afzandah Parnâzar](images/beings/characters/afzndhprnzr-portrait.webp){float: top-left}
+![Afzandah Parnâzar](images/beings/characters/afzndhprnzr.webp){float: top-left}
 
 ## Appearance {#appearance}
 

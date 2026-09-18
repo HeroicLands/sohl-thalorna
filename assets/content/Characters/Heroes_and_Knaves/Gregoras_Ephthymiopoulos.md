@@ -13,10 +13,10 @@ name:
   aliases: []
 packFolder: helladbyzaria
 shortcode: grgrsphthympls
-img: sohl/assets/icons/game-icons/delapouite/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/grgrsphthympls-portrait.webp
+  portrait: images/beings/characters/grgrsphthympls.webp
   templatePriority: null
   archetypes: []
   occupation: Shipwright
@@ -599,7 +599,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Grégoras Ephthymiópoulos](images/beings/characters/grgrsphthympls-portrait.webp){float: top-left}
+![Grégoras Ephthymiópoulos](images/beings/characters/grgrsphthympls.webp){float: top-left}
 
 ## Appearance {#appearance}
 

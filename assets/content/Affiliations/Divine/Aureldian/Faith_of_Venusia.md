@@ -71,6 +71,7 @@ name:
 shortcode: venusia
 img: images/affiliation/aureldian/venusia.webp
 packFolder: pantheonsaureldian
+banner: banners/faithbnr.webp
 ---
 
 Goddess of wealth, abundance, and seduction. Vénusia blesses people with prosperity and physical love.

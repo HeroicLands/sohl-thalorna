@@ -3,7 +3,7 @@ tags: []
 name:
   full: Negation
   aliases: []
-img: sohl/assets/icons/noun/psionics.svg
+img: systems/sohl/assets/icons/noun/psionics.svg
 shortcode: negx
 type: mysticalability
 subType: arcanetalent

@@ -4,7 +4,7 @@ name:
   full: Flameguard
   aliases: []
 description: "Surrounds self in protective flame; harms those who strike caster."
-img: sohl/assets/icons/game-icons/badges/fire.svg
+img: systems/sohl/assets/icons/game-icons/badges/firebdg.svg
 shortcode: flmgrd
 type: mysticalability
 subType: arcaneincantation

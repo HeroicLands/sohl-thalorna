@@ -12,6 +12,7 @@ name:
 shortcode: hamsterttm
 img: images/mystery/hamster.webp
 packFolder: loretotems
+banner: banners/creaturebnr.webp
 ---
 
 Cautious and hoarding, hamsters instinctively gather and store food in their cheek pouches, always preparing for future scarcity.

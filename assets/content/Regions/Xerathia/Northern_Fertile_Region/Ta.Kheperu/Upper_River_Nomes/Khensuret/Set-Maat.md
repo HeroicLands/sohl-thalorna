@@ -14,7 +14,7 @@ name:
   full: Set-Maat
   aliases:
     - Set-Ma'at
-banner: banners/ta-kheperu-banner.webp
+banner: banners/takheperubnr.webp
 shortcode: setmaat
 packFolder: khensuret
 ---

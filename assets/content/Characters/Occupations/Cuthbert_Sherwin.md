@@ -13,10 +13,10 @@ name:
     - Tovan Greenfist
 packFolder: aureldiaaelwyth
 shortcode: cthbrtshrwn
-img: sohl/assets/icons/game-icons/delapouite/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/cthbrtshrwn-portrait.webp
+  portrait: null
   templatePriority: null
   archetypes: []
   occupation: Woodcutter

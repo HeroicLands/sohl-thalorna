@@ -84,7 +84,7 @@ name:
     - The Divine Craftsman
 shortcode: ptah
 img: icons/takheperu/pantheon/ptah.svg
-banner: banners/ta-kheperu-banner.webp
+banner: banners/takheperubnr.webp
 packFolder: pantheonskemetian
 ---
 

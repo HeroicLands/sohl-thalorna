@@ -13,10 +13,10 @@ name:
   aliases: []
 packFolder: midhalionvylaria
 shortcode: dmrthsvshrds
-img: sohl/assets/icons/game-icons/delapouite/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/dmrthsvshrds-portrait.webp
+  portrait: images/beings/characters/dmrthsvshrds.webp
   templatePriority: null
   archetypes: []
   occupation: Alchemist
@@ -592,7 +592,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Dómrithâs Vîshârdâs](images/beings/characters/dmrthsvshrds-portrait.webp){float: top-left}
+![Dómrithâs Vîshârdâs](images/beings/characters/dmrthsvshrds.webp){float: top-left}
 
 ## Appearance {#appearance}
 

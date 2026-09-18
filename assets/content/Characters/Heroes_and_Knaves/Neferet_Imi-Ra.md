@@ -14,12 +14,12 @@ name:
   aliases:
     - The Scholar of Forgotten Texts
 packFolder: northernfertileregiontakheperu
-banner: banners/ta-kheperu-banner.webp
+banner: banners/takheperubnr.webp
 shortcode: neferetimr
-img: sohl/assets/icons/game-icons/delapouite/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/neferetimr-portrait.webp
+  portrait: images/beings/characters/neferetimr.webp
   templatePriority: null
   archetypes: []
   occupation: Scholar
@@ -597,7 +597,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Neferet Imi-Ra](images/beings/characters/neferetimr-portrait.webp){float: top-left}
+![Neferet Imi-Ra](images/beings/characters/neferetimr.webp){float: top-left}
 
 **Home:** [[place-wasetkara|Wasetkara]]
 

@@ -13,10 +13,10 @@ name:
   aliases: []
 packFolder: midhalionvylaria
 shortcode: ailemkrmys
-img: sohl/assets/icons/game-icons/delapouite/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/ailemkrmys-portrait.webp
+  portrait: images/beings/characters/ailemkrmys.webp
   templatePriority: null
   archetypes: []
   occupation: Scribe
@@ -607,7 +607,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Ailêmâ Kêrîamyês](images/beings/characters/ailemkrmys-portrait.webp){float: top-left}
+![Ailêmâ Kêrîamyês](images/beings/characters/ailemkrmys.webp){float: top-left}
 
 ## Appearance {#appearance}
 

@@ -13,10 +13,10 @@ name:
     - Harlan Deepwood
 packFolder: ankarisvrystwald
 shortcode: othwindmhr
-img: sohl/assets/icons/game-icons/delapouite/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/othwindmhr-portrait.webp
+  portrait: null
   templatePriority: null
   archetypes: []
   occupation: Trapper

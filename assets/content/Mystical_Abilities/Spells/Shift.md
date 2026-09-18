@@ -5,7 +5,7 @@ name:
   aliases:
     - Warp
 description: "Moves object position instantaneously; teleports within sight."
-img: sohl/assets/icons/other/tree.svg
+img: systems/sohl/assets/icons/other/tree.svg
 shortcode: shift
 type: mysticalability
 subType: arcaneincantation

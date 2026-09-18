@@ -5,7 +5,7 @@ name:
   aliases:
     - Revelation
 description: "Reveals hidden world beneath earth; perceives buried metal glowing."
-img: sohl/assets/icons/game-icons/badges/anvil.svg
+img: systems/sohl/assets/icons/game-icons/badges/anvilbdg.svg
 shortcode: reveal
 type: mysticalability
 subType: arcaneincantation

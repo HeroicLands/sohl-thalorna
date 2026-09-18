@@ -13,10 +13,10 @@ name:
     - Halvard Brightforge
 packFolder: aureldiatarvenia
 shortcode: sanrkjthrn
-img: sohl/assets/icons/game-icons/delapouite/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/sanrkjthrn-portrait.webp
+  portrait: null
   templatePriority: null
   archetypes: []
   occupation: Glassworker

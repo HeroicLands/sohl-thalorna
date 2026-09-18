@@ -12,10 +12,10 @@ name:
   aliases: []
 packFolder: dunharatribes
 shortcode: mthrnshrdr
-img: sohl/assets/icons/game-icons/delapouite/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/mthrnshrdr-portrait.webp
+  portrait: images/beings/characters/mthrnshrdr.webp
   templatePriority: null
   archetypes: []
   occupation: Chieftain
@@ -573,7 +573,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Mithran Shiradar](images/beings/characters/mthrnshrdr-portrait.webp){float: top-left}
+![Mithran Shiradar](images/beings/characters/mthrnshrdr.webp){float: top-left}
 
 ## Appearance {#appearance}
 

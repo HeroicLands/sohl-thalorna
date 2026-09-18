@@ -14,10 +14,10 @@ name:
     - Mataké Isolde Brightshield
 packFolder: ankarisvrystwald
 shortcode: thrnlrkhld
-img: sohl/assets/icons/game-icons/delapouite/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/thrnlrkhld-portrait.webp
+  portrait: null
   templatePriority: null
   archetypes: []
   occupation: Priest

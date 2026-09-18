@@ -6,7 +6,7 @@ description: "Standing with Gwalchen, the Hawk of the Spine — what this allied
 type: skill
 subType: mystical
 shortcode: gwalchensprt
-img: sohl/assets/icons/game-icons/lorc/psychic-waves.svg
+img: systems/sohl/assets/icons/game-icons/lorc/psychicwaves.svg
 name:
   full: "Gwalchen Spirit Power"
   aliases:

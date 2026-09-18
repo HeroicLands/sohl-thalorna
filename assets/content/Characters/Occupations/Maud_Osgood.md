@@ -13,10 +13,10 @@ name:
     - Gytha Craggs
 packFolder: aureldiaaelwyth
 shortcode: maudosgood
-img: sohl/assets/icons/game-icons/delapouite/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/maudosgood-portrait.webp
+  portrait: null
   templatePriority: null
   archetypes: []
   occupation: Beggar

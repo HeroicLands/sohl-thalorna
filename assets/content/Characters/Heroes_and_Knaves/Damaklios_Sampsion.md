@@ -12,10 +12,10 @@ name:
   aliases: []
 packFolder: helladbyzaria
 shortcode: damklsmpsn
-img: sohl/assets/icons/game-icons/delapouite/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/damklsmpsn-portrait.webp
+  portrait: images/beings/characters/damklsmpsn.webp
   templatePriority: null
   archetypes: []
   occupation: Cartographer/Artist
@@ -603,7 +603,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Damáklios Sampsiôn](images/beings/characters/damklsmpsn-portrait.webp){float: top-left}
+![Damáklios Sampsiôn](images/beings/characters/damklsmpsn.webp){float: top-left}
 
 ## Appearance {#appearance}
 

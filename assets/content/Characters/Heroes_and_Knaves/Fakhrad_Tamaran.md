@@ -13,10 +13,10 @@ name:
   aliases: []
 packFolder: sultanateofamradad
 shortcode: fakhrdtmrn
-img: sohl/assets/icons/game-icons/delapouite/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/fakhrdtmrn-portrait.webp
+  portrait: images/beings/characters/fakhrdtmrn.webp
   templatePriority: null
   archetypes: []
   occupation: Astrologer
@@ -606,7 +606,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Fakhrad Tamârân](images/beings/characters/fakhrdtmrn-portrait.webp){float: top-left}
+![Fakhrad Tamârân](images/beings/characters/fakhrdtmrn.webp){float: top-left}
 
 ## Appearance {#appearance}
 

@@ -12,10 +12,10 @@ name:
   aliases: []
 packFolder: helladbyzaria
 shortcode: phtnstrtgpls
-img: sohl/assets/icons/game-icons/delapouite/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/phtnstrtgpls-portrait.webp
+  portrait: images/beings/characters/phtnstrtgpls.webp
   templatePriority: null
   archetypes: []
   occupation: Innkeeper
@@ -586,7 +586,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Phótianos Stratégopoulos](images/beings/characters/phtnstrtgpls-portrait.webp){float: top-left}
+![Phótianos Stratégopoulos](images/beings/characters/phtnstrtgpls.webp){float: top-left}
 
 ## Appearance {#appearance}
 

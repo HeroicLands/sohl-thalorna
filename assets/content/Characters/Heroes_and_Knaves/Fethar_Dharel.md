@@ -12,11 +12,11 @@ name:
     - Féth
 packFolder: aureldiaprovenzia
 shortcode: fethardhrl
-banner: banners/tamzir-banner.webp
-img: sohl/assets/icons/game-icons/delapouite/person.svg
+banner: banners/tamzirbnr.webp
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/fethardhrl-portrait.webp
+  portrait: images/beings/characters/fethardhrl.webp
   templatePriority: null
   archetypes: []
   occupation: Pilot
@@ -559,7 +559,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Féthar Dhárel](images/beings/characters/fethardhrl-portrait.webp){float: top-left}
+![Féthar Dhárel](images/beings/characters/fethardhrl.webp){float: top-left}
 
 ## Appearance {#appearance}
 

@@ -13,10 +13,10 @@ name:
   aliases: []
 packFolder: aureldiaelavendre
 shortcode: belrktrvnl
-img: sohl/assets/icons/game-icons/delapouite/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/belrktrvnl-portrait.webp
+  portrait: null
   templatePriority: null
   archetypes: []
   occupation: Man-at-Arms

@@ -1,7 +1,7 @@
 ---
 description: "Cavern-tombs and natron; a workmanlike mortuary nome — one of the upper-river nomes of Ta'Kheperu."
 type: affiliation
-banner: banners/ta-kheperu-banner.webp
+banner: banners/takheperubnr.webp
 name:
   full: The Nome of Sebt-Renpet
   aliases: []

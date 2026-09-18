@@ -12,10 +12,10 @@ name:
   aliases: []
 packFolder: ankarisnordlands
 shortcode: hldrstnblt
-img: sohl/assets/icons/game-icons/delapouite/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/hldrstnblt-portrait.webp
+  portrait: images/beings/characters/hldrstnblt.webp
   templatePriority: null
   archetypes: []
   occupation: Potter
@@ -608,7 +608,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Hildr Steinblót](images/beings/characters/hldrstnblt-portrait.webp){float: top-left}
+![Hildr Steinblót](images/beings/characters/hldrstnblt.webp){float: top-left}
 
 ## Appearance {#appearance}
 

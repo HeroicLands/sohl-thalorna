@@ -13,10 +13,10 @@ name:
     - Isolde Faire
 packFolder: midhalionvylaria
 shortcode: kysrkslmks
-img: sohl/assets/icons/game-icons/delapouite/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/kysrkslmks-portrait.webp
+  portrait: null
   templatePriority: null
   archetypes: []
   occupation: Thespian

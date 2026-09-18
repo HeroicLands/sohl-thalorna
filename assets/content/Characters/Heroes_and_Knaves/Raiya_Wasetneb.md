@@ -12,12 +12,12 @@ name:
   aliases:
     - Raiya Wasetneb
 packFolder: northernfertileregiontakheperu
-banner: banners/ta-kheperu-banner.webp
+banner: banners/takheperubnr.webp
 shortcode: raiyawstnb
-img: sohl/assets/icons/game-icons/delapouite/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/raiyawstnb-portrait.webp
+  portrait: images/beings/characters/raiyawstnb.webp
   templatePriority: null
   archetypes: []
   occupation: Nobility (Courtier)
@@ -597,7 +597,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Raiya Waset'neb](images/beings/characters/raiyawstnb-portrait.webp){float: top-left}
+![Raiya Waset'neb](images/beings/characters/raiyawstnb.webp){float: top-left}
 
 **Home:** [[place-wasetkara|Wasetkara]]
 

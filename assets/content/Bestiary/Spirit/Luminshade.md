@@ -6,11 +6,11 @@ name:
   full: Luminshade
   aliases: []
 description: "A paradoxical liminal spirit born where light and shadow meet, dwelling in reflections and dusk, alien and incomprehensible though not inherently hostile."
-img: sohl/assets/icons/game-icons/delapouite/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 shortcode: lmnshd
 type: being
 data:
-  portrait: images/beings/creatures/lmnshd-portrait.webp
+  portrait: images/beings/creatures/lmnshd.webp
   templatePriority: null
   archetypes: []
   occupation: null
@@ -586,7 +586,7 @@ sohl:
         disabled: false
 ---
 
-![Luminshade](images/beings/creatures/lmnshd-portrait.webp){float: top-left}
+![Luminshade](images/beings/creatures/lmnshd.webp){float: top-left}
 
 ## Appearance {#appearance}
 

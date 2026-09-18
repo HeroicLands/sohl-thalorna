@@ -15,10 +15,10 @@ name:
     - The Jánusian Priest
 packFolder: aureldiatarvenia
 shortcode: frztbnlksr
-img: sohl/assets/icons/game-icons/delapouite/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/frztbnlksr-portrait.webp
+  portrait: images/beings/characters/frztbnlksr.webp
   templatePriority: null
   archetypes: []
   occupation: Priest
@@ -605,7 +605,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Father Iztéban Alkássar](images/beings/characters/frztbnlksr-portrait.webp){float: top-left}
+![Father Iztéban Alkássar](images/beings/characters/frztbnlksr.webp){float: top-left}
 
 ## Appearance {#appearance}
 

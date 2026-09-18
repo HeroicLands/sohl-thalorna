@@ -73,6 +73,7 @@ name:
 shortcode: taranon
 img: images/affiliation/aureldian/taranon.webp
 packFolder: pantheonsaureldian
+banner: banners/faithbnr.webp
 ---
 
 God of storms, thunder, and lightning. Táranon commands the skies, both nurturing the land with rain and unleashing destructive tempests.

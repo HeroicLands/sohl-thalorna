@@ -121,6 +121,7 @@ data:
   relations:
     tngvkvnlei: aligned
 packFolder: elementallords
+banner: banners/faithbnr.webp
 ---
 
 ## Zhütshüt Lüng — The Lord of Water

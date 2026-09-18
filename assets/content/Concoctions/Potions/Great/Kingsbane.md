@@ -6,7 +6,7 @@ name:
   aliases:
     - Potion, Poison, Great
 description: "Blackened tar-like liquid; deadly poison causing swift incapacitation."
-img: sohl/assets/icons/other/potion.svg
+img: systems/sohl/assets/icons/other/potion.svg
 shortcode: ptnpoig
 type: concoctiongear
 subType: exotic

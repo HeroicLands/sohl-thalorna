@@ -6,11 +6,11 @@ name:
   full: Stygian Leviathan
   aliases: []
 description: "An elder aquatic predator of lightless subterranean seas whose indifferent presence renders entire underground ecosystems dormant with fear."
-img: sohl/assets/icons/game-icons/delapouite/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 shortcode: stygnlvt
 type: being
 data:
-  portrait: images/beings/creatures/stygnlvt-portrait.webp
+  portrait: images/beings/creatures/stygnlvt.webp
   templatePriority: null
   archetypes: []
   occupation: null
@@ -283,7 +283,7 @@ sohl:
         disabled: false
 ---
 
-![Stygian Leviathan](images/beings/creatures/stygnlvt-portrait.webp){float: top-left}
+![Stygian Leviathan](images/beings/creatures/stygnlvt.webp){float: top-left}
 
 ## Appearance {#appearance}
 

@@ -6,7 +6,7 @@ name:
   aliases:
     - Potion, Curative, Great
 description: "Nearly black-green iridescent preparation; heals wounds and ailments."
-img: sohl/assets/icons/other/potion.svg
+img: systems/sohl/assets/icons/other/potion.svg
 shortcode: ptncurg
 type: concoctiongear
 subType: exotic

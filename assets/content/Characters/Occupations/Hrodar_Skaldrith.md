@@ -13,10 +13,10 @@ name:
     - Garrick Ironhand
 packFolder: ankarisvrystwald
 shortcode: hrdrskldrth
-img: sohl/assets/icons/game-icons/delapouite/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/hrdrskldrth-portrait.webp
+  portrait: null
   templatePriority: null
   archetypes: []
   occupation: Mercenary

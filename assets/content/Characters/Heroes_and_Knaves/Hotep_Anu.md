@@ -13,12 +13,12 @@ name:
   aliases:
     - The Exiled Priest
 packFolder: northernfertileregiontakheperu
-banner: banners/ta-kheperu-banner.webp
+banner: banners/takheperubnr.webp
 shortcode: hotepanu
-img: sohl/assets/icons/game-icons/delapouite/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/hotepanu-portrait.webp
+  portrait: images/beings/characters/hotepanu.webp
   templatePriority: null
   archetypes: []
   occupation: Priest
@@ -584,7 +584,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Hotep Anu](images/beings/characters/hotepanu-portrait.webp){float: top-left}
+![Hotep Anu](images/beings/characters/hotepanu.webp){float: top-left}
 
 **Home:** [[place-ankhsetun|Ankh-Setûn]]
 

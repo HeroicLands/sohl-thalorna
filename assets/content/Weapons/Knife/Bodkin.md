@@ -4,7 +4,7 @@ name:
   full: Bodkin
   aliases: []
 description: "Needle-pointed dart punches mail and plate; duelist's finishing steel."
-img: sohl/assets/icons/game-icons/lorc/broad-dagger.svg
+img: systems/sohl/assets/icons/game-icons/lorc/broaddagger.svg
 shortcode: kel
 type: weapongear
 data:

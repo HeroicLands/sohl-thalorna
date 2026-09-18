@@ -12,10 +12,10 @@ name:
   aliases: []
 packFolder: sultanateofamradad
 shortcode: mithrnmznd
-img: sohl/assets/icons/game-icons/delapouite/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/mithrnmznd-portrait.webp
+  portrait: images/beings/characters/mithrnmznd.webp
   templatePriority: null
   archetypes: []
   occupation: Herder
@@ -577,7 +577,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Mithran Mazânid](images/beings/characters/mithrnmznd-portrait.webp){float: top-left}
+![Mithran Mazânid](images/beings/characters/mithrnmznd.webp){float: top-left}
 
 ## Appearance {#appearance}
 

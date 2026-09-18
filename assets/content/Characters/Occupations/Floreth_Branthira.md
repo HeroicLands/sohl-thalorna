@@ -13,10 +13,10 @@ name:
     - Jarek Ironfoot
 packFolder: aureldiatarvenia
 shortcode: flrthbrnthr
-img: sohl/assets/icons/game-icons/delapouite/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/flrthbrnthr-portrait.webp
+  portrait: null
   templatePriority: null
   archetypes: []
   occupation: Labourer (semi-skilled)

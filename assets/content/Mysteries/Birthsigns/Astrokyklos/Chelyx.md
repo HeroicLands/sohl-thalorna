@@ -4,7 +4,7 @@ name:
   full: Chelyx
   aliases: []
 description: "The Tortoise: methodical at bench and drill-yard, sparing of speech, blind to the numinous."
-img: sohl/assets/icons/other/astrology.svg
+img: systems/sohl/assets/icons/other/astrology.svg
 shortcode: chelyx
 type: mystery
 subType: birthsign

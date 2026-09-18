@@ -14,10 +14,10 @@ name:
   aliases: []
 packFolder: ankarisvrystwald
 shortcode: dagulfvthr
-img: sohl/assets/icons/game-icons/delapouite/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/dagulfvthr-portrait.webp
+  portrait: images/beings/characters/dagulfvthr.webp
   templatePriority: null
   archetypes: []
   occupation: Brigand
@@ -559,7 +559,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Dágulf Véthar](images/beings/characters/dagulfvthr-portrait.webp){float: top-left}
+![Dágulf Véthar](images/beings/characters/dagulfvthr.webp){float: top-left}
 
 ## Appearance {#appearance}
 

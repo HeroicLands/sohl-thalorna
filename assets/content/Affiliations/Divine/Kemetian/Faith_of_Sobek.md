@@ -74,7 +74,7 @@ name:
   aliases:
     - Sobek, The Crocodile-God
 shortcode: sobek
-banner: banners/ta-kheperu-banner.webp
+banner: banners/takheperubnr.webp
 packFolder: pantheonskemetian
 ---
 

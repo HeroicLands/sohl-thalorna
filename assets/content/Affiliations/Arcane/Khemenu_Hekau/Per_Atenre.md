@@ -81,7 +81,7 @@ name:
     - The House of Sun
 shortcode: atenre
 img: icons/takheperu/khemenu-hekau/atenre.svg
-banner: banners/ta-kheperu-banner.webp
+banner: banners/takheperubnr.webp
 packFolder: khemenuhekau
 ---
 

@@ -12,10 +12,10 @@ name:
   aliases: []
 packFolder: aureldiaelavendre
 shortcode: veldrblthl
-img: sohl/assets/icons/game-icons/delapouite/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/veldrblthl-portrait.webp
+  portrait: images/beings/characters/veldrblthl.webp
   templatePriority: null
   archetypes: []
   occupation: Thespian
@@ -590,7 +590,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Véldor Bélthal](images/beings/characters/veldrblthl-portrait.webp){float: top-left}
+![Véldor Bélthal](images/beings/characters/veldrblthl.webp){float: top-left}
 
 ## Appearance {#appearance}
 

@@ -5,7 +5,7 @@ name:
   aliases:
     - Meteor
 description: "Blazing sphere descending from sky; massive heat and explosion."
-img: sohl/assets/icons/game-icons/badges/fire.svg
+img: systems/sohl/assets/icons/game-icons/badges/firebdg.svg
 shortcode: impact
 type: mysticalability
 subType: arcaneincantation

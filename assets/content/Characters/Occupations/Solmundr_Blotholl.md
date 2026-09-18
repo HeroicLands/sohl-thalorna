@@ -13,10 +13,10 @@ name:
     - Elric Hawkeye
 packFolder: ankarisnordlands
 shortcode: slmndrblthl
-img: sohl/assets/icons/game-icons/delapouite/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/slmndrblthl-portrait.webp
+  portrait: null
   templatePriority: null
   archetypes: []
   occupation: Yeoman Archer

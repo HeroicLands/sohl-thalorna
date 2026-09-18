@@ -13,7 +13,7 @@ data:
 name:
   full: Khaset
   aliases: []
-banner: banners/ta-kheperu-banner.webp
+banner: banners/takheperubnr.webp
 shortcode: khaset
 packFolder: bordernomes
 ---

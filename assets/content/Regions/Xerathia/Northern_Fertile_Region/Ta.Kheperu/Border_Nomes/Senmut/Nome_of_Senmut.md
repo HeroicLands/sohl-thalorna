@@ -1,7 +1,7 @@
 ---
 description: "A river-island fortress-nome at the second cataract; gateway and toll-gate — one of the border nomes of Ta'Kheperu."
 type: affiliation
-banner: banners/ta-kheperu-banner.webp
+banner: banners/takheperubnr.webp
 name:
   full: The Nome of Senmut
   aliases: []

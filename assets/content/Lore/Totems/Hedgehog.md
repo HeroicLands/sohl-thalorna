@@ -12,6 +12,7 @@ name:
 shortcode: hedgehogttm
 img: images/mystery/hedgehog.webp
 packFolder: loretotems
+banner: banners/creaturebnr.webp
 ---
 
 Defensive and solitary, hedgehogs rely on their spines for protection and prefer to remain hidden and alone in their burrows.

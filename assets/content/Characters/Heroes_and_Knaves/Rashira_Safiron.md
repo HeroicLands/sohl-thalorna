@@ -15,10 +15,10 @@ name:
     - The Renegade Grammatíssa
 packFolder: northernfertileregionbethua
 shortcode: rshrhssfrn
-img: sohl/assets/icons/game-icons/delapouite/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/rshrhssfrn-portrait.webp
+  portrait: null
   templatePriority: null
   archetypes: []
   occupation: Grammatíssa (Records-Keeper)

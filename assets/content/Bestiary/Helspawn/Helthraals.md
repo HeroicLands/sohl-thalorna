@@ -6,11 +6,11 @@ name:
   full: Helthraals
   aliases: []
 description: "The mindless shambling undead—zombies, skeletons, mummies, and ghouls—animated by necromancy that binds soul-fragments to drive rotting corpses."
-img: sohl/assets/icons/game-icons/delapouite/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 shortcode: hlthrls
 type: being
 data:
-  portrait: images/beings/creatures/hlthrls-portrait.webp
+  portrait: images/beings/creatures/hlthrls.webp
   templatePriority: null
   archetypes: []
   occupation: null
@@ -516,7 +516,7 @@ sohl:
         disabled: false
 ---
 
-![Helthraals](images/beings/creatures/hlthrls-portrait.webp){float: top-left}
+![Helthraals](images/beings/creatures/hlthrls.webp){float: top-left}
 
 ## Appearance {#appearance}
 

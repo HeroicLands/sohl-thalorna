@@ -12,10 +12,10 @@ name:
   aliases: []
 packFolder: ankarisvedyara
 shortcode: sntydhyrjvrdhn
-img: sohl/assets/icons/game-icons/delapouite/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/sntydhyrjvrdhn-portrait.webp
+  portrait: images/beings/characters/sntydhyrjvrdhn.webp
   templatePriority: null
   archetypes: []
   occupation: Courtesan
@@ -596,7 +596,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Sunáti Āyodhyārājavardhan](images/beings/characters/sntydhyrjvrdhn-portrait.webp){float: top-left}
+![Sunáti Āyodhyārājavardhan](images/beings/characters/sntydhyrjvrdhn.webp){float: top-left}
 
 ## Appearance {#appearance}
 

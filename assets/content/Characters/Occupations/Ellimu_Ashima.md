@@ -13,10 +13,10 @@ name:
     - Harlan Cragmoor
 packFolder: midhalionharad
 shortcode: elimuashim
-img: sohl/assets/icons/game-icons/delapouite/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/elimuashim-portrait.webp
+  portrait: null
   templatePriority: null
   archetypes: []
   occupation: Teamster

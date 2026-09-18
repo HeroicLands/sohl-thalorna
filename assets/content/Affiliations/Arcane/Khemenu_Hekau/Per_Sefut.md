@@ -85,7 +85,7 @@ name:
     - The House of Chaos
 shortcode: sefut
 img: icons/takheperu/khemenu-hekau/sefut.svg
-banner: banners/ta-kheperu-banner.webp
+banner: banners/takheperubnr.webp
 packFolder: khemenuhekau
 ---
 

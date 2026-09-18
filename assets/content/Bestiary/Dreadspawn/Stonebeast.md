@@ -6,11 +6,11 @@ name:
   full: Stonebeast
   aliases: []
 description: "An ancient earth-and-stone guardian that lies dormant in caverns until disturbed, then becomes an implacable force of destruction."
-img: sohl/assets/icons/game-icons/delapouite/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 shortcode: stnbst
 type: being
 data:
-  portrait: images/beings/creatures/stnbst-portrait.webp
+  portrait: images/beings/creatures/stnbst.webp
   templatePriority: null
   archetypes: []
   occupation: null
@@ -375,7 +375,7 @@ sohl:
         disabled: false
 ---
 
-![Stonebeast](images/beings/creatures/stnbst-portrait.webp){float: top-left}
+![Stonebeast](images/beings/creatures/stnbst.webp){float: top-left}
 
 ## Appearance {#appearance}
 

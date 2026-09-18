@@ -10,12 +10,12 @@ name:
   clan: Khalîdra
   aliases: []
 packFolder: helladhelionis
-banner: banners/tamzir-banner.webp
+banner: banners/tamzirbnr.webp
 shortcode: isarakhldr
-img: sohl/assets/icons/game-icons/delapouite/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/isarakhldr-portrait.webp
+  portrait: images/beings/characters/isarakhldr.webp
   templatePriority: null
   archetypes: []
   occupation: Courtesan
@@ -558,7 +558,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Isâra Khalîdra](images/beings/characters/isarakhldr-portrait.webp){float: top-left}
+![Isâra Khalîdra](images/beings/characters/isarakhldr.webp){float: top-left}
 
 ## Appearance {#appearance}
 

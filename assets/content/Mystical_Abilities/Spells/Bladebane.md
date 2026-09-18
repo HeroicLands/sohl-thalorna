@@ -5,7 +5,7 @@ name:
   aliases:
     - Swordbreaker
 description: "Curse upon weapon; blades dull and shatter under strain."
-img: sohl/assets/icons/game-icons/badges/anvil.svg
+img: systems/sohl/assets/icons/game-icons/badges/anvilbdg.svg
 shortcode: bldbn
 type: mysticalability
 subType: arcaneincantation

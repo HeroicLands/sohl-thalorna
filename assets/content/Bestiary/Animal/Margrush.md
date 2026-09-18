@@ -6,11 +6,11 @@ name:
   full: Margrush
   aliases: []
 description: "A leathery-hided forest and swamp predator over 350 pounds, its flattened head and serrated jaws made for gripping prey amid concealing camouflage."
-img: sohl/assets/icons/game-icons/delapouite/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 shortcode: margrush
 type: being
 data:
-  portrait: images/beings/creatures/margrush-portrait.webp
+  portrait: images/beings/creatures/margrush.webp
   templatePriority: null
   archetypes: []
   occupation: null
@@ -335,7 +335,7 @@ sohl:
         disabled: false
 ---
 
-![Margrush](images/beings/creatures/margrush-portrait.webp){float: top-left}
+![Margrush](images/beings/creatures/margrush.webp){float: top-left}
 
 ## Appearance {#appearance}
 

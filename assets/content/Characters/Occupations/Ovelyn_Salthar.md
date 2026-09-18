@@ -13,10 +13,10 @@ name:
     - Gwyneth Vane
 packFolder: aureldiaelavendre
 shortcode: ovlynslthr
-img: sohl/assets/icons/game-icons/delapouite/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/ovlynslthr-portrait.webp
+  portrait: null
   templatePriority: null
   archetypes: []
   occupation: Chandler

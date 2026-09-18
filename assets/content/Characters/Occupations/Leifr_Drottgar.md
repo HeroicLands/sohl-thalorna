@@ -13,10 +13,10 @@ name:
     - Jorah Stone
 packFolder: ankarisnordlands
 shortcode: leifrdrtgr
-img: sohl/assets/icons/game-icons/delapouite/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/leifrdrtgr-portrait.webp
+  portrait: null
   templatePriority: null
   archetypes: []
   occupation: Farmer

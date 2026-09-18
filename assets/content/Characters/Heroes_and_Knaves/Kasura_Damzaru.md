@@ -11,11 +11,11 @@ name:
   aliases: []
 packFolder: midhalionharad
 shortcode: kasuradmzr
-banner: banners/tamzir-banner.webp
-img: sohl/assets/icons/game-icons/delapouite/person.svg
+banner: banners/tamzirbnr.webp
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/kasuradmzr-portrait.webp
+  portrait: images/beings/characters/kasuradmzr.webp
   templatePriority: null
   archetypes: []
   occupation: Shipwright
@@ -560,7 +560,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Kasûra Damzarû](images/beings/characters/kasuradmzr-portrait.webp){float: top-left}
+![Kasûra Damzarû](images/beings/characters/kasuradmzr.webp){float: top-left}
 
 ## Appearance {#appearance}
 

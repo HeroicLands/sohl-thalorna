@@ -12,10 +12,10 @@ name:
   aliases: []
 packFolder: ankarisvedyara
 shortcode: drkaranamn
-img: sohl/assets/icons/game-icons/delapouite/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/drkaranamn-portrait.webp
+  portrait: images/beings/characters/drkaranamn.webp
   templatePriority: null
   archetypes: []
   occupation: Domestic Servant
@@ -598,7 +598,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Drkṣàrana Manṛṣṭi](images/beings/characters/drkaranamn-portrait.webp){float: top-left}
+![Drkṣàrana Manṛṣṭi](images/beings/characters/drkaranamn.webp){float: top-left}
 
 ## Appearance {#appearance}
 

@@ -6,11 +6,11 @@ name:
   full: Lithogiant
   aliases: []
 description: "A titanic earth elemental that wanders mountain ranges by inscrutable paths, usually solitary but an apocalyptic threat when agitated or territorial."
-img: sohl/assets/icons/game-icons/delapouite/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 shortcode: lthgnt
 type: being
 data:
-  portrait: images/beings/creatures/lthgnt-portrait.webp
+  portrait: images/beings/creatures/lthgnt.webp
   templatePriority: null
   archetypes: []
   occupation: null
@@ -621,7 +621,7 @@ sohl:
         disabled: false
 ---
 
-![Lithogiant](images/beings/creatures/lthgnt-portrait.webp){float: top-left}
+![Lithogiant](images/beings/creatures/lthgnt.webp){float: top-left}
 
 ## Appearance {#appearance}
 

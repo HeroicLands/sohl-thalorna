@@ -12,10 +12,10 @@ name:
   aliases: []
 packFolder: helladbyzaria
 shortcode: akksplytms
-img: sohl/assets/icons/game-icons/delapouite/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/akksplytms-portrait.webp
+  portrait: images/beings/characters/akksplytms.webp
   templatePriority: null
   archetypes: []
   occupation: Common Seaman
@@ -587,7 +587,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Akákios Polytimós](images/beings/characters/akksplytms-portrait.webp){float: top-left}
+![Akákios Polytimós](images/beings/characters/akksplytms.webp){float: top-left}
 
 ## Appearance {#appearance}
 

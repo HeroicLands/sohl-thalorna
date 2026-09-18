@@ -5,7 +5,7 @@ name:
   full: Haradian Octus
   aliases: ["Haradian Octus", "Haradian Bit"]
 description: "Confederation eighth-piece of silver; small change across the Vylarian Sea trade."
-img: sohl/assets/icons/game-icons/badges/coins.svg
+img: systems/sohl/assets/icons/game-icons/badges/coinsbdg.svg
 shortcode: hbit
 type: miscgear
 data:

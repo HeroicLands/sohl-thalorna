@@ -12,10 +12,10 @@ name:
   aliases: []
 packFolder: ankarisnordlands
 shortcode: thrstnjrnskl
-img: sohl/assets/icons/game-icons/delapouite/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/thrstnjrnskl-portrait.webp
+  portrait: images/beings/characters/thrstnjrnskl.webp
   templatePriority: null
   archetypes: []
   occupation: Herder
@@ -582,7 +582,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Thorsteinn Járnskel](images/beings/characters/thrstnjrnskl-portrait.webp){float: top-left}
+![Thorsteinn Járnskel](images/beings/characters/thrstnjrnskl.webp){float: top-left}
 
 ## Appearance {#appearance}
 

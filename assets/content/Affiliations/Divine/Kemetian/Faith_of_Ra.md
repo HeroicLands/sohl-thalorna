@@ -93,7 +93,7 @@ name:
     - Ra
 shortcode: ra
 img: icons/takheperu/pantheon/ra.svg
-banner: banners/ta-kheperu-banner.webp
+banner: banners/takheperubnr.webp
 alias: Rā, The Solar Flame
 packFolder: pantheonskemetian
 ---

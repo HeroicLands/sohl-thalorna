@@ -13,10 +13,10 @@ name:
     - Callista Galeheart
 packFolder: aureldiatarvenia
 shortcode: dalinavlrn
-img: sohl/assets/icons/game-icons/delapouite/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/dalinavlrn-portrait.webp
+  portrait: null
   templatePriority: null
   archetypes: []
   occupation: Pilot

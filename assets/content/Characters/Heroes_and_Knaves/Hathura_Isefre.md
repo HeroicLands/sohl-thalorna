@@ -12,12 +12,12 @@ name:
   aliases:
     - Hathura Isefré
 packFolder: northernfertileregiontakheperu
-banner: banners/ta-kheperu-banner.webp
+banner: banners/takheperubnr.webp
 shortcode: hathurasfr
-img: sohl/assets/icons/game-icons/delapouite/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/hathurasfr-portrait.webp
+  portrait: images/beings/characters/hathurasfr.webp
   templatePriority: null
   archetypes: []
   occupation: Priest
@@ -619,7 +619,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Hathura Ise'fré](images/beings/characters/hathurasfr-portrait.webp){float: top-left}
+![Hathura Ise'fré](images/beings/characters/hathurasfr.webp){float: top-left}
 
 **Home:** [[place-meruhotep|Meru-Hotep]]
 

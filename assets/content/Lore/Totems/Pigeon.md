@@ -12,6 +12,7 @@ name:
 shortcode: pigeonttm
 img: images/mystery/pigeon.webp
 packFolder: loretotems
+banner: banners/creaturebnr.webp
 ---
 
 Loyal and routine-oriented, pigeons are known for their strong homing instincts, often returning to the same location repeatedly with remarkable accuracy.

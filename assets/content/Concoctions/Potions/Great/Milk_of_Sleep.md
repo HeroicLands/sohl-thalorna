@@ -6,7 +6,7 @@ name:
   aliases:
     - Potion, Narcotic, Great
 description: "Black opaque draft; induces deep unconsciousness and complete rest."
-img: sohl/assets/icons/other/potion.svg
+img: systems/sohl/assets/icons/other/potion.svg
 shortcode: ptnnarg
 type: concoctiongear
 subType: exotic

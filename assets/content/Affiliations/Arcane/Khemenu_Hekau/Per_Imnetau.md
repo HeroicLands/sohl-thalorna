@@ -85,7 +85,7 @@ name:
     - The House of the Underworld
 shortcode: imnetau
 img: icons/takheperu/khemenu-hekau/imnetau.svg
-banner: banners/ta-kheperu-banner.webp
+banner: banners/takheperubnr.webp
 packFolder: khemenuhekau
 ---
 

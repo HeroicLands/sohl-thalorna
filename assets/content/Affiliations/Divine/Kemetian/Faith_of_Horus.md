@@ -67,7 +67,7 @@ name:
     - Hórús, The Guiding Falcon
 shortcode: horus
 img: icons/takheperu/pantheon/horus.svg
-banner: banners/ta-kheperu-banner.webp
+banner: banners/takheperubnr.webp
 packFolder: pantheonskemetian
 ---
 

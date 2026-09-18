@@ -1,7 +1,7 @@
 ---
 description: "A small, devout nome of healing-shrines and herb-gardens — one of the upper-river nomes of Ta'Kheperu."
 type: affiliation
-banner: banners/ta-kheperu-banner.webp
+banner: banners/takheperubnr.webp
 name:
   full: The Nome of Per-Hût
   aliases: []

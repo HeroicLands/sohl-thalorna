@@ -13,10 +13,10 @@ name:
     - Braden Hask
 packFolder: aureldiaprovenzia
 shortcode: hrlkvlskyr
-img: sohl/assets/icons/game-icons/delapouite/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/hrlkvlskyr-portrait.webp
+  portrait: null
   templatePriority: null
   archetypes: []
   occupation: Animal Trainer

@@ -7,11 +7,11 @@ name:
   full: Mature Fire Dragon
   aliases: []
 description: "A calculating apex fire dragon of three or four centuries, cruel and supreme, selecting its prey with deliberate predatory strategy."
-img: sohl/assets/icons/game-icons/faithtoken/dragon-head.svg
+img: systems/sohl/assets/icons/game-icons/faithtoken/dragonheadft.svg
 shortcode: mtrfrdrg
 type: being
 data:
-  portrait: images/being/mtrfrdrg-portrait.webp
+  portrait: null
   templatePriority: null
   archetypes: []
   occupation: null

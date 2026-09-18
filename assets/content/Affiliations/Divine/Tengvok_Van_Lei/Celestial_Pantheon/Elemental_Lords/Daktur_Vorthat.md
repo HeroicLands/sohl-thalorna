@@ -121,6 +121,7 @@ data:
   relations:
     tngvkvnlei: aligned
 packFolder: elementallords
+banner: banners/faithbnr.webp
 ---
 
 ## Dāktūr Vōrthāt — The Lord of Metal

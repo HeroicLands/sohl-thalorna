@@ -13,10 +13,10 @@ name:
     - Agnes Turner
 packFolder: aureldiaelavendre
 shortcode: paliavldrn
-img: sohl/assets/icons/game-icons/delapouite/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/paliavldrn-portrait.webp
+  portrait: null
   templatePriority: null
   archetypes: []
   occupation: Domestic Servant

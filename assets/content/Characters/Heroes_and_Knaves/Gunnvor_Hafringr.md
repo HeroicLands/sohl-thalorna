@@ -13,10 +13,10 @@ name:
   aliases: []
 packFolder: ankarisnordlands
 shortcode: gnvrhfrngr
-img: sohl/assets/icons/game-icons/delapouite/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/gnvrhfrngr-portrait.webp
+  portrait: images/beings/characters/gnvrhfrngr.webp
   templatePriority: null
   archetypes: []
   occupation: Teamster
@@ -593,7 +593,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Gunnvör Hafringr](images/beings/characters/gnvrhfrngr-portrait.webp){float: top-left}
+![Gunnvör Hafringr](images/beings/characters/gnvrhfrngr.webp){float: top-left}
 
 ## Appearance {#appearance}
 

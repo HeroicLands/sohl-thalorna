@@ -6,7 +6,7 @@ name:
   aliases:
     - Shadowbreath Elixir
 description: "Black viscous darkness elixir; breathes obscuring shadow around bearer."
-img: sohl/assets/icons/other/potion.svg
+img: systems/sohl/assets/icons/other/potion.svg
 shortcode: elxshd
 type: concoctiongear
 subType: elixir

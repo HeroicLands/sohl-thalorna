@@ -13,10 +13,10 @@ name:
     - Arlen Seawind
 packFolder: aureldiaaelwyth
 shortcode: osmndwnwck
-img: sohl/assets/icons/game-icons/delapouite/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/osmndwnwck-portrait.webp
+  portrait: null
   templatePriority: null
   archetypes: []
   occupation: Mercantyler (Supercargo)

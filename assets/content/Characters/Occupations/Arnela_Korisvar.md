@@ -13,10 +13,10 @@ name:
     - Lady Seraphina Emberhart
 packFolder: aureldiaprovenzia
 shortcode: arnelkrsvr
-img: sohl/assets/icons/game-icons/delapouite/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/arnelkrsvr-portrait.webp
+  portrait: null
   templatePriority: null
   archetypes: []
   occupation: Nobility (Manor Lord)

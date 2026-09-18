@@ -14,10 +14,10 @@ name:
     - Theodric Froban
 packFolder: ankarisvrystwald
 shortcode: thdrcfrdbn
-img: sohl/assets/icons/game-icons/delapouite/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/thdrcfrdbn-portrait.webp
+  portrait: null
   templatePriority: null
   archetypes: []
   occupation: Miner

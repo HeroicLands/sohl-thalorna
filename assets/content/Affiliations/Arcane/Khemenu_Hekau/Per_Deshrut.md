@@ -80,7 +80,7 @@ name:
     - The House of Desert
 shortcode: deshrut
 img: icons/takheperu/khemenu-hekau/deshrut.svg
-banner: banners/ta-kheperu-banner.webp
+banner: banners/takheperubnr.webp
 packFolder: khemenuhekau
 ---
 

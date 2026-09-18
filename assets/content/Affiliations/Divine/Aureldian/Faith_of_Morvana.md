@@ -71,6 +71,7 @@ name:
 shortcode: morvana
 img: images/affiliation/aureldian/morvana.webp
 packFolder: pantheonsaureldian
+banner: banners/faithbnr.webp
 ---
 
 Goddess of decay, endings, and transformation. Mórváná oversees the natural cycle of death and renewal, reminding mortals of life's impermanence.

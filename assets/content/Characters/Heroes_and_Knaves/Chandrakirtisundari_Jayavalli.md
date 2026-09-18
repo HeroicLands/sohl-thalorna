@@ -12,10 +12,10 @@ name:
   aliases: []
 packFolder: ankarisvedyara
 shortcode: chndrkrtsndrjyvl
-img: sohl/assets/icons/game-icons/delapouite/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/chndrkrtsndrjyvl-portrait.webp
+  portrait: images/beings/characters/chndrkrtsndrjyvl.webp
   templatePriority: null
   archetypes: []
   occupation: Prostitute
@@ -591,7 +591,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Chandrakīrtisundarī Jayavalli](images/beings/characters/chndrkrtsndrjyvl-portrait.webp){float: top-left}
+![Chandrakīrtisundarī Jayavalli](images/beings/characters/chndrkrtsndrjyvl.webp){float: top-left}
 
 ## Appearance {#appearance}
 

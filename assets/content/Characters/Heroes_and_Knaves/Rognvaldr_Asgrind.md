@@ -12,10 +12,10 @@ name:
   aliases: []
 packFolder: ankarisnordlands
 shortcode: rgnvldrsgrnd
-img: sohl/assets/icons/game-icons/delapouite/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/rgnvldrsgrnd-portrait.webp
+  portrait: images/beings/characters/rgnvldrsgrnd.webp
   templatePriority: null
   archetypes: []
   occupation: Jester
@@ -621,7 +621,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Rögnvaldr Ásgrind](images/beings/characters/rgnvldrsgrnd-portrait.webp){float: top-left}
+![Rögnvaldr Ásgrind](images/beings/characters/rgnvldrsgrnd.webp){float: top-left}
 
 ## Appearance {#appearance}
 

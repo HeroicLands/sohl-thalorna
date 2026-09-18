@@ -14,10 +14,10 @@ name:
   home: null
 packFolder: ankarisnordlands
 shortcode: bjrnstrmbrn
-img: sohl/assets/icons/game-icons/delapouite/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/bjrnstrmbrn-portrait.webp
+  portrait: null
   templatePriority: null
   archetypes: []
   occupation: Warrior and Clan Leader

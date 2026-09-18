@@ -5,7 +5,7 @@ name:
   aliases:
     - Subvert
 description: "Interrupts spell-casting; shatters focus and ruins ongoing magic."
-img: sohl/assets/icons/game-icons/delapouite/circle.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/circle.svg
 shortcode: disrupt
 type: mysticalability
 subType: arcaneincantation

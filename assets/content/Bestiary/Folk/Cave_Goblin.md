@@ -6,11 +6,11 @@ name:
   full: Cave Goblin
   aliases: []
 description: "A highly intelligent, amoral subterranean goblin living as solitary hunter or loose community, pursuing its own self-interest with unwavering consistency."
-img: sohl/assets/icons/game-icons/delapouite/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 shortcode: cvgbln
 type: being
 data:
-  portrait: images/beings/creatures/cvgbln-portrait.webp
+  portrait: images/beings/creatures/cvgbln.webp
   templatePriority: null
   archetypes: []
   occupation: null
@@ -338,7 +338,7 @@ sohl:
         disabled: false
 ---
 
-![Cave Goblin](images/beings/creatures/cvgbln-portrait.webp){float: top-left}
+![Cave Goblin](images/beings/creatures/cvgbln.webp){float: top-left}
 
 ## Appearance {#appearance}
 

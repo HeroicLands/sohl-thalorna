@@ -6,11 +6,11 @@ name:
   full: Cragclimber
   aliases: []
 description: "A draconic cliffside ambush predator perfectly adapted to vertical hunting, lurking invisible on rockfaces until the moment it strikes."
-img: sohl/assets/icons/game-icons/delapouite/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 shortcode: crgclmbr
 type: being
 data:
-  portrait: images/beings/creatures/crgclmbr-portrait.webp
+  portrait: images/beings/creatures/crgclmbr.webp
   templatePriority: null
   archetypes: []
   occupation: null
@@ -344,7 +344,7 @@ sohl:
         disabled: false
 ---
 
-![Cragclimber](images/beings/creatures/crgclmbr-portrait.webp){float: top-left}
+![Cragclimber](images/beings/creatures/crgclmbr.webp){float: top-left}
 
 ## Appearance {#appearance}
 

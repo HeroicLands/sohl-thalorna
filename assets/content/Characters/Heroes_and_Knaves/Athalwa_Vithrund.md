@@ -12,10 +12,10 @@ name:
   aliases: []
 packFolder: ankarisvrystwald
 shortcode: athlwvthrnd
-img: sohl/assets/icons/game-icons/delapouite/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/athlwvthrnd-portrait.webp
+  portrait: images/beings/characters/athlwvthrnd.webp
   templatePriority: null
   archetypes: []
   occupation: Chieftain
@@ -593,7 +593,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Athalwa Vithrúnd](images/beings/characters/athlwvthrnd-portrait.webp){float: top-left}
+![Athalwa Vithrúnd](images/beings/characters/athlwvthrnd.webp){float: top-left}
 
 ## Appearance {#appearance}
 

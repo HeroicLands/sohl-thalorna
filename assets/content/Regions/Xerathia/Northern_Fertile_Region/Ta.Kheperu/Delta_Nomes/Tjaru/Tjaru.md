@@ -13,7 +13,7 @@ data:
 name:
   full: Tjaru
   aliases: []
-banner: banners/ta-kheperu-banner.webp
+banner: banners/takheperubnr.webp
 shortcode: tjaru
 packFolder: deltanomes
 ---

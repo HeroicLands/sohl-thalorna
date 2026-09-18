@@ -89,6 +89,7 @@ name:
 shortcode: odinn
 img: images/affiliation/asguardian/odinn.webp
 packFolder: pantheonsasguardian
+banner: banners/faithbnr.webp
 ---
 
 Ódinn is revered as the god of knowledge, wisdom, and the relentless pursuit of understanding. His insatiable quest for knowledge is legendary, marked by his sacrifice of an eye at the well of Mimir in exchange for a drink of its wisdom-bestowing waters. Ódinn's wisdom is not just scholarly but also deeply connected to the mystical and the arcane, encompassing the runes, the secrets of the cosmos, and the mysteries of life and death.

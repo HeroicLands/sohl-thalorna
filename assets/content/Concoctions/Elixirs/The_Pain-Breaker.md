@@ -6,7 +6,7 @@ name:
   aliases:
     - Traumashield Elixir
 description: "Luminescent draft; hardens resilience against shock and suffering."
-img: sohl/assets/icons/other/potion.svg
+img: systems/sohl/assets/icons/other/potion.svg
 shortcode: elxtrm
 type: concoctiongear
 subType: elixir

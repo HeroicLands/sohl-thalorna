@@ -13,10 +13,10 @@ name:
     - Cedric Honeywood
 packFolder: midhalionharad
 shortcode: sharushkdm
-img: sohl/assets/icons/game-icons/delapouite/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/sharushkdm-portrait.webp
+  portrait: null
   templatePriority: null
   archetypes: []
   occupation: Cook

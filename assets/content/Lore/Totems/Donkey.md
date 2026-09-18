@@ -12,6 +12,7 @@ name:
 shortcode: donkeyttm
 img: images/mystery/donkey.webp
 packFolder: loretotems
+banner: banners/creaturebnr.webp
 ---
 
 Patient and obstinate, donkeys are known for their stubbornness and will resist any force they perceive as unreasonable or threatening.

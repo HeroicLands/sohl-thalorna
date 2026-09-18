@@ -14,10 +14,10 @@ name:
   home: null
 packFolder: ankarisnordlands
 shortcode: thrglthndrstrk
-img: sohl/assets/icons/game-icons/delapouite/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/thrglthndrstrk-portrait.webp
+  portrait: null
   templatePriority: null
   archetypes: []
   occupation: Champion

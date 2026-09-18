@@ -13,10 +13,10 @@ name:
   aliases: []
 packFolder: aureldiaprovenzia
 shortcode: dornsyndlr
-img: sohl/assets/icons/game-icons/delapouite/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/dornsyndlr-portrait.webp
+  portrait: images/beings/characters/dornsyndlr.webp
   templatePriority: null
   archetypes: []
   occupation: Mercenary
@@ -570,7 +570,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Dôren Sýndalr](images/beings/characters/dornsyndlr-portrait.webp){float: top-left}
+![Dôren Sýndalr](images/beings/characters/dornsyndlr.webp){float: top-left}
 
 ## Appearance {#appearance}
 

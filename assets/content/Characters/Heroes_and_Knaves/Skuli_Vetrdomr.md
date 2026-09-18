@@ -13,10 +13,10 @@ name:
   aliases: []
 packFolder: ankarisnordlands
 shortcode: skulvtrdmr
-img: sohl/assets/icons/game-icons/delapouite/person.svg
+img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/skulvtrdmr-portrait.webp
+  portrait: images/beings/characters/skulvtrdmr.webp
   templatePriority: null
   archetypes: []
   occupation: Tentmaker
@@ -592,7 +592,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Skúli Vetrdómr](images/beings/characters/skulvtrdmr-portrait.webp){float: top-left}
+![Skúli Vetrdómr](images/beings/characters/skulvtrdmr.webp){float: top-left}
 
 ## Appearance {#appearance}
 

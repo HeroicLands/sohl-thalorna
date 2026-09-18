@@ -12,6 +12,7 @@ name:
 shortcode: wolfttm
 img: images/mystery/wolf.webp
 packFolder: loretotems
+banner: banners/creaturebnr.webp
 ---
 
 Cooperative and strategic, wolves are pack animals that rely on teamwork and careful planning to hunt and protect their territory.
