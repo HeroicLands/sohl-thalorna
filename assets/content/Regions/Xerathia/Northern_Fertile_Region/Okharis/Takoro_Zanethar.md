@@ -1,5 +1,6 @@
 ---
 tags:
+  - character
   - administration
 name:
   full: Tákoro Zanethar

@@ -1,5 +1,6 @@
 ---
 tags:
+  - character
   - draft
   - embassy-to-tanvur
 name:
