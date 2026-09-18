@@ -12,12 +12,12 @@ name:
   home: ankhsetun
   aliases: []
 packFolder: northernfertileregiontakheperu
-banner: banners/takheperubnr.webp
+banner: takheperubnr
 shortcode: shebsthtms
-img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/shebsthtms.webp
+  icon: sohl-none-icon-person
+  portrait: shebsthtms
   templatePriority: null
   archetypes: []
   occupation: Apothecary

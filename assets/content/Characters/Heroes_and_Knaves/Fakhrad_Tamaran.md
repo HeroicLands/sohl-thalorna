@@ -13,10 +13,10 @@ name:
   aliases: []
 packFolder: sultanateofamradad
 shortcode: fakhrdtmrn
-img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/fakhrdtmrn.webp
+  icon: sohl-none-icon-person
+  portrait: fakhrdtmrn
   templatePriority: null
   archetypes: []
   occupation: Astrologer

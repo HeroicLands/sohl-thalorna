@@ -13,7 +13,7 @@ data:
 name:
   full: Khenet-Ta
   aliases: []
-banner: banners/takheperubnr.webp
+banner: takheperubnr
 shortcode: khenetta
 packFolder: upperrivernomes
 ---

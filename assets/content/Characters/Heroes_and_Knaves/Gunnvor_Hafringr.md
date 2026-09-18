@@ -13,10 +13,10 @@ name:
   aliases: []
 packFolder: ankarisnordlands
 shortcode: gnvrhfrngr
-img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/gnvrhfrngr.webp
+  icon: sohl-none-icon-person
+  portrait: gnvrhfrngr
   templatePriority: null
   archetypes: []
   occupation: Teamster

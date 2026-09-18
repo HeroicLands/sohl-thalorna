@@ -13,7 +13,7 @@ data:
 name:
   full: Khent-Hen
   aliases: []
-banner: banners/takheperubnr.webp
+banner: takheperubnr
 shortcode: khenthen
 packFolder: bordernomes
 ---

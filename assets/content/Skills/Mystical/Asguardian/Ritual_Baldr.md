@@ -5,12 +5,12 @@ tags:
 type: skill
 subType: mystical
 shortcode: baldr
-img: images/affiliation/asguardian/baldr.webp
 name:
   full: "Ritual: Baldr"
   aliases:
     - The Luminous Path
 data:
+  icon: baldr
   templatePriority: null
 sohl:
   system:

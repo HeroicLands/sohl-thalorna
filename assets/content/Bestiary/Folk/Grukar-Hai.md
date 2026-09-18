@@ -6,11 +6,11 @@ name:
   full: Grukar-Hai
   aliases: []
 description: "A towering six-foot apex Grukar warrior, strongest of its kind, so consumed by the need for dominance it cannot tolerate its own kin."
-img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 shortcode: grkrh
 type: being
 data:
-  portrait: images/beings/creatures/grkrh.webp
+  icon: sohl-none-icon-person
+  portrait: grkrh
   templatePriority: null
   archetypes: []
   occupation: null

@@ -12,10 +12,10 @@ name:
   aliases: []
 packFolder: helladbyzaria
 shortcode: kyrksptrks
-img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/kyrksptrks.webp
+  icon: sohl-none-icon-person
+  portrait: kyrksptrks
   templatePriority: null
   archetypes: []
   occupation: Swordmaster

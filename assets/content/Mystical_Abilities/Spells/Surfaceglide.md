@@ -5,11 +5,11 @@ name:
   aliases:
     - Waterwalk
 description: "Grants frictionless movement; enables sliding across any surface."
-img: systems/sohl/assets/icons/game-icons/badges/water.svg
 shortcode: srfcgld
 type: mysticalability
 subType: arcaneincantation
 data:
+  icon: sohl-none-icon-water
   templatePriority: null
 sohl:
   system:

@@ -4,11 +4,11 @@ tags:
 type: skill
 subType: mystical
 shortcode: hydalis
-img: images/affiliation/hex-hodai/hydalis.webp
 name:
   full: Incantus Hydälis
   aliases: []
 data:
+  icon: hydalis
   templatePriority: null
 sohl:
   system:

@@ -11,9 +11,9 @@ name:
     - The Sacred Star
     - "Ix'ilan Ch'alix"
 shortcode: ixilanchalix
-img: null
 packFolder: pantheonitzani
 data:
+  icon: null
   templatePriority: null
   demonym: null
   epithet: The Sacred Star
@@ -122,7 +122,7 @@ data:
     - itzanpnthn
   relations:
     itzanpnthn: aligned
-banner: banners/faithbnr.webp
+banner: faithbnr
 ---
 
 **Domain:** Knowledge, Wisdom, Writing, The Calendar, Astronomy

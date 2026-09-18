@@ -4,11 +4,11 @@ name:
   full: Mask
   aliases: []
 description: "Illusion hiding caster's identity and appearance; deeply deceptive."
-img: systems/sohl/assets/icons/game-icons/delapouite/circle.svg
 shortcode: mask
 type: mysticalability
 subType: arcaneincantation
 data:
+  icon: sohl-none-icon-circle
   templatePriority: null
 sohl:
   system:

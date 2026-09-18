@@ -14,10 +14,10 @@ name:
     - Calen
 packFolder: aureldiatarvenia
 shortcode: torniskbry
-img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/torniskbry.webp
+  icon: sohl-none-icon-person
+  portrait: torniskbry
   templatePriority: null
   archetypes: []
   occupation: Scout / Spy

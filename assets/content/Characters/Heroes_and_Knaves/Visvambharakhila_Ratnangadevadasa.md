@@ -13,10 +13,10 @@ name:
   aliases: []
 packFolder: ankarisvedyara
 shortcode: vsvmbhrkhlrtngdvds
-img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/vsvmbhrkhlrtngdvds.webp
+  icon: sohl-none-icon-person
+  portrait: vsvmbhrkhlrtngdvds
   templatePriority: null
   archetypes: []
   occupation: Chandler

@@ -6,11 +6,11 @@ name:
   full: Giant Ant
   aliases: []
 description: "A hyper-evolved insect soldier up to five feet long, defending its vast colony with terrible, coordinated ferocity when disturbed."
-img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 shortcode: giantant
 type: being
 data:
-  portrait: images/beings/creatures/giantant.webp
+  icon: sohl-none-icon-person
+  portrait: giantant
   templatePriority: null
   archetypes: []
   occupation: null

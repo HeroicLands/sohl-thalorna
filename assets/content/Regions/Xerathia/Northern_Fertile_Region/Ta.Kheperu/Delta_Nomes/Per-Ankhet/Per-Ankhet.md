@@ -14,7 +14,7 @@ data:
 name:
   full: Per-Ankhet
   aliases: []
-banner: banners/takheperubnr.webp
+banner: takheperubnr
 shortcode: perankhet
 packFolder: perankhet
 ---

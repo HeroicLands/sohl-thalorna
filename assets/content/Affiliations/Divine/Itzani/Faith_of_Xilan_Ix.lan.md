@@ -11,9 +11,9 @@ name:
     - The Walker of Paths
     - "Xilan Ix'lan"
 shortcode: xilanixlan
-img: null
 packFolder: pantheonitzani
 data:
+  icon: null
   templatePriority: null
   demonym: null
   epithet: The Walker of Paths
@@ -122,7 +122,7 @@ data:
     - itzanpnthn
   relations:
     itzanpnthn: aligned
-banner: banners/faithbnr.webp
+banner: faithbnr
 ---
 
 **Domain:** Travel, Trade, Journeys, Messengers, Commerce, Communication

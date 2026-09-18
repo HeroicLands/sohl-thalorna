@@ -10,9 +10,10 @@ name:
   aliases:
     - Duck Totem
 shortcode: duckttm
-img: images/mystery/duck.webp
 packFolder: loretotems
-banner: banners/creaturebnr.webp
+banner: creaturebnr
+data:
+  icon: duck
 ---
 
 Gregarious and adaptable, ducks are social birds that thrive in diverse environments, often forming strong bonds with their flock.

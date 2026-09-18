@@ -13,10 +13,10 @@ name:
   aliases: []
 packFolder: helladbyzaria
 shortcode: alykosmpsn
-img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/alykosmpsn.webp
+  icon: sohl-none-icon-person
+  portrait: alykosmpsn
   templatePriority: null
   archetypes: []
   occupation: Physician

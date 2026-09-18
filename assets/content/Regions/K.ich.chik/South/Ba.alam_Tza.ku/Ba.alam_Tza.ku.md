@@ -6,10 +6,10 @@ name:
   full: Ba'alam Tza'ku
   aliases: []
 shortcode: balamtzaku
-img: null
 type: affiliation
 subType: polity
 data:
+  icon: null
   templatePriority: null
   demonym: null
   epithet: null

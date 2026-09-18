@@ -13,10 +13,10 @@ name:
   aliases: []
 packFolder: ankarisnordlands
 shortcode: skfrnstrmrt
-img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/skfrnstrmrt.webp
+  icon: sohl-none-icon-person
+  portrait: skfrnstrmrt
   templatePriority: null
   archetypes: []
   occupation: Tentmaker

@@ -13,7 +13,7 @@ data:
 name:
   full: Maru-Aten
   aliases: []
-banner: banners/takheperubnr.webp
+banner: takheperubnr
 shortcode: maruaten
 packFolder: upperrivernomes
 ---

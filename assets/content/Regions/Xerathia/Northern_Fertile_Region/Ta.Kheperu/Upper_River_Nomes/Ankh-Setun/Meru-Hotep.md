@@ -15,7 +15,7 @@ data:
 name:
   full: Meru-Hotep
   aliases: []
-banner: banners/takheperubnr.webp
+banner: takheperubnr
 shortcode: meruhotep
 packFolder: ankhsetun
 ---

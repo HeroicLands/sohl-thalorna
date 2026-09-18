@@ -13,12 +13,12 @@ name:
     - Tamiyra Jâut
     - Tamiyra Jaut
 packFolder: northernfertileregiontakheperu
-banner: banners/takheperubnr.webp
+banner: takheperubnr
 shortcode: tamiyrajat
-img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/tamiyrajat.webp
+  icon: sohl-none-icon-person
+  portrait: tamiyrajat
   templatePriority: null
   archetypes: []
   occupation: Courtesan

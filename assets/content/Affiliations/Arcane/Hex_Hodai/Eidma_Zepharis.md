@@ -4,6 +4,7 @@ tags:
 type: affiliation
 subType: arcanetradition
 data:
+  icon: zepharis
   templatePriority: null
   demonym: null
   epithet: null
@@ -87,7 +88,6 @@ data:
     pyrethos: aligned
     physera: aligned
 shortcode: zepharis
-img: images/affiliation/hex-hodai/zepharis.webp
 name:
   full: Zephäris
   aliases:

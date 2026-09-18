@@ -6,12 +6,12 @@ description: "Standing with Nyfain, the White Owl of the Hollow — what this al
 type: skill
 subType: mystical
 shortcode: nyfainsprt
-img: systems/sohl/assets/icons/game-icons/lorc/psychicwaves.svg
 name:
   full: "Nyfain Spirit Power"
   aliases:
     - Nyfain, the White Owl of the Hollow
 data:
+  icon: sohl-none-icon-psychicwaves
   templatePriority: null
 sohl:
   system:

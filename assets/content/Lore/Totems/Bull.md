@@ -10,9 +10,10 @@ name:
   aliases:
     - Bull Totem
 shortcode: bullttm
-img: images/mystery/bull.webp
 packFolder: loretotems
-banner: banners/creaturebnr.webp
+banner: creaturebnr
+data:
+  icon: bull
 ---
 
 Destructive and unpredictable, bulls are powerful animals that can quickly become aggressive, especially when threatened or provoked.

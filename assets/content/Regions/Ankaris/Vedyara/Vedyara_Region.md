@@ -7,10 +7,10 @@ name:
   aliases:
     - Vedyara
 shortcode: vedyarargn
-img: null
 type: place
 subType: region
 data:
+  icon: null
   demonym: Vedyaran
   lore:
     - humanflk

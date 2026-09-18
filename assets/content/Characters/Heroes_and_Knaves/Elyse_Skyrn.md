@@ -13,10 +13,10 @@ name:
   aliases: []
 packFolder: aureldiaelavendre
 shortcode: elyseskyrn
-img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/elyseskyrn.webp
+  icon: sohl-none-icon-person
+  portrait: elyseskyrn
   templatePriority: null
   archetypes: []
   occupation: Alchemist

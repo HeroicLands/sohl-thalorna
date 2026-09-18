@@ -1,7 +1,7 @@
 ---
 description: "The shrine-islands; a quiet pilgrimage nome of marsh-temples and few people — one of the delta nomes of Ta'Kheperu."
 type: affiliation
-banner: banners/takheperubnr.webp
+banner: takheperubnr
 name:
   full: The Nome of Sept-Neteru
   aliases: []

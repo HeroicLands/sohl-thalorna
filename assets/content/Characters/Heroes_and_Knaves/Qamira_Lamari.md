@@ -13,10 +13,10 @@ name:
   aliases: []
 packFolder: heroesandknaveskalihara
 shortcode: qamiralamr
-img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/qamiralamr.webp
+  icon: sohl-none-icon-person
+  portrait: qamiralamr
   templatePriority: null
   archetypes: []
   occupation: Astrologer

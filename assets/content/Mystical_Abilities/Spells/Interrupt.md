@@ -5,11 +5,11 @@ name:
   aliases:
     - Counter
 description: "Dissonant lance disrupting rival's spell mid-casting; scatters gathered power."
-img: systems/sohl/assets/icons/game-icons/delapouite/circle.svg
 shortcode: intrrpt
 type: mysticalability
 subType: arcaneincantation
 data:
+  icon: sohl-none-icon-circle
   templatePriority: null
 sohl:
   system:

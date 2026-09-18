@@ -6,11 +6,11 @@ name:
   full: Swampgolem
   aliases: []
 description: "A malevolent animate mass of mud, rot, and drowned bones, formed by the swamp itself to lash out at intruders."
-img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 shortcode: swmpglm
 type: being
 data:
-  portrait: images/beings/creatures/swmpglm.webp
+  icon: sohl-none-icon-person
+  portrait: swmpglm
   templatePriority: null
   archetypes: []
   occupation: null

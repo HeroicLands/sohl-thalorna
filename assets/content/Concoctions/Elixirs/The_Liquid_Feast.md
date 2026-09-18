@@ -6,13 +6,13 @@ name:
   aliases:
     - Sustenance Elixir
 description: "Thick brown draft; sustains days of active labor and travel."
-img: systems/sohl/assets/icons/other/potion.svg
 shortcode: elxsus
 type: concoctiongear
 subType: elixir
 hmk:
   name: Sustenance
 data:
+  icon: sohl-none-icon-potion
   templatePriority: null
 sohl:
   system:

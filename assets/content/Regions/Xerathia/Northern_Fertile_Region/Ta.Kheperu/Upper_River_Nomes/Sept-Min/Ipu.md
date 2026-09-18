@@ -13,7 +13,7 @@ data:
 name:
   full: Ipu
   aliases: []
-banner: banners/takheperubnr.webp
+banner: takheperubnr
 shortcode: ipu
 packFolder: upperrivernomes
 ---

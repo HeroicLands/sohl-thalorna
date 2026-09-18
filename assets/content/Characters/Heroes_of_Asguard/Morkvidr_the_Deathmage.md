@@ -15,9 +15,9 @@ name:
   home: null
 packFolder: ankarisnordlands
 shortcode: mrkvdrdthmg
-img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
+  icon: sohl-none-icon-person
   portrait: null
   templatePriority: null
   archetypes: []

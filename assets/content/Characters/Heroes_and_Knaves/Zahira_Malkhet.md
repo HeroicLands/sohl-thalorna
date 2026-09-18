@@ -15,10 +15,10 @@ name:
     - The Hound of the Veil
 packFolder: northernfertileregionbethua
 shortcode: zahirmlkht
-img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/zahirmlkht.webp
+  icon: sohl-none-icon-person
+  portrait: zahirmlkht
   templatePriority: null
   archetypes: []
   occupation: Bounty Hunter

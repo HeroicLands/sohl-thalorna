@@ -13,9 +13,9 @@ name:
     - Jarek Ironfoot
 packFolder: aureldiatarvenia
 shortcode: flrthbrnthr
-img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
+  icon: sohl-none-icon-person
   portrait: null
   templatePriority: null
   archetypes: []

@@ -6,10 +6,10 @@ name:
   full: Harad Region
   aliases: []
 shortcode: haradregin
-img: null
 type: place
 subType: region
 data:
+  icon: null
   demonym: null
   lore: []
   parents:

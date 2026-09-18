@@ -6,11 +6,11 @@ name:
   full: Feraldew
   aliases: []
 description: "A corrupted cervid of predatory intelligence that infiltrates ordinary herds and ambushes travelers before they sense the danger."
-img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 shortcode: feraldew
 type: being
 data:
-  portrait: images/beings/creatures/feraldew.webp
+  icon: sohl-none-icon-person
+  portrait: feraldew
   templatePriority: null
   archetypes: []
   occupation: null

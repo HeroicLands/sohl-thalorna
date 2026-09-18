@@ -12,10 +12,10 @@ name:
   aliases: []
 packFolder: helladbyzaria
 shortcode: theklarhms
-img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/theklarhms.webp
+  icon: sohl-none-icon-person
+  portrait: theklarhms
   templatePriority: null
   archetypes: []
   occupation: Mercenary

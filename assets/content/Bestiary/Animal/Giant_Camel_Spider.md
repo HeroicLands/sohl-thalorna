@@ -7,11 +7,11 @@ name:
   full: Giant Camel Spider
   aliases: []
 description: "A fox-sized desert solifugid, neither venomous nor web-spinning, that compensates with pale bristling chitin and overwhelming jaw muscle."
-img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 shortcode: gntcmlsp
 type: being
 data:
-  portrait: images/beings/creatures/gntcmlsp.webp
+  icon: sohl-none-icon-person
+  portrait: gntcmlsp
   templatePriority: null
   archetypes: []
   occupation: null

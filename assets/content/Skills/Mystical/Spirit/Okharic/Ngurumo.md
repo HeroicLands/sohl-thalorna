@@ -6,12 +6,12 @@ description: "Standing with Ngurumo, zohira of storms — what this emissary of 
 type: skill
 subType: mystical
 shortcode: ngurumosprt
-img: systems/sohl/assets/icons/game-icons/lorc/psychicwaves.svg
 name:
   full: "Ngurumo Spirit Power"
   aliases:
     - The Thunder Above
 data:
+  icon: sohl-none-icon-psychicwaves
   templatePriority: null
 sohl:
   system:

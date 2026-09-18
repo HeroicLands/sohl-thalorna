@@ -121,7 +121,7 @@ data:
   relations:
     tngvkvnlei: aligned
 packFolder: elementallords
-banner: banners/faithbnr.webp
+banner: faithbnr
 ---
 
 ## Vōrjīk Jëk — The Lord of Fire

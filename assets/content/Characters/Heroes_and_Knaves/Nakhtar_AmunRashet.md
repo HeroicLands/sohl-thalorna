@@ -13,12 +13,12 @@ name:
     - Nakhtar AmunRâshet
     - Nakhtar AmunRashet
 packFolder: northernfertileregiontakheperu
-banner: banners/takheperubnr.webp
+banner: takheperubnr
 shortcode: nkhtrmnrsht
-img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/nkhtrmnrsht.webp
+  icon: sohl-none-icon-person
+  portrait: nkhtrmnrsht
   templatePriority: null
   archetypes: []
   occupation: Thatcher

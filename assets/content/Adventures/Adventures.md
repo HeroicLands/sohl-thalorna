@@ -7,7 +7,7 @@ subType: reference
 shortcode: scenario
 tags:
 description: Playable adventures and modules.
-banner: banners/adventurebnr.webp
+banner: null
 ---
 
 Playable adventures and modules.

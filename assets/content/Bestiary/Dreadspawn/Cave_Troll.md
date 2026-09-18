@@ -6,11 +6,11 @@ name:
   full: Cave Troll
   aliases: []
 description: "A slow-witted but devastating cavern apex predator that hunts in absolute darkness using senses far keener than any humanoid's."
-img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 shortcode: cvtrll
 type: being
 data:
-  portrait: images/beings/creatures/cvtrll.webp
+  icon: sohl-none-icon-person
+  portrait: cvtrll
   templatePriority: null
   archetypes: []
   occupation: null

@@ -13,10 +13,10 @@ name:
   aliases: []
 packFolder: aureldiatarvenia
 shortcode: domthgrvth
-img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/domthgrvth.webp
+  icon: sohl-none-icon-person
+  portrait: domthgrvth
   templatePriority: null
   archetypes: []
   occupation: Shipwright

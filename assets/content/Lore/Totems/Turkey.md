@@ -10,9 +10,10 @@ name:
   aliases:
     - Turkey Totem
 shortcode: turkeyttm
-img: images/mystery/turkey.webp
 packFolder: loretotems
-banner: banners/creaturebnr.webp
+banner: creaturebnr
+data:
+  icon: turkey
 ---
 
 Proud and cautious, turkeys are ground-dwelling birds that display elaborate courtship rituals while remaining vigilant against predators.

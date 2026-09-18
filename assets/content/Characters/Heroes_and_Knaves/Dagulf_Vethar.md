@@ -14,10 +14,10 @@ name:
   aliases: []
 packFolder: ankarisvrystwald
 shortcode: dagulfvthr
-img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/dagulfvthr.webp
+  icon: sohl-none-icon-person
+  portrait: dagulfvthr
   templatePriority: null
   archetypes: []
   occupation: Brigand

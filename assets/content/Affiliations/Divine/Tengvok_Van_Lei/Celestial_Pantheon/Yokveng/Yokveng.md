@@ -89,7 +89,7 @@ data:
   relations:
     tngvkvnlei: aligned
 packFolder: yokveng
-banner: banners/faithbnr.webp
+banner: faithbnr
 ---
 
 - **Type:** Celestial realm of subversion and failure

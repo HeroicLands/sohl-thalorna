@@ -11,11 +11,11 @@ name:
   aliases: []
 packFolder: aureldiatarvenia
 shortcode: slvrvlskyr
-banner: banners/tamzirbnr.webp
-img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
+banner: tamzirbnr
 type: being
 data:
-  portrait: images/beings/characters/slvrvlskyr.webp
+  icon: sohl-none-icon-person
+  portrait: slvrvlskyr
   templatePriority: null
   archetypes: []
   occupation: First Mate

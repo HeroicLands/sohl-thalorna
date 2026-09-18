@@ -5,7 +5,6 @@ tags:
 type: skill
 subType: mystical
 shortcode: aetheria
-img: images/affiliation/aureldian/aetheria.webp
 name:
   full: "Ritual: Aethería"
   aliases:
@@ -13,6 +12,7 @@ name:
     - Aetheria
     - The Veiled Dreamer
 data:
+  icon: aetheria
   templatePriority: null
 sohl:
   system:

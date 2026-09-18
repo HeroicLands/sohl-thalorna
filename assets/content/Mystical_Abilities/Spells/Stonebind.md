@@ -5,11 +5,11 @@ name:
   aliases:
     - Petrification
 description: "Binds target to stone; imprisons within rocky tomb."
-img: systems/sohl/assets/icons/other/tree.svg
 shortcode: stnbnd
 type: mysticalability
 subType: arcaneincantation
 data:
+  icon: sohl-none-icon-tree
   templatePriority: null
 sohl:
   system:

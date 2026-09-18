@@ -1,7 +1,7 @@
 ---
 description: "Eastern marsh; the great crocodile cult and the river-beast hunters — one of the delta nomes of Ta'Kheperu."
 type: affiliation
-banner: banners/takheperubnr.webp
+banner: takheperubnr
 name:
   full: The Nome of Hut-Sobek
   aliases: []

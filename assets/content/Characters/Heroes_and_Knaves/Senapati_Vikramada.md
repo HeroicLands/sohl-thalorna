@@ -12,10 +12,10 @@ name:
   aliases: []
 packFolder: ankarisvedyara
 shortcode: senptvkrmd
-img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/senptvkrmd.webp
+  icon: sohl-none-icon-person
+  portrait: senptvkrmd
   templatePriority: null
   archetypes: []
   occupation: Bosun

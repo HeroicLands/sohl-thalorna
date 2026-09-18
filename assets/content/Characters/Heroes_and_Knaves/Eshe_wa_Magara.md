@@ -14,10 +14,10 @@ name:
     - The Spirit Blade Warrior
 packFolder: northernfertileregionokharis
 shortcode: eshewamagr
-img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/eshewamagr.webp
+  icon: sohl-none-icon-person
+  portrait: eshewamagr
   templatePriority: null
   archetypes: []
   occupation: Swordmaster

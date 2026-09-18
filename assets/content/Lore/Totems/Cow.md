@@ -10,9 +10,10 @@ name:
   aliases:
     - Cow Totem
 shortcode: cowttm
-img: images/mystery/cow.webp
 packFolder: loretotems
-banner: banners/creaturebnr.webp
+banner: creaturebnr
+data:
+  icon: cow
 ---
 
 Docile and routine-oriented, cows are gentle creatures that thrive in familiar environments, following established patterns for feeding and resting.

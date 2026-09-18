@@ -4,10 +4,10 @@ name:
   full: Knuckledusters
   aliases: []
 description: "Iron rings weighted-knuckle; tavern brawl and street ambush stealth."
-img: systems/sohl/assets/icons/other/knuckledusters.svg
 shortcode: kncldstr
 type: weapongear
 data:
+  icon: sohl-none-icon-knuckledusters
   templatePriority: null
 sohl:
   kbcat: club

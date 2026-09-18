@@ -6,10 +6,10 @@ name:
   full: Ta'Kheperu Region
   aliases: []
 shortcode: takheperurgn
-img: null
 type: place
 subType: region
 data:
+  icon: null
   demonym: Kheperi
   lore:
     - humanflk

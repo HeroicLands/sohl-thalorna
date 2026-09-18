@@ -5,11 +5,11 @@ name:
   aliases:
     - Grukar
 description: "The guttural, sparse speech of the Grukar tribes — stingy with abstractions but lavish with words for weather, prey, and warfare."
-img: systems/sohl/assets/icons/other/speaking.svg
 shortcode: grukarlng
 type: skill
 subType: language
 data:
+  icon: sohl-none-icon-speaking
   templatePriority: null
 sohl:
   system:

@@ -7,10 +7,10 @@ name:
   aliases: []
 description: "Sets a wasting sickness on a stated population."
 shortcode: plgrdlnd
-img: icons/takheperu/khemenu-hekau/deshrut.svg
 type: mysticalability
 subType: arcaneincantation
 data:
+  icon: deshrut
   templatePriority: null
 sohl:
   system:

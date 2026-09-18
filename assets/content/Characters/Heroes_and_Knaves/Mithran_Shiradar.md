@@ -12,10 +12,10 @@ name:
   aliases: []
 packFolder: dunharatribes
 shortcode: mthrnshrdr
-img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/mthrnshrdr.webp
+  icon: sohl-none-icon-person
+  portrait: mthrnshrdr
   templatePriority: null
   archetypes: []
   occupation: Chieftain

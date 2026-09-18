@@ -5,7 +5,6 @@ tags:
 type: skill
 subType: mystical
 shortcode: thoth
-img: icons/takheperu/pantheon/thoth.svg
 name:
   full: "Ritual: Thōth"
   aliases:
@@ -14,6 +13,7 @@ name:
     - Thaut
     - The Scribe of the Eternal Library
 data:
+  icon: thoth
   templatePriority: null
 sohl:
   system:

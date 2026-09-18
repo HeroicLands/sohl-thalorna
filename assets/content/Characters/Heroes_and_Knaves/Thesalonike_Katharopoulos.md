@@ -12,10 +12,10 @@ name:
   aliases: []
 packFolder: helladbyzaria
 shortcode: thslnkkthrpls
-img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/thslnkkthrpls.webp
+  icon: sohl-none-icon-person
+  portrait: thslnkkthrpls
   templatePriority: null
   archetypes: []
   occupation: Woodcutter

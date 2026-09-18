@@ -5,11 +5,11 @@ name:
   aliases:
     - Balm
 description: "Rapid healing of major wounds; restores vitality and function."
-img: systems/sohl/assets/icons/other/tree.svg
 shortcode: renew
 type: mysticalability
 subType: arcaneincantation
 data:
+  icon: sohl-none-icon-tree
   templatePriority: null
 sohl:
   system:

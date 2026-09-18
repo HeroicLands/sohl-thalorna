@@ -12,10 +12,10 @@ name:
   aliases: []
 packFolder: helladbyzaria
 shortcode: kalidkrkss
-img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/kalidkrkss.webp
+  icon: sohl-none-icon-person
+  portrait: kalidkrkss
   templatePriority: null
   archetypes: []
   occupation: Potter

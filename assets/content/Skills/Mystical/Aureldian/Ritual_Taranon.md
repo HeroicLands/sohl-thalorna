@@ -5,13 +5,13 @@ tags:
 type: skill
 subType: mystical
 shortcode: taranon
-img: images/affiliation/aureldian/taranon.webp
 name:
   full: "Ritual: Taranon"
   aliases:
     - Táranon
     - The Thunderer
 data:
+  icon: taranon
   templatePriority: null
 sohl:
   system:

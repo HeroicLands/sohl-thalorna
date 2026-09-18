@@ -13,12 +13,12 @@ name:
   aliases:
     - Parri ReenKhensu
 packFolder: northernfertileregiontakheperu
-banner: banners/takheperubnr.webp
+banner: takheperubnr
 shortcode: parirnkhns
-img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/parirnkhns.webp
+  icon: sohl-none-icon-person
+  portrait: parirnkhns
   templatePriority: null
   archetypes: []
   occupation: Scholar

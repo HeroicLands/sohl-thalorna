@@ -12,12 +12,12 @@ name:
   aliases:
     - Tirye Djetamê
 packFolder: northernfertileregiontakheperu
-banner: banners/takheperubnr.webp
+banner: takheperubnr
 shortcode: tiryedjetm
-img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/tiryedjetm.webp
+  icon: sohl-none-icon-person
+  portrait: tiryedjetm
   templatePriority: null
   archetypes: []
   occupation: Thespian

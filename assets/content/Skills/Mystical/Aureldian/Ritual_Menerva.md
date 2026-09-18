@@ -5,13 +5,13 @@ tags:
 type: skill
 subType: mystical
 shortcode: menerva
-img: images/affiliation/aureldian/menerva.webp
 name:
   full: "Ritual: Menerva"
   aliases:
     - Ménérva
     - Keeper of Sacred Wisdom
 data:
+  icon: menerva
   templatePriority: null
 sohl:
   system:

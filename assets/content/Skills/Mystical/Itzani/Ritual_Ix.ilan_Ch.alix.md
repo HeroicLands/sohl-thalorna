@@ -5,13 +5,13 @@ tags:
 type: skill
 subType: mystical
 shortcode: ixilanchalix
-img: null
 name:
   full: "Ritual: Ix'ilan Ch'alix"
   aliases:
     - Ix'ilan Ch'alix
     - The Sacred Star
 data:
+  icon: null
   templatePriority: null
 sohl:
   system:

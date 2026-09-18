@@ -13,10 +13,10 @@ name:
   aliases: []
 packFolder: aureldiatarvenia
 shortcode: hlrksbrnthr
-img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/hlrksbrnthr.webp
+  icon: sohl-none-icon-person
+  portrait: hlrksbrnthr
   templatePriority: null
   archetypes: []
   occupation: Bureaucrat

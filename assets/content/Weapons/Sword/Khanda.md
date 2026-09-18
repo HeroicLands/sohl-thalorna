@@ -4,10 +4,10 @@ name:
   full: Khanda
   aliases: []
 description: "Straight broad double-edged blade for hacking; ranked warrior's symbol."
-img: systems/sohl/assets/icons/other/sword.svg
 shortcode: knda
 type: weapongear
 data:
+  icon: sohl-none-icon-sword
   templatePriority: null
 sohl:
   kbcat: sword

@@ -13,9 +13,9 @@ name:
     - Anwen Lys
 packFolder: aureldiaaelwyth
 shortcode: wnfrdlvrtn
-img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
+  icon: sohl-none-icon-person
   portrait: null
   templatePriority: null
   archetypes: []

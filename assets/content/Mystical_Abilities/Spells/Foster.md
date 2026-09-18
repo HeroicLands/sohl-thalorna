@@ -5,11 +5,11 @@ name:
   aliases:
     - Nurture
 description: "Accelerates growth; crops ripen fast and creatures mature rapidly."
-img: systems/sohl/assets/icons/other/tree.svg
 shortcode: foster
 type: mysticalability
 subType: arcaneincantation
 data:
+  icon: sohl-none-icon-tree
   templatePriority: null
 sohl:
   system:

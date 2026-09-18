@@ -5,11 +5,11 @@ name:
   aliases:
     - Snowball
 description: "Compressed ice sphere detonates into razor-sharp, laceration-causing shards."
-img: systems/sohl/assets/icons/game-icons/badges/water.svg
 shortcode: iceblast
 type: mysticalability
 subType: arcaneincantation
 data:
+  icon: sohl-none-icon-water
   templatePriority: null
 sohl:
   system:

@@ -6,13 +6,13 @@ name:
   aliases:
     - Warmth Elixir
 description: "Golden-amber warmth elixir; shields allies from cold and frost."
-img: systems/sohl/assets/icons/other/potion.svg
 shortcode: elxwrm
 type: concoctiongear
 subType: elixir
 hmk:
   name: Warmth
 data:
+  icon: sohl-none-icon-potion
   templatePriority: null
 sohl:
   system:

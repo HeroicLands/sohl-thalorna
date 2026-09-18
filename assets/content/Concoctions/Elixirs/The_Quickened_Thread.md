@@ -6,13 +6,13 @@ name:
   aliases:
     - Equipose Elixir
 description: "Mirror-bright elixir; grants heightened sensory awareness and reactions."
-img: systems/sohl/assets/icons/other/potion.svg
 shortcode: elxeqp
 type: concoctiongear
 subType: elixir
 hmk:
   name: Equipose
 data:
+  icon: sohl-none-icon-potion
   templatePriority: null
 sohl:
   system:

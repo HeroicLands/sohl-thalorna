@@ -6,13 +6,13 @@ name:
   aliases:
     - Formfix Elixir
 description: "Clear transparent elixir; grants second chance against magical failures."
-img: systems/sohl/assets/icons/other/potion.svg
 shortcode: elxfrm
 type: concoctiongear
 subType: elixir
 hmk:
   name: Formfix
 data:
+  icon: sohl-none-icon-potion
   templatePriority: null
 sohl:
   system:

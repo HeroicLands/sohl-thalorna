@@ -12,10 +12,10 @@ name:
   aliases: []
 packFolder: ankarisvedyara
 shortcode: nrvsrytjmhnnd
-img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/nrvsrytjmhnnd.webp
+  icon: sohl-none-icon-person
+  portrait: nrvsrytjmhnnd
   templatePriority: null
   archetypes: []
   occupation: Glassworker

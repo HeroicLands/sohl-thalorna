@@ -7,10 +7,10 @@ name:
   aliases: []
 description: "Raises a clear, sourceless light that casts no shadow and cannot be looked away from."
 shortcode: nnrgrd
-img: icons/takheperu/khemenu-hekau/atenre.svg
 type: mysticalability
 subType: arcaneincantation
 data:
+  icon: atenre
   templatePriority: null
 sohl:
   system:

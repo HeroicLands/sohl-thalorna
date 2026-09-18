@@ -12,12 +12,12 @@ name:
   aliases:
     - Khatah Meykhari
 packFolder: northernfertileregiontakheperu
-banner: banners/takheperubnr.webp
+banner: takheperubnr
 shortcode: khathmykhr
-img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/khathmykhr.webp
+  icon: sohl-none-icon-person
+  portrait: khathmykhr
   templatePriority: null
   archetypes: []
   occupation: Yeoman Archer

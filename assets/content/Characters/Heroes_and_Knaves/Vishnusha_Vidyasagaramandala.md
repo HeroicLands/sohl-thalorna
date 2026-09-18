@@ -12,10 +12,10 @@ name:
   aliases: []
 packFolder: ankarisvedyara
 shortcode: vshnshvdysgrml
-img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/vshnshvdysgrml.webp
+  icon: sohl-none-icon-person
+  portrait: vshnshvdysgrml
   templatePriority: null
   archetypes: []
   occupation: Miner

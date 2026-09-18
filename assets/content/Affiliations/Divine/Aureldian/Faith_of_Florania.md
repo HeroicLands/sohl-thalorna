@@ -6,6 +6,7 @@ tags:
 type: affiliation
 subType: faithtradition
 data:
+  icon: florania
   templatePriority: null
   demonym: null
   epithet: The Nurturer
@@ -69,9 +70,8 @@ name:
     - The Nurturer
     - Flórania
 shortcode: florania
-img: images/affiliation/aureldian/florania.webp
 packFolder: pantheonsaureldian
-banner: banners/faithbnr.webp
+banner: faithbnr
 ---
 
 Goddess of fertility, growth, and healing. Flórania ensures the fertility of people, animals, and the land. She is invoked during planting seasons, childbirth, rites of renewal, and healing.

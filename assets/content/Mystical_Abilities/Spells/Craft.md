@@ -5,11 +5,11 @@ name:
   aliases:
     - Forge
 description: "Shapes and binds materials together; crafts items from raw substance."
-img: systems/sohl/assets/icons/game-icons/badges/anvilbdg.svg
 shortcode: craft
 type: mysticalability
 subType: arcaneincantation
 data:
+  icon: sohl-none-icon-anvilbdg
   templatePriority: null
 sohl:
   system:

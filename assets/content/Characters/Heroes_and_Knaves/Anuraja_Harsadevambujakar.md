@@ -12,10 +12,10 @@ name:
   aliases: []
 packFolder: ankarisvedyara
 shortcode: anrjhrdvmbjkr
-img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/anrjhrdvmbjkr.webp
+  icon: sohl-none-icon-person
+  portrait: anrjhrdvmbjkr
   templatePriority: null
   archetypes: []
   occupation: Assassin

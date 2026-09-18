@@ -5,11 +5,11 @@ name:
   aliases:
     - Flotation
 description: "Caster floats weightlessly; moves through air with silent grace."
-img: systems/sohl/assets/icons/game-icons/badges/water.svg
 shortcode: drift
 type: mysticalability
 subType: arcaneincantation
 data:
+  icon: sohl-none-icon-water
   templatePriority: null
 sohl:
   system:

@@ -6,6 +6,7 @@ tags:
 type: affiliation
 subType: faithtradition
 data:
+  icon: anubis
   templatePriority: null
   demonym: null
   epithet: The Keeper of Transitions
@@ -82,8 +83,7 @@ name:
   aliases:
     - Ánubís, The Keeper of Transitions
 shortcode: anubis
-img: icons/takheperu/pantheon/anubis.svg
-banner: banners/takheperubnr.webp
+banner: takheperubnr
 packFolder: pantheonskemetian
 ---
 

@@ -7,10 +7,10 @@ name:
   aliases: []
 description: "Erases a name from every record and from living memory, ending the named as thoroughly as death does not."
 shortcode: strcknm
-img: icons/takheperu/khemenu-hekau/sefut.svg
 type: mysticalability
 subType: arcaneincantation
 data:
+  icon: sefut
   templatePriority: null
 sohl:
   system:

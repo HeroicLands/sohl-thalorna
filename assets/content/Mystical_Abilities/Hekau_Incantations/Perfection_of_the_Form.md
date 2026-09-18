@@ -7,10 +7,10 @@ name:
   aliases: []
 description: "Brings a work of craft to exactness, so that it carries a working reliably."
 shortcode: prfctnfrm
-img: icons/takheperu/khemenu-hekau/khatnu.svg
 type: mysticalability
 subType: arcaneincantation
 data:
+  icon: khatnu
   templatePriority: null
 sohl:
   system:

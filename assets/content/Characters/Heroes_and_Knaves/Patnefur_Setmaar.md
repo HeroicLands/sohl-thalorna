@@ -14,12 +14,12 @@ name:
     - Patnefur Setmaâr
     - Patnefur Setmaar
 packFolder: northernfertileregiontakheperu
-banner: banners/takheperubnr.webp
+banner: takheperubnr
 shortcode: patnfrstmr
-img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/patnfrstmr.webp
+  icon: sohl-none-icon-person
+  portrait: patnfrstmr
   templatePriority: null
   archetypes: []
   occupation: Perfumer

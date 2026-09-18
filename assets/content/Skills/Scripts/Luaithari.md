@@ -5,11 +5,11 @@ name:
   aliases:
     - Luaithári
 description: "The flowing syllabary of Kalihara — one glyph to a syllable, tone marked in dots, and beauty held to be part of the meaning."
-img: systems/sohl/assets/icons/other/speaking.svg
 shortcode: luthrscrpt
 type: skill
 subType: script
 data:
+  icon: sohl-none-icon-speaking
   templatePriority: null
 sohl:
   system:

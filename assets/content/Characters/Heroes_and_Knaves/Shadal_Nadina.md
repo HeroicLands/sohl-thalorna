@@ -13,10 +13,10 @@ name:
   aliases: []
 packFolder: heroesandknaveskalihara
 shortcode: shadalnadn
-img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/shadalnadn.webp
+  icon: sohl-none-icon-person
+  portrait: shadalnadn
   templatePriority: null
   archetypes: []
   occupation: Scribe

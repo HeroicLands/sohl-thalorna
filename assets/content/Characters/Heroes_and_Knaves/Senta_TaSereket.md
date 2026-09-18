@@ -13,12 +13,12 @@ name:
     - Sênta TaSereket
     - Senta TaSereket
 packFolder: northernfertileregiontakheperu
-banner: banners/takheperubnr.webp
+banner: takheperubnr
 shortcode: sentatsrkt
-img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/sentatsrkt.webp
+  icon: sohl-none-icon-person
+  portrait: sentatsrkt
   templatePriority: null
   archetypes: []
   occupation: Caravan Guard
@@ -98,7 +98,8 @@ sohl:
     - { model: sohl-sohl-projectilegear-arwstd, system: { quantity: 25 } }
     - name: Quiver (leather, reinforced)
       type: miscgear
-      img: systems/sohl/assets/icons/game-icons/delapouite/quiver.svg
+      data:
+        icon: sohl-none-icon-quiver
       system:
         shortcode: quiver
         weight: 1

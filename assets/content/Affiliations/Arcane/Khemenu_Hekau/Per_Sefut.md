@@ -6,6 +6,7 @@ tags:
 type: affiliation
 subType: arcanetradition
 data:
+  icon: sefut
   templatePriority: null
   demonym: null
   epithet: House of the Unmaking
@@ -84,8 +85,7 @@ name:
     - House of the Unmaking
     - The House of Chaos
 shortcode: sefut
-img: icons/takheperu/khemenu-hekau/sefut.svg
-banner: banners/takheperubnr.webp
+banner: takheperubnr
 packFolder: khemenuhekau
 ---
 

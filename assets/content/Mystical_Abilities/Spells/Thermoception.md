@@ -5,11 +5,11 @@ name:
   aliases:
     - Eyes
 description: "Senses heat variations; perceives temperature and thermal patterns."
-img: systems/sohl/assets/icons/game-icons/badges/firebdg.svg
 shortcode: thrmcptn
 type: mysticalability
 subType: arcaneincantation
 data:
+  icon: sohl-none-icon-firebdg
   templatePriority: null
 sohl:
   system:

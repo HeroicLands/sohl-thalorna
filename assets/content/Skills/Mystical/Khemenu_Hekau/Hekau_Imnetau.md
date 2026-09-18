@@ -4,12 +4,12 @@ tags:
 type: skill
 subType: mystical
 shortcode: imnetau
-img: icons/takheperu/khemenu-hekau/imnetau.svg
 name:
   full: "Hekau: Imnetáu"
   aliases:
     - Per-Imnetáu
 data:
+  icon: imnetau
   templatePriority: null
 sohl:
   system:

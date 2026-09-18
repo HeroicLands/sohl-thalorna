@@ -6,13 +6,13 @@ name:
   aliases:
     - Soulbuffer Elixir
 description: "Pearlescent shimmering draft; absorbs aural shock protecting soul."
-img: systems/sohl/assets/icons/other/potion.svg
 shortcode: elxsbf
 type: concoctiongear
 subType: elixir
 hmk:
   name: Soulbuffer
 data:
+  icon: sohl-none-icon-potion
   templatePriority: null
 sohl:
   system:

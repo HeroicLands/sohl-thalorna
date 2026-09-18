@@ -5,11 +5,11 @@ name:
   aliases:
     - Rest
 description: "Freezes motion; halts all movement within affected area."
-img: systems/sohl/assets/icons/game-icons/badges/water.svg
 shortcode: stllnss
 type: mysticalability
 subType: arcaneincantation
 data:
+  icon: sohl-none-icon-water
   templatePriority: null
 sohl:
   system:

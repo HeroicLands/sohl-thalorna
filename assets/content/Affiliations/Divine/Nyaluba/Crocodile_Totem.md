@@ -7,6 +7,7 @@ tags:
 type: affiliation
 subType: spirittradition
 data:
+  icon: null
   templatePriority: null
   demonym: null
   epithet: null
@@ -77,7 +78,6 @@ name:
     - Crocodile of the Kambezi
     - Kambezi Totem
 shortcode: nyalbcroc
-img: null
 packFolder: nyaluba
 ---
 

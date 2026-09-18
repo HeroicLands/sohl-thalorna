@@ -6,11 +6,11 @@ name:
   full: Dune Strider
   aliases: []
 description: "An enormous flightless desert bird up to ten feet tall, a social herd forager that is placid unless provoked."
-img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 shortcode: dnstrdr
 type: being
 data:
-  portrait: images/beings/creatures/dnstrdr.webp
+  icon: sohl-none-icon-person
+  portrait: dnstrdr
   templatePriority: null
   archetypes: []
   occupation: null

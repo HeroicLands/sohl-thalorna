@@ -5,10 +5,10 @@ name:
   full: Kheperian Gold Kite
   aliases: ["Gold Kite", "Gold Qedét"]
 description: "Temple-attested gold weight-piece of one kite, a tenth of a deben."
-img: systems/sohl/assets/icons/game-icons/badges/coinsbdg.svg
 shortcode: gkite
 type: miscgear
 data:
+  icon: sohl-none-icon-coinsbdg
   templatePriority: 0
 sohl:
   craft:

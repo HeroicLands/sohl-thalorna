@@ -14,12 +14,12 @@ name:
     - Siprah Ipmaâr
     - Siprah Ipmaar
 packFolder: northernfertileregiontakheperu
-banner: banners/takheperubnr.webp
+banner: takheperubnr
 shortcode: siprahipmr
-img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/siprahipmr.webp
+  icon: sohl-none-icon-person
+  portrait: siprahipmr
   templatePriority: null
   archetypes: []
   occupation: Locksmith

@@ -7,10 +7,10 @@ name:
   aliases:
     - Amradad
 shortcode: amradadrgn
-img: null
 type: place
 subType: region
 data:
+  icon: null
   demonym: Amradi
   lore:
     - humanflk

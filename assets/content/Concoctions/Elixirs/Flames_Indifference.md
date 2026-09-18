@@ -6,13 +6,13 @@ name:
   aliases:
     - Fireshield Elixir
 description: "Scarlet flame-touched elixir; protects against heat and fire damage."
-img: systems/sohl/assets/icons/other/potion.svg
 shortcode: elxfir
 type: concoctiongear
 subType: elixir
 hmk:
   name: Fireshield
 data:
+  icon: sohl-none-icon-potion
   templatePriority: null
 sohl:
   system:

@@ -7,7 +7,7 @@ subType: reference
 shortcode: polities
 tags:
 description: States, kingdoms, empires, and other political bodies.
-banner: banners/politybnr.webp
+banner: null
 ---
 
 States, kingdoms, empires, and other political bodies.

@@ -7,6 +7,7 @@ tags:
 type: affiliation
 subType: faithtradition
 data:
+  icon: iset
   templatePriority: null
   demonym: null
   epithet: Mother of New Beginnings
@@ -77,8 +78,7 @@ name:
     - Íšét
     - Iset
 shortcode: iset
-img: icons/takheperu/pantheon/iset.svg
-banner: banners/takheperubnr.webp
+banner: takheperubnr
 alias: Íšét, Mother of New Beginnings and Restorer of Health
 packFolder: pantheonskemetian
 ---

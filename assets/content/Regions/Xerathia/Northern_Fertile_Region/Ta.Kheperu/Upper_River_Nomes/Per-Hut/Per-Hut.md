@@ -13,7 +13,7 @@ data:
 name:
   full: Per-Hût
   aliases: []
-banner: banners/takheperubnr.webp
+banner: takheperubnr
 shortcode: perhut
 packFolder: upperrivernomes
 ---

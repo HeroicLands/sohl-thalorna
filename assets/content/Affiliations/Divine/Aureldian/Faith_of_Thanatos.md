@@ -6,6 +6,7 @@ tags:
 type: affiliation
 subType: faithtradition
 data:
+  icon: thanatos
   templatePriority: null
   demonym: null
   epithet: The Silent Judge
@@ -67,9 +68,8 @@ name:
     - The Silent Judge
     - Thánatos
 shortcode: thanatos
-img: images/affiliation/aureldian/thanatos.webp
 packFolder: pantheonsaureldian
-banner: banners/faithbnr.webp
+banner: faithbnr
 ---
 
 God of death, the underworld, and corruption. Thánatos is a fearsome figure, embodying both implacability and terror.

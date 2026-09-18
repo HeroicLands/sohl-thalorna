@@ -6,11 +6,11 @@ name:
   full: Stoneclimber
   aliases: []
 description: "A patient, cunning apex predator of rocky highlands, perfectly adapted to ambush prey across steep three-dimensional terrain."
-img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 shortcode: stnclmbr
 type: being
 data:
-  portrait: images/beings/creatures/stnclmbr.webp
+  icon: sohl-none-icon-person
+  portrait: stnclmbr
   templatePriority: null
   archetypes: []
   occupation: null

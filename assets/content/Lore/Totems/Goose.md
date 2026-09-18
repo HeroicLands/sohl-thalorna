@@ -10,9 +10,10 @@ name:
   aliases:
     - Goose Totem
 shortcode: goosettm
-img: images/mystery/goose.webp
 packFolder: loretotems
-banner: banners/creaturebnr.webp
+banner: creaturebnr
+data:
+  icon: goose
 ---
 
 Territorial and aggressive, geese are fiercely protective of their nesting sites and will not hesitate to confront intruders with loud honks and aggressive displays.

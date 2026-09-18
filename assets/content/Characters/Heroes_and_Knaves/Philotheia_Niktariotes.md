@@ -12,10 +12,10 @@ name:
   aliases: []
 packFolder: helladbyzaria
 shortcode: phlthnktrts
-img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/phlthnktrts.webp
+  icon: sohl-none-icon-person
+  portrait: phlthnktrts
   templatePriority: null
   archetypes: []
   occupation: Musician (Lute)

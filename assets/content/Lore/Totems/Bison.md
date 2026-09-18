@@ -10,9 +10,10 @@ name:
   aliases:
     - Bison Totem
 shortcode: bisonttm
-img: images/mystery/bison.webp
 packFolder: loretotems
-banner: banners/creaturebnr.webp
+banner: creaturebnr
+data:
+  icon: bison
 ---
 
 Stoic and protective, bison form strong herd bonds and will fiercely defend their young and territory from any threats.

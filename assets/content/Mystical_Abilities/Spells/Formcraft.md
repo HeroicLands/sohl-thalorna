@@ -5,11 +5,11 @@ name:
   aliases:
     - Figure
 description: "Reshapes matter itself; molds materials into desired shapes permanently."
-img: systems/sohl/assets/icons/other/wind.svg
 shortcode: frmcrft
 type: mysticalability
 subType: arcaneincantation
 data:
+  icon: sohl-none-icon-wind
   templatePriority: null
 sohl:
   system:

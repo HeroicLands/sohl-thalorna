@@ -5,13 +5,13 @@ description: "The keeping of a people's record where there is no writing — gen
 type: skill
 subType: lore
 shortcode: griot
-img: systems/sohl/assets/icons/game-icons/delapouite/unicorn.svg
 name:
   full: Griot
   aliases:
     - Griot Tradition
     - Keeper of Memory
 data:
+  icon: sohl-none-icon-unicorn
   templatePriority: null
 sohl:
   system:

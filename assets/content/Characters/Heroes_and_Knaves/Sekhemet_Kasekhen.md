@@ -13,12 +13,12 @@ name:
   aliases:
     - Sekhemet Kasekhen
 packFolder: northernfertileregiontakheperu
-banner: banners/takheperubnr.webp
+banner: takheperubnr
 shortcode: skhmtkskhn
-img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/skhmtkskhn.webp
+  icon: sohl-none-icon-person
+  portrait: skhmtkskhn
   templatePriority: null
   archetypes: []
   occupation: Pilot
@@ -104,7 +104,8 @@ sohl:
     - { model: sohl-sohl-projectilegear-arwstd, system: { quantity: 20 } }
     - name: Quiver (leather)
       type: miscgear
-      img: systems/sohl/assets/icons/game-icons/delapouite/quiver.svg
+      data:
+        icon: sohl-none-icon-quiver
       system:
         shortcode: quiver
         weight: 1

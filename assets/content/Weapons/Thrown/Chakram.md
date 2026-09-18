@@ -4,10 +4,10 @@ name:
   full: Chakram
   aliases: []
 description: "Sharpened steel disc thrown or hand-held; cavalry skirmisher's precise reach."
-img: systems/sohl/assets/icons/game-icons/delapouite/circle.svg
 shortcode: chak
 type: weapongear
 data:
+  icon: sohl-none-icon-circle
   templatePriority: null
 sohl:
   kbcat: knife

@@ -7,10 +7,10 @@ name:
   aliases: []
 description: "Raises or turns aside a sandstorm across a stated ground."
 shortcode: rdwnd
-img: icons/takheperu/khemenu-hekau/deshrut.svg
 type: mysticalability
 subType: arcaneincantation
 data:
+  icon: deshrut
   templatePriority: null
 sohl:
   system:

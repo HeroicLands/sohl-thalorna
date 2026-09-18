@@ -7,10 +7,10 @@ name:
   full: Young Fire Dragon
   aliases: []
 description: "A century-old fire dragon at its most volatile, killing with raw territorial ferocity as it carves out fresh land and hoard."
-img: systems/sohl/assets/icons/game-icons/faithtoken/dragonheadft.svg
 shortcode: yngfrdrg
 type: being
 data:
+  icon: sohl-none-icon-dragonheadft
   portrait: null
   templatePriority: null
   archetypes: []

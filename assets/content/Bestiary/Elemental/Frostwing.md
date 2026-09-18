@@ -6,11 +6,11 @@ name:
   full: Frostwing
   aliases: []
 description: "An intelligent aerial hunter of deep winter, migrating toward the coldest lands and using coordinated flight tactics to bring death from above."
-img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 shortcode: frstwng
 type: being
 data:
-  portrait: images/beings/creatures/frstwng.webp
+  icon: sohl-none-icon-person
+  portrait: frstwng
   templatePriority: null
   archetypes: []
   occupation: null

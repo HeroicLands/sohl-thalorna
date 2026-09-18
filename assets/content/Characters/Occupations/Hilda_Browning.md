@@ -13,9 +13,9 @@ name:
     - Nyssa Shadowveil
 packFolder: aureldiaaelwyth
 shortcode: hildbrwnng
-img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
+  icon: sohl-none-icon-person
   portrait: null
   templatePriority: null
   archetypes: []

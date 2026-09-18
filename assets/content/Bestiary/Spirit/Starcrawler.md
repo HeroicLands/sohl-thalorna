@@ -6,11 +6,11 @@ name:
   full: Starcrawler
   aliases: []
 description: "A rare celestial being of stellar essence given flesh, appearing where earth and sky grow thin, harmless yet utterly alien in its priorities."
-img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 shortcode: strcrwlr
 type: being
 data:
-  portrait: images/beings/creatures/strcrwlr.webp
+  icon: sohl-none-icon-person
+  portrait: strcrwlr
   templatePriority: null
   archetypes: []
   occupation: null

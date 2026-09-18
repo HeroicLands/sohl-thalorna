@@ -12,10 +12,10 @@ name:
   aliases: []
 packFolder: ankarisnordlands
 shortcode: thrstnjrnskl
-img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/thrstnjrnskl.webp
+  icon: sohl-none-icon-person
+  portrait: thrstnjrnskl
   templatePriority: null
   archetypes: []
   occupation: Herder

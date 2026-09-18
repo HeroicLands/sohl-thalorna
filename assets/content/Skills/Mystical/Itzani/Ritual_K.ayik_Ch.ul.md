@@ -5,13 +5,13 @@ tags:
 type: skill
 subType: mystical
 shortcode: kayikchul
-img: null
 name:
   full: "Ritual: K'ayik Ch'ul"
   aliases:
     - K'ayik Ch'ul
     - The Sacred Flame
 data:
+  icon: null
   templatePriority: null
 sohl:
   system:

@@ -13,7 +13,7 @@ data:
 name:
   full: Kheraha
   aliases: []
-banner: banners/takheperubnr.webp
+banner: takheperubnr
 shortcode: kheraha
 packFolder: deltanomes
 ---

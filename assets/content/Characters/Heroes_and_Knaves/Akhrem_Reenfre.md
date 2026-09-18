@@ -12,12 +12,12 @@ name:
   aliases:
     - Akhrem Reenfré
 packFolder: northernfertileregiontakheperu
-banner: banners/takheperubnr.webp
+banner: takheperubnr
 shortcode: akhremrnfr
-img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/akhremrnfr.webp
+  icon: sohl-none-icon-person
+  portrait: akhremrnfr
   templatePriority: null
   archetypes: []
   occupation: Animal Trainer

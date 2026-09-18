@@ -6,13 +6,13 @@ name:
   aliases:
     - Potion, Soporific, Strong
 description: "Deep gray blue-tinged liquid; induces deep sleep and rest."
-img: systems/sohl/assets/icons/other/potion.svg
 shortcode: ptnsops
 type: concoctiongear
 subType: exotic
 hmk:
   name: "Potion, Soporific, Strong"
 data:
+  icon: sohl-none-icon-potion
   templatePriority: null
 sohl:
   system:

@@ -99,7 +99,7 @@ name:
   aliases:
     - The Sacred Hunt of the Khetai
     - The Mighty Ones of the Field
-banner: banners/takheperubnr.webp
+banner: takheperubnr
 shortcode: sekhetneru
 ---
 

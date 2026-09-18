@@ -10,9 +10,10 @@ name:
   aliases:
     - Catfish Totem
 shortcode: catfishttm
-img: images/mystery/catfish.webp
 packFolder: loretotems
-banner: banners/creaturebnr.webp
+banner: creaturebnr
+data:
+  icon: catfish
 ---
 
 Nocturnal and opportunistic, catfish are bottom-dwellers that take advantage of the cover of darkness to feed on whatever they can find.

@@ -12,12 +12,12 @@ name:
   aliases:
     - Hathura Isefré
 packFolder: northernfertileregiontakheperu
-banner: banners/takheperubnr.webp
+banner: takheperubnr
 shortcode: hathurasfr
-img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/hathurasfr.webp
+  icon: sohl-none-icon-person
+  portrait: hathurasfr
   templatePriority: null
   archetypes: []
   occupation: Priest

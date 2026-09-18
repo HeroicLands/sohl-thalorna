@@ -5,11 +5,11 @@ name:
   aliases:
     - Skin
 description: "Hardens skin into barrier; grants deflection of blows."
-img: systems/sohl/assets/icons/game-icons/badges/firebdg.svg
 shortcode: shldskn
 type: mysticalability
 subType: arcaneincantation
 data:
+  icon: sohl-none-icon-firebdg
   templatePriority: null
 sohl:
   system:

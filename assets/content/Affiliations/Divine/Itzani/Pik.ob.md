@@ -6,6 +6,7 @@ tags:
 type: affiliation
 subType: order
 data:
+  icon: null
   templatePriority: null
   demonym: null
   epithet: The Owl Keepers
@@ -108,7 +109,6 @@ name:
     - The Owl Keepers
     - Owl Keepers
 shortcode: pikob
-img: null
 packFolder: pantheonitzani
 ---
 

@@ -13,10 +13,10 @@ name:
   aliases: []
 packFolder: ankariskhazryndesert
 shortcode: kharnhkhfr
-img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/kharnhkhfr.webp
+  icon: sohl-none-icon-person
+  portrait: kharnhkhfr
   templatePriority: null
   archetypes: []
   occupation: Perfumer

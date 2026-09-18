@@ -5,11 +5,11 @@ name:
   aliases:
     - Mephitis
 description: "Clouds of toxic gas causing illness and disorientation."
-img: systems/sohl/assets/icons/game-icons/badges/anvilbdg.svg
 shortcode: nxfum
 type: mysticalability
 subType: arcaneincantation
 data:
+  icon: sohl-none-icon-anvilbdg
   templatePriority: null
 sohl:
   system:

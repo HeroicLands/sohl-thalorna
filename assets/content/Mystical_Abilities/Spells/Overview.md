@@ -5,11 +5,11 @@ name:
   aliases:
     - Perspective
 description: "Grants caster bird's-eye perspective; sees terrain from great height."
-img: systems/sohl/assets/icons/noun/divination.svg
 shortcode: overview
 type: mysticalability
 subType: arcaneincantation
 data:
+  icon: sohl-none-icon-divination
   templatePriority: null
 sohl:
   system:

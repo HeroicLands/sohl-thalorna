@@ -14,10 +14,10 @@ name:
   aliases: []
 packFolder: aureldiaelavendre
 shortcode: sevnmyrkls
-img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/sevnmyrkls.webp
+  icon: sohl-none-icon-person
+  portrait: sevnmyrkls
   templatePriority: null
   archetypes: []
   occupation: Alchemist

@@ -6,10 +6,10 @@ name:
   full: Ki'ik Ba'ate
   aliases: []
 shortcode: kiikbaate
-img: null
 type: affiliation
 subType: polity
 data:
+  icon: null
   templatePriority: null
   demonym: null
   epithet: null

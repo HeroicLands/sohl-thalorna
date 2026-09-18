@@ -12,10 +12,10 @@ name:
   aliases: []
 packFolder: aureldiaelavendre
 shortcode: garlendhrl
-img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/garlendhrl.webp
+  icon: sohl-none-icon-person
+  portrait: garlendhrl
   templatePriority: null
   archetypes: []
   occupation: Hideworker

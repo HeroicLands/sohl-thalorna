@@ -4,10 +4,10 @@ name:
   full: Wakizashi
   aliases: []
 description: "Short curved single-edged blade; secondary steel marking standing and privilege."
-img: systems/sohl/assets/icons/other/sword.svg
 shortcode: waki
 type: weapongear
 data:
+  icon: sohl-none-icon-sword
   templatePriority: null
 sohl:
   kbcat: sword

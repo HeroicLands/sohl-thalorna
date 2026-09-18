@@ -5,11 +5,11 @@ name:
   aliases:
     - Dûnshâk
 description: "The right-to-left abjad of the deep desert — pointed for poetry and scripture, bare for everything else."
-img: systems/sohl/assets/icons/other/speaking.svg
 shortcode: dnshkscrpt
 type: skill
 subType: script
 data:
+  icon: sohl-none-icon-speaking
   templatePriority: null
 sohl:
   system:

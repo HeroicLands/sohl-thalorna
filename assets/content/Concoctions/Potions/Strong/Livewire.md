@@ -6,13 +6,13 @@ name:
   aliases:
     - Potion, Stimulant, Strong
 description: "Vibrant red-orange liquid; stimulates and energizes immediately."
-img: systems/sohl/assets/icons/other/potion.svg
 shortcode: ptnstms
 type: concoctiongear
 subType: exotic
 hmk:
   name: "Potion, Stimulant, Strong"
 data:
+  icon: sohl-none-icon-potion
   templatePriority: null
 sohl:
   system:

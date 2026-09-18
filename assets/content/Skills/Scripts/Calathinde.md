@@ -5,11 +5,11 @@ name:
   aliases:
     - Calathindë
 description: "The starlight-hand of the Sinalë — a calligraphy in which the writing of a thing and the making of a thing are not held to be different acts."
-img: systems/sohl/assets/icons/other/speaking.svg
 shortcode: clthndscrpt
 type: skill
 subType: script
 data:
+  icon: sohl-none-icon-speaking
   templatePriority: null
 sohl:
   system:

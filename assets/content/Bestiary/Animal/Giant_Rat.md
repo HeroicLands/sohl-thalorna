@@ -7,11 +7,11 @@ name:
   full: Giant Rat
   aliases: []
 description: "A dog-sized rodent born of magical contamination, infesting sewers, cellars, and granaries wherever darkness meets food waste."
-img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 shortcode: giantrat
 type: being
 data:
-  portrait: images/beings/creatures/giantrat.webp
+  icon: sohl-none-icon-person
+  portrait: giantrat
   templatePriority: null
   archetypes: []
   occupation: null

@@ -1,7 +1,7 @@
 ---
 description: "The great granary nome of the Ta'Kheperu upper river — the empire's fullest storehouse, where the broadest flood-silt wheatlands, the deepest granaries, and the river-port of Meru-Hotep together make this the breadbasket that feeds the capital and the army."
 type: affiliation
-banner: banners/takheperubnr.webp
+banner: takheperubnr
 name:
   full: The Nome of Ankh-Setûn
   aliases: []

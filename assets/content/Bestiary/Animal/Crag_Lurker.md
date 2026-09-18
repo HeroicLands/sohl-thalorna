@@ -6,11 +6,11 @@ name:
   full: Crag Lurker
   aliases: []
 description: "A horse-sized ambush spider that scales sheer cliffs in ghostly silence before striking prey in rocky, vertical terrain."
-img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 shortcode: crglrkr
 type: being
 data:
-  portrait: images/beings/creatures/crglrkr.webp
+  icon: sohl-none-icon-person
+  portrait: crglrkr
   templatePriority: null
   archetypes: []
   occupation: null

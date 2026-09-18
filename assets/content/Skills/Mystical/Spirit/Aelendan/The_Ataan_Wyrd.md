@@ -6,12 +6,12 @@ description: "Standing with The At'aan Wyrd — what this allied Kindred is met,
 type: skill
 subType: mystical
 shortcode: ataansprt
-img: systems/sohl/assets/icons/game-icons/lorc/psychicwaves.svg
 name:
   full: "The At'aan Wyrd Spirit Power"
   aliases:
     - The At'aan Wyrd
 data:
+  icon: sohl-none-icon-psychicwaves
   templatePriority: null
 sohl:
   system:

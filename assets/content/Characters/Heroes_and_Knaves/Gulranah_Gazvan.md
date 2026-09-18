@@ -13,10 +13,10 @@ name:
   aliases: []
 packFolder: sultanateofamradad
 shortcode: gulrnhgzvn
-img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/gulrnhgzvn.webp
+  icon: sohl-none-icon-person
+  portrait: gulrnhgzvn
   templatePriority: null
   archetypes: []
   occupation: Charcoaler

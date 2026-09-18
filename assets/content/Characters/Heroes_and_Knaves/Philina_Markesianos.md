@@ -12,10 +12,10 @@ name:
   aliases: []
 packFolder: helladbyzaria
 shortcode: phlnmrksns
-img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/phlnmrksns.webp
+  icon: sohl-none-icon-person
+  portrait: phlnmrksns
   templatePriority: null
   archetypes: []
   occupation: Hideworker

@@ -4,11 +4,11 @@ tags:
 type: skill
 subType: mystical
 shortcode: pyrethos
-img: images/affiliation/hex-hodai/pyrethos.webp
 name:
   full: Incantus Pyréthos
   aliases: []
 data:
+  icon: pyrethos
   templatePriority: null
 sohl:
   system:

@@ -11,9 +11,9 @@ name:
     - The Golden Giver
     - "K'anix Ha'kan"
 shortcode: kanixhakan
-img: null
 packFolder: pantheonitzani
 data:
+  icon: null
   templatePriority: null
   demonym: null
   epithet: The Golden Giver
@@ -122,7 +122,7 @@ data:
     - itzanpnthn
   relations:
     itzanpnthn: aligned
-banner: banners/faithbnr.webp
+banner: faithbnr
 ---
 
 **Domain:** Prosperity, Agriculture, Abundance, Sustenance

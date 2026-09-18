@@ -12,10 +12,10 @@ name:
   aliases: []
 packFolder: helladbyzaria
 shortcode: gvrlsnktrts
-img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/gvrlsnktrts.webp
+  icon: sohl-none-icon-person
+  portrait: gvrlsnktrts
   templatePriority: null
   archetypes: []
   occupation: Swordmaster

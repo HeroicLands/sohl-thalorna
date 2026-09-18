@@ -5,11 +5,11 @@ name:
   aliases:
     - Dart
 description: "Caster's blow lands true; grants power and accuracy."
-img: systems/sohl/assets/icons/game-icons/badges/anvilbdg.svg
 shortcode: strike
 type: mysticalability
 subType: arcaneincantation
 data:
+  icon: sohl-none-icon-anvilbdg
   templatePriority: null
 sohl:
   system:

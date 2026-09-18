@@ -6,11 +6,11 @@ name:
   full: Crystalclaw
   aliases: []
 description: "A crystalline apex predator of gem-rich caverns, a living weapon of razor mineral edges and blinding magical radiance."
-img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 shortcode: crystlcl
 type: being
 data:
-  portrait: images/beings/creatures/crystlcl.webp
+  icon: sohl-none-icon-person
+  portrait: crystlcl
   templatePriority: null
   archetypes: []
   occupation: null

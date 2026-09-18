@@ -5,12 +5,12 @@ tags:
 type: skill
 subType: mystical
 shortcode: tyr
-img: images/affiliation/asguardian/tyr.webp
 name:
   full: "Ritual: Týr"
   aliases:
     - The Just Path
 data:
+  icon: tyr
   templatePriority: null
 sohl:
   system:

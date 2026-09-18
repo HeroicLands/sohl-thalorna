@@ -15,7 +15,7 @@ data:
 name:
   full: Khensuret
   aliases: []
-banner: banners/takheperubnr.webp
+banner: takheperubnr
 shortcode: khensuret
 packFolder: khensuret
 ---

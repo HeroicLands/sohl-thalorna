@@ -11,9 +11,9 @@ name:
     - Builder of the Sacred Peak
     - "P'iqal Kul'qat"
 shortcode: piqalkulqat
-img: null
 packFolder: pantheonitzani
 data:
+  icon: null
   templatePriority: null
   demonym: null
   epithet: Builder of the Sacred Peak
@@ -121,7 +121,7 @@ data:
     - itzanpnthn
   relations:
     itzanpnthn: aligned
-banner: banners/faithbnr.webp
+banner: faithbnr
 ---
 
 **Domain:** Creation, Building, Renewal, Craftsmanship, Architecture

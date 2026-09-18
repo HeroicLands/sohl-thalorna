@@ -7,8 +7,9 @@ name:
   full: Thōth
   aliases: []
 shortcode: thothdty
-img: icons/takheperu/pantheon/thoth.svg
 packFolder: deitieskemetian
+data:
+  icon: thoth
 ---
 
 _Scribe of the Eternal Library — an ibis quill writing on a golden scroll._

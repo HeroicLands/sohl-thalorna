@@ -13,7 +13,7 @@ data:
 name:
   full: Per-Banit
   aliases: []
-banner: banners/takheperubnr.webp
+banner: takheperubnr
 shortcode: perbanit
 packFolder: deltanomes
 ---

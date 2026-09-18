@@ -58,7 +58,7 @@ data:
   relations:
     varakpnthn: aligned
 packFolder: pantheonsvarnaka
-banner: banners/faithbnr.webp
+banner: faithbnr
 ---
 
 ## Rásikara — The Flame of Renewal

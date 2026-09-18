@@ -125,7 +125,7 @@ data:
   relations:
     tanvurempr: aligned
 packFolder: celestialpantheon
-banner: banners/faithbnr.webp
+banner: faithbnr
 ---
 
 ## Tānlüng — The First Classifier

@@ -10,9 +10,10 @@ name:
   aliases:
     - Leopard Totem
 shortcode: leopardttm
-img: images/mystery/leopard.webp
 packFolder: loretotems
-banner: banners/creaturebnr.webp
+banner: creaturebnr
+data:
+  icon: leopard
 ---
 
 Independent and secretive, leopards are solitary predators that prefer to hunt alone, often dragging their kill into trees to avoid scavengers.

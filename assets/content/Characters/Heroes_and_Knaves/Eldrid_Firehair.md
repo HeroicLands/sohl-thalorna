@@ -16,10 +16,10 @@ name:
     - the Shipwright's Son
 packFolder: ankarisnordlands
 shortcode: eldridfrhr
-img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/eldridfrhr.webp
+  icon: sohl-none-icon-person
+  portrait: eldridfrhr
   templatePriority: null
   archetypes: []
   occupation: Shipwright

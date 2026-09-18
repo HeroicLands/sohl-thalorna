@@ -7,10 +7,10 @@ name:
   aliases: []
 description: "Sets an unmaking that lies dormant, sometimes for generations, until a stated condition is met."
 shortcode: srpntsptnc
-img: icons/takheperu/khemenu-hekau/sefut.svg
 type: mysticalability
 subType: arcaneincantation
 data:
+  icon: sefut
   templatePriority: null
 sohl:
   system:

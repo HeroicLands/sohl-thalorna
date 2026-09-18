@@ -6,11 +6,11 @@ name:
   full: Abyssal Silt
   aliases: []
 description: "A predatory ooze from toxic marshes and deep caverns that lurks camouflaged in stagnant darkness, hungering with unnatural cunning."
-img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 shortcode: abysslsl
 type: being
 data:
-  portrait: images/beings/creatures/abysslsl.webp
+  icon: sohl-none-icon-person
+  portrait: abysslsl
   templatePriority: null
   archetypes: []
   occupation: null

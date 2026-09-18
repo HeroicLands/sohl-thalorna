@@ -13,12 +13,12 @@ name:
     - Tefnutî HetWera
     - Tefnuti HetWera
 packFolder: northernfertileregiontakheperu
-banner: banners/takheperubnr.webp
+banner: takheperubnr
 shortcode: tefnuthtwr
-img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/tefnuthtwr.webp
+  icon: sohl-none-icon-person
+  portrait: tefnuthtwr
   templatePriority: null
   archetypes: []
   occupation: Toymaker

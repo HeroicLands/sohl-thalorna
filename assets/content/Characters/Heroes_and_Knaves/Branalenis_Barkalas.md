@@ -12,10 +12,10 @@ name:
   aliases: []
 packFolder: midhalionvylaria
 shortcode: brnlnsbrkls
-img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/brnlnsbrkls.webp
+  icon: sohl-none-icon-person
+  portrait: brnlnsbrkls
   templatePriority: null
   archetypes: []
   occupation: Common Seaman

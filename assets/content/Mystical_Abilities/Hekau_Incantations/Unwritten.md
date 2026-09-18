@@ -7,10 +7,10 @@ name:
   aliases: []
 description: "Erases an inscription cleanly, disabling whatever working depended on it."
 shortcode: unwrttn
-img: icons/takheperu/khemenu-hekau/sefut.svg
 type: mysticalability
 subType: arcaneincantation
 data:
+  icon: sefut
   templatePriority: null
 sohl:
   system:

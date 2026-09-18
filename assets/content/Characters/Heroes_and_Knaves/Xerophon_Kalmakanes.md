@@ -12,10 +12,10 @@ name:
   aliases: []
 packFolder: midhalionvylaria
 shortcode: xrphnklmkns
-img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/xrphnklmkns.webp
+  icon: sohl-none-icon-person
+  portrait: xrphnklmkns
   templatePriority: null
   archetypes: []
   occupation: Gaoler

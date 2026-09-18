@@ -12,10 +12,10 @@ name:
   aliases: []
 packFolder: ankariskhazryndesert
 shortcode: kamdkhvndr
-img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/kamdkhvndr.webp
+  icon: sohl-none-icon-person
+  portrait: kamdkhvndr
   templatePriority: null
   archetypes: []
   occupation: Beggar

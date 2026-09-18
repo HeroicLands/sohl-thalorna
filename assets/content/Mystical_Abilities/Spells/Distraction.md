@@ -5,11 +5,11 @@ name:
   aliases:
     - Diversion
 description: "Diverts attention; targets ignore caster despite obvious presence."
-img: systems/sohl/assets/icons/noun/divination.svg
 shortcode: dstrctn
 type: mysticalability
 subType: arcaneincantation
 data:
+  icon: sohl-none-icon-divination
   templatePriority: null
 sohl:
   system:

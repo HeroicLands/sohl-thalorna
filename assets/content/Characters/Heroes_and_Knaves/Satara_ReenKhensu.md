@@ -13,12 +13,12 @@ name:
   aliases:
     - Satara ReenKhensu
 packFolder: northernfertileregiontakheperu
-banner: banners/takheperubnr.webp
+banner: takheperubnr
 shortcode: satrrnkhns
-img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/satrrnkhns.webp
+  icon: sohl-none-icon-person
+  portrait: satrrnkhns
   templatePriority: null
   archetypes: []
   occupation: Timberwright

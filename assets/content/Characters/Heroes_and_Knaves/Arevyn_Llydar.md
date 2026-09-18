@@ -12,10 +12,10 @@ name:
   aliases: []
 packFolder: aureldiaelavendre
 shortcode: arevynlydr
-img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/arevynlydr.webp
+  icon: sohl-none-icon-person
+  portrait: arevynlydr
   templatePriority: null
   archetypes: []
   occupation: Miner

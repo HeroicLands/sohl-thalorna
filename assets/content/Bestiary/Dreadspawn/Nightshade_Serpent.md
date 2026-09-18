@@ -6,11 +6,11 @@ name:
   full: Nightshade Serpent
   aliases: []
 description: "A shadow-corrupted serpent of malign intelligence that haunts the dark, feeding on fear and suffering as much as on flesh."
-img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 shortcode: nghtshds
 type: being
 data:
-  portrait: images/beings/creatures/nghtshds.webp
+  icon: sohl-none-icon-person
+  portrait: nghtshds
   templatePriority: null
   archetypes: []
   occupation: null

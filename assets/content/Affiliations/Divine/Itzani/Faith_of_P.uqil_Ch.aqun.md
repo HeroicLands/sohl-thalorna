@@ -11,9 +11,9 @@ name:
     - The Feathered Storm-Serpent
     - "P'uqil Ch'aqun"
 shortcode: puqilchaqun
-img: null
 packFolder: pantheonitzani
 data:
+  icon: null
   templatePriority: null
   demonym: null
   epithet: The Feathered Storm-Serpent
@@ -122,7 +122,7 @@ data:
     - itzanpnthn
   relations:
     itzanpnthn: aligned
-banner: banners/faithbnr.webp
+banner: faithbnr
 ---
 
 **Domain:** Storms, Chaos, Rain, Destruction, and Cosmic Dissolution

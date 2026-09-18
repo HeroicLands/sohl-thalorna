@@ -12,12 +12,12 @@ name:
   aliases:
     - Mertep AnkhKhes
 packFolder: northernfertileregiontakheperu
-banner: banners/takheperubnr.webp
+banner: takheperubnr
 shortcode: mrtpnkhkhs
-img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/mrtpnkhkhs.webp
+  icon: sohl-none-icon-person
+  portrait: mrtpnkhkhs
   templatePriority: null
   archetypes: []
   occupation: Domestic Servant

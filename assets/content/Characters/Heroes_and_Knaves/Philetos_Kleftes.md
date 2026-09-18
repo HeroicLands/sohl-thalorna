@@ -14,10 +14,10 @@ name:
     - The Fire-Sworn Strategist
 packFolder: midhalionvylaria
 shortcode: phltsklfts
-img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/phltsklfts.webp
+  icon: sohl-none-icon-person
+  portrait: phltsklfts
   templatePriority: null
   archetypes: []
   occupation: Scholar

@@ -13,7 +13,7 @@ data:
 name:
   full: Iunet
   aliases: []
-banner: banners/takheperubnr.webp
+banner: takheperubnr
 shortcode: iunet
 packFolder: upperrivernomes
 ---

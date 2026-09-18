@@ -12,10 +12,10 @@ name:
   aliases: []
 packFolder: ankarisvedyara
 shortcode: vishalblry
-img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/vishalblry.webp
+  icon: sohl-none-icon-person
+  portrait: vishalblry
   templatePriority: null
   archetypes: []
   occupation: Fool

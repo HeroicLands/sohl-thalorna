@@ -6,11 +6,11 @@ name:
   full: Vaporwisp
   aliases: []
 description: "A boundary-dwelling spirit at home in neither realm, drawn to fog, mist, and thresholds where day and night or forest and clearing meet."
-img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 shortcode: vprwsp
 type: being
 data:
-  portrait: images/beings/creatures/vprwsp.webp
+  icon: sohl-none-icon-person
+  portrait: vprwsp
   templatePriority: null
   archetypes: []
   occupation: null

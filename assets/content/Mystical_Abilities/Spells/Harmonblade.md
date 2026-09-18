@@ -5,11 +5,11 @@ name:
   aliases:
     - Singing Sword
 description: "Blade sings with resonant force; strikes echo with doubled damage."
-img: systems/sohl/assets/icons/game-icons/badges/anvilbdg.svg
 shortcode: hrmnbld
 type: mysticalability
 subType: arcaneincantation
 data:
+  icon: sohl-none-icon-anvilbdg
   templatePriority: null
 sohl:
   system:

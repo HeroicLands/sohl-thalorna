@@ -6,11 +6,11 @@ name:
   full: Shadow Lynx
   aliases: []
 description: "A solitary nocturnal ambush cat of deep forests, built for stealth and precision as it guards exclusive woodland territories."
-img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 shortcode: shdwlynx
 type: being
 data:
-  portrait: images/beings/creatures/shdwlynx.webp
+  icon: sohl-none-icon-person
+  portrait: shdwlynx
   templatePriority: null
   archetypes: []
   occupation: null

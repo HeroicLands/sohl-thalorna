@@ -11,9 +11,9 @@ name:
     - The Dreamer in Moonlight
     - "Nal'ik Tz'uqal"
 shortcode: naliktzuqal
-img: null
 packFolder: pantheonitzani
 data:
+  icon: null
   templatePriority: null
   demonym: null
   epithet: The Dreamer in Moonlight
@@ -122,7 +122,7 @@ data:
     - itzanpnthn
   relations:
     itzanpnthn: aligned
-banner: banners/faithbnr.webp
+banner: faithbnr
 ---
 
 **Domain:** Dreams, Visions, Prophecy, and the Moon

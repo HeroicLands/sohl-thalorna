@@ -6,6 +6,7 @@ tags:
 type: affiliation
 subType: faithtradition
 data:
+  icon: aetheria
   templatePriority: null
   demonym: null
   epithet: The Veiled Dreamer
@@ -71,9 +72,8 @@ name:
     - Aethería
     - Aetheria
 shortcode: aetheria
-img: images/affiliation/aureldian/aetheria.webp
 packFolder: pantheonsaureldian
-banner: banners/faithbnr.webp
+banner: faithbnr
 ---
 
 Goddess of dreams, celestial visions, and the veil between worlds. Aethería brings divine inspiration and omens to mortals through their dreams. She is patron to seers, oracles, healers of the mind, and all who seek truth in the world beyond waking.

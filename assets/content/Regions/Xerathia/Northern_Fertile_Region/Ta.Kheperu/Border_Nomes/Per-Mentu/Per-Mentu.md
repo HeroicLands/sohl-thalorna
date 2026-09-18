@@ -13,7 +13,7 @@ data:
 name:
   full: Per-Mentu
   aliases: []
-banner: banners/takheperubnr.webp
+banner: takheperubnr
 shortcode: permentu
 packFolder: bordernomes
 ---

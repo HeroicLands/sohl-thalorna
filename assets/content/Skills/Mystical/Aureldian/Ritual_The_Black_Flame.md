@@ -5,13 +5,13 @@ tags:
 type: skill
 subType: mystical
 shortcode: blackflame
-img: images/affiliation/aureldian/blackflame.webp
 name:
   full: "Ritual: The Black Flame"
   aliases:
     - The Black Flame
     - Vúlcani Heresy
 data:
+  icon: blackflame
   templatePriority: null
 sohl:
   system:

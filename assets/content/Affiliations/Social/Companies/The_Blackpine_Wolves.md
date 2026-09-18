@@ -92,7 +92,7 @@ name:
   full: The Blackpine Wolves
   aliases: []
 shortcode: blckpnwlvs
-banner: banners/companybnr.webp
+banner: companybnr
 packFolder: politiescompanies
 ---
 

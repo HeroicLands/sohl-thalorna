@@ -5,13 +5,13 @@ tags:
 type: skill
 subType: mystical
 shortcode: piqalkulqat
-img: null
 name:
   full: "Ritual: P'iqal Kul'qat"
   aliases:
     - P'iqal Kul'qat
     - Builder of the Sacred Peak
 data:
+  icon: null
   templatePriority: null
 sohl:
   system:

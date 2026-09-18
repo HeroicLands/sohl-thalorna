@@ -12,10 +12,10 @@ name:
   aliases: []
 packFolder: helladbyzaria
 shortcode: arkhekrkss
-img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/arkhekrkss.webp
+  icon: sohl-none-icon-person
+  portrait: arkhekrkss
   templatePriority: null
   archetypes: []
   occupation: Beggar

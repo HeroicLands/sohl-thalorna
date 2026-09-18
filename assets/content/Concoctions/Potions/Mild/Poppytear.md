@@ -6,13 +6,13 @@ name:
   aliases:
     - Potion, Narcotic, Mild
 description: "Pale cream draft; induces drowsiness and peaceful sleep."
-img: systems/sohl/assets/icons/other/potion.svg
 shortcode: ptnnarm
 type: concoctiongear
 subType: exotic
 hmk:
   name: "Potion, Narcotic, Mild"
 data:
+  icon: sohl-none-icon-potion
   templatePriority: null
 sohl:
   system:

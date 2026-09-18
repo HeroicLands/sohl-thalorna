@@ -6,13 +6,13 @@ name:
   aliases:
     - Potion, Emetic, Strong
 description: "Murky yellow-brown concentrate; causes sickness and repulsion."
-img: systems/sohl/assets/icons/other/potion.svg
 shortcode: ptnems
 type: concoctiongear
 subType: exotic
 hmk:
   name: "Potion, Emetic, Strong"
 data:
+  icon: sohl-none-icon-potion
   templatePriority: null
 sohl:
   system:

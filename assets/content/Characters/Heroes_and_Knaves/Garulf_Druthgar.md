@@ -11,11 +11,11 @@ name:
   aliases: []
 packFolder: ankarisvrystwald
 shortcode: grlfdrthgr
-banner: banners/tamzirbnr.webp
-img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
+banner: tamzirbnr
 type: being
 data:
-  portrait: images/beings/characters/grlfdrthgr.webp
+  icon: sohl-none-icon-person
+  portrait: grlfdrthgr
   templatePriority: null
   archetypes: []
   occupation: Sellsword

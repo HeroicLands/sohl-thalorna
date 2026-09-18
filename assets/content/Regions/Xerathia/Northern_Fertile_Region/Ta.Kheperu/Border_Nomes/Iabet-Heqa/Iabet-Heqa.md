@@ -13,7 +13,7 @@ data:
 name:
   full: Iabet-Heqa
   aliases: []
-banner: banners/takheperubnr.webp
+banner: takheperubnr
 shortcode: iabetheqa
 packFolder: bordernomes
 ---

@@ -5,13 +5,13 @@ tags:
 type: skill
 subType: mystical
 shortcode: puqilchaqun
-img: null
 name:
   full: "Ritual: P'uqil Ch'aqun"
   aliases:
     - P'uqil Ch'aqun
     - The Feathered Storm-Serpent
 data:
+  icon: null
   templatePriority: null
 sohl:
   system:

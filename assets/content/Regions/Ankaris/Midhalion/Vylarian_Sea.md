@@ -6,10 +6,10 @@ name:
   full: Vylarian Sea
   aliases: []
 shortcode: vylarianse
-img: null
 type: place
 subType: region
 data:
+  icon: null
   demonym: null
   lore: []
   parents:

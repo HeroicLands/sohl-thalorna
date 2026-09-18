@@ -7,6 +7,7 @@ tags:
 type: affiliation
 subType: faithtradition
 data:
+  icon: thoth
   templatePriority: null
   demonym: null
   epithet: Scribe of the Eternal Library
@@ -86,8 +87,7 @@ name:
     - Thaut
     - The Scribe of the Eternal Library
 shortcode: thoth
-img: icons/takheperu/pantheon/thoth.svg
-banner: banners/takheperubnr.webp
+banner: takheperubnr
 packFolder: pantheonskemetian
 ---
 

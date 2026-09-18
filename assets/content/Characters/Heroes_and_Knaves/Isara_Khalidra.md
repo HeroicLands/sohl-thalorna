@@ -10,12 +10,12 @@ name:
   clan: Khalîdra
   aliases: []
 packFolder: helladhelionis
-banner: banners/tamzirbnr.webp
+banner: tamzirbnr
 shortcode: isarakhldr
-img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/isarakhldr.webp
+  icon: sohl-none-icon-person
+  portrait: isarakhldr
   templatePriority: null
   archetypes: []
   occupation: Courtesan

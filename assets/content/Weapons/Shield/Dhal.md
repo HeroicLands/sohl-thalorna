@@ -4,10 +4,10 @@ name:
   full: Dhal
   aliases: []
 description: "Brass-bossed circular shield; Damascus prestige and practical deflection."
-img: systems/sohl/assets/icons/game-icons/willdabeast/roundshield.svg
 shortcode: dhal
 type: weapongear
 data:
+  icon: sohl-none-icon-roundshield
   templatePriority: null
 sohl:
   kbcat: shield

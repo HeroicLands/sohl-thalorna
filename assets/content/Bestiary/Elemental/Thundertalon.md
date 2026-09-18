@@ -6,11 +6,11 @@ name:
   full: Thundertalon
   aliases: []
 description: "A conscious storm elemental of tremendous power haunting high peaks and open skies, attacking earth- and sea-dwellers it deems mere primitives."
-img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 shortcode: thndrtln
 type: being
 data:
-  portrait: images/beings/creatures/thndrtln.webp
+  icon: sohl-none-icon-person
+  portrait: thndrtln
   templatePriority: null
   archetypes: []
   occupation: null

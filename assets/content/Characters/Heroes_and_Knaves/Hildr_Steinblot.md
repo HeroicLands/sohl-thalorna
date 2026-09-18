@@ -12,10 +12,10 @@ name:
   aliases: []
 packFolder: ankarisnordlands
 shortcode: hldrstnblt
-img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/hldrstnblt.webp
+  icon: sohl-none-icon-person
+  portrait: hldrstnblt
   templatePriority: null
   archetypes: []
   occupation: Potter

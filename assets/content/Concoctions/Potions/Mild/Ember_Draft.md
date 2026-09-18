@@ -6,13 +6,13 @@ name:
   aliases:
     - Potion, Stimulant, Mild
 description: "Bright energetic liquid; invigorates body and stimulates mental."
-img: systems/sohl/assets/icons/other/potion.svg
 shortcode: ptnstmm
 type: concoctiongear
 subType: exotic
 hmk:
   name: "Potion, Stimulant, Mild"
 data:
+  icon: sohl-none-icon-potion
   templatePriority: null
 sohl:
   system:

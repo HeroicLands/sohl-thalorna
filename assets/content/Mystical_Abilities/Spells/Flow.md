@@ -5,11 +5,11 @@ name:
   aliases:
     - Transfer
 description: "Caster merges with nearby liquid; moves through as substance."
-img: systems/sohl/assets/icons/other/tree.svg
 shortcode: flow
 type: mysticalability
 subType: arcaneincantation
 data:
+  icon: sohl-none-icon-tree
   templatePriority: null
 sohl:
   system:

@@ -5,11 +5,11 @@ name:
   aliases:
     - Screen
 description: "Conceals target; renders invisible to normal sight."
-img: systems/sohl/assets/icons/game-icons/badges/anvilbdg.svg
 shortcode: veil
 type: mysticalability
 subType: arcaneincantation
 data:
+  icon: sohl-none-icon-anvilbdg
   templatePriority: null
 sohl:
   system:

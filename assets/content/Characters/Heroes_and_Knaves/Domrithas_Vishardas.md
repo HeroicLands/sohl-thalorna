@@ -13,10 +13,10 @@ name:
   aliases: []
 packFolder: midhalionvylaria
 shortcode: dmrthsvshrds
-img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/dmrthsvshrds.webp
+  icon: sohl-none-icon-person
+  portrait: dmrthsvshrds
   templatePriority: null
   archetypes: []
   occupation: Alchemist

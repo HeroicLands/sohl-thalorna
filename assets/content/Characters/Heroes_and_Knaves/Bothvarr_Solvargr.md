@@ -12,10 +12,10 @@ name:
   aliases: []
 packFolder: ankarisnordlands
 shortcode: bthvrslvrgr
-img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/bthvrslvrgr.webp
+  icon: sohl-none-icon-person
+  portrait: bthvrslvrgr
   templatePriority: null
   archetypes: []
   occupation: Yeoman Infantry

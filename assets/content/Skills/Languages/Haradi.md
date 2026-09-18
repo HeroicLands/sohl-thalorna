@@ -5,11 +5,11 @@ name:
   aliases:
     - Haradi
 description: "The tongue of Harad's merchant guilds and sea-lanes, freighted with words for ledgers, tides, and every knot a sailor can tie."
-img: systems/sohl/assets/icons/other/speaking.svg
 shortcode: haradilng
 type: skill
 subType: language
 data:
+  icon: sohl-none-icon-speaking
   templatePriority: null
 sohl:
   system:

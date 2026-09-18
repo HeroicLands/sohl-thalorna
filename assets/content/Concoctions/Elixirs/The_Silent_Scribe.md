@@ -6,13 +6,13 @@ name:
   aliases:
     - Egosight Elixir
 description: "Crystalline purple draft; grants ability to read and understand."
-img: systems/sohl/assets/icons/other/potion.svg
 shortcode: elxego
 type: concoctiongear
 subType: elixir
 hmk:
   name: Egosight
 data:
+  icon: sohl-none-icon-potion
   templatePriority: null
 sohl:
   system:

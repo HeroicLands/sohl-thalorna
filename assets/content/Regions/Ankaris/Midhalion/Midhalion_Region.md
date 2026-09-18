@@ -7,10 +7,10 @@ name:
   aliases:
     - Mídhalión
 shortcode: midhalnrgn
-img: null
 type: place
 subType: region
 data:
+  icon: null
   demonym: null
   lore:
     - humanflk

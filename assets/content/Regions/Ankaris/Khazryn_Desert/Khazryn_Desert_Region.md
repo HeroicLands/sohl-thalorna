@@ -8,10 +8,10 @@ name:
     - Khazryn Desert
     - Khazryn
 shortcode: khzryndsrtrgn
-img: null
 type: place
 subType: region
 data:
+  icon: null
   demonym: Khazryn
   lore:
     - humanflk

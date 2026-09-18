@@ -6,6 +6,7 @@ tags:
 type: affiliation
 subType: arcanetradition
 data:
+  icon: khatnu
   templatePriority: null
   demonym: null
   epithet: House of the Body
@@ -83,8 +84,7 @@ name:
     - House of the Body
     - The House of Form
 shortcode: khatnu
-img: icons/takheperu/khemenu-hekau/khatnu.svg
-banner: banners/takheperubnr.webp
+banner: takheperubnr
 packFolder: khemenuhekau
 ---
 

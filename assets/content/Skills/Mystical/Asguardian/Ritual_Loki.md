@@ -5,12 +5,12 @@ tags:
 type: skill
 subType: mystical
 shortcode: loki
-img: images/affiliation/asguardian/loki.webp
 name:
   full: "Ritual: Lôki"
   aliases:
     - The Serpent's Path
 data:
+  icon: loki
   templatePriority: null
 sohl:
   system:

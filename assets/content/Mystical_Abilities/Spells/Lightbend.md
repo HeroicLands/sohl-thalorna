@@ -5,11 +5,11 @@ name:
   aliases:
     - Prism
 description: "Prismatic light fracturing; causes profound disorientation and vertigo."
-img: systems/sohl/assets/icons/other/wind.svg
 shortcode: lghtbnd
 type: mysticalability
 subType: arcaneincantation
 data:
+  icon: sohl-none-icon-wind
   templatePriority: null
 sohl:
   system:

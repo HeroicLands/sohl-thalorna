@@ -13,10 +13,10 @@ name:
   aliases: []
 packFolder: aureldiatarvenia
 shortcode: thlstrvlth
-img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/thlstrvlth.webp
+  icon: sohl-none-icon-person
+  portrait: thlstrvlth
   templatePriority: null
   archetypes: []
   occupation: Glassworker

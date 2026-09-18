@@ -13,10 +13,10 @@ name:
   aliases: []
 packFolder: ankarisvedyara
 shortcode: prthmjkydr
-img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/prthmjkydr.webp
+  icon: sohl-none-icon-person
+  portrait: prthmjkydr
   templatePriority: null
   archetypes: []
   occupation: Jeweller

@@ -4,10 +4,10 @@ name:
   full: Jian
   aliases: []
 description: "Straight double-edged leaf-point blade; duelist's responsive steel."
-img: systems/sohl/assets/icons/other/sword.svg
 shortcode: jian
 type: weapongear
 data:
+  icon: sohl-none-icon-sword
   templatePriority: null
 sohl:
   kbcat: sword

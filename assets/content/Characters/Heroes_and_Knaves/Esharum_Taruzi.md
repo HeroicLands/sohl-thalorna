@@ -12,11 +12,11 @@ name:
     - Shâ
 packFolder: midhalionharad
 shortcode: esharumtrz
-banner: banners/tamzirbnr.webp
-img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
+banner: tamzirbnr
 type: being
 data:
-  portrait: images/beings/characters/esharumtrz.webp
+  icon: sohl-none-icon-person
+  portrait: esharumtrz
   templatePriority: null
   archetypes: []
   occupation: Ship Captain

@@ -10,6 +10,7 @@ description: "The renowned navy of the Matriarchy of Bethûa — a southeastern-
 type: affiliation
 subType: governmental
 data:
+  icon: null
   templatePriority: null
   demonym: null
   epithet: null
@@ -108,7 +109,6 @@ name:
     - The Veiled Sails
     - Navy of Bethûa
 shortcode: bethuanflt
-img: null
 packFolder: bethua
 ---
 

@@ -10,9 +10,10 @@ name:
   aliases:
     - Owl Totem
 shortcode: owlttm
-img: images/mystery/owl.webp
 packFolder: loretotems
-banner: banners/creaturebnr.webp
+banner: creaturebnr
+data:
+  icon: owl
 ---
 
 Mysterious and patient, owls are nocturnal predators that silently observe their surroundings, waiting for the perfect moment to strike.

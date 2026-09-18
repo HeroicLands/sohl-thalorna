@@ -120,7 +120,7 @@ data:
   relations:
     tanvurempr: aligned
 packFolder: celestialpantheon
-banner: banners/faithbnr.webp
+banner: faithbnr
 ---
 
 ## Zhürhöt — The Minister of Fire

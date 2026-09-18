@@ -12,10 +12,10 @@ name:
   aliases: []
 packFolder: ankarisnordlands
 shortcode: sigfstrmrt
-img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/sigfstrmrt.webp
+  icon: sohl-none-icon-person
+  portrait: sigfstrmrt
   templatePriority: null
   archetypes: []
   occupation: Common Seaman

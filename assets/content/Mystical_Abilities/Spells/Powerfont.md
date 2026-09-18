@@ -5,11 +5,11 @@ name:
   aliases:
     - Well
 description: "Channel of raw power; caster draws energy for spellcasting."
-img: systems/sohl/assets/icons/game-icons/delapouite/circle.svg
 shortcode: pwrfnt
 type: mysticalability
 subType: arcaneincantation
 data:
+  icon: sohl-none-icon-circle
   templatePriority: null
 sohl:
   system:

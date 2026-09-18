@@ -5,11 +5,11 @@ name:
   aliases:
     - Key
 description: "Opens sealed passages; unlocks magical locks and barriers."
-img: systems/sohl/assets/icons/noun/divination.svg
 shortcode: unlock
 type: mysticalability
 subType: arcaneincantation
 data:
+  icon: sohl-none-icon-divination
   templatePriority: null
 sohl:
   system:

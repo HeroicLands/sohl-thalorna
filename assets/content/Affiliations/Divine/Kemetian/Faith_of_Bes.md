@@ -6,6 +6,7 @@ tags:
 type: affiliation
 subType: faithtradition
 data:
+  icon: bes
   templatePriority: null
   demonym: null
   epithet: Guardian of Night Visions
@@ -64,8 +65,7 @@ name:
   aliases:
     - Bēs, Guardian of Night Visions
 shortcode: bes
-img: icons/takheperu/pantheon/bes.svg
-banner: banners/takheperubnr.webp
+banner: takheperubnr
 packFolder: pantheonskemetian
 ---
 

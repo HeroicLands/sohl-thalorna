@@ -6,11 +6,11 @@ name:
   full: Voidmoth
   aliases: []
 description: "A rare being of solidified darkness and void-energy, gathering near thin places and torn reality where the barrier between worlds grows weak."
-img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 shortcode: voidmoth
 type: being
 data:
-  portrait: images/beings/creatures/voidmoth.webp
+  icon: sohl-none-icon-person
+  portrait: voidmoth
   templatePriority: null
   archetypes: []
   occupation: null

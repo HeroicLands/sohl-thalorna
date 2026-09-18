@@ -5,11 +5,11 @@ name:
   aliases:
     - Burn
 description: "Conjures intense flames; caster's touch ignites and burns."
-img: systems/sohl/assets/icons/game-icons/badges/firebdg.svg
 shortcode: srgblz
 type: mysticalability
 subType: arcaneincantation
 data:
+  icon: sohl-none-icon-firebdg
   templatePriority: null
 sohl:
   system:

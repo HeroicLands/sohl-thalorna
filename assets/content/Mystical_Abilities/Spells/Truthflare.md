@@ -5,11 +5,11 @@ name:
   aliases:
     - Candour
 description: "Reveals deception instantly; exposes lies and falsehoods."
-img: systems/sohl/assets/icons/noun/divination.svg
 shortcode: trthflr
 type: mysticalability
 subType: arcaneincantation
 data:
+  icon: sohl-none-icon-divination
   templatePriority: null
 sohl:
   system:

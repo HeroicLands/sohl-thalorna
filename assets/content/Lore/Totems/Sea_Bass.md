@@ -10,9 +10,10 @@ name:
   aliases:
     - Sea Bass Totem
 shortcode: seabassttm
-img: images/mystery/seabass.webp
 packFolder: loretotems
-banner: banners/creaturebnr.webp
+banner: creaturebnr
+data:
+  icon: seabass
 ---
 
 Opportunistic and stealthy, sea bass lie in wait to ambush unsuspecting prey, capitalizing on their surroundings to strike with precision.

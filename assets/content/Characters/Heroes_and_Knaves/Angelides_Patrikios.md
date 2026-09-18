@@ -14,10 +14,10 @@ name:
   aliases: []
 packFolder: helladbyzaria
 shortcode: angldsptrks
-img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/angldsptrks.webp
+  icon: sohl-none-icon-person
+  portrait: angldsptrks
   templatePriority: null
   archetypes: []
   occupation: Mage (Healing)

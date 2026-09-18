@@ -12,10 +12,10 @@ name:
   aliases: []
 packFolder: ankarisvedyara
 shortcode: visvarmhpr
-img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/visvarmhpr.webp
+  icon: sohl-none-icon-person
+  portrait: visvarmhpr
   templatePriority: null
   archetypes: []
   occupation: Common Seaman

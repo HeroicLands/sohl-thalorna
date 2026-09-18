@@ -13,7 +13,7 @@ data:
 name:
   full: Henen-Nesut
   aliases: []
-banner: banners/takheperubnr.webp
+banner: takheperubnr
 shortcode: henennesut
 packFolder: upperrivernomes
 ---

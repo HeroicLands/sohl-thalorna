@@ -6,13 +6,13 @@ name:
   aliases:
     - Weakness Elixir
 description: "Sickly pale fluid; weakens drinker, reducing physical and mental."
-img: systems/sohl/assets/icons/other/potion.svg
 shortcode: elxwkn
 type: concoctiongear
 subType: elixir
 hmk:
   name: Weakness
 data:
+  icon: sohl-none-icon-potion
   templatePriority: null
 sohl:
   system:

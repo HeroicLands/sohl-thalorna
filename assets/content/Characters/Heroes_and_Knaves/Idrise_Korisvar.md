@@ -12,10 +12,10 @@ name:
   aliases: []
 packFolder: aureldiaprovenzia
 shortcode: idriskrsvr
-img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/idriskrsvr.webp
+  icon: sohl-none-icon-person
+  portrait: idriskrsvr
   templatePriority: null
   archetypes: []
   occupation: Bodyguard

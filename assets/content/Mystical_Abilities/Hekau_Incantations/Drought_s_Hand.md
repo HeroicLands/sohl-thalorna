@@ -7,10 +7,10 @@ name:
   aliases: []
 description: "Withholds water from a stated ground until the working is lifted."
 shortcode: drghtshnd
-img: icons/takheperu/khemenu-hekau/deshrut.svg
 type: mysticalability
 subType: arcaneincantation
 data:
+  icon: deshrut
   templatePriority: null
 sohl:
   system:

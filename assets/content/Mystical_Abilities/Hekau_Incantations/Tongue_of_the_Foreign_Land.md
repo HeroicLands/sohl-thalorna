@@ -7,10 +7,10 @@ name:
   aliases: []
 description: "Permits speech and understanding of a language the practitioner does not know."
 shortcode: tngfrgnlnd
-img: icons/takheperu/khemenu-hekau/rensesh.svg
 type: mysticalability
 subType: arcaneincantation
 data:
+  icon: rensesh
   templatePriority: null
 sohl:
   system:

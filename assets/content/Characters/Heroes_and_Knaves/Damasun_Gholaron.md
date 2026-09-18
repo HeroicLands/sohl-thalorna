@@ -12,11 +12,11 @@ name:
     - Parma
 packFolder: helladhelionis
 shortcode: damsnghlrn
-banner: banners/tamzirbnr.webp
-img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
+banner: tamzirbnr
 type: being
 data:
-  portrait: images/beings/characters/damsnghlrn.webp
+  icon: sohl-none-icon-person
+  portrait: damsnghlrn
   templatePriority: null
   archetypes: []
   occupation: Priest

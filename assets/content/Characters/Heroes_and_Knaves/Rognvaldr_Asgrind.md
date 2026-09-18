@@ -12,10 +12,10 @@ name:
   aliases: []
 packFolder: ankarisnordlands
 shortcode: rgnvldrsgrnd
-img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/rgnvldrsgrnd.webp
+  icon: sohl-none-icon-person
+  portrait: rgnvldrsgrnd
   templatePriority: null
   archetypes: []
   occupation: Jester

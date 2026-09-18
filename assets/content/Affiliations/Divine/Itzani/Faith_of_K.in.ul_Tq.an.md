@@ -11,9 +11,9 @@ name:
     - The Sun at the World's Edge
     - "K'in'ul Tq'an"
 shortcode: kinultqan
-img: null
 packFolder: pantheonitzani
 data:
+  icon: null
   templatePriority: null
   demonym: null
   epithet: The Sun at the World's Edge
@@ -122,7 +122,7 @@ data:
     - itzanpnthn
   relations:
     itzanpnthn: aligned
-banner: banners/faithbnr.webp
+banner: faithbnr
 ---
 
 **Domain:** Order, Cosmic Law, Solar Cycle

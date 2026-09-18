@@ -5,10 +5,10 @@ description: "The northern reach of the K'ich'chik continent and its city-states
 name:
   full: Northern K'ich'chik
   aliases: []
-img: null
 type: place
 subType: region
 data:
+  icon: null
   demonym: null
   lore:
     - humanflk

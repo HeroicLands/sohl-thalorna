@@ -14,12 +14,12 @@ name:
     - Whispers
     - The Dancing Shadow
 packFolder: northernfertileregiontakheperu
-banner: banners/takheperubnr.webp
+banner: takheperubnr
 shortcode: isaretkskr
-img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/isaretkskr.webp
+  icon: sohl-none-icon-person
+  portrait: isaretkskr
   templatePriority: null
   archetypes: []
   occupation: Intelligence Agent

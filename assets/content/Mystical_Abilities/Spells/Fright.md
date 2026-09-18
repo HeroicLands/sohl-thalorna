@@ -5,11 +5,11 @@ name:
   aliases:
     - Panic
 description: "Target becomes paralyzed with terror; freezes unable to move."
-img: systems/sohl/assets/icons/noun/divination.svg
 shortcode: fright
 type: mysticalability
 subType: arcaneincantation
 data:
+  icon: sohl-none-icon-divination
   templatePriority: null
 sohl:
   system:

@@ -12,10 +12,10 @@ name:
   aliases: []
 packFolder: northernfertileregionbethua
 shortcode: juthrjmthn
-img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/juthrjmthn.webp
+  icon: sohl-none-icon-person
+  portrait: juthrjmthn
   templatePriority: null
   archetypes: []
   occupation: Scholar

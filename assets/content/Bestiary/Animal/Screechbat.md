@@ -6,11 +6,11 @@ name:
   full: Screechbat
   aliases: []
 description: "A small, pack-coordinated cave predator with an eight-foot wingspan, weaponizing echolocation and sonic screeches to disorient prey before the kill."
-img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 shortcode: scrchbt
 type: being
 data:
-  portrait: images/beings/creatures/scrchbt.webp
+  icon: sohl-none-icon-person
+  portrait: scrchbt
   templatePriority: null
   archetypes: []
   occupation: null

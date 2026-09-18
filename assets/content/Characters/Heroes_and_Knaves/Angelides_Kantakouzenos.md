@@ -13,10 +13,10 @@ name:
   aliases: []
 packFolder: helladbyzaria
 shortcode: angldskntkzns
-img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/angldskntkzns.webp
+  icon: sohl-none-icon-person
+  portrait: angldskntkzns
   templatePriority: null
   archetypes: []
   occupation: Perfumer

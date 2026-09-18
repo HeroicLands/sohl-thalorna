@@ -5,13 +5,13 @@ tags:
 type: skill
 subType: mystical
 shortcode: tzuqilixbal
-img: null
 name:
   full: "Ritual: Tz'uqil Ix'bal"
   aliases:
     - Tz'uqil Ix'bal
     - The Death Jaguar
 data:
+  icon: null
   templatePriority: null
 sohl:
   system:

@@ -14,10 +14,10 @@ name:
     - the Liar
 packFolder: ankarisvrystwald
 shortcode: vndrcgrwld
-img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/vndrcgrwld.webp
+  icon: sohl-none-icon-person
+  portrait: vndrcgrwld
   templatePriority: null
   archetypes: []
   occupation: Brigand

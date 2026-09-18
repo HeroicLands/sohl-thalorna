@@ -13,12 +13,12 @@ name:
   aliases:
     - Meneti Shapkher
 packFolder: northernfertileregiontakheperu
-banner: banners/takheperubnr.webp
+banner: takheperubnr
 shortcode: mentshpkhr
-img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/mentshpkhr.webp
+  icon: sohl-none-icon-person
+  portrait: mentshpkhr
   templatePriority: null
   archetypes: []
   occupation: Bureaucrat

@@ -13,10 +13,10 @@ name:
   aliases: []
 packFolder: aureldiatarvenia
 shortcode: carengrvth
-img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/carengrvth.webp
+  icon: sohl-none-icon-person
+  portrait: carengrvth
   templatePriority: null
   archetypes: []
   occupation: Herald

@@ -59,7 +59,7 @@ data:
   relations:
     varakpnthn: aligned
 packFolder: pantheonsvarnaka
-banner: banners/faithbnr.webp
+banner: faithbnr
 ---
 
 ## Meghanātha — Lord of Thunder

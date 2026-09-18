@@ -6,6 +6,7 @@ tags:
 type: affiliation
 subType: faithtradition
 data:
+  icon: lusinia
   templatePriority: null
   demonym: null
   epithet: The World-Weaver
@@ -69,9 +70,8 @@ name:
     - The World-Weaver
     - Lúsinía
 shortcode: lusinia
-img: images/affiliation/aureldian/lusinia.webp
 packFolder: pantheonsaureldian
-banner: banners/faithbnr.webp
+banner: faithbnr
 ---
 
 Goddess of life, earth, and creation. Lúsinía spins the fabric of existence and nurtures all living beings, from the smallest seed to the mightiest beast.

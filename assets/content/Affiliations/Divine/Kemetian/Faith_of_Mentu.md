@@ -74,7 +74,7 @@ name:
   aliases:
     - Mentu, The War-God
 shortcode: mentu
-banner: banners/takheperubnr.webp
+banner: takheperubnr
 packFolder: pantheonskemetian
 ---
 

@@ -6,11 +6,11 @@ name:
   full: Cliff Stalker
   aliases: []
 description: "A massive solitary mountain feline built for vertical terrain and patient precision ambush, far larger than any snow leopard."
-img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 shortcode: clffstlk
 type: being
 data:
-  portrait: images/beings/creatures/clffstlk.webp
+  icon: sohl-none-icon-person
+  portrait: clffstlk
   templatePriority: null
   archetypes: []
   occupation: null

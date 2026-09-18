@@ -13,12 +13,12 @@ name:
   aliases:
     - Raiah Sekmetâ
 packFolder: northernfertileregiontakheperu
-banner: banners/takheperubnr.webp
+banner: takheperubnr
 shortcode: raiahsekmt
-img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/raiahsekmt.webp
+  icon: sohl-none-icon-person
+  portrait: raiahsekmt
   templatePriority: null
   archetypes: []
   occupation: Weaponcrafter (Armorer)

@@ -5,11 +5,11 @@ name:
   aliases:
     - Beam
 description: "Beam of brilliant light; sears flesh and ignites combustibles."
-img: systems/sohl/assets/icons/other/wind.svg
 shortcode: lghtstrk
 type: mysticalability
 subType: arcaneincantation
 data:
+  icon: sohl-none-icon-wind
   templatePriority: null
 sohl:
   system:

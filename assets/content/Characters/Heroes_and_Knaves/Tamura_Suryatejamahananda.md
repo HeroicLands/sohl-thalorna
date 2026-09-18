@@ -12,10 +12,10 @@ name:
   aliases: []
 packFolder: ankarisvedyara
 shortcode: tmrsrytjmhnnd
-img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/tmrsrytjmhnnd.webp
+  icon: sohl-none-icon-person
+  portrait: tmrsrytjmhnnd
   templatePriority: null
   archetypes: []
   occupation: Woodcrafter

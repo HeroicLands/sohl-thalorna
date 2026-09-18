@@ -6,6 +6,7 @@ tags:
 type: affiliation
 subType: arcanetradition
 data:
+  icon: imnetau
   templatePriority: null
   demonym: null
   epithet: House of the Westward Road
@@ -84,8 +85,7 @@ name:
     - House of the Westward Road
     - The House of the Underworld
 shortcode: imnetau
-img: icons/takheperu/khemenu-hekau/imnetau.svg
-banner: banners/takheperubnr.webp
+banner: takheperubnr
 packFolder: khemenuhekau
 ---
 

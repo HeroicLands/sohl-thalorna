@@ -73,7 +73,7 @@ data:
     - tharivaan
   relations: {}
 packFolder: pantheonstharivaan
-banner: banners/faithbnr.webp
+banner: faithbnr
 ---
 
 ## Thári'vaan: The Living Whole

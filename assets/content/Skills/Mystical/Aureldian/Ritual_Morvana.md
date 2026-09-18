@@ -5,13 +5,13 @@ tags:
 type: skill
 subType: mystical
 shortcode: morvana
-img: images/affiliation/aureldian/morvana.webp
 name:
   full: "Ritual: Morvana"
   aliases:
     - Mórváná
     - Mistress of the Waning Moon
 data:
+  icon: morvana
   templatePriority: null
 sohl:
   system:

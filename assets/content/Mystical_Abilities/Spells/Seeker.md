@@ -4,11 +4,11 @@ name:
   full: Seeker
   aliases: []
 description: "Seeks hidden objects; reveals location of sought-after item."
-img: systems/sohl/assets/icons/game-icons/badges/firebdg.svg
 shortcode: seeker
 type: mysticalability
 subType: arcaneincantation
 data:
+  icon: sohl-none-icon-firebdg
   templatePriority: null
 sohl:
   system:

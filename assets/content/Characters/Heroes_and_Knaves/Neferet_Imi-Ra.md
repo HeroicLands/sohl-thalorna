@@ -14,12 +14,12 @@ name:
   aliases:
     - The Scholar of Forgotten Texts
 packFolder: northernfertileregiontakheperu
-banner: banners/takheperubnr.webp
+banner: takheperubnr
 shortcode: neferetimr
-img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/neferetimr.webp
+  icon: sohl-none-icon-person
+  portrait: neferetimr
   templatePriority: null
   archetypes: []
   occupation: Scholar

@@ -5,12 +5,12 @@ tags:
 type: skill
 subType: mystical
 shortcode: anubis
-img: icons/takheperu/pantheon/anubis.svg
 name:
   full: "Ritual: Ánubís"
   aliases:
     - Ánubís, The Keeper of Transitions
 data:
+  icon: anubis
   templatePriority: null
 sohl:
   system:

@@ -5,11 +5,11 @@ name:
   aliases:
     - Lustre
 description: "Radiates steady light from caster; illuminates surroundings without heat."
-img: systems/sohl/assets/icons/game-icons/badges/anvilbdg.svg
 shortcode: glow
 type: mysticalability
 subType: arcaneincantation
 data:
+  icon: sohl-none-icon-anvilbdg
   templatePriority: null
 sohl:
   system:

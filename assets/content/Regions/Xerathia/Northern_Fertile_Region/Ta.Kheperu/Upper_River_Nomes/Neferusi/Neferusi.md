@@ -13,7 +13,7 @@ data:
 name:
   full: Neferusi
   aliases: []
-banner: banners/takheperubnr.webp
+banner: takheperubnr
 shortcode: neferusi
 packFolder: upperrivernomes
 ---

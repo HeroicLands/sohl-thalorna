@@ -5,11 +5,11 @@ name:
   aliases:
     - Charm
 description: "Imbues object with magic; grants it power or special property."
-img: systems/sohl/assets/icons/game-icons/badges/anvilbdg.svg
 shortcode: enchant
 type: mysticalability
 subType: arcaneincantation
 data:
+  icon: sohl-none-icon-anvilbdg
   templatePriority: null
 sohl:
   system:

@@ -10,9 +10,10 @@ name:
   aliases:
     - Goat Totem
 shortcode: goatttm
-img: images/mystery/goat.webp
 packFolder: loretotems
-banner: banners/creaturebnr.webp
+banner: creaturebnr
+data:
+  icon: goat
 ---
 
 Curious and determined, goats are naturally inquisitive animals that will climb, explore, and test their environment to satisfy their curiosity.

@@ -113,7 +113,7 @@ data:
     ashanpnthn: aligned
     wrrscrcldnhrtrbs: aligned
     dunhartrbs: aligned
-banner: banners/faithbnr.webp
+banner: faithbnr
 ---
 
 _Dunhari: Bahârâmî-Pîravân — "the Followers of Báhrámiš"_

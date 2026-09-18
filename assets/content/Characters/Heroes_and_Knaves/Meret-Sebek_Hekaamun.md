@@ -13,12 +13,12 @@ name:
   aliases:
     - Meret-Sebek Hekaamun
 packFolder: northernfertileregiontakheperu
-banner: banners/takheperubnr.webp
+banner: takheperubnr
 shortcode: mrtsbkhkmn
-img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/mrtsbkhkmn.webp
+  icon: sohl-none-icon-person
+  portrait: mrtsbkhkmn
   templatePriority: null
   archetypes: []
   occupation: Astrologer

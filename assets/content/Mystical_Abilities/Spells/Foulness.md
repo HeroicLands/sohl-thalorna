@@ -5,11 +5,11 @@ name:
   aliases:
     - Stench
 description: "Conjures stinking cloud; sickens and chokes those breathing vapors."
-img: systems/sohl/assets/icons/other/wind.svg
 shortcode: foulness
 type: mysticalability
 subType: arcaneincantation
 data:
+  icon: sohl-none-icon-wind
   templatePriority: null
 sohl:
   system:

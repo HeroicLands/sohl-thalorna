@@ -13,10 +13,10 @@ name:
   aliases: []
 packFolder: ankarisnordlands
 shortcode: unreldskar
-img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/unreldskar.webp
+  icon: sohl-none-icon-person
+  portrait: unreldskar
   templatePriority: null
   archetypes: []
   occupation: Chandler

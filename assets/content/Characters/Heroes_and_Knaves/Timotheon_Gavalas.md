@@ -13,10 +13,10 @@ name:
   aliases: []
 packFolder: helladbyzaria
 shortcode: timthngvls
-img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/timthngvls.webp
+  icon: sohl-none-icon-person
+  portrait: timthngvls
   templatePriority: null
   archetypes: []
   occupation: Teamster

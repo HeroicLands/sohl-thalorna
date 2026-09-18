@@ -14,10 +14,10 @@ name:
     - The Spirit Tracker
 packFolder: xerathiasouthernsavannahs
 shortcode: gahijwfnjr
-img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/gahijwfnjr.webp
+  icon: sohl-none-icon-person
+  portrait: gahijwfnjr
   templatePriority: null
   archetypes: []
   occupation: Hunter

@@ -14,10 +14,10 @@ name:
   aliases: []
 packFolder: helladbyzaria
 shortcode: kasndrbsrn
-img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/kasndrbsrn.webp
+  icon: sohl-none-icon-person
+  portrait: kasndrbsrn
   templatePriority: null
   archetypes: []
   occupation: Mage (Lore)

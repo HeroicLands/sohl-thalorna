@@ -6,10 +6,10 @@ name:
   full: Okháris Region
   aliases: []
 shortcode: okharisrgn
-img: null
 type: place
 subType: region
 data:
+  icon: null
   demonym: Okháric
   lore:
     - humanflk

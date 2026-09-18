@@ -13,9 +13,9 @@ name:
     - Eamon Oakshade
 packFolder: midhalionvylaria
 shortcode: kdmrshrrds
-img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
+  icon: sohl-none-icon-person
   portrait: null
   templatePriority: null
   archetypes: []

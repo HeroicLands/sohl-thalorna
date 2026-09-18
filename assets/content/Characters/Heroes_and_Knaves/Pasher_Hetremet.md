@@ -12,12 +12,12 @@ name:
   aliases:
     - Pasher Hetremet
 packFolder: northernfertileregiontakheperu
-banner: banners/takheperubnr.webp
+banner: takheperubnr
 shortcode: pashrhtrmt
-img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/pashrhtrmt.webp
+  icon: sohl-none-icon-person
+  portrait: pashrhtrmt
   templatePriority: null
   archetypes: []
   occupation: Musician (Lyre)

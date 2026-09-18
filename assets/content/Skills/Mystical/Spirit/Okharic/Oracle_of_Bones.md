@@ -6,12 +6,12 @@ description: "Standing with The Oracle of Bones, zohira of death and prophecy �
 type: skill
 subType: mystical
 shortcode: orclbonessprt
-img: systems/sohl/assets/icons/game-icons/lorc/psychicwaves.svg
 name:
   full: "The Oracle of Bones Spirit Power"
   aliases:
     - The Reader in the Yánda Maláika
 data:
+  icon: sohl-none-icon-psychicwaves
   templatePriority: null
 sohl:
   system:

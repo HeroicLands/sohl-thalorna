@@ -13,10 +13,10 @@ name:
   aliases: []
 packFolder: ankarisvrystwald
 shortcode: thrwldhldskrn
-img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/thrwldhldskrn.webp
+  icon: sohl-none-icon-person
+  portrait: thrwldhldskrn
   templatePriority: null
   archetypes: []
   occupation: Brigand

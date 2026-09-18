@@ -14,7 +14,7 @@ data:
 name:
   full: Ta-Djeser
   aliases: []
-banner: banners/takheperubnr.webp
+banner: takheperubnr
 shortcode: tadjeser
 packFolder: capitalnome
 ---

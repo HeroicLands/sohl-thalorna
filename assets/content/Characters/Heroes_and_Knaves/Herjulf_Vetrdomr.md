@@ -12,10 +12,10 @@ name:
   aliases: []
 packFolder: ankarisnordlands
 shortcode: hrjlfvtrdmr
-img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/hrjlfvtrdmr.webp
+  icon: sohl-none-icon-person
+  portrait: hrjlfvtrdmr
   templatePriority: null
   archetypes: []
   occupation: Woodcutter

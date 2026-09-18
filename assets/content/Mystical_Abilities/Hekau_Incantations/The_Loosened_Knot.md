@@ -7,10 +7,10 @@ name:
   aliases: []
 description: "Undoes a binding, ward or seal without destroying the surface that carries it."
 shortcode: lsndknt
-img: icons/takheperu/khemenu-hekau/sefut.svg
 type: mysticalability
 subType: arcaneincantation
 data:
+  icon: sefut
   templatePriority: null
 sohl:
   system:

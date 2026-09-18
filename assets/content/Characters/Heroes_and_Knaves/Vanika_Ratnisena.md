@@ -12,10 +12,10 @@ name:
   aliases: []
 packFolder: ankarisvedyara
 shortcode: vanikartns
-img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/vanikartns.webp
+  icon: sohl-none-icon-person
+  portrait: vanikartns
   templatePriority: null
   archetypes: []
   occupation: Cook

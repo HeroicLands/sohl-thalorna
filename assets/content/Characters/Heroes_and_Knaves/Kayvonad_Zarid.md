@@ -13,10 +13,10 @@ name:
   aliases: []
 packFolder: ankariskhazryndesert
 shortcode: kayvondzrd
-img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/kayvondzrd.webp
+  icon: sohl-none-icon-person
+  portrait: kayvondzrd
   templatePriority: null
   archetypes: []
   occupation: Alchemist

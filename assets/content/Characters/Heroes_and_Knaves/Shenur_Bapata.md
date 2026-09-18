@@ -13,12 +13,12 @@ name:
   aliases:
     - Shenur Bapata
 packFolder: northernfertileregiontakheperu
-banner: banners/takheperubnr.webp
+banner: takheperubnr
 shortcode: shenurbapt
-img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/shenurbapt.webp
+  icon: sohl-none-icon-person
+  portrait: shenurbapt
   templatePriority: null
   archetypes: []
   occupation: Weaponcrafter (Armorer)

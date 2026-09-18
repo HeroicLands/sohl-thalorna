@@ -7,10 +7,10 @@ name:
   aliases:
     - Hellád
 shortcode: heladrgn
-img: null
 type: place
 subType: region
 data:
+  icon: null
   demonym: Helladic
   lore:
     - humanflk

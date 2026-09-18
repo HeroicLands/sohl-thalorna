@@ -12,10 +12,10 @@ name:
   aliases: []
 packFolder: helladbyzaria
 shortcode: isidrmlsns
-img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/isidrmlsns.webp
+  icon: sohl-none-icon-person
+  portrait: isidrmlsns
   templatePriority: null
   archetypes: []
   occupation: Innkeeper

@@ -7,7 +7,7 @@ subType: reference
 shortcode: peoples
 tags:
 description: Distinct peoples, races, and lineages.
-banner: banners/peoplebnr.webp
+banner: peoplebnr
 ---
 
 Distinct peoples, races, and lineages.

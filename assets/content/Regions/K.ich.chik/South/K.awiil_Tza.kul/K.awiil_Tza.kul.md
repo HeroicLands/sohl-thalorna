@@ -6,10 +6,10 @@ name:
   full: K'awiil Tza'kul
   aliases: []
 shortcode: kawiltzakl
-img: null
 type: affiliation
 subType: polity
 data:
+  icon: null
   templatePriority: null
   demonym: null
   epithet: null

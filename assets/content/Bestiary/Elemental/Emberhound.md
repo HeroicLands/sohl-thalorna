@@ -6,11 +6,11 @@ name:
   full: Emberhound
   aliases: []
 description: "A cunning fire elemental in animal form, combining a predator's tactics with living flame, hunting for fuel or bound to guard places of power."
-img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 shortcode: embrhnd
 type: being
 data:
-  portrait: images/beings/creatures/embrhnd.webp
+  icon: sohl-none-icon-person
+  portrait: embrhnd
   templatePriority: null
   archetypes: []
   occupation: null

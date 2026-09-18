@@ -120,7 +120,7 @@ data:
   relations:
     tanvurempr: aligned
 packFolder: celestialpantheon
-banner: banners/faithbnr.webp
+banner: faithbnr
 ---
 
 ## Mëivōr — The Minister of Dreams

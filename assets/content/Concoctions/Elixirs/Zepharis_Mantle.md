@@ -6,13 +6,13 @@ name:
   aliases:
     - Iceshield Elixir
 description: "Pale frosted blue elixir; grants protection against cold elements."
-img: systems/sohl/assets/icons/other/potion.svg
 shortcode: elxice
 type: concoctiongear
 subType: elixir
 hmk:
   name: Iceshield
 data:
+  icon: sohl-none-icon-potion
   templatePriority: null
 sohl:
   system:

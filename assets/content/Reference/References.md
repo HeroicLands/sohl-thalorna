@@ -7,7 +7,7 @@ subType: reference
 shortcode: reference
 tags:
 description: Reference materials and source documents.
-banner: banners/referencebnr.webp
+banner: null
 ---
 
 Reference materials and source documents.

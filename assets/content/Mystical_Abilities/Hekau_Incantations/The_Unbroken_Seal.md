@@ -7,10 +7,10 @@ name:
   aliases: []
 description: "Sets a seal that cannot be opened at all except by a named holder, and cannot be worked around."
 shortcode: unbrknsl
-img: icons/takheperu/khemenu-hekau/maatken.svg
 type: mysticalability
 subType: arcaneincantation
 data:
+  icon: maatken
   templatePriority: null
 sohl:
   system:

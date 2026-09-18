@@ -14,10 +14,10 @@ name:
     - the Seidr of Norgaad
 packFolder: ankarisnordlands
 shortcode: grosdrnrgd
-img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/grosdrnrgd.webp
+  icon: sohl-none-icon-person
+  portrait: grosdrnrgd
   templatePriority: null
   archetypes: []
   occupation: Shaman

@@ -16,10 +16,10 @@ name:
     - Thornak Mahnlin
 packFolder: ankarisvrystwald
 shortcode: thrnkbldtscbr
-img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/thrnkbldtscbr.webp
+  icon: sohl-none-icon-person
+  portrait: thrnkbldtscbr
   templatePriority: null
   archetypes: []
   occupation: Hunter

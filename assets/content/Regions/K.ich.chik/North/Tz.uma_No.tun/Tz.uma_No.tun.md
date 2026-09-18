@@ -6,10 +6,10 @@ name:
   full: Tz'uma No'tun
   aliases: []
 shortcode: tzumanotun
-img: null
 type: affiliation
 subType: polity
 data:
+  icon: null
   templatePriority: null
   demonym: null
   epithet: null

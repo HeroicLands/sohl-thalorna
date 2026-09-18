@@ -5,11 +5,11 @@ name:
   aliases:
     - Vessel
 description: "Binds creature or force inside barrier; prevents escape or exit."
-img: systems/sohl/assets/icons/game-icons/delapouite/circle.svg
 shortcode: contain
 type: mysticalability
 subType: arcaneincantation
 data:
+  icon: sohl-none-icon-circle
   templatePriority: null
 sohl:
   system:

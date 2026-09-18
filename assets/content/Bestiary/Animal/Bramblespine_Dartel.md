@@ -6,11 +6,11 @@ name:
   full: Bramblespine Dartel
   aliases: []
 description: "A small, heavily armored arid-land reptile, far less deadly than large predators but disproportionately hazardous through its spined defenses."
-img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 shortcode: brmblspn
 type: being
 data:
-  portrait: images/beings/creatures/brmblspn.webp
+  icon: sohl-none-icon-person
+  portrait: brmblspn
   templatePriority: null
   archetypes: []
   occupation: null

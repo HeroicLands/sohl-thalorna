@@ -13,7 +13,7 @@ data:
 name:
   full: Tjebu
   aliases: []
-banner: banners/takheperubnr.webp
+banner: takheperubnr
 shortcode: tjebu
 packFolder: sauneferu
 ---

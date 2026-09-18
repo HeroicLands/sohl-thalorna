@@ -7,8 +7,9 @@ name:
   full: Ánubís
   aliases: []
 shortcode: anubisdty
-img: icons/takheperu/pantheon/anubis.svg
 packFolder: deitieskemetian
+data:
+  icon: anubis
 ---
 
 _The Keeper of Transitions — a jackal's head cradling a crescent moon._

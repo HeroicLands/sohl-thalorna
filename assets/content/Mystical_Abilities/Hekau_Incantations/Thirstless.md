@@ -7,10 +7,10 @@ name:
   aliases: []
 description: "Sustains a person without water for as long as the working holds."
 shortcode: thrstlss
-img: icons/takheperu/khemenu-hekau/deshrut.svg
 type: mysticalability
 subType: arcaneincantation
 data:
+  icon: deshrut
   templatePriority: null
 sohl:
   system:

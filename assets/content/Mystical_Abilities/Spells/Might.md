@@ -5,11 +5,11 @@ name:
   aliases:
     - Physique
 description: "Temporary physical enhancement increasing strength and combat prowess greatly."
-img: systems/sohl/assets/icons/other/tree.svg
 shortcode: might
 type: mysticalability
 subType: arcaneincantation
 data:
+  icon: sohl-none-icon-tree
   templatePriority: null
 sohl:
   system:

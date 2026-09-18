@@ -5,10 +5,10 @@ name:
   full: Haradian Argentus
   aliases: ["Haradian Argentus", "Haradian Argo"]
 description: "Confederation silver coin struck to the full imperial standard; passes at full value abroad."
-img: systems/sohl/assets/icons/game-icons/badges/coinsbdg.svg
 shortcode: hargo
 type: miscgear
 data:
+  icon: sohl-none-icon-coinsbdg
   templatePriority: 0
 sohl:
   craft:

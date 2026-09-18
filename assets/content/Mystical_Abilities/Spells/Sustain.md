@@ -5,11 +5,11 @@ name:
   aliases:
     - Victual
 description: "Maintains vital functions; prevents death and continues existence."
-img: systems/sohl/assets/icons/other/tree.svg
 shortcode: sustain
 type: mysticalability
 subType: arcaneincantation
 data:
+  icon: sohl-none-icon-tree
   templatePriority: null
 sohl:
   system:

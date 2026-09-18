@@ -4,10 +4,10 @@ name:
   full: Qiang
   aliases: []
 description: "Leaf-shaped slender thrusting spear with silk tassel; versatile reach."
-img: systems/sohl/assets/icons/noun/polearm.svg
 shortcode: qing
 type: weapongear
 data:
+  icon: sohl-none-icon-polearm
   templatePriority: null
 sohl:
   kbcat: polearm

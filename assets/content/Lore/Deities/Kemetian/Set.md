@@ -7,8 +7,9 @@ name:
   full: Sét
   aliases: []
 shortcode: setdty
-img: icons/takheperu/pantheon/set.svg
 packFolder: deitieskemetian
+data:
+  icon: set
 ---
 
 _Bringer of Tempests — a serpent coiled around a lightning bolt._

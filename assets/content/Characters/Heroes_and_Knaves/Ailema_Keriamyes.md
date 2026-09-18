@@ -13,10 +13,10 @@ name:
   aliases: []
 packFolder: midhalionvylaria
 shortcode: ailemkrmys
-img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/ailemkrmys.webp
+  icon: sohl-none-icon-person
+  portrait: ailemkrmys
   templatePriority: null
   archetypes: []
   occupation: Scribe

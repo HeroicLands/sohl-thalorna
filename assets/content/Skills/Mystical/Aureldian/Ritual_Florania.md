@@ -5,13 +5,13 @@ tags:
 type: skill
 subType: mystical
 shortcode: florania
-img: images/affiliation/aureldian/florania.webp
 name:
   full: "Ritual: Flórania"
   aliases:
     - Flórania
     - The Nurturer
 data:
+  icon: florania
   templatePriority: null
 sohl:
   system:

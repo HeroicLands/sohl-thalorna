@@ -5,11 +5,11 @@ name:
   aliases:
     - Gate
 description: "Opens gateway between two distant locations; enables instant travel."
-img: systems/sohl/assets/icons/game-icons/delapouite/circle.svg
 shortcode: portal
 type: mysticalability
 subType: arcaneincantation
 data:
+  icon: sohl-none-icon-circle
   templatePriority: null
 sohl:
   system:

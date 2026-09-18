@@ -11,9 +11,9 @@ name:
     - The Sacred Flame
     - "K'ayik Ch'ul"
 shortcode: kayikchul
-img: null
 packFolder: pantheonitzani
 data:
+  icon: null
   templatePriority: null
   demonym: null
   epithet: The Sacred Flame
@@ -122,7 +122,7 @@ data:
     - itzanpnthn
   relations:
     itzanpnthn: aligned
-banner: banners/faithbnr.webp
+banner: faithbnr
 ---
 
 **Domain:** Fire, Transformation, Purification, Sacrifice

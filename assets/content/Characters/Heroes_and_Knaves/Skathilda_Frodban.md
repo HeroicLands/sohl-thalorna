@@ -15,10 +15,10 @@ name:
     - Skathilda Frodban
 packFolder: ankarisvrystwald
 shortcode: skthldfrdbn
-img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/skthldfrdbn.webp
+  icon: sohl-none-icon-person
+  portrait: skthldfrdbn
   templatePriority: null
   archetypes: []
   occupation: Brigand

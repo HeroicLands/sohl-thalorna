@@ -7,10 +7,10 @@ name:
   aliases: []
 description: "Calls down the sun's heat on a place, with the force it carries at the height of the day."
 shortcode: frfrthhr
-img: icons/takheperu/khemenu-hekau/atenre.svg
 type: mysticalability
 subType: arcaneincantation
 data:
+  icon: atenre
   templatePriority: null
 sohl:
   system:

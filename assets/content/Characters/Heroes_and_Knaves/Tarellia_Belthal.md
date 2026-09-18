@@ -13,10 +13,10 @@ name:
   aliases: []
 packFolder: aureldiaelavendre
 shortcode: tarelblthl
-img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/tarelblthl.webp
+  icon: sohl-none-icon-person
+  portrait: tarelblthl
   templatePriority: null
   archetypes: []
   occupation: Astrologer

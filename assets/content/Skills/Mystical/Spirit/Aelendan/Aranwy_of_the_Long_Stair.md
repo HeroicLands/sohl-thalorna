@@ -6,12 +6,12 @@ description: "Standing with Aranwy of the Long Stair — what this allied Kindre
 type: skill
 subType: mystical
 shortcode: aranwysprt
-img: systems/sohl/assets/icons/game-icons/lorc/psychicwaves.svg
 name:
   full: "Aranwy of the Long Stair Spirit Power"
   aliases:
     - Aranwy of the Long Stair
 data:
+  icon: sohl-none-icon-psychicwaves
   templatePriority: null
 sohl:
   system:

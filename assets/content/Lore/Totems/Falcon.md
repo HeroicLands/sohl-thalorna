@@ -10,9 +10,10 @@ name:
   aliases:
     - Falcon Totem
 shortcode: falconttm
-img: images/mystery/falcon.webp
 packFolder: loretotems
-banner: banners/creaturebnr.webp
+banner: creaturebnr
+data:
+  icon: falcon
 ---
 
 Precise and relentless, falcons are master hunters that dive at incredible speeds to capture prey, showing unparalleled focus and determination.

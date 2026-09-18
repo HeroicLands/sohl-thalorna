@@ -5,11 +5,11 @@ name:
   aliases:
     - Stay
 description: "Freezes target's motion; roots them in place unable to move."
-img: systems/sohl/assets/icons/other/tree.svg
 shortcode: halt
 type: mysticalability
 subType: arcaneincantation
 data:
+  icon: sohl-none-icon-tree
   templatePriority: null
 sohl:
   system:

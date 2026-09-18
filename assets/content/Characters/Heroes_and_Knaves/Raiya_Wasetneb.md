@@ -12,12 +12,12 @@ name:
   aliases:
     - Raiya Wasetneb
 packFolder: northernfertileregiontakheperu
-banner: banners/takheperubnr.webp
+banner: takheperubnr
 shortcode: raiyawstnb
-img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/raiyawstnb.webp
+  icon: sohl-none-icon-person
+  portrait: raiyawstnb
   templatePriority: null
   archetypes: []
   occupation: Nobility (Courtier)

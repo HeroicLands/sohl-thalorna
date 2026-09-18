@@ -6,13 +6,13 @@ name:
   aliases:
     - Acid Elixir
 description: "Crystalline amber acid elixir; corrodes flesh, metal, armor per round."
-img: systems/sohl/assets/icons/other/potion.svg
 shortcode: elxacid
 type: concoctiongear
 subType: elixir
 hmk:
   name: Acid
 data:
+  icon: sohl-none-icon-potion
   templatePriority: null
 sohl:
   system:

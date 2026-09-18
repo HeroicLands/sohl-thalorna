@@ -7,7 +7,7 @@ subType: reference
 shortcode: setlements
 tags:
 description: Cities, towns, villages, and other inhabited places.
-banner: banners/settlementbnr.webp
+banner: settlementbnr
 ---
 
 Cities, towns, villages, and other inhabited places.

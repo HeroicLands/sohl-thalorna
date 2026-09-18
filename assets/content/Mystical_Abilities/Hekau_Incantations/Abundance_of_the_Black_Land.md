@@ -7,10 +7,10 @@ name:
   aliases: []
 description: "Blesses an entire district so that everything sown in it thrives for a full season."
 shortcode: abndncblckl
-img: icons/takheperu/khemenu-hekau/ankhkemet.svg
 type: mysticalability
 subType: arcaneincantation
 data:
+  icon: ankhkemet
   templatePriority: null
 sohl:
   system:

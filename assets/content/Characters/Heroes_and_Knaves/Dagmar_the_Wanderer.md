@@ -15,10 +15,10 @@ name:
     - the Rogue Skald
 packFolder: ankarisnordlands
 shortcode: dagmrwndrr
-img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/dagmrwndrr.webp
+  icon: sohl-none-icon-person
+  portrait: dagmrwndrr
   templatePriority: null
   archetypes: []
   occupation: Skald

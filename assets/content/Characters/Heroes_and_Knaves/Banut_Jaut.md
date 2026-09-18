@@ -12,12 +12,12 @@ name:
   home: meruhotep
   aliases: []
 packFolder: northernfertileregiontakheperu
-banner: banners/takheperubnr.webp
+banner: takheperubnr
 shortcode: banutjaut
-img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/banutjaut.webp
+  icon: sohl-none-icon-person
+  portrait: banutjaut
   templatePriority: null
   archetypes: []
   occupation: Alchemist

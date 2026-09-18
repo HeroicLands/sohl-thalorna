@@ -7,10 +7,10 @@ name:
   full: Young Ice Dragon
   aliases: []
 description: "A young apex ice-wyrm of high peaks and glaciers, methodical and cold rather than aggressive, mastering the frozen air."
-img: systems/sohl/assets/icons/game-icons/faithtoken/dragonheadft.svg
 shortcode: yngicdrg
 type: being
 data:
+  icon: sohl-none-icon-dragonheadft
   portrait: null
   templatePriority: null
   archetypes: []

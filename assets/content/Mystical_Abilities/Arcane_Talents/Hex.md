@@ -3,11 +3,11 @@ tags: []
 name:
   full: Hex
   aliases: []
-img: systems/sohl/assets/icons/noun/psionics.svg
 shortcode: hex
 type: mysticalability
 subType: arcanetalent
 data:
+  icon: sohl-none-icon-psionics
   templatePriority: null
 sohl:
   system:

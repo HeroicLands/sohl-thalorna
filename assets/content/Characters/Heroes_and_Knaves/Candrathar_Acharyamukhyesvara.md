@@ -13,10 +13,10 @@ name:
   aliases: []
 packFolder: ankarisvedyara
 shortcode: cndrthrchrymkhysvr
-img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/cndrthrchrymkhysvr.webp
+  icon: sohl-none-icon-person
+  portrait: cndrthrchrymkhysvr
   templatePriority: null
   archetypes: []
   occupation: Apothecary

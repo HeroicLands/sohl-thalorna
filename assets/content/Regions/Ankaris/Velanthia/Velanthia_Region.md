@@ -7,10 +7,10 @@ name:
   aliases:
     - Velanthia
 shortcode: velanthrgn
-img: null
 type: place
 subType: region
 data:
+  icon: null
   demonym: Velanthian
   lore:
     - humanflk

@@ -6,11 +6,11 @@ name:
   full: Giant Bee
   aliases: []
 description: "A wolf-sized insect and hive worker directed by pheromone signals, defending colossal colonies of hundreds or thousands as one collective intelligence."
-img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 shortcode: giantbee
 type: being
 data:
-  portrait: images/beings/creatures/giantbee.webp
+  icon: sohl-none-icon-person
+  portrait: giantbee
   templatePriority: null
   archetypes: []
   occupation: null

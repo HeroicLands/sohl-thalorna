@@ -6,13 +6,13 @@ name:
   aliases:
     - Footpad Elixir
 description: "Dark nearly-black draft; muffles drinker's presence from detection."
-img: systems/sohl/assets/icons/other/potion.svg
 shortcode: elxftp
 type: concoctiongear
 subType: elixir
 hmk:
   name: Footpad
 data:
+  icon: sohl-none-icon-potion
   templatePriority: null
 sohl:
   system:

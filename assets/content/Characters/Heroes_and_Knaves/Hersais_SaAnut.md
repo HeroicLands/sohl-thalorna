@@ -13,12 +13,12 @@ name:
     - Hersaîs SaAnut
     - Hersais SaAnut
 packFolder: northernfertileregiontakheperu
-banner: banners/takheperubnr.webp
+banner: takheperubnr
 shortcode: hersaisant
-img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/hersaisant.webp
+  icon: sohl-none-icon-person
+  portrait: hersaisant
   templatePriority: null
   archetypes: []
   occupation: Nobility (Tenant-in-chief)

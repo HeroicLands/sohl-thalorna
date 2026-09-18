@@ -6,6 +6,7 @@ tags:
 type: affiliation
 subType: faithtradition
 data:
+  icon: karnavos
   templatePriority: null
   demonym: null
   epithet: The Wild Beast
@@ -65,9 +66,8 @@ name:
   aliases:
     - The Wild Beast
 shortcode: karnavos
-img: images/affiliation/aureldian/karnavos.webp
 packFolder: pantheonsaureldian
-banner: banners/faithbnr.webp
+banner: faithbnr
 ---
 
 God of wildness, unpredictability, and primal energy. Karnavos represents the untamed force of nature and the chaotic change necessary for growth.

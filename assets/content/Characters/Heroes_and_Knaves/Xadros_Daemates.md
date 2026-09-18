@@ -12,10 +12,10 @@ name:
   aliases: []
 packFolder: midhalionvylaria
 shortcode: xadrosdmts
-img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/xadrosdmts.webp
+  icon: sohl-none-icon-person
+  portrait: xadrosdmts
   templatePriority: null
   archetypes: []
   occupation: Woodcrafter

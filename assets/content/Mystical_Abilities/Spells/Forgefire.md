@@ -5,11 +5,11 @@ name:
   aliases:
     - Anvil
 description: "Kindles intense heat; burns with hammering force like forge blast."
-img: systems/sohl/assets/icons/game-icons/badges/anvilbdg.svg
 shortcode: frgfr
 type: mysticalability
 subType: arcaneincantation
 data:
+  icon: sohl-none-icon-anvilbdg
   templatePriority: null
 sohl:
   system:

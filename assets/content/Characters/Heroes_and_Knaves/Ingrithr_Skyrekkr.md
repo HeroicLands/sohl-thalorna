@@ -12,10 +12,10 @@ name:
   aliases: []
 packFolder: ankarisnordlands
 shortcode: ingrthrskyrkr
-img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/ingrthrskyrkr.webp
+  icon: sohl-none-icon-person
+  portrait: ingrthrskyrkr
   templatePriority: null
   archetypes: []
   occupation: Domestic Servant

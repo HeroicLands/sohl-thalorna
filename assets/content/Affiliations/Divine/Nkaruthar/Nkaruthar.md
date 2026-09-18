@@ -119,7 +119,7 @@ data:
   relations:
     njiayaroho: aligned
 packFolder: pantheonsnkaruthar
-banner: banners/faithbnr.webp
+banner: faithbnr
 ---
 
 ## Nkaru'thar: The Eternal Flame

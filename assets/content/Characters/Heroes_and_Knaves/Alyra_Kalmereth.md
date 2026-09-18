@@ -12,10 +12,10 @@ name:
   aliases: []
 packFolder: aureldiaelavendre
 shortcode: alyrklmrth
-img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/alyrklmrth.webp
+  icon: sohl-none-icon-person
+  portrait: alyrklmrth
   templatePriority: null
   archetypes: []
   occupation: Toymaker

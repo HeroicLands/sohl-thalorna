@@ -10,9 +10,10 @@ name:
   aliases:
     - Horse Totem
 shortcode: horsettm
-img: images/mystery/horse.webp
 packFolder: loretotems
-banner: banners/creaturebnr.webp
+banner: creaturebnr
+data:
+  icon: horse
 ---
 
 Undisciplined and irresponsible, horses in the wild are free-spirited animals that roam in herds, often following their instincts over any imposed structure.

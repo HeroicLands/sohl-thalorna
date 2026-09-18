@@ -13,10 +13,10 @@ name:
   aliases: []
 packFolder: sultanateofamradad
 shortcode: rshrnbrmndn
-img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/rshrnbrmndn.webp
+  icon: sohl-none-icon-person
+  portrait: rshrnbrmndn
   templatePriority: null
   archetypes: []
   occupation: Shipwright

@@ -6,6 +6,7 @@ tags:
 type: affiliation
 subType: faithtradition
 data:
+  icon: set
   templatePriority: null
   demonym: null
   epithet: Bringer of Tempests
@@ -67,8 +68,7 @@ name:
   aliases:
     - Sét, Bringer of Tempests
 shortcode: set
-img: icons/takheperu/pantheon/set.svg
-banner: banners/takheperubnr.webp
+banner: takheperubnr
 packFolder: pantheonskemetian
 ---
 

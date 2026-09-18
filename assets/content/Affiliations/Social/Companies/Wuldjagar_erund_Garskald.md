@@ -81,7 +81,7 @@ name:
     - Hunters of the Deep Forest
     - Wild Hunt of the Speakers of the Spear
 shortcode: wldjgrrndgrskld
-banner: banners/companybnr.webp
+banner: companybnr
 ---
 
 **Wuldjagâr erund Gárskald:** _Varokh Deep Forest Hunting Party_ _Varokhi: "The Wild Hunt of the Speakers of the Spear"_

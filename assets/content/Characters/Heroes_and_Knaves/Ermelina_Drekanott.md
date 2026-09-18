@@ -12,10 +12,10 @@ name:
   aliases: []
 packFolder: ankarisnordlands
 shortcode: ermlndrknt
-img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/ermlndrknt.webp
+  icon: sohl-none-icon-person
+  portrait: ermlndrknt
   templatePriority: null
   archetypes: []
   occupation: Innkeeper

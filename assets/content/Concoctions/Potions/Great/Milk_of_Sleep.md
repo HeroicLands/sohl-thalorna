@@ -6,13 +6,13 @@ name:
   aliases:
     - Potion, Narcotic, Great
 description: "Black opaque draft; induces deep unconsciousness and complete rest."
-img: systems/sohl/assets/icons/other/potion.svg
 shortcode: ptnnarg
 type: concoctiongear
 subType: exotic
 hmk:
   name: "Potion, Narcotic, Great"
 data:
+  icon: sohl-none-icon-potion
   templatePriority: null
 sohl:
   system:

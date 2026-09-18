@@ -6,11 +6,11 @@ name:
   full: Giant Scorpion
   aliases: []
 description: "A ten-foot armored arachnid ambusher that waits motionless for prey, combining crushing claws with lethal venom across a multi-mile territory."
-img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 shortcode: gntscrpn
 type: being
 data:
-  portrait: images/beings/creatures/gntscrpn.webp
+  icon: sohl-none-icon-person
+  portrait: gntscrpn
   templatePriority: null
   archetypes: []
   occupation: null

@@ -6,10 +6,10 @@ name:
   full: Ha'nal Xi'lan
   aliases: []
 shortcode: hanalxilan
-img: null
 type: affiliation
 subType: polity
 data:
+  icon: null
   templatePriority: null
   demonym: null
   epithet: null

@@ -5,11 +5,11 @@ name:
   aliases:
     - Dispel
 description: "Cancels existing spell; dispels active magical effects instantly."
-img: systems/sohl/assets/icons/game-icons/delapouite/circle.svg
 shortcode: nullify
 type: mysticalability
 subType: arcaneincantation
 data:
+  icon: sohl-none-icon-circle
   templatePriority: null
 sohl:
   system:

@@ -137,7 +137,7 @@ data:
   relations:
     tanvurempr: aligned
 packFolder: pantheonstengvokvanlei
-banner: banners/faithbnr.webp
+banner: faithbnr
 ---
 
 _The Celestial Court of Ten Thousand Spirits_

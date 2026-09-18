@@ -10,9 +10,10 @@ name:
   aliases:
     - Eagle Totem
 shortcode: eaglettm
-img: images/mystery/eagle.webp
 packFolder: loretotems
-banner: banners/creaturebnr.webp
+banner: creaturebnr
+data:
+  icon: eagle
 ---
 
 Blunt, impatient, and merciless, eagles are apex predators that strike with precision, showing little tolerance for any hindrances in their pursuit of prey.

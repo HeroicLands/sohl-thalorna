@@ -13,7 +13,7 @@ data:
 name:
   full: Wawat
   aliases: []
-banner: banners/takheperubnr.webp
+banner: takheperubnr
 shortcode: wawat
 packFolder: bordernomes
 ---

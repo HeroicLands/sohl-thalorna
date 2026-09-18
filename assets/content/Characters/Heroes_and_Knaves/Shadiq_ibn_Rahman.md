@@ -14,10 +14,10 @@ name:
     - The Diplomatic Blade Dancer
 packFolder: heroesandknaveskalihara
 shortcode: shdqbnrhmndplmtcblddncr
-img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/shdqbnrhmndplmtcblddncr.webp
+  icon: sohl-none-icon-person
+  portrait: shdqbnrhmndplmtcblddncr
   templatePriority: null
   archetypes: []
   occupation: Nobility (Courtier)

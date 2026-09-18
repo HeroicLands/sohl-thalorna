@@ -5,13 +5,13 @@ tags:
 type: skill
 subType: mystical
 shortcode: venusia
-img: images/affiliation/aureldian/venusia.webp
 name:
   full: "Ritual: Venusia"
   aliases:
     - Vénusia
     - The Bountiful One
 data:
+  icon: venusia
   templatePriority: null
 sohl:
   system:

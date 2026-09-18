@@ -5,11 +5,11 @@ name:
   aliases:
     - Fist
 description: "Focuses immense pressure; compresses target or ruins structures utterly."
-img: systems/sohl/assets/icons/game-icons/badges/anvilbdg.svg
 shortcode: crush
 type: mysticalability
 subType: arcaneincantation
 data:
+  icon: sohl-none-icon-anvilbdg
   templatePriority: null
 sohl:
   system:

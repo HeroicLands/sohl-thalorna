@@ -4,6 +4,7 @@ tags:
 type: affiliation
 subType: arcanetradition
 data:
+  icon: pyrethos
   templatePriority: null
   demonym: null
   epithet: null
@@ -87,7 +88,6 @@ data:
     zepharis: aligned
     pneumenos: aligned
 shortcode: pyrethos
-img: images/affiliation/hex-hodai/pyrethos.webp
 name:
   full: Pyréthos
   aliases:

@@ -5,11 +5,11 @@ name:
   aliases:
     - Flash
 description: "Caster radiates blinding white light; sears vision of those nearby."
-img: systems/sohl/assets/icons/other/wind.svg
 shortcode: brllnc
 type: mysticalability
 subType: arcaneincantation
 data:
+  icon: sohl-none-icon-wind
   templatePriority: null
 sohl:
   system:

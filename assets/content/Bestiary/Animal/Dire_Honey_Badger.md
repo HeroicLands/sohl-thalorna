@@ -6,11 +6,11 @@ name:
   full: Dire Honey Badger
   aliases: []
 description: "A four-foot, four-hundred-pound honey badger scaled to lethal size, proportionally stronger, tougher, and even more relentlessly aggressive."
-img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 shortcode: drhnybdg
 type: being
 data:
-  portrait: images/beings/creatures/drhnybdg.webp
+  icon: sohl-none-icon-person
+  portrait: drhnybdg
   templatePriority: null
   archetypes: []
   occupation: null

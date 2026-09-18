@@ -6,10 +6,10 @@ name:
   full: Kalihara Region
   aliases: []
 shortcode: kaliharargn
-img: null
 type: place
 subType: region
 data:
+  icon: null
   demonym: Kaliharan
   lore:
     - humanflk

@@ -5,11 +5,11 @@ name:
   aliases:
     - Sweat
 description: "Draws moisture from surroundings; desiccates enemies, extinguishes flames."
-img: systems/sohl/assets/icons/game-icons/badges/water.svg
 shortcode: mstrpll
 type: mysticalability
 subType: arcaneincantation
 data:
+  icon: sohl-none-icon-water
   templatePriority: null
 sohl:
   system:

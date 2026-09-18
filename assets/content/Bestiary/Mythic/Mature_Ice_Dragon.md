@@ -7,10 +7,10 @@ name:
   full: Mature Ice Dragon
   aliases: []
 description: "A patient apex ice dragon spanning thirty-six feet with fifty-foot wings, an ancient architect of its own legend after centuries of scheming."
-img: systems/sohl/assets/icons/game-icons/faithtoken/dragonheadft.svg
 shortcode: mtricdrg
 type: being
 data:
+  icon: sohl-none-icon-dragonheadft
   portrait: null
   templatePriority: null
   archetypes: []

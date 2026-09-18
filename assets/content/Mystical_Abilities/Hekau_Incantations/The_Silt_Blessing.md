@@ -7,10 +7,10 @@ name:
   aliases: []
 description: "Enriches a worked field so that it bears as though newly flooded."
 shortcode: sltblssng
-img: icons/takheperu/khemenu-hekau/ankhkemet.svg
 type: mysticalability
 subType: arcaneincantation
 data:
+  icon: ankhkemet
   templatePriority: null
 sohl:
   system:

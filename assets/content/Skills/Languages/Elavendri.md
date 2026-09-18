@@ -6,11 +6,11 @@ name:
     - Élavendri
     - Elavendri
 description: "The settled speech of Élavendre, rich in words for magic, wilderness, and the fae — a daughter-tongue of old Áelendi."
-img: systems/sohl/assets/icons/other/speaking.svg
 shortcode: elvndrlng
 type: skill
 subType: language
 data:
+  icon: sohl-none-icon-speaking
   templatePriority: null
 sohl:
   system:

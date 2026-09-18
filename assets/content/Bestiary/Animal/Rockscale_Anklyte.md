@@ -6,11 +6,11 @@ name:
   full: Rockscale Anklyte
   aliases: []
 description: "A quadrupedal herbivore over 800 pounds and twelve feet long, grazing sparse badland vegetation yet defending its ground with overwhelming force."
-img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 shortcode: rcksclan
 type: being
 data:
-  portrait: images/beings/creatures/rcksclan.webp
+  icon: sohl-none-icon-person
+  portrait: rcksclan
   templatePriority: null
   archetypes: []
   occupation: null

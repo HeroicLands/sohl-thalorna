@@ -5,13 +5,13 @@ tags:
 type: skill
 subType: mystical
 shortcode: kinultqan
-img: null
 name:
   full: "Ritual: K'in'ul Tq'an"
   aliases:
     - K'in'ul Tq'an
     - The Sun at the World's Edge
 data:
+  icon: null
   templatePriority: null
 sohl:
   system:

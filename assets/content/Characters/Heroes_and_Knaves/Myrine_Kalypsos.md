@@ -14,10 +14,10 @@ name:
     - The Mendicant Priestess of the Black Flame
 packFolder: midhalionvylaria
 shortcode: myrnklypss
-img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/myrnklypss.webp
+  icon: sohl-none-icon-person
+  portrait: myrnklypss
   templatePriority: null
   archetypes: []
   occupation: Priest

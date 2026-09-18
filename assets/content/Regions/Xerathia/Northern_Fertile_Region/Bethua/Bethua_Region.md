@@ -6,10 +6,10 @@ name:
   full: Bethûa Region
   aliases: []
 shortcode: bethuargn
-img: null
 type: place
 subType: region
 data:
+  icon: null
   demonym: Bethûan
   lore:
     - humanflk

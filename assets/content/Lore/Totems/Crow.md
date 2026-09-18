@@ -10,9 +10,10 @@ name:
   aliases:
     - Crow Totem
 shortcode: crowttm
-img: images/mystery/crow.webp
 packFolder: loretotems
-banner: banners/creaturebnr.webp
+banner: creaturebnr
+data:
+  icon: crow
 ---
 
 Mischievous and vindictive, crows are highly intelligent birds that can hold grudges and are known to play tricks on both animals and humans.

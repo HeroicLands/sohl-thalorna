@@ -6,11 +6,11 @@ name:
   full: Thornback Raptor
   aliases: []
 description: "A five-to-six-foot bipedal reptilian pack hunter that coordinates ambushes with psychological terror through jungles, forests, and ruins."
-img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 shortcode: thrnbckr
 type: being
 data:
-  portrait: images/beings/creatures/thrnbckr.webp
+  icon: sohl-none-icon-person
+  portrait: thrnbckr
   templatePriority: null
   archetypes: []
   occupation: null

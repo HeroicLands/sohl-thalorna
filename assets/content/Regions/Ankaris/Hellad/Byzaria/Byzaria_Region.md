@@ -6,10 +6,10 @@ name:
   full: Byzaría Region
   aliases: []
 shortcode: byzariargn
-img: null
 type: place
 subType: region
 data:
+  icon: null
   demonym: null
   lore: []
   parents:

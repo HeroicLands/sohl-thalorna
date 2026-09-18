@@ -6,11 +6,11 @@ name:
   full: Titan Beetle
   aliases: []
 description: "A massive armored herbivorous beetle several feet long that fiercely defends its territory in dense forests, badlands, and caves."
-img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 shortcode: ttnbtl
 type: being
 data:
-  portrait: images/beings/creatures/ttnbtl.webp
+  icon: sohl-none-icon-person
+  portrait: ttnbtl
   templatePriority: null
   archetypes: []
   occupation: null

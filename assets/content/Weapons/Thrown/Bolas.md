@@ -4,10 +4,10 @@ name:
   full: Bolas
   aliases: []
 description: "Weighted cord-balls entangle and trip; herder's disabled-cavalry tool."
-img: systems/sohl/assets/icons/game-icons/lorc/bolas.svg
 shortcode: bola
 type: weapongear
 data:
+  icon: sohl-none-icon-bolas
   templatePriority: null
 sohl:
   kbcat: thrown

@@ -5,11 +5,11 @@ name:
   aliases:
     - Armour
 description: "Caster's skin hardens like armor; deflects blows and blades."
-img: systems/sohl/assets/icons/game-icons/badges/anvilbdg.svg
 shortcode: pltskn
 type: mysticalability
 subType: arcaneincantation
 data:
+  icon: sohl-none-icon-anvilbdg
   templatePriority: null
 sohl:
   system:

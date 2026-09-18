@@ -13,12 +13,12 @@ name:
     - Renutê Reenfré
     - Renute Reenfre
 packFolder: northernfertileregiontakheperu
-banner: banners/takheperubnr.webp
+banner: takheperubnr
 shortcode: renuternfr
-img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/renuternfr.webp
+  icon: sohl-none-icon-person
+  portrait: renuternfr
   templatePriority: null
   archetypes: []
   occupation: Innkeeper

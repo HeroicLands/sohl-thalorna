@@ -13,10 +13,10 @@ name:
   aliases: []
 packFolder: midhalionvylaria
 shortcode: klstrtsxrchds
-img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/klstrtsxrchds.webp
+  icon: sohl-none-icon-person
+  portrait: klstrtsxrchds
   templatePriority: null
   archetypes: []
   occupation: Mage (Fire)

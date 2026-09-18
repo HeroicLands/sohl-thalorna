@@ -12,10 +12,10 @@ name:
   aliases: []
 packFolder: ankarisnordlands
 shortcode: osknbjrgskrn
-img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/osknbjrgskrn.webp
+  icon: sohl-none-icon-person
+  portrait: osknbjrgskrn
   templatePriority: null
   archetypes: []
   occupation: Clothier

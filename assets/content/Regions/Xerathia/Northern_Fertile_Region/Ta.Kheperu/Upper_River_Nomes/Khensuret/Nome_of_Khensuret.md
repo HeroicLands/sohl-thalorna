@@ -1,7 +1,7 @@
 ---
 description: "The great mortuary nome of the Ta'Kheperu upper river — built around the temple-city of Khensuret and its western-bank necropolis, the heart of the empire's embalming, tomb-building, and funerary trades, and the destination of its largest pilgrimage to the lords of the dead."
 type: affiliation
-banner: banners/takheperubnr.webp
+banner: takheperubnr
 name:
   full: The Nome of Khensuret
   aliases: []

@@ -6,11 +6,11 @@ name:
   full: Boulderback
   aliases: []
 description: "An earth-elemental of animate stone and will that stands as an impassive obstacle in mountains, caves, and magic-rich quarries."
-img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 shortcode: bldrbck
 type: being
 data:
-  portrait: images/beings/creatures/bldrbck.webp
+  icon: sohl-none-icon-person
+  portrait: bldrbck
   templatePriority: null
   archetypes: []
   occupation: null

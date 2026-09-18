@@ -14,7 +14,7 @@ data:
 name:
   full: Behen
   aliases: []
-banner: banners/takheperubnr.webp
+banner: takheperubnr
 shortcode: behen
 packFolder: taresuheka
 ---

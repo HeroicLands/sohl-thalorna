@@ -12,10 +12,10 @@ name:
   aliases: []
 packFolder: ankarisnordlands
 shortcode: rngrvtrdmr
-img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/rngrvtrdmr.webp
+  icon: sohl-none-icon-person
+  portrait: rngrvtrdmr
   templatePriority: null
   archetypes: []
   occupation: Thatcher

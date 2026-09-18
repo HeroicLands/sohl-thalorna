@@ -4,6 +4,7 @@ tags:
 type: affiliation
 subType: arcanetradition
 data:
+  icon: physera
   templatePriority: null
   demonym: null
   epithet: null
@@ -87,7 +88,6 @@ data:
     zepharis: aligned
     hydalis: aligned
 shortcode: physera
-img: images/affiliation/hex-hodai/physera.webp
 name:
   full: Physéra
   aliases:

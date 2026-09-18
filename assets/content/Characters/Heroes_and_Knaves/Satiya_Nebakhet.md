@@ -13,12 +13,12 @@ name:
     - Satîya Nebakhet
     - Satiya Nebakhet
 packFolder: northernfertileregiontakheperu
-banner: banners/takheperubnr.webp
+banner: takheperubnr
 shortcode: satiynbkht
-img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/satiynbkht.webp
+  icon: sohl-none-icon-person
+  portrait: satiynbkht
   templatePriority: null
   archetypes: []
   occupation: Domestic Servant

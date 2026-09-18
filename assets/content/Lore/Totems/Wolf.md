@@ -10,9 +10,10 @@ name:
   aliases:
     - Wolf Totem
 shortcode: wolfttm
-img: images/mystery/wolf.webp
 packFolder: loretotems
-banner: banners/creaturebnr.webp
+banner: creaturebnr
+data:
+  icon: wolf
 ---
 
 Cooperative and strategic, wolves are pack animals that rely on teamwork and careful planning to hunt and protect their territory.

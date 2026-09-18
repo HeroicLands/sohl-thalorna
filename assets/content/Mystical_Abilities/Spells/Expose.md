@@ -5,11 +5,11 @@ name:
   aliases:
     - Reveal
 description: "Reveals hidden things; penetrates concealment and shows true nature."
-img: systems/sohl/assets/icons/game-icons/delapouite/circle.svg
 shortcode: expose
 type: mysticalability
 subType: arcaneincantation
 data:
+  icon: sohl-none-icon-circle
   templatePriority: null
 sohl:
   system:

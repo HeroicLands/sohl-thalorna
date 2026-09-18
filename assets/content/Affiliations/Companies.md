@@ -8,7 +8,7 @@ name:
   aliases: []
 shortcode: companies
 description: Warbands, mercenary companies, hunting bands, and ships' crews of note.
-banner: banners/companybnr.webp
+banner: companybnr
 ---
 
 There are various groups of individuals of note in the world of Thalorna. The following is a short and incomplete list:

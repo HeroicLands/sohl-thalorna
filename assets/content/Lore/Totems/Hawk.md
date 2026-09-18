@@ -10,9 +10,10 @@ name:
   aliases:
     - Hawk Totem
 shortcode: hawkttm
-img: images/mystery/hawk.webp
 packFolder: loretotems
-banner: banners/creaturebnr.webp
+banner: creaturebnr
+data:
+  icon: hawk
 ---
 
 Observant and swift, hawks use their sharp vision to spot prey from great distances and strike with incredible speed and accuracy.

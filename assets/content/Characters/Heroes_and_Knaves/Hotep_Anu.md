@@ -13,12 +13,12 @@ name:
   aliases:
     - The Exiled Priest
 packFolder: northernfertileregiontakheperu
-banner: banners/takheperubnr.webp
+banner: takheperubnr
 shortcode: hotepanu
-img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/hotepanu.webp
+  icon: sohl-none-icon-person
+  portrait: hotepanu
   templatePriority: null
   archetypes: []
   occupation: Priest

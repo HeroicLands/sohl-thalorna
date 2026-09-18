@@ -5,13 +5,13 @@ description: "The drum register of Nyáluban — tonal melody struck rather than
 type: skill
 subType: language
 shortcode: nyalbdrm
-img: systems/sohl/assets/icons/other/speaking.svg
 name:
   full: Nyáluban Drum-Speech
   aliases:
     - Drum-Speech
     - Drum-Speaking
 data:
+  icon: sohl-none-icon-speaking
   templatePriority: null
 sohl:
   system:

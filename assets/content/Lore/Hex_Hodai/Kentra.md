@@ -4,6 +4,7 @@ tags:
 type: affiliation
 subType: arcanetradition
 data:
+  icon: kentra
   templatePriority: null
   demonym: null
   epithet: null
@@ -83,7 +84,6 @@ data:
   lore: []
   parents: []
   relations: {}
-img: images/affiliation/hex-hodai/kentra.webp
 shortcode: kentra
 name:
   full: Kentra

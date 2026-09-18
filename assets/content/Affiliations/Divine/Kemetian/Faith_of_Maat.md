@@ -7,6 +7,7 @@ tags:
 type: affiliation
 subType: faithtradition
 data:
+  icon: maat
   templatePriority: null
   demonym: null
   epithet: Keeper of Truth and Harmony
@@ -79,8 +80,7 @@ name:
     - Má'át
     - Maat
 shortcode: maat
-img: icons/takheperu/pantheon/maat.svg
-banner: banners/takheperubnr.webp
+banner: takheperubnr
 alias: Má'át, Keeper of Truth and Harmony
 packFolder: pantheonskemetian
 ---

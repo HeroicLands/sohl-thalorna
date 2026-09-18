@@ -13,10 +13,10 @@ name:
   aliases: []
 packFolder: helladbyzaria
 shortcode: alyksthtks
-img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/alyksthtks.webp
+  icon: sohl-none-icon-person
+  portrait: alyksthtks
   templatePriority: null
   archetypes: []
   occupation: Timberwright

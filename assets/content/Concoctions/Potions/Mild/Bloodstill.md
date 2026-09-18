@@ -6,13 +6,13 @@ name:
   aliases:
     - Potion, Coagulant, Mild
 description: "Thick rusty-brown paste; coagulates blood preventing wound death."
-img: systems/sohl/assets/icons/other/potion.svg
 shortcode: ptncoagm
 type: concoctiongear
 subType: exotic
 hmk:
   name: "Potion, Coagulant, Mild"
 data:
+  icon: sohl-none-icon-potion
   templatePriority: null
 sohl:
   system:

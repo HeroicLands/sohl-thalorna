@@ -5,11 +5,11 @@ name:
   aliases:
     - Floe
 description: "Freezes paths across water; forms traversable bridge for travel."
-img: systems/sohl/assets/icons/game-icons/badges/water.svg
 shortcode: icbrdg
 type: mysticalability
 subType: arcaneincantation
 data:
+  icon: sohl-none-icon-water
   templatePriority: null
 sohl:
   system:

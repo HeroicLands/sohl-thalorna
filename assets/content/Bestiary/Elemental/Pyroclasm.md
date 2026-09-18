@@ -6,11 +6,11 @@ name:
   full: Pyroclasm
   aliases: []
 description: "A chaotic fire elemental of animate volcanic devastation, born from active volcanoes and consuming everything in its path toward cooler waters."
-img: systems/sohl/assets/icons/game-icons/delapouite/person.svg
 shortcode: pyrclsm
 type: being
 data:
-  portrait: images/beings/creatures/pyrclsm.webp
+  icon: sohl-none-icon-person
+  portrait: pyrclsm
   templatePriority: null
   archetypes: []
   occupation: null

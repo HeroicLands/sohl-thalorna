@@ -10,9 +10,10 @@ name:
   aliases:
     - Parrot Totem
 shortcode: parrotttm
-img: images/mystery/parrot.webp
 packFolder: loretotems
-banner: banners/creaturebnr.webp
+banner: creaturebnr
+data:
+  icon: parrot
 ---
 
 Social and vocal, parrots are intelligent birds that thrive on interaction and are known for their ability to mimic sounds and engage with their environment.
