@@ -10,7 +10,6 @@ shortcode: ttnbtl
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: ttnbtl
   templatePriority: null
   archetypes: []
   occupation: null
@@ -271,7 +270,7 @@ sohl:
         disabled: false
 ---
 
-![Titan Beetle](images/beings/creatures/ttnbtl.webp){float: top-left}
+![[ttnbtl|Titan Beetle]]{float: top-left}
 
 ## Appearance {#appearance}
 

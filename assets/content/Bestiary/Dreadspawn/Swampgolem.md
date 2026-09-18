@@ -10,7 +10,6 @@ shortcode: swmpglm
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: swmpglm
   templatePriority: null
   archetypes: []
   occupation: null
@@ -590,7 +589,7 @@ sohl:
         disabled: false
 ---
 
-![Swampgolem](images/beings/creatures/swmpglm.webp){float: top-left}
+![[swmpglm|Swampgolem]]{float: top-left}
 
 ## Appearance {#appearance}
 

@@ -15,7 +15,6 @@ shortcode: kalidkrkss
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: kalidkrkss
   templatePriority: null
   archetypes: []
   occupation: Potter
@@ -598,7 +597,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Kalída Kourkásios](images/beings/characters/kalidkrkss.webp){float: top-left}
+![[kalidkrkss|Kalída Kourkásios]]{float: top-left}
 
 ## Appearance {#appearance}
 

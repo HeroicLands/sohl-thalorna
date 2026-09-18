@@ -10,7 +10,6 @@ shortcode: sndstlkr
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: sndstlkr
   templatePriority: null
   archetypes: []
   occupation: null
@@ -339,7 +338,7 @@ sohl:
         disabled: false
 ---
 
-![Sand Stalker](images/beings/creatures/sndstlkr.webp){float: top-left}
+![[sndstlkr|Sand Stalker]]{float: top-left}
 
 ## Appearance {#appearance}
 

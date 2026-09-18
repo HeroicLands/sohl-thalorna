@@ -17,7 +17,6 @@ shortcode: hrodrrnthl
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: hrodrrnthl
   templatePriority: null
   archetypes: []
   occupation: Brigand
@@ -553,7 +552,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Hródar Arnthúl](images/beings/characters/hrodrrnthl.webp){float: top-left}
+![[hrodrrnthl|Hródar Arnthúl]]{float: top-left}
 
 ## Appearance {#appearance}
 

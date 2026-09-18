@@ -10,7 +10,6 @@ shortcode: gntarmdl
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: gntarmdl
   templatePriority: null
   archetypes: []
   occupation: null
@@ -331,7 +330,7 @@ sohl:
         disabled: false
 ---
 
-![Giant Armadillo](images/beings/creatures/gntarmdl.webp){float: top-left}
+![[gntarmdl|Giant Armadillo]]{float: top-left}
 
 ## Appearance {#appearance}
 

@@ -16,7 +16,6 @@ shortcode: lysndrschrysnthpls
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: lysndrschrysnthpls
   templatePriority: null
   archetypes: []
   occupation: Timberwright
@@ -594,7 +593,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Lysándros Chrysanthópoulos](images/beings/characters/lysndrschrysnthpls.webp){float: top-left}
+![[lysndrschrysnthpls|Lysándros Chrysanthópoulos]]{float: top-left}
 
 ## Appearance {#appearance}
 

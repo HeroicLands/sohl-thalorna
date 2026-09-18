@@ -11,7 +11,6 @@ shortcode: gntcmlsp
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: gntcmlsp
   templatePriority: null
   archetypes: []
   occupation: null
@@ -253,7 +252,7 @@ sohl:
         disabled: false
 ---
 
-![Giant Camel Spider](images/beings/creatures/gntcmlsp.webp){float: top-left}
+![[gntcmlsp|Giant Camel Spider]]{float: top-left}
 
 ## Appearance {#appearance}
 

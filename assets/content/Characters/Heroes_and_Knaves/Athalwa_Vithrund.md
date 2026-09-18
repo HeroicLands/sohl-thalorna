@@ -15,7 +15,6 @@ shortcode: athlwvthrnd
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: athlwvthrnd
   templatePriority: null
   archetypes: []
   occupation: Chieftain
@@ -593,7 +592,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Athalwa Vithrúnd](images/beings/characters/athlwvthrnd.webp){float: top-left}
+![[athlwvthrnd|Athalwa Vithrúnd]]{float: top-left}
 
 ## Appearance {#appearance}
 

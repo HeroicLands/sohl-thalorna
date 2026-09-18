@@ -10,7 +10,6 @@ shortcode: drwlvrn
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: drwlvrn
   templatePriority: null
   archetypes: []
   occupation: null
@@ -335,7 +334,7 @@ sohl:
         disabled: false
 ---
 
-![Dire Wolverine](images/beings/creatures/drwlvrn.webp){float: top-left}
+![[drwlvrn|Dire Wolverine]]{float: top-left}
 
 ## Appearance {#appearance}
 

@@ -10,7 +10,6 @@ shortcode: lthgnt
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: lthgnt
   templatePriority: null
   archetypes: []
   occupation: null
@@ -621,7 +620,7 @@ sohl:
         disabled: false
 ---
 
-![Lithogiant](images/beings/creatures/lthgnt.webp){float: top-left}
+![[lthgnt|Lithogiant]]{float: top-left}
 
 ## Appearance {#appearance}
 

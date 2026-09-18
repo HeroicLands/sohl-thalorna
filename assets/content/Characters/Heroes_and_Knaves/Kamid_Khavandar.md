@@ -15,7 +15,6 @@ shortcode: kamdkhvndr
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: kamdkhvndr
   templatePriority: null
   archetypes: []
   occupation: Beggar
@@ -562,7 +561,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Kamîd Khâvandar](images/beings/characters/kamdkhvndr.webp){float: top-left}
+![[kamdkhvndr|Kamîd Khâvandar]]{float: top-left}
 
 ## Appearance {#appearance}
 

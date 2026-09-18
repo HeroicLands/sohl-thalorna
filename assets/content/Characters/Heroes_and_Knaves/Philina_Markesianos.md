@@ -15,7 +15,6 @@ shortcode: phlnmrksns
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: phlnmrksns
   templatePriority: null
   archetypes: []
   occupation: Hideworker
@@ -594,7 +593,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Philína Markêsianos](images/beings/characters/phlnmrksns.webp){float: top-left}
+![[phlnmrksns|Philína Markêsianos]]{float: top-left}
 
 ## Appearance {#appearance}
 

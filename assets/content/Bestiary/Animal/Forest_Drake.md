@@ -10,7 +10,6 @@ shortcode: frstdrk
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: frstdrk
   templatePriority: null
   archetypes: []
   occupation: null
@@ -408,7 +407,7 @@ sohl:
         disabled: false
 ---
 
-![Forest Drake](images/beings/creatures/frstdrk.webp){float: top-left}
+![[frstdrk|Forest Drake]]{float: top-left}
 
 ## Appearance {#appearance}
 

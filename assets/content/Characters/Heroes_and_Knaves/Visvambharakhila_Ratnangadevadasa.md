@@ -16,7 +16,6 @@ shortcode: vsvmbhrkhlrtngdvds
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: vsvmbhrkhlrtngdvds
   templatePriority: null
   archetypes: []
   occupation: Chandler
@@ -586,7 +585,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Viśvambhārākhila Ratnāṅgadēvadāsa](images/beings/characters/vsvmbhrkhlrtngdvds.webp){float: top-left}
+![[vsvmbhrkhlrtngdvds|Viśvambhārākhila Ratnāṅgadēvadāsa]]{float: top-left}
 
 ## Appearance {#appearance}
 

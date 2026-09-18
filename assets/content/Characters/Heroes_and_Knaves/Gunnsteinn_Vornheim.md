@@ -15,7 +15,6 @@ shortcode: gnstnvrnhm
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: gnstnvrnhm
   templatePriority: null
   archetypes: []
   occupation: Bodyguard
@@ -576,7 +575,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Gunnsteinn Vörnheim](images/beings/characters/gnstnvrnhm.webp){float: top-left}
+![[gnstnvrnhm|Gunnsteinn Vörnheim]]{float: top-left}
 
 ## Appearance {#appearance}
 

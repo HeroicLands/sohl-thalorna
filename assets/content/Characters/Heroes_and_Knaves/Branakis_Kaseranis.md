@@ -16,7 +16,6 @@ shortcode: brnksksrns
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: brnksksrns
   templatePriority: null
   archetypes: []
   occupation: Charcoaler
@@ -598,7 +597,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Bránakis Kâserânis](images/beings/characters/brnksksrns.webp){float: top-left}
+![[brnksksrns|Bránakis Kâserânis]]{float: top-left}
 
 ## Appearance {#appearance}
 

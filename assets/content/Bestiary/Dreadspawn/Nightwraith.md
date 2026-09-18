@@ -10,7 +10,6 @@ shortcode: nghtwrth
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: nghtwrth
   templatePriority: null
   archetypes: []
   occupation: null
@@ -328,7 +327,7 @@ sohl:
         disabled: false
 ---
 
-![Nightwraith](images/beings/creatures/nghtwrth.webp){float: top-left}
+![[nghtwrth|Nightwraith]]{float: top-left}
 
 ## Appearance {#appearance}
 

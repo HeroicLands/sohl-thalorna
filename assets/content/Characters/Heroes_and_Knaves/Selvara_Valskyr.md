@@ -15,7 +15,6 @@ type: being
 data:
   banner: tamzirbnr
   icon: sohl-none-icon-person
-  portrait: slvrvlskyr
   templatePriority: null
   archetypes: []
   occupation: First Mate
@@ -563,7 +562,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Sélvara Válskyr](images/beings/characters/slvrvlskyr.webp){float: top-left}
+![[slvrvlskyr|Sélvara Válskyr]]{float: top-left}
 
 ## Appearance {#appearance}
 

@@ -18,7 +18,6 @@ type: being
 data:
   banner: takheperubnr
   icon: sohl-none-icon-person
-  portrait: shenurbapt
   templatePriority: null
   archetypes: []
   occupation: Weaponcrafter (Armorer)
@@ -595,7 +594,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Shenur Ba'pata](images/beings/characters/shenurbapt.webp){float: top-left}
+![[shenurbapt|Shenur Ba'pata]]{float: top-left}
 
 **Home:** [[place-ankhsetun|Ankh-Setûn]]
 

@@ -15,7 +15,6 @@ shortcode: mthrnshrdr
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: mthrnshrdr
   templatePriority: null
   archetypes: []
   occupation: Chieftain
@@ -573,7 +572,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Mithran Shiradar](images/beings/characters/mthrnshrdr.webp){float: top-left}
+![[mthrnshrdr|Mithran Shiradar]]{float: top-left}
 
 ## Appearance {#appearance}
 

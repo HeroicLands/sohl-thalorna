@@ -15,7 +15,6 @@ shortcode: daryshshvn
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: daryshshvn
   templatePriority: null
   archetypes: []
   occupation: Woodcrafter
@@ -586,7 +585,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Daryash Shavân](images/beings/characters/daryshshvn.webp){float: top-left}
+![[daryshshvn|Daryash Shavân]]{float: top-left}
 
 ## Appearance {#appearance}
 

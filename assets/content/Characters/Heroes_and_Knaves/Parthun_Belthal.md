@@ -16,7 +16,6 @@ shortcode: prthnblthl
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: prthnblthl
   templatePriority: null
   archetypes: []
   occupation: Bureaucrat
@@ -601,7 +600,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Párthun Bélthal](images/beings/characters/prthnblthl.webp){float: top-left}
+![[prthnblthl|Párthun Bélthal]]{float: top-left}
 
 ## Appearance {#appearance}
 

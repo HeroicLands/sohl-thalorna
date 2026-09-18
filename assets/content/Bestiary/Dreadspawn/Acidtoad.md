@@ -10,7 +10,6 @@ shortcode: acidtoad
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: acidtoad
   templatePriority: null
   archetypes: []
   occupation: null
@@ -325,7 +324,7 @@ sohl:
         disabled: false
 ---
 
-![Acidtoad](images/beings/creatures/acidtoad.webp){float: top-left}
+![[acidtoad|Acidtoad]]{float: top-left}
 
 ## Appearance {#appearance}
 

@@ -16,7 +16,6 @@ shortcode: rshrnbrmndn
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: rshrnbrmndn
   templatePriority: null
   archetypes: []
   occupation: Shipwright
@@ -618,7 +617,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Rosharan Barmandan](images/beings/characters/rshrnbrmndn.webp){float: top-left}
+![[rshrnbrmndn|Rosharan Barmandan]]{float: top-left}
 
 ## Appearance {#appearance}
 

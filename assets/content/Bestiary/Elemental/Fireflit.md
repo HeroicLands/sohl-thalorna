@@ -10,7 +10,6 @@ shortcode: fireflit
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: fireflit
   templatePriority: null
   archetypes: []
   occupation: null
@@ -315,7 +314,7 @@ sohl:
         disabled: false
 ---
 
-![Fireflit](images/beings/creatures/fireflit.webp){float: top-left}
+![[fireflit|Fireflit]]{float: top-left}
 
 ## Appearance {#appearance}
 

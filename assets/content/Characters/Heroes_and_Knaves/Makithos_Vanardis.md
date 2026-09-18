@@ -15,7 +15,6 @@ shortcode: mkthsvnrds
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: mkthsvnrds
   templatePriority: null
   archetypes: []
   occupation: Thespian
@@ -588,7 +587,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Màkîthos Vânardis](images/beings/characters/mkthsvnrds.webp){float: top-left}
+![[mkthsvnrds|Màkîthos Vânardis]]{float: top-left}
 
 ## Appearance {#appearance}
 

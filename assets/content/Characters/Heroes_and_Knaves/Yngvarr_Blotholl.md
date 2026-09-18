@@ -15,7 +15,6 @@ shortcode: yngvrblthl
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: yngvrblthl
   templatePriority: null
   archetypes: []
   occupation: Jester
@@ -585,7 +584,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Yngvarr Blóthöll](images/beings/characters/yngvrblthl.webp){float: top-left}
+![[yngvrblthl|Yngvarr Blóthöll]]{float: top-left}
 
 ## Appearance {#appearance}
 

@@ -10,7 +10,6 @@ shortcode: feraldew
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: feraldew
   templatePriority: null
   archetypes: []
   occupation: null
@@ -383,7 +382,7 @@ sohl:
         disabled: false
 ---
 
-![Feraldew](images/beings/creatures/feraldew.webp){float: top-left}
+![[feraldew|Feraldew]]{float: top-left}
 
 ## Appearance {#appearance}
 

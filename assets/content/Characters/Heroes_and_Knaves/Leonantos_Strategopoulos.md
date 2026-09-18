@@ -17,7 +17,6 @@ shortcode: lnntstrtgpls
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: lnntstrtgpls
   templatePriority: null
   archetypes: []
   occupation: Priest
@@ -602,7 +601,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Leónantos Stratégopoulos](images/beings/characters/lnntstrtgpls.webp){float: top-left}
+![[lnntstrtgpls|Leónantos Stratégopoulos]]{float: top-left}
 
 ## Appearance {#appearance}
 

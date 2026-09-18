@@ -10,7 +10,6 @@ shortcode: lrgspdr
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: lrgspdr
   templatePriority: null
   archetypes: []
   occupation: null
@@ -217,7 +216,7 @@ sohl:
         disabled: false
 ---
 
-![Large Spider](images/beings/creatures/lrgspdr.webp){float: top-left}
+![[lrgspdr|Large Spider]]{float: top-left}
 
 ## Appearance {#appearance}
 

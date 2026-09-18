@@ -16,7 +16,6 @@ shortcode: palvdrvksh
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: palvdrvksh
   templatePriority: null
   archetypes: []
   occupation: Scribe
@@ -598,7 +597,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Pallàvi Drâviksha](images/beings/characters/palvdrvksh.webp){float: top-left}
+![[palvdrvksh|Pallàvi Drâviksha]]{float: top-left}
 
 ## Appearance {#appearance}
 

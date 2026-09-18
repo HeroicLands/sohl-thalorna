@@ -15,7 +15,6 @@ shortcode: damklsmpsn
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: damklsmpsn
   templatePriority: null
   archetypes: []
   occupation: Cartographer/Artist
@@ -603,7 +602,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Damáklios Sampsiôn](images/beings/characters/damklsmpsn.webp){float: top-left}
+![[damklsmpsn|Damáklios Sampsiôn]]{float: top-left}
 
 ## Appearance {#appearance}
 

@@ -16,7 +16,6 @@ shortcode: chlbrhydyn
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: chlbrhydyn
   templatePriority: null
   archetypes: []
   occupation: Hunter / Scout
@@ -567,7 +566,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Chéleb Rhýddýn](images/beings/characters/chlbrhydyn.webp){float: top-left}
+![[chlbrhydyn|Chéleb Rhýddýn]]{float: top-left}
 
 ## Appearance {#appearance}
 

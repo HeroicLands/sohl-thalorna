@@ -10,7 +10,6 @@ shortcode: nmspt
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: nmspt
   templatePriority: null
   archetypes: []
   occupation: null
@@ -286,7 +285,7 @@ sohl:
         disabled: false
 ---
 
-![Nemespite](images/beings/creatures/nmspt.webp){float: top-left}
+![[nmspt|Nemespite]]{float: top-left}
 
 ## Appearance {#appearance}
 

@@ -10,7 +10,6 @@ shortcode: shdwlynx
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: shdwlynx
   templatePriority: null
   archetypes: []
   occupation: null
@@ -335,7 +334,7 @@ sohl:
         disabled: false
 ---
 
-![Shadow Lynx](images/beings/creatures/shdwlynx.webp){float: top-left}
+![[shdwlynx|Shadow Lynx]]{float: top-left}
 
 ## Appearance {#appearance}
 

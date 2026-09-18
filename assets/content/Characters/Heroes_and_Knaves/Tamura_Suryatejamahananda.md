@@ -15,7 +15,6 @@ shortcode: tmrsrytjmhnnd
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: tmrsrytjmhnnd
   templatePriority: null
   archetypes: []
   occupation: Woodcrafter
@@ -596,7 +595,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Tamûra Sūryatejamahānanda](images/beings/characters/tmrsrytjmhnnd.webp){float: top-left}
+![[tmrsrytjmhnnd|Tamûra Sūryatejamahānanda]]{float: top-left}
 
 ## Appearance {#appearance}
 

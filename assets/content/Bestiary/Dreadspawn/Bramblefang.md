@@ -10,7 +10,6 @@ shortcode: brmblfng
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: brmblfng
   templatePriority: null
   archetypes: []
   occupation: null
@@ -346,7 +345,7 @@ sohl:
         disabled: false
 ---
 
-![Bramblefang](images/beings/creatures/brmblfng.webp){float: top-left}
+![[brmblfng|Bramblefang]]{float: top-left}
 
 ## Appearance {#appearance}
 

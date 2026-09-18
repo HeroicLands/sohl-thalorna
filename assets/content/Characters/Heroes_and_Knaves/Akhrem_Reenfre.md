@@ -17,7 +17,6 @@ type: being
 data:
   banner: takheperubnr
   icon: sohl-none-icon-person
-  portrait: akhremrnfr
   templatePriority: null
   archetypes: []
   occupation: Animal Trainer
@@ -600,7 +599,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Akhrem Re'en'fré](images/beings/characters/akhremrnfr.webp){float: top-left}
+![[akhremrnfr|Akhrem Re'en'fré]]{float: top-left}
 
 **Home:** [[place-perankhet|Per-Ankhet]]
 

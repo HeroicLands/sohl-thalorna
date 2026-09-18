@@ -10,7 +10,6 @@ shortcode: rdgdskmm
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: rdgdskmm
   templatePriority: null
   archetypes: []
   occupation: null
@@ -283,7 +282,7 @@ sohl:
         disabled: false
 ---
 
-![Ridged Skimmer](images/beings/creatures/rdgdskmm.webp){float: top-left}
+![[rdgdskmm|Ridged Skimmer]]{float: top-left}
 
 ## Appearance {#appearance}
 

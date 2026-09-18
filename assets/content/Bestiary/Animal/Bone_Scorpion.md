@@ -10,7 +10,6 @@ shortcode: bnscrpn
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: bnscrpn
   templatePriority: null
   archetypes: []
   occupation: null
@@ -253,7 +252,7 @@ sohl:
         disabled: false
 ---
 
-![Bone Scorpion](images/beings/creatures/bnscrpn.webp){float: top-left}
+![[bnscrpn|Bone Scorpion]]{float: top-left}
 
 ## Appearance {#appearance}
 

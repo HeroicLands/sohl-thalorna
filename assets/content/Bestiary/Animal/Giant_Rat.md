@@ -11,7 +11,6 @@ shortcode: giantrat
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: giantrat
   templatePriority: null
   archetypes: []
   occupation: null
@@ -296,7 +295,7 @@ sohl:
         disabled: false
 ---
 
-![Giant Rat](images/beings/creatures/giantrat.webp){float: top-left}
+![[giantrat|Giant Rat]]{float: top-left}
 
 ## Appearance {#appearance}
 

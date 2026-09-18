@@ -17,7 +17,6 @@ type: being
 data:
   banner: takheperubnr
   icon: sohl-none-icon-person
-  portrait: pashrhtrmt
   templatePriority: null
   archetypes: []
   occupation: Musician (Lyre)
@@ -583,7 +582,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Pasher Het'remet](images/beings/characters/pashrhtrmt.webp){float: top-left}
+![[pashrhtrmt|Pasher Het'remet]]{float: top-left}
 
 **Home:** [[place-wasetkara|Wasetkara]]
 

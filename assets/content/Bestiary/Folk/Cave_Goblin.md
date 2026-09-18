@@ -10,7 +10,6 @@ shortcode: cvgbln
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: cvgbln
   templatePriority: null
   archetypes: []
   occupation: null
@@ -338,7 +337,7 @@ sohl:
         disabled: false
 ---
 
-![Cave Goblin](images/beings/creatures/cvgbln.webp){float: top-left}
+![[cvgbln|Cave Goblin]]{float: top-left}
 
 ## Appearance {#appearance}
 

@@ -15,7 +15,6 @@ shortcode: phtnstrtgpls
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: phtnstrtgpls
   templatePriority: null
   archetypes: []
   occupation: Innkeeper
@@ -586,7 +585,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Phótianos Stratégopoulos](images/beings/characters/phtnstrtgpls.webp){float: top-left}
+![[phtnstrtgpls|Phótianos Stratégopoulos]]{float: top-left}
 
 ## Appearance {#appearance}
 

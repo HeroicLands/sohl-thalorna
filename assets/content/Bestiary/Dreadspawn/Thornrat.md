@@ -10,7 +10,6 @@ shortcode: thornrat
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: thornrat
   templatePriority: null
   archetypes: []
   occupation: null
@@ -332,7 +331,7 @@ sohl:
         disabled: false
 ---
 
-![Thornrat](images/beings/creatures/thornrat.webp){float: top-left}
+![[thornrat|Thornrat]]{float: top-left}
 
 ## Appearance {#appearance}
 

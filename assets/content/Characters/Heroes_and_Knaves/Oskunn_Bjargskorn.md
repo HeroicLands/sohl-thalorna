@@ -15,7 +15,6 @@ shortcode: osknbjrgskrn
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: osknbjrgskrn
   templatePriority: null
   archetypes: []
   occupation: Clothier
@@ -586,7 +585,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Óskunn Bjargskorn](images/beings/characters/osknbjrgskrn.webp){float: top-left}
+![[osknbjrgskrn|Óskunn Bjargskorn]]{float: top-left}
 
 ## Appearance {#appearance}
 

@@ -10,7 +10,6 @@ shortcode: erthrvr
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: erthrvr
   templatePriority: null
   archetypes: []
   occupation: null
@@ -247,7 +246,7 @@ sohl:
         disabled: false
 ---
 
-![Earthreaver](images/beings/creatures/erthrvr.webp){float: top-left}
+![[erthrvr|Earthreaver]]{float: top-left}
 
 ## Appearance {#appearance}
 

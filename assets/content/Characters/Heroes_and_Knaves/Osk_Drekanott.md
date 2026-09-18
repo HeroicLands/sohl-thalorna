@@ -15,7 +15,6 @@ shortcode: oskdrekant
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: oskdrekant
   templatePriority: null
   archetypes: []
   occupation: Thatcher
@@ -590,7 +589,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Ósk Drekanótt](images/beings/characters/oskdrekant.webp){float: top-left}
+![[oskdrekant|Ósk Drekanótt]]{float: top-left}
 
 ## Appearance {#appearance}
 

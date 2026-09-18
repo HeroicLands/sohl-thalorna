@@ -16,7 +16,6 @@ shortcode: angldskntkzns
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: angldskntkzns
   templatePriority: null
   archetypes: []
   occupation: Perfumer
@@ -596,7 +595,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Ángelides Kantakouzenós](images/beings/characters/angldskntkzns.webp){float: top-left}
+![[angldskntkzns|Ángelides Kantakouzenós]]{float: top-left}
 
 ## Appearance {#appearance}
 

@@ -15,7 +15,6 @@ shortcode: rnthrprdln
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: rnthrprdln
   templatePriority: null
   archetypes: []
   occupation: Shaman
@@ -593,7 +592,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Ránthor Párdalen](images/beings/characters/rnthrprdln.webp){float: top-left}
+![[rnthrprdln|Ránthor Párdalen]]{float: top-left}
 
 ## Appearance {#appearance}
 

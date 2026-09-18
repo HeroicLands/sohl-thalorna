@@ -18,7 +18,6 @@ type: being
 data:
   banner: takheperubnr
   icon: sohl-none-icon-person
-  portrait: renuternfr
   templatePriority: null
   archetypes: []
   occupation: Innkeeper
@@ -612,7 +611,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Renutê Re'en'fré](images/beings/characters/renuternfr.webp){float: top-left}
+![[renuternfr|Renutê Re'en'fré]]{float: top-left}
 
 **Home:** [[place-wasetkara|Wasetkara]]
 

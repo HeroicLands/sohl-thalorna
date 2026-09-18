@@ -10,7 +10,6 @@ shortcode: kmdbhmth
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: kmdbhmth
   templatePriority: null
   archetypes: []
   occupation: null
@@ -335,7 +334,7 @@ sohl:
         disabled: false
 ---
 
-![Komodo Behemoth](images/beings/creatures/kmdbhmth.webp){float: top-left}
+![[kmdbhmth|Komodo Behemoth]]{float: top-left}
 
 ## Appearance {#appearance}
 

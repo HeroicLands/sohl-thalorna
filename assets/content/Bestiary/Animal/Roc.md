@@ -10,7 +10,6 @@ shortcode: roc
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: roc
   templatePriority: null
   archetypes: []
   occupation: null
@@ -371,7 +370,7 @@ sohl:
         disabled: false
 ---
 
-![Roc](images/beings/creatures/roc.webp){float: top-left}
+![[roc|Roc]]{float: top-left}
 
 ## Appearance {#appearance}
 

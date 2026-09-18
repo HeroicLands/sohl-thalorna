@@ -10,7 +10,6 @@ shortcode: lmnphg
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: lmnphg
   templatePriority: null
   archetypes: []
   occupation: null
@@ -217,7 +216,7 @@ sohl:
         disabled: false
 ---
 
-![Luminophage](images/beings/creatures/lmnphg.webp){float: top-left}
+![[lmnphg|Luminophage]]{float: top-left}
 
 ## Appearance {#appearance}
 

@@ -16,7 +16,6 @@ shortcode: skfrnstrmrt
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: skfrnstrmrt
   templatePriority: null
   archetypes: []
   occupation: Tentmaker
@@ -596,7 +595,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Skúfrún Stormrót](images/beings/characters/skfrnstrmrt.webp){float: top-left}
+![[skfrnstrmrt|Skúfrún Stormrót]]{float: top-left}
 
 ## Appearance {#appearance}
 

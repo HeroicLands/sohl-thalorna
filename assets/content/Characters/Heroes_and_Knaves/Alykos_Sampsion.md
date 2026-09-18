@@ -16,7 +16,6 @@ shortcode: alykosmpsn
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: alykosmpsn
   templatePriority: null
   archetypes: []
   occupation: Physician
@@ -595,7 +594,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Alýkos Sampsiôn](images/beings/characters/alykosmpsn.webp){float: top-left}
+![[alykosmpsn|Alýkos Sampsiôn]]{float: top-left}
 
 ## Appearance {#appearance}
 

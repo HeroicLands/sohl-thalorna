@@ -16,7 +16,6 @@ shortcode: gnvrhfrngr
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: gnvrhfrngr
   templatePriority: null
   archetypes: []
   occupation: Teamster
@@ -593,7 +592,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Gunnvör Hafringr](images/beings/characters/gnvrhfrngr.webp){float: top-left}
+![[gnvrhfrngr|Gunnvör Hafringr]]{float: top-left}
 
 ## Appearance {#appearance}
 

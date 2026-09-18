@@ -18,7 +18,6 @@ shortcode: skthldfrdbn
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: skthldfrdbn
   templatePriority: null
   archetypes: []
   occupation: Brigand
@@ -556,7 +555,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Skathilda Fródbán](images/beings/characters/skthldfrdbn.webp){float: top-left}
+![[skthldfrdbn|Skathilda Fródbán]]{float: top-left}
 
 ## Appearance {#appearance}
 

@@ -10,7 +10,6 @@ shortcode: agrnsntn
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: agrnsntn
   templatePriority: null
   archetypes: []
   occupation: null
@@ -64,7 +63,7 @@ sohl:
         disabled: false
 ---
 
-![Aegiron Sentinel](images/beings/creatures/agrnsntn.webp){float: top-left}
+![[agrnsntn|Aegiron Sentinel]]{float: top-left}
 
 ## Appearance {#appearance}
 

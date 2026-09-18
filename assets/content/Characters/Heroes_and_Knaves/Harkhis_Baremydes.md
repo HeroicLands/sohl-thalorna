@@ -16,7 +16,6 @@ shortcode: hrkhsbrmyds
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: hrkhsbrmyds
   templatePriority: null
   archetypes: []
   occupation: Apothecary
@@ -604,7 +603,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Harkhîs Bàremydês](images/beings/characters/hrkhsbrmyds.webp){float: top-left}
+![[hrkhsbrmyds|Harkhîs Bàremydês]]{float: top-left}
 
 ## Appearance {#appearance}
 

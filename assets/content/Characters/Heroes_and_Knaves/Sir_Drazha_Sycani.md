@@ -18,7 +18,6 @@ shortcode: srdrzhsycnknghtblckflm
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: srdrzhsycnknghtblckflm
   templatePriority: null
   archetypes: []
   occupation: Nobility (Knight Bachelor)
@@ -589,7 +588,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Sir Drazha Sycâni, Knight of the Black Flame](images/beings/characters/srdrzhsycnknghtblckflm.webp){float: top-left}
+![[srdrzhsycnknghtblckflm|Sir Drazha Sycâni, Knight of the Black Flame]]{float: top-left}
 
 ## Appearance {#appearance}
 

@@ -10,7 +10,6 @@ shortcode: grukaruk
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: grukaruk
   templatePriority: null
   archetypes: []
   occupation: null
@@ -344,7 +343,7 @@ sohl:
         disabled: false
 ---
 
-![Grukar-Uk](images/beings/creatures/grukaruk.webp){float: top-left}
+![[grukaruk|Grukar-Uk]]{float: top-left}
 
 ## Appearance {#appearance}
 

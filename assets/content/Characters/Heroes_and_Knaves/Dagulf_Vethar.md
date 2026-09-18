@@ -17,7 +17,6 @@ shortcode: dagulfvthr
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: dagulfvthr
   templatePriority: null
   archetypes: []
   occupation: Brigand
@@ -559,7 +558,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Dágulf Véthar](images/beings/characters/dagulfvthr.webp){float: top-left}
+![[dagulfvthr|Dágulf Véthar]]{float: top-left}
 
 ## Appearance {#appearance}
 

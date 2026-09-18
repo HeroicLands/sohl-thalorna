@@ -16,7 +16,6 @@ shortcode: fakhrdtmrn
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: fakhrdtmrn
   templatePriority: null
   archetypes: []
   occupation: Astrologer
@@ -606,7 +605,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Fakhrad Tamârân](images/beings/characters/fakhrdtmrn.webp){float: top-left}
+![[fakhrdtmrn|Fakhrad Tamârân]]{float: top-left}
 
 ## Appearance {#appearance}
 

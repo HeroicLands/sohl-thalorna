@@ -17,7 +17,6 @@ shortcode: myrnklypss
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: myrnklypss
   templatePriority: null
   archetypes: []
   occupation: Priest
@@ -600,7 +599,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Myrine Kalypsos](images/beings/characters/myrnklypss.webp){float: top-left}
+![[myrnklypss|Myrine Kalypsos]]{float: top-left}
 
 ## Appearance {#appearance}
 

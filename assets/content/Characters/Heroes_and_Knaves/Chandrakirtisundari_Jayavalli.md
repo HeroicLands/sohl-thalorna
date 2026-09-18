@@ -15,7 +15,6 @@ shortcode: chndrkrtsndrjyvl
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: chndrkrtsndrjyvl
   templatePriority: null
   archetypes: []
   occupation: Prostitute
@@ -591,7 +590,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Chandrakīrtisundarī Jayavalli](images/beings/characters/chndrkrtsndrjyvl.webp){float: top-left}
+![[chndrkrtsndrjyvl|Chandrakīrtisundarī Jayavalli]]{float: top-left}
 
 ## Appearance {#appearance}
 

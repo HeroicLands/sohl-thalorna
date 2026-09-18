@@ -16,7 +16,6 @@ shortcode: phlndrskyrks
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: phlndrskyrks
   templatePriority: null
   archetypes: []
   occupation: Herald
@@ -603,7 +602,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Philándros Kyriákos](images/beings/characters/phlndrskyrks.webp){float: top-left}
+![[phlndrskyrks|Philándros Kyriákos]]{float: top-left}
 
 ## Appearance {#appearance}
 

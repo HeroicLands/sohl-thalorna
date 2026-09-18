@@ -11,7 +11,6 @@ shortcode: wyvern
 type: being
 data:
   icon: sohl-none-icon-wyvern
-  portrait: null
   templatePriority: null
   archetypes: []
   occupation: null

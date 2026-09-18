@@ -15,7 +15,6 @@ shortcode: thrstnjrnskl
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: thrstnjrnskl
   templatePriority: null
   archetypes: []
   occupation: Herder
@@ -582,7 +581,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Thorsteinn Járnskel](images/beings/characters/thrstnjrnskl.webp){float: top-left}
+![[thrstnjrnskl|Thorsteinn Járnskel]]{float: top-left}
 
 ## Appearance {#appearance}
 

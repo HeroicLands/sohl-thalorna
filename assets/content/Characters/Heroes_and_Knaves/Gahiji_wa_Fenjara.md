@@ -17,7 +17,6 @@ shortcode: gahijwfnjr
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: gahijwfnjr
   templatePriority: null
   archetypes: []
   occupation: Hunter
@@ -595,7 +594,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Gahiji wa Fénjara](images/beings/characters/gahijwfnjr.webp){float: top-left}
+![[gahijwfnjr|Gahiji wa Fénjara]]{float: top-left}
 
 ## Appearance {#appearance}
 

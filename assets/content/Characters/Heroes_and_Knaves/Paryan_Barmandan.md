@@ -16,7 +16,6 @@ shortcode: prynbrmndn
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: prynbrmndn
   templatePriority: null
   archetypes: []
   occupation: Jeweller
@@ -595,7 +594,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Paryan Barmandan](images/beings/characters/prynbrmndn.webp){float: top-left}
+![[prynbrmndn|Paryan Barmandan]]{float: top-left}
 
 ## Appearance {#appearance}
 

@@ -15,7 +15,6 @@ type: being
 data:
   banner: tamzirbnr
   icon: sohl-none-icon-person
-  portrait: isarakhldr
   templatePriority: null
   archetypes: []
   occupation: Courtesan
@@ -558,7 +557,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Isâra Khalîdra](images/beings/characters/isarakhldr.webp){float: top-left}
+![[isarakhldr|Isâra Khalîdra]]{float: top-left}
 
 ## Appearance {#appearance}
 

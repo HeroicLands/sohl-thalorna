@@ -10,7 +10,6 @@ shortcode: scrchbt
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: scrchbt
   templatePriority: null
   archetypes: []
   occupation: null
@@ -322,7 +321,7 @@ sohl:
         disabled: false
 ---
 
-![Screechbat](images/beings/creatures/scrchbt.webp){float: top-left}
+![[scrchbt|Screechbat]]{float: top-left}
 
 ## Appearance {#appearance}
 

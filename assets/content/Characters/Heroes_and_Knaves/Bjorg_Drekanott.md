@@ -15,7 +15,6 @@ shortcode: bjorgdrknt
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: bjorgdrknt
   templatePriority: null
   archetypes: []
   occupation: Beggar
@@ -589,7 +588,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Björg Drekanótt](images/beings/characters/bjorgdrknt.webp){float: top-left}
+![[bjorgdrknt|Björg Drekanótt]]{float: top-left}
 
 ## Appearance {#appearance}
 

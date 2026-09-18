@@ -15,7 +15,6 @@ shortcode: dekvetrdmr
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: dekvetrdmr
   templatePriority: null
   archetypes: []
   occupation: Thatcher
@@ -587,7 +586,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Dek Vetrdómr](images/beings/characters/dekvetrdmr.webp){float: top-left}
+![[dekvetrdmr|Dek Vetrdómr]]{float: top-left}
 
 ## Appearance {#appearance}
 

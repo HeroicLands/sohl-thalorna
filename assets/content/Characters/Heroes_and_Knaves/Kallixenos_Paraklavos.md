@@ -16,7 +16,6 @@ shortcode: klxnsprklvs
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: klxnsprklvs
   templatePriority: null
   archetypes: []
   occupation: Litigant
@@ -584,7 +583,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Kallíxenos Paraklávos](images/beings/characters/klxnsprklvs.webp){float: top-left}
+![[klxnsprklvs|Kallíxenos Paraklávos]]{float: top-left}
 
 ## Appearance {#appearance}
 

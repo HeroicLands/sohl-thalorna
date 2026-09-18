@@ -10,7 +10,6 @@ shortcode: embermaw
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: embermaw
   templatePriority: null
   archetypes: []
   occupation: null
@@ -392,7 +391,7 @@ sohl:
         disabled: false
 ---
 
-![Embermaw](images/beings/creatures/embermaw.webp){float: top-left}
+![[embermaw|Embermaw]]{float: top-left}
 
 ## Appearance {#appearance}
 

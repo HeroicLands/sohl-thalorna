@@ -18,7 +18,6 @@ type: being
 data:
   banner: takheperubnr
   icon: sohl-none-icon-person
-  portrait: skhmtkskhn
   templatePriority: null
   archetypes: []
   occupation: Pilot
@@ -633,7 +632,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Sekhemet Ka'sekhen](images/beings/characters/skhmtkskhn.webp){float: top-left}
+![[skhmtkskhn|Sekhemet Ka'sekhen]]{float: top-left}
 
 **Home:** [[place-khensuret|Khensuret]]
 

@@ -10,7 +10,6 @@ shortcode: giantowl
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: giantowl
   templatePriority: null
   archetypes: []
   occupation: null
@@ -335,7 +334,7 @@ sohl:
         disabled: false
 ---
 
-![Giant Owl](images/beings/creatures/giantowl.webp){float: top-left}
+![[giantowl|Giant Owl]]{float: top-left}
 
 ## Appearance {#appearance}
 

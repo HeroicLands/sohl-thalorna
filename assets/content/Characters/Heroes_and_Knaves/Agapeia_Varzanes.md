@@ -15,7 +15,6 @@ shortcode: agapevrzns
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: agapevrzns
   templatePriority: null
   archetypes: []
   occupation: Miner
@@ -588,7 +587,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Agápeia Varzánês](images/beings/characters/agapevrzns.webp){float: top-left}
+![[agapevrzns|Agápeia Varzánês]]{float: top-left}
 
 ## Appearance {#appearance}
 

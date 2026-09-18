@@ -10,7 +10,6 @@ shortcode: thndrhrn
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: thndrhrn
   templatePriority: null
   archetypes: []
   occupation: null
@@ -375,7 +374,7 @@ sohl:
         disabled: false
 ---
 
-![Thunderhorn](images/beings/creatures/thndrhrn.webp){float: top-left}
+![[thndrhrn|Thunderhorn]]{float: top-left}
 
 ## Appearance {#appearance}
 

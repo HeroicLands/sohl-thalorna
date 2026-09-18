@@ -15,7 +15,6 @@ shortcode: klnkszygmls
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: klnkszygmls
   templatePriority: null
   archetypes: []
   occupation: Cartographer/Artist
@@ -601,7 +600,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Kallínikos Zygomálas](images/beings/characters/klnkszygmls.webp){float: top-left}
+![[klnkszygmls|Kallínikos Zygomálas]]{float: top-left}
 
 ## Appearance {#appearance}
 

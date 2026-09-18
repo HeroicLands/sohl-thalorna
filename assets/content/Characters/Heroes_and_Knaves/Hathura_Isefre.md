@@ -17,7 +17,6 @@ type: being
 data:
   banner: takheperubnr
   icon: sohl-none-icon-person
-  portrait: hathurasfr
   templatePriority: null
   archetypes: []
   occupation: Priest
@@ -619,7 +618,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Hathura Ise'fré](images/beings/characters/hathurasfr.webp){float: top-left}
+![[hathurasfr|Hathura Ise'fré]]{float: top-left}
 
 **Home:** [[place-meruhotep|Meru-Hotep]]
 

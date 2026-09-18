@@ -10,7 +10,6 @@ shortcode: qllbr
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: qllbr
   templatePriority: null
   archetypes: []
   occupation: null
@@ -370,7 +369,7 @@ sohl:
         disabled: false
 ---
 
-![Quillbear](images/beings/creatures/qllbr.webp){float: top-left}
+![[qllbr|Quillbear]]{float: top-left}
 
 ## Appearance {#appearance}
 

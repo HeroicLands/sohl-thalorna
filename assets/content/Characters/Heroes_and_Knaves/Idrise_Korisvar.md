@@ -15,7 +15,6 @@ shortcode: idriskrsvr
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: idriskrsvr
   templatePriority: null
   archetypes: []
   occupation: Bodyguard
@@ -579,7 +578,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Ídrisè Kórisvar](images/beings/characters/idriskrsvr.webp){float: top-left}
+![[idriskrsvr|Ídrisè Kórisvar]]{float: top-left}
 
 ## Appearance {#appearance}
 

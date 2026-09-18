@@ -16,7 +16,6 @@ shortcode: cndrthrchrymkhysvr
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: cndrthrchrymkhysvr
   templatePriority: null
   archetypes: []
   occupation: Apothecary
@@ -588,7 +587,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Càndrathar Āchāryamukhyēśvara](images/beings/characters/cndrthrchrymkhysvr.webp){float: top-left}
+![[cndrthrchrymkhysvr|Càndrathar Āchāryamukhyēśvara]]{float: top-left}
 
 ## Appearance {#appearance}
 

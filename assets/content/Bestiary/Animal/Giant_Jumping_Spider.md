@@ -10,7 +10,6 @@ shortcode: gntjmpng
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: gntjmpng
   templatePriority: null
   archetypes: []
   occupation: null
@@ -253,7 +252,7 @@ sohl:
         disabled: false
 ---
 
-![Giant Jumping Spider](images/beings/creatures/gntjmpng.webp){float: top-left}
+![[gntjmpng|Giant Jumping Spider]]{float: top-left}
 
 ## Appearance {#appearance}
 

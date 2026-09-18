@@ -10,7 +10,6 @@ shortcode: smmtdrk
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: smmtdrk
   templatePriority: null
   archetypes: []
   occupation: null
@@ -420,7 +419,7 @@ sohl:
         disabled: false
 ---
 
-![Summitdrake](images/beings/creatures/smmtdrk.webp){float: top-left}
+![[smmtdrk|Summitdrake]]{float: top-left}
 
 ## Appearance {#appearance}
 

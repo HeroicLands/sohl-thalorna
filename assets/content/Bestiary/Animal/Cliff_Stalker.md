@@ -10,7 +10,6 @@ shortcode: clffstlk
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: clffstlk
   templatePriority: null
   archetypes: []
   occupation: null
@@ -339,7 +338,7 @@ sohl:
         disabled: false
 ---
 
-![Cliff Stalker](images/beings/creatures/clffstlk.webp){float: top-left}
+![[clffstlk|Cliff Stalker]]{float: top-left}
 
 ## Appearance {#appearance}
 

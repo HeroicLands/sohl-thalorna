@@ -10,7 +10,6 @@ shortcode: ironjaw
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: ironjaw
   templatePriority: null
   archetypes: []
   occupation: null
@@ -371,7 +370,7 @@ sohl:
         disabled: false
 ---
 
-![Ironjaw](images/beings/creatures/ironjaw.webp){float: top-left}
+![[ironjaw|Ironjaw]]{float: top-left}
 
 ## Appearance {#appearance}
 

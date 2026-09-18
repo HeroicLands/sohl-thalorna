@@ -10,7 +10,6 @@ shortcode: gntscrpn
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: gntscrpn
   templatePriority: null
   archetypes: []
   occupation: null
@@ -253,7 +252,7 @@ sohl:
         disabled: false
 ---
 
-![Giant Scorpion](images/beings/creatures/gntscrpn.webp){float: top-left}
+![[gntscrpn|Giant Scorpion]]{float: top-left}
 
 ## Appearance {#appearance}
 

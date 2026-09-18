@@ -17,7 +17,6 @@ type: being
 data:
   banner: takheperubnr
   icon: sohl-none-icon-person
-  portrait: shebsthtms
   templatePriority: null
   archetypes: []
   occupation: Apothecary
@@ -599,7 +598,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Shebas Thutmosa](images/beings/characters/shebsthtms.webp){float: top-left}
+![[shebsthtms|Shebas Thutmosa]]{float: top-left}
 
 **Home:** [[place-ankhsetun|Ankh-Setûn]]
 

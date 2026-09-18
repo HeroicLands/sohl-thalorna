@@ -15,7 +15,6 @@ shortcode: nrvsrytjmhnnd
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: nrvsrytjmhnnd
   templatePriority: null
   archetypes: []
   occupation: Glassworker
@@ -598,7 +597,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Nárava Sūryatejamahānanda](images/beings/characters/nrvsrytjmhnnd.webp){float: top-left}
+![[nrvsrytjmhnnd|Nárava Sūryatejamahānanda]]{float: top-left}
 
 ## Appearance {#appearance}
 

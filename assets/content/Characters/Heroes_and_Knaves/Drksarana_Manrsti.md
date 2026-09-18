@@ -15,7 +15,6 @@ shortcode: drkaranamn
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: drkaranamn
   templatePriority: null
   archetypes: []
   occupation: Domestic Servant
@@ -598,7 +597,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Drkṣàrana Manṛṣṭi](images/beings/characters/drkaranamn.webp){float: top-left}
+![[drkaranamn|Drkṣàrana Manṛṣṭi]]{float: top-left}
 
 ## Appearance {#appearance}
 

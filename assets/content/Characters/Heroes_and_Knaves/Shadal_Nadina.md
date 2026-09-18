@@ -16,7 +16,6 @@ shortcode: shadalnadn
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: shadalnadn
   templatePriority: null
   archetypes: []
   occupation: Scribe
@@ -608,7 +607,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Shadal Nadina](images/beings/characters/shadalnadn.webp){float: top-left}
+![[shadalnadn|Shadal Nadina]]{float: top-left}
 
 ## Appearance {#appearance}
 

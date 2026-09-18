@@ -15,7 +15,6 @@ shortcode: suvrtkrtns
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: suvrtkrtns
   templatePriority: null
   archetypes: []
   occupation: Toymaker
@@ -595,7 +594,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Suvaratika Ratniseṇa](images/beings/characters/suvrtkrtns.webp){float: top-left}
+![[suvrtkrtns|Suvaratika Ratniseṇa]]{float: top-left}
 
 ## Appearance {#appearance}
 

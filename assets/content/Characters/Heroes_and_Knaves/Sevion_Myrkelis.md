@@ -17,7 +17,6 @@ shortcode: sevnmyrkls
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: sevnmyrkls
   templatePriority: null
   archetypes: []
   occupation: Alchemist
@@ -617,7 +616,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Sevion Myrkelis](images/beings/characters/sevnmyrkls.webp){float: top-left}
+![[sevnmyrkls|Sevion Myrkelis]]{float: top-left}
 
 ## Appearance {#appearance}
 

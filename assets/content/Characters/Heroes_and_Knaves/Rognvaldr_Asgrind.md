@@ -15,7 +15,6 @@ shortcode: rgnvldrsgrnd
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: rgnvldrsgrnd
   templatePriority: null
   archetypes: []
   occupation: Jester
@@ -621,7 +620,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Rögnvaldr Ásgrind](images/beings/characters/rgnvldrsgrnd.webp){float: top-left}
+![[rgnvldrsgrnd|Rögnvaldr Ásgrind]]{float: top-left}
 
 ## Appearance {#appearance}
 

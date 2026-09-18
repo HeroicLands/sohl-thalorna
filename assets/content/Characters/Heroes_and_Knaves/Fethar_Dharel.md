@@ -16,7 +16,6 @@ type: being
 data:
   banner: tamzirbnr
   icon: sohl-none-icon-person
-  portrait: fethardhrl
   templatePriority: null
   archetypes: []
   occupation: Pilot
@@ -559,7 +558,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Féthar Dhárel](images/beings/characters/fethardhrl.webp){float: top-left}
+![[fethardhrl|Féthar Dhárel]]{float: top-left}
 
 ## Appearance {#appearance}
 

@@ -10,7 +10,6 @@ shortcode: tskcrshr
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: tskcrshr
   templatePriority: null
   archetypes: []
   occupation: null
@@ -346,7 +345,7 @@ sohl:
         disabled: false
 ---
 
-![Tuskcrasher](images/beings/creatures/tskcrshr.webp){float: top-left}
+![[tskcrshr|Tuskcrasher]]{float: top-left}
 
 ## Appearance {#appearance}
 

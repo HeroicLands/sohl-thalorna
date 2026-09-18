@@ -17,7 +17,6 @@ shortcode: trvldgrnshld
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: null
   templatePriority: null
   archetypes: []
   occupation: Farmer and Protector

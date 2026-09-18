@@ -16,7 +16,6 @@ shortcode: qamiralamr
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: qamiralamr
   templatePriority: null
   archetypes: []
   occupation: Astrologer
@@ -604,7 +603,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Qâmira Lamari](images/beings/characters/qamiralamr.webp){float: top-left}
+![[qamiralamr|Qâmira Lamari]]{float: top-left}
 
 ## Appearance {#appearance}
 

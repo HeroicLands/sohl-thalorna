@@ -18,7 +18,6 @@ type: being
 data:
   banner: takheperubnr
   icon: sohl-none-icon-person
-  portrait: parirnkhns
   templatePriority: null
   archetypes: []
   occupation: Scholar
@@ -597,7 +596,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Par'ri Re'en'Khensu](images/beings/characters/parirnkhns.webp){float: top-left}
+![[parirnkhns|Par'ri Re'en'Khensu]]{float: top-left}
 
 **Home:** [[place-wasetkara|Wasetkara]]
 

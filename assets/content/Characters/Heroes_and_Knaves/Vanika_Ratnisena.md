@@ -15,7 +15,6 @@ shortcode: vanikartns
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: vanikartns
   templatePriority: null
   archetypes: []
   occupation: Cook
@@ -587,7 +586,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Vànika Ratniseṇa](images/beings/characters/vanikartns.webp){float: top-left}
+![[vanikartns|Vànika Ratniseṇa]]{float: top-left}
 
 ## Appearance {#appearance}
 

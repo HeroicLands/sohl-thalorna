@@ -16,7 +16,6 @@ shortcode: helnmystks
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: helnmystks
   templatePriority: null
   archetypes: []
   occupation: Priest
@@ -599,7 +598,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Hélénaia Mystákês](images/beings/characters/helnmystks.webp){float: top-left}
+![[helnmystks|Hélénaia Mystákês]]{float: top-left}
 
 ## Appearance {#appearance}
 

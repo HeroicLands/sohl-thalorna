@@ -15,7 +15,6 @@ shortcode: rngrvtrdmr
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: rngrvtrdmr
   templatePriority: null
   archetypes: []
   occupation: Thatcher
@@ -604,7 +603,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Rängr Vetrdómr](images/beings/characters/rngrvtrdmr.webp){float: top-left}
+![[rngrvtrdmr|Rängr Vetrdómr]]{float: top-left}
 
 ## Appearance {#appearance}
 

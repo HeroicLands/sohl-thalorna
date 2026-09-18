@@ -16,7 +16,6 @@ shortcode: afzndhprnzr
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: afzndhprnzr
   templatePriority: null
   archetypes: []
   occupation: Weaponcrafter (Armorer)
@@ -586,7 +585,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Afzandah Parnâzar](images/beings/characters/afzndhprnzr.webp){float: top-left}
+![[afzndhprnzr|Afzandah Parnâzar]]{float: top-left}
 
 ## Appearance {#appearance}
 

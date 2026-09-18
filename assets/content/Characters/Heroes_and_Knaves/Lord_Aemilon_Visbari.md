@@ -20,7 +20,6 @@ shortcode: lrdmlnvsbr
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: lrdmlnvsbr
   templatePriority: null
   archetypes: []
   occupation: Herald
@@ -583,7 +582,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Lord Aemilon Visbari](images/beings/characters/lrdmlnvsbr.webp){float: top-left}
+![[lrdmlnvsbr|Lord Aemilon Visbari]]{float: top-left}
 
 ## Appearance {#appearance}
 

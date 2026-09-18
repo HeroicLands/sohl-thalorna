@@ -10,7 +10,6 @@ shortcode: stnbst
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: stnbst
   templatePriority: null
   archetypes: []
   occupation: null
@@ -375,7 +374,7 @@ sohl:
         disabled: false
 ---
 
-![Stonebeast](images/beings/creatures/stnbst.webp){float: top-left}
+![[stnbst|Stonebeast]]{float: top-left}
 
 ## Appearance {#appearance}
 

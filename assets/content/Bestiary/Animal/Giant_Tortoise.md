@@ -10,7 +10,6 @@ shortcode: gnttrts
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: gnttrts
   templatePriority: null
   archetypes: []
   occupation: null
@@ -320,7 +319,7 @@ sohl:
         disabled: false
 ---
 
-![Giant Tortoise](images/beings/creatures/gnttrts.webp){float: top-left}
+![[gnttrts|Giant Tortoise]]{float: top-left}
 
 ## Appearance {#appearance}
 

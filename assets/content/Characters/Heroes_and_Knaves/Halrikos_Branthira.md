@@ -16,7 +16,6 @@ shortcode: hlrksbrnthr
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: hlrksbrnthr
   templatePriority: null
   archetypes: []
   occupation: Bureaucrat
@@ -601,7 +600,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Hálrikos Bránthira](images/beings/characters/hlrksbrnthr.webp){float: top-left}
+![[hlrksbrnthr|Hálrikos Bránthira]]{float: top-left}
 
 ## Appearance {#appearance}
 

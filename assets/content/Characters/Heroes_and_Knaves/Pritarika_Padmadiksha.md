@@ -15,7 +15,6 @@ shortcode: prtrkpdmdksh
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: prtrkpdmdksh
   templatePriority: null
   archetypes: []
   occupation: Nobility (Manor Lord)
@@ -596,7 +595,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Pritàrika Padmadîksha](images/beings/characters/prtrkpdmdksh.webp){float: top-left}
+![[prtrkpdmdksh|Pritàrika Padmadîksha]]{float: top-left}
 
 ## Appearance {#appearance}
 

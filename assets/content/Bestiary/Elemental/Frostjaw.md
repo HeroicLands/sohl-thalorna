@@ -10,7 +10,6 @@ shortcode: frostjaw
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: frostjaw
   templatePriority: null
   archetypes: []
   occupation: null
@@ -364,7 +363,7 @@ sohl:
         disabled: false
 ---
 
-![Frostjaw](images/beings/creatures/frostjaw.webp){float: top-left}
+![[frostjaw|Frostjaw]]{float: top-left}
 
 ## Appearance {#appearance}
 

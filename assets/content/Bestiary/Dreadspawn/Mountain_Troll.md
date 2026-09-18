@@ -10,7 +10,6 @@ shortcode: mntntrll
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: mntntrll
   templatePriority: null
   archetypes: []
   occupation: null
@@ -628,7 +627,7 @@ sohl:
         disabled: false
 ---
 
-![Mountain Troll](images/beings/creatures/mntntrll.webp){float: top-left}
+![[mntntrll|Mountain Troll]]{float: top-left}
 
 ## Appearance {#appearance}
 

@@ -10,7 +10,6 @@ shortcode: frstwng
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: frstwng
   templatePriority: null
   archetypes: []
   occupation: null
@@ -321,7 +320,7 @@ sohl:
         disabled: false
 ---
 
-![Frostwing](images/beings/creatures/frstwng.webp){float: top-left}
+![[frstwng|Frostwing]]{float: top-left}
 
 ## Appearance {#appearance}
 

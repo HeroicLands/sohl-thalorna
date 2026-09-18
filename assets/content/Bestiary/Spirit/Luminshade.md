@@ -10,7 +10,6 @@ shortcode: lmnshd
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: lmnshd
   templatePriority: null
   archetypes: []
   occupation: null
@@ -586,7 +585,7 @@ sohl:
         disabled: false
 ---
 
-![Luminshade](images/beings/creatures/lmnshd.webp){float: top-left}
+![[lmnshd|Luminshade]]{float: top-left}
 
 ## Appearance {#appearance}
 

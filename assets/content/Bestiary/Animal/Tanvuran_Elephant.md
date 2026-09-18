@@ -10,7 +10,6 @@ shortcode: tnvrnelp
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: tnvrnelp
   templatePriority: null
   archetypes: []
   occupation: null
@@ -394,7 +393,7 @@ sohl:
         disabled: false
 ---
 
-![Tānvüran Elephant](images/beings/creatures/tnvrnelp.webp){float: top-left}
+![[tnvrnelp|Tānvüran Elephant]]{float: top-left}
 
 ## Appearance {#appearance}
 

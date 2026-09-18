@@ -11,7 +11,6 @@ shortcode: warg
 type: being
 data:
   icon: sohl-none-icon-wolfhead
-  portrait: null
   templatePriority: null
   archetypes: []
   occupation: null

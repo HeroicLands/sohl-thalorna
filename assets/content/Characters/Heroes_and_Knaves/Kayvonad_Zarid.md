@@ -16,7 +16,6 @@ shortcode: kayvondzrd
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: kayvondzrd
   templatePriority: null
   archetypes: []
   occupation: Alchemist
@@ -595,7 +594,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Kayvonad Zârîd](images/beings/characters/kayvondzrd.webp){float: top-left}
+![[kayvondzrd|Kayvonad Zârîd]]{float: top-left}
 
 ## Appearance {#appearance}
 

@@ -15,7 +15,6 @@ type: being
 data:
   banner: tamzirbnr
   icon: sohl-none-icon-person
-  portrait: kasuradmzr
   templatePriority: null
   archetypes: []
   occupation: Shipwright
@@ -560,7 +559,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Kasûra Damzarû](images/beings/characters/kasuradmzr.webp){float: top-left}
+![[kasuradmzr|Kasûra Damzarû]]{float: top-left}
 
 ## Appearance {#appearance}
 

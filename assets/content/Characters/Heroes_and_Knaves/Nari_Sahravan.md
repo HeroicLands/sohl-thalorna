@@ -17,7 +17,6 @@ shortcode: narisahrvn
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: narisahrvn
   templatePriority: null
   archetypes: []
   occupation: Shaman
@@ -587,7 +586,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Nari Sahravân](images/beings/characters/narisahrvn.webp){float: top-left}
+![[narisahrvn|Nari Sahravân]]{float: top-left}
 
 ## Appearance {#appearance}
 

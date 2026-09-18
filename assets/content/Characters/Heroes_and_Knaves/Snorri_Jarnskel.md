@@ -15,7 +15,6 @@ shortcode: snorjrnskl
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: snorjrnskl
   templatePriority: null
   archetypes: []
   occupation: Farmer
@@ -591,7 +590,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Snorri Járnskel](images/beings/characters/snorjrnskl.webp){float: top-left}
+![[snorjrnskl|Snorri Járnskel]]{float: top-left}
 
 ## Appearance {#appearance}
 

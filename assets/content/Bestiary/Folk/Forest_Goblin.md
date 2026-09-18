@@ -10,7 +10,6 @@ shortcode: frstgbln
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: frstgbln
   templatePriority: null
   archetypes: []
   occupation: null
@@ -338,7 +337,7 @@ sohl:
         disabled: false
 ---
 
-![Forest Goblin](images/beings/creatures/frstgbln.webp){float: top-left}
+![[frstgbln|Forest Goblin]]{float: top-left}
 
 ## Appearance {#appearance}
 

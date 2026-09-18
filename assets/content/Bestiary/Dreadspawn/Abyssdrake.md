@@ -10,7 +10,6 @@ shortcode: abyssdrk
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: abyssdrk
   templatePriority: null
   archetypes: []
   occupation: null
@@ -372,7 +371,7 @@ sohl:
         disabled: false
 ---
 
-![Abyssdrake](images/beings/creatures/abyssdrk.webp){float: top-left}
+![[abyssdrk|Abyssdrake]]{float: top-left}
 
 ## Appearance {#appearance}
 

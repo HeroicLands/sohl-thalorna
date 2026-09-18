@@ -10,7 +10,6 @@ shortcode: crgclmbr
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: crgclmbr
   templatePriority: null
   archetypes: []
   occupation: null
@@ -344,7 +343,7 @@ sohl:
         disabled: false
 ---
 
-![Cragclimber](images/beings/creatures/crgclmbr.webp){float: top-left}
+![[crgclmbr|Cragclimber]]{float: top-left}
 
 ## Appearance {#appearance}
 

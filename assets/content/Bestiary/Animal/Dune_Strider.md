@@ -10,7 +10,6 @@ shortcode: dnstrdr
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: dnstrdr
   templatePriority: null
   archetypes: []
   occupation: null
@@ -323,7 +322,7 @@ sohl:
         disabled: false
 ---
 
-![Dune Strider](images/beings/creatures/dnstrdr.webp){float: top-left}
+![[dnstrdr|Dune Strider]]{float: top-left}
 
 ## Appearance {#appearance}
 

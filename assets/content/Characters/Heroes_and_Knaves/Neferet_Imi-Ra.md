@@ -19,7 +19,6 @@ type: being
 data:
   banner: takheperubnr
   icon: sohl-none-icon-person
-  portrait: neferetimr
   templatePriority: null
   archetypes: []
   occupation: Scholar
@@ -597,7 +596,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Neferet Imi-Ra](images/beings/characters/neferetimr.webp){float: top-left}
+![[neferetimr|Neferet Imi-Ra]]{float: top-left}
 
 **Home:** [[place-wasetkara|Wasetkara]]
 

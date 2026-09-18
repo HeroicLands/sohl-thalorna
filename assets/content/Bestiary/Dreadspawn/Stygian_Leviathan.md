@@ -10,7 +10,6 @@ shortcode: stygnlvt
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: stygnlvt
   templatePriority: null
   archetypes: []
   occupation: null
@@ -283,7 +282,7 @@ sohl:
         disabled: false
 ---
 
-![Stygian Leviathan](images/beings/creatures/stygnlvt.webp){float: top-left}
+![[stygnlvt|Stygian Leviathan]]{float: top-left}
 
 ## Appearance {#appearance}
 

@@ -15,7 +15,6 @@ shortcode: theklarhms
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: theklarhms
   templatePriority: null
   archetypes: []
   occupation: Mercenary
@@ -589,7 +588,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Thêkla Rhomaios](images/beings/characters/theklarhms.webp){float: top-left}
+![[theklarhms|Thêkla Rhomaios]]{float: top-left}
 
 ## Appearance {#appearance}
 

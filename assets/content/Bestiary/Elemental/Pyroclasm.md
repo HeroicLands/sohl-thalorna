@@ -10,7 +10,6 @@ shortcode: pyrclsm
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: pyrclsm
   templatePriority: null
   archetypes: []
   occupation: null
@@ -614,7 +613,7 @@ sohl:
         disabled: false
 ---
 
-![Pyroclasm](images/beings/creatures/pyrclsm.webp){float: top-left}
+![[pyrclsm|Pyroclasm]]{float: top-left}
 
 ## Appearance {#appearance}
 

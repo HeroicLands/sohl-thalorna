@@ -15,7 +15,6 @@ shortcode: arevynlydr
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: arevynlydr
   templatePriority: null
   archetypes: []
   occupation: Miner
@@ -595,7 +594,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Arévyn Llýdar](images/beings/characters/arevynlydr.webp){float: top-left}
+![[arevynlydr|Arévyn Llýdar]]{float: top-left}
 
 ## Appearance {#appearance}
 

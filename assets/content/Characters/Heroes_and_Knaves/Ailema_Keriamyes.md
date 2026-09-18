@@ -16,7 +16,6 @@ shortcode: ailemkrmys
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: ailemkrmys
   templatePriority: null
   archetypes: []
   occupation: Scribe
@@ -607,7 +606,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Ailêmâ Kêrîamyês](images/beings/characters/ailemkrmys.webp){float: top-left}
+![[ailemkrmys|Ailêmâ Kêrîamyês]]{float: top-left}
 
 ## Appearance {#appearance}
 

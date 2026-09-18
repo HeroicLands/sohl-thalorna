@@ -15,7 +15,6 @@ shortcode: thrlkrvndrkv
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: thrlkrvndrkv
   templatePriority: null
   archetypes: []
   occupation: Miner
@@ -606,7 +605,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Thorlákr Vindrkvé](images/beings/characters/thrlkrvndrkv.webp){float: top-left}
+![[thrlkrvndrkv|Thorlákr Vindrkvé]]{float: top-left}
 
 ## Appearance {#appearance}
 

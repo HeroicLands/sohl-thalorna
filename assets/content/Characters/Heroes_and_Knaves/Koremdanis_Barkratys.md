@@ -15,7 +15,6 @@ shortcode: krmdnsbrkrtys
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: krmdnsbrkrtys
   templatePriority: null
   archetypes: []
   occupation: Swordmaster
@@ -591,7 +590,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Korêmdânis Bárkrâtys](images/beings/characters/krmdnsbrkrtys.webp){float: top-left}
+![[krmdnsbrkrtys|Korêmdânis Bárkrâtys]]{float: top-left}
 
 ## Appearance {#appearance}
 

@@ -10,7 +10,6 @@ shortcode: duneclaw
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: duneclaw
   templatePriority: null
   archetypes: []
   occupation: null
@@ -257,7 +256,7 @@ sohl:
         disabled: false
 ---
 
-![Duneclaw](images/beings/creatures/duneclaw.webp){float: top-left}
+![[duneclaw|Duneclaw]]{float: top-left}
 
 ## Appearance {#appearance}
 

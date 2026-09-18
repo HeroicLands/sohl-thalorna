@@ -15,7 +15,6 @@ shortcode: drknsdlsns
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: drknsdlsns
   templatePriority: null
   archetypes: []
   occupation: Trapper
@@ -589,7 +588,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Drákonis Dalássênos](images/beings/characters/drknsdlsns.webp){float: top-left}
+![[drknsdlsns|Drákonis Dalássênos]]{float: top-left}
 
 ## Appearance {#appearance}
 

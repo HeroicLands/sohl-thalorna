@@ -17,7 +17,6 @@ type: being
 data:
   banner: takheperubnr
   icon: sohl-none-icon-person
-  portrait: raiyawstnb
   templatePriority: null
   archetypes: []
   occupation: Nobility (Courtier)
@@ -597,7 +596,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Raiya Waset'neb](images/beings/characters/raiyawstnb.webp){float: top-left}
+![[raiyawstnb|Raiya Waset'neb]]{float: top-left}
 
 **Home:** [[place-wasetkara|Wasetkara]]
 

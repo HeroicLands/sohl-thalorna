@@ -15,7 +15,6 @@ shortcode: hrjlfvtrdmr
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: hrjlfvtrdmr
   templatePriority: null
   archetypes: []
   occupation: Woodcutter
@@ -593,7 +592,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Herjúlf Vetrdómr](images/beings/characters/hrjlfvtrdmr.webp){float: top-left}
+![[hrjlfvtrdmr|Herjúlf Vetrdómr]]{float: top-left}
 
 ## Appearance {#appearance}
 

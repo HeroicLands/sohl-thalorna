@@ -19,7 +19,6 @@ type: being
 data:
   banner: takheperubnr
   icon: sohl-none-icon-person
-  portrait: patnfrstmr
   templatePriority: null
   archetypes: []
   occupation: Perfumer
@@ -599,7 +598,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Pat'nefur Set'maâr](images/beings/characters/patnfrstmr.webp){float: top-left}
+![[patnfrstmr|Pat'nefur Set'maâr]]{float: top-left}
 
 **Home:** [[place-wasetkara|Wasetkara]]
 

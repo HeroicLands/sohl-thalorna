@@ -18,7 +18,6 @@ type: being
 data:
   banner: takheperubnr
   icon: sohl-none-icon-person
-  portrait: totkarhtwr
   templatePriority: null
   archetypes: []
   occupation: Litigant
@@ -588,7 +587,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Tot'kar Het'Wera](images/beings/characters/totkarhtwr.webp){float: top-left}
+![[totkarhtwr|Tot'kar Het'Wera]]{float: top-left}
 
 **Home:** [[place-meruhotep|Meru-Hotep]]
 

@@ -10,7 +10,6 @@ shortcode: gntspdr
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: gntspdr
   templatePriority: null
   archetypes: []
   occupation: null
@@ -217,7 +216,7 @@ sohl:
         disabled: false
 ---
 
-![Giant Spider](images/beings/creatures/gntspdr.webp){float: top-left}
+![[gntspdr|Giant Spider]]{float: top-left}
 
 ## Appearance {#appearance}
 

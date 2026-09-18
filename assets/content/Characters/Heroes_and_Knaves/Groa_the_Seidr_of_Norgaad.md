@@ -17,7 +17,6 @@ shortcode: grosdrnrgd
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: grosdrnrgd
   templatePriority: null
   archetypes: []
   occupation: Shaman
@@ -598,7 +597,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Gróa the Seidr of Norgaad](images/beings/characters/grosdrnrgd.webp){float: top-left}
+![[grosdrnrgd|Gróa the Seidr of Norgaad]]{float: top-left}
 
 ## Appearance {#appearance}
 

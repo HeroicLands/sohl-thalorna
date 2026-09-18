@@ -10,7 +10,6 @@ shortcode: sandwurm
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: sandwurm
   templatePriority: null
   archetypes: []
   occupation: null
@@ -258,7 +257,7 @@ sohl:
         disabled: false
 ---
 
-![Sand Wurm](images/beings/creatures/sandwurm.webp){float: top-left}
+![[sandwurm|Sand Wurm]]{float: top-left}
 
 ## Appearance {#appearance}
 

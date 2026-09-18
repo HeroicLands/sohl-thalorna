@@ -10,7 +10,6 @@ shortcode: nghtwght
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: nghtwght
   templatePriority: null
   archetypes: []
   occupation: null
@@ -522,7 +521,7 @@ sohl:
         disabled: false
 ---
 
-![Nightwights](images/beings/creatures/nghtwght.webp){float: top-left}
+![[nghtwght|Nightwights]]{float: top-left}
 
 ## Appearance {#appearance}
 

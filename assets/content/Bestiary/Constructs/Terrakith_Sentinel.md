@@ -10,7 +10,6 @@ shortcode: trrkthsn
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: trrkthsn
   templatePriority: null
   archetypes: []
   occupation: null
@@ -64,7 +63,7 @@ sohl:
         disabled: false
 ---
 
-![Terrakith Sentinel](images/beings/creatures/trrkthsn.webp){float: top-left}
+![[trrkthsn|Terrakith Sentinel]]{float: top-left}
 
 ## Appearance {#appearance}
 

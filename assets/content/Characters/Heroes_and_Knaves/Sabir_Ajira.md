@@ -16,7 +16,6 @@ shortcode: sabirajira
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: sabirajira
   templatePriority: null
   archetypes: []
   occupation: Charcoaler
@@ -601,7 +600,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Sâbir Âjira](images/beings/characters/sabirajira.webp){float: top-left}
+![[sabirajira|Sâbir Âjira]]{float: top-left}
 
 ## Appearance {#appearance}
 

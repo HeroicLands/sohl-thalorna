@@ -16,7 +16,6 @@ shortcode: dmrthsvshrds
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: dmrthsvshrds
   templatePriority: null
   archetypes: []
   occupation: Alchemist
@@ -592,7 +591,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Dómrithâs Vîshârdâs](images/beings/characters/dmrthsvshrds.webp){float: top-left}
+![[dmrthsvshrds|Dómrithâs Vîshârdâs]]{float: top-left}
 
 ## Appearance {#appearance}
 

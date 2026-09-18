@@ -15,7 +15,6 @@ shortcode: gthrnslvrgr
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: gthrnslvrgr
   templatePriority: null
   archetypes: []
   occupation: Trapper
@@ -597,7 +596,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Guthrún Sólvargr](images/beings/characters/gthrnslvrgr.webp){float: top-left}
+![[gthrnslvrgr|Guthrún Sólvargr]]{float: top-left}
 
 ## Appearance {#appearance}
 

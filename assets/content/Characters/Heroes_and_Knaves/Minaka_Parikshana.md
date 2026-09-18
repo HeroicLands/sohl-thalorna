@@ -15,7 +15,6 @@ shortcode: minakprkhn
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: minakprkhn
   templatePriority: null
   archetypes: []
   occupation: Cook
@@ -593,7 +592,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Minàka Parikṣhana](images/beings/characters/minakprkhn.webp){float: top-left}
+![[minakprkhn|Minàka Parikṣhana]]{float: top-left}
 
 ## Appearance {#appearance}
 

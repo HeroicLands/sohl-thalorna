@@ -16,7 +16,6 @@ shortcode: skulvtrdmr
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: skulvtrdmr
   templatePriority: null
   archetypes: []
   occupation: Tentmaker
@@ -592,7 +591,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Skúli Vetrdómr](images/beings/characters/skulvtrdmr.webp){float: top-left}
+![[skulvtrdmr|Skúli Vetrdómr]]{float: top-left}
 
 ## Appearance {#appearance}
 

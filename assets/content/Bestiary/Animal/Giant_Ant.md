@@ -10,7 +10,6 @@ shortcode: giantant
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: giantant
   templatePriority: null
   archetypes: []
   occupation: null
@@ -271,7 +270,7 @@ sohl:
         disabled: false
 ---
 
-![Giant Ant](images/beings/creatures/giantant.webp){float: top-left}
+![[giantant|Giant Ant]]{float: top-left}
 
 ## Appearance {#appearance}
 

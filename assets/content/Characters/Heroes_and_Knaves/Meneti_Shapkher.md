@@ -18,7 +18,6 @@ type: being
 data:
   banner: takheperubnr
   icon: sohl-none-icon-person
-  portrait: mentshpkhr
   templatePriority: null
   archetypes: []
   occupation: Bureaucrat
@@ -601,7 +600,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Meneti Shap'kher](images/beings/characters/mentshpkhr.webp){float: top-left}
+![[mentshpkhr|Meneti Shap'kher]]{float: top-left}
 
 **Home:** [[place-khensuret|Khensuret]]
 

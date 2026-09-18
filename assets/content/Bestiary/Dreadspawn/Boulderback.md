@@ -10,7 +10,6 @@ shortcode: bldrbck
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: bldrbck
   templatePriority: null
   archetypes: []
   occupation: null
@@ -619,7 +618,7 @@ sohl:
         disabled: false
 ---
 
-![Boulderback](images/beings/creatures/bldrbck.webp){float: top-left}
+![[bldrbck|Boulderback]]{float: top-left}
 
 ## Appearance {#appearance}
 

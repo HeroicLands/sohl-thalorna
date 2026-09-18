@@ -18,7 +18,6 @@ type: being
 data:
   banner: takheperubnr
   icon: sohl-none-icon-person
-  portrait: tefnuthtwr
   templatePriority: null
   archetypes: []
   occupation: Toymaker
@@ -604,7 +603,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Tefnutî Het'Wera](images/beings/characters/tefnuthtwr.webp){float: top-left}
+![[tefnuthtwr|Tefnutî Het'Wera]]{float: top-left}
 
 **Home:** [[place-ankhsetun|Ankh-Setûn]]
 

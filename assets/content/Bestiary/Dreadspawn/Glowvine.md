@@ -10,7 +10,6 @@ shortcode: glowvine
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: glowvine
   templatePriority: null
   archetypes: []
   occupation: null
@@ -254,7 +253,7 @@ sohl:
         disabled: false
 ---
 
-![Glowvine](images/beings/creatures/glowvine.webp){float: top-left}
+![[glowvine|Glowvine]]{float: top-left}
 
 ## Appearance {#appearance}
 

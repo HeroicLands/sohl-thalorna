@@ -12,7 +12,6 @@ packFolder: northernfertileregionokharis
 shortcode: takorozanethar
 type: being
 data:
-  portrait: null
   templatePriority: null
   archetypes: []
   occupation: king

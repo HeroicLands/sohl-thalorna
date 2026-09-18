@@ -10,7 +10,6 @@ shortcode: blinkfox
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: blinkfox
   templatePriority: null
   archetypes: []
   occupation: null
@@ -332,7 +331,7 @@ sohl:
         disabled: false
 ---
 
-![Blinkfox](images/beings/creatures/blinkfox.webp){float: top-left}
+![[blinkfox|Blinkfox]]{float: top-left}
 
 ## Appearance {#appearance}
 

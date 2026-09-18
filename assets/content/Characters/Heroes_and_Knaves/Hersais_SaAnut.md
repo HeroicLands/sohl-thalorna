@@ -18,7 +18,6 @@ type: being
 data:
   banner: takheperubnr
   icon: sohl-none-icon-person
-  portrait: hersaisant
   templatePriority: null
   archetypes: []
   occupation: Nobility (Tenant-in-chief)
@@ -613,7 +612,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Her'sa'îs Sa'Anut](images/beings/characters/hersaisant.webp){float: top-left}
+![[hersaisant|Her'sa'îs Sa'Anut]]{float: top-left}
 
 **Home:** [[place-ankhsetun|Ankh-Setûn]]
 

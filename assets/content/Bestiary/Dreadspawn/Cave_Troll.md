@@ -10,7 +10,6 @@ shortcode: cvtrll
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: cvtrll
   templatePriority: null
   archetypes: []
   occupation: null
@@ -593,7 +592,7 @@ sohl:
         disabled: false
 ---
 
-![Cave Troll](images/beings/creatures/cvtrll.webp){float: top-left}
+![[cvtrll|Cave Troll]]{float: top-left}
 
 ## Appearance {#appearance}
 

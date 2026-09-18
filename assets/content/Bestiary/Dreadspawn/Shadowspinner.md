@@ -10,7 +10,6 @@ shortcode: shdwspnn
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: shdwspnn
   templatePriority: null
   archetypes: []
   occupation: null
@@ -253,7 +252,7 @@ sohl:
         disabled: false
 ---
 
-![Shadowspinner](images/beings/creatures/shdwspnn.webp){float: top-left}
+![[shdwspnn|Shadowspinner]]{float: top-left}
 
 ## Appearance {#appearance}
 

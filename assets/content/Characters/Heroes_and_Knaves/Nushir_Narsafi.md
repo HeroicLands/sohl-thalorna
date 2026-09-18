@@ -16,7 +16,6 @@ shortcode: nushirnrsf
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: nushirnrsf
   templatePriority: null
   archetypes: []
   occupation: Chandler
@@ -599,7 +598,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Nushir Narsâfî](images/beings/characters/nushirnrsf.webp){float: top-left}
+![[nushirnrsf|Nushir Narsâfî]]{float: top-left}
 
 ## Appearance {#appearance}
 

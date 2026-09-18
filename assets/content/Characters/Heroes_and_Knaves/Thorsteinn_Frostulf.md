@@ -15,7 +15,6 @@ shortcode: thrstnfrstlf
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: thrstnfrstlf
   templatePriority: null
   archetypes: []
   occupation: Potter
@@ -586,7 +585,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Thorsteinn Frostulf](images/beings/characters/thrstnfrstlf.webp){float: top-left}
+![[thrstnfrstlf|Thorsteinn Frostulf]]{float: top-left}
 
 ## Appearance {#appearance}
 

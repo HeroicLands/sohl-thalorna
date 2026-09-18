@@ -16,7 +16,6 @@ shortcode: brunjarskathhel
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: brunjarskathhel
   templatePriority: null
   archetypes: []
   occupation: Brigand
@@ -556,7 +555,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Brunjár Skathhelm](images/beings/characters/brunjarskathhel.webp){float: top-left}
+![[brunjarskathhel|Brunjár Skathhelm]]{float: top-left}
 
 ## Appearance {#appearance}
 

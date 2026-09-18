@@ -19,7 +19,6 @@ type: being
 data:
   banner: takheperubnr
   icon: sohl-none-icon-person
-  portrait: siprahipmr
   templatePriority: null
   archetypes: []
   occupation: Locksmith
@@ -591,7 +590,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Sip'rah Ip'maâr](images/beings/characters/siprahipmr.webp){float: top-left}
+![[siprahipmr|Sip'rah Ip'maâr]]{float: top-left}
 
 **Home:** [[place-wasetkara|Wasetkara]]
 

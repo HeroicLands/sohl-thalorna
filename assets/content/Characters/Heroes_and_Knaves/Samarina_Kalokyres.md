@@ -15,7 +15,6 @@ shortcode: smrnklkyrs
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: smrnklkyrs
   templatePriority: null
   archetypes: []
   occupation: Herder
@@ -625,7 +624,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Samarína Kalokyrês](images/beings/characters/smrnklkyrs.webp){float: top-left}
+![[smrnklkyrs|Samarína Kalokyrês]]{float: top-left}
 
 ## Appearance {#appearance}
 

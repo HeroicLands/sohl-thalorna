@@ -10,7 +10,6 @@ shortcode: phsphrsc
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: phsphrsc
   templatePriority: null
   archetypes: []
   occupation: null
@@ -218,7 +217,7 @@ sohl:
         disabled: false
 ---
 
-![Phosphorescent Globule](images/beings/creatures/phsphrsc.webp){float: top-left}
+![[phsphrsc|Phosphorescent Globule]]{float: top-left}
 
 ## Appearance {#appearance}
 

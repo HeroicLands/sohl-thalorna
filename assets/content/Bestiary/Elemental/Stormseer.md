@@ -10,7 +10,6 @@ shortcode: strmsr
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: strmsr
   templatePriority: null
   archetypes: []
   occupation: null
@@ -321,7 +320,7 @@ sohl:
         disabled: false
 ---
 
-![Stormseer](images/beings/creatures/strmsr.webp){float: top-left}
+![[strmsr|Stormseer]]{float: top-left}
 
 ## Appearance {#appearance}
 

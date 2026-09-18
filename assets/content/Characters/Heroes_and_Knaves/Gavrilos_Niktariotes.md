@@ -15,7 +15,6 @@ shortcode: gvrlsnktrts
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: gvrlsnktrts
   templatePriority: null
   archetypes: []
   occupation: Swordmaster
@@ -599,7 +598,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Gávrilos Niktariôtês](images/beings/characters/gvrlsnktrts.webp){float: top-left}
+![[gvrlsnktrts|Gávrilos Niktariôtês]]{float: top-left}
 
 ## Appearance {#appearance}
 

@@ -10,7 +10,6 @@ shortcode: glssfng
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: glssfng
   templatePriority: null
   archetypes: []
   occupation: null
@@ -325,7 +324,7 @@ sohl:
         disabled: false
 ---
 
-![Glassfang](images/beings/creatures/glssfng.webp){float: top-left}
+![[glssfng|Glassfang]]{float: top-left}
 
 ## Appearance {#appearance}
 

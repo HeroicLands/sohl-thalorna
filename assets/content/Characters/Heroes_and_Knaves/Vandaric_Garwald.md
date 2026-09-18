@@ -17,7 +17,6 @@ shortcode: vndrcgrwld
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: vndrcgrwld
   templatePriority: null
   archetypes: []
   occupation: Brigand
@@ -553,7 +552,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Vandaric Garwald](images/beings/characters/vndrcgrwld.webp){float: top-left}
+![[vndrcgrwld|Vandaric Garwald]]{float: top-left}
 
 ## Appearance {#appearance}
 

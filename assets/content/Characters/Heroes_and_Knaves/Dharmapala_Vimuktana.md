@@ -15,7 +15,6 @@ shortcode: dhrmplvmkt
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: dhrmplvmkt
   templatePriority: null
   archetypes: []
   occupation: Bodyguard
@@ -576,7 +575,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Dharmàpala Vimuktaṇa](images/beings/characters/dhrmplvmkt.webp){float: top-left}
+![[dhrmplvmkt|Dharmàpala Vimuktaṇa]]{float: top-left}
 
 ## Appearance {#appearance}
 

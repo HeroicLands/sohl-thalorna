@@ -10,7 +10,6 @@ shortcode: gntwsp
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: gntwsp
   templatePriority: null
   archetypes: []
   occupation: null
@@ -322,7 +321,7 @@ sohl:
         disabled: false
 ---
 
-![Giant Wasp](images/beings/creatures/gntwsp.webp){float: top-left}
+![[gntwsp|Giant Wasp]]{float: top-left}
 
 ## Appearance {#appearance}
 

@@ -18,7 +18,6 @@ type: being
 data:
   banner: takheperubnr
   icon: sohl-none-icon-person
-  portrait: sentatsrkt
   templatePriority: null
   archetypes: []
   occupation: Caravan Guard
@@ -592,7 +591,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Sênta Ta'Sereket](images/beings/characters/sentatsrkt.webp){float: top-left}
+![[sentatsrkt|Sênta Ta'Sereket]]{float: top-left}
 
 **Home:** [[place-perankhet|Per-Ankhet]]
 

@@ -10,7 +10,6 @@ shortcode: cheeprow
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: cheeprow
   templatePriority: null
   archetypes: []
   occupation: null
@@ -339,7 +338,7 @@ sohl:
         disabled: false
 ---
 
-![Cheeprow](images/beings/creatures/cheeprow.webp){float: top-left}
+![[cheeprow|Cheeprow]]{float: top-left}
 
 ## Appearance {#appearance}
 

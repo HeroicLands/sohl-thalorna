@@ -10,7 +10,6 @@ shortcode: erthchrg
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: erthchrg
   templatePriority: null
   archetypes: []
   occupation: null
@@ -271,7 +270,7 @@ sohl:
         disabled: false
 ---
 
-![Earthcharger](images/beings/creatures/erthchrg.webp){float: top-left}
+![[erthchrg|Earthcharger]]{float: top-left}
 
 ## Appearance {#appearance}
 

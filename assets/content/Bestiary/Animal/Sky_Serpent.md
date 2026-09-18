@@ -10,7 +10,6 @@ shortcode: skysrpnt
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: skysrpnt
   templatePriority: null
   archetypes: []
   occupation: null
@@ -263,7 +262,7 @@ sohl:
         disabled: false
 ---
 
-![Sky Serpent](images/beings/creatures/skysrpnt.webp){float: top-left}
+![[skysrpnt|Sky Serpent]]{float: top-left}
 
 ## Appearance {#appearance}
 

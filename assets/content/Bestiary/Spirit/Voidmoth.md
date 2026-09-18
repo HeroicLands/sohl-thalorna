@@ -10,7 +10,6 @@ shortcode: voidmoth
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: voidmoth
   templatePriority: null
   archetypes: []
   occupation: null
@@ -309,7 +308,7 @@ sohl:
         disabled: false
 ---
 
-![Voidmoth](images/beings/creatures/voidmoth.webp){float: top-left}
+![[voidmoth|Voidmoth]]{float: top-left}
 
 ## Appearance {#appearance}
 

@@ -10,7 +10,6 @@ shortcode: vdsrpnt
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: vdsrpnt
   templatePriority: null
   archetypes: []
   occupation: null
@@ -262,7 +261,7 @@ sohl:
         disabled: false
 ---
 
-![Voidserpent](images/beings/creatures/vdsrpnt.webp){float: top-left}
+![[vdsrpnt|Voidserpent]]{float: top-left}
 
 ## Appearance {#appearance}
 

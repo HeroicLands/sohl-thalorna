@@ -18,7 +18,6 @@ type: being
 data:
   banner: takheperubnr
   icon: sohl-none-icon-person
-  portrait: nkhtrmnrsht
   templatePriority: null
   archetypes: []
   occupation: Thatcher
@@ -593,7 +592,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Nakhtar Amun'Râshet](images/beings/characters/nkhtrmnrsht.webp){float: top-left}
+![[nkhtrmnrsht|Nakhtar Amun'Râshet]]{float: top-left}
 
 **Home:** [[place-wasetkara|Wasetkara]]
 

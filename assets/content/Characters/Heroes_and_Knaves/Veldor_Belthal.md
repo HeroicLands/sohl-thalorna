@@ -15,7 +15,6 @@ shortcode: veldrblthl
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: veldrblthl
   templatePriority: null
   archetypes: []
   occupation: Thespian
@@ -590,7 +589,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Véldor Bélthal](images/beings/characters/veldrblthl.webp){float: top-left}
+![[veldrblthl|Véldor Bélthal]]{float: top-left}
 
 ## Appearance {#appearance}
 

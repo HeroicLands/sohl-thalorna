@@ -10,7 +10,6 @@ shortcode: swmpstrd
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: swmpstrd
   templatePriority: null
   archetypes: []
   occupation: null
@@ -376,7 +375,7 @@ sohl:
         disabled: false
 ---
 
-![Swampstrider](images/beings/creatures/swmpstrd.webp){float: top-left}
+![[swmpstrd|Swampstrider]]{float: top-left}
 
 ## Appearance {#appearance}
 

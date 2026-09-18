@@ -16,7 +16,6 @@ shortcode: madhurvrdr
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: madhurvrdr
   templatePriority: null
   archetypes: []
   occupation: Herald
@@ -595,7 +594,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Màdhurava Rudraṭa](images/beings/characters/madhurvrdr.webp){float: top-left}
+![[madhurvrdr|Màdhurava Rudraṭa]]{float: top-left}
 
 ## Appearance {#appearance}
 

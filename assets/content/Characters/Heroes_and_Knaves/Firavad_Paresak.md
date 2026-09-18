@@ -15,7 +15,6 @@ shortcode: firavdprsk
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: firavdprsk
   templatePriority: null
   archetypes: []
   occupation: Shaman
@@ -600,7 +599,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Firâvâd Pâresak](images/beings/characters/firavdprsk.webp){float: top-left}
+![[firavdprsk|Firâvâd Pâresak]]{float: top-left}
 
 ## Appearance {#appearance}
 

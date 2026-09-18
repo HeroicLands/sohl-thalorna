@@ -15,7 +15,6 @@ shortcode: bazdrshhrn
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: bazdrshhrn
   templatePriority: null
   archetypes: []
   occupation: Animal Trainer
@@ -595,7 +594,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Bazûdar Shahrûn](images/beings/characters/bazdrshhrn.webp){float: top-left}
+![[bazdrshhrn|Bazûdar Shahrûn]]{float: top-left}
 
 ## Appearance {#appearance}
 

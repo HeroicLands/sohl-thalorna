@@ -16,7 +16,6 @@ type: being
 data:
   banner: tamzirbnr
   icon: sohl-none-icon-person
-  portrait: damsnghlrn
   templatePriority: null
   archetypes: []
   occupation: Priest
@@ -561,7 +560,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Dámàsûn Ghôlâron](images/beings/characters/damsnghlrn.webp){float: top-left}
+![[damsnghlrn|Dámàsûn Ghôlâron]]{float: top-left}
 
 ## Appearance {#appearance}
 

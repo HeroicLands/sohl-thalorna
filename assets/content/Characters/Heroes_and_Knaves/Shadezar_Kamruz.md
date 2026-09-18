@@ -15,7 +15,6 @@ shortcode: shadzrkmrz
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: shadzrkmrz
   templatePriority: null
   archetypes: []
   occupation: Chieftain
@@ -597,7 +596,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Shâdezar Kamruz](images/beings/characters/shadzrkmrz.webp){float: top-left}
+![[shadzrkmrz|Shâdezar Kamruz]]{float: top-left}
 
 ## Appearance {#appearance}
 

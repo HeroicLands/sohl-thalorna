@@ -10,7 +10,6 @@ shortcode: fthrcrst
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: fthrcrst
   templatePriority: null
   archetypes: []
   occupation: null
@@ -327,7 +326,7 @@ sohl:
         disabled: false
 ---
 
-![Feathercrest Velon](images/beings/creatures/fthrcrst.webp){float: top-left}
+![[fthrcrst|Feathercrest Velon]]{float: top-left}
 
 ## Appearance {#appearance}
 

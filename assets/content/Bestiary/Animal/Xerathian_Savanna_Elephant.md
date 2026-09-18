@@ -10,7 +10,6 @@ shortcode: xrthnsvn
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: xrthnsvn
   templatePriority: null
   archetypes: []
   occupation: null
@@ -394,7 +393,7 @@ sohl:
         disabled: false
 ---
 
-![Xerathian Savanna Elephant](images/beings/creatures/xrthnsvn.webp){float: top-left}
+![[xrthnsvn|Xerathian Savanna Elephant]]{float: top-left}
 
 ## Appearance {#appearance}
 

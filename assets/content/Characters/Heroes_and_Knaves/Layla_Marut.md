@@ -18,7 +18,6 @@ shortcode: laylamarut
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: laylamarut
   templatePriority: null
   archetypes: []
   occupation: Mercantyler
@@ -584,7 +583,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Layla Marut](images/beings/characters/laylamarut.webp){float: top-left}
+![[laylamarut|Layla Marut]]{float: top-left}
 
 ## Appearance {#appearance}
 

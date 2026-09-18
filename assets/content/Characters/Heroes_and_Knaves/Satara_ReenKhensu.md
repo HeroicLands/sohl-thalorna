@@ -18,7 +18,6 @@ type: being
 data:
   banner: takheperubnr
   icon: sohl-none-icon-person
-  portrait: satrrnkhns
   templatePriority: null
   archetypes: []
   occupation: Timberwright
@@ -605,7 +604,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Satara Re'en'Khensu](images/beings/characters/satrrnkhns.webp){float: top-left}
+![[satrrnkhns|Satara Re'en'Khensu]]{float: top-left}
 
 **Home:** [[place-khensuret|Khensuret]]
 

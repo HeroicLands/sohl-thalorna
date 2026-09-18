@@ -15,7 +15,6 @@ shortcode: alyrklmrth
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: alyrklmrth
   templatePriority: null
   archetypes: []
   occupation: Toymaker
@@ -606,7 +605,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Ályra Kálmereth](images/beings/characters/alyrklmrth.webp){float: top-left}
+![[alyrklmrth|Ályra Kálmereth]]{float: top-left}
 
 ## Appearance {#appearance}
 

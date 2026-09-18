@@ -15,7 +15,6 @@ shortcode: athngrsktkls
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: athngrsktkls
   templatePriority: null
   archetypes: []
   occupation: Yeoman Infantry
@@ -589,7 +588,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Athênagoras Katakálos](images/beings/characters/athngrsktkls.webp){float: top-left}
+![[athngrsktkls|Athênagoras Katakálos]]{float: top-left}
 
 ## Appearance {#appearance}
 

@@ -10,7 +10,6 @@ shortcode: gntegl
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: gntegl
   templatePriority: null
   archetypes: []
   occupation: null
@@ -335,7 +334,7 @@ sohl:
         disabled: false
 ---
 
-![Giant Eagle](images/beings/creatures/gntegl.webp){float: top-left}
+![[gntegl|Giant Eagle]]{float: top-left}
 
 ## Appearance {#appearance}
 

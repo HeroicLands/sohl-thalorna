@@ -10,7 +10,6 @@ shortcode: phntmwng
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: phntmwng
   templatePriority: null
   archetypes: []
   occupation: null
@@ -292,7 +291,7 @@ sohl:
         disabled: false
 ---
 
-![Phantomwing](images/beings/creatures/phntmwng.webp){float: top-left}
+![[phntmwng|Phantomwing]]{float: top-left}
 
 ## Appearance {#appearance}
 

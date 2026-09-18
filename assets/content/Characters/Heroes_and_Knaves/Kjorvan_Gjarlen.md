@@ -16,7 +16,6 @@ shortcode: kjrvngjrln
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: kjrvngjrln
   templatePriority: null
   archetypes: []
   occupation: Ostler
@@ -588,7 +587,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Kjôrvan Gjârlen](images/beings/characters/kjrvngjrln.webp){float: top-left}
+![[kjrvngjrln|Kjôrvan Gjârlen]]{float: top-left}
 
 ## Appearance {#appearance}
 

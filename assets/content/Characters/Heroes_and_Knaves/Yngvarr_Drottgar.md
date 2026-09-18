@@ -16,7 +16,6 @@ shortcode: yngvrdrtgr
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: yngvrdrtgr
   templatePriority: null
   archetypes: []
   occupation: Guard
@@ -578,7 +577,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Yngvarr Dróttgar](images/beings/characters/yngvrdrtgr.webp){float: top-left}
+![[yngvrdrtgr|Yngvarr Dróttgar]]{float: top-left}
 
 ## Appearance {#appearance}
 

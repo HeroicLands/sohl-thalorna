@@ -10,7 +10,6 @@ shortcode: gntbvr
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: gntbvr
   templatePriority: null
   archetypes: []
   occupation: null
@@ -339,7 +338,7 @@ sohl:
         disabled: false
 ---
 
-![Giant Beaver](images/beings/creatures/gntbvr.webp){float: top-left}
+![[gntbvr|Giant Beaver]]{float: top-left}
 
 ## Appearance {#appearance}
 

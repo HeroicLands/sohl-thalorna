@@ -10,7 +10,6 @@ shortcode: spndlfnd
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: spndlfnd
   templatePriority: null
   archetypes: []
   occupation: null
@@ -253,7 +252,7 @@ sohl:
         disabled: false
 ---
 
-![Spindlefiend](images/beings/creatures/spndlfnd.webp){float: top-left}
+![[spndlfnd|Spindlefiend]]{float: top-left}
 
 ## Appearance {#appearance}
 

@@ -10,7 +10,6 @@ shortcode: rckhdglm
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: rckhdglm
   templatePriority: null
   archetypes: []
   occupation: null
@@ -64,7 +63,7 @@ sohl:
         disabled: false
 ---
 
-![Rockhide Golem](images/beings/creatures/rckhdglm.webp){float: top-left}
+![[rckhdglm|Rockhide Golem]]{float: top-left}
 
 ## Appearance {#appearance}
 

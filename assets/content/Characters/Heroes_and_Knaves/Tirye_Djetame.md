@@ -17,7 +17,6 @@ type: being
 data:
   banner: takheperubnr
   icon: sohl-none-icon-person
-  portrait: tiryedjetm
   templatePriority: null
   archetypes: []
   occupation: Thespian
@@ -584,7 +583,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Tirye Djet'amê](images/beings/characters/tiryedjetm.webp){float: top-left}
+![[tiryedjetm|Tirye Djet'amê]]{float: top-left}
 
 **Home:** [[place-meruhotep|Meru-Hotep]]
 

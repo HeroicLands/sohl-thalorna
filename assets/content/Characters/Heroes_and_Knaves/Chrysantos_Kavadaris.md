@@ -16,7 +16,6 @@ shortcode: chrysntskvdrs
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: chrysntskvdrs
   templatePriority: null
   archetypes: []
   occupation: Locksmith
@@ -596,7 +595,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Chrysántos Kavadáris](images/beings/characters/chrysntskvdrs.webp){float: top-left}
+![[chrysntskvdrs|Chrysántos Kavadáris]]{float: top-left}
 
 ## Appearance {#appearance}
 

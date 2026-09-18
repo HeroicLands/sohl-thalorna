@@ -10,7 +10,6 @@ shortcode: gntoctps
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: gntoctps
   templatePriority: null
   archetypes: []
   occupation: null
@@ -254,7 +253,7 @@ sohl:
         disabled: false
 ---
 
-![Giant Octopus](images/beings/creatures/gntoctps.webp){float: top-left}
+![[gntoctps|Giant Octopus]]{float: top-left}
 
 ## Appearance {#appearance}
 

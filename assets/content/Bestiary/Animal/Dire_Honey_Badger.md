@@ -10,7 +10,6 @@ shortcode: drhnybdg
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: drhnybdg
   templatePriority: null
   archetypes: []
   occupation: null
@@ -335,7 +334,7 @@ sohl:
         disabled: false
 ---
 
-![Dire Honey Badger](images/beings/creatures/drhnybdg.webp){float: top-left}
+![[drhnybdg|Dire Honey Badger]]{float: top-left}
 
 ## Appearance {#appearance}
 

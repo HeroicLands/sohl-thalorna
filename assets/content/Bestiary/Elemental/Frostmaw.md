@@ -10,7 +10,6 @@ shortcode: frostmaw
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: frostmaw
   templatePriority: null
   archetypes: []
   occupation: null
@@ -363,7 +362,7 @@ sohl:
         disabled: false
 ---
 
-![Frostmaw](images/beings/creatures/frostmaw.webp){float: top-left}
+![[frostmaw|Frostmaw]]{float: top-left}
 
 ## Appearance {#appearance}
 

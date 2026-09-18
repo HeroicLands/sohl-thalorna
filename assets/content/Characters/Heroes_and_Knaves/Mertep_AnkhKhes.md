@@ -17,7 +17,6 @@ type: being
 data:
   banner: takheperubnr
   icon: sohl-none-icon-person
-  portrait: mrtpnkhkhs
   templatePriority: null
   archetypes: []
   occupation: Domestic Servant
@@ -602,7 +601,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Mer'tep Ankh'Khes](images/beings/characters/mrtpnkhkhs.webp){float: top-left}
+![[mrtpnkhkhs|Mer'tep Ankh'Khes]]{float: top-left}
 
 **Home:** [[place-perankhet|Per-Ankhet]]
 

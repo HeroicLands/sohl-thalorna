@@ -15,7 +15,6 @@ shortcode: kelnstylgn
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: kelnstylgn
   templatePriority: null
   archetypes: []
   occupation: Courtesan
@@ -577,7 +576,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Kêlena Stýlgon](images/beings/characters/kelnstylgn.webp){float: top-left}
+![[kelnstylgn|Kêlena Stýlgon]]{float: top-left}
 
 ## Appearance {#appearance}
 

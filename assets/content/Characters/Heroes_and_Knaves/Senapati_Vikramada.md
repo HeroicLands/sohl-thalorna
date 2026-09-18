@@ -15,7 +15,6 @@ shortcode: senptvkrmd
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: senptvkrmd
   templatePriority: null
   archetypes: []
   occupation: Bosun
@@ -636,7 +635,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Sénapati Vikramâda](images/beings/characters/senptvkrmd.webp){float: top-left}
+![[senptvkrmd|Sénapati Vikramâda]]{float: top-left}
 
 ## Appearance {#appearance}
 

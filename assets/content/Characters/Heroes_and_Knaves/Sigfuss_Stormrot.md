@@ -15,7 +15,6 @@ shortcode: sigfstrmrt
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: sigfstrmrt
   templatePriority: null
   archetypes: []
   occupation: Common Seaman
@@ -589,7 +588,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Sigfúss Stormrót](images/beings/characters/sigfstrmrt.webp){float: top-left}
+![[sigfstrmrt|Sigfúss Stormrót]]{float: top-left}
 
 ## Appearance {#appearance}
 

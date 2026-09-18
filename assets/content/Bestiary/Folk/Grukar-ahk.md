@@ -10,7 +10,6 @@ shortcode: grkrahk
 type: being
 data:
   icon: sohl-none-icon-orchead
-  portrait: null
   templatePriority: null
   archetypes: []
   occupation: null

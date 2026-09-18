@@ -16,7 +16,6 @@ shortcode: unreldskar
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: unreldskar
   templatePriority: null
   archetypes: []
   occupation: Chandler
@@ -581,7 +580,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Unnr Eldskari](images/beings/characters/unreldskar.webp){float: top-left}
+![[unreldskar|Unnr Eldskari]]{float: top-left}
 
 ## Appearance {#appearance}
 

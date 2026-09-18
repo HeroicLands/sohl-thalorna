@@ -10,7 +10,6 @@ shortcode: rtwrth
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: rtwrth
   templatePriority: null
   archetypes: []
   occupation: null
@@ -608,7 +607,7 @@ sohl:
         disabled: false
 ---
 
-![Rootwraith](images/beings/creatures/rtwrth.webp){float: top-left}
+![[rtwrth|Rootwraith]]{float: top-left}
 
 ## Appearance {#appearance}
 

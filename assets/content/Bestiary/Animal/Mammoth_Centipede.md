@@ -10,7 +10,6 @@ shortcode: mmmthcnt
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: mmmthcnt
   templatePriority: null
   archetypes: []
   occupation: null
@@ -255,7 +254,7 @@ sohl:
         disabled: false
 ---
 
-![Mammoth Centipede](images/beings/creatures/mmmthcnt.webp){float: top-left}
+![[mmmthcnt|Mammoth Centipede]]{float: top-left}
 
 ## Appearance {#appearance}
 

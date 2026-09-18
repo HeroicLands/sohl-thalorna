@@ -15,7 +15,6 @@ shortcode: juthrjmthn
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: juthrjmthn
   templatePriority: null
   archetypes: []
   occupation: Scholar
@@ -599,7 +598,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Júthâra Jâmîthôn](images/beings/characters/juthrjmthn.webp){float: top-left}
+![[juthrjmthn|Júthâra Jâmîthôn]]{float: top-left}
 
 ## Appearance {#appearance}
 

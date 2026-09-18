@@ -10,7 +10,6 @@ shortcode: shdwstlk
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: shdwstlk
   templatePriority: null
   archetypes: []
   occupation: null
@@ -560,7 +559,7 @@ sohl:
         disabled: false
 ---
 
-![Shadowstalker](images/beings/creatures/shdwstlk.webp){float: top-left}
+![[shdwstlk|Shadowstalker]]{float: top-left}
 
 ## Appearance {#appearance}
 

@@ -15,7 +15,6 @@ type: being
 data:
   banner: tamzirbnr
   icon: sohl-none-icon-person
-  portrait: grlfdrthgr
   templatePriority: null
   archetypes: []
   occupation: Sellsword
@@ -567,7 +566,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Garulf Druthgar](images/beings/characters/grlfdrthgr.webp){float: top-left}
+![[grlfdrthgr|Garulf Druthgar]]{float: top-left}
 
 ## Appearance {#appearance}
 

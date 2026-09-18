@@ -18,7 +18,6 @@ type: being
 data:
   banner: takheperubnr
   icon: sohl-none-icon-person
-  portrait: mrtsbkhkmn
   templatePriority: null
   archetypes: []
   occupation: Astrologer
@@ -603,7 +602,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Meret-Sebek Heka’amun](images/beings/characters/mrtsbkhkmn.webp){float: top-left}
+![[mrtsbkhkmn|Meret-Sebek Heka’amun]]{float: top-left}
 
 **Home:** [[place-meruhotep|Meru-Hotep]]
 

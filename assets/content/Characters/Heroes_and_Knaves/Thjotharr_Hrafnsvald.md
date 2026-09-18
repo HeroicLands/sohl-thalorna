@@ -15,7 +15,6 @@ shortcode: thjthrhrfnsvld
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: thjthrhrfnsvld
   templatePriority: null
   archetypes: []
   occupation: Clothier
@@ -603,7 +602,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Thjótharr Hrafnsvald](images/beings/characters/thjthrhrfnsvld.webp){float: top-left}
+![[thjthrhrfnsvld|Thjótharr Hrafnsvald]]{float: top-left}
 
 ## Appearance {#appearance}
 

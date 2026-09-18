@@ -16,7 +16,6 @@ shortcode: faradunfrn
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: faradunfrn
   templatePriority: null
   archetypes: []
   occupation: Teamster
@@ -598,7 +597,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Faradûn Afrûn](images/beings/characters/faradunfrn.webp){float: top-left}
+![[faradunfrn|Faradûn Afrûn]]{float: top-left}
 
 ## Appearance {#appearance}
 

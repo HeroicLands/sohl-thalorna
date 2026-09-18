@@ -10,7 +10,6 @@ shortcode: flmwrth
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: flmwrth
   templatePriority: null
   archetypes: []
   occupation: null
@@ -610,7 +609,7 @@ sohl:
         disabled: false
 ---
 
-![Flamewraith](images/beings/creatures/flmwrth.webp){float: top-left}
+![[flmwrth|Flamewraith]]{float: top-left}
 
 ## Appearance {#appearance}
 

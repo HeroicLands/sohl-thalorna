@@ -16,7 +16,6 @@ shortcode: gulrnhgzvn
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: gulrnhgzvn
   templatePriority: null
   archetypes: []
   occupation: Charcoaler
@@ -587,7 +586,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Gulrânah Gazvân](images/beings/characters/gulrnhgzvn.webp){float: top-left}
+![[gulrnhgzvn|Gulrânah Gazvân]]{float: top-left}
 
 ## Appearance {#appearance}
 

@@ -15,7 +15,6 @@ shortcode: xrphnklmkns
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: xrphnklmkns
   templatePriority: null
   archetypes: []
   occupation: Gaoler
@@ -590,7 +589,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Xerôphôn Kâlmâkanês](images/beings/characters/xrphnklmkns.webp){float: top-left}
+![[xrphnklmkns|Xerôphôn Kâlmâkanês]]{float: top-left}
 
 ## Appearance {#appearance}
 

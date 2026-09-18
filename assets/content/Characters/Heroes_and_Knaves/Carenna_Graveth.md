@@ -16,7 +16,6 @@ shortcode: carengrvth
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: carengrvth
   templatePriority: null
   archetypes: []
   occupation: Herald
@@ -591,7 +590,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Cárenna Gráveth](images/beings/characters/carengrvth.webp){float: top-left}
+![[carengrvth|Cárenna Gráveth]]{float: top-left}
 
 ## Appearance {#appearance}
 

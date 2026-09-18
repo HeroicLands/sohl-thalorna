@@ -16,7 +16,6 @@ shortcode: shrmnhthvn
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: shrmnhthvn
   templatePriority: null
   archetypes: []
   occupation: Priest
@@ -590,7 +589,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Sharmînah Tahvân](images/beings/characters/shrmnhthvn.webp){float: top-left}
+![[shrmnhthvn|Sharmînah Tahvân]]{float: top-left}
 
 ## Appearance {#appearance}
 

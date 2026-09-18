@@ -16,7 +16,6 @@ shortcode: vgbrndrskyrkr
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: vgbrndrskyrkr
   templatePriority: null
   archetypes: []
   occupation: Skald
@@ -588,7 +587,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Vígbrandr Skýrekkr](images/beings/characters/vgbrndrskyrkr.webp){float: top-left}
+![[vgbrndrskyrkr|Vígbrandr Skýrekkr]]{float: top-left}
 
 ## Appearance {#appearance}
 

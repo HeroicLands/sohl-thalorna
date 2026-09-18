@@ -10,7 +10,6 @@ shortcode: glmfng
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: glmfng
   templatePriority: null
   archetypes: []
   occupation: null
@@ -332,7 +331,7 @@ sohl:
         disabled: false
 ---
 
-![Gloomfang](images/beings/creatures/glmfng.webp){float: top-left}
+![[glmfng|Gloomfang]]{float: top-left}
 
 ## Appearance {#appearance}
 

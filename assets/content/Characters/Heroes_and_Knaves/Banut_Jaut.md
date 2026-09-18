@@ -17,7 +17,6 @@ type: being
 data:
   banner: takheperubnr
   icon: sohl-none-icon-person
-  portrait: banutjaut
   templatePriority: null
   archetypes: []
   occupation: Alchemist
@@ -604,7 +603,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Bânut Jâut](images/beings/characters/banutjaut.webp){float: top-left}
+![[banutjaut|Bânut Jâut]]{float: top-left}
 
 **Home:** [[place-meruhotep|Meru-Hotep]]
 

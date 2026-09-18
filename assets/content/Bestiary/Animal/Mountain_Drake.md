@@ -10,7 +10,6 @@ shortcode: mntndrk
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: mntndrk
   templatePriority: null
   archetypes: []
   occupation: null
@@ -371,7 +370,7 @@ sohl:
         disabled: false
 ---
 
-![Mountain Drake](images/beings/creatures/mntndrk.webp){float: top-left}
+![[mntndrk|Mountain Drake]]{float: top-left}
 
 ## Appearance {#appearance}
 

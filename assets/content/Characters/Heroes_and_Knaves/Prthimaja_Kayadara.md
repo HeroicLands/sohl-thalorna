@@ -16,7 +16,6 @@ shortcode: prthmjkydr
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: prthmjkydr
   templatePriority: null
   archetypes: []
   occupation: Jeweller
@@ -599,7 +598,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Prthîmâja Kâyadara](images/beings/characters/prthmjkydr.webp){float: top-left}
+![[prthmjkydr|Prthîmâja Kâyadara]]{float: top-left}
 
 ## Appearance {#appearance}
 

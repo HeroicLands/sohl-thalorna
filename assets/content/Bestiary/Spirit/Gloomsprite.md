@@ -10,7 +10,6 @@ shortcode: glmsprt
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: glmsprt
   templatePriority: null
   archetypes: []
   occupation: null
@@ -273,7 +272,7 @@ sohl:
         disabled: false
 ---
 
-![Gloomsprite](images/beings/creatures/glmsprt.webp){float: top-left}
+![[glmsprt|Gloomsprite]]{float: top-left}
 
 ## Appearance {#appearance}
 

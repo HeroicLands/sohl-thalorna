@@ -15,7 +15,6 @@ shortcode: vshnshvdysgrml
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: vshnshvdysgrml
   templatePriority: null
   archetypes: []
   occupation: Miner
@@ -592,7 +591,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Vishnusha Vidyāsāgaramaṇḍala](images/beings/characters/vshnshvdysgrml.webp){float: top-left}
+![[vshnshvdysgrml|Vishnusha Vidyāsāgaramaṇḍala]]{float: top-left}
 
 ## Appearance {#appearance}
 

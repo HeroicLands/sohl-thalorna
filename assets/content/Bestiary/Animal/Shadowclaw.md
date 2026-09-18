@@ -10,7 +10,6 @@ shortcode: shdwclw
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: shdwclw
   templatePriority: null
   archetypes: []
   occupation: null
@@ -369,7 +368,7 @@ sohl:
         disabled: false
 ---
 
-![Shadowclaw](images/beings/creatures/shdwclw.webp){float: top-left}
+![[shdwclw|Shadowclaw]]{float: top-left}
 
 ## Appearance {#appearance}
 

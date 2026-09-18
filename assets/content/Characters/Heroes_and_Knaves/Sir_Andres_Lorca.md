@@ -18,7 +18,6 @@ shortcode: srndrslrcknghtwstrnmrchs
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: srndrslrcknghtwstrnmrchs
   templatePriority: null
   archetypes: []
   occupation: Nobility (Knight Bachelor)
@@ -596,7 +595,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Sir Andrés Lorca, Knight of the Western Marches](images/beings/characters/srndrslrcknghtwstrnmrchs.webp){float: top-left}
+![[srndrslrcknghtwstrnmrchs|Sir Andrés Lorca, Knight of the Western Marches]]{float: top-left}
 
 ## Appearance {#appearance}
 

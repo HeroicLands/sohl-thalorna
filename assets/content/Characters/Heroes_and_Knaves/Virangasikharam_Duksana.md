@@ -15,7 +15,6 @@ shortcode: vrgskhrmdkn
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: vrgskhrmdkn
   templatePriority: null
   archetypes: []
   occupation: Nobility (Manor Lord)
@@ -585,7 +584,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Vīrāṅgaśikharam Dukṣana](images/beings/characters/vrgskhrmdkn.webp){float: top-left}
+![[vrgskhrmdkn|Vīrāṅgaśikharam Dukṣana]]{float: top-left}
 
 ## Appearance {#appearance}
 

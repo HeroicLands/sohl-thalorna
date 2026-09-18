@@ -15,7 +15,6 @@ shortcode: thslnkkthrpls
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: thslnkkthrpls
   templatePriority: null
   archetypes: []
   occupation: Woodcutter
@@ -597,7 +596,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Thêsaloníke Katharópoulos](images/beings/characters/thslnkkthrpls.webp){float: top-left}
+![[thslnkkthrpls|Thêsaloníke Katharópoulos]]{float: top-left}
 
 ## Appearance {#appearance}
 

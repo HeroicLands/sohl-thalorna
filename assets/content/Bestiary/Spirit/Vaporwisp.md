@@ -10,7 +10,6 @@ shortcode: vprwsp
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: vprwsp
   templatePriority: null
   archetypes: []
   occupation: null
@@ -164,7 +163,7 @@ sohl:
         disabled: false
 ---
 
-![Vaporwisp](images/beings/creatures/vprwsp.webp){float: top-left}
+![[vprwsp|Vaporwisp]]{float: top-left}
 
 ## Appearance {#appearance}
 

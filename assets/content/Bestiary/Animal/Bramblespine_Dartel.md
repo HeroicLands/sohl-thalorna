@@ -10,7 +10,6 @@ shortcode: brmblspn
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: brmblspn
   templatePriority: null
   archetypes: []
   occupation: null
@@ -368,7 +367,7 @@ sohl:
         disabled: false
 ---
 
-![Bramblespine Dartel](images/beings/creatures/brmblspn.webp){float: top-left}
+![[brmblspn|Bramblespine Dartel]]{float: top-left}
 
 ## Appearance {#appearance}
 

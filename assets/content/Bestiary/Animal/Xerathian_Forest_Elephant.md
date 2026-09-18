@@ -10,7 +10,6 @@ shortcode: xrthnfrs
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: xrthnfrs
   templatePriority: null
   archetypes: []
   occupation: null
@@ -394,7 +393,7 @@ sohl:
         disabled: false
 ---
 
-![Xerathian Forest Elephant](images/beings/creatures/xrthnfrs.webp){float: top-left}
+![[xrthnfrs|Xerathian Forest Elephant]]{float: top-left}
 
 ## Appearance {#appearance}
 

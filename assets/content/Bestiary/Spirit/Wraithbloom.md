@@ -10,7 +10,6 @@ shortcode: wrthblm
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: wrthblm
   templatePriority: null
   archetypes: []
   occupation: null
@@ -217,7 +216,7 @@ sohl:
         disabled: false
 ---
 
-![Wraithbloom](images/beings/creatures/wrthblm.webp){float: top-left}
+![[wrthblm|Wraithbloom]]{float: top-left}
 
 ## Appearance {#appearance}
 

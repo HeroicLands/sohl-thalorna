@@ -10,7 +10,6 @@ shortcode: rcksclan
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: rcksclan
   templatePriority: null
   archetypes: []
   occupation: null
@@ -394,7 +393,7 @@ sohl:
         disabled: false
 ---
 
-![Rockscale Anklyte](images/beings/creatures/rcksclan.webp){float: top-left}
+![[rcksclan|Rockscale Anklyte]]{float: top-left}
 
 ## Appearance {#appearance}
 

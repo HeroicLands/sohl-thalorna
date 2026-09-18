@@ -15,7 +15,6 @@ shortcode: kyrksptrks
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: kyrksptrks
   templatePriority: null
   archetypes: []
   occupation: Swordmaster
@@ -589,7 +588,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Kyriákos Patrikîos](images/beings/characters/kyrksptrks.webp){float: top-left}
+![[kyrksptrks|Kyriákos Patrikîos]]{float: top-left}
 
 ## Appearance {#appearance}
 

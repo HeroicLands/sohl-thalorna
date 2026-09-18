@@ -10,7 +10,6 @@ shortcode: gnthdghg
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: gnthdghg
   templatePriority: null
   archetypes: []
   occupation: null
@@ -330,7 +329,7 @@ sohl:
         disabled: false
 ---
 
-![Giant Hedgehog](images/beings/creatures/gnthdghg.webp){float: top-left}
+![[gnthdghg|Giant Hedgehog]]{float: top-left}
 
 ## Appearance {#appearance}
 

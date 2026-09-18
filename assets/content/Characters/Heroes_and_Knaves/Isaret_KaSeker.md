@@ -19,7 +19,6 @@ type: being
 data:
   banner: takheperubnr
   icon: sohl-none-icon-person
-  portrait: isaretkskr
   templatePriority: null
   archetypes: []
   occupation: Intelligence Agent
@@ -597,7 +596,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Isaret Ka'Seker](images/beings/characters/isaretkskr.webp){float: top-left}
+![[isaretkskr|Isaret Ka'Seker]]{float: top-left}
 
 **Home:** [[place-khensuret|Khensuret]]
 

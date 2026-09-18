@@ -15,7 +15,6 @@ shortcode: muritarikh
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: muritarikh
   templatePriority: null
   archetypes: []
   occupation: Caravan Guard
@@ -573,7 +572,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Muri Târikh](images/beings/characters/muritarikh.webp){float: top-left}
+![[muritarikh|Muri Târikh]]{float: top-left}
 
 ## Appearance {#appearance}
 

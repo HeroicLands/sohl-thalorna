@@ -18,7 +18,6 @@ shortcode: zahirmlkht
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: zahirmlkht
   templatePriority: null
   archetypes: []
   occupation: Bounty Hunter
@@ -582,7 +581,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Zahira Malkhet](images/beings/characters/zahirmlkht.webp){float: top-left}
+![[zahirmlkht|Zahira Malkhet]]{float: top-left}
 
 ## Appearance {#appearance}
 

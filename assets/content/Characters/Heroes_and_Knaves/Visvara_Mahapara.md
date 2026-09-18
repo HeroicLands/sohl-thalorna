@@ -15,7 +15,6 @@ shortcode: visvarmhpr
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: visvarmhpr
   templatePriority: null
   archetypes: []
   occupation: Common Seaman
@@ -595,7 +594,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Viśvàra Mahâpara](images/beings/characters/visvarmhpr.webp){float: top-left}
+![[visvarmhpr|Viśvàra Mahâpara]]{float: top-left}
 
 ## Appearance {#appearance}
 

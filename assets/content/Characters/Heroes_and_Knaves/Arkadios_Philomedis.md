@@ -15,7 +15,6 @@ shortcode: arkdsphlmds
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: arkdsphlmds
   templatePriority: null
   archetypes: []
   occupation: Mercenary
@@ -578,7 +577,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Arkádios Philomédis](images/beings/characters/arkdsphlmds.webp){float: top-left}
+![[arkdsphlmds|Arkádios Philomédis]]{float: top-left}
 
 ## Appearance {#appearance}
 

@@ -15,7 +15,6 @@ shortcode: mithrnmznd
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: mithrnmznd
   templatePriority: null
   archetypes: []
   occupation: Herder
@@ -577,7 +576,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Mithran Mazânid](images/beings/characters/mithrnmznd.webp){float: top-left}
+![[mithrnmznd|Mithran Mazânid]]{float: top-left}
 
 ## Appearance {#appearance}
 

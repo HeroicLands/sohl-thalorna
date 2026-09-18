@@ -10,7 +10,6 @@ shortcode: nghtshds
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: nghtshds
   templatePriority: null
   archetypes: []
   occupation: null
@@ -263,7 +262,7 @@ sohl:
         disabled: false
 ---
 
-![Nightshade Serpent](images/beings/creatures/nghtshds.webp){float: top-left}
+![[nghtshds|Nightshade Serpent]]{float: top-left}
 
 ## Appearance {#appearance}
 

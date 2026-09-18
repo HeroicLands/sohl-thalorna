@@ -15,7 +15,6 @@ shortcode: bjlfhrfnsvld
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: bjlfhrfnsvld
   templatePriority: null
   archetypes: []
   occupation: Yeoman Infantry
@@ -585,7 +584,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Bjalfi Hrafnsvald](images/beings/characters/bjlfhrfnsvld.webp){float: top-left}
+![[bjlfhrfnsvld|Bjalfi Hrafnsvald]]{float: top-left}
 
 ## Appearance {#appearance}
 

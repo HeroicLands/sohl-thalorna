@@ -17,7 +17,6 @@ shortcode: rnhrngsdtr
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: rnhrngsdtr
   templatePriority: null
   archetypes: []
   occupation: Huscarl
@@ -593,7 +592,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Rúna Hringsdóttir](images/beings/characters/rnhrngsdtr.webp){float: top-left}
+![[rnhrngsdtr|Rúna Hringsdóttir]]{float: top-left}
 
 ## Appearance {#appearance}
 

@@ -16,7 +16,6 @@ shortcode: thlstrvlth
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: thlstrvlth
   templatePriority: null
   archetypes: []
   occupation: Glassworker
@@ -601,7 +600,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Thalísa Torvaleth](images/beings/characters/thlstrvlth.webp){float: top-left}
+![[thlstrvlth|Thalísa Torvaleth]]{float: top-left}
 
 ## Appearance {#appearance}
 

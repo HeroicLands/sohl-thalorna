@@ -10,7 +10,6 @@ shortcode: ncrtcmr
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: ncrtcmr
   templatePriority: null
   archetypes: []
   occupation: null
@@ -255,7 +254,7 @@ sohl:
         disabled: false
 ---
 
-![Necrotic Mire](images/beings/creatures/ncrtcmr.webp){float: top-left}
+![[ncrtcmr|Necrotic Mire]]{float: top-left}
 
 ## Appearance {#appearance}
 

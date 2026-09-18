@@ -10,7 +10,6 @@ shortcode: shrdbk
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: shrdbk
   templatePriority: null
   archetypes: []
   occupation: null
@@ -328,7 +327,7 @@ sohl:
         disabled: false
 ---
 
-![Shardbeak](images/beings/creatures/shrdbk.webp){float: top-left}
+![[shrdbk|Shardbeak]]{float: top-left}
 
 ## Appearance {#appearance}
 

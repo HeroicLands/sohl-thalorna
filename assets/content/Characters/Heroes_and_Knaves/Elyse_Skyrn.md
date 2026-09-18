@@ -16,7 +16,6 @@ shortcode: elyseskyrn
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: elyseskyrn
   templatePriority: null
   archetypes: []
   occupation: Alchemist
@@ -583,7 +582,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Elýsè Skýrn](images/beings/characters/elyseskyrn.webp){float: top-left}
+![[elyseskyrn|Elýsè Skýrn]]{float: top-left}
 
 ## Appearance {#appearance}
 

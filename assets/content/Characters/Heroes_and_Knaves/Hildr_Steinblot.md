@@ -15,7 +15,6 @@ shortcode: hldrstnblt
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: hldrstnblt
   templatePriority: null
   archetypes: []
   occupation: Potter
@@ -608,7 +607,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Hildr Steinblót](images/beings/characters/hldrstnblt.webp){float: top-left}
+![[hldrstnblt|Hildr Steinblót]]{float: top-left}
 
 ## Appearance {#appearance}
 

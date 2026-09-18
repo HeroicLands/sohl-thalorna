@@ -17,7 +17,6 @@ shortcode: phltsklfts
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: phltsklfts
   templatePriority: null
   archetypes: []
   occupation: Scholar
@@ -587,7 +586,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Philetos Kleftes](images/beings/characters/phltsklfts.webp){float: top-left}
+![[phltsklfts|Philetos Kleftes]]{float: top-left}
 
 ## Appearance {#appearance}
 

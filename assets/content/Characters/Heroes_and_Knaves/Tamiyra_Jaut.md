@@ -18,7 +18,6 @@ type: being
 data:
   banner: takheperubnr
   icon: sohl-none-icon-person
-  portrait: tamiyrajat
   templatePriority: null
   archetypes: []
   occupation: Courtesan
@@ -603,7 +602,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Ta'miyra Jâut](images/beings/characters/tamiyrajat.webp){float: top-left}
+![[tamiyrajat|Ta'miyra Jâut]]{float: top-left}
 
 **Home:** [[place-perankhet|Per-Ankhet]]
 

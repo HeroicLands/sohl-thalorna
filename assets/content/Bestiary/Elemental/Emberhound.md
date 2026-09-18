@@ -10,7 +10,6 @@ shortcode: embrhnd
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: embrhnd
   templatePriority: null
   archetypes: []
   occupation: null
@@ -364,7 +363,7 @@ sohl:
         disabled: false
 ---
 
-![Emberhound](images/beings/creatures/embrhnd.webp){float: top-left}
+![[embrhnd|Emberhound]]{float: top-left}
 
 ## Appearance {#appearance}
 

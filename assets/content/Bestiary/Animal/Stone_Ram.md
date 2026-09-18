@@ -10,7 +10,6 @@ shortcode: stoneram
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: stoneram
   templatePriority: null
   archetypes: []
   occupation: null
@@ -358,7 +357,7 @@ sohl:
         disabled: false
 ---
 
-![Stone Ram](images/beings/creatures/stoneram.webp){float: top-left}
+![[stoneram|Stone Ram]]{float: top-left}
 
 ## Appearance {#appearance}
 

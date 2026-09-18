@@ -15,7 +15,6 @@ shortcode: akksplytms
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: akksplytms
   templatePriority: null
   archetypes: []
   occupation: Common Seaman
@@ -587,7 +586,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Akákios Polytimós](images/beings/characters/akksplytms.webp){float: top-left}
+![[akksplytms|Akákios Polytimós]]{float: top-left}
 
 ## Appearance {#appearance}
 

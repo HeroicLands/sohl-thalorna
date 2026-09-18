@@ -10,7 +10,6 @@ shortcode: crystlcl
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: crystlcl
   templatePriority: null
   archetypes: []
   occupation: null
@@ -328,7 +327,7 @@ sohl:
         disabled: false
 ---
 
-![Crystalclaw](images/beings/creatures/crystlcl.webp){float: top-left}
+![[crystlcl|Crystalclaw]]{float: top-left}
 
 ## Appearance {#appearance}
 

@@ -16,7 +16,6 @@ shortcode: rudavahfrd
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: rudavahfrd
   templatePriority: null
   archetypes: []
   occupation: Ostler
@@ -610,7 +609,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Rudâvah Farrud](images/beings/characters/rudavahfrd.webp){float: top-left}
+![[rudavahfrd|Rudâvah Farrud]]{float: top-left}
 
 ## Appearance {#appearance}
 

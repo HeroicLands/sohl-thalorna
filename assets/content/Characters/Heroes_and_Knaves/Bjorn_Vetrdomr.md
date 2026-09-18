@@ -15,7 +15,6 @@ shortcode: bjrnvtrdmr
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: bjrnvtrdmr
   templatePriority: null
   archetypes: []
   occupation: Innkeeper
@@ -585,7 +584,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Björn Vetrdómr](images/beings/characters/bjrnvtrdmr.webp){float: top-left}
+![[bjrnvtrdmr|Björn Vetrdómr]]{float: top-left}
 
 ## Appearance {#appearance}
 

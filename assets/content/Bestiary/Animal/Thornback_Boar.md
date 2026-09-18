@@ -10,7 +10,6 @@ shortcode: thrnbckb
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: thrnbckb
   templatePriority: null
   archetypes: []
   occupation: null
@@ -346,7 +345,7 @@ sohl:
         disabled: false
 ---
 
-![Thornback Boar](images/beings/creatures/thrnbckb.webp){float: top-left}
+![[thrnbckb|Thornback Boar]]{float: top-left}
 
 ## Appearance {#appearance}
 

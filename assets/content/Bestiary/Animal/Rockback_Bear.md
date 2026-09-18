@@ -10,7 +10,6 @@ shortcode: rckbckbr
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: rckbckbr
   templatePriority: null
   archetypes: []
   occupation: null
@@ -335,7 +334,7 @@ sohl:
         disabled: false
 ---
 
-![Rockback Bear](images/beings/creatures/rckbckbr.webp){float: top-left}
+![[rckbckbr|Rockback Bear]]{float: top-left}
 
 ## Appearance {#appearance}
 

@@ -10,7 +10,6 @@ shortcode: mssbcktr
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: mssbcktr
   templatePriority: null
   archetypes: []
   occupation: null
@@ -327,7 +326,7 @@ sohl:
         disabled: false
 ---
 
-![Mossback Turtle](images/beings/creatures/mssbcktr.webp){float: top-left}
+![[mssbcktr|Mossback Turtle]]{float: top-left}
 
 ## Appearance {#appearance}
 

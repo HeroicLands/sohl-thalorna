@@ -16,7 +16,6 @@ shortcode: tarelblthl
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: tarelblthl
   templatePriority: null
   archetypes: []
   occupation: Astrologer
@@ -603,7 +602,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Tárellia Bélthal](images/beings/characters/tarelblthl.webp){float: top-left}
+![[tarelblthl|Tárellia Bélthal]]{float: top-left}
 
 ## Appearance {#appearance}
 

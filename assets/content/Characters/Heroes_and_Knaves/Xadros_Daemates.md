@@ -15,7 +15,6 @@ shortcode: xadrosdmts
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: xadrosdmts
   templatePriority: null
   archetypes: []
   occupation: Woodcrafter
@@ -592,7 +591,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Xadrôs Dâemâtês](images/beings/characters/xadrosdmts.webp){float: top-left}
+![[xadrosdmts|Xadrôs Dâemâtês]]{float: top-left}
 
 ## Appearance {#appearance}
 

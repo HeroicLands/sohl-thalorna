@@ -15,7 +15,6 @@ shortcode: ermlndrknt
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: ermlndrknt
   templatePriority: null
   archetypes: []
   occupation: Innkeeper
@@ -591,7 +590,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Ermelína Drekanótt](images/beings/characters/ermlndrknt.webp){float: top-left}
+![[ermlndrknt|Ermelína Drekanótt]]{float: top-left}
 
 ## Appearance {#appearance}
 

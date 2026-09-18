@@ -16,7 +16,6 @@ shortcode: klstrtsxrchds
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: klstrtsxrchds
   templatePriority: null
   archetypes: []
   occupation: Mage (Fire)
@@ -605,7 +604,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Kallistratos Exarchides](images/beings/characters/klstrtsxrchds.webp){float: top-left}
+![[klstrtsxrchds|Kallistratos Exarchides]]{float: top-left}
 
 ## Appearance {#appearance}
 

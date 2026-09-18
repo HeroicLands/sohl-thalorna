@@ -15,7 +15,6 @@ shortcode: sntydhyrjvrdhn
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: sntydhyrjvrdhn
   templatePriority: null
   archetypes: []
   occupation: Courtesan
@@ -596,7 +595,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Sunáti Āyodhyārājavardhan](images/beings/characters/sntydhyrjvrdhn.webp){float: top-left}
+![[sntydhyrjvrdhn|Sunáti Āyodhyārājavardhan]]{float: top-left}
 
 ## Appearance {#appearance}
 

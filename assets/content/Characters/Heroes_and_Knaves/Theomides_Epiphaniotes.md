@@ -15,7 +15,6 @@ shortcode: thmdspphnts
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: thmdspphnts
   templatePriority: null
   archetypes: []
   occupation: Trapper
@@ -598,7 +597,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Theomídes Epiphaniôtês](images/beings/characters/thmdspphnts.webp){float: top-left}
+![[thmdspphnts|Theomídes Epiphaniôtês]]{float: top-left}
 
 ## Appearance {#appearance}
 

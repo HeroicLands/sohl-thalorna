@@ -17,7 +17,6 @@ shortcode: shdqbnrhmndplmtcblddncr
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: shdqbnrhmndplmtcblddncr
   templatePriority: null
   archetypes: []
   occupation: Nobility (Courtier)
@@ -610,7 +609,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Shadiq ibn Rahman, The Diplomatic Blade Dancer](images/beings/characters/shdqbnrhmndplmtcblddncr.webp){float: top-left}
+![[shdqbnrhmndplmtcblddncr|Shadiq ibn Rahman, The Diplomatic Blade Dancer]]{float: top-left}
 
 ## Appearance {#appearance}
 

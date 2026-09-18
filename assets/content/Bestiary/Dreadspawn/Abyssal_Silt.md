@@ -10,7 +10,6 @@ shortcode: abysslsl
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: abysslsl
   templatePriority: null
   archetypes: []
   occupation: null
@@ -254,7 +253,7 @@ sohl:
         disabled: false
 ---
 
-![Abyssal Silt](images/beings/creatures/abysslsl.webp){float: top-left}
+![[abysslsl|Abyssal Silt]]{float: top-left}
 
 ## Appearance {#appearance}
 

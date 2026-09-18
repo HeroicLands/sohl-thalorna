@@ -10,7 +10,6 @@ shortcode: vrdntcl
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: vrdntcl
   templatePriority: null
   archetypes: []
   occupation: null
@@ -267,7 +266,7 @@ sohl:
         disabled: false
 ---
 
-![Verdantcoil](images/beings/creatures/vrdntcl.webp){float: top-left}
+![[vrdntcl|Verdantcoil]]{float: top-left}
 
 ## Appearance {#appearance}
 

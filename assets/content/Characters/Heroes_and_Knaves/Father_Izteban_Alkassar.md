@@ -18,7 +18,6 @@ shortcode: frztbnlksr
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: frztbnlksr
   templatePriority: null
   archetypes: []
   occupation: Priest
@@ -605,7 +604,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Father Iztéban Alkássar](images/beings/characters/frztbnlksr.webp){float: top-left}
+![[frztbnlksr|Father Iztéban Alkássar]]{float: top-left}
 
 ## Appearance {#appearance}
 

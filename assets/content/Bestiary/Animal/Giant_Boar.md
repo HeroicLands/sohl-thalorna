@@ -10,7 +10,6 @@ shortcode: gntbr
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: gntbr
   templatePriority: null
   archetypes: []
   occupation: null
@@ -346,7 +345,7 @@ sohl:
         disabled: false
 ---
 
-![Giant Boar](images/beings/creatures/gntbr.webp){float: top-left}
+![[gntbr|Giant Boar]]{float: top-left}
 
 ## Appearance {#appearance}
 

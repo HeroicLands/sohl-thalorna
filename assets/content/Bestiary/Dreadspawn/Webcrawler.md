@@ -10,7 +10,6 @@ shortcode: wbcrwlr
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: wbcrwlr
   templatePriority: null
   archetypes: []
   occupation: null
@@ -254,7 +253,7 @@ sohl:
         disabled: false
 ---
 
-![Webcrawler](images/beings/creatures/wbcrwlr.webp){float: top-left}
+![[wbcrwlr|Webcrawler]]{float: top-left}
 
 ## Appearance {#appearance}
 

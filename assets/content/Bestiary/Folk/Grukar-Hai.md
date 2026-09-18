@@ -10,7 +10,6 @@ shortcode: grkrh
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: grkrh
   templatePriority: null
   archetypes: []
   occupation: null
@@ -527,7 +526,7 @@ sohl:
         disabled: false
 ---
 
-![Grukar-Hai](images/beings/creatures/grkrh.webp){float: top-left}
+![[grkrh|Grukar-Hai]]{float: top-left}
 
 ## Appearance {#appearance}
 

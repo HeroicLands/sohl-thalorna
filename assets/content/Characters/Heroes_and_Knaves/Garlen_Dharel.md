@@ -15,7 +15,6 @@ shortcode: garlendhrl
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: garlendhrl
   templatePriority: null
   archetypes: []
   occupation: Hideworker
@@ -601,7 +600,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Gârlen Dhárel](images/beings/characters/garlendhrl.webp){float: top-left}
+![[garlendhrl|Gârlen Dhárel]]{float: top-left}
 
 ## Appearance {#appearance}
 

@@ -17,7 +17,6 @@ shortcode: rkrthrsldr
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: rkrthrsldr
   templatePriority: null
   archetypes: []
   occupation: Mage (Spirit)
@@ -624,7 +623,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Ríkarthr Íseldr](images/beings/characters/rkrthrsldr.webp){float: top-left}
+![[rkrthrsldr|Ríkarthr Íseldr]]{float: top-left}
 
 ## Appearance {#appearance}
 

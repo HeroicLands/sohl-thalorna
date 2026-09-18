@@ -15,7 +15,6 @@ shortcode: pdmvldhnrvdkrtrj
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: pdmvldhnrvdkrtrj
   templatePriority: null
   archetypes: []
   occupation: Cartographer/Artist
@@ -595,7 +594,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Padmàvali Dhanurvedakīrtirāja](images/beings/characters/pdmvldhnrvdkrtrj.webp){float: top-left}
+![[pdmvldhnrvdkrtrj|Padmàvali Dhanurvedakīrtirāja]]{float: top-left}
 
 ## Appearance {#appearance}
 

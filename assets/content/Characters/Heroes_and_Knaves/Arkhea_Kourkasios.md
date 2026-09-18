@@ -15,7 +15,6 @@ shortcode: arkhekrkss
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: arkhekrkss
   templatePriority: null
   archetypes: []
   occupation: Beggar
@@ -597,7 +596,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Arkhêa Kourkásios](images/beings/characters/arkhekrkss.webp){float: top-left}
+![[arkhekrkss|Arkhêa Kourkásios]]{float: top-left}
 
 ## Appearance {#appearance}
 

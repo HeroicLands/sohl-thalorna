@@ -15,7 +15,6 @@ shortcode: karriseldr
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: karriseldr
   templatePriority: null
   archetypes: []
   occupation: Clothier
@@ -590,7 +589,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Kárr Íseldr](images/beings/characters/karriseldr.webp){float: top-left}
+![[karriseldr|Kárr Íseldr]]{float: top-left}
 
 ## Appearance {#appearance}
 

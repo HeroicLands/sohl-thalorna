@@ -11,7 +11,6 @@ shortcode: harpy
 type: being
 data:
   icon: sohl-none-icon-harpy
-  portrait: null
   templatePriority: null
   archetypes: []
   occupation: null

@@ -16,7 +16,6 @@ shortcode: alyksthtks
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: alyksthtks
   templatePriority: null
   archetypes: []
   occupation: Timberwright
@@ -595,7 +594,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Alýkos Theotókis](images/beings/characters/alyksthtks.webp){float: top-left}
+![[alyksthtks|Alýkos Theotókis]]{float: top-left}
 
 ## Appearance {#appearance}
 

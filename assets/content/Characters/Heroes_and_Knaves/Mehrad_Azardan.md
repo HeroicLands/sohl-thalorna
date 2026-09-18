@@ -16,7 +16,6 @@ shortcode: mehradzrdn
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: mehradzrdn
   templatePriority: null
   archetypes: []
   occupation: Pilot
@@ -604,7 +603,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Mehrâd Âzardan](images/beings/characters/mehradzrdn.webp){float: top-left}
+![[mehradzrdn|Mehrâd Âzardan]]{float: top-left}
 
 ## Appearance {#appearance}
 

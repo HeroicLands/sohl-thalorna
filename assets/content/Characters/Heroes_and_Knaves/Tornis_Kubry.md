@@ -17,7 +17,6 @@ shortcode: torniskbry
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: torniskbry
   templatePriority: null
   archetypes: []
   occupation: Scout / Spy
@@ -567,7 +566,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Tórnis Kúbrý](images/beings/characters/torniskbry.webp){float: top-left}
+![[torniskbry|Tórnis Kúbrý]]{float: top-left}
 
 ## Appearance {#appearance}
 

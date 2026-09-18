@@ -10,7 +10,6 @@ shortcode: mrlrkr
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: mrlrkr
   templatePriority: null
   archetypes: []
   occupation: null
@@ -644,7 +643,7 @@ sohl:
         disabled: false
 ---
 
-![Mirelurker](images/beings/creatures/mrlrkr.webp){float: top-left}
+![[mrlrkr|Mirelurker]]{float: top-left}
 
 ## Appearance {#appearance}
 

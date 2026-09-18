@@ -10,7 +10,6 @@ shortcode: thrnbckr
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: thrnbckr
   templatePriority: null
   archetypes: []
   occupation: null
@@ -320,7 +319,7 @@ sohl:
         disabled: false
 ---
 
-![Thornback Raptor](images/beings/creatures/thrnbckr.webp){float: top-left}
+![[thrnbckr|Thornback Raptor]]{float: top-left}
 
 ## Appearance {#appearance}
 

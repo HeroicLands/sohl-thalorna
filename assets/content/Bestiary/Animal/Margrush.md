@@ -10,7 +10,6 @@ shortcode: margrush
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: margrush
   templatePriority: null
   archetypes: []
   occupation: null
@@ -335,7 +334,7 @@ sohl:
         disabled: false
 ---
 
-![Margrush](images/beings/creatures/margrush.webp){float: top-left}
+![[margrush|Margrush]]{float: top-left}
 
 ## Appearance {#appearance}
 

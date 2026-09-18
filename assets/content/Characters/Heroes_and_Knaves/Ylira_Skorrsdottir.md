@@ -15,7 +15,6 @@ type: being
 data:
   banner: tamzirbnr
   icon: sohl-none-icon-person
-  portrait: ylrskrsdtr
   templatePriority: null
   archetypes: []
   occupation: Warrior
@@ -562,7 +561,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Ylíra Skorrsdottir](images/beings/characters/ylrskrsdtr.webp){float: top-left}
+![[ylrskrsdtr|Ylíra Skorrsdottir]]{float: top-left}
 
 ## Appearance {#appearance}
 

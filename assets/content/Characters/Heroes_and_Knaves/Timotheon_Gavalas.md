@@ -16,7 +16,6 @@ shortcode: timthngvls
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: timthngvls
   templatePriority: null
   archetypes: []
   occupation: Teamster
@@ -588,7 +587,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Timothéon Gaválas](images/beings/characters/timthngvls.webp){float: top-left}
+![[timthngvls|Timothéon Gaválas]]{float: top-left}
 
 ## Appearance {#appearance}
 

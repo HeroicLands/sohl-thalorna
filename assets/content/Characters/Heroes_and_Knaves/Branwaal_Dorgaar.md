@@ -15,7 +15,6 @@ shortcode: branwldrgr
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: branwldrgr
   templatePriority: null
   archetypes: []
   occupation: Mercenary Captain
@@ -578,7 +577,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Brànwâal Dôrgaar](images/beings/characters/branwldrgr.webp){float: top-left}
+![[branwldrgr|Brànwâal Dôrgaar]]{float: top-left}
 
 ## Appearance {#appearance}
 

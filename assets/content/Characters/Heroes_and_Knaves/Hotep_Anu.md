@@ -18,7 +18,6 @@ type: being
 data:
   banner: takheperubnr
   icon: sohl-none-icon-person
-  portrait: hotepanu
   templatePriority: null
   archetypes: []
   occupation: Priest
@@ -584,7 +583,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Hotep Anu](images/beings/characters/hotepanu.webp){float: top-left}
+![[hotepanu|Hotep Anu]]{float: top-left}
 
 **Home:** [[place-ankhsetun|Ankh-Setûn]]
 

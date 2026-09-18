@@ -11,7 +11,6 @@ shortcode: vdyrnrhn
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: vdyrnrhn
   templatePriority: null
   archetypes: []
   occupation: null
@@ -383,7 +382,7 @@ sohl:
         disabled: false
 ---
 
-![Vedyaran Rhinoceros](images/beings/creatures/vdyrnrhn.webp){float: top-left}
+![[vdyrnrhn|Vedyaran Rhinoceros]]{float: top-left}
 
 ## Appearance {#appearance}
 

@@ -15,7 +15,6 @@ shortcode: phlthnktrts
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: phlthnktrts
   templatePriority: null
   archetypes: []
   occupation: Musician (Lute)
@@ -584,7 +583,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Philothêia Niktariôtês](images/beings/characters/phlthnktrts.webp){float: top-left}
+![[phlthnktrts|Philothêia Niktariôtês]]{float: top-left}
 
 ## Appearance {#appearance}
 

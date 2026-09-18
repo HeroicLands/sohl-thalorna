@@ -10,7 +10,6 @@ shortcode: octowolf
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: octowolf
   templatePriority: null
   archetypes: []
   occupation: null
@@ -342,7 +341,7 @@ sohl:
         disabled: false
 ---
 
-![Octowolf](images/beings/creatures/octowolf.webp){float: top-left}
+![[octowolf|Octowolf]]{float: top-left}
 
 ## Appearance {#appearance}
 

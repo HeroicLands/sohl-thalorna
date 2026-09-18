@@ -10,7 +10,6 @@ shortcode: frsttrll
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: frsttrll
   templatePriority: null
   archetypes: []
   occupation: null
@@ -592,7 +591,7 @@ sohl:
         disabled: false
 ---
 
-![Forest Troll](images/beings/creatures/frsttrll.webp){float: top-left}
+![[frsttrll|Forest Troll]]{float: top-left}
 
 ## Appearance {#appearance}
 

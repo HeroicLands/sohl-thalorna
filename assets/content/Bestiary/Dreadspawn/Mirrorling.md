@@ -10,7 +10,6 @@ shortcode: mrrrlng
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: mrrrlng
   templatePriority: null
   archetypes: []
   occupation: null
@@ -556,7 +555,7 @@ sohl:
         disabled: false
 ---
 
-![Mirrorling](images/beings/creatures/mrrrlng.webp){float: top-left}
+![[mrrrlng|Mirrorling]]{float: top-left}
 
 ## Appearance {#appearance}
 

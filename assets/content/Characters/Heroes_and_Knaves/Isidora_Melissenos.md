@@ -15,7 +15,6 @@ shortcode: isidrmlsns
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: isidrmlsns
   templatePriority: null
   archetypes: []
   occupation: Innkeeper
@@ -598,7 +597,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Isidôra Melissenós](images/beings/characters/isidrmlsns.webp){float: top-left}
+![[isidrmlsns|Isidôra Melissenós]]{float: top-left}
 
 ## Appearance {#appearance}
 

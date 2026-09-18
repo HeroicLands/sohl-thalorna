@@ -10,7 +10,6 @@ shortcode: drgnflyh
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: drgnflyh
   templatePriority: null
   archetypes: []
   occupation: null
@@ -309,7 +308,7 @@ sohl:
         disabled: false
 ---
 
-![Dragonfly Hawk](images/beings/creatures/drgnflyh.webp){float: top-left}
+![[drgnflyh|Dragonfly Hawk]]{float: top-left}
 
 ## Appearance {#appearance}
 

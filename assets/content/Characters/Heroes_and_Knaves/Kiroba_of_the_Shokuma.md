@@ -16,7 +16,6 @@ shortcode: kirobashkm
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: kirobashkm
   templatePriority: null
   archetypes: []
   occupation: Apothecary
@@ -586,7 +585,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Kiroba of the Shókuma](images/beings/characters/kirobashkm.webp){float: top-left}
+![[kirobashkm|Kiroba of the Shókuma]]{float: top-left}
 
 ## Appearance {#appearance}
 

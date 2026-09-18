@@ -10,7 +10,6 @@ shortcode: grmshdw
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: grmshdw
   templatePriority: null
   archetypes: []
   occupation: null
@@ -192,7 +191,7 @@ sohl:
         disabled: false
 ---
 
-![Grimshadow](images/beings/creatures/grmshdw.webp){float: top-left}
+![[grmshdw|Grimshadow]]{float: top-left}
 
 ## Appearance {#appearance}
 

@@ -10,7 +10,6 @@ shortcode: grkrsh
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: grkrsh
   templatePriority: null
   archetypes: []
   occupation: null
@@ -344,7 +343,7 @@ sohl:
         disabled: false
 ---
 
-![Grukar-Sha](images/beings/creatures/grkrsh.webp){float: top-left}
+![[grkrsh|Grukar-Sha]]{float: top-left}
 
 ## Appearance {#appearance}
 

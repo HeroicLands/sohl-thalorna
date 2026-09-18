@@ -15,7 +15,6 @@ shortcode: erythnslnds
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: erythnslnds
   templatePriority: null
   archetypes: []
   occupation: Yeoman Archer
@@ -586,7 +585,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Érython Ûselîndâs](images/beings/characters/erythnslnds.webp){float: top-left}
+![[erythnslnds|Érython Ûselîndâs]]{float: top-left}
 
 ## Appearance {#appearance}
 

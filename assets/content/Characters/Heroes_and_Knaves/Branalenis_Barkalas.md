@@ -15,7 +15,6 @@ shortcode: brnlnsbrkls
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: brnlnsbrkls
   templatePriority: null
   archetypes: []
   occupation: Common Seaman
@@ -595,7 +594,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Brânalenîs Bárkalâs](images/beings/characters/brnlnsbrkls.webp){float: top-left}
+![[brnlnsbrkls|Brânalenîs Bárkalâs]]{float: top-left}
 
 ## Appearance {#appearance}
 

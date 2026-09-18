@@ -10,7 +10,6 @@ shortcode: stnclmbr
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: stnclmbr
   templatePriority: null
   archetypes: []
   occupation: null
@@ -345,7 +344,7 @@ sohl:
         disabled: false
 ---
 
-![Stoneclimber](images/beings/creatures/stnclmbr.webp){float: top-left}
+![[stnclmbr|Stoneclimber]]{float: top-left}
 
 ## Appearance {#appearance}
 

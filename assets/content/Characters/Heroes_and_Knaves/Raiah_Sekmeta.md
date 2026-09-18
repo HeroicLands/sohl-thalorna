@@ -18,7 +18,6 @@ type: being
 data:
   banner: takheperubnr
   icon: sohl-none-icon-person
-  portrait: raiahsekmt
   templatePriority: null
   archetypes: []
   occupation: Weaponcrafter (Armorer)
@@ -572,7 +571,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Raiah Sekmet'â](images/beings/characters/raiahsekmt.webp){float: top-left}
+![[raiahsekmt|Raiah Sekmet'â]]{float: top-left}
 
 **Home:** [[place-wasetkara|Wasetkara]]
 

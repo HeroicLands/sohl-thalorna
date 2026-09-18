@@ -10,7 +10,6 @@ shortcode: crglrkr
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: crglrkr
   templatePriority: null
   archetypes: []
   occupation: null
@@ -265,7 +264,7 @@ sohl:
         disabled: false
 ---
 
-![Crag Lurker](images/beings/creatures/crglrkr.webp){float: top-left}
+![[crglrkr|Crag Lurker]]{float: top-left}
 
 ## Appearance {#appearance}
 

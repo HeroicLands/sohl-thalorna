@@ -16,7 +16,6 @@ shortcode: thrstnslvrgr
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: thrstnslvrgr
   templatePriority: null
   archetypes: []
   occupation: Glassworker
@@ -590,7 +589,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Thorsteinn Sólvargr](images/beings/characters/thrstnslvrgr.webp){float: top-left}
+![[thrstnslvrgr|Thorsteinn Sólvargr]]{float: top-left}
 
 ## Appearance {#appearance}
 

@@ -15,7 +15,6 @@ shortcode: vishalblry
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: vishalblry
   templatePriority: null
   archetypes: []
   occupation: Fool
@@ -583,7 +582,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Vishali Bâlarṇaya](images/beings/characters/vishalblry.webp){float: top-left}
+![[vishalblry|Vishali Bâlarṇaya]]{float: top-left}
 
 ## Appearance {#appearance}
 

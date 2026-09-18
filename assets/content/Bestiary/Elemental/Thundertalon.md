@@ -10,7 +10,6 @@ shortcode: thndrtln
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: thndrtln
   templatePriority: null
   archetypes: []
   occupation: null
@@ -321,7 +320,7 @@ sohl:
         disabled: false
 ---
 
-![Thundertalon](images/beings/creatures/thndrtln.webp){float: top-left}
+![[thndrtln|Thundertalon]]{float: top-left}
 
 ## Appearance {#appearance}
 

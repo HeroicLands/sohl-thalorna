@@ -16,7 +16,6 @@ shortcode: chynrkrsvr
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: null
   templatePriority: null
   archetypes: []
   occupation: Salter

@@ -15,7 +15,6 @@ type: being
 data:
   banner: tamzirbnr
   icon: sohl-none-icon-person
-  portrait: cibelasrnt
   templatePriority: null
   archetypes: []
   occupation: Ward
@@ -554,7 +553,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Cibella Serentia](images/beings/characters/cibelasrnt.webp){float: top-left}
+![[cibelasrnt|Cibella Serentia]]{float: top-left}
 
 ## Appearance {#appearance}
 

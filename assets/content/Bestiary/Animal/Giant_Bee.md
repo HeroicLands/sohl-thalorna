@@ -10,7 +10,6 @@ shortcode: giantbee
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: giantbee
   templatePriority: null
   archetypes: []
   occupation: null
@@ -322,7 +321,7 @@ sohl:
         disabled: false
 ---
 
-![Giant Bee](images/beings/creatures/giantbee.webp){float: top-left}
+![[giantbee|Giant Bee]]{float: top-left}
 
 ## Appearance {#appearance}
 

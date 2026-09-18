@@ -10,7 +10,6 @@ shortcode: mghyn
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: mghyn
   templatePriority: null
   archetypes: []
   occupation: null
@@ -306,7 +305,7 @@ sohl:
         disabled: false
 ---
 
-![Mega Hyena](images/beings/creatures/mghyn.webp){float: top-left}
+![[mghyn|Mega Hyena]]{float: top-left}
 
 ## Appearance {#appearance}
 

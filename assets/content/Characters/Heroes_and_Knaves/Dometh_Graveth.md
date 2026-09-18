@@ -16,7 +16,6 @@ shortcode: domthgrvth
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: domthgrvth
   templatePriority: null
   archetypes: []
   occupation: Shipwright
@@ -602,7 +601,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Dómeth Gráveth](images/beings/characters/domthgrvth.webp){float: top-left}
+![[domthgrvth|Dómeth Gráveth]]{float: top-left}
 
 ## Appearance {#appearance}
 

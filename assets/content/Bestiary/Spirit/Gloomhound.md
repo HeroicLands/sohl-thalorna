@@ -10,7 +10,6 @@ shortcode: glmhnd
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: glmhnd
   templatePriority: null
   archetypes: []
   occupation: null
@@ -363,7 +362,7 @@ sohl:
         disabled: false
 ---
 
-![Gloomhound](images/beings/creatures/glmhnd.webp){float: top-left}
+![[glmhnd|Gloomhound]]{float: top-left}
 
 ## Appearance {#appearance}
 

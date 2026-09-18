@@ -17,7 +17,6 @@ type: being
 data:
   banner: takheperubnr
   icon: sohl-none-icon-person
-  portrait: khathmykhr
   templatePriority: null
   archetypes: []
   occupation: Yeoman Archer
@@ -584,7 +583,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Khatah Mey'khari](images/beings/characters/khathmykhr.webp){float: top-left}
+![[khathmykhr|Khatah Mey'khari]]{float: top-left}
 
 **Home:** [[place-ankhsetun|Ankh-Setûn]]
 

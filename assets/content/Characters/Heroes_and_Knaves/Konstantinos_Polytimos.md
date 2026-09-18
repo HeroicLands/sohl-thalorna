@@ -15,7 +15,6 @@ shortcode: knstntnsplytms
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: knstntnsplytms
   templatePriority: null
   archetypes: []
   occupation: Cook
@@ -591,7 +590,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Konstántinos Polytimós](images/beings/characters/knstntnsplytms.webp){float: top-left}
+![[knstntnsplytms|Konstántinos Polytimós]]{float: top-left}
 
 ## Appearance {#appearance}
 

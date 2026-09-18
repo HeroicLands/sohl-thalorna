@@ -18,7 +18,6 @@ shortcode: dagmrwndrr
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: dagmrwndrr
   templatePriority: null
   archetypes: []
   occupation: Skald
@@ -585,7 +584,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Dagmar the Wanderer](images/beings/characters/dagmrwndrr.webp){float: top-left}
+![[dagmrwndrr|Dagmar the Wanderer]]{float: top-left}
 
 ## Appearance {#appearance}
 

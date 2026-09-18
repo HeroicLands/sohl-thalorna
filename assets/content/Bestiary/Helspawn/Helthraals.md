@@ -10,7 +10,6 @@ shortcode: hlthrls
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: hlthrls
   templatePriority: null
   archetypes: []
   occupation: null
@@ -516,7 +515,7 @@ sohl:
         disabled: false
 ---
 
-![Helthraals](images/beings/creatures/hlthrls.webp){float: top-left}
+![[hlthrls|Helthraals]]{float: top-left}
 
 ## Appearance {#appearance}
 

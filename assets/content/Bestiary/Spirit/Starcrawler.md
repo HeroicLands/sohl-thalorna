@@ -10,7 +10,6 @@ shortcode: strcrwlr
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: strcrwlr
   templatePriority: null
   archetypes: []
   occupation: null
@@ -284,7 +283,7 @@ sohl:
         disabled: false
 ---
 
-![Starcrawler](images/beings/creatures/strcrwlr.webp){float: top-left}
+![[strcrwlr|Starcrawler]]{float: top-left}
 
 ## Appearance {#appearance}
 

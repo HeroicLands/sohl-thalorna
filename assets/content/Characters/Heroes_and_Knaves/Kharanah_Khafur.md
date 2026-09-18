@@ -16,7 +16,6 @@ shortcode: kharnhkhfr
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: kharnhkhfr
   templatePriority: null
   archetypes: []
   occupation: Perfumer
@@ -592,7 +591,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Khârânah Khafûr](images/beings/characters/kharnhkhfr.webp){float: top-left}
+![[kharnhkhfr|Khârânah Khafûr]]{float: top-left}
 
 ## Appearance {#appearance}
 

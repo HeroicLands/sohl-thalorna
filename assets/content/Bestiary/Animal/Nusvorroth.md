@@ -10,7 +10,6 @@ shortcode: nsvrroth
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: nsvrroth
   templatePriority: null
   archetypes: []
   occupation: null
@@ -320,7 +319,7 @@ sohl:
         disabled: false
 ---
 
-![Nüsvōrroth](images/beings/creatures/nsvrroth.webp){float: top-left}
+![[nsvrroth|Nüsvōrroth]]{float: top-left}
 
 ## Appearance {#appearance}
 

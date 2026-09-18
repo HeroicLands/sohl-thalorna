@@ -15,7 +15,6 @@ type: being
 data:
   banner: tamzirbnr
   icon: sohl-none-icon-person
-  portrait: lucernsrnt
   templatePriority: null
   archetypes: []
   occupation: Physician
@@ -556,7 +555,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Lucerian Serentia](images/beings/characters/lucernsrnt.webp){float: top-left}
+![[lucernsrnt|Lucerian Serentia]]{float: top-left}
 
 ## Appearance {#appearance}
 

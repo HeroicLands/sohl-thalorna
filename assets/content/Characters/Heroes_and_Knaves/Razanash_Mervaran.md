@@ -15,7 +15,6 @@ shortcode: rznshmrvrn
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: rznshmrvrn
   templatePriority: null
   archetypes: []
   occupation: Shaman
@@ -618,7 +617,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Razanash Mervaran](images/beings/characters/rznshmrvrn.webp){float: top-left}
+![[rznshmrvrn|Razanash Mervaran]]{float: top-left}
 
 ## Appearance {#appearance}
 

@@ -15,7 +15,6 @@ shortcode: vogrblothl
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: vogrblothl
   templatePriority: null
   archetypes: []
   occupation: Woodcutter
@@ -592,7 +591,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Vöggr Blóthöll](images/beings/characters/vogrblothl.webp){float: top-left}
+![[vogrblothl|Vöggr Blóthöll]]{float: top-left}
 
 ## Appearance {#appearance}
 

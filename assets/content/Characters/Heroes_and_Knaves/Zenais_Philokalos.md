@@ -15,7 +15,6 @@ shortcode: zensphlkls
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: zensphlkls
   templatePriority: null
   archetypes: []
   occupation: Animal Trainer
@@ -593,7 +592,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Zênais Philokálos](images/beings/characters/zensphlkls.webp){float: top-left}
+![[zensphlkls|Zênais Philokálos]]{float: top-left}
 
 ## Appearance {#appearance}
 

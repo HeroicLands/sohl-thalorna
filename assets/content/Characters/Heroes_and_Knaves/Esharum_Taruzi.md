@@ -16,7 +16,6 @@ type: being
 data:
   banner: tamzirbnr
   icon: sohl-none-icon-person
-  portrait: esharumtrz
   templatePriority: null
   archetypes: []
   occupation: Ship Captain
@@ -565,7 +564,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Eshârum Tarûzî](images/beings/characters/esharumtrz.webp){float: top-left}
+![[esharumtrz|Eshârum Tarûzî]]{float: top-left}
 
 ## Appearance {#appearance}
 

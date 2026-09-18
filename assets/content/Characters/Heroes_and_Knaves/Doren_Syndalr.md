@@ -16,7 +16,6 @@ shortcode: dornsyndlr
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: dornsyndlr
   templatePriority: null
   archetypes: []
   occupation: Mercenary
@@ -570,7 +569,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Dôren Sýndalr](images/beings/characters/dornsyndlr.webp){float: top-left}
+![[dornsyndlr|Dôren Sýndalr]]{float: top-left}
 
 ## Appearance {#appearance}
 

@@ -17,7 +17,6 @@ shortcode: eshewamagr
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: eshewamagr
   templatePriority: null
   archetypes: []
   occupation: Swordmaster
@@ -599,7 +598,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Eshe wa Magara](images/beings/characters/eshewamagr.webp){float: top-left}
+![[eshewamagr|Eshe wa Magara]]{float: top-left}
 
 ## Appearance {#appearance}
 

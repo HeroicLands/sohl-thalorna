@@ -10,7 +10,6 @@ shortcode: spctrwlf
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: spctrwlf
   templatePriority: null
   archetypes: []
   occupation: null
@@ -326,7 +325,7 @@ sohl:
         disabled: false
 ---
 
-![Specterwolf](images/beings/creatures/spctrwlf.webp){float: top-left}
+![[spctrwlf|Specterwolf]]{float: top-left}
 
 ## Appearance {#appearance}
 

@@ -16,7 +16,6 @@ shortcode: hrfnklhrfnsvld
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: hrfnklhrfnsvld
   templatePriority: null
   archetypes: []
   occupation: Tentmaker
@@ -604,7 +603,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Hrafnkell Hrafnsvald](images/beings/characters/hrfnklhrfnsvld.webp){float: top-left}
+![[hrfnklhrfnsvld|Hrafnkell Hrafnsvald]]{float: top-left}
 
 ## Appearance {#appearance}
 

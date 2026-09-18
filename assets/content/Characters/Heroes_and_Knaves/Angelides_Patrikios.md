@@ -17,7 +17,6 @@ shortcode: angldsptrks
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: angldsptrks
   templatePriority: null
   archetypes: []
   occupation: Mage (Healing)
@@ -594,7 +593,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Ángelides Patrikîos](images/beings/characters/angldsptrks.webp){float: top-left}
+![[angldsptrks|Ángelides Patrikîos]]{float: top-left}
 
 ## Appearance {#appearance}
 

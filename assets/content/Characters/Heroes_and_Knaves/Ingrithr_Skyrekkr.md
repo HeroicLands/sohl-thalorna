@@ -15,7 +15,6 @@ shortcode: ingrthrskyrkr
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: ingrthrskyrkr
   templatePriority: null
   archetypes: []
   occupation: Domestic Servant
@@ -589,7 +588,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Íngrithr Skýrekkr](images/beings/characters/ingrthrskyrkr.webp){float: top-left}
+![[ingrthrskyrkr|Íngrithr Skýrekkr]]{float: top-left}
 
 ## Appearance {#appearance}
 

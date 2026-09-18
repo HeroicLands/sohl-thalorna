@@ -10,7 +10,6 @@ shortcode: thndrbrd
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: thndrbrd
   templatePriority: null
   archetypes: []
   occupation: null
@@ -371,7 +370,7 @@ sohl:
         disabled: false
 ---
 
-![Thunderbird](images/beings/creatures/thndrbrd.webp){float: top-left}
+![[thndrbrd|Thunderbird]]{float: top-left}
 
 ## Appearance {#appearance}
 

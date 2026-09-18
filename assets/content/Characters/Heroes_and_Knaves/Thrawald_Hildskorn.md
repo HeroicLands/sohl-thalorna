@@ -16,7 +16,6 @@ shortcode: thrwldhldskrn
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: thrwldhldskrn
   templatePriority: null
   archetypes: []
   occupation: Brigand
@@ -550,7 +549,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Thráwald Hildskorn](images/beings/characters/thrwldhldskrn.webp){float: top-left}
+![[thrwldhldskrn|Thráwald Hildskorn]]{float: top-left}
 
 ## Appearance {#appearance}
 

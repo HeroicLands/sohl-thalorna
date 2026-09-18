@@ -15,7 +15,6 @@ shortcode: bthvrslvrgr
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: bthvrslvrgr
   templatePriority: null
   archetypes: []
   occupation: Yeoman Infantry
@@ -583,7 +582,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Böthvarr Sólvargr](images/beings/characters/bthvrslvrgr.webp){float: top-left}
+![[bthvrslvrgr|Böthvarr Sólvargr]]{float: top-left}
 
 ## Appearance {#appearance}
 

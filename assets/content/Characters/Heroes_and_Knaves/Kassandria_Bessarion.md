@@ -17,7 +17,6 @@ shortcode: kasndrbsrn
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: kasndrbsrn
   templatePriority: null
   archetypes: []
   occupation: Mage (Lore)
@@ -594,7 +593,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Kassándria Bessarîon](images/beings/characters/kasndrbsrn.webp){float: top-left}
+![[kasndrbsrn|Kassándria Bessarîon]]{float: top-left}
 
 ## Appearance {#appearance}
 

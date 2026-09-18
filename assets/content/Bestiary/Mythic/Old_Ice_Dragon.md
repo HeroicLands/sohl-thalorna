@@ -12,7 +12,6 @@ shortcode: oldicdrg
 type: being
 data:
   icon: sohl-none-icon-dragonheadft
-  portrait: null
   templatePriority: null
   archetypes: []
   occupation: null

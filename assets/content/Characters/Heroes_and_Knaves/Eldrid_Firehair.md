@@ -19,7 +19,6 @@ shortcode: eldridfrhr
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: eldridfrhr
   templatePriority: null
   archetypes: []
   occupation: Shipwright
@@ -592,7 +591,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Eldrid Firehair](images/beings/characters/eldridfrhr.webp){float: top-left}
+![[eldridfrhr|Eldrid Firehair]]{float: top-left}
 
 ## Appearance {#appearance}
 

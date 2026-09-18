@@ -10,7 +10,6 @@ shortcode: vnmspttr
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: vnmspttr
   templatePriority: null
   archetypes: []
   occupation: null
@@ -247,7 +246,7 @@ sohl:
         disabled: false
 ---
 
-![Venomspitter](images/beings/creatures/vnmspttr.webp){float: top-left}
+![[vnmspttr|Venomspitter]]{float: top-left}
 
 ## Appearance {#appearance}
 

@@ -16,7 +16,6 @@ shortcode: grgrsphthympls
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: grgrsphthympls
   templatePriority: null
   archetypes: []
   occupation: Shipwright
@@ -599,7 +598,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Grégoras Ephthymiópoulos](images/beings/characters/grgrsphthympls.webp){float: top-left}
+![[grgrsphthympls|Grégoras Ephthymiópoulos]]{float: top-left}
 
 ## Appearance {#appearance}
 

@@ -15,7 +15,6 @@ shortcode: anrjhrdvmbjkr
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: anrjhrdvmbjkr
   templatePriority: null
   archetypes: []
   occupation: Assassin
@@ -587,7 +586,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Anûraja Harṣadēvāmbujakar](images/beings/characters/anrjhrdvmbjkr.webp){float: top-left}
+![[anrjhrdvmbjkr|Anûraja Harṣadēvāmbujakar]]{float: top-left}
 
 ## Appearance {#appearance}
 

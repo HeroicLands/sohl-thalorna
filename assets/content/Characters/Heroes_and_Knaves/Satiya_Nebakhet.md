@@ -18,7 +18,6 @@ type: being
 data:
   banner: takheperubnr
   icon: sohl-none-icon-person
-  portrait: satiynbkht
   templatePriority: null
   archetypes: []
   occupation: Domestic Servant
@@ -620,7 +619,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Satîya Neb'akhet](images/beings/characters/satiynbkht.webp){float: top-left}
+![[satiynbkht|Satîya Neb'akhet]]{float: top-left}
 
 **Home:** [[place-meruhotep|Meru-Hotep]]
 
