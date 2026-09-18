@@ -82,7 +82,6 @@ data:
   relations:
     varakpnthn: aligned
 packFolder: pantheonsvarnaka
-banner: faithbnr
 ---
 
 ## Agnī-panthā — The Path of the Flame

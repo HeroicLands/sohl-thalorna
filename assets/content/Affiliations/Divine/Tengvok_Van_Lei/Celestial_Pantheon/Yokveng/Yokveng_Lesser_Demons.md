@@ -94,7 +94,6 @@ data:
     tngvkvnlei: aligned
     yokveng: aligned
 packFolder: yokveng
-banner: faithbnr
 ---
 
 ## The Lesser Demons — Yōkvëng

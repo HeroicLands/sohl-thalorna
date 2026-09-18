@@ -89,7 +89,6 @@ data:
   parents: []
   relations: {}
 packFolder: ashaian
-banner: pantheonbnr
 ---
 
 **Pronunciation**: _Ah-SHY-uhn_
