@@ -5,12 +5,12 @@ tags:
 type: skill
 subType: mystical
 shortcode: surtr
-img: images/affiliation/asguardian/surtr.webp
 name:
   full: "Ritual: Súrtr"
   aliases:
     - The Flameborn Path
 data:
+  icon: surtr
   templatePriority: null
 sohl:
   system:

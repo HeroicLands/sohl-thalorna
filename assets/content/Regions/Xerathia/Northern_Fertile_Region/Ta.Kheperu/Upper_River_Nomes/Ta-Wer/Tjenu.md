@@ -13,7 +13,7 @@ data:
 name:
   full: Tjenu
   aliases: []
-banner: banners/ta-kheperu-banner.webp
+banner: takheperubnr
 shortcode: tjenu
 packFolder: upperrivernomes
 ---

@@ -5,6 +5,7 @@ tags:
 type: affiliation
 subType: faithtradition
 data:
+  icon: ymir
   templatePriority: null
   demonym: null
   epithet: The Creator
@@ -58,8 +59,8 @@ name:
   aliases:
     - The Divine Architect's Path
 shortcode: ymir
-img: images/affiliation/asguardian/ymir.webp
 packFolder: pantheonsasguardian
+banner: faithbnr
 ---
 
 Ymir, the god of creation, is a master craftsman and the divine architect of life. Ymir focuses his boundless creative energy on crafting new, unique forms of life, which he refers to as his "children." This god of innovation and experimentation resides in the physical world, where he has established vast laboratories and sprawling factories dedicated to his ceaseless work.

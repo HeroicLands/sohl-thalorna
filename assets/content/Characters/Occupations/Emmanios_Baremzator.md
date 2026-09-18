@@ -14,10 +14,10 @@ name:
     - Reslâva Aiden Greenfield
 packFolder: midhalionvylaria
 shortcode: emnsbrmztr
-img: sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/emnsbrmztr-portrait.webp
+  icon: sohl-none-icon-person
+  portrait: null
   templatePriority: null
   archetypes: []
   occupation: Priest

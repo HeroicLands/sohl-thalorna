@@ -12,10 +12,10 @@ name:
   aliases: []
 packFolder: aureldiaelavendre
 shortcode: alyrklmrth
-img: sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/alyrklmrth-portrait.webp
+  icon: sohl-none-icon-person
+  portrait: alyrklmrth
   templatePriority: null
   archetypes: []
   occupation: Toymaker
@@ -606,7 +606,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Ályra Kálmereth](images/beings/characters/alyrklmrth-portrait.webp){float: top-left}
+![Ályra Kálmereth](images/beings/characters/alyrklmrth.webp){float: top-left}
 
 ## Appearance {#appearance}
 

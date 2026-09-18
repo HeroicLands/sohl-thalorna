@@ -12,10 +12,10 @@ name:
   aliases: []
 packFolder: helladbyzaria
 shortcode: arkhekrkss
-img: sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/arkhekrkss-portrait.webp
+  icon: sohl-none-icon-person
+  portrait: arkhekrkss
   templatePriority: null
   archetypes: []
   occupation: Beggar
@@ -597,7 +597,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Arkhêa Kourkásios](images/beings/characters/arkhekrkss-portrait.webp){float: top-left}
+![Arkhêa Kourkásios](images/beings/characters/arkhekrkss.webp){float: top-left}
 
 ## Appearance {#appearance}
 

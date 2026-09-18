@@ -4,11 +4,11 @@ tags:
 type: skill
 subType: mystical
 shortcode: sideros
-img: images/affiliation/hex-hodai/sideros.webp
 name:
   full: Incantus Sidéros
   aliases: []
 data:
+  icon: sideros
   templatePriority: null
 sohl:
   system:

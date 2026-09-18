@@ -5,11 +5,11 @@ name:
   aliases:
     - Whisper
 description: "Whispered suggestion influencing target's thoughts and decisions."
-img: sohl/assets/icons/other/wind.svg
 shortcode: murmur
 type: mysticalability
 subType: arcaneincantation
 data:
+  icon: sohl-none-icon-wind
   templatePriority: null
 sohl:
   system:

@@ -5,11 +5,11 @@ name:
   aliases:
     - Vylari
 description: "The imperial tongue of the Vylarian court and the lingua franca of trade across Mídhalión."
-img: sohl/assets/icons/other/speaking.svg
 shortcode: vylarilng
 type: skill
 subType: language
 data:
+  icon: sohl-none-icon-speaking
   templatePriority: null
 sohl:
   system:

@@ -14,10 +14,10 @@ name:
     - Liora Stonemaster
 packFolder: aureldiaaelwyth
 shortcode: edithwlfrd
-img: sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/edithwlfrd-portrait.webp
+  icon: sohl-none-icon-person
+  portrait: null
   templatePriority: null
   archetypes: []
   occupation: Jeweller

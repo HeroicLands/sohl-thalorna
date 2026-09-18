@@ -6,11 +6,11 @@ name:
   full: Xerathian Forest Elephant
   aliases: []
 description: "A smaller, elusive tropical-forest elephant that avoids humans and vanishes into dense jungle through camouflage and reclusive habits."
-img: sohl/assets/icons/game-icons/delapouite/person.svg
 shortcode: xrthnfrs
 type: being
 data:
-  portrait: images/beings/creatures/xrthnfrs-portrait.webp
+  icon: sohl-none-icon-person
+  portrait: xrthnfrs
   templatePriority: null
   archetypes: []
   occupation: null
@@ -394,7 +394,7 @@ sohl:
         disabled: false
 ---
 
-![Xerathian Forest Elephant](images/beings/creatures/xrthnfrs-portrait.webp){float: top-left}
+![Xerathian Forest Elephant](images/beings/creatures/xrthnfrs.webp){float: top-left}
 
 ## Appearance {#appearance}
 

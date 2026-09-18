@@ -8,7 +8,6 @@ tags:
 type: lore
 subType: arcana
 shortcode: khemenuhekau
-img: icons/takheperu/khemenu-hekau/khemenu-hekau.svg
 name:
   full: Khemenu Hekau
   aliases:
@@ -16,6 +15,8 @@ name:
     - The Eight Powers
     - The Kemetían Arcane Tradition
 packFolder: khemenuhekau
+data:
+  icon: khemenuhekau
 ---
 
 ## Khemenu Hekau (The Eight Powers)

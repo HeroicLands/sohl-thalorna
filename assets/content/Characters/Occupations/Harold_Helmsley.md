@@ -13,10 +13,10 @@ name:
     - Garron Marlowe
 packFolder: aureldiaaelwyth
 shortcode: hrldhlmsly
-img: sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/hrldhlmsly-portrait.webp
+  icon: sohl-none-icon-person
+  portrait: null
   templatePriority: null
   archetypes: []
   occupation: Animal Trainer

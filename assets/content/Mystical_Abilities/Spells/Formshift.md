@@ -5,11 +5,11 @@ name:
   aliases:
     - Aspect
 description: "Target's shape shifts; body transforms into beast or humanoid form."
-img: sohl/assets/icons/game-icons/badges/anvil.svg
 shortcode: frmshft
 type: mysticalability
 subType: arcaneincantation
 data:
+  icon: sohl-none-icon-anvilbdg
   templatePriority: null
 sohl:
   system:

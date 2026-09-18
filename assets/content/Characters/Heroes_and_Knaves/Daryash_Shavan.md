@@ -12,10 +12,10 @@ name:
   aliases: []
 packFolder: sultanateofamradad
 shortcode: daryshshvn
-img: sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/daryshshvn-portrait.webp
+  icon: sohl-none-icon-person
+  portrait: daryshshvn
   templatePriority: null
   archetypes: []
   occupation: Woodcrafter
@@ -586,7 +586,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Daryash Shavân](images/beings/characters/daryshshvn-portrait.webp){float: top-left}
+![Daryash Shavân](images/beings/characters/daryshshvn.webp){float: top-left}
 
 ## Appearance {#appearance}
 

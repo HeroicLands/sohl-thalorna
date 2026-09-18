@@ -5,13 +5,13 @@ tags:
 type: skill
 subType: mystical
 shortcode: lusinia
-img: images/affiliation/aureldian/lusinia.webp
 name:
   full: "Ritual: Lusinia"
   aliases:
     - Lúsinía
     - The World-Weaver
 data:
+  icon: lusinia
   templatePriority: null
 sohl:
   system:

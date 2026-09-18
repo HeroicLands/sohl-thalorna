@@ -5,11 +5,11 @@ name:
   aliases:
     - Restoration
 description: "Restores objects to original condition; heals cracks, breaks, tears."
-img: sohl/assets/icons/game-icons/badges/anvil.svg
 shortcode: mend
 type: mysticalability
 subType: arcaneincantation
 data:
+  icon: sohl-none-icon-anvilbdg
   templatePriority: null
 sohl:
   system:

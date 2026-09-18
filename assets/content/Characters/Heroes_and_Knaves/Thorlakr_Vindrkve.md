@@ -12,10 +12,10 @@ name:
   aliases: []
 packFolder: ankarisnordlands
 shortcode: thrlkrvndrkv
-img: sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/thrlkrvndrkv-portrait.webp
+  icon: sohl-none-icon-person
+  portrait: thrlkrvndrkv
   templatePriority: null
   archetypes: []
   occupation: Miner
@@ -606,7 +606,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Thorlákr Vindrkvé](images/beings/characters/thrlkrvndrkv-portrait.webp){float: top-left}
+![Thorlákr Vindrkvé](images/beings/characters/thrlkrvndrkv.webp){float: top-left}
 
 ## Appearance {#appearance}
 

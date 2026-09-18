@@ -8,10 +8,10 @@ name:
     - Nordlands
     - Nordheim
 shortcode: nrdlndsrgn
-img: null
 type: place
 subType: region
 data:
+  icon: null
   demonym: Nordmen
   lore:
     - humanflk

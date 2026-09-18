@@ -6,10 +6,10 @@ name:
   full: K'uxi Balam
   aliases: []
 shortcode: kuxibalam
-img: null
 type: affiliation
 subType: polity
 data:
+  icon: null
   templatePriority: null
   demonym: null
   epithet: null

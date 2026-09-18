@@ -12,11 +12,11 @@ name:
     - Parma
 packFolder: helladhelionis
 shortcode: damsnghlrn
-banner: banners/tamzir-banner.webp
-img: sohl/assets/icons/game-icons/delapouite/person.svg
+banner: tamzirbnr
 type: being
 data:
-  portrait: images/beings/characters/damsnghlrn-portrait.webp
+  icon: sohl-none-icon-person
+  portrait: damsnghlrn
   templatePriority: null
   archetypes: []
   occupation: Priest
@@ -561,7 +561,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Dámàsûn Ghôlâron](images/beings/characters/damsnghlrn-portrait.webp){float: top-left}
+![Dámàsûn Ghôlâron](images/beings/characters/damsnghlrn.webp){float: top-left}
 
 ## Appearance {#appearance}
 

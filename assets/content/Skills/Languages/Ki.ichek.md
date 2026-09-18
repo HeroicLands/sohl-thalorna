@@ -5,11 +5,11 @@ name:
   aliases:
     - Ki'ichek
 description: "The tonal, hieroglyph-written tongue of the K'ich'chik city-states, whose compound morphology can take a lifetime to master."
-img: sohl/assets/icons/other/speaking.svg
 shortcode: kicheklng
 type: skill
 subType: language
 data:
+  icon: sohl-none-icon-speaking
   templatePriority: null
 sohl:
   system:

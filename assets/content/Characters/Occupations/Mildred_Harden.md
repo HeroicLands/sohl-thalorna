@@ -14,10 +14,10 @@ name:
     - Elda Brightbrew
 packFolder: aureldiaaelwyth
 shortcode: mildrdhrdn
-img: sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/mildrdhrdn-portrait.webp
+  icon: sohl-none-icon-person
+  portrait: null
   templatePriority: null
   archetypes: []
   occupation: Innkeeper

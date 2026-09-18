@@ -13,10 +13,10 @@ name:
   aliases: []
 packFolder: helladbyzaria
 shortcode: klxnsprklvs
-img: sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/klxnsprklvs-portrait.webp
+  icon: sohl-none-icon-person
+  portrait: klxnsprklvs
   templatePriority: null
   archetypes: []
   occupation: Litigant
@@ -584,7 +584,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Kallíxenos Paraklávos](images/beings/characters/klxnsprklvs-portrait.webp){float: top-left}
+![Kallíxenos Paraklávos](images/beings/characters/klxnsprklvs.webp){float: top-left}
 
 ## Appearance {#appearance}
 

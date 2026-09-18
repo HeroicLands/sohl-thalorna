@@ -5,13 +5,13 @@ tags:
 type: skill
 subType: mystical
 shortcode: xaqikhanal
-img: null
 name:
   full: "Ritual: Xaq'ik Ha'nal"
   aliases:
     - Xaq'ik Ha'nal
     - The Blossom of Living Waters
 data:
+  icon: null
   templatePriority: null
 sohl:
   system:

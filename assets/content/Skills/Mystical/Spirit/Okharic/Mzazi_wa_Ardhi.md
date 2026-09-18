@@ -6,12 +6,12 @@ description: "Standing with Mzazi wa Ardhi, zohira of fertility — what this em
 type: skill
 subType: mystical
 shortcode: mzazisprt
-img: sohl/assets/icons/game-icons/lorc/psychic-waves.svg
 name:
   full: "Mzazi wa Ardhi Spirit Power"
   aliases:
     - The Begetter of the Earth
 data:
+  icon: sohl-none-icon-psychicwaves
   templatePriority: null
 sohl:
   system:

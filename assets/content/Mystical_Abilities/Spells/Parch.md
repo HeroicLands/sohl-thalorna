@@ -5,11 +5,11 @@ name:
   aliases:
     - Desiccation
 description: "Desiccates target, causing severe thirst and weakening."
-img: sohl/assets/icons/game-icons/badges/fire.svg
 shortcode: parch
 type: mysticalability
 subType: arcaneincantation
 data:
+  icon: sohl-none-icon-firebdg
   templatePriority: null
 sohl:
   system:

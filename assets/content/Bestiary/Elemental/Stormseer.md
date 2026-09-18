@@ -6,11 +6,11 @@ name:
   full: Stormseer
   aliases: []
 description: "An arrogant elemental of sky and lightning born from violent storms, heralding severe weather that some believe its very presence conjures."
-img: sohl/assets/icons/game-icons/delapouite/person.svg
 shortcode: strmsr
 type: being
 data:
-  portrait: images/beings/creatures/strmsr-portrait.webp
+  icon: sohl-none-icon-person
+  portrait: strmsr
   templatePriority: null
   archetypes: []
   occupation: null
@@ -321,7 +321,7 @@ sohl:
         disabled: false
 ---
 
-![Stormseer](images/beings/creatures/strmsr-portrait.webp){float: top-left}
+![Stormseer](images/beings/creatures/strmsr.webp){float: top-left}
 
 ## Appearance {#appearance}
 

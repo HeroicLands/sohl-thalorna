@@ -5,11 +5,11 @@ name:
   aliases:
     - Repel
 description: "Force blast knocks enemies away; may stun or disorient."
-img: sohl/assets/icons/game-icons/badges/anvil.svg
 shortcode: pushback
 type: mysticalability
 subType: arcaneincantation
 data:
+  icon: sohl-none-icon-anvilbdg
   templatePriority: null
 sohl:
   system:

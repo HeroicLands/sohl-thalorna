@@ -4,12 +4,12 @@ tags:
 type: skill
 subType: mystical
 shortcode: khatnu
-img: icons/takheperu/khemenu-hekau/khatnu.svg
 name:
   full: "Hekau: Khat'nu"
   aliases:
     - Per-Khat'nu
 data:
+  icon: khatnu
   templatePriority: null
 sohl:
   system:

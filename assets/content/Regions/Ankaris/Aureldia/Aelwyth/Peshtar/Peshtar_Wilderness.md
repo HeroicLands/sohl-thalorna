@@ -7,10 +7,10 @@ name:
   aliases:
     - Peshtar Highlands
 shortcode: pshtrwldrns
-img: null
 type: place
 subType: region
 data:
+  icon: null
   demonym: Peshtar
   lore:
     - humanflk

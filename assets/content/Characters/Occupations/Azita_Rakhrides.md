@@ -13,10 +13,10 @@ name:
     - Fiona Brightwater
 packFolder: helladhelionis
 shortcode: azitrkhrds
-img: sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/azitrkhrds-portrait.webp
+  icon: sohl-none-icon-person
+  portrait: null
   templatePriority: null
   archetypes: []
   occupation: Mercantyler

@@ -13,10 +13,10 @@ name:
     - Taran Stonecarver
 packFolder: aureldiatarvenia
 shortcode: jolrenlvnr
-img: sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/jolrenlvnr-portrait.webp
+  icon: sohl-none-icon-person
+  portrait: null
   templatePriority: null
   archetypes: []
   occupation: Mason

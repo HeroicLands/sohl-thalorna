@@ -13,10 +13,10 @@ name:
     - Brynn Digger
 packFolder: helladhelionis
 shortcode: talimthmrn
-img: sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/talimthmrn-portrait.webp
+  icon: sohl-none-icon-person
+  portrait: null
   templatePriority: null
   archetypes: []
   occupation: Man-at-Arms (Sapper)

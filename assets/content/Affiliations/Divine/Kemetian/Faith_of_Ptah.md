@@ -8,6 +8,7 @@ tags:
 type: affiliation
 subType: faithtradition
 data:
+  icon: ptah
   templatePriority: null
   demonym: null
   epithet: Shaper of the Eternal World
@@ -83,8 +84,7 @@ name:
     - The Shaper of the Eternal World
     - The Divine Craftsman
 shortcode: ptah
-img: icons/takheperu/pantheon/ptah.svg
-banner: banners/ta-kheperu-banner.webp
+banner: takheperubnr
 packFolder: pantheonskemetian
 ---
 

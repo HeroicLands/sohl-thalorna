@@ -8,10 +8,10 @@ name:
     - Tribal Lands
     - The Interior
 shortcode: alndntrblnds
-img: null
 type: place
 subType: region
 data:
+  icon: null
   demonym: Áelendan
   lore:
     - humanflk

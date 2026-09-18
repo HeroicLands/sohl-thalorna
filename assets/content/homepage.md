@@ -29,7 +29,7 @@ title: The World of Thalorna
 description: >-
   A world of feuding realms, old faiths, and older powers — its peoples,
   places, creatures, and the lore that binds them.
-banner: banners/tapestry-of-dreams.webp
+banner: tapestryofdreamsbnr
 
 landing:
   cards:

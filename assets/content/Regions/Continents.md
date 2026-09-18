@@ -7,7 +7,7 @@ subType: reference
 shortcode: continents
 tags:
 description: Major landmasses of the world.
-banner: banners/continent.webp
+banner: continentbnr
 ---
 
 Major landmasses of the world.

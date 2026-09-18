@@ -10,8 +10,10 @@ name:
   aliases:
     - Bear Totem
 shortcode: bearttm
-img: images/mystery/bear.webp
 packFolder: loretotems
+banner: creaturebnr
+data:
+  icon: bear
 ---
 
 Quiet and shy, bears prefer to avoid confrontation, retreating into the wilderness where they live a largely solitary and reclusive life.

@@ -5,11 +5,11 @@ name:
   aliases:
     - Glamour
 description: "Luminous aura enhancing appearance; subjects glow with inner radiance."
-img: sohl/assets/icons/other/wind.svg
 shortcode: illusion
 type: mysticalability
 subType: arcaneincantation
 data:
+  icon: sohl-none-icon-wind
   templatePriority: null
 sohl:
   system:

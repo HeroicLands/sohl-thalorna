@@ -13,10 +13,10 @@ name:
   aliases: []
 packFolder: aureldiatarvenia
 shortcode: carengrvth
-img: sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/carengrvth-portrait.webp
+  icon: sohl-none-icon-person
+  portrait: carengrvth
   templatePriority: null
   archetypes: []
   occupation: Herald
@@ -591,7 +591,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Cárenna Gráveth](images/beings/characters/carengrvth-portrait.webp){float: top-left}
+![Cárenna Gráveth](images/beings/characters/carengrvth.webp){float: top-left}
 
 ## Appearance {#appearance}
 

@@ -14,7 +14,7 @@ data:
 name:
   full: Khemenu
   aliases: []
-banner: banners/ta-kheperu-banner.webp
+banner: takheperubnr
 shortcode: khemenu
 packFolder: perthoth
 ---

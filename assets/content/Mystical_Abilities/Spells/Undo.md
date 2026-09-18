@@ -5,11 +5,11 @@ name:
   aliases:
     - Reverse
 description: "Reverses recent action; undoes last spell or change."
-img: sohl/assets/icons/game-icons/delapouite/circle.svg
 shortcode: undo
 type: mysticalability
 subType: arcaneincantation
 data:
+  icon: sohl-none-icon-circle
   templatePriority: null
 sohl:
   system:

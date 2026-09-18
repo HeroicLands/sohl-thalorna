@@ -6,6 +6,7 @@ name:
   aliases: []
 shortcode: dreadspawn
 packFolder: threats
+banner: creaturebnr
 ---
 
 ## The Dreadspawn

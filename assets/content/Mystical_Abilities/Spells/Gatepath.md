@@ -5,11 +5,11 @@ name:
   aliases:
     - Passage
 description: "Opens doorway between distant locations; establishes passage through barriers."
-img: sohl/assets/icons/other/wind.svg
 shortcode: gatepath
 type: mysticalability
 subType: arcaneincantation
 data:
+  icon: sohl-none-icon-wind
   templatePriority: null
 sohl:
   system:

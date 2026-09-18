@@ -2,7 +2,7 @@
 tags: []
 description: "Ancient continuous civilization of Xerathia's Northern Fertile Region — river-valley empire whose flood-cycle theology, priestly bureaucracy, and remarkable capacity to digest its own conquerors have outlasted every rival power on the continent."
 type: affiliation
-banner: banners/ta-kheperu-banner.webp
+banner: takheperubnr
 name:
   full: Empire of Ta'Kheperu
   aliases: []

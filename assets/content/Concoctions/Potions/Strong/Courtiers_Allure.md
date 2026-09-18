@@ -6,13 +6,13 @@ name:
   aliases:
     - Potion, Aromatic, Strong
 description: "Jewel-toned amber aromatic; enhances social appeal and persuasion."
-img: sohl/assets/icons/other/potion.svg
 shortcode: ptnaroms
 type: concoctiongear
 subType: exotic
 hmk:
   name: "Potion, Aromatic, Strong"
 data:
+  icon: sohl-none-icon-potion
   templatePriority: null
 sohl:
   system:

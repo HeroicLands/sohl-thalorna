@@ -5,12 +5,12 @@ tags:
 type: skill
 subType: mystical
 shortcode: seker
-img: icons/takheperu/pantheon/seker.svg
 name:
   full: "Ritual: Sēker"
   aliases:
     - Lord of Silent Passage
 data:
+  icon: seker
   templatePriority: null
 sohl:
   system:

@@ -13,12 +13,12 @@ name:
     - Hersaîs SaAnut
     - Hersais SaAnut
 packFolder: northernfertileregiontakheperu
-banner: banners/ta-kheperu-banner.webp
+banner: takheperubnr
 shortcode: hersaisant
-img: sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/hersaisant-portrait.webp
+  icon: sohl-none-icon-person
+  portrait: hersaisant
   templatePriority: null
   archetypes: []
   occupation: Nobility (Tenant-in-chief)
@@ -613,7 +613,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Her'sa'îs Sa'Anut](images/beings/characters/hersaisant-portrait.webp){float: top-left}
+![Her'sa'îs Sa'Anut](images/beings/characters/hersaisant.webp){float: top-left}
 
 **Home:** [[place-ankhsetun|Ankh-Setûn]]
 

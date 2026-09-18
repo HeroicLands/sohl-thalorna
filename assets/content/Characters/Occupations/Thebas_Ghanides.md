@@ -13,10 +13,10 @@ name:
     - Cedwin Longstride
 packFolder: helladhelionis
 shortcode: thebsghnds
-img: sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/thebsghnds-portrait.webp
+  icon: sohl-none-icon-person
+  portrait: null
   templatePriority: null
   archetypes: []
   occupation: Teamster

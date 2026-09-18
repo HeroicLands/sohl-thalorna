@@ -6,11 +6,11 @@ name:
   full: Earthcharger
   aliases: []
 description: "A heavily armored cavern arthropod and living battering ram that breaks through doors and weakened stonework with unstoppable force."
-img: sohl/assets/icons/game-icons/delapouite/person.svg
 shortcode: erthchrg
 type: being
 data:
-  portrait: images/beings/creatures/erthchrg-portrait.webp
+  icon: sohl-none-icon-person
+  portrait: erthchrg
   templatePriority: null
   archetypes: []
   occupation: null
@@ -271,7 +271,7 @@ sohl:
         disabled: false
 ---
 
-![Earthcharger](images/beings/creatures/erthchrg-portrait.webp){float: top-left}
+![Earthcharger](images/beings/creatures/erthchrg.webp){float: top-left}
 
 ## Appearance {#appearance}
 

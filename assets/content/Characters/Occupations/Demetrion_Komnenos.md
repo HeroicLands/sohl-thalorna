@@ -13,10 +13,10 @@ name:
   aliases: []
 packFolder: helladbyzaria
 shortcode: dmtrnkmnns
-img: sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/dmtrnkmnns-portrait.webp
+  icon: sohl-none-icon-person
+  portrait: null
   templatePriority: null
   archetypes: []
   occupation: Town Guard

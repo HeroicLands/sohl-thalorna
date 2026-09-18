@@ -12,10 +12,10 @@ name:
   aliases: []
 packFolder: ankarisnordlands
 shortcode: ermlndrknt
-img: sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/ermlndrknt-portrait.webp
+  icon: sohl-none-icon-person
+  portrait: ermlndrknt
   templatePriority: null
   archetypes: []
   occupation: Innkeeper
@@ -591,7 +591,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Ermelína Drekanótt](images/beings/characters/ermlndrknt-portrait.webp){float: top-left}
+![Ermelína Drekanótt](images/beings/characters/ermlndrknt.webp){float: top-left}
 
 ## Appearance {#appearance}
 

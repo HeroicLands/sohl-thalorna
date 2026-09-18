@@ -7,7 +7,7 @@ subType: reference
 shortcode: mysticalability
 tags:
 description: Magical and supernatural powers.
-banner: systems/sohl/assets/images/banners/mysticalability.webp
+banner: packagebuild-none-image-mysticalabilitybnr
 ---
 
 ## Arcane Incantation

@@ -12,10 +12,10 @@ name:
   aliases: []
 packFolder: helladbyzaria
 shortcode: phlthnktrts
-img: sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/phlthnktrts-portrait.webp
+  icon: sohl-none-icon-person
+  portrait: phlthnktrts
   templatePriority: null
   archetypes: []
   occupation: Musician (Lute)
@@ -584,7 +584,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Philothêia Niktariôtês](images/beings/characters/phlthnktrts-portrait.webp){float: top-left}
+![Philothêia Niktariôtês](images/beings/characters/phlthnktrts.webp){float: top-left}
 
 ## Appearance {#appearance}
 

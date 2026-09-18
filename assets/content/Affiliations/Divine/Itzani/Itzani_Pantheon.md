@@ -123,6 +123,7 @@ data:
   parents: []
   relations: {}
 packFolder: pantheonitzani
+banner: pantheonbnr
 ---
 
 ## The Itzáni Faith

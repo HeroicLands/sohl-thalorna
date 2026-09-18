@@ -12,10 +12,10 @@ name:
   aliases: []
 packFolder: ankarisnordlands
 shortcode: bjrnvtrdmr
-img: sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/bjrnvtrdmr-portrait.webp
+  icon: sohl-none-icon-person
+  portrait: bjrnvtrdmr
   templatePriority: null
   archetypes: []
   occupation: Innkeeper
@@ -585,7 +585,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Björn Vetrdómr](images/beings/characters/bjrnvtrdmr-portrait.webp){float: top-left}
+![Björn Vetrdómr](images/beings/characters/bjrnvtrdmr.webp){float: top-left}
 
 ## Appearance {#appearance}
 

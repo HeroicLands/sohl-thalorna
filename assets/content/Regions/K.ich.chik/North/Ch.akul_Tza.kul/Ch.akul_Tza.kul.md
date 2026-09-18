@@ -6,10 +6,10 @@ name:
   full: Ch'akul Tza'kul
   aliases: []
 shortcode: chakultzkl
-img: null
 type: affiliation
 subType: polity
 data:
+  icon: null
   templatePriority: null
   demonym: null
   epithet: null

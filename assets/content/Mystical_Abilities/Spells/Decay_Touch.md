@@ -5,11 +5,11 @@ name:
   aliases:
     - Wasting
 description: "Rots organic matter; accelerates corruption and decay on contact."
-img: sohl/assets/icons/other/tree.svg
 shortcode: dcytch
 type: mysticalability
 subType: arcaneincantation
 data:
+  icon: sohl-none-icon-tree
   templatePriority: null
 sohl:
   system:

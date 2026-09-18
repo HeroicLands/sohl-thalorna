@@ -4,11 +4,11 @@ name:
   full: Heat
   aliases: []
 description: "Controllable heating; forges metal, melts ice, ignites materials gradually."
-img: sohl/assets/icons/game-icons/badges/fire.svg
 shortcode: heat
 type: mysticalability
 subType: arcaneincantation
 data:
+  icon: sohl-none-icon-firebdg
   templatePriority: null
 sohl:
   system:

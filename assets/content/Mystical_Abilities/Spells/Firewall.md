@@ -5,11 +5,11 @@ name:
   aliases:
     - Wall
 description: "Erupts continuous wall of flame; blocks passage and sears crossing."
-img: sohl/assets/icons/game-icons/badges/fire.svg
 shortcode: firewall
 type: mysticalability
 subType: arcaneincantation
 data:
+  icon: sohl-none-icon-firebdg
   templatePriority: null
 sohl:
   system:

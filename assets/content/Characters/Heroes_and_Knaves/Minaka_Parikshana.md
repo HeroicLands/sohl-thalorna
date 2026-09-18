@@ -12,10 +12,10 @@ name:
   aliases: []
 packFolder: ankarisvedyara
 shortcode: minakprkhn
-img: sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/minakprkhn-portrait.webp
+  icon: sohl-none-icon-person
+  portrait: minakprkhn
   templatePriority: null
   archetypes: []
   occupation: Cook
@@ -593,7 +593,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Minàka Parikṣhana](images/beings/characters/minakprkhn-portrait.webp){float: top-left}
+![Minàka Parikṣhana](images/beings/characters/minakprkhn.webp){float: top-left}
 
 ## Appearance {#appearance}
 

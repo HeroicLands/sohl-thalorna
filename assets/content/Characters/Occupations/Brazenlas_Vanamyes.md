@@ -13,10 +13,10 @@ name:
     - Orwin Blackshade
 packFolder: midhalionvylaria
 shortcode: brznlsvnmys
-img: sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/brznlsvnmys-portrait.webp
+  icon: sohl-none-icon-person
+  portrait: null
   templatePriority: null
   archetypes: []
   occupation: Embalmer

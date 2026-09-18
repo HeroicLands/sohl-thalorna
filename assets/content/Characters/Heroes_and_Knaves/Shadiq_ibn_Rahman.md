@@ -14,10 +14,10 @@ name:
     - The Diplomatic Blade Dancer
 packFolder: heroesandknaveskalihara
 shortcode: shdqbnrhmndplmtcblddncr
-img: sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/shdqbnrhmndplmtcblddncr-portrait.webp
+  icon: sohl-none-icon-person
+  portrait: shdqbnrhmndplmtcblddncr
   templatePriority: null
   archetypes: []
   occupation: Nobility (Courtier)
@@ -610,7 +610,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Shadiq ibn Rahman, The Diplomatic Blade Dancer](images/beings/characters/shdqbnrhmndplmtcblddncr-portrait.webp){float: top-left}
+![Shadiq ibn Rahman, The Diplomatic Blade Dancer](images/beings/characters/shdqbnrhmndplmtcblddncr.webp){float: top-left}
 
 ## Appearance {#appearance}
 

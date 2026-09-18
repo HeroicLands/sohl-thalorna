@@ -6,6 +6,7 @@ tags:
 type: affiliation
 subType: faithtradition
 data:
+  icon: murkir
   templatePriority: null
   demonym: null
   epithet: The Wayfarer
@@ -69,8 +70,8 @@ name:
     - The Wayfarer
     - Múrkír
 shortcode: murkir
-img: images/affiliation/aureldian/murkir.webp
 packFolder: pantheonsaureldian
+banner: faithbnr
 ---
 
 God of journeys, exploration, and wanderlust. Múrkír protects travelers and inspires mortals to seek the unknown.

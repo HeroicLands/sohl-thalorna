@@ -6,11 +6,11 @@ name:
   full: Thornrat
   aliases: []
 description: "A small but deadly plague-bearing scavenger whose venomous spines and toxic bites can spread disease through an entire settlement."
-img: sohl/assets/icons/game-icons/delapouite/person.svg
 shortcode: thornrat
 type: being
 data:
-  portrait: images/beings/creatures/thornrat-portrait.webp
+  icon: sohl-none-icon-person
+  portrait: thornrat
   templatePriority: null
   archetypes: []
   occupation: null
@@ -332,7 +332,7 @@ sohl:
         disabled: false
 ---
 
-![Thornrat](images/beings/creatures/thornrat-portrait.webp){float: top-left}
+![Thornrat](images/beings/creatures/thornrat.webp){float: top-left}
 
 ## Appearance {#appearance}
 

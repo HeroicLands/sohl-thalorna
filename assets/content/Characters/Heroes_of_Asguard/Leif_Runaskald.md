@@ -14,10 +14,10 @@ name:
   home: null
 packFolder: ankarisnordlands
 shortcode: leifrnskld
-img: sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/leifrnskld-portrait.webp
+  icon: sohl-none-icon-person
+  portrait: null
   templatePriority: null
   archetypes: []
   occupation: Skald and Runemaster

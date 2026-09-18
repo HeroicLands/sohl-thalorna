@@ -5,11 +5,11 @@ name:
   aliases:
     - Doom Flame
 description: "White-hot supernatural flame consuming stone and metal; spreads inexorably."
-img: sohl/assets/icons/game-icons/badges/fire.svg
 shortcode: hellfire
 type: mysticalability
 subType: arcaneincantation
 data:
+  icon: sohl-none-icon-firebdg
   templatePriority: null
 sohl:
   system:

@@ -15,7 +15,7 @@ data:
 name:
   full: Bakhu
   aliases: []
-banner: banners/ta-kheperu-banner.webp
+banner: takheperubnr
 shortcode: bakhu
 packFolder: tasetiabtet
 ---

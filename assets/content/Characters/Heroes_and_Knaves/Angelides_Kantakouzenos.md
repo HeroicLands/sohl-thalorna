@@ -13,10 +13,10 @@ name:
   aliases: []
 packFolder: helladbyzaria
 shortcode: angldskntkzns
-img: sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/angldskntkzns-portrait.webp
+  icon: sohl-none-icon-person
+  portrait: angldskntkzns
   templatePriority: null
   archetypes: []
   occupation: Perfumer
@@ -596,7 +596,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Ángelides Kantakouzenós](images/beings/characters/angldskntkzns-portrait.webp){float: top-left}
+![Ángelides Kantakouzenós](images/beings/characters/angldskntkzns.webp){float: top-left}
 
 ## Appearance {#appearance}
 

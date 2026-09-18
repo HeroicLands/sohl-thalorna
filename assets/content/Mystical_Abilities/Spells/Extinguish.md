@@ -5,11 +5,11 @@ name:
   aliases:
     - Quenching
 description: "Smothers flames; quenches fire and heat without producing ash."
-img: sohl/assets/icons/game-icons/badges/water.svg
 shortcode: extngsh
 type: mysticalability
 subType: arcaneincantation
 data:
+  icon: sohl-none-icon-water
   templatePriority: null
 sohl:
   system:

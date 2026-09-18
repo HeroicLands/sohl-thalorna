@@ -13,10 +13,10 @@ name:
   aliases: []
 packFolder: ankariskhazryndesert
 shortcode: kayvondzrd
-img: sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/kayvondzrd-portrait.webp
+  icon: sohl-none-icon-person
+  portrait: kayvondzrd
   templatePriority: null
   archetypes: []
   occupation: Alchemist
@@ -595,7 +595,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Kayvonad Zârîd](images/beings/characters/kayvondzrd-portrait.webp){float: top-left}
+![Kayvonad Zârîd](images/beings/characters/kayvondzrd.webp){float: top-left}
 
 ## Appearance {#appearance}
 

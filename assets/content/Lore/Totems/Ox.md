@@ -10,8 +10,10 @@ name:
   aliases:
     - Ox Totem
 shortcode: oxttm
-img: images/mystery/ox.webp
 packFolder: loretotems
+banner: creaturebnr
+data:
+  icon: ox
 ---
 
 Strong and dependable, oxen are resilient animals used in agriculture for their ability to carry heavy loads and work tirelessly in fields.

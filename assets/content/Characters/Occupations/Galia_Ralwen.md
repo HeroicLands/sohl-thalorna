@@ -13,10 +13,10 @@ name:
     - Lady Elowen Brightwood
 packFolder: aureldiaprovenzia
 shortcode: galiaralwn
-img: sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/galiaralwn-portrait.webp
+  icon: sohl-none-icon-person
+  portrait: null
   templatePriority: null
   archetypes: []
   occupation: Nobility (Courtier)

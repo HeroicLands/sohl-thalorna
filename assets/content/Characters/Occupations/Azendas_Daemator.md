@@ -14,10 +14,10 @@ name:
     - Ebaséthè Rowan Thistlewood
 packFolder: midhalionvylaria
 shortcode: azendsdmtr
-img: sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/azendsdmtr-portrait.webp
+  icon: sohl-none-icon-person
+  portrait: null
   templatePriority: null
   archetypes: []
   occupation: Priest

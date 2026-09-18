@@ -6,13 +6,13 @@ description: "Standing with the crocodile-spirit of the Kambezi — what an alli
 type: skill
 subType: mystical
 shortcode: crocodilekambezisprt
-img: sohl/assets/icons/game-icons/lorc/psychic-waves.svg
 name:
   full: "Crocodile Spirit Power"
   aliases:
     - Crocodile Spirit
     - Kambezi Crocodile
 data:
+  icon: sohl-none-icon-psychicwaves
   templatePriority: null
 sohl:
   system:

@@ -5,11 +5,11 @@ name:
   aliases:
     - Probity
 description: "Purifies water and food; removes toxins and contamination."
-img: sohl/assets/icons/noun/divination.svg
 shortcode: purity
 type: mysticalability
 subType: arcaneincantation
 data:
+  icon: sohl-none-icon-divination
   templatePriority: null
 sohl:
   system:

@@ -5,12 +5,12 @@ tags:
 type: skill
 subType: mystical
 shortcode: hel
-img: images/affiliation/asguardian/hel.webp
 name:
   full: "Ritual: Hél"
   aliases:
     - The Eternal Night
 data:
+  icon: hel
   templatePriority: null
 sohl:
   system:

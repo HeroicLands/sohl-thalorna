@@ -13,10 +13,10 @@ name:
     - Althea Rosebloom
 packFolder: midhalionharad
 shortcode: rimarushur
-img: sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/rimarushur-portrait.webp
+  icon: sohl-none-icon-person
+  portrait: null
   templatePriority: null
   archetypes: []
   occupation: Perfumer

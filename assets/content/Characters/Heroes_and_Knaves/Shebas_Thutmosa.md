@@ -12,12 +12,12 @@ name:
   home: ankhsetun
   aliases: []
 packFolder: northernfertileregiontakheperu
-banner: banners/ta-kheperu-banner.webp
+banner: takheperubnr
 shortcode: shebsthtms
-img: sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/shebsthtms-portrait.webp
+  icon: sohl-none-icon-person
+  portrait: shebsthtms
   templatePriority: null
   archetypes: []
   occupation: Apothecary
@@ -599,7 +599,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Shebas Thutmosa](images/beings/characters/shebsthtms-portrait.webp){float: top-left}
+![Shebas Thutmosa](images/beings/characters/shebsthtms.webp){float: top-left}
 
 **Home:** [[place-ankhsetun|Ankh-Setûn]]
 

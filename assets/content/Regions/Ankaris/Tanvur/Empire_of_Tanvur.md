@@ -11,11 +11,11 @@ name:
   full: Empire of Tānvür
   aliases: []
 shortcode: tanvurempr
-img: null
 type: affiliation
 terran_analog: Imperial China (celestial bureaucracy, caste, mandate of heaven)
 subType: polity
 data:
+  icon: null
   templatePriority: null
   demonym: Tānvüri
   epithet: null

@@ -4,11 +4,11 @@ name:
   full: Inferno
   aliases: []
 description: "Wreathed in roaring magical flame; burning and radiating intense heat."
-img: sohl/assets/icons/game-icons/badges/fire.svg
 shortcode: inferno
 type: mysticalability
 subType: arcaneincantation
 data:
+  icon: sohl-none-icon-firebdg
   templatePriority: null
 sohl:
   system:

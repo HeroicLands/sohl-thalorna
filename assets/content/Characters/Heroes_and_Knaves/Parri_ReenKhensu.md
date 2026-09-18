@@ -13,12 +13,12 @@ name:
   aliases:
     - Parri ReenKhensu
 packFolder: northernfertileregiontakheperu
-banner: banners/ta-kheperu-banner.webp
+banner: takheperubnr
 shortcode: parirnkhns
-img: sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/parirnkhns-portrait.webp
+  icon: sohl-none-icon-person
+  portrait: parirnkhns
   templatePriority: null
   archetypes: []
   occupation: Scholar
@@ -597,7 +597,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Par'ri Re'en'Khensu](images/beings/characters/parirnkhns-portrait.webp){float: top-left}
+![Par'ri Re'en'Khensu](images/beings/characters/parirnkhns.webp){float: top-left}
 
 **Home:** [[place-wasetkara|Wasetkara]]
 

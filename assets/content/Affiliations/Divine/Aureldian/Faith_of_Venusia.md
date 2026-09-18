@@ -6,6 +6,7 @@ tags:
 type: affiliation
 subType: faithtradition
 data:
+  icon: venusia
   templatePriority: null
   demonym: null
   epithet: The Bountiful One
@@ -69,8 +70,8 @@ name:
     - The Bountiful One
     - Vénusia
 shortcode: venusia
-img: images/affiliation/aureldian/venusia.webp
 packFolder: pantheonsaureldian
+banner: faithbnr
 ---
 
 Goddess of wealth, abundance, and seduction. Vénusia blesses people with prosperity and physical love.

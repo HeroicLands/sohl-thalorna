@@ -12,10 +12,10 @@ name:
   aliases: []
 packFolder: heroesandknaveskalihara
 shortcode: muritarikh
-img: sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/muritarikh-portrait.webp
+  icon: sohl-none-icon-person
+  portrait: muritarikh
   templatePriority: null
   archetypes: []
   occupation: Caravan Guard
@@ -573,7 +573,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Muri Târikh](images/beings/characters/muritarikh-portrait.webp){float: top-left}
+![Muri Târikh](images/beings/characters/muritarikh.webp){float: top-left}
 
 ## Appearance {#appearance}
 

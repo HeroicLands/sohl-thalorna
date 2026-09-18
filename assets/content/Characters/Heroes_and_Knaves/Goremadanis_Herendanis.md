@@ -12,10 +12,10 @@ name:
   aliases: []
 packFolder: midhalionvylaria
 shortcode: grmdnshrndns
-img: sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/grmdnshrndns-portrait.webp
+  icon: sohl-none-icon-person
+  portrait: grmdnshrndns
   templatePriority: null
   archetypes: []
   occupation: Common Seaman
@@ -578,7 +578,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Goremadânis Hérendânis](images/beings/characters/grmdnshrndns-portrait.webp){float: top-left}
+![Goremadânis Hérendânis](images/beings/characters/grmdnshrndns.webp){float: top-left}
 
 ## Appearance {#appearance}
 

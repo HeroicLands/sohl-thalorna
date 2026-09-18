@@ -12,12 +12,12 @@ name:
   home: meruhotep
   aliases: []
 packFolder: northernfertileregiontakheperu
-banner: banners/ta-kheperu-banner.webp
+banner: takheperubnr
 shortcode: banutjaut
-img: sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/banutjaut-portrait.webp
+  icon: sohl-none-icon-person
+  portrait: banutjaut
   templatePriority: null
   archetypes: []
   occupation: Alchemist
@@ -604,7 +604,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Bânut Jâut](images/beings/characters/banutjaut-portrait.webp){float: top-left}
+![Bânut Jâut](images/beings/characters/banutjaut.webp){float: top-left}
 
 **Home:** [[place-meruhotep|Meru-Hotep]]
 

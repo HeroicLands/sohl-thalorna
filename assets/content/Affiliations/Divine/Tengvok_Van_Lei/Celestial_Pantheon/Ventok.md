@@ -120,6 +120,7 @@ data:
   relations:
     tanvurempr: aligned
 packFolder: celestialpantheon
+banner: faithbnr
 ---
 
 ## Vëntōk — The Keeper of the Celestial Archive

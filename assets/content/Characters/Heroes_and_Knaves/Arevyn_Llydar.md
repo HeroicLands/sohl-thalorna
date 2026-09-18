@@ -12,10 +12,10 @@ name:
   aliases: []
 packFolder: aureldiaelavendre
 shortcode: arevynlydr
-img: sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/arevynlydr-portrait.webp
+  icon: sohl-none-icon-person
+  portrait: arevynlydr
   templatePriority: null
   archetypes: []
   occupation: Miner
@@ -595,7 +595,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Arévyn Llýdar](images/beings/characters/arevynlydr-portrait.webp){float: top-left}
+![Arévyn Llýdar](images/beings/characters/arevynlydr.webp){float: top-left}
 
 ## Appearance {#appearance}
 

@@ -13,10 +13,10 @@ name:
     - Elara Wavehand
 packFolder: aureldiaelavendre
 shortcode: porenadhrl
-img: sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/porenadhrl-portrait.webp
+  icon: sohl-none-icon-person
+  portrait: null
   templatePriority: null
   archetypes: []
   occupation: Longshorewoman

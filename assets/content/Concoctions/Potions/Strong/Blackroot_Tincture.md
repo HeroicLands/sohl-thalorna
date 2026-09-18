@@ -6,13 +6,13 @@ name:
   aliases:
     - Potion, Poison, Strong
 description: "Vivid green oily liquid; causes violent illness and death."
-img: sohl/assets/icons/other/potion.svg
 shortcode: ptnpois
 type: concoctiongear
 subType: exotic
 hmk:
   name: "Potion, Poison, Strong"
 data:
+  icon: sohl-none-icon-potion
   templatePriority: null
 sohl:
   system:

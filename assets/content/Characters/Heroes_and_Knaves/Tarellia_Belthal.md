@@ -13,10 +13,10 @@ name:
   aliases: []
 packFolder: aureldiaelavendre
 shortcode: tarelblthl
-img: sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/tarelblthl-portrait.webp
+  icon: sohl-none-icon-person
+  portrait: tarelblthl
   templatePriority: null
   archetypes: []
   occupation: Astrologer
@@ -603,7 +603,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Tárellia Bélthal](images/beings/characters/tarelblthl-portrait.webp){float: top-left}
+![Tárellia Bélthal](images/beings/characters/tarelblthl.webp){float: top-left}
 
 ## Appearance {#appearance}
 

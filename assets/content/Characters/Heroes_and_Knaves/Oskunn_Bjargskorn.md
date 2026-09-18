@@ -12,10 +12,10 @@ name:
   aliases: []
 packFolder: ankarisnordlands
 shortcode: osknbjrgskrn
-img: sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/osknbjrgskrn-portrait.webp
+  icon: sohl-none-icon-person
+  portrait: osknbjrgskrn
   templatePriority: null
   archetypes: []
   occupation: Clothier
@@ -586,7 +586,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Óskunn Bjargskorn](images/beings/characters/osknbjrgskrn-portrait.webp){float: top-left}
+![Óskunn Bjargskorn](images/beings/characters/osknbjrgskrn.webp){float: top-left}
 
 ## Appearance {#appearance}
 

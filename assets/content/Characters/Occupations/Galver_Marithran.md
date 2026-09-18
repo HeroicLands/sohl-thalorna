@@ -13,10 +13,10 @@ name:
     - Gorvin Rockshield
 packFolder: aureldiatarvenia
 shortcode: glvrmrthrn
-img: sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/glvrmrthrn-portrait.webp
+  icon: sohl-none-icon-person
+  portrait: null
   templatePriority: null
   archetypes: []
   occupation: Mason

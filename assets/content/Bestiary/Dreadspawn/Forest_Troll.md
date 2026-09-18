@@ -6,11 +6,11 @@ name:
   full: Forest Troll
   aliases: []
 description: "A massive woodland apex predator born of primal earth-magic that moves through dense old-growth forest as easily as open ground."
-img: sohl/assets/icons/game-icons/delapouite/person.svg
 shortcode: frsttrll
 type: being
 data:
-  portrait: images/beings/creatures/frsttrll-portrait.webp
+  icon: sohl-none-icon-person
+  portrait: frsttrll
   templatePriority: null
   archetypes: []
   occupation: null
@@ -592,7 +592,7 @@ sohl:
         disabled: false
 ---
 
-![Forest Troll](images/beings/creatures/frsttrll-portrait.webp){float: top-left}
+![Forest Troll](images/beings/creatures/frsttrll.webp){float: top-left}
 
 ## Appearance {#appearance}
 

@@ -14,10 +14,10 @@ name:
     - Calen
 packFolder: aureldiatarvenia
 shortcode: torniskbry
-img: sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/torniskbry-portrait.webp
+  icon: sohl-none-icon-person
+  portrait: torniskbry
   templatePriority: null
   archetypes: []
   occupation: Scout / Spy
@@ -567,7 +567,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Tórnis Kúbrý](images/beings/characters/torniskbry-portrait.webp){float: top-left}
+![Tórnis Kúbrý](images/beings/characters/torniskbry.webp){float: top-left}
 
 ## Appearance {#appearance}
 

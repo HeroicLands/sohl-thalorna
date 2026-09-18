@@ -5,11 +5,11 @@ name:
   aliases:
     - Mirror
 description: "Shield deflects magical effects back toward their originating caster."
-img: sohl/assets/icons/other/wind.svg
 shortcode: rflctr
 type: mysticalability
 subType: arcaneincantation
 data:
+  icon: sohl-none-icon-wind
   templatePriority: null
 sohl:
   system:

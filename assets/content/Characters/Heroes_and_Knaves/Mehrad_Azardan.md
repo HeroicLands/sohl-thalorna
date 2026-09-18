@@ -13,10 +13,10 @@ name:
   aliases: []
 packFolder: sultanateofamradad
 shortcode: mehradzrdn
-img: sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/mehradzrdn-portrait.webp
+  icon: sohl-none-icon-person
+  portrait: mehradzrdn
   templatePriority: null
   archetypes: []
   occupation: Pilot
@@ -604,7 +604,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Mehrâd Âzardan](images/beings/characters/mehradzrdn-portrait.webp){float: top-left}
+![Mehrâd Âzardan](images/beings/characters/mehradzrdn.webp){float: top-left}
 
 ## Appearance {#appearance}
 

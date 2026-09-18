@@ -5,11 +5,11 @@ name:
   aliases:
     - Distort
 description: "Grants temporary form change; transforms into beast or being."
-img: sohl/assets/icons/game-icons/delapouite/circle.svg
 shortcode: shftfrm
 type: mysticalability
 subType: arcaneincantation
 data:
+  icon: sohl-none-icon-circle
   templatePriority: null
 sohl:
   system:

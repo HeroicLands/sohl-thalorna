@@ -14,10 +14,10 @@ name:
   aliases: []
 packFolder: ankarisnordlands
 shortcode: rkrthrsldr
-img: sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/rkrthrsldr-portrait.webp
+  icon: sohl-none-icon-person
+  portrait: rkrthrsldr
   templatePriority: null
   archetypes: []
   occupation: Mage (Spirit)
@@ -624,7 +624,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Ríkarthr Íseldr](images/beings/characters/rkrthrsldr-portrait.webp){float: top-left}
+![Ríkarthr Íseldr](images/beings/characters/rkrthrsldr.webp){float: top-left}
 
 ## Appearance {#appearance}
 

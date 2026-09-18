@@ -4,11 +4,11 @@ name:
   full: Hastening
   aliases: []
 description: "Quickens movement; caster moves with supernatural speed and grace."
-img: sohl/assets/icons/game-icons/badges/fire.svg
 shortcode: hstnng
 type: mysticalability
 subType: arcaneincantation
 data:
+  icon: sohl-none-icon-firebdg
   templatePriority: null
 sohl:
   system:

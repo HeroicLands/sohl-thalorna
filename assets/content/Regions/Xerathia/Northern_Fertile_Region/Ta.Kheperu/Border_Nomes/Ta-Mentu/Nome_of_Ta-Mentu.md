@@ -1,7 +1,7 @@
 ---
 description: "The western steppe-edge; horse-pasture and the watch against nomad raiders — one of the border nomes of Ta'Kheperu."
 type: affiliation
-banner: banners/ta-kheperu-banner.webp
+banner: takheperubnr
 name:
   full: The Nome of Ta-Mentu
   aliases: []

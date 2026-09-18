@@ -14,10 +14,10 @@ name:
   aliases: []
 packFolder: helladbyzaria
 shortcode: kasndrbsrn
-img: sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/kasndrbsrn-portrait.webp
+  icon: sohl-none-icon-person
+  portrait: kasndrbsrn
   templatePriority: null
   archetypes: []
   occupation: Mage (Lore)
@@ -594,7 +594,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Kassándria Bessarîon](images/beings/characters/kasndrbsrn-portrait.webp){float: top-left}
+![Kassándria Bessarîon](images/beings/characters/kasndrbsrn.webp){float: top-left}
 
 ## Appearance {#appearance}
 

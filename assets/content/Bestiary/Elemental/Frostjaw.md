@@ -6,11 +6,11 @@ name:
   full: Frostjaw
   aliases: []
 description: "A predator of ice and deep cold given animal form, pursuing prey relentlessly across frozen wastes, driven by hunger and territorial fury."
-img: sohl/assets/icons/game-icons/delapouite/person.svg
 shortcode: frostjaw
 type: being
 data:
-  portrait: images/beings/creatures/frostjaw-portrait.webp
+  icon: sohl-none-icon-person
+  portrait: frostjaw
   templatePriority: null
   archetypes: []
   occupation: null
@@ -364,7 +364,7 @@ sohl:
         disabled: false
 ---
 
-![Frostjaw](images/beings/creatures/frostjaw-portrait.webp){float: top-left}
+![Frostjaw](images/beings/creatures/frostjaw.webp){float: top-left}
 
 ## Appearance {#appearance}
 

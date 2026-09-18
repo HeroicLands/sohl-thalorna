@@ -12,10 +12,10 @@ name:
   aliases: []
 packFolder: ankarisvedyara
 shortcode: anrjhrdvmbjkr
-img: sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/anrjhrdvmbjkr-portrait.webp
+  icon: sohl-none-icon-person
+  portrait: anrjhrdvmbjkr
   templatePriority: null
   archetypes: []
   occupation: Assassin
@@ -587,7 +587,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Anûraja Harṣadēvāmbujakar](images/beings/characters/anrjhrdvmbjkr-portrait.webp){float: top-left}
+![Anûraja Harṣadēvāmbujakar](images/beings/characters/anrjhrdvmbjkr.webp){float: top-left}
 
 ## Appearance {#appearance}
 

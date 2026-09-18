@@ -6,11 +6,11 @@ name:
   full: Venomspitter
   aliases: []
 description: "An acid-bodied ambush predator of warm jungles and humid caves, built entirely around producing and spitting corrosive toxins."
-img: sohl/assets/icons/game-icons/delapouite/person.svg
 shortcode: vnmspttr
 type: being
 data:
-  portrait: images/beings/creatures/vnmspttr-portrait.webp
+  icon: sohl-none-icon-person
+  portrait: vnmspttr
   templatePriority: null
   archetypes: []
   occupation: null
@@ -247,7 +247,7 @@ sohl:
         disabled: false
 ---
 
-![Venomspitter](images/beings/creatures/vnmspttr-portrait.webp){float: top-left}
+![Venomspitter](images/beings/creatures/vnmspttr.webp){float: top-left}
 
 ## Appearance {#appearance}
 

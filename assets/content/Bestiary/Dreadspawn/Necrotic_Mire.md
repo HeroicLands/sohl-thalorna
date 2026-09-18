@@ -6,11 +6,11 @@ name:
   full: Necrotic Mire
   aliases: []
 description: "An animate ooze born of concentrated decay in deep stagnant swamps, spreading inexorably to corrupt and consume all it touches."
-img: sohl/assets/icons/game-icons/delapouite/person.svg
 shortcode: ncrtcmr
 type: being
 data:
-  portrait: images/beings/creatures/ncrtcmr-portrait.webp
+  icon: sohl-none-icon-person
+  portrait: ncrtcmr
   templatePriority: null
   archetypes: []
   occupation: null
@@ -255,7 +255,7 @@ sohl:
         disabled: false
 ---
 
-![Necrotic Mire](images/beings/creatures/ncrtcmr-portrait.webp){float: top-left}
+![Necrotic Mire](images/beings/creatures/ncrtcmr.webp){float: top-left}
 
 ## Appearance {#appearance}
 

@@ -7,8 +7,9 @@ name:
   full: Rā
   aliases: []
 shortcode: radty
-img: icons/takheperu/pantheon/ra.svg
 packFolder: deitieskemetian
+data:
+  icon: ra
 ---
 
 _The Solar Flame — a blazing sun disk with rays of fire._

@@ -8,10 +8,10 @@ name:
   full: The Black Flame
   aliases: []
 shortcode: blackflame
-img: images/affiliation/aureldian/blackflame.webp
 type: affiliation
 subType: faithtradition
 data:
+  icon: blackflame
   templatePriority: null
   demonym: null
   epithet: The Forge-Lord
@@ -70,6 +70,7 @@ data:
   relations:
     arldnpnthn: aligned
 packFolder: pantheonsaureldian
+banner: faithbnr
 ---
 
 - **Deity:** Vúlcan — _The Forge-Lord_

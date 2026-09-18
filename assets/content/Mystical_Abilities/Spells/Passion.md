@@ -5,11 +5,11 @@ name:
   aliases:
     - Fervour
 description: "Enchantment inflaming emotion; targets act with heightened intensity."
-img: sohl/assets/icons/noun/divination.svg
 shortcode: passion
 type: mysticalability
 subType: arcaneincantation
 data:
+  icon: sohl-none-icon-divination
   templatePriority: null
 sohl:
   system:

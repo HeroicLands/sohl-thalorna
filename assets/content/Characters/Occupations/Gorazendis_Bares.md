@@ -13,10 +13,10 @@ name:
     - Lysandra Sashan
 packFolder: midhalionvylaria
 shortcode: gorzndsbrs
-img: sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/gorzndsbrs-portrait.webp
+  icon: sohl-none-icon-person
+  portrait: null
   templatePriority: null
   archetypes: []
   occupation: Locksmith

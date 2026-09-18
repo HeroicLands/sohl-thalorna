@@ -12,10 +12,10 @@ name:
   aliases: []
 packFolder: ankarisvedyara
 shortcode: vrgskhrmdkn
-img: sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/vrgskhrmdkn-portrait.webp
+  icon: sohl-none-icon-person
+  portrait: vrgskhrmdkn
   templatePriority: null
   archetypes: []
   occupation: Nobility (Manor Lord)
@@ -585,7 +585,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Vīrāṅgaśikharam Dukṣana](images/beings/characters/vrgskhrmdkn-portrait.webp){float: top-left}
+![Vīrāṅgaśikharam Dukṣana](images/beings/characters/vrgskhrmdkn.webp){float: top-left}
 
 ## Appearance {#appearance}
 

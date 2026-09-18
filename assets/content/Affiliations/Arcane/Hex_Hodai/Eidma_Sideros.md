@@ -4,6 +4,7 @@ tags:
 type: affiliation
 subType: arcanetradition
 data:
+  icon: sideros
   templatePriority: null
   demonym: null
   epithet: null
@@ -87,7 +88,6 @@ data:
     hydalis: aligned
     pneumenos: aligned
 shortcode: sideros
-img: images/affiliation/hex-hodai/sideros.webp
 name:
   full: Sidéros
   aliases:

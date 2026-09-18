@@ -9,10 +9,10 @@ name:
   aliases:
     - Vúlcani Orthodox
 shortcode: sacredforge
-img: images/affiliation/aureldian/sacredforge.webp
 type: affiliation
 subType: faithtradition
 data:
+  icon: sacredforge
   templatePriority: null
   demonym: null
   epithet: The Forge-Lord
@@ -71,6 +71,7 @@ data:
   relations:
     arldnpnthn: aligned
 packFolder: pantheonsaureldian
+banner: faithbnr
 ---
 
 - **Deity:** Vúlcan — _The Forge-Lord_

@@ -14,10 +14,10 @@ name:
     - Alaric Fairwind
 packFolder: aureldiaprovenzia
 shortcode: brnklnthrk
-img: sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/brnklnthrk-portrait.webp
+  icon: sohl-none-icon-person
+  portrait: null
   templatePriority: null
   archetypes: []
   occupation: Bard

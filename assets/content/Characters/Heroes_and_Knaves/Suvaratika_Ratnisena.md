@@ -12,10 +12,10 @@ name:
   aliases: []
 packFolder: ankarisvedyara
 shortcode: suvrtkrtns
-img: sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/suvrtkrtns-portrait.webp
+  icon: sohl-none-icon-person
+  portrait: suvrtkrtns
   templatePriority: null
   archetypes: []
   occupation: Toymaker
@@ -595,7 +595,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Suvaratika Ratniseṇa](images/beings/characters/suvrtkrtns-portrait.webp){float: top-left}
+![Suvaratika Ratniseṇa](images/beings/characters/suvrtkrtns.webp){float: top-left}
 
 ## Appearance {#appearance}
 

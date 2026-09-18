@@ -13,7 +13,7 @@ data:
 name:
   full: Iat-Hemet
   aliases: []
-banner: banners/ta-kheperu-banner.webp
+banner: takheperubnr
 shortcode: iathemet
 packFolder: upperrivernomes
 ---

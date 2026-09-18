@@ -120,6 +120,7 @@ data:
   relations:
     tanvurempr: aligned
 packFolder: celestialpantheon
+banner: faithbnr
 ---
 
 ## Vënsōk Zhük — The Chief Auditor of Souls

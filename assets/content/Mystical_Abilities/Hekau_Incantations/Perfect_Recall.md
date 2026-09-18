@@ -7,10 +7,10 @@ name:
   aliases: []
 description: "Fixes a thing seen, heard or read so that it can be recovered exactly."
 shortcode: prfctrcll
-img: icons/takheperu/khemenu-hekau/rensesh.svg
 type: mysticalability
 subType: arcaneincantation
 data:
+  icon: rensesh
   templatePriority: null
 sohl:
   system:

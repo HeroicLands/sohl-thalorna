@@ -10,8 +10,10 @@ name:
   aliases:
     - Deer Totem
 shortcode: deerttm
-img: images/mystery/deer.webp
 packFolder: loretotems
+banner: creaturebnr
+data:
+  icon: deer
 ---
 
 Alert and elusive, deer are constantly vigilant, using their keen senses to detect danger and flee at the first sign of a threat.

@@ -7,10 +7,10 @@ name:
   aliases:
     - Dunhara Desert
 shortcode: dunhardsrtrgn
-img: null
 type: place
 subType: region
 data:
+  icon: null
   demonym: Dunharan
   lore:
     - humanflk

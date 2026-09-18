@@ -6,13 +6,13 @@ name:
   aliases:
     - Poison Elixir
 description: "Viscous dark liquid; inverted mechanics reward failures over successes."
-img: sohl/assets/icons/other/potion.svg
 shortcode: elxpsn
 type: concoctiongear
 subType: elixir
 hmk:
   name: Poison
 data:
+  icon: sohl-none-icon-potion
   templatePriority: null
 sohl:
   system:

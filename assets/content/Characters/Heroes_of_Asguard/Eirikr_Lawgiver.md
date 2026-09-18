@@ -14,10 +14,10 @@ name:
   home: null
 packFolder: ankarisnordlands
 shortcode: eirkrlwgvr
-img: sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/eirkrlwgvr-portrait.webp
+  icon: sohl-none-icon-person
+  portrait: null
   templatePriority: null
   archetypes: []
   occupation: Judge and Lawman

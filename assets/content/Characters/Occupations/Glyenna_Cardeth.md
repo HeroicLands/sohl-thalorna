@@ -14,10 +14,10 @@ name:
     - Aperâni Valeria Firebrand
 packFolder: aureldiaelavendre
 shortcode: glyencrdth
-img: sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/glyencrdth-portrait.webp
+  icon: sohl-none-icon-person
+  portrait: null
   templatePriority: null
   archetypes: []
   occupation: Noblewoman / Head of House Cárdeth

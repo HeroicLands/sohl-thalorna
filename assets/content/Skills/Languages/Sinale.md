@@ -7,11 +7,11 @@ name:
     - Elven
     - Elder Tongue
 description: "The eldest of the Elder Tongues — vowel-heavy, soft-consonanted, and sung as often as spoken, older than any human settlement on Thalorna."
-img: sohl/assets/icons/other/speaking.svg
 shortcode: sinalelng
 type: skill
 subType: language
 data:
+  icon: sohl-none-icon-speaking
   templatePriority: null
 sohl:
   system:

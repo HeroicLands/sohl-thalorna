@@ -13,10 +13,10 @@ name:
   aliases: []
 packFolder: ankarisnordlands
 shortcode: skfrnstrmrt
-img: sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/skfrnstrmrt-portrait.webp
+  icon: sohl-none-icon-person
+  portrait: skfrnstrmrt
   templatePriority: null
   archetypes: []
   occupation: Tentmaker
@@ -596,7 +596,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Skúfrún Stormrót](images/beings/characters/skfrnstrmrt-portrait.webp){float: top-left}
+![Skúfrún Stormrót](images/beings/characters/skfrnstrmrt.webp){float: top-left}
 
 ## Appearance {#appearance}
 

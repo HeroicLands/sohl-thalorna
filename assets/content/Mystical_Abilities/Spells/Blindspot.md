@@ -5,11 +5,11 @@ name:
   aliases:
     - Caecity
 description: "Caster becomes invisible when still; seen only if moving."
-img: sohl/assets/icons/other/wind.svg
 shortcode: blndspt
 type: mysticalability
 subType: arcaneincantation
 data:
+  icon: sohl-none-icon-wind
   templatePriority: null
 sohl:
   system:

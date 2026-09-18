@@ -6,6 +6,7 @@ tags:
 type: affiliation
 subType: arcanetradition
 data:
+  icon: deshrut
   templatePriority: null
   demonym: null
   epithet: House of the Red Land
@@ -79,8 +80,7 @@ name:
     - House of the Red Land
     - The House of Desert
 shortcode: deshrut
-img: icons/takheperu/khemenu-hekau/deshrut.svg
-banner: banners/ta-kheperu-banner.webp
+banner: takheperubnr
 packFolder: khemenuhekau
 ---
 

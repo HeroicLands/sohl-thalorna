@@ -7,8 +7,9 @@ name:
   full: Hórús
   aliases: []
 shortcode: horusdty
-img: icons/takheperu/pantheon/horus.svg
 packFolder: deitieskemetian
+data:
+  icon: horus
 ---
 
 _The Guiding Falcon — a falcon in flight with a compass rose._

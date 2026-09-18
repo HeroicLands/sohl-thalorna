@@ -74,7 +74,7 @@ name:
   aliases:
     - Shesmu, Patron of the Hunt
 shortcode: shesmu
-banner: banners/ta-kheperu-banner.webp
+banner: takheperubnr
 packFolder: pantheonskemetian
 ---
 

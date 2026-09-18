@@ -5,11 +5,11 @@ name:
   aliases:
     - Protection
 description: "Erupts wall of dense metal from ground; shields and blocks."
-img: sohl/assets/icons/game-icons/badges/anvil.svg
 shortcode: barrier
 type: mysticalability
 subType: arcaneincantation
 data:
+  icon: sohl-none-icon-anvilbdg
   templatePriority: null
 sohl:
   system:

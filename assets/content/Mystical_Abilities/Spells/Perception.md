@@ -5,11 +5,11 @@ name:
   aliases:
     - View
 description: "Enhances caster's senses dramatically; sees clearly despite obstacles."
-img: sohl/assets/icons/other/wind.svg
 shortcode: prcptn
 type: mysticalability
 subType: arcaneincantation
 data:
+  icon: sohl-none-icon-wind
   templatePriority: null
 sohl:
   system:

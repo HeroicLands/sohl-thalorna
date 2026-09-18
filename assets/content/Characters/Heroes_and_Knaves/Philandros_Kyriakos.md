@@ -13,10 +13,10 @@ name:
   aliases: []
 packFolder: helladbyzaria
 shortcode: phlndrskyrks
-img: sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/phlndrskyrks-portrait.webp
+  icon: sohl-none-icon-person
+  portrait: phlndrskyrks
   templatePriority: null
   archetypes: []
   occupation: Herald
@@ -603,7 +603,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Philándros Kyriákos](images/beings/characters/phlndrskyrks-portrait.webp){float: top-left}
+![Philándros Kyriákos](images/beings/characters/phlndrskyrks.webp){float: top-left}
 
 ## Appearance {#appearance}
 

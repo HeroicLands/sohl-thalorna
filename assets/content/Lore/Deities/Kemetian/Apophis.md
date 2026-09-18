@@ -7,8 +7,9 @@ name:
   full: Ápōphis
   aliases: []
 shortcode: apophisdty
-img: icons/takheperu/pantheon/apophis.svg
 packFolder: deitieskemetian
+data:
+  icon: apophis
 ---
 
 _The Devouring Shadow — a coiled serpent encircling a shattered star._

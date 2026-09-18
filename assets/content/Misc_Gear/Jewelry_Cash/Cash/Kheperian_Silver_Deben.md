@@ -5,10 +5,10 @@ name:
   full: Kheperian Silver Deben
   aliases: ["Silver Deben"]
 description: "Temple-attested silver weight-piece of one deben; the standard for significant commerce."
-img: sohl/assets/icons/game-icons/badges/coins.svg
 shortcode: sdeb
 type: miscgear
 data:
+  icon: sohl-none-icon-coinsbdg
   templatePriority: 0
 sohl:
   craft:

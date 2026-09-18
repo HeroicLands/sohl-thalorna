@@ -13,10 +13,10 @@ name:
   aliases: []
 packFolder: ankarisvedyara
 shortcode: madhurvrdr
-img: sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/madhurvrdr-portrait.webp
+  icon: sohl-none-icon-person
+  portrait: madhurvrdr
   templatePriority: null
   archetypes: []
   occupation: Herald
@@ -595,7 +595,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Màdhurava Rudraṭa](images/beings/characters/madhurvrdr-portrait.webp){float: top-left}
+![Màdhurava Rudraṭa](images/beings/characters/madhurvrdr.webp){float: top-left}
 
 ## Appearance {#appearance}
 

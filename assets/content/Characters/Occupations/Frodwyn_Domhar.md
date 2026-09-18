@@ -13,10 +13,10 @@ name:
     - Professor Liraen Windwhisper
 packFolder: ankarisvrystwald
 shortcode: frdwyndmhr
-img: sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/frdwyndmhr-portrait.webp
+  icon: sohl-none-icon-person
+  portrait: null
   templatePriority: null
   archetypes: []
   occupation: Scholar

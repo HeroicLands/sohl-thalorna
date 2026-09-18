@@ -5,11 +5,11 @@ name:
   aliases:
     - Pall
 description: "Surrounds caster in concealing mist; obscures vision and movement."
-img: sohl/assets/icons/game-icons/badges/water.svg
 shortcode: mstclk
 type: mysticalability
 subType: arcaneincantation
 data:
+  icon: sohl-none-icon-water
   templatePriority: null
 sohl:
   system:

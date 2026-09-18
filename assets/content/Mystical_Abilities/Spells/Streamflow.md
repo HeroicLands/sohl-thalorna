@@ -5,11 +5,11 @@ name:
   aliases:
     - River
 description: "Controls water flow; directs stream or creates current."
-img: sohl/assets/icons/game-icons/badges/water.svg
 shortcode: strmflw
 type: mysticalability
 subType: arcaneincantation
 data:
+  icon: sohl-none-icon-water
   templatePriority: null
 sohl:
   system:

@@ -5,11 +5,11 @@ name:
   aliases:
     - Steel
 description: "Transmutes base material into high-quality, workable steel instantly."
-img: sohl/assets/icons/game-icons/badges/anvil.svg
 shortcode: ironbind
 type: mysticalability
 subType: arcaneincantation
 data:
+  icon: sohl-none-icon-anvilbdg
   templatePriority: null
 sohl:
   system:

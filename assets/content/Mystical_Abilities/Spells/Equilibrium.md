@@ -5,11 +5,11 @@ name:
   aliases:
     - Harmony
 description: "Balances forces; negates momentum and prevents caster's displacement."
-img: sohl/assets/icons/noun/divination.svg
 shortcode: eqlbrm
 type: mysticalability
 subType: arcaneincantation
 data:
+  icon: sohl-none-icon-divination
   templatePriority: null
 sohl:
   system:

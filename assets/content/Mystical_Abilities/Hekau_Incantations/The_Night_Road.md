@@ -7,10 +7,10 @@ name:
   aliases: []
 description: "Permits passage by night unremarked by anything that walks it."
 shortcode: nghtrd
-img: icons/takheperu/khemenu-hekau/imnetau.svg
 type: mysticalability
 subType: arcaneincantation
 data:
+  icon: imnetau
   templatePriority: null
 sohl:
   system:

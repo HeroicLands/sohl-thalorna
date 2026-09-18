@@ -13,10 +13,10 @@ name:
     - Brynn Silversong
 packFolder: aureldiaelavendre
 shortcode: ylthklmrth
-img: sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/ylthklmrth-portrait.webp
+  icon: sohl-none-icon-person
+  portrait: null
   templatePriority: null
   archetypes: []
   occupation: Bard

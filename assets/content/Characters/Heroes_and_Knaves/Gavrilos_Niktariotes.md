@@ -12,10 +12,10 @@ name:
   aliases: []
 packFolder: helladbyzaria
 shortcode: gvrlsnktrts
-img: sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/gvrlsnktrts-portrait.webp
+  icon: sohl-none-icon-person
+  portrait: gvrlsnktrts
   templatePriority: null
   archetypes: []
   occupation: Swordmaster
@@ -599,7 +599,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Gávrilos Niktariôtês](images/beings/characters/gvrlsnktrts-portrait.webp){float: top-left}
+![Gávrilos Niktariôtês](images/beings/characters/gvrlsnktrts.webp){float: top-left}
 
 ## Appearance {#appearance}
 

@@ -6,11 +6,11 @@ name:
   full: Dire Wolverine
   aliases: []
 description: "A solitary dire mustelid of cold forests and tundra, fearless and unstoppably persistent, among the deadliest predators pound for pound."
-img: sohl/assets/icons/game-icons/delapouite/person.svg
 shortcode: drwlvrn
 type: being
 data:
-  portrait: images/beings/creatures/drwlvrn-portrait.webp
+  icon: sohl-none-icon-person
+  portrait: drwlvrn
   templatePriority: null
   archetypes: []
   occupation: null
@@ -335,7 +335,7 @@ sohl:
         disabled: false
 ---
 
-![Dire Wolverine](images/beings/creatures/drwlvrn-portrait.webp){float: top-left}
+![Dire Wolverine](images/beings/creatures/drwlvrn.webp){float: top-left}
 
 ## Appearance {#appearance}
 

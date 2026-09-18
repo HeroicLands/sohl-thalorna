@@ -4,11 +4,11 @@ name:
   full: Blazing Thraal
   aliases: []
 description: "Enslaves target in burning fury; caster commands their actions violently."
-img: sohl/assets/icons/game-icons/badges/fire.svg
 shortcode: blzgthrl
 type: mysticalability
 subType: arcaneincantation
 data:
+  icon: sohl-none-icon-firebdg
   templatePriority: null
 sohl:
   system:

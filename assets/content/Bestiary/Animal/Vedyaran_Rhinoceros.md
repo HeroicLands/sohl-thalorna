@@ -7,11 +7,11 @@ name:
   full: Vedyaran Rhinoceros
   aliases: []
 description: "A massive semi-aquatic armored megaherbivore of the Vedyaran floodplains, wallowing among rivers, marshes, and tall lowland grasslands."
-img: sohl/assets/icons/game-icons/delapouite/person.svg
 shortcode: vdyrnrhn
 type: being
 data:
-  portrait: images/beings/creatures/vdyrnrhn-portrait.webp
+  icon: sohl-none-icon-person
+  portrait: vdyrnrhn
   templatePriority: null
   archetypes: []
   occupation: null
@@ -383,7 +383,7 @@ sohl:
         disabled: false
 ---
 
-![Vedyaran Rhinoceros](images/beings/creatures/vdyrnrhn-portrait.webp){float: top-left}
+![Vedyaran Rhinoceros](images/beings/creatures/vdyrnrhn.webp){float: top-left}
 
 ## Appearance {#appearance}
 

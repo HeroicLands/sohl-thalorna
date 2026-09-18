@@ -6,13 +6,13 @@ name:
   aliases:
     - Potion, Paralytic, Mild
 description: "Clear greenish liquid; paralyzes and immobilizes drinker temporarily."
-img: sohl/assets/icons/other/potion.svg
 shortcode: ptnparm
 type: concoctiongear
 subType: exotic
 hmk:
   name: "Potion, Paralytic, Mild"
 data:
+  icon: sohl-none-icon-potion
   templatePriority: null
 sohl:
   system:

@@ -12,10 +12,10 @@ name:
   aliases: []
 packFolder: ankarisnordlands
 shortcode: dekvetrdmr
-img: sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/dekvetrdmr-portrait.webp
+  icon: sohl-none-icon-person
+  portrait: dekvetrdmr
   templatePriority: null
   archetypes: []
   occupation: Thatcher
@@ -587,7 +587,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Dek Vetrdómr](images/beings/characters/dekvetrdmr-portrait.webp){float: top-left}
+![Dek Vetrdómr](images/beings/characters/dekvetrdmr.webp){float: top-left}
 
 ## Appearance {#appearance}
 

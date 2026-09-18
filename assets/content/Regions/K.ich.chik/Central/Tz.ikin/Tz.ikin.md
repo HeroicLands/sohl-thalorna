@@ -6,10 +6,10 @@ name:
   full: Tz'ikin
   aliases: []
 shortcode: tzikin
-img: null
 type: affiliation
 subType: polity
 data:
+  icon: null
   templatePriority: null
   demonym: null
   epithet: null

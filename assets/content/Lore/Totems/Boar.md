@@ -10,8 +10,10 @@ name:
   aliases:
     - Boar Totem
 shortcode: boarttm
-img: images/mystery/boar.webp
 packFolder: loretotems
+banner: creaturebnr
+data:
+  icon: boar
 ---
 
 Willful and stubborn, boars are highly determined and will fight vigorously when provoked, relying on their strength and tenacity.

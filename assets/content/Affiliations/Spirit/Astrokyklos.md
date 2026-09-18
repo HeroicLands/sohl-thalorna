@@ -6,6 +6,7 @@ name:
 type: affiliation
 subType: spirittradition
 data:
+  icon: null
   templatePriority: null
   demonym: null
   epithet: null
@@ -93,7 +94,6 @@ data:
   parents: []
   relations: {}
 shortcode: astrokyklos
-img: null
 packFolder: astrokyklos
 ---
 

@@ -6,11 +6,11 @@ name:
   full: Blinkfox
   aliases: []
 description: "A fae-touched predator that hunts enchanted forests by slipping through dimensions, striking from partially outside normal space."
-img: sohl/assets/icons/game-icons/delapouite/person.svg
 shortcode: blinkfox
 type: being
 data:
-  portrait: images/beings/creatures/blinkfox-portrait.webp
+  icon: sohl-none-icon-person
+  portrait: blinkfox
   templatePriority: null
   archetypes: []
   occupation: null
@@ -332,7 +332,7 @@ sohl:
         disabled: false
 ---
 
-![Blinkfox](images/beings/creatures/blinkfox-portrait.webp){float: top-left}
+![Blinkfox](images/beings/creatures/blinkfox.webp){float: top-left}
 
 ## Appearance {#appearance}
 

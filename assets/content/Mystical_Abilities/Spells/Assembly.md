@@ -5,11 +5,11 @@ name:
   aliases:
     - Convoke
 description: "Calls forth greater fire elemental; commands inferno to consume."
-img: sohl/assets/icons/game-icons/badges/fire.svg
 shortcode: arcasmbl
 type: mysticalability
 subType: arcaneincantation
 data:
+  icon: sohl-none-icon-firebdg
   templatePriority: null
 sohl:
   system:

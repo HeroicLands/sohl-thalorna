@@ -6,11 +6,11 @@ name:
   full: Nightwraith
   aliases: []
 description: "A corrupted giant bat twisted into a cunning nocturnal killer, hunting the night skies and lightless caverns with ruthless precision."
-img: sohl/assets/icons/game-icons/delapouite/person.svg
 shortcode: nghtwrth
 type: being
 data:
-  portrait: images/beings/creatures/nghtwrth-portrait.webp
+  icon: sohl-none-icon-person
+  portrait: nghtwrth
   templatePriority: null
   archetypes: []
   occupation: null
@@ -328,7 +328,7 @@ sohl:
         disabled: false
 ---
 
-![Nightwraith](images/beings/creatures/nghtwrth-portrait.webp){float: top-left}
+![Nightwraith](images/beings/creatures/nghtwrth.webp){float: top-left}
 
 ## Appearance {#appearance}
 

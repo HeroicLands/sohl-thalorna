@@ -6,13 +6,13 @@ name:
   aliases:
     - Potion, Curative, Strong
 description: "Deep emerald green curative; heals ailments and injuries."
-img: sohl/assets/icons/other/potion.svg
 shortcode: ptncurs
 type: concoctiongear
 subType: exotic
 hmk:
   name: "Potion, Curative, Strong"
 data:
+  icon: sohl-none-icon-potion
   templatePriority: null
 sohl:
   system:

@@ -7,8 +7,9 @@ name:
   full: Bēs
   aliases: []
 shortcode: besdty
-img: icons/takheperu/pantheon/bes.svg
 packFolder: deitieskemetian
+data:
+  icon: bes
 ---
 
 _Guardian of Night Visions — a crescent moon with a single protective eye._

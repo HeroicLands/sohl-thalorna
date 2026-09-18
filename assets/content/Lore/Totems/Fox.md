@@ -10,8 +10,10 @@ name:
   aliases:
     - Fox Totem
 shortcode: foxttm
-img: images/mystery/fox.webp
 packFolder: loretotems
+banner: creaturebnr
+data:
+  icon: fox
 ---
 
 Deceitful and cunning, foxes are highly intelligent and resourceful, using their wits to outsmart both prey and predators alike.

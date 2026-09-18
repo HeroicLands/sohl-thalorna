@@ -53,6 +53,7 @@ data:
   parents: []
   relations: {}
 packFolder: pantheonsvarnaka
+banner: pantheonbnr
 ---
 
 The **Varṇaka** is a single unified faith with a plural pantheon. Ten deities and spirit-courts are acknowledged and honoured across the tradition, but they do not each correspond to a separate religion. Rather, the Varṇaka faith is organised into dozens — and in some regions hundreds — of **sects and traditions** (_sampradāyas_, _vādas_, _panthās_, _samājas_), each with its own theological emphasis, temple style, and favoured rites. A sect may venerate one god, a small group of gods, or the entire pantheon in a particular interpretive key; likewise, a given deity may be the focus of several distinct sects that read that god differently. A priest is ordained into a specific sect, and most temples are associated with a particular sect, but the lay faithful move between sects and temples with relative ease, attending the shrine most appropriate to each occasion in their lives.

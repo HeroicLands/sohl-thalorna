@@ -13,10 +13,10 @@ name:
   aliases: []
 packFolder: ankarisnordlands
 shortcode: vgbrndrskyrkr
-img: sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/vgbrndrskyrkr-portrait.webp
+  icon: sohl-none-icon-person
+  portrait: vgbrndrskyrkr
   templatePriority: null
   archetypes: []
   occupation: Skald
@@ -588,7 +588,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Vígbrandr Skýrekkr](images/beings/characters/vgbrndrskyrkr-portrait.webp){float: top-left}
+![Vígbrandr Skýrekkr](images/beings/characters/vgbrndrskyrkr.webp){float: top-left}
 
 ## Appearance {#appearance}
 

@@ -11,13 +11,13 @@ name:
   aliases:
     - Iron Spear Piercing the Clouds
 shortcode: teitjekvngyrt
-img: sohl/assets/icons/game-icons/delapouite/person.svg
 description: >-
   Vüshōk general of the Empire of Tānvür turned rebel — condemned for a
   disobedience that won the battle it defied, and now leading the revolt that
   condemnation made inevitable.
 type: being
 data:
+  icon: sohl-none-icon-person
   portrait: null
   templatePriority: null
   archetypes: []

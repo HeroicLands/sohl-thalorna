@@ -7,8 +7,9 @@ name:
   full: Hâpi
   aliases: []
 shortcode: hapidty
-img: icons/takheperu/pantheon/hapi.svg
 packFolder: deitieskemetian
+data:
+  icon: hapi
 ---
 
 _The Golden Reveler — a golden amphora overflowing with wheat and coins._

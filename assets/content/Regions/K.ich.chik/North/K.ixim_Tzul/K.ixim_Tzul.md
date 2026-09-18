@@ -6,10 +6,10 @@ name:
   full: K'ixim Tzul
   aliases: []
 shortcode: kiximtzul
-img: null
 type: affiliation
 subType: polity
 data:
+  icon: null
   templatePriority: null
   demonym: null
   epithet: null

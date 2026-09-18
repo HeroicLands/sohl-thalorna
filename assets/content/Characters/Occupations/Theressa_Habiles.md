@@ -13,10 +13,10 @@ name:
     - Elenora Gray
 packFolder: helladhelionis
 shortcode: thereshbls
-img: sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/thereshbls-portrait.webp
+  icon: sohl-none-icon-person
+  portrait: null
   templatePriority: null
   archetypes: []
   occupation: Prostitute

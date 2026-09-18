@@ -10,8 +10,10 @@ name:
   aliases:
     - Donkey Totem
 shortcode: donkeyttm
-img: images/mystery/donkey.webp
 packFolder: loretotems
+banner: creaturebnr
+data:
+  icon: donkey
 ---
 
 Patient and obstinate, donkeys are known for their stubbornness and will resist any force they perceive as unreasonable or threatening.

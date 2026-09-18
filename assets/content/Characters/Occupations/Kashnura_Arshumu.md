@@ -13,10 +13,10 @@ name:
     - Edda Buckley
 packFolder: midhalionharad
 shortcode: kashnrrshm
-img: sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/kashnrrshm-portrait.webp
+  icon: sohl-none-icon-person
+  portrait: null
   templatePriority: null
   archetypes: []
   occupation: Chandler

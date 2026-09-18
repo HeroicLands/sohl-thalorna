@@ -13,10 +13,10 @@ name:
     - Elowen Quillmaster
 packFolder: helladhelionis
 shortcode: sahiratbrs
-img: sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/sahiratbrs-portrait.webp
+  icon: sohl-none-icon-person
+  portrait: null
   templatePriority: null
   archetypes: []
   occupation: Scribe

@@ -6,11 +6,11 @@ name:
   full: Quillbear
   aliases: []
 description: "A reclusive abomination of bear strength and porcupine quills that lairs in deep burrows and turns explosively aggressive when threatened."
-img: sohl/assets/icons/game-icons/delapouite/person.svg
 shortcode: qllbr
 type: being
 data:
-  portrait: images/beings/creatures/qllbr-portrait.webp
+  icon: sohl-none-icon-person
+  portrait: qllbr
   templatePriority: null
   archetypes: []
   occupation: null
@@ -370,7 +370,7 @@ sohl:
         disabled: false
 ---
 
-![Quillbear](images/beings/creatures/qllbr-portrait.webp){float: top-left}
+![Quillbear](images/beings/creatures/qllbr.webp){float: top-left}
 
 ## Appearance {#appearance}
 

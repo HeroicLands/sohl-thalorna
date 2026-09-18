@@ -13,10 +13,10 @@ name:
     - Mira Whisperwind
 packFolder: aureldiaprovenzia
 shortcode: vrynbrnwyld
-img: sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/vrynbrnwyld-portrait.webp
+  icon: sohl-none-icon-person
+  portrait: null
   templatePriority: null
   archetypes: []
   occupation: Shaman

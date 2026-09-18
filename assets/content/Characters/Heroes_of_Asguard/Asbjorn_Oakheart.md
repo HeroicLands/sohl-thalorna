@@ -14,10 +14,10 @@ name:
   home: ""
 packFolder: ankarisvrystwald
 shortcode: asbjrnkhrt
-img: sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/asbjrnkhrt-portrait.webp
+  icon: sohl-none-icon-person
+  portrait: null
   templatePriority: null
   archetypes: []
   occupation: Woodsman and Guardian

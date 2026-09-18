@@ -13,10 +13,10 @@ name:
   aliases: []
 packFolder: aureldiatarvenia
 shortcode: hlrksbrnthr
-img: sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/hlrksbrnthr-portrait.webp
+  icon: sohl-none-icon-person
+  portrait: hlrksbrnthr
   templatePriority: null
   archetypes: []
   occupation: Bureaucrat
@@ -601,7 +601,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Hálrikos Bránthira](images/beings/characters/hlrksbrnthr-portrait.webp){float: top-left}
+![Hálrikos Bránthira](images/beings/characters/hlrksbrnthr.webp){float: top-left}
 
 ## Appearance {#appearance}
 

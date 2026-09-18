@@ -13,12 +13,12 @@ name:
   aliases:
     - Totkar HetWera
 packFolder: northernfertileregiontakheperu
-banner: banners/ta-kheperu-banner.webp
+banner: takheperubnr
 shortcode: totkarhtwr
-img: sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/totkarhtwr-portrait.webp
+  icon: sohl-none-icon-person
+  portrait: totkarhtwr
   templatePriority: null
   archetypes: []
   occupation: Litigant
@@ -588,7 +588,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Tot'kar Het'Wera](images/beings/characters/totkarhtwr-portrait.webp){float: top-left}
+![Tot'kar Het'Wera](images/beings/characters/totkarhtwr.webp){float: top-left}
 
 **Home:** [[place-meruhotep|Meru-Hotep]]
 

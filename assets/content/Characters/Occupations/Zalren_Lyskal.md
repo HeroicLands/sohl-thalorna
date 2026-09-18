@@ -13,10 +13,10 @@ name:
     - Harvin Greenbark
 packFolder: aureldiaprovenzia
 shortcode: zalrnlyskl
-img: sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/zalrnlyskl-portrait.webp
+  icon: sohl-none-icon-person
+  portrait: null
   templatePriority: null
   archetypes: []
   occupation: Woodcrafter

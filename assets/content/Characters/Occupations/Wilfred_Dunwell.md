@@ -13,10 +13,10 @@ name:
     - Hrothgar Stormcaller
 packFolder: aureldiaaelwyth
 shortcode: wilfrednwl
-img: sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/wilfrednwl-portrait.webp
+  icon: sohl-none-icon-person
+  portrait: null
   templatePriority: null
   archetypes: []
   occupation: Herder

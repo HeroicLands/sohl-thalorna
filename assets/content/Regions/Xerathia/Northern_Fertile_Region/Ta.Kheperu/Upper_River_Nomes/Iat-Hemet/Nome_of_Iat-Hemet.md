@@ -1,7 +1,7 @@
 ---
 description: "The smallest upper nome; a narrow gorge-stretch where the valley pinches to almost nothing — one of the upper-river nomes of Ta'Kheperu."
 type: affiliation
-banner: banners/ta-kheperu-banner.webp
+banner: takheperubnr
 name:
   full: The Nome of Iat-Hemet
   aliases: []

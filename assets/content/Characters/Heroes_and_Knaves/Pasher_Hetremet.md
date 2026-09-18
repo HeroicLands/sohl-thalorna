@@ -12,12 +12,12 @@ name:
   aliases:
     - Pasher Hetremet
 packFolder: northernfertileregiontakheperu
-banner: banners/ta-kheperu-banner.webp
+banner: takheperubnr
 shortcode: pashrhtrmt
-img: sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/pashrhtrmt-portrait.webp
+  icon: sohl-none-icon-person
+  portrait: pashrhtrmt
   templatePriority: null
   archetypes: []
   occupation: Musician (Lyre)
@@ -583,7 +583,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Pasher Het'remet](images/beings/characters/pashrhtrmt-portrait.webp){float: top-left}
+![Pasher Het'remet](images/beings/characters/pashrhtrmt.webp){float: top-left}
 
 **Home:** [[place-wasetkara|Wasetkara]]
 

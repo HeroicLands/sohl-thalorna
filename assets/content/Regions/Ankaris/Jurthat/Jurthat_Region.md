@@ -7,10 +7,10 @@ name:
   aliases:
     - Jürthāti Archipelago
 shortcode: jurthatrgn
-img: null
 type: place
 subType: region
 data:
+  icon: null
   demonym: Jürthāti
   lore:
     - humanflk

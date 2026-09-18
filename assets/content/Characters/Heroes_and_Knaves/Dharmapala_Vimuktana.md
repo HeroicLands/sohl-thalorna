@@ -12,10 +12,10 @@ name:
   aliases: []
 packFolder: ankarisvedyara
 shortcode: dhrmplvmkt
-img: sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/dhrmplvmkt-portrait.webp
+  icon: sohl-none-icon-person
+  portrait: dhrmplvmkt
   templatePriority: null
   archetypes: []
   occupation: Bodyguard
@@ -576,7 +576,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Dharmàpala Vimuktaṇa](images/beings/characters/dhrmplvmkt-portrait.webp){float: top-left}
+![Dharmàpala Vimuktaṇa](images/beings/characters/dhrmplvmkt.webp){float: top-left}
 
 ## Appearance {#appearance}
 

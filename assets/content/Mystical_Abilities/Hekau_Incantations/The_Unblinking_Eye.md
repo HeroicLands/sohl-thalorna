@@ -7,10 +7,10 @@ name:
   aliases: []
 description: "Sets a watch on a place that reports faithfully to the practitioner what passed there."
 shortcode: unblnkngey
-img: icons/takheperu/khemenu-hekau/atenre.svg
 type: mysticalability
 subType: arcaneincantation
 data:
+  icon: atenre
   templatePriority: null
 sohl:
   system:

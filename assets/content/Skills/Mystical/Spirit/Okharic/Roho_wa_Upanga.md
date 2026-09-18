@@ -6,12 +6,12 @@ description: "Standing with Roho wa Upanga, zohira of the blade — what this em
 type: skill
 subType: mystical
 shortcode: upangasprt
-img: sohl/assets/icons/game-icons/lorc/psychic-waves.svg
 name:
   full: "Roho wa Upanga Spirit Power"
   aliases:
     - The Spirit of the Blade
 data:
+  icon: sohl-none-icon-psychicwaves
   templatePriority: null
 sohl:
   system:

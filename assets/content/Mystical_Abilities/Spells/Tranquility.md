@@ -5,11 +5,11 @@ name:
   aliases:
     - Calm
 description: "Calms emotions and mind; grants peace and serenity."
-img: sohl/assets/icons/game-icons/badges/water.svg
 shortcode: trnqlty
 type: mysticalability
 subType: arcaneincantation
 data:
+  icon: sohl-none-icon-water
   templatePriority: null
 sohl:
   system:

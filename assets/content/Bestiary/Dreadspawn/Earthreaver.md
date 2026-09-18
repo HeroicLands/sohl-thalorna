@@ -6,11 +6,11 @@ name:
   full: Earthreaver
   aliases: []
 description: "A venomous burrowing arthropod that rules underground ecosystems through speed and toxin, carving vast tunnel hunting grounds."
-img: sohl/assets/icons/game-icons/delapouite/person.svg
 shortcode: erthrvr
 type: being
 data:
-  portrait: images/beings/creatures/erthrvr-portrait.webp
+  icon: sohl-none-icon-person
+  portrait: erthrvr
   templatePriority: null
   archetypes: []
   occupation: null
@@ -247,7 +247,7 @@ sohl:
         disabled: false
 ---
 
-![Earthreaver](images/beings/creatures/erthrvr-portrait.webp){float: top-left}
+![Earthreaver](images/beings/creatures/erthrvr.webp){float: top-left}
 
 ## Appearance {#appearance}
 

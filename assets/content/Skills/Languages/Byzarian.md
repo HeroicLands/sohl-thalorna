@@ -5,11 +5,11 @@ name:
   aliases:
     - Byzarian
 description: "A crossroads speech wedding Helonic grammar to eastern vocabulary, widely understood by traders on either side."
-img: sohl/assets/icons/other/speaking.svg
 shortcode: byzarnlng
 type: skill
 subType: language
 data:
+  icon: sohl-none-icon-speaking
   templatePriority: null
 sohl:
   system:

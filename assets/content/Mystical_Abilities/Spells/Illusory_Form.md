@@ -5,11 +5,11 @@ name:
   aliases:
     - Image
 description: "Three-dimensional image of person or creature; dispels upon contact."
-img: sohl/assets/icons/other/wind.svg
 shortcode: illfrm
 type: mysticalability
 subType: arcaneincantation
 data:
+  icon: sohl-none-icon-wind
   templatePriority: null
 sohl:
   system:

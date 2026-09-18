@@ -6,6 +6,7 @@ tags:
 type: affiliation
 subType: faithtradition
 data:
+  icon: menerva
   templatePriority: null
   demonym: null
   epithet: Keeper of Sacred Wisdom
@@ -76,8 +77,8 @@ name:
     - Keeper of Sacred Wisdom
     - Ménérva
 shortcode: menerva
-img: images/affiliation/aureldian/menerva.webp
 packFolder: pantheonsaureldian
+banner: faithbnr
 ---
 
 Goddess of learning, language, and invention. Ménérva illuminates the minds of scholars, craftsmen, and leaders, guiding them to wisdom.

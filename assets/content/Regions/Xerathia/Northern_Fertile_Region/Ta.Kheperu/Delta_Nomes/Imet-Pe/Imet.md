@@ -13,7 +13,7 @@ data:
 name:
   full: Imet
   aliases: []
-banner: banners/ta-kheperu-banner.webp
+banner: takheperubnr
 shortcode: imet
 packFolder: deltanomes
 ---

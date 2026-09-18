@@ -6,12 +6,12 @@ description: "Standing with Awelon, the West Wind — what this allied Kindred i
 type: skill
 subType: mystical
 shortcode: awelonsprt
-img: sohl/assets/icons/game-icons/lorc/psychic-waves.svg
 name:
   full: "Awelon Spirit Power"
   aliases:
     - Awelon, the West Wind
 data:
+  icon: sohl-none-icon-psychicwaves
   templatePriority: null
 sohl:
   system:

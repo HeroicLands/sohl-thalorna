@@ -4,10 +4,10 @@ name:
   full: Katana
   aliases: []
 description: "Folded-layer curved single-edged blade; officer's status and discipline."
-img: sohl/assets/icons/other/sword.svg
 shortcode: ktna
 type: weapongear
 data:
+  icon: sohl-none-icon-sword
   templatePriority: null
 sohl:
   kbcat: sword

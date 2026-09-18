@@ -13,10 +13,10 @@ name:
   aliases: []
 packFolder: ankariskhazryndesert
 shortcode: shrmnhthvn
-img: sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/shrmnhthvn-portrait.webp
+  icon: sohl-none-icon-person
+  portrait: shrmnhthvn
   templatePriority: null
   archetypes: []
   occupation: Priest
@@ -590,7 +590,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Sharmînah Tahvân](images/beings/characters/shrmnhthvn-portrait.webp){float: top-left}
+![Sharmînah Tahvân](images/beings/characters/shrmnhthvn.webp){float: top-left}
 
 ## Appearance {#appearance}
 

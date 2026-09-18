@@ -13,10 +13,10 @@ name:
     - Bronn Hillstride
 packFolder: aureldiaaelwyth
 shortcode: godwinadwl
-img: sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/godwinadwl-portrait.webp
+  icon: sohl-none-icon-person
+  portrait: null
   templatePriority: null
   archetypes: []
   occupation: Herder

@@ -5,7 +5,6 @@ tags:
 type: skill
 subType: mystical
 shortcode: hapi
-img: icons/takheperu/pantheon/hapi.svg
 name:
   full: "Ritual: Hâpi"
   aliases:
@@ -15,6 +14,7 @@ name:
     - The Golden Reveler
     - The Overflowing One
 data:
+  icon: hapi
   templatePriority: null
 sohl:
   system:

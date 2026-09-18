@@ -6,10 +6,10 @@ name:
   full: Ba'alam Ki'ahk
   aliases: []
 shortcode: balamkiahk
-img: null
 type: affiliation
 subType: polity
 data:
+  icon: null
   templatePriority: null
   demonym: null
   epithet: null

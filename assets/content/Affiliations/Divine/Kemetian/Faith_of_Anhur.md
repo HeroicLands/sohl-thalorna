@@ -74,7 +74,7 @@ name:
   aliases:
     - Anhur, Patron of the Hunt
 shortcode: anhur
-banner: banners/ta-kheperu-banner.webp
+banner: takheperubnr
 packFolder: pantheonskemetian
 ---
 

@@ -4,12 +4,12 @@ tags:
 type: skill
 subType: mystical
 shortcode: maatken
-img: icons/takheperu/khemenu-hekau/maatken.svg
 name:
   full: "Hekau: Maat'ken"
   aliases:
     - Per-Maat'ken
 data:
+  icon: maatken
   templatePriority: null
 sohl:
   system:

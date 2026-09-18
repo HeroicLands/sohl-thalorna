@@ -13,10 +13,10 @@ name:
     - Elowen Saltbloom
 packFolder: aureldiaelavendre
 shortcode: dernklmrth
-img: sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/dernklmrth-portrait.webp
+  icon: sohl-none-icon-person
+  portrait: null
   templatePriority: null
   archetypes: []
   occupation: Salter

@@ -126,6 +126,7 @@ data:
   relations:
     tanvurempr: aligned
 packFolder: celestialpantheon
+banner: faithbnr
 ---
 
 ## Rëkgüng — The Minister of Storms

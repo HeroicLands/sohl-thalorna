@@ -5,11 +5,11 @@ name:
   aliases:
     - Sphere
 description: "Sphere of magical energy floating and following caster."
-img: sohl/assets/icons/game-icons/badges/fire.svg
 shortcode: orb
 type: mysticalability
 subType: arcaneincantation
 data:
+  icon: sohl-none-icon-firebdg
   templatePriority: null
 sohl:
   system:

@@ -13,10 +13,10 @@ name:
   aliases: []
 packFolder: heroesandknaveskalihara
 shortcode: qamiralamr
-img: sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/qamiralamr-portrait.webp
+  icon: sohl-none-icon-person
+  portrait: qamiralamr
   templatePriority: null
   archetypes: []
   occupation: Astrologer
@@ -604,7 +604,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Qâmira Lamari](images/beings/characters/qamiralamr-portrait.webp){float: top-left}
+![Qâmira Lamari](images/beings/characters/qamiralamr.webp){float: top-left}
 
 ## Appearance {#appearance}
 

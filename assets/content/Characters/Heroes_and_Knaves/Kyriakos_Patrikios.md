@@ -12,10 +12,10 @@ name:
   aliases: []
 packFolder: helladbyzaria
 shortcode: kyrksptrks
-img: sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/kyrksptrks-portrait.webp
+  icon: sohl-none-icon-person
+  portrait: kyrksptrks
   templatePriority: null
   archetypes: []
   occupation: Swordmaster
@@ -589,7 +589,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Kyriákos Patrikîos](images/beings/characters/kyrksptrks-portrait.webp){float: top-left}
+![Kyriákos Patrikîos](images/beings/characters/kyrksptrks.webp){float: top-left}
 
 ## Appearance {#appearance}
 

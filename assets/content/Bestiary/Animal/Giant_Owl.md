@@ -6,11 +6,11 @@ name:
   full: Giant Owl
   aliases: []
 description: "A silent nocturnal apex raptor with a twenty-five-foot wingspan and armor-piercing talons, intelligently ruling vast territories across many valleys."
-img: sohl/assets/icons/game-icons/delapouite/person.svg
 shortcode: giantowl
 type: being
 data:
-  portrait: images/beings/creatures/giantowl-portrait.webp
+  icon: sohl-none-icon-person
+  portrait: giantowl
   templatePriority: null
   archetypes: []
   occupation: null
@@ -335,7 +335,7 @@ sohl:
         disabled: false
 ---
 
-![Giant Owl](images/beings/creatures/giantowl-portrait.webp){float: top-left}
+![Giant Owl](images/beings/creatures/giantowl.webp){float: top-left}
 
 ## Appearance {#appearance}
 

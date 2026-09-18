@@ -5,13 +5,13 @@ tags:
 type: skill
 subType: mystical
 shortcode: thanatos
-img: images/affiliation/aureldian/thanatos.webp
 name:
   full: "Ritual: Thanatos"
   aliases:
     - Thánatos
     - The Silent Judge
 data:
+  icon: thanatos
   templatePriority: null
 sohl:
   system:

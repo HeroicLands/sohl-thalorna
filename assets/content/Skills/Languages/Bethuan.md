@@ -5,11 +5,11 @@ name:
   aliases:
     - Bethuan
 description: "The Bethuan mother tongue, whose grammar itself carries distinct feminine and masculine registers."
-img: sohl/assets/icons/other/speaking.svg
 shortcode: bethunlng
 type: skill
 subType: language
 data:
+  icon: sohl-none-icon-speaking
   templatePriority: null
 sohl:
   system:

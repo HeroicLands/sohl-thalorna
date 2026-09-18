@@ -14,10 +14,10 @@ name:
     - Elric Threadgold
 packFolder: aureldiaaelwyth
 shortcode: edmndwlfrd
-img: sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/edmndwlfrd-portrait.webp
+  icon: sohl-none-icon-person
+  portrait: null
   templatePriority: null
   archetypes: []
   occupation: Clothier

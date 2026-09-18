@@ -7,10 +7,10 @@ name:
   full: Aurèldía Region
   aliases: []
 shortcode: aureldirgn
-img: null
 type: place
 subType: region
 data:
+  icon: null
   demonym: Aurèldían
   lore:
     - humanflk

@@ -15,10 +15,10 @@ name:
   home: null
 packFolder: ankarisnordlands
 shortcode: mrkvdrdthmg
-img: sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/mrkvdrdthmg-portrait.webp
+  icon: sohl-none-icon-person
+  portrait: null
   templatePriority: null
   archetypes: []
   occupation: Necromancer

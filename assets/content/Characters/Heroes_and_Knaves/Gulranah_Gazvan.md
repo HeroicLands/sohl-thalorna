@@ -13,10 +13,10 @@ name:
   aliases: []
 packFolder: sultanateofamradad
 shortcode: gulrnhgzvn
-img: sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/gulrnhgzvn-portrait.webp
+  icon: sohl-none-icon-person
+  portrait: gulrnhgzvn
   templatePriority: null
   archetypes: []
   occupation: Charcoaler
@@ -587,7 +587,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Gulrânah Gazvân](images/beings/characters/gulrnhgzvn-portrait.webp){float: top-left}
+![Gulrânah Gazvân](images/beings/characters/gulrnhgzvn.webp){float: top-left}
 
 ## Appearance {#appearance}
 

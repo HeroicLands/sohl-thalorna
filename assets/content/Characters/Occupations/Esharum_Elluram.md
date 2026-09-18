@@ -13,10 +13,10 @@ name:
     - Edwin Hale
 packFolder: midhalionharad
 shortcode: esharumlrm
-img: sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/esharumlrm-portrait.webp
+  icon: sohl-none-icon-person
+  portrait: null
   templatePriority: null
   archetypes: []
   occupation: Domestic Servant

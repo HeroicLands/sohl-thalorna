@@ -13,10 +13,10 @@ name:
   aliases: []
 packFolder: ankarisvedyara
 shortcode: cndrthrchrymkhysvr
-img: sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/cndrthrchrymkhysvr-portrait.webp
+  icon: sohl-none-icon-person
+  portrait: cndrthrchrymkhysvr
   templatePriority: null
   archetypes: []
   occupation: Apothecary
@@ -588,7 +588,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Càndrathar Āchāryamukhyēśvara](images/beings/characters/cndrthrchrymkhysvr-portrait.webp){float: top-left}
+![Càndrathar Āchāryamukhyēśvara](images/beings/characters/cndrthrchrymkhysvr.webp){float: top-left}
 
 ## Appearance {#appearance}
 

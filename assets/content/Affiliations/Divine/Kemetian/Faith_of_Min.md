@@ -69,7 +69,7 @@ name:
   aliases:
     - Min, The Fertility-God
 shortcode: min
-banner: banners/ta-kheperu-banner.webp
+banner: takheperubnr
 packFolder: pantheonskemetian
 ---
 

@@ -10,8 +10,10 @@ name:
   aliases:
     - Trout Totem
 shortcode: troutttm
-img: images/mystery/trout.webp
 packFolder: loretotems
+banner: creaturebnr
+data:
+  icon: trout
 ---
 
 Swift and wary, trout are agile fish that remain constantly alert, using their speed and awareness to evade predators in freshwater streams.

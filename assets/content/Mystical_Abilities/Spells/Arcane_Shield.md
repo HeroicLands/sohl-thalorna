@@ -5,11 +5,11 @@ name:
   aliases:
     - Aegis
 description: "Translucent disc of force deflects blows and scatters hostile magic."
-img: sohl/assets/icons/game-icons/delapouite/circle.svg
 shortcode: arcshld
 type: mysticalability
 subType: arcaneincantation
 data:
+  icon: sohl-none-icon-circle
   templatePriority: null
 sohl:
   system:

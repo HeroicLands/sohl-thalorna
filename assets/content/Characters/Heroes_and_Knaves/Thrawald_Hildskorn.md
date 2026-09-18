@@ -13,10 +13,10 @@ name:
   aliases: []
 packFolder: ankarisvrystwald
 shortcode: thrwldhldskrn
-img: sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/thrwldhldskrn-portrait.webp
+  icon: sohl-none-icon-person
+  portrait: thrwldhldskrn
   templatePriority: null
   archetypes: []
   occupation: Brigand
@@ -550,7 +550,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Thráwald Hildskorn](images/beings/characters/thrwldhldskrn-portrait.webp){float: top-left}
+![Thráwald Hildskorn](images/beings/characters/thrwldhldskrn.webp){float: top-left}
 
 ## Appearance {#appearance}
 

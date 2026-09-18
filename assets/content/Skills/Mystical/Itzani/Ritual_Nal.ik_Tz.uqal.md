@@ -5,13 +5,13 @@ tags:
 type: skill
 subType: mystical
 shortcode: naliktzuqal
-img: null
 name:
   full: "Ritual: Nal'ik Tz'uqal"
   aliases:
     - Nal'ik Tz'uqal
     - The Dreamer in Moonlight
 data:
+  icon: null
   templatePriority: null
 sohl:
   system:

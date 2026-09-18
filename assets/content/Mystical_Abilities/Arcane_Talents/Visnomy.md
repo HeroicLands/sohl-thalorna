@@ -3,11 +3,11 @@ tags: []
 name:
   full: Visnomy
   aliases: []
-img: sohl/assets/icons/noun/psionics.svg
 shortcode: vsnm
 type: mysticalability
 subType: arcanetalent
 data:
+  icon: sohl-none-icon-psionics
   templatePriority: null
 sohl:
   system:

@@ -7,10 +7,10 @@ name:
   aliases: []
 description: "Discovers the true name of a person, place or made thing."
 shortcode: trnmhrd
-img: icons/takheperu/khemenu-hekau/rensesh.svg
 type: mysticalability
 subType: arcaneincantation
 data:
+  icon: rensesh
   templatePriority: null
 sohl:
   system:

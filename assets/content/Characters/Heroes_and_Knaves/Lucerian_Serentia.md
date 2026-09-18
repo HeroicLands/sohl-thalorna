@@ -11,11 +11,11 @@ name:
   aliases: []
 packFolder: midhalionvylaria
 shortcode: lucernsrnt
-banner: banners/tamzir-banner.webp
-img: sohl/assets/icons/game-icons/delapouite/person.svg
+banner: tamzirbnr
 type: being
 data:
-  portrait: images/beings/characters/lucernsrnt-portrait.webp
+  icon: sohl-none-icon-person
+  portrait: lucernsrnt
   templatePriority: null
   archetypes: []
   occupation: Physician
@@ -556,7 +556,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Lucerian Serentia](images/beings/characters/lucernsrnt-portrait.webp){float: top-left}
+![Lucerian Serentia](images/beings/characters/lucernsrnt.webp){float: top-left}
 
 ## Appearance {#appearance}
 

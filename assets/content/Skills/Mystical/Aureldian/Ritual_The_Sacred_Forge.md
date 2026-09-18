@@ -5,13 +5,13 @@ tags:
 type: skill
 subType: mystical
 shortcode: sacredforge
-img: images/affiliation/aureldian/sacredforge.webp
 name:
   full: "Ritual: The Sacred Forge"
   aliases:
     - The Sacred Forge
     - Vúlcani Orthodox
 data:
+  icon: sacredforge
   templatePriority: null
 sohl:
   system:

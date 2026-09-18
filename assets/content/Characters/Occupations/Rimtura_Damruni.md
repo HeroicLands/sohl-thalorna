@@ -13,10 +13,10 @@ name:
     - Isolde Fairbloom
 packFolder: midhalionharad
 shortcode: rimturdmrn
-img: sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/rimturdmrn-portrait.webp
+  icon: sohl-none-icon-person
+  portrait: null
   templatePriority: null
   archetypes: []
   occupation: Litigant

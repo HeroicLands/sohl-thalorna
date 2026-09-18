@@ -12,11 +12,11 @@ name:
     - Shâ
 packFolder: midhalionharad
 shortcode: esharumtrz
-banner: banners/tamzir-banner.webp
-img: sohl/assets/icons/game-icons/delapouite/person.svg
+banner: tamzirbnr
 type: being
 data:
-  portrait: images/beings/characters/esharumtrz-portrait.webp
+  icon: sohl-none-icon-person
+  portrait: esharumtrz
   templatePriority: null
   archetypes: []
   occupation: Ship Captain
@@ -565,7 +565,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Eshârum Tarûzî](images/beings/characters/esharumtrz-portrait.webp){float: top-left}
+![Eshârum Tarûzî](images/beings/characters/esharumtrz.webp){float: top-left}
 
 ## Appearance {#appearance}
 

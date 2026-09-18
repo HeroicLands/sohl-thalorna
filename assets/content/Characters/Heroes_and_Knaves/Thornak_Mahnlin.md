@@ -16,10 +16,10 @@ name:
     - Thornak Mahnlin
 packFolder: ankarisvrystwald
 shortcode: thrnkbldtscbr
-img: sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/thrnkbldtscbr-portrait.webp
+  icon: sohl-none-icon-person
+  portrait: thrnkbldtscbr
   templatePriority: null
   archetypes: []
   occupation: Hunter
@@ -597,7 +597,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Thornak Blodtūsc Bār](images/beings/characters/thrnkbldtscbr-portrait.webp){float: top-left}
+![Thornak Blodtūsc Bār](images/beings/characters/thrnkbldtscbr.webp){float: top-left}
 
 ## Appearance {#appearance}
 

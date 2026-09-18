@@ -7,8 +7,9 @@ name:
   full: Má'át
   aliases: []
 shortcode: maatdty
-img: icons/takheperu/pantheon/maat.svg
 packFolder: deitieskemetian
+data:
+  icon: maat
 ---
 
 _Keeper of Truth and Harmony — a feather atop a golden scale._

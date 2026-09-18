@@ -1,7 +1,7 @@
 ---
 description: "The far western desert march; oasis-forts and the watch over the trade-tracks — one of the border nomes of Ta'Kheperu."
 type: affiliation
-banner: banners/ta-kheperu-banner.webp
+banner: takheperubnr
 name:
   full: The Nome of Khaset-Imnt
   aliases: []

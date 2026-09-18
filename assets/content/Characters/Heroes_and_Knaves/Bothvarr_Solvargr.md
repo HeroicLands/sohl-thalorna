@@ -12,10 +12,10 @@ name:
   aliases: []
 packFolder: ankarisnordlands
 shortcode: bthvrslvrgr
-img: sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/bthvrslvrgr-portrait.webp
+  icon: sohl-none-icon-person
+  portrait: bthvrslvrgr
   templatePriority: null
   archetypes: []
   occupation: Yeoman Infantry
@@ -583,7 +583,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Böthvarr Sólvargr](images/beings/characters/bthvrslvrgr-portrait.webp){float: top-left}
+![Böthvarr Sólvargr](images/beings/characters/bthvrslvrgr.webp){float: top-left}
 
 ## Appearance {#appearance}
 

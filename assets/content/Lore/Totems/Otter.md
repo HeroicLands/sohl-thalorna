@@ -10,8 +10,10 @@ name:
   aliases:
     - Otter Totem
 shortcode: otterttm
-img: images/mystery/otter.webp
 packFolder: loretotems
+banner: creaturebnr
+data:
+  icon: otter
 ---
 
 Playful and curious, otters are highly social animals that enjoy engaging in group activities, often seen playing in water or using tools to crack open food.

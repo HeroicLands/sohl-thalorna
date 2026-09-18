@@ -6,13 +6,13 @@ name:
   aliases:
     - Potion, Paralytic, Great
 description: "Sickly pale green viscous substance; freezes body and movement."
-img: sohl/assets/icons/other/potion.svg
 shortcode: ptnparg
 type: concoctiongear
 subType: exotic
 hmk:
   name: "Potion, Paralytic, Great"
 data:
+  icon: sohl-none-icon-potion
   templatePriority: null
 sohl:
   system:

@@ -5,12 +5,12 @@ tags:
 type: skill
 subType: mystical
 shortcode: freyja
-img: images/affiliation/asguardian/freyja.webp
 name:
   full: "Ritual: Fréyja"
   aliases:
     - The Golden Path
 data:
+  icon: freyja
   templatePriority: null
 sohl:
   system:

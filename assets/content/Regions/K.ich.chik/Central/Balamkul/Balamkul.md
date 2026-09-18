@@ -6,10 +6,10 @@ name:
   full: Balamkul
   aliases: []
 shortcode: balamkul
-img: null
 type: affiliation
 subType: polity
 data:
+  icon: null
   templatePriority: null
   demonym: null
   epithet: null

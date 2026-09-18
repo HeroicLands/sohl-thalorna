@@ -7,8 +7,9 @@ name:
   full: Íšét
   aliases: []
 shortcode: isetdty
-img: icons/takheperu/pantheon/iset.svg
 packFolder: deitieskemetian
+data:
+  icon: iset
 ---
 
 _Mother of New Beginnings — a blooming lotus intertwined with a serpent._

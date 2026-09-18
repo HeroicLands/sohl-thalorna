@@ -13,12 +13,12 @@ name:
   aliases:
     - Meret-Sebek Hekaamun
 packFolder: northernfertileregiontakheperu
-banner: banners/ta-kheperu-banner.webp
+banner: takheperubnr
 shortcode: mrtsbkhkmn
-img: sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/mrtsbkhkmn-portrait.webp
+  icon: sohl-none-icon-person
+  portrait: mrtsbkhkmn
   templatePriority: null
   archetypes: []
   occupation: Astrologer
@@ -603,7 +603,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Meret-Sebek Heka’amun](images/beings/characters/mrtsbkhkmn-portrait.webp){float: top-left}
+![Meret-Sebek Heka’amun](images/beings/characters/mrtsbkhkmn.webp){float: top-left}
 
 **Home:** [[place-meruhotep|Meru-Hotep]]
 

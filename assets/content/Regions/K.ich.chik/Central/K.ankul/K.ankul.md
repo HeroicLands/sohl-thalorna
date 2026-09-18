@@ -6,10 +6,10 @@ name:
   full: K'ankul
   aliases: []
 shortcode: kankul
-img: null
 type: affiliation
 subType: polity
 data:
+  icon: null
   templatePriority: null
   demonym: null
   epithet: null

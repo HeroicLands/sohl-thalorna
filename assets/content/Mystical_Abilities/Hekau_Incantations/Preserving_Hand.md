@@ -7,10 +7,10 @@ name:
   aliases: []
 description: "Arrests decay in a body or an object for as long as the working holds."
 shortcode: prsrvnghnd
-img: icons/takheperu/khemenu-hekau/khatnu.svg
 type: mysticalability
 subType: arcaneincantation
 data:
+  icon: khatnu
   templatePriority: null
 sohl:
   system:

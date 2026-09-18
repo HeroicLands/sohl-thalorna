@@ -6,13 +6,13 @@ name:
   aliases:
     - Physic Elixir
 description: "Colorless liquid; suppresses other active elixirs in imbiber body."
-img: sohl/assets/icons/other/potion.svg
 shortcode: elxphy
 type: concoctiongear
 subType: elixir
 hmk:
   name: Physic
 data:
+  icon: sohl-none-icon-potion
   templatePriority: null
 sohl:
   system:

@@ -7,10 +7,10 @@ name:
   aliases: []
 description: "Transmutes a made thing into another material, keeping its form exactly."
 shortcode: trnsfrmtnvs
-img: icons/takheperu/khemenu-hekau/khatnu.svg
 type: mysticalability
 subType: arcaneincantation
 data:
+  icon: khatnu
   templatePriority: null
 sohl:
   system:

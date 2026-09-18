@@ -13,10 +13,10 @@ name:
     - Lord Alaric Stormhaven
 packFolder: helladhelionis
 shortcode: hsrnkhlthn
-img: sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/hsrnkhlthn-portrait.webp
+  icon: sohl-none-icon-person
+  portrait: null
   templatePriority: null
   archetypes: []
   occupation: Nobility (Tenant-in-chief)

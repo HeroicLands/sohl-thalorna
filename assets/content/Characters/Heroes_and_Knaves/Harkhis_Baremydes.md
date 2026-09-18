@@ -13,10 +13,10 @@ name:
   aliases: []
 packFolder: midhalionvylaria
 shortcode: hrkhsbrmyds
-img: sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/hrkhsbrmyds-portrait.webp
+  icon: sohl-none-icon-person
+  portrait: hrkhsbrmyds
   templatePriority: null
   archetypes: []
   occupation: Apothecary
@@ -604,7 +604,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Harkhîs Bàremydês](images/beings/characters/hrkhsbrmyds-portrait.webp){float: top-left}
+![Harkhîs Bàremydês](images/beings/characters/hrkhsbrmyds.webp){float: top-left}
 
 ## Appearance {#appearance}
 

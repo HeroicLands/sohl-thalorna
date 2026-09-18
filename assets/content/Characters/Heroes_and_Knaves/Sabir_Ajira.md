@@ -13,10 +13,10 @@ name:
   aliases: []
 packFolder: heroesandknaveskalihara
 shortcode: sabirajira
-img: sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/sabirajira-portrait.webp
+  icon: sohl-none-icon-person
+  portrait: sabirajira
   templatePriority: null
   archetypes: []
   occupation: Charcoaler
@@ -601,7 +601,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Sâbir Âjira](images/beings/characters/sabirajira-portrait.webp){float: top-left}
+![Sâbir Âjira](images/beings/characters/sabirajira.webp){float: top-left}
 
 ## Appearance {#appearance}
 

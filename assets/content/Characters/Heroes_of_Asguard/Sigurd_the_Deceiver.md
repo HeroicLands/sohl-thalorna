@@ -15,10 +15,10 @@ name:
   home: null
 packFolder: ankarisnordlands
 shortcode: sigurdecvr
-img: sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/sigurdecvr-portrait.webp
+  icon: sohl-none-icon-person
+  portrait: null
   templatePriority: null
   archetypes: []
   occupation: Thief and Con Artist

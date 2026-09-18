@@ -12,10 +12,10 @@ name:
   aliases: []
 packFolder: helladbyzaria
 shortcode: klnkszygmls
-img: sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/klnkszygmls-portrait.webp
+  icon: sohl-none-icon-person
+  portrait: klnkszygmls
   templatePriority: null
   archetypes: []
   occupation: Cartographer/Artist
@@ -601,7 +601,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Kallínikos Zygomálas](images/beings/characters/klnkszygmls-portrait.webp){float: top-left}
+![Kallínikos Zygomálas](images/beings/characters/klnkszygmls.webp){float: top-left}
 
 ## Appearance {#appearance}
 

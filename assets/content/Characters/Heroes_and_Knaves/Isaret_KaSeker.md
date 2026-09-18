@@ -14,12 +14,12 @@ name:
     - Whispers
     - The Dancing Shadow
 packFolder: northernfertileregiontakheperu
-banner: banners/ta-kheperu-banner.webp
+banner: takheperubnr
 shortcode: isaretkskr
-img: sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/isaretkskr-portrait.webp
+  icon: sohl-none-icon-person
+  portrait: isaretkskr
   templatePriority: null
   archetypes: []
   occupation: Intelligence Agent
@@ -597,7 +597,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Isaret Ka'Seker](images/beings/characters/isaretkskr-portrait.webp){float: top-left}
+![Isaret Ka'Seker](images/beings/characters/isaretkskr.webp){float: top-left}
 
 **Home:** [[place-khensuret|Khensuret]]
 

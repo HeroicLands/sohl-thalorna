@@ -6,11 +6,11 @@ name:
   full: Sand Wurm
   aliases: []
 description: "A subterranean apex predator up to a hundred feet long, using tremor sense to ambush prey from beneath the sand, virtually unstoppable underground."
-img: sohl/assets/icons/game-icons/delapouite/person.svg
 shortcode: sandwurm
 type: being
 data:
-  portrait: images/beings/creatures/sandwurm-portrait.webp
+  icon: sohl-none-icon-person
+  portrait: sandwurm
   templatePriority: null
   archetypes: []
   occupation: null
@@ -258,7 +258,7 @@ sohl:
         disabled: false
 ---
 
-![Sand Wurm](images/beings/creatures/sandwurm-portrait.webp){float: top-left}
+![Sand Wurm](images/beings/creatures/sandwurm.webp){float: top-left}
 
 ## Appearance {#appearance}
 

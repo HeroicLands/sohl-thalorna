@@ -14,12 +14,12 @@ name:
     - Siprah Ipmaâr
     - Siprah Ipmaar
 packFolder: northernfertileregiontakheperu
-banner: banners/ta-kheperu-banner.webp
+banner: takheperubnr
 shortcode: siprahipmr
-img: sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/siprahipmr-portrait.webp
+  icon: sohl-none-icon-person
+  portrait: siprahipmr
   templatePriority: null
   archetypes: []
   occupation: Locksmith
@@ -591,7 +591,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Sip'rah Ip'maâr](images/beings/characters/siprahipmr-portrait.webp){float: top-left}
+![Sip'rah Ip'maâr](images/beings/characters/siprahipmr.webp){float: top-left}
 
 **Home:** [[place-wasetkara|Wasetkara]]
 

@@ -13,12 +13,12 @@ name:
     - Tamiyra Jâut
     - Tamiyra Jaut
 packFolder: northernfertileregiontakheperu
-banner: banners/ta-kheperu-banner.webp
+banner: takheperubnr
 shortcode: tamiyrajat
-img: sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/tamiyrajat-portrait.webp
+  icon: sohl-none-icon-person
+  portrait: tamiyrajat
   templatePriority: null
   archetypes: []
   occupation: Courtesan
@@ -603,7 +603,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Ta'miyra Jâut](images/beings/characters/tamiyrajat-portrait.webp){float: top-left}
+![Ta'miyra Jâut](images/beings/characters/tamiyrajat.webp){float: top-left}
 
 **Home:** [[place-perankhet|Per-Ankhet]]
 

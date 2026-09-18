@@ -13,10 +13,10 @@ name:
     - Sir Cedric Loudvale
 packFolder: midhalionvylaria
 shortcode: grlndrskrzns
-img: sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/grlndrskrzns-portrait.webp
+  icon: sohl-none-icon-person
+  portrait: null
   templatePriority: null
   archetypes: []
   occupation: Herald

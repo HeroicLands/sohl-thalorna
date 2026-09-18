@@ -13,10 +13,10 @@ name:
     - Elara Birchwood
 packFolder: midhalionharad
 shortcode: nulazizrsh
-img: sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/nulazizrsh-portrait.webp
+  icon: sohl-none-icon-person
+  portrait: null
   templatePriority: null
   archetypes: []
   occupation: Timberwright

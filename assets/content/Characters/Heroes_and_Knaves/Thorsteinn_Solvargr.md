@@ -13,10 +13,10 @@ name:
   aliases: []
 packFolder: ankarisnordlands
 shortcode: thrstnslvrgr
-img: sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/thrstnslvrgr-portrait.webp
+  icon: sohl-none-icon-person
+  portrait: thrstnslvrgr
   templatePriority: null
   archetypes: []
   occupation: Glassworker
@@ -590,7 +590,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Thorsteinn Sólvargr](images/beings/characters/thrstnslvrgr-portrait.webp){float: top-left}
+![Thorsteinn Sólvargr](images/beings/characters/thrstnslvrgr.webp){float: top-left}
 
 ## Appearance {#appearance}
 

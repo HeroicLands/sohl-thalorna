@@ -5,13 +5,13 @@ tags:
 type: skill
 subType: mystical
 shortcode: xilanixlan
-img: null
 name:
   full: "Ritual: Xilan Ix'lan"
   aliases:
     - Xilan Ix'lan
     - The Walker of Paths
 data:
+  icon: null
   templatePriority: null
 sohl:
   system:

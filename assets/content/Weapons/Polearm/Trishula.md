@@ -4,10 +4,10 @@ name:
   full: Trishula
   aliases: []
 description: "Sacred three-pronged polearm symbolizing cosmic order and battlefield virtue."
-img: sohl/assets/icons/noun/polearm.svg
 shortcode: trsha
 type: weapongear
 data:
+  icon: sohl-none-icon-polearm
   templatePriority: null
 sohl:
   kbcat: polearm

@@ -5,11 +5,11 @@ name:
   aliases:
     - Balsam
 description: "Caster's touch mends wounds; restores flesh and eases pain."
-img: sohl/assets/icons/other/tree.svg
 shortcode: healtch
 type: mysticalability
 subType: arcaneincantation
 data:
+  icon: sohl-none-icon-tree
   templatePriority: null
 sohl:
   system:

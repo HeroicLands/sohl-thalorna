@@ -13,10 +13,10 @@ name:
     - Kael Shadowblade
 packFolder: aureldiatarvenia
 shortcode: elsarcstrn
-img: sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/elsarcstrn-portrait.webp
+  icon: sohl-none-icon-person
+  portrait: null
   templatePriority: null
   archetypes: []
   occupation: Mercenary

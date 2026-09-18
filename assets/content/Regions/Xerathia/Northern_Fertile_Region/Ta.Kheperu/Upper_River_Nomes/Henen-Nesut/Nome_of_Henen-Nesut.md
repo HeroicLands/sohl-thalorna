@@ -1,7 +1,7 @@
 ---
 description: "An old capital of a former dynasty, proud and faded; ram-cult and horse-pasture — one of the upper-river nomes of Ta'Kheperu."
 type: affiliation
-banner: banners/ta-kheperu-banner.webp
+banner: takheperubnr
 name:
   full: The Nome of Henen-Nesut
   aliases: []

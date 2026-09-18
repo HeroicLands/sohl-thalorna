@@ -5,11 +5,11 @@ name:
   aliases:
     - Animus
 description: "Dominates target's will; forces absolute obedience."
-img: sohl/assets/icons/other/tree.svg
 shortcode: thrall
 type: mysticalability
 subType: arcaneincantation
 data:
+  icon: sohl-none-icon-tree
   templatePriority: null
 sohl:
   system:

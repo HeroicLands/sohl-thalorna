@@ -15,7 +15,7 @@ data:
 name:
   full: Sau
   aliases: []
-banner: banners/ta-kheperu-banner.webp
+banner: takheperubnr
 shortcode: sau
 packFolder: sauneferu
 ---

@@ -13,12 +13,12 @@ name:
   aliases:
     - Meneti Shapkher
 packFolder: northernfertileregiontakheperu
-banner: banners/ta-kheperu-banner.webp
+banner: takheperubnr
 shortcode: mentshpkhr
-img: sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/mentshpkhr-portrait.webp
+  icon: sohl-none-icon-person
+  portrait: mentshpkhr
   templatePriority: null
   archetypes: []
   occupation: Bureaucrat
@@ -601,7 +601,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Meneti Shap'kher](images/beings/characters/mentshpkhr-portrait.webp){float: top-left}
+![Meneti Shap'kher](images/beings/characters/mentshpkhr.webp){float: top-left}
 
 **Home:** [[place-khensuret|Khensuret]]
 

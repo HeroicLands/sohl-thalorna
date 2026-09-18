@@ -6,11 +6,11 @@ name:
   full: Bramblefang
   aliases: []
 description: "A corruption-born woodland apex predator that blends indistinguishably into thickets, striking from shadow-touched forests and groves."
-img: sohl/assets/icons/game-icons/delapouite/person.svg
 shortcode: brmblfng
 type: being
 data:
-  portrait: images/beings/creatures/brmblfng-portrait.webp
+  icon: sohl-none-icon-person
+  portrait: brmblfng
   templatePriority: null
   archetypes: []
   occupation: null
@@ -346,7 +346,7 @@ sohl:
         disabled: false
 ---
 
-![Bramblefang](images/beings/creatures/brmblfng-portrait.webp){float: top-left}
+![Bramblefang](images/beings/creatures/brmblfng.webp){float: top-left}
 
 ## Appearance {#appearance}
 

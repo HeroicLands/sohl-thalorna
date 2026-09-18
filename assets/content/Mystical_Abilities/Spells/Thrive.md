@@ -5,11 +5,11 @@ name:
   aliases:
     - Growth
 description: "Grants vigor and vitality; strengthens body and spirit."
-img: sohl/assets/icons/other/tree.svg
 shortcode: thrive
 type: mysticalability
 subType: arcaneincantation
 data:
+  icon: sohl-none-icon-tree
   templatePriority: null
 sohl:
   system:

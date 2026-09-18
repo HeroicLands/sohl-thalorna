@@ -5,11 +5,11 @@ name:
   aliases:
     - Assemble
 description: "Animates material into humanoid servant; obeys caster's spoken commands."
-img: sohl/assets/icons/game-icons/badges/anvil.svg
 shortcode: cnstrct
 type: mysticalability
 subType: arcaneincantation
 data:
+  icon: sohl-none-icon-anvilbdg
   templatePriority: null
 sohl:
   system:

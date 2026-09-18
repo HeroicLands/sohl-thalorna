@@ -8,10 +8,10 @@ name:
     - Tanvur
     - Tānvür
 shortcode: tanvuregin
-img: null
 type: place
 subType: region
 data:
+  icon: null
   demonym: Tānvüri
   lore:
     - humanflk

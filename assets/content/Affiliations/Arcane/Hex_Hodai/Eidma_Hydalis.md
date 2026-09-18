@@ -4,6 +4,7 @@ tags:
 type: affiliation
 subType: arcanetradition
 data:
+  icon: hydalis
   templatePriority: null
   demonym: null
   epithet: null
@@ -87,7 +88,6 @@ data:
     sideros: aligned
     physera: aligned
 shortcode: hydalis
-img: images/affiliation/hex-hodai/hydalis.webp
 name:
   full: Hydälis
   aliases:

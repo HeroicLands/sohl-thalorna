@@ -13,12 +13,12 @@ name:
   aliases:
     - Raiah Sekmetâ
 packFolder: northernfertileregiontakheperu
-banner: banners/ta-kheperu-banner.webp
+banner: takheperubnr
 shortcode: raiahsekmt
-img: sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/raiahsekmt-portrait.webp
+  icon: sohl-none-icon-person
+  portrait: raiahsekmt
   templatePriority: null
   archetypes: []
   occupation: Weaponcrafter (Armorer)
@@ -572,7 +572,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Raiah Sekmet'â](images/beings/characters/raiahsekmt-portrait.webp){float: top-left}
+![Raiah Sekmet'â](images/beings/characters/raiahsekmt.webp){float: top-left}
 
 **Home:** [[place-wasetkara|Wasetkara]]
 

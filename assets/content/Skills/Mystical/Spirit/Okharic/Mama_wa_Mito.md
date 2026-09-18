@@ -6,12 +6,12 @@ description: "Standing with Mama wa Mito, zohira of rivers — what this emissar
 type: skill
 subType: mystical
 shortcode: mamamitosprt
-img: sohl/assets/icons/game-icons/lorc/psychic-waves.svg
 name:
   full: "Mama wa Mito Spirit Power"
   aliases:
     - The Mother of Rivers
 data:
+  icon: sohl-none-icon-psychicwaves
   templatePriority: null
 sohl:
   system:

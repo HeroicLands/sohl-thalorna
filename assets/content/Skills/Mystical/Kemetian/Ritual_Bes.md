@@ -5,12 +5,12 @@ tags:
 type: skill
 subType: mystical
 shortcode: bes
-img: icons/takheperu/pantheon/bes.svg
 name:
   full: "Ritual: Bēs"
   aliases:
     - Bēs, Guardian of Night Visions
 data:
+  icon: bes
   templatePriority: null
 sohl:
   system:

@@ -13,10 +13,10 @@ name:
   aliases: []
 packFolder: ankarisnordlands
 shortcode: unreldskar
-img: sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/unreldskar-portrait.webp
+  icon: sohl-none-icon-person
+  portrait: unreldskar
   templatePriority: null
   archetypes: []
   occupation: Chandler
@@ -581,7 +581,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Unnr Eldskari](images/beings/characters/unreldskar-portrait.webp){float: top-left}
+![Unnr Eldskari](images/beings/characters/unreldskar.webp){float: top-left}
 
 ## Appearance {#appearance}
 

@@ -8,10 +8,10 @@ name:
     - Grukarholm
     - Grukarhölm
 shortcode: grkrhlmrgn
-img: null
 type: place
 subType: region
 data:
+  icon: null
   demonym: Grukari
   lore:
     - grukarflk

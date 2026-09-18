@@ -6,11 +6,11 @@ name:
   full: Thunderbird
   aliases: []
 description: "An enormous apex aerial predator with a sixty-to-eighty-foot wingspan that rides storm winds above remote mountain peaks and canyons."
-img: sohl/assets/icons/game-icons/delapouite/person.svg
 shortcode: thndrbrd
 type: being
 data:
-  portrait: images/beings/creatures/thndrbrd-portrait.webp
+  icon: sohl-none-icon-person
+  portrait: thndrbrd
   templatePriority: null
   archetypes: []
   occupation: null
@@ -371,7 +371,7 @@ sohl:
         disabled: false
 ---
 
-![Thunderbird](images/beings/creatures/thndrbrd-portrait.webp){float: top-left}
+![Thunderbird](images/beings/creatures/thndrbrd.webp){float: top-left}
 
 ## Appearance {#appearance}
 

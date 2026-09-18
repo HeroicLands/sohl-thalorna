@@ -5,11 +5,11 @@ name:
   aliases:
     - Earthwork
 description: "Caster becomes immobile; hardens body against incoming strike and damage."
-img: sohl/assets/icons/other/tree.svg
 shortcode: fortress
 type: mysticalability
 subType: arcaneincantation
 data:
+  icon: sohl-none-icon-tree
   templatePriority: null
 sohl:
   system:

@@ -6,6 +6,7 @@ tags:
 type: affiliation
 subType: faithtradition
 data:
+  icon: morvana
   templatePriority: null
   demonym: null
   epithet: Mistress of the Waning Moon
@@ -69,8 +70,8 @@ name:
     - Mistress of the Waning Moon
     - Mórváná
 shortcode: morvana
-img: images/affiliation/aureldian/morvana.webp
 packFolder: pantheonsaureldian
+banner: faithbnr
 ---
 
 Goddess of decay, endings, and transformation. Mórváná oversees the natural cycle of death and renewal, reminding mortals of life's impermanence.

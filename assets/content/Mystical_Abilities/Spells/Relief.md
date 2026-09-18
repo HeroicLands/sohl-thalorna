@@ -5,11 +5,11 @@ name:
   aliases:
     - Succour
 description: "Alleviates pain and suffering; targets feel restored temporarily."
-img: sohl/assets/icons/other/tree.svg
 shortcode: relief
 type: mysticalability
 subType: arcaneincantation
 data:
+  icon: sohl-none-icon-tree
   templatePriority: null
 sohl:
   system:

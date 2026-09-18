@@ -11,9 +11,9 @@ name:
     - The Blossom of Living Waters
     - "Xaq'ik Ha'nal"
 shortcode: xaqikhanal
-img: null
 packFolder: pantheonitzani
 data:
+  icon: null
   templatePriority: null
   demonym: null
   epithet: The Blossom of Living Waters
@@ -122,6 +122,7 @@ data:
     - itzanpnthn
   relations:
     itzanpnthn: aligned
+banner: faithbnr
 ---
 
 **Domain:** Fertility, Water, Healing, Renewal, Birth, Life

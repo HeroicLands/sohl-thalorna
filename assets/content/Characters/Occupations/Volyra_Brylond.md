@@ -13,10 +13,10 @@ name:
     - Marwen Thatcher
 packFolder: aureldiaprovenzia
 shortcode: vlyrbrylnd
-img: sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/vlyrbrylnd-portrait.webp
+  icon: sohl-none-icon-person
+  portrait: null
   templatePriority: null
   archetypes: []
   occupation: Thatcher

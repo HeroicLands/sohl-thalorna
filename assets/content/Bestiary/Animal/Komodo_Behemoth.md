@@ -6,11 +6,11 @@ name:
   full: Komodo Behemoth
   aliases: []
 description: "A ton-heavy reptilian predator up to eighteen feet long, its mottled gray-green bulk topped by a broad head whose jaws unhinge alarmingly wide."
-img: sohl/assets/icons/game-icons/delapouite/person.svg
 shortcode: kmdbhmth
 type: being
 data:
-  portrait: images/beings/creatures/kmdbhmth-portrait.webp
+  icon: sohl-none-icon-person
+  portrait: kmdbhmth
   templatePriority: null
   archetypes: []
   occupation: null
@@ -335,7 +335,7 @@ sohl:
         disabled: false
 ---
 
-![Komodo Behemoth](images/beings/creatures/kmdbhmth-portrait.webp){float: top-left}
+![Komodo Behemoth](images/beings/creatures/kmdbhmth.webp){float: top-left}
 
 ## Appearance {#appearance}
 

@@ -13,7 +13,7 @@ data:
 name:
   full: Iat-Neteru
   aliases: []
-banner: banners/ta-kheperu-banner.webp
+banner: takheperubnr
 shortcode: iatneteru
 packFolder: deltanomes
 ---

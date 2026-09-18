@@ -13,10 +13,10 @@ name:
   aliases: []
 packFolder: ankariskhazryndesert
 shortcode: nushirnrsf
-img: sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/nushirnrsf-portrait.webp
+  icon: sohl-none-icon-person
+  portrait: nushirnrsf
   templatePriority: null
   archetypes: []
   occupation: Chandler
@@ -599,7 +599,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Nushir Narsâfî](images/beings/characters/nushirnrsf-portrait.webp){float: top-left}
+![Nushir Narsâfî](images/beings/characters/nushirnrsf.webp){float: top-left}
 
 ## Appearance {#appearance}
 

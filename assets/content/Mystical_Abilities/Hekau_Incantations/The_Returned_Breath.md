@@ -7,10 +7,10 @@ name:
   aliases: []
 description: "Returns the recently dead to life, if the Name and the Form are both entire."
 shortcode: rtrndbrth
-img: icons/takheperu/khemenu-hekau/imnetau.svg
 type: mysticalability
 subType: arcaneincantation
 data:
+  icon: imnetau
   templatePriority: null
 sohl:
   system:

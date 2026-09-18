@@ -14,10 +14,10 @@ name:
     - Thalia Ashbrook
 packFolder: midhalionvylaria
 shortcode: asharhrrds
-img: sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/asharhrrds-portrait.webp
+  icon: sohl-none-icon-person
+  portrait: null
   templatePriority: null
   archetypes: []
   occupation: Swordmaster

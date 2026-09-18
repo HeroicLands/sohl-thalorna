@@ -5,11 +5,11 @@ name:
   aliases:
     - Breath
 description: "Creates self-replenishing pocket of breathable air in drowning victim."
-img: sohl/assets/icons/game-icons/badges/water.svg
 shortcode: lfsprk
 type: mysticalability
 subType: arcaneincantation
 data:
+  icon: sohl-none-icon-water
   templatePriority: null
 sohl:
   system:

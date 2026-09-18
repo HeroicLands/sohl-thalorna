@@ -13,12 +13,12 @@ name:
     - Tefnutî HetWera
     - Tefnuti HetWera
 packFolder: northernfertileregiontakheperu
-banner: banners/ta-kheperu-banner.webp
+banner: takheperubnr
 shortcode: tefnuthtwr
-img: sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/tefnuthtwr-portrait.webp
+  icon: sohl-none-icon-person
+  portrait: tefnuthtwr
   templatePriority: null
   archetypes: []
   occupation: Toymaker
@@ -604,7 +604,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Tefnutî Het'Wera](images/beings/characters/tefnuthtwr-portrait.webp){float: top-left}
+![Tefnutî Het'Wera](images/beings/characters/tefnuthtwr.webp){float: top-left}
 
 **Home:** [[place-ankhsetun|Ankh-Setûn]]
 

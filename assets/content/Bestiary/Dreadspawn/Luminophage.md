@@ -6,11 +6,11 @@ name:
   full: Luminophage
   aliases: []
 description: "A parasitic ceiling-dwelling predator of lightless depths that weaponizes bioluminescence as a lure to draw wanderers into its grasp."
-img: sohl/assets/icons/game-icons/delapouite/person.svg
 shortcode: lmnphg
 type: being
 data:
-  portrait: images/beings/creatures/lmnphg-portrait.webp
+  icon: sohl-none-icon-person
+  portrait: lmnphg
   templatePriority: null
   archetypes: []
   occupation: null
@@ -217,7 +217,7 @@ sohl:
         disabled: false
 ---
 
-![Luminophage](images/beings/creatures/lmnphg-portrait.webp){float: top-left}
+![Luminophage](images/beings/creatures/lmnphg.webp){float: top-left}
 
 ## Appearance {#appearance}
 

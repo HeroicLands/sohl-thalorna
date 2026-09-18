@@ -6,13 +6,13 @@ name:
   aliases:
     - Mindslave Elixir
 description: "Dark syrupy draft; clears judgment-clouds, reshapes imbiber's will."
-img: sohl/assets/icons/other/potion.svg
 shortcode: elxmsl
 type: concoctiongear
 subType: elixir
 hmk:
   name: Mindsalve
 data:
+  icon: sohl-none-icon-potion
   templatePriority: null
 sohl:
   system:

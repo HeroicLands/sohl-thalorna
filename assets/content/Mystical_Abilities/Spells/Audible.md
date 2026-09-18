@@ -5,11 +5,11 @@ name:
   aliases:
     - Voice
 description: "Carries whispered words on spiraling wind; heard at great distance."
-img: sohl/assets/icons/other/wind.svg
 shortcode: audible
 type: mysticalability
 subType: arcaneincantation
 data:
+  icon: sohl-none-icon-wind
   templatePriority: null
 sohl:
   system:

@@ -6,13 +6,13 @@ name:
   aliases:
     - Verve Elixir
 description: "Pale gold restless elixir; burns away fatigue and exhaustion."
-img: sohl/assets/icons/other/potion.svg
 shortcode: elxvrv
 type: concoctiongear
 subType: elixir
 hmk:
   name: Verve
 data:
+  icon: sohl-none-icon-potion
   templatePriority: null
 sohl:
   system:

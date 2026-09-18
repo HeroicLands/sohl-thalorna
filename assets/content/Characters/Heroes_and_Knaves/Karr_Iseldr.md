@@ -12,10 +12,10 @@ name:
   aliases: []
 packFolder: ankarisnordlands
 shortcode: karriseldr
-img: sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/karriseldr-portrait.webp
+  icon: sohl-none-icon-person
+  portrait: karriseldr
   templatePriority: null
   archetypes: []
   occupation: Clothier
@@ -590,7 +590,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Kárr Íseldr](images/beings/characters/karriseldr-portrait.webp){float: top-left}
+![Kárr Íseldr](images/beings/characters/karriseldr.webp){float: top-left}
 
 ## Appearance {#appearance}
 

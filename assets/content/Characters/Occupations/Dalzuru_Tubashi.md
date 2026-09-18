@@ -13,10 +13,10 @@ name:
     - Sigurd Ravensong
 packFolder: midhalionharad
 shortcode: dalzurtbsh
-img: sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/dalzurtbsh-portrait.webp
+  icon: sohl-none-icon-person
+  portrait: null
   templatePriority: null
   archetypes: []
   occupation: Skald

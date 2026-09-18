@@ -12,10 +12,10 @@ name:
   aliases: []
 packFolder: northernfertileregionbethua
 shortcode: juthrjmthn
-img: sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/juthrjmthn-portrait.webp
+  icon: sohl-none-icon-person
+  portrait: juthrjmthn
   templatePriority: null
   archetypes: []
   occupation: Scholar
@@ -599,7 +599,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Júthâra Jâmîthôn](images/beings/characters/juthrjmthn-portrait.webp){float: top-left}
+![Júthâra Jâmîthôn](images/beings/characters/juthrjmthn.webp){float: top-left}
 
 ## Appearance {#appearance}
 

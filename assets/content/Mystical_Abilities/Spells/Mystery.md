@@ -5,11 +5,11 @@ name:
   aliases:
     - Enigma
 description: "Conceals object or location from magical detection permanently."
-img: sohl/assets/icons/game-icons/badges/water.svg
 shortcode: mystery
 type: mysticalability
 subType: arcaneincantation
 data:
+  icon: sohl-none-icon-water
   templatePriority: null
 sohl:
   system:

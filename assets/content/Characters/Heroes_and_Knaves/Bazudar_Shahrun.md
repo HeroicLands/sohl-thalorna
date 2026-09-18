@@ -12,10 +12,10 @@ name:
   aliases: []
 packFolder: ankariskhazryndesert
 shortcode: bazdrshhrn
-img: sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/bazdrshhrn-portrait.webp
+  icon: sohl-none-icon-person
+  portrait: bazdrshhrn
   templatePriority: null
   archetypes: []
   occupation: Animal Trainer
@@ -595,7 +595,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Bazûdar Shahrûn](images/beings/characters/bazdrshhrn-portrait.webp){float: top-left}
+![Bazûdar Shahrûn](images/beings/characters/bazdrshhrn.webp){float: top-left}
 
 ## Appearance {#appearance}
 

@@ -4,12 +4,12 @@ tags:
 type: skill
 subType: mystical
 shortcode: rensesh
-img: icons/takheperu/khemenu-hekau/rensesh.svg
 name:
   full: "Hekau: Ren'sesh"
   aliases:
     - Per-Ren'sesh
 data:
+  icon: rensesh
   templatePriority: null
 sohl:
   system:

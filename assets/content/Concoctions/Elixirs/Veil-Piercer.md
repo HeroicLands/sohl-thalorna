@@ -6,13 +6,13 @@ name:
   aliases:
     - Ghostsight Elixir
 description: "Pearlescent opalescent draft; grants perception of unseen incorporeal."
-img: sohl/assets/icons/other/potion.svg
 shortcode: elxgst
 type: concoctiongear
 subType: elixir
 hmk:
   name: Ghostsight
 data:
+  icon: sohl-none-icon-potion
   templatePriority: null
 sohl:
   system:

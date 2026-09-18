@@ -13,10 +13,10 @@ name:
   aliases: []
 packFolder: helladbyzaria
 shortcode: chrysntskvdrs
-img: sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/chrysntskvdrs-portrait.webp
+  icon: sohl-none-icon-person
+  portrait: chrysntskvdrs
   templatePriority: null
   archetypes: []
   occupation: Locksmith
@@ -596,7 +596,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Chrysántos Kavadáris](images/beings/characters/chrysntskvdrs-portrait.webp){float: top-left}
+![Chrysántos Kavadáris](images/beings/characters/chrysntskvdrs.webp){float: top-left}
 
 ## Appearance {#appearance}
 

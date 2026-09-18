@@ -13,10 +13,10 @@ name:
     - Garrick Blastforge
 packFolder: ankarisvrystwald
 shortcode: wlfrdhldvth
-img: sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/wlfrdhldvth-portrait.webp
+  icon: sohl-none-icon-person
+  portrait: null
   templatePriority: null
   archetypes: []
   occupation: Man-at-Arms (Sapper)

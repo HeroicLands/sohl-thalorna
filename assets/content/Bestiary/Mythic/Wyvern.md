@@ -7,11 +7,11 @@ name:
   full: Wyvern
   aliases: []
 description: "A two-legged, dragon-like flier of mountain peaks and high plateaus, lacking true draconic cunning but formidably lethal on the wing."
-img: sohl/assets/icons/game-icons/lorc/wyvern.svg
 shortcode: wyvern
 type: being
 data:
-  portrait: images/being/wyvern-portrait.webp
+  icon: sohl-none-icon-wyvern
+  portrait: null
   templatePriority: null
   archetypes: []
   occupation: null

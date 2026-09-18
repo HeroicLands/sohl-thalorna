@@ -7,6 +7,7 @@ tags:
 type: affiliation
 subType: faithtradition
 data:
+  icon: ra
   templatePriority: null
   demonym: null
   epithet: The Solar Flame
@@ -92,8 +93,7 @@ name:
     - Rā
     - Ra
 shortcode: ra
-img: icons/takheperu/pantheon/ra.svg
-banner: banners/ta-kheperu-banner.webp
+banner: takheperubnr
 alias: Rā, The Solar Flame
 packFolder: pantheonskemetian
 ---

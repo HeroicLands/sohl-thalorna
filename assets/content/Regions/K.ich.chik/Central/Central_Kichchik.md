@@ -5,10 +5,10 @@ description: "The centralern reach of the K'ich'chik continent and its city-stat
 name:
   full: Central K'ich'chik
   aliases: []
-img: null
 type: place
 subType: region
 data:
+  icon: null
   demonym: null
   lore:
     - humanflk

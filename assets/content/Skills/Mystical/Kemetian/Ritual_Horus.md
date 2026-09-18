@@ -5,12 +5,12 @@ tags:
 type: skill
 subType: mystical
 shortcode: horus
-img: icons/takheperu/pantheon/horus.svg
 name:
   full: "Ritual: Hórús"
   aliases:
     - Hórús, The Guiding Falcon
 data:
+  icon: horus
   templatePriority: null
 sohl:
   system:

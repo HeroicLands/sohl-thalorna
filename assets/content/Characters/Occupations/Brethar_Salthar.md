@@ -13,10 +13,10 @@ name:
     - Beran Rookwood
 packFolder: aureldiaelavendre
 shortcode: brthrslthr
-img: sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/brthrslthr-portrait.webp
+  icon: sohl-none-icon-person
+  portrait: null
   templatePriority: null
   archetypes: []
   occupation: Charcoaler

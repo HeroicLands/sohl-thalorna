@@ -7,10 +7,10 @@ name:
   aliases: []
 description: "Renders an offering perceptible to the dead, so that it is received rather than merely left."
 shortcode: offrngatthr
-img: icons/takheperu/khemenu-hekau/imnetau.svg
 type: mysticalability
 subType: arcaneincantation
 data:
+  icon: imnetau
   templatePriority: null
 sohl:
   system:

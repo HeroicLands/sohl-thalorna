@@ -59,6 +59,7 @@ data:
   relations:
     varakpnthn: aligned
 packFolder: pantheonsvarnaka
+banner: faithbnr
 ---
 
 ## Jñānasūra — The Radiant Sage

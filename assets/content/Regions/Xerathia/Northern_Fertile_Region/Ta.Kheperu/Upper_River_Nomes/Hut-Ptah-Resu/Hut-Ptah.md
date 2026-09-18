@@ -13,7 +13,7 @@ data:
 name:
   full: Hut-Ptah
   aliases: []
-banner: banners/ta-kheperu-banner.webp
+banner: takheperubnr
 shortcode: hutptah
 packFolder: upperrivernomes
 ---

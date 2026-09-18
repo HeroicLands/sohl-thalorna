@@ -4,6 +4,7 @@ tags:
 type: affiliation
 subType: arcanetradition
 data:
+  icon: pneumenos
   templatePriority: null
   demonym: null
   epithet: null
@@ -87,7 +88,6 @@ data:
     sideros: aligned
     pyrethos: aligned
 shortcode: pneumenos
-img: images/affiliation/hex-hodai/pneumenos.webp
 name:
   full: Pneuménos
   aliases:

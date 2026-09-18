@@ -4,11 +4,11 @@ name:
   full: Investment
   aliases: []
 description: "Ritual binding substantial arcane energy into vessel; months-long persistence."
-img: sohl/assets/icons/game-icons/delapouite/circle.svg
 shortcode: invstmnt
 type: mysticalability
 subType: arcaneincantation
 data:
+  icon: sohl-none-icon-circle
   templatePriority: null
 sohl:
   system:

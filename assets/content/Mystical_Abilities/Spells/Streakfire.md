@@ -5,11 +5,11 @@ name:
   aliases:
     - Shooting Star
 description: "Creates line of flame; projects burning ray through air."
-img: sohl/assets/icons/game-icons/badges/fire.svg
 shortcode: strkfr
 type: mysticalability
 subType: arcaneincantation
 data:
+  icon: sohl-none-icon-firebdg
   templatePriority: null
 sohl:
   system:

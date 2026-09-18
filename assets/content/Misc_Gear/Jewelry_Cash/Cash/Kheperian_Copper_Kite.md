@@ -5,10 +5,10 @@ name:
   full: Kheperian Copper Kite
   aliases: ["Copper Kite", "Copper Qedét"]
 description: "Sealed bronze piece at kite weight; the smallest Kheperi denomination and everyday small change."
-img: sohl/assets/icons/game-icons/badges/coins.svg
 shortcode: ckite
 type: miscgear
 data:
+  icon: sohl-none-icon-coinsbdg
   templatePriority: 0
 sohl:
   craft:

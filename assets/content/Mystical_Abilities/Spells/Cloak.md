@@ -5,11 +5,11 @@ name:
   aliases:
     - Shroud
 description: "Renders wearer indistinct; observers overlook them despite presence."
-img: sohl/assets/icons/game-icons/badges/anvil.svg
 shortcode: cloak
 type: mysticalability
 subType: arcaneincantation
 data:
+  icon: sohl-none-icon-anvilbdg
   templatePriority: null
 sohl:
   system:

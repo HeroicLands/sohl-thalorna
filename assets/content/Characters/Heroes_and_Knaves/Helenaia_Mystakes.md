@@ -13,10 +13,10 @@ name:
   aliases: []
 packFolder: helladbyzaria
 shortcode: helnmystks
-img: sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/helnmystks-portrait.webp
+  icon: sohl-none-icon-person
+  portrait: helnmystks
   templatePriority: null
   archetypes: []
   occupation: Priest
@@ -599,7 +599,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Hélénaia Mystákês](images/beings/characters/helnmystks-portrait.webp){float: top-left}
+![Hélénaia Mystákês](images/beings/characters/helnmystks.webp){float: top-left}
 
 ## Appearance {#appearance}
 

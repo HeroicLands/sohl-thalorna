@@ -13,10 +13,10 @@ name:
   aliases: []
 packFolder: helladbyzaria
 shortcode: lysndrschrysnthpls
-img: sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/lysndrschrysnthpls-portrait.webp
+  icon: sohl-none-icon-person
+  portrait: lysndrschrysnthpls
   templatePriority: null
   archetypes: []
   occupation: Timberwright
@@ -594,7 +594,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Lysándros Chrysanthópoulos](images/beings/characters/lysndrschrysnthpls-portrait.webp){float: top-left}
+![Lysándros Chrysanthópoulos](images/beings/characters/lysndrschrysnthpls.webp){float: top-left}
 
 ## Appearance {#appearance}
 

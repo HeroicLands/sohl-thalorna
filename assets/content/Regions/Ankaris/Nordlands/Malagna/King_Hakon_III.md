@@ -1,5 +1,6 @@
 ---
-tags: []
+tags:
+  - character
 name:
   full: King Hákon III
   title: King

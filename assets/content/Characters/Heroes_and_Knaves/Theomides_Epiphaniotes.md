@@ -12,10 +12,10 @@ name:
   aliases: []
 packFolder: helladbyzaria
 shortcode: thmdspphnts
-img: sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/thmdspphnts-portrait.webp
+  icon: sohl-none-icon-person
+  portrait: thmdspphnts
   templatePriority: null
   archetypes: []
   occupation: Trapper
@@ -598,7 +598,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Theomídes Epiphaniôtês](images/beings/characters/thmdspphnts-portrait.webp){float: top-left}
+![Theomídes Epiphaniôtês](images/beings/characters/thmdspphnts.webp){float: top-left}
 
 ## Appearance {#appearance}
 

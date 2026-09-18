@@ -13,10 +13,10 @@ name:
   aliases: []
 packFolder: aureldiaprovenzia
 shortcode: kjrvngjrln
-img: sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/kjrvngjrln-portrait.webp
+  icon: sohl-none-icon-person
+  portrait: kjrvngjrln
   templatePriority: null
   archetypes: []
   occupation: Ostler
@@ -588,7 +588,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Kjôrvan Gjârlen](images/beings/characters/kjrvngjrln-portrait.webp){float: top-left}
+![Kjôrvan Gjârlen](images/beings/characters/kjrvngjrln.webp){float: top-left}
 
 ## Appearance {#appearance}
 

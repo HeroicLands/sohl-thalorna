@@ -6,11 +6,11 @@ name:
   full: Verdantcoil
   aliases: []
 description: "A colossal, patient snake of corrupted origin that lurks motionless in ancient forests, waiting days to strike from ambush."
-img: sohl/assets/icons/game-icons/delapouite/person.svg
 shortcode: vrdntcl
 type: being
 data:
-  portrait: images/beings/creatures/vrdntcl-portrait.webp
+  icon: sohl-none-icon-person
+  portrait: vrdntcl
   templatePriority: null
   archetypes: []
   occupation: null
@@ -267,7 +267,7 @@ sohl:
         disabled: false
 ---
 
-![Verdantcoil](images/beings/creatures/vrdntcl-portrait.webp){float: top-left}
+![Verdantcoil](images/beings/creatures/vrdntcl.webp){float: top-left}
 
 ## Appearance {#appearance}
 

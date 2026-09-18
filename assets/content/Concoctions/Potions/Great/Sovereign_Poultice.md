@@ -6,13 +6,13 @@ name:
   aliases:
     - Potion, Curative, Great
 description: "Nearly black-green iridescent preparation; heals wounds and ailments."
-img: sohl/assets/icons/other/potion.svg
 shortcode: ptncurg
 type: concoctiongear
 subType: exotic
 hmk:
   name: "Potion, Curative, Great"
 data:
+  icon: sohl-none-icon-potion
   templatePriority: null
 sohl:
   system:

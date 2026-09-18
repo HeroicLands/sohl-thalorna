@@ -14,10 +14,10 @@ name:
     - Aldric Fallow
 packFolder: aureldiaelavendre
 shortcode: belrkflwyn
-img: sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/belrkflwyn-portrait.webp
+  icon: sohl-none-icon-person
+  portrait: null
   templatePriority: null
   archetypes: []
   occupation: Alchemist

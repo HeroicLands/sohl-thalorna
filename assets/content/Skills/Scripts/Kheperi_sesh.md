@@ -6,11 +6,11 @@ name:
     - Kheperi-sesh
     - Sacred Script
 description: "The sacred signs of Ta'Kheperu — seven hundred glyphs cut on temple walls, and the priestly monopoly they exist to protect."
-img: sohl/assets/icons/other/speaking.svg
 shortcode: khprsshscrpt
 type: skill
 subType: script
 data:
+  icon: sohl-none-icon-speaking
   templatePriority: null
 sohl:
   system:

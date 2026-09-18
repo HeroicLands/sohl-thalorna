@@ -6,13 +6,13 @@ description: "Standing with the leopard-spirit of the Sengala — what an allied
 type: skill
 subType: mystical
 shortcode: leopardsengalasprt
-img: sohl/assets/icons/game-icons/lorc/psychic-waves.svg
 name:
   full: "Leopard Spirit Power"
   aliases:
     - Leopard Spirit
     - Sengala Leopard
 data:
+  icon: sohl-none-icon-psychicwaves
   templatePriority: null
 sohl:
   system:

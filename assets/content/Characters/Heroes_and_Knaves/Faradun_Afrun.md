@@ -13,10 +13,10 @@ name:
   aliases: []
 packFolder: sultanateofamradad
 shortcode: faradunfrn
-img: sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/faradunfrn-portrait.webp
+  icon: sohl-none-icon-person
+  portrait: faradunfrn
   templatePriority: null
   archetypes: []
   occupation: Teamster
@@ -598,7 +598,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Faradûn Afrûn](images/beings/characters/faradunfrn-portrait.webp){float: top-left}
+![Faradûn Afrûn](images/beings/characters/faradunfrn.webp){float: top-left}
 
 ## Appearance {#appearance}
 

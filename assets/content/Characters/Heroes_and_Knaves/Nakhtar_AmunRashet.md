@@ -13,12 +13,12 @@ name:
     - Nakhtar AmunRâshet
     - Nakhtar AmunRashet
 packFolder: northernfertileregiontakheperu
-banner: banners/ta-kheperu-banner.webp
+banner: takheperubnr
 shortcode: nkhtrmnrsht
-img: sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/nkhtrmnrsht-portrait.webp
+  icon: sohl-none-icon-person
+  portrait: nkhtrmnrsht
   templatePriority: null
   archetypes: []
   occupation: Thatcher
@@ -593,7 +593,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Nakhtar Amun'Râshet](images/beings/characters/nkhtrmnrsht-portrait.webp){float: top-left}
+![Nakhtar Amun'Râshet](images/beings/characters/nkhtrmnrsht.webp){float: top-left}
 
 **Home:** [[place-wasetkara|Wasetkara]]
 

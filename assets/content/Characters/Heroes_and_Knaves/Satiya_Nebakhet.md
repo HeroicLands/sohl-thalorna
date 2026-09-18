@@ -13,12 +13,12 @@ name:
     - Satîya Nebakhet
     - Satiya Nebakhet
 packFolder: northernfertileregiontakheperu
-banner: banners/ta-kheperu-banner.webp
+banner: takheperubnr
 shortcode: satiynbkht
-img: sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/satiynbkht-portrait.webp
+  icon: sohl-none-icon-person
+  portrait: satiynbkht
   templatePriority: null
   archetypes: []
   occupation: Domestic Servant
@@ -620,7 +620,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Satîya Neb'akhet](images/beings/characters/satiynbkht-portrait.webp){float: top-left}
+![Satîya Neb'akhet](images/beings/characters/satiynbkht.webp){float: top-left}
 
 **Home:** [[place-meruhotep|Meru-Hotep]]
 

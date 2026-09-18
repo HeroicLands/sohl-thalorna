@@ -10,8 +10,10 @@ name:
   aliases:
     - Snake Totem
 shortcode: snakettm
-img: images/mystery/snake.webp
 packFolder: loretotems
+banner: creaturebnr
+data:
+  icon: snake
 ---
 
 Silent and patient, snakes are stealthy hunters that rely on ambush tactics, waiting motionless for the perfect moment to strike their prey.

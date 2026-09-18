@@ -8,11 +8,11 @@ name:
     - Dock-talk
     - Trade Pidgin
 description: "The harbor pidgin of Mídhalión and beyond — no one's mother tongue, but the first language of every dock, merchant, and sailor who must be understood on short acquaintance."
-img: sohl/assets/icons/other/speaking.svg
 shortcode: valtarlng
 type: skill
 subType: language
 data:
+  icon: sohl-none-icon-speaking
   templatePriority: null
 sohl:
   system:

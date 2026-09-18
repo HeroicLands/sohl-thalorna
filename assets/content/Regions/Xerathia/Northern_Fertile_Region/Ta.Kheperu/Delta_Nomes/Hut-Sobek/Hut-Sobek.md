@@ -13,7 +13,7 @@ data:
 name:
   full: Hut-Sobek
   aliases: []
-banner: banners/ta-kheperu-banner.webp
+banner: takheperubnr
 shortcode: hutsobek
 packFolder: deltanomes
 ---

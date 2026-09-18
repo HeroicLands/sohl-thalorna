@@ -5,11 +5,11 @@ name:
   aliases:
     - Condensation
 description: "Gathers moisture from air into pools; manifests fresh water."
-img: sohl/assets/icons/game-icons/badges/water.svg
 shortcode: dewcraft
 type: mysticalability
 subType: arcaneincantation
 data:
+  icon: sohl-none-icon-water
   templatePriority: null
 sohl:
   system:

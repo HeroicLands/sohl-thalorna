@@ -5,11 +5,11 @@ name:
   aliases:
     - Shadow
 description: "Summons darkness; obscures vision within spreading circle of shadow."
-img: sohl/assets/icons/game-icons/badges/water.svg
 shortcode: dskcrft
 type: mysticalability
 subType: arcaneincantation
 data:
+  icon: sohl-none-icon-water
   templatePriority: null
 sohl:
   system:

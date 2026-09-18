@@ -1,7 +1,7 @@
 ---
 description: "A planned temple-city of one zealous dynasty, half-abandoned, still inhabited — one of the upper-river nomes of Ta'Kheperu."
 type: affiliation
-banner: banners/ta-kheperu-banner.webp
+banner: takheperubnr
 name:
   full: The Nome of Maru-Aten
   aliases: []

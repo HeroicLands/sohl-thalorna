@@ -13,7 +13,7 @@ data:
 name:
   full: Sebt-Renpet
   aliases: []
-banner: banners/ta-kheperu-banner.webp
+banner: takheperubnr
 shortcode: sebtrenpet
 packFolder: upperrivernomes
 ---

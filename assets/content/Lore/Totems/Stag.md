@@ -10,8 +10,10 @@ name:
   aliases:
     - Stag Totem
 shortcode: stagttm
-img: images/mystery/stag.webp
 packFolder: loretotems
+banner: creaturebnr
+data:
+  icon: stag
 ---
 
 Proud and vigilant, stags are territorial animals that display their strength and dominance during the rutting season to attract mates and fend off rivals.

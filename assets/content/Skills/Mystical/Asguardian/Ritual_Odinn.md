@@ -5,12 +5,12 @@ tags:
 type: skill
 subType: mystical
 shortcode: odinn
-img: images/affiliation/asguardian/odinn.webp
 name:
   full: "Ritual: Ódinn"
   aliases:
     - The Enlightened Path
 data:
+  icon: odinn
   templatePriority: null
 sohl:
   system:

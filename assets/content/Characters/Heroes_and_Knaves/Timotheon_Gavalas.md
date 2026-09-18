@@ -13,10 +13,10 @@ name:
   aliases: []
 packFolder: helladbyzaria
 shortcode: timthngvls
-img: sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/timthngvls-portrait.webp
+  icon: sohl-none-icon-person
+  portrait: timthngvls
   templatePriority: null
   archetypes: []
   occupation: Teamster
@@ -588,7 +588,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Timothéon Gaválas](images/beings/characters/timthngvls-portrait.webp){float: top-left}
+![Timothéon Gaválas](images/beings/characters/timthngvls.webp){float: top-left}
 
 ## Appearance {#appearance}
 

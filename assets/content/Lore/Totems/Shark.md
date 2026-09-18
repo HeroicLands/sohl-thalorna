@@ -10,8 +10,10 @@ name:
   aliases:
     - Shark Totem
 shortcode: sharkttm
-img: images/mystery/shark.webp
 packFolder: loretotems
+banner: creaturebnr
+data:
+  icon: shark
 ---
 
 Relentless and instinctive, sharks are apex predators that patrol the oceans with unyielding focus, driven by their powerful senses to hunt and survive.

@@ -5,12 +5,12 @@ tags:
 type: skill
 subType: mystical
 shortcode: ymir
-img: images/affiliation/asguardian/ymir.webp
 name:
   full: "Ritual: Ymir"
   aliases:
     - The Divine Architect's Path
 data:
+  icon: ymir
   templatePriority: null
 sohl:
   system:

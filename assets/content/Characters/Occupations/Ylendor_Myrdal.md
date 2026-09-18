@@ -14,10 +14,10 @@ name:
     - Alaric Wynter
 packFolder: aureldiaprovenzia
 shortcode: ylndrmyrdl
-img: sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/ylndrmyrdl-portrait.webp
+  icon: sohl-none-icon-person
+  portrait: null
   templatePriority: null
   archetypes: []
   occupation: Astrologer

@@ -6,11 +6,11 @@ name:
   full: Giant Boar
   aliases: []
 description: "A thousand-pound apex boar of northern forests, standing five feet at the shoulder and jealously guarding vast territories with barely restrained violence."
-img: sohl/assets/icons/game-icons/delapouite/person.svg
 shortcode: gntbr
 type: being
 data:
-  portrait: images/beings/creatures/gntbr-portrait.webp
+  icon: sohl-none-icon-person
+  portrait: gntbr
   templatePriority: null
   archetypes: []
   occupation: null
@@ -346,7 +346,7 @@ sohl:
         disabled: false
 ---
 
-![Giant Boar](images/beings/creatures/gntbr-portrait.webp){float: top-left}
+![Giant Boar](images/beings/creatures/gntbr.webp){float: top-left}
 
 ## Appearance {#appearance}
 

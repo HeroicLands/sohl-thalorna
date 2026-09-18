@@ -6,6 +6,7 @@ tags:
 type: affiliation
 subType: faithtradition
 data:
+  icon: taranon
   templatePriority: null
   demonym: null
   epithet: The Thunderer
@@ -71,8 +72,8 @@ name:
     - The Thunderer
     - Táranon
 shortcode: taranon
-img: images/affiliation/aureldian/taranon.webp
 packFolder: pantheonsaureldian
+banner: faithbnr
 ---
 
 God of storms, thunder, and lightning. Táranon commands the skies, both nurturing the land with rain and unleashing destructive tempests.

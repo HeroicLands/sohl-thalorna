@@ -13,10 +13,10 @@ name:
     - Sir Cedric Ashvale
 packFolder: aureldiaaelwyth
 shortcode: oswaldunwl
-img: sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/oswaldunwl-portrait.webp
+  icon: sohl-none-icon-person
+  portrait: null
   templatePriority: null
   archetypes: []
   occupation: Nobility (Manor Lord)

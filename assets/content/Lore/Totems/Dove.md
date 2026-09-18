@@ -10,8 +10,10 @@ name:
   aliases:
     - Dove Totem
 shortcode: dovettm
-img: images/mystery/dove.webp
 packFolder: loretotems
+banner: creaturebnr
+data:
+  icon: dove
 ---
 
 Gentle and peaceful, instinctively seeking harmony and companionship, often displaying strong pair bonding and a calming presence in their surroundings.

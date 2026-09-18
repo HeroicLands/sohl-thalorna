@@ -7,6 +7,7 @@ tags:
 type: affiliation
 subType: spirittradition
 data:
+  icon: null
   templatePriority: null
   demonym: null
   epithet: null
@@ -77,7 +78,6 @@ name:
     - Leopard of the Sengala
     - Sengala Totem
 shortcode: nyalbleop
-img: null
 packFolder: nyaluba
 ---
 

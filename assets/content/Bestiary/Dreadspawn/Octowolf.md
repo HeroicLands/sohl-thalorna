@@ -6,11 +6,11 @@ name:
   full: Octowolf
   aliases: []
 description: "An unnatural wolf-and-octopus fusion haunting coastal marshes, deltas, and corrupted waters where land and water meet."
-img: sohl/assets/icons/game-icons/delapouite/person.svg
 shortcode: octowolf
 type: being
 data:
-  portrait: images/beings/creatures/octowolf-portrait.webp
+  icon: sohl-none-icon-person
+  portrait: octowolf
   templatePriority: null
   archetypes: []
   occupation: null
@@ -342,7 +342,7 @@ sohl:
         disabled: false
 ---
 
-![Octowolf](images/beings/creatures/octowolf-portrait.webp){float: top-left}
+![Octowolf](images/beings/creatures/octowolf.webp){float: top-left}
 
 ## Appearance {#appearance}
 

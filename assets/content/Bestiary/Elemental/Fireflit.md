@@ -6,11 +6,11 @@ name:
   full: Fireflit
   aliases: []
 description: "A small, clever fire elemental serving as scout or messenger, harmless alone but a genuine threat when gathered into a burning swarm."
-img: sohl/assets/icons/game-icons/delapouite/person.svg
 shortcode: fireflit
 type: being
 data:
-  portrait: images/beings/creatures/fireflit-portrait.webp
+  icon: sohl-none-icon-person
+  portrait: fireflit
   templatePriority: null
   archetypes: []
   occupation: null
@@ -315,7 +315,7 @@ sohl:
         disabled: false
 ---
 
-![Fireflit](images/beings/creatures/fireflit-portrait.webp){float: top-left}
+![Fireflit](images/beings/creatures/fireflit.webp){float: top-left}
 
 ## Appearance {#appearance}
 

@@ -4,12 +4,12 @@ tags:
 type: skill
 subType: mystical
 shortcode: ankhkemet
-img: icons/takheperu/khemenu-hekau/ankhkemet.svg
 name:
   full: "Hekau: Ankh'kemet"
   aliases:
     - Per-Ankh'kemet
 data:
+  icon: ankhkemet
   templatePriority: null
 sohl:
   system:

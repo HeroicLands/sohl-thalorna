@@ -13,10 +13,10 @@ name:
   aliases: []
 packFolder: aureldiaelavendre
 shortcode: prthnblthl
-img: sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/prthnblthl-portrait.webp
+  icon: sohl-none-icon-person
+  portrait: prthnblthl
   templatePriority: null
   archetypes: []
   occupation: Bureaucrat
@@ -601,7 +601,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Párthun Bélthal](images/beings/characters/prthnblthl-portrait.webp){float: top-left}
+![Párthun Bélthal](images/beings/characters/prthnblthl.webp){float: top-left}
 
 ## Appearance {#appearance}
 

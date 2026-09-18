@@ -5,12 +5,12 @@ tags:
 type: skill
 subType: mystical
 shortcode: set
-img: icons/takheperu/pantheon/set.svg
 name:
   full: "Ritual: Sét"
   aliases:
     - Sét, Bringer of Tempests
 data:
+  icon: set
   templatePriority: null
 sohl:
   system:

@@ -13,7 +13,7 @@ data:
 name:
   full: Iperu
   aliases: []
-banner: banners/ta-kheperu-banner.webp
+banner: takheperubnr
 shortcode: iperu
 packFolder: upperrivernomes
 ---

@@ -12,10 +12,10 @@ name:
   aliases: []
 packFolder: ankarisnordlands
 shortcode: gnstnvrnhm
-img: sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/gnstnvrnhm-portrait.webp
+  icon: sohl-none-icon-person
+  portrait: gnstnvrnhm
   templatePriority: null
   archetypes: []
   occupation: Bodyguard
@@ -576,7 +576,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Gunnsteinn Vörnheim](images/beings/characters/gnstnvrnhm-portrait.webp){float: top-left}
+![Gunnsteinn Vörnheim](images/beings/characters/gnstnvrnhm.webp){float: top-left}
 
 ## Appearance {#appearance}
 

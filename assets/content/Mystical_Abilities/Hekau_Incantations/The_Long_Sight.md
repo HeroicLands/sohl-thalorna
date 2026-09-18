@@ -7,10 +7,10 @@ name:
   aliases: []
 description: "Grants sight of a distant place, provided the sun is standing on it."
 shortcode: lngsght
-img: icons/takheperu/khemenu-hekau/atenre.svg
 type: mysticalability
 subType: arcaneincantation
 data:
+  icon: atenre
   templatePriority: null
 sohl:
   system:

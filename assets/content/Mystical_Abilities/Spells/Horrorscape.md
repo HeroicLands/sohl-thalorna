@@ -5,11 +5,11 @@ name:
   aliases:
     - Nightmare
 description: "Unearthly chorus of phantom voices and whispers; profoundly disorienting."
-img: sohl/assets/icons/other/wind.svg
 shortcode: hrrrscp
 type: mysticalability
 subType: arcaneincantation
 data:
+  icon: sohl-none-icon-wind
   templatePriority: null
 sohl:
   system:

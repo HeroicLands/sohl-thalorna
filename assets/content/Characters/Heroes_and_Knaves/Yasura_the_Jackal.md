@@ -16,10 +16,10 @@ name:
     - Yâsûra
 packFolder: northernfertileregionbethua
 shortcode: yasurajckl
-img: sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/yasurajckl-portrait.webp
+  icon: sohl-none-icon-person
+  portrait: null
   templatePriority: null
   archetypes: []
   occupation: Raider Warlord

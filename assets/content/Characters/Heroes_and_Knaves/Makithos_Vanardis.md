@@ -12,10 +12,10 @@ name:
   aliases: []
 packFolder: midhalionvylaria
 shortcode: mkthsvnrds
-img: sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/mkthsvnrds-portrait.webp
+  icon: sohl-none-icon-person
+  portrait: mkthsvnrds
   templatePriority: null
   archetypes: []
   occupation: Thespian
@@ -588,7 +588,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Màkîthos Vânardis](images/beings/characters/mkthsvnrds-portrait.webp){float: top-left}
+![Màkîthos Vânardis](images/beings/characters/mkthsvnrds.webp){float: top-left}
 
 ## Appearance {#appearance}
 

@@ -7,11 +7,11 @@ name:
   full: Unicorn
   aliases: []
 description: "An impossibly rare and elusive mythic beast of incorruptible purity, so seldom seen that scholars doubt its existence altogether."
-img: sohl/assets/icons/game-icons/delapouite/unicorn.svg
 shortcode: unicorn
 type: being
 data:
-  portrait: images/being/unicorn-portrait.webp
+  icon: sohl-none-icon-unicorn
+  portrait: null
   templatePriority: null
   archetypes: []
   occupation: null

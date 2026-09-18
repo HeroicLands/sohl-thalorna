@@ -14,10 +14,10 @@ name:
     - The Spirit Tracker
 packFolder: xerathiasouthernsavannahs
 shortcode: gahijwfnjr
-img: sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/gahijwfnjr-portrait.webp
+  icon: sohl-none-icon-person
+  portrait: gahijwfnjr
   templatePriority: null
   archetypes: []
   occupation: Hunter
@@ -595,7 +595,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Gahiji wa Fénjara](images/beings/characters/gahijwfnjr-portrait.webp){float: top-left}
+![Gahiji wa Fénjara](images/beings/characters/gahijwfnjr.webp){float: top-left}
 
 ## Appearance {#appearance}
 

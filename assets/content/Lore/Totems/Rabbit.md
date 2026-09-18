@@ -10,8 +10,10 @@ name:
   aliases:
     - Rabbit Totem
 shortcode: rabbitttm
-img: images/mystery/rabbit.webp
 packFolder: loretotems
+banner: creaturebnr
+data:
+  icon: rabbit
 ---
 
 Nervous and quick, rabbits are prey animals that rely on their agility and rapid breeding to survive in environments filled with predators.

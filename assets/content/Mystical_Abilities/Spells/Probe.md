@@ -5,11 +5,11 @@ name:
   aliases:
     - Enquiry
 description: "Scrying magic searching distant location; reveals conditions and inhabitants."
-img: sohl/assets/icons/noun/divination.svg
 shortcode: probe
 type: mysticalability
 subType: arcaneincantation
 data:
+  icon: sohl-none-icon-divination
   templatePriority: null
 sohl:
   system:

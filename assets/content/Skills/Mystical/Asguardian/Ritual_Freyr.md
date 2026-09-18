@@ -5,12 +5,12 @@ tags:
 type: skill
 subType: mystical
 shortcode: freyr
-img: images/affiliation/asguardian/freyr.webp
 name:
   full: "Ritual: Fréyr"
   aliases:
     - The Verdant Path
 data:
+  icon: freyr
   templatePriority: null
 sohl:
   system:

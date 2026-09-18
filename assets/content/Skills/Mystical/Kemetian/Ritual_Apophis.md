@@ -5,7 +5,6 @@ tags:
 type: skill
 subType: mystical
 shortcode: apophis
-img: icons/takheperu/pantheon/apophis.svg
 name:
   full: "Ritual: Ápōphis"
   aliases:
@@ -15,6 +14,7 @@ name:
     - The Devouring Shadow
     - The Chaos Serpent
 data:
+  icon: apophis
   templatePriority: null
 sohl:
   system:

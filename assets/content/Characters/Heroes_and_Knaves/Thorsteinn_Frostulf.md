@@ -12,10 +12,10 @@ name:
   aliases: []
 packFolder: ankarisnordlands
 shortcode: thrstnfrstlf
-img: sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/thrstnfrstlf-portrait.webp
+  icon: sohl-none-icon-person
+  portrait: thrstnfrstlf
   templatePriority: null
   archetypes: []
   occupation: Potter
@@ -586,7 +586,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Thorsteinn Frostulf](images/beings/characters/thrstnfrstlf-portrait.webp){float: top-left}
+![Thorsteinn Frostulf](images/beings/characters/thrstnfrstlf.webp){float: top-left}
 
 ## Appearance {#appearance}
 

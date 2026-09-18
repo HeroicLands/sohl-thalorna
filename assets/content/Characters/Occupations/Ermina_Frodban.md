@@ -14,10 +14,10 @@ name:
     - Ermina Froban
 packFolder: ankarisvrystwald
 shortcode: erminfrdbn
-img: sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/erminfrdbn-portrait.webp
+  icon: sohl-none-icon-person
+  portrait: null
   templatePriority: null
   archetypes: []
   occupation: Fisher

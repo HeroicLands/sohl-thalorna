@@ -5,11 +5,11 @@ name:
   aliases:
     - Tide
 description: "Commands water flow; raises level or creates powerful currents."
-img: sohl/assets/icons/game-icons/badges/water.svg
 shortcode: rsngcrnt
 type: mysticalability
 subType: arcaneincantation
 data:
+  icon: sohl-none-icon-water
   templatePriority: null
 sohl:
   system:

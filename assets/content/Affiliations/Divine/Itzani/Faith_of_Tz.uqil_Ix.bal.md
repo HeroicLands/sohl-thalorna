@@ -11,9 +11,9 @@ name:
     - The Death Jaguar
     - "Tz'uqil Ix'bal"
 shortcode: tzuqilixbal
-img: null
 packFolder: pantheonitzani
 data:
+  icon: null
   templatePriority: null
   demonym: null
   epithet: The Death Jaguar
@@ -122,6 +122,7 @@ data:
     - itzanpnthn
   relations:
     itzanpnthn: aligned
+banner: faithbnr
 ---
 
 **Domain:** Death, Decay, and the Underworld

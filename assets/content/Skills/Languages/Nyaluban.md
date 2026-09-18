@@ -6,11 +6,11 @@ name:
     - Nyáluban
     - Nyaluban
 description: "The Nyáluban oral speech, whose keepers carry messages across miles by drum and pitch as readily as by voice."
-img: sohl/assets/icons/other/speaking.svg
 shortcode: nyalbnlng
 type: skill
 subType: language
 data:
+  icon: sohl-none-icon-speaking
   templatePriority: null
 sohl:
   system:

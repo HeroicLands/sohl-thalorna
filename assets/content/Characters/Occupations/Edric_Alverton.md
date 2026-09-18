@@ -13,10 +13,10 @@ name:
     - Bram Hollowhill
 packFolder: aureldiaaelwyth
 shortcode: edriclvrtn
-img: sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/edriclvrtn-portrait.webp
+  icon: sohl-none-icon-person
+  portrait: null
   templatePriority: null
   archetypes: []
   occupation: Farmer

@@ -12,10 +12,10 @@ name:
   aliases: []
 packFolder: ankarisnordlands
 shortcode: gthrnslvrgr
-img: sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/gthrnslvrgr-portrait.webp
+  icon: sohl-none-icon-person
+  portrait: gthrnslvrgr
   templatePriority: null
   archetypes: []
   occupation: Trapper
@@ -597,7 +597,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Guthrún Sólvargr](images/beings/characters/gthrnslvrgr-portrait.webp){float: top-left}
+![Guthrún Sólvargr](images/beings/characters/gthrnslvrgr.webp){float: top-left}
 
 ## Appearance {#appearance}
 

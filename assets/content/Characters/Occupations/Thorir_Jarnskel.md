@@ -14,10 +14,10 @@ name:
     - Darius Thornveil
 packFolder: ankarisnordlands
 shortcode: thrrjrnskl
-img: sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/thrrjrnskl-portrait.webp
+  icon: sohl-none-icon-person
+  portrait: null
   templatePriority: null
   archetypes: []
   occupation: Mage (Spirit)

@@ -13,7 +13,7 @@ data:
 name:
   full: Sile
   aliases: []
-banner: banners/ta-kheperu-banner.webp
+banner: takheperubnr
 shortcode: sile
 packFolder: bordernomes
 ---

@@ -10,8 +10,10 @@ name:
   aliases:
     - Chicken Totem
 shortcode: chickenttm
-img: images/mystery/chicken.webp
 packFolder: loretotems
+banner: creaturebnr
+data:
+  icon: chicken
 ---
 
 Timid and skittish, chickens are easily startled and rely on their quick reflexes and flocking behavior for safety.

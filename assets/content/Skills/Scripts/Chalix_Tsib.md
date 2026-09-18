@@ -5,11 +5,11 @@ name:
   aliases:
     - Ch'alix Ts'ib
 description: "The glyphs of the K'ich'chik — columns of logographs and phonetic complements, painted on bark and cut into stelae by scribes who outrank soldiers."
-img: sohl/assets/icons/other/speaking.svg
 shortcode: chlxtsbscrpt
 type: skill
 subType: script
 data:
+  icon: sohl-none-icon-speaking
   templatePriority: null
 sohl:
   system:

@@ -7,10 +7,10 @@ name:
   aliases: []
 description: "Binds a made servant to wake at a stated condition and act until the condition ends."
 shortcode: shbtswkng
-img: icons/takheperu/khemenu-hekau/imnetau.svg
 type: mysticalability
 subType: arcaneincantation
 data:
+  icon: imnetau
   templatePriority: null
 sohl:
   system:

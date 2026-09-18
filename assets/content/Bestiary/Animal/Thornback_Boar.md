@@ -6,11 +6,11 @@ name:
   full: Thornback Boar
   aliases: []
 description: "A heavily built, ferociously territorial wild boar whose solitary males aggressively charge anything that trespasses on their forest ground."
-img: sohl/assets/icons/game-icons/delapouite/person.svg
 shortcode: thrnbckb
 type: being
 data:
-  portrait: images/beings/creatures/thrnbckb-portrait.webp
+  icon: sohl-none-icon-person
+  portrait: thrnbckb
   templatePriority: null
   archetypes: []
   occupation: null
@@ -346,7 +346,7 @@ sohl:
         disabled: false
 ---
 
-![Thornback Boar](images/beings/creatures/thrnbckb-portrait.webp){float: top-left}
+![Thornback Boar](images/beings/creatures/thrnbckb.webp){float: top-left}
 
 ## Appearance {#appearance}
 

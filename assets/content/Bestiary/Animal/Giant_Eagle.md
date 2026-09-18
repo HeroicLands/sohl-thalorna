@@ -6,11 +6,11 @@ name:
   full: Giant Eagle
   aliases: []
 description: "A mount-sized mountain raptor with a twenty-foot wingspan and armor-piercing talons, hunting high passes with calculating tactical intelligence."
-img: sohl/assets/icons/game-icons/delapouite/person.svg
 shortcode: gntegl
 type: being
 data:
-  portrait: images/beings/creatures/gntegl-portrait.webp
+  icon: sohl-none-icon-person
+  portrait: gntegl
   templatePriority: null
   archetypes: []
   occupation: null
@@ -335,7 +335,7 @@ sohl:
         disabled: false
 ---
 
-![Giant Eagle](images/beings/creatures/gntegl-portrait.webp){float: top-left}
+![Giant Eagle](images/beings/creatures/gntegl.webp){float: top-left}
 
 ## Appearance {#appearance}
 

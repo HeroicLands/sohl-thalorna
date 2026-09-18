@@ -10,8 +10,10 @@ name:
   aliases:
     - Lynx Totem
 shortcode: lynxttm
-img: images/mystery/lynx.webp
 packFolder: loretotems
+banner: creaturebnr
+data:
+  icon: lynx
 ---
 
 Elusive and watchful, lynxes are solitary and nocturnal hunters that use their keen eyesight to silently stalk prey through dense forests.

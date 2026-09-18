@@ -7,6 +7,7 @@ tags:
 type: affiliation
 subType: spirittradition
 data:
+  icon: null
   templatePriority: null
   demonym: null
   epithet: null
@@ -77,7 +78,6 @@ name:
     - Lion of the Mvuzi
     - Mvuzi Totem
 shortcode: nyalblion
-img: null
 packFolder: nyaluba
 ---
 

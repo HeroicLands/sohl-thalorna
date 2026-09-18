@@ -78,7 +78,7 @@ name:
   aliases:
     - Khet'Amun, The River-God
 shortcode: khetamun
-banner: banners/ta-kheperu-banner.webp
+banner: takheperubnr
 packFolder: pantheonskemetian
 ---
 

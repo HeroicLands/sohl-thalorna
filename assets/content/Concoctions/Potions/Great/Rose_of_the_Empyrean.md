@@ -6,13 +6,13 @@ name:
   aliases:
     - Potion, Aromatic, Great
 description: "Translucent luminous perfume; grants beauty and supernatural charisma."
-img: sohl/assets/icons/other/potion.svg
 shortcode: ptnaromg
 type: concoctiongear
 subType: exotic
 hmk:
   name: "Potion, Aromatic, Great"
 data:
+  icon: sohl-none-icon-potion
   templatePriority: null
 sohl:
   system:

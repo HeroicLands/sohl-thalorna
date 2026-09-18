@@ -13,10 +13,10 @@ name:
   aliases: []
 packFolder: aureldiaprovenzia
 shortcode: chlbrhydyn
-img: sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/chlbrhydyn-portrait.webp
+  icon: sohl-none-icon-person
+  portrait: chlbrhydyn
   templatePriority: null
   archetypes: []
   occupation: Hunter / Scout
@@ -567,7 +567,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Chéleb Rhýddýn](images/beings/characters/chlbrhydyn-portrait.webp){float: top-left}
+![Chéleb Rhýddýn](images/beings/characters/chlbrhydyn.webp){float: top-left}
 
 ## Appearance {#appearance}
 

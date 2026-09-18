@@ -13,10 +13,10 @@ name:
     - Jorvik the Merry
 packFolder: ankarisvrystwald
 shortcode: armndhldskrn
-img: sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/armndhldskrn-portrait.webp
+  icon: sohl-none-icon-person
+  portrait: null
   templatePriority: null
   archetypes: []
   occupation: Jester

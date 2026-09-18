@@ -6,10 +6,10 @@ name:
   full: Ha' Xaman
   aliases: []
 shortcode: haxaman
-img: null
 type: affiliation
 subType: polity
 data:
+  icon: null
   templatePriority: null
   demonym: null
   epithet: null

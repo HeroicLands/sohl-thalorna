@@ -6,13 +6,13 @@ name:
   aliases:
     - Potion, Hallucinogenic, Great
 description: "Writhing near-black liquid; grants prophetic visions and future sight."
-img: sohl/assets/icons/other/potion.svg
 shortcode: ptnhalg
 type: concoctiongear
 subType: exotic
 hmk:
   name: "Potion, Hallucinogenic, Great"
 data:
+  icon: sohl-none-icon-potion
   templatePriority: null
 sohl:
   system:

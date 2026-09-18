@@ -8,6 +8,7 @@ tags:
 type: affiliation
 subType: faithtradition
 data:
+  icon: apophis
   templatePriority: null
   demonym: null
   epithet: The Devouring Shadow
@@ -75,8 +76,7 @@ name:
     - The Devouring Shadow
     - The Chaos Serpent
 shortcode: apophis
-img: icons/takheperu/pantheon/apophis.svg
-banner: banners/ta-kheperu-banner.webp
+banner: takheperubnr
 packFolder: pantheonskemetian
 ---
 

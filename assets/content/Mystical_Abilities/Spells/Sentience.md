@@ -5,11 +5,11 @@ name:
   aliases:
     - Personality
 description: "Grants awareness to construct; creature gains rudimentary agency."
-img: sohl/assets/icons/game-icons/delapouite/circle.svg
 shortcode: sntnc
 type: mysticalability
 subType: arcaneincantation
 data:
+  icon: sohl-none-icon-circle
   templatePriority: null
 sohl:
   system:

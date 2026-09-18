@@ -5,6 +5,7 @@ tags:
 type: affiliation
 subType: faithtradition
 data:
+  icon: surtr
   templatePriority: null
   demonym: null
   epithet: The Destroyer
@@ -87,8 +88,8 @@ name:
   aliases:
     - The Flameborn Path
 shortcode: surtr
-img: images/affiliation/asguardian/surtr.webp
 packFolder: pantheonsasguardian
+banner: faithbnr
 ---
 
 Súrtr, the fire giant and god of savage battle, embodies the raw, destructive force of fire and the unrelenting fury of war. He is a fearsome figure, towering over his enemies, his body wreathed in flames that consume all they touch. Súrtr's presence is a harbinger of destruction, symbolizing the inevitable end of worlds, as foretold in the prophecies of Ragnarok.

@@ -5,11 +5,11 @@ name:
   aliases:
     - Alchema
 description: "Brews magical potions with beneficial effects over time."
-img: sohl/assets/icons/game-icons/badges/water.svg
 shortcode: ptncrft
 type: mysticalability
 subType: arcaneincantation
 data:
+  icon: sohl-none-icon-water
   templatePriority: null
 sohl:
   system:

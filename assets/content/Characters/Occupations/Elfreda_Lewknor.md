@@ -13,10 +13,10 @@ name:
     - Elara Springbrook
 packFolder: aureldiaaelwyth
 shortcode: elfrdlwknr
-img: sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/elfrdlwknr-portrait.webp
+  icon: sohl-none-icon-person
+  portrait: null
   templatePriority: null
   archetypes: []
   occupation: Farmer

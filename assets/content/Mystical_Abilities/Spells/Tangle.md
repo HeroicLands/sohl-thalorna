@@ -5,11 +5,11 @@ name:
   aliases:
     - Vine
 description: "Entangles target with bonds; creates magical webbing."
-img: sohl/assets/icons/other/tree.svg
 shortcode: tangle
 type: mysticalability
 subType: arcaneincantation
 data:
+  icon: sohl-none-icon-tree
   templatePriority: null
 sohl:
   system:

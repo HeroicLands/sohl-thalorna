@@ -13,10 +13,10 @@ name:
   aliases: []
 packFolder: ankarisvrystwald
 shortcode: brunjarskathhel
-img: sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/brunjarskathhel-portrait.webp
+  icon: sohl-none-icon-person
+  portrait: brunjarskathhel
   templatePriority: null
   archetypes: []
   occupation: Brigand
@@ -556,7 +556,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Brunjár Skathhelm](images/beings/characters/brunjarskathhel-portrait.webp){float: top-left}
+![Brunjár Skathhelm](images/beings/characters/brunjarskathhel.webp){float: top-left}
 
 ## Appearance {#appearance}
 

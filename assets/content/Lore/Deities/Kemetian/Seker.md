@@ -7,8 +7,9 @@ name:
   full: Sēker
   aliases: []
 shortcode: sekerdty
-img: icons/takheperu/pantheon/seker.svg
 packFolder: deitieskemetian
+data:
+  icon: seker
 ---
 
 _Lord of Silent Passage — a black hawk with gold-tipped wings._

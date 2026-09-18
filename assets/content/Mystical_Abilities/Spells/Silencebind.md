@@ -5,11 +5,11 @@ name:
   aliases:
     - Hush
 description: "Silences target magically; prevents speech and spell-speaking."
-img: sohl/assets/icons/game-icons/badges/water.svg
 shortcode: slncbnd
 type: mysticalability
 subType: arcaneincantation
 data:
+  icon: sohl-none-icon-water
   templatePriority: null
 sohl:
   system:

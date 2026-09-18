@@ -13,10 +13,10 @@ name:
   aliases: []
 packFolder: sultanateofamradad
 shortcode: prynbrmndn
-img: sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/prynbrmndn-portrait.webp
+  icon: sohl-none-icon-person
+  portrait: prynbrmndn
   templatePriority: null
   archetypes: []
   occupation: Jeweller
@@ -595,7 +595,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Paryan Barmandan](images/beings/characters/prynbrmndn-portrait.webp){float: top-left}
+![Paryan Barmandan](images/beings/characters/prynbrmndn.webp){float: top-left}
 
 ## Appearance {#appearance}
 

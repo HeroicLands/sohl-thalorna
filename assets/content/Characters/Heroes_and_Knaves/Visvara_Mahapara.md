@@ -12,10 +12,10 @@ name:
   aliases: []
 packFolder: ankarisvedyara
 shortcode: visvarmhpr
-img: sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/visvarmhpr-portrait.webp
+  icon: sohl-none-icon-person
+  portrait: visvarmhpr
   templatePriority: null
   archetypes: []
   occupation: Common Seaman
@@ -595,7 +595,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Viśvàra Mahâpara](images/beings/characters/visvarmhpr-portrait.webp){float: top-left}
+![Viśvàra Mahâpara](images/beings/characters/visvarmhpr.webp){float: top-left}
 
 ## Appearance {#appearance}
 

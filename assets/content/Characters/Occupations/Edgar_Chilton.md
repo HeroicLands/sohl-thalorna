@@ -13,10 +13,10 @@ name:
     - Thadeus Grimshaw
 packFolder: aureldiaaelwyth
 shortcode: edgarchltn
-img: sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/edgarchltn-portrait.webp
+  icon: sohl-none-icon-person
+  portrait: null
   templatePriority: null
   archetypes: []
   occupation: Embalmer

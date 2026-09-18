@@ -13,7 +13,7 @@ data:
 name:
   full: Anpet
   aliases: []
-banner: banners/ta-kheperu-banner.webp
+banner: takheperubnr
 shortcode: anpet
 packFolder: upperrivernomes
 ---

@@ -7,11 +7,11 @@ name:
   full: Harpy
   aliases: []
 description: "A quasi-reptilian flying humanoid of high peaks and coastal cliffs, combining predatory cunning with animalistic, territorial ferocity across a fourteen-foot wingspan."
-img: sohl/assets/icons/game-icons/lorc/harpy.svg
 shortcode: harpy
 type: being
 data:
-  portrait: images/being/harpy-portrait.webp
+  icon: sohl-none-icon-harpy
+  portrait: null
   templatePriority: null
   archetypes: []
   occupation: null

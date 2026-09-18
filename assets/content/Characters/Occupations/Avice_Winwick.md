@@ -13,10 +13,10 @@ name:
     - Selene Wavecaller
 packFolder: aureldiaaelwyth
 shortcode: avicewnwck
-img: sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/avicewnwck-portrait.webp
+  icon: sohl-none-icon-person
+  portrait: null
   templatePriority: null
   archetypes: []
   occupation: Mercantyler (Supercargo)

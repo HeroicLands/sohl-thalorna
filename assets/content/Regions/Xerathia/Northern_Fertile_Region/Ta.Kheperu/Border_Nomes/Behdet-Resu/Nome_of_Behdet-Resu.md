@@ -1,7 +1,7 @@
 ---
 description: "The deepest southern fort; the empire's last writ before the tribal frontier — one of the border nomes of Ta'Kheperu."
 type: affiliation
-banner: banners/ta-kheperu-banner.webp
+banner: takheperubnr
 name:
   full: The Nome of Behdet-Resu
   aliases: []

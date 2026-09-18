@@ -13,10 +13,10 @@ name:
   aliases: []
 packFolder: aureldiaaelwyth
 shortcode: thorrldskr
-img: sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/thorrldskr-portrait.webp
+  icon: sohl-none-icon-person
+  portrait: null
   templatePriority: null
   archetypes: []
   occupation: Man-at-Arms

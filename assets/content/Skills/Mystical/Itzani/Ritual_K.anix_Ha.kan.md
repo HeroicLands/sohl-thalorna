@@ -5,13 +5,13 @@ tags:
 type: skill
 subType: mystical
 shortcode: kanixhakan
-img: null
 name:
   full: "Ritual: K'anix Ha'kan"
   aliases:
     - K'anix Ha'kan
     - The Golden Giver
 data:
+  icon: null
   templatePriority: null
 sohl:
   system:

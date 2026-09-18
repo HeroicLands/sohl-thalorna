@@ -13,10 +13,10 @@ name:
     - Garrick Ironwood
 packFolder: aureldiaelavendre
 shortcode: thalrkhlrn
-img: sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/thalrkhlrn-portrait.webp
+  icon: sohl-none-icon-person
+  portrait: null
   templatePriority: null
   archetypes: []
   occupation: Woodcutter

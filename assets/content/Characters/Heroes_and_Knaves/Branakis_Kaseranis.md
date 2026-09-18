@@ -13,10 +13,10 @@ name:
   aliases: []
 packFolder: midhalionvylaria
 shortcode: brnksksrns
-img: sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/brnksksrns-portrait.webp
+  icon: sohl-none-icon-person
+  portrait: brnksksrns
   templatePriority: null
   archetypes: []
   occupation: Charcoaler
@@ -598,7 +598,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Bránakis Kâserânis](images/beings/characters/brnksksrns-portrait.webp){float: top-left}
+![Bránakis Kâserânis](images/beings/characters/brnksksrns.webp){float: top-left}
 
 ## Appearance {#appearance}
 

@@ -5,11 +5,11 @@ name:
   aliases:
     - False Soul
 description: "Creates temporary duplicate; copy mimics appearance and mannerism."
-img: sohl/assets/icons/game-icons/delapouite/circle.svg
 shortcode: smlcrm
 type: mysticalability
 subType: arcaneincantation
 data:
+  icon: sohl-none-icon-circle
   templatePriority: null
 sohl:
   system:

@@ -14,10 +14,10 @@ name:
     - Alaric Greenshadow
 packFolder: aureldiatarvenia
 shortcode: dmthmrthrn
-img: sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/dmthmrthrn-portrait.webp
+  icon: sohl-none-icon-person
+  portrait: null
   templatePriority: null
   archetypes: []
   occupation: Thespian

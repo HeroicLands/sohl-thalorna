@@ -5,13 +5,13 @@ tags:
 type: skill
 subType: mystical
 shortcode: murkir
-img: images/affiliation/aureldian/murkir.webp
 name:
   full: "Ritual: Murkir"
   aliases:
     - Múrkír
     - The Wayfarer
 data:
+  icon: murkir
   templatePriority: null
 sohl:
   system:

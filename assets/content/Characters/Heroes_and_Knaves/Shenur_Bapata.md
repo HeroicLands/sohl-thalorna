@@ -13,12 +13,12 @@ name:
   aliases:
     - Shenur Bapata
 packFolder: northernfertileregiontakheperu
-banner: banners/ta-kheperu-banner.webp
+banner: takheperubnr
 shortcode: shenurbapt
-img: sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/shenurbapt-portrait.webp
+  icon: sohl-none-icon-person
+  portrait: shenurbapt
   templatePriority: null
   archetypes: []
   occupation: Weaponcrafter (Armorer)
@@ -595,7 +595,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Shenur Ba'pata](images/beings/characters/shenurbapt-portrait.webp){float: top-left}
+![Shenur Ba'pata](images/beings/characters/shenurbapt.webp){float: top-left}
 
 **Home:** [[place-ankhsetun|Ankh-Setûn]]
 

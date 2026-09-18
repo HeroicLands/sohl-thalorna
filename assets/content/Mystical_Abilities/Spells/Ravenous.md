@@ -5,11 +5,11 @@ name:
   aliases:
     - Hunger
 description: "Hunger compulsion; targets eat anything to satisfy overwhelming urge."
-img: sohl/assets/icons/other/tree.svg
 shortcode: ravenous
 type: mysticalability
 subType: arcaneincantation
 data:
+  icon: sohl-none-icon-tree
   templatePriority: null
 sohl:
   system:

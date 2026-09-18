@@ -13,10 +13,10 @@ name:
     - Torvin Ashbark
 packFolder: aureldiaelavendre
 shortcode: alernprdln
-img: sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/alernprdln-portrait.webp
+  icon: sohl-none-icon-person
+  portrait: null
   templatePriority: null
   archetypes: []
   occupation: Shaman

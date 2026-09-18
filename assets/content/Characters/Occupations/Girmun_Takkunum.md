@@ -14,10 +14,10 @@ name:
     - Maerwin Blathe
 packFolder: midhalionharad
 shortcode: girmuntknm
-img: sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/girmuntknm-portrait.webp
+  icon: sohl-none-icon-person
+  portrait: null
   templatePriority: null
   archetypes: []
   occupation: Apothecary

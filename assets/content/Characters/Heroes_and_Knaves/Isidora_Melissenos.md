@@ -12,10 +12,10 @@ name:
   aliases: []
 packFolder: helladbyzaria
 shortcode: isidrmlsns
-img: sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/isidrmlsns-portrait.webp
+  icon: sohl-none-icon-person
+  portrait: isidrmlsns
   templatePriority: null
   archetypes: []
   occupation: Innkeeper
@@ -598,7 +598,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Isidôra Melissenós](images/beings/characters/isidrmlsns-portrait.webp){float: top-left}
+![Isidôra Melissenós](images/beings/characters/isidrmlsns.webp){float: top-left}
 
 ## Appearance {#appearance}
 

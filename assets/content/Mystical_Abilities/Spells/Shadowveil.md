@@ -5,11 +5,11 @@ name:
   aliases:
     - Cloak
 description: "Wraps in darkness; grants concealment within shadowed areas."
-img: sohl/assets/icons/game-icons/badges/fire.svg
 shortcode: shdwvl
 type: mysticalability
 subType: arcaneincantation
 data:
+  icon: sohl-none-icon-firebdg
   templatePriority: null
 sohl:
   system:

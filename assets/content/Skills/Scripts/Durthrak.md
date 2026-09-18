@@ -5,11 +5,11 @@ name:
   aliases:
     - Durthrak
 description: "The stone-cut of the Khazári — angular, unjoined characters made for chisel and graver, and a people who write down nearly everything."
-img: sohl/assets/icons/other/speaking.svg
 shortcode: drthrkscrpt
 type: skill
 subType: script
 data:
+  icon: sohl-none-icon-speaking
   templatePriority: null
 sohl:
   system:

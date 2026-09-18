@@ -13,7 +13,7 @@ data:
 name:
   full: Senmut
   aliases: []
-banner: banners/ta-kheperu-banner.webp
+banner: takheperubnr
 shortcode: senmut
 packFolder: bordernomes
 ---

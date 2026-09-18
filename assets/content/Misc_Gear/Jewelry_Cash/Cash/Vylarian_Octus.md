@@ -5,10 +5,10 @@ name:
   full: Vylarian Octus
   aliases: ["Octus", "Bit"]
 description: "Physical eighth of an Argentus; the everyday small-denomination imperial coin."
-img: sohl/assets/icons/game-icons/badges/coins.svg
 shortcode: bit
 type: miscgear
 data:
+  icon: sohl-none-icon-coinsbdg
   templatePriority: 0
 sohl:
   craft:

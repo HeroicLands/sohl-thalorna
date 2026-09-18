@@ -7,10 +7,10 @@ name:
   aliases: []
 description: "Binds a spoken oath so that both parties know, at once and without doubt, when it is broken."
 shortcode: othstndngwr
-img: icons/takheperu/khemenu-hekau/maatken.svg
 type: mysticalability
 subType: arcaneincantation
 data:
+  icon: maatken
   templatePriority: null
 sohl:
   system:

@@ -14,10 +14,10 @@ name:
     - Edwyn Merle
 packFolder: helladhelionis
 shortcode: zdmrsmkthn
-img: sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/zdmrsmkthn-portrait.webp
+  icon: sohl-none-icon-person
+  portrait: null
   templatePriority: null
   archetypes: []
   occupation: Cartographer/Artist

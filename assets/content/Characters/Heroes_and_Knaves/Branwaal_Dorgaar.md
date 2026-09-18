@@ -12,10 +12,10 @@ name:
   aliases: []
 packFolder: aureldiaprovenzia
 shortcode: branwldrgr
-img: sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/branwldrgr-portrait.webp
+  icon: sohl-none-icon-person
+  portrait: branwldrgr
   templatePriority: null
   archetypes: []
   occupation: Mercenary Captain
@@ -578,7 +578,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Brànwâal Dôrgaar](images/beings/characters/branwldrgr-portrait.webp){float: top-left}
+![Brànwâal Dôrgaar](images/beings/characters/branwldrgr.webp){float: top-left}
 
 ## Appearance {#appearance}
 

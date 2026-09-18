@@ -6,11 +6,11 @@ name:
   full: Giant Spider
   aliases: []
 description: "A four-foot-bodied web-hunter spinning three-dimensional silken mazes through caves and forests, dominating its territory with sticky traps and venom."
-img: sohl/assets/icons/game-icons/delapouite/person.svg
 shortcode: gntspdr
 type: being
 data:
-  portrait: images/beings/creatures/gntspdr-portrait.webp
+  icon: sohl-none-icon-person
+  portrait: gntspdr
   templatePriority: null
   archetypes: []
   occupation: null
@@ -217,7 +217,7 @@ sohl:
         disabled: false
 ---
 
-![Giant Spider](images/beings/creatures/gntspdr-portrait.webp){float: top-left}
+![Giant Spider](images/beings/creatures/gntspdr.webp){float: top-left}
 
 ## Appearance {#appearance}
 

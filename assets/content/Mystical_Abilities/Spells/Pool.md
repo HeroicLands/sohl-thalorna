@@ -4,11 +4,11 @@ name:
   full: Pool
   aliases: []
 description: "Creates body of water; water persists or evaporates gradually."
-img: sohl/assets/icons/game-icons/delapouite/circle.svg
 shortcode: pool
 type: mysticalability
 subType: arcaneincantation
 data:
+  icon: sohl-none-icon-circle
   templatePriority: null
 sohl:
   system:

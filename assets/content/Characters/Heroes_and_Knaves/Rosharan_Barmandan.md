@@ -13,10 +13,10 @@ name:
   aliases: []
 packFolder: sultanateofamradad
 shortcode: rshrnbrmndn
-img: sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/rshrnbrmndn-portrait.webp
+  icon: sohl-none-icon-person
+  portrait: rshrnbrmndn
   templatePriority: null
   archetypes: []
   occupation: Shipwright
@@ -618,7 +618,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Rosharan Barmandan](images/beings/characters/rshrnbrmndn-portrait.webp){float: top-left}
+![Rosharan Barmandan](images/beings/characters/rshrnbrmndn.webp){float: top-left}
 
 ## Appearance {#appearance}
 

@@ -5,11 +5,11 @@ name:
   aliases:
     - Missive
 description: "Whispered words travel to distant recipient; bypasses physical barriers."
-img: sohl/assets/icons/noun/divination.svg
 shortcode: message
 type: mysticalability
 subType: arcaneincantation
 data:
+  icon: sohl-none-icon-divination
   templatePriority: null
 sohl:
   system:

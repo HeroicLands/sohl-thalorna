@@ -10,8 +10,10 @@ name:
   aliases:
     - Badger Totem
 shortcode: badgerttm
-img: images/mystery/badger.webp
 packFolder: loretotems
+banner: creaturebnr
+data:
+  icon: badger
 ---
 
 Tenacious and solitary, badgers are fiercely independent animals that will defend their territory with determination and persistence.

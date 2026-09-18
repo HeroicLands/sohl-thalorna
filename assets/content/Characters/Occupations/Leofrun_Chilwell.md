@@ -13,10 +13,10 @@ name:
     - Elara Greenpath
 packFolder: aureldiaaelwyth
 shortcode: lefrnchlwl
-img: sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/lefrnchlwl-portrait.webp
+  icon: sohl-none-icon-person
+  portrait: null
   templatePriority: null
   archetypes: []
   occupation: Trapper

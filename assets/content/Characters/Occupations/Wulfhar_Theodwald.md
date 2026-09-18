@@ -13,10 +13,10 @@ name:
     - Magnus Wolfheart
 packFolder: ankarisvrystwald
 shortcode: wlfhrthdwld
-img: sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/being/wlfhrthdwld-portrait.webp
+  icon: sohl-none-icon-person
+  portrait: null
   templatePriority: null
   archetypes: []
   occupation: Huscarl

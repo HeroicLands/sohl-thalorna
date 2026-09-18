@@ -12,10 +12,10 @@ name:
   aliases: []
 packFolder: helladbyzaria
 shortcode: knstntnsplytms
-img: sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/knstntnsplytms-portrait.webp
+  icon: sohl-none-icon-person
+  portrait: knstntnsplytms
   templatePriority: null
   archetypes: []
   occupation: Cook
@@ -591,7 +591,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Konstántinos Polytimós](images/beings/characters/knstntnsplytms-portrait.webp){float: top-left}
+![Konstántinos Polytimós](images/beings/characters/knstntnsplytms.webp){float: top-left}
 
 ## Appearance {#appearance}
 

@@ -12,10 +12,10 @@ name:
   aliases: []
 packFolder: dunharatribes
 shortcode: firavdprsk
-img: sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/firavdprsk-portrait.webp
+  icon: sohl-none-icon-person
+  portrait: firavdprsk
   templatePriority: null
   archetypes: []
   occupation: Shaman
@@ -600,7 +600,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Firâvâd Pâresak](images/beings/characters/firavdprsk-portrait.webp){float: top-left}
+![Firâvâd Pâresak](images/beings/characters/firavdprsk.webp){float: top-left}
 
 ## Appearance {#appearance}
 

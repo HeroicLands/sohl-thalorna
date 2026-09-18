@@ -12,10 +12,10 @@ name:
   aliases: []
 packFolder: ankarisnordlands
 shortcode: thjthrhrfnsvld
-img: sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/thjthrhrfnsvld-portrait.webp
+  icon: sohl-none-icon-person
+  portrait: thjthrhrfnsvld
   templatePriority: null
   archetypes: []
   occupation: Clothier
@@ -603,7 +603,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Thjótharr Hrafnsvald](images/beings/characters/thjthrhrfnsvld-portrait.webp){float: top-left}
+![Thjótharr Hrafnsvald](images/beings/characters/thjthrhrfnsvld.webp){float: top-left}
 
 ## Appearance {#appearance}
 

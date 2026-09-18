@@ -6,13 +6,13 @@ name:
   aliases:
     - Potion, Curative, Mild
 description: "Pale green poultice; heals wounds and promotes recovery."
-img: sohl/assets/icons/other/potion.svg
 shortcode: ptncurm
 type: concoctiongear
 subType: exotic
 hmk:
   name: "Potion, Curative, Mild"
 data:
+  icon: sohl-none-icon-potion
   templatePriority: null
 sohl:
   system:

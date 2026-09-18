@@ -13,11 +13,11 @@ name:
     - Thātvōng
     - Kingdom of Mountains and Seas
 shortcode: jurthatempr
-img: null
 type: affiliation
 terran_analog: Japan (island feudalism, honor culture, breakaway from a larger power)
 subType: polity
 data:
+  icon: null
   templatePriority: null
   demonym: Jürthāti
   epithet: null

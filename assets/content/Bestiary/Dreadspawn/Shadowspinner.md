@@ -6,11 +6,11 @@ name:
   full: Shadowspinner
   aliases: []
 description: "An infernally intelligent apex arachnid that engineers light-drinking webs to trap prey and shatter the spirits of onlookers."
-img: sohl/assets/icons/game-icons/delapouite/person.svg
 shortcode: shdwspnn
 type: being
 data:
-  portrait: images/beings/creatures/shdwspnn-portrait.webp
+  icon: sohl-none-icon-person
+  portrait: shdwspnn
   templatePriority: null
   archetypes: []
   occupation: null
@@ -253,7 +253,7 @@ sohl:
         disabled: false
 ---
 
-![Shadowspinner](images/beings/creatures/shdwspnn-portrait.webp){float: top-left}
+![Shadowspinner](images/beings/creatures/shdwspnn.webp){float: top-left}
 
 ## Appearance {#appearance}
 

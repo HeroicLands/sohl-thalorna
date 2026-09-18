@@ -6,13 +6,13 @@ name:
   aliases:
     - Aqua Elixir
 description: "Pristine clear elixir; enhances water-breathing and aquatic movement."
-img: sohl/assets/icons/other/potion.svg
 shortcode: elxaqu
 type: concoctiongear
 subType: elixir
 hmk:
   name: Aqua
 data:
+  icon: sohl-none-icon-potion
   templatePriority: null
 sohl:
   system:

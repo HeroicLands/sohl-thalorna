@@ -6,6 +6,7 @@ tags:
 type: affiliation
 subType: spirittradition
 data:
+  icon: null
   templatePriority: null
   demonym: null
   epithet: The Owl of the Serpent
@@ -107,7 +108,6 @@ name:
     - The Fallen Pik'ik
     - The Owl at the Threshold
 shortcode: pikultzumaq
-img: null
 packFolder: pantheonitzani
 ---
 

@@ -12,10 +12,10 @@ name:
   aliases: []
 packFolder: midhalionvylaria
 shortcode: erythnslnds
-img: sohl/assets/icons/game-icons/delapouite/person.svg
 type: being
 data:
-  portrait: images/beings/characters/erythnslnds-portrait.webp
+  icon: sohl-none-icon-person
+  portrait: erythnslnds
   templatePriority: null
   archetypes: []
   occupation: Yeoman Archer
@@ -586,7 +586,7 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Érython Ûselîndâs](images/beings/characters/erythnslnds-portrait.webp){float: top-left}
+![Érython Ûselîndâs](images/beings/characters/erythnslnds.webp){float: top-left}
 
 ## Appearance {#appearance}
 
