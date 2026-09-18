@@ -25,6 +25,12 @@ data:
   species: null
 ---
 
+# Appearance {#appearance}
+
+TBD
+
+# Dossier {#dossier}
+
 **Role.** Ensures the embassy is fed, and its morale with it.
 
 **Background.** Well known for his culinary skill.

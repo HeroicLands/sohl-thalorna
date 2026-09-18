@@ -40,6 +40,12 @@ data:
     extra_features: []
 ---
 
+# Appearance {#appearance}
+
+TBD
+
+# Dossier {#dossier}
+
 **"Iron Spear Piercing the Clouds"**
 
 > **Draft.** This note exists so that the general the

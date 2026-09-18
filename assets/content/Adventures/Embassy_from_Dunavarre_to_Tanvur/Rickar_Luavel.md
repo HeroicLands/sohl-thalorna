@@ -25,6 +25,12 @@ data:
   species: null
 ---
 
+# Appearance {#appearance}
+
+TBD
+
+# Dossier {#dossier}
+
 **Role.** Cares for the horses and other animals.
 
 **Background.** Expert in animal care and handling.

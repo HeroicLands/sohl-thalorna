@@ -25,6 +25,12 @@ data:
   species: null
 ---
 
+# Appearance {#appearance}
+
+TBD
+
+# Dossier {#dossier}
+
 **Role.** Manages the financial affairs of the embassy.
 
 **Background.** A keen eye for detail and a strong grip on resources.

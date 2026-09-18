@@ -1,6 +1,7 @@
 ---
 tags:
   - character
+  - draft
 name:
   full: Njörven
   title: ""
@@ -21,5 +22,11 @@ data:
   gender: null
   species: null
 ---
+
+# Appearance {#appearance}
+
+TBD
+
+# Dossier {#dossier}
 
 A creature of the Nordlands, venerated by [[affiliation-njorvencult|a cult of its own]].

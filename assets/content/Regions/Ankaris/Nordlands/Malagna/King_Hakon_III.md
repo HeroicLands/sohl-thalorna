@@ -1,6 +1,7 @@
 ---
 tags:
   - character
+  - draft
 name:
   full: King Hákon III
   title: King
@@ -23,5 +24,11 @@ data:
   gender: male
   species: null
 ---
+
+# Appearance {#appearance}
+
+TBD
+
+# Dossier {#dossier}
 
 A king of the Nordlands, seated at [[place-skorrborg|Skorrborg]].

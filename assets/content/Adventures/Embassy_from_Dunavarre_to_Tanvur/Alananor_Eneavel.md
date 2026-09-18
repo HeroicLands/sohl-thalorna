@@ -25,6 +25,12 @@ data:
   species: null
 ---
 
+# Appearance {#appearance}
+
+TBD
+
+# Dossier {#dossier}
+
 **Role.** Provides medicinal and magical support to the embassy.
 
 **Background.** Expert in alchemy and in producing the potions and remedies a long mission requires.

@@ -40,6 +40,12 @@ data:
     extra_features: []
 ---
 
+# Appearance {#appearance}
+
+TBD
+
+# Dossier {#dossier}
+
 **"Master Tiger of the Steppes"**
 
 > **Draft.** This note exists so that the warlord the

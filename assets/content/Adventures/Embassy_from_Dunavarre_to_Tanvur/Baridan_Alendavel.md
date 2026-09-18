@@ -25,6 +25,12 @@ data:
   species: null
 ---
 
+# Appearance {#appearance}
+
+TBD
+
+# Dossier {#dossier}
+
 **Role.** Manages the household and logistics of the embassy.
 
 **Background.** Known for his organisational skill and his loyalty to Dúnavarre's nobility.

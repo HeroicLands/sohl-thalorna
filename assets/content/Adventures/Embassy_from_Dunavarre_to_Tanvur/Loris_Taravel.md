@@ -25,6 +25,12 @@ data:
   species: null
 ---
 
+# Appearance {#appearance}
+
+TBD
+
+# Dossier {#dossier}
+
 **Role.** Handles negotiations and translates documents.
 
 **Background.** Skilled in several languages and in international custom.

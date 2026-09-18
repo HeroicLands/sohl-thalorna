@@ -25,6 +25,12 @@ data:
   species: null
 ---
 
+# Appearance {#appearance}
+
+TBD
+
+# Dossier {#dossier}
+
 **Role.** Ensures accurate record-keeping and correspondence.
 
 **Background.** Trusted for meticulous work and reliability in the court records.
