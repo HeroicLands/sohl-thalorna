@@ -122,6 +122,7 @@ data:
   relations:
     tanvurempr: aligned
 packFolder: celestialpantheon
+banner: faithbnr
 ---
 
 ## Vëizhük Dāknëi — The Jade Sovereign

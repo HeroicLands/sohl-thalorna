@@ -58,6 +58,7 @@ data:
   relations:
     varakpnthn: aligned
 packFolder: pantheonsvarnaka
+banner: faithbnr
 ---
 
 ## Kāmavrata — The Celestial Lover

@@ -61,6 +61,7 @@ data:
     yokveng: aligned
     tngvkvnlei: nemesis
 packFolder: organizations
+banner: faithbnr
 ---
 
 - **Type:** Nihilistic apocalyptic cult

@@ -135,39 +135,32 @@ The **Quatera** as the basic tactical element is a Vylarian doctrinal innovation
 
 ## The Two Tracks
 
-```
-COURT TIER  ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-    Augustar  ────────────────────────────────────────────
-    Dux Bellorum                                       │ courtiers,
-    Comares Augustari (4–8)                                  │ political appointees
-COMMAND TIER ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-    Magnar           (theater commander)                     │ noble field generals
-    Magistar Vexilii (field army commander)                  │
-LEGION OFFICER TIER ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-    Legar            (legion commander)                      │
-    Tribunar Magnar  (senior tribune, 2IC)                   │ noble officers
-    Tribunar         (tribune)                               │ — purchased
-    Subtribunar      (junior tribune, 5 per legion)          │   commissions
-    Praefar Alariae  (cavalry/specialist prefect)            │
-    Cadetar          (noble cadet, lowest noble rank)        │
-═════════════════════════════════════════════════════════════
-              ↕ bridge rank ↕
-    Praefar Castorum  (camp prefect, 3IC of a legion)
-═════════════════════════════════════════════════════════════
-SENIOR NCO TIER ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-    Primar           (senior centurion of legion)            │ career commoner
-    Primar Sectaris  (senior centurion of a cohort)          │ NCOs
-    Centurius        (commands a century)                    │ — pure
-    Optar            (century 2IC)                           │   meritocracy
-    Tesserar         (watch officer, century 3IC)            │
-JUNIOR NCO TIER ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-    Decar            (squad leader, 8 men)                   │
-    Quaterar         (fire team leader, 4 men)               │
-ENLISTED TIER ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-    Veteranar        (veteran, privileged status)            │
-    Legionar         (legionary, common soldier)             │
-    Tironar          (recruit, not yet sworn)                │
-```
+The two careers run as one ladder of seniority, but a rank belongs to one track or the other, and only the **Praefar Castorum** is reached from both.
+
+| Tier               | Rank                 | Gloss                               | Track                           |
+| ------------------ | -------------------- | ----------------------------------- | ------------------------------- |
+| **Court**          | **Augustar**         | Emperor; nominal supreme commander  | Courtiers, political appointees |
+| **Court**          | **Dux Bellorum**     | Chief war-minister                  | Courtiers, political appointees |
+| **Court**          | **Comar Augustari**  | Imperial companion; 4–8 at any time | Courtiers, political appointees |
+| **Command**        | **Magnar**           | Theater commander                   | Noble field generals            |
+| **Command**        | **Magistar Vexilii** | Field army commander                | Noble field generals            |
+| **Legion officer** | **Legar**            | Legion commander                    | Noble — purchased commission    |
+| **Legion officer** | **Tribunar Magnar**  | Senior tribune, second in command   | Noble — purchased commission    |
+| **Legion officer** | **Tribunar**         | Tribune                             | Noble — purchased commission    |
+| **Legion officer** | **Subtribunar**      | Junior tribune; five per legion     | Noble — purchased commission    |
+| **Legion officer** | **Praefar Alariae**  | Cavalry and specialist prefect      | Noble — purchased commission    |
+| **Legion officer** | **Cadetar**          | Noble cadet; the lowest noble rank  | Noble — purchased commission    |
+| **Bridge**         | **Praefar Castorum** | Camp prefect, third in a legion     | **Both tracks meet here**       |
+| **Senior NCO**     | **Primar**           | Senior centurion of a legion        | Commoner — pure meritocracy     |
+| **Senior NCO**     | **Primar Sectaris**  | Senior centurion of a cohort        | Commoner — pure meritocracy     |
+| **Senior NCO**     | **Centurius**        | Commands a century                  | Commoner — pure meritocracy     |
+| **Senior NCO**     | **Optar**            | Century second in command           | Commoner — pure meritocracy     |
+| **Senior NCO**     | **Tesserar**         | Watch officer, century third        | Commoner — pure meritocracy     |
+| **Junior NCO**     | **Decar**            | Squad leader; eight men             | Commoner — pure meritocracy     |
+| **Junior NCO**     | **Quaterar**         | Fire team leader; four men          | Commoner — pure meritocracy     |
+| **Enlisted**       | **Veteranar**        | Veteran of privileged status        | Commoner — pure meritocracy     |
+| **Enlisted**       | **Legionar**         | Legionary; the common soldier       | Commoner — pure meritocracy     |
+| **Enlisted**       | **Tironar**          | Recruit, not yet sworn              | Commoner — pure meritocracy     |
 
 A young aristocrat purchases a Cadetar commission at fifteen, serves under his Legar's mentorship for two years, purchases a Subtribunar commission at seventeen or eighteen, and joins a legion as a junior officer. A common-born youth presents himself at a recruiting station, takes the legion's oath as a Tironar, completes a year of training to become a Legionar, and begins the slow climb upward through demonstrated capability. He takes the oath no earlier than his fifteenth birthday and serves a full term of twenty years; the commoner who serves it out is discharged a **citizen of the Empire**, with the dole and the standing that status carries (see [[doc-vylrnctznshp|Vylarian Citizenship]]). The two careers run in parallel through the same legion's barracks, mess halls, and engagements; they meet formally only at the **Praefar Castorum** position.
 

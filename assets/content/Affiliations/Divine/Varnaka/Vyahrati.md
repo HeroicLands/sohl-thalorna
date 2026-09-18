@@ -57,6 +57,7 @@ data:
   relations:
     varakpnthn: aligned
 packFolder: pantheonsvarnaka
+banner: faithbnr
 ---
 
 ## Vyāhrati — The Keeper of Decay

@@ -122,6 +122,7 @@ data:
   relations:
     tngvkvnlei: aligned
 packFolder: elementallords
+banner: faithbnr
 ---
 
 ## Röthöt Dākvëng — The Lord of Wood
