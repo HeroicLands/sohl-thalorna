@@ -548,11 +548,11 @@ sohl:
     defaultCombatGroup: null
 ---
 
-## Appearance {#appearance}
+# Appearance {#appearance}
 
 Hâlira Náredh is a 26-year-old woman who stands 5'9" tall and is slender. She has an oval face with soft cheekbones, a smooth forehead, and an angular jaw that leads to a firm chin. Her narrow blue eyes sit beneath expressive brows, lending her a keen gaze. A narrow nose and narrow lips complete her features. She has medium-toned skin with a clear complexion. Her silver hair is flowing past her shoulders. A notable feature is ink-stained fingers.
 
-## Dossier {#dossier}
+# Dossier {#dossier}
 
 Born in the Élavendre region to a freeman family of Élavendri heritage, Hâlira Náredh came into the world of the scribe through a combination of circumstance and aptitude.
 
@@ -560,37 +560,37 @@ Faelan is an aspiring scribe who has taken up work in a bustling urban center, w
 
 Now at 26 years of age, Hâlira Náredh has established herself as a known figure among the scribes of Élavendre. Her reputation, for better or worse, precedes her in the circles where such things matter.
 
-### Psyche
+## Psyche
 
-#### Personality
+### Personality
 
 Can be easily distracted, struggles with the monotony of routine tasks.
 
-#### Motivation
+### Motivation
 
 Hâlira is driven by the desire to master her craft and secure a stable future. The uncertainties of life in scribe work keep her vigilant and adaptable.
 
-#### Strengths
+### Strengths
 
 Creative and artistic, skilled in calligraphy, good at multitasking.
 
-### Social
+## Social
 
 Hâlira is affiliated with Local Scribes' Guild.
 
 As a Élavendri scribe, Hâlira occupies a recognized social niche within Élavendre society.
 
-### Companions
+## Companions
 
-#### Patrons
+### Patrons
 
 Hâlira's primary patron is Local merchants and community members seeking stylish manuscripts.. This relationship provides both opportunity and obligation.
 
-#### Enemies
+### Enemies
 
 Few; generally well-liked, though some may criticize her style as frivolous.
 
-### Plot Hooks
+## Plot Hooks
 
 1. **The Scribe's Dilemma** — Hâlira faces a professional crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Élavendre.
 

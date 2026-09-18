@@ -546,11 +546,11 @@ sohl:
     defaultCombatGroup: null
 ---
 
-## Appearance {#appearance}
+# Appearance {#appearance}
 
 Ánira Róseneth is a 26-year-old woman who stands 5'9" tall and is slender. She has an angular face with defined cheekbones, a high forehead, and a square jaw that leads to a firm chin. Her large black eyes sit beneath heavy brows, lending her an expressive gaze. A straight nose and narrow lips complete her features. She has tanned skin with a sun-tanned complexion. Her gray hair is pulled back tightly from her face.
 
-## Dossier {#dossier}
+# Dossier {#dossier}
 
 Born in the Tarvénia region to a freeman family of Tarvénan heritage, Ánira Róseneth came into the world of the musician (lute) through a combination of circumstance and aptitude.
 
@@ -558,37 +558,37 @@ Liora grew up on the streets and found solace in music. She learned to play the 
 
 Now at 26 years of age, Ánira Róseneth has established herself as a known figure among the musician (lute)s of Tarvénia. Her reputation, for better or worse, precedes her in the circles where such things matter.
 
-### Psyche
+## Psyche
 
-#### Personality
+### Personality
 
 Inexperienced with courtly etiquette, struggles with composing original music.
 
-#### Motivation
+### Motivation
 
 Ánira is driven by the desire to master her craft and secure a stable future. The uncertainties of life in musician (lute) work keep her vigilant and adaptable.
 
-#### Strengths
+### Strengths
 
 Talented musician, quick improviser, charming stage presence.
 
-### Social
+## Social
 
 Ánira is affiliated with Minstrels' Guild.
 
 As a Tarvénan musician (lute), Ánira occupies a recognized social niche within Tarvénia society.
 
-### Companions
+## Companions
 
-#### Patrons
+### Patrons
 
 Ánira's primary patron is Tavern owners and common folk who enjoy her music.. This relationship provides both opportunity and obligation.
 
-#### Enemies
+### Enemies
 
 Jealous musicians who see her as competition.
 
-### Plot Hooks
+## Plot Hooks
 
 1. **The Musician (Lute)'s Dilemma** — Ánira faces a professional crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Tarvénia.
 

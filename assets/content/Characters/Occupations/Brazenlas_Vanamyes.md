@@ -553,11 +553,11 @@ sohl:
     defaultCombatGroup: null
 ---
 
-## Appearance {#appearance}
+# Appearance {#appearance}
 
 Bràzenlâs Vânamyês is a 52-year-old man who stands 6'0" tall and is of moderate build. He has a diamond face with soft cheekbones, a narrow forehead, and a square jaw that leads to a firm chin. His piercing brown eyes sit beneath straight brows, lending him a penetrating gaze. A straight nose and expressive lips complete his features. He has olive-tanned skin with a weathered complexion. His gray hair is cropped short.
 
-## Dossier {#dossier}
+# Dossier {#dossier}
 
 Born in the Vylaría region to a freeman family of Vylarian heritage, Bràzenlâs Vânamyês came into the world of the embalmer through a combination of circumstance and aptitude.
 
@@ -565,37 +565,37 @@ Orwin has been an embalmer for over three decades, following in the footsteps of
 
 Now at 52 years of age, Bràzenlâs Vânamyês has established himself as a known figure among the embalmers of Vylaria. His reputation, for better or worse, precedes him in the circles where such things matter.
 
-### Psyche
+## Psyche
 
-#### Personality
+### Personality
 
 Resistant to new methods, often comes across as overly somber and distant.
 
-#### Motivation
+### Motivation
 
 Bràzenlâs is driven by the desire to master his craft and secure a stable future. The uncertainties of life in embalmer work keep him vigilant and adaptable.
 
-#### Strengths
+### Strengths
 
 Experienced, skilled in traditional embalming techniques, dedicated to his craft.
 
-### Social
+## Social
 
 Bràzenlâs is affiliated with Morticians' Guild.
 
 As a Vylarian embalmer, Bràzenlâs occupies a recognized social niche within Vylaria society.
 
-### Companions
+## Companions
 
-#### Patrons
+### Patrons
 
 Bràzenlâs's primary patron is Longstanding families who trust his expertise and tradition.. This relationship provides both opportunity and obligation.
 
-#### Enemies
+### Enemies
 
 Some younger embalmers who advocate for modern techniques.
 
-### Plot Hooks
+## Plot Hooks
 
 1. **The Embalmer's Dilemma** — Bràzenlâs faces a professional crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Vylaria.
 

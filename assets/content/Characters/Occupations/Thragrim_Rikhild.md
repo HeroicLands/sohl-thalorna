@@ -549,11 +549,11 @@ sohl:
     defaultCombatGroup: null
 ---
 
-## Appearance {#appearance}
+# Appearance {#appearance}
 
 Thrágrim Ríkhild is a 48-year-old man who stands 6'3" tall and is broad and solidly built. He has a broad face with prominent cheekbones, a lined forehead, and a square jaw that leads to a strong chin. His bright blue eyes sit beneath thick brows, lending him a lively gaze. A broad nose and wide lips complete his features. He has light skin with a weathered complexion. His gray hair is thick and unkempt.
 
-## Dossier {#dossier}
+# Dossier {#dossier}
 
 Born in the Vrystwald region to a freeman family of Varokhi heritage, Thrágrim Ríkhild came into the world of the timberwright through a combination of circumstance and aptitude.
 
@@ -561,37 +561,37 @@ Orin has spent most of his life working in the forests, felling trees and crafti
 
 Now at 48 years of age, Thrágrim Ríkhild has established himself as a known figure among the timberwrights of Vrystwald. His reputation, for better or worse, precedes him in the circles where such things matter.
 
-### Psyche
+## Psyche
 
-#### Personality
+### Personality
 
 Gruff and prefers working alone, struggles with social interactions.
 
-#### Motivation
+### Motivation
 
 Thrágrim is driven by the desire to master his craft and secure a stable future. The uncertainties of life in timberwright work keep him vigilant and adaptable.
 
-#### Strengths
+### Strengths
 
 Skilled in felling trees, experienced in timber processing, physically strong.
 
-### Social
+## Social
 
 Thrágrim is affiliated with Timberwrights' Guild.
 
 As a Varokhi timberwright, Thrágrim occupies a recognized social niche within Vrystwald society.
 
-### Companions
+## Companions
 
-#### Patrons
+### Patrons
 
 Thrágrim's primary patron is Local builders and carpenters who rely on him for quality timber.. This relationship provides both opportunity and obligation.
 
-#### Enemies
+### Enemies
 
 Few, though some villagers find his solitary nature strange.
 
-### Plot Hooks
+## Plot Hooks
 
 1. **The Timberwright's Dilemma** — Thrágrim faces a professional crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Vrystwald.
 

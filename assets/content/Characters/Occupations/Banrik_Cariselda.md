@@ -551,11 +551,11 @@ sohl:
     defaultCombatGroup: null
 ---
 
-## Appearance {#appearance}
+# Appearance {#appearance}
 
 Bánrik Cáriselda is a 33-year-old man who stands 6'1" tall and is of moderate build. He has an oval face with wide-set cheekbones, a smooth forehead, and a strong jaw that leads to a square chin. His piercing gray eyes sit beneath prominent brows, lending him a penetrating gaze. A prominent nose and full lips complete his features. He has olive skin with a sun-tanned complexion. His graying brown hair is short and swept back.
 
-## Dossier {#dossier}
+# Dossier {#dossier}
 
 Born in the Tarvénia region to a freeman family of Tarvénan heritage, Bánrik Cáriselda came into the world of the bodyguard through a combination of circumstance and aptitude.
 
@@ -563,37 +563,37 @@ Sylas has established himself as a quick and resourceful bodyguard known for his
 
 Now at 33 years of age, Bánrik Cáriselda has established himself as a known figure among the bodyguards of Tarvénia. His reputation, for better or worse, precedes him in the circles where such things matter.
 
-### Psyche
+## Psyche
 
-#### Personality
+### Personality
 
 Can be overly cautious, struggles with physical strength compared to others.
 
-#### Motivation
+### Motivation
 
 Bánrik is driven by the desire to master his craft and secure a stable future. The uncertainties of life in bodyguard work keep him vigilant and adaptable.
 
-#### Strengths
+### Strengths
 
 Quick and agile, skilled in strategy, excellent at detecting threats.
 
-### Social
+## Social
 
 Bánrik is affiliated with Local Mercenaries Guild.
 
 As a Tarvénan bodyguard, Bánrik occupies a recognized social niche within Tarvénia society.
 
-### Companions
+## Companions
 
-#### Patrons
+### Patrons
 
 Bánrik's primary patron is Merchants and minor nobility seeking stealthy protection.. This relationship provides both opportunity and obligation.
 
-#### Enemies
+### Enemies
 
 Few; generally well-liked but has made rivals due to his success.
 
-### Plot Hooks
+## Plot Hooks
 
 1. **The Bodyguard's Dilemma** — Bánrik faces a professional crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Tarvénia.
 

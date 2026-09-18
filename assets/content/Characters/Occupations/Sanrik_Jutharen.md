@@ -554,11 +554,11 @@ sohl:
     defaultCombatGroup: null
 ---
 
-## Appearance {#appearance}
+# Appearance {#appearance}
 
 Sánrik Jútharen is a 52-year-old man who stands 6'1" tall and is of moderate build. He has an oval face with broad cheekbones, a wide forehead, and an angular jaw that leads to a square chin. His hooded green eyes sit beneath straight brows, lending him a guarded gaze. An aquiline nose and narrow lips complete his features. He has medium-toned skin with a weathered complexion. His gray hair is shorn at the sides with length on top. A notable feature is sun-darkened skin on the arms and face.
 
-## Dossier {#dossier}
+# Dossier {#dossier}
 
 Born in the Tarvénia region to a freeman family of Tarvénan heritage, Sánrik Jútharen came into the world of the glassworker through a combination of circumstance and aptitude.
 
@@ -566,37 +566,37 @@ Halvard has been crafting glass items for over thirty years, specializing in pra
 
 Now at 52 years of age, Sánrik Jútharen has established himself as a known figure among the glassworkers of Tarvénia. His reputation, for better or worse, precedes him in the circles where such things matter.
 
-### Psyche
+## Psyche
 
-#### Personality
+### Personality
 
 Resistant to change, lacks creativity in his designs.
 
-#### Motivation
+### Motivation
 
 Sánrik is driven by the desire to master his craft and secure a stable future. The uncertainties of life in glassworker work keep him vigilant and adaptable.
 
-#### Strengths
+### Strengths
 
 Highly skilled in traditional glassworking techniques, experienced, dependable.
 
-### Social
+## Social
 
 Sánrik is affiliated with Glassworkers' Guild.
 
 As a Tarvénan glassworker, Sánrik occupies a recognized social niche within Tarvénia society.
 
-### Companions
+## Companions
 
-#### Patrons
+### Patrons
 
 Sánrik's primary patron is Local merchants and craftsmen who value his reliable wares.. This relationship provides both opportunity and obligation.
 
-#### Enemies
+### Enemies
 
 Younger glassworkers who see him as outdated.
 
-### Plot Hooks
+## Plot Hooks
 
 1. **The Glassworker's Dilemma** — Sánrik faces a professional crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Tarvénia.
 

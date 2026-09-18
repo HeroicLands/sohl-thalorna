@@ -551,11 +551,11 @@ sohl:
     defaultCombatGroup: null
 ---
 
-## Appearance {#appearance}
+# Appearance {#appearance}
 
 Girdanû Rashîmû is a 42-year-old man who stands 6'1" tall and is broad and solidly built. He has a diamond face with prominent cheekbones, a lined forehead, and an angular jaw that leads to a pointed chin. His narrow green eyes sit beneath prominent brows, lending him a keen gaze. A hawkish nose and full lips complete his features. He has warm-toned skin with a sun-kissed complexion. His gray hair is cropped short.
 
-## Dossier {#dossier}
+# Dossier {#dossier}
 
 Born in the Harad region to a freeman family of Haradian heritage, Girdanû Rashîmû came into the world of the gladiator through a combination of circumstance and aptitude.
 
@@ -563,37 +563,37 @@ Thoran began his career as a laborer in the city’s quarries, using his strengt
 
 Now at 42 years of age, Girdanû Rashîmû has established himself as a known figure among the gladiators of Harad. His reputation, for better or worse, precedes him in the circles where such things matter.
 
-### Psyche
+## Psyche
 
-#### Personality
+### Personality
 
 Slow due to his size, stubborn, struggles with finesse in combat.
 
-#### Motivation
+### Motivation
 
 Girdanû is driven by the desire to master his craft and secure a stable future. The uncertainties of life in gladiator work keep him vigilant and adaptable.
 
-#### Strengths
+### Strengths
 
 Incredibly strong, skilled in wielding heavy weapons, resilient.
 
-### Social
+## Social
 
 Girdanû is affiliated with Gladiators' Guild.
 
 As a Haradian gladiator, Girdanû occupies a recognized social niche within Harad society.
 
-### Companions
+## Companions
 
-#### Patrons
+### Patrons
 
 Girdanû's primary patron is Arena patrons who appreciate his raw power and spectacle.. This relationship provides both opportunity and obligation.
 
-#### Enemies
+### Enemies
 
 Some rival fighters and guards who still distrust him due to his past.
 
-### Plot Hooks
+## Plot Hooks
 
 1. **The Gladiator's Dilemma** — Girdanû faces a professional crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Harad.
 

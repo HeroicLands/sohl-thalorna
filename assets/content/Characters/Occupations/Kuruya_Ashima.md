@@ -549,11 +549,11 @@ sohl:
     defaultCombatGroup: null
 ---
 
-## Appearance {#appearance}
+# Appearance {#appearance}
 
 Kûrûya Ashîmâ is a 33-year-old woman who stands 5'8" tall and is of moderate build. She has a diamond face with soft cheekbones, a smooth forehead, and a sharp jaw that leads to a prominent chin. Her piercing brown eyes sit beneath heavy brows, lending her a penetrating gaze. A straight nose and wide lips complete her features. She has medium-toned skin with a bronzed complexion. Her black hair is braided and coiled at the nape.
 
-## Dossier {#dossier}
+# Dossier {#dossier}
 
 Born in the Harad region to a freeman family of Haradian heritage, Kûrûya Ashîmâ came into the world of the weaponcrafter (armorer) through a combination of circumstance and aptitude.
 
@@ -561,37 +561,37 @@ Liora is a talented weaponcrafter who grew up in a family of blacksmiths. She to
 
 Now at 33 years of age, Kûrûya Ashîmâ has established herself as a known figure among the weaponcrafter (armorer)s of Harad. Her reputation, for better or worse, precedes her in the circles where such things matter.
 
-### Psyche
+## Psyche
 
-#### Personality
+### Personality
 
 Struggles to market her work as practical, can be stubborn about her artistic vision.
 
-#### Motivation
+### Motivation
 
 Kûrûya's driving force is the search that defines her life — a quest that shapes every decision she makes and every risk she takes.
 
-#### Strengths
+### Strengths
 
 Skilled in detailed metalwork, creative weapon designs, resourceful.
 
-### Social
+## Social
 
 Kûrûya is affiliated with City Artisans' Guild.
 
 As a Haradian weaponcrafter (armorer), Kûrûya occupies a recognized social niche within Harad society.
 
-### Companions
+## Companions
 
-#### Patrons
+### Patrons
 
 Kûrûya's primary patron is Wealthy clients who appreciate her artistry, and a few adventurers seeking unique weapons.. This relationship provides both opportunity and obligation.
 
-#### Enemies
+### Enemies
 
 Traditional blacksmiths who see her work as too ornamental.
 
-### Plot Hooks
+## Plot Hooks
 
 1. **The Weaponcrafter (Armorer)'s Dilemma** — Kûrûya faces a professional crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Harad.
 

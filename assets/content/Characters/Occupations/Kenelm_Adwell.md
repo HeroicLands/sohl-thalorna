@@ -549,11 +549,11 @@ sohl:
     defaultCombatGroup: null
 ---
 
-## Appearance {#appearance}
+# Appearance {#appearance}
 
 Kenelm Adwell is a 40-year-old man who stands 6'2" tall and is broad and solidly built. He has a round face with angular cheekbones, a high forehead, and a rounded jaw that leads to a firm chin. His narrow brown eyes sit beneath arched brows, lending him a keen gaze. A slightly upturned nose and curved lips complete his features. He has light skin with a lightly freckled complexion. His red hair is combed neatly to one side.
 
-## Dossier {#dossier}
+# Dossier {#dossier}
 
 Born in the Aelwyth region to a freeman family of Aelwythan heritage, Kenelm Adwell came into the world of the caravan guard through a combination of circumstance and aptitude.
 
@@ -561,37 +561,37 @@ Garrik is a seasoned caravan guard with decades of experience. He has seen many 
 
 Now at 40 years of age, Kenelm Adwell has established himself as a known figure among the caravan guards of Aelwyth. His reputation, for better or worse, precedes him in the circles where such things matter.
 
-### Psyche
+## Psyche
 
-#### Personality
+### Personality
 
 Can be too protective, struggles with newer tactics.
 
-#### Motivation
+### Motivation
 
 Kenelm is driven by the desire to master his craft and secure a stable future. The uncertainties of life in caravan guard work keep him vigilant and adaptable.
 
-#### Strengths
+### Strengths
 
 Highly experienced, good leader, skilled in close combat.
 
-### Social
+## Social
 
 Kenelm is affiliated with Local Mercenaries' Guild.
 
 As a Aelwythan caravan guard, Kenelm occupies a recognized social niche within Aelwyth society.
 
-### Companions
+## Companions
 
-#### Patrons
+### Patrons
 
 Kenelm's primary patron is Caravan leaders and merchants who appreciate his expertise.. This relationship provides both opportunity and obligation.
 
-#### Enemies
+### Enemies
 
 Few; well-respected among peers.
 
-### Plot Hooks
+## Plot Hooks
 
 1. **The Caravan Guard's Dilemma** — Kenelm faces a professional crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Aelwyth.
 

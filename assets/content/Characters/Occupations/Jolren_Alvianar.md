@@ -556,11 +556,11 @@ sohl:
     defaultCombatGroup: null
 ---
 
-## Appearance {#appearance}
+# Appearance {#appearance}
 
 Jólren Álvianar is a 35-year-old man who stands 6'0" tall and is of moderate build. He has an oval face with sharp cheekbones, a narrow forehead, and a sharp jaw that leads to a firm chin. His large hazel eyes sit beneath thick brows, lending him an expressive gaze. An aquiline nose and full lips complete his features. He has medium-toned skin with a sun-tanned complexion. His black hair is shorn at the sides with length on top.
 
-## Dossier {#dossier}
+# Dossier {#dossier}
 
 Born in the Tarvénia region to a freeman family of Tarvénan heritage, Jólren Álvianar came into the world of the mason through a combination of circumstance and aptitude.
 
@@ -568,37 +568,37 @@ Taran has been working as a mason for over fifteen years, specializing in stone 
 
 Now at 35 years of age, Jólren Álvianar has established himself as a known figure among the masons of Tarvénia. His reputation, for better or worse, precedes him in the circles where such things matter.
 
-### Psyche
+## Psyche
 
-#### Personality
+### Personality
 
 Can be overly perfectionistic, struggles with heavy lifting.
 
-#### Motivation
+### Motivation
 
 Jólren is driven by the desire to master his craft and secure a stable future. The uncertainties of life in mason work keep him vigilant and adaptable.
 
-#### Strengths
+### Strengths
 
 Highly skilled stone carver, creative, good problem solver.
 
-### Social
+## Social
 
 Jólren is affiliated with Local Masons' Guild.
 
 As a Tarvénan mason, Jólren occupies a recognized social niche within Tarvénia society.
 
-### Companions
+## Companions
 
-#### Patrons
+### Patrons
 
 Jólren's primary patron is Local builders and architects seeking quality craftsmanship.. This relationship provides both opportunity and obligation.
 
-#### Enemies
+### Enemies
 
 Few; generally well-liked in the community.
 
-### Plot Hooks
+## Plot Hooks
 
 1. **The Mason's Dilemma** — Jólren faces a professional crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Tarvénia.
 

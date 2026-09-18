@@ -548,11 +548,11 @@ sohl:
     defaultCombatGroup: null
 ---
 
-## Appearance {#appearance}
+# Appearance {#appearance}
 
 Tázîtha Ibârîdês is a 29-year-old woman who stands 6'1" tall and is slender. She has an angular face with prominent cheekbones, a smooth forehead, and a sharp jaw that leads to a firm chin. Her almond-shaped hazel eyes sit beneath straight brows, lending her a measured gaze. A prominent nose and firm lips complete her features. She has olive skin with an olive-toned complexion. Her brown hair is gathered in a practical bun. A notable feature is calloused hands from years of hard work.
 
-## Dossier {#dossier}
+# Dossier {#dossier}
 
 Born in the Heliónis region to a freeman family of Helionite heritage, Tázîtha Ibârîdês came into the world of the charcoaler through a combination of circumstance and aptitude.
 
@@ -560,37 +560,37 @@ Mirna is one of the few female charcoalers in her area, having learned the trade
 
 Now at 29 years of age, Tázîtha Ibârîdês has established herself as a known figure among the charcoalers of Heliónis. Her reputation, for better or worse, precedes her in the circles where such things matter.
 
-### Psyche
+## Psyche
 
-#### Personality
+### Personality
 
 Can be overly reclusive, sometimes avoids people for weeks at a time.
 
-#### Motivation
+### Motivation
 
 Tázîtha is driven by the desire to master her craft and secure a stable future. The uncertainties of life in charcoaler work keep her vigilant and adaptable.
 
-#### Strengths
+### Strengths
 
 Highly skilled at producing high-quality charcoal, enjoys the physical work.
 
-### Social
+## Social
 
 Tázîtha is affiliated with None; prefers to work independently..
 
 As a Helionite charcoaler, Tázîtha occupies a recognized social niche within Heliónis society.
 
-### Companions
+## Companions
 
-#### Patrons
+### Patrons
 
 Tázîtha's primary patron is Local forges and herbalists who value the quality of her charcoal.. This relationship provides both opportunity and obligation.
 
-#### Enemies
+### Enemies
 
 Rival charcoalers who think the trade should be left to men.
 
-### Plot Hooks
+## Plot Hooks
 
 1. **The Charcoaler's Dilemma** — Tázîtha faces a professional crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Heliónis.
 

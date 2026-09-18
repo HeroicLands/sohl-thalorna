@@ -551,11 +551,11 @@ sohl:
     defaultCombatGroup: null
 ---
 
-## Appearance {#appearance}
+# Appearance {#appearance}
 
 Floréth Bránthira is a 45-year-old man who stands 6'4" tall and is broad and solidly built. He has a square face with angular cheekbones, a prominent forehead, and a sharp jaw that leads to a strong chin. His wide-set green eyes sit beneath heavy brows, lending him an open gaze. A strong nose and thin lips complete his features. He has olive skin with a weathered complexion. His black hair is short and swept back.
 
-## Dossier {#dossier}
+# Dossier {#dossier}
 
 Born in the Tarvénia region to a freeman family of Tarvénan heritage, Floréth Bránthira came into the world of the laborer (semi-skilled) through a combination of circumstance and aptitude.
 
@@ -563,37 +563,37 @@ Jarek has spent his life working in construction and manual labor. Known for his
 
 Now at 45 years of age, Floréth Bránthira has established himself as a known figure among the laborer (semi-skilled)s of Tarvénia. His reputation, for better or worse, precedes him in the circles where such things matter.
 
-### Psyche
+## Psyche
 
-#### Personality
+### Personality
 
 Can be overly critical, struggles with finer details of work.
 
-#### Motivation
+### Motivation
 
 Floréth is driven by the desire to master his craft and secure a stable future. The uncertainties of life in laborer (semi-skilled) work keep him vigilant and adaptable.
 
-#### Strengths
+### Strengths
 
 Physically strong, experienced in various labor roles, good leadership skills.
 
-### Social
+## Social
 
 Floréth is affiliated with Local Laborers' Union.
 
 As a Tarvénan laborer (semi-skilled), Floréth occupies a recognized social niche within Tarvénia society.
 
-### Companions
+## Companions
 
-#### Patrons
+### Patrons
 
 Floréth's primary patron is Local builders and contractors.. This relationship provides both opportunity and obligation.
 
-#### Enemies
+### Enemies
 
 Few; respected by his peers.
 
-### Plot Hooks
+## Plot Hooks
 
 1. **The Laborer (semi-skilled)'s Dilemma** — Floréth faces a professional crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Tarvénia.
 

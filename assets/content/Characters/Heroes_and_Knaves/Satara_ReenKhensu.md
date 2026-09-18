@@ -604,15 +604,15 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![[satrrnkhns|Satara Re'en'Khensu]]{float: top-left}
-
 **Home:** [[place-khensuret|Khensuret]]
 
-## Appearance {#appearance}
+# Appearance {#appearance}
+
+![[satrrnkhns|Satara Re'en'Khensu]]{float: top-left}
 
 Satara stands 6'0" tall with a medium build. She has rich copper skin, deep black hair, and brown eyes. Her features include an oval face, an aquiline nose, a tapered chin, elegantly curved brows.
 
-## Dossier {#dossier}
+# Dossier {#dossier}
 
 Born in the teak-rich highlands of the Empire of [[affiliation-empirtkhpr|Ta'Kheperu]], Satara learned the language of trees before she learned to read. Her mother, Khensu the Elder, was the first woman admitted to the Timberwrights' Guild in three generations, and Satara followed naturally in those footsteps. As a girl, she spent seasons learning to identify every species by bark, leaf, and the sound of an axe's bite, earning her journeyman's marks before her twentieth year.
 
@@ -620,19 +620,19 @@ Over the past decade, Satara has established herself as the most discerning timb
 
 Her devotion to Hórús the Voyager flows naturally from her work—she sees in each tree a potential journey, each grain a path waiting to be carved. She has begun mentoring younger craftspeople, particularly other women seeking to prove themselves in a traditionally male-dominated field, though she extends this guidance with the same rigorous standards by which she measures timber.
 
-### Psyche
+## Psyche
 
-#### Personality
+### Personality
 
 Satara possesses a contemplative nature, often found standing silently before a towering oak or pine, running her fingertips across its bark as though reading prophecy in its ridges. This meditative quality masks a passionate conviction about quality and craftsmanship. She speaks deliberately, choosing her words with the same precision she applies to her work, and harbors little patience for idle gossip or sloppy thinking. Yet beneath her austere exterior lies a dry wit that catches friends by surprise—her humor emerges like hidden grain revealed by a master carpenter's chisel.
 
 She is fiercely loyal to those she respects and unforgiving of incompetence or dishonesty. Her moral compass, guided by the voyager aspect of Hórús, points toward integrity and forward motion—she believes people, like wood, must constantly grow or risk becoming brittle and useless.
 
-#### Motivation
+### Motivation
 
 Satara drives toward a singular vision: to prove that excellence in the timberwrights' craft is not a matter of gender but of dedication, knowledge, and unwavering standards. She seeks to leave a legacy of apprentices—preferably women—who will continue elevating the craft long after her own hands grow too stiff to work. The knowledge she guards so carefully must not be lost to prejudice or dismissal.
 
-#### Strengths
+### Strengths
 
 - **Master of Tree Lore**: Possesses encyclopedic knowledge of wood species, growth patterns, and quality indicators. Can assess timber's integrity and optimal uses with uncanny accuracy.
 - **Rigorous Standards**: Her perfectionism ensures that only the finest materials leave her hands, creating demand for her expertise among the wealthiest craftspeople.
@@ -640,7 +640,7 @@ Satara drives toward a singular vision: to prove that excellence in the timberwr
 - **Physical Prowess**: Despite her precision work, possesses considerable strength and endurance for hauling, climbing, and the demanding physical labor of the timber trade.
 - **Teaching Ability**: Can convey complex knowledge of wood craft with patience, particularly to those she judges worthy of the knowledge.
 
-#### Weaknesses
+### Weaknesses
 
 - **Perfectionism Paralyzes**: Sometimes delays critical deliveries indefinitely while searching for wood that meets her impossibly exacting standards.
 - **Rigid Judgment**: Struggles to accept compromise or alternative approaches, viewing deviation from her methods as inherent failure.
@@ -648,27 +648,27 @@ Satara drives toward a singular vision: to prove that excellence in the timberwr
 - **Underestimates Economic Pressure**: Her focus on craft quality sometimes blinds her to the financial realities facing smaller craftspeople and merchants.
 - **Defensive About Gender**: While she doesn't seek sympathy, she can become brittle and sharp when she perceives doubts about her abilities based on sex rather than skill.
 
-### Social
+## Social
 
-#### Patrons
+### Patrons
 
 - **Master Theren of House Khenti**: A renowned shipwright who purchases premium timber exclusively from Satara and has publicly defended her expertise against skeptics.
 - **The Architect Imsaf**: The lead designer for the Ta'Kheperu's new administrative complex, who insists on Satara's involvement in all timber specifications.
 - **Merchant-Prince Nekheb**: A wealthy trader in fine furnishings who has built his reputation partly on using only materials vetted by Satara Re'en'Khensu.
 
-#### Enemies
+### Enemies
 
 - **Chaemwaset the Dismissive**: An aging master timberwright who refuses to acknowledge Satara's superior knowledge and spreads rumors that she succeeds only through her mother's connections rather than merit.
 - **The Quantity Merchants**: A loose coalition of timber dealers focused purely on volume, who view Satara's refusal to supply inferior wood as an affront to their profits.
 - **Guild Politics**: While not a personal enemy, the conservative faction within the Timberwrights' Guild resists her attempts to establish new standards for quality assessment.
 
-#### Affiliations
+### Affiliations
 
 - **Timberwrights' Guild of Ta'Kheperu**: A member in good standing, though she remains somewhat at odds with the old guard over admission standards and quality measures.
 - **The Circle of Hórús**: A devotional society of the Voyager's followers, where Satara serves as one of the lay teachers on journeys, transitions, and transformation.
 - **The Craft Collective**: An informal association of the finest artisans in the timber trade, who meet quarterly to share techniques and maintain standards.
 
-### Plot Hooks
+## Plot Hooks
 
 1. **The Foreign Commission**: A mysterious agent from the distant Kingdom of Vel'Khara arrives in Ta'Kheperu seeking timbers of unprecedented rarity and size for an unnamed noble patron. The payment offered is astronomical, but Satara discovers the wood is being sought for weapons—massive siege equipment designed to breach the walls of Ta'Kheperu's allies. She must decide whether to honor her craft above politics, and whether bringing this knowledge to the authorities will compromise her neutral reputation in the timber markets.
 

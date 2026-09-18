@@ -594,41 +594,41 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![[bazdrshhrn|Bazûdar Shahrûn]]{float: top-left}
+# Appearance {#appearance}
 
-## Appearance {#appearance}
+![[bazdrshhrn|Bazûdar Shahrûn]]{float: top-left}
 
 Bazûdar stands 6'3" tall with a medium build. He has dark tan skin, black hair, and dark amber eyes. His features include a diamond-shaped face, a prominent nose, a well-defined jawline, full lips, thick dark brows, angular cheeks. A distinguishing mark is a tattoo of a woman on the shoulder.
 
-## Dossier {#dossier}
+# Dossier {#dossier}
 
-### Background
+## Background
 
-#### Early Years in the Desert
+### Early Years in the Desert
 
 Bazûdar was born to the nomadic tribes of the Khazryn Desert, the second son of a herder family whose reputation for understanding animals was legendary even among the desert peoples. From childhood, he could communicate with horses and camels in ways that seemed almost mystical—animals responded to his presence with unusual calm and trust. His father, **Shahrûn the Wanderer**, taught him the ancient dialects and gestures that the desert peoples use to speak with creatures, and the tattoo on his shoulder bears a portrait of his mother, **Lethara of the Morning Star**, whom he lost to desert sickness when he was only seventeen.
 
-#### Trial and Transformation
+### Trial and Transformation
 
 At twenty, Bazûdar encountered the great warhorse **Ashenbrand**, an animal so wild and dangerous that it had killed three handlers and thrown a dozen more. Where others used force or fear, Bazûdar spent weeks simply sitting in silence near the horse, learning its rhythms, its fears, its nature. Gradually, Ashenbrand came to accept him, and eventually to trust him. That bond transformed Bazûdar's reputation—he became known as "the Whisperer," the one to whom dangerous animals could be entrusted. He spent his twenties and thirties traveling across the desert kingdoms, training noble steeds and wild beasts, growing wealthy from the patronage of desert lords and merchant princes.
 
-#### Settlement and Complication
+### Settlement and Complication
 
 Now in his middle years, Bazûdar has settled in a semi-permanent way, establishing himself as the primary animal trainer for the Khazryn farming communities. He has built a reputation for impossible feats—calming fractious oxen, training desert dogs, doctoring sick animals using herbal knowledge passed down through generations. Yet settlement has brought complications. The modern farming community increasingly demands efficiency and profit over the careful, time-intensive relationship-building that Bazûdar considers essential to proper animal work. He finds himself frequently at odds with younger farmers, Town Administrator **Magister Caldus**, and modernizing forces that view his methods as antiquated.
 
-### Psyche
+## Psyche
 
-#### Personality
+### Personality
 
 Bazûdar is taciturn and contemplative, a man of few words who communicates more through gesture, presence, and direct action than through speech. He is patient to the point of seeming sluggish to those unfamiliar with him, capable of standing in absolute stillness for hours, observing, absorbing information before acting. Yet those who know him recognize that this apparent passivity masks profound decisiveness—when he acts, he does so with certainty and commitment. He possesses a deep, almost spiritual connection to animals that extends to genuine empathy—he experiences animal pain and fear as his own, and cannot abide cruelty without responding. His stubbornness is legendary; once his mind is set, nearly nothing can move him.
 
 He is haunted by loss—the deaths of animals under his care, and the perpetual sense that the world is moving too quickly, abandoning the old ways and relationships that he considers sacred. There is a melancholy to him, a sense that he is an anachronism, clinging to values that the younger generation no longer understands or values.
 
-#### Motivation
+### Motivation
 
 Bazûdar is driven by a desire to preserve the ancient relationship between human and animal that predates civilization's mechanization—the covenant of care and trust that he believes reflects the highest good. He works to train animals in ways that honor their nature rather than merely forcing their obedience. He seeks to prove that the old ways remain relevant, that patience and relationship can accomplish what force and haste cannot. Beneath this noble motivation lies a personal grief: he works with animals partly because they are easier than humans, because they respond to sincerity in ways that people have grown too complex to match. He fears that he is preserving a world that is already dead, and that his life's work will be forgotten within a generation of his death.
 
-#### Strengths
+### Strengths
 
 - **Supernatural Way with Animals**: Animalcraft (16), the pinnacle of his skills, represents a near-magical affinity for understanding and working with creatures. He can calm the most dangerous animals, diagnose illnesses through subtle behavioral cues, and establish bonds that make animals willing to endure hardships for him. His empathetic connection to animal nature is genuinely exceptional.
 
@@ -642,7 +642,7 @@ Bazûdar is driven by a desire to preserve the ancient relationship between huma
 
 - **Fearsome in Combat**: His Initiative (13), natural Strength and Endurance, and willingness to engage make him dangerous in direct confrontation, though he avoids violence when possible. His opponents often underestimate him until they face his physical power.
 
-#### Weaknesses
+### Weaknesses
 
 - **Poor Eloquence and Charm**: Eloquence (9) and Charm (11) are genuine liabilities. He struggles to advocate for his position verbally, and his taciturn nature can be misinterpreted as stubbornness, hostility, or incompetence. He cannot easily talk his way out of conflicts or persuade those inclined toward skepticism.
 
@@ -654,9 +654,9 @@ Bazûdar is driven by a desire to preserve the ancient relationship between huma
 
 - **Social Isolation and Difficulty with Human Relationships**: His preference for animal company leaves him emotionally isolated. He has few genuine human friendships, and his inability to communicate clearly makes intimate relationships nearly impossible. His loneliness is profound.
 
-### Social
+## Social
 
-#### Patrons
+### Patrons
 
 - **Desert Lord Malik Shadowstep**: A wealthy noble who has employed Bazûdar for two decades to manage his prized herd of racing camels. Malik respects Bazûdar's methods and pays generously, providing one of his most reliable sources of income and social legitimacy.
 
@@ -664,7 +664,7 @@ Bazûdar is driven by a desire to preserve the ancient relationship between huma
 
 - **The Village Healer Senna**: An older woman who has recognized that Bazûdar is fundamentally lonely and has made subtle attempts to include him in village social life. She brings him meals occasionally and treats his injuries, maternal in her concern without being patronizing.
 
-#### Enemies
+### Enemies
 
 - **Magister Caldus**: The ambitious Town Administrator who views Bazûdar's traditional methods as an obstacle to progress and modernization. Caldus has been quietly working to impose regulations that would force Bazûdar to adopt new training techniques and potentially strip him of his authority. Caldus is also motivated by jealousy—Bazûdar commands more genuine respect than Caldus despite his lower social status.
 
@@ -672,13 +672,13 @@ Bazûdar is driven by a desire to preserve the ancient relationship between huma
 
 - **Rival Trainer Vex Ironhoof**: A younger animal trainer who has adopted harsh, forceful methods that produce quick results. Vex views Bazûdar as weak and outdated, and their ideological conflict has become personal. Vex deliberately undercuts Bazûdar's prices and spreads rumors that his methods are ineffective.
 
-#### Affiliations
+### Affiliations
 
 - **The Farmers' Cooperative of Khazryn**: Bazûdar holds membership and the respect of most members, though the organization is increasingly divided between traditionalists who support him and modernizers who view him as an impediment.
 
 - **The Desert Shamanic Circle**: An informal collective of spiritual practitioners who maintain the ancient traditions of desert magic and ritual. Bazûdar participates in their ceremonies, though his primary commitment remains his work with animals rather than explicit magical practice.
 
-### Plot Hooks
+## Plot Hooks
 
 1. **The Plague of Unnatural Aggression**: Animals throughout the region begin behaving in aberrant ways—normally docile creatures become violently aggressive, herd animals refuse to eat, and wild creatures encroach on settlements in ways that suggest coordinated malevolence. The conventional experts attribute this to disease or mismanagement, but Bazûdar senses something darker at work. Investigation reveals that a dark practitioner has placed a curse upon the animals, and only Bazûdar's unique understanding of animal nature can identify and counter it. Breaking the curse will require shamanic work and potentially alliances with practitioners he distrusts.
 

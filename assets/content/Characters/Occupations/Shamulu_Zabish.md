@@ -551,11 +551,11 @@ sohl:
     defaultCombatGroup: null
 ---
 
-## Appearance {#appearance}
+# Appearance {#appearance}
 
 At thirty-nine, Shamûlû Zabîsh appears a decade older than his actual age, worn down by relentless exposure to human suffering. His gray hair, prematurely aged, is kept short and practical—no vanity in this man, though his careful grooming suggests discipline if not self-regard. His face is sharp-featured, almost ascetic, with deep lines around his hazel eyes that speak of years spent in close focus: reading medical texts, examining wounded patients, witnessing death. There is a gentleness in his expression that seems almost incongruous with his intimidating stature—he stands nearly six feet tall with the solid build of someone who has performed physical labor all his life, yet he moves with the careful precision of a healer, as if aware that his size could frighten the vulnerable people he serves. His olive skin bears the marks of his work: small scars, minor burns from herbal preparations, permanent stains from medicines that will not wash away. He wears the simple robes of a temple healer, practical rather than ceremonial, often carrying a well-worn leather satchel containing the tools of his trade.
 
-## Dossier {#dossier}
+# Dossier {#dossier}
 
 Shamûlû was born twenty years after Harad's declaration of independence from the Vylarian Empire, born into a freeman family of modest means in Ashkabel. His early years coincided with a time of cautious optimism—the new oligarchy had not yet consolidated its control, and there remained genuine hope that Harad's revolutionary sacrifice might yield genuine freedom and prosperity for common people. He was apprenticed to an older healer at fourteen and showed immediate aptitude: his perception was sharp, his empathy genuine, and his hands steady in crisis.
 
@@ -563,7 +563,7 @@ The last fifteen years have been grinding. The Auric Compact's consolidation of 
 
 He came to the priesthood of Flórania almost incidentally, recognizing that the goddess of growth and fertility encompassed the healing he performed. The temple gave him some legitimacy and minor protection, though everyone in Ashkabel knew that his true authority came not from hierarchy but from the fact that everyone—oligarch, corsair, common laborer—might eventually need his ministrations. His gray hair is the visible cost of this knowledge: information that could destabilize the city, secrets that could end lives, the accumulated weight of knowing exactly how fragile the oligarchy's control truly is.
 
-### Psyche
+## Psyche
 
 Shamûlû is a man suspended between his genuine calling as a healer and his unwilling role as a repository of dangerous information. His phenomenal empathy (18) allows him to perceive not just his patients' physical ailments but the social and political realities that produced them. His extraordinarily high intrigue skill (80) is not his gift as much as it is his curse—he has learned to read the subtext beneath every interaction, to recognize when wounded men are military intelligence operatives, to understand the hidden connections between disparate patients.
 
@@ -573,7 +573,7 @@ He suffers from the moral weight of witnessing human suffering produced by syste
 
 His great strength is his absolute trustworthiness and his skilled hands. His great weakness is that he is emotionally depleted, burned out on human suffering, and increasingly aware that his commitments are irreconcilable. He cannot heal his way to justice. The realization has turned him inward; he speaks less each year and seems to recede further into himself, driven forward only by the fact that turning away from a suffering person remains unthinkable.
 
-### Social
+## Social
 
 Shamûlû's formal affiliation is with the Temple of Flórania in Ashkabel, a position that offers him some legitimacy and minimal resources. Yet his actual social authority derives not from the temple hierarchy but from his indispensable position in Ashkabel's complex political ecosystem. The oligarchs view him as a resource to be protected. The corsair networks know him as trustworthy. The merchant families consult him regarding family matters. The dispossessed and the desperate know him as the one person who will treat them without judgment or exploitation.
 
@@ -581,7 +581,7 @@ This positions him as uniquely isolated. He has no genuine peers in Ashkabel's p
 
 His status as a Freeman rather than a member of the formal nobility or merchant class initially seemed like a disadvantage. In practice, it has been essential to his ability to move between social strata. He is not beholden to any faction, which means all factions must treat him as neutrally as possible.
 
-### Companions
+## Companions
 
 **Patrons:**
 
@@ -593,7 +593,7 @@ His status as a Freeman rather than a member of the formal nobility or merchant 
 - **Magistrate Kael Orthar**, a rising figure in Ashkabel's oligarchic hierarchy who views Shamûlû's neutrality as insufficiently committed to their rule. He has been slowly pressuring the temple authorities to exert more control over the clinic's operations.
 - **The Shadow Broker**, a mysterious figure who operates in the intersices of Ashkabel's resistance networks and who has been attempting to pressure or leverage Shamûlû into providing information about the oligarchs' health vulnerabilities—a request Shamûlû has thus far refused at considerable personal risk.
 
-### Plot Hooks
+## Plot Hooks
 
 1. **The Lethal Patient** — A dying man arrives at Shamûlû's clinic bearing a fresh wound from an oligarchic enforcer. He is a resistance leader, and his death would cripple a faction already weakened by betrayal. The man asks Shamûlû to save him, knowing that his recovery will inevitably lead to Shamûlû being implicated in resistance activities. Shamûlû cannot refuse, but compliance will destroy his neutrality and potentially his clinic.
 

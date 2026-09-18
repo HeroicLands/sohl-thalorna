@@ -554,11 +554,11 @@ sohl:
     defaultCombatGroup: null
 ---
 
-## Appearance {#appearance}
+# Appearance {#appearance}
 
 Vérynna Brânwyld is a 34-year-old woman who stands 5'7" tall and is slender. She has a heart-shaped face with soft cheekbones, a wide forehead, and a strong jaw that leads to a pointed chin. Her round blue eyes sit beneath straight brows, lending her a candid gaze. A straight nose and narrow lips complete her features. She has medium-toned skin with a fair complexion. Her dark brown hair is twisted into an elaborate arrangement.
 
-## Dossier {#dossier}
+# Dossier {#dossier}
 
 Born in the Provènzia region to a freeman family of Provenzian heritage, Vérynna Brânwyld came into the world of the shaman through a combination of circumstance and aptitude.
 
@@ -566,37 +566,37 @@ Mira was chosen at a young age to train as a shaman, believed to possess a stron
 
 Now at 34 years of age, Vérynna Brânwyld has established herself as a known figure among the shamans of Provènzia. Her reputation, for better or worse, precedes her in the circles where such things matter.
 
-### Psyche
+## Psyche
 
-#### Personality
+### Personality
 
 Sometimes doubts her abilities and is hesitant to make decisions.
 
-#### Motivation
+### Motivation
 
 Vérynna is driven by the desire to master her craft and secure a stable future. The uncertainties of life in shaman work keep her vigilant and adaptable.
 
-#### Strengths
+### Strengths
 
 Skilled in divination, experienced in herbal medicine, strong spiritual connection.
 
-### Social
+## Social
 
 Vérynna is affiliated with Tribal Shamanic Circle.
 
 As a Provenzian shaman, Vérynna occupies a recognized social niche within Provènzia society.
 
-### Companions
+## Companions
 
-#### Patrons
+### Patrons
 
 Vérynna's primary patron is Tribal elders who mentor her in the shamanic traditions.. This relationship provides both opportunity and obligation.
 
-#### Enemies
+### Enemies
 
 Skeptics within the tribe who challenge her authority.
 
-### Plot Hooks
+## Plot Hooks
 
 1. **The Shaman's Dilemma** — Vérynna faces a professional crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Provènzia.
 

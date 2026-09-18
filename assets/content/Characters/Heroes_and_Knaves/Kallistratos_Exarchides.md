@@ -604,15 +604,15 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![[klstrtsxrchds|Kallistratos Exarchides]]{float: top-left}
+# Appearance {#appearance}
 
-## Appearance {#appearance}
+![[klstrtsxrchds|Kallistratos Exarchides]]{float: top-left}
 
 Kallistratos stands 6'2" tall with a medium build — long-limbed and lean, with the coiled energy of a man whose body has been shaped by the physical disciplines the Ordo Arcanis imposes on its combat-track practitioners. He has olive skin, dark brown hair worn loose to the shoulders, and brown eyes that catch the light with an unsettling warmth in certain angles — a common mark among Fire mages who have spent years channeling Pyréthos energy, though the Ordo's physicians insist it is merely a trick of pigmentation. His features are angular: an oblong face, a strong nose, a pronounced chin, a wide mouth, thick dark brows, and hollow cheeks that give him a gaunt intensity even when he is well-fed. The burn scarring across both palms and the backs of his hands is the kind that comes from years of direct arcane practice — channeling fire without sufficient warding, either through ambition or impatience. A thin scar along his left jaw is from something more mundane: a Quaesitorium field operation that went sideways in a border village two years ago.
 
 He dresses practically but with the understated quality of someone raised in a noble house that no longer has the wealth to match its habits: a well-cut worsted coat, good leather boots, bracers that serve both as arm protection and as anchoring points for warding sigils. The bronze-and-fire-opal focus he wears at his throat marks him as Sodalitas Pyréthos to anyone who knows what to look for, and the sigil ring on his right hand identifies his rank as Adeptus within the Ordo.
 
-## Dossier {#dossier}
+# Dossier {#dossier}
 
 Kallistratos was born into a well-respected family in Skoraz, one of the lesser cities of the Empire of Vylaria. The Exarchides house was historically influential — three generations back, his great-grandfather had served as a provincial magistrate, and the family name still carried weight in the local courts. But influence without wealth is a wasting condition, and the Exarchides had been declining for decades: land sold, alliances fraying, the family's seat in Skoraz growing shabbier while newer houses climbed past them. Kallistratos grew up surrounded by the trappings of fading grandeur — good furniture in rooms that needed repair, a family library that no one had added to in years, and a father who spoke of the Exarchides name as though it still opened doors that had, in fact, been quietly closed.
 
@@ -626,9 +626,9 @@ Magister Vaelethon — a veteran of the Sodalitas Pyréthos, a former Quaesitori
 
 The apprenticeship lasted eight years — the standard duration. Kallistratos passed his examinations at twenty-three and was elevated to Adeptus, licensed to practice independently. By Ordo standards, he was a success: a qualified Pyréthos practitioner with solid combat training, respectable theoretical knowledge, and the beginnings of a reputation for effectiveness in the field. By his own standards, he had barely started.
 
-### Background
+## Background
 
-#### The Fall of House Exarchides
+### The Fall of House Exarchides
 
 The blow fell during his final year as a Discipulus. Political intrigue, misalliances, and internal betrayals led to the collapse of House Exarchides. The details were sordid and predictable — a commercial venture backed by borrowed money, partners who proved faithless, debts called in by creditors who had been positioned to profit from the family's failure. Kallistratos's father, once a trusted bureaucrat in Skoraz's provincial administration, was disgraced and driven into obscurity. The family's remaining land was seized, their house in Skoraz sold to cover debts, and the Exarchides name — already faded — became something closer to a cautionary tale.
 
@@ -636,7 +636,7 @@ Kallistratos received the news at Velysâra, in the middle of his examination pr
 
 This conviction — that strength earned through mastery was the only true foundation — had always been present in Kallistratos's thinking. The family's destruction turned it from an inclination into an absolute.
 
-#### Myrine Kalypsos and the Black Flame
+### Myrine Kalypsos and the Black Flame
 
 It was in Velysâra, during the restless months after his elevation to Adeptus, that Kallistratos first encountered [[being-myrnklypss|Myrine Kalypsos]], a priestess of [[affiliation-blackflame|The Black Flame]]. Though Kallistratos was raised in the Flóranian tradition and had never given the Black Flame much thought, Myrine's philosophy struck a nerve. She didn't preach at him — she simply talked, asked questions, and listened. When he spoke of his family's downfall, she nodded and asked whether the houses that destroyed them had done so through moral virtue or through strength. When he described his vision of fire as a purifying force, she smiled and said he already understood what most people spent their lives denying. She never told him he was wrong about anything. She only made him feel that his instincts — that power was earned, that weakness invited ruin, that fire burned away what deserved to burn — were not just personal convictions but ancient truths that Vúlcan himself had ordained.
 
@@ -644,7 +644,7 @@ Kallistratos has not formally embraced the Black Flame. He still considers himse
 
 The Ordo would take a dim view of this association if it became known. The Ordo Arcanis maintains strict institutional neutrality in matters of religion, but the Black Flame's philosophy — that destruction is sacred, that the strong have a divine right to rule — runs directly counter to the Ordo's founding principle that arcane power must be regulated and controlled. An Adeptus drifting toward the Black Flame's theology of unrestricted power would attract Quaesitorium attention, and Kallistratos is not yet senior enough to survive that kind of scrutiny.
 
-#### Current Situation
+### Current Situation
 
 At thirty-four, Kallistratos operates as a field Adeptus out of the Velysâra chapter — taking assignments from the chapter council, conducting independent research when time permits, and building the reputation that will eventually qualify him for consideration as a Magister. His research focuses on ancient Pyréthos techniques — pre-Ordo fire magic from the era before the institution standardized (and, he believes, sanitized) arcane practice. He is convinced that the Fire mages of the old Helionite city-states wielded powers that the modern Ordo has either lost or deliberately suppressed, and that recovering these techniques is the key to genuine mastery.
 
@@ -652,9 +652,9 @@ This research puts him in tension with the Ordo's institutional conservatism. Th
 
 His personal quest remains the restoration of House Exarchides — not through the political maneuvering that failed his father, but through the accumulation of enough arcane power and institutional standing that the name cannot be ignored. He wants a seat on the chapter council, eventually the Concilium Magnum, and — though he would not yet say it aloud — the authority to reshape how the Ordo governs the practice of Pyréthos magic. Myrine, for her part, reads in his ambition the fulfillment of a prophecy she saw in the flames.
 
-### Psyche
+## Psyche
 
-#### Personality
+### Personality
 
 Kallistratos is a man of few words but intense passions. He is deeply loyal to his family and driven by a desire to restore their honor, but he views political maneuvering with disdain born of hard experience. He believes that true power comes not from alliances or wealth, but from the mastery of arcane forces — particularly the fire he has devoted his life to studying.
 
@@ -664,13 +664,13 @@ He is not yet aware of how thoroughly Myrine has shaped his thinking. He sees he
 
 Within the Ordo, he is respected for his raw talent and field competence but regarded with wariness by those who sense the volatility beneath the discipline. His cooking — an incongruous domestic skill he takes genuine pride in — is the one area where his intensity manifests as warmth rather than danger. He feeds his companions well, and the campfire meals he prepares are, by general agreement, unreasonably good for a man who sets things on fire for a living.
 
-#### Motivation
+### Motivation
 
 Kallistratos's immediate goal is the recovery of lost Pyréthos knowledge — the pre-Ordo fire techniques that he believes the institution has buried. He is convinced that these ancient methods, if mastered, would give him capabilities that the modern Ordo's standardized training cannot match, and that this mastery is the foundation on which everything else rests: reputation within the Sodalitas, eventual elevation to Magister, and the restoration of his family's standing.
 
 His deeper motivation — the one Myrine has identified and is carefully feeding — is transformation. Not just of himself or his family, but of the systems that failed them. The Ordo that regulates fire magic out of institutional fear. The Vylarian nobility that destroys families through debt and political manipulation. The empire that rewards cunning over strength. Kallistratos does not yet have a coherent political vision for this transformation, but the emotional conviction is fierce, and Myrine is patient.
 
-#### Strengths
+### Strengths
 
 Kallistratos is an exceptional Pyréthos practitioner — not yet at the Magister level, but operating at the high end of what an Adeptus can achieve. His talent for channeling fire energy is instinctive and powerful, and his training under Vaelethon gave him the control and tactical awareness to apply that power effectively in field situations. He combines raw arcane capability with competent melee combat skills, making him dangerous at multiple ranges — a combination the Quaesitorium values highly.
 
@@ -678,7 +678,7 @@ His intellect is sharp and creative, particularly in arcane theory. His discours
 
 He is physically capable — tall, fit, and trained in the Ordo's combat conditioning regimen. His endurance and willpower are above average, important qualities for a Pyréthos mage whose art demands sustained channeling of dangerous energies.
 
-#### Weaknesses
+### Weaknesses
 
 Kallistratos's most significant weakness is his contempt for institutional politics, which he regards as the domain of the weak and the dishonest. This contempt is emotionally satisfying but strategically crippling. Advancement within the Ordo requires exactly the kind of alliance-building, favor-trading, and careful positioning that he despises, and his refusal to engage with these realities means he is building his career on raw merit in a system that rewards political skill at least as much. Magister Vaelethon has tried to teach him this; Kallistratos has not listened.
 
@@ -688,33 +688,33 @@ His empathy is genuinely limited. He is not cruel, but he often fails to registe
 
 His association with Myrine Kalypsos is a growing liability. The Black Flame's philosophy is antithetical to the Ordo's founding principles, and if the nature of Myrine's influence became known to the Quaesitorium, Kallistratos would face investigation at minimum and sanction at worst. He does not recognize this risk because he does not recognize the extent of her influence.
 
-### Social
+## Social
 
-#### Patrons
+### Patrons
 
 - **Magister Vaelethon**: A veteran of the Sodalitas Pyréthos and former Quaesitorium operative, now a senior Magister on the Velysâra chapter council. Vaelethon served as Kallistratos's mentor during his Discipulus years and continues to guide his career, though increasingly from a distance as Kallistratos's independence — and his research into forbidden techniques — creates complications that Vaelethon must manage carefully. He sees genuine greatness in his former student, and he also sees the danger, and he is not certain which will win.
 
 - **Lady Eleneis of House Thalior**: A noblewoman with close ties to the imperial court, Lady Eleneis offers Kallistratos political support in exchange for his assistance in manipulating key figures within Vylaria. She is pragmatic, self-serving, and well-connected — precisely the kind of political operator that Kallistratos despises in theory and finds indispensable in practice. Her interest in him is transactional, but her connections could help him rebuild his family's fortunes if he is willing to play her game.
 
-#### Enemies
+### Enemies
 
 - **Archon Vaidros**: Once an ally of House Exarchides, Vaidros turned against them in their moment of need, hastening their downfall. Now a minor ruler on the empire's borders, Vaidros views Kallistratos as an insignificant remnant of a dead house. Kallistratos is determined to correct this assessment, permanently.
 
 - **The Guilded Talon**: A conservative faction within the Ordo Arcanis that monitors practitioners whose research strays into areas the institution considers dangerous. The Guilded Talon operates in the gray space between the formal Quaesitorium and the chapter councils' scholarly oversight — not an official body, but an informal network of Magistri across multiple Sodalitates who share the conviction that certain knowledge should remain suppressed. They view Kallistratos's pursuit of pre-Ordo Pyréthos techniques as reckless at best and heretical at worst, and they have begun taking steps to obstruct his research, discredit his findings, and — if necessary — ensure his career within the Ordo does not advance further.
 
-#### Affiliations
+### Affiliations
 
 - **The Ordo Arcanis**: Kallistratos's institutional home. He holds the rank of Adeptus within the Velysâra chapter, licensed to practice independently, with a voice in chapter meetings but no vote in governance. His standing within the chapter is mixed: respected for his field competence and arcane talent, watched with concern by the conservative Magistri who suspect his research agenda exceeds what an Adeptus should be pursuing.
 
 - **The Sodalitas Pyréthos**: His fellowship within the Ordo — the community of Fire mages who share his elemental affinity and his way of perceiving magic. Within the Sodalitas, Kallistratos has a growing reputation as a talented practitioner with dangerously ambitious research interests. The fellowship's meritocratic culture rewards his demonstrated capability, but its internal rivalries mean that every success also creates competitors who resent his rise.
 
-#### Companions
+### Companions
 
 - **[[being-phltsklfts|Philetos Kleftes]]**: The fire-sworn strategist, a tactician and planner who complements Kallistratos's directness with careful forethought.
 - **[[being-shdqbnrhmndplmtcblddncr|Shadiq ibn Rahman]]**: The diplomatic blade dancer, whose social skills and cultural fluency open doors that Kallistratos's temperament would keep firmly shut.
 - **[[being-myrnklypss|Myrine Kalypsos]]**: The mendicant priestess of the Black Flame, who travels with the group as a spiritual advisor and fire diviner. Her influence on Kallistratos is the most significant and least recognized danger in his life.
 
-### Plot Hooks
+## Plot Hooks
 
 1. **The Forgotten Forge of Velysâra**: Kallistratos uncovers references in pre-Ordo texts to an ancient forge hidden beneath the city of Velysâra — a facility used by Helionite fire mages before the Ordo's founding to craft arcane artifacts of extraordinary power. The knowledge of how to activate the forge has been lost for centuries — or suppressed by the Ordo, depending on who is telling the story. Recovering the forge's techniques could give Kallistratos capabilities that no modern Adeptus possesses, but the Guilded Talon has learned of his research and is actively working to stop him, and the Quaesitorium's interest in pre-Ordo magical sites makes any unsanctioned excavation a serious disciplinary risk.
 

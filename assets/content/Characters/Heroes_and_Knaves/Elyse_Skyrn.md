@@ -582,13 +582,13 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![[elyseskyrn|Elýsè Skýrn]]{float: top-left}
+# Appearance {#appearance}
 
-## Appearance {#appearance}
+![[elyseskyrn|Elýsè Skýrn]]{float: top-left}
 
 Elýsè is a slender young woman of twenty-seven with fair, lightly freckled skin, dark blonde hair that falls softly around her face, and striking green eyes. Her graceful demeanor and radiant charm add to her natural allure, making her both captivating and approachable. She carries herself with the quiet competence of someone who has seen the inside of too many wounds to be squeamish about anything.
 
-## Dossier {#dossier}
+# Dossier {#dossier}
 
 Elýsè Skýrn grew up as the daughter of an apothecary in a small village, learning the healing arts from her father and grandmother before she could read. Her natural aptitude for medicine and alchemy—combined with a charm that put even the most fearful patients at ease—led to her being sent to study in Béravel, Élavendre, where she received formal training in both conventional healing and alchemical science.
 
@@ -598,9 +598,9 @@ What Elýsè does not advertise is that her skills extend beyond conventional he
 
 Her relationship with Tórnis has recently added an unexpected complication to her carefully ordered life.
 
-### Background
+## Background
 
-#### Skills and Abilities
+### Skills and Abilities
 
 - **Healing**: Elýsè's core expertise. She is skilled in wound treatment, herbal remedies, poultices, surgical stitching, and the management of battlefield injuries. She is the reason the Silent Talon's casualty rate is remarkably low.
 - **Alchemy**: Formally trained in the preparation of potions, tonics, and elixirs. She can identify and process rare herbs and compounds, and is always experimenting with new formulations.
@@ -608,40 +608,40 @@ Her relationship with Tórnis has recently added an unexpected complication to h
 - **Hidden Arcane Talent**: Elýsè possesses genuine magical ability that she keeps carefully concealed. The nature and extent of this talent is known only to herself.
 - **Charm**: Elýsè has a bubbly, disarming manner that makes people trust her instinctively. This is not an act—she is genuinely warm—but it also serves as effective camouflage for the things she chooses not to reveal.
 
-### Psyche
+## Psyche
 
-#### Personality
+### Personality
 
 Elýsè is calm, resourceful, and empathetic, with an infectious optimism that lifts the spirits of those around her. She is focused on her work, valuing knowledge and skill above all else. Beneath the warmth, however, she is quietly guarded—she prefers to keep personal matters to herself and is cautious about letting others too close to the parts of her life she has chosen to hide.
 
-#### Motivation
+### Motivation
 
 Elýsè's primary goal is the discovery of new alchemical recipes, medical remedies, and techniques. She dreams of one day opening her own healing house, and everything she does with the Silent Talon is in service of that ambition. The band gives her access to rare herbs, unusual injuries, and the kind of field experience no academy could provide.
 
-#### Strengths
+### Strengths
 
 - **Healing**
 - **Alchemy**
 - **Herbalism**
 
-### Social
+## Social
 
-### Companions
+## Companions
 
 - **[[being-branwldrgr|Brànwâal Dôrgaar]]**: Captain of the Silent Talon.
 - **[[being-torniskbry|Tórnis Kúbrý]]**: Fellow band member; a developing romantic relationship.
 - **[[being-chlbrhydyn|Chéleb Rhýddýn]]**: Fellow band member.
 - **[[being-dornsyndlr|Dôren Sýndalr]]**: Fellow band member.
 
-#### Patrons
+### Patrons
 
 None.
 
-#### Enemies
+### Enemies
 
 Those who seek to control or exploit her knowledge—particularly anyone who might uncover her hidden arcane abilities.
 
-### Plot Hooks
+## Plot Hooks
 
 1. **The Hidden Gift**: Someone discovers—or suspects—Elýsè's concealed arcane talent. Whether it is a fellow mage who senses her power, an old acquaintance from Béravel, or an enemy who witnessed something she thought no one saw, Elýsè must decide whether to flee, fight, or finally reveal what she has been hiding.
 

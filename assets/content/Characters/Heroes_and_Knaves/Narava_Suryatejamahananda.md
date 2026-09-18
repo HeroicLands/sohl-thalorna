@@ -597,45 +597,45 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![[nrvsrytjmhnnd|Nárava Sūryatejamahānanda]]{float: top-left}
+# Appearance {#appearance}
 
-## Appearance {#appearance}
+![[nrvsrytjmhnnd|Nárava Sūryatejamahānanda]]{float: top-left}
 
 Nárava stands 6'2" tall with a heavy build. He has golden brown skin, jet black hair, and dark brown eyes. His features include a diamond-shaped face, a delicate nose, a rounded chin, an expressive mouth, golden brows, soft cheeks. A distinguishing mark is a tattoo of a compass on the chest.
 
-## Dossier {#dossier}
+# Dossier {#dossier}
 
-### Background
+## Background
 
-#### The Child of Light
+### The Child of Light
 
 Nárava was born to a merchant family of notable standing in the City-States of Vedyara, the first son in a line expected to carry on the family's lucrative trade in spices. However, at age seven, his life was transformed by a single encounter. His father took him to the workshop of **Master Dhavalakar**, the greatest glassworker in the known world, a man whose pieces were commissioned by temples and nobles across three continents. Nárava watched in complete absorption as Master Dhavalakar drew liquid light from the furnace on the end of a hollow pipe, and with nothing but the master craftsman's breath and skilled hands, transformed it into shapes of impossible beauty—flowers that seemed to bloom, animals that seemed poised to move, abstract forms that captured the essence of light itself.
 
 From that moment, Nárava knew his destiny. He renounced his inheritance and at age twelve apprenticed himself to Master Dhavalakar, beginning a decade-long journey of learning that would transform him from a wealthy merchant's son into a true craftsperson. His path through apprenticeship was rigorous—five years devoted entirely to basic techniques, understanding glass composition, learning to judge heat and viscosity by sight and instinct alone. He was not permitted to create anything of his own design for a full ten years.
 
-#### The Emerging Master
+### The Emerging Master
 
 By his late twenties, Nárava had become Master Dhavalakar's most accomplished student and eventual successor. When his master reached advanced age and could no longer work the furnaces, Nárava inherited not merely the workshop but the responsibility of maintaining the legacy of excellence that had defined it. He took the complementary name **Sūryatejamahānanda**—"the supreme light of the sun"—marking his ascension to master status, a name that honored both his lineage through Master Dhavalakar and his own vision of glasswork as the capture and transformation of divine light.
 
 Yet Nárava's ascension was not without shadow. His mastery of technique was absolute, but he struggled with the practical and financial aspects of running a successful workshop. He invested too much time and material in experimental pieces that yielded no commission, alienated potential patrons through his perfectionism and casual disregard for their timelines, and proved incapable of managing the apprentices and assistants necessary to handle the volume of work his reputation attracted.
 
-#### The Present Struggle
+### The Present Struggle
 
 Now thirty-seven years old, Nárava stands at a precarious crossroads. His reputation as a master craftsman is unquestionable—his pieces are sought by temples and the highest nobility, and his innovations in colored glass work and three-dimensional sculptural forms have influenced glassworkers throughout the known world. Yet his workshop teeters on financial instability. He carries considerable debt from failed experimental projects and lost investments, and his collaborators have increasingly grown impatient with his perfectionism. He has begun accepting commissions from lesser patrons simply to maintain basic solvency, compromising his standards in ways that trouble him deeply. The tension between his artistic vision and economic necessity grows more acute with each passing season.
 
-### Psyche
+## Psyche
 
-#### Personality
+### Personality
 
 Nárava is an artist first and a craftsman second, though these aspects intertwine inseparably in his work. He is passionate to the point of obsession about his craft, capable of discussing light refraction, glass composition, and the spiritual properties of color with an intensity that makes most people uncomfortable. He has little interest in the social courtesies that smooth human interaction, often offending patrons through his frank assessments of their aesthetic taste or his seeming indifference to their timelines and budgets.
 
 Yet beneath his difficult exterior lies a profound vulnerability. He worries constantly that he will never create the ultimate masterwork he envisions—the piece that perfectly captures the nature of light itself. This fear drives him to continual experimentation and to an almost pathological need for approval from those he respects. The scars on his hands are not merely occupational hazards but reminders of the price his craft demands, and he wears them as both badge and curse. In unguarded moments, he reveals a melancholy that suggests he views himself as fundamentally alone, separated from ordinary people by his obsession, forever reaching toward perfection he cannot quite grasp.
 
-#### Motivation
+### Motivation
 
 Nárava's primary motivation is the pursuit of an impossible ideal—to create a piece of glass that perfectly embodies the nature of light itself, that captures divinity in a material form. This quest is both his greatest strength and his deepest self-destructive tendency. Secondarily, he is driven by a need to prove that his path—abandoning wealth and merchant status for craft—was the correct choice, that the sacrifices he made were justified by the significance of what he creates. The financial struggles of his workshop threaten this sense of validation, as economic failure seems to contradict the importance he ascribes to his work.
 
-#### Strengths
+### Strengths
 
 - **Transcendent Technical Mastery**: Nárava's command of glassworking techniques is absolute. He can execute forms, colors, and effects that other glassworkers consider impossible, and his pieces represent the apex of the craft.
 
@@ -647,7 +647,7 @@ Nárava's primary motivation is the pursuit of an impossible ideal—to create a
 
 - **Aesthetic Judgment**: His eye for color, balance, and form is trained to a level that allows him to recognize excellence instantly and to identify subtle deficiencies that most would overlook.
 
-#### Weaknesses
+### Weaknesses
 
 - **Financial Recklessness**: Nárava's complete lack of interest in the business aspects of his craft has resulted in chronic financial instability. He spends lavishly on materials and equipment for experimental projects with no clear path to recouping costs, and he frequently extends work beyond contractual deadlines without negotiating additional compensation.
 
@@ -659,9 +659,9 @@ Nárava's primary motivation is the pursuit of an impossible ideal—to create a
 
 - **Emotional Fragility**: His moods swing dramatically, and criticism—even constructive feedback—can send him into periods of dark introspection during which he produces no work. He carries significant shame about his financial struggles and views them as personal failure.
 
-### Social
+## Social
 
-#### Patrons
+### Patrons
 
 - **The Temple of Jñānasūra, High Priestess Vidya**: The grand temple of the knowledge deity has commissioned Nárava for its sacred stained glass installations, which tell the stories of spiritual enlightenment through light and color. **High Priestess Vidya** views his work as a form of religious expression and provides him with a stipend that ensures basic financial stability for his workshop.
 
@@ -669,17 +669,17 @@ Nárava's primary motivation is the pursuit of an impossible ideal—to create a
 
 - **The Collegiate of Crystal Studies**: An academic institution devoted to the study of light, materials, and geometry, the Collegiate commissions research glass pieces from Nárava and provides him with laboratory access for experimental work, though the compensation is modest.
 
-#### Enemies
+### Enemies
 
 - **Master Surendar**: A rival glassworker of considerable skill who emerged from competing workshops, Surendar creates technically proficient work that appeals to merchants and minor nobles seeking quality at more affordable prices. Nárava views Surendar as a charlatan whose commercial success proves the degraded aesthetic tastes of the age, while Surendar has grown weary of being dismissed by Nárava and now actively competes for prestigious commissions as a matter of professional pride.
 
 - **Creditor Merchant Ashok**: A moneylender who has advanced Nárava substantial sums for equipment and materials, Ashok grows increasingly impatient with delays in repayment and has begun threatening to seize workshop assets to cover the debt. The relationship has soured from professional to actively hostile.
 
-#### Affiliations
+### Affiliations
 
 - **The Glassworkers' Guild of Vedyara**: Nárava maintains active membership and is respected as one of the foremost masters, though his rebellious attitude toward guild standards occasionally puts him at odds with the conservative guild leadership.
 
-### Plot Hooks
+## Plot Hooks
 
 1. **The Commission from Beyond**: A mysterious patron, reportedly from distant lands beyond the known trade routes, offers Nárava an extraordinary sum to create a specific piece—a glass sphere that somehow must capture the properties of a substance they describe in oblique, mystical terms. The commission both excites and troubles Nárava: the work seems aligned with his greatest ambitions, but the mysterious patron's vague specifications and hints at supernatural properties suggest this is no ordinary commission. Accepting means potentially abandoning his other work; refusing means passing up what could be his defining masterwork.
 

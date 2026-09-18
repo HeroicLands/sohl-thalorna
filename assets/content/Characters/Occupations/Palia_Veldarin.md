@@ -551,11 +551,11 @@ sohl:
     defaultCombatGroup: null
 ---
 
-## Appearance {#appearance}
+# Appearance {#appearance}
 
 Pália Véldarin is a 46-year-old woman who stands 6'0" tall and is of moderate build. She has a diamond face with broad cheekbones, a prominent forehead, and a rounded jaw that leads to a narrow chin. Her round brown eyes sit beneath straight brows, lending her a candid gaze. A slightly upturned nose and full lips complete her features. She has tanned skin with a clear complexion. Her gray hair is swept up and held with carved combs.
 
-## Dossier {#dossier}
+# Dossier {#dossier}
 
 Born in the Élavendre region to a freeman family of Élavendri heritage, Pália Véldarin came into the world of the domestic servant through a combination of circumstance and aptitude.
 
@@ -563,37 +563,37 @@ Agnes has served as a housemaid for several prominent families throughout her li
 
 Now at 46 years of age, Pália Véldarin has established herself as a known figure among the domestic servants of Élavendre. Her reputation, for better or worse, precedes her in the circles where such things matter.
 
-### Psyche
+## Psyche
 
-#### Personality
+### Personality
 
 Can be overly strict with junior servants, has little patience for laziness.
 
-#### Motivation
+### Motivation
 
 Pália is driven by the desire to master her craft and secure a stable future. The uncertainties of life in domestic servant work keep her vigilant and adaptable.
 
-#### Strengths
+### Strengths
 
 Skilled in household management, excellent at multitasking.
 
-### Social
+## Social
 
 Pália is affiliated with None; loyal only to her current employer..
 
 As a Élavendri domestic servant, Pália occupies a recognized social niche within Élavendre society.
 
-### Companions
+## Companions
 
-#### Patrons
+### Patrons
 
 Pália's primary patron is The noble family she currently serves.. This relationship provides both opportunity and obligation.
 
-#### Enemies
+### Enemies
 
 Few; most respect her work ethic, but some junior servants resent her strictness.
 
-### Plot Hooks
+## Plot Hooks
 
 1. **The Domestic Servant's Dilemma** — Pália faces a professional crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Élavendre.
 

@@ -552,11 +552,11 @@ sohl:
     defaultCombatGroup: null
 ---
 
-## Appearance {#appearance}
+# Appearance {#appearance}
 
 Waldaric Ríkhild is a 44-year-old man who stands 5'11" tall and is of moderate build. He has an angular face with wide-set cheekbones, a high forehead, and an angular jaw that leads to a strong chin. His deep-set blue eyes sit beneath heavy brows, lending him a watchful gaze. A prominent nose and curved lips complete his features. He has light skin with a ruddy complexion. His black hair is long and gathered with a leather thong.
 
-## Dossier {#dossier}
+# Dossier {#dossier}
 
 Born in the Vrystwald region to a freeman family of Varokhi heritage, Waldaric Ríkhild came into the world of the tentmaker through a combination of circumstance and aptitude.
 
@@ -564,37 +564,37 @@ Edric has been making tents and canvas goods for traveling merchants, soldiers, 
 
 Now at 44 years of age, Waldaric Ríkhild has established himself as a known figure among the tentmakers of Vrystwald. His reputation, for better or worse, precedes him in the circles where such things matter.
 
-### Psyche
+## Psyche
 
-#### Personality
+### Personality
 
 Slower at completing work than larger competitors, struggles with marketing.
 
-#### Motivation
+### Motivation
 
 Waldaric is driven by the desire to master his craft and secure a stable future. The uncertainties of life in tentmaker work keep him vigilant and adaptable.
 
-#### Strengths
+### Strengths
 
 Skilled at working with heavy fabrics, experienced in crafting durable tents.
 
-### Social
+## Social
 
 Waldaric is affiliated with Tentmakers' Guild.
 
 As a Varokhi tentmaker, Waldaric occupies a recognized social niche within Vrystwald society.
 
-### Companions
+## Companions
 
-#### Patrons
+### Patrons
 
 Waldaric's primary patron is Travelers and soldiers who need quality tents.. This relationship provides both opportunity and obligation.
 
-#### Enemies
+### Enemies
 
 Competitors who undercut his prices.
 
-### Plot Hooks
+## Plot Hooks
 
 1. **The Tentmaker's Dilemma** — Waldaric faces a professional crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Vrystwald.
 

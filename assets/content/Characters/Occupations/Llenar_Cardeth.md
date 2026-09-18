@@ -553,11 +553,11 @@ sohl:
     defaultCombatGroup: null
 ---
 
-## Appearance {#appearance}
+# Appearance {#appearance}
 
 Llénar Cárdeth is a 45-year-old man who stands 6'2" tall and is broad and solidly built. He has a heart-shaped face with broad cheekbones, a smooth forehead, and an angular jaw that leads to a firm chin. His large blue eyes sit beneath straight brows, lending him an expressive gaze. A straight nose and full lips complete his features. He has medium-toned skin with a smooth complexion. His silver hair is combed neatly to one side.
 
-## Dossier {#dossier}
+# Dossier {#dossier}
 
 Born in the Élavendre region to a freeman family of Élavendri heritage, Llénar Cárdeth came into the world of the ratter through a combination of circumstance and aptitude.
 
@@ -565,37 +565,37 @@ Garrick is a veteran ratter who has dedicated his life to controlling rat popula
 
 Now at 45 years of age, Llénar Cárdeth has established himself as a known figure among the ratters of Élavendre. His reputation, for better or worse, precedes him in the circles where such things matter.
 
-### Psyche
+## Psyche
 
-#### Personality
+### Personality
 
 Can be overly critical of newcomers, struggles with adapting to modern methods.
 
-#### Motivation
+### Motivation
 
 Llénar is driven by the desire to master his craft and secure a stable future. The uncertainties of life in ratter work keep him vigilant and adaptable.
 
-#### Strengths
+### Strengths
 
 Highly experienced, skilled in various trapping techniques, good mentor.
 
-### Social
+## Social
 
 Llénar is affiliated with None; operates independently..
 
 As a Élavendri ratter, Llénar occupies a recognized social niche within Élavendre society.
 
-### Companions
+## Companions
 
-#### Patrons
+### Patrons
 
 Llénar's primary patron is Farmers and local businesses needing assistance with rodent control.. This relationship provides both opportunity and obligation.
 
-#### Enemies
+### Enemies
 
 Few; well-respected but some may see him as too traditional.
 
-### Plot Hooks
+## Plot Hooks
 
 1. **The Ratter's Dilemma** — Llénar faces a professional crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Élavendre.
 

@@ -550,11 +550,11 @@ sohl:
     defaultCombatGroup: null
 ---
 
-## Appearance {#appearance}
+# Appearance {#appearance}
 
 Ázîta Râkhrîdês is a 34-year-old woman who stands 5'11" tall and is of moderate build. She has a diamond face with wide-set cheekbones, a broad forehead, and an angular jaw that leads to a square chin. Her round dark brown eyes sit beneath straight brows, lending her a candid gaze. A strong nose and thin lips complete her features. She has medium-toned skin with a sun-tanned complexion. Her black hair is flowing past her shoulders.
 
-## Dossier {#dossier}
+# Dossier {#dossier}
 
 Born in the Heliónis region to a noble family of Helionite heritage, Ázîta Râkhrîdês came into the world of the mercantyler through a combination of circumstance and aptitude.
 
@@ -562,37 +562,37 @@ Fiona is a savvy mercantyler who specializes in the import of spices and exotic 
 
 Now at 34 years of age, Ázîta Râkhrîdês has established herself as a known figure among the mercantylers of Heliónis. Her reputation, for better or worse, precedes her in the circles where such things matter.
 
-### Psyche
+## Psyche
 
-#### Personality
+### Personality
 
 Can be overly competitive, struggles with work-life balance.
 
-#### Motivation
+### Motivation
 
 Ázîta is driven by the desire to master her craft and secure a stable future. The uncertainties of life in mercantyler work keep her vigilant and adaptable.
 
-#### Strengths
+### Strengths
 
 Strong understanding of international trade, persuasive, well-connected.
 
-### Social
+## Social
 
 Ázîta is affiliated with Local Merchant's Guild.
 
 As a Helionite mercantyler, Ázîta occupies a recognized social niche within Heliónis society.
 
-### Companions
+## Companions
 
-#### Patrons
+### Patrons
 
 Ázîta's primary patron is Culinary experts and high-end restaurants seeking unique ingredients.. This relationship provides both opportunity and obligation.
 
-#### Enemies
+### Enemies
 
 Few; generally well-respected but has competitors in the spice trade.
 
-### Plot Hooks
+## Plot Hooks
 
 1. **The Mercantyler's Dilemma** — Ázîta faces a professional crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Heliónis.
 

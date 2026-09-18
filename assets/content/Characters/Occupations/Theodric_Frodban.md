@@ -550,11 +550,11 @@ sohl:
     defaultCombatGroup: null
 ---
 
-## Appearance {#appearance}
+# Appearance {#appearance}
 
 Theódric Fródbán is a 36-year-old man who stands 6'3" tall and is broad and solidly built. He has an angular face with prominent cheekbones, a high forehead, and a heavy jaw that leads to a broad chin. His wide-set gray eyes sit beneath prominent brows, lending him an open gaze. A straight nose and curved lips complete his features. He has fair skin with a rough complexion. His blonde hair is braided at the temples.
 
-## Dossier {#dossier}
+# Dossier {#dossier}
 
 Born in the Vrystwald region to a freeman family of Varokhi heritage, Theódric Fródbán came into the world of the miner through a combination of circumstance and aptitude.
 
@@ -562,37 +562,37 @@ Thrain has worked in the mines since he was a teenager, following in his father'
 
 Now at 36 years of age, Theódric Fródbán has established himself as a known figure among the miners of Vrystwald. His reputation, for better or worse, precedes him in the circles where such things matter.
 
-### Psyche
+## Psyche
 
-#### Personality
+### Personality
 
 Can be overly cautious, struggles with technical mining sohl.
 
-#### Motivation
+### Motivation
 
 Theódric is driven by the desire to master his craft and secure a stable future. The uncertainties of life in miner work keep him vigilant and adaptable.
 
-#### Strengths
+### Strengths
 
 Physically strong, experienced in mining techniques, good team player.
 
-### Social
+## Social
 
 Theódric is affiliated with Local Miners' Union.
 
 As a Varokhi miner, Theódric occupies a recognized social niche within Vrystwald society.
 
-### Companions
+## Companions
 
-#### Patrons
+### Patrons
 
 Theódric's primary patron is Local mining companies and merchants buying precious metals.. This relationship provides both opportunity and obligation.
 
-#### Enemies
+### Enemies
 
 Few; generally well-respected among peers.
 
-### Plot Hooks
+## Plot Hooks
 
 1. **The Miner's Dilemma** — Theódric faces a professional crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Vrystwald.
 

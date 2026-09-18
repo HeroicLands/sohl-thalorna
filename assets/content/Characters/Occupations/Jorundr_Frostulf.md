@@ -549,11 +549,11 @@ sohl:
     defaultCombatGroup: null
 ---
 
-## Appearance {#appearance}
+# Appearance {#appearance}
 
 Jörundr Frostulf is a 51-year-old man who stands 6'0" tall and is broad and solidly built. He has a broad face with soft cheekbones, a narrow forehead, and a strong jaw that leads to a broad chin. His round green eyes sit beneath heavy brows, lending him a candid gaze. A strong nose and narrow lips complete his features. He has fair skin with a fair complexion. His white hair is thick and unkempt.
 
-## Dossier {#dossier}
+# Dossier {#dossier}
 
 Born in the Nordheim region to a freeman family of Nordheimn heritage, Jörundr Frostulf came into the world of the jailer through a combination of circumstance and aptitude.
 
@@ -561,37 +561,37 @@ Halwyn has been a jailer for most of his life, working his way up from a guard t
 
 Now at 51 years of age, Jörundr Frostulf has established himself as a known figure among the jailers of Nordheim. His reputation, for better or worse, precedes him in the circles where such things matter.
 
-### Psyche
+## Psyche
 
-#### Personality
+### Personality
 
 Stubborn adherence to rules, slow to adapt to new methods.
 
-#### Motivation
+### Motivation
 
 Jörundr is driven by the desire to master his craft and secure a stable future. The uncertainties of life in jailer work keep him vigilant and adaptable.
 
-#### Strengths
+### Strengths
 
 Experienced, authoritative, strong sense of duty.
 
-### Social
+## Social
 
 Jörundr is affiliated with City Watch.
 
 As a Nordheimn jailer, Jörundr occupies a recognized social niche within Nordheim society.
 
-### Companions
+## Companions
 
-#### Patrons
+### Patrons
 
 Jörundr's primary patron is Senior prison officials who trust his judgment.. This relationship provides both opportunity and obligation.
 
-#### Enemies
+### Enemies
 
 Some inmates who have crossed paths with him more than once.
 
-### Plot Hooks
+## Plot Hooks
 
 1. **The Jailer's Dilemma** — Jörundr faces a professional crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Nordheim.
 

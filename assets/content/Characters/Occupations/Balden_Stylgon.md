@@ -550,11 +550,11 @@ sohl:
     defaultCombatGroup: null
 ---
 
-## Appearance {#appearance}
+# Appearance {#appearance}
 
 Bâlden Stýlgon is a 51-year-old man who stands 6'0" tall and is broad and solidly built. He has an oval face with soft cheekbones, a wide forehead, and a sharp jaw that leads to a pointed chin. His piercing green eyes sit beneath arched brows, lending him a penetrating gaze. A straight nose and full lips complete his features. He has fair skin with a fair complexion. His black hair is shoulder-length and loose. A notable feature is deep lines etched into a weathered brow.
 
-## Dossier {#dossier}
+# Dossier {#dossier}
 
 Born in the Provènzia region to a freeman family of Provenzian heritage, Bâlden Stýlgon came into the world of the skald through a combination of circumstance and aptitude.
 
@@ -562,37 +562,37 @@ Halvard is an older skald who has spent most of his life reciting epic poems and
 
 Now at 51 years of age, Bâlden Stýlgon has established himself as a known figure among the skalds of Provènzia. His reputation, for better or worse, precedes him in the circles where such things matter.
 
-### Psyche
+## Psyche
 
-#### Personality
+### Personality
 
 Resistant to changes in storytelling methods, struggles with new compositions.
 
-#### Motivation
+### Motivation
 
 Bâlden is driven by the desire to master his craft and secure a stable future. The uncertainties of life in skald work keep him vigilant and adaptable.
 
-#### Strengths
+### Strengths
 
 Experienced storyteller, powerful voice, respected elder.
 
-### Social
+## Social
 
 Bâlden is affiliated with Nordic Skalds' Guild.
 
 As a Provenzian skald, Bâlden occupies a recognized social niche within Provènzia society.
 
-### Companions
+## Companions
 
-#### Patrons
+### Patrons
 
 Bâlden's primary patron is Wealthy Nordic families who prefer traditional tales.. This relationship provides both opportunity and obligation.
 
-#### Enemies
+### Enemies
 
 Younger skalds who see him as outdated.
 
-### Plot Hooks
+## Plot Hooks
 
 1. **The Skald's Dilemma** — Bâlden faces a professional crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Provènzia.
 

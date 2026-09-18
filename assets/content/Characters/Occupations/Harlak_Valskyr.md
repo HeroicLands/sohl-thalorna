@@ -553,11 +553,11 @@ sohl:
     defaultCombatGroup: null
 ---
 
-## Appearance {#appearance}
+# Appearance {#appearance}
 
 Hârlak Válskyr is a 38-year-old man who stands 6'1" tall and is broad and solidly built. He has a heart-shaped face with prominent cheekbones, a smooth forehead, and a narrow jaw that leads to a pointed chin. His round dark brown eyes sit beneath straight brows, lending him a candid gaze. An aquiline nose and expressive lips complete his features. He has medium-toned skin with a clear complexion. His brown hair is tied in a low tail.
 
-## Dossier {#dossier}
+# Dossier {#dossier}
 
 Born in the Provènzia region to a freeman family of Provenzian heritage, Hârlak Válskyr came into the world of the animal trainer through a combination of circumstance and aptitude.
 
@@ -565,37 +565,37 @@ A rugged animal trainer who works with hunting dogs. Braden has a talent for tam
 
 Now at 38 years of age, Hârlak Válskyr has established himself as a known figure among the animal trainers of Provènzia. His reputation, for better or worse, precedes him in the circles where such things matter.
 
-### Psyche
+## Psyche
 
-#### Personality
+### Personality
 
 Distrustful of people, hard to communicate with.
 
-#### Motivation
+### Motivation
 
 Hârlak is driven by the desire to master his craft and secure a stable future. The uncertainties of life in animal trainer work keep him vigilant and adaptable.
 
-#### Strengths
+### Strengths
 
 Great rapport with animals, strong endurance.
 
-### Social
+## Social
 
 Hârlak is affiliated with Hunter's Guild.
 
 As a Provenzian animal trainer, Hârlak occupies a recognized social niche within Provènzia society.
 
-### Companions
+## Companions
 
-#### Patrons
+### Patrons
 
 Hârlak's primary patron is Local lord who provides animals for training.. This relationship provides both opportunity and obligation.
 
-#### Enemies
+### Enemies
 
 Rival animal trainer who sabotages his efforts.
 
-### Plot Hooks
+## Plot Hooks
 
 1. **The Animal Trainer's Dilemma** — Hârlak faces a professional crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Provènzia.
 

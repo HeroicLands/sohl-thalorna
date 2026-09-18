@@ -597,31 +597,31 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![[kalidkrkss|Kalída Kourkásios]]{float: top-left}
+# Appearance {#appearance}
 
-## Appearance {#appearance}
+![[kalidkrkss|Kalída Kourkásios]]{float: top-left}
 
 Kalída stands 5'7" tall with a light build. She has light tanned skin, black hair, and green eyes. Her features include a narrow face, a aquiline nose, a pronounced chin, slightly pursed lips, strong brows.
 
-## Dossier {#dossier}
+# Dossier {#dossier}
 
 Born to the Kourkásios family, prosperous wine merchants of the Byzarian League, Kalída was expected to marry advantageously and manage household affairs. Instead, at age sixteen, she became obsessed with the ancient pottery techniques of the Old Kingdom, studying under the aging master potter **Artemios the Glazemaster** against her family's wishes. Her early works were technically flawless but cold, perfect imitations of classical forms. The true breakthrough came when a kiln fire damaged a batch of her work, causing the glazes to run and blend in unexpected ways—what she initially saw as catastrophic failure became the seed of her revolutionary technique.
 
 Within five years, her work had become renowned throughout the League and beyond. She established her own atelier, deliberately choosing a studio in the artisan quarter rather than accepting wealthy patronage that would have confined her. At twenty-nine, she has amassed a small fortune from commissions, though she pours most of her earnings back into experimentation and materials. Her greatest achievement is the development of a novel glaze formula that achieves unprecedented depth of color and a liquid-like quality that appears to move across the vessel's surface.
 
-### Psyche
+## Psyche
 
-#### Personality
+### Personality
 
 Kalída is animated and vivacious in social settings, with a charm that is entirely genuine rather than calculated. She is quick to laugh, passionate in her enthusiasms, and genuinely interested in people—particularly in understanding what drives them. However, beneath this warmth lies an ambitious core; she carefully cultivates relationships with wealthy collectors and influential patrons, always conscious of how each connection might serve her artistic vision. She is not cold or manipulative, but rather pragmatically aware that artistic genius alone does not guarantee success or resources.
 
 In her studio, she is a different person—intensely focused, sometimes to the point of losing track of time and neglecting sleep and meals. She can become frustrated when work does not match her mental vision, and her perfectionism occasionally manifests as harsh self-criticism. Yet these moments pass quickly, and she possesses a rare ability to laugh at her own failures and treat them as learning opportunities.
 
-#### Motivation
+### Motivation
 
 Kalída is driven by a vision of pushing the boundaries of what pottery can be—transforming it from mere functional craft into high art that rivals painting and sculpture in emotional resonance. She seeks recognition not for vanity but because validation of her artistic vision will grant her the freedom and resources to pursue ever more ambitious projects. She is also deeply motivated by the desire to prove that a woman from a merchant family can achieve lasting legacy through her own talent and determination, independent of marriage or male patronage.
 
-#### Strengths
+### Strengths
 
 - **Unparalleled Creativity**: With a Creativity score of 18, Kalída conceives of pottery forms and decorative techniques that others simply cannot imagine, allowing her to create genuinely revolutionary work.
 - **Master Technician**: Her Ceramics skill at 14 (with 5 multipliers) combined with Glassworking at 14 makes her technically excellent, capable of executing even her most ambitious visions.
@@ -629,7 +629,7 @@ Kalída is driven by a vision of pushing the boundaries of what pottery can be�
 - **Refined Aesthetic**: Her Drawing at 16 and understanding of composition allow her to design vessels of exceptional visual harmony.
 - **Physical Grace**: Her Dexterity of 15 and high Dancing score make her movements economical and assured, whether at the wheel or in formal settings.
 
-#### Weaknesses
+### Weaknesses
 
 - **Overly Ambitious**: She frequently takes on commissions beyond her current technical capacity, setting herself impossible deadlines that leave her exhausted and occasionally forcing her to disappoint patrons.
 - **Time Management Crisis**: Her Dexterity is high, but her actual ability to organize her schedule is poor. She regularly forgets appointments, misses deadlines, and neglects personal relationships in favor of studio work.
@@ -637,25 +637,25 @@ Kalída is driven by a vision of pushing the boundaries of what pottery can be�
 - **Limited Social Station**: Though talented, she remains a merchant's daughter in artisan garb. Some of the highest nobility disdain her as lacking proper breeding.
 - **Weak Combat Skills**: Her Strength and combat attributes are minimal; she is entirely helpless in physical confrontation.
 
-### Social
+## Social
 
-#### Patrons
+### Patrons
 
 - **Lord Archon Theodorus**: A wealthy collector and patron of the arts who has commissioned several major pieces and provides her with occasional capital for experiments.
 - **The Byzarian Merchant Consortium**: Her family's organization, which, despite initial disapproval, now takes pride in her success and occasionally sponsors commissions for diplomatic gifts.
 - **Master Artemios**: Though retired, her elderly teacher remains her confidant and advisor, and she still seeks his input on technically difficult glazing problems.
 
-#### Enemies
+### Enemies
 
 - **The Conservative Artisans' Guild Faction**: Traditional potters view her revolutionary techniques as a threat to established standards and have worked to exclude her from certain prestigious exhibitions.
 - **Rival Artist Makedonis**: A jealous sculptor who was once romantically involved with Kalída and now actively spreads rumors about her methods being "mere trickery" rather than true art.
 
-#### Affiliations
+### Affiliations
 
 - **The Artisans' Guild of Byzaría**: Despite occasional friction with traditionalists, she maintains official membership and participates in guild exhibitions.
 - **The Circle of Innovators**: A loose association of artists, craftspeople, and patrons committed to progressive techniques and challenging classical orthodoxy.
 
-### Plot Hooks
+## Plot Hooks
 
 1. **The Stolen Formula**: A rival workshop in a neighboring city has somehow obtained Kalída's precise glazing formula and is now producing near-perfect copies of her work at significantly lower cost, flooding the market and destroying her competitive advantage. She must determine how the theft occurred while fighting to maintain her reputation and differentiate her work from the imitations.
 

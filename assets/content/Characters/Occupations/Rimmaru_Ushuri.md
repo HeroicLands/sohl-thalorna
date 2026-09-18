@@ -550,11 +550,11 @@ sohl:
     defaultCombatGroup: null
 ---
 
-## Appearance {#appearance}
+# Appearance {#appearance}
 
 Rimmârû Ushûrî is a 30-year-old woman who stands 5'11" tall and is slender. She has a long face with broad cheekbones, a smooth forehead, and an angular jaw that leads to a strong chin. Her large hazel eyes sit beneath straight brows, lending her an expressive gaze. A prominent nose and curved lips complete her features. She has olive skin with a sun-kissed complexion. Her dark brown hair is braided and coiled at the nape.
 
-## Dossier {#dossier}
+# Dossier {#dossier}
 
 Born in the Harad region to a noble family of Haradian heritage, Rimmârû Ushûrî came into the world of the perfumer through a combination of circumstance and aptitude.
 
@@ -562,37 +562,37 @@ Althea is a talented perfumer known for her exquisite fragrances. She inherited 
 
 Now at 30 years of age, Rimmârû Ushûrî has established herself as a known figure among the perfumers of Harad. Her reputation, for better or worse, precedes her in the circles where such things matter.
 
-### Psyche
+## Psyche
 
-#### Personality
+### Personality
 
 Can be overly critical of her work, struggles with the business side of her craft.
 
-#### Motivation
+### Motivation
 
 Rimmârû is driven by the desire to master her craft and secure a stable future. The uncertainties of life in perfumer work keep her vigilant and adaptable.
 
-#### Strengths
+### Strengths
 
 Highly creative, skilled in fragrance blending, excellent communicator.
 
-### Social
+## Social
 
 Rimmârû is affiliated with Local Artisans' Guild.
 
 As a Haradian perfumer, Rimmârû occupies a recognized social niche within Harad society.
 
-### Companions
+## Companions
 
-#### Patrons
+### Patrons
 
 Rimmârû's primary patron is Nobles and affluent clients seeking bespoke perfumes.. This relationship provides both opportunity and obligation.
 
-#### Enemies
+### Enemies
 
 Few; respected in her field, though some competitors may envy her success.
 
-### Plot Hooks
+## Plot Hooks
 
 1. **The Perfumer's Dilemma** — Rimmârû faces a professional crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Harad.
 

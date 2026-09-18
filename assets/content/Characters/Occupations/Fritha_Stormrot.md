@@ -545,11 +545,11 @@ sohl:
     defaultCombatGroup: null
 ---
 
-## Appearance {#appearance}
+# Appearance {#appearance}
 
 Frítha Stormrót is a 27-year-old woman who stands 5'11" tall and is of moderate build. She has an oval face with sharp cheekbones, a prominent forehead, and a broad jaw that leads to a strong chin. Her narrow blue eyes sit beneath thick brows, lending her a keen gaze. A strong nose and firm lips complete her features. She has medium-toned skin with a ruddy complexion. Her auburn hair is braided and coiled at the nape.
 
-## Dossier {#dossier}
+# Dossier {#dossier}
 
 Born in the Nordheim region to a freeman family of Nordheimn heritage, Frítha Stormrót came into the world of the ratter through a combination of circumstance and aptitude.
 
@@ -557,37 +557,37 @@ Lyra grew up in the city and learned the art of rat catching from her father. Sh
 
 Now at 27 years of age, Frítha Stormrót has established herself as a known figure among the ratters of Nordheim. Her reputation, for better or worse, precedes her in the circles where such things matter.
 
-### Psyche
+## Psyche
 
-#### Personality
+### Personality
 
 Can be overly focused on her work, struggles with trust in others.
 
-#### Motivation
+### Motivation
 
 Frítha is driven by the desire to master her craft and secure a stable future. The uncertainties of life in ratter work keep her vigilant and adaptable.
 
-#### Strengths
+### Strengths
 
 Agile and quick, skilled in using traps, adept at handling animals.
 
-### Social
+## Social
 
 Frítha is affiliated with None; operates independently..
 
 As a Nordheimn ratter, Frítha occupies a recognized social niche within Nordheim society.
 
-### Companions
+## Companions
 
-#### Patrons
+### Patrons
 
 Frítha's primary patron is Local businesses and households dealing with rat problems.. This relationship provides both opportunity and obligation.
 
-#### Enemies
+### Enemies
 
 Few; well-liked in her community, though some rats remain elusive.
 
-### Plot Hooks
+## Plot Hooks
 
 1. **The Ratter's Dilemma** — Frítha faces a professional crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Nordheim.
 

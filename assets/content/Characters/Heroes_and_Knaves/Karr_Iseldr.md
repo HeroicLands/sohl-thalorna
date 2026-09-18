@@ -589,43 +589,43 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![[karriseldr|Kárr Íseldr]]{float: top-left}
+# Appearance {#appearance}
 
-## Appearance {#appearance}
+![[karriseldr|Kárr Íseldr]]{float: top-left}
 
 Kárr stands 5'8" tall with a medium build. He has light fair skin, dark brown hair, and brown eyes. His features include a rectangular face, a straight nose, a strong jawline, a small mouth, dark brows. A distinguishing mark is a scar above the left eyebrow.
 
-## Dossier {#dossier}
+# Dossier {#dossier}
 
-### Background
+## Background
 
-#### Humble Beginnings
+### Humble Beginnings
 
 Born into the family of a dyer in Vithgard's cloth district, young **Kárr** showed early aptitude for the textile crafts despite his parents' modest circumstances. At seven years old, he could already identify quality fabrics and demonstrated an almost preternatural understanding of how cloth draped on the human form. His parents apprenticed him to **Master Thorne Velwick**, a master tailor of considerable renown, when he was twelve. Under **Velwick's** stern but fair tutelage, **Kárr** spent a decade mastering not merely the mechanics of tailoring but the deeper philosophy—that clothing should respond to the body, enhance its natural lines, and serve as an expression of the wearer's essence.
 
-#### The Journeyman's Wandering
+### The Journeyman's Wandering
 
 Upon completing his apprenticeship at twenty-two, **Kárr** took the road as a journeyman, as was customary, seeking out master tailors throughout the kingdom and beyond. He spent five years traveling to cities across Vithgard and the neighboring realms, working in prestigious ateliers and learning the regional variations of his craft. In the capital, he studied under the legendary **Duchess's Court Tailor, Lavinia Thorne**; in the merchant cities, he learned the practical demands of outfitting nobility; in smaller towns, he discovered how to create elegance within modest constraints. It was during this period that he acquired the scar above his eyebrow—the result of a violent dispute over a commissioned gown that he refuses to discuss in detail, though it clearly shaped him profoundly.
 
-#### Master Craftsman and Merchant
+### Master Craftsman and Merchant
 
 Returning to Vithgard at twenty-seven, **Kárr** established his own atelier in the heart of the cloth district, near his childhood home. His reputation grew rapidly through a combination of exceptional craftsmanship and an almost mystical ability to understand what his clients truly needed, often creating designs that exceeded their stated desires. Nobility began commissioning pieces from him, then minor royalty, until his schedule became perpetually overbooked. He trained several apprentices, though none matched his own natural gifts—a fact that troubled him deeply, as he recognized his gift might pass from the world with him.
 
 Now approaching fifty, **Kárr** has achieved considerable financial success and social standing. He maintains a thriving business, a training atelier for promising young craftspeople, and a reputation for perfectionism that sometimes alienates clients but ultimately commands deep respect. Yet beneath this professional success lies a growing sense of melancholy—the awareness that commercial success has not filled a certain hollowness in his personal life.
 
-### Psyche
+## Psyche
 
-#### Personality
+### Personality
 
 **Kárr** is a man of passion held under disciplined control. He speaks thoughtfully and rarely, choosing his words with the same precision he applies to his needlework. He is deeply sensitive to beauty, harmony, and balance in all forms, not merely in textiles. He can spend hours discussing the theological implications of color or the emotional resonance of particular fabrics with those willing to engage in such conversation. Yet he maintains a quiet reserve, often seeming distant or lost in thought.
 
 He is a perfectionist to a degree that approaches self-sabotage. He will delay completing a garment for weeks if some minor element dissatisfies him, willing to risk disappointing patrons in service to his vision of excellence. This has earned him both fierce devotion from those who appreciate his dedication and considerable frustration from those who simply want their clothing on schedule. He has a dry, subtle wit that catches people off guard, and he experiences genuine joy when he encounters craftsmanship of quality in any field—a well-made saddle, a perfectly bound book, an exquisitely roasted meal.
 
-#### Motivation
+### Motivation
 
 **Kárr's** deepest motivation is fundamentally about creating beauty and meaning in a world he sees as increasingly chaotic and commercialized. He believes that craft—the careful application of skill and love to the creation of functional beauty—is a form of prayer, a way of honoring the sacred in the mundane. He is driven to perfect his craft not for recognition or wealth, though these have come, but because the pursuit of excellence itself feels like the highest calling available to him. Beneath this philosophical motivation lies a more personal hunger: the desire to be remembered, to leave something beautiful behind that will outlast him.
 
-#### Strengths
+### Strengths
 
 - **Master Tailor**: **Kárr's** technical skill in cutting, fitting, and constructing garments is essentially unmatched. He can create garments that fit the human form with extraordinary precision and beauty.
 - **Textile Knowledge**: His understanding of fabrics—their properties, origins, and potential—is encyclopedic. He can identify the quality, origin, and age of cloth at a glance and knows which materials will work for which purposes.
@@ -633,7 +633,7 @@ He is a perfectionist to a degree that approaches self-sabotage. He will delay c
 - **Dexterous Precision**: His exceptional dexterity and fine motor control allow him to execute techniques of extraordinary delicacy and complexity.
 - **Artisanal Leadership**: He is an excellent teacher and mentor despite his perfectionism, capable of recognizing and nurturing talent in others.
 
-#### Weaknesses
+### Weaknesses
 
 - **Physical Limitations**: **Kárr** possesses only moderate strength and stamina. Extended physical exertion leaves him exhausted, and he would be poorly suited to combat or labor of a strenuous nature.
 - **Obsessive Perfectionism**: His refusal to compromise or accept "good enough" often results in delays that damage his business and frustrate his clients. This perfectionism extends to his personal life, making it difficult for him to maintain relationships.
@@ -641,23 +641,23 @@ He is a perfectionist to a degree that approaches self-sabotage. He will delay c
 - **Inflexibility**: Once committed to a design or approach, **Kárr** can be remarkably stubborn about change, even when modification would serve the client better.
 - **Chronic Self-Doubt**: Despite his mastery, he perpetually questions whether his work is truly excellent enough, whether he is worthy of his reputation, whether each piece represents the best he could do.
 
-### Social
+## Social
 
-#### Patrons
+### Patrons
 
 - **Lord Aldwyn Voss**: A powerful noble and patron of the arts who regularly commissions elaborate ceremonial garments from **Kárr** and has been instrumental in establishing his reputation among the kingdom's elite. Their relationship is professionally cordial but personally distant.
 - **The Royal Costume Master**: An official appointment that requires **Kárr** to produce state garments for royal ceremonies, a prestigious but demanding obligation that commands significant portions of his creative energy.
 
-#### Enemies
+### Enemies
 
 - **Merchant-Tailor Halvin Greye**: A successful clothier who operates a larger, more commercially-focused atelier. **Greye** views **Kárr** as pretentious and elitist, while **Kárr** considers **Greye's** work mass-produced mediocrity. They compete fiercely for commissions from the lesser nobility.
 - **The Dyers' Consortium**: A commercial organization that controls much of the fabric supply in the region. **Kárr's** insistence on seeking out specific weavers and naturally-dyed fabrics has put him at odds with their pricing and availability demands.
 
-#### Affiliations
+### Affiliations
 
 - **City Tailors' Guild**: He holds a senior position within the guild and serves on its governing council, though his idealistic standards sometimes put him at odds with the more pragmatic membership.
 
-### Plot Hooks
+## Plot Hooks
 
 1. **The Legendary Loom**: **Kárr** becomes obsessed with locating a fabled loom said to have belonged to the legendary weaver **Isendra the Colorist**, a master craftsperson from before the Collapse whose work is described in near-mystical terms in ancient texts. He hires the party to search for evidence of its location, convinced that working at such a loom would allow him to create his masterwork—a garment that would represent the pinnacle of his artistic vision. The search takes them to hidden places where fragments of the old world remain preserved, but also reveals that others seek the loom for reasons less pure than artistic achievement.
 

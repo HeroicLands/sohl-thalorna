@@ -545,11 +545,11 @@ sohl:
     defaultCombatGroup: null
 ---
 
-## Appearance {#appearance}
+# Appearance {#appearance}
 
 Vanâdîs Kâserânis is a 28-year-old woman who stands 5'7" tall and is slender. She has an oval face with wide-set cheekbones, a high forehead, and a strong jaw that leads to a strong chin. Her piercing hazel eyes sit beneath heavy brows, lending her a penetrating gaze. A straight nose and firm lips complete her features. She has medium-toned skin with a smooth complexion. Her dark brown hair is pinned in an elegant twist.
 
-## Dossier {#dossier}
+# Dossier {#dossier}
 
 Born in the Vylaría region to a freeman family of Vylarian heritage, Vanâdîs Kâserânis came into the world of the courtesan through a combination of circumstance and aptitude.
 
@@ -557,37 +557,37 @@ Evelyne was born into poverty, but her charm and beauty allowed her to rise abov
 
 Now at 28 years of age, Vanâdîs Kâserânis has established herself as a known figure among the courtesans of Vylaria. Her reputation, for better or worse, precedes her in the circles where such things matter.
 
-### Psyche
+## Psyche
 
-#### Personality
+### Personality
 
 Vulnerable to social stigma, often keeps people at a distance emotionally.
 
-#### Motivation
+### Motivation
 
 Vanâdîs is driven by the desire to master her craft and secure a stable future. The uncertainties of life in courtesan work keep her vigilant and adaptable.
 
-#### Strengths
+### Strengths
 
 Charismatic, skilled at reading people, talented in dance and music.
 
-### Social
+## Social
 
 Vanâdîs is affiliated with None; prefers to remain independent..
 
 As a Vylarian courtesan, Vanâdîs occupies a recognized social niche within Vylaria society.
 
-### Companions
+## Companions
 
-#### Patrons
+### Patrons
 
 Vanâdîs's primary patron is Wealthy merchants and nobles who value her company.. This relationship provides both opportunity and obligation.
 
-#### Enemies
+### Enemies
 
 Rival courtesans who envy her popularity.
 
-### Plot Hooks
+## Plot Hooks
 
 1. **The Courtesan's Dilemma** — Vanâdîs faces a professional crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Vylaria.
 

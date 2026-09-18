@@ -550,11 +550,11 @@ sohl:
     defaultCombatGroup: null
 ---
 
-## Appearance {#appearance}
+# Appearance {#appearance}
 
 Shârûsh Kadûmû is a 34-year-old man who stands 5'10" tall and is of moderate build. He has a diamond face with wide-set cheekbones, a prominent forehead, and a narrow jaw that leads to a prominent chin. His sharp gray eyes sit beneath prominent brows, lending him an incisive gaze. A straight nose and full lips complete his features. He has golden skin with a sun-tanned complexion. His dark brown hair is short and swept back.
 
-## Dossier {#dossier}
+# Dossier {#dossier}
 
 Born in the Harad region to a freeman family of Haradian heritage, Shârûsh Kadûmû came into the world of the cook through a combination of circumstance and aptitude.
 
@@ -562,37 +562,37 @@ Cedric grew up on a farm and learned to cook using simple, local ingredients. Hi
 
 Now at 34 years of age, Shârûsh Kadûmû has established himself as a known figure among the cooks of Harad. His reputation, for better or worse, precedes him in the circles where such things matter.
 
-### Psyche
+## Psyche
 
-#### Personality
+### Personality
 
 Lacks experience with fine dining, sometimes underestimates his own talent.
 
-#### Motivation
+### Motivation
 
 Shârûsh is driven by the desire to master his craft and secure a stable future. The uncertainties of life in cook work keep him vigilant and adaptable.
 
-#### Strengths
+### Strengths
 
 Skilled at using local ingredients to create delicious dishes, strong work ethic.
 
-### Social
+## Social
 
 Shârûsh is affiliated with None, works independently at the tavern..
 
 As a Haradian cook, Shârûsh occupies a recognized social niche within Harad society.
 
-### Companions
+## Companions
 
-#### Patrons
+### Patrons
 
 Shârûsh's primary patron is Travelers and locals who frequent the tavern.. This relationship provides both opportunity and obligation.
 
-#### Enemies
+### Enemies
 
 None; he is well-liked and friendly with competitors.
 
-### Plot Hooks
+## Plot Hooks
 
 1. **The Cook's Dilemma** — Shârûsh faces a professional crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Harad.
 

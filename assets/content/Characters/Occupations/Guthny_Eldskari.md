@@ -554,11 +554,11 @@ sohl:
     defaultCombatGroup: null
 ---
 
-## Appearance {#appearance}
+# Appearance {#appearance}
 
 Guthný Eldskari is a 32-year-old woman who stands 6'0" tall and is of moderate build. She has a long face with wide-set cheekbones, a prominent forehead, and a heavy jaw that leads to a strong chin. Her wide-set green eyes sit beneath straight brows, lending her an open gaze. A straight nose and expressive lips complete her features. She has pale skin with a weathered complexion. Her dark brown hair is braided and coiled at the nape.
 
-## Dossier {#dossier}
+# Dossier {#dossier}
 
 Born in the Nordheim region to a freeman family of Nordheimn heritage, Guthný Eldskari came into the world of the laborer (farm) through a combination of circumstance and aptitude.
 
@@ -566,37 +566,37 @@ Thalia grew up in a family of laborers, working the fields from a young age. She
 
 Now at 32 years of age, Guthný Eldskari has established herself as a known figure among the laborer (farm)s of Nordheim. Her reputation, for better or worse, precedes her in the circles where such things matter.
 
-### Psyche
+## Psyche
 
-#### Personality
+### Personality
 
 Can be stubborn, occasionally struggles with more delicate tasks.
 
-#### Motivation
+### Motivation
 
 Guthný is driven by the desire to master her craft and secure a stable future. The uncertainties of life in laborer (farm) work keep her vigilant and adaptable.
 
-#### Strengths
+### Strengths
 
 Strong and resilient, excellent teamwork skills, dependable.
 
-### Social
+## Social
 
 Guthný is affiliated with Local Laborers' Union.
 
 As a Nordheimn laborer (farm), Guthný occupies a recognized social niche within Nordheim society.
 
-### Companions
+## Companions
 
-#### Patrons
+### Patrons
 
 Guthný's primary patron is Local farmers and builders who hire her for various projects.. This relationship provides both opportunity and obligation.
 
-#### Enemies
+### Enemies
 
 Few; well-respected in the community.
 
-### Plot Hooks
+## Plot Hooks
 
 1. **The Laborer (farm)'s Dilemma** — Guthný faces a professional crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Nordheim.
 

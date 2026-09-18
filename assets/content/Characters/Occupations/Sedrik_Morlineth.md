@@ -552,11 +552,11 @@ sohl:
     defaultCombatGroup: null
 ---
 
-## Appearance {#appearance}
+# Appearance {#appearance}
 
 Sédrik Mórlineth is a 49-year-old man who stands 6'3" tall and is broad and solidly built. He has a long face with soft cheekbones, a lined forehead, and a rounded jaw that leads to a firm chin. His hooded hazel eyes sit beneath arched brows, lending him a guarded gaze. A narrow nose and narrow lips complete his features. He has light skin with a weathered complexion. His black hair is long and gathered with a leather thong.
 
-## Dossier {#dossier}
+# Dossier {#dossier}
 
 Born in the Élavendre region to a freeman family of Élavendri heritage, Sédrik Mórlineth came into the world of the jailer through a combination of circumstance and aptitude.
 
@@ -564,37 +564,37 @@ Edric has been a jailer for over twenty years, working in the city’s largest p
 
 Now at 49 years of age, Sédrik Mórlineth has established himself as a known figure among the jailers of Élavendre. His reputation, for better or worse, precedes him in the circles where such things matter.
 
-### Psyche
+## Psyche
 
-#### Personality
+### Personality
 
 Gruff and unapproachable, struggles to separate work from his personal life.
 
-#### Motivation
+### Motivation
 
 Sédrik is driven by the desire to master his craft and secure a stable future. The uncertainties of life in jailer work keep him vigilant and adaptable.
 
-#### Strengths
+### Strengths
 
 Physically strong, experienced in maintaining order, calm under pressure.
 
-### Social
+## Social
 
 Sédrik is affiliated with City Watch.
 
 As a Élavendri jailer, Sédrik occupies a recognized social niche within Élavendre society.
 
-### Companions
+## Companions
 
-#### Patrons
+### Patrons
 
 Sédrik's primary patron is City officials who value his loyalty and service.. This relationship provides both opportunity and obligation.
 
-#### Enemies
+### Enemies
 
 Some prisoners who hold grudges against him.
 
-### Plot Hooks
+## Plot Hooks
 
 1. **The Jailer's Dilemma** — Sédrik faces a professional crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Élavendre.
 

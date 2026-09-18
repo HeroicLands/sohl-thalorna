@@ -587,41 +587,41 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![[timthngvls|Timothéon Gaválas]]{float: top-left}
+# Appearance {#appearance}
 
-## Appearance {#appearance}
+![[timthngvls|Timothéon Gaválas]]{float: top-left}
 
 Timothéon stands 5'11" tall with a medium build. He has light ruddy skin, gray hair, and olive-green eyes. His features include a long face, a strong nose, a strong jawline, a wide mouth, strong brows.
 
-## Dossier {#dossier}
+# Dossier {#dossier}
 
-### Background
+## Background
 
-#### Early Years
+### Early Years
 
 Born in 669 on the winter solstice, Timothéon was raised in the bustling port settlements of the Byzarian League, the son of a minor merchant family with deep roots in the trading guilds. From his youth, he showed an uncommon affinity with beasts and an intuitive sense for navigation, talents he cultivated under the watchful eye of his father and the grizzled veterans of the merchant caravans. By his teens, Timothéon had already embarked on his first trade runs, learning the intricate choreography of managing teams of draft animals and coordinating the logistical complexity of long-distance commerce.
 
-#### Mastery and Reputation
+### Mastery and Reputation
 
 For the past three decades, Timothéon has built an unparalleled reputation as the Byzarian League's most dependable teamster. His mastery extends far beyond mere animal husbandry—he is a skilled craftsman capable of fabricating repairs under field conditions, an intuitive navigator who reads landscape and weather with uncanny accuracy, and a seasoned diplomat equally comfortable negotiating with merchants and settling disputes among fractious crew members. His workshops are marvels of practical engineering, and his maintenance practices have become legendary among those who travel the merchant roads.
 
-#### Current Station
+### Current Station
 
 Now in his twilight years, Timothéon remains active but increasingly conscious of his diminishing stamina. He has begun mentoring younger teamsters in the Guild, sharing his vast accumulated knowledge while still taking on selective contracts from his most established patrons—merchants who have trusted him for decades and refuse to hire anyone but Timothéon for their most critical shipments. The walking stick he carries is both practical necessity and badge of earned authority; carved from hardwood and polished to a gleam, it serves as much as a symbol of his station as it does a functional aid.
 
-### Psyche
+## Psyche
 
-#### Personality
+### Personality
 
 Timothéon possesses the weathered wisdom of someone who has solved a thousand problems and learned to anticipate a thousand more. He is measured in speech, preferring to listen and observe before offering his thoughts, yet when he speaks it is with the authority of genuine expertise. His humor runs dry and practical, seasoned with the kind of hard-won irony that comes from decades of weathering misfortune and triumph in equal measure. Despite his advancing age, he maintains a keen eye for human nature and an almost paternal patience with younger folk, though he has little tolerance for foolishness or dishonesty. His deep faith in Jánus, god of order and boundaries, manifests in his meticulous organization and his belief in maintaining proper protocols—be they the maintenance schedules for wagon wheels or the proper hierarchy of respect among traveling companions.
 
 He is a creature of ritual and habit, finding comfort in routine and excellence, yet paradoxically adapts with impressive flexibility when circumstances demand improvisation. Those who know him well understand that beneath his gruff exterior beats a genuinely kind heart; he has quietly arranged aid for struggling teamsters and their families, and his regular patronage of the Cooks Guild has made him a beloved figure among those who provision the traveling merchants.
 
-#### Motivation
+### Motivation
 
 Timothéon is driven by a profound commitment to excellence and the preservation of knowledge. Every journey completed safely, every crew brought home unharmed, every inexperienced teamster trained in the proper arts—these are the measures of a life well-lived in his estimation. He is motivated also by a deep sense of obligation to the Byzarian League and its merchant traditions; he sees in his work not mere commerce but the lifeblood of civilization itself, the precious goods and ideas that bind distant peoples together. As he enters his final active years, he is increasingly focused on leaving behind a legacy—mentoring the next generation of teamsters who will carry forward the standards of excellence he has fought to maintain throughout his career.
 
-#### Strengths
+### Strengths
 
 - **Master Navigator**: Possesses an uncanny ability to read maps, weather patterns, and terrain, able to find optimal routes through nearly any landscape and predict dangers with remarkable accuracy.
 
@@ -635,7 +635,7 @@ Timothéon is driven by a profound commitment to excellence and the preservation
 
 - **Reliable Judgment**: His reputation is built on consistent, sound decision-making; he is trusted implicitly by major merchant families to protect their interests and livelihood.
 
-#### Weaknesses
+### Weaknesses
 
 - **Diminishing Stamina**: Age has caught up with him; he can no longer endure the grueling pace that once marked his journeys, struggling with extended periods of physical labor and limited rest.
 
@@ -647,9 +647,9 @@ Timothéon is driven by a profound commitment to excellence and the preservation
 
 - **Vulnerability to Manipulation**: His fundamental decency and habitual trust in those of good reputation can leave him vulnerable to cunning deception by those willing to exploit his faith in human virtue.
 
-### Social
+## Social
 
-#### Patrons
+### Patrons
 
 - **Merchant House Valdris**: One of the Byzarian League's most prominent trading families; they have exclusively employed Timothéon for their most valuable shipments for over twenty years and would accept no substitute.
 
@@ -659,19 +659,19 @@ Timothéon is driven by a profound commitment to excellence and the preservation
 
 - **Lady Merchant Theresia**: A younger merchant whose family was personally helped by Timothéon in her youth; she has grown into one of the League's major traders and remains fiercely loyal to the old teamster.
 
-#### Enemies
+### Enemies
 
 - **The Ravenswood Brigands**: A loose confederation of bandits who have targeted merchant caravans throughout the eastern trade routes; Timothéon famously refused their demands for tribute, leading to an ongoing vendetta that has made those routes increasingly dangerous for his shipments.
 
 - **Merchant Castellan Thorne**: A rival who rose through the ranks using cutthroat practices; he views Timothéon as an obstacle to modernization and has publicly disputed his methods, working to undermine the old teamster's reputation.
 
-#### Affiliations
+### Affiliations
 
 - **Teamsters' Guild**: A senior member whose counsel is regularly sought on matters of standards, training, and guild governance; he maintains a small workshop where junior teamsters are trained in proper maintenance and care of draft animals.
 
 - **The Order of Jánus**: A lay organization devoted to maintaining proper order and boundaries in commerce; Timothéon is a regular participant in their ritual observances and has served on their advisory council.
 
-### Plot Hooks
+## Plot Hooks
 
 1. **The Lost Caravan**: A major shipment from Merchant House Valdris vanished three weeks past on a route Timothéon has traveled safely a hundred times. The patrons initially assumed it was lost to Ravenswood brigands, but Timothéon's careful investigation suggests something far stranger—the caravan simply _disappeared_, leaving no trace of wreckage, bodies, or signs of struggle. Some of his younger proteges may have been traveling with that doomed convoy, and Timothéon is determined to discover what happened, even as darker implications surface: whispers of sorcery, rumors of a rival merchant deliberately sabotaging competitors, or worse—suggestions that Timothéon himself may have been responsible for the loss, a final test of his faculties before his inevitable retirement.
 

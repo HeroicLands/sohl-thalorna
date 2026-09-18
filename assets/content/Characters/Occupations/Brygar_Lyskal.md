@@ -527,11 +527,11 @@ sohl:
     defaultCombatGroup: null
 ---
 
-## Appearance {#appearance}
+# Appearance {#appearance}
 
 Brýgar stands 5'9" with a heavy, stocky frame — broad in the chest and thick in the arms, built like a man who has lifted barrels since childhood. His blonde hair is thick and slightly unkempt, and his blue eyes are bright and friendly in a ruddy, dark-complexioned face that flushes easily when he laughs, which is often. His features are round and open, with a broad nose and a wide mouth that seems built for smiling. He is not a handsome man in any refined sense, but there is a warmth to his appearance that puts people at ease. He wears the Chastèlclair merchant-quarter guard uniform — padded tunic, leather bracers, short sword and cudgel at his belt — and has a habit of rolling his sleeves up regardless of weather, exposing thick forearms tanned dark from years of outdoor patrol.
 
-## Dossier {#dossier}
+# Dossier {#dossier}
 
 Brýgar was born and raised in the Chastèlclair's merchant quarter, the son of a cloth merchant of modest success. He knows every street, every business, every family in his assigned patrol area because they are literally his neighborhood. He joined the guard at twenty-two not out of ambition but out of practical recognition that his community needed functional policing and he could provide it. He is suited for the work by temperament and by knowledge rather than by any sense of profound calling.
 
@@ -539,35 +539,35 @@ At twenty-seven, he has been working the merchant quarter for five years. He is 
 
 His frame is heavy but not weak—he moves like a man comfortable in his own body, and his blonde hair and ruddy complexion mark him as local. He is the kind of guard that small communities need: rooted in place, known to everyone, predictable but not rigid.
 
-### Psyche
+## Psyche
 
-#### Personality
+### Personality
 
 Brýgar is friendly and genuinely interested in the people in his patrol area. He knows the names of merchants, their families, their current struggles. This makes him seem soft to more aggressive guards, but it is actually sophisticated community policing. He is not easily angered and will engage in lengthy conversation to resolve issues rather than resorting to physical enforcement. He has a good-natured sense of humor and is well-liked.
 
-#### Motivation
+### Motivation
 
 Brýgar's primary motivation is simply maintaining his community's stability and safety. He has no ambitions for advancement or external validation. His secondary motivation is proving that effective policing is possible without authoritarianism or corruption. He genuinely believes that knowing people and treating them with dignity is more effective than force.
 
-#### Strengths
+### Strengths
 
 His knowledge of his patrol area is absolutely comprehensive. His ability to de-escalate conflict is exceptional. He is physically capable and would be a dangerous fighter if necessary, though he avoids confrontation. His emotional intelligence is significant.
 
-### Social
+## Social
 
 Brýgar is fully integrated into his community in ways that other guards are not. He is neighbor, friend, and authority figure all at once—a role that is easier to perform for him than for people outside his community.
 
-### Companions
+## Companions
 
-#### Patrons
+### Patrons
 
 **Merchant Councilor Davine Artois** — The senior merchant representative on the city council. Davine's business is in the merchant quarter and he knows Brýgar well. He has become a genuine patron, using his political influence to ensure Brýgar's assignment remains stable and that the merchant quarter receives adequate resources.
 
-#### Enemies
+### Enemies
 
 **Loan Merchant Kessian** — A wealthy financier who moved into the merchant quarter two years ago and has begun operating a predatory lending operation. Kessian's loans are technically legal but designed to fail, allowing him to seize properties and businesses when debtors cannot pay. Brýgar has watched Kessian systematically destroy established merchants, including families Brýgar has known his entire life. Kessian's operation is technically legal, which makes Brýgar's opposition to him ineffective. Kessian is aware of Brýgar's hostility and views him as an irrelevant nuisance.
 
-### Plot Hooks
+## Plot Hooks
 
 1. **The Predator's Trap** — Brýgar realizes that Kessian is targeting merchant families specifically and has learned to use his knowledge of their personal circumstances to craft loans that will inevitably fail. Kessian will own half the merchant quarter within a year. Brýgar attempts to warn the merchants, but they are often desperate enough that Kessian's loans appear to be their only option. Brýgar discovers that Kessian's methods are technically legal, though obviously immoral. He can attempt to lobby the city council for new regulations, but that will take months while Kessian continues destroying lives. He can warn merchants more aggressively, but risks seeming biased or interfering with legitimate business. He can attempt to discredit Kessian through investigation, but Kessian has left no clear legal violations.
 

@@ -558,13 +558,13 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![[dagulfvthr|Dágulf Véthar]]{float: top-left}
+# Appearance {#appearance}
 
-## Appearance {#appearance}
+![[dagulfvthr|Dágulf Véthar]]{float: top-left}
 
 Dágulf cuts a wretched figure on the forest road. He stands at middling height with a wiry, restless frame that never quite holds still — always shifting weight, always glancing over his shoulder. His brown hair hangs in matted ropes past his jaw, unwashed and uncared for, and his face is cratered with the pale scars of a childhood pox. What strikes most who meet him are his eyes: a startling ice-blue, bright and watchful in a face otherwise unremarkable. He wears a battered leather vest over rough cloth, a cowl of cracked hide pulled low, and carries himself with the coiled tension of a man accustomed to violence. His hands are never far from the club at his hip or the long dagger in his belt. He smells of woodsmoke, sweat, and something faintly sour — the smell of a man who sleeps rough in the dark pines of Vrystwald and trusts no one.
 
-## Dossier {#dossier}
+# Dossier {#dossier}
 
 Dágulf grew up the second son of a sheepherder among the Varokh clans of Vrystwald, born into serfdom in a small pastoral village on the empire's crumbling northern frontier. From an early age he showed a talent for avoiding work and a gift for convincing others to cover for him. His cousin, who served as clanhead, was easily manipulated, though his mother and older sister saw through every excuse. He would claim to be drilling with the militia or chasing strays when he was in fact sleeping in forest clearings beneath the ancient dark pines, dreaming of a life beyond the drudgery of the fields.
 
@@ -572,39 +572,39 @@ By fifteen, a cruel streak had surfaced. He began striking his father, then his 
 
 His years tracking lost sheep through the fog-filled valleys and hiding from chores served him well as a fugitive. He fell in with a roving band of runaway serfs preying on the old imperial trade road that threads through Vrystwald toward Vylaria, and within a season had murdered three of their strongest men in their sleep to seize control. The gang now operates along a stretch of that crumbling road, ambushing merchants and travelers in the shadow of ancient ruins under Dágulf's cold direction.
 
-### Psyche
+## Psyche
 
-#### Personality
+### Personality
 
 Dágulf is quiet, watchful, and deliberate in a way that unnerves those around him. He rarely raises his voice — he doesn't need to. Years of dominating through sudden violence have taught him that silence is more threatening than shouting. He has a dry, mocking humor that surfaces when he feels in control, and vanishes the moment he doesn't. Among his men he cultivates an aura of unpredictability, rewarding loyalty one day and punishing imagined slights the next. He is incapable of genuine trust and assumes everyone around him is scheming, because he always is.
 
-#### Motivation
+### Motivation
 
 Dágulf craves power and the fear it brings. He never wants to feel helpless again — not under his father's hand, not under the reeve's boot, not under any Vylarian lord's authority. Every robbery, every captive brought low, feeds a hunger that no amount of stolen silver can satisfy. Somewhere beneath the cruelty is a terrified boy who learned that the world only respects strength, and he will never be weak again.
 
-#### Strengths
+### Strengths
 
 He is a genuinely skilled fighter, particularly with a bow and in close-quarters melee. His dexterity and perception make him a dangerous ambush predator, and his high aura gives him an unsettling presence that keeps his gang in line. He knows the forest roads intimately and can vanish into the wilderness when pursuit comes.
 
-#### Weaknesses
+### Weaknesses
 
 Dágulf suffers from a moderate fear of dogs — a phobia rooted in a childhood mauling by a Vylarian lord's hounds — which can paralyze him at the worst moments. His indecisive will means he is prone to sudden panic when his plans unravel, and his low empathy and comeliness make it nearly impossible for him to operate in civilized settings without drawing suspicion. He is also deeply immoral, which limits his alliances to those who fear him.
 
-### Social
+## Social
 
-#### Patrons
+### Patrons
 
 None. Dágulf has no benefactors and trusts no authority.
 
-#### Enemies
+### Enemies
 
 The local Vylarian lord whose lands he raids has placed a bounty on his head. The Varokh village he fled still remembers his cruelty. Several members of his own gang resent his leadership and would betray him for the right price.
 
-#### Affiliations
+### Affiliations
 
 He leads a small gang of brigands — runaway Varokh serfs and petty criminals — who follow him out of fear rather than loyalty. The gang numbers between two and six men at any given time, as members die, flee, or are killed by Dágulf himself.
 
-### Plot Hooks
+## Plot Hooks
 
 1. **Ambush on the Imperial Road** — Dágulf and his brigands waylay the party while they travel a remote stretch of the old Vylarian trade road through Vrystwald. The bandits are well-positioned among the dark pines and crumbling milestones, and fight with desperate ferocity, but Dágulf will flee into the fog-filled valleys if the tide turns against him, leaving his men to die.
 

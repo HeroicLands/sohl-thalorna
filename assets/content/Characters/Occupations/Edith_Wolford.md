@@ -549,11 +549,11 @@ sohl:
     defaultCombatGroup: null
 ---
 
-## Appearance {#appearance}
+# Appearance {#appearance}
 
 Edith Wolford is a 29-year-old woman who stands 5'8" tall and is slender. She has an angular face with wide-set cheekbones, a prominent forehead, and a rounded jaw that leads to a rounded chin. Her sharp hazel eyes sit beneath expressive brows, lending her an incisive gaze. A straight nose and full lips complete her features. She has fair skin with a fair complexion. Her red hair is loose and wavy.
 
-## Dossier {#dossier}
+# Dossier {#dossier}
 
 Born in the Aelwyth region to a guilded family of Aelwythan heritage, Edith Wolford came into the world of the jeweler through a combination of circumstance and aptitude.
 
@@ -561,37 +561,37 @@ Liora discovered her talent for jewelry making while working as an apprentice in
 
 Now at 29 years of age, Edith Wolford has established herself as a known figure among the jewellers of Aelwyth. Her reputation, for better or worse, precedes her in the circles where such things matter.
 
-### Psyche
+## Psyche
 
-#### Personality
+### Personality
 
 Sometimes too experimental, struggles with pricing her work.
 
-#### Motivation
+### Motivation
 
 Edith is driven by the desire to master her craft and secure a stable future. The uncertainties of life in jeweler work keep her vigilant and adaptable.
 
-#### Strengths
+### Strengths
 
 Creative, skilled in design and metalwork, excellent customer service.
 
-### Social
+## Social
 
 Edith is affiliated with Local Jewellers' Guild.
 
 As a Aelwythan jeweler, Edith occupies a recognized social niche within Aelwyth society.
 
-### Companions
+## Companions
 
-#### Patrons
+### Patrons
 
 Edith's primary patron is Local artisans and collectors who value her unique pieces.. This relationship provides both opportunity and obligation.
 
-#### Enemies
+### Enemies
 
 None; generally well-liked in the community.
 
-### Plot Hooks
+## Plot Hooks
 
 1. **The Jeweler's Dilemma** — Edith faces a professional crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Aelwyth.
 

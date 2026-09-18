@@ -586,21 +586,21 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![[phltsklfts|Philetos Kleftes]]{float: top-left}
+# Appearance {#appearance}
 
-## Appearance {#appearance}
+![[phltsklfts|Philetos Kleftes]]{float: top-left}
 
 Philetos stands 5'11\" tall with a heavy build. He has olive weathered skin, dark brown hair, and brown eyes. His features include a long face, a prominent nose, a pronounced chin, a wide mouth, arched brows, high cheeks.
 
-## Dossier {#dossier}
+# Dossier {#dossier}
 
 Philetos Kleftes once served as a military strategist in Vylaria’s armies, renowned for his ability to devise bold, unorthodox strategies. His cunning earned him many victories, but his methods were seen as too destructive and unpredictable by the conservative military hierarchy. After a particularly devastating campaign where he employed fire as a weapon, burning an entire enemy fortress to the ground, Philetos was forced into exile, accused of reckless conduct. The experience only hardened his conviction that the empire’s leaders were weak men who feared the very tools that could save them—a conviction that drew him naturally to [[affiliation-blackflame|The Black Flame]] and its doctrine that might makes right.
 
 Bitter and exiled, Philetos turned to mercenary work, selling his tactical expertise to whoever could afford him. His faith in the Black Flame gave shape to his resentment: the empire hadn’t exiled him for being wrong, it had exiled him for being strong in a way it couldn’t control. When he met [[being-klstrtsxrchds|Kallistratos Exarchides]] at a political gathering in Velysâra, their shared fascination with fire as both a weapon and a tool for transformation brought them together. Philetos saw in Kallistratos a kindred spirit, someone willing to embrace the destructive power of fire to achieve greater goals. He believes that Kallistratos’s ambitions to reshape the empire through fire and arcane power align perfectly with his own desire for redemption and vengeance—and with the Black Flame’s vision of a world where strength, not politics, determines who rules.
 
-### Background
+## Background
 
-#### Skills and Abilities
+### Skills and Abilities
 
 - **Strength**: Philetos has spent years in battle, developing significant physical strength.
 - **Endurance**: His experience in long campaigns has given him remarkable stamina.
@@ -620,28 +620,28 @@ Bitter and exiled, Philetos turned to mercenary work, selling his tactical exper
 - **Warrior of Flame**: Philetos isn’t just a strategist—he has learned to use fire in battle, employing incendiary tactics such as firebombs and burning oil to enhance his combat abilities.
 - **Cold and Calculated**: Philetos has no qualms about using extreme measures to achieve victory. His strategic mind allows him to see opportunities where others see chaos, and he is unafraid to take risks if the potential rewards are high.
 
-### Psyche
+## Psyche
 
-#### Personality
+### Personality
 
 Philetos is pragmatic and ruthless, unafraid to make hard decisions or sacrifice others for the greater good. His experience with fire as a tool of war has made him appreciate both its power and its uncontrollable nature, and the Black Flame's teachings have given him a framework for what others might call cruelty: the weak fall so that the strong may build something better. Though he is fiercely loyal to Kallistratos, his moral flexibility often puts him at odds with others in the group.
 
-#### Motivation
+### Motivation
 
 Philetos seeks both personal redemption and revenge. He believes that helping Kallistratos harness the power of fire to restore his family’s status will not only lead to personal glory but also vindicate the Black Flame’s doctrine—proving that fire can be a weapon of genius, not madness, and that the empire was wrong to exile the man who understood this first.
 
-#### Strengths
+### Strengths
 
 - **Military Strategy**
 - **Swordsmanship**
 
-### Social
+## Social
 
-#### Enemies
+### Enemies
 
 rival faction
 
-### Plot Hooks
+## Plot Hooks
 
 1. **The Ashen Pact**: A rogue general from Vylaria’s armies approaches Philetos, offering him a position as their chief strategist for a campaign to conquer a rebellious province. The province holds significant cultural and personal meaning for Philetos, as it was once his family’s home. Accepting the offer could grant him a chance to restore his name, but at the cost of destroying his ancestral lands.
 

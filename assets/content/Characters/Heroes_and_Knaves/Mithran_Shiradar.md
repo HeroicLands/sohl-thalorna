@@ -572,13 +572,13 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![[mthrnshrdr|Mithran Shiradar]]{float: top-left}
+# Appearance {#appearance}
 
-## Appearance {#appearance}
+![[mthrnshrdr|Mithran Shiradar]]{float: top-left}
 
 Mithran stands 6'2" tall with a heavy build. He has tanned weathered skin, gray hair, and dark brown eyes. His features include a diamond-shaped face, a prominent nose, a strong jawline, slightly pursed lips, dark brows. A distinguishing mark is a scar from forehead to cheek across the left eye.
 
-## Dossier {#dossier}
+# Dossier {#dossier}
 
 Mithran Shiradar was born into the warrior caste of the Dunhara Tribes, the third son of Chieftain Rashad. Unlike his older brothers, who fought endlessly over matters of status and honor, Mithran proved himself through practical mastery rather than political maneuvering. He earned his first war wounds at sixteen, his first killing at seventeen. By his early twenties, he had established himself as a formidable warrior whose prowess could not be questioned.
 
@@ -586,19 +586,19 @@ When tribal leadership fell vacant at his father's death, his two older brothers
 
 For over thirty years, Mithran has held leadership, navigating the complex relationships between the Dunhara and the settled kingdoms, managing resource allocation across his tribe, and defending his territory against encroachment. He has faced assassination attempts, rival chieftains seeking to prove themselves against him, and the constant pressure of maintaining authority in a society that respects only strength and cunning. The scar across his eye is a reminder of a poison attempt by a rival that left him disfigured but alive—and significantly more paranoid.
 
-### Psyche
+## Psyche
 
-#### Personality
+### Personality
 
 Mithran is a man carved from difficult circumstances, pragmatic to the point of ruthlessness and cautious to the point of paranoia. He speaks with authority born from genuine experience, his words often few but always carrying weight. He makes decisions based on thorough analysis of advantage and risk, and he commits to those decisions completely. Yet he is not cold or unfeeling; those few he trusts know him to be capable of profound loyalty and unexpected gentleness.
 
 His paranoia is not irrational but born from genuine dangers he has navigated. He trusts no one implicitly, extends trust only to those who have proven themselves repeatedly, and remains perpetually alert to the possibility of betrayal. This has made him an effective leader but an exhausting presence, as everyone around him is perpetually aware that they are being assessed and judged. He holds grudges with a clarity of focus that is almost frightening—if someone wrongs him, they have marked themselves as his enemy until death, and he will pursue that vendetta with the patience of a man who measures time in decades.
 
-#### Motivation
+### Motivation
 
 Mithran is driven by a single, all-consuming purpose: the survival and dominance of his tribe. Every decision he makes is filtered through this lens. He is not ambitious for personal power but for tribal security and strength. He serves Zúráthrä, god of fertility and abundance, not through worship but through the practical reality of ensuring his tribe's continuation and prosperity. His motivation is rooted in a deep, almost spiritual belief that his role is to be the shield between his people and the countless dangers arrayed against them.
 
-#### Strengths
+### Strengths
 
 - **Master of Warfare**: Mithran's skill in combat is legendary throughout the region. He has killed more enemies than many warriors have faced, and his tactics are studied by military strategists across multiple realms.
 - **Exceptional Leadership**: He commands loyalty not through cruelty but through demonstrated competence and a genuine commitment to his tribe's welfare. His strategic decisions have consistently preserved and strengthened the Dunhara.
@@ -606,7 +606,7 @@ Mithran is driven by a single, all-consuming purpose: the survival and dominance
 - **Unassailable Authority**: His position as chieftain is secure not through force but through the genuine consensus of his people. Even rivals acknowledge his right to lead.
 - **Survival Instinct**: Mithran has survived assassination attempts, treachery, and combat that would have killed ordinary men. His instinct for danger is almost preternatural.
 
-#### Weaknesses
+### Weaknesses
 
 - **Paralyzing Paranoia**: His caution has sometimes prevented necessary action. His suspicion of others' motives can blind him to genuine opportunities for alliance.
 - **Limited Understanding of Complex Politics**: While he understands tribal dynamics and military strategy, he sometimes struggles with the labyrinthine politics of settled kingdoms and their courts.
@@ -614,26 +614,26 @@ Mithran is driven by a single, all-consuming purpose: the survival and dominance
 - **Aging Warrior**: While still formidable, his physical abilities have begun to decline. A younger, stronger opponent could potentially defeat him through attrition.
 - **Threat to Stability**: His very dominance and warrior nature mean that his death would likely trigger succession conflicts. He has no clear heir, and the question of his successor has become a source of increasing anxiety among his people.
 
-### Social
+## Social
 
-#### Patrons
+### Patrons
 
 - **The Council of Dunhara Tribal Elders**: The council that shares leadership responsibility with Mithran and provides legitimacy for his rule.
 - **The Spirit Keepers**: The shamans and ritual specialists of the tribe who maintain Mithran's spiritual authority and advise on matters of religious significance.
 
-#### Enemies
+### Enemies
 
 - **Kethrak the Challenger**: A rival chieftain from the neighboring Valdun tribes who has been systematically consolidating power and openly positioning himself as a future threat to Mithran's dominion. The two have never directly fought, but each respects the other's capabilities and recognizes that conflict is eventually inevitable.
 - **The Imperial Garrison at Northmarch**: The military outpost maintains nominal peace with the Dunhara, but recent commanders have proven hostile to tribal interests, leading to multiple border skirmishes and failed negotiations.
 - **Estheva, the Returning Son**: Mithran's youngest son, once considered his heir, abandoned tribal life twenty years ago to live among the settled kingdoms. He has recently returned with outsider ideas about governance and change, threatening Mithran's traditionalist authority.
 
-#### Affiliations
+### Affiliations
 
 - **The Dunhara Tribes**: His primary affiliation and the source of his identity and authority.
 - **The Council of Tribal Leaders**: A confederation of the Dunhara chieftains and war leaders who collectively advise on tribal matters.
 - **The Temple of Zúráthrä**: A devotional order dedicated to the god of fertility, prosperity, and abundance.
 
-### Plot Hooks
+## Plot Hooks
 
 1. **The Succession Question**: After more than three decades of leadership, Mithran is beginning to face the mortality he has so far evaded. The tribal council has begun, carefully and tactfully, to raise the question of succession. Mithran has resisted acknowledging this question, but the council's pressure is mounting. The obvious choices are all problematic: his eldest son is a brilliant administrator but lacks martial prowess; his youngest son, the returned outsider, represents everything Mithran has fought against. Meanwhile, ambitious war leaders are positioning themselves as potential alternatives. Mithran must navigate the impossible task of choosing a successor without surrendering authority or creating a succession conflict that will tear his tribe apart.
 

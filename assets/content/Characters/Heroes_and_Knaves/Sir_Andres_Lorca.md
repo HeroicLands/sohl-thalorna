@@ -595,21 +595,21 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![[srndrslrcknghtwstrnmrchs|Sir Andrés Lorca, Knight of the Western Marches]]{float: top-left}
+# Appearance {#appearance}
 
-## Appearance {#appearance}
+![[srndrslrcknghtwstrnmrchs|Sir Andrés Lorca, Knight of the Western Marches]]{float: top-left}
 
 Sir Andrés stands at 6'1", with a broad, muscular build, the result of years of rigorous knightly training. His olive-toned skin speaks of his noble heritage, while the faint scars that line his face and arms tell the story of a life dedicated to battle and honor. His dark hair is shoulder-length and slightly graying at the temples, often tied back or tucked under his helm during combat. Sir Andrés’s sharp, deep-set brown eyes reveal a calm but intense demeanor, and his chiseled jaw is typically clean-shaven, in accordance with the disciplined standards of his knightly order. He wears well-maintained plate armor, polished but not excessively ornate, marked with the sigil of his knightly order—a silver falcon, symbolizing vigilance and nobility. His favored weapon is a longsword, which he wields with precision and strength, and a round kite shield bearing his family crest.
 
-## Dossier {#dossier}
+# Dossier {#dossier}
 
 Born into a noble family in the Western Marches, Sir Andrés was groomed for knighthood from a young age. The youngest son of a prominent house, he was instilled with a strong sense of duty and loyalty to his family and his kingdom. As a squire, he served under a legendary knight, learning the ways of chivalry, combat, and leadership. His early years were marked by long campaigns defending the borders of his homeland from invaders, and it was here that he earned his reputation as a skilled warrior and a leader of men.
 
 Over the years, Sir Andrés has fought in numerous battles, defending his kingdom and upholding the chivalric code. Though his elder brothers inherited the family’s lands and titles, Sir Andrés forged his own path through his deeds on the battlefield and his unshakeable loyalty to the knightly order. He is now known throughout the Western Marches as a knight of honor and integrity, a man whose sword is at the service of his people and his king.
 
-### Background
+## Background
 
-#### Skills and Abilities
+### Skills and Abilities
 
 - **Strength**: Sir Andrés is physically strong, trained in the art of combat since his youth.
 - **Endurance**: His knightly training has given him exceptional stamina for both battle and travel.
@@ -631,28 +631,28 @@ Over the years, Sir Andrés has fought in numerous battles, defending his kingdo
 - **Endurance**: His training has given him exceptional stamina, allowing him to endure long campaigns and grueling battles without faltering.
 - **Shield Bearer**: His mastery of the shield allows him to defend himself and others, using it not only for protection but as a tactical tool in combat.
 
-### Psyche
+## Psyche
 
-#### Personality
+### Personality
 
 Sir Andrés is stoic and reserved, his personality shaped by a lifetime of discipline and sacrifice. He is calm under pressure, maintaining a clear head in the chaos of battle, and is deeply introspective, often contemplating the moral implications of his actions. He is a man of few words, preferring to let his actions speak for him, but when he does speak, his words are measured and carry great weight. Honor and duty are the pillars of his life, and he holds himself to the highest standards, even when it means making difficult decisions or personal sacrifices.
 
 Though outwardly stern, Sir Andrés is deeply compassionate, particularly toward those who cannot defend themselves. He feels a strong sense of responsibility to protect the weak, and this sense of justice fuels his every decision. However, he can be somewhat rigid in his adherence to the chivalric code, and his unwillingness to compromise on his principles can sometimes make him seem distant or inflexible to those who don't understand his deep sense of honor.
 
-#### Motivation
+### Motivation
 
 Sir Andrés is driven by his unwavering commitment to the ideals of knighthood—honor, loyalty, and the protection of the weak. He views his role as a knight not only as a profession but as a sacred duty, one that he must uphold at all costs. His primary goal is to safeguard the Western Marches from external threats and to maintain peace and justice in the land. However, he is also motivated by a desire to live up to the legacy of his ancestors and the knightly order to which he belongs.
 
 Though he has achieved much in his life, Sir Andrés feels that his work is far from over. He seeks to leave behind a legacy that will inspire future generations of knights, and he is always on the lookout for opportunities to prove his worth, whether by defending the innocent or confronting the forces that threaten the stability of the realm. Ultimately, his greatest ambition is to be remembered as a knight who upheld the highest virtues of his order, even in the face of overwhelming odds.
 
-#### Strengths
+### Strengths
 
 - **Swordsmanship**
 - **Leadership**
 
-### Social
+## Social
 
-### Plot Hooks
+## Plot Hooks
 
 1. **The Bandit Warlord**:
 

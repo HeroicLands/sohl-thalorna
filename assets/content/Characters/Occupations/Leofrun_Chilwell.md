@@ -552,11 +552,11 @@ sohl:
     defaultCombatGroup: null
 ---
 
-## Appearance {#appearance}
+# Appearance {#appearance}
 
 Leofrun Chilwell is a 30-year-old woman who stands 5'11" tall and is slender. She has a round face with broad cheekbones, a wide forehead, and an angular jaw that leads to a pointed chin. Her piercing hazel eyes sit beneath arched brows, lending her a penetrating gaze. A narrow nose and full lips complete her features. She has fair skin with a lightly freckled complexion. Her red hair is woven with small braids.
 
-## Dossier {#dossier}
+# Dossier {#dossier}
 
 Born in the Aelwyth region to a freeman family of Aelwythan heritage, Leofrun Chilwell came into the world of the trapper through a combination of circumstance and aptitude.
 
@@ -564,37 +564,37 @@ Elara grew up in the forests, where her family lived off the land. She learned t
 
 Now at 30 years of age, Leofrun Chilwell has established herself as a known figure among the trappers of Aelwyth. Her reputation, for better or worse, precedes her in the circles where such things matter.
 
-### Psyche
+## Psyche
 
-#### Personality
+### Personality
 
 Occasionally too compassionate to be effective, hesitant to trap animals unless necessary.
 
-#### Motivation
+### Motivation
 
 Leofrun is driven by the desire to master her craft and secure a stable future. The uncertainties of life in trapper work keep her vigilant and adaptable.
 
-#### Strengths
+### Strengths
 
 Skilled at setting traps, knowledgeable about plants and animals, resourceful.
 
-### Social
+## Social
 
 Leofrun is affiliated with None; prefers to remain independent..
 
 As a Aelwythan trapper, Leofrun occupies a recognized social niche within Aelwyth society.
 
-### Companions
+## Companions
 
-#### Patrons
+### Patrons
 
 Leofrun's primary patron is Local farmers and fur traders who rely on her services.. This relationship provides both opportunity and obligation.
 
-#### Enemies
+### Enemies
 
 Poachers and hunters who see her as interfering with their work.
 
-### Plot Hooks
+## Plot Hooks
 
 1. **The Trapper's Dilemma** — Leofrun faces a professional crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Aelwyth.
 

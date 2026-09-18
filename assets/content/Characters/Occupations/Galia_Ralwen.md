@@ -547,11 +547,11 @@ sohl:
     defaultCombatGroup: null
 ---
 
-## Appearance {#appearance}
+# Appearance {#appearance}
 
 Gália Rálwen is a 27-year-old woman who stands 5'8" tall and is slender. She has a heart-shaped face with prominent cheekbones, a high forehead, and a strong jaw that leads to a pointed chin. Her sharp brown eyes sit beneath arched brows, lending her an incisive gaze. An aquiline nose and expressive lips complete her features. She has warm-toned skin with a sun-tanned complexion. Her dark brown hair is hanging in ringlets.
 
-## Dossier {#dossier}
+# Dossier {#dossier}
 
 Born in the Provènzia region to a freeman family of Provenzian heritage, Gália Rálwen came into the world of the nobility (courtier) through a combination of circumstance and aptitude.
 
@@ -559,37 +559,37 @@ Lady Elowen is a minor noble with a keen interest in the arts and local governan
 
 Now at 27 years of age, Gália Rálwen has established herself as a known figure among the nobility (courtier)s of Provènzia. Her reputation, for better or worse, precedes her in the circles where such things matter.
 
-### Psyche
+## Psyche
 
-#### Personality
+### Personality
 
 Can be naive about the realities of nobility, sometimes too trusting.
 
-#### Motivation
+### Motivation
 
 Gália is driven by the desire to master her craft and secure a stable future. The uncertainties of life in nobility (courtier) work keep her vigilant and adaptable.
 
-#### Strengths
+### Strengths
 
 Charismatic, compassionate, skilled in diplomacy.
 
-### Social
+## Social
 
 Gália is affiliated with Local Nobility Council.
 
 As a Provenzian nobility (courtier), Gália occupies a recognized social niche within Provènzia society.
 
-### Companions
+## Companions
 
-#### Patrons
+### Patrons
 
 Gália's primary patron is Local artists and craftsmen seeking support.. This relationship provides both opportunity and obligation.
 
-#### Enemies
+### Enemies
 
 Few; generally well-liked, though some rival nobles may envy her influence.
 
-### Plot Hooks
+## Plot Hooks
 
 1. **The Nobility (Courtier)'s Dilemma** — Gália faces a professional crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Provènzia.
 

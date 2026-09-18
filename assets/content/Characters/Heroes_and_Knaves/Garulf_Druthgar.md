@@ -566,65 +566,65 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![[grlfdrthgr|Garulf Druthgar]]{float: top-left}
+# Appearance {#appearance}
 
-## Appearance {#appearance}
+![[grlfdrthgr|Garulf Druthgar]]{float: top-left}
 
 Garulf Druthgar is an enormous man — six foot four, heavy-boned, and packed with the kind of functional muscle that comes from decades of hard use rather than deliberate training. His brown hair is shaggy and unkempt, his gray eyes are small and watchful beneath a heavy brow, and his nose has been broken so many times it sits at a permanent angle. His hands are massive, scarred across the knuckles, and he moves with the deliberate heaviness of a man who knows his own size and uses it as a weapon. He carries a heavy battleaxe he has named "Vára" — a beautifully crafted weapon that is by far the most valuable thing he owns and the only thing he treats with genuine tenderness.
 
-## Dossier {#dossier}
+# Dossier {#dossier}
 
-### Background
+## Background
 
-#### Origin
+### Origin
 
 Garulf was born on a farmstead in the Vrystwald frontier, the son of Varokh settlers who scratched a living from the dark soil at the forest's edge. Life was brutal and simple — plant, harvest, survive, repeat. Garulf was the largest child anyone in the settlement had ever seen, and by fifteen he was doing the work of two grown men. He had no education, no prospects, and no patience for farming.
 
-#### Mercenary Life
+### Mercenary Life
 
 At seventeen, Garulf walked away from the farm and sold the only thing he had — his size and his willingness to hurt people. He worked as a mercenary and occasional brigand across the Vrystwald and its borderlands, taking whatever jobs paid. He developed a reputation as reliable muscle — not brilliant, not subtle, but fearsome in a fight and surprisingly steady when the arrows started flying. He drifted from company to company, always moving on when the work dried up or when he had alienated too many people with his abrasive personality.
 
-#### The Incident
+### The Incident
 
 Garulf's career as a freelance thug came to an abrupt end when a robbery went catastrophically wrong. He and a partner tried to rob a tax collector traveling under guard. When the guards gave chase, Garulf's partner's horse was shot. Rather than slow down to share his mount, Garulf dumped his partner and galloped away alone. The partner was captured, talked, and Garulf became a wanted man in two provinces. He fled to the coast, signed onto the first ship that would take him, and eventually found his way aboard the Tamzîr.
 
-#### Aboard the Tamzîr
+### Aboard the Tamzîr
 
 Garulf has served as the Tamzîr's muscle for eight years. He is not particularly loyal to Shâ or to the crew — he is loyal to the coin, to regular meals, and to a place to sleep where nobody is trying to arrest him. But over the years, something has shifted. The crew has become, against his will and his better judgment, something resembling a family. He would never admit this, and he continues to grumble about pay and threaten to leave for better offers. But he has had better offers, and he is still here.
 
-### Psyche
+## Psyche
 
-#### Personality
+### Personality
 
 Garulf is crude, blunt, self-interested, and perpetually dissatisfied with his compensation. He complains constantly, eats prodigiously, and has the social graces of a feral dog. He is not stupid — his intelligence is practical rather than intellectual — but he cultivates an image of brutish simplicity because it makes people underestimate him. He has a crude sense of humor, a surprising fondness for singing (badly), and an emotional vocabulary of approximately six words.
 
-#### Motivation
+### Motivation
 
 Coin. Comfort. Survival. Garulf's motivations are refreshingly uncomplicated. He wants to be paid, fed, and left alone. He does not have causes or ideals. He has needs, and he meets them through the application of violence and intimidation. Beneath this, there is something he would never acknowledge: the need to belong somewhere, to matter to someone, even if that someone is a crew of misfits on a leaky ship.
 
-#### Strengths
+### Strengths
 
 Garulf is a devastating fighter — one of the most dangerous individuals on the Vylarian Sea in a straight-up brawl. He is strong, tough, experienced, and utterly without hesitation in combat. He is also a skilled tracker and survivalist, comfortable in wilderness conditions that would break softer men. His practical intelligence is often underestimated.
 
-#### Weaknesses
+### Weaknesses
 
 Garulf is selfish, morally flexible, and unreliable when his interests conflict with the crew's. He has betrayed partners before and everyone aboard knows it. His abrasive personality creates friction, and his lack of education and social refinement limit his usefulness in any situation requiring subtlety. He drinks heavily and gambles poorly.
 
-### Social
+## Social
 
-#### Patrons
+### Patrons
 
 None. Garulf has no one and claims to want no one.
 
-#### Enemies
+### Enemies
 
 Garulf is wanted in two Vrystwald provinces for robbery and assault. He has made enemies among various mercenary companies and criminal groups over his long career. He owes money to at least three people in different ports.
 
-#### Affiliations
+### Affiliations
 
 Crewman of the **Tamzîr**. No other formal affiliations. He maintains a grudging, adversarial friendship with most of the crew, particularly irritating **Kasûra Damzarû** with crude commentary and being quietly disarmed by her persistent cheerfulness.
 
-### Plot Hooks
+## Plot Hooks
 
 1. **Vára's Origin**: Someone recognizes Garulf's beloved battleaxe and claims it was stolen from a Vrystwald clan chief's tomb. The claim may be legitimate — Garulf won the axe in a card game years ago and never asked its history. Now a Varokh war party wants it back, and they do not care about the niceties of possession.
 

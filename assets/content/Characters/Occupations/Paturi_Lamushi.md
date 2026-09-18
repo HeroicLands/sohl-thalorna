@@ -552,11 +552,11 @@ sohl:
     defaultCombatGroup: null
 ---
 
-## Appearance {#appearance}
+# Appearance {#appearance}
 
 Pâtûri Lamûshî is a 50-year-old woman who stands 5'9" tall and is solidly built. She has a long face with high cheekbones, a lined forehead, and a strong jaw that leads to a pointed chin. Her piercing dark brown eyes sit beneath prominent brows, lending her a penetrating gaze. A prominent nose and full lips complete her features. She has medium-toned skin with a sun-kissed complexion. Her graying black hair is braided and coiled at the nape. A notable feature is laugh lines around the eyes.
 
-## Dossier {#dossier}
+# Dossier {#dossier}
 
 Born in the Harad region to a guilded family of Haradian heritage, Pâtûri Lamûshî came into the world of the cook through a combination of circumstance and aptitude.
 
@@ -564,37 +564,37 @@ Hilda is a seasoned cook who has worked in several high-end kitchens throughout 
 
 Now at 50 years of age, Pâtûri Lamûshî has established herself as a known figure among the cooks of Harad. Her reputation, for better or worse, precedes her in the circles where such things matter.
 
-### Psyche
+## Psyche
 
-#### Personality
+### Personality
 
 Tends to be a perfectionist and can be overly critical of others.
 
-#### Motivation
+### Motivation
 
 Pâtûri is driven by the desire to master her craft and secure a stable future. The uncertainties of life in cook work keep her vigilant and adaptable.
 
-#### Strengths
+### Strengths
 
 Skilled in a wide range of cooking techniques, experienced in managing a kitchen.
 
-### Social
+## Social
 
 Pâtûri is affiliated with City Cooks' Guild.
 
 As a Haradian cook, Pâtûri occupies a recognized social niche within Harad society.
 
-### Companions
+## Companions
 
-#### Patrons
+### Patrons
 
 Pâtûri's primary patron is The merchant family she currently works for.. This relationship provides both opportunity and obligation.
 
-#### Enemies
+### Enemies
 
 Rival cooks who envy her position.
 
-### Plot Hooks
+## Plot Hooks
 
 1. **The Cook's Dilemma** — Pâtûri faces a professional crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Harad.
 

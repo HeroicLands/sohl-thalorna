@@ -586,21 +586,21 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![[narisahrvn|Nari Sahravân]]{float: top-left}
+# Appearance {#appearance}
 
-## Appearance {#appearance}
+![[narisahrvn|Nari Sahravân]]{float: top-left}
 
 Nari stands 5'5" tall with a light build. She has bronzed skin, dark hair, and brown eyes. Her features include an oblong face, a prominent nose, a narrow chin, slightly pursed lips, and heavy brows. A distinguishing mark is a small scar on one cheek.
 
-## Dossier {#dossier}
+# Dossier {#dossier}
 
 Nari Sahravân is a daughter of the deep **[[place-khzryndsrtrgn|Khazryn]]** — the steppe and desert of the [[affiliation-khzrncnfdrtn|Khazryn Confederation]], far to the north and east, where the nomad tribes keep the old ways and the old gods. Raised a mystic and healer among her people and devoted to the [[affiliation-ashanpnthn|Āsháian]] faith, she was taught the traditions of spirit, herb-lore, and the small elemental magics of wind and sand that the tribes have passed down for generations. Her gifts of medicine and divination made her a sought-after figure among the clans, a mediator and healer who travelled between camps — until her visions began to point her away from home, south and west across the world, toward a thread she could not yet name.
 
 Nari and [[being-zahirmlkht|Zahira]] crossed paths far from the Khazryn, in the southern Mídhalion borderlands, where a vision had carried Nari and a hunt had carried Zahira. Despite their initial wariness — the gentle healer and the killer-for-hire made an uneasy pair — they came to respect one another when Nari's craft saved Zahira from a mortal wound. Nari has read in her sight that Zahira's thread is tangled with great events, and she travels with her to learn why, bringing her knowledge of the wilds, her mystical gifts, and her talent for healing to the company. To a foreign eye, much of Bethûa unsettles her — above all what the matriarchy does to its men — and she does not always keep that disquiet to herself.
 
-### Background
+## Background
 
-#### Skills and Abilities
+### Skills and Abilities
 
 - **Strength**: Nari is not physically strong, as her skills lie more in spiritual and healing practices rather than physical combat.
 - **Endurance**: Nari is accustomed to the harsh desert climate and has developed a steady endurance for long journeys and difficult environments.
@@ -620,24 +620,24 @@ Nari and [[being-zahirmlkht|Zahira]] crossed paths far from the Khazryn, in the 
 - **Mystical Abilities**: Nari possesses a deep connection to the elemental forces of the desert. She can call upon the wind and sand in minor spells to assist the group, and she is skilled in divination, using the stars and elements to provide guidance.
 - **Nomadic Knowledge**: Nari’s intimate knowledge of the desert and steppe and their tribes makes her a valuable guide in harsh, arid country — including Bethûa's southern marches, so like and unlike her own Khazryn home. She can navigate treacherous terrain, find hidden water, and treat with nomad leaders whom Bethûans cannot.
 
-### Psyche
+## Psyche
 
-#### Personality
+### Personality
 
 Nari is calm, wise, and deeply spiritual, often acting as a counterbalance to [[being-zahirmlkht|Zahira]]’s more direct and action-oriented nature. She believes in the balance of the elements and the spiritual connection between all living things, but she is also practical, using her knowledge of herbs, medicine, and magic to solve problems. While she can seem aloof or enigmatic at times, Nari is deeply loyal to those she considers her allies.
 
-#### Motivation
+### Motivation
 
 Nari is driven by her spiritual quest to maintain the balance of the natural world. She believes the great power-struggles she has glimpsed in her visions — the smouldering war between Bethûa, its Kheperi patron, and Vylaria over the southern sea — threaten that balance, and she sees her journey with [[being-zahirmlkht|Zahira]] as her place in restoring it. She is also simply curious about the wider world beyond her desert homeland, and means to understand the strange, rich, troubling lands of Mídhalion before her visions are done with her.
 
-#### Strengths
+### Strengths
 
 - **Healing**
 - **Mysticism**
 
-### Social
+## Social
 
-### Plot Hooks
+## Plot Hooks
 
 1. **The Weight of the Rolls**: Long before the company corners their quarry, Nari's sight troubles her: she dreams of a sealed thing carried north that will, if it reaches the wrong hands, drown the southern sea in fire. As they hunt the renegade **Rashîra** and her stolen [[affiliation-bethuanflt|Warrant-register]], Nari alone grasps that the prize is not a person but a truth — and that catching it for the [[affiliation-mtrrchybth|Veil]] may bury the truth as surely as losing it would unleash the war. Her counsel pulls against [[being-zahirmlkht|Zahira]]'s contract and [[being-laylamarut|Layla]]'s instinct for advantage, and she presses Zahira to ask not whether she can take the register, but who is served when she does.
    - **Nari's Sight**: Her divinations give the company leads no tracker could find — and warnings no patron wants to hear.

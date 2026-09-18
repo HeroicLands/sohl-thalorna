@@ -616,17 +616,17 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![[sevnmyrkls|Sevion Myrkelis]]{float: top-left}
+# Appearance {#appearance}
 
-## Appearance {#appearance}
+![[sevnmyrkls|Sevion Myrkelis]]{float: top-left}
 
 Sevion stands 5'10" tall with a light build. He has pale skin, dark hair, and blue eyes. His features include a round face, a button nose, a gentle jawline, a wide mouth, expressive brows.
 
-## Dossier {#dossier}
+# Dossier {#dossier}
 
-### Background
+## Background
 
-#### Early Life and Family Background
+### Early Life and Family Background
 
 Sevion Myrkelis was born into a modest but respected family of traders in a quiet district of a city known for its winding streets and unassuming shops. The **Myrkelis family** has long been involved in the procurement and trade of rare herbs, minerals, and arcane components from across Nordheim. Sevion’s father, \*\*Daron Myrkelis, was a well-traveled merchant who built relationships with scholars, explorers, and traders, making the family’s shop a reliable source for alchemical supplies.
 
@@ -634,25 +634,25 @@ From a young age, Sevion showed a keen interest in the curiosities that passed t
 
 Despite his family’s wishes for him to take over the business, Sevion pursued a different path. With his parents’ reluctant blessing, he sought an apprenticeship under Master Virel Danogir\*\*, a prominent member of the Guild of Esoteric Crafts. Under Master Virel’s tutelage, Sevion honed his skills in the delicate art of elixirs and the creation of various transmutation compounds.
 
-#### Early Career and Rise within the Guild
+### Early Career and Rise within the Guild
 
 Upon completing his apprenticeship, Sevion opened a small laboratory and shop. His early work focused on simple elixirs and herbal remedies for local clients, but his ambition quickly grew. With access to his family’s connections, he began acquiring rare and exotic ingredients that allowed him to experiment with more complex elixirs.
 
 Sevion’s alchemical talent didn’t go unnoticed by the **Guild of Esoteric Crafts**, and within a few years, he became a recognized member. His reputation for crafting potent elixirs and transmuting rare materials began to attract a more exclusive clientele, including minor nobles and wealthy merchants seeking cures, power, or influence through arcane means. Despite his growing reputation, Sevion remained grounded, preferring to keep his practice small and his ambitions focused.
 
-#### Current Goals
+### Current Goals
 
 Sevion’s current obsession is with an ancient Pelwar alchemical recipe, the **Visionary Elixir**, said to grant visions of the future. According to legend, this elixir was used by the ancient seers of the **Lost Pelwar Empire** to guide their people through troubled times. Sevion’s pursuit of this elusive formula has led him to scavenge old texts, correspond with distant scholars, and venture into dangerous territories to obtain rare ingredients. While he has made progress, the formula remains incomplete, and the final piece of the puzzle continues to elude him.
 
 Aside from his personal pursuit of the Visionary Elixir, Sevion’s more immediate goal is to expand his reputation within the Guild of Esoteric Crafts. He seeks to secure his place among the more senior members by contributing to the guild’s body of knowledge, possibly by perfecting a new type of transmutation. However, he is careful not to overstep his bounds, as the guild is filled with powerful figures who guard their secrets jealously.
 
-#### End Goal
+### End Goal
 
 Sevion’s ultimate goal is to unlock the secrets of the **Visionary Elixir**, believing that its power could lead to incredible breakthroughs in alchemical science. He imagines the elixir could guide individuals through their personal struggles by granting them foresight, offering them a glimpse of their potential futures. However, his fascination with the elixir is tempered by a lingering doubt—will the visions it provides truly benefit the individual, or will they become a curse that haunts those who seek to know too much?
 
 Sevion must navigate the perils of discovery, rivalry, and personal ambition while maintaining his relatively humble place in the world of Calypsa’s arcane and political circles.
 
-#### Skills and Abilities
+### Skills and Abilities
 
 - **Strength**: Sevion is not physically imposing, but he maintains a level of fitness typical for an alchemist handling heavy materials.
 - **Endurance**: While not frail, Sevion's stamina reflects the nature of his focused, laboratory-bound lifestyle.
@@ -669,34 +669,34 @@ Sevion must navigate the perils of discovery, rivalry, and personal ambition whi
 - **Morality**: Sevion respects the values and mores of his society, but is pragmatic and willing to bend them when necessary.
 - **Voice**: Although his voice is not unpleasant, it is unremarkable.
 
-### Psyche
+## Psyche
 
-### Personality and Traits
+## Personality and Traits
 
 Sevion is meticulous, analytical, and deeply passionate about alchemy, but he remains humble in his ambitions. Unlike some of his colleagues, he does not seek power or influence beyond what is necessary to support his work. His curiosity often leads him into dangerous situations, though he is careful not to become entangled in the city’s more dangerous political games. While generally amiable, Sevion can be intensely focused, sometimes to the point of isolation, when pursuing a particularly difficult formula.
 
 He avoids making enemies within the guild but is aware of the dangerous politics that often swirl around its members. His cautious approach allows him to navigate these complexities while quietly advancing his goals.
 
-#### Strengths
+### Strengths
 
 - **Alchemy**
 - **Herbalism**
 
-### Social
+## Social
 
-#### Patrons
+### Patrons
 
 - **Lady Adrienna Alranis**: A minor noblewoman with a keen interest in alchemical remedies. Lady Adrienna suffers from a rare blood disorder and frequently commissions Sevion to create tonics and elixirs to alleviate her condition. In return, she provides him with funding and access to noble circles, where his reputation has begun to grow.
 - **The Merchant’s Guild**: Sevion has developed a lucrative relationship with several merchants who commission him to craft elixirs that enhance strength, stamina, and charisma—often for use in negotiations or physical contests. The **Merchant’s Guild** values his work and provides him with some of the rarest ingredients that come through the ports of Calypsa.
 - **Master Virel Danogir**: Although he is no longer Sevion’s mentor, Master Virel remains an important figure in his life. The two maintain a mutually beneficial relationship, exchanging information and occasionally collaborating on projects. Master Virel provides Sevion with insights from the inner workings of the Guild of Esoteric Crafts, though his support comes at a price—Sevion often feels indebted to his old mentor.
 
-#### Enemies
+### Enemies
 
 - **Arlis Ruthorn**: A fellow member of the Guild of Esoteric Crafts and a long-standing rival, Arlis has always been envious of Sevion’s talent and his access to rare materials. While Arlis excels in creating alchemical weapons and volatile compounds, his aggressive ambition and desire for recognition have made him reckless. He frequently tries to undermine Sevion’s work, spreading rumors about his experiments and attempting to poach clients. Arlis also has his own designs on the **Visionary Elixir**, having learned of Sevion’s pursuit through guild gossip.
 - **Jarl Kervan Redblade**: Sevion once refused to sell a dangerous combat-enhancing elixir to Kervan, a notorious warlord and privateer who sought to use it to gain an edge in a bloody power struggle. This refusal has made Kervan a dangerous enemy. Though Sevion tries to avoid any direct confrontation, Kervan’s men have been seen lurking around Héligstrom, leading Sevion to believe that retaliation may be imminent.
 - **Guild of Apothecaries**: While Sevion is associated with the Guild of Esoteric Crafts, his success in crafting both potions and remedies has drawn the ire of the **Guild of Apothecaries**, whose members believe that he is encroaching on their territory. This professional tension has led to strained relations between the two guilds, and Sevion has faced increased scrutiny and resistance when trying to acquire certain permits or licenses for rare ingredients.
 
-### Plot Hooks
+## Plot Hooks
 
 1. **The Recipe of Ruin**:
 

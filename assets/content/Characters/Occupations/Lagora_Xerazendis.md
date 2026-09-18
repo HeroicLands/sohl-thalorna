@@ -548,11 +548,11 @@ sohl:
     defaultCombatGroup: null
 ---
 
-## Appearance {#appearance}
+# Appearance {#appearance}
 
 Làgôra Xêrâzêndis is a 27-year-old woman who stands 5'8" tall and is slender. She has a square face with broad cheekbones, a smooth forehead, and a strong jaw that leads to a strong chin. Her round brown eyes sit beneath arched brows, lending her a candid gaze. A prominent nose and wide lips complete her features. She has light skin with a sallow complexion. Her brown hair is adorned with simple pins.
 
-## Dossier {#dossier}
+# Dossier {#dossier}
 
 Born in the Vylaría region to a freeman family of Vylarian heritage, Làgôra Xêrâzêndis came into the world of the fool through a combination of circumstance and aptitude.
 
@@ -560,37 +560,37 @@ Tilda grew up in a small village and developed a talent for mischief and humor a
 
 Now at 27 years of age, Làgôra Xêrâzêndis has established herself as a known figure among the fools of Vylaria. Her reputation, for better or worse, precedes her in the circles where such things matter.
 
-### Psyche
+## Psyche
 
-#### Personality
+### Personality
 
 Can be impulsive, sometimes crosses the line with her jokes.
 
-#### Motivation
+### Motivation
 
 Làgôra is driven by the desire to master her craft and secure a stable future. The uncertainties of life in fool work keep her vigilant and adaptable.
 
-#### Strengths
+### Strengths
 
 Creative and quick-witted, skilled in sleight of hand, engaging performer.
 
-### Social
+## Social
 
 Làgôra is affiliated with None; works independently..
 
 As a Vylarian fool, Làgôra occupies a recognized social niche within Vylaria society.
 
-### Companions
+## Companions
 
-#### Patrons
+### Patrons
 
 Làgôra's primary patron is Local villagers and traveling fairs.. This relationship provides both opportunity and obligation.
 
-#### Enemies
+### Enemies
 
 Those who find her humor inappropriate or offensive.
 
-### Plot Hooks
+## Plot Hooks
 
 1. **The Fool's Dilemma** — Làgôra faces a professional crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Vylaria.
 

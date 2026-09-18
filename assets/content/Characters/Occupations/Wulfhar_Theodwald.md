@@ -545,11 +545,11 @@ sohl:
     defaultCombatGroup: null
 ---
 
-## Appearance {#appearance}
+# Appearance {#appearance}
 
 Wulfhár Theódwald is a 30-year-old man who stands 6'1" tall and is broad and solidly built. He has a broad face with defined cheekbones, a lined forehead, and a square jaw that leads to a broad chin. His bright brown eyes sit beneath furrowed brows, lending him a lively gaze. A straight nose and firm lips complete his features. He has light skin with a sun-tanned complexion. His dark brown hair is pulled back in a warrior's knot.
 
-## Dossier {#dossier}
+# Dossier {#dossier}
 
 Born in the Vrystwald region to a freeman family of Varokhi heritage, Wulfhár Theódwald came into the world of the huscarl through a combination of circumstance and aptitude.
 
@@ -557,37 +557,37 @@ Magnus is known for his intimidating presence and fearlessness in battle. He ser
 
 Now at 30 years of age, Wulfhár Theódwald has established himself as a known figure among the huscarls of Vrystwald. His reputation, for better or worse, precedes him in the circles where such things matter.
 
-### Psyche
+## Psyche
 
-#### Personality
+### Personality
 
 Struggles with emotional expression, sometimes overly aggressive.
 
-#### Motivation
+### Motivation
 
 Wulfhár is driven by the desire to master his craft and secure a stable future. The uncertainties of life in huscarl work keep him vigilant and adaptable.
 
-#### Strengths
+### Strengths
 
 Physically strong, experienced in hand-to-hand combat, a natural leader.
 
-### Social
+## Social
 
 Wulfhár is affiliated with Lord Hrothgar's retinue.
 
 As a Varokhi huscarl, Wulfhár occupies a recognized social niche within Vrystwald society.
 
-### Companions
+## Companions
 
-#### Patrons
+### Patrons
 
 Wulfhár's primary patron is Lord Hrothgar and his family.. This relationship provides both opportunity and obligation.
 
-#### Enemies
+### Enemies
 
 Few; generally well-respected.
 
-### Plot Hooks
+## Plot Hooks
 
 1. **The Huscarl's Dilemma** — Wulfhár faces a professional crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Vrystwald.
 

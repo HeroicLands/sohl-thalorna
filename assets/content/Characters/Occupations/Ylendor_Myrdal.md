@@ -556,11 +556,11 @@ sohl:
     defaultCombatGroup: null
 ---
 
-## Appearance {#appearance}
+# Appearance {#appearance}
 
 Yléndor Mýrdal is a 58-year-old man who stands 5'4" tall and is of moderate build. He has an oval face with wide-set cheekbones, a narrow forehead, and a sharp jaw that leads to a delicate chin. His hooded dark brown eyes sit beneath thin brows, lending him a guarded gaze. An aquiline nose and wide lips complete his features. He has olive skin with a weathered complexion. His chestnut hair is tied in a low tail.
 
-## Dossier {#dossier}
+# Dossier {#dossier}
 
 Born in the Provènzia region to a guilded family of Provenzian heritage, Yléndor Mýrdal came into the world of the astrologer through a combination of circumstance and aptitude.
 
@@ -568,37 +568,37 @@ Alaric is a renowned astrologer who serves the court of a powerful noble family.
 
 Now at 58 years of age, Yléndor Mýrdal has established himself as a known figure among the astrologers of Provènzia. His reputation, for better or worse, precedes him in the circles where such things matter.
 
-### Psyche
+## Psyche
 
-#### Personality
+### Personality
 
 Socially aloof and often dismissive of skeptics.
 
-#### Motivation
+### Motivation
 
 Yléndor is driven by the desire to master his craft and secure a stable future. The uncertainties of life in astrologer work keep him vigilant and adaptable.
 
-#### Strengths
+### Strengths
 
 Highly knowledgeable about celestial events and their influences.
 
-### Social
+## Social
 
 Yléndor is affiliated with Royal Astrological Society.
 
 As a Provenzian astrologer, Yléndor occupies a recognized social niche within Provènzia society.
 
-### Companions
+## Companions
 
-#### Patrons
+### Patrons
 
 Yléndor's primary patron is Noble family who funds his research.. This relationship provides both opportunity and obligation.
 
-#### Enemies
+### Enemies
 
 A rival astrologer who seeks to discredit his work.
 
-### Plot Hooks
+## Plot Hooks
 
 1. **The Astrologer's Dilemma** — Yléndor faces a professional crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Provènzia.
 

@@ -334,56 +334,56 @@ sohl:
         disabled: false
 ---
 
-![[margrush|Margrush]]{float: top-left}
+# Appearance {#appearance}
 
-## Appearance {#appearance}
+![[margrush|Margrush]]{float: top-left}
 
 The low growl reaches you before you see the creature—a sound that vibrates through bone and stone alike. From beneath the ferns and leaf litter, a broad, flattened head emerges, its eyes set high and keen, watching with predatory patience. The creature’s body is a mass of coiled muscle covered in thick, leathery skin bristling with fur, colored to match the forest floor so perfectly that you almost missed it until it moved. Its claws dig into the earth as it advances, and you realize with creeping dread that this is no ambush—it has known of your presence all along, and now it is simply deciding whether to strike.
 
-## Dossier {#dossier}
+# Dossier {#dossier}
 
 The Margrush is a formidable terrestrial predator, measuring 7 to 8 feet in body length and weighing 350-450 pounds. Its body is covered in tough, leathery skin interspersed with patches of bristly fur colored from dark brown to nearly black, providing excellent camouflage in forest and swamp environments. The head is broad and flattened, and the powerful jaws are filled with serrated teeth designed for gripping and tearing flesh. Its eyes are positioned high on the skull, allowing it to observe surroundings while the body remains low to the ground.
 
-### Presentation
+## Presentation
 
 Margrushes display a low, ground-hugging profile with stocky, powerfully muscled legs ending in large clawed paws. The tail is long, thick, and used for balance and balance-assisted turning. The fur coloration ranges from dark brown to black with occasional lighter mottling that aids camouflage. The face is somewhat flattened, with the eyes set to allow good lateral vision while remaining high. The ears are small and rounded, positioned at the sides of the head. The skin shows visible folds and wrinkles, particularly around the neck and shoulders, and is covered in scars from countless territorial disputes. The musk that surrounds them is distinctive and pungent.
 
-### Key Behaviors
+## Key Behaviors
 
 Margrushes are highly territorial, actively and aggressively defending a large domain against intruders. They mark territory with scent markings, claw scratches on trees, and physical rearrangement of forest floor debris. They are primarily nocturnal, taking advantage of their excellent night vision to hunt during darkness and resting in burrows or dense thickets during the day. Despite their bulk, they move with remarkable stealth and can remain motionless for hours, waiting for prey. They have excellent senses of smell and hearing, allowing them to detect prey from considerable distances. Their metabolism is elevated and they require frequent, substantial meals to maintain their condition.
 
-### Combat Strategy
+## Combat Strategy
 
 Margrushes are ambush predators par excellence. They position themselves along known animal trails or near water sources and remain motionless, using their camouflage and low profile to become nearly invisible. When prey comes within striking distance, they explode into motion with terrifying speed, attempting to close distance and deliver a devastating bite to the throat or belly. If they successfully land a bite, they shake their victim to inflict additional damage and tighten their grip. Against multiple opponents or when facing something that resists the initial attack, they rely on their strength and ferocity, using their claws and jaws to make the fight as brutal as possible.
 
-### Attack Methods
+## Attack Methods
 
-#### Powerful Bite
+### Powerful Bite
 
 The Margrush lunges with jaws agape, aiming for the throat, belly, or limbs, and clamps down with incredible force capable of crushing bone; once the bite is secured, the creature shakes violently to cause additional damage.
 
-#### Claw Rake
+### Claw Rake
 
 The Margrush uses its powerful front legs to slash with claws, creating deep lacerations and inflicting serious bleeding injuries; these attacks can also knock smaller opponents prone or disarm weapons.
 
-### Special Abilities
+## Special Abilities
 
-#### Ambush Master
+### Ambush Master
 
 The Margrush excels at remaining undetected in natural terrain and gains substantial bonuses to stealth, hiding, and attack rolls when striking from surprise; it can remain motionless for hours without detection.
 
-#### Powerful Jaws
+### Powerful Jaws
 
 The Margrush’s bite delivers crushing force capable of breaking bone, shattering light armor, and pinning an opponent in place; a victim successfully bitten must make a strength check to break free or suffer additional shaking damage each round.
 
-#### Excellent Night Vision
+### Excellent Night Vision
 
 The Margrush hunts effectively in complete darkness and gains bonuses to perception and combat in low-light or nocturnal conditions, making it particularly dangerous after nightfall.
 
-#### Territorial Fury
+### Territorial Fury
 
 When defending its territory or den, the Margrush gains increased damage and to-hit bonuses, and it will continue fighting even when severely wounded, using its territorial fury to overcome pain and damage.
 
-### Additional Information
+## Additional Information
 
 Margrushes are solitary creatures and establish territories measured in square miles. Once embedded in a territory, they rarely venture far beyond its boundaries, following predictable patrol routes. This can be exploited by savvy adventurers to avoid confrontation or to predict where the creature will be. The Margrush’s thick hide is prized for leather goods and provides excellent protection. The liver of a Margrush is believed by some cultures to grant strength and stamina, though these properties are likely superstition or at best psychological.

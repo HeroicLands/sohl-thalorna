@@ -602,67 +602,67 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![[mrtsbkhkmn|Meret-Sebek Heka’amun]]{float: top-left}
-
 **Home:** [[place-meruhotep|Meru-Hotep]]
 
-## Appearance {#appearance}
+# Appearance {#appearance}
+
+![[mrtsbkhkmn|Meret-Sebek Heka’amun]]{float: top-left}
 
 Meret-Sebek stands 5'9\" tall with a medium build. He has dark skin, dark hair, and brown eyes. His features include a long nose, a pointed chin, generous lips, elegantly curved brows.
 
-## Dossier {#dossier}
+# Dossier {#dossier}
 
-### Background
+## Background
 
-#### Origin and Early Life
+### Origin and Early Life
 
 Meret-Sebek was born into a respected family of scholars and astrologers in the grand city of **Zerula**, a cultural and scholarly hub of the **Empire of [[affiliation-empirtkhpr|Ta’Kheperu]]**. The Empire, steeped in ancient traditions dating back thousands of years, continues to blend mysticism and scholarly pursuits, with astrology playing a critical role in their governance and daily life. The empire’s priests and astrologers serve as key advisors to the ruling elite, using celestial signs to predict outcomes of war, trade, and political alliances.
 
 Meret-Sebek, from a young age, showed a remarkable affinity for reading the stars. His family, who had long served the high courts of Ta’Kheperu, ensured he was trained by the greatest scholars and priests of the empire. By the age of 16, he had already earned a reputation for accurate star readings and predictions, and his name spread through the noble circles of Ta’Kheperu.
 
-#### Astrological Discoveries and Vision
+### Astrological Discoveries and Vision
 
 When Meret-Sebek reached his early thirties, he began experiencing disturbing visions during his astrological readings. Unusual alignments of stars and planets foretold the arrival of a significant celestial event, one that could reshape the very balance of power in the known world. After months of intense study, he concluded that this event, which he referred to as “The Convergence of the Nine Moons,” was not a simple astronomical occurrence, but a mystical one with divine consequences.
 
 His readings indicated that this event was tied to the fate of the **Court of the Nine Moons**, the council of the nine most powerful clans in Ta’Kheperu. His predictions warned that if the empire did not take action, the Convergence would bring about disaster, either in the form of internal strife or an invasion from external powers. The stars, however, did not reveal the full extent of the threat—only that it was imminent and inevitable.
 
-#### The Per-Aá’s Response
+### The Per-Aá’s Response
 
 Meret-Sebek presented his findings to **Per-Aá Menes XVI**, who ruled the empire from the capital city of **Zahdara**. The Per-Aá was a practical man, but he had learned to trust the warnings of astrologers. Yet, the ambiguity of Meret-Sebek’s predictions frustrated the court. While some powerful lords demanded immediate action, others dismissed it as a misreading of the stars.
 
 Faced with skepticism from the court and the increasing pressure of the imperial council, Meret-Sebek decided he could no longer wait for the empire’s leaders to act. His readings indicated that the truth behind the Convergence could only be found by traveling to key sacred sites scattered throughout the empire, where ancient celestial knowledge was hidden.
 
-#### The Sacred Journey
+### The Sacred Journey
 
 Meret-Sebek embarked on a **pilgrimage** to these ancient locations, which were sacred to the early astrologers of Ta’Kheperu. His journey would take him deep into the deserts of Beshakan, across the **Venâria Sea**, and through forgotten ruins where ancient star maps were carved into the stones by the earliest astronomers.
 
 His first stop was the **Obelisk of Ankhura**, an ancient monolithic structure located in the heart of the Târga River Valley. There, Meret-Sebek discovered fragments of a lost prophecy inscribed in ancient runes, pointing him to a mountain shrine in the highlands of **Chenosolis**, where the oldest records of the empire’s astrologers were kept.
 
-#### Mystical Challenges and Allies
+### Mystical Challenges and Allies
 
 Meret-Sebek’s journey is fraught with challenges. Rival astrologers and priests who either do not believe in the prophecy or seek to use the event for their own ends send agents to stop him. Additionally, his journey into the ruins reveals ancient powers long forgotten—spirits of the desert, creatures bound to the stars, and followers of ancient cults who view the Convergence as an opportunity to usher in a new age of chaos.
 
 Despite these dangers, Meret-Sebek finds unlikely allies along his path. He meets a wandering desert ranger named **“The Silent Jackal”** who, though initially skeptical of the astrologer’s quest, pledges to protect him after witnessing a celestial omen. Additionally, Meret-Sebek encounters a scholar, **[[being-neferetimr|Neferet]] Imi-Ra**, and an exiled priest, **[[being-hotepanu|Hotep]] Anu**, who together join him in his quest to unlock the true power of the Convergence.
 
-#### End Goal
+### End Goal
 
 Meret-Sebek seeks to reach the **Temple of the Eternal Heavens**, an ancient site hidden deep within the **Sands of Naresh**, where the final clue to stopping or mitigating the effects of the Convergence can be found. However, time is against him, as the stars grow ever closer to alignment, and forces—both seen and unseen—move to either stop him or claim the celestial power for themselves.
 
 The culmination of his journey will lead to a dramatic confrontation, not only with the forces of fate but also with the empire’s ruling elite, who may finally realize the truth of his predictions too late.
 
-#### Potential Story Hooks for the Character
+### Potential Story Hooks for the Character
 
 - **Allies and Foes:** Other astrologers or mystics may view the Convergence differently, offering different interpretations or actively working against Meret-Sebek.
 - **Political Intrigue:** The imperial court’s internal power struggles could affect his journey, as different factions may want to control the outcome of the Convergence.
 - **Mystical Encounters:** The journey allows for encounters with otherworldly beings tied to the stars or ancient prophecies, some who might aid Meret-Sebek, others who could hinder him.
 
-#### Companions
+### Companions
 
 - [[being-atenhershr|Atenheru Sahri]]
 - [[being-neferetimr|Neferet Imi-Ra]]
 - [[being-hotepanu|Hotep Anu]]
 
-#### Skills and Abilities
+### Skills and Abilities
 
 - **Strength**: Meret-Sebek is not particularly strong physically, as his pursuits are mainly scholarly.
 - **Endurance**: Long hours of study and travel have given him a decent level of stamina.
@@ -678,27 +678,27 @@ The culmination of his journey will lead to a dramatic confrontation, not only w
 - **Morality**: As an astrologer deeply connected to his culture’s beliefs about the cosmos and destiny, Meret-Sebek upholds his society’s mores with strong conviction.
 - **Voice**: While not a professional singer, Meret-Sebek’s voice carries the weight of his knowledge, delivering chants and incantations with clear precision.
 
-### Psyche
+## Psyche
 
-### Motivations and Personality
+## Motivations and Personality
 
 Meret-Sebek is driven by a deep sense of duty to the stars and his empire. Though he is soft-spoken and contemplative, he harbors a strong will and fierce dedication to uncovering the truth behind the celestial signs. He believes that the stars do not lie and that his role is not only to observe but to act on the guidance they provide, even if it means challenging the empire’s most powerful figures.
 
 His journey is not only one of discovery but also of self-realization. Along the way, Meret-Sebek grapples with his faith in the stars and the responsibility that comes with interpreting their signs. He sometimes questions whether the Convergence is truly inevitable or if his interpretations are flawed, a weight that grows heavier with every step of his journey.
 
-#### Strengths
+### Strengths
 
 - **Astrology**: Expert in reading celestial signs and star charts.
 - **Mystical Knowledge**: Understanding of ancient prophecies and magic.
 - **Diplomacy**: Skilled in navigating political intrigue within the empire.
 
-### Social
+## Social
 
-#### Enemies
+### Enemies
 
 Rival astrologers and courtiers
 
-### Plot Hooks
+## Plot Hooks
 
 1. **The Eclipse of the Nine Moons**: As Meret-Sebek charts an upcoming celestial alignment, he notices discrepancies in the ancient star charts he relies on. Consulting other astrologers reveals that someone has deliberately altered these records centuries ago, obscuring the alignment’s true meaning. To uncover the truth, Meret-Sebek must follow a trail of hidden knowledge, even as rival scholars and imperial agents seek to stop him.
 

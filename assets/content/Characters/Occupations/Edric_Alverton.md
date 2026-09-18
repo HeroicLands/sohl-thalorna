@@ -552,11 +552,11 @@ sohl:
     defaultCombatGroup: null
 ---
 
-## Appearance {#appearance}
+# Appearance {#appearance}
 
 Edric Alverton is a 53-year-old man who stands 5'11" tall and is broad and solidly built. He has a long face with prominent cheekbones, a smooth forehead, and a strong jaw that leads to a delicate chin. His bright green eyes sit beneath arched brows, lending him a lively gaze. A narrow nose and curved lips complete his features. He has pale skin with a ruddy complexion. His white hair is short and swept back.
 
-## Dossier {#dossier}
+# Dossier {#dossier}
 
 Born in the Aelwyth region to a freeman family of Aelwythan heritage, Edric Alverton came into the world of the farmer through a combination of circumstance and aptitude.
 
@@ -564,37 +564,37 @@ Bram has worked his small farm for decades, growing a variety of vegetables and 
 
 Now at 53 years of age, Edric Alverton has established himself as a known figure among the farmers of Aelwyth. His reputation, for better or worse, precedes him in the circles where such things matter.
 
-### Psyche
+## Psyche
 
-#### Personality
+### Personality
 
 Stubborn about changing his methods, can be overly critical.
 
-#### Motivation
+### Motivation
 
 Edric is driven by the desire to master his craft and secure a stable future. The uncertainties of life in farmer work keep him vigilant and adaptable.
 
-#### Strengths
+### Strengths
 
 Experienced in farming and animal husbandry, resilient, helpful to others.
 
-### Social
+## Social
 
 Edric is affiliated with Rural Farmers' Cooperative.
 
 As a Aelwythan farmer, Edric occupies a recognized social niche within Aelwyth society.
 
-### Companions
+## Companions
 
-#### Patrons
+### Patrons
 
 Edric's primary patron is Local markets and inns that buy his produce and meat.. This relationship provides both opportunity and obligation.
 
-#### Enemies
+### Enemies
 
 None; generally well-regarded in the community.
 
-### Plot Hooks
+## Plot Hooks
 
 1. **The Farmer's Dilemma** — Edric faces a professional crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Aelwyth.
 

@@ -53,7 +53,7 @@ won the campaign, which made it worse rather than better: a victory won by
 disobedience indicts the order, and the celestial administration cannot allow
 that to stand.
 
-## See Also
+# See Also
 
 - [[lore-ttjkvngyrt|Tëitjëk Vëngyürt]] — the rebellion as the Empire records it
 - [[affiliation-tanvurempr|Empire of Tānvür]] — the authority he broke with

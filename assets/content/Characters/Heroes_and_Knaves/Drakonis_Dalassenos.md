@@ -588,13 +588,13 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![[drknsdlsns|Drákonis Dalássênos]]{float: top-left}
+# Appearance {#appearance}
 
-## Appearance {#appearance}
+![[drknsdlsns|Drákonis Dalássênos]]{float: top-left}
 
 Drákonis stands 6'0" tall with a heavy build. He has tanned ruddy skin, graying brown hair, and green eyes. His features include a long face, a hawkish nose, a sharp jawline, well-defined lips, graying brows.
 
-## Dossier {#dossier}
+# Dossier {#dossier}
 
 Drákonis emerged from the frontier regions of the Byzarian League, born into a family of trappers and hunters who worked the wild edges where civilization met untamed wilderness. His early years were spent learning the languages of animals—the signs that indicate a predator's territory, the weight and pace of a creature's movement, the subtle variations in track patterns that reveal age and condition. By his teens, he was already recognized as exceptionally gifted, capable of reading landscapes others could not comprehend.
 
@@ -602,21 +602,21 @@ At twenty-seven, Drákonis ventured beyond the territories familiar to his famil
 
 His encounter with the great bear at age forty-seven nearly ended him. The beast was old, scarred by previous encounters with humans, and intelligently vicious. The battle lasted three days, leaving both combatants broken and scarred. Drákonis survived but was forever changed by the experience—his injuries and recovery seemed to deepen his connection to the wild world and his understanding of predation itself. Since that encounter, he has taken fewer commissions, chosen his work with more deliberation, and seems increasingly reluctant to engage with human civilization at all.
 
-### Psyche
+## Psyche
 
-#### Personality
+### Personality
 
 Drákonis is famously taciturn and difficult. He communicates in short, precise statements and seems to find sustained human conversation nearly painful. Those who attempt casual pleasantries in his presence are met with patient but absolute dismissal. Yet beneath this gruff exterior exists a genuine depth of character—a stoic philosophy that borders on wisdom and a capacity for dark, sardonic humor that surfaces only in the presence of those who have proven themselves worthy of his regard.
 
 He is driven by a simple code: fulfill commitments, deal fairly with those who deal fairly with him, and maintain absolute independence from entanglements that would compromise his freedom. This code has been violated exactly once in his life, resulting in consequences he has spent decades attempting to escape. He moves through the world as an observer rather than a participant, finding more genuine kinship with wolves and bears than with human settlements.
 
-#### Motivation
+### Motivation
 
 Drákonis pursues his work partly from practical necessity—the wilderness provides his livelihood and sustenance—but primarily from a philosophical conviction that predators are not merely permitted but necessary to the health of ecosystems. He views his work not as violence against nature but as participation in natural processes, helping to maintain the balance that civilization perpetually threatens to destroy. There is something almost priestly about his approach to hunting and trapping, a reverence for the prey and a belief that the animals he kills are themselves part of a larger understanding of mortality and transformation.
 
 Beneath this lies a more personal motivation: the wilderness is the only place where Drákonis feels genuinely alive, genuinely himself. Civilization constrains him, makes him itch with restlessness and disgust. The wild demands nothing of him except competence and respect, and these he can provide. Through his work in the wilderness, he achieves a kind of communion that he has never found in human society.
 
-#### Strengths
+### Strengths
 
 - **Transcendent Tracking**: His ability to follow quarry across any terrain and detect movement that others would miss borders on supernatural; he can track prey across stone, through water, and identify individuals by subtle variations in their print or movement.
 - **Wilderness Mastery**: His knowledge of wild environments is encyclopedic—he understands predator behavior, environmental hazards, seasonal changes, and how to navigate and survive in conditions that would kill ordinary people.
@@ -624,7 +624,7 @@ Beneath this lies a more personal motivation: the wilderness is the only place w
 - **Physical Resilience**: Years of harsh conditions have created a constitution that can endure injury, exposure, and fatigue that would defeat weaker individuals; his survival instinct is genuinely exceptional.
 - **Trap and Snare Mastery**: His ability to create and position traps is an art form; he can construct devices of stunning sophistication and accuracy, capable of catching creatures that conventional methods would never secure.
 
-#### Weaknesses
+### Weaknesses
 
 - **Interpersonal Dysfunction**: His inability to engage effectively with human society limits his opportunities for collaboration, alliance, or information-gathering that might expand his effectiveness.
 - **Isolated Decision-Making**: His reluctance to trust others or seek counsel means he sometimes operates without information that would improve his tactical choices significantly.
@@ -632,25 +632,25 @@ Beneath this lies a more personal motivation: the wilderness is the only place w
 - **Unresolved Trauma**: His encounter with the great bear left psychological wounds alongside the physical scarring; he sometimes exhibits signs of obsession with that specific animal and with predators that resemble it.
 - **Dangerous Amorality**: His willingness to engage in contract killing, torture of captured animals, or other methods that cross into true cruelty makes him potentially dangerous to anyone who hires him without clear ethical alignment.
 
-### Social
+## Social
 
-#### Patrons
+### Patrons
 
 - **Lord Harren of the Frontier Territories**: A regional noble who maintains vast estates and regularly contracts Drákonis to eliminate predators threatening livestock and hunting preserves; their relationship is professional but carries unusual mutual respect.
 - **The Kozna Collective of Woodsmen**: A loose association of trappers and hunters who, while maintaining distance from Drákonis, regularly defer difficult contracts to him and pay extraordinary rates for his expertise.
 - **Brother Selvak of Ménérva's Monastery**: A monk keeper who acknowledges that Drákonis's work, while violent, serves a necessary function in maintaining the balance that the knowledge-goddess requires.
 
-#### Enemies
+### Enemies
 
 - **Provincial Warden Tevik**: An official tasked with enforcing hunting regulations and conservation laws, views Drákonis's disregard for these restrictions as insufferable and has made his arrest a personal mission despite the political complications his capture would create.
 - **The Poacher's Syndicate**: A criminal organization that controls illegal hunting operations and views Drákonis as a threat to their profits; they have attempted to eliminate him multiple times.
 - **Merchant-Lord Cassian**: A wealthy trader whose hunting party was decimated by a great predator; Cassian blames Drákonis for failing to eliminate the beast beforehand and has sworn vendetta against him.
 
-#### Affiliations
+### Affiliations
 
 None (operates as independent contractor only).
 
-### Plot Hooks
+## Plot Hooks
 
 1. **The Impossible Predator**: Drákonis is contracted to hunt a creature that local authorities describe as a massive wolf or perhaps a cursed bear. Investigation reveals that the creature is neither—it is something else entirely, something that moves with intelligence that seems almost human and demonstrates tactical sophistication that defies explanation. The tracks suggest it is learning, adapting to Drákonis's hunting strategies in real-time. As the pursuit continues, Drákonis becomes convinced that the creature is not a natural animal at all but something far more dangerous—a being from the wildlands that operates by rules he does not yet understand.
 

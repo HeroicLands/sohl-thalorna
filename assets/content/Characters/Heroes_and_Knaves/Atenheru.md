@@ -604,19 +604,19 @@ sohl:
     defaultCombatGroup: null
 ---
 
-## Appearance {#appearance}
+# Appearance {#appearance}
 
 Atenheru stands 6'2\" tall with a medium build. He has olive-tanned skin, dark hair, and brown eyes. His features include an oval face, a long nose, a pointed chin, full lips, arched brows.
 
-## Dossier {#dossier}
+# Dossier {#dossier}
 
 Atenheru, known as “The Silent Jackal,” was a desert ranger from the **Sahri** nomads, a tribe living in the remote reaches of the **Desert of Khazryn Desert**. Skilled in tracking and surviving in one of the harshest environments in the world, Atenheru developed an unparalleled connection with the desert and its spiritual forces. During one of his routine desert patrols, Atenheru stumbled upon [[being-mrtsbkhkmn|Meret-Sebek]], who had wandered deep into the desert after the first of his celestial visions. At the time, [[being-mrtsbkhkmn|Meret-Sebek]] was lost, dehydrated, and struggling to interpret the significance of the stars guiding him into the unknown.
 
 Atenheru, guided by an instinctual pull from the **Jackal Spirit**—a protector of wanderers in the desert—rescued [[being-mrtsbkhkmn|Meret-Sebek]] and brought him to a hidden oasis. It was there, as [[being-mrtsbkhkmn|Meret-Sebek]] shared his visions of celestial upheaval, that Atenheru realized their fates were entwined. The same stars that guided [[being-mrtsbkhkmn|Meret-Sebek]] through his visions also aligned with the Sahri’s ancient prophecies. Believing that [[being-mrtsbkhkmn|Meret-Sebek]]’s quest might hold the key to understanding the mysteries of the desert and its spiritual protectors, Atenheru pledged his assistance, convinced that the Jackal Spirit had chosen him to guide the astrologer through the perils of both the desert and his destiny.
 
-### Background
+## Background
 
-#### Skills and Abilities
+### Skills and Abilities
 
 - **Strength**: Atenheru is physically capable, though not heavily muscled.
 - **Endurance**: He has the stamina for long hunts and journeys in the desert.
@@ -636,25 +636,25 @@ Atenheru, guided by an instinctual pull from the **Jackal Spirit**—a protector
 - **Silent Tracker**: As a ranger, Atenheru can move unnoticed through almost any terrain, making him invaluable as a scout and guide. His ability to follow tracks, both physical and spiritual, helps the group avoid danger.
 - **Spiritual Connection to the Jackal Spirit**: Atenheru feels a deep bond with the **Jackal Spirit**, which guides him through intuition and dreams. This connection allows him to sense spiritual disturbances or approaching threats, protecting the group from dangers both seen and unseen.
 
-### Psyche
+## Psyche
 
-#### Personality
+### Personality
 
 Atenheru is quiet, observant, and deeply spiritual, drawing his strength from the desert and the ancient spirits that guide his people. He is a calm, reassuring presence, grounded by his connection to the land and its spiritual energies. Atenheru believes in fate and destiny, but he tempers this with practicality, focusing on survival and ensuring [[being-mrtsbkhkmn|Meret-Sebek]]’s safety as they journey into the unknown.
 
-#### Motivation
+### Motivation
 
 Atenheru believes that [[being-mrtsbkhkmn|Meret-Sebek]]’s visions are tied to the prophecies of his people and that by assisting him, he will fulfill his own spiritual purpose as the Jackal Spirit’s chosen protector. He feels a sense of destiny in helping [[being-mrtsbkhkmn|Meret-Sebek]] navigate the challenges of the desert and beyond.
 
-#### Strengths
+### Strengths
 
 - **Tracking**: Master tracker, able to navigate harsh desert terrain.
 - **Stealth**: Skilled at moving silently and avoiding detection.
 - **Spiritual Connection**: Deep bond with the Jackal Spirit, offering protection.
 
-### Social
+## Social
 
-### Plot Hooks
+## Plot Hooks
 
 1. **The Sands of Deception**: A caravan under Atenheru’s protection disappears without a trace, leaving behind only strange tracks leading into the desert. As Atenheru investigates, he uncovers evidence of a group using illusions to ambush and enslave travelers. To stop them, he must navigate the shifting dunes while contending with a rising fear that these enemies are connected to his own tribe’s lost past.
 

@@ -322,49 +322,49 @@ sohl:
         disabled: false
 ---
 
-![[dnstrdr|Dune Strider]]{float: top-left}
+# Appearance {#appearance}
 
-## Appearance {#appearance}
+![[dnstrdr|Dune Strider]]{float: top-left}
 
 The creature is impossibly tall, standing a full head and shoulders above human height on legs like living stilts. Tan and cream plumage ripples in the desert wind, providing camouflage so perfect that distance makes the creature seem to materialize from sand itself. The head is proportionally tiny, crowned with a wicked curve of beak, but the eyes are alert, intelligent, and constantly scanning. When it moves, the motion is economical and graceful: each step covers ground with remarkable efficiency, the powerful legs driving the body forward in bursts of speed. When it runs, dust rises in billowing clouds that obscure all vision, a golden veil between predator and prey.
 
-## Dossier {#dossier}
+# Dossier {#dossier}
 
 The Dune Strider is an enormous, flightless bird found in hot deserts. Standing eight to ten feet tall and weighing one hundred fifty to three hundred pounds, these creatures are remarkably adapted to desert life. They are herbivorous/omnivorous foragers, eating desert plants, insects, and seeds. They are social animals, typically moving in small herds of four to six individuals. While not aggressive by nature, they are capable of defending themselves with powerful kicks capable of breaking bones and killing predators. They are famous for their speed—capable of sustained running across open desert at speeds approaching thirty miles per hour. A mounted rider on a trained Dune Strider can cross desert terrain faster than nearly any other land mount. Adventurers encounter these creatures while traveling desert regions, sometimes attempting to capture young birds for mount training.
 
-### Presentation
+## Presentation
 
 An enormous flightless bird with extremely long, powerful legs and a small head disproportionate to body size. The plumage is tan and cream, providing excellent desert camouflage. The beak is relatively small but sharp and capable. The feet are wide and clawed, adapted for sandy terrain. The body is streamlined, suggesting speed. The tail is long and used for balance during rapid running.
 
-### Key Behaviors
+## Key Behaviors
 
 Dune Striders are social and herbivorous, foraging in small herds. They are wary and quick to flee from perceived threats. They are capable of sustained running and can travel vast desert distances. They breed seasonally, with males displaying elaborate dances.
 
-### Combat Strategy
+## Combat Strategy
 
 Dune Striders flee from threats but will kick defensively when cornered. A herd may stampede if threatened.
 
-### Attack Methods
+## Attack Methods
 
-#### Powerful Leg Kick
+### Powerful Leg Kick
 
 The Dune Strider delivers powerful kicks with legs like living clubs, capable of breaking bones and knocking targets backward.
 
-#### Beak Peck
+### Beak Peck
 
 The beak can inflict minor injuries on small threats.
 
-### Special Abilities
+## Special Abilities
 
-#### Desert Speed and Endurance
+### Desert Speed and Endurance
 
 Dune Striders can run at high speeds across desert terrain for extended periods. Their endurance at running speeds is legendary.
 
-#### Dust-raising Camouflage
+### Dust-raising Camouflage
 
 When running at speed, the Dune Strider kicks up clouds of dust that obscure vision and create a defensive screen.
 
-### Attributes
+## Attributes
 
 - **Strength:** 10-15 (1d6+9)
 - **Endurance:** 11-16 (1d6+10)
@@ -376,4 +376,4 @@ When running at speed, the Dune Strider kicks up clouds of dust that obscure vis
 - **Reasoning:** 5-8 (1d4+4)
 - **Creativity:** 4-7 (1d4+3)
 
-#### Unmatched Speed
+### Unmatched Speed

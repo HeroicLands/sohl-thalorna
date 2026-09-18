@@ -598,23 +598,23 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![[eshewamagr|Eshe wa Magara]]{float: top-left}
+# Appearance {#appearance}
 
-## Appearance {#appearance}
+![[eshewamagr|Eshe wa Magara]]{float: top-left}
 
 Eshe stands 5'9" tall with a heavy build. She has dark skin, dark hair, and dark eyes. Her features include a wide face, a wide-nostriled nose, a rounded chin, prominent lips, strong brows.
 
 Her most notable feature is the series of tribal markings etched into her skin, starting from the left side of her neck and running down to her arm—intricate, swirling patterns that symbolize her bond with the Spirit Blade and the spirits of the Magara. Eshe wears a simple, sleeveless tunic made of dark leather, leaving her arms bare to display her tribal tattoos. A pair of bracers, inscribed with more spiritual symbols, adorn her wrists, while her legs are clad in flexible but durable leather pants, allowing for swift movement. Her Spirit Blade, sleek and curved with a faint ethereal glow, is always strapped across her back when not in use, its presence a constant reminder of her connection to the spirit realm. Eshe’s movements are precise and methodical, her posture upright and imposing, as if every step is part of a deliberate, unspoken ritual.
 
-## Dossier {#dossier}
+# Dossier {#dossier}
 
 Eshe wa Magara is a fierce warrior hailing from the **Magara** people, a neighboring Okháris tribe known for their martial prowess and connection to spirit weapons. Unlike [[being-kirobashkm|Kiroba]]’s Shókuma tribe, the Magara are more warlike, often engaging in raids and conflicts with other tribes. Eshe’s upbringing was harsh, trained from a young age to become a guardian of her people. However, it was her spiritual connection to the ancient **Spirit Blade**—a weapon said to be forged with the blessings of the zohira—that set her apart.
 
 The Spirit Blade, passed down through the generations, grants its wielder the ability to cut through both physical and spiritual foes. During her initiation, Eshe was chosen by the blade when it glowed faintly as she touched it, marking her as the rightful bearer. She was tasked with protecting her people from both human invaders and spiritual disturbances. But Eshe’s destiny became intertwined with [[being-kirobashkm|Kiroba]]’s when her village began suffering from the same spiritual imbalance plaguing Shókuma lands. Spirits became hostile, and crops withered unnaturally. Sensing the need for unity among the tribes, Eshe joined [[being-kirobashkm|Kiroba]], believing their fates are tied together in restoring the balance.
 
-### Background
+## Background
 
-#### Skills and Abilities
+### Skills and Abilities
 
 - **Strength**: Eshe’s physical power is undeniable, allowing her to wield her Spirit Blade with devastating precision and strength.
 - **Endurance**: Her training as a warrior and guardian has given her exceptional stamina, allowing her to endure long battles and harsh conditions.
@@ -634,15 +634,15 @@ The Spirit Blade, passed down through the generations, grants its wielder the ab
 - **Martial Expertise**: Eshe is highly trained in both melee and ranged combat, making her a versatile and dangerous fighter in any situation.
 - **Guardian’s Instinct**: Eshe is fiercely protective of [[being-kirobashkm|Kiroba]] and the group, often acting as the vanguard in combat and shielding them from attacks.
 
-### Psyche
+## Psyche
 
-#### Personality
+### Personality
 
 Eshe is a pragmatic and fearless warrior, with a deep sense of loyalty to her people and to the greater good. She is highly protective of [[being-kirobashkm|Kiroba]] and the rest of the group, willing to put herself in harm’s way to ensure their safety. Despite her harsh upbringing, Eshe has a strong moral compass and a calm demeanor, rarely letting her emotions guide her actions. Her bond with the Spirit Blade makes her sensitive to shifts in the spirit world, and she often has premonitions of danger.
 
-### Social
+## Social
 
-### Plot Hooks
+## Plot Hooks
 
 1. **The Mark of the Blade**:
 

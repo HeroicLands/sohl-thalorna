@@ -595,43 +595,43 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![[angldskntkzns|Ángelides Kantakouzenós]]{float: top-left}
+# Appearance {#appearance}
 
-## Appearance {#appearance}
+![[angldskntkzns|Ángelides Kantakouzenós]]{float: top-left}
 
 Ángelides stands 6'3" tall with a heavy build. He has tanned weathered skin, black hair, and green eyes. His features include a long face, a hawkish nose, a pronounced chin, well-defined lips, prominent brows. A distinguishing mark is a scar on the neck.
 
-## Dossier {#dossier}
+# Dossier {#dossier}
 
-### Background
+## Background
 
-#### Early Years and Tragedy
+### Early Years and Tragedy
 
 Born to a merchant family in the Byzarian League, Ángelides was raised with every advantage—education, connections, and exposure to the finer pleasures of the cosmopolitan cities of the north. His childhood was spent in the marketplace stalls of his family's perfume house, where he learned to distinguish thousands of scents, to understand the poetry of olfaction, and to recognize how fragrance shapes emotion and memory. At seventeen, he was betrothed to a young woman of equal standing, **Lady Thessal Kantakouzenós**—a marriage that was to unite two powerful merchant families.
 
 On the night of their wedding, tragedy struck. A rival merchant house, jealous of his family's dominance in the lucrative perfume trade, orchestrated an attack. Ángelides survived only by chance—his would-be assassin's blade struck his neck rather than his heart. His betrothed was not so fortunate. Thessal died in his arms, whispering words of forgiveness rather than recrimination, even as her blood stained the silken wedding garments they both wore.
 
-#### Transformation Through Craft
+### Transformation Through Craft
 
 For three years afterward, Ángelides withdrew from society entirely, nearly taking his own life. It was his grandmother, **the legendary perfumer Angelina Pheromex**, who saved him by forcing him back into the workshop. She had him create a scent memory of Thessal—an impossible task, yet in attempting it, Ángelides discovered something profound: fragrance as a tool for transformation, for healing, for capturing the ineffable and rendering it tangible. He became obsessed, channeling his grief into learning every secret of the craft, traveling to distant lands to source rare botanicals and animal essences, studying with masters both orthodox and heterodox.
 
-#### Current Station
+### Current Station
 
 Now a master perfumer of unquestioned reputation, Ángelides operates his own exclusive establishment within the Byzarian League's capital, serving only the most discerning clientele. He has achieved wealth and fame, yet neither brings him satisfaction. His work is meticulous, even obsessive—he often spends months perfecting a single fragrance, rejecting batch after batch as insufficiently true to his vision. Nobility and merchants of consequence commission him for signature scents, and his waiting list extends years into the future. Yet beneath his graceful social competence lurks a man still haunted by loss, still questioning whether his creations truly honor Thessal's memory or merely perpetuate his obsession.
 
-### Psyche
+## Psyche
 
-#### Personality
+### Personality
 
 Ángelides presents himself with considerable charisma and calculated warmth. He is an excellent listener, asking precisely the right questions to understand his clients' deepest desires, and his words are chosen with the deliberate care of a master craftsman selecting materials. Yet this charm masks a volcanic interior—he harbors perfectionist tendencies bordering on pathological, and his internal criticism is devastating. To outsiders, he appears supremely confident; in private, he torments himself with doubts about every creation, certain he has failed to achieve the transcendence he pursues. His aura of authority and creative genius attracts followers and admirers, yet he maintains emotional distance from nearly everyone, reserving his deepest affections for his work and the memory of his lost bride.
 
 He is haunted by guilt—survivor's guilt that manifests as compulsive striving, an inability to accept anything less than perfection, and a peculiar generosity toward those he deems worthy, as though attempting to balance cosmic scales. Despite his considerable wealth, he lives simply, spending lavishly only on materials and ingredients, and donating substantial portions of his income to charitable causes that serve the poor and widowed.
 
-#### Motivation
+### Motivation
 
 Ángelides drives himself relentlessly to create fragrances that transcend mere craftsmanship and achieve something approaching transcendence—scents that genuinely transform the emotional landscape of those who encounter them. He believes that through his work, he keeps Thessal's memory alive and honors her brief existence by elevating the mundane human experience toward beauty. Beneath this noble motivation lies a darker current: the suspicion that no perfection he achieves will ever satisfy him, that he is chasing an impossible goal to escape the gravity of his grief. He seeks redemption through creation, though he is not entirely certain what he is being redeemed for.
 
-#### Strengths
+### Strengths
 
 - **Unparalleled Olfactory Mastery**: Perfumery (16) elevated through five decades of obsessive study and experimental work. Ángelides can compose fragrances of stunning complexity, layering top, middle, and base notes into symphonic olfactory experiences. He can identify and work with thousands of distinct botanical and animal essences.
 
@@ -645,7 +645,7 @@ He is haunted by guilt—survivor's guilt that manifests as compulsive striving,
 
 - **Musical Sophistication**: Musician (18), his highest skill, reflects an almost supernatural understanding of composition, harmony, and rhythm. He often discusses fragrance in musical terms, treating scent as a form of abstract music, each component a "note" in a larger symphony.
 
-#### Weaknesses
+### Weaknesses
 
 - **Pathological Perfectionism**: He is never satisfied with his work, no matter how acclaimed. He frequently recalls completed commissions to rework them, driving clients to frustration. His obsessive revisions often delay projects by months or years.
 
@@ -657,9 +657,9 @@ He is haunted by guilt—survivor's guilt that manifests as compulsive striving,
 
 - **Social Isolation**: Despite his impressive Charm and Eloquence, he maintains profound emotional distance from others. He has few genuine friends and no romantic entanglements, channeling all intimate capacity into his work. This isolation intensifies his obsessive tendencies.
 
-### Social
+## Social
 
-#### Patrons
+### Patrons
 
 - **Duchess Verenthia Stonehold**: An aging noblewoman of considerable power who has become Ángelides' most steadfast patron and something approaching a confidante. She commissions fragrance for every season and has referred numerous wealthy clients. She has also begun asking him searching questions about his past and future that suggest maternal concern.
 
@@ -667,7 +667,7 @@ He is haunted by guilt—survivor's guilt that manifests as compulsive striving,
 
 - **Master Educator Theron**: The head of the Byzarian League's premier academy has engaged Ángelides to create a signature scent for the institution and has begun encouraging him toward mentorship roles, recognizing that his knowledge is irreplaceable and at risk of being lost if not passed on.
 
-#### Enemies
+### Enemies
 
 - **Rival Perfumer Malachius Blackrose**: The only craftsman working at anywhere near Ángelides' level, Malachius is driven by bitter envy and has begun spreading rumors that Ángelides' fragrances contain narcotic additives and that he has achieved his reputation through illicit magic rather than legitimate skill. Malachius has also been systematically recruiting away Ángelides' few apprentices.
 
@@ -675,13 +675,13 @@ He is haunted by guilt—survivor's guilt that manifests as compulsive striving,
 
 - **The Church Inquisitor Malthas**: A zealous religious official who suspects Ángelides' use of animal musks and certain exotic botanicals to constitute forbidden practices. He has initiated a quiet investigation into whether Ángelides' work violates religious law, creating legal jeopardy even if unfounded.
 
-#### Affiliations
+### Affiliations
 
 - **The Byzarian League Artisans' Guild**: Ángelides holds master status and serves on the guild's board, though his attendance at meetings is sporadic. He uses his influence to advocate for rigorous standards in craft and refuses to countenance shortcuts or inferior work.
 
 - **The Society of Botanical Scholars**: An informal collective of naturalists, herbalists, and alchemists who correspond with Ángelides and occasionally undertake joint expeditions to source rare materials from dangerous or distant locations.
 
-### Plot Hooks
+## Plot Hooks
 
 1. **The Scent of Resurrection**: An old woman arrives at Ángelides' workshop claiming to be a visitor from the spirit realm, bearing a vial containing fragments of a scent she claims belonged to Thessal in life—impossible, since such a thing cannot exist. Yet when Ángelides smells it, it contains elements that match his deepest intuitions about what Thessal would have worn. The woman demands he recreate the full fragrance, claiming it will allow Thessal's spirit to briefly walk the material world once more. The task is technically feasible, but it will require materials of such rarity and moral ambiguity that obtaining them will force Ángelides to compromise his ethics. Is the woman genuine, a con artist, or something far stranger? What does he truly stand to gain or lose?
 

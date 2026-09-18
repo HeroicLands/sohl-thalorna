@@ -549,11 +549,11 @@ sohl:
     defaultCombatGroup: null
 ---
 
-## Appearance {#appearance}
+# Appearance {#appearance}
 
 Déraen Kálmereth is a 29-year-old woman who stands 5'9" tall and is of moderate build. She has an oval face with high cheekbones, a wide forehead, and an angular jaw that leads to a pointed chin. Her hooded amber eyes sit beneath arched brows, lending her a guarded gaze. A delicate nose and narrow lips complete her features. She has light skin with a pale complexion. Her brown hair is loose and wavy.
 
-## Dossier {#dossier}
+# Dossier {#dossier}
 
 Born in the Élavendre region to a freeman family of Élavendri heritage, Déraen Kálmereth came into the world of the salter through a combination of circumstance and aptitude.
 
@@ -561,37 +561,37 @@ Elowen is a dedicated salter who works alongside her father in their family-run 
 
 Now at 29 years of age, Déraen Kálmereth has established herself as a known figure among the salters of Élavendre. Her reputation, for better or worse, precedes her in the circles where such things matter.
 
-### Psyche
+## Psyche
 
-#### Personality
+### Personality
 
 Can be overly perfectionistic, struggles with self-confidence.
 
-#### Motivation
+### Motivation
 
 Déraen is driven by the desire to master her craft and secure a stable future. The uncertainties of life in salter work keep her vigilant and adaptable.
 
-#### Strengths
+### Strengths
 
 Attention to detail, skilled in customer relations, knowledgeable about salt's uses.
 
-### Social
+## Social
 
 Déraen is affiliated with None; operates independently..
 
 As a Élavendri salter, Déraen occupies a recognized social niche within Élavendre society.
 
-### Companions
+## Companions
 
-#### Patrons
+### Patrons
 
 Déraen's primary patron is Local households and merchants seeking quality salt.. This relationship provides both opportunity and obligation.
 
-#### Enemies
+### Enemies
 
 Few; generally well-liked, though some competitors may envy her success.
 
-### Plot Hooks
+## Plot Hooks
 
 1. **The Salter's Dilemma** — Déraen faces a professional crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Élavendre.
 

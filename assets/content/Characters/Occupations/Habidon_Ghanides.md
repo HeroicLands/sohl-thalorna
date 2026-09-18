@@ -528,11 +528,11 @@ sohl:
     defaultCombatGroup: null
 ---
 
-## Appearance {#appearance}
+# Appearance {#appearance}
 
 Habìdon is a giant of a man — 6'6" and 227 pounds of broad-shouldered, thick-limbed muscle built by years of hauling rope and swinging boarding axes. His dark brown hair is cut short and unevenly, as though he does it himself with a knife, and his brown eyes sit in a dark-skinned, bronzed face that has been scoured by salt spray and sun until it resembles old leather. His nose is flat and broad, broken and reset more times than he can count, and his knuckles are a landscape of scar tissue from close-quarters boarding combat. A tattoo of an anchor and chain in faded blue ink covers his left forearm. He moves with the rolling gait of a man more comfortable on a pitching deck than on solid ground, and wears a sleeveless mail shirt over salt-stained linen, with a hand axe and heavy knife on his belt.
 
-## Dossier {#dossier}
+# Dossier {#dossier}
 
 Habìdon was born into Heliónis's maritime culture where the sea is as fundamental as breath. His family worked the docks: loading cargo, maintaining vessels, repairing rigging. He grew up watching combat-ready naval forces and was conscripted into the Helionite marine service at nineteen. The transition from dock labor to naval infantry was surprisingly natural; the work required the same problem-solving and physical competence, only with higher stakes.
 
@@ -540,35 +540,35 @@ Eight years of marine service have made Habìdon profoundly comfortable in naval
 
 At twenty-eight, he is the oldest marine in his current detachment, and he has developed a reputation as steady and reliable under the chaos of naval combat. He has been offered promotion to naval officer multiple times and has refused each time; he has no interest in the administrative layers that come with rank. He simply wants to keep doing the work he is good at for as long as his body permits.
 
-### Psyche
+## Psyche
 
-#### Personality
+### Personality
 
 Habìdon is relaxed in his manner and remarkably unflappable under stress. He is superstitious in the way maritime people are superstitious—he respects the sea's power and takes precautions, but without paranoia. He is sociable with his fellow marines and less comfortable in formal social settings. He has a bawdy sense of humor and an appreciation for crude practical jokes. Despite his size and martial capability, he is gentle with smaller people and patient with those learning naval skills.
 
-#### Motivation
+### Motivation
 
 Habìdon wants to remain part of the Helionite marine service until age or injury makes it impossible. He has no ambitions for fame and no interest in advancing beyond his current role. His motivation is the simple satisfaction of mastering a craft—being exceptionally good at something that matters to his people. He is also driven by a genuine love of the sea itself, treated almost as a living entity to be respected and partnered with.
 
-#### Strengths
+### Strengths
 
 His combat ability in naval environments is exceptional. He understands ship-handling and nautical logistics better than many officers. His physical strength is extraordinary and particularly useful in boarding actions. He is remarkably intelligent about problem-solving in chaotic environments.
 
-### Social
+## Social
 
 Habìdon occupies an unusual social position within Heliónis: respected as a professional but remaining firmly working-class. He is at home with dock workers and fellow marines but visibly uncomfortable among the merchant aristocracy that technically employs him.
 
-### Companions
+## Companions
 
-#### Patrons
+### Patrons
 
 **Admiral Kyrtos Pelagos** — The senior naval commander overseeing Habìdon's current detachment. Kyrtos is a career officer who recognizes Habìdon's value and has explicitly protected him from promotion pressure, understanding that Habìdon is far more useful as a senior marine than as a reluctant officer. Kyrtos has also ensured that Habìdon's service record is exemplary, which will ensure a strong pension upon retirement.
 
-#### Enemies
+### Enemies
 
 **Captain Marius Valerian** — A younger officer commanding one of the merchant navy vessels that operates under the Helionite military umbrella. Valerian is ambitious and politically connected, and he views Habìdon's refusal of promotion as insulting to military hierarchy. He has repeatedly requested Habìdon be "reassigned" (essentially dismissed) from the service for insubordination. His requests have been denied, which has made him resentful.
 
-### Plot Hooks
+## Plot Hooks
 
 1. **The Mutiny's Edge** — During a major naval operation, Habìdon becomes aware that Captain Valerian has given an order that will almost certainly result in the destruction of his ship and crew. The order is technically sound from a strategic perspective but Habìdon recognizes that Valerian issued it specifically to eliminate Habìdon and his fellow marines—a military execution disguised as tactical decision. Habìdon informs Admiral Kyrtos, who orders the operation halted. Kyrtos has evidence that Valerian intentionally created the dangerous situation. But proving attempted murder through military command is politically complex, and Kyrtos suggests that Habìdon might disappear for a season while the investigation proceeds quietly. Habìdon must choose between his loyalty to Kyrtos and his refusal to abandon his fellow marines.
 

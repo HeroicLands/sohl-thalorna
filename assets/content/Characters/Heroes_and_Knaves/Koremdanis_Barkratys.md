@@ -590,41 +590,41 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![[krmdnsbrkrtys|Korêmdânis Bárkrâtys]]{float: top-left}
+# Appearance {#appearance}
 
-## Appearance {#appearance}
+![[krmdnsbrkrtys|Korêmdânis Bárkrâtys]]{float: top-left}
 
 Korêmdânis stands 6'0" tall with a medium build. She has light olive skin, auburn hair, and amber eyes. Her features include an oblong face, a prominent nose, a narrow chin, slightly pursed lips, heavy brows, angular cheeks. A distinguishing mark is a tattoo of a dragonfly on the neck.
 
-## Dossier {#dossier}
+# Dossier {#dossier}
 
-### Background
+## Background
 
-#### Early Life
+### Early Life
 
 Korêmdânis was born into House Bárkrâtys, a noble family of the Empire of Vylaria whose historical prominence had faded by the time of her birth into obscurity and reduced means. Where her brothers were expected to pursue military or administrative careers, Korêmdânis showed from childhood an obsessive interest in the art of the blade. Her father, Lord **Mikhâen Bárkrâtys**, indulged her unusual passion as a whim, but when she persisted through adolescence with singular focus, he recognized it as a gift and sought out the finest instruction available. At age twelve, she was placed under the tutelage of **Swordmaster Valdis**, a legendary figure in the dueling circles of **Vald**, the capital city of the Empire.
 
-#### Training and Ascension
+### Training and Ascension
 
 Under Valdis's exacting instruction, Korêmdânis proved to be not merely talented but transcendent. Where most duelists took decades to master the fundamental forms, she grasped them within years and moved quickly to advanced technique. At eighteen, she achieved her first formal recognition as a master swordsperson, but she knew she had barely begun. Over the following years, she traveled throughout the Empire and beyond, seeking out the finest duelists and military trainers, fighting in official competitions, studying ancient texts on swordsmanship, and eventually achieving mastery of the sacred Path of Breath—a meditative martial discipline that unites physical technique with spiritual discipline. The dragonfly tattoo on her neck marks her as one of only three living masters of this path. Her mastery earned her not merely skill but philosophical insight into the nature of conflict, honor, and the responsibility that comes with the ability to kill.
 
-#### Current Situation
+### Current Situation
 
 Now established as perhaps the foremost swordmaster in the Empire of Vylaria, Korêmdânis operates a prestigious fencing academy in **Vald** that is attended by the children of the realm's most powerful families. She teaches not merely technique but philosophy, selecting students with care and maintaining rigorous standards of both skill and character. Her reputation extends far beyond the Empire—rival duelists from other realms travel to challenge her, poets compose verses about her victories, and noble families from distant lands send their heirs to study with her. Despite her renown, she remains austere, accepting only students who demonstrate genuine commitment and refusing to teach those she believes would abuse their skills.
 
-### Psyche
+## Psyche
 
-#### Personality
+### Personality
 
 Korêmdânis is a woman of few words and absolute principle. She communicates primarily through action and demonstration, believing that excessive speech clouds understanding. In teaching, she is demanding but fair, pushing her students to their limits because she believes that true growth comes only through challenging oneself. She possesses an intense competitive drive that borders on obsession—every duel, every sparring session, every test is an opportunity to refine her craft further and to prove her mastery. This competitive nature sometimes leads her to take unnecessary risks or to pursue victory with fierce intensity that others find intimidating.
 
 Yet beneath the competitive exterior lies a person of genuine principle and honor. She is bound by a strict code of conduct that governs all her actions—she will not accept challenges from those she knows she can easily defeat, she refuses to duel those who are drunk or emotionally unstable, and she has turned down offers of enormous wealth if they involved compromising her integrity. She serves **Flórania**, goddess of fertility and growth, not through prayer or ritual but through her dedication to helping others grow and develop their full potential. She sees in each of her students the possibility of becoming something magnificent, and she dedicates herself to nurturing that potential.
 
-#### Motivation
+### Motivation
 
 Korêmdânis is driven by a vision of mastery that transcends mere technical skill. She seeks to perfect not merely the art of swordsmanship but the art of living with complete integrity, discipline, and purpose. She believes that combat is ultimately a form of communication and that a perfect duel is a kind of conversation between two skilled practitioners. She is driven to achieve such a state of unity with her weapons and her purpose that every movement becomes an expression of spiritual truth. Additionally, she harbors a desire to preserve and elevate the traditions of swordplay, fearing that in an age of increasingly utilitarian warfare, the philosophical and spiritual dimensions of martial discipline are being lost. She also seeks to rebuild her family's honor through her own legendary accomplishments, transforming House Bárkrâtys from a name of faded glory into one synonymous with martial excellence and integrity.
 
-#### Strengths
+### Strengths
 
 - **Unparalleled Melee Mastery**: With melee skill at 16 and multiplied 4 times, she is the most dangerous warrior in her region. Her swordwork is nearly perfect, her technique efficient and devastating, and her intuitive grasp of combat principles allows her to anticipate and counter opponent moves with preternatural accuracy.
 - **Supernatural Reflexes and Agility**: Dexterity of 16 and agility of 15, combined with throwing skill at 16 (×5), make her capable of feats of physical coordination that seem almost impossible. She can dodge attacks that others would consider unavoidable and strike with precision from impossible angles.
@@ -634,7 +634,7 @@ Korêmdânis is driven by a vision of mastery that transcends mere technical ski
 - **Versatile Athletic Ability**: She possesses advanced capabilities in climbing, swimming, acrobatics, and any physical discipline she focuses on, giving her exceptional mobility and tactical flexibility.
 - **Inspiring Presence**: Despite her intimidating demeanor, she is capable of genuine eloquence (14) and commanding authority (14) that can inspire loyalty in followers and respect from rivals.
 
-#### Weaknesses
+### Weaknesses
 
 - **Emotional Detachment**: Her single-minded focus on martial discipline has created emotional distance from others. She struggles with intimate relationships and sometimes seems almost inhuman in her emotional restraint.
 - **Pride and Arrogance**: Her supreme confidence in her abilities can border on arrogance. She sometimes misjudges situations by overestimating her own capabilities or underestimating the cleverness of non-martial opponents.
@@ -643,28 +643,28 @@ Korêmdânis is driven by a vision of mastery that transcends mere technical ski
 - **Isolation and Loneliness**: Her austere lifestyle and high standards have isolated her from peers. She has few genuine friendships and sometimes seems burdened by the loneliness of being at the peak of her profession with no true equals.
 - **Vulnerability to Magic**: For all her martial perfection, she has no training in dealing with magical attacks or enchantments. A skilled mage would be far more dangerous to her than any swordsperson.
 
-### Social
+## Social
 
-#### Patrons
+### Patrons
 
 - **The Imperial House of Vylaria**: The royal family employs her as unofficial advisor on martial matters and frequently commissions her to teach their scions. The Emperor himself has attended her demonstrations.
 - **House Bárkrâtys**: Her own noble family relies on her to restore their reputation and standing, and she has successfully elevated their status from declining house to one of prestige in Vald.
 - **The Wyvern-Sword Company**: A mercenary military company hires her as a consultant for combat training and occasionally seeks her counsel on strategic matters.
 - **Wealthy Merchant Families**: Several prominent merchant families, eager to have their children trained by the legendary master, pay enormous sums for private instruction and commission special training regimens.
 
-#### Enemies
+### Enemies
 
 - **Swordmaster Lysandor the Undefeated**: Officially, no rival; practically, Lysandor serves the Empire's rival power and harbors intense envy of Korêmdânis's reputation. They have not yet formally dueled, though both know it is inevitable.
 - **The Iron Circle**: A shadowy assassin's guild views Korêmdânis as a threat to their operations, as her students often become bodyguards and protectors. They have made subtle attempts to undermine her reputation.
 - **Her Own Ambition**: In a sense, her greatest enemy is her perfectionist drive, which drives her forward endlessly but allows her no rest or satisfaction.
 
-#### Affiliations
+### Affiliations
 
 - **The City Fencing Guild of Vald**: She is the Guild's acknowledged master and serves as final arbiter in disputes over technique and conduct within the dueling circles.
 - **The Path of Breath**: The sacred martial order to which she belongs, comprising only the most accomplished warriors devoted to uniting technique with spiritual discipline.
 - **House Bárkrâtys**: Her noble family, whose honor she has restored and whose name she continues to elevate through her accomplishments.
 
-### Plot Hooks
+## Plot Hooks
 
 1. **The Challenge from the East**: Word arrives that a legendary swordmaster from the distant **Eastern Kingdoms**, a figure named **Hiroshi the Unbound**, wishes to challenge Korêmdânis to a duel. This master is said to practice a form of swordsmanship completely unknown in Vylaria, based on principles fundamentally different from the Path of Breath. Accepting the challenge could result in either triumph or the first real defeat of her career. The duel would draw international attention and could have diplomatic consequences, making it far more than a simple test of martial skill.
 

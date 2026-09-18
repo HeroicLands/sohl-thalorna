@@ -552,11 +552,11 @@ sohl:
     defaultCombatGroup: null
 ---
 
-## Appearance {#appearance}
+# Appearance {#appearance}
 
 Khôrn Hálren is a 36-year-old man who stands 6'0" tall and is broad and solidly built. He has an angular face with defined cheekbones, a lined forehead, and a narrow jaw that leads to a pointed chin. His almond-shaped hazel eyes sit beneath arched brows, lending him a measured gaze. A straight nose and firm lips complete his features. He has light skin with a lightly freckled complexion. His blonde hair is combed neatly to one side.
 
-## Dossier {#dossier}
+# Dossier {#dossier}
 
 Born in the Élavendre region to a freeman family of Élavendri heritage, Khôrn Hálren came into the world of the yeoman infantry through a combination of circumstance and aptitude.
 
@@ -564,37 +564,37 @@ Cedric has served as a yeoman infantryman for nearly two decades, first joining 
 
 Now at 36 years of age, Khôrn Hálren has established himself as a known figure among the yeoman infantrys of Élavendre. His reputation, for better or worse, precedes him in the circles where such things matter.
 
-### Psyche
+## Psyche
 
-#### Personality
+### Personality
 
 Sometimes struggles with the emotional toll of war, slow to adapt to new strategies.
 
-#### Motivation
+### Motivation
 
 Khôrn is driven by the desire to master his craft and secure a stable future. The uncertainties of life in yeoman infantry work keep him vigilant and adaptable.
 
-#### Strengths
+### Strengths
 
 Physically strong, experienced in melee combat, disciplined.
 
-### Social
+## Social
 
 Khôrn is affiliated with Local Militia.
 
 As a Élavendri yeoman infantry, Khôrn occupies a recognized social niche within Élavendre society.
 
-### Companions
+## Companions
 
-#### Patrons
+### Patrons
 
 Khôrn's primary patron is The local lord who calls upon him for military service.. This relationship provides both opportunity and obligation.
 
-#### Enemies
+### Enemies
 
 Rival soldiers from opposing regions.
 
-### Plot Hooks
+## Plot Hooks
 
 1. **The Yeoman Infantry's Dilemma** — Khôrn faces a professional crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Élavendre.
 

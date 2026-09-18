@@ -554,11 +554,11 @@ sohl:
     defaultCombatGroup: null
 ---
 
-## Appearance {#appearance}
+# Appearance {#appearance}
 
 Vithár Hildvith is a 47-year-old man who stands 6'3" tall and is broad and solidly built. He has an angular face with defined cheekbones, a wide forehead, and a heavy jaw that leads to a broad chin. His large brown eyes sit beneath prominent brows, lending him an expressive gaze. A strong nose and expressive lips complete his features. He has fair skin with a sun-tanned complexion. His dark brown hair is thick and unkempt.
 
-## Dossier {#dossier}
+# Dossier {#dossier}
 
 Born in the Vrystwald region to a freeman family of Varokhi heritage, Vithár Hildvith came into the world of the weaponcrafter (armorer) through a combination of circumstance and aptitude.
 
@@ -566,37 +566,37 @@ Garrick grew up in a small village, where he learned the basics of blacksmithing
 
 Now at 47 years of age, Vithár Hildvith has established himself as a known figure among the weaponcrafter (armorer)s of Vrystwald. His reputation, for better or worse, precedes him in the circles where such things matter.
 
-### Psyche
+## Psyche
 
-#### Personality
+### Personality
 
 Lacks creativity in design, tends to be dismissive of ornamental work.
 
-#### Motivation
+### Motivation
 
 Vithár is driven by the desire to master his craft and secure a stable future. The uncertainties of life in weaponcrafter (armorer) work keep him vigilant and adaptable.
 
-#### Strengths
+### Strengths
 
 Skilled at forging durable weapons, strong work ethic, reliable.
 
-### Social
+## Social
 
 Vithár is affiliated with None; prefers to remain independent..
 
 As a Varokhi weaponcrafter (armorer), Vithár occupies a recognized social niche within Vrystwald society.
 
-### Companions
+## Companions
 
-#### Patrons
+### Patrons
 
 Vithár's primary patron is Soldiers, mercenaries, and local guards seeking dependable weapons.. This relationship provides both opportunity and obligation.
 
-#### Enemies
+### Enemies
 
 Blacksmiths who specialize in decorative weapons.
 
-### Plot Hooks
+## Plot Hooks
 
 1. **The Weaponcrafter (Armorer)'s Dilemma** — Vithár faces a professional crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Vrystwald.
 

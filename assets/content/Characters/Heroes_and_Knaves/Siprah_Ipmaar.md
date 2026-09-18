@@ -590,15 +590,15 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![[siprahipmr|Sip'rah Ip'maâr]]{float: top-left}
-
 **Home:** [[place-wasetkara|Wasetkara]]
 
-## Appearance {#appearance}
+# Appearance {#appearance}
+
+![[siprahipmr|Sip'rah Ip'maâr]]{float: top-left}
 
 Sip'rah stands 5'8" tall with a medium build. He has dark skin, deep black hair, and brown eyes. His features include a straight narrow nose, a narrow chin, elegantly curved brows. A distinguishing mark is a tattoo of a knight's helmet on the shoulder.
 
-## Dossier {#dossier}
+# Dossier {#dossier}
 
 Siprah was born into the Ipmaâr family, a minor merchant household of [[affiliation-empirtkhpr|Ta'Kheperu]] with no particular distinction or wealth. His father, **Paher Ipmaâr**, was a lesser official in the customs house, a position of modest authority but considerable responsibility for protecting valuable goods. It was **Paher** who first introduced young Siprah to locks and security, teaching him that these mechanisms were not merely barriers but conversations between those who would protect and those who would steal.
 
@@ -606,19 +606,19 @@ Apprenticed at thirteen to **Master Sokhoth**, then the Empire's foremost locksm
 
 Now, for fifteen years, Siprah has maintained the highest standards of his profession. He has designed locks for imperial treasuries, noble estates, merchant houses, and temples. His work is known for its elegance, security, and longevity. He has never married, living alone in chambers above his workshop, with no interest in domestic entanglements. His sole companions are his craft, his faith in Hórús the voyager, and the small circle of guild members who recognize his genius.
 
-### Psyche
+## Psyche
 
-#### Personality
+### Personality
 
 Siprah is profoundly serious in a way that sometimes reads as coldness but actually reflects intense focus and respect for the weight of responsibility his craft entails. He does not engage in casual conversation and finds small talk exhausting. Social situations where he must pretend interest in inconsequential matters leave him genuinely discomfited. This has earned him a reputation for antisocial tendencies, though those who work with him directly recognize his courtesy and his genuine regard for those he trusts.
 
 His morality is rigid but not cruel. He believes in clear rules, transparent systems, and the honest discharge of obligations. He will accept employment from anyone who can pay, regardless of their status or character, viewing this as neutral craft service rather than moral endorsement. However, he refuses work that would directly facilitate violence or conquest, making distinctions that others sometimes find incomprehensible. To **Siprah**, there is a profound difference between securing a vault and making it possible for someone to rob that vault more easily, despite both being technical lock work.
 
-#### Motivation
+### Motivation
 
 Siprah is driven by a desire to be the best locksmith who has ever lived, to surpass even **Master Sokhoth** in skill and reputation. This pursuit is not motivated by vanity but by a genuine belief that perfection in one's craft is the highest form of virtue. He also seeks to leave a body of work so excellent that it will be studied and emulated for generations, effectively achieving a form of immortality through the enduring quality of his creations. Finally, there is something quieter: a need to be necessary, to possess skills so specialized and valuable that he cannot be easily replaced or forgotten.
 
-#### Strengths
+### Strengths
 
 - **Unparalleled Lock Expertise**: Siprah's understanding of locking mechanisms approaches the theoretical and mathematical. He can design locks of such sophistication that only his own hand can open them, and he can analyze any existing lock for vulnerabilities within minutes.
 - **Meticulous Attention to Detail**: Every lock he creates is an object of art—symmetrical, balanced, built to standards that exceed client requirements. His work is durable beyond what function alone demands because he cannot produce something mediocre.
@@ -626,7 +626,7 @@ Siprah is driven by a desire to be the best locksmith who has ever lived, to sur
 - **Problem-Solving Ingenuity**: Given any security challenge, Siprah can devise innovative solutions that combine his technical knowledge with creative thinking. He has designed security systems for the most valuable facilities in the Empire.
 - **Scholarly Knowledge**: Beyond practical lock-craft, Siprah has studied the history of locks, security philosophy, and even the metaphysical meanings of barriers and protection. This theoretical grounding makes him a resource for matters beyond simple mechanics.
 
-#### Weaknesses
+### Weaknesses
 
 - **Inability to Market Himself**: Siprah's complete lack of social skill means he relies on reputation and word-of-mouth for work. He cannot negotiate aggressively or sell himself to new clients, often losing lucrative contracts to more personable competitors.
 - **Obsessive Perfectionism**: He sometimes becomes paralyzed by the pursuit of incremental improvements, delaying commissions unnecessarily. A lock that is ninety-nine percent perfect is, to him, nearly worthless if that final fraction cannot be achieved.
@@ -634,27 +634,27 @@ Siprah is driven by a desire to be the best locksmith who has ever lived, to sur
 - **Vulnerability to Manipulation**: Because **Siprah** trusts completely in contracts and systems, those skilled in social manipulation or deception can sometimes take advantage of the letter of agreements while violating their spirit. He struggles to recognize when he is being maneuvered.
 - **Physical Limitations**: His hands, while still dexterous, have begun to show the early signs of aging—minor tremors in certain light, occasional stiffness in cold weather. This terrifies him as his identity is entirely dependent on manual precision.
 
-### Social
+## Social
 
-#### Patrons
+### Patrons
 
 - **Treasurer Amenemheb**: The Imperial official responsible for the Empire's treasury holds **Siprah** in the highest regard. All imperial vaults and secure chambers have been installed with locks of his design, and **Amenemheb** provides the single largest stream of consistent work.
 - **Lady Nefertiti Meshenet**: A noble of considerable wealth and paranoid disposition. She commissions new locks and security modifications every few months, trusting no one but **Siprah** with access to her estate's systems. She pays extraordinarily well and provides social access to her wealthy peers.
 - **The Temple of Hórús**: The priesthood maintains contracts with **Siprah** for maintaining the Temple's sacred vaults. He is one of only three individuals alive who knows the complete configuration of the Temple's security system.
 - **Master Merchants' Association**: The guild of high-value traders collectively employ **Siprah** as their security consultant, and he regularly designs custom vault systems for member houses.
 
-#### Enemies
+### Enemies
 
 - **Merchant Khenti the Bold**: A thief of considerable skill who has attempted multiple times to break **Siprah's** locks and steal from his clients. Each attempt has failed, and **Khenti** harbors genuine hatred for the locksmith, viewing him as a personal nemesis and obstacle to his art.
 - **Master Sokhoth's Descendants**: The retired master's three children blame **Siprah** for outpacing their inheritance and belief that one of them should have succeeded **Sokhoth**. They spread rumors that **Siprah's** success owes to theft of their father's designs, a claim without foundation but which causes periodic gossip.
 - **The Lockpick Society**: A secretive organization of thief-philosophers who view any lock as a puzzle to be solved and see **Siprah's** work as a direct challenge. They have made it a point of honor to breach at least one of his major commissions.
 
-#### Affiliations
+### Affiliations
 
 - **Locksmiths' Guild of Ta'Kheperu**: Siprah holds the highest rank within the guild and serves on its council of masters. Though he attends meetings reluctantly and speaks rarely, his voice carries significant weight in guild decisions.
 - **The Scholar's Archive**: Siprah maintains membership in this institution and regularly consults on matters of security and lock history, though he contributes little directly beyond his passive presence.
 
-### Plot Hooks
+## Plot Hooks
 
 1. **The Unbreakable Lock**: A mysterious patron approaches **Siprah** with a sealed box containing only instructions and an extraordinary fee—forge a lock so perfect, so absolutely impregnable, that it becomes legendary. The patron provides no explanation of what it will secure or why such a lock is needed. **Siprah**, intrigued despite his usual caution, accepts and becomes obsessed with the commission, spending months creating what he believes to be the pinnacle of his life's work. Only when the lock is complete does he discover through discreet inquiry that the patron intends to use it to seal away something magical—perhaps dangerous, perhaps sacred. The lock is intended not to protect treasure but to contain a malevolent entity or imprisoned consciousness. **Siprah** must decide if his masterwork has been weaponized for purposes he would morally oppose and whether he can live with the consequences of creating it.
 

@@ -552,11 +552,11 @@ sohl:
     defaultCombatGroup: null
 ---
 
-## Appearance {#appearance}
+# Appearance {#appearance}
 
 Hármund Garwald is a 55-year-old man who stands 6'0" tall and is broad and solidly built. He has an angular face with prominent cheekbones, a prominent forehead, and an angular jaw that leads to a broad chin. His deep-set green eyes sit beneath prominent brows, lending him a watchful gaze. A strong nose and expressive lips complete his features. He has light skin with a lined with age complexion. His graying brown hair is thinning on top.
 
-## Dossier {#dossier}
+# Dossier {#dossier}
 
 Born in the Vrystwald region to a guilded family of Varokhi heritage, Hármund Garwald came into the world of the weaponcrafter (armorer) through a combination of circumstance and aptitude.
 
@@ -564,37 +564,37 @@ Thrain is a master blacksmith and weaponcrafter who has been forging weapons for
 
 Now at 55 years of age, Hármund Garwald has established himself as a known figure among the weaponcrafter (armorer)s of Vrystwald. His reputation, for better or worse, precedes him in the circles where such things matter.
 
-### Psyche
+## Psyche
 
-#### Personality
+### Personality
 
 Slower due to age, has high standards that can be difficult for others to meet.
 
-#### Motivation
+### Motivation
 
 Hármund is driven by the desire to master his craft and secure a stable future. The uncertainties of life in weaponcrafter (armorer) work keep him vigilant and adaptable.
 
-#### Strengths
+### Strengths
 
 Skilled in metalworking, knowledgeable about weapon design, meticulous.
 
-### Social
+## Social
 
 Hármund is affiliated with City Blacksmiths' Guild.
 
 As a Varokhi weaponcrafter (armorer), Hármund occupies a recognized social niche within Vrystwald society.
 
-### Companions
+## Companions
 
-#### Patrons
+### Patrons
 
 Hármund's primary patron is Nobles and soldiers who seek custom weapons.. This relationship provides both opportunity and obligation.
 
-#### Enemies
+### Enemies
 
 Rival blacksmiths who covet his reputation.
 
-### Plot Hooks
+## Plot Hooks
 
 1. **The Weaponcrafter (Armorer)'s Dilemma** — Hármund faces a professional crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Vrystwald.
 

@@ -632,15 +632,15 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![[skhmtkskhn|Sekhemet Ka'sekhen]]{float: top-left}
-
 **Home:** [[place-khensuret|Khensuret]]
 
-## Appearance {#appearance}
+# Appearance {#appearance}
+
+![[skhmtkskhn|Sekhemet Ka'sekhen]]{float: top-left}
 
 Sekhemet stands 5'9" tall with a light build. She has dark brown skin, very dark brown hair, and dark amber eyes. Her features include a diamond-shaped face, a slightly arched nose, a smooth jawline, generous lips, dark brows. A distinguishing mark is a scar running down the right leg.
 
-## Dossier {#dossier}
+# Dossier {#dossier}
 
 Sekhemet Ka'sekhen was born to a family of modest merchants with shipping interests in the [[affiliation-empirtkhpr|Ta'Kheperu]] delta. As the only daughter among three sons, she was initially groomed for an advantageous marriage, but her brilliant mind and natural charisma made her far more valuable as a business asset. Her father allowed her to apprentice in the family trade, an unusual but pragmatic decision that proved inspired when Sekhemet demonstrated an almost supernatural gift for managing complex logistics networks.
 
@@ -648,9 +648,9 @@ She earned her pilot's marks at an unusually young age and quickly became known 
 
 She answers to no single master, instead maintaining relationships with dozens of merchants and trading houses who know they can depend on her. This independence has become both her greatest asset and her defining characteristic. Her devotion to Hâpi, the god of prosperity and the Iteru's abundance, reflects her philosophy: success comes from understanding flows, redirecting currents wisely, and maintaining balance in all things.
 
-### Psyche
+## Psyche
 
-#### Personality
+### Personality
 
 Sekhemet is fundamentally practical and results-oriented, a woman who measures value in cargo delivered safely and promises kept. She speaks with measured authority, her eloquence lending weight to even simple statements, and she possesses the rare gift of making complex logistical explanations comprehensible to non-specialists. Her humor is warm and inclusive, and she has a gift for making those around her feel valued and understood—a quality that has earned her fierce loyalty from crews and merchants alike.
 
@@ -658,13 +658,13 @@ Beneath her competent exterior lies unexpected depths: a philosophical bent that
 
 Her most defining trait is her absolute integrity. She keeps her word with an almost religious fervor, viewing a broken promise as a kind of moral death. This has made her reputation as inviolable as stone.
 
-#### Motivation
+### Motivation
 
 Sekhemet seeks to build a trading empire that operates on principles of reliability and fairness, proving that commerce can be conducted without exploitation or dishonesty. She aspires to establish a family legacy that her descendants will inherit—not merely wealth, but a reputation for integrity that will outlast any individual. More immediately, she is driven to expand her independent operation, gradually moving from pilot-for-hire to merchant and shipper in her own right, controlling the full circuit from producer to consumer.
 
 Beneath these practical ambitions lies a deeper need: to prove that a woman can command respect through competence alone, without relying on male patronage or traditional power structures. She seeks to create a model for female merchants and traders that will make it harder for future generations to be limited by assumptions about women's capability.
 
-#### Strengths
+### Strengths
 
 - **Logistical Genius**: Can manage impossibly complex supply chains, coordinating multiple vessels, cargo types, and schedules with uncanny precision. Problems that seem intractable to others become straightforward to her.
 - **Charismatic Leadership**: Commands respect and loyalty from crews and merchants alike through genuine interest in their welfare and unshakeable fairness.
@@ -672,7 +672,7 @@ Beneath these practical ambitions lies a deeper need: to prove that a woman can 
 - **Communication Excellence**: Can explain complex situations clearly to audiences of any sophistication level, and possesses rare skill in negotiation and conflict resolution.
 - **Unbreakable Integrity**: Her absolute commitment to keeping her word has become her greatest business asset, differentiating her in a field often marked by fraud and corner-cutting.
 
-#### Weaknesses
+### Weaknesses
 
 - **Technical Piloting Gaps**: While she is a competent navigator and helmsman, she sometimes lacks the instinctive feel for a vessel's movement that natural pilots possess, particularly in emergency situations.
 - **Logistical Tunnel Vision**: Her intense focus on cargo management and route optimization can blind her to larger strategic opportunities or relationship-building that requires her personal attention.
@@ -680,27 +680,27 @@ Beneath these practical ambitions lies a deeper need: to prove that a woman can 
 - **Pride in Reliability**: Her reputation for perfect delivery creates unrealistic expectations and pressure that occasionally leads her to take dangerous risks rather than admit to potential delay.
 - **Physical Vulnerability**: The scar on her leg occasionally causes pain that affects her mood and judgment, and the injury has left her with slight mobility limitations that complicate certain situations.
 
-### Social
+## Social
 
-#### Patrons
+### Patrons
 
 - **Merchant-Prince Amenhotep**: A wealthy trader in fine goods and spices who has worked exclusively with Sekhemet for a decade and considers her his most trusted business partner.
 - **The Weavers' Cooperative**: A collective of textile producers who depend on Sekhemet to transport their goods to distant markets, and who have publicly praised her reliability.
 - **House Khenti's Trading Interests**: A noble family with commercial holdings that value Sekhemet's discretion and reliability for sensitive shipments.
 
-#### Enemies
+### Enemies
 
 - **Captain Seneb of the Kestrel**: A rival pilot whose ship was damaged in an incident where Sekhemet claims foul play occurred. Seneb blames Sekhemet directly, creating a blood feud in the merchant community.
 - **The Corruption Ring**: Certain merchants and port officials have attempted repeatedly to involve Sekhemet in smuggling or bribery schemes. Her refusals have made her a target of resentment from those accustomed to moral flexibility.
 - **Market Pressures**: The rise of larger merchant consortiums attempting to undercut independent traders creates institutional opposition to her business model.
 
-#### Affiliations
+### Affiliations
 
 - **Mariners' Guild of Ta'Kheperu**: Full member and contributor to the guild's safety standards and traditions.
 - **The Merchants' Circle**: An informal association of independent traders who meet to share information and coordinate against larger commercial entities attempting to monopolize trade routes.
 - **The Temple of Hâpi**: Devoted worshipper and regular contributor to the temple's charitable work supporting injured or disabled sailors.
 
-### Plot Hooks
+## Plot Hooks
 
 1. **The Impossible Commission**: A desperate merchant approaches Sekhemet with an extraordinary offer: transport cargo of unnamed origin to a location she cannot visit, cannot see, and cannot document, for a price that seems far too generous. The merchant is in genuine distress, and hints at political persecution or family emergency. Sekhemet's principle of helping those in need wars with her principle of understanding all elements of an agreement. If she accepts, she may find herself complicit in smuggling or worse; if she refuses, she abandons someone in crisis.
 

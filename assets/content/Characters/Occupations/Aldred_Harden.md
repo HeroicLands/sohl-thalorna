@@ -555,11 +555,11 @@ sohl:
     defaultCombatGroup: null
 ---
 
-## Appearance {#appearance}
+# Appearance {#appearance}
 
 Aldred Harden is a 42-year-old man who stands 5'11" tall and is of moderate build. He has a heart-shaped face with angular cheekbones, a wide forehead, and a strong jaw that leads to a firm chin. His hooded blue eyes sit beneath thin brows, lending him a guarded gaze. A straight nose and narrow lips complete his features. He has medium-toned skin with a lightly freckled complexion. His blonde hair is combed neatly to one side.
 
-## Dossier {#dossier}
+# Dossier {#dossier}
 
 Born in the Aelwyth region to a noble family of Aelwythan heritage, Aldred Harden came into the world of the mercantyler through a combination of circumstance and aptitude.
 
@@ -567,37 +567,37 @@ Cedric comes from a wealthy merchant family and has built a successful career as
 
 Now at 42 years of age, Aldred Harden has established himself as a known figure among the mercantylers of Aelwyth. His reputation, for better or worse, precedes him in the circles where such things matter.
 
-### Psyche
+## Psyche
 
-#### Personality
+### Personality
 
 Can be overly focused on profit, sometimes dismissive of lower-class merchants.
 
-#### Motivation
+### Motivation
 
 Aldred's driving force is the search that defines his life — a quest that shapes every decision he makes and every risk he takes.
 
-#### Strengths
+### Strengths
 
 Excellent negotiator, knowledgeable about luxury markets, strong network of contacts.
 
-### Social
+## Social
 
 Aldred is affiliated with Local Merchant's Guild.
 
 As a Aelwythan mercantyler, Aldred occupies a recognized social niche within Aelwyth society.
 
-### Companions
+## Companions
 
-#### Patrons
+### Patrons
 
 Aldred's primary patron is Nobles and affluent clients seeking quality goods.. This relationship provides both opportunity and obligation.
 
-#### Enemies
+### Enemies
 
 Few; generally well-respected but has rivals in the luxury trade.
 
-### Plot Hooks
+## Plot Hooks
 
 1. **The Mercantyler's Dilemma** — Aldred faces a professional crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Aelwyth.
 

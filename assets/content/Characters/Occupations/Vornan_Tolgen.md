@@ -551,11 +551,11 @@ sohl:
     defaultCombatGroup: null
 ---
 
-## Appearance {#appearance}
+# Appearance {#appearance}
 
 Vôrnan Tólgen is a 50-year-old man who stands 5'8" tall and is broad and solidly built. He has a heart-shaped face with wide-set cheekbones, a smooth forehead, and a narrow jaw that leads to a delicate chin. His wide-set brown eyes sit beneath straight brows, lending him an open gaze. An aquiline nose and thin lips complete his features. He has light skin with a smooth complexion. His gray hair is falling in loose waves.
 
-## Dossier {#dossier}
+# Dossier {#dossier}
 
 Born in the Provènzia region to a freeman family of Provenzian heritage, Vôrnan Tólgen came into the world of the scholar through a combination of circumstance and aptitude.
 
@@ -563,37 +563,37 @@ Cedric is a self-taught scholar who has dedicated his life to studying philosoph
 
 Now at 50 years of age, Vôrnan Tólgen has established himself as a known figure among the scholars of Provènzia. His reputation, for better or worse, precedes him in the circles where such things matter.
 
-### Psyche
+## Psyche
 
-#### Personality
+### Personality
 
 Can be overly abstract, struggles with practical applications of his theories.
 
-#### Motivation
+### Motivation
 
 Vôrnan is driven by the desire to master his craft and secure a stable future. The uncertainties of life in scholar work keep him vigilant and adaptable.
 
-#### Strengths
+### Strengths
 
 Deeply philosophical, excellent storyteller, good at engaging audiences.
 
-### Social
+## Social
 
 Vôrnan is affiliated with None; operates independently..
 
 As a Provenzian scholar, Vôrnan occupies a recognized social niche within Provènzia society.
 
-### Companions
+## Companions
 
-#### Patrons
+### Patrons
 
 Vôrnan's primary patron is Local community members and seekers of knowledge.. This relationship provides both opportunity and obligation.
 
-#### Enemies
+### Enemies
 
 Few; generally respected, though some may find his ideas controversial.
 
-### Plot Hooks
+## Plot Hooks
 
 1. **The Scholar's Dilemma** — Vôrnan faces a professional crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Provènzia.
 

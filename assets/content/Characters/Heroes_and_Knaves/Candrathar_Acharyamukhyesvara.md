@@ -587,31 +587,31 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![[cndrthrchrymkhysvr|Càndrathar Āchāryamukhyēśvara]]{float: top-left}
+# Appearance {#appearance}
 
-## Appearance {#appearance}
+![[cndrthrchrymkhysvr|Càndrathar Āchāryamukhyēśvara]]{float: top-left}
 
 Càndrathar stands 5'7" tall with a medium build. He has tawny brown skin, graying dark brown hair, and brown eyes. His features include a diamond-shaped face, a delicate nose, a gentle jawline, an expressive mouth, tawny brows, high cheeks.
 
-## Dossier {#dossier}
+# Dossier {#dossier}
 
 Born to the merchant guild families of Vedyara's merchant quarter, Càndrathar was marked early for the apothecary's art. His family had connections to the ancient knowledge-keepers, and as a youth he apprenticed under the legendary **Master Karī Dharmendra**, learning not merely which herbs heal and which kill, but the deeper principles of their essences and interactions. The fires of the Apothecaries' Guild burned brightly in his spirit then—a desire to ease suffering, to preserve life. He rose swiftly through the guild ranks, his keen perception and extraordinary skill with Herblore marking him as exceptional.
 
 Yet prosperity and renown drew attention of a different sort. Nobles with poisoned rivals, merchants seeking to dissolve inconvenient competitors, and the shadowed folk who dwell in the margins of respectable society all began to find their way to his door. Càndrathar discovered that the coin paid for a cure could be matched—and often exceeded—by coin paid for a bane. For the last two decades, he has walked an increasingly precarious line between healer and harbinger of death, his hands as likely to wield salvation as damnation. He maintains his legitimate apothecary practice, and indeed his remedies are among the finest in Vedyara, but whispers follow him through the guild halls like smoke.
 
-### Psyche
+## Psyche
 
-#### Personality
+### Personality
 
 Àndrathar is a man hollowed by compromise, his once-idealistic spirit eroded by pragmatism and moral convenience. He speaks in measured tones, each word weighed carefully—the habit of one who has learned that careless speech can cost lives. A sharp wit and keen sense of dark humor emerge only in private company, and his laughter, when it comes, carries an edge of bitterness. He is courteous to patrons and peers alike, but always with a certain distance, as though holding the world at arm's length. Beneath his composed exterior burns a cynicism that has hardened into something approaching misanthropy; he assumes the worst of people because, in his experience, people are capable of much worse than he imagines.
 
 The paranoia is earned. **Master Karī Dharmendra**, his mentor, was found dead under circumstances Càndrathar knows were no accident—and many whisper that Càndrathar himself had supplied the instrument of her demise. Whether true or false, the accusation poisoned his spirit. Now he trusts no one completely, always keeping contingencies and escape routes mentally mapped, always aware of who enters his shop and what they might truly seek.
 
-#### Motivation
+### Motivation
 
 Càndrathar is driven by survival—not merely physical survival, but the preservation of his reputation and autonomy within the Apothecaries' Guild and the city-states. The knowledge that his name is whispered in dark corners energizes and terrifies him in equal measure. He continues his darker work partly from lucrative necessity (the coin pays exceedingly well), partly from fear of refusing dangerous patrons, and partly from a defiant pride: he will not be judged or controlled by the moral pretensions of others. He seeks to accumulate enough wealth and enough secrets about powerful people that no one will dare move against him, making himself too dangerous to destroy.
 
-#### Strengths
+### Strengths
 
 - **Herbal Mastery**: Unsurpassed skill in the identification, cultivation, preparation, and administration of medicinal plants. He knows their virtues and their vices, their healing properties and their capacity to induce suffering.
 - **Alchemical Knowledge**: His understanding of mineral compounds, distillation, and chemical reactions allows him to craft remedies and poisons of devastating subtlety—agents that mimic natural illness or wear down slowly without detection.
@@ -619,7 +619,7 @@ Càndrathar is driven by survival—not merely physical survival, but the preser
 - **Discourse and Reasoning**: His skill in reasoned argument and articulate discourse makes him a difficult person to accuse or condemn—he can talk his way through almost any confrontation with the guild or with authorities.
 - **Discretion**: An absolute master of keeping secrets. His clients know that he will never speak of their patronage, and he extends the same silence to those who come seeking protection or allies.
 
-#### Weaknesses
+### Weaknesses
 
 - **Cynicism as Blindness**: His assumption that all people are fundamentally corrupt prevents him from recognizing genuine goodness and alliance, leaving him isolated and vulnerable to manipulation by those who feign vice.
 - **Moral Erosion**: The line between justified self-preservation and casual wickedness has become so blurred that he can no longer clearly distinguish right from wrong, making him increasingly reckless with darker commissions.
@@ -627,27 +627,27 @@ Càndrathar is driven by survival—not merely physical survival, but the preser
 - **Growing Notoriety**: The more successful his darker work, the more dangerous his visibility becomes. Powerful enemies accumulate, and the day may come when his accumulated secrets are insufficient shield against determined revenge.
 - **Dependence on Guild Protection**: His continued operation depends on the Apothecaries' Guild's willingness to defend him from accusation. Should the guild turn against him, he would be vulnerable and exposed.
 
-### Social
+## Social
 
-#### Patrons
+### Patrons
 
 - **Lady Seráthis of House Vélyara**: A noble widow whose husband died under mysterious circumstances. She ensures Càndrathar's material comfort and protection within noble circles in exchange for his discretion and the occasional remedy that addresses her more pressing inconveniences.
 - **Merchant-Lord Divócheus**: A ruthless trader who controls shipping interests throughout Vedyara. He occasionally requires Càndrathar's talents to ensure that troublesome competitors or dishonest agents do not live to cause further problems.
 - **The Silk Merchants' Consortium**: A coalition of powerful merchant families who value Càndrathar's ability to ensure that particularly troublesome slaves, witnesses, or creditors vanish quietly from their enterprises.
 
-#### Enemies
+### Enemies
 
 - **Apothecary Mandávar the Accuser**: The most vocal critic within the Apothecaries' Guild, Mandávar has been attempting for years to prove that Càndrathar engages in poison-craft and murder-for-hire. His investigations have come dangerously close to truth on several occasions, and Càndrathar lives in constant fear of what evidence Mandávar might uncover—or manufacture.
 - **The Crimson Sisters (Assassins' Collective)**: A loose confederacy of professional killers who view Càndrathar's poison-work as encroachment on their exclusive domain. There is unspoken war between them; each has attempted to frame the other for high-profile murders.
 - **Temple of Rásikara's Inquisitors**: The clergy of his own patron deity have grown concerned by rumors of his activities. Several clerics suspect him of desecrating the sacred fire of Rásikara through his abuse of divine knowledge for profane ends.
 
-#### Affiliations
+### Affiliations
 
 - **Apothecaries' Guild of Vedyara**: His most legitimate and valued affiliation, though increasingly precarious. He maintains his position through careful political navigation and significant contributions to the guild's coffers.
 - **The Sealed Ledger (Underground Network)**: A loose confederation of individuals involved in morally questionable commerce who value discretion and expertise. Membership is by reputation alone.
 - **Rásikara's Temple**: Officially a devotee and sometime patron of healing rituals, though his relationship with the priesthood has grown strained.
 
-### Plot Hooks
+## Plot Hooks
 
 1. **The Poisoned Well**: A mysterious plague begins spreading through Vedyara's lower districts, killing indiscriminately. The city guard suspects foul play and turns to Càndrathar for analysis—but he recognizes the signature of the poison immediately. It is one of his own creations, stolen from his workshop months ago. The hook twists: he must decide whether to confess, thereby admitting its creation, or to lie and help track whoever stole it while hoping they don't use it against him or reveal his involvement to authorities. The thief, it transpires, is **Apprentice Sómnari**, a young healer from the temple who discovered what Càndrathar truly does and stole the poison to prevent future murders. She plans to use it to assassinate Lady Seráthis, whom she believes Càndrathar poisoned.
 

@@ -561,13 +561,13 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![[kamdkhvndr|Kamîd Khâvandar]]{float: top-left}
+# Appearance {#appearance}
 
-## Appearance {#appearance}
+![[kamdkhvndr|Kamîd Khâvandar]]{float: top-left}
 
 Kamîd stands 6'0" tall with a medium build. He has tanned ruddy skin, black hair, and dark brown eyes. His features include a narrow face, a prominent nose, a pointed chin, full lips, dark brows, sculpted cheeks. A distinguishing mark is a tattoo of a phoenix on the chest.
 
-## Dossier {#dossier}
+# Dossier {#dossier}
 
 Kamîd was born to farming families in the borderlands of the Khazryn Desert, one of twelve children in a household where survival was never guaranteed. From childhood, he learned the hard work of coaxing sustenance from unforgiving soil, managing water resources, and reading the desert's moods. By his twenties, he had become the foreman of a productive farm, overseeing dozens of workers and managing the complex logistics of desert agriculture.
 
@@ -575,19 +575,19 @@ At thirty-five, Kamîd's life changed irrevocably when a severe drought struck t
 
 For the past thirteen years, Kamîd has lived as a vagrant, begging in the streets of various desert settlements, occasionally finding temporary work but never managing to accumulate enough to re-establish himself. He sleeps rough, keeps his few possessions in a canvas sack, and maintains a wooden charm carved by his now-deceased mother. The phoenix tattoo, applied during a brief period when he still harbored hope of rebirth, has become a cruel mockery of his actual circumstances.
 
-### Psyche
+## Psyche
 
-#### Personality
+### Personality
 
 Kamîd is a man of few words and hard pride. He speaks little unless directly addressed, and his words are generally practical and unemotional. Despite his circumstances, he maintains dignity and refuses—sometimes violently—to be treated as less than human. He is capable of genuine kindness, particularly toward other vagrants and those society has discarded, though his generosity comes from understanding their pain rather than from warmth.
 
 Beneath the stoicism lies deep frustration and bitterness. He views his circumstances as a betrayal by the gods themselves, and his faith in **Báhrámiš** (god of storms) has become complicated—anger mixed with desperate hope that some storm will come to sweep away the current order and restore what he has lost. He is prone to bouts of dark introspection and has contemplated ending his suffering, though something—possibly the phoenix tattoo's symbolism—prevents final despair.
 
-#### Motivation
+### Motivation
 
 Kamîd is driven by a desperate desire to re-establish himself, to prove that the desert has not truly broken him. He dreams of returning to farming, of accumulating enough capital to acquire land and laborers again. More fundamentally, he is driven by rage—at the drought, at the creditors, at a society that casts aside men who have given their lives to productive work. This rage is sometimes directed outward (at authorities and those he perceives as oppressors) and sometimes inward (manifesting as self-destructive behavior). He clings to the phoenix symbol as a reminder that rebirth is possible, even if his rational mind doubts it.
 
-#### Strengths
+### Strengths
 
 - **Desert Hardened**: His Survival score of 13 combined with practical years of experience makes him one of the most capable people at navigating the desert, finding water, and identifying edible plants. He knows the Khazryn as intimately as most people know their homes.
 - **Physical Resilience**: His Endurance of 14 and hardened physique allow him to endure conditions that would break others—heat, hunger, thirst, and exhaustion barely slow him down.
@@ -595,7 +595,7 @@ Kamîd is driven by a desperate desire to re-establish himself, to prove that th
 - **Combat Readiness**: Despite his apparent poverty, his Initiative score of 13 and practical combat training with his wooden club mean he is more formidable in a street fight than his appearance suggests.
 - **Street Sense**: His Stealth and Awareness scores of 13 each, honed by years of navigating hostile streets and avoiding authorities, make him exceptionally difficult to catch or surprise.
 
-#### Weaknesses
+### Weaknesses
 
 - **Stubborn Pride**: He refuses assistance that comes with conditions or that he perceives as charity, limiting his options for improvement. His pride has prevented him from accepting jobs that he considers beneath former station.
 - **Limited Combat Training**: While street-smart, his Melee score of only 11 and lack of proper weapons training mean he will be outmatched by trained fighters.
@@ -603,23 +603,23 @@ Kamîd is driven by a desperate desire to re-establish himself, to prove that th
 - **Suspicious Nature**: Years of being treated as a vagabond have made him deeply suspicious of others' motives, sometimes seeing betrayal where none is intended.
 - **Minimal Resources**: He owns essentially nothing of value and lacks the capital or connections to execute any plan requiring investment or influence.
 
-### Social
+## Social
 
-#### Patrons
+### Patrons
 
 - **Old Merchant Khalib**: A spice trader who knew Kamîd's family decades ago, occasionally employs him for temporary work and ensures he doesn't starve, though he is careful not to patronize.
 - **The Desert Monks**: Wandering spiritual practitioners who sometimes provide shelter and accept him as fellow pilgrims in the desert's harshness.
 
-#### Enemies
+### Enemies
 
 - **Captain Darius and the City Guard**: The local garrison commander has made begging and vagrancy a personal crusade, and views Kamîd specifically as a troublemaker and vagrant to be driven out or arrested.
 - **The Creditor's Guild**: The organization that seized his farm decades ago, though they no longer actively pursue him, he views them as the architects of his destruction and failure.
 
-#### Affiliations
+### Affiliations
 
 - **The Vagrant Collective**: An informal network of beggars and homeless in the desert settlements who share information, resources, and protection.
 
-### Plot Hooks
+## Plot Hooks
 
 1. **The Land Returns**: A courier arrives in the settlement bearing a legal document indicating that Kamîd's original farm property has been seized for unpaid taxes from the current owners—and he has a legal claim to it. To exercise this claim, he must travel days to the provincial capital, produce evidence of original ownership, and pay substantial court fees. The opportunity is simultaneously a potential restoration of everything lost and an obvious trap where creditors might ambush or discredit him.
 

@@ -635,13 +635,13 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![[senptvkrmd|Sénapati Vikramâda]]{float: top-left}
+# Appearance {#appearance}
 
-## Appearance {#appearance}
+![[senptvkrmd|Sénapati Vikramâda]]{float: top-left}
 
 Sénapati stands 6'0" tall with a heavy build. He has medium brown skin, graying dark brown hair, and deep brown eyes. His features include a full face, a straight nose, a narrow chin, full lips, medium brows. A distinguishing mark is a tattoo of a crescent moon on the neck.
 
-## Dossier {#dossier}
+# Dossier {#dossier}
 
 Sénapati Vikramâda was born in the port cities of Vedyara to a family of sailors and shipwrights. His father was a bosun before him, and his grandfather before that—a legacy stretching back generations into the merchant fleets and war galleys that built the City-States' prosperity. Sénapati learned his trade not from books or schools but from the deck itself, rising through competence and an almost instinctive understanding of what a crew needed to function as a cohesive unit under pressure.
 
@@ -651,9 +651,9 @@ For the past decade, he has become something of a legend in the maritime communi
 
 His faith in Rásikara represents not escapism but practical devotion: the fire-aspect deity embodies transformation, the burning away of weakness and the forging of strength from raw material. This philosophy guides his approach to crew management, though some have questioned whether his methods border on cruel.
 
-### Psyche
+## Psyche
 
-#### Personality
+### Personality
 
 Sénapati is a man of few unnecessary words, his communication style molded by years of giving orders in noisy, wind-filled environments where clarity and brevity are survival. When he speaks, people listen, not from volume but from the certainty that his words carry weight and intention. His humor, when it emerges, is dark and situational—appropriate to the grim realities of seafaring life. He can find grim comedy in disaster and maintains philosophical acceptance of dangers that would terrify landlubbers.
 
@@ -661,13 +661,13 @@ Beneath his authoritarian exterior lies unexpected complexity: a genuine care fo
 
 His wariness of new technologies is not conservative stubbornness but earned skepticism: he has seen innovations fail spectacularly, putting lives at risk through untested designs and untrained crews attempting to operate novel systems. Trust must be earned through demonstration, and he will not risk his people on unproven methods.
 
-#### Motivation
+### Motivation
 
 Sénapati's fundamental drive is the pursuit of excellence in maritime endeavor. He believes that the sea demands mastery, that incompetence on deck is not merely inefficiency but a kind of sin against those whose lives depend on collective competence. He works toward a vision of a maritime world where standards are universal, where every sailor is trained to the highest level, where the gap between competent and incompetent is vast enough to be truly meaningful.
 
 More personally, he seeks to leave a legacy of trained sailors and officers who will carry forward the traditions and standards he has worked to establish. He has accepted that he will not command ships in his own right—his temperament and interests lie in making others' commands possible—but he can ensure that a generation of sailors carries forward his principles.
 
-#### Strengths
+### Strengths
 
 - **Crew Mastery**: Possesses unparalleled ability to understand crew dynamics, assess individual capabilities, and organize people into cohesive, effective units that function even under extreme stress.
 - **Deck Expertise**: Encyclopedic knowledge of every aspect of sailing, ship maintenance, and maritime operations. Can diagnose problems and implement solutions with minimal consultation.
@@ -675,7 +675,7 @@ More personally, he seeks to leave a legacy of trained sailors and officers who 
 - **Training and Mentoring**: Can take green sailors and transform them into competent professionals through rigorous but fair training programs tailored to individual capability.
 - **Authority Without Coercion**: Commands respect and obedience not through threats but through demonstrated competence and consistent follow-through on his word.
 
-#### Weaknesses
+### Weaknesses
 
 - **Resistance to Change**: His preference for proven methods sometimes blinds him to legitimate innovations that could improve efficiency or safety, creating friction with captains seeking modernization.
 - **Interpersonal Rigidity**: His communication style, while effective for command purposes, can come across as harsh or dismissive to those expecting more warmth or diplomatic engagement.
@@ -683,26 +683,26 @@ More personally, he seeks to leave a legacy of trained sailors and officers who 
 - **Age and Injury**: While still vigorous, he has accumulated various injuries over his decades at sea—creaky joints, old breaks, hearing loss—that occasionally limit his physical capability and make him acutely aware of his mortality.
 - **Vulnerability to Loyalty**: His strong bonds with crew members and captains can lead him into situations that conflict with his better judgment, particularly when someone he respects asks him to bend his principles.
 
-### Social
+## Social
 
-#### Patrons
+### Patrons
 
 - **Captain-Merchant Taramandal**: A successful merchant captain who employs Sénapati regularly and considers him the essential foundation of his successful trading operation. Taramandal has offered Sénapati a permanent position with significant authority, which Sénapati has declined.
 - **The Shipwrights' Guild of Vedyara**: Maintains good relationships with the guild, occasionally consulting on matters of crew management and vessel design from a practical seamanship perspective.
 - **Temple of Rásikara**: Devoted practitioner and occasional volunteer in temple activities, though his faith is expressed through work rather than elaborate ceremony.
 
-#### Enemies
+### Enemies
 
 - **Captain Dharen of the Crimson Sail**: A merchant captain whom Sénapati once refused to serve because of what he perceived as grossly inadequate safety standards and crew abuse. Dharen has since built his own reputation for speed and profit, and he views Sénapati as a rival whose standards are "outdated" and "cost-prohibitive."
 - **Modernist Faction**: A loose coalition of younger maritime professionals who view Sénapati's traditional methods as obstacles to progress and efficiency, particularly regarding the integration of new maritime technologies.
 - **The Black Tides Syndicate**: A maritime criminal organization that has attempted to recruit Sénapati, offering enormous payments for his assistance in crew management for their operations. His refusals have made him a target of their resentment.
 
-#### Affiliations
+### Affiliations
 
 - **Vedyaran Maritime Tradition**: Though he works on contract rather than as an official representative, he is deeply connected to and considered an exemplar of Vedyaran maritime culture and values.
 - **The Order of Mariners**: An informal association of senior sailors and maritime professionals who maintain standards and traditions, and who respect Sénapati as one of their most honored members.
 
-### Plot Hooks
+## Plot Hooks
 
 1. **The Failed Innovation**: Sénapati is hired for a voyage aboard a vessel equipped with revolutionary new rigging systems designed to increase speed and efficiency. The captain is enthusiastic, the crew is eager, and the promised payment is generous. However, Sénapati quickly identifies critical flaws in the design that he believes make the ship dangerous, particularly in rough seas. The captain dismisses his concerns, insisting that the designer's calculations are sound and Sénapati is merely technophobic. Sénapati must decide whether to resign in principle, accept the risk and attempt to manage it, or attempt to force design modifications that might make him appear an obstructionist while potentially saving lives.
 

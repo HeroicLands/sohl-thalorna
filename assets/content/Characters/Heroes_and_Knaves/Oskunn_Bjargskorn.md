@@ -585,13 +585,13 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![[osknbjrgskrn|Óskunn Bjargskorn]]{float: top-left}
+# Appearance {#appearance}
 
-## Appearance {#appearance}
+![[osknbjrgskrn|Óskunn Bjargskorn]]{float: top-left}
 
 Óskunn stands 5'6" tall with a light build. She has pale fair skin, auburn hair, and green eyes. Her features include an oval face, a slightly upturned nose, a prominent chin, narrow lips, low-set brows.
 
-## Dossier {#dossier}
+# Dossier {#dossier}
 
 **Early Life and Training**
 
@@ -605,19 +605,19 @@ At twenty-two, Óskunn established her own workshop in the market quarter, drawi
 
 Now at the height of her craft, Óskunn finds herself at a crossroads. Her small workshop has become profitable, but opportunity and ambition gnaw at her. She possesses the skill to work with the finest fabrics imported from Vedyara and beyond, yet her customers remain largely of modest means. A wealthy merchant from the capital city of Asgardul recently visited, commissioning elaborate garments for his wife. He hinted at patronage that could lift Óskunn into the ranks of the realm's most prestigious craftspeople. Yet accepting such work would mean leaving her village and abandoning the community that trusted her. Her heart remains divided between ambition and loyalty.
 
-### Psyche
+## Psyche
 
-#### Personality
+### Personality
 
 Óskunn possesses a quiet intensity that those who meet her often underestimate. She speaks little but listens with profound attention, asking each customer careful questions about their needs, their life, their hopes. This empathy translates directly into her work: she creates garments not merely for bodies but for the people within them. Her humor emerges in dry, knowing observations about human nature and the foibles of fashion. She maintains a fierce independence born of self-reliance, yet paradoxically, she is deeply invested in the welfare of her community and takes genuine pride in its success.
 
 Though she is warm and personable, Óskunn maintains certain boundaries. She does not gossip, and she holds secrets shared by her customers with sacred trust. This discretion, combined with her genuine kindness, has made her one of the few people in the village to whom people reveal their true selves. She possesses a practical wisdom about life that comes not from books but from years of intimate observation.
 
-#### Motivation
+### Motivation
 
 Óskunn's driving force is the pursuit of mastery—not for its own sake, but as a form of worship to her creator god. She believes that Ymir granted her hands and mind as tools to bring beauty and utility to the world, and that to waste such gifts through mediocrity would be a betrayal of faith. She seeks recognition not out of vanity, but because she believes that greater opportunity would allow her to help more people and to create works of lasting significance. Beneath her calm exterior burns an ambition that rivals any adventurer's hunger for glory: she wishes to be remembered as a master craftsperson whose creations endured across generations, whose work brought honor to her clan and realm.
 
-#### Strengths
+### Strengths
 
 - **Master Dyer and Colorist**: Óskunn can extract vibrant, long-lasting colors from nearly any natural material, and her knowledge of which dyes complement each other and create harmony is nearly instinctive. Customers often describe her color choices as almost magical in their ability to enhance beauty.
 
@@ -629,7 +629,7 @@ Though she is warm and personable, Óskunn maintains certain boundaries. She doe
 
 - **Resourcefulness and Flexibility**: Her agricultural skill and working knowledge of leather, ceramics, and other crafts make her able to solve unexpected problems and adapt to unusual requests.
 
-#### Weaknesses
+### Weaknesses
 
 - **Limited Experience with Luxury Work**: While talented, Óskunn has little experience with materials like silk, fine linen, or elaborate imported fabrics. Her confidence falters when presented with truly expensive materials, fearing waste or failure.
 
@@ -641,9 +641,9 @@ Though she is warm and personable, Óskunn maintains certain boundaries. She doe
 
 - **Limited Combat Capability**: She possesses no formal training in weapons or combat and would be defenseless in violent confrontation.
 
-### Social
+## Social
 
-#### Patrons
+### Patrons
 
 - **Steinmark Village Council**: The local leadership regularly commissions her to create formal garments for ceremonies and state functions, and they strongly advocate for her skills among travelers and merchants.
 
@@ -651,15 +651,15 @@ Though she is warm and personable, Óskunn maintains certain boundaries. She doe
 
 - **The Merchant Families**: Particularly the families of Steinmark's merchants, who purchase fine clothing from her for their own use and as gifts for business associates and family celebrations.
 
-#### Enemies
+### Enemies
 
 - **None Actively Hostile**: Óskunn has earned no true enemies through her work. However, rival craftspeople in neighboring towns view her growing reputation with some envy, and a few jealous competitors have attempted (unsuccessfully) to undermine her reputation.
 
-#### Affiliations
+### Affiliations
 
 - **Informal Community Textile Workers**: While not formally guilded, Óskunn maintains connections with weavers, dyers, and leather workers throughout Norgaad and occasionally trades materials and knowledge with them.
 
-### Plot Hooks
+## Plot Hooks
 
 1. **The Unfinished Commission**: A noblewoman from the capital of Asgardul commissioned a wedding gown of extraordinary complexity—a fusion of traditional Norgaadian patterns with silk imported from distant lands. The woman specified that the gown must be completed in just six weeks, an impossibly tight timeline, and offered payment that would transform Óskunn's life. However, disaster strikes: a fire in a dye merchant's warehouse destroys the exact shade of indigo she promised, and the noblewoman's wedding approaches. Óskunn must either find a replacement dye of matching quality, convince the noblewoman to accept a variation, or undertake a dangerous journey to secure new indigo. The characters might help her recover lost materials, negotiate with the noblewoman, or pursue leads on distant indigo sources—perhaps even accompanying her on a quest across dangerous lands.
 

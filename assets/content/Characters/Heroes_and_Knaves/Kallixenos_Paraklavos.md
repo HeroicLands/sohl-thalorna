@@ -583,13 +583,13 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![[klxnsprklvs|Kallíxenos Paraklávos]]{float: top-left}
+# Appearance {#appearance}
 
-## Appearance {#appearance}
+![[klxnsprklvs|Kallíxenos Paraklávos]]{float: top-left}
 
 Kallíxenos stands 5'7" tall with a medium build. He has light weathered skin, gray hair, and brown eyes. His features include a diamond-shaped face, a hawkish nose, a pointed chin, well-defined lips, strong brows, prominent cheeks.
 
-## Dossier {#dossier}
+# Dossier {#dossier}
 
 Born the son of a successful merchant, Kallíxenos showed early aptitude for rhetoric and logic. His family secured him apprenticeship with **Advocate Lysander**, the most feared litigant in the Byzarian League's commercial courts. Lysander was a harsh master but brilliant, training Kallíxenos in the arts of argumentation, negotiation, and the complex web of commercial law that governed the League.
 
@@ -597,19 +597,19 @@ By his early twenties, Kallíxenos had established himself as a formidable advoc
 
 Five years ago, he was brought before the council accused of using improper methods to win cases. The accusation was carefully orchestrated by a rival advocate and a merchant house he had defeated in court. Rather than face the scandal, Kallíxenos accepted a settlement that required him to step back from directly arguing cases. Now forty-five, he serves primarily as a strategic advisor and mentor to younger litigants, still wielding considerable power behind the scenes, though with somewhat diminished public prominence. The experience left him bitter about the capriciousness of reputation and honor in commercial society.
 
-### Psyche
+## Psyche
 
-#### Personality
+### Personality
 
 Kallíxenos is professionally charming—intelligent, thoughtful, and capable of making anyone feel valued during conversation. He is an excellent listener, remembering details that others forget, using this information to build rapport and leverage. He mentors younger advocates with genuine dedication, believing he is grooming the next generation of legal minds who will surpass him.
 
 However, beneath this affability lies deep cynicism. He views the legal system as fundamentally corrupt, commerce as inherently predatory, and most people as fundamentally self-interested. He manipulates and maneuvers constantly, finding it almost impossible to trust anyone completely. His relationships with those close to him are cordial but carefully controlled, never truly open. The forced reduction in his public role was a humiliation he has not entirely processed, and it has hardened what was already a somewhat cold personality.
 
-#### Motivation
+### Motivation
 
 Kallíxenos is driven by the desire to regain his prominent position within the League through indirect means—to be the invisible architect of victories, the secret strategist behind others' successes. He seeks to prove that his reduction was merely temporary, that he remains the preeminent legal mind in the region. More deeply, he is motivated by the accumulation of power and information; he collects secrets the way other men collect wealth, finding the knowledge itself more satisfying than money.
 
-#### Strengths
+### Strengths
 
 - **Master of Law**: His Law skill at 16 (with 5 multipliers) and Reasoning at 18 make him unparalleled in understanding the letter and spirit of commercial contracts and regulations. He can find loopholes others miss.
 - **Exceptional Orator**: His Discourse at 17 and Eloquence at 15 allow him to present arguments with compelling clarity that sways juries and negotiating partners alike.
@@ -617,7 +617,7 @@ Kallíxenos is driven by the desire to regain his prominent position within the 
 - **Networked**: His decades in the League have given him connections throughout the business community. Few merchants or advocates operate without considering his potential involvement or opposition.
 - **Diplomatic Protocol**: His high Heraldry and Folklore scores make him well-versed in proper procedure and tradition, allowing him to work within (and sometimes exploit) formal structures.
 
-#### Weaknesses
+### Weaknesses
 
 - **Overly Rigid Analysis**: His reliance on logical analysis sometimes prevents him from understanding or accepting that people are motivated by emotion as much as reason. He dismisses unconventional approaches without fully considering them.
 - **Limited Physical Capability**: His Strength of 10 and Agility of 9 leave him vulnerable in physical confrontation. He is entirely dependent on others for protection.
@@ -625,25 +625,25 @@ Kallíxenos is driven by the desire to regain his prominent position within the 
 - **Political Vulnerability**: His forced reduction in prominence remains a sore subject, and his enemies could potentially orchestrate another scandal if given the opportunity.
 - **Isolation**: His inability to truly trust others means he lacks the kind of genuine allies who would support him unconditionally in a crisis.
 
-### Social
+## Social
 
-#### Patrons
+### Patrons
 
 - **The Litigant's Guild**: Official organization that still employs him in advisory capacity, though his role is more limited than in his glory days.
 - **Lord Merchant Vasilis**: A major trader whose commercial interests Kallíxenos has protected through countless lawsuits, maintaining a mutually beneficial relationship of considerable depth.
 - **The Byzarian Consortium of Shipping Merchants**: A trade organization that regularly seeks his counsel on matters of regulatory compliance and competitive advantage.
 
-#### Enemies
+### Enemies
 
 - **Advocate Demetrius**: Younger, more charismatic rival who has been slowly taking Kallíxenos's clients and position. Demetrius orchestrated the scandal that forced Kallíxenos's reduction.
 - **House Malassian**: A merchant dynasty Kallíxenos once defeated decisively in court, causing them significant financial harm. They have long memories and resources for vengeance.
 
-#### Affiliations
+### Affiliations
 
 - **The Litigant's Guild of Byzaría**: Official organization governing advocates and commercial law representatives.
 - **The Council of Master Advocates**: Informal organization of senior litigants who meet to discuss precedent and strategy, though Kallíxenos's position within it has weakened.
 
-### Plot Hooks
+## Plot Hooks
 
 1. **The Incriminating Evidence**: A clerk from Kallíxenos's earlier career arrives with evidence that some of his greatest victories were achieved through technically illegal methods—suppressed witnesses, forged documents, corrupted judges. The clerk is either blackmailing him or has been sent by rivals. Kallíxenos must determine the truth while protecting his legacy and considering whether justice might actually require that he face consequences for past actions.
 

@@ -554,11 +554,11 @@ sohl:
     defaultCombatGroup: null
 ---
 
-## Appearance {#appearance}
+# Appearance {#appearance}
 
 Osmund Winwick is a 37-year-old man who stands 5'8" tall and is of moderate build. He has a long face with prominent cheekbones, a broad forehead, and a narrow jaw that leads to a rounded chin. His piercing green eyes sit beneath expressive brows, lending him a penetrating gaze. A slightly upturned nose and expressive lips complete his features. He has light skin with a fair complexion. His auburn hair is short and swept back.
 
-## Dossier {#dossier}
+# Dossier {#dossier}
 
 Born in the Aelwyth region to a noble family of Aelwythan heritage, Osmund Winwick came into the world of the mercantyler (supercargo) through a combination of circumstance and aptitude.
 
@@ -566,37 +566,37 @@ Arlen is a seasoned mercantyler specializing in ocean trade. As a supercargo, he
 
 Now at 37 years of age, Osmund Winwick has established himself as a known figure among the mercantyler (supercargo)s of Aelwyth. His reputation, for better or worse, precedes him in the circles where such things matter.
 
-### Psyche
+## Psyche
 
-#### Personality
+### Personality
 
 Can be overly cautious, struggles with paperwork and bureaucracy.
 
-#### Motivation
+### Motivation
 
 Osmund is driven by the desire to master his craft and secure a stable future. The uncertainties of life in mercantyler (supercargo) work keep him vigilant and adaptable.
 
-#### Strengths
+### Strengths
 
 Knowledgeable about maritime trade, excellent negotiator, good leadership skills.
 
-### Social
+## Social
 
 Osmund is affiliated with Local Merchant's Guild.
 
 As a Aelwythan mercantyler (supercargo), Osmund occupies a recognized social niche within Aelwyth society.
 
-### Companions
+## Companions
 
-#### Patrons
+### Patrons
 
 Osmund's primary patron is Ship captains and trading companies.. This relationship provides both opportunity and obligation.
 
-#### Enemies
+### Enemies
 
 Few; generally well-respected.
 
-### Plot Hooks
+## Plot Hooks
 
 1. **The Mercantyler (Supercargo)'s Dilemma** — Osmund faces a professional crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Aelwyth.
 

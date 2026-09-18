@@ -546,11 +546,11 @@ sohl:
     defaultCombatGroup: null
 ---
 
-## Appearance {#appearance}
+# Appearance {#appearance}
 
 Álmera Desolárdran is a 28-year-old woman who stands 5'10" tall and is of moderate build. She has a square face with prominent cheekbones, a smooth forehead, and an angular jaw that leads to a firm chin. Her piercing dark brown eyes sit beneath prominent brows, lending her a penetrating gaze. A strong nose and full lips complete her features. She has olive-tanned skin with a ruddy complexion. Her dark brown hair is gathered in a practical bun.
 
-## Dossier {#dossier}
+# Dossier {#dossier}
 
 Born in the Tarvénia region to a freeman family of Tarvénan heritage, Álmera Desolárdran came into the world of the caravan guard through a combination of circumstance and aptitude.
 
@@ -558,37 +558,37 @@ Elira has worked as a caravan guard for several years, known for her agility and
 
 Now at 28 years of age, Álmera Desolárdran has established herself as a known figure among the caravan guards of Tarvénia. Her reputation, for better or worse, precedes her in the circles where such things matter.
 
-### Psyche
+## Psyche
 
-#### Personality
+### Personality
 
 Can be reckless, sometimes underestimates physical threats.
 
-#### Motivation
+### Motivation
 
 Álmera is driven by the desire to master her craft and secure a stable future. The uncertainties of life in caravan guard work keep her vigilant and adaptable.
 
-#### Strengths
+### Strengths
 
 Agile and quick, skilled in stealth, strong at reconnaissance.
 
-### Social
+## Social
 
 Álmera is affiliated with Local Mercenaries' Guild.
 
 As a Tarvénan caravan guard, Álmera occupies a recognized social niche within Tarvénia society.
 
-### Companions
+## Companions
 
-#### Patrons
+### Patrons
 
 Álmera's primary patron is Caravan leaders seeking a reliable scout and guard.. This relationship provides both opportunity and obligation.
 
-#### Enemies
+### Enemies
 
 Few; generally well-liked among her peers.
 
-### Plot Hooks
+## Plot Hooks
 
 1. **The Caravan Guard's Dilemma** — Álmera faces a professional crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Tarvénia.
 

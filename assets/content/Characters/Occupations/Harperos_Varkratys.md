@@ -552,11 +552,11 @@ sohl:
     defaultCombatGroup: null
 ---
 
-## Appearance {#appearance}
+# Appearance {#appearance}
 
 Harpêros Vârkrâtys is a 39-year-old man who stands 5'11" tall and is of moderate build. He has a square face with prominent cheekbones, a wide forehead, and a strong jaw that leads to a square chin. His hooded hazel eyes sit beneath arched brows, lending him a guarded gaze. An aquiline nose and narrow lips complete his features. He has medium-toned skin with a sun-tanned complexion. His auburn hair is receding at the temples.
 
-## Dossier {#dossier}
+# Dossier {#dossier}
 
 Born in the Vylaría region to a freeman family of Vylarian heritage, Harpêros Vârkrâtys came into the world of the yeoman archer through a combination of circumstance and aptitude.
 
@@ -564,37 +564,37 @@ Orin has served as a yeoman archer for most of his adult life. He has extensive 
 
 Now at 39 years of age, Harpêros Vârkrâtys has established himself as a known figure among the yeoman archers of Vylaria. His reputation, for better or worse, precedes him in the circles where such things matter.
 
-### Psyche
+## Psyche
 
-#### Personality
+### Personality
 
 Reluctant to take leadership roles, sometimes overly cautious.
 
-#### Motivation
+### Motivation
 
 Harpêros's driving force is the search that defines his life — a quest that shapes every decision he makes and every risk he takes.
 
-#### Strengths
+### Strengths
 
 Experienced archer, skilled tracker, calm under pressure.
 
-### Social
+## Social
 
 Harpêros is affiliated with Local Militia.
 
 As a Vylarian yeoman archer, Harpêros occupies a recognized social niche within Vylaria society.
 
-### Companions
+## Companions
 
-#### Patrons
+### Patrons
 
 Harpêros's primary patron is The local lord who values his consistency and reliability.. This relationship provides both opportunity and obligation.
 
-#### Enemies
+### Enemies
 
 Rival soldiers who have lost to him in archery competitions.
 
-### Plot Hooks
+## Plot Hooks
 
 1. **The Yeoman Archer's Dilemma** — Harpêros faces a professional crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Vylaria.
 

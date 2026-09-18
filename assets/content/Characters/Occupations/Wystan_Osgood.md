@@ -550,11 +550,11 @@ sohl:
     defaultCombatGroup: null
 ---
 
-## Appearance {#appearance}
+# Appearance {#appearance}
 
 Wystan Osgood is a 34-year-old man who stands 5'9" tall and is of moderate build. He has a heart-shaped face with wide-set cheekbones, a high forehead, and a rounded jaw that leads to a delicate chin. His hooded green eyes sit beneath straight brows, lending him a guarded gaze. A straight nose and narrow lips complete his features. He has light skin with a clear complexion. His blonde hair is shoulder-length and loose.
 
-## Dossier {#dossier}
+# Dossier {#dossier}
 
 Born in the Aelwyth region to a freeman family of Aelwythan heritage, Wystan Osgood came into the world of the ratter through a combination of circumstance and aptitude.
 
@@ -562,37 +562,37 @@ Finn has spent most of his life catching rats in the bustling streets of the cit
 
 Now at 34 years of age, Wystan Osgood has established himself as a known figure among the ratters of Aelwyth. His reputation, for better or worse, precedes him in the circles where such things matter.
 
-### Psyche
+## Psyche
 
-#### Personality
+### Personality
 
 Can be overly obsessed with his work, struggles with social interactions outside his profession.
 
-#### Motivation
+### Motivation
 
 Wystan is driven by the desire to master his craft and secure a stable future. The uncertainties of life in ratter work keep him vigilant and adaptable.
 
-#### Strengths
+### Strengths
 
 Skilled in trapping and rodent behavior, good at navigating urban environments, resourceful.
 
-### Social
+## Social
 
 Wystan is affiliated with None; works independently..
 
 As a Aelwythan ratter, Wystan occupies a recognized social niche within Aelwyth society.
 
-### Companions
+## Companions
 
-#### Patrons
+### Patrons
 
 Wystan's primary patron is Local merchants and households seeking to control rat populations.. This relationship provides both opportunity and obligation.
 
-#### Enemies
+### Enemies
 
 Few; generally well-respected, but some rats may evade his traps.
 
-### Plot Hooks
+## Plot Hooks
 
 1. **The Ratter's Dilemma** — Wystan faces a professional crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Aelwyth.
 

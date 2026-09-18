@@ -601,39 +601,39 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![[lnntstrtgpls|Leónantos Stratégopoulos]]{float: top-left}
+# Appearance {#appearance}
 
-## Appearance {#appearance}
+![[lnntstrtgpls|Leónantos Stratégopoulos]]{float: top-left}
 
 Leónantos stands 6'3" tall with a heavy build. He has light tanned skin, black hair, and brown eyes. His features include an oblong face, a prominent nose, a pointed chin, a wide mouth, heavy brows. A distinguishing mark is a tattoo of a skill and crossbones on the chest.
 
-## Dossier {#dossier}
+# Dossier {#dossier}
 
-### Background
+## Background
 
-#### Early Years
+### Early Years
 
 Leónantos was born to a merchant family in the bustling ports of the Byzarian League, where the salt wind carried tales of distant lands and the sea held no mercy for the weak. Unlike his father, who sought profit in trade, young Leónantos felt the call of something greater—a hunger for battle and dominion. He sought employment as a soldier-for-hire, signing on with coastal mercenary bands that preyed upon merchant vessels and rival settlements. For two decades, he climbed the ranks through cunning and brutality, becoming captain of the _Scarlet Reaver_, a ship feared across the shipping lanes. The skull and crossbones upon his chest was earned in those years, marked upon his flesh as a pirate's bond to his crew.
 
-#### The Calling
+### The Calling
 
 Yet the sea's endless thirst for blood could never satisfy the deeper yearning in his soul. In his fortieth year, during a tempest that split the heavens and rained fire upon the waves, Leónantos experienced a revelation. The priests of Flórania emerged from the storm's chaos to rescue his dying crew, speaking of divine purpose and the purifying flame of the fire god's aspect. Rather than face judgment for his crimes, Leónantos underwent a profound transformation, surrendering his corsair's life for the priesthood. His warlord's prowess became the Church's instrument, his command of men redirected toward religious authority rather than lawless conquest. Many questioned the sincerity of his conversion, yet none could deny the ferocity with which he now pursued the god's will.
 
-#### Present Standing
+### Present Standing
 
 As a high-ranking priest of Flórania's fire aspect, Leónantos serves the Byzarian League as both spiritual guide and military chaplain. He conducts elaborate rituals that bless warriors before battle, communes with fire spirits through esoteric knowledge, and commands respect—and often fear—from military leaders who depend upon his divine counsel. His church offices overlook the harbor where his corsair days began, and he walks the same streets as a shepherd rather than a scourge. Yet the fire that once burned for plunder burns now for conquest of a different kind: the dominion of faith over doubt, and the submission of souls to divine purpose.
 
-### Psyche
+## Psyche
 
-#### Personality
+### Personality
 
 Leónantos is a man of paradox: brutal honesty wed to calculated charm, the fervent believer married to the hardened pragmatist. His decades as a pirate left their mark upon his temperament—he speaks with command, expects obedience, and brooks no contradiction. Yet his conversion was genuine, and this internal struggle between the past and the divine creates a compelling tension. He views weakness with contempt, whether in body or spirit, and shows little patience for those who lack conviction. His laughter is loud and unsettling, his rages terrible to witness. Nevertheless, he possesses an unexpected capacity for mentorship, taking those he deems worthy under his wing and molding them into instruments of the faith. He speaks multiple languages learned in his seafaring days, and his discourse on both theology and tactics can entrance a room.
 
-#### Motivation
+### Motivation
 
 Leónantos seeks redemption through unwavering service to Flórania, believing that only through perfect obedience and absolute commitment can he expiate the blood on his hands. He also remains convinced that strength, not gentleness, will bring true enlightenment to the masses. His authority over the military and his influence with the priesthood grow year by year, and he harbors ambitions to reshape the Byzarian League's religious and martial character according to his vision of divine order. The fire god has claimed his body; now he seeks to claim the region's soul.
 
-#### Strengths
+### Strengths
 
 - **Ritual Mastery**: Leónantos commands arcane knowledge of ceremonial fire magic and spirit communion, rivaling many monks in understanding the esoteric traditions.
 - **Martial Command**: His skill at directing troops and inspiring warriors remains unmatched; soldiers under his blessing fight with legendary ferocity and discipline.
@@ -641,7 +641,7 @@ Leónantos seeks redemption through unwavering service to Flórania, believing t
 - **Charismatic Authority**: His voice carries weight; people listen, whether from respect or intimidation, and his oratory can sway crowds and convince the doubtful.
 - **Seamanship**: His decades at sea left him intimately knowledgeable about navigation, sail-craft, and the governance of vessels and crews.
 
-#### Weaknesses
+### Weaknesses
 
 - **Emotional Coldness**: His empathy is limited; he views suffering as weakness and struggle as purification, making him a harsh judge of human frailty.
 - **Dogmatic Fervor**: He interprets doctrine with little flexibility, viewing compromise as betrayal of the faith itself.
@@ -649,26 +649,26 @@ Leónantos seeks redemption through unwavering service to Flórania, believing t
 - **Reputation for Cruelty**: His pirate past haunts him despite conversion; many fear his forgiveness is superficial, and some of his victims' families still hunger for vengeance.
 - **Limited Creativity**: Though skilled in established rituals, he struggles to adapt or improvise when tradition provides no answer.
 
-### Social
+## Social
 
-#### Patrons
+### Patrons
 
 - **Thálassios of the Byzarian Council**: A military governor who relies on Leónantos's blessings and counsel to maintain his authority and morale among his troops.
 - **High Priestess Kallista**: The supreme ecclesiastical authority in the region, who has come to trust—though not entirely comfort—Leónantos's brutal effectiveness.
 
-#### Enemies
+### Enemies
 
 - **Captain Théodoulos the Bitter**: A rival corsair from Leónantos's pirate days, now commanding his own fleet and seeking to end his former comrade before divine luck can claim vengeance for all Théodoulos has lost.
 - **House of Maríanos**: An aristocratic family whose merchant fleet Leónantos systematically destroyed during his years as the Scarlet Reaver's captain; the surviving heirs have sworn blood oaths to see him burned.
 - **The Apostate Priests of Darkness**: A heretical sect believes Leónantos's conversion was false and that he works to corrupt the church from within; they have marked him for assassination.
 
-#### Affiliations
+### Affiliations
 
 - **Church of Flórania (Fire Aspect)**: High-ranking priest and architect of military-religious cooperation
 - **Byzarian Military Council**: Serves as spiritual advisor to commanders and overseer of pre-battle rituals
 - **The Order of the Sacred Flame**: An elite cadre of warrior-monks trained in both priestly and martial disciplines under his direct mentorship
 
-### Plot Hooks
+## Plot Hooks
 
 1. **The Pirate's Debt Calls**: A merchant vessel recently arrived in the Byzarian harbors bearing Théodoulos's colors—and word that the captain has grown tired of hunting. He sends a message to Leónantos: surrender yourself for trial before the pirate assembly, or he will burn the ports themselves in siege. As military leaders call upon Leónantos to lead the defense, he must decide whether his past truly has been absolved by faith, or whether some debts must be settled with steel rather than prayer. The party may find themselves hired to track down Théodoulos before he strikes, or forced to help Leónantos face this specter from his corsair days.
 

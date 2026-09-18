@@ -623,13 +623,13 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![[rkrthrsldr|Ríkarthr Íseldr]]{float: top-left}
+# Appearance {#appearance}
 
-## Appearance {#appearance}
+![[rkrthrsldr|Ríkarthr Íseldr]]{float: top-left}
 
 Ríkarthr stands 5'4" tall with a medium build. He has light pale skin, silver hair, and gray eyes. His features include an oblong face, a prominent nose, a heavy jawline, a firm-set mouth, thick brows, flat cheeks. A distinguishing mark is a tattoo of a dolphin on the left wrist.
 
-## Dossier {#dossier}
+# Dossier {#dossier}
 
 **Early Training:** Ríkarthr was born the youngest son of a merchant-seal-hunting family in Thorrborg, the capital of Vithgard. Groomed initially for a life of commerce and the whaling trade, his path changed irrevocably when he manifested the shamanic gift at age twelve—the ability to see and commune with spirits in the way his people's völvur have done for centuries. His family recognized the talent and brought him to **Völva Aldrhildr**, the most respected spirit-worker in Thorrborg, to learn the ancient traditions of seidr and spirit-binding. The apprenticeship was rigorous and transformative, grounding him in the sacred knowledge of the Asguardian Pantheon and teaching him to navigate the realms of spirit. Yet it also marked him as ergi—unmanly by strict Nordmen standards—a stigma that would follow him throughout his life no matter how much power and knowledge he accumulated.
 
@@ -637,19 +637,19 @@ Ríkarthr stands 5'4" tall with a medium build. He has light pale skin, silver h
 
 **Current Path:** Now in his twilight years, Ríkarthr has returned to Vithgard, seeking some form of peace with his origins. He maintains a private dwelling on the northern outskirts of Thorrborg, where he trains selected younger spirit-workers—those with shamanic gifts but no family connections to the traditional völvur orders—in the synthesis of Nordmen sacred knowledge and the academic frameworks he learned in the south. Yet he lives in a state of profound contradiction: he is too Nordmen for the Epistemium, too academic for the traditional völvur, and too ergi for mainstream Vithgard society. His paranoia about discovery has become deeply personal and historically rooted. He fears that the Epistemium's ambitions to regulate all magical practice will eventually reach into Vithgard and criminalize the sacred traditions his people have preserved for millennia. He also fears that traditional Nordmen society will reject him entirely if his gender transgression becomes too widely known. More fundamentally, he fears that he has betrayed his own traditions by trying to translate them into a foreign language, and that his attempt to reconcile two irreconcilable ways of understanding magic has produced only a hollow synthesis that serves neither.
 
-### Psyche
+## Psyche
 
-#### Personality
+### Personality
 
 Ríkarthr is a study in contradictions—simultaneously eager to share sacred knowledge with worthy students and fiercely protective of traditions he fears are being erased by forces beyond his control. His paranoia, while occasionally tiresome to those around him, stems from genuine cultural and personal sources: the historical threat of the Ordo Arcanis reaching into independent magical traditions, the erasure of Nordmen shamanic practice under the weight of foreign academic frameworks, and his own profound shame about his ergi status in a culture that despises gender transgression. He speaks slowly and deliberately, often pausing mid-sentence as though wrestling with what he can safely reveal, and his conversations frequently veer into cryptic warnings about "those who would reduce sacred mystery to academic formula" and "the creeping poison of foreign institutions that devour local knowledge."
 
 Despite his suspicious nature, Ríkarthr possesses surprising warmth toward those he trusts—particularly younger spirit-workers who show the same ergi traits he bears, giving them what acceptance he can within his own conflicted framework. With his closest students, he becomes almost grandfatherly, his gray eyes warm as he teaches the sacred knowledge of spirit-communion and spins stories of his shamanic journeys. But his emotional core is scarred by irreconcilable contradictions: he loved Völva Aldrhildr as the closest thing he had to a mother figure, yet her teachings also locked him into the very gender transgression that has haunted him. He sought respect in the Epistemium, yet felt himself betraying his traditions with every lecture. He is torn between a visceral need to protect sacred Nordmen knowledge from external corruption and an intellectual understanding that all cultures must evolve and adapt. This conflict has never been resolved, only buried under layers of defensive paranoia.
 
-#### Motivation
+### Motivation
 
 Ríkarthr is driven by three interlocking and contradictory motivations: first, the desire to preserve the sacred Nordmen traditions of spirit-work and shamanism—knowledge he fears will be lost if external pressures (particularly from the Epistemium and the Ordo) continue to increase. Second, the compulsion to prevent that same knowledge from being weaponized, codified, or drained of its spiritual meaning by those who would transform sacred mystery into academic system. Third, though he rarely acknowledges this even to himself, a desperate hope that by training younger spirit-workers—giving them what cultural acceptance and wisdom he can offer—he might somehow heal the wound in himself, might model a way of being ergi that Vithgard society could one day accept rather than merely tolerate. Yet this third motivation directly contradicts the first two, creating an internal paralysis: if he successfully normalizes gender-transgressive spirit-workers, he weakens the cultural boundaries that protect Nordmen traditions; if he protects those traditions fiercely, he perpetuates the shame that destroyed his own life.
 
-#### Strengths
+### Strengths
 
 - **Master Thaumaturgist:** With a base skill of 17 and extensive practice, Ríkarthr can execute complex magical rituals of extraordinary power, manipulate spiritual forces, and engage in theoretical magic at the highest levels.
 - **Living Library:** His exceptional reasoning (18) and decades of study have made him a walking compendium of arcane knowledge, folklore, and ancient traditions—he can advise on matters magical that others consider impossible.
@@ -657,7 +657,7 @@ Ríkarthr is driven by three interlocking and contradictory motivations: first, 
 - **Eloquent Scholar:** His eloquence (13) combined with theatrical command of language makes him a compelling teacher and speaker, able to explain complex magical concepts with unusual clarity.
 - **Disciplined Mind:** Years of meditation and magical practice have granted him exceptional will (15) and the ability to maintain focus through pain, fear, or magical interference.
 
-#### Weaknesses
+### Weaknesses
 
 - **Physical Fragility:** His low strength (8) and modest endurance (10) make him vulnerable in direct physical conflict; he relies entirely on magic for protection.
 - **Pathological Paranoia:** His suspicion of others frequently prevents him from forming genuine alliances or accepting help, leading him to isolation and missed opportunities.
@@ -665,28 +665,28 @@ Ríkarthr is driven by three interlocking and contradictory motivations: first, 
 - **Limited Mobility:** His poor swimming (9) and low climbing (10) restrict his ability to pursue fugitives or escape danger in natural environments.
 - **Magical Dependency:** He carries no weapons and no armor beyond enchanted robes; if his magic is suppressed, he becomes nearly defenseless.
 
-### Social
+## Social
 
-#### Patrons & Connections
+### Patrons & Connections
 
 - **Völva Aldrhildr (deceased):** Though long dead, Ríkarthr's former teacher remains his spiritual anchor and the source of both his greatest gifts and his deepest wounds. She recognized his shamanic talent and trained him in the sacred traditions, yet also locked him irrevocably into the ergi status that would define his suffering. He has never freed himself from her teachings, and often asks himself "What would the Völva counsel?" when facing decisions about which traditions to protect and which to transform.
 - **Kári Ironsmith (local ally):** A respected shipwright and sealing captain in Thorrborg who is one of the few people in his community who accepts Ríkarthr without shame, valuing his counsel and his gifts as a seer. Their friendship is deep but carefully hidden—publicly, Kári shows Ríkarthr the same cool distance that most Vithgard men do toward ergi practitioners.
 - **Scholar-Magister Helena of the Panepistemium (distant connection):** An elderly member of the Sodalitas Pneuménos who once mentored Ríkarthr and remains his most sympathetic contact within the Epistemium. They correspond rarely and carefully, but she has provided him with information about the Ordo's expanding interest in regulating shamanic practices in the northern kingdoms.
 
-#### Enemies & Threats
+### Enemies & Threats
 
 - **Traditional Völvur Hierarchy:** The established order of female spirit-workers in Vithgard views Ríkarthr as an anomaly and a threat. His attempt to formalize and teach shamanic practice to other young people—particularly other ergi individuals—is seen as both a dilution of sacred traditions and an unacceptable challenge to the völvur's exclusive authority. Whispers suggest that some of the elder völvur have considered taking formal action to suppress his teaching.
 - **Ordo Arcanis Expansion:** Ríkarthr's greatest institutional fear is the Ordo's slow expansion northward. He has learned through fragmentary reports that the Ordo's agents are asking questions about Vithgard's shamanic traditions, attempting to catalog and regulate independent magical practitioners. If the Ordo ever establishes a formal presence in Thorrborg, his entire way of life becomes legally impossible.
 - **Nordmen Cultural Rejection:** More personally dangerous than external institutions is the possibility of total social ostracism within his own people. His ergi status is already a profound stigma; if he becomes known as someone actively promoting gender-transgressive practice, he risks becoming not merely tolerated but openly despised—or worse, driven into exile from his homeland.
 - **His Own Irreconcilable Contradictions:** Most dangerous of all is Ríkarthr's internal conflict between protecting Nordmen traditions and opening them to change, between hiding his ergi nature and embracing it, between the sacred knowledge he learned from Völva Aldrhildr and the academic frameworks he learned in the south. This internal war is far more destructive than any external enemy, and it manifests as paranoia, indecision, and the slow erosion of his ability to act decisively toward any goal.
 
-#### Affiliations
+### Affiliations
 
 - **Panepistemium (Distant & Precarious):** Ríkarthr maintains a loose affiliation with the Epistemium, having studied there decades ago. However, his formal credentials are suspect, his current activities are at best tolerated and at worst unknown to Epistemium leadership, and his reputation as a "provincial spirit-worker" rather than a true Magister means he has little institutional standing. The Epistemium sees his work as ethnographic curiosity rather than legitimate arcane scholarship.
 - **Vithgard Community (Complicated & Hidden):** Ríkarthr is both embedded in and alienated from Thorrborg society. The community needs his shamanic gifts—his ability to divine the future, to commune with spirits, to provide counsel on matters spiritual. Yet this same need comes paired with profound cultural shame around his ergi status. Publicly, respectable people maintain distance from him; privately, they seek his counsel and pay for his services.
 - **The Informal Network of Northern Spirit-Workers (Self-Imposed Isolation):** Ríkarthr once moved in circles with other shamanic practitioners—völvur, seers, and priests of the Asguardian faith. But his attempt to formalize and teach shamanic practice, and his gender transgression, have increasingly isolated him. He is no longer fully part of this community, though he desperately wishes to protect it from external threats.
 
-### Plot Hooks
+## Plot Hooks
 
 1. **The Ordo's Northern Inquiry:** Ríkarthr learns through his contacts in the Epistemium that Ordo Arcanis agents have begun formal investigations into shamanic practices in the northern kingdoms. An official Ordo envoy will soon arrive in Thorrborg to "catalog magical practitioners" and "ensure compliance with arcane licensing standards." Ríkarthr's entire existence—his teaching, his practice, his hidden students—suddenly becomes illegal. He needs adventurers to help him understand the extent of the Ordo's knowledge, to warn the other spirit-workers before the envoy arrives, and possibly to find a way to negotiate or obstruct the Ordo's expansion. But his paranoia makes him suspect the adventurers might be Ordo agents themselves, and his cultural alienation means he cannot fully trust anyone from outside Vithgard. The plot becomes as much about navigating Ríkarthr's psychological barriers as about the actual institutional threat.
 

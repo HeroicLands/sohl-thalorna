@@ -553,11 +553,11 @@ sohl:
     defaultCombatGroup: null
 ---
 
-## Appearance {#appearance}
+# Appearance {#appearance}
 
 Arkálòrdâs Kâlmâkanês is a 37-year-old man who stands 6'4" tall and is broad and solidly built. He has a diamond face with broad cheekbones, a smooth forehead, and a square jaw that leads to a strong chin. His narrow gray eyes sit beneath straight brows, lending him a keen gaze. An aquiline nose and narrow lips complete his features. He has tanned skin with an olive-toned complexion. His black hair is receding at the temples.
 
-## Dossier {#dossier}
+# Dossier {#dossier}
 
 Born in the Vylaría region to a freeman family of Vylarian heritage, Arkálòrdâs Kâlmâkanês came into the world of the common seaman through a combination of circumstance and aptitude.
 
@@ -565,37 +565,37 @@ Darrin is a seasoned sailor with many tales of the sea. He has faced storms and 
 
 Now at 37 years of age, Arkálòrdâs Kâlmâkanês has established himself as a known figure among the common seamans of Vylaria. His reputation, for better or worse, precedes him in the circles where such things matter.
 
-### Psyche
+## Psyche
 
-#### Personality
+### Personality
 
 Can be stubborn, struggles with change.
 
-#### Motivation
+### Motivation
 
 Arkálòrdâs is driven by the desire to master his craft and secure a stable future. The uncertainties of life in common seaman work keep him vigilant and adaptable.
 
-#### Strengths
+### Strengths
 
 Highly experienced, strong leadership skills, excellent sailor.
 
-### Social
+## Social
 
 Arkálòrdâs is affiliated with None; works as a hired hand..
 
 As a Vylarian common seaman, Arkálòrdâs occupies a recognized social niche within Vylaria society.
 
-### Companions
+## Companions
 
-#### Patrons
+### Patrons
 
 Arkálòrdâs's primary patron is Ship captains and crew members who respect his experience.. This relationship provides both opportunity and obligation.
 
-#### Enemies
+### Enemies
 
 Few; generally well-respected, though some may see him as too traditional.
 
-### Plot Hooks
+## Plot Hooks
 
 1. **The Common Seaman's Dilemma** — Arkálòrdâs faces a professional crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Vylaria.
 

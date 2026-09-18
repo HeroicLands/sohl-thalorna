@@ -550,11 +550,11 @@ sohl:
     defaultCombatGroup: null
 ---
 
-## Appearance {#appearance}
+# Appearance {#appearance}
 
 Bárnek Lánthrik is a 40-year-old man who stands 5'11" tall and is of moderate build. He has a heart-shaped face with prominent cheekbones, a lined forehead, and a narrow jaw that leads to a firm chin. His large amber eyes sit beneath expressive brows, lending him an expressive gaze. A narrow nose and thin lips complete his features. He has warm-toned skin with an olive-toned complexion. His gray hair is shoulder-length and loose.
 
-## Dossier {#dossier}
+# Dossier {#dossier}
 
 Born in the Provènzia region to a guilded family of Provenzian heritage, Bárnek Lánthrik came into the world of the bard through a combination of circumstance and aptitude.
 
@@ -562,37 +562,37 @@ Alaric has been a bard for over twenty years, gaining a reputation for his adven
 
 Now at 40 years of age, Bárnek Lánthrik has established himself as a known figure among the bards of Provènzia. His reputation, for better or worse, precedes him in the circles where such things matter.
 
-### Psyche
+## Psyche
 
-#### Personality
+### Personality
 
 Prone to embellishment, can be overconfident in his abilities.
 
-#### Motivation
+### Motivation
 
 Bárnek's driving force is the search that defines his life — a quest that shapes every decision he makes and every risk he takes.
 
-#### Strengths
+### Strengths
 
 Charismatic, experienced traveler, skilled diplomat.
 
-### Social
+## Social
 
 Bárnek is affiliated with Bardic College.
 
 As a Provenzian bard, Bárnek occupies a recognized social niche within Provènzia society.
 
-### Companions
+## Companions
 
-#### Patrons
+### Patrons
 
 Bárnek's primary patron is Nobles and merchants who appreciate his storytelling.. This relationship provides both opportunity and obligation.
 
-#### Enemies
+### Enemies
 
 Some who distrust him due to his tendency to embellish stories.
 
-### Plot Hooks
+## Plot Hooks
 
 1. **The Bard's Dilemma** — Bárnek faces a professional crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Provènzia.
 

@@ -552,13 +552,13 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![[vndrcgrwld|Vandaric Garwald]]{float: top-left}
+# Appearance {#appearance}
 
-## Appearance {#appearance}
+![[vndrcgrwld|Vandaric Garwald]]{float: top-left}
 
 Vandaric Garwald does not look like a bandit, which is precisely the point. He is of middling height and medium build, with dark brown hair kept suspiciously clean for a forest outlaw, and gray eyes that sparkle with warmth and humor — neither of which is real. His face is lean and sallow, but handsome enough to be trusted at a glance, and he has a disarming smile that he deploys the way other men deploy weapons: quickly, precisely, and to lethal effect. A tattooed serpent coils around his left forearm, half-hidden by his sleeve. He dresses better than the rest of the gang — a cloth tunic and leggings under a leather vest, maintained with a care the others find baffling. He carries a shortsword and dagger but fights only as a last resort, preferring to talk his way out of — or into — any situation.
 
-## Dossier {#dossier}
+# Dossier {#dossier}
 
 Vandaric was born to a Varokh family that operated a roadside inn on the imperial trade road — a legitimate business, or so it appeared. In truth, his father worked as a fence for stolen goods, his mother ran a confidence game on wealthy travelers, and young Vandaric grew up learning that every interaction was a transaction and every smile was a tool. He was charming, clever, and utterly without scruple by the time he was twelve.
 
@@ -566,39 +566,39 @@ He left home at eighteen — not fleeing, but seeking bigger marks. He spent a d
 
 He found the Blackpine Wolves a year ago and attached himself to Dágulf through sheer usefulness. He is the gang's voice — the one who scouts potential targets in taverns, learns caravan schedules, identifies which merchants carry the most coin, and occasionally talks guards into looking the other way. Dágulf dislikes him personally but recognizes that Vandaric brings in more intelligence in a week of tavern talk than the rest of the gang manages in a month of skulking.
 
-## Skills and Abilities
+# Skills and Abilities
 
 Vandaric is the gang's talker, schemer, and intelligence gatherer. His eloquence, creativity, and guile make him a superb liar and confidence man. He can read people quickly, adjust his approach on the fly, and maintain a false identity for weeks at a time. He has passable mercantile knowledge and can assess the value of stolen goods accurately. His combat skills are adequate but unexceptional — he can defend himself with sword and dagger, but he is no warrior and he knows it.
 
-### Psyche
+## Psyche
 
-#### Personality
+### Personality
 
 Vandaric is glib, charming, and fundamentally hollow. He relates to other people as marks, tools, or obstacles, and he can mimic warmth, sympathy, and friendship with disturbing precision without feeling any of them. He is not needlessly cruel — cruelty is bad for business — but he will betray anyone without hesitation if the calculation favors it. He genuinely enjoys the craft of deception, taking pride in a well-executed con the way an artisan takes pride in fine work. He drinks too much and gambles compulsively, which are the cracks in an otherwise polished surface.
 
-#### Motivation
+### Motivation
 
 Vandaric wants comfort, excitement, and the satisfaction of outwitting others. He has no loyalty to the gang, to Vrystwald, or to any cause larger than himself. He stays with the Blackpine Wolves because it currently suits him, but he is always calculating his next move. He dreams of pulling off one magnificent score — enough to buy a new identity and a comfortable life in a Provenzian city far from the pines.
 
-#### Strengths
+### Strengths
 
 His social skills are exceptional. He can talk his way into guarded camps, extract information from wary merchants, and charm serving girls into sharing caravan gossip. His creativity and reasoning make him the gang's best planner, and Dágulf reluctantly relies on his intelligence for ambush timing and target selection.
 
-### Social
+## Social
 
-### Companions
+## Companions
 
 The Blackpine Wolves, by convenience. He maintains a surface friendliness with everyone and genuine closeness with no one. Skathilda sees through him completely, which makes him nervous.
 
-#### Patrons
+### Patrons
 
 None currently. He maintains a few contacts in border towns who fence stolen goods, but these are transactional relationships.
 
-#### Enemies
+### Enemies
 
 The Vylarian merchant he cheated in Graumarkt has not forgotten. There may be outstanding warrants in two or three border towns under various names. His own parents, if still alive, would not be surprised by his career.
 
-### Plot Hooks
+## Plot Hooks
 
 1. **The Friendly Stranger** — The party meets Vandaric in a tavern where he is posing as a traveling merchant. He is charming, helpful, and full of useful information about the road ahead — all of it carefully curated to steer the party into an ambush. If the party sees through him, he becomes a valuable source of information about the Blackpine Wolves, provided the price is right.
 

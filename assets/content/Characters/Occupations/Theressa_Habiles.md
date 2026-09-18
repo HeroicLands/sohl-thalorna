@@ -549,11 +549,11 @@ sohl:
     defaultCombatGroup: null
 ---
 
-## Appearance {#appearance}
+# Appearance {#appearance}
 
 Thêrèssa Hàbîlês is a 34-year-old woman who stands 5'11" tall and is of moderate build. She has an oval face with high cheekbones, a lined forehead, and a strong jaw that leads to a strong chin. Her deep-set blue eyes sit beneath straight brows, lending her a watchful gaze. A strong nose and curved lips complete her features. She has olive-tanned skin with a clear complexion. Her brown hair is pinned in an elegant twist.
 
-## Dossier {#dossier}
+# Dossier {#dossier}
 
 Born in the Heliónis region to a freeman family of Helionite heritage, Thêrèssa Hàbîlês came into the world of the prostitute through a combination of circumstance and aptitude.
 
@@ -561,37 +561,37 @@ Elenora is a poor widow with two young children, struggling to make ends meet af
 
 Now at 34 years of age, Thêrèssa Hàbîlês has established herself as a known figure among the prostitutes of Heliónis. Her reputation, for better or worse, precedes her in the circles where such things matter.
 
-### Psyche
+## Psyche
 
-#### Personality
+### Personality
 
 Can be overly self-sacrificing, struggles with feelings of shame.
 
-#### Motivation
+### Motivation
 
 Thêrèssa is driven by the desire to master her craft and secure a stable future. The uncertainties of life in prostitute work keep her vigilant and adaptable.
 
-#### Strengths
+### Strengths
 
 Resilient, nurturing, good at managing her limited resources.
 
-### Social
+## Social
 
 Thêrèssa is affiliated with None; works independently..
 
 As a Helionite prostitute, Thêrèssa occupies a recognized social niche within Heliónis society.
 
-### Companions
+## Companions
 
-#### Patrons
+### Patrons
 
 Thêrèssa's primary patron is Men seeking companionship; she offers warmth and kindness.. This relationship provides both opportunity and obligation.
 
-#### Enemies
+### Enemies
 
 Few; generally sympathetic, though some may look down on her.
 
-### Plot Hooks
+## Plot Hooks
 
 1. **The Prostitute's Dilemma** — Thêrèssa faces a professional crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Heliónis.
 

@@ -553,11 +553,11 @@ sohl:
     defaultCombatGroup: null
 ---
 
-## Appearance {#appearance}
+# Appearance {#appearance}
 
 Sahînór Mâkîthôn is a 50-year-old man who stands 5'10" tall and is of moderate build. He has an oval face with high cheekbones, a smooth forehead, and a sharp jaw that leads to a firm chin. His piercing blue eyes sit beneath prominent brows, lending him a penetrating gaze. A straight nose and expressive lips complete his features. He has fair skin with a bronzed complexion. His white hair is combed neatly to one side.
 
-## Dossier {#dossier}
+# Dossier {#dossier}
 
 Born in the Heliónis region to a freeman family of Helionite heritage, Sahînór Mâkîthôn came into the world of the herald through a combination of circumstance and aptitude.
 
@@ -565,37 +565,37 @@ Sir Alaric Emberhill is a seasoned herald with over thirty years of service. As 
 
 Now at 50 years of age, Sahînór Mâkîthôn has established himself as a known figure among the heralds of Heliónis. His reputation, for better or worse, precedes him in the circles where such things matter.
 
-### Psyche
+## Psyche
 
-#### Personality
+### Personality
 
 Can be dismissive of younger heralds, struggles with adapting to informal events.
 
-#### Motivation
+### Motivation
 
 Sahînór is driven by the desire to master his craft and secure a stable future. The uncertainties of life in herald work keep him vigilant and adaptable.
 
-#### Strengths
+### Strengths
 
 Authoritative, experienced, respected for his deep understanding of heraldic traditions.
 
-### Social
+## Social
 
 Sahînór is affiliated with City Heralds' Guild.
 
 As a Helionite herald, Sahînór occupies a recognized social niche within Heliónis society.
 
-### Companions
+## Companions
 
-#### Patrons
+### Patrons
 
 Sahînór's primary patron is High-ranking nobles who respect his long service and authority.. This relationship provides both opportunity and obligation.
 
-#### Enemies
+### Enemies
 
 Ambitious young heralds who see him as a barrier to their own advancement.
 
-### Plot Hooks
+## Plot Hooks
 
 1. **The Herald's Dilemma** — Sahînór faces a professional crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Heliónis.
 

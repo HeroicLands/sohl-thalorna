@@ -569,13 +569,13 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![[dornsyndlr|Dôren Sýndalr]]{float: top-left}
+# Appearance {#appearance}
 
-## Appearance {#appearance}
+![[dornsyndlr|Dôren Sýndalr]]{float: top-left}
 
 Dôren is a towering man of twenty-eight, standing six foot four with a heavy, muscular frame and olive-toned skin marked by battle scars. A deep, ragged scar runs diagonally across his left cheek. His short black hair and gray eyes give him a hard, uncompromising look. There is nothing subtle about him, and he would not want there to be.
 
-## Dossier {#dossier}
+# Dossier {#dossier}
 
 Dôren hails from the rugged highlands of Provènzia, where he was once a farmer. That life ended when his village was raided and destroyed during a border skirmish. With nothing left—no home, no family, no reason to stay—he joined a local militia to seek vengeance. He quickly rose through the ranks on the strength of his raw physical power and his utter fearlessness in battle.
 
@@ -583,49 +583,49 @@ His reputation as a fighter drew the attention of Brànwâal, who recruited him 
 
 Dôren is not a complicated man. He does not care for politics, subtlety, or the kind of scheming that occupies people like Tórnis. War is simple: protect those who fight with you, kill those who stand against you. He says what he means, does what he says, and asks nothing more of the world than a place to stand and someone worth standing beside.
 
-### Background
+## Background
 
-#### Skills and Abilities
+### Skills and Abilities
 
 - **Battle Prowess**: Dôren is the Silent Talon's frontline fighter. He wields his axe and shield with devastating effect, combining raw strength with the hard-won experience of years of combat.
 - **Physical Strength**: Exceptionally strong, even by the standards of fighting men. His highland upbringing and years of manual labor gave him a powerful frame that his military career has only hardened.
 - **Endurance**: Dôren can fight, march, and endure hardship longer than most men. He does not complain, does not slow down, and does not quit.
 - **Loyalty**: Not a skill in the conventional sense, but Dôren's absolute reliability in battle makes him invaluable. He will hold a position, protect a flank, or stand over a fallen companion until he is physically unable to continue.
 
-### Psyche
+## Psyche
 
-#### Personality
+### Personality
 
 Dôren is straightforward, loyal, and practical. He lacks patience for politics or subtlety, preferring to solve problems with his axe and shield. He speaks plainly and cares deeply for his comrades, often forming deep bonds with those he fights alongside. He is not unintelligent—he simply sees no reason to overcomplicate things that are, at their core, simple.
 
-#### Motivation
+### Motivation
 
 Dôren seeks stability after losing his family and home. He has little desire for wealth beyond what is needed to live comfortably. His true motivation is to find a new family in the Silent Talon and to protect them from the kind of destruction he once faced. As long as he is swinging his axe alongside people he trusts, he is where he needs to be.
 
-#### Strengths
+### Strengths
 
 - **Battle Prowess**
 - **Physical Strength**
 - **Endurance**
 
-### Social
+## Social
 
-### Companions
+## Companions
 
 - **[[being-branwldrgr|Brànwâal Dôrgaar]]**: Captain of the Silent Talon. Kôris respects Brànwâal's competence and follows his orders without question.
 - **[[being-elyseskyrn|Elýsè Skýrn]]**: Fellow band member. Kôris is protective of her.
 - **[[being-torniskbry|Tórnis Kúbrý]]**: Fellow band member. Kôris finds Tórnis's evasiveness mildly irritating but trusts him in the field.
 - **[[being-chlbrhydyn|Chéleb Rhýddýn]]**: Fellow band member. A quiet mutual respect between two men who prefer actions to words.
 
-#### Patrons
+### Patrons
 
 None.
 
-#### Enemies
+### Enemies
 
 The raiders who destroyed his village.
 
-### Plot Hooks
+## Plot Hooks
 
 1. **The Burning Village**: The Silent Talon passes through a region where villages are being raided in a pattern disturbingly similar to the attack that destroyed Dôren's home. He becomes obsessed with finding the raiders, and the band must decide whether to pursue his personal vendetta or stick to their current contract.
 

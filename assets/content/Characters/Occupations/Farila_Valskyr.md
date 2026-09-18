@@ -550,11 +550,11 @@ sohl:
     defaultCombatGroup: null
 ---
 
-## Appearance {#appearance}
+# Appearance {#appearance}
 
 Fárila Válskyr is a 35-year-old woman who stands 5'7" tall and is slender. She has a heart-shaped face with soft cheekbones, a narrow forehead, and a strong jaw that leads to a pointed chin. Her round gray eyes sit beneath arched brows, lending her a candid gaze. A narrow nose and thin lips complete her features. She has fair skin with a sun-tanned complexion. Her black hair is pinned in an elegant twist.
 
-## Dossier {#dossier}
+# Dossier {#dossier}
 
 Born in the Provènzia region to a noble family of Provenzian heritage, Fárila Válskyr came into the world of the physician through a combination of circumstance and aptitude.
 
@@ -562,37 +562,37 @@ Lady Seraphina is a skilled physician with a specialization in herbal medicine. 
 
 Now at 35 years of age, Fárila Válskyr has established herself as a known figure among the physicians of Provènzia. Her reputation, for better or worse, precedes her in the circles where such things matter.
 
-### Psyche
+## Psyche
 
-#### Personality
+### Personality
 
 Can be overly idealistic, struggles with bureaucratic constraints.
 
-#### Motivation
+### Motivation
 
 Fárila is driven by the desire to master her craft and secure a stable future. The uncertainties of life in physician work keep her vigilant and adaptable.
 
-#### Strengths
+### Strengths
 
 Knowledgeable about herbal remedies, empathetic, skilled in communication.
 
-### Social
+## Social
 
 Fárila is affiliated with Local Physicians' Guild.
 
 As a Provenzian physician, Fárila occupies a recognized social niche within Provènzia society.
 
-### Companions
+## Companions
 
-#### Patrons
+### Patrons
 
 Fárila's primary patron is Local families seeking her expertise in health and wellness.. This relationship provides both opportunity and obligation.
 
-#### Enemies
+### Enemies
 
 Few; respected but sometimes challenged by traditional medical practitioners.
 
-### Plot Hooks
+## Plot Hooks
 
 1. **The Physician's Dilemma** — Fárila faces a professional crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Provènzia.
 

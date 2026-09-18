@@ -551,11 +551,11 @@ sohl:
     defaultCombatGroup: null
 ---
 
-## Appearance {#appearance}
+# Appearance {#appearance}
 
 Járaen Lýskal is a 39-year-old woman who stands 5'6" tall and is slender. She has a heart-shaped face with high cheekbones, a narrow forehead, and a strong jaw that leads to a pointed chin. Her large brown eyes sit beneath straight brows, lending her an expressive gaze. A straight nose and wide lips complete her features. She has olive skin with a fair complexion. Her chestnut hair is twisted into an elaborate arrangement.
 
-## Dossier {#dossier}
+# Dossier {#dossier}
 
 Born in the Provènzia region to a freeman family of Provenzian heritage, Járaen Lýskal came into the world of the toymaker through a combination of circumstance and aptitude.
 
@@ -563,37 +563,37 @@ Greta learned the art of toymaking from her grandfather, who crafted toys for ch
 
 Now at 39 years of age, Járaen Lýskal has established herself as a known figure among the toymakers of Provènzia. Her reputation, for better or worse, precedes her in the circles where such things matter.
 
-### Psyche
+## Psyche
 
-#### Personality
+### Personality
 
 Struggles with marketing and business aspects, can be overly perfectionist with her work.
 
-#### Motivation
+### Motivation
 
 Járaen is driven by the desire to master her craft and secure a stable future. The uncertainties of life in toymaker work keep her vigilant and adaptable.
 
-#### Strengths
+### Strengths
 
 Skilled at woodworking and painting, creative, and good with children.
 
-### Social
+## Social
 
 Járaen is affiliated with City Artisans' Guild.
 
 As a Provenzian toymaker, Járaen occupies a recognized social niche within Provènzia society.
 
-### Companions
+## Companions
 
-#### Patrons
+### Patrons
 
 Járaen's primary patron is Local families who value handmade toys.. This relationship provides both opportunity and obligation.
 
-#### Enemies
+### Enemies
 
 Larger toy merchants who view her as insignificant competition.
 
-### Plot Hooks
+## Plot Hooks
 
 1. **The Toymaker's Dilemma** — Járaen faces a professional crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Provènzia.
 

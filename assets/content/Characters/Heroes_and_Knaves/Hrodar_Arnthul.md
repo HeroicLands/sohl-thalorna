@@ -552,13 +552,13 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![[hrodrrnthl|Hródar Arnthúl]]{float: top-left}
+# Appearance {#appearance}
 
-## Appearance {#appearance}
+![[hrodrrnthl|Hródar Arnthúl]]{float: top-left}
 
 Hródar Arnthúl is a tall, gaunt man with the angular look of a half-starved crow, which is how he got his nickname. He has long arms, bony wrists, and a narrow face set in a perpetual scowl beneath a leather cowl. His black hair is lank and unwashed, his skin pale from a life lived under the canopy of the Vrystwald pines, and his dark brown eyes hold a sullen, simmering resentment that never quite boils over but never cools. He wears a padded shirt under a leather vest, dark boots, and carries a handaxe and a dagger. He moves through the forest with a long-limbed, loping stride that covers ground quickly and quietly. He rarely speaks unless spoken to, and when he does, his voice is flat and grudging.
 
-## Dossier {#dossier}
+# Dossier {#dossier}
 
 Hródar was a timber cutter's son from a logging settlement in the deep pine country. His family worked the imperial timber concession — felling and dragging pine logs to a river depot where Vylarian agents paid a fraction of their worth and called it fair. It was a hard, honest life, and Hródar might have lived it without complaint had the concession not been sold to a Vylarian senator's factor who halved the already miserable wages and doubled the quotas.
 
@@ -566,39 +566,39 @@ When Hródar's father was killed by a falling tree — exhausted, rushing to mee
 
 He is the gang member most driven by genuine grievance. He hates the Vylarian Empire with a focused, personal fury that the others — motivated by greed, desperation, or indifference — cannot match. Every merchant he robs is a proxy for the factor who killed his father through negligence, and every Vylarian soldier he fights is an agent of the system that ground his family into the dirt.
 
-## Skills and Abilities
+# Skills and Abilities
 
 Hródar is a solid, workmanlike fighter — not brilliant, but reliable and hard to put down. His melee skill with the handaxe is good, and his survival and tracking abilities reflect a lifetime in the deep forest. He is a capable climber and moves quietly through woodland. His timber-cutting background gives him practical knowledge of woodworking and an instinctive understanding of the forest. He is a competent archer. He lacks social skills almost entirely and is useless in any situation requiring charm, deception, or persuasion.
 
-### Psyche
+## Psyche
 
-#### Personality
+### Personality
 
 Hródar is bitter, taciturn, and consumed by resentment. He is not chaotic or unpredictable like Dágulf — his anger is cold, steady, and aimed squarely at the Vylarian Empire and everyone who profits from it. He does the work of banditry with grim efficiency and takes no pleasure in cruelty for its own sake, though he shows no mercy to Vylarian soldiers or imperial officials. Among the gang he is quiet and dependable, does his share without complaint, and neither seeks nor offers friendship. He occasionally mutters to himself in Varokhi when he thinks no one is listening.
 
-#### Motivation
+### Motivation
 
 Revenge, diffused across an entire empire. Hródar cannot strike at the senator whose factor killed his father, so he strikes at whatever piece of Vylaria comes within reach. He knows this is futile and does not care. The anger sustains him the way food and water sustain other men. If the empire were to collapse tomorrow, he would have no idea what to do with himself.
 
-#### Strengths
+### Strengths
 
 His reliability, toughness, and forest skills make him a valuable gang member. His focused anger gives him a determination that the others — lazy, frightened, or self-interested — lack. He is the one Dágulf sends to finish a job that requires patience and endurance rather than cunning or brute force.
 
-### Social
+## Social
 
-### Companions
+## Companions
 
 The Blackpine Wolves. He respects Thráwald's steadiness and tolerates Vandaric's usefulness. He is wary of Skathilda and indifferent to Brunjár. He follows Dágulf's orders because the gang serves his purpose, not out of loyalty.
 
-#### Patrons
+### Patrons
 
 None.
 
-#### Enemies
+### Enemies
 
 The Vylarian timber concession's current operators. The garrison that pursued him after he struck the factor. The empire itself, in the abstract.
 
-### Plot Hooks
+## Plot Hooks
 
 1. **The Factor's Return** — The Vylarian factor whose jaw Hródar broke nine years ago has returned to Vrystwald as part of a new imperial delegation. Hródar learns of his presence and abandons the gang to pursue a personal vendetta. Dágulf sends the party — or the party is independently hired — to find the missing bandit before he does something that brings the full weight of the garrison down on the Blackpine Wolves.
 

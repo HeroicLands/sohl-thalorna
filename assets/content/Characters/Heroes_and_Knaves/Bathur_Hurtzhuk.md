@@ -53,7 +53,7 @@ single fighting confederation. He is a strategist before he is a warrior, and
 the Empire's frontier commanders have learned that the campaigns he loses are
 the ones he intended to lose.
 
-## See Also
+# See Also
 
 - [[lore-bthrhrtzhk|Bāthür Hürtzhük]] — the threat as the Empire understands it
 - [[affiliation-tanvurempr|Empire of Tānvür]] — the power he presses against

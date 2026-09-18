@@ -521,17 +521,17 @@ sohl:
         disabled: false
 ---
 
-![[nghtwght|Nightwights]]{float: top-left}
+# Appearance {#appearance}
 
-## Appearance {#appearance}
+![[nghtwght|Nightwights]]{float: top-left}
 
 As night falls, the temperature drops and the darkness becomes attentive. A figure emerges from shadow—beautiful and terrible in equal measure, perfect in form and proportion like a god’s statue brought to life, yet utterly wrong. It is a human shape, but humanity has been refined away, leaving only an ideal that no living person could match. Its skin is pale but luminous, and its eyes burn with dark light. Where it stands, shadows deepen and cold settles. Looking upon it for too long fills you with an aching despair, as though witnessing something you were never meant to see.
 
-## Dossier {#dossier}
+# Dossier {#dossier}
 
 **Nightwights** are the intelligent undead. They are powerful individuals who have undergone deliberate, prepared rituals to persist past death — vampires, undying lords, dread-priests, sorcerer-emperors who rule from beyond the grave, and similar figures.
 
-### The Creation Process
+## The Creation Process
 
 Becoming a Nightwight requires _preparation during life_. The candidate undergoes rituals — a process that may take months or years — that align their soul, body, and circumstances for the transition. The rituals are part of a framework specifically designed for this purpose, typically held by particular dark traditions. They are not casual to perform; they require deep practitioner skill, expensive materials, specific timing, and other elaborate conditions.
 
@@ -541,7 +541,7 @@ After death — and this is the second critical point — the candidate is _not_
 
 The newly arisen Nightwight is back in the world — animated, moving, conscious, often confused or grieving or exhilarated depending on the circumstances. The person who arose is not exactly the person who died, but the continuity is much higher than for any Helthraal. The soul is more or less intact; the personality is more or less preserved; the memories are more or less retained.
 
-### Consent and Quality
+## Consent and Quality
 
 The candidate's psychological state during the ritual matters enormously. Three patterns are common.
 
@@ -555,7 +555,7 @@ If the damage is severe, the candidate emerges as a Helthraal instead — a [[be
 
 If the damage is catastrophic, the candidate may not arise at all. The body remains dead. The soul, fragmented and damaged, dissolves and disperses in the spirit realm, gone and irredemably unrecoverable.
 
-### Power and Capacities
+## Power and Capacities
 
 A successful Nightwight retains much of what they were in life, and often more. Capacities they had may be enhanced — a warrior's strength becomes supernatural, a sorcerer's framework-magic becomes more potent (drawing on the increased Aura that the transformation has unlocked), a charismatic leader's presence becomes overwhelming. The specific enhancements vary by tradition and by individual; not all Nightwights have the same gifts.
 
@@ -575,21 +575,21 @@ Specific Nightwight traditions have specific capacities. Vampire-tradition Night
 
 Appearance varies. Some Nightwights look nearly normal — pale, slightly cold, perhaps a faint wrongness perceptible to those who linger. Some look unnaturally beautiful, in ways the living find both attractive and disquieting. Some look obviously inhuman — withered, monstrous, or marked by their dark transformation. The appearance often reflects the Nightwight's specific tradition and the conditions of their creation.
 
-### Degradation
+## Degradation
 
 Nightwights, like Helthraals, eventually degrade. The process occurs over a period of weeks, with the Nightwight originally appearing quite like a normal person, but over time becoming pallid and grey, smelling of decay, and unable to tolerate daylight. If left unchecked, the Nightwight will eventually degrade to the level of a Helthraal, and ultimately rot away completely.
 
-### Rebirth
+## Rebirth
 
 Nightwights have 13 lives. When a Nightwight is finally destroyed, either through total destruction of the body or through complete decay, the animating force of the Nightwight dissolves for a time before reassembling itself. This process takes anywhere from 1-12 months. When the time period has expired, the Nightwight is restored to life in a new body in their hallowed ground, identical to their prior body except physically somewhat degraded. The new body can never attain the level of physical capacity as their prior body, although their mental capabilities and aura are more pronounced. A body a few generations old may faintly smell, or look perpetually pallid, but can otherwise pass as normal folk. A body many generations old will be difficult to pass as normal folk to close scrutiny even in the dimmest light.
 
 After the 13th life is complete, the Nightwight is completely destroyed, the soul dissolved, and irredemably gone. This is the ultimate fate that awaits all Nightwights.
 
-### Hallowed Ground
+## Hallowed Ground
 
 All Nightwights have a "base", or Hallowed Ground, where they will eventually return if catastrophe strikes and their body is destroyed. The Nightwight takes care to choose this location with prudence, to ensure it is safe and hidden. The Nightwight may change the location at will, but only one location may be chosen at any time, and the Nightwight must be physically present to designate a spot as their Hallowed Ground.
 
-### Regeneration
+## Regeneration
 
 To halt or reverse the degradation, Nightwights must _regenerate_ — and regeneration is universally predatory. Different traditions of Nightwight regenerate by different mechanisms, but all involve harm to the living. Specifics include:
 
@@ -605,7 +605,7 @@ All regeneration mechanisms involve harm. There is no benign Nightwight feeding 
 
 Regeneration only occurs after feeding and spending time in their Hallowed Ground.
 
-### GM Notes: Running Helspawn
+## GM Notes: Running Helspawn
 
 Several practical implications follow from the cosmology established here.
 
@@ -625,11 +625,11 @@ Several practical implications follow from the cosmology established here.
 
 **Specific Helspawn types belong in the bestiary.** This document covers the cosmological foundation. Specific named undead — particular vampire courts, particular Nightwight lineages, particular Helthraal variants associated with certain regions or traditions — belong in their own bestiary entries, with statistics, lore, and adventure hooks. The cosmology established here applies to all of them; the specifics are individual.
 
-#### Daylight Penalties
+### Daylight Penalties
 
 - Suffer -4 to all physical attributes, and -2 to all mental attributes
 
-### Attributes
+## Attributes
 
 - **Strength:** 14-17 (1d4+13)
 
@@ -649,7 +649,7 @@ Several practical implications follow from the cosmology established here.
 
 - **Creativity:** 14-17 (1d4+13)
 
-### See Also
+## See Also
 
 - [[lore-soulspirts|Souls and Spirits]] — The underlying cosmology of souls, the spirit realm, death and transit, and related material
 

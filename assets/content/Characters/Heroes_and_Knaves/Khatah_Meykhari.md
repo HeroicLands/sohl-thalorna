@@ -583,43 +583,43 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![[khathmykhr|Khatah Mey'khari]]{float: top-left}
-
 **Home:** [[place-ankhsetun|Ankh-Setûn]]
 
-## Appearance {#appearance}
+# Appearance {#appearance}
+
+![[khathmykhr|Khatah Mey'khari]]{float: top-left}
 
 Khatah stands 5'10" tall with a light build. She has dark brown skin, black hair, and black eyes. Her features include a narrow face, a long nose, a pointed chin, well-shaped lips, dark brows, sculpted cheeks. A distinguishing mark is a tattoo of a spider on the shoulder.
 
-## Dossier {#dossier}
+# Dossier {#dossier}
 
-### Background
+## Background
 
-#### Born to the Hunt
+### Born to the Hunt
 
 **Khatah** was born in the borderlands of the Empire of [[affiliation-empirtkhpr|Ta'Kheperu]], in a region where civilization gradually gives way to vast wilderness. Her people—the Meykhari clan—were traditionally keepers of sacred hunting grounds and custodians of a careful balance between human use and ecological preservation of the lands. Her childhood was spent learning the arts of tracking, archery, and survival in environments where a single mistake could prove fatal. Her father, **Vahren Meykhari**, was the clan's most respected tracker; her mother, **Iseth**, was a healer and wise woman who taught **Khatah** to read the spiritual significance of plants and animals. By the age of eight, **Khatah** was hunting alongside the adults, and by thirteen, she had already established herself as the most naturally gifted archer in the clan.
 
-#### The Violation of the Lands
+### The Violation of the Lands
 
 The serenity of **Khatah's** world fractured when she was sixteen years old. Foreign merchants and industrial interests, backed by imperial military authority, began entering the sacred hunting grounds with intent to exploit them. Logging camps scarred the forests; mining operations poisoned streams; poachers hunted indiscriminately for profit rather than sustenance. The Meykhari resisted, but they were relatively few in number and lacked military power comparable to what the empire could bring to bear. **Khatah** lost her father in a confrontation with imperial soldiers who were protecting logging operations. Rather than seeing justice for his death, she watched as the empire claimed the lands and effectively dissolved the Meykhari's traditional way of life within a generation.
 
-#### Current Circumstances
+### Current Circumstances
 
 Now twenty-seven years old, **Khatah** exists in a state of displacement. She works officially as a yeoman archer in the local militia, compensated well enough to survive, but her heart remains attached to the destroyed lands of her childhood. She spends much of her off-duty time tracking the poachers and illegal loggers who continue to exploit the borderlands, working to protect what remains of the natural world and to disrupt the profits of those who profit from its destruction. She is part of an informal network of individuals—hunters, rangers, concerned citizens—who oppose the continued exploitation of the region, though this network operates in the shadows of legality. She has made enemies of several merchant interests and has reason to believe the empire may be compiling evidence against her for her unauthorized vigilante activities.
 
-### Psyche
+## Psyche
 
-#### Personality
+### Personality
 
 **Khatah** is quiet and reserved, speaking only when she has something to say, and then with precision and directness. She is most comfortable in natural environments and becomes visibly tense in crowded settlements or formal social situations. She possesses a dry humor that catches people off guard, and those who take time to know her discover remarkable warmth and loyalty beneath her taciturn exterior. Her emotions run deep but are carefully controlled; she does not demonstrate vulnerability easily.
 
 She is capable of remarkable patience when tracking prey or enemies, yet also prone to sudden, fierce action when she perceives a threat to something she values. She is guided by a strong moral code rooted in her people's traditions: respect for life, reciprocal exchange rather than exploitation, and a deep sense of responsibility toward the natural world. This code sometimes puts her at odds with the laws and expectations of the settled world.
 
-#### Motivation
+### Motivation
 
 **Khatah** is driven by a combination of grief, duty, and determination to preserve what remains of her people's way of life and the lands they traditionally protected. She seeks to protect the natural world from exploitation and to hold accountable those who profit from environmental destruction. At a deeper level, she is driven by a need to honor the memory of her father and to prove that the Meykhari way of life—and her people's identity—have value even if the empire refuses to recognize that value. She carries a quiet fury at the injustices her people have endured, a fury that manifests not in reckless rage but in methodical, relentless opposition to those who exploit the land.
 
-#### Strengths
+### Strengths
 
 - **Masterful Archery**: **Khatah's** skill with bow and arrow approaches the level of true mastery. She possesses exceptional accuracy, rapid rate of fire, and the ability to make shots that most archers would consider impossible.
 - **Tracking and Survival Mastery**: Her ability to read signs in the natural world—tracks, disturbances in vegetation, changes in animal behavior—is exceptional. She can survive for extended periods in wilderness with minimal resources.
@@ -627,7 +627,7 @@ She is capable of remarkable patience when tracking prey or enemies, yet also pr
 - **Stealth and Fieldcraft**: Her understanding of how to move undetected through various environments, use terrain and vegetation for concealment, and approach prey without alerting it, is comprehensive and practically instinctive.
 - **Fletching Expertise**: She is skilled not merely at using arrows but at crafting them with remarkable precision. She can create specialized arrows for specific purposes—broadheads, blunt heads, arrows with special properties.
 
-#### Weaknesses
+### Weaknesses
 
 - **Limited Melee Strength**: While capable with a blade at close range, **Khatah** lacks the physical strength needed for sustained melee combat against heavier, more powerful opponents. She is vulnerable if forced into direct hand-to-hand confrontation with trained warriors.
 - **Poor Urban Navigation**: She becomes tense and disoriented in dense settlements and crowded urban environments. Her advantages—stealth, knowledge of terrain, tracking—are significantly diminished in civilized spaces.
@@ -635,24 +635,24 @@ She is capable of remarkable patience when tracking prey or enemies, yet also pr
 - **Moral Rigidity**: Her strong ethical code, while admirable, sometimes prevents her from taking pragmatic actions that might serve her longer-term interests. She can be too uncompromising.
 - **Difficulty Maintaining Relationships**: Her emotional reserve, her tendency to be secretive about her vigilante activities, and her deep attachment to the wilderness make it difficult for her to maintain genuine personal relationships.
 
-### Social
+## Social
 
-#### Patrons
+### Patrons
 
 - **Captain Joren Valdis**: The militia commander who employs **Khatah** and has developed genuine respect for her skills and character. **Valdis** is unaware of her vigilante activities and tacitly allows her considerable freedom in exchange for her expertise and loyalty. He has subtly protected her from official scrutiny on several occasions.
 - **The Gray Ranger Fellowship**: An informal network of individuals dedicated to protecting the borderlands and resisting exploitation. While not a formal patron, this network provides **Khatah** with information, occasional resources, and a sense of community and shared purpose.
 
-#### Enemies
+### Enemies
 
 - **Merchant-Lord Cassius Thorne**: A wealthy merchant whose logging and mining operations in the borderlands have destroyed significant portions of **Khatah's** ancestral lands. **Thorne** has reason to suspect **Khatah** has been sabotaging his operations and has hired mercenaries to track and eliminate her.
 - **The Exaction Service**: An imperial organization tasked with collecting taxes and enforcing commercial regulations. They view **Khatah's** vigilante activity as theft (of harvested goods) and assault (against their authorized contractors), and they have compiled a dossier on her activities.
 
-#### Affiliations
+### Affiliations
 
 - **Local Militia**: Her official employment, which provides her with legitimacy and access to resources, though it also constrains her ability to operate against imperial interests.
 - **The Gray Ranger Fellowship**: An informal network of wilderness protectors and environmental activists who work in coordination though without formal hierarchy or structure.
 
-### Plot Hooks
+## Plot Hooks
 
 1. **The Merchant's Gambit**: **Merchant-Lord Cassius Thorne** offers **Khatah** a substantial sum to cease her interference with his operations, phrased as a proposition that he "would prefer to have the talented **Khatah** working with him rather than against him." If she refuses, he begins a systematic campaign to eliminate her—hiring skilled mercenaries, leveraging imperial connections, and threatening her militia position. **Khatah** hires the party to help her investigate **Thorne's** operations and gather evidence of environmental crimes that could force the empire to shut down his activities. The investigation becomes increasingly dangerous as **Thorne** escalates his response.
 

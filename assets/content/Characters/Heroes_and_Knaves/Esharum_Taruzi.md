@@ -564,65 +564,65 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![[esharumtrz|Eshârum Tarûzî]]{float: top-left}
+# Appearance {#appearance}
 
-## Appearance {#appearance}
+![[esharumtrz|Eshârum Tarûzî]]{float: top-left}
 
 Eshârum Tarûzî is a tall, rangy man with the sun-darkened skin and salt-roughened hands of a lifelong sailor. His brown hair is streaked prematurely gray at the temples and hangs to his collar, usually tied back with a leather cord. His blue eyes are striking against his weathered complexion — sharp, watchful, and carrying the weight of things he does not discuss. A long scar traces his left jaw from ear to chin, a souvenir of the Battle of Tamzîr. He moves with the easy economy of a man accustomed to rolling decks, and his lean frame carries more strength than it advertises. He favors a long brown oiled-canvas coat over practical clothing, with his broadsword belted at his hip and a dagger in his boot.
 
-## Dossier {#dossier}
+# Dossier {#dossier}
 
-### Background
+## Background
 
-#### Early Life
+### Early Life
 
 Eshârum was born in the port of Azhûn, one of the lesser harbors of the Haradian Confederation, to a family of modest cattle herders who worked the scrublands east of the city. His father died of a wasting sickness when Shâ was eleven, leaving his mother to raise him alone. The boy grew up hard, learning self-reliance early. By fourteen he was working the docks for coin, and by sixteen he had signed onto a merchant vessel as a deckhand, desperate to escape the grinding poverty of the hinterland.
 
-#### The Haradian War of Independence
+### The Haradian War of Independence
 
 When the Confederation of Haradian States rose in rebellion against Vylarian imperial rule, Shâ was twenty-two and already a seasoned sailor. He joined the rebel fleet without hesitation, driven by a fierce belief that Harad's people deserved to chart their own course. He proved himself a natural leader — calm under fire, tactically sharp, and ferociously loyal to those who fought beside him. He rose to command a raiding vessel, leading boarding actions against imperial warships in the narrow straits. The Battle of Tamzîr Shoals was his defining moment. The Vylarian imperial fleet had blockaded the Haradian coast, choking the rebellion's supply lines. Shâ led a squadron of rebel vessels through the treacherous shoals at dawn, where the shallow reef-studded waters negated the imperials' advantage in size and firepower. The battle was brutal — fought at close quarters among the breaking waves — and Shâ took the scar he still carries when an imperial marine's blade found his jaw during a boarding action. But the blockade broke, and the rebellion gained its symbolic victory.
 
-#### Disillusionment
+### Disillusionment
 
 The war ended in Haradian independence — on paper. But the merchant guilds who had bankrolled the rebellion seized power almost immediately, installing themselves as a new oligarchy. The freedom that Shâ and his comrades had bled for became a commodity, traded and taxed by men who had never held a sword. Veterans were discarded. The poor remained poor. Shâ watched old friends drift into beggary or drink, and something in him went cold. He had no interest in fighting another war, but he refused to serve the guilds. Instead, he scraped together enough coin to purchase a battered sixty-foot merchant vessel, named her the _Tamzîr_ after the shoals where he had nearly died, and set sail.
 
-#### Captain of the Tamzîr
+### Captain of the Tamzîr
 
 For the last twelve years, Shâ has worked the Vylarian Sea as a freelance trader, smuggler, and occasional thief. He takes the jobs that respectable captains refuse — running cargo past imperial patrols, hauling passengers who need to disappear, delivering goods to ports where no questions are asked. He has assembled a crew of misfits, outcasts, and fugitives who are loyal to him because he is loyal to them. The Tamzîr is not much to look at — a patched and weatherbeaten vessel that smells of tar and old fish — but she is fast, nimble, and home.
 
-### Psyche
+## Psyche
 
-#### Personality
+### Personality
 
 Shâ presents a dry, sardonic front to the world. He deflects with humor, commands with quiet authority, and trusts slowly. Beneath the cynicism is a man who still believes in something — he just cannot articulate what it is anymore. He is fiercely protective of his crew and will risk everything to bring them home, though he frames every act of decency as pragmatism. He has a stubborn streak that borders on self-destructive, and he would rather die than kneel to anyone who claims authority they have not earned.
 
-#### Motivation
+### Motivation
 
 Freedom. Not the abstract political kind that the guilds sell — the real kind. The freedom to sail where he wants, work for who he chooses, and answer to no one. He is also driven by loyalty to his crew, who have become the only family he acknowledges. Somewhere beneath the layers of disillusionment, there remains a spark of the idealist who once believed a better world was worth fighting for.
 
-#### Strengths
+### Strengths
 
 Shâ is a gifted tactician and a natural leader of small groups. He inspires loyalty not through speeches but through consistent action — he never asks his crew to take a risk he will not take himself. He is an excellent swordsman, a skilled navigator and pilot, and a shrewd judge of people and situations. His wartime experience makes him dangerous in a fight and cool under pressure.
 
-#### Weaknesses
+### Weaknesses
 
 His disillusionment has curdled into a reflexive distrust of institutions, authority, and anyone who claims to be working for the greater good. He drinks more than he should. He struggles to express genuine emotion and tends to push people away when they get too close. His stubborn independence sometimes blinds him to the value of compromise, and his willingness to take morally gray jobs has put his crew in danger more than once.
 
-### Social
+## Social
 
-#### Patrons
+### Patrons
 
 Shâ has no formal patrons. He works freelance and prefers it that way. He maintains a loose network of contacts in Haradian port cities — old war comrades, sympathetic merchants, and dockside fixers who can find work or provide safe harbor when things get hot.
 
-#### Enemies
+### Enemies
 
 The **Haradian Guild Enforcers** have a long memory for debts and slights. Shâ's wartime activities embarrassed several guild families who collaborated with the Vylarian occupiers, and his refusal to fall in line after the war has made him a persistent irritant. **Vylarian Imperial Agents**, manipulated by the Ordo Arcanis, have taken an interest in the Tamzîr since the Tamaro siblings came aboard. Shâ does not yet fully understand how dangerous the forces arrayed against his passengers truly are.
 
-#### Affiliations
+### Affiliations
 
 Shâ is captain of the **Tamzîr** and the unquestioned leader of her crew. He maintains loose ties to the **Haradian Veterans' Brotherhood**, a mutual aid society for war veterans, though he rarely attends their gatherings. He has no guild membership, no noble connections, and no interest in acquiring either.
 
-### Plot Hooks
+## Plot Hooks
 
 1. **The War That Never Ended**: A former comrade from the Haradian rebellion contacts Shâ with evidence that a powerful guild family actively betrayed rebel forces during the Battle of Tamzîr, resulting in the deaths of sailors Shâ commanded. The evidence is genuine, but pursuing it would mean returning to Harad and confronting enemies with far more resources than a freelance ship captain can muster.
 

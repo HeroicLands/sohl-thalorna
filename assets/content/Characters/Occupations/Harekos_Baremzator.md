@@ -553,11 +553,11 @@ sohl:
     defaultCombatGroup: null
 ---
 
-## Appearance {#appearance}
+# Appearance {#appearance}
 
 Hàrêkôs Bàremzâtôr is a 58-year-old man who stands 5'9" tall and is of moderate build. He has a square face with defined cheekbones, a lined forehead, and an angular jaw that leads to a firm chin. His hooded dark brown eyes sit beneath heavy brows, lending him a guarded gaze. A strong nose and firm lips complete his features. He has olive skin with a weathered complexion. His dark brown hair is receding at the temples. A notable feature is calloused hands from years of hard work.
 
-## Dossier {#dossier}
+# Dossier {#dossier}
 
 Born in the Vylaría region to a freeman family of Vylarian heritage, Hàrêkôs Bàremzâtôr came into the world of the thatcher through a combination of circumstance and aptitude.
 
@@ -565,37 +565,37 @@ Elwood has been a thatcher since he was a boy, working alongside his father and 
 
 Now at 58 years of age, Hàrêkôs Bàremzâtôr has established himself as a known figure among the thatchers of Vylaria. His reputation, for better or worse, precedes him in the circles where such things matter.
 
-### Psyche
+## Psyche
 
-#### Personality
+### Personality
 
 Slower due to age, resistant to adopting newer techniques.
 
-#### Motivation
+### Motivation
 
 Hàrêkôs is driven by the desire to master his craft and secure a stable future. The uncertainties of life in thatcher work keep him vigilant and adaptable.
 
-#### Strengths
+### Strengths
 
 Vast experience, skilled in traditional thatching methods, good teacher.
 
-### Social
+## Social
 
 Hàrêkôs is affiliated with Rural Craftsmen's Guild.
 
 As a Vylarian thatcher, Hàrêkôs occupies a recognized social niche within Vylaria society.
 
-### Companions
+## Companions
 
-#### Patrons
+### Patrons
 
 Hàrêkôs's primary patron is Local villagers who value his traditional craftsmanship.. This relationship provides both opportunity and obligation.
 
-#### Enemies
+### Enemies
 
 None; highly respected in the community.
 
-### Plot Hooks
+## Plot Hooks
 
 1. **The Thatcher's Dilemma** — Hàrêkôs faces a professional crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Vylaria.
 

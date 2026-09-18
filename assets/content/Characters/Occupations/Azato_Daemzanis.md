@@ -554,11 +554,11 @@ sohl:
     defaultCombatGroup: null
 ---
 
-## Appearance {#appearance}
+# Appearance {#appearance}
 
 At fifty, Azatô Dâemzânis cuts a sparse, scholarly figure — barely five and a half feet tall, with the lean, almost frail frame of a man whose life revolves around careful work at a workbench rather than physical toil. His medium-toned skin is weathered beyond his years, scored with fine lines that speak of decades spent poring over crystalline structures and volatile mixtures by candlelight. Most striking are his pale blue eyes, sharp and luminous with an intense, unsettling intellect; they hold the quality of a predator watching prey through glass, brilliant but profoundly dispassionate. His brown hair, once thick, has thinned to a crown of close-cropped curls swept back from a high, narrow forehead. A hawkish nose and thin, precise lips complete the picture of a man whose expressions rarely venture beyond measured restraint.
 
-## Dossier {#dossier}
+# Dossier {#dossier}
 
 Azatô Dâemzânis was born into the Dâemzânis family in Tyrellan, one of Vylaria's merchant-patrician houses whose gilded status granted him access to the Panepistemium but little true power in the senatorial hierarchies that rule the realm. As a child showing precocious intellectual gifts—particularly in mathematics and the study of natural substances—he was marked for the Ordo Arcanis, as all gifted children are marked in Vylaria. However, his talent (score 42) suggested aptitude for something beyond the six magical schools: he possessed the rare insight of an alchemist, that peculiar blend of analytical precision, mineral knowledge, and herbal craft that places alchemists apart even within the Ordo's ranks. By his thirties, he had earned his Magistri rank within the Sodalitas Physéra—the fellowship of earth and substance—though his ascent was slower and more contentious than his intellectual gifts alone would suggest.
 
@@ -568,7 +568,7 @@ More peculiar still is his skill in piloting (30)—unusual for an alchemist roo
 
 His moral compass wavers at the threshold of true conscience (mor:11), pulled between the ruthless pragmatism required by his investigations and an increasingly insubstantial commitment to principle. He has never crossed into the realm of the truly amoral, but the gap narrows with each year.
 
-### Psyche
+## Psyche
 
 Azatô's inner landscape is one of towering intellect untethered from empathetic constraint. His mind—ranked among the brilliant (rea:17)—operates with the clarity of polished steel, analyzing problems down to their elemental components. His creativity (cre:14) manifests in unexpected leaps of insight, in novel approaches to transmutation that colleagues struggle to replicate. Yet this same mind is fundamentally isolated: his remote empathy (emp:8) means he experiences others largely as obstacles, instruments, or irrelevant background detail. He can articulate their motivations with precision; he simply does not feel them.
 
@@ -576,7 +576,7 @@ This creates a peculiar dissonance in his social presentation. His eloquence and
 
 He tells himself his work matters. That the secrets hidden in mineral crystal structures, in the slow rot of buried matter, in the preservation of flesh beyond death, will ultimately vindicate the years of solitude and cold precision. Whether he truly believes this, or whether the belief itself is simply another elegant construct he maintains for his own reassurance, remains unanswered.
 
-### Social
+## Social
 
 Within Vylarian society, Azatô occupies the privileged but constrained position of a guilded-class professional. His family name carries weight in Tyrellan's merchant councils, but true political power remains the province of the senatorial families above. Within the Ordo Arcanis and the Epistemium, he holds the rank of Magister in the Sodalitas Physéra, a position of considerable authority over junior alchemists and apprentices—though his authority is increasingly resented, as younger practitioners detect the coldness beneath his eloquence and bridle under his exacting, unsympathetic instruction.
 
@@ -584,9 +584,9 @@ His use of the alias "Oswin Crey" in certain academic circles and with certain c
 
 He maintains cordial but distant relations with the senatorial families whose patronage funds much alchemical research, including House Valerion, the dominant merchant-patron of the Epistemium's mineral research program.
 
-### Companions
+## Companions
 
-#### Patrons and Allies
+### Patrons and Allies
 
 **Senator Marcus Valerion** — The most influential of the three senior senators who govern Tyrellan, Valerion has become Azatô's primary patron over the past twelve years. Their relationship is transactional and carefully maintained: Valerion funds Azatô's mineral research with the expectation of first access to any compounds with potential military or industrial application. Azatô has learned to deliver results that satisfy this arrangement while keeping his most proprietary discoveries sequestered.
 
@@ -594,7 +594,7 @@ He maintains cordial but distant relations with the senatorial families whose pa
 
 **Lena Moretti** — A widowed merchant-widow of lower equestrian standing, Lena manages her late husband's trading operations and has contracted with Azatô for the past five years to source and authenticate rare mineral specimens across coastal trade networks. She knows him only as Oswin Crey and believes him to be a scholar-merchant of independent means. Their professional relationship has remained stable precisely because no personal connection threatens it.
 
-#### Enemies and Threats
+### Enemies and Threats
 
 **Magistra Corinna Sextus** — A fellow Magister in the Sodalitas Physéra whose theoretical framework on mineral essences Azatô systematically disassembled in a published response thirteen years ago. Corinna has never forgiven him, and her influence within the Epistemium has grown considerably; she now chairs the Sodalitas examination board and has begun initiating subtle investigations into Azatô's unconventional methods. She suspects—correctly—that some of his research exists outside official Ordo sanction.
 
@@ -602,7 +602,7 @@ He maintains cordial but distant relations with the senatorial families whose pa
 
 **Decurion Gavius Celsus** — A Quaesitorium field investigator with a reputation for dogged persistence. Celsus has recently taken interest in certain mineral thefts from Epistemium stores and the emergence of novel alchemical compounds in black-market channels. He has no direct evidence against Azatô, but their paths have begun to cross with uncomfortable frequency.
 
-### Plot Hooks
+## Plot Hooks
 
 **The Codex Problem** — A merchant ship carrying a rare alchemical codex from the coastal holdings was intercepted and its cargo scattered. Lena Moretti has contracted "Oswin Crey" to retrieve pages from a private collector in a neighboring realm without official sanction. The cost offered is extraordinary, but the retrieval would almost certainly trigger Quaesitorium scrutiny if discovered.
 

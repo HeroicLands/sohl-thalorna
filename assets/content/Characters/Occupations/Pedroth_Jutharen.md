@@ -554,11 +554,11 @@ sohl:
     defaultCombatGroup: null
 ---
 
-## Appearance {#appearance}
+# Appearance {#appearance}
 
 Pédroth Jútharen is a 53-year-old man who stands 6'0" tall and is of moderate build. He has a square face with sharp cheekbones, a high forehead, and a square jaw that leads to a firm chin. His sharp hazel eyes sit beneath thick brows, lending him an incisive gaze. A hawkish nose and expressive lips complete his features. He has olive-tanned skin with a weathered complexion. His white hair is kept practical and short. A notable feature is laugh lines around the eyes.
 
-## Dossier {#dossier}
+# Dossier {#dossier}
 
 Born in the Tarvénia region to a freeman family of Tarvénan heritage, Pédroth Jútharen came into the world of the tentmaker through a combination of circumstance and aptitude.
 
@@ -566,37 +566,37 @@ Thoran has been crafting tents and tarps for the military for over thirty years,
 
 Now at 53 years of age, Pédroth Jútharen has established himself as a known figure among the tentmakers of Tarvénia. His reputation, for better or worse, precedes him in the circles where such things matter.
 
-### Psyche
+## Psyche
 
-#### Personality
+### Personality
 
 Resistant to change, slow to adopt new methods.
 
-#### Motivation
+### Motivation
 
 Pédroth is driven by the desire to master his craft and secure a stable future. The uncertainties of life in tentmaker work keep him vigilant and adaptable.
 
-#### Strengths
+### Strengths
 
 Experienced in making durable tents for harsh conditions, strong work ethic.
 
-### Social
+## Social
 
 Pédroth is affiliated with Tentmakers' Guild.
 
 As a Tarvénan tentmaker, Pédroth occupies a recognized social niche within Tarvénia society.
 
-### Companions
+## Companions
 
-#### Patrons
+### Patrons
 
 Pédroth's primary patron is Military officials and merchants who value his sturdy products.. This relationship provides both opportunity and obligation.
 
-#### Enemies
+### Enemies
 
 Younger tentmakers who see him as outdated.
 
-### Plot Hooks
+## Plot Hooks
 
 1. **The Tentmaker's Dilemma** — Pédroth faces a professional crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Tarvénia.
 

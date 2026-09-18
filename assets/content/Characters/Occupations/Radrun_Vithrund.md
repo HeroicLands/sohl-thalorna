@@ -549,11 +549,11 @@ sohl:
     defaultCombatGroup: null
 ---
 
-## Appearance {#appearance}
+# Appearance {#appearance}
 
 Rádrún Vithrúnd is a 22-year-old woman who stands 5'9" tall and is slender. She has a long face with angular cheekbones, a lined forehead, and a strong jaw that leads to a broad chin. Her almond-shaped blue eyes sit beneath heavy brows, lending her a measured gaze. A straight nose and expressive lips complete her features. She has light skin with a weathered complexion. Her brown hair is loose and wavy.
 
-## Dossier {#dossier}
+# Dossier {#dossier}
 
 Born in the Vrystwald region to a freeman family of Varokhi heritage, Rádrún Vithrúnd came into the world of the prostitute through a combination of circumstance and aptitude.
 
@@ -561,37 +561,37 @@ Sera also works in the same brothel as Nyssa, secretly serving the Gray Tide. Wh
 
 Now at 22 years of age, Rádrún Vithrúnd has established herself as a known figure among the prostitutes of Vrystwald. Her reputation, for better or worse, precedes her in the circles where such things matter.
 
-### Psyche
+## Psyche
 
-#### Personality
+### Personality
 
 Can be overly cautious, struggles with guilt over her involvement with the Tide.
 
-#### Motivation
+### Motivation
 
 Rádrún is driven by the desire to master her craft and secure a stable future. The uncertainties of life in prostitute work keep her vigilant and adaptable.
 
-#### Strengths
+### Strengths
 
 Observant, skilled in stealth, adept at eavesdropping.
 
-### Social
+## Social
 
 Rádrún is affiliated with the Gray Tide, a maritime crime network operating in Vrystwald coastal areas.
 
 As a Varokhi prostitute, Rádrún occupies a recognized social niche within Vrystwald society.
 
-### Companions
+## Companions
 
-#### Patrons
+### Patrons
 
 Rádrún's primary patron is Wealthy clients seeking companionship and discretion.. This relationship provides both opportunity and obligation.
 
-#### Enemies
+### Enemies
 
 Few; well-liked in her profession, but some rival Tide members may challenge her loyalty.
 
-### Plot Hooks
+## Plot Hooks
 
 1. **The Prostitute's Dilemma** — Rádrún faces a professional crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Vrystwald.
 

@@ -552,11 +552,11 @@ sohl:
     defaultCombatGroup: null
 ---
 
-## Appearance {#appearance}
+# Appearance {#appearance}
 
 Hassârìon Khalîthôn is a 48-year-old man who stands 6'2" tall and is broad and solidly built. He has an oval face with broad cheekbones, a broad forehead, and a sharp jaw that leads to a firm chin. His almond-shaped brown eyes sit beneath arched brows, lending him a measured gaze. A straight nose and full lips complete his features. He has olive skin with an olive-toned complexion. His graying black hair is falling in loose waves.
 
-## Dossier {#dossier}
+# Dossier {#dossier}
 
 Born in the Heliónis region to a freeman family of Helionite heritage, Hassârìon Khalîthôn came into the world of the nobility (tenant-in-chief) through a combination of circumstance and aptitude.
 
@@ -564,37 +564,37 @@ Lord Alaric is a powerful lord who oversees vast lands and is known for his mili
 
 Now at 48 years of age, Hassârìon Khalîthôn has established himself as a known figure among the nobility (tenant-in-chief)s of Heliónis. His reputation, for better or worse, precedes him in the circles where such things matter.
 
-### Psyche
+## Psyche
 
-#### Personality
+### Personality
 
 Can be too rigid in his decisions, struggles with the changing dynamics of nobility.
 
-#### Motivation
+### Motivation
 
 Hassârìon is driven by the desire to master his craft and secure a stable future. The uncertainties of life in nobility (tenant-in-chief) work keep him vigilant and adaptable.
 
-#### Strengths
+### Strengths
 
 Strong military leader, strategic thinker, respected authority.
 
-### Social
+## Social
 
 Hassârìon is affiliated with Local Nobility Council.
 
 As a Helionite nobility (tenant-in-chief), Hassârìon occupies a recognized social niche within Heliónis society.
 
-### Companions
+## Companions
 
-#### Patrons
+### Patrons
 
 Hassârìon's primary patron is Vassals and local nobility seeking guidance.. This relationship provides both opportunity and obligation.
 
-#### Enemies
+### Enemies
 
 Few; generally respected but has made rivals in power struggles.
 
-### Plot Hooks
+## Plot Hooks
 
 1. **The Nobility (Tenant-in-chief)'s Dilemma** — Hassârìon faces a professional crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Heliónis.
 

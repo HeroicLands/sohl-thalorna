@@ -596,23 +596,23 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![[isaretkskr|Isaret Ka'Seker]]{float: top-left}
-
 **Home:** [[place-khensuret|Khensuret]]
 
-## Appearance {#appearance}
+# Appearance {#appearance}
+
+![[isaretkskr|Isaret Ka'Seker]]{float: top-left}
 
 Isaret stands 5'6" tall with a light build. She has dusky brown skin, jet-black hair, and dark eyes. Her features include an oval face, a straight narrow nose, a tapered chin, well-shaped lips, high-set brows, hollow cheeks.
 
-## Dossier {#dossier}
+# Dossier {#dossier}
 
 Isaret Ka'Seker, known in the shadow-trade as **"Whispers,"** was born in the warren-slums of **[[place-khensuret|Khensuret]]**, the great necropolis-nome of [[affiliation-empirtkhpr|Ta'Kheperu]] — a city of embalmers, tomb-masons, and the swarming poor who serve the dead. Abandoned as a child, she survived its streets as a cutpurse and informant, and fell early into the organized tomb-robbing underworld for which Khensuret is infamous, learning to move unseen among the mortuary chapels and to sell what she heard as readily as what she stole. And Isaret heard a great deal, for her true gift was an inborn sensitivity to the spirit world — the faint voices of the restless dead that crowd a city built around tombs. Untrained and unconsecrated, she nonetheless learned to listen: to gather secrets no living mouth had spoken, and to feel danger before it fell. The priesthood would have named the gift a blessing of [[affiliation-kemtnpnthn|Íšét]], goddess of magic; on the streets it simply made her valuable.
 
 Her gift drew the notice of a patron among the Kheperi nobility, who had her schooled in the subtler arts — disguise, cipher, the long game of court espionage — and set her to work as a spy and listener, her dead voices turned to the uses of the living. For years she served, until a commission carried her too deep: she uncovered the forbidden work of the **Akh-Menraa**, the hidden circle led by **Master Neferha**, whose experiments upon the dead and the spirit-realm threatened the very balance the Kheperi hold sacred. Knowing such knowledge marked her for the embalmer's table, Isaret fled Ta'Kheperu and sought out [[being-kirobashkm|Kiroba]], hoping that together they might undo Neferha's work and set the balance right.
 
-### Background
+## Background
 
-#### Skills and Abilities
+### Skills and Abilities
 
 - **Strength**: Isaret is not physically strong, relying more on her mystical abilities and cunning than brute force.
 - **Endurance**: Though not particularly robust, Isaret has learned to withstand the mental and spiritual strain of her mystical abilities.
@@ -632,15 +632,15 @@ Her gift drew the notice of a patron among the Kheperi nobility, who had her sch
 - **Stealth and Espionage**: Isaret is an expert at moving unseen, gathering information, and infiltrating dangerous places. She is adept at disguise and manipulation, making her invaluable in navigating Ta'Kheperu politics and secrets.
 - **Subtle Manipulator**: Isaret has a knack for twisting situations to her advantage, able to manipulate conversations and steer people toward her desired outcome without them realizing it.
 
-### Psyche
+## Psyche
 
-#### Personality
+### Personality
 
 Isaret is cunning, resourceful, and often prefers working in the shadows. She is pragmatic, willing to do whatever is necessary to accomplish her goals, though she has a strong sense of right and wrong, having seen firsthand the corruption of Ta'Kheperu’s elite. Isaret is quick-witted and often playful, teasing her companions to lighten the mood, but there’s a dark edge to her humor. Her mistrust of authority runs deep, and she is slow to trust others.
 
-### Social
+## Social
 
-### Plot Hooks
+## Plot Hooks
 
 1. **The Secrets of Akh-Menraa**:
 

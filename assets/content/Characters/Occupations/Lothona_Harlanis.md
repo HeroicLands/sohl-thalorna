@@ -528,11 +528,11 @@ sohl:
     defaultCombatGroup: null
 ---
 
-## Appearance {#appearance}
+# Appearance {#appearance}
 
 Lôthônâ stands 5'8" with a solid, medium build that carries its weight in the shoulders and arms. Her chestnut hair is kept practical — tied back and pinned when on duty, falling to her shoulders when loose. Her dark brown eyes are direct and unblinking, the kind that make petty criminals confess before she has asked a question. Her tanned skin is freckled across the bridge of her nose and cheeks, and her face is broad and strong-featured, with a firm jaw and a mouth that settles naturally into a skeptical line. Her knuckles are visibly calloused from years of hand-to-hand training. She wears the standard Alyssa guard kit — padded tunic over linen, leather bracers, a short sword and truncheon on her belt — with the settled ease of a woman who stopped thinking about her uniform a decade ago.
 
-## Dossier {#dossier}
+# Dossier {#dossier}
 
 Lôthônâ joined the Alyssa docks patrol at seventeen, same as her older brother Brákôs, though she went to the urban garrison while he went to garrison cavalry. She spent her first years breaking up merchant-crew brawls and maintaining order in the chaotic marketplace of the docks. The work required learning to read violence instantly—to recognize which fights would de-escalate with a guard's presence and which would require actual intervention. She became exceptionally good at this judgment.
 
@@ -540,35 +540,35 @@ By her late twenties, she was assigned as supervisor of the docks night patrol�
 
 At thirty-five, she remains in the same post—not through lack of advancement opportunity but through deliberate choice. She declined promotion twice, preferring the actual work of policing to the administrative requirements of higher ranks. She knows the docks better than anyone else in the guard, and the merchants and dock workers know her as someone who is fair but incorruptible.
 
-### Psyche
+## Psyche
 
-#### Personality
+### Personality
 
 Lôthônâ is tough without being cruel, and fair without being soft. She speaks plainly and expects straightforward communication. She has no patience for excuses and will call out deception immediately. But she is genuinely concerned for the welfare of the people on her watch, even when they are criminals; she will arrest someone with regret rather than satisfaction. She has a dark sense of humor born from years of dealing with urban violence.
 
-#### Motivation
+### Motivation
 
 Lôthônâ's primary motivation is maintaining order in a chaotic environment while protecting the people under her watch from the worst predators. She has no illusions that she can eliminate crime; she simply wants to prevent the unnecessary suffering that comes when violence goes unopposed. Her secondary motivation is proving that she earned her position through competence rather than family connection (her brother's presence in the military creates assumptions about favoritism).
 
-#### Strengths
+### Strengths
 
 Her ability to de-escalate violence is exceptional and earned through actual experience. She is physically strong and skilled with her weapons, though she prefers avoiding combat. She understands the docks' economic and social structures better than any single merchant or dock master. She is genuinely intelligent and strategically minded about community policing.
 
-### Social
+## Social
 
 Lôthônâ occupies an unusual role: she is respected by dock workers and merchants both, accepted into neither world fully. Her gender initially made authority more difficult; it has slowly become an advantage as she proved herself capable of managing it effectively.
 
-### Companions
+## Companions
 
-#### Patrons
+### Patrons
 
 **Dock Master Sevenros** — The official coordinator of dock operations for Alyssa's harbor authority. Sevenros has worked with Lôthônâ for twelve years and respects her judgment completely. He has authority to hire additional guards and has frequently requested Lôthônâ for sensitive operations, providing her with pay supplements and job security.
 
-#### Enemies
+### Enemies
 
 **Smuggling Kingpin Verath Carlock** — A criminal leader who coordinates much of the black-market operation through the docks. Carlock is intelligent and careful, leaving minimal evidence for legal prosecution. Lôthônâ knows he is guilty of everything from weapons smuggling to slavery facilitation, but has never been able to build a prosecutable case. Carlock has made it clear that he respects Lôthônâ professionally while making equally clear that he will destroy her if she becomes too much of an obstacle.
 
-### Plot Hooks
+## Plot Hooks
 
 1. **The Corruption Ascension** — Lôthônâ discovers that a younger guard in her patrol unit has been taking bribes from Verath Carlock in exchange for allowing specific contraband to pass through checkpoints. The guard is the nephew of a powerful merchant family with political connections. When she tries to arrest him, she is blocked by Dock Master Sevenros, who reveals that the young guard's family has just secured a major contract with the harbor authority. Sevenros is trapped between institutional pressure and his loyalty to Lôthônâ. Lôthônâ must decide whether to accept corruption to protect her relationship with Sevenros or pursue the arrest and lose her most important patron.
 

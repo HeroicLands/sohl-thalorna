@@ -624,13 +624,13 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![[smrnklkyrs|Samarína Kalokyrês]]{float: top-left}
+# Appearance {#appearance}
 
-## Appearance {#appearance}
+![[smrnklkyrs|Samarína Kalokyrês]]{float: top-left}
 
 Samarína stands 5'10" tall with a light build. She has light olive skin, very dark brown hair, and green eyes. Her features include an oval face, a prominent nose, a narrow chin, well-defined lips, very dark brows, hollow cheeks.
 
-## Dossier {#dossier}
+# Dossier {#dossier}
 
 **Pastoral Heritage:** Samarína was born the youngest daughter of a respected herding family in the Byzarian highlands, where sheep and goat herding is the primary economic activity and cultural foundation. From childhood, she was immersed in the rhythms of pastoral life—learning to read weather patterns, to identify individual animals from subtle distinctions, and to understand the complex social hierarchies within flocks. Her family taught her that herding is not merely an economic activity but a sacred trust, a covenant with the animals under one's care.
 
@@ -638,19 +638,19 @@ Samarína stands 5'10" tall with a light build. She has light olive skin, very d
 
 **Current Standing:** Now at thirty-two, Samarína has established a modest but respected herding operation in the Byzarian League's southern territories. She produces wool of exceptional quality, raises lambs for both meat and breeding stock, and has earned a reputation for ethical animal husbandry and fair dealing. However, as her neighbors have grown increasingly wealthy through more aggressive expansion and exploitation of marginal lands, Samarína's caution has begun to feel like a liability. Younger herders question her conservative approach, and she finds herself increasingly isolated as the herding culture shifts toward more competitive, less communal practices.
 
-### Psyche
+## Psyche
 
-#### Personality
+### Personality
 
 Samarína is fundamentally quiet and introspective, someone who has spent more time in conversation with animals than with people. She is not antisocial but rather selective, preferring deep interactions with fewer people to shallow relations with many. With those she trusts, she is warm and genuinely interested, capable of surprising moments of humor and insight. With strangers, she is polite but reserved, cautious in her speech and careful not to commit herself beyond what she can fulfill.
 
 Her caution is not cowardice but rather a learned response—she has experienced failure, loss, and betrayal, and has chosen to protect herself by moving deliberately and conservatively. This can read as lack of ambition or initiative, but it is actually deep wisdom about the dangers of overextension. Her empathy, particularly toward animals, is profound and occasionally manifests as melancholy as she witnesses the inevitable suffering inherent in pastoral life—birth and death, health and disease, attachment and loss.
 
-#### Motivation
+### Motivation
 
 Samarína is driven by multiple, sometimes conflicting motivations. Her primary drive is to maintain and improve her herd while staying true to ethical practices of care that have been passed down through her family. Beyond this, she increasingly wrestles with a desire to understand the changing world around her—the pressures that are driving her community toward more aggressive practices, the possibility that her traditional ways are becoming obsolete, and whether she should adapt or hold firm to her values. She also harbors a growing curiosity about the larger world beyond her pastoral territories, wondering what other paths might be available to her while simultaneously fearing such exploration as betrayal of her heritage.
 
-#### Strengths
+### Strengths
 
 - **Master Herder:** Her animal craft skill (14 base, 5 focuses) combined with her exceptional empathy (16) allows her to manage, calm, and understand her flock with remarkable precision and gentleness, and to achieve results through consent rather than coercion.
 - **Exceptional Horsemanship:** Her riding skill (16 base, 3 focuses) extends to managing all manner of livestock and allows her to cover large distances efficiently while tending her herd or escorting dangerous clients.
@@ -659,7 +659,7 @@ Samarína is driven by multiple, sometimes conflicting motivations. Her primary 
 - **Practical Herbalism:** Her knowledge of herbal remedies, perfumery (15 base, 2 focuses), and physician skill (14) allow her to treat animal (and human) injuries and illnesses using natural materials available in the environment.
 - **Intuitive Intelligence:** While her reasoning is modest (13), her perception (16) and awareness (14) give her nearly supernatural ability to notice subtle environmental changes and recognize threats before they become obvious.
 
-#### Weaknesses
+### Weaknesses
 
 - **Inexperience with Authority:** Her low eloquence (10) and modest discourse (12) make her ineffective at negotiating with government officials, landowners, or powerful figures. She struggles to advocate for herself in formal settings.
 - **Caution as Limitation:** Her tendency to play it safe and make conservative choices means she frequently misses opportunities for growth, wealth, or influence that would require risk-taking.
@@ -668,25 +668,25 @@ Samarína is driven by multiple, sometimes conflicting motivations. Her primary 
 - **Limited Magical Knowledge:** Her low spirit (12) and lack of mystical training mean she cannot work with magical elements or understand supernatural phenomena, making her vulnerable to magical threats.
 - **Social Isolation Risk:** Her tendency to isolate and her reluctance to ask for help can leave her vulnerable if facing situations requiring allies or political support.
 
-### Social
+## Social
 
-#### Patrons
+### Patrons
 
 - **Elder Vasilis Komnenos:** The respected elder of her herding commune and unofficial keeper of pastoral traditions, Vasilis has mentored Samarína throughout her life and provides guidance on both practical and cultural matters, though he sometimes expresses concern about her caution.
 - **The Wool Merchant Dimitri Kalvestris:** A fair-dealing trader who purchases Samarína's wool at premium prices and advocates for her products in distant markets, creating reliable income despite market fluctuations.
 - **The Veterinary Herbalist Katerina:** A semi-retired healer who specializes in animal care and has become a friend and occasional mentor, sharing knowledge about herbal remedies and holistic animal husbandry.
 
-#### Enemies
+### Enemies
 
 - **Landowner Theron Vaspas:** A wealthy landowner whose territories border Samarína's grazing lands, Theron has repeatedly attempted to purchase her land or pressure her into more intensive, environmentally destructive grazing practices. Her refusal has earned his enmity.
 - **The Competitive Herders Collective:** Younger herders in the region, frustrated with what they see as outdated practices and conservative thinking, have begun ostracizing Samarína and spreading rumors about the inferior quality of her animals, despite evidence to the contrary.
 - **Her Own Doubts:** More dangerous than any external foe, Samarína's constant uncertainty about whether her traditional approaches are becoming obsolete, whether she is clinging to the past at the expense of her future.
 
-#### Affiliations
+### Affiliations
 
 - **None formal:** Samarína maintains independence from official organizations, though she participates informally in the Byzarian herding commune and honors the customs and traditions of her pastoral culture.
 
-### Plot Hooks
+## Plot Hooks
 
 1. **The Sanctuary Under Threat:** Samarína discovers that Landowner **Theron Vaspas** has begun systematically purchasing lands that will encircle her grazing territories, effectively trapping her and forcing her to either abandon her herd or sell her land at depressed prices. She recruits adventurers to help her navigate legal systems, discover evidence of Vaspas's unethical practices, and potentially locate alternative grazing lands. This plot forces her to develop political acumen while testing whether she will compromise her values to survive.
 

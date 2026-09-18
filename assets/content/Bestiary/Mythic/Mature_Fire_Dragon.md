@@ -473,7 +473,7 @@ sohl:
         disabled: false
 ---
 
-## Appearance {#appearance}
+# Appearance {#appearance}
 
 The mountain itself seems to hold its breath.
 
@@ -487,7 +487,7 @@ It has not seen you yet. But the moment stretches. The air around it shimmers an
 
 The dragon shifts, and the entire mountain trembles.
 
-## Dossier {#dossier}
+# Dossier {#dossier}
 
 The Mature Fire Dragon stands at the apex of dragonkind's power and knowledge. Between three and four centuries old, it has established and consolidated territory, accumulated a vast and carefully curated hoard, and learned the art of predatory strategy. A mature dragon is calculating, cruel, and absolutely certain of its supremacy.
 
@@ -497,7 +497,7 @@ Mature fire dragons are territorial but not solitary in nature—they are known 
 
 These dragons are the basis of regional legends. Kingdoms plan their policies around dragon territory. Military campaigns are rerouted to avoid confirmed sightings. Entire towns have been built with the understanding that they exist at a dragon's sufferance.
 
-### Presentation
+## Presentation
 
 A mature fire dragon is powerfully built, with musculature visible beneath the thick, overlapping armor of its scales. The coloration is more vivid than younger dragons: deep crimsons, burnished golds, and oranges so intense they seem to hold actual flame. The scales themselves are thick and beveled, creating a pattern that deflects most blows. A crown of spines runs down the spine from head to tail, each spine wickedly pointed and capable of piercing armor.
 
@@ -505,7 +505,7 @@ The creature is twenty-four feet in length from snout to rump, with a wingspan e
 
 Heat radiates from the dragon in visible waves. The ground where it walks is scorched dark. Its breath steams even in warm weather, and a faint aura of wavering light surrounds it at all times.
 
-### Key Behaviors
+## Key Behaviors
 
 **Strategic Dominance:** The dragon controls its territory through deliberate actions and calculated intimidation. It may allow certain activities in exchange for tribute or restrict passage to maintain power.
 
@@ -519,7 +519,7 @@ Heat radiates from the dragon in visible waves. The ground where it walks is sco
 
 **Selective Mercy:** Occasionally, a mature dragon will spare a creature to serve a purpose—as a servant, messenger, or tool. Such mercy is never free; there is always a price.
 
-### Combat Strategy
+## Combat Strategy
 
 A mature dragon is a master of predatory tactics. It uses terrain to its advantage, positioning itself where it can rain fire on enemies while remaining difficult to reach. It understands the limitations and capabilities of humanoid foes and exploits them ruthlessly.
 
@@ -529,55 +529,55 @@ When facing a significant force, the dragon may employ area denial tactics, sett
 
 The mature dragon understands psychology and may attempt to break the will of its enemies through displays of overwhelming power, waiting for fear to do half the work before closing in for the kill.
 
-### Attack Methods
+## Attack Methods
 
-#### Bite
+### Bite
 
 The mature dragon's bite is a devastating attack capable of severing limbs or even decapitating larger creatures. The force involved is immense, and teeth long as daggers can pierce armor plating. The dragon often uses a bite to grab and pin prey before raking with claws or following up with fire breath.
 
-#### Claw Rake
+### Claw Rake
 
 The dragon rakes with both front claws in precise, controlled combinations. A mature dragon has learned to use these attacks to force opponents into defensive postures, creating openings for more devastating follow-ups. The claws can shred plate armor and pierce scale.
 
-#### Wing Buffet
+### Wing Buffet
 
 The dragon sweeps its wings in powerful arcs, generating enough force to knock creatures prone or off balance. This attack can be used to create distance or to position enemies for fire breath attacks.
 
-#### Tail Sweep
+### Tail Sweep
 
 The dragon whips its powerful tail in wide arcs, striking multiple targets and using the appendage as a prehensile weapon. The tail is strong enough to topple walls or flip overturned wagons, and a direct hit from a mature dragon's tail can break bones.
 
-#### Fire Breath
+### Fire Breath
 
 The dragon exhales a 30-foot cone of roiling flame. The fire is hot enough to melt stone and ignites all combustibles instantly. The breath weapon can be used repeatedly, though the dragon will pace its use to avoid complete exhaustion.
 
-### Special Abilities
+## Special Abilities
 
-#### Fire Breath
+### Fire Breath
 
 The mature dragon can exhale a 30-foot cone of intense flame as an action. Creatures caught in the area of effect suffer severe thermal damage. Stone and earth take lasting damage; structures in the path may partially collapse. The dragon can use this ability multiple times before tiring.
 
-#### Flight
+### Flight
 
 The dragon is a powerful flier capable of carrying substantial loads and engaging in sophisticated aerial combat. It can remain aloft for extended periods and uses flight to gain tactical advantage in any engagement.
 
-#### Armored Scales
+### Armored Scales
 
 The dragon's scales are thick and heavily beveled, providing substantial protection against physical damage. Most conventional weapons inflict minimal damage; magical weapons or sustained siege-weapon fire is required to penetrate deeply.
 
-#### Heat Aura
+### Heat Aura
 
 Intense heat radiates from the dragon in a 60-foot radius. Temperatures in this area rise dramatically. Creatures are uncomfortable and fatigue more quickly; prolonged exposure can cause heat exhaustion or burns on exposed skin. Vegetation wilts, water evaporates, and stone begins to crack.
 
-#### Draconic Presence
+### Draconic Presence
 
 The dragon radiates an aura of predatory dominance. Intelligent creatures within 60 feet of the dragon experience a profound sense of dread and recognize the creature's overwhelming power. This presence can unsettle horses, dogs, and other animals into panic.
 
-#### Fire Immunity
+### Fire Immunity
 
 The dragon is completely immune to fire and heat. It can swim through lava, sleep on burning coals, and breathe in superheated environments without discomfort. Its immunity extends to its gear and possessions.
 
-### Attributes
+## Attributes
 
 - **Strength:** 46-51 (1d6+45)
 

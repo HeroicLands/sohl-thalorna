@@ -526,11 +526,11 @@ sohl:
     defaultCombatGroup: null
 ---
 
-## Appearance {#appearance}
+# Appearance {#appearance}
 
 Hármund stands 6'0" even, with a medium build that has gone slightly soft around the middle after twenty-two years of harbor watch rather than field combat. His auburn hair is beginning to thin on top, and he compensates with a thick beard that he keeps trimmed to regulation length. His hazel eyes are his most striking feature — pale and watchful in an olive-skinned face that has aged well for a man of forty. His skin is smooth and largely unscarred, a testament to a career spent managing docks rather than fighting wars. He wears the Greyfjord harbor watch uniform: a heavy wool tunic over quilted padding, leather knee boots, and a broadsword at his hip that sees more use as a visual deterrent than a weapon. A brass harbor-watch badge is pinned to his left breast.
 
-## Dossier {#dossier}
+# Dossier {#dossier}
 
 Hármund joined the Greyfjord harbor watch at eighteen, shortly after his family's merchant business was destroyed by a coastal raid. The experience of loss was acute, but the harbor watch offered steady employment and purpose. He learned the trade quickly, establishing himself as reliable and observant. For twenty-two years, he has worked port security: managing cargo, verifying manifests, watching for contraband, coordinating with merchant captains on vessel movements.
 
@@ -538,35 +538,35 @@ Hármund has achieved something rare among harbor guards: genuine friendships wi
 
 Now at forty, he is the senior watch commander for the evening and night shifts. He has trained generations of younger guards and has become something of an institution at Greyfjord harbor. His approach is slowly becoming outmoded as newer, more rigid governance structures arrive from the capital.
 
-### Psyche
+## Psyche
 
-#### Personality
+### Personality
 
 Hármund is unhurried and patient, moving through his work with the steady deliberation of a man who has internalized that rushing rarely improves situations. He is sociable with merchants and guards both, though his friendliness maintains clear professional boundaries. He is not particularly demonstrative about emotions, but his few close relationships are deep. He has a dry, understated sense of humor that appeals more to adults than to younger people.
 
-#### Motivation
+### Motivation
 
 Hármund's primary motivation is maintaining the functionality of Greyfjord harbor—ensuring that legitimate commerce moves smoothly while keeping genuine threats out. His secondary motivation is providing for his family (he married a merchant's daughter fifteen years ago and has two children). His tertiary, unspoken motivation is proving that a port can be effectively managed through understanding rather than rigid enforcement.
 
-#### Strengths
+### Strengths
 
 His knowledge of maritime trade and shipping logistics is comprehensive. He is an exceptional judge of character and can read people's intentions remarkably accurately. He is physically strong and capable of violence if necessary, though he will avoid it if possible. His ability to negotiate between conflicting interests is refined through decades of practice.
 
-### Social
+## Social
 
 Hármund occupies a liminal space in Greyfjord society—too much a maritime person to be fully accepted in land-based hierarchy, too much a guard official to be fully accepted by merchant communities. His status has become elevated through the years of maintaining his reliability.
 
-### Companions
+## Companions
 
-#### Patrons
+### Patrons
 
 **Harbor Master Thorvald Ironhammer** — The official administrator of Greyfjord harbor operations. Thorvald is aging and has come to rely on Hármund absolutely for the actual functioning of port security. He has explicitly protected Hármund from the new directives arriving from the capital, allowing him to continue managing the watch according to his own methods rather than stricter enforcement protocols.
 
-#### Enemies
+### Enemies
 
 **Merchant Captain Helgen Blackwater** — A pirate captain operating in Greyfjord waters under a thin veneer of legitimate merchant trade. Blackwater's vessel carries contraband that Hármund has documented numerous times but has been unable to intercept legally. Blackwater is intelligent and careful, and he recognizes Hármund as the primary obstacle to his operation. He has implied threats toward Hármund's family.
 
-### Plot Hooks
+## Plot Hooks
 
 1. **The New Order** — Greyfjord harbor receives new governance directives from the capital mandating stricter enforcement and elimination of the "gray market" practices that Hármund has been managing carefully. The new protocols will disrupt legitimate commerce and will require Hármund to actively persecute minor infractions that he has previously overlooked. Harbor Master Thorvald retires before the directives take effect. Hármund must choose between implementing the new protocols and maintaining his established approach—knowing that refusing will cost him his position.
 

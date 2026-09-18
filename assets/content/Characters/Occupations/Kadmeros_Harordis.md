@@ -549,11 +549,11 @@ sohl:
     defaultCombatGroup: null
 ---
 
-## Appearance {#appearance}
+# Appearance {#appearance}
 
 Kadméros Hârôrdîs is a 38-year-old man who stands 6'1" tall and is of moderate build. He has an oval face with prominent cheekbones, a lined forehead, and a square jaw that leads to a prominent chin. His round dark brown eyes sit beneath arched brows, lending him a candid gaze. An aquiline nose and wide lips complete his features. He has olive skin with a smooth complexion. His auburn hair is kept practical and short.
 
-## Dossier {#dossier}
+# Dossier {#dossier}
 
 Born in the Vylaría region to a freeman family of Vylarian heritage, Kadméros Hârôrdîs came into the world of the woodcrafter through a combination of circumstance and aptitude.
 
@@ -561,37 +561,37 @@ Eamon has been working with wood since he was a boy, learning the craft from his
 
 Now at 38 years of age, Kadméros Hârôrdîs has established himself as a known figure among the woodcrafters of Vylaria. His reputation, for better or worse, precedes him in the circles where such things matter.
 
-### Psyche
+## Psyche
 
-#### Personality
+### Personality
 
 Has difficulty finding customers beyond his village, struggles with pricing his work.
 
-#### Motivation
+### Motivation
 
 Kadméros is driven by the desire to master his craft and secure a stable future. The uncertainties of life in woodcrafter work keep him vigilant and adaptable.
 
-#### Strengths
+### Strengths
 
 Skilled in woodworking, detailed carving, and finishing techniques.
 
-### Social
+## Social
 
 Kadméros is affiliated with None; works independently in his family workshop..
 
 As a Vylarian woodcrafter, Kadméros occupies a recognized social niche within Vylaria society.
 
-### Companions
+## Companions
 
-#### Patrons
+### Patrons
 
 Kadméros's primary patron is Local villagers and travelers who appreciate handmade wooden items.. This relationship provides both opportunity and obligation.
 
-#### Enemies
+### Enemies
 
 None; he is generally well-liked.
 
-### Plot Hooks
+## Plot Hooks
 
 1. **The Woodcrafter's Dilemma** — Kadméros faces a professional crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Vylaria.
 
