@@ -16,7 +16,6 @@ shortcode: salmnhdrks
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: null
   templatePriority: null
   archetypes: []
   occupation: Scholar
@@ -551,11 +550,11 @@ sohl:
     defaultCombatGroup: null
 ---
 
-## Appearance {#appearance}
+# Appearance {#appearance}
 
 Sâlimón Hâdrîkês is a 45-year-old man who stands 5'7" tall and is of moderate build. He has an angular face with angular cheekbones, a prominent forehead, and a sharp jaw that leads to a square chin. His bright brown eyes sit beneath heavy brows, lending him a lively gaze. A prominent nose and wide lips complete his features. He has light skin with an olive-toned complexion. His dark brown hair is combed neatly to one side.
 
-## Dossier {#dossier}
+# Dossier {#dossier}
 
 Born in the Heliónis region to a noble family of Helionite heritage, Sâlimón Hâdrîkês came into the world of the scholar through a combination of circumstance and aptitude.
 
@@ -563,37 +562,37 @@ Dr. Alistair is a renowned scholar specializing in ancient history and mythology
 
 Now at 45 years of age, Sâlimón Hâdrîkês has established himself as a known figure among the scholars of Heliónis. His reputation, for better or worse, precedes him in the circles where such things matter.
 
-### Psyche
+## Psyche
 
-#### Personality
+### Personality
 
 Can be forgetful of everyday matters, struggles with social interactions outside academia.
 
-#### Motivation
+### Motivation
 
 Sâlimón's driving force is the search that defines his life — a quest that shapes every decision he makes and every risk he takes.
 
-#### Strengths
+### Strengths
 
 Highly knowledgeable, excellent communicator, skilled researcher.
 
-### Social
+## Social
 
 Sâlimón is affiliated with Local Scholars' Guild.
 
 As a Helionite scholar, Sâlimón occupies a recognized social niche within Heliónis society.
 
-### Companions
+## Companions
 
-#### Patrons
+### Patrons
 
 Sâlimón's primary patron is Students, fellow scholars, and institutions seeking historical insight.. This relationship provides both opportunity and obligation.
 
-#### Enemies
+### Enemies
 
 Few; respected in his field, but some may challenge his theories.
 
-### Plot Hooks
+## Plot Hooks
 
 1. **The Scholar's Dilemma** — Sâlimón faces a professional crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Heliónis.
 

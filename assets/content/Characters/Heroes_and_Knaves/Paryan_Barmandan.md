@@ -16,7 +16,6 @@ shortcode: prynbrmndn
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: prynbrmndn
   templatePriority: null
   archetypes: []
   occupation: Jeweller
@@ -595,13 +594,13 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Paryan Barmandan](images/beings/characters/prynbrmndn.webp){float: top-left}
+# Appearance {#appearance}
 
-## Appearance {#appearance}
+![[prynbrmndn|Paryan Barmandan]]{float: top-left}
 
 Paryan stands 5'8" tall with a light build. She has light olive skin, black hair, and green eyes. Her features include an oval face, a hawkish nose, an angular jawline, well-defined lips, prominent brows.
 
-## Dossier {#dossier}
+# Dossier {#dossier}
 
 **Early Life and Apprenticeship**
 
@@ -617,9 +616,9 @@ Paryan progressed with remarkable speed through her apprenticeship, achieving jo
 
 Paryan now stands at the threshold of greater opportunity and risk. Her reputation has grown to the point where she receives commissions from nobility and even royal family members, pieces that would be displayed in the most elite circles. This success brings both fulfillment and pressure. The guild has begun to mention her name when discussing potential leadership roles, a responsibility she is uncertain about. Additionally, she has attracted the attention of wealthy collectors and patrons from distant lands who offer her substantial contracts that would require her to relocate or to radically expand her workshop. Most intriguingly, she has been approached by a mysterious scholar interested in commissioning jewelry with specific symbolic and possibly magical properties—a proposal that is both thrilling and unsettling. She struggles with the balance between creative integrity and commercial pragmatism, between loyalty to her community and pursuit of greater opportunity.
 
-### Psyche
+## Psyche
 
-#### Personality
+### Personality
 
 Paryan is a woman of genuine warmth combined with focused intensity. She approaches her work with the kind of deep engagement that others sometimes mistake for obsession: when engaged in designing or creating a piece, she can lose track of time and physical needs, entering a state of creative flow where the work seems to flow through her rather than from her. This intensity does not extend to all areas of her life; she is relaxed and conversational with friends, enjoying music, dancing, and the social pleasures of her community.
 
@@ -627,13 +626,13 @@ She possesses a creative mind that makes unexpected connections and sees possibi
 
 Despite her talent and growing fame, Paryan lacks arrogance. She is genuinely interested in others' perspectives on her work and welcomes thoughtful criticism. She is loyal to those she considers friends and generous with her time and skill when helping apprentices or assisting other artisans. There is a kind of innocence about her, a quality of being surprised and delighted by her own success, as if she still regards her work as primarily an act of creation rather than commerce.
 
-#### Motivation
+### Motivation
 
 Paryan's primary motivation is creative expression—the deep satisfaction that comes from transforming raw materials into something beautiful and meaningful. She is driven by the desire to create pieces that will become part of people's lives in significant ways, jewelry worn at important moments, items treasured and passed down to future generations. There is a spiritual dimension to her motivation; she worships Árávēštä, the deity of prosperity and abundance, and she understands her craft as a form of honoring the goddess by creating beauty and value in the world.
 
 Beyond the creative satisfaction, Paryan is also motivated by a desire for recognition and validation. She wants to be acknowledged as a master of her craft, wants her name to become synonymous with excellence and innovation. There is a competitive element to this—a desire to prove that her approaches and innovations are superior to conventional techniques. She is also motivated by a kind of romantic idealism about her craft, believing that jewelry has the power to transform how people see themselves and the world, and that creating meaningful pieces is therefore a form of service to humanity.
 
-#### Strengths
+### Strengths
 
 - **Extraordinary Technical Mastery**: Paryan's jewelcraft score of 16 across 4 levels, combined with her metalcraft (13 across 5 levels), drawing (16), and dexterity (15), give her the ability to execute any technical jewelcraft with extraordinary precision and artistry. She can work with difficult materials and create pieces of stunning technical complexity.
 
@@ -645,7 +644,7 @@ Beyond the creative satisfaction, Paryan is also motivated by a desire for recog
 
 - **Physical Capability**: Unlike many artisans, Paryan's moderate strength (11) and good agility (14), combined with her scores in various physical skills, mean she is capable of physically demanding work and can accompany the party on adventures without becoming a liability.
 
-#### Weaknesses
+### Weaknesses
 
 - **Commercial Naïveté**: Paryan struggles with the business aspects of her craft. She undercharges for her work because she cannot easily quantify the value of her creative contribution, and she struggles with the negotiation and pragmatism that successful business requires. This has resulted in her earning less than her talent warrants and occasionally being taken advantage of by unscrupulous patrons.
 
@@ -657,9 +656,9 @@ Beyond the creative satisfaction, Paryan is also motivated by a desire for recog
 
 - **Distraction from Detail Work**: Paryan's high creativity and tendency to see new possibilities sometimes distract her from completing work. She can become so engaged in exploring new design directions that existing projects languish incomplete.
 
-### Social
+## Social
 
-#### Patrons
+### Patrons
 
 - **The Royal Family of Amradad**: Several members of the royal family have commissioned pieces from Paryan, and her work is displayed in the royal treasury. Their patronage has significantly elevated her status.
 
@@ -669,17 +668,17 @@ Beyond the creative satisfaction, Paryan is also motivated by a desire for recog
 
 - **Wealthy Collectors and Merchants**: A growing circle of affluent patrons commission her work for personal collection or as gifts. These clients appreciate her innovation and are willing to pay premium prices for her distinctive designs.
 
-#### Enemies
+### Enemies
 
 - **Master Farrokh, Conservative Guild Master**: A senior figure in the Jewellers' Guild who represents the traditionalist faction, Farrokh views Paryan's experimental approaches as disrespectful to established conventions. He has subtly opposed her rise within the guild and spreads criticism that her work, while beautiful, lacks "true classical foundation." The two have never had direct conflict, but there is clear professional tension.
 
-#### Affiliations
+### Affiliations
 
 - **The Jewellers' Guild of Amradad**: Paryan is a full member and recognized master of the guild, though her innovative approaches sometimes create tension with the more conservative elements of the organization.
 
 - **The Artisans' Collective**: Paryan maintains informal connections with other master craftspeople across multiple disciplines—sculptors, textile workers, potters—through a loose association of innovative artisans who support and inspire each other's work.
 
-### Plot Hooks
+## Plot Hooks
 
 1. **The Mysterious Commission**: A scholar and collector approaches Paryan with an extraordinary commission: to create a piece of jewelry with very specific symbolic properties and design requirements. The scholar hints that the piece will be used in magical or esoteric practices, though the specifics remain unclear. The payment offered is extraordinarily generous. As Paryan works on the commission, she gradually realizes that the symbols and properties the scholar demanded may be related to genuine magical application or that the piece might be intended for dangerous purposes. She must decide whether to continue the commission, seek to understand the true purpose of the piece, or refuse and risk losing the most lucrative commission of her life. The party might help her research the symbols, investigate the scholar's true intentions, or grapple with the ethical implications of creating art intended for potentially harmful purposes.
 

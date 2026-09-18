@@ -16,7 +16,6 @@ shortcode: fryslvlskyr
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: null
   templatePriority: null
   archetypes: []
   occupation: Chieftain
@@ -550,11 +549,11 @@ sohl:
     defaultCombatGroup: null
 ---
 
-## Appearance {#appearance}
+# Appearance {#appearance}
 
 Frýsala Válskyr is a 42-year-old woman who stands 5'10" tall and is of moderate build. She has a heart-shaped face with wide-set cheekbones, a smooth forehead, and an angular jaw that leads to a strong chin. Her hooded hazel eyes sit beneath thin brows, lending her a guarded gaze. A delicate nose and expressive lips complete her features. She has fair skin with a clear complexion. Her chestnut hair is pinned in an elegant twist.
 
-## Dossier {#dossier}
+# Dossier {#dossier}
 
 Born in the Provènzia region to a noble family of Provenzian heritage, Frýsala Válskyr came into the world of the chieftain through a combination of circumstance and aptitude.
 
@@ -562,37 +561,37 @@ Sigrid became chieftain after her father's death in battle, leading her clan wit
 
 Now at 42 years of age, Frýsala Válskyr has established herself as a known figure among the chieftains of Provènzia. Her reputation, for better or worse, precedes her in the circles where such things matter.
 
-### Psyche
+## Psyche
 
-#### Personality
+### Personality
 
 Distrusted by some elders who view her as too unorthodox.
 
-#### Motivation
+### Motivation
 
 Frýsala is driven by the desire to master her craft and secure a stable future. The uncertainties of life in chieftain work keep her vigilant and adaptable.
 
-#### Strengths
+### Strengths
 
 Strategic thinker, skilled at forming alliances, capable warrior.
 
-### Social
+## Social
 
 Frýsala is affiliated with Tribal Council.
 
 As a Provenzian chieftain, Frýsala occupies a recognized social niche within Provènzia society.
 
-### Companions
+## Companions
 
-#### Patrons
+### Patrons
 
 Frýsala's primary patron is Clan warriors and young leaders who support her rule.. This relationship provides both opportunity and obligation.
 
-#### Enemies
+### Enemies
 
 Neighboring clan leaders threatened by her growing power.
 
-### Plot Hooks
+## Plot Hooks
 
 1. **The Chieftain's Dilemma** — Frýsala faces a professional crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Provènzia.
 

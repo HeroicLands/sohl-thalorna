@@ -16,7 +16,6 @@ shortcode: nubarsjdrs
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: null
   templatePriority: null
   archetypes: []
   occupation: Nobility (Courtier)
@@ -550,11 +549,11 @@ sohl:
     defaultCombatGroup: null
 ---
 
-## Appearance {#appearance}
+# Appearance {#appearance}
 
 Nûbàris Jâdîrôs is a 40-year-old woman who stands 5'7" tall and is slender. She has a square face with prominent cheekbones, a prominent forehead, and a strong jaw that leads to a strong chin. Her bright blue eyes sit beneath heavy brows, lending her a lively gaze. A strong nose and curved lips complete her features. She has tanned skin with an olive-toned complexion. Her black hair is gathered in a practical bun.
 
-## Dossier {#dossier}
+# Dossier {#dossier}
 
 Born in the Heliónis region to a freeman family of Helionite heritage, Nûbàris Jâdîrôs came into the world of the nobility (courtier) through a combination of circumstance and aptitude.
 
@@ -562,37 +561,37 @@ Lady Mirabel is a cunning and resourceful minor noble known for her shrewd polit
 
 Now at 40 years of age, Nûbàris Jâdîrôs has established herself as a known figure among the nobility (courtier)s of Heliónis. Her reputation, for better or worse, precedes her in the circles where such things matter.
 
-### Psyche
+## Psyche
 
-#### Personality
+### Personality
 
 Can be perceived as manipulative, struggles with open trust.
 
-#### Motivation
+### Motivation
 
 Nûbàris is driven by the desire to master her craft and secure a stable future. The uncertainties of life in nobility (courtier) work keep her vigilant and adaptable.
 
-#### Strengths
+### Strengths
 
 Highly intelligent, skilled in diplomacy, strategic thinker.
 
-### Social
+## Social
 
 Nûbàris is affiliated with Local Nobility Council.
 
 As a Helionite nobility (courtier), Nûbàris occupies a recognized social niche within Heliónis society.
 
-### Companions
+## Companions
 
-#### Patrons
+### Patrons
 
 Nûbàris's primary patron is Fellow nobles seeking alliances and mediation.. This relationship provides both opportunity and obligation.
 
-#### Enemies
+### Enemies
 
 Some rivals view her as a threat to their influence.
 
-### Plot Hooks
+## Plot Hooks
 
 1. **The Nobility (Courtier)'s Dilemma** — Nûbàris faces a professional crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Heliónis.
 

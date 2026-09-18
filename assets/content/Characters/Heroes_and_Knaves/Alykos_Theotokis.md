@@ -16,7 +16,6 @@ shortcode: alyksthtks
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: alyksthtks
   templatePriority: null
   archetypes: []
   occupation: Timberwright
@@ -595,13 +594,13 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Alýkos Theotókis](images/beings/characters/alyksthtks.webp){float: top-left}
+# Appearance {#appearance}
 
-## Appearance {#appearance}
+![[alyksthtks|Alýkos Theotókis]]{float: top-left}
 
 Alýkos stands 6'0" tall with a medium build. He has light weathered skin, graying brown hair, and hazel eyes. His features include a diamond-shaped face, an aquiline nose, a strong jawline, an expressive mouth, graying brows.
 
-## Dossier {#dossier}
+# Dossier {#dossier}
 
 Alýkos was born into the timber-working tradition of the Byzarian League, son of a master craftsman whose reputation was built on the quality of ships' frames and architectural beams. From age eight, Alýkos worked alongside his father **Theotókis the Elder**, learning to read the grain of timber as one reads text, understanding which trees would yield which properties of wood, and mastering the traditional techniques passed through generations of his family line.
 
@@ -609,9 +608,9 @@ At twenty-two, he completed his formal apprenticeship and became a journeyman, t
 
 Now, at fifty-three, Alýkos operates a successful workshop while increasingly training apprentices and consulting on major projects. Yet the passing decades have made him aware that his way of working—the traditional methods that have served him well—may not survive into the next generation. Younger timberwrights increasingly employ new techniques, newer tools, and increasingly faster methods that prioritize speed over the meditation of masterful craft.
 
-### Psyche
+## Psyche
 
-#### Personality
+### Personality
 
 Alýkos is a man of few words but profound presence. He speaks deliberately, with precision born of decades spent communicating through work rather than words. When he does speak, his observations carry weight; he sees solutions where others see problems. There is a contemplative quality to him, a sense of someone who thinks best while working, whose understanding emerges through doing rather than discussion.
 
@@ -619,13 +618,13 @@ Despite his outward gravity, Alýkos possesses a dry, understated wit that surfa
 
 Beneath his calm exterior lies a man struggling with the recognition of mortality and obsolescence. The changes sweeping through his craft feel like a personal rejection—not of him specifically, but of the values and methods that define his identity. He masks this concern with studied indifference, but those close to him recognize the weight he carries.
 
-#### Motivation
+### Motivation
 
 Alýkos is motivated by a desire to preserve and transmit the traditional craftsmanship of his lineage before it disappears entirely. He believes that in rushing toward novelty and speed, the League risks losing knowledge and artistry that took centuries to develop. He seeks an apprentice or successor who can truly understand that timber-working is not merely utility but a form of expression—a way of imposing beauty and functionality into material that will outlast its creator.
 
 Secondarily, Alýkos is driven by professional pride. He wants to complete significant works that demonstrate that traditional methods produce results equal or superior to modern approaches. If he can secure one major commission that showcases the value of his craftsmanship, it might influence his profession's direction.
 
-#### Strengths
+### Strengths
 
 - **Masterful Timbercraft**: His timbercraft skill of 13 base with five specializations, combined with twenty-three years as a master craftsman, makes him one of the League's finest timber-workers. He can design and construct wooden structures of remarkable complexity and durability.
 - **Physical Strength**: Despite his age, an attribute of 14 in strength allows him to continue performing physically demanding work. Combined with his technical knowledge, this makes him ideally suited to the demands of timber manipulation.
@@ -634,7 +633,7 @@ Secondarily, Alýkos is driven by professional pride. He wants to complete signi
 - **Judgment and Will**: A will of 14 combined with decades of decision-making in challenging situations makes him excellent at evaluating materials and options. His judgment rarely fails.
 - **Survival and Versatility**: Skills in fishing, survival, and other practical arts make him adaptable to field conditions where timber-working must occur on location rather than in a controlled workshop.
 
-#### Weaknesses
+### Weaknesses
 
 - **Age-Related Limitations**: At fifty-three, Alýkos is beginning to experience the physical consequences of a lifetime of demanding labor. His endurance of 13 is adequate but declining; he tires more easily than younger workers and recovers more slowly from injury.
 - **Resistance to Innovation**: His deeply ingrained respect for traditional methods makes him skeptical of new techniques and tools, sometimes to the point of actively dismissing improvements that could enhance efficiency or capability.
@@ -643,25 +642,25 @@ Secondarily, Alýkos is driven by professional pride. He wants to complete signi
 - **Emotional Distance**: His reserved nature and tendency to express himself through work rather than words means he struggles to build strong emotional connections, even with apprentices who admire his skill.
 - **Limited Combat Ability**: While he possesses basic martial capability, he is not a fighter, making him vulnerable in situations requiring violence.
 
-### Social
+## Social
 
-#### Patrons
+### Patrons
 
 - **The Timberwrights' Guild**: His guild affiliation provides him with regular commissions, referrals, and professional standing. However, his occasional criticism of newer techniques creates some tension with progressive guild members.
 - **The Noble House of Theodákis**: A merchant-noble family that has commissioned Alýkos for three major projects over two decades, including the beams for their primary residence. They value his reliability and quality.
 - **The Master Builders' Association**: An informal group of architects and master craftspeople who value his consultation on projects requiring timber expertise, particularly those where traditional aesthetics are desired.
 
-#### Enemies
+### Enemies
 
 - **The Modernist Faction**: A loosely organized group of younger timberwrights and craftspeople who view traditional methods as inefficient and who actively undercut Alýkos's commissions by offering faster, cheaper alternatives. Their leader, **Vektor the Innovator**, has directly challenged Alýkos's design choices on several projects.
 - **His Own Son, Dimitrios**: Once apprenticed to Alýkos, Dimitrios rejected his father's teachings and became a champion of faster, modern techniques. The two have been estranged for fifteen years, a source of profound private pain for Alýkos. Dimitrios's success with modern methods feels like a personal repudiation of everything Alýkos values.
 
-#### Affiliations
+### Affiliations
 
 - **The Timberwrights' Guild of the Byzarian League**: A formal organization maintaining standards for timber-working and managing guild commissions. Alýkos holds status as a Master, the highest rank.
 - **The Master Craftspeople's Association**: An informal group meeting quarterly to share techniques and discuss the future of craft trades in the League.
 
-### Plot Hooks
+## Plot Hooks
 
 1. **The Ancient Wood**: A mysterious merchant brings a single log of timber of extraordinary beauty and unknown origin to Alýkos, requesting consultation on its properties and potential uses. The wood appears impossibly old, yet shows no signs of rot; its grain patterns seem to shift in different light; and it carries a faint aroma Alýkos cannot identify. Investigation into the wood's origin leads him into contact with ancient traditions and forces that suggest timber-working may be far more significant than he ever imagined.
 

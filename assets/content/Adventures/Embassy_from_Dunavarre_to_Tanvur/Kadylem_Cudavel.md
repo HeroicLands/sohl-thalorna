@@ -25,6 +25,12 @@ data:
   species: null
 ---
 
+# Appearance {#appearance}
+
+TBD
+
+# Dossier {#dossier}
+
 **Role.** Announces the Ambassador's arrival and status.
 
 **Background.** Skilled in ceremonial duty and official occasion.

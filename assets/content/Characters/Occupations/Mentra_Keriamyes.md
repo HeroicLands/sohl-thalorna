@@ -16,7 +16,6 @@ shortcode: mentrkrmys
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: null
   templatePriority: null
   archetypes: []
   occupation: Glassworker
@@ -551,11 +550,11 @@ sohl:
     defaultCombatGroup: null
 ---
 
-## Appearance {#appearance}
+# Appearance {#appearance}
 
 Mêntrâ Kêrîamyês is a 27-year-old woman who stands 5'10" tall and is slender. She has a long face with wide-set cheekbones, a narrow forehead, and an angular jaw that leads to a prominent chin. Her bright green eyes sit beneath arched brows, lending her a lively gaze. A prominent nose and thin lips complete her features. She has medium-toned skin with a ruddy complexion. Her auburn hair is adorned with simple pins.
 
-## Dossier {#dossier}
+# Dossier {#dossier}
 
 Born in the Vylaría region to a freeman family of Vylarian heritage, Mêntrâ Kêrîamyês came into the world of the glassworker through a combination of circumstance and aptitude.
 
@@ -563,37 +562,37 @@ Anwen discovered her passion for glassworking as a teenager, when she began work
 
 Now at 27 years of age, Mêntrâ Kêrîamyês has established herself as a known figure among the glassworkers of Vylaria. Her reputation, for better or worse, precedes her in the circles where such things matter.
 
-### Psyche
+## Psyche
 
-#### Personality
+### Personality
 
 Lacks experience with larger projects, can be sensitive to criticism.
 
-#### Motivation
+### Motivation
 
 Mêntrâ is driven by the desire to master her craft and secure a stable future. The uncertainties of life in glassworker work keep her vigilant and adaptable.
 
-#### Strengths
+### Strengths
 
 Skilled in stained glass and decorative work, highly creative, quick learner.
 
-### Social
+## Social
 
 Mêntrâ is affiliated with Glassworkers' Guild.
 
 As a Vylarian glassworker, Mêntrâ occupies a recognized social niche within Vylaria society.
 
-### Companions
+## Companions
 
-#### Patrons
+### Patrons
 
 Mêntrâ's primary patron is Local churches and artisans who appreciate her unconventional style.. This relationship provides both opportunity and obligation.
 
-#### Enemies
+### Enemies
 
 Traditional glassworkers who see her designs as unorthodox.
 
-### Plot Hooks
+## Plot Hooks
 
 1. **The Glassworker's Dilemma** — Mêntrâ faces a professional crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Vylaria.
 

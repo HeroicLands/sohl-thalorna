@@ -16,7 +16,6 @@ shortcode: imrkszrznds
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: null
   templatePriority: null
   archetypes: []
   occupation: Musician (Drums)
@@ -552,11 +551,11 @@ sohl:
     defaultCombatGroup: null
 ---
 
-## Appearance {#appearance}
+# Appearance {#appearance}
 
 Îmarakîs Zêrâzêndis is a 31-year-old woman who stands 5'11" tall and is of moderate build. She has an angular face with broad cheekbones, a lined forehead, and an angular jaw that leads to a square chin. Her piercing brown eyes sit beneath prominent brows, lending her a penetrating gaze. A hawkish nose and full lips complete her features. She has tanned skin with a ruddy complexion. Her black hair is adorned with simple pins.
 
-## Dossier {#dossier}
+# Dossier {#dossier}
 
 Born in the Vylaría region to a freeman family of Vylarian heritage, Îmarakîs Zêrâzêndis came into the world of the musician (drums) through a combination of circumstance and aptitude.
 
@@ -564,37 +563,37 @@ Halda grew up in a traveling performers' troupe, learning to play various percus
 
 Now at 31 years of age, Îmarakîs Zêrâzêndis has established herself as a known figure among the musician (drums)s of Vylaria. Her reputation, for better or worse, precedes her in the circles where such things matter.
 
-### Psyche
+## Psyche
 
-#### Personality
+### Personality
 
 Unpolished, sometimes too loud for certain audiences, struggles with formal music.
 
-#### Motivation
+### Motivation
 
 Îmarakîs is driven by the desire to master her craft and secure a stable future. The uncertainties of life in musician (drums) work keep her vigilant and adaptable.
 
-#### Strengths
+### Strengths
 
 Skilled in various percussion techniques, energetic, captivating performer.
 
-### Social
+## Social
 
 Îmarakîs is affiliated with Minstrels' Guild.
 
 As a Vylarian musician (drums), Îmarakîs occupies a recognized social niche within Vylaria society.
 
-### Companions
+## Companions
 
-#### Patrons
+### Patrons
 
 Îmarakîs's primary patron is Traveling performers and festival organizers.. This relationship provides both opportunity and obligation.
 
-#### Enemies
+### Enemies
 
 Some traditional musicians who dislike her unconventional style.
 
-### Plot Hooks
+## Plot Hooks
 
 1. **The Musician (Drums)'s Dilemma** — Îmarakîs faces a professional crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Vylaria.
 

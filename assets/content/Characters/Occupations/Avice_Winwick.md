@@ -16,7 +16,6 @@ shortcode: avicewnwck
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: null
   templatePriority: null
   archetypes: []
   occupation: Mercantyler (Supercargo)
@@ -550,11 +549,11 @@ sohl:
     defaultCombatGroup: null
 ---
 
-## Appearance {#appearance}
+# Appearance {#appearance}
 
 Avice Winwick is a 30-year-old woman who stands 5'10" tall and is slender. She has a heart-shaped face with broad cheekbones, a high forehead, and a narrow jaw that leads to a rounded chin. Her large green eyes sit beneath straight brows, lending her an expressive gaze. A narrow nose and expressive lips complete her features. She has fair skin with a lightly freckled complexion. Her dark blonde hair is flowing past her shoulders.
 
-## Dossier {#dossier}
+# Dossier {#dossier}
 
 Born in the Aelwyth region to a noble family of Aelwythan heritage, Avice Winwick came into the world of the mercantyler (supercargo) through a combination of circumstance and aptitude.
 
@@ -562,37 +561,37 @@ Selene has a background in maritime trade and has spent years as a supercargo fo
 
 Now at 30 years of age, Avice Winwick has established herself as a known figure among the mercantyler (supercargo)s of Aelwyth. Her reputation, for better or worse, precedes her in the circles where such things matter.
 
-### Psyche
+## Psyche
 
-#### Personality
+### Personality
 
 Can be perceived as aloof, struggles with the more physical aspects of loading and unloading.
 
-#### Motivation
+### Motivation
 
 Avice is driven by the desire to master her craft and secure a stable future. The uncertainties of life in mercantyler (supercargo) work keep her vigilant and adaptable.
 
-#### Strengths
+### Strengths
 
 Skilled in logistics and trade negotiations, adaptable, strong understanding of market dynamics.
 
-### Social
+## Social
 
 Avice is affiliated with Local Merchant's Guild.
 
 As a Aelwythan mercantyler (supercargo), Avice occupies a recognized social niche within Aelwyth society.
 
-### Companions
+## Companions
 
-#### Patrons
+### Patrons
 
 Avice's primary patron is Trading companies and shipping lines.. This relationship provides both opportunity and obligation.
 
-#### Enemies
+### Enemies
 
 Few; generally well-respected.
 
-### Plot Hooks
+## Plot Hooks
 
 1. **The Mercantyler (Supercargo)'s Dilemma** — Avice faces a professional crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Aelwyth.
 

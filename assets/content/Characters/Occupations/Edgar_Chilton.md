@@ -16,7 +16,6 @@ shortcode: edgarchltn
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: null
   templatePriority: null
   archetypes: []
   occupation: Embalmer
@@ -553,11 +552,11 @@ sohl:
     defaultCombatGroup: null
 ---
 
-## Appearance {#appearance}
+# Appearance {#appearance}
 
 Edgar Chilton is a 45-year-old man who stands 5'7" tall and is of moderate build. He has a round face with broad cheekbones, a narrow forehead, and a narrow jaw that leads to a pointed chin. His deep-set brown eyes sit beneath arched brows, lending him a watchful gaze. A narrow nose and curved lips complete his features. He has fair skin with a lightly freckled complexion. His blonde hair is short and swept back.
 
-## Dossier {#dossier}
+# Dossier {#dossier}
 
 Born in the Aelwyth region to a freeman family of Aelwythan heritage, Edgar Chilton came into the world of the embalmer through a combination of circumstance and aptitude.
 
@@ -565,37 +564,37 @@ Thadeus grew up in a family of undertakers, where he learned the art of embalmin
 
 Now at 45 years of age, Edgar Chilton has established himself as a known figure among the embalmers of Aelwyth. His reputation, for better or worse, precedes him in the circles where such things matter.
 
-### Psyche
+## Psyche
 
-#### Personality
+### Personality
 
 Socially distant, seen as morbid by some, struggles to form close relationships.
 
-#### Motivation
+### Motivation
 
 Edgar is driven by the desire to master his craft and secure a stable future. The uncertainties of life in embalmer work keep him vigilant and adaptable.
 
-#### Strengths
+### Strengths
 
 Skilled in embalming techniques, calm under pressure, meticulous.
 
-### Social
+## Social
 
 Edgar is affiliated with Morticians' Guild.
 
 As a Aelwythan embalmer, Edgar occupies a recognized social niche within Aelwyth society.
 
-### Companions
+## Companions
 
-#### Patrons
+### Patrons
 
 Edgar's primary patron is Local families who seek his services for funerals.. This relationship provides both opportunity and obligation.
 
-#### Enemies
+### Enemies
 
 None, though some people are wary of him due to his profession.
 
-### Plot Hooks
+## Plot Hooks
 
 1. **The Embalmer's Dilemma** — Edgar faces a professional crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Aelwyth.
 

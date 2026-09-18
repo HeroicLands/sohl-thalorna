@@ -25,6 +25,12 @@ data:
   species: null
 ---
 
+# Appearance {#appearance}
+
+TBD
+
+# Dossier {#dossier}
+
 **Role.** Captain of the [[affiliation-justbladeordr|Order of the Just Blade]], and gives military counsel.
 
 **Background.** A decorated warrior of several campaigns, including the genocidal crusade against the [[affiliation-saelvri|Saelvri]].

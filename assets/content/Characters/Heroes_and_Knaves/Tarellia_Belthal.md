@@ -16,7 +16,6 @@ shortcode: tarelblthl
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: tarelblthl
   templatePriority: null
   archetypes: []
   occupation: Astrologer
@@ -603,13 +602,13 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Tárellia Bélthal](images/beings/characters/tarelblthl.webp){float: top-left}
+# Appearance {#appearance}
 
-## Appearance {#appearance}
+![[tarelblthl|Tárellia Bélthal]]{float: top-left}
 
 Tárellia stands 5'6" tall with a light build. She has light fair skin, dark brown hair, and blue eyes. Her features include a soft-featured face, a narrow nose, a gentle jawline, dark brows.
 
-## Dossier {#dossier}
+# Dossier {#dossier}
 
 Tárellia Bélthal was born in a coastal trading city of the Kingdom of Élavendre to a merchant family with interests in maritime commerce. Her father, recognizing her aptitude for mathematics and observation, arranged for her to study with an aging astrologer named Meridian the Far-Seeing, a woman of considerable reputation who had served as advisor to merchant captains and the kingdom's navies. Where others found astrology mystical and obscure, Tárellia approached it as a complex system of pattern recognition and mathematical correlation—a way of reading the future through the language of stars, cycles, and celestial mechanics.
 
@@ -617,19 +616,19 @@ By her early twenties, Tárellia had already surpassed most of her contemporarie
 
 At thirty-nine, she has become the preeminent astrological advisor for maritime concerns in Élavendre. She maintains a small study in the coastal city of Port Aelion, where merchants and captains come seeking her guidance on everything from trade route timing to the auspiciousness of various ventures. She has never married, dedicating herself entirely to her craft, though this has not prevented certain romantic complications from shaping her personal life.
 
-### Psyche
+## Psyche
 
-#### Personality
+### Personality
 
 Tárellia is thoughtful and deliberate in all her actions, a natural consequence of her work with celestial mechanics and precise calculations. She speaks carefully, choosing words with mathematical precision, which can make her seem emotionally distant to those who do not know her well. However, those who spend time with her discover that this careful communication stems not from coldness but from a genuine respect for accuracy—she believes that imprecise language leads to misunderstanding, which can literally kill.
 
 She possesses a dry wit and surprising capacity for playfulness when comfortable in company. She is intensely loyal to those she considers friends, though she has few such relationships, having sacrificed much of her social life to her studies. She is genuinely humble about her abilities, never claiming certainty where probabilities exist, and she is quick to acknowledge the limits of her knowledge. This honesty—her refusal to fabricate certainty—is perhaps what makes her counsel so valuable.
 
-#### Motivation
+### Motivation
 
 Tárellia is motivated by a drive to prevent tragedy through accurate knowledge, stemming from the guilt she carries about the maritime disaster she failed to prevent. She seeks mastery of her craft not for fame or wealth, but as a form of expiation—a way of honoring those lost by ensuring that her knowledge serves the living. She also maintains a scholarly curiosity about the mechanisms underlying celestial influence, viewing each successful prediction as a step toward understanding the deeper patterns governing reality.
 
-#### Strengths
+### Strengths
 
 - **Extraordinary Perception and Awareness**: Her perception (15) and awareness (15) are exceptional, allowing her to notice details in charts, star positions, and environmental indicators that others miss entirely. She can read nuance and pattern with almost uncanny accuracy.
 
@@ -641,7 +640,7 @@ Tárellia is motivated by a drive to prevent tragedy through accurate knowledge,
 
 - **Reliable Consultation**: Her will (14) makes her steady under pressure, and her command presence (14) ensures that those seeking her advice trust her guidance. She does not second-guess herself once committed to a prediction.
 
-#### Weaknesses
+### Weaknesses
 
 - **Physical Vulnerability to Sea Travel**: Her seasickness is not a minor inconvenience—it is genuinely debilitating. She cannot be on the water for extended periods without becoming incapacitated, severely limiting her ability to conduct research aboard ships or to travel to distant locations. This creates a paradox: the world's most knowledgeable maritime astrologer cannot actually travel by sea.
 
@@ -653,9 +652,9 @@ Tárellia is motivated by a drive to prevent tragedy through accurate knowledge,
 
 - **Limited Combat Capability**: Beyond her dagger and general lack of martial skills, she is unprepared for violence. She must depend entirely on others for physical protection if threatened.
 
-### Social
+## Social
 
-#### Patrons
+### Patrons
 
 - **Merchant Prince Nathaniel Seaworth**: A wealthy trader whose fortune was significantly increased by consistently following Tárellia's advice regarding trade routes and departure timing. He pays handsomely for her exclusive consultation and considers her his secret advantage against competitors.
 
@@ -665,19 +664,19 @@ Tárellia is motivated by a drive to prevent tragedy through accurate knowledge,
 
 - **Scholar-Collector Adrienne Moonwhisper**: An elderly woman of learning who maintains a private library of rare astrological texts and who employs Tárellia to help authenticate, organize, and study new acquisitions. Their relationship is more scholarly and collegial than typical patron-consultant relationships.
 
-#### Enemies
+### Enemies
 
 - **Captain Darios Stormrider**: A successful merchant captain who publicly blamed Tárellia for the naval disaster that occurred when his ship ignored her warnings. Though investigation absolved her, Darios continues to view her as responsible for his lost crew and missing cargo. He actively spreads the story that her predictions are unreliable and that her caution is nothing more than excessive fear.
 
 - **Charlatan Astrologer Malachai the False**: A rival astrologer who employs theatrical presentation and ambiguous prophecy to charm wealthy clients. He views Tárellia as a threat to his livelihood and has actively worked to undermine her credibility, spreading claims that her success is due to luck rather than skill.
 
-#### Affiliations
+### Affiliations
 
 - **the Mariners' Guild of Port Aelion**: The primary professional organization governing maritime interests in the region. Tárellia serves as an official advisor and maintains guild standing that enhances her credibility.
 
 - **the Aurèldián Academy of Celestial Studies**: A scholarly institution focused on the study of astrology and celestial mechanics. Though she operates independently, Tárellia maintains membership and occasionally guest-lectures on maritime applications of her knowledge.
 
-### Plot Hooks
+## Plot Hooks
 
 1. **The Impossible Celestial Conjunction**: For the first time in her career, the stars are moving in ways that contradict every mathematical model and historical precedent Tárellia possesses. A celestial conjunction is occurring that should not be possible according to known mechanics, and the signs suggest a catastrophe of unprecedented magnitude will occur unless action is taken. No merchant will listen to a prediction based on impossible astronomy, and Tárellia must somehow prove both that her calculations are correct and that the threat is real before the convergence date arrives.
 

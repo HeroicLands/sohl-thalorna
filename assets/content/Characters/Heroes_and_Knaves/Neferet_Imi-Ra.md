@@ -19,7 +19,6 @@ type: being
 data:
   banner: takheperubnr
   icon: sohl-none-icon-person
-  portrait: neferetimr
   templatePriority: null
   archetypes: []
   occupation: Scholar
@@ -597,15 +596,15 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Neferet Imi-Ra](images/beings/characters/neferetimr.webp){float: top-left}
-
 **Home:** [[place-wasetkara|Wasetkara]]
 
-## Appearance {#appearance}
+# Appearance {#appearance}
+
+![[neferetimr|Neferet Imi-Ra]]{float: top-left}
 
 Neferet stands 5'6\" tall with a light build. He has deep brown skin, tightly curled black hair, and dark brown eyes. His features include a prominent nose, a pointed chin, thin brows, angular cheeks.
 
-## Dossier {#dossier}
+# Dossier {#dossier}
 
 Neferet Imi-Ra was a rising scholar in the **Imperial Library of [[affiliation-empirtkhpr|Ta’Kheperu]]** in Zerula, renowned for her knowledge of ancient astrological texts and obscure prophecies. As a curator, she had access to hidden archives, many of which contained lost and forbidden knowledge related to the stars and the mystical traditions of the empire’s past. Neferet’s work had already garnered attention, but she sought something more—a discovery that would cement her place among the great scholars of history.
 
@@ -613,9 +612,9 @@ Her life took a sudden turn when [[being-mrtsbkhkmn|Meret-Sebek]] appeared in th
 
 Neferet, driven by both curiosity and a hunger for knowledge, decided to accompany [[being-mrtsbkhkmn|Meret-Sebek]] on his journey. She believed that understanding these celestial mysteries would not only expand her scholarly reputation but also unlock powers that could alter the course of history. With the possibility of such a monumental discovery at hand, Neferet saw [[being-mrtsbkhkmn|Meret-Sebek]]’s quest as the key to unraveling the greatest mysteries of the cosmos.
 
-### Background
+## Background
 
-#### Skills and Abilities
+### Skills and Abilities
 
 - **Strength**: Neferet is not physically strong, being more focused on intellectual pursuits.
 - **Endurance**: She has enough endurance for long study sessions, though not for physical tasks.
@@ -636,25 +635,25 @@ Neferet, driven by both curiosity and a hunger for knowledge, decided to accompa
 - **Arcane Knowledge**: Though not a practitioner of magic, Neferet’s deep understanding of mystical texts gives her the ability to recognize magical symbols, traps, and rituals that they encounter on their journey.
 - **Folklore Knowledge**: Neferet has a widespread and detailed knowledge of the history, culture, beliefs, and stories/legends of the people of Eastern and Western Ankaris and Khazryn Desert, with a basic and shallow knowledge of the history and cultures of the rest of western Ankaris and Tānvür. The exception is Vylaria, with which she has considerable knowledge.
 
-### Psyche
+## Psyche
 
-#### Personality
+### Personality
 
 Neferet is highly intelligent and ambitious, with a thirst for knowledge that sometimes borders on obsession. Her keen intellect makes her invaluable when interpreting ancient texts and astrological charts, but her single-minded pursuit of knowledge can sometimes lead her to take risks others would avoid. Beneath her academic exterior, Neferet is deeply loyal to [[being-mrtsbkhkmn|Meret-Sebek]], seeing him as the key to fulfilling her scholarly ambitions.
 
-#### Motivation
+### Motivation
 
 Neferet is driven by a desire for discovery and recognition. She believes that helping [[being-mrtsbkhkmn|Meret-Sebek]] unlock the mysteries of the stars will not only elevate her scholarly standing but also provide her with the knowledge needed to reshape the world. She is committed to seeing the quest through, convinced that the celestial upheavals described in [[being-mrtsbkhkmn|Meret-Sebek]]’s visions are the key to unlocking ancient power.
 
-#### Strengths
+### Strengths
 
 - **Text Deciphering**: Master of ancient languages and astrological texts.
 - **Arcane Knowledge**: Deep understanding of mystical symbols and rituals, although no arcane abilities.
 - **Research**: Skilled at uncovering hidden knowledge in ancient archives.
 
-### Social
+## Social
 
-### Plot Hooks
+## Plot Hooks
 
 1. **The Forbidden Archive**: Neferet learns of a hidden chamber in the Imperial Library of Ta’Kheperu, sealed off for centuries after its contents were declared heretical. Whispers suggest it holds a lost codex tied to the celestial event [[being-mrtsbkhkmn|Meret-Sebek]] is studying. Gaining access requires navigating political intrigue, bribing officials, and avoiding the watchful eyes of the temple archivists who would see her efforts as a betrayal.
 

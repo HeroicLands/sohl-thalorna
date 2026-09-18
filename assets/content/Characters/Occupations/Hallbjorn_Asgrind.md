@@ -16,7 +16,6 @@ shortcode: hlbjrnsgrnd
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: null
   templatePriority: null
   archetypes: []
   occupation: Hunter
@@ -553,11 +552,11 @@ sohl:
     defaultCombatGroup: null
 ---
 
-## Appearance {#appearance}
+# Appearance {#appearance}
 
 Hallbjörn Ásgrind is a 34-year-old man who stands 6'1" tall and is of moderate build. He has an oval face with wide-set cheekbones, a narrow forehead, and a heavy jaw that leads to a strong chin. His deep-set blue eyes sit beneath thick brows, lending him a watchful gaze. A strong nose and firm lips complete his features. He has pale skin with a rough complexion. His auburn hair is long and gathered with a leather thong. A notable feature is a web of fine scars on the knuckles.
 
-## Dossier {#dossier}
+# Dossier {#dossier}
 
 Born in the Nordheim region to a freeman family of Nordheimn heritage, Hallbjörn Ásgrind came into the world of the huntsman through a combination of circumstance and aptitude.
 
@@ -565,37 +564,37 @@ Eadric serves as the head huntsman for Lord Gwendolyn of Ashenwood Manor. He is 
 
 Now at 34 years of age, Hallbjörn Ásgrind has established himself as a known figure among the huntsmans of Nordheim. His reputation, for better or worse, precedes him in the circles where such things matter.
 
-### Psyche
+## Psyche
 
-#### Personality
+### Personality
 
 Can be overly cautious, struggles to communicate with those outside the hunting party.
 
-#### Motivation
+### Motivation
 
 Hallbjörn is driven by the desire to master his craft and secure a stable future. The uncertainties of life in huntsman work keep him vigilant and adaptable.
 
-#### Strengths
+### Strengths
 
 Excellent tracker, knowledgeable about local fauna, strong leadership skills.
 
-### Social
+## Social
 
 Hallbjörn is affiliated with Lord Gwendolyn’s retinue.
 
 As a Nordheimn huntsman, Hallbjörn occupies a recognized social niche within Nordheim society.
 
-### Companions
+## Companions
 
-#### Patrons
+### Patrons
 
 Hallbjörn's primary patron is Lord Gwendolyn and other members of the manor's household.. This relationship provides both opportunity and obligation.
 
-#### Enemies
+### Enemies
 
 None; respected by the local community.
 
-### Plot Hooks
+## Plot Hooks
 
 1. **The Huntsman's Dilemma** — Hallbjörn faces a professional crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Nordheim.
 

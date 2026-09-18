@@ -16,7 +16,6 @@ shortcode: tarligtlgn
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: null
   templatePriority: null
   archetypes: []
   occupation: Thatcher
@@ -552,11 +551,11 @@ sohl:
     defaultCombatGroup: null
 ---
 
-## Appearance {#appearance}
+# Appearance {#appearance}
 
 Târlig Tólgen is a 47-year-old man who stands 6'1" tall and is of moderate build. He has a heart-shaped face with high cheekbones, a prominent forehead, and an angular jaw that leads to a pointed chin. His narrow blue eyes sit beneath expressive brows, lending him a keen gaze. An aquiline nose and wide lips complete his features. He has fair skin with a clear complexion. His graying brown hair is tied in a low tail.
 
-## Dossier {#dossier}
+# Dossier {#dossier}
 
 Born in the Provènzia region to a freeman family of Provenzian heritage, Târlig Tólgen came into the world of the thatcher through a combination of circumstance and aptitude.
 
@@ -564,37 +563,37 @@ Oswin has worked as a thatcher for most of his life, maintaining the roofs of co
 
 Now at 47 years of age, Târlig Tólgen has established himself as a known figure among the thatchers of Provènzia. His reputation, for better or worse, precedes him in the circles where such things matter.
 
-### Psyche
+## Psyche
 
-#### Personality
+### Personality
 
 Slower-paced, struggles with the physical demands as he ages.
 
-#### Motivation
+### Motivation
 
 Târlig is driven by the desire to master his craft and secure a stable future. The uncertainties of life in thatcher work keep him vigilant and adaptable.
 
-#### Strengths
+### Strengths
 
 Skilled in thatching techniques, highly experienced, and meticulous.
 
-### Social
+## Social
 
 Târlig is affiliated with Rural Craftsmen's Guild.
 
 As a Provenzian thatcher, Târlig occupies a recognized social niche within Provènzia society.
 
-### Companions
+## Companions
 
-#### Patrons
+### Patrons
 
 Târlig's primary patron is Local farmers and villagers who need sturdy roofs.. This relationship provides both opportunity and obligation.
 
-#### Enemies
+### Enemies
 
 None, though some younger craftsmen see him as outdated.
 
-### Plot Hooks
+## Plot Hooks
 
 1. **The Thatcher's Dilemma** — Târlig faces a professional crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Provènzia.
 

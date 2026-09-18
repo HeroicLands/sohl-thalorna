@@ -16,7 +16,6 @@ shortcode: helnmystks
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: helnmystks
   templatePriority: null
   archetypes: []
   occupation: Priest
@@ -599,9 +598,9 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Hélénaia Mystákês](images/beings/characters/helnmystks.webp){float: top-left}
+# Appearance {#appearance}
 
-## Appearance {#appearance}
+![[helnmystks|Hélénaia Mystákês]]{float: top-left}
 
 Hélénaia stands 5'9" tall with a medium build. She has light olive skin, dark hair, and green eyes. Her features include an oblong face, a prominent nose, a pronounced chin, well-defined lips, heavy brows, angular cheeks. A distinguishing mark is a scar running down the right leg.
 
@@ -609,7 +608,7 @@ Her blonde hair, worn in an elaborate coiled bun adorned with flowers and sacred
 
 Her robes, flowing and adorned with floral motifs in celebration of fertility and growth, seem to carry the scent of the herbs she uses in her rituals—lavender, rose, cinnamon, and other essences that linger in air long after she has passed.
 
-## Dossier {#dossier}
+# Dossier {#dossier}
 
 Hélénaia was born in a minor city of the Byzarian League to a family of modest means—her father a leather worker, her mother a midwife. From earliest childhood, she showed unusual sensitivity to the emotions and needs of those around her, and her mother began to teach her the medicinal and spiritual properties of herbs when she was barely old enough to walk. When Hélénaia was seven years old, a terrible fire swept through the city, and in the confusion and panic, she and several other children became separated from their families. Hélénaia's calm demeanor and natural authority, despite her age, kept the other children organized and safe until rescuers found them. A priest of the Sacred Forge witnessed her actions and was struck by what he perceived as a spiritual calling in her.
 
@@ -621,9 +620,9 @@ Rather than retreating from her injury, Hélénaia used it as a foundation for d
 
 Now, at forty years of age, Hélénaia remains dedicated to her work in the temple, having never married, though she has had loving relationships. She has trained several younger priestesses in her methods, and her reputation for authentic spiritual work and genuine compassion has attracted a steady stream of people seeking her counsel and her rituals. She serves as the primary priestess of the Sacred Forge's transformative healing rituals and is beginning to take on more responsibility for training the temple's next generation of priests.
 
-### Psyche
+## Psyche
 
-#### Personality
+### Personality
 
 Hélénaia radiates warmth and genuine interest in others, and people naturally tend to trust her, often opening to her within moments of meeting her. She is an exceptional listener, capable of hearing not just what people say but what they are afraid to say, and her responses come from a place of genuine understanding rather than judgment. She laughs readily and often, and her laughter is infectious, filled with genuine joy at the world's beauty.
 
@@ -631,13 +630,13 @@ However, beneath her warmth lies a fierce intelligence and a sharp eye for the w
 
 She is genuinely spiritual, experiencing moments of profound communion with the Sacred Forge that inform her understanding of the world, though she holds these experiences lightly, neither demanding that others share them nor claiming exclusive access to truth. She is somewhat dreamy and romantic in her thinking, prone to idealism about human possibility, and she sometimes struggles to fully accept the brutality and indifference of the world. She is aware of this tendency and works to balance it with realistic assessment of human limitations.
 
-#### Motivation
+### Motivation
 
 Hélénaia is motivated by a conviction that healing—spiritual, emotional, and physical—is humanity's highest calling, and that the transformation of suffering into wisdom is the most sacred work that exists. She seeks to serve others in their moments of greatest vulnerability, believing that such service is ultimately service to the divine. Her secondary motivation is the continuation and expansion of her community's healing practices, ensuring that future generations will have access to the spiritual resources that have transformed her own life.
 
 At a deeper level, Hélénaia seeks to create beauty in a world filled with suffering, and she believes that beauty—whether in ritual, in kindness, in the transformation of scars into marks of wisdom—is a form of resistance against the world's darkness. She wants to live a life so fully devoted to love and healing that her example itself becomes a teaching for others.
 
-#### Strengths
+### Strengths
 
 - **Preternatural Empathy**: Hélénaia possesses the ability to perceive emotional states in others with unusual accuracy, to understand the sources of their pain, and to respond with interventions precisely calibrated to their needs.
 
@@ -651,7 +650,7 @@ At a deeper level, Hélénaia seeks to create beauty in a world filled with suff
 
 - **Eloquence and Charm**: Her ability to communicate with both words and silence, to move people's hearts, and to inspire hope through language is considerable, making her an effective speaker and counselor.
 
-#### Weaknesses
+### Weaknesses
 
 - **Idealism and Naïveté**: Hélénaia's belief in human goodness and her conviction that people are fundamentally capable of healing and growth sometimes cause her to misjudge situations and to extend trust to those who do not deserve it.
 
@@ -663,9 +662,9 @@ At a deeper level, Hélénaia seeks to create beauty in a world filled with suff
 
 - **Physical Fragility**: Her scarring and the injury that caused it left her with a somewhat compromised right leg; while she has recovered full function, she tires more easily than others and is more vulnerable to certain forms of physical trauma.
 
-### Social
+## Social
 
-#### Patrons
+### Patrons
 
 - **High Priestess Amara**: The spiritual leader of the temple recognizes Hélénaia as one of the priesthood's finest practitioners and has designated her as a primary advisor on matters of healing and community service.
 
@@ -675,7 +674,7 @@ At a deeper level, Hélénaia seeks to create beauty in a world filled with suff
 
 - **Master Herbalist Lyrian**: An aging herbalist who has become something of a mentor figure to Hélénaia and who has taught her many of the healing practices that form the foundation of her work.
 
-#### Enemies
+### Enemies
 
 - **Bishop Theron**: A conservative religious figure who views Hélénaia's innovations in ritual as heretical departures from proper practice and who works to limit her authority and influence.
 
@@ -683,7 +682,7 @@ At a deeper level, Hélénaia seeks to create beauty in a world filled with suff
 
 - **Lord Merchant Valdis**: A wealthy and politically connected merchant whose family has been damaged by Hélénaia's intervention in their dynamics; he blames her for his daughter's decision to leave her husband and harbors deep resentment.
 
-#### Affiliations
+### Affiliations
 
 - **The Temple of the Sacred Forge**: Hélénaia serves as a priest in good standing and maintains a formal relationship with the priesthood.
 
@@ -693,7 +692,7 @@ At a deeper level, Hélénaia seeks to create beauty in a world filled with suff
 
 - **The Order of Compassion**: A loose spiritual organization devoted to healing and service that Hélénaia actively supports and participates in.
 
-### Plot Hooks
+## Plot Hooks
 
 1. **The Impossible Healing**: A person comes to Hélénaia seeking healing from a spiritual or emotional wound that seems beyond even her exceptional abilities. The person's trauma is severe, their defenses are formidable, and their resistance to healing is rooted in a conviction that they do not deserve healing. As Hélénaia works with them over time, she discovers that the trauma connects to a larger pattern of institutional cruelty or corruption that extends beyond this one person. She must decide whether to remain focused on individual healing or to become involved in exposing and opposing the institution responsible for so much suffering.
 

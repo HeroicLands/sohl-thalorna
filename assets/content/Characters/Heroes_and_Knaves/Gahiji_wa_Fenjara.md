@@ -17,7 +17,6 @@ shortcode: gahijwfnjr
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: gahijwfnjr
   templatePriority: null
   archetypes: []
   occupation: Hunter
@@ -595,13 +594,13 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Gahiji wa Fénjara](images/beings/characters/gahijwfnjr.webp){float: top-left}
+# Appearance {#appearance}
 
-## Appearance {#appearance}
+![[gahijwfnjr|Gahiji wa Fénjara]]{float: top-left}
 
 Gahiji stands 6'2" tall with a heavy build. He has dark skin, dark hair, and dark eyes. His features include a square face, a strong nose, a wide jawline, an expressive mouth, thick brows, high cheeks.
 
-## Dossier {#dossier}
+# Dossier {#dossier}
 
 Gahiji wa Fénjara is a renowned **tracker and hunter** from the Fénjara tribe of the **Nyáluba Tribal Nation**, whose people live deep within the most remote parts of the Xerathian jungles. The Nyáluba are famous for their unparalleled tracking skills, often said to be able to follow prey across both the physical and spirit realms. Gahiji grew up surrounded by dense jungle and spiritual traditions, learning early on how to read the signs of the land and the messages of the spirits. His family line was blessed with the ability to “track the unseen”—a mystical sense that allowed them to follow spiritual disturbances or beings.
 
@@ -609,9 +608,9 @@ Gahiji's reputation spread far and wide when he tracked down and defeated a dang
 
 When [[being-kirobashkm|Kiroba]]’s quest to restore balance reached the Nyáluba lands, Gahiji was drawn to the spiritual nature of the disturbance. Sensing that this imbalance threatened all of Xerathia, Gahiji joined [[being-kirobashkm|Kiroba]]’s cause, believing that his skills would be instrumental in navigating the spirit-infused jungle and the spiritual threats ahead.
 
-### Background
+## Background
 
-#### Skills and Abilities
+### Skills and Abilities
 
 - **Strength**: While Gahiji isn’t the strongest physically, his strength is well-suited to carrying out long hunts and navigating tough jungle terrain.
 - **Endurance**: His ability to survive and thrive in the harsh conditions of the jungle has given Gahiji remarkable stamina, allowing him to pursue prey for days without tiring.
@@ -631,20 +630,20 @@ When [[being-kirobashkm|Kiroba]]’s quest to restore balance reached the Nyálu
 - **Survivalist**: Gahiji is an expert in survival, able to live off the land for long periods and navigate the most treacherous environments. He knows the jungles of Xerathia better than almost anyone, making him invaluable as a guide.
 - **Spirit Hunter**: Gahiji is skilled in hunting both physical and spiritual creatures. His experience with spirit creatures, combined with his knowledge of ancient rituals, allows him to defend the group from spiritual threats that would otherwise be impossible to combat.
 
-### Psyche
+## Psyche
 
-#### Personality
+### Personality
 
 Gahiji is quiet, reserved, and deeply in tune with the world around him. His calm and patient demeanor makes him seem detached at times, but in truth, Gahiji is constantly observing his surroundings, aware of every change in the environment. He has a dry sense of humor and a strong sense of honor, believing that his role as a tracker is to preserve the balance of the natural and spiritual worlds. Though he is a man of few words, when he speaks, his advice is always grounded in wisdom.
 
-#### Strengths
+### Strengths
 
 - **Tracking**
 - **Survival**
 
-### Social
+## Social
 
-### Plot Hooks
+## Plot Hooks
 
 1. **The Hunter Becomes the Hunted**:
 

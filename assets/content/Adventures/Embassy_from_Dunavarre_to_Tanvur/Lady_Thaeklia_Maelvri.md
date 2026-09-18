@@ -25,6 +25,12 @@ data:
   species: null
 ---
 
+# Appearance {#appearance}
+
+TBD
+
+# Dossier {#dossier}
+
 **Role.** Assists in negotiations and serves as an interpreter.
 
 **Background.** Possesses extensive knowledge of eastern customs.

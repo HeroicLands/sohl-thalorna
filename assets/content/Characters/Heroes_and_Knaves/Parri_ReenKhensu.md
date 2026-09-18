@@ -18,7 +18,6 @@ type: being
 data:
   banner: takheperubnr
   icon: sohl-none-icon-person
-  portrait: parirnkhns
   templatePriority: null
   archetypes: []
   occupation: Scholar
@@ -597,15 +596,15 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Par'ri Re'en'Khensu](images/beings/characters/parirnkhns.webp){float: top-left}
-
 **Home:** [[place-wasetkara|Wasetkara]]
 
-## Appearance {#appearance}
+# Appearance {#appearance}
+
+![[parirnkhns|Par'ri Re'en'Khensu]]{float: top-left}
 
 Par'ri stands 5'8" tall with a heavy build. He has golden brown skin, white hair, and warm brown eyes. His features include a long face, an aquiline nose, a smooth jawline, generous lips, golden brows. A distinguishing mark is a tattoo of a crescent moon on the neck.
 
-## Dossier {#dossier}
+# Dossier {#dossier}
 
 **Early Life and Calling**
 
@@ -621,9 +620,9 @@ For more than twenty years, Parri moved from city to city, village to village, e
 
 Five years ago, now at fifty years of age and bearing the physical toll of decades of wandering, Parri settled in a modest house on the outskirts of a prosperous city within the Ta'Kheperian realm. He offers his teaching and counsel freely to those who seek him out, supporting himself through modest donations, the sale of his written collections of philosophical essays, and occasional patronage from grateful students who have prospered. His reputation has grown in his later years—he is now recognized as one of the foremost philosophers of the age, a living link to ancient wisdom combined with practical insight. However, his contentment is precarious. Some aspects of modern Ta'Kheperian society—the growing materialism of merchants, the rigidity of religious doctrine, the exploitation of the poor—trouble him deeply. He senses that the cultural renaissance of his youth is giving way to a kind of spiritual stagnation, and he finds himself increasingly compelled to speak out, knowing that doing so may renew old conflicts.
 
-### Psyche
+## Psyche
 
-#### Personality
+### Personality
 
 Parri is possessed of a rare combination of intellectual rigor and spiritual depth. He speaks with authority born not of arrogance but of genuine knowledge, and he listens with deep attention, honoring others' perspectives even when he disagrees. He is a natural teacher, with the ability to make complex ideas accessible and compelling, and he seems genuinely interested in understanding how different people perceive the world. His humor tends toward gentle irony and wisdom-tinged observation rather than jokes or mockery.
 
@@ -631,11 +630,11 @@ Despite his considerable achievements, Parri harbors no pride. He views his know
 
 There is a melancholy undertone to Parri's demeanor, a sense that he has seen much of both the beauty and tragedy of human existence, and that this seeing has left him with a kind of sorrowful wisdom.
 
-#### Motivation
+### Motivation
 
 Parri is driven by a quest for understanding that has shaped his entire life. He believes that truth exists beneath the surface of conventional wisdom and that each person's life experience contains valuable knowledge that contributes to a larger human understanding. His deepest motivation is to help others see beyond the limited perspectives that narrow their lives, to recognize their interconnection with all beings and the cosmos itself, and to live with greater awareness and compassion as a result. He is also motivated by a sense of responsibility: he feels that those who have been given the gift of extensive learning are obligated to share that knowledge with others, particularly with those who have had fewer opportunities. In his later years, he is increasingly driven by a concern for the direction his culture is taking and by a need to speak truth even when it is unpopular or dangerous.
 
-#### Strengths
+### Strengths
 
 - **Extraordinary Intellect and Reasoning**: Parri's reasoning score of 17 is paired with exceptional scores in multiple intellectual skills including folklore (16 across 5 levels), discourse (16 across 5 levels), mathematics (15 across 5 levels), and script (16 across 5 levels). He can analyze complex systems, understand historical patterns, and articulate sophisticated ideas with remarkable clarity.
 
@@ -647,7 +646,7 @@ Parri is driven by a quest for understanding that has shaped his entire life. He
 
 - **Practical Wisdom and Adaptability**: Despite his theoretical knowledge, his extensive practical experience—manifested in his diverse skill set and his history of living in varied contexts—gives him genuine understanding of how ideas apply to real life.
 
-#### Weaknesses
+### Weaknesses
 
 - **Limited Physical Capability**: His low agility (9), mediocre strength (10), and moderate climbing and physical skills mean he is not physically capable of extended strenuous activity, combat, or demanding travel. Age and years of philosophical contemplation rather than physical training have left him relatively fragile.
 
@@ -659,9 +658,9 @@ Parri is driven by a quest for understanding that has shaped his entire life. He
 
 - **Isolation and Limited Practical Resources**: His independent status and modest means leave him vulnerable. He has no institutional backing and few truly loyal allies, making him susceptible to suppression or manipulation by those with greater power.
 
-### Social
+## Social
 
-#### Patrons
+### Patrons
 
 - **The Temple of Íšét**: The priesthood of his patron goddess recognize him as a genuine spiritual authority and occasionally provide modest financial support and sanctuary. However, this relationship is complex, as Parri's ideas sometimes challenge official temple doctrine.
 
@@ -669,17 +668,17 @@ Parri is driven by a quest for understanding that has shaped his entire life. He
 
 - **The City's Intellectual Community**: Progressive scholars, liberal merchants, and teachers within the city recognize his value and occasionally commission him to lead lectures, conduct seminars, or advise on matters requiring ethical consideration.
 
-#### Enemies
+### Enemies
 
 - **Religious Fundamentalists and Rigid Orthodoxy**: Conservative elements within the Ta'Kheperian religious establishment view Parri's questioning of orthodox interpretations as dangerous heresy. They would like to silence him but lack direct cause to do so, creating ongoing tension.
 
 - **Merchant Lords Uncomfortable with Critique**: Wealthy merchants who have built fortunes through practices Parri considers exploitative or morally questionable view him with hostility. He has been known to critique materialism and greed publicly, earning their enmity.
 
-#### Affiliations
+### Affiliations
 
 - **Independent Scholar Network**: Parri maintains informal connections with other independent philosophers, teachers, and spiritual seekers throughout the Ta'Kheperian lands. However, he is not formally affiliated with any institution or organization.
 
-### Plot Hooks
+## Plot Hooks
 
 1. **The Heresy Accusation**: Religious authorities formally accuse Parri of heresy based on collected writings and teachings that they claim contradict orthodox doctrine. The accusation is politically motivated—his criticism of corruption and materialism within the priesthood has made him dangerous to those who benefit from current arrangements. He is summoned to a formal hearing before the Temple's Council of Orthodoxy, where he must defend his teachings or face censure or exile. The party becomes involved in gathering evidence of his teaching's validity, securing testimony from his students about his positive influence, or alternatively, helping him prepare a defense that reframes his seemingly heretical ideas within acceptable theological frameworks. The conflict escalates as various factions within the priesthood take sides, and the party must navigate complex institutional politics.
 

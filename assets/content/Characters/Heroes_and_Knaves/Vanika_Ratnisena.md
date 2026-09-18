@@ -15,7 +15,6 @@ shortcode: vanikartns
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: vanikartns
   templatePriority: null
   archetypes: []
   occupation: Cook
@@ -587,41 +586,41 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Vànika Ratniseṇa](images/beings/characters/vanikartns.webp){float: top-left}
+# Appearance {#appearance}
 
-## Appearance {#appearance}
+![[vanikartns|Vànika Ratniseṇa]]{float: top-left}
 
 Vànika stands 5'10" tall with a medium build. She has warm wheat skin, deep black hair, and dark amber eyes. Her features include a heart-shaped face, a broad nose, a small chin, a wide mouth, heavy brows, full cheeks.
 
-## Dossier {#dossier}
+# Dossier {#dossier}
 
-### Background
+## Background
 
-#### The Kitchen Born
+### The Kitchen Born
 
 Born in 679 in one of Vedyara's prosperous merchant cities, Vànika grew up in a household where food was not merely sustenance but the primary language of hospitality and cultural expression. Her family operated a modest but respected inn, and from earliest childhood she was surrounded by cooking fires, the aromas of spices and roasting meats, and the constant flow of travelers for whom her family's meals became the memorable center of their visits. She apprenticed formally under her mother and later under a succession of respected master cooks, learning not merely recipes but the underlying principles of flavor, texture, and cultural nutrition that make food memorable.
 
-#### The Master of the Craft
+### The Master of the Craft
 
 By her early twenties, Vànika had established a reputation as an exceptional cook—not an innovative one, but a master of fundamentals who could produce extraordinary meals from whatever ingredients were available. She worked in a succession of wealthy households before taking up position as head cook at the Ratniseṇa House inn operated by her extended family. For nearly two decades, she has maintained the inn's reputation as one of Vedyara's finest establishments, her cooking drawing recognition and loyal patronage from merchants, nobility, and common travelers alike. Her reputation rests not on fashionable innovation but on absolute reliability, on the capacity to transform simple ingredients into meals of genuine excellence, on the understanding that food is ultimately about sustenance, comfort, and genuine human connection.
 
-#### The Aging Masterwork
+### The Aging Masterwork
 
 Now in her early forties, Vànika has begun to feel the cumulative toll of her trade—her joints ache after long hours on her feet, her hands occasionally stiffen in cold weather, and she no longer possesses the stamina for the extended cooking marathons that once felt natural. Yet her work has reached new peaks of mastery; her accumulated knowledge and experience allow her to move with seemingly effortless grace through complex preparations that would daunt younger cooks. She has begun training younger cooks and taking on increasingly consultative roles, though she remains fundamentally committed to hands-on work. She has also begun to question whether her steadfast commitment to "honest cooking" has perhaps limited her recognition or prevented her from achieving greater prominence in more fashionable circles.
 
-### Psyche
+## Psyche
 
-#### Personality
+### Personality
 
 Vànika is a woman of unpretentious directness and genuine warmth, confident in her particular domain and straightforward in her judgments. In her kitchen, she is absolute authority—her word is law, her standards non-negotiable, her decisions final. Yet this same authority dissolves somewhat when she moves beyond cooking; she becomes less certain, more deferential to those of higher social status, occasionally defensive about her station. She is prone to blunt speech, saying what she believes with little concern for diplomatic softness, which can seem harsh to those unaccustomed to her manner. Yet those who know her well understand that her directness emerges from genuine care—she speaks truthfully because she respects her audience.
 
 Her faith in Rásikara, goddess of fire and transformation, is expressed through her cooking; she sees in the transformation of raw ingredients through heat a sacred process, a manifestation of divine principle. She approaches her work with reverence and ritual care, and she believes genuinely that food prepared with intention and mastery carries spiritual dimension beyond mere nutrition. She is practical and unsentimental about most matters, yet capable of surprising gentleness when engaged with the young, the suffering, or the genuinely lost. She forms few deep personal relationships but those she does form are characterized by uncommon loyalty and protective fierceness. She possesses a dry humor, often deployed to deflect seriousness or to communicate affection to those with whom she shares particular bonds.
 
-#### Motivation
+### Motivation
 
 Vànika is driven by a fundamental commitment to excellence—the conviction that work, no matter how humble, deserves to be done with mastery and integrity. She wants to feed people well, to contribute to their wellbeing and comfort, and to maintain standards of craft in an increasingly careless world. She is also motivated by a desire to be recognized and valued, to have her genuine expertise acknowledged by those who might otherwise dismiss her as a mere inn cook. Increasingly, she is motivated by anxiety about aging and relevance—a fear that her knowledge will become outdated, that younger cooks with fashionable ideas will supplant her, that she will find herself dismissed as quaint or obsolete. She is also motivated by love, though she rarely acknowledges this—a genuine care for the people she feeds and a commitment to their wellbeing expressed through the medium of nourishment.
 
-#### Strengths
+### Strengths
 
 - **Foundational Mastery**: Possesses extraordinary competence in all fundamental cooking techniques; she can prepare any traditional Vedyaran dish with absolute reliability and excellence, and can adapt techniques across diverse culinary traditions.
 
@@ -635,7 +634,7 @@ Vànika is driven by a fundamental commitment to excellence—the conviction tha
 
 - **Cultural Authenticity**: Genuine understanding of Vedyaran culinary traditions and the cultural and spiritual dimensions of food; her cooking honors tradition while adapting pragmatically to available resources.
 
-#### Weaknesses
+### Weaknesses
 
 - **Limited Innovation**: Her commitment to traditional approaches, while ensuring reliability, can leave her unprepared for fashionable cuisines or the demands of patrons seeking novel or exotic preparations; she tends toward dismissal of such demands as frivolous rather than attempting to learn.
 
@@ -649,9 +648,9 @@ Vànika is driven by a fundamental commitment to excellence—the conviction tha
 
 - **Intolerance for Incompetence**: Her standards are exacting and her patience limited with those who lack dedication or competence; she can be harsh in judgment and dismissive of those who do not meet her expectations.
 
-### Social
+## Social
 
-#### Patrons
+### Patrons
 
 - **Merchant Lord Kaliprasad**: One of Vedyara's most prominent merchants and a devoted admirer of Vànika's cooking; he regularly hosts dinners at his residence and specifically requests that Vànika be hired to prepare meals, paying premium fees for her services.
 
@@ -661,7 +660,7 @@ Vànika is driven by a fundamental commitment to excellence—the conviction tha
 
 - **Master Musicianist Devendra**: A celebrated musician and composer who frequents the inn and has become one of Vànika's few close personal friends; he genuinely appreciates her cooking and advocates for her value and importance.
 
-#### Enemies
+### Enemies
 
 - **Chef Amendra**: A celebrated and fashionable chef who specializes in exotic and innovative cuisine; she views Vànika as representative of outdated culinary traditions and has publicly dismissed her work as pedestrian and artistically limited.
 
@@ -669,7 +668,7 @@ Vànika is driven by a fundamental commitment to excellence—the conviction tha
 
 - **Innkeeper Bhavesh**: A rival inn proprietor who employs Chef Amendra and views Vànika's reputation as directly threatening his business; he has attempted to poach her staff and has spread rumors undermining her standing.
 
-#### Affiliations
+### Affiliations
 
 - **City Cooks' Guild**: A senior member whose counsel is sought on matters of traditional practice and culinary standards; she serves informally as voice for traditional approaches within an increasingly progressive organization.
 
@@ -677,7 +676,7 @@ Vànika is driven by a fundamental commitment to excellence—the conviction tha
 
 - **The Ratniseṇa House Inn**: Her primary workplace and family enterprise where she maintains full creative authority over all culinary operations.
 
-### Plot Hooks
+## Plot Hooks
 
 1. **The Culinary Competition and the Poisoned Dish**: Vànika is approached by Guild leadership to represent traditional cooking in a prestigious culinary competition—a showcase of the greatest chefs in Vedyara competing before noble judges. The competition promises significant prestige and financial reward for the victor, yet it will require Vànika to showcase her work beside the fashionable innovators she has previously dismissed. As preparation begins, her competitors and rivals intensify, and she begins to discover that someone is subtly sabotaging her preparations—tainting ingredients, damaging her kitchen tools, spreading false rumors about her reliability. The competition becomes a high-stakes battle not merely of culinary skill but of integrity and reputation, with Vànika forced to confront her own prejudices and insecurities while discovering whether true excellence transcends fashionable trends.
 

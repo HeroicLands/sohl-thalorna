@@ -16,7 +16,6 @@ shortcode: talirbshrn
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: null
   templatePriority: null
   archetypes: []
   occupation: Alchemist
@@ -556,11 +555,11 @@ sohl:
     defaultCombatGroup: null
 ---
 
-## Appearance {#appearance}
+# Appearance {#appearance}
 
 At 5'3" and slender of build, Tàlîra cuts a deceptively fragile silhouette—one belied by the wiry strength visible in her forearms and the assured way she moves. Her face is striking rather than conventional: high cheekbones, a wide intelligent forehead, and eyes of deep amber that seem to catalog everything they encounter. Auburn hair, usually pinned or braided in the practical style of working scholars, frames features marked by a long scar that runs from her left temple down behind her ear—a thin line of pale tissue that catches light when she turns her head. Her skin holds the tanned olive complexion of southern Heliónis, and there is a faint callus across the inner fingers of her right hand, the mark of hours spent grinding herbs and mixing solutions. She favors a thick woolen cloak the color of burned sienna, and beneath it practical linen and wool—nothing that draws attention, everything chosen for utility.
 
-## Dossier {#dossier}
+# Dossier {#dossier}
 
 Tàlîra Bâshirôn was born to a freeman metalworking family in the lower quarters of Thyrenae in 685 of the current age. Her father, Konstantinos, was a respected bronzesmith; her mother, Philonike, came from a merchant family with ties to Pelagora's maritime trade. It was an education-minded household, the kind where even the children of tradespeople were expected to read and cipher. She was ten years old when the Ordo Arcanis came through Thyrenae recruiting promising youths for preliminary training—a routine canvassing that changed her life.
 
@@ -576,7 +575,7 @@ Now at 35, Tàlîra runs her legitimate shop—"The Argonaut," named for the anc
 
 She is not comfortable, but she is safe. And in the tension between those two states, she has built a life of genuine usefulness. The scar on her ear is both a reminder of what she learned and a warning about what she knows not to speak.
 
-### Psyche
+## Psyche
 
 Tàlîra is a woman caught between multiple truths. She is genuinely, deeply driven to heal and to understand the natural properties of substances—this is not a pose, but a core part of her identity. Yet she also carries the weight of knowledge that the institutions she might have served are willing to sacrifice lives to maintain their authority. This has made her simultaneously more compassionate toward ordinary people (from whom she asks little) and more cynical about systems of power. She trusts her judgment implicitly when it comes to matters of craft or empirical observation, but she has learned to doubt her own willingness to believe in institutional goodwill.
 
@@ -584,7 +583,7 @@ Her high will and reasoned approach mean she does not act impulsively, even when
 
 Her ambidextrous training and latent combat skills exist in her body memory like a secret language. She has not had to use them in earnest since the early days of her training, and she has no illusions about what it would mean if she ever had to. That knowledge sits quietly at the back of her mind, a capability she maintains and hopes never to deploy. The dancing she practices—movement, rhythm, precision—is partly for the joy of it, partly for the physical discipline it requires.
 
-### Social
+## Social
 
 In Thyrenae, Tàlîra occupies the position of respected tradesperson-scholar, the kind of freeman whose education and competence grant her a certain autonomy but also a clear ceiling on aspiration. She cannot enter the Epistemium formally, cannot join the Ordo, cannot claim the kinds of authority that family connections or wealth might provide. What she has instead is reputation: people trust her, seek her counsel on matters beyond mere remedies, recognize her as someone who keeps confidences and delivers results.
 
@@ -594,9 +593,9 @@ Her deepest social connection is to Kalliope Argyros, a scholar of botanical app
 
 The fact that she maintains an alias, relationships with figures from the coastal trade, and connections that extend beyond Thyrenae proper marks her as a woman with resources and reach that transcend her apparent station. Those who notice this say nothing. Those who need her services know where to find her—under either name.
 
-### Companions
+## Companions
 
-#### Patrons and Allies
+### Patrons and Allies
 
 **Kalliope Argyros** — A scholar at the Panepistemium, specializing in the natural philosophy of botanical and mineral applications. Ten years Tàlîra's junior, Kalliope's genuine curiosity and rigorous methodology have made her Tàlîra's closest intellectual companion. They meet monthly in a discrete corner of the Peacock Gardens to discuss theory, exchange findings, and maintain the pretense that their conversations are merely casual scholarly gossip. Kalliope has never asked about the Ordo, and Tàlîra has never explained.
 
@@ -604,7 +603,7 @@ The fact that she maintains an alias, relationships with figures from the coasta
 
 **Magistra Ariadne Thespis** — The Ordo Arcanis official who arranged Tàlîra's removal from active training and has since ensured her continued safety by keeping certain eyes averted. Their relationship is one of cold clarity: each knows what the other is capable of, each understands the cost of visibility. They have never been friendly, but they are reliable to one another in the way that rivals with too much information to share can be.
 
-#### Enemies and Threats
+### Enemies and Threats
 
 **The Quaesitorium** — Vylarian inquisitors are not openly active in Heliónis proper, but their agents move through the cities gathering intelligence on unlicensed practitioners and heretical knowledge. Tàlîra has thus far escaped their notice, partly through her careful discretion and partly through the Ordo's protective indifference—they prefer her obscurity to scrutiny that might expose their own fragile authority. But this protection is not guaranteed.
 
@@ -612,7 +611,7 @@ The fact that she maintains an alias, relationships with figures from the coasta
 
 **Unfinished Business from the Ordo** — Not all those involved in the tragedy at her initiation have risen as safely as Magistra Thespis. There remains at least one individual of mid-ranking Ordo standing who was present that day, who knows that Tàlîra witnessed the suppression, and who now holds a position where exposing her would serve their interests politically. Tàlîra does not know who this person is, only that the possibility exists—a threat as vague and pervasive as a shadow at dusk.
 
-### Plot Hooks
+## Plot Hooks
 
 1. **The Specimen** — A rare and impossible herb arrives in one of Captain Nikandros's shipments: a plant that, according to every established botanical classification, should not exist. Tàlîra recognizes it immediately as a species the Epistemium attempted to cultivate under Ordo supervision twenty years ago and abandoned for reasons no one now remembers. She must decide whether to study it (which draws attention), destroy it (which seems like betraying knowledge itself), or bury it (which places her in the Ordo's debt).
 

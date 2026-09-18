@@ -16,7 +16,6 @@ shortcode: carengrvth
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: carengrvth
   templatePriority: null
   archetypes: []
   occupation: Herald
@@ -591,31 +590,31 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Cárenna Gráveth](images/beings/characters/carengrvth.webp){float: top-left}
+# Appearance {#appearance}
 
-## Appearance {#appearance}
+![[carengrvth|Cárenna Gráveth]]{float: top-left}
 
 Cárenna stands 6'0" tall with a light build. She has warm olive skin, black hair, and green eyes. Her features include an oblong face, a prominent nose, a strong jawline, well-defined lips, expressive brows.
 
-## Dossier {#dossier}
+# Dossier {#dossier}
 
 Born into House Gráveth, a cadet branch of nobility with connections to the royal court, Cárenna was raised in an environment where words were as valuable as swords and social grace was an imperative. Her early training in Heraldry began before she could properly write, learning the complex symbology and lineage of the noble houses, the intricate protocols of herald-craft, and the weight of official pronouncements. She proved remarkably adept at these studies, her natural eloquence and perceptiveness making her stand out among her peers.
 
 At twenty-four, she achieved full status as a Herald of Tarvénia and was attached to the royal household, a position of significant prestige. For the past eight years, she has served as one of the kingdom's primary emissaries and bearers of official messages, attending royal functions, delivering proclamations, and—increasingly—handling delicate negotiations between fractious noble houses. Her success comes not from blind adherence to protocol, but from her willingness to adapt tradition to circumstance, to find common ground between opposing parties, and to speak with the voice of the crown in ways that inspire rather than merely compel obedience.
 
-### Psyche
+## Psyche
 
-#### Personality
+### Personality
 
 Cárenna is a masterwork of careful cultivation, so practiced in the arts of social performance that distinguishing her authentic self from her carefully maintained public persona has become nearly impossible—perhaps even for herself. She is warm and engaging, genuinely interested in the concerns of others, skilled at making each person feel heard and valued. Yet this warmth coexists with a calculating mind; she is always aware of social hierarchies, political alignments, and the leverage points within any conversation. Her wit is sharp and her humor typically gentle, though those who cross her discover that she can deploy words as precisely as any blade.
 
 Her philosophy is fundamentally pragmatic: the world is better served by agreement than conflict, by compromise than absolutism, by understanding than judgment. This makes her an excellent mediator but occasionally renders her morally ambiguous—she will argue persuasively for positions she does not personally believe in if doing so advances the cause of peace. Her empathy is genuine but selective; she feels deeply for those within her circle of concern, yet can maintain emotional distance from the broader consequences of her diplomatic maneuvering.
 
-#### Motivation
+### Motivation
 
 Cárenna's driving ambition is the advancement of her house and, by extension, herself. She seeks to become the most trusted advisor to the crown, the herald whose voice carries such weight that her recommendations shape policy. She believes that by positioning House Gráveth at the center of court influence, she secures not only her family's prosperity but her own lasting legacy. She also harbors a genuine—if secondary—commitment to preventing conflict where possible, viewing her diplomatic successes as victories for the realm itself. Recognition and status matter deeply to her; she cultivates the appearance of humble service while actually pursuing power and influence with considerable ambition.
 
-#### Strengths
+### Strengths
 
 - **Eloquence and Voice**: With eloquence and voice as her two highest rated skills, Cárenna can persuade, inspire, command, and soothe through speech alone. She understands the music of language and deploys it with artistry.
 - **Diplomatic Acumen**: Her combination of high empathy, perception, reasoning, and social skills makes her exceptionally adept at reading people, understanding their motivations, and finding pathways to agreement.
@@ -623,7 +622,7 @@ Cárenna's driving ambition is the advancement of her house and, by extension, h
 - **Physical Grace and Presence**: Trained in dancing and movement from childhood, she possesses the physical poise that reinforces her verbal authority. Her bearing alone commands attention.
 - **Intrigue and Guile**: Her high skill in intrigue and guile, combined with her apparent openness, allows her to navigate hidden political currents while maintaining plausible deniability about her own role in events.
 
-#### Weaknesses
+### Weaknesses
 
 - **Lack of Physical Prowess**: She is not a fighter and possesses no martial skills of note. In physical danger, she is vulnerable and dependent on guards or allies for protection.
 - **Over-Investment in Consensus**: Her tendency toward diplomacy and compromise can leave conflicts genuinely unresolved rather than truly settled, storing problems for later ignition.
@@ -631,27 +630,27 @@ Cárenna's driving ambition is the advancement of her house and, by extension, h
 - **Emotional Distance and Inauthenticity**: Her constant performance and cultivation of persona can leave her isolated, unsure whom—if anyone—she can trust with her genuine self. She struggles with authentic emotional connection.
 - **Dependence on Position**: Her power derives entirely from her role and reputation. Without her status as a herald of the crown, she would be merely another ambitious noble, and this knowledge creates a subtle anxiety that drives increasingly risky political maneuvering.
 
-### Social
+## Social
 
-#### Patrons
+### Patrons
 
 - **King Aldrous III**: The aging monarch values Cárenna's counsel and has come to rely on her judgment in matters of diplomacy and internal realm politics. He has indicated subtle support for her continued advancement within the herald corps.
 - **Duke Mycaelus of the Eastern Marches**: A powerful regional lord who has engaged Cárenna's services repeatedly in mediating disputes with neighboring provinces. He views her as a valuable ally and occasional lover, though their relationship is carefully concealed.
 - **Lady Serenna Voss, Master of Commerce**: The crown's chief advisor on trade and mercantile matters has become Cárenna's closest confidant and patron within court, offering guidance on navigating the complex political currents of the royal household.
 
-#### Enemies
+### Enemies
 
 - **Lord Kelvic Aldred, Herald Emeritus**: The previous chief herald, now retired, views Cárenna as an upstart who lacks the necessary gravitas for her position. He has begun subtly undermining her authority, questioning her decisions to the king and his allies among the older nobility.
 - **The Canonist Orthodox**: A traditionalist faction within the priesthood of the Aurèldián Pantheon who view Cárenna's pragmatic morality and her role in secular governance as improper and potentially heretical. They have begun questioning her moral standing from their pulpits.
 - **Merchant-Lord Thevarin**: A wealthy and politically connected trader whose interests Cárenna opposed in a recent negotiation, resulting in significant financial loss to his enterprises. He has been quietly gathering evidence of her conflicts of interest and inappropriate relationships, intending to expose her when circumstances allow.
 
-#### Affiliations
+### Affiliations
 
 - **City Heralds' Guild of Tarvénia**: Her primary professional affiliation and source of authority. She maintains its political interests while advancing her own.
 - **House Gráveth**: Her family house, whose interests she subtly promotes through her position.
 - **The Aurèldián Pantheon**: A devoted follower of Múrkír the Voyager, she maintains public religious devotion while privately entertaining doubts about institutional faith.
 
-### Plot Hooks
+## Plot Hooks
 
 1. **The Bastard Child**: Cárenna receives an urgent message from **Duke Mycaelus** concerning a serious complication: there is a child—her daughter—born during their brief liaison five years prior. The mother, a minor noblewoman of uncertain stability, has begun making public claims and threatening to expose their relationship and the child's paternity unless Cárenna acknowledges the girl and secures her position within the nobility. To acknowledge the child would be to admit to a scandalous affair that could damage her standing with traditionalists; to ignore the threat is to allow an innocent child to be weaponized by her mother. Worse, Cárenna discovers that **Lord Kelvic Aldred** has learned of the situation and is preparing to use it as leverage to force her resignation from her position.
 

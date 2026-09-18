@@ -17,7 +17,6 @@ shortcode: kasndrbsrn
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: kasndrbsrn
   templatePriority: null
   archetypes: []
   occupation: Mage (Lore)
@@ -594,41 +593,41 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Kassándria Bessarîon](images/beings/characters/kasndrbsrn.webp){float: top-left}
+# Appearance {#appearance}
 
-## Appearance {#appearance}
+![[kasndrbsrn|Kassándria Bessarîon]]{float: top-left}
 
 Kassándria stands 5'5" tall with a light build. She has warm olive skin, black hair, and brown eyes. Her features include a diamond-shaped face, a aquiline nose, a pronounced chin, strong brows, sculpted cheeks.
 
-## Dossier {#dossier}
+# Dossier {#dossier}
 
-### Background
+## Background
 
-#### Early Mastery
+### Early Mastery
 
 Born into the distinguished Bessarîon merchant family of Byzaris, the wealthiest city of the Byzarian League, Kassándria demonstrated an uncanny affinity for the arcane from her earliest years. While her siblings learned commerce and trade, she filled the family library's margins with translations of ancient texts, much to her parents' bewilderment and concern. At thirteen, she formally petitioned the Panepistemium for apprenticeship—an extraordinary acceptance that bypassed the usual age of entry and marked her as genuinely exceptional. Her Epistemium masters recognized immediately that she possessed not mere curiosity, but genuine genius—a mind attuned to the hidden frequencies of magical reality itself, with particular brilliance in pattern-recognition and linguistic analysis.
 
-#### Scholarly Pursuits and Dangerous Experiments
+### Scholarly Pursuits and Dangerous Experiments
 
 For nearly two decades, Kassándria devoted herself to the systematic cataloging and analysis of forgotten languages and archaic magical texts, studying linguistic patterns in spellwork and discovering connections between phonetic structures and the deeper mechanics of the Héx Hodäi. Her three published treatises on ancient thaumaturgical traditions earned her reputation as the foremost expert in her field throughout the Byzarian League and beyond, yet also made her a controversial figure. Her most recent work, _On the Wards of the Sundered Kingdoms_, suggested that the fragmentation and decline of the ancient Helionite city-states was not inevitable catastrophe but the result of deliberate arcane workings by powers whose names and purposes have been deliberately erased from history. This thesis attracted both profound admiration from scholars who sought vindication of lost traditions and fierce denunciation from conservative factions within the Epistemium who viewed such speculations as destabilizing and potentially heretical.
 
-#### Present Circumstances
+### Present Circumstances
 
 Now at the height of her intellectual powers, Kassándria maintains an impressive private archive in a tower overlooking Byzaris. Her patron, the mysterious nobleman **Lord Mikhael Verath**, a man of intricate wealth and connections but ambiguous loyalties, has funded her recent expeditions into the sealed vaults beneath abandoned Helionite temples, seeking artifacts and texts that might reveal the true nature of the ancient kingdoms' fall and the magical knowledge they possessed. She commands respect within the Epistemium through sheer intellectual force and the prestige of her publications, yet her increasingly esoteric research has begun to isolate her from more traditional peers—particularly from the conservative faction within the Epistemium's leadership—who view her methodical descent into obscure magical theory and speculative history with growing unease and suspicion.
 
-### Psyche
+## Psyche
 
-#### Personality
+### Personality
 
 Kassándria embodies the scholarly temperament taken to its logical extreme—brilliant, focused, and utterly consumed by her work. She speaks with measured precision, rarely using colloquial language, and maintains a polite but emotionally distant demeanor with most acquaintances. Her sharp wit can be cutting, though never without purpose, and she has little patience for those who mistake enthusiasm for understanding. Despite this austere exterior, those who breach her considerable emotional walls discover a woman capable of surprising warmth and a wry humor that catches most people off guard.
 
 She is driven by an unquenchable thirst to understand the fundamental mechanisms underlying the fragmentation of the ancient Helionite civilization, convinced that the knowledge contained in those lost kingdoms holds keys to preventing a second such catastrophe. This intellectual obsession sometimes manifests as dangerous impulsivity—she has been known to risk catastrophic magical harm in pursuit of a single scrap of knowledge, rationalizing such risks as the necessary price of progress toward a truth she believes the Epistemium establishment would prefer to suppress. Privately, she sometimes questions whether her obsession is genuine historical inquiry or something more—whether those voices she hears in her deepest trances are whispers of the past calling to her, or something else entirely.
 
-#### Motivation
+### Motivation
 
 Kassándria's deepest motivation flows from a conviction that the decline of the Helionite kingdoms was not natural decay but the result of deliberate arcane interference by forces whose identities and purposes have been systematically erased from history—erased, she believes, by the very institutions that now govern magic. She is driven by the quasi-religious belief that she has been chosen—by fate, or by the voices that whisper through her most profound meditative trances, or by something she cannot name—to recover this deliberately-suppressed knowledge before it is lost entirely. This sense of chosen purpose grants her the courage to pursue avenues of study that would terrify most practitioners and the moral certainty that her work justifies risks others would find unacceptable. Yet beneath this certitude lies an uncomfortable question: whether those voices represent genuine contact with the past, or whether she is constructing an elaborate justification for obsessive behavior she cannot quite control.
 
-#### Strengths
+### Strengths
 
 - **Arcane Linguistics Mastery**: Few scholars living can decipher pre-Collapse written languages with Kassándria's fluency. She reads the dead tongues of the ancient kingdoms as readily as her native speech, giving her access to knowledge sealed away for centuries.
 - **Thaumaturgical Theory**: Her understanding of magical resonance, ritual structure, and the underlying principles of spellcraft is genuinely exceptional, allowing her to construct innovative rituals and sometimes achieve effects other mages consider impossible.
@@ -636,30 +635,30 @@ Kassándria's deepest motivation flows from a conviction that the decline of the
 - **Perception and Analysis**: With exceptional perception and reasoning, she notices patterns others miss and can synthesize seemingly unrelated information into profound insights.
 - **Ritual Precision**: Her command of complex ritual magic is flawless; she executes intricate ceremonies with the perfection of a master musician performing a memorized composition.
 
-#### Weaknesses
+### Weaknesses
 
 - **Physical Frailty**: Despite her powerful mind, Kassándria possesses only modest physical strength and endurance. She would be quickly overcome in any direct combat.
 - **Obsessive Recklessness**: Her consuming passion for forbidden knowledge sometimes overrides prudent judgment. She has narrowly escaped several magical catastrophes through sheer fortune rather than wisdom.
 - **Isolation**: Her arrogant certainty and emotional distance have alienated many potential allies, leaving her dependent on a small circle of supporters.
 - **Magical Overreach**: Her confidence in her abilities can lead her to attempt rituals whose consequences she has not fully considered, risking not only her life but potentially those around her.
 
-### Social
+## Social
 
-#### Patrons
+### Patrons
 
 - **Lord Mikhael Verath**: A Byzarian nobleman of mysterious motivations and connections who has funded Kassándria's expeditions for the past three years. Their relationship is transactional but cordial; **Verath** provides substantial resources—both gold and access to restricted locations—in exchange for copies of all significant discoveries and first right of refusal on any artifacts recovered. His true interests and the source of his wealth remain obscure, and Kassándria has begun to wonder whether his patronage is genuine scholarly enthusiasm or something more calculated.
 - **Praelatus Aleksandr of the Zephäris Sodalitas**: The elderly senior master of the Panepistemium in Byzaris who mentored her early career and continues to defend her controversial theories against institutional pressure from more conservative factions. His support has been crucial to her institutional survival, though he increasingly urges her toward "more orthodox" lines of inquiry.
 
-#### Enemies
+### Enemies
 
 - **Magister Petros Varthis**: A conservative member of the Sodalitas Physéra whose theoretical work on the stability of ancient magical foundations Kassándria publicly discredited in print five years ago, devastating his reputation and career advancement. **Varthis** has spent those years cultivating allies within the Epistemium's leadership, gathering what he claims is evidence of dangerous methodological flaws in her work and mounting a systematic campaign to discredit her scholarship. His vendetta has evolved from academic disagreement into something more personal and institutional.
 - **The Keepers of the Sealed Archive**: A loosely organized but influential faction within the Epistemium's leadership—drawn from multiple Sodalitates but dominated by the Sodalitas Sidéros (Metal) with its emphasis on order, binding, and control—that views Kassándria's research into hidden magical knowledge as dangerous and potentially heretical. They believe that certain knowledge was deliberately sealed away by the ancients for good reason, and that her work risks unleashing forces that should remain bound. They have begun to lobby for formal restrictions on her access to restricted texts.
 
-#### Affiliations
+### Affiliations
 
 - **Panepistemium**: Her official membership and primary institutional affiliation, though her relationship with the organization has grown increasingly complicated as her theories gain both devoted followers among younger scholars and vehement opponents among the conservative leadership. Her tenure is no longer secure, and she is acutely aware that powerful figures within the Epistemium now view her work as a threat to institutional stability and orthodox doctrine.
 
-### Plot Hooks
+## Plot Hooks
 
 1. **The Sealed Vault Discovery**: While cataloging texts in a previously unexplored section of the sealed vaults beneath the Flórania Temple in Byzaris, **Kassándria** unearths a fragmentary text that appears to describe a mechanism for undoing the deliberate magical workings that fragmented the ancient Helionite kingdoms—a ritual that might allow communication with or even recovery of knowledge from the scattered predecessor civilization. However, the final pages are missing, and she has reason to believe they were deliberately removed by another scholar generations ago. The party must help her track down **Oravex Solemnios**, an elderly scholar now living in voluntary exile in the Khazryn Desert, who may possess the missing pages and the dangerous knowledge of why they were hidden from the Epistemium's leadership.
 

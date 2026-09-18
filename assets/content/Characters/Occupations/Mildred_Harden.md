@@ -17,7 +17,6 @@ shortcode: mildrdhrdn
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: null
   templatePriority: null
   archetypes: []
   occupation: Innkeeper
@@ -551,11 +550,11 @@ sohl:
     defaultCombatGroup: null
 ---
 
-## Appearance {#appearance}
+# Appearance {#appearance}
 
 Mildred Harden is a 45-year-old woman who stands 5'10" tall and is of moderate build. She has a long face with broad cheekbones, a smooth forehead, and a narrow jaw that leads to a pointed chin. Her bright gray eyes sit beneath thin brows, lending her a lively gaze. A narrow nose and expressive lips complete her features. She has tanned skin with a weathered complexion. Her blonde hair is adorned with simple pins.
 
-## Dossier {#dossier}
+# Dossier {#dossier}
 
 Born in the Aelwyth region to a guilded family of Aelwythan heritage, Mildred Harden came into the world of the innkeeper through a combination of circumstance and aptitude.
 
@@ -563,37 +562,37 @@ Elda has run the Brightbrew Inn for over twenty years, offering travelers a warm
 
 Now at 45 years of age, Mildred Harden has established herself as a known figure among the innkeepers of Aelwyth. Her reputation, for better or worse, precedes her in the circles where such things matter.
 
-### Psyche
+## Psyche
 
-#### Personality
+### Personality
 
 Can be overwhelmed during busy periods, sometimes too trusting of strangers.
 
-#### Motivation
+### Motivation
 
 Mildred is driven by the desire to master her craft and secure a stable future. The uncertainties of life in innkeeper work keep her vigilant and adaptable.
 
-#### Strengths
+### Strengths
 
 Excellent cook, skilled brewer, great communicator.
 
-### Social
+## Social
 
 Mildred is affiliated with Local Innkeepers' Association.
 
 As a Aelwythan innkeeper, Mildred occupies a recognized social niche within Aelwyth society.
 
-### Companions
+## Companions
 
-#### Patrons
+### Patrons
 
 Mildred's primary patron is Regulars from the local community and travelers.. This relationship provides both opportunity and obligation.
 
-#### Enemies
+### Enemies
 
 Few; well-liked in the community.
 
-### Plot Hooks
+## Plot Hooks
 
 1. **The Innkeeper's Dilemma** — Mildred faces a professional crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Aelwyth.
 

@@ -16,7 +16,6 @@ shortcode: pyrnszrlmkr
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: null
   templatePriority: null
   archetypes: []
   occupation: Cartographer/Artist
@@ -552,11 +551,11 @@ sohl:
     defaultCombatGroup: null
 ---
 
-## Appearance {#appearance}
+# Appearance {#appearance}
 
 Pyrânês Zêralmâkor is a 39-year-old man who stands 5'9" tall and is of moderate build. He has a square face with angular cheekbones, a wide forehead, and a strong jaw that leads to a strong chin. His almond-shaped brown eyes sit beneath prominent brows, lending him a measured gaze. A straight nose and firm lips complete his features. He has olive skin with a weathered complexion. His brown hair is combed neatly to one side.
 
-## Dossier {#dossier}
+# Dossier {#dossier}
 
 Born in the Vylaría region to a noble family of Vylarian heritage, Pyrânês Zêralmâkor came into the world of the cartographer/artist through a combination of circumstance and aptitude.
 
@@ -564,37 +563,37 @@ Tancred hails from a wealthy family and pursued cartography out of a love for ex
 
 Now at 39 years of age, Pyrânês Zêralmâkor has established himself as a known figure among the cartographer/artists of Vylaria. His reputation, for better or worse, precedes him in the circles where such things matter.
 
-### Psyche
+## Psyche
 
-#### Personality
+### Personality
 
 Prone to taking unnecessary risks during expeditions.
 
-#### Motivation
+### Motivation
 
 Pyrânês is driven by the desire to master his craft and secure a stable future. The uncertainties of life in cartographer/artist work keep him vigilant and adaptable.
 
-#### Strengths
+### Strengths
 
 Skilled at combining art and practical cartography, adventurous spirit.
 
-### Social
+## Social
 
 Pyrânês is affiliated with Royal Cartographers' Society.
 
 As a Vylarian cartographer/artist, Pyrânês occupies a recognized social niche within Vylaria society.
 
-### Companions
+## Companions
 
-#### Patrons
+### Patrons
 
 Pyrânês's primary patron is Wealthy collectors and explorers.. This relationship provides both opportunity and obligation.
 
-#### Enemies
+### Enemies
 
 None, though some find his methods reckless.
 
-### Plot Hooks
+## Plot Hooks
 
 1. **The Cartographer/Artist's Dilemma** — Pyrânês faces a professional crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Vylaria.
 

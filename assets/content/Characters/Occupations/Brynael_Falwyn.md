@@ -16,7 +16,6 @@ shortcode: brynlflwyn
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: null
   templatePriority: null
   archetypes: []
   occupation: Toymaker
@@ -551,11 +550,11 @@ sohl:
     defaultCombatGroup: null
 ---
 
-## Appearance {#appearance}
+# Appearance {#appearance}
 
 Brýnael Fálwyn is a 27-year-old woman who stands 5'9" tall and is slender. She has a heart-shaped face with angular cheekbones, a high forehead, and an angular jaw that leads to a narrow chin. Her round blue eyes sit beneath arched brows, lending her a candid gaze. A straight nose and curved lips complete her features. She has fair skin with a smooth complexion. Her red hair is twisted into an elaborate arrangement.
 
-## Dossier {#dossier}
+# Dossier {#dossier}
 
 Born in the Élavendre region to a freeman family of Élavendri heritage, Brýnael Fálwyn came into the world of the toymaker through a combination of circumstance and aptitude.
 
@@ -563,37 +562,37 @@ Adelaine grew up in a small village, where she started making simple toys for he
 
 Now at 27 years of age, Brýnael Fálwyn has established herself as a known figure among the toymakers of Élavendre. Her reputation, for better or worse, precedes her in the circles where such things matter.
 
-### Psyche
+## Psyche
 
-#### Personality
+### Personality
 
 Inexperienced in running a business, struggles with pricing her work.
 
-#### Motivation
+### Motivation
 
 Brýnael is driven by the desire to master her craft and secure a stable future. The uncertainties of life in toymaker work keep her vigilant and adaptable.
 
-#### Strengths
+### Strengths
 
 Resourceful, skilled in working with natural materials, imaginative.
 
-### Social
+## Social
 
 Brýnael is affiliated with None; works independently..
 
 As a Élavendri toymaker, Brýnael occupies a recognized social niche within Élavendre society.
 
-### Companions
+## Companions
 
-#### Patrons
+### Patrons
 
 Brýnael's primary patron is Local villagers and travelers who seek rustic, handmade toys.. This relationship provides both opportunity and obligation.
 
-#### Enemies
+### Enemies
 
 None; she is well-liked but competes with more established toymakers.
 
-### Plot Hooks
+## Plot Hooks
 
 1. **The Toymaker's Dilemma** — Brýnael faces a professional crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Élavendre.
 

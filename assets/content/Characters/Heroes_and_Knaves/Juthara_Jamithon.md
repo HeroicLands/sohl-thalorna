@@ -15,7 +15,6 @@ shortcode: juthrjmthn
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: juthrjmthn
   templatePriority: null
   archetypes: []
   occupation: Scholar
@@ -599,13 +598,13 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Júthâra Jâmîthôn](images/beings/characters/juthrjmthn.webp){float: top-left}
+# Appearance {#appearance}
 
-## Appearance {#appearance}
+![[juthrjmthn|Júthâra Jâmîthôn]]{float: top-left}
 
 Júthâra stands 5'11" tall with a medium build. She has warm amber skin, black hair, and brown eyes. Her features include a narrow face, a noble nose, a smooth jawline, elegantly curved brows. A distinguishing mark is a scar running across the stomach.
 
-## Dossier {#dossier}
+# Dossier {#dossier}
 
 Born into the Jâmîthôn family during the height of the Matriarchy's intellectual renaissance, Júthâra was destined for scholarly pursuits from birth. Her childhood was spent in vast libraries of the capital, where she devoured texts on mathematics, medicine, and the arcane arts with an insatiable hunger. Under the tutelage of the renowned physician **Thessala the Wise**, she mastered the complexities of herbal medicine and natural philosophy, earning her credentials as a healer by her early twenties.
 
@@ -613,19 +612,19 @@ Her career took a darker turn when she accepted a commission from the ruling cou
 
 Now at thirty-four years of age, Júthâra has emerged as a controversial but respected voice in Bethuian scholarship. She maintains her own research laboratory in the capital and teaches select apprentices, blending traditional knowledge with radical new methodologies. Despite—or perhaps because of—her checkered past, she has become instrumental in advancing the Matriarchy's understanding of medicine and natural philosophy.
 
-### Psyche
+## Psyche
 
-#### Personality
+### Personality
 
 Júthâra is a woman of fierce intellect and equally fierce conviction. Her mind moves with the speed of lightning, grasping implications and connections that escape ordinary scholars. She speaks with precise eloquence, though her words often carry an edge of impatience with slower minds. There is a melancholy undertone to her demeanor, a sense that she carries knowledge of terrible truths the world would prefer to ignore. Yet this darkness is balanced by moments of unexpected warmth, particularly when teaching promising students or discussing theoretical breakthroughs with peers who can match her intellect.
 
 She is deeply self-critical, often more harsh on herself than any external critic could be. This perfectionism drives her brilliance but also creates a tendency toward isolation and doubt. In social settings, she can be awkward and occasionally dismissive of pleasantries, though those who take time to know her discover a dry wit and genuine (if guarded) affection for those she trusts.
 
-#### Motivation
+### Motivation
 
 Júthâra is driven by an almost obsessive need to understand the forces that corrupt flesh and spirit. She believes that knowledge—no matter how terrible or morally ambiguous—is preferable to ignorance. She seeks not merely academic advancement but actual breakthroughs that might prevent others from suffering the horrors she witnessed in that plague-struck village. Beneath her scholarly facade lies a woman determined to pierce the veil between the natural and supernatural, convinced that such understanding is humanity's best defense against the encroaching darkness.
 
-#### Strengths
+### Strengths
 
 - **Brilliant Theorist**: A reasoning and creativity score of 17-18 makes Júthâra capable of formulating entirely new frameworks for understanding complex phenomena. She regularly publishes innovative works that reshape scholarly discourse.
 - **Master of Medicine**: With Physician and multiple language skills at 17, combined with extensive training in Herbal Lore, she is among the finest healers in the Matriarchy, capable of diagnosing conditions others cannot recognize.
@@ -633,7 +632,7 @@ Júthâra is driven by an almost obsessive need to understand the forces that co
 - **Disciplined Researcher**: High scores in Script, Mathematics, and Ritual reflection a methodical approach to investigation; she leaves no stone unturned in her scholarly pursuits.
 - **Perceptive Observer**: With Perception at 16, she notices subtle signs in both nature and human behavior that guide her research and diagnoses.
 
-#### Weaknesses
+### Weaknesses
 
 - **Perfectionist Paralysis**: Her relentless self-criticism sometimes prevents her from completing projects or sharing work she deems "not yet ready," frustrating colleagues and benefactors alike.
 - **Isolated Scholar**: Poor physical attributes (Strength 11, Dexterity 13) and minimal combat training mean she is entirely dependent on others for physical protection.
@@ -641,25 +640,25 @@ Júthâra is driven by an almost obsessive need to understand the forces that co
 - **Time Management**: Despite her intelligence, she struggles to organize her workload, often emerging from her laboratory after days without proper rest or sustenance.
 - **Emotional Reticence**: She struggles to form close emotional bonds, sometimes appearing cold or uncaring when she is merely socially uncertain.
 
-### Social
+## Social
 
-#### Patrons
+### Patrons
 
 - **The Matriarch's Council**: Officially, she serves the ruling body of Bethua, conducting investigations and providing medical consultation on matters of state health.
 - **Thessala the Wise**: Her elderly mentor and former primary teacher, though now retired, continues to provide guidance and occasionally supplies rare components for her experiments.
 - **Master Archivist Solene**: The keeper of the Great Library, who has protected Júthâra's reputation and provided her with access to restricted texts in exchange for her discoveries.
 
-#### Enemies
+### Enemies
 
 - **The Traditionalist Cabal**: A loose coalition of conservative scholars who view her methods as heretical, actively working to discredit her findings and block her publications.
 - **Herald-Priest Matthias**: A religious authority who considers her research blasphemous and has publicly condemned her medical practices as sorcery.
 
-#### Affiliations
+### Affiliations
 
 - **The Scholars' Guild of Bethua**: The primary organization of her profession, though her relationship with it is contentious—she frequently challenges their orthodoxies.
 - **The Circle of Natural Philosophy**: A secret society of reform-minded scholars who meet to discuss radical new ideas beyond the scrutiny of traditionalists.
 
-### Plot Hooks
+## Plot Hooks
 
 1. **The Plague Returns**: A messenger arrives at Júthâra's laboratory bearing news that symptoms matching the plague she once fought have appeared in three different settlements simultaneously—far too coordinated to be natural spread. Investigation suggests someone may be deliberately spreading the disease. Júthâra must decide whether to alert the authorities (risking her research being seized) or investigate covertly, which requires assistance from people of action she doesn't naturally trust.
 

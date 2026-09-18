@@ -16,7 +16,6 @@ shortcode: aldwngrylng
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: null
   templatePriority: null
   archetypes: []
   occupation: Beggar
@@ -549,11 +548,11 @@ sohl:
     defaultCombatGroup: null
 ---
 
-## Appearance {#appearance}
+# Appearance {#appearance}
 
 Aldwin Grayling is a 48-year-old man who stands 6'0" tall and is of moderate build. He has a heart-shaped face with broad cheekbones, a smooth forehead, and an angular jaw that leads to a rounded chin. His sharp green eyes sit beneath straight brows, lending him an incisive gaze. A slightly upturned nose and narrow lips complete his features. He has fair skin with a fair complexion. His dark brown hair is short and swept back.
 
-## Dossier {#dossier}
+# Dossier {#dossier}
 
 Born in the Aelwyth region to a freeman family of Aelwythan heritage, Aldwin Grayling came into the world of the beggar through a combination of circumstance and aptitude.
 
@@ -561,37 +560,37 @@ Harlon once worked as a farmhand but lost his job after a poor harvest left the 
 
 Now at 48 years of age, Aldwin Grayling has established himself as a known figure among the beggars of Aelwyth. His reputation, for better or worse, precedes him in the circles where such things matter.
 
-### Psyche
+## Psyche
 
-#### Personality
+### Personality
 
 Stubborn and finds it hard to accept charity.
 
-#### Motivation
+### Motivation
 
 Aldwin's driving force is the search that defines his life — a quest that shapes every decision he makes and every risk he takes.
 
-#### Strengths
+### Strengths
 
 Resilient and hard-working, retains some basic farming skills.
 
-### Social
+## Social
 
 Aldwin is affiliated with None.
 
 As a Aelwythan beggar, Aldwin occupies a recognized social niche within Aelwyth society.
 
-### Companions
+## Companions
 
-#### Patrons
+### Patrons
 
 Aldwin's primary patron is Occasionally helped by former farm acquaintances.. This relationship provides both opportunity and obligation.
 
-#### Enemies
+### Enemies
 
 Guards who harass vagrants.
 
-### Plot Hooks
+## Plot Hooks
 
 1. **The Beggar's Dilemma** — Aldwin faces a professional crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Aelwyth.
 

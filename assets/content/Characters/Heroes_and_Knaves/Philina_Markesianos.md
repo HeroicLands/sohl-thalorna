@@ -15,7 +15,6 @@ shortcode: phlnmrksns
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: phlnmrksns
   templatePriority: null
   archetypes: []
   occupation: Hideworker
@@ -594,13 +593,13 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Philína Markêsianos](images/beings/characters/phlnmrksns.webp){float: top-left}
+# Appearance {#appearance}
 
-## Appearance {#appearance}
+![[phlnmrksns|Philína Markêsianos]]{float: top-left}
 
 Philína stands 5'8" tall with a light build. She has golden-toned skin, dark brown hair, and green eyes. Her features include an oval face, a strong nose, a pointed chin, slightly pursed lips, dark brows.
 
-## Dossier {#dossier}
+# Dossier {#dossier}
 
 **Daughter of Artisans**
 
@@ -620,9 +619,9 @@ Following her mother's death when Philína was twenty-four, she made a significa
 
 She established her own small workshop in a modest area of Byzaris, but her reputation was such that wealthy clients sought her out. Now, four years into her independent practice, she has built a thriving business and has begun to mentor younger women in the craft, deliberately breaking the traditional pattern where knowledge of the highest-level hideworking techniques was passed from fathers to sons. Her workshop has become a gathering place for women interested in leather artistry, and she has earned a quiet reputation as someone willing to challenge the traditional hierarchies of the craft.
 
-### Psyche
+## Psyche
 
-#### Personality
+### Personality
 
 Philína is a woman of quiet intensity and reserved warmth. She does not seek attention or accolades, yet they seem to find her through the sheer quality of her work. In conversation, she is thoughtful and deliberate, choosing her words with the same care she applies to selecting materials for a project. She listens far more than she speaks, and when she does offer an opinion, it tends to be insightful and worth considering.
 
@@ -630,11 +629,11 @@ Her primary passion is her work. Most of her waking hours are spent in her works
 
 She carries herself with quiet confidence that sometimes reads as aloofness to those unfamiliar with her. In reality, she is simply deeply absorbed in her own thoughts and perceptions. She is patient with those who seek to learn from her, though her standards are exacting. She has little patience for pretense or artifice and greatly prefers the company of artisans and craftspeople to that of the wealthy patrons who commission her work, though she interacts with the latter with consistent professionalism and grace.
 
-#### Motivation
+### Motivation
 
 Philína seeks to elevate hideworking from the status of a mere trade to that of a recognized fine art. She believes that leather, properly worked and decorated, can be as beautiful and meaningful as paint on canvas or stone sculpture, yet the art form receives far less respect and recognition. Her ultimate goal is to create a body of work so undeniably beautiful and significant that it forces the broader world to recognize the hideworker's craft as equal to any other artistic discipline. Additionally, she is motivated by a desire to create opportunities for other women in the craft, to demonstrate that artistic excellence knows no gender, and to establish a tradition of female hideworkers whose contributions are documented and remembered.
 
-#### Strengths
+### Strengths
 
 - **Artistic Vision and Technical Mastery**: Philína combines an exceptional aesthetic sense with deep technical knowledge of her craft. She understands the properties of different types of leather, the chemistry of dyes, and the precise techniques required to execute complex designs with perfect precision.
 
@@ -646,7 +645,7 @@ Philína seeks to elevate hideworking from the status of a mere trade to that of
 
 - **Mentorship and Teaching**: Though she has trained informally rather than through traditional guild apprenticeships, she is an effective teacher capable of conveying both technique and the philosophical approach to craftsmanship that underlies her work.
 
-#### Weaknesses
+### Weaknesses
 
 - **Physical Limitations**: While skilled and strong for her frame, she lacks the sheer physical power that male hideworkers often possess. Large-scale projects requiring the working of thick, stiff hides are more difficult for her, though her technical skill often compensates.
 
@@ -658,9 +657,9 @@ Philína seeks to elevate hideworking from the status of a mere trade to that of
 
 - **Vulnerability to Prejudice**: Despite her undeniable talent, she remains subject to gender-based prejudice within the hideworking trade and the broader community. Some simply refuse to acknowledge that a woman could achieve the level of skill she has demonstrated.
 
-### Social
+## Social
 
-#### Patrons
+### Patrons
 
 - **Lady Theodora Kallisthenes**: A wealthy widow and patron of the arts who has become Philína's most consistent and generous patron. Theodora commissions regular pieces from Philína and has begun to introduce her work to other members of the city's artistic and intellectual circles.
 
@@ -668,7 +667,7 @@ Philína seeks to elevate hideworking from the status of a mere trade to that of
 
 - **High Priestess Irene of Vénusia**: A priestess of the goddess of prosperity who has commissioned ceremonial leather garments and artifacts from Philína for use in ritual contexts.
 
-#### Enemies
+### Enemies
 
 - **Master Theron of the Hideworkers' Guild**: The formal master of the guild who views Philína's independence and her rejection of traditional apprenticeship structures as a threat to the guild's authority and coherence. He has attempted to pressure her into formally joining the guild and submitting to its regulations.
 
@@ -676,13 +675,13 @@ Philína seeks to elevate hideworking from the status of a mere trade to that of
 
 - **Traditional Craft Conservatives**: Members of the older generation of hideworkers who view her innovations and her willingness to challenge traditional methods as disrespectful to the accumulated knowledge of the craft.
 
-#### Affiliations
+### Affiliations
 
 - **Independent Artisan Network**: Though she maintains no formal guild affiliation, she is part of an informal network of independent craftspeople in Byzaris who support and promote each other's work.
 
 - **The Women's Artistic Collective**: A newer organization dedicated to promoting the work of female artists and craftspeople in all disciplines. Philína is increasingly being called upon as a representative of the organization.
 
-### Plot Hooks
+## Plot Hooks
 
 1. **The Collector's Commission**: A wealthy collector from a distant city arrives in Byzaris searching for **Philína Markêsianos** specifically. This person—known only as **The Antiquary**—is willing to pay an unprecedented sum for Philína to undertake a commission that is deeply unusual: to recreate a set of ceremonial leather garments from ancient texts and fragments, garments that supposedly held significant magical or spiritual power. The Antiquary claims to have sources that indicate what these garments looked like and roughly how they were constructed, but the project will require Philína to work with materials and techniques that go beyond her current knowledge. More troublingly, The Antiquary seems to know things about Philína's family history and her parents' work that suggest they may have been involved in creating similar items in the past—items her parents never mentioned to her.
 

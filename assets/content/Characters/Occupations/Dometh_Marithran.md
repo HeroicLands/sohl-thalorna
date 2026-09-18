@@ -17,7 +17,6 @@ shortcode: dmthmrthrn
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: null
   templatePriority: null
   archetypes: []
   occupation: Thespian
@@ -551,11 +550,11 @@ sohl:
     defaultCombatGroup: null
 ---
 
-## Appearance {#appearance}
+# Appearance {#appearance}
 
 Dómeth Maríthran is a 36-year-old man who stands 5'9" tall and is of moderate build. He has a square face with sharp cheekbones, a wide forehead, and a sharp jaw that leads to a firm chin. His piercing amber eyes sit beneath straight brows, lending him a penetrating gaze. An aquiline nose and expressive lips complete his features. He has tanned skin with a weathered complexion. His brown hair is shorn at the sides with length on top.
 
-## Dossier {#dossier}
+# Dossier {#dossier}
 
 Born in the Tarvénia region to a guilded family of Tarvénan heritage, Dómeth Maríthran came into the world of the thespian through a combination of circumstance and aptitude.
 
@@ -563,37 +562,37 @@ Alaric is a seasoned actor known for his dramatic performances in the city's mos
 
 Now at 36 years of age, Dómeth Maríthran has established himself as a known figure among the thespians of Tarvénia. His reputation, for better or worse, precedes him in the circles where such things matter.
 
-### Psyche
+## Psyche
 
-#### Personality
+### Personality
 
 Struggles with insecurity, prone to fits of melancholy.
 
-#### Motivation
+### Motivation
 
 Dómeth is driven by the desire to master his craft and secure a stable future. The uncertainties of life in thespian work keep him vigilant and adaptable.
 
-#### Strengths
+### Strengths
 
 Skilled actor, talented at captivating an audience, strong stage presence.
 
-### Social
+## Social
 
 Dómeth is affiliated with City Theater Company.
 
 As a Tarvénan thespian, Dómeth occupies a recognized social niche within Tarvénia society.
 
-### Companions
+## Companions
 
-#### Patrons
+### Patrons
 
 Dómeth's primary patron is Wealthy patrons who fund his theater.. This relationship provides both opportunity and obligation.
 
-#### Enemies
+### Enemies
 
 Rival actors who resent his success.
 
-### Plot Hooks
+## Plot Hooks
 
 1. **The Thespian's Dilemma** — Dómeth faces a professional crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Tarvénia.
 

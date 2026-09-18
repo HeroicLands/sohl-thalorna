@@ -16,7 +16,6 @@ shortcode: dnstnhlmsly
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: null
   templatePriority: null
   archetypes: []
   occupation: Chieftain
@@ -548,11 +547,11 @@ sohl:
     defaultCombatGroup: null
 ---
 
-## Appearance {#appearance}
+# Appearance {#appearance}
 
 Dunstan Helmsley is a 49-year-old man who stands 6'5" tall and is broad and solidly built. He has a long face with broad cheekbones, a narrow forehead, and a strong jaw that leads to a firm chin. His large brown eyes sit beneath expressive brows, lending him an expressive gaze. A straight nose and narrow lips complete his features. He has fair skin with a pale complexion. His red hair is combed neatly to one side.
 
-## Dossier {#dossier}
+# Dossier {#dossier}
 
 Born in the Aelwyth region to a noble family of Aelwythan heritage, Dunstan Helmsley came into the world of the chieftain through a combination of circumstance and aptitude.
 
@@ -560,37 +559,37 @@ Eirik, known as "Stonehand" for his immense strength, leads a clan that values m
 
 Now at 49 years of age, Dunstan Helmsley has established himself as a known figure among the chieftains of Aelwyth. His reputation, for better or worse, precedes him in the circles where such things matter.
 
-### Psyche
+## Psyche
 
-#### Personality
+### Personality
 
 Poor diplomat, often resorts to aggression over negotiation.
 
-#### Motivation
+### Motivation
 
 Dunstan is driven by the desire to master his craft and secure a stable future. The uncertainties of life in chieftain work keep him vigilant and adaptable.
 
-#### Strengths
+### Strengths
 
 Exceptional strength and combat skills, commands respect from warriors.
 
-### Social
+## Social
 
 Dunstan is affiliated with Warrior's Circle.
 
 As a Aelwythan chieftain, Dunstan occupies a recognized social niche within Aelwyth society.
 
-### Companions
+## Companions
 
-#### Patrons
+### Patrons
 
 Dunstan's primary patron is Clan warriors who value strength and honor.. This relationship provides both opportunity and obligation.
 
-#### Enemies
+### Enemies
 
 Neighboring chieftains who oppose his expansionist ambitions.
 
-### Plot Hooks
+## Plot Hooks
 
 1. **The Chieftain's Dilemma** — Dunstan faces a professional crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Aelwyth.
 

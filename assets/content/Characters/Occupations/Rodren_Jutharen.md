@@ -16,7 +16,6 @@ shortcode: rodrnjthrn
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: null
   templatePriority: null
   archetypes: []
   occupation: Miner
@@ -558,11 +557,11 @@ sohl:
     defaultCombatGroup: null
 ---
 
-## Appearance {#appearance}
+# Appearance {#appearance}
 
 Rodrén Jútharen is a 38-year-old man who stands 6'1" tall and is of moderate build. He has a long face with wide-set cheekbones, a lined forehead, and a square jaw that leads to a square chin. His hooded gray eyes sit beneath heavy brows, lending him a guarded gaze. An aquiline nose and firm lips complete his features. He has olive skin with an olive-toned complexion. His chestnut hair is shorn at the sides with length on top.
 
-## Dossier {#dossier}
+# Dossier {#dossier}
 
 Born in the Tarvénia region to a freeman family of Tarvénan heritage, Rodrén Jútharen came into the world of the miner through a combination of circumstance and aptitude.
 
@@ -570,37 +569,37 @@ Rollo was a free man until he was captured during a conflict and sold into slave
 
 Now at 38 years of age, Rodrén Jútharen has established himself as a known figure among the miners of Tarvénia. His reputation, for better or worse, precedes him in the circles where such things matter.
 
-### Psyche
+## Psyche
 
-#### Personality
+### Personality
 
 Reckless, often punished for his escape attempts.
 
-#### Motivation
+### Motivation
 
 Rodrén is driven by the desire to master his craft and secure a stable future. The uncertainties of life in miner work keep him vigilant and adaptable.
 
-#### Strengths
+### Strengths
 
 Determined, physically strong, skilled in mining and hard labor.
 
-### Social
+## Social
 
 Rodrén is affiliated with None; lacks the freedom to associate with any groups..
 
 As a Tarvénan miner, Rodrén occupies a recognized social niche within Tarvénia society.
 
-### Companions
+## Companions
 
-#### Patrons
+### Patrons
 
 Rodrén's primary patron is None; treated as expendable by his captors.. This relationship provides both opportunity and obligation.
 
-#### Enemies
+### Enemies
 
 Overseers who resent his rebellious nature.
 
-### Plot Hooks
+## Plot Hooks
 
 1. **The Miner's Dilemma** — Rodrén faces a professional crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Tarvénia.
 

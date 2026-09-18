@@ -16,7 +16,6 @@ shortcode: dmtrnkmnns
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: null
   templatePriority: null
   archetypes: []
   occupation: Town Guard
@@ -529,11 +528,11 @@ sohl:
     defaultCombatGroup: null
 ---
 
-## Appearance {#appearance}
+# Appearance {#appearance}
 
 Demétrion stands 5'10" with a medium, well-proportioned frame that moves with the measured deliberation of a career bureaucrat who happens to carry a sword. His dark blonde hair is receding and kept short, and his dark amber eyes are deeply set in an olive-skinned, fair-complexioned face that gives him a perpetually contemplative look. His features are regular and unremarkable — straight nose, thin lips, a jaw that is neither strong nor weak — the sort of face that is difficult to describe and easy to forget, which suits his work admirably. At thirty-nine, he has the slightly stooped posture of a man who reads too much. He wears the Byzarian city watch uniform with fastidious precision: every buckle aligned, every crease deliberate, his short sword polished but clearly ceremonial.
 
-## Dossier {#dossier}
+# Dossier {#dossier}
 
 Demétrion was born into a minor Byzarian merchant family and chose military service partly by inclination and partly by necessity when his family's business fell on difficult times. He joined the bazaar patrol at nineteen and discovered unexpected talent for the work. His career has been unremarkable in the ways that matter for advancement—he has no dramatic arrests, no famous cases—but he has been consistently effective at his work. He has become something of a legend in the bazaar for his ability to recognize trouble before it begins.
 
@@ -541,35 +540,35 @@ Now at thirty-nine, he commands the evening bazaar patrol and maintains order in
 
 Demétrion understands that his apparent unremarkability is one of his greatest assets. Criminals and corrupt merchants are watching for aggressive, obvious authority. They do not notice the sleepy-looking guard who seems to be doing paperwork. He has used this advantage for twenty years to become genuinely effective at his work.
 
-### Psyche
+## Psyche
 
-#### Personality
+### Personality
 
 Demétrion is quiet and observant, moving through the bazaar with minimal fanfare. He appears disengaged from the events around him but misses nothing. He is not particularly talkative and seems content in his own company. He has a dry sense of humor that emerges unexpectedly and surprises people who assume his quiet nature indicates lack of intelligence. He is methodical and patient, approaching problems with the deliberation of someone who expects complications.
 
-#### Motivation
+### Motivation
 
 Demétrion's primary motivation is maintaining functional order in a chaotic commercial environment. His secondary motivation is the intellectual satisfaction of recognizing patterns in criminal behavior that others miss. He has no ambitions for advancement and is content to remain in his current role until retirement.
 
-#### Strengths
+### Strengths
 
 His ability to read people and situations is exceptional. His pattern recognition in criminal behavior is sophisticated and reliable. He is patient with tedious investigation. His knowledge of the bazaar and its networks is comprehensive.
 
-### Social
+## Social
 
 Demétrion is barely noticed by most bazaar users, which is precisely how he prefers it. He is respected by merchants who understand that his quiet effectiveness benefits them, and he is feared by criminals who recognize that his unremarkable appearance masks genuine competence.
 
-### Companions
+## Companions
 
-#### Patrons
+### Patrons
 
 **Bazaar Master Karim al-Qahir** — The administrator responsible for bazaar operations. Karim respects Demétrion's competence and has supported him consistently. He pays him adequately and has ensured his position is protected from institutional changes.
 
-#### Enemies
+### Enemies
 
 **Crime Boss Jovan Blackjacket** — A criminal leader who operates protection rackets and black-market operations throughout the bazaar. Jovan is aware of Demétrion as an obstacle but also recognizes that Demétrion is not particularly ambitious and can sometimes be worked around. Their relationship is more complex than simple opposition; they have a grudging mutual respect.
 
-### Plot Hooks
+## Plot Hooks
 
 1. **The Pattern Recognition** — Demétrion's observations about bazaar behavior accumulate into a troubling pattern: someone is systematically identifying wealthy merchants and arranging their robbery or kidnapping for ransom. The crimes are separated by time and space enough that most observers see them as unrelated. Demétrion recognizes the orchestration. But when he brings his observations to Bazaar Master Karim, he learns that the criminals involved are protected by someone very powerful. The pattern suggests institutional corruption at a level above Karim's authority. Demétrion must choose between pursuing the investigation into dangerous territory or accepting that some crimes will remain unsolved.
 

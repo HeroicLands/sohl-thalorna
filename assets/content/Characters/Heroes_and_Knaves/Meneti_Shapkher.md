@@ -18,7 +18,6 @@ type: being
 data:
   banner: takheperubnr
   icon: sohl-none-icon-person
-  portrait: mentshpkhr
   templatePriority: null
   archetypes: []
   occupation: Bureaucrat
@@ -601,15 +600,15 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Meneti Shap'kher](images/beings/characters/mentshpkhr.webp){float: top-left}
-
 **Home:** [[place-khensuret|Khensuret]]
 
-## Appearance {#appearance}
+# Appearance {#appearance}
+
+![[mentshpkhr|Meneti Shap'kher]]{float: top-left}
 
 Meneti stands 5'5" tall with a light build. She has ebony skin, deep black hair, and brown eyes. Her features include a long face, a slightly arched nose, a narrow chin, full lips, elegantly curved brows.
 
-## Dossier {#dossier}
+# Dossier {#dossier}
 
 Meneti was born into the merchant-class Shapkher clan, known for their integrity in trade. Her father, a trader in fine linens, instilled in her an obsessive attention to detail and a belief that honesty was the only sustainable practice. At fourteen, she entered the service of a minor official in the Treasury, initially as a scribe's assistant. Her gift for spotting inconsistencies became apparent within months, and she was promoted through the bureaucratic ranks with unusual swiftness.
 
@@ -617,19 +616,19 @@ Over two decades, Meneti rose to the position of Senior Accountant and Principal
 
 Today, Meneti works almost exclusively on high-stakes audits and sensitive financial restructuring, trusted with the Empire's most guarded monetary secrets. Few dare cross her, and fewer still can match her in a game of numbers and inference.
 
-### Psyche
+## Psyche
 
-#### Personality
+### Personality
 
 Meneti is disciplined to the point of rigidity, with little patience for imprecision or dishonesty. She speaks in measured tones, often citing specific dates, figures, and precedents rather than opinions. Yet beneath her austere exterior runs a dry wit and an unexpected love of irony—she finds dark humor in the elaborate justifications corrupt officials provide for their theft. Despite her frosty demeanor in professional settings, those few who know her well describe a woman capable of surprising warmth and loyalty.
 
 She harbors a quiet contempt for those she deems intellectually lazy, and believes that most problems in the world stem from poor accounting practices and insufficient oversight. Her greatest fear is irrelevance—the idea that her meticulous work might be ignored or undone by political whim terrifies her more than any sword.
 
-#### Motivation
+### Motivation
 
 Meneti is driven by an almost religious belief in the power of transparency and the moral imperative of correct accounting. Every ledger she balances is a small victory against chaos. While many bureaucrats serve for power or wealth, she serves because she genuinely believes that accurate accounts are the foundation of just governance. She is motivated as well by a desire to prove that integrity and talent, not birthright or connections, should determine advancement—even as she knows how thoroughly the system contradicts this principle.
 
-#### Strengths
+### Strengths
 
 - **Master of Financial Forensics**: Meneti can reconstruct complex financial crimes from fragmented records, spotting patterns invisible to ordinary auditors. Her methodology is legendary among the Empire's financial institutions.
 - **Unassailable Integrity**: In a realm of shifting allegiances, her honesty is absolute. She cannot be bribed, intimidated, or logically talked out of her conclusions.
@@ -637,7 +636,7 @@ Meneti is driven by an almost religious belief in the power of transparency and 
 - **Written Authority**: Her authored reports carry the weight of imperial law. Judges and ministers treat her conclusions as near-inviolable.
 - **Exceptional Perception**: Her keen eye extends beyond numbers; she reads people with the same precision she applies to accounts.
 
-#### Weaknesses
+### Weaknesses
 
 - **Isolation by Design**: Her ruthless efficiency has made her feared and resented. She has few genuine friends and no family within the court.
 - **Predictability**: Those who know her well can anticipate her methods and conclusions. Her logic is elegant but followable.
@@ -645,26 +644,26 @@ Meneti is driven by an almost religious belief in the power of transparency and 
 - **Moral Rigidity**: She struggles with moral complexity and gray areas. Situations requiring compromise or tactical dishonesty leave her paralyzed.
 - **Obsessive Tendency**: Once she begins an investigation, she cannot rest until it is concluded. This has cost her relationships and nearly cost her her health more than once.
 
-### Social
+## Social
 
-#### Patrons
+### Patrons
 
 - **Khassetep, Treasury Minister**: The powerful minister who discovered Meneti's talents and shields her from political enemies. Their partnership is mutually beneficial—she provides him the evidence to consolidate power, he provides her with protection and authority.
 - **The Inspector General's Office**: Various officials in this body turn to her for sensitive audits when they need conclusions they can absolutely trust.
 
-#### Enemies
+### Enemies
 
 - **The Crimson Syndicate**: A network of corrupt officials and merchant-lords who lost hundreds of thousands of dinars to her investigations. They have placed a quiet bounty on her, though none have dared act openly.
 - **Irentep the Iron**: A disgraced former Treasury Minister whose embezzlement Meneti exposed seven years ago. He now works in exile, spreading rumors that she fabricated evidence against him.
 - **The Provincial Governors' Council**: Her investigations into irregular tribute payments have made her a target of provincial elites who depend upon those irregularities for their wealth.
 
-#### Affiliations
+### Affiliations
 
 - **The Imperial Treasury**: Her primary institution and the source of her authority.
 - **The Scribes' Guild of [[affiliation-empirtkhpr|Ta'Kheperu]]**: She maintains formal membership, though she rarely participates in guild activities.
 - **The Order of Hâpi**: A religious devotional order dedicated to Hâpi, god of prosperity and the inundation. She maintains private worship and donates portions of her salary to their works.
 
-### Plot Hooks
+## Plot Hooks
 
 1. **The Phantom Accounts**: Meneti discovers a set of ledgers within the Treasury itself showing transactions that do not appear in any official record. These accounts detail payments to unnamed entities totaling millions of dinars over the past five years. Investigation suggests that **Khassetep** himself may be running a secret operation—but whose operation is it? Is he embezzling, or is he acting under orders from someone higher in the imperial hierarchy? Meneti must navigate between her loyalty to her patron, her obligation to truth, and the very real possibility that exposing this will make her a marked woman.
 

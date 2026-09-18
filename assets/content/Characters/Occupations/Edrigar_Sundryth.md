@@ -16,7 +16,6 @@ shortcode: edrgrsndryth
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: null
   templatePriority: null
   archetypes: []
   occupation: Miner
@@ -551,11 +550,11 @@ sohl:
     defaultCombatGroup: null
 ---
 
-## Appearance {#appearance}
+# Appearance {#appearance}
 
 Edrígar Sundrýth is a 45-year-old man who stands 6'1" tall and is broad and solidly built. He has an angular face with sharp cheekbones, a wide forehead, and an angular jaw that leads to a square chin. His bright brown eyes sit beneath prominent brows, lending him a lively gaze. A straight nose and wide lips complete his features. He has light skin with a rough complexion. His auburn hair is pulled back in a warrior's knot.
 
-## Dossier {#dossier}
+# Dossier {#dossier}
 
 Born in the Vrystwald region to a freeman family of Varokhi heritage, Edrígar Sundrýth came into the world of the miner through a combination of circumstance and aptitude.
 
@@ -563,37 +562,37 @@ Garrick is a veteran miner with decades of experience in the field. He has worke
 
 Now at 45 years of age, Edrígar Sundrýth has established himself as a known figure among the miners of Vrystwald. His reputation, for better or worse, precedes him in the circles where such things matter.
 
-### Psyche
+## Psyche
 
-#### Personality
+### Personality
 
 Can be resistant to change, struggles with the physical demands of mining due to age.
 
-#### Motivation
+### Motivation
 
 Edrígar is driven by the desire to master his craft and secure a stable future. The uncertainties of life in miner work keep him vigilant and adaptable.
 
-#### Strengths
+### Strengths
 
 Highly knowledgeable, excellent mentor, strong work ethic.
 
-### Social
+## Social
 
 Edrígar is affiliated with Local Miners' Union.
 
 As a Varokhi miner, Edrígar occupies a recognized social niche within Vrystwald society.
 
-### Companions
+## Companions
 
-#### Patrons
+### Patrons
 
 Edrígar's primary patron is Mining companies and local jewelers seeking expert advice.. This relationship provides both opportunity and obligation.
 
-#### Enemies
+### Enemies
 
 Few; generally respected but sometimes viewed as old-fashioned.
 
-### Plot Hooks
+## Plot Hooks
 
 1. **The Miner's Dilemma** — Edrígar faces a professional crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Vrystwald.
 

@@ -16,7 +16,6 @@ shortcode: prthmjkydr
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: prthmjkydr
   templatePriority: null
   archetypes: []
   occupation: Jeweller
@@ -599,13 +598,13 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Prthîmâja Kâyadara](images/beings/characters/prthmjkydr.webp){float: top-left}
+# Appearance {#appearance}
 
-## Appearance {#appearance}
+![[prthmjkydr|Prthîmâja Kâyadara]]{float: top-left}
 
 Prthîmâja stands 5'6" tall with a medium build. He has light golden skin, black hair, and brown eyes. His features include a round face, a broad nose, a tapered chin, generous lips, thick dark brows, high cheeks.
 
-## Dossier {#dossier}
+# Dossier {#dossier}
 
 Prthîmâja was born in the city of Chandrapur to a family of respected jewellers, though not of the first rank. His father, Vardhaman, was a competent stone-setter of modest renown, skilled at the technical aspects of his craft but lacking the creative vision that transforms gems into transcendent beauty. Young Prthîmâja displayed his creative gift early, spending hours studying how light refracted through uncut stones, experimenting with angles and facets that his father dismissed as wasteful deviation from proven techniques.
 
@@ -613,9 +612,9 @@ At age twelve, Prthîmâja was apprenticed to Mahendra the Illuminator, master j
 
 For the next sixteen years, Prthîmâja built his reputation through meticulous work and genuine innovation. He developed new techniques for cutting stones of particular colors, discovered that certain gem combinations enhanced each other's resonance, and created pieces that seemed to contain trapped light. His workshop in Vedyara became a destination for wealthy patrons from across the known world. Yet his success has been accompanied by rising anxiety—the perfectionism that drives his artistry has begun to poison his life, the business demands of managing commissions threatening to overwhelm his ability to create.
 
-### Psyche
+## Psyche
 
-#### Personality
+### Personality
 
 Prthîmâja is a man of profound internal paradox: extraordinary dedication to craft coexists with creeping paralysis regarding business and life decisions. When working with stone and metal, he is confident, decisive, creative—capable of making split-second decisions about how to proceed with a stone that is irreplaceable and costly. Yet when managing the business side of his craft, negotiating commissions, or managing his personal life, he second-guesses endlessly.
 
@@ -623,11 +622,11 @@ He is deeply introverted, preferring the company of stones and metals to people.
 
 He is driven by a philosophical question that troubles him: at what point does the pursuit of perfection become a form of spiritual death? He wonders if his obsessive refinement of craft has atrophied his ability to experience life as other humans do.
 
-#### Motivation
+### Motivation
 
 Prthîmâja seeks to create lasting beauty that outlasts human years, objects that carry meaning beyond their material value. He wants his gems and metalwork to become legendary, to be spoken of generations hence as examples of human achievement at the highest level. Simultaneously, he is increasingly drawn to a different motivation: the desire to break free from the pursuit of perfection and experience life's messier, more human dimensions. He wants to travel beyond the workshop, to see the world his materials come from, to perhaps find love or friendship that exists beyond the transactional relationship of patron and artisan.
 
-#### Strengths
+### Strengths
 
 - **Unparalleled Gem-Cutting Mastery**: Prthîmâja's skill at identifying the optimal cut for any stone, understanding how light plays through facets and how to maximize a gem's inherent beauty, is acknowledged as the finest in the City-States. He can rescue gems other cutters would consider flawed, transforming them into transcendent pieces.
 
@@ -639,7 +638,7 @@ Prthîmâja seeks to create lasting beauty that outlasts human years, objects th
 
 - **Creator of Legendary Artifacts**: Several of his pieces have become objects of veneration or legend. A gem he cut twenty years ago is said to grant the wearer clarity of vision; another supposedly brings peace to troubled minds. While Prthîmâja credits the legends to projection, the belief in his work's power is powerful.
 
-#### Weaknesses
+### Weaknesses
 
 - **Obsessive Perfectionism**: Prthîmâja's demand for perfection often paralyzes him. He may spend weeks deciding how to approach a stone, missing deadlines and disappointing patrons, or abandon pieces that are technically flawless because they fail to match his internal vision of perfection.
 
@@ -651,9 +650,9 @@ Prthîmâja seeks to create lasting beauty that outlasts human years, objects th
 
 - **Vulnerability to Manipulation**: Because he craves connection and doubts his own judgment, Prthîmâja is susceptible to being taken advantage of by those who offer friendship or recognition. Patrons sometimes exploit his desire to please, commissioning work at rates he cannot afford while convincing him it is an honor.
 
-### Social
+## Social
 
-#### Patrons
+### Patrons
 
 - **Lady Chandrika Deshpande**: A noblewoman of impeccable taste who has patronized Prthîmâja's work for twelve years, commissioning increasingly ambitious pieces. She has become his closest confidant, though neither has articulated the affection that has grown between them. She represents both his greatest patron and his most significant emotional entanglement.
 
@@ -663,7 +662,7 @@ Prthîmâja seeks to create lasting beauty that outlasts human years, objects th
 
 - **Master Mahendra's Heirs**: The family of his former teacher continues to commission his work and has become something like family, particularly Mahendra's granddaughter Sunita, who shares his love of creative problem-solving.
 
-#### Enemies
+### Enemies
 
 - **Kalmesh the Ambitious**: A younger jeweler of growing skill who views Prthîmâja as an obstacle to his own ambitions. Kalmesh spreads rumors that Prthîmâja's innovative techniques are merely fashionable affectations, that his reputation exceeds his actual skill. He undercuts prices aggressively and has begun poaching Prthîmâja's apprentices.
 
@@ -671,7 +670,7 @@ Prthîmâja seeks to create lasting beauty that outlasts human years, objects th
 
 - **The Guild Council's Conservative Faction**: Certain guild masters view Prthîmâja's innovations with suspicion, fearing that his experimental techniques violate traditional craft standards and compromise the guild's integrity. They have moved to restrict his teaching and limit access to the finest raw materials.
 
-#### Affiliations
+### Affiliations
 
 - **The Jewellers' Guild of Vedyara**: Prthîmâja is a master member in full standing, though his relationship with certain factions is strained due to methodological disagreements.
 
@@ -679,7 +678,7 @@ Prthîmâja seeks to create lasting beauty that outlasts human years, objects th
 
 - **The Artisans' Collective**: An informal network of master craftspeople from various disciplines who gather monthly to discuss techniques, challenges, and philosophical questions about their work.
 
-### Plot Hooks
+## Plot Hooks
 
 1. **The Impossible Commission**: A mysterious patron of unknown origin approaches Prthîmâja with a commission for a piece of extraordinary ambition: a gem that must somehow contain and display light from a distant star, making the star's light visible to the naked eye even in daylight. The patron offers a price sufficient to retire Prthîmâja for life—far more than the work should rationally be worth. The specification seems physically impossible, yet the patron seems certain it can be achieved. Investigation reveals that this patron may be connected to forces both powerful and dangerous, and the gem, if successfully created, would be sought by multiple factions for reasons Prthîmâja cannot fully understand. Accepting the commission risks his life; refusing it means letting the greatest artistic challenge of his existence pass him by.
 

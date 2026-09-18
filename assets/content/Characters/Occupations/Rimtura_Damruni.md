@@ -16,7 +16,6 @@ shortcode: rimturdmrn
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: null
   templatePriority: null
   archetypes: []
   occupation: Litigant
@@ -552,11 +551,11 @@ sohl:
     defaultCombatGroup: null
 ---
 
-## Appearance {#appearance}
+# Appearance {#appearance}
 
 Rimtûra Damrûnî is a 32-year-old woman who stands 5'8" tall and is slender. She has a long face with broad cheekbones, a high forehead, and a strong jaw that leads to a pointed chin. Her wide-set dark brown eyes sit beneath arched brows, lending her an open gaze. A strong nose and narrow lips complete her features. She has olive-tanned skin with a sun-tanned complexion. Her black hair is tucked beneath a kerchief.
 
-## Dossier {#dossier}
+# Dossier {#dossier}
 
 Born in the Harad region to a noble family of Haradian heritage, Rimtûra Damrûnî came into the world of the litigant through a combination of circumstance and aptitude.
 
@@ -564,37 +563,37 @@ Isolde is a skilled litigator specializing in family law and inheritance dispute
 
 Now at 32 years of age, Rimtûra Damrûnî has established herself as a known figure among the litigants of Harad. Her reputation, for better or worse, precedes her in the circles where such things matter.
 
-### Psyche
+## Psyche
 
-#### Personality
+### Personality
 
 Can be overly empathetic, struggles with taking on too much emotional weight from her cases.
 
-#### Motivation
+### Motivation
 
 Rimtûra is driven by the desire to master her craft and secure a stable future. The uncertainties of life in litigant work keep her vigilant and adaptable.
 
-#### Strengths
+### Strengths
 
 Strong interpersonal skills, adept at mediation, compassionate.
 
-### Social
+## Social
 
 Rimtûra is affiliated with Litigant's Guild.
 
 As a Haradian litigant, Rimtûra occupies a recognized social niche within Harad society.
 
-### Companions
+## Companions
 
-#### Patrons
+### Patrons
 
 Rimtûra's primary patron is Families seeking legal advice and representation.. This relationship provides both opportunity and obligation.
 
-#### Enemies
+### Enemies
 
 Few; respected in her field but occasionally faces skepticism from more traditional litigators.
 
-### Plot Hooks
+## Plot Hooks
 
 1. **The Litigant's Dilemma** — Rimtûra faces a professional crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Harad.
 

@@ -16,7 +16,6 @@ shortcode: trsrthldrn
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: null
   templatePriority: null
   archetypes: []
   occupation: Yeoman Infantry
@@ -548,11 +547,11 @@ sohl:
     defaultCombatGroup: null
 ---
 
-## Appearance {#appearance}
+# Appearance {#appearance}
 
 Tórsaro Thalídran is a 29-year-old man who stands 6'0" tall and is of moderate build. He has an angular face with angular cheekbones, a smooth forehead, and a strong jaw that leads to a prominent chin. His almond-shaped black eyes sit beneath prominent brows, lending him a measured gaze. A strong nose and thin lips complete his features. He has medium-toned skin with a smooth complexion. His black hair is kept practical and short.
 
-## Dossier {#dossier}
+# Dossier {#dossier}
 
 Born in the Tarvénia region to a freeman family of Tarvénan heritage, Tórsaro Thalídran came into the world of the yeoman infantry through a combination of circumstance and aptitude.
 
@@ -560,37 +559,37 @@ Oswin grew up on a farm, but his strength and eagerness to serve led him to the 
 
 Now at 29 years of age, Tórsaro Thalídran has established himself as a known figure among the yeoman infantrys of Tarvénia. His reputation, for better or worse, precedes him in the circles where such things matter.
 
-### Psyche
+## Psyche
 
-#### Personality
+### Personality
 
 Lacks the experience of older soldiers, sometimes impulsive.
 
-#### Motivation
+### Motivation
 
 Tórsaro is driven by the desire to master his craft and secure a stable future. The uncertainties of life in yeoman infantry work keep him vigilant and adaptable.
 
-#### Strengths
+### Strengths
 
 Agile, quick learner, strong in close combat.
 
-### Social
+## Social
 
 Tórsaro is affiliated with Local Militia.
 
 As a Tarvénan yeoman infantry, Tórsaro occupies a recognized social niche within Tarvénia society.
 
-### Companions
+## Companions
 
-#### Patrons
+### Patrons
 
 Tórsaro's primary patron is Local militia leader who saw potential in him.. This relationship provides both opportunity and obligation.
 
-#### Enemies
+### Enemies
 
 Bandits who often raid the countryside.
 
-### Plot Hooks
+## Plot Hooks
 
 1. **The Yeoman Infantry's Dilemma** — Tórsaro faces a professional crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Tarvénia.
 

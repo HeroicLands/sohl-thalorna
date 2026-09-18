@@ -16,7 +16,6 @@ shortcode: lamzudamik
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: null
   templatePriority: null
   archetypes: []
   occupation: Scribe
@@ -551,11 +550,11 @@ sohl:
     defaultCombatGroup: null
 ---
 
-## Appearance {#appearance}
+# Appearance {#appearance}
 
 Lâmzû Damîkî is a 34-year-old man who stands 6'0" tall and is of moderate build. He has an oval face with sharp cheekbones, a prominent forehead, and a sharp jaw that leads to a strong chin. His bright brown eyes sit beneath straight brows, lending him a lively gaze. An aquiline nose and full lips complete his features. He has medium-toned skin with an olive-toned complexion. His brown hair is tied in a low tail.
 
-## Dossier {#dossier}
+# Dossier {#dossier}
 
 Born in the Harad region to a freeman family of Haradian heritage, Lâmzû Damîkî came into the world of the scribe through a combination of circumstance and aptitude.
 
@@ -563,37 +562,37 @@ Cedric is a humble scribe who works in a small village, transcribing important d
 
 Now at 34 years of age, Lâmzû Damîkî has established himself as a known figure among the scribes of Harad. His reputation, for better or worse, precedes him in the circles where such things matter.
 
-### Psyche
+## Psyche
 
-#### Personality
+### Personality
 
 Can be too generous, struggles with asserting himself in business matters.
 
-#### Motivation
+### Motivation
 
 Lâmzû is driven by the desire to master his craft and secure a stable future. The uncertainties of life in scribe work keep him vigilant and adaptable.
 
-#### Strengths
+### Strengths
 
 Friendly and approachable, skilled in transcription, community-oriented.
 
-### Social
+## Social
 
 Lâmzû is affiliated with Local Scribes' Guild.
 
 As a Haradian scribe, Lâmzû occupies a recognized social niche within Harad society.
 
-### Companions
+## Companions
 
-#### Patrons
+### Patrons
 
 Lâmzû's primary patron is Local villagers, farmers, and tradespeople seeking documentation.. This relationship provides both opportunity and obligation.
 
-#### Enemies
+### Enemies
 
 Few; generally well-liked, though some may take advantage of his generosity.
 
-### Plot Hooks
+## Plot Hooks
 
 1. **The Scribe's Dilemma** — Lâmzû faces a professional crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Harad.
 

@@ -17,7 +17,6 @@ shortcode: kelyrslthr
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: null
   templatePriority: null
   archetypes: []
   occupation: Bureaucrat
@@ -553,11 +552,11 @@ sohl:
     defaultCombatGroup: null
 ---
 
-## Appearance {#appearance}
+# Appearance {#appearance}
 
 Kélyra Sálthar is a 42-year-old woman who stands 5'5" tall and is slender. She has a heart-shaped face with prominent cheekbones, a high forehead, and a rounded jaw that leads to a delicate chin. Her bright blue eyes sit beneath arched brows, lending her a lively gaze. A delicate nose and wide lips complete her features. She has pale skin with a smooth complexion. Her auburn hair is twisted into an elaborate arrangement. A notable feature is a slight squint from years of reading by candlelight.
 
-## Dossier {#dossier}
+# Dossier {#dossier}
 
 Born in the Élavendre region to a guilded family of Élavendri heritage, Kélyra Sálthar came into the world of the bureaucrat through a combination of circumstance and aptitude.
 
@@ -565,37 +564,37 @@ Imogen comes from a family of civil servants and followed in their footsteps, wo
 
 Now at 42 years of age, Kélyra Sálthar has established herself as a known figure among the bureaucrats of Élavendre. Her reputation, for better or worse, precedes her in the circles where such things matter.
 
-### Psyche
+## Psyche
 
-#### Personality
+### Personality
 
 Often works late hours, leaving little time for personal relationships.
 
-#### Motivation
+### Motivation
 
 Kélyra is driven by the desire to master her craft and secure a stable future. The uncertainties of life in bureaucrat work keep her vigilant and adaptable.
 
-#### Strengths
+### Strengths
 
 Skilled in accounting and detecting financial irregularities.
 
-### Social
+## Social
 
 Kélyra is affiliated with Treasury Department.
 
 As a Élavendri bureaucrat, Kélyra occupies a recognized social niche within Élavendre society.
 
-### Companions
+## Companions
 
-#### Patrons
+### Patrons
 
 Kélyra's primary patron is The head of the treasury department who values her skills.. This relationship provides both opportunity and obligation.
 
-#### Enemies
+### Enemies
 
 Corrupt officials she has exposed.
 
-### Plot Hooks
+## Plot Hooks
 
 1. **The Bureaucrat's Dilemma** — Kélyra faces a professional crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Élavendre.
 

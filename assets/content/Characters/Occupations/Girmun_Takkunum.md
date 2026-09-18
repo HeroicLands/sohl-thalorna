@@ -17,7 +17,6 @@ shortcode: girmuntknm
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: null
   templatePriority: null
   archetypes: []
   occupation: Apothecary
@@ -554,11 +553,11 @@ sohl:
     defaultCombatGroup: null
 ---
 
-## Appearance {#appearance}
+# Appearance {#appearance}
 
 Girmûn Takkûnûm is a 52-year-old man who stands 5'7" tall and is of moderate build. He has a long face with angular cheekbones, a broad forehead, and a strong jaw that leads to a prominent chin. His sharp dark brown eyes sit beneath arched brows, lending him an incisive gaze. A straight nose and firm lips complete his features. He has warm golden skin with an olive-toned complexion. His gray hair is tied in a low tail.
 
-## Dossier {#dossier}
+# Dossier {#dossier}
 
 Born in the Harad region to a guilded family of Haradian heritage, Girmûn Takkûnûm came into the world of the apothecary through a combination of circumstance and aptitude.
 
@@ -566,37 +565,37 @@ Maerwin is a well-known apothecary in the city, often sought after for his knowl
 
 Now at 52 years of age, Girmûn Takkûnûm has established himself as a known figure among the apothecarys of Harad. His reputation, for better or worse, precedes him in the circles where such things matter.
 
-### Psyche
+## Psyche
 
-#### Personality
+### Personality
 
 Cynical and somewhat paranoid due to dealings with shady characters.
 
-#### Motivation
+### Motivation
 
 Girmûn is driven by the desire to master his craft and secure a stable future. The uncertainties of life in apothecary work keep him vigilant and adaptable.
 
-#### Strengths
+### Strengths
 
 Skilled in the preparation of medicinal herbs, excellent knowledge of local flora.
 
-### Social
+## Social
 
 Girmûn is affiliated with Apothecaries' Guild.
 
 As a Haradian apothecary, Girmûn occupies a recognized social niche within Harad society.
 
-### Companions
+## Companions
 
-#### Patrons
+### Patrons
 
 Girmûn's primary patron is Wealthy merchants and nobles who value his expertise.. This relationship provides both opportunity and obligation.
 
-#### Enemies
+### Enemies
 
 A rival apothecary who accuses him of underhanded business practices.
 
-### Plot Hooks
+## Plot Hooks
 
 1. **The Apothecary's Dilemma** — Girmûn faces a professional crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Harad.
 

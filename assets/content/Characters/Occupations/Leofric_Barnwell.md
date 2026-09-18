@@ -16,7 +16,6 @@ shortcode: lefrcbrnwl
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: null
   templatePriority: null
   archetypes: []
   occupation: Physician
@@ -552,11 +551,11 @@ sohl:
     defaultCombatGroup: null
 ---
 
-## Appearance {#appearance}
+# Appearance {#appearance}
 
 Leofric Barnwell is a 42-year-old man who stands 5'7" tall and is of moderate build. He has an oval face with defined cheekbones, a smooth forehead, and a rounded jaw that leads to a pointed chin. His sharp blue eyes sit beneath arched brows, lending him an incisive gaze. A narrow nose and curved lips complete his features. He has fair skin with a lightly freckled complexion. His brown hair is short and swept back.
 
-## Dossier {#dossier}
+# Dossier {#dossier}
 
 Born in the Aelwyth region to a noble family of Aelwythan heritage, Leofric Barnwell came into the world of the physician through a combination of circumstance and aptitude.
 
@@ -564,37 +563,37 @@ Dr. Alaric Hawthorne is a respected physician known for his extensive knowledge 
 
 Now at 42 years of age, Leofric Barnwell has established himself as a known figure among the physicians of Aelwyth. His reputation, for better or worse, precedes him in the circles where such things matter.
 
-### Psyche
+## Psyche
 
-#### Personality
+### Personality
 
 Can be overly focused on work, struggles with the emotional toll of his profession.
 
-#### Motivation
+### Motivation
 
 Leofric is driven by the desire to master his craft and secure a stable future. The uncertainties of life in physician work keep him vigilant and adaptable.
 
-#### Strengths
+### Strengths
 
 Highly knowledgeable, excellent bedside manner, skilled in diagnosis.
 
-### Social
+## Social
 
 Leofric is affiliated with Local Physicians' Guild.
 
 As a Aelwythan physician, Leofric occupies a recognized social niche within Aelwyth society.
 
-### Companions
+## Companions
 
-#### Patrons
+### Patrons
 
 Leofric's primary patron is Nobles and common folk alike seeking his medical expertise.. This relationship provides both opportunity and obligation.
 
-#### Enemies
+### Enemies
 
 Few; respected but has faced criticism from some traditionalists.
 
-### Plot Hooks
+## Plot Hooks
 
 1. **The Physician's Dilemma** — Leofric faces a professional crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Aelwyth.
 

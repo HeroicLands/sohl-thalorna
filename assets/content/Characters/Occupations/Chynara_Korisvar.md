@@ -16,7 +16,6 @@ shortcode: chynrkrsvr
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: null
   templatePriority: null
   archetypes: []
   occupation: Salter
@@ -553,11 +552,11 @@ sohl:
     defaultCombatGroup: null
 ---
 
-## Appearance {#appearance}
+# Appearance {#appearance}
 
 Chýnara Kórisvar is a 33-year-old woman who stands 6'1" tall and is of moderate build. She has a long face with wide-set cheekbones, a lined forehead, and an angular jaw that leads to a strong chin. Her large dark brown eyes sit beneath expressive brows, lending her an expressive gaze. A narrow nose and firm lips complete her features. She has fair skin with a clear complexion. Her dark brown hair is twisted into an elaborate arrangement.
 
-## Dossier {#dossier}
+# Dossier {#dossier}
 
 Born in the Provènzia region to a freeman family of Provenzian heritage, Chýnara Kórisvar came into the world of the salter through a combination of circumstance and aptitude.
 
@@ -565,37 +564,37 @@ Mabel has been working as a salter since she was a child, learning the trade fro
 
 Now at 33 years of age, Chýnara Kórisvar has established herself as a known figure among the salters of Provènzia. Her reputation, for better or worse, precedes her in the circles where such things matter.
 
-### Psyche
+## Psyche
 
-#### Personality
+### Personality
 
 Can be overly focused on work, struggles with self-care.
 
-#### Motivation
+### Motivation
 
 Chýnara is driven by the desire to master her craft and secure a stable future. The uncertainties of life in salter work keep her vigilant and adaptable.
 
-#### Strengths
+### Strengths
 
 Knowledgeable about salt production, hardworking, resourceful.
 
-### Social
+## Social
 
 Chýnara is affiliated with None; operates independently..
 
 As a Provenzian salter, Chýnara occupies a recognized social niche within Provènzia society.
 
-### Companions
+## Companions
 
-#### Patrons
+### Patrons
 
 Chýnara's primary patron is Local fishermen and merchants seeking high-quality salt.. This relationship provides both opportunity and obligation.
 
-#### Enemies
+### Enemies
 
 Few; generally well-respected, but some may compete for trade.
 
-### Plot Hooks
+## Plot Hooks
 
 1. **The Salter's Dilemma** — Chýnara faces a professional crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Provènzia.
 

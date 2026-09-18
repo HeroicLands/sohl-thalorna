@@ -18,7 +18,6 @@ type: being
 data:
   banner: takheperubnr
   icon: sohl-none-icon-person
-  portrait: tefnuthtwr
   templatePriority: null
   archetypes: []
   occupation: Toymaker
@@ -604,15 +603,15 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Tefnutî Het'Wera](images/beings/characters/tefnuthtwr.webp){float: top-left}
-
 **Home:** [[place-ankhsetun|Ankh-Setûn]]
 
-## Appearance {#appearance}
+# Appearance {#appearance}
+
+![[tefnuthtwr|Tefnutî Het'Wera]]{float: top-left}
 
 Tefnutî stands 5'10" tall with a medium build. He has warm amber skin, gray hair, and brown eyes. His features include an oval face, a noble nose, a smooth jawline, an expressive mouth, fine brows, angular cheeks.
 
-## Dossier {#dossier}
+# Dossier {#dossier}
 
 Tefnutî was born into a family of toymakers in the Empire of [[affiliation-empirtkhpr|Ta'Kheperu]], in a tradition stretching back seven generations. His great-grandfather had been commissioned by an imperial prince to create mechanical toys of extraordinary sophistication, work that established the family's reputation for innovation and precision. Tefnutî's own father, Hetmosis, had expanded the family trade significantly, introducing mechanisms of increasing complexity while maintaining a commitment to beauty and craftsmanship.
 
@@ -622,19 +621,19 @@ However, beginning in his forties, Tefnutî became increasingly troubled by what
 
 Now at fifty-one, Tefnutî maintains a prestigious workshop in the capital, where he continues to produce extraordinary works. However, the constant pressure from younger craftsmen and the changing market has made him bitter and defensive about his methods.
 
-### Psyche
+## Psyche
 
-#### Personality
+### Personality
 
 Tefnutî possesses a deeply paradoxical personality. In matters of craftsmanship, he is confident to the point of arrogance—he knows his work is extraordinary and has no patience for criticism of his techniques. Yet in social situations, he becomes almost diffident, preferring the company of machines and mechanisms to people. He is capable of surprising warmth with those who demonstrate genuine respect for craftsmanship, but he is swift to become cold and dismissive toward those he judges as lacking proper appreciation.
 
 He can be philosophically whimsical, expounding at length about the nature of time, motion, and mechanical perfection, but these flights of fancy are often followed by sharp criticism of others' inadequate understanding. He takes genuine pleasure in the work itself—the careful fitting of gears, the testing of mechanisms—but increasingly displays impatience with clients, viewing most patrons as interruptions to his craft rather than reasons for it.
 
-#### Motivation
+### Motivation
 
 Tefnutî's primary motivation is the creation of mechanical perfection—toys that function flawlessly, that embody harmonious design, and that will survive intact for generations. Underlying this is a fear: that in his absence, the techniques that took seven generations to develop will be lost to cheaper, faster, inferior methods. He works not merely for commission but as a form of legacy-building, creating works that will prove the superiority of traditional craftsmanship long after he is gone.
 
-#### Strengths
+### Strengths
 
 - **Extraordinary Mechanical Aptitude**: His lockcraft (14 with 5 specializations), combined with his high creativity (16), reasoning (15), and artistic skills (drawing 15, musician 15), allow him to conceive and execute mechanisms of astonishing complexity. Few living craftsmen can match his precision with clockwork.
 
@@ -646,7 +645,7 @@ Tefnutî's primary motivation is the creation of mechanical perfection—toys th
 
 - **Profound Understanding of Motion**: His knowledge of how mechanisms function at deep levels allows him to design toys and sculptures that perform with seemingly impossible fluidity and precision.
 
-#### Weaknesses
+### Weaknesses
 
 - **Intolerance of Modern Methods**: His creativity (16), while extraordinary for design, is constrained by his unwillingness to experiment with new materials or technologies. He views any deviation from traditional methods as inherent compromise, blinding him to potential improvements.
 
@@ -658,9 +657,9 @@ Tefnutî's primary motivation is the creation of mechanical perfection—toys th
 
 - **Declining Physical Capability**: His strength (11) and endurance (13) are declining with age, and his eyesight, while still precise for close work, deteriorates if forced to work for extended periods, requiring him to take more frequent breaks.
 
-### Social
+## Social
 
-#### Patrons
+### Patrons
 
 - **Lady Sekhmet Ashkahar**: An elderly widow of great wealth and refined taste who has become Tefnutî's primary patron over the past decade. She commissions elaborate mechanical sculptures for her private collection and appreciates his perfectionism as an expression of respect for craft itself.
 
@@ -670,19 +669,19 @@ Tefnutî's primary motivation is the creation of mechanical perfection—toys th
 
 - **Merchant Prince Kassor the Learned**: A collector of mechanical curiosities who maintains a private museum and commissions elaborate pieces specifically for display. Kassor pays exceptional prices and allows Tefnutî complete creative freedom, though he can be demanding about timelines.
 
-#### Enemies
+### Enemies
 
 - **Toymaker Mavrik the Innovator**: A successful younger toymaker who has built wealth through factory methods and newer materials that Tefnutî views as inferior. Mavrik has directly challenged Tefnutî's supremacy by advertising his toys as "superior because they are affordable" and has actively poached several of Tefnutî's potential clients. Mavrik sees Tefnutî as an arrogant relic and publicly questions whether his work is worth the extraordinary cost.
 
 - **Imperial Tax Assessor Renek Graystone**: A bureaucrat who has begun examining Tefnutî's finances closely, questioning how commissions that should be financially ruinous result in Tefnutî's continued wealth. Renek suspects hidden income or tax evasion and has become increasingly adversarial in his investigations.
 
-#### Affiliations
+### Affiliations
 
 - **the Toymakers' Guild of Ta'Kheperu**: Tefnutî holds membership and retains significant prestige within the guild, though he frequently clashes with guild leadership over standards and methods. He serves on the guild's standards committee, where he advocates for stricter quality requirements.
 
 - **the Het'Wera Craftsman Lineage**: An informal family legacy and tradition spanning seven generations, of which Tefnutî is the current master. He has become increasingly protective of family techniques and secretive about his methods.
 
-### Plot Hooks
+## Plot Hooks
 
 1. **The Rival's Theft**: Tefnutî discovers that his designs—exact reproductions of mechanisms and aesthetic approaches he developed—are being produced by Mavrik using factory methods. Someone has stolen detailed plans or documented his work in sufficient detail that his unique approaches can be copied. Tefnutî must determine who is responsible, how extensive the theft is, and how to prove intellectual ownership in a system not designed to protect craftspeople's designs.
 

@@ -16,7 +16,6 @@ shortcode: sfrsrkhmns
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: null
   templatePriority: null
   archetypes: []
   occupation: Yeoman Infantry
@@ -552,11 +551,11 @@ sohl:
     defaultCombatGroup: null
 ---
 
-## Appearance {#appearance}
+# Appearance {#appearance}
 
 Sàfîros Râkhmônis is a 42-year-old man who stands 6'3" tall and is broad and solidly built. He has an angular face with sharp cheekbones, a prominent forehead, and an angular jaw that leads to a prominent chin. His piercing hazel eyes sit beneath heavy brows, lending him a penetrating gaze. A strong nose and firm lips complete his features. He has tanned skin with an olive-toned complexion. His dark brown hair is tied in a low tail.
 
-## Dossier {#dossier}
+# Dossier {#dossier}
 
 Born in the Heliónis region to a freeman family of Helionite heritage, Sàfîros Râkhmônis came into the world of the yeoman infantry through a combination of circumstance and aptitude.
 
@@ -564,37 +563,37 @@ Berwin is a seasoned veteran who has fought in numerous skirmishes and battles. 
 
 Now at 42 years of age, Sàfîros Râkhmônis has established himself as a known figure among the yeoman infantrys of Heliónis. His reputation, for better or worse, precedes him in the circles where such things matter.
 
-### Psyche
+## Psyche
 
-#### Personality
+### Personality
 
 Gruff and demanding, struggles with delegating tasks.
 
-#### Motivation
+### Motivation
 
 Sàfîros is driven by the desire to master his craft and secure a stable future. The uncertainties of life in yeoman infantry work keep him vigilant and adaptable.
 
-#### Strengths
+### Strengths
 
 Strong, resilient, skilled in melee and defensive tactics.
 
-### Social
+## Social
 
 Sàfîros is affiliated with Local Militia.
 
 As a Helionite yeoman infantry, Sàfîros occupies a recognized social niche within Heliónis society.
 
-### Companions
+## Companions
 
-#### Patrons
+### Patrons
 
 Sàfîros's primary patron is The local lord who values his experience in training new recruits.. This relationship provides both opportunity and obligation.
 
-#### Enemies
+### Enemies
 
 Rival soldiers and mercenaries who have clashed with him in the past.
 
-### Plot Hooks
+## Plot Hooks
 
 1. **The Yeoman Infantry's Dilemma** — Sàfîros faces a professional crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Heliónis.
 

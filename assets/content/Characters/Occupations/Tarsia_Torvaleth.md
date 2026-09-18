@@ -16,7 +16,6 @@ shortcode: tarstrvlth
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: null
   templatePriority: null
   archetypes: []
   occupation: Man-at-Arms
@@ -529,11 +528,11 @@ sohl:
     defaultCombatGroup: null
 ---
 
-## Appearance {#appearance}
+# Appearance {#appearance}
 
 Társia is tall for a woman — 6'1" — with a heavy, powerful build that commands attention in any formation. Her auburn hair is tied back in a thick braid that reaches the middle of her back, and her honey-brown eyes carry the steady, appraising look of an officer who has learned to assess threats before they arrive. Her medium-toned skin is weathered from years on the Kávrenath frontier, and her nose is crooked from a break she took during a border skirmish, since healed but never straightened. Her hands are large and calloused, and she moves with the deliberate economy of someone trained to carry armor over long distances. She wears a mail habergeon over a gambeson tunic, both bearing the dust and minor repairs of active frontier service, and keeps a broadsword and round shield within arm's reach at all times.
 
-## Dossier {#dossier}
+# Dossier {#dossier}
 
 Társia comes from a family whose entire existence has been defined by the border. Her grandfather fought in the independence conflicts. Her father commanded a border garrison. Her mother was the daughter of a garrison commander, married into the family specifically to cement military-family ties. Társia was taught soldiering the way other children are taught language—immersion from infancy, with the expectation that it would become her primary identity.
 
@@ -543,35 +542,35 @@ At twenty-three, Társia was assigned to the Kávrenath fortress, the most strat
 
 Now at twenty-six, she holds the rank of captain and commands a mixed unit of fifty soldiers. She is already better at logistics and combat leadership than most senior officers. She is also deeply aware that her family's connections matter more than her actual competence, and this awareness is slowly poisoning her relationship with her own identity.
 
-### Psyche
+## Psyche
 
-#### Personality
+### Personality
 
 Társia is direct and blunt to the point of tactlessness. She dislikes intrigue and finds the social games of officer culture exhausting. She leads from the front, which her soldiers respect absolutely. She is impatient with excuses and intolerant of laziness, but genuinely cares about her soldiers' safety and welfare. She has a crude sense of humor and drinks like a man half her size.
 
-#### Motivation
+### Motivation
 
 Társia's primary motivation is proving that she earned her position rather than inherited it. This drives everything she does at Kávrenath: she works twice as hard as any officer should have to, ensures her unit has the highest combat readiness in the frontier region, and demonstrates a ruthlessness in command that unsettles some of her superiors. Her secondary motivation is protecting the border itself—not from ideology but from genuine conviction that the territories she commands require her specific kind of strength.
 
-#### Strengths
+### Strengths
 
 Her combat ability is genuinely exceptional—she moves with a natural fluidity that suggests her body was built for violence. She is an inspired tactical commander who reads terrain instantly. She is physically brutal enough to command respect from professional soldiers and officers twice her age.
 
-### Social
+## Social
 
 Társia's social position is privileged and deeply uncomfortable. She is treated with deference because she is a Torvaleth, resented by ambitious officers who see her advancement as family favoritism, and secretly pitied by egalitarian-minded soldiers who assume her competence is secondary to her lineage. This cocktail of expectation and doubt defines her existence.
 
-### Companions
+## Companions
 
-#### Patrons
+### Patrons
 
 **Colonel Estáril Dómivar** — The senior officer commanding the entire Kávrenath frontier sector. Dómivar is Társia's uncle by marriage and genuinely respects her abilities, but their professional relationship is poisoned by the fact that nobody can ever quite believe his endorsements are merit-based. Dómivar desperately wants to promote Társia to major and eventually to command the entire frontier, but fears that doing so will undermine her credibility with the soldiers.
 
-#### Enemies
+### Enemies
 
 **Captain Mársel Jútharen** — A rival officer commanding the neighboring garrison sector. Sordello is ambitious, politically connected, and seething with resentment that Társia (younger, female, and a Torvaleth) was given command of the more strategically valuable Kávrenath posting. He has begun documenting every minor decision Társia makes, waiting for a mistake he can weaponize. He spreads rumors that her unit's success comes from excessive brutality toward refugees and suspected collaborators.
 
-### Plot Hooks
+## Plot Hooks
 
 1. **The Impossible Choice** — Haradian state agents stage a major incursion across the border. Társia's unit responds and contains it, but intelligence reports reveal the incursion was deliberately designed to draw her forces away from the garrison's interior. While she was fighting at the border, Haradian operatives infiltrated the garrison compound and attempted to destabilize it—the attack was repulsed but supplies were sabotaged. Colonel Dómivar arrives for an investigation, and during the debriefing, Társia realizes that the sabotage was too sophisticated to be Haradian alone. Someone inside her command structure enabled it. She can investigate and potentially expose an officer from a powerful military family, or she can suppress the evidence and accept that the attack will be blamed on her negligence.
 

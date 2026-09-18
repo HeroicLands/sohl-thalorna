@@ -25,6 +25,12 @@ data:
   species: null
 ---
 
+# Appearance {#appearance}
+
+TBD
+
+# Dossier {#dossier}
+
 **Role.** Daughter of the embassy's Steward.
 
 **Background.** Beloved daughter of [[being-laradhluavel|Laradh Lúavel]], living under the shadow of his debts.

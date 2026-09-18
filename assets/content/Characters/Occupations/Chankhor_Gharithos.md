@@ -16,7 +16,6 @@ shortcode: chnkhrghrths
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: null
   templatePriority: null
   archetypes: []
   occupation: Ostler
@@ -551,11 +550,11 @@ sohl:
     defaultCombatGroup: null
 ---
 
-## Appearance {#appearance}
+# Appearance {#appearance}
 
 Chânkhor Ghârîthôs is a 42-year-old man who stands 6'3" tall and is broad and solidly built. He has a square face with sharp cheekbones, a wide forehead, and a square jaw that leads to a strong chin. His bright gray eyes sit beneath prominent brows, lending him a lively gaze. An aquiline nose and firm lips complete his features. He has fair skin with a bronzed complexion. His black hair is falling in loose waves.
 
-## Dossier {#dossier}
+# Dossier {#dossier}
 
 Born in the Heliónis region to a freeman family of Helionite heritage, Chânkhor Ghârîthôs came into the world of the ostler through a combination of circumstance and aptitude.
 
@@ -563,37 +562,37 @@ Garrick is a seasoned ostler who has managed stables for many years. With a weal
 
 Now at 42 years of age, Chânkhor Ghârîthôs has established himself as a known figure among the ostlers of Heliónis. His reputation, for better or worse, precedes him in the circles where such things matter.
 
-### Psyche
+## Psyche
 
-#### Personality
+### Personality
 
 Can be overly critical, struggles with modern techniques.
 
-#### Motivation
+### Motivation
 
 Chânkhor is driven by the desire to master his craft and secure a stable future. The uncertainties of life in ostler work keep him vigilant and adaptable.
 
-#### Strengths
+### Strengths
 
 Highly knowledgeable about horses, strong leadership skills, good organizer.
 
-### Social
+## Social
 
 Chânkhor is affiliated with None; works independently for the inn..
 
 As a Helionite ostler, Chânkhor occupies a recognized social niche within Heliónis society.
 
-### Companions
+## Companions
 
-#### Patrons
+### Patrons
 
 Chânkhor's primary patron is Local innkeepers and merchants needing horse care services.. This relationship provides both opportunity and obligation.
 
-#### Enemies
+### Enemies
 
 Few; generally respected but sometimes viewed as traditionalist.
 
-### Plot Hooks
+## Plot Hooks
 
 1. **The Ostler's Dilemma** — Chânkhor faces a professional crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Heliónis.
 

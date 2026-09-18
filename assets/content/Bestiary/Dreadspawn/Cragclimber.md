@@ -10,7 +10,6 @@ shortcode: crgclmbr
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: crgclmbr
   templatePriority: null
   archetypes: []
   occupation: null
@@ -344,61 +343,61 @@ sohl:
         disabled: false
 ---
 
-![Cragclimber](images/beings/creatures/crgclmbr.webp){float: top-left}
+# Appearance {#appearance}
 
-## Appearance {#appearance}
+![[crgclmbr|Cragclimber]]{float: top-left}
 
 The rock face ahead seems to shift. What you thought was a ledge has eyes—polished, reflective, utterly aware—and the "cliff face" is moving toward you with terrible, impossible speed. Stone-colored scales rasp against stone as the creature propels itself downward with four limbs that move like liquid metal. Its tail lashes behind it, a whip of crystalline hardness. You realize with horror that it has been waiting, yards away and invisible, the entire time.
 
-## Dossier {#dossier}
+# Dossier {#dossier}
 
 Cragclimbers are draconic ambush predators born in high mountain ranges and cliff kingdoms, creatures perfectly adapted to vertical hunting. These agile hunters lurk on rockfaces and cliffsides, invisible until the moment of strike. Adventurers encounter them in mountain passes, on sheer cliff faces, in high-altitude valleys, and anywhere rocky terrain dominates the landscape.
 
-### Presentation
+## Presentation
 
 The Cragclimber is a reptilian predator roughly six feet in length, lean and muscular with a sinewy build that emphasizes flexibility over bulk. Its entire body is covered in overlapping scales that range in color from gray-brown to slate to dusty tan, matching the exact shade and texture of surrounding stone. Its head is wedge-shaped with eyes that gleam like polished granite, and its mouth is filled with backward-curving teeth suited to gripping prey. Four powerful limbs end in curved claws designed for climbing and tearing; its hind legs are particularly muscular. A long, articulated tail makes up nearly half its body length, capable of independent movement and coiling around objects. The creature's movements are fluid and precise, and it can cling to vertical rock faces with absolute certainty.
 
-### Key Behaviors
+## Key Behaviors
 
 The Cragclimber is an apex predator of mountainous terrain, claiming hunting territories that extend across miles of cliff face. It spends most of its time absolutely motionless, perfectly camouflaged against stone, waiting with infinite patience for prey to pass within striking distance. Its hunting grounds are marked by the skeletal remains of previous meals, sometimes pushed from great heights. It hunts primarily in dawn and dusk hours when light is diffuse and shadows aid concealment. It exhibits no sign of territoriality toward other Cragclimbers—they simply ignore one another. When well-fed, it remains dormant for days; when hungry, it becomes more active, following movement along cliff paths.
 
-### Combat Strategy
+## Combat Strategy
 
 The Cragclimber attacks from absolute concealment, launching from a stationary position with explosive speed and ferocity. It aims to wound severely or disable prey in the initial strike, preferring to wound prey and watch it flee or fall rather than prolonged combat. Once a strike lands, it uses the cliff terrain against its opponent—attempting to force prey toward edges, loose rock, or fall hazards. If its prey proves more resilient than expected, it will disengage and return to camouflage, waiting for weakness to set in. It cannot be pursued effectively through vertical terrain it knows well.
 
-### Attack Methods
+## Attack Methods
 
-#### Raking Claw Strikes
+### Raking Claw Strikes
 
 The Cragclimber slashes with its fore-claws in rapid succession, attempting to open severe wounds. These attacks are designed to cause bleeding and mobility penalties.
 
-#### Tail Whip
+### Tail Whip
 
 The creature's whip-like tail is made of flexible but hardened bone and scale. A tail strike can hook around limbs, topple standing targets, or knock targets backward toward dangerous terrain.
 
-#### Diving Strike
+### Diving Strike
 
 When attacking from height or a significant positional advantage, the Cragclimber launches itself at prey with claws extended, attempting to deliver maximum trauma through combined impact and tearing.
 
-### Special Abilities
+## Special Abilities
 
-#### Stone Camouflage
+### Stone Camouflage
 
 The Cragclimber's scales perfectly match surrounding rocky terrain, rendering it nearly invisible when stationary. It gains advantage on concealment checks on mountainsides and cliff faces and can hold position for extended periods without detection.
 
-#### Vertical Supremacy
+### Vertical Supremacy
 
 The creature's claws and muscular frame allow it to cling to vertical rock faces and navigate vertical terrain that ground-based creatures cannot traverse. It can move freely in three dimensions across cliff faces, giving it enormous advantage in escape and pursuit.
 
-#### Stone Hardening
+### Stone Hardening
 
 The creature can deliberately harden its scales to stone-like rigidity, increasing its resistance to damage and allowing it to withstand impacts that would shatter normal bone. This ability is active in combat; ranged attacks against the Cragclimber have reduced effectiveness.
 
-### Additional Information
+## Additional Information
 
 Water and prolonged moisture erode the Cragclimber's protective hardening and can eventually weaken its structural integrity. Creatures that can track by scent can track the Cragclimber, unlike those relying on sight alone. Once a Cragclimber's hunting territory is identified, avoiding the high terrain it dominates is the safest approach; they do not follow prey into open ground or settlements.
 
-### Attributes
+## Attributes
 
 - **Strength:** 11-14 (1d4+10)
 

@@ -15,7 +15,6 @@ shortcode: rznshmrvrn
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: rznshmrvrn
   templatePriority: null
   archetypes: []
   occupation: Shaman
@@ -618,13 +617,13 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Razanash Mervaran](images/beings/characters/rznshmrvrn.webp){float: top-left}
+# Appearance {#appearance}
 
-## Appearance {#appearance}
+![[rznshmrvrn|Razanash Mervaran]]{float: top-left}
 
 Razanash stands 5'7" tall with a light build. She has tawny skin, black hair, and green eyes. Her features include a narrow face, an arched nose, an angular jawline, thick dark brows, sculpted cheeks. A distinguishing mark is a scar on the left thigh.
 
-## Dossier {#dossier}
+# Dossier {#dossier}
 
 **The Unquiet Awakening**
 
@@ -638,19 +637,19 @@ At twenty-two, following a severe fever that nearly took her life, **Razanash** 
 
 Now in her mid-thirties, **Razanash** serves as one of the Tribal Shamanic Circle's most valued members, though her authority is still somewhat challenged by older shamans who question her youthfulness and her unconventional interpretive style. She maintains a dwelling on the tribe's outskirts—a tent decorated with bones, feathers, and stones from significant spiritual locations. She is consulted for healing, divination, and interpretation of omens, and her herbal medicines are renowned for their efficacy. Yet she remains somewhat isolated even within her community, neither fully accepted as a peer by the elder shamans nor able to relate to those without spiritual gifts. Her self-doubt, while diminishing with each successful reading and healing, still surfaces when faced with complex problems that seem beyond her abilities to divine or resolve.
 
-### Psyche
+## Psyche
 
-#### Personality
+### Personality
 
 **Razanash** is a woman caught between worlds—the material and the spiritual—and this liminal existence defines her personality. She is quiet by nature, preferring to listen rather than speak, and she moves through her community with the careful grace of one aware that she inhabits a space others cannot fully access or understand. When she does speak, she often answers questions with parables, omens, or references to the spirit realm that can frustrate those seeking practical advice. She possesses a dry sense of humor that emerges unexpectedly, usually in situations where the absurdity of the material world's concerns becomes obvious when compared to spiritual realities.
 
 Despite her gifts, **Razanash** is profoundly humble, even to the point of self-limitation. She questions her own abilities far more than her actual record of accuracy warrants, and she can fall into paralysis when attempting to make decisions that will affect others. Part of this stems from her awareness of how devastating incorrect spiritual interpretation can be; part comes from lingering doubt about whether she truly hears the spirits' voices or whether she is simply a woman prone to vivid imagination. She is loyal to her tribe and to those who treat her with respect, but she maintains emotional distance from most people, finding genuine communion only with other shamans and the animals that seem drawn to her presence.
 
-#### Motivation
+### Motivation
 
 **Razanash** is motivated primarily by her commitment to her spiritual vows and to the tribe that granted her a place to belong after her frightening childhood. She seeks to develop her shamanic skills to the point of complete mastery, believing that the more powerfully she can commune with the spirit realm, the more effectively she can serve her people. Beyond this, she is driven by a desire to find others like herself—other shamans, other individuals of divided nature between material and spiritual—and to build a community that does not require one to choose between worlds but rather celebrates the integration of both. She harbors a secret dream of establishing a shamanic academy where the gifted can be trained without the suffering and isolation she experienced.
 
-#### Strengths
+### Strengths
 
 - **Profound Spiritual Perception:** **Razanash** can sense spiritual currents, presences, and magical auras with remarkable accuracy; she perceives patterns in dreams and signs that others miss entirely.
 - **Master of Herbal Medicine:** Her knowledge of desert plants and their healing properties is encyclopedic; she can prepare remedies for almost any physical ailment, and her medicines are more effective than conventional healing.
@@ -659,7 +658,7 @@ Despite her gifts, **Razanash** is profoundly humble, even to the point of self-
 - **Animal Empathy:** Animals are mysteriously drawn to **Razanash** and respond to her with an intelligence and obedience that far exceeds normal animal behavior; she can communicate with creatures across species boundaries.
 - **Tactical Survival and Movement:** Her desert upbringing has made her an expert in navigation, survival, and moving silently through difficult terrain; she can track individuals and animals across nearly featureless desert.
 
-#### Weaknesses
+### Weaknesses
 
 - **Chronic Self-Doubt:** Despite her remarkable accuracy and power, **Razanash** constantly questions whether she is genuinely channeling spirits or self-deluded; this doubt can paralyze her decision-making at critical moments.
 - **Difficulty with Direct Action:** Her shaman's nature makes her uncomfortable with violence and direct confrontation; while not incapable of combat, she much prefers to resolve conflicts through spiritual or diplomatic means.
@@ -668,26 +667,26 @@ Despite her gifts, **Razanash** is profoundly humble, even to the point of self-
 - **Vulnerability to Spiritual Entities:** Her open connection to the spirit realm makes her susceptible to possession, manipulation, or assault by hostile spiritual forces; her permeability to spiritual influence is both her greatest gift and most dangerous vulnerability.
 - **Limited Trust in Material Solutions:** She can underestimate the value of practical, mundane approaches to problems, becoming so focused on spiritual dimensions that she misses obvious material solutions.
 
-### Social
+## Social
 
-#### Patrons
+### Patrons
 
 - **Elder Shaman Khenti:** The oldest and most respected shaman in the tribe; he has mentored **Razanash** since her initiation and continues to provide guidance, though he sometimes worries that her methods are too unconventional.
 - **Chief Amara:** The tribe's leader who respects **Razanash's** spiritual authority and often consults her on matters of tribal importance; she has granted **Razanash** considerable autonomy in conducting her shamanic duties.
 - **The Serpent Spirit:** An entity **Razanash** encountered during her initiation ordeal and maintains an ongoing relationship with; it communicates with her through dreams and visions and provides guidance (though sometimes cryptic or morally complex guidance).
 
-#### Enemies
+### Enemies
 
 - **Shaman Darius:** A rival shamanic practitioner who views **Razanash** as an upstart and challenges her interpretations publicly; he represents the traditionalist faction that questions her unconventional methods.
 - **The Shadow Collective:** A mysterious group of rogue shamans and sorcerers who have approached **Razanash** multiple times with offers of power and knowledge; she has rejected them, but they view her refusal as naive and continue to attempt recruitment.
 - **Skeptical Warriors:** A faction within the tribe, led by hunter **Tarek**, who view shamanism generally as superstition and **Razanash** specifically as a charlatan capitalizing on superstitious fears. Their skepticism creates friction and undermines her authority.
 
-#### Affiliations
+### Affiliations
 
 - **Tribal Shamanic Circle:** **Razanash** holds formal membership and is one of the circle's active practitioners, though her influence within the hierarchy is still secondary to the oldest shamans.
 - **The Desert Heralists' Collective:** An informal network of healers and herbalists across multiple desert tribes who share knowledge and recipes; **Razanash** maintains active correspondence through written symbols and occasional meetings.
 
-### Plot Hooks
+## Plot Hooks
 
 1. **The Severed Spirit:**: **Razanash** discovers that a member of the tribe has become disconnected from their spiritual essence—their soul or vital spark seems to have been severed or stolen by dark shamanic magic. The victim is still alive but gradually fading, becoming less present, less responsive. **Razanash** realizes this is beyond her immediate ability to heal, and she enlists the party to help her journey into the spirit realm itself to locate and retrieve the stolen piece of soul, or to track down whoever performed this dark working and force them to reverse it.
 

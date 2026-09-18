@@ -19,7 +19,6 @@ shortcode: eldridfrhr
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: eldridfrhr
   templatePriority: null
   archetypes: []
   occupation: Shipwright
@@ -592,19 +591,19 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Eldrid Firehair](images/beings/characters/eldridfrhr.webp){float: top-left}
+# Appearance {#appearance}
 
-## Appearance {#appearance}
+![[eldridfrhr|Eldrid Firehair]]{float: top-left}
 
 Stands 6'1" tall with a light build. He has weather-roughened skin, fiery red hair, and blue eyes. His features include an oval face, a straight nose, a prominent chin, a firm-set mouth, prominent brows.
 
-## Dossier {#dossier}
+# Dossier {#dossier}
 
 Eldrid is the son of a renowned shipwright family in the port town of Hrólfstead, one of the most vital coastal towns in Norgaad. From a young age, Eldrid was trained in the art of shipbuilding, mastering the craft of creating the sleek and deadly longships that Norgaad is famous for. However, despite his family’s pride in their trade, Eldrid felt a strong pull toward the arcane. As a child, he witnessed a mysterious fire spirit in the shipyard, sparking a lifelong fascination with magic and the spirit world.
 
 Eldrid’s striking red hair and fiery temper earned him the nickname “Firehair,” but it was his latent magical talent—an affinity for fire magic—that truly set him apart. He met [[being-grosdrnrgd|Gróa the Seidr of Norgaad]] when she sought passage across the fjords, and he was immediately intrigued by her connection to the spirit world. Over time, Eldrid became one of Gróa’s trusted companions, eager to learn more about his mystical inclinations and to explore the deeper mysteries of magic.
 
-### Skills and Abilities
+## Skills and Abilities
 
 - **Strength**: Physically capable from shipbuilding and combat.
 - **Endurance**: Accustomed to hard work and long hours.
@@ -624,21 +623,21 @@ Eldrid’s striking red hair and fiery temper earned him the nickname “Firehai
 - **Fire Magic**: Eldrid has a latent talent for fire magic, though he is still learning to control it. Under Gróa’s guidance, he has begun to harness this power, using it in both combat and rituals.
 - **Combat Skills**: Though not as battle-hardened as a warrior, Eldrid is capable in a fight, wielding a **short sword** and using his fire magic to enhance his strikes.
 
-### Psyche
+## Psyche
 
-#### Personality
+### Personality
 
 Eldrid is bold, curious, and quick to action. His fiery temper can lead to rash decisions, but his heart is in the right place. He is deeply fascinated by magic and the unseen world, seeing Gróa as both a mentor and a gateway to unlocking his own potential. Eldrid’s natural curiosity makes him a constant student of the arcane, though his impetuous nature sometimes puts him at odds with Gróa’s more measured approach.
 
-#### Strengths
+### Strengths
 
 - **Shipbuilding**: Master shipwright and sailor.
 - **Fire Magic**: Can sometimes summon and control flames (still learning).
 - **Combat**: Skilled with sword and fire-enhanced attacks.
 
-### Social
+## Social
 
-### Plot Hooks
+## Plot Hooks
 
 1. **The Calling of the Flame**: During a village gathering, Eldrid witnesses a strange fire burning in the distance, but when others investigate, no one else sees it. Drawn to its location, he discovers an ancient cairn inscribed with runes that seem familiar. The discovery hints at a connection between his family and a forgotten guardian role tied to the region’s safety, forcing Eldrid to question his future as more than a craftsman.
 

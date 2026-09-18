@@ -17,7 +17,6 @@ shortcode: belrkflwyn
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: null
   templatePriority: null
   archetypes: []
   occupation: Alchemist
@@ -553,11 +552,11 @@ sohl:
     defaultCombatGroup: null
 ---
 
-## Appearance {#appearance}
+# Appearance {#appearance}
 
 Bélrik is a lean man of unremarkable height, yet his appearance commands attention for all the wrong reasons. His pale skin hangs slightly loose on a medium frame, marked with faint discolorations where alchemical reagents have stained his flesh. Most striking are his violet eyes—an unsettling shade that dominates an otherwise plain, scarred face; according to those who knew him in his youth, they were once brown. His black hair is pulled back in a practical low tail, often wrapped with cord soaked in herbal preparations. He habitually wears a leather apron stained with the residue of a thousand experiments, and his hands bear the calluses and minor burns of someone who works routinely with dangerous substances.
 
-## Dossier {#dossier}
+# Dossier {#dossier}
 
 Bélrik Fálwyn was born in Liranel, a forest town deep within Élavendre, to a minor but respected guilded family with roots reaching back to the Áelendan tribal settlements of the interior. His father was a cloth-merchant; his mother claimed descent from the mountain communities and knew the old herb-lores intimately. From her, Bélrik learned the fundamentals—not from any formal academy, but from forest walks and kitchen experiments, the way knowledge has always moved through Élavendre's winding glens.
 
@@ -575,7 +574,7 @@ Now at forty-three, Bélrik exists in a complicated equilibrium. He maintains hi
 
 His conscience, such as it is, operates within a narrow band. He will not poison a child, nor will he deliberately devastate a sacred grove—not because of morality, but because such acts invite retaliation from forces more powerful than himself. Everything else, he has learned, is negotiable.
 
-### Psyche
+## Psyche
 
 Bélrik possesses a brilliant analytical mind, the kind that can hold complex herb-lore and mathematical precision in the same thought. His reasoning is sharp enough to cut through flattery and deception—he sees the world as a system of pressures and incentives, and he is typically three steps ahead of those trying to manipulate him. Yet this same clarity of vision has a cost: he struggles to experience genuine empathy. Others are primarily variables in his calculations, useful or not, positioned on a spectrum between assets and obstacles.
 
@@ -583,7 +582,7 @@ His unscrupulous nature is not the theatrical evil of a villain in a bard's tale
 
 What saves him from being merely contemptible is his genuine passion for knowledge and his craftmanship. He takes pride in his work. A tincture made by Bélrik is precise, powerful, and will do exactly what it claims. His lies are told with precision, his promises kept unless circumstances render them impossible, his word to a formal patron honored—not from virtue, but from understanding that reputation is capital. He is, in his way, a professional.
 
-### Social
+## Social
 
 In Élavendre proper, Bélrik occupies the position of a respected if slightly suspicious craftsman—a member of the guilded class whose special knowledge is valuable enough to warrant continued tolerance despite his obvious moral flexibility. The Grove Council watches him, certainly, and there are elders who have debated whether his trespasses in sacred groves warrant intervention. But he has not yet crossed the line into open violation of their authority, and in Élavendre's delicate balance, that matters. The Bardic Circle knows of him—particularly through Senedd—and sees him as a source of information about the real thoughts and desires of Liranel's people, a useful if morally ambiguous informant.
 
@@ -591,9 +590,9 @@ His legitimacy rests on three pillars: his genuine results, his careful obedienc
 
 As Aldric Fallow, he operates entirely outside such structures, answerable to no one but the code of commerce and mutual interest. This freedom is intoxicating—it is also precarious.
 
-### Companions
+## Companions
 
-#### Patrons and Allies
+### Patrons and Allies
 
 **Senedd ap Gwynedd** — Now in her early seventies, Senedd remains one of the archivists of the Bardic Circle in Béravel. She was Bélrik's teacher and remains perhaps his only genuine intellectual peer and closest thing to a friend. Their correspondence is sporadic but affectionate in its way; she supplies him with rare texts and references, and he provides her with specimens and observations she could not access otherwise. The Circle does not formally know of their relationship, though certain members suspect it. Senedd would deny it if asked, but she also would not allow Bélrik to be destroyed—at least not without cause that rose above the level of moral disapproval.
 
@@ -601,13 +600,13 @@ As Aldric Fallow, he operates entirely outside such structures, answerable to no
 
 **Lady Eadrun of Cardeth** — A young noblewoman with Áelendan ancestry who has begun seeking Bélrik out for discrete remedies. She is intelligent, ambitious, and shares his pragmatism about the gap between public virtue and private necessity. This patronage has become important to him, though he recognizes it as potentially dangerous: noble favor can be withdrawn as quickly as it is granted, and she may be testing his loyalty for the Bardic Circle.
 
-#### Enemies and Threats
+### Enemies and Threats
 
 **Torven Wyndes** — An elder of the Grove Council, approximately Bélrik's age, who has made it his personal mission to monitor Bélrik's activities. Torven is one of the few people who understands both that Bélrik is genuinely dangerous and that direct suppression would be politically costly. Their conflict is therefore conducted through innuendo, carefully placed pressure on Bélrik's suppliers, and the quiet discouragement of his patronage. They have never directly spoken, but both understand they are adversaries. Torven would eliminate Bélrik without hesitation if circumstances permitted it.
 
 **The Áelendan Wardens** — A loose confederation of guardians from the mountain communities who regard Bélrik as a grave transgressor. They have caught him trespassing in sacred groves twice, and he has managed to talk or negotiate his way free both times. The next encounter may not go as smoothly. The eldest of the Wardens, a woman named **Seonaid**, has begun leaving warnings in places she knows he frequents—physical markers, carved signs in an old script. The message is clear: continue, and the consequences will escalate.
 
-### Plot Hooks
+## Plot Hooks
 
 1. **The Sacred Grove's Shadow** — Bélrik has located a specimen he has been seeking for years: a plant that grows only in places where the fae veil runs thin, something that might genuinely extend life or consciousness beyond normal human limits. The problem: the Grove Council has explicitly forbidden any harvesting from this location. The secondary problem: Seonaid and the Áelendan Wardens have set a watch. The question becomes whether the knowledge is worth the almost-certain confrontation—and whether Bélrik can find a third path that avoids both detection and direct violence.
 

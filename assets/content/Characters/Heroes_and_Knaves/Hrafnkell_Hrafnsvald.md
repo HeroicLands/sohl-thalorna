@@ -16,7 +16,6 @@ shortcode: hrfnklhrfnsvld
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: hrfnklhrfnsvld
   templatePriority: null
   archetypes: []
   occupation: Tentmaker
@@ -604,45 +603,45 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Hrafnkell Hrafnsvald](images/beings/characters/hrfnklhrfnsvld.webp){float: top-left}
+# Appearance {#appearance}
 
-## Appearance {#appearance}
+![[hrfnklhrfnsvld|Hrafnkell Hrafnsvald]]{float: top-left}
 
 Hrafnkell stands 5'11" tall with a medium build. He has light fair skin, dark brown hair, and brown eyes. His features include an angular face, a prominent nose, a square jawline, a small mouth, dark brows. A distinguishing mark is a tattoo of a fire on the leg.
 
-## Dossier {#dossier}
+# Dossier {#dossier}
 
-### Background
+## Background
 
-#### From War to Craft
+### From War to Craft
 
 Hrafnkell did not begin his life as a craftsman. At eighteen, he enlisted in the Kingdom of Vithgard's levy, serving as a soldier for fifteen years in the border conflicts that defined his youth. He left behind a young wife and an infant son, **[[being-bjlfhrfnsvld|Bjalfi]]**, on the family farm—a decision he told himself was necessary to provide for them, though the truth was more complicated. He earned his fire tattoo after the Burning of Kelstad, where he carried burning canvas from his company's tent before it could trap his companions inside. The experience—watching good men trapped by failure of equipment—planted a seed that would eventually transform him entirely.
 
-#### The Homecoming
+### The Homecoming
 
 When Hrafnkell finally returned from the wars at thirty-three, he found his wife dead—killed in a bandit raid on the farm while he was away fighting someone else's battles. His son [[being-bjlfhrfnsvld|Bjalfi]], then fifteen, had survived and was already hardening into something fierce and angry. The boy blamed his father for not being there, and Hrafnkell could not argue with him. The guilt of that absence—and the knowledge that his wife died unprotected because he had chosen soldiering over family—has never left him. [[being-bjlfhrfnsvld|Bjalfi]] soon joined the militia himself, and the two Hrafnsvald men settled into an uneasy coexistence: living in the same kingdom, seeing each other from time to time, but never quite able to speak about the thing that sits between them.
 
-#### The Apprenticeship
+### The Apprenticeship
 
 After leaving the military with an old injury to his shoulder, Hrafnkell apprenticed with **Master Torsten Roofmaker**, learning not just the mechanics of tent-construction but the deep philosophy of shelter as salvation. He spent six years mastering the art of working canvas and leather, understanding how fabric could be treated to withstand rain, how seams could be sealed to hold against howling wind, how a well-made shelter could be the difference between life and death. He proved to be a brilliant student, combining his intimate knowledge of soldiers' needs with Torsten's technical expertise.
 
-#### Present Days
+### Present Days
 
 Now at forty-four, Hrafnkell owns one of the finest tentmaking operations in Vithgard, though his business remains modest by merchant-lord standards. He refuses to compromise quality for profit, turning away lucrative commissions if he lacks the time or materials to work properly. His reputation among soldiers and serious travelers is sterling—those who've slept in a Hrafnkell tent speak of it with the reverence others reserve for prayers.
 
-### Psyche
+## Psyche
 
-#### Personality
+### Personality
 
 Hrafnkell is a quiet man of few unnecessary words, but when he speaks, people listen. His humor tends toward the wry and self-deprecating, often directed at his own aging joints or the follies of younger craftspeople. He is genuinely humble about his skill, attributing much of his success to learning from others rather than individual genius. This humility is not false modesty—he simply does not view himself as particularly special, only as someone who has worked very hard at a craft he loves.
 
 Despite his reserved nature, Hrafnkell possesses surprising warmth toward those who earn his respect. He remembers details about customers' lives, asks after their families, and has been known to revise prices downward for soldiers who've clearly fallen on hard times. His greatest frustration is not with competitors but with himself—he wars constantly with the knowledge that his output is limited by his commitment to quality, that some who need good tents cannot afford them because he refuses to cut corners.
 
-#### Motivation
+### Motivation
 
 Hrafnkell is driven by a simple but profound conviction: good shelter saves lives. He remembers friends who died in inadequate tents, who succumbed to cold or rain because their equipment failed. Every tent he makes is a small rebellion against death, a statement that he has the power to protect people he will never meet. He works not for wealth or fame but for the purity of the craft itself and the knowledge that somewhere, in the mountains or on the road, someone is warm because of his labor.
 
-#### Strengths
+### Strengths
 
 - **Master Tentmaker**: His skill with heavy fabrics and complex construction is extraordinary. He understands fabric properties, weatherproofing techniques, and structural principles that keep people alive in brutal conditions.
 - **Exceptional Problem-Solving**: Years of military experience combined with craftsmanship have given him the ability to see solutions others miss, to improve designs in subtle ways that yield major benefits.
@@ -651,7 +650,7 @@ Hrafnkell is driven by a simple but profound conviction: good shelter saves live
 - **Strong Endurance**: Despite his age, he can work long hours without tiring, and his body retains the functional strength of his military days.
 - **Respected Among Soldiers**: His reputation in military circles opens doors and grants trust that others must earn laboriously.
 
-#### Weaknesses
+### Weaknesses
 
 - **Limited Production Capacity**: His refusal to cut corners means he cannot compete on volume with larger competitors. Lucrative contracts sometimes go to faster, cheaper makers.
 - **Poor Negotiation Skills**: He struggles with the business side of his work, often pricing too low or accepting unfavorable terms because he dislikes haggling.
@@ -660,28 +659,28 @@ Hrafnkell is driven by a simple but profound conviction: good shelter saves live
 - **Old Soldier's Trauma**: Certain situations—the smell of smoke, loud noises at night, crowds—can trigger military memories that leave him shaken and unfocused.
 - **Limited Combat Ability**: Though he has some experience from his military days, he is out of practice and his shoulder would give him serious difficulty in any violent conflict.
 
-### Social
+## Social
 
-#### Patrons
+### Patrons
 
 - **Captain Gareth Stormwind**: A decorated military officer who has become Hrafnkell's best customer and closest friend. Gareth purchases tents for his unit and regularly refers other soldiers and adventurers to Hrafnkell's workshop.
 - **Master Torsten Roofmaker (Retired Mentor)**: Though now elderly and mostly retired, Torsten still consults with Hrafnkell on particularly difficult projects and has referred many of his own clients to his former apprentice.
 - **The Merchant Kalvin**: A wealthy trader who commissions custom tents for his expedition caravans and has paid premium prices for Hrafnkell's work, trusting his quality absolutely.
 
-#### Enemies
+### Enemies
 
 - **Kross the Cutthroat**: A rival tentmaker who operates at half Hrafnkell's prices by using inferior materials and shoddy construction. Kross's tents look impressive but fail under real stress, yet he has stolen many contracts Hrafnkell might have earned. Kross also spreads rumors that Hrafnkell charges inflated prices for military cachet.
 - **The Vithgard Cloth Syndicate**: A merchant guild that seeks to control all textile production in the region. They view independent craftspeople like Hrafnkell as obstacles and have attempted to force him to buy exclusively through their network, dramatically increasing his material costs.
 - **Unspoken Rivalry with Competitors**: The newer, younger tentmakers who can produce faster than him view him as an obstacle preventing their growth; some have engaged in subtle sabotage of his reputation.
 
-#### Affiliations
+### Affiliations
 
 - **The Tentmakers' Guild of Vithgard**: A professional organization where he serves as a senior member and occasionally takes on formal apprentices, though he remains independent-minded and sometimes clashes with the Guild's leadership over quality standards versus profitability.
 - **The Old Soldiers' Lodge**: An informal fraternity of veterans who gather monthly to share drink and stories. Hrafnkell contributes his skills and craftsmanship to the Lodge's projects.
 - **[[being-thjthrhrfnsvld|Thjótharr Hrafnsvald]] (Brother)**: Hrafnkell's elder brother by eight years, a celebrated clothier in the Kingdom of Norgaad. [[being-thjthrhrfnsvld|Thjótharr]] left Vithgard long before Hrafnkell enlisted, pursuing the finer side of the textile craft among Norgaad's nobility. Hrafnkell finds his brother's obsession with fashion bewildering but respects the skill behind it—after all, they both learned to work fabric from the same parents. Their letters are infrequent but warm, and [[being-thjthrhrfnsvld|Thjótharr]] has never once failed to send something extravagant for the winter holidays.
 - **[[being-bjlfhrfnsvld|Bjalfi Hrafnsvald]] (Son)**: Hrafnkell's son, now a sergeant in the Vithgard militia. Their relationship carries the weight of years of absence and unspoken guilt. Hrafnkell is quietly proud of the man [[being-bjlfhrfnsvld|Bjalfi]] has become, though he knows he had little hand in shaping him. He occasionally leaves supplies or a well-made tent at the militia barracks without a note—small gestures from a man who has never learned how to say what needs saying.
 
-### Plot Hooks
+## Plot Hooks
 
 1. **The Expedition of the Doomed**: A famous explorer, **Lady Fionnula Whitecrest**, approaches Hrafnkell with an extraordinary commission: she seeks the finest tents ever made for an expedition into the Shattered Peaks, a mountain range of legendary danger where previous expeditions have vanished. The pay is astronomical, but rumors suggest she seeks something forbidden in those peaks—perhaps the tomb of an ancient sorcerer, or the legendary city of **Valdûm**. Hrafnkell must decide whether the money and the artistic challenge of creating shelter for extreme conditions justify the suspicion that he may be equipping a dangerous quest with sinister purposes.
 

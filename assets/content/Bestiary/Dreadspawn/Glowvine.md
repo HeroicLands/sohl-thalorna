@@ -10,7 +10,6 @@ shortcode: glowvine
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: glowvine
   templatePriority: null
   archetypes: []
   occupation: null
@@ -254,65 +253,65 @@ sohl:
         disabled: false
 ---
 
-![Glowvine](images/beings/creatures/glowvine.webp){float: top-left}
+# Appearance {#appearance}
 
-## Appearance {#appearance}
+![[glowvine|Glowvine]]{float: top-left}
 
 Light blooms in the darkness—soft, beautiful, almost inviting. A pulse of bioluminescence traces along what you thought was a vine hanging from the canopy above. Except there are vines everywhere, dozens of them, and they’re all moving toward you with deliberate slowness. Gem-like nodes of light pulse along their length, each one mesmerizing to watch. The light is hypnotic, entrancing, and you don’t quite notice when the nearest vine is close enough to touch until it does—and then it pulls tight.
 
-## Dossier {#dossier}
+# Dossier {#dossier}
 
 Glowvines are predatory plants corrupted by dark magic, creatures that use beauty and bioluminescence as weapons. These animated tendrils dwell in deep forests and cavern systems where light is scarce and prey is unwary. Adventurers encounter them in forests touched by shadow-magic, in deep caves, and in places where plant-life has become weaponized.
 
-### Presentation
+## Presentation
 
 The Glowvine appears as a mass of animated tendrils, each one two to four feet long and covered in small but sharp thorns. The entire structure is vaguely circular, with tendrils extending in all directions from a central mass. The tendrils are dark green fading to black, but bioluminescent beads of light—gem-like and mesmerizing—pulse along their length in hypnotic patterns. These lights range in color from green to blue to a sickly purple. The overall effect is beautiful and deeply wrong simultaneously. Movement is smooth and sinuous when unthreatening but becomes rapid and violent when striking. The plant constantly exudes a faint stench of rot mixed with something sweet and floral.
 
-### Key Behaviors
+## Key Behaviors
 
 The Glowvine is rooted or semi-rooted in place, moving through writhing motion rather than locomotion. It dwells in forest canopies, cave ceilings, or dense undergrowth where its bioluminescence provides maximum advantage for ambush hunting. The creature is patient, remaining still for extended periods while its glowing tendrils dangle like lures. When prey—drawn by the hypnotic beauty of the light—draws close, the vines strike with sudden violence. The creature shows no interest in hunting large prey; it specializes in small creatures, insects, and small animals, but it will attempt to ensnare humanoids if they come within reach. It appears to be slowly mobile, capable of moving from one location to another over days and weeks, seeking optimal hunting positions.
 
-### Combat Strategy
+## Combat Strategy
 
 The Glowvine does not actively pursue prey. Instead, it uses its bioluminescence to lure prey into range, then grapples with tendrils when a target draws close. Multiple tendrils can ensnare simultaneously, attempting to immobilize and pull the target against the central mass. Once grappled, the creature applies constriction and acid damage while releasing spores. The vines themselves are relatively fragile; if a victim breaks free or the grapple fails, the Glowvine has limited offensive options and relies on its bioluminescence to re-lure prey or on spore clouds to affect escape attempts.
 
-### Attack Methods
+## Attack Methods
 
-#### Constricting Tendril Grapple
+### Constricting Tendril Grapple
 
 Multiple tendrils wrap around the target simultaneously, attempting to immobilize and pull the victim toward the central mass. Grappled targets take ongoing constriction damage and cannot easily break free.
 
-#### Thorned Whipping
+### Thorned Whipping
 
 The tendrils lash with their sharp thorns, attempting to slash and wound targets before or after grappling. The thorns can penetrate light armor and cause bleeding.
 
-#### Corrosive Acid Secretion
+### Corrosive Acid Secretion
 
 Once a target is grappled, the tendrils exude a corrosive acid that burns exposed flesh and deteriorates armor and sohl. This acid weakens materials and living tissue alike.
 
-### Special Abilities
+## Special Abilities
 
-#### Bioluminescent Lure
+### Bioluminescent Lure
 
 The Glowvine’s bioluminescent beads pulse in hypnotic patterns that draw the attention and curiosity of creatures. This effect is not directly compulsive but is deeply captivating; creatures drawn by the light gain disadvantage on perception checks and suffer penalties to noticing danger.
 
-#### Hallucinogenic Spores
+### Hallucinogenic Spores
 
 The creature can release clouds of spores into the air that induce hallucinations, distorted perception, and vulnerability to further attacks. Spores are most effective in enclosed spaces or where air circulation is limited.
 
-#### Verdant Resilience
+### Verdant Resilience
 
 The plant structure is flexible and resilient, though not armored. It resists cutting and piercing attacks through its sinuous form but is vulnerable to fire and destructive force.
 
-#### Regeneration in Darkness
+### Regeneration in Darkness
 
 When growing in dark environments with adequate moisture, the Glowvine slowly regenerates damage. Prolonged exposure to bright light halts regeneration; sustained burning destroys the creature entirely.
 
-### Additional Information
+## Additional Information
 
 Fire is highly effective against Glowvines, as it destroys the plant structure and halts regeneration. Sustained bright light can drive the creature away or make it dormant. The spores released are not inherently lethal but are disorienting and can mask the creature’s position. Creating wind or air circulation can disperse spores and make them less effective. Glowvines show no interest in moving from optimal hunting positions—static traps rather than mobile predators.
 
-### Attributes
+## Attributes
 
 - **Strength:** 11-16 (1d6+10)
 

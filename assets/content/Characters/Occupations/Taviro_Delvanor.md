@@ -16,7 +16,6 @@ shortcode: tavirdlvnr
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: null
   templatePriority: null
   archetypes: []
   occupation: Common Seaman
@@ -550,11 +549,11 @@ sohl:
     defaultCombatGroup: null
 ---
 
-## Appearance {#appearance}
+# Appearance {#appearance}
 
 Tavíro Delvánor is a 26-year-old man who stands 6'2" tall and is broad and solidly built. He has an oval face with defined cheekbones, a broad forehead, and a square jaw that leads to a strong chin. His bright brown eyes sit beneath thick brows, lending him a lively gaze. An aquiline nose and wide lips complete his features. He has light skin with a rugged complexion. His dark brown hair is tied in a low tail.
 
-## Dossier {#dossier}
+# Dossier {#dossier}
 
 Born in the Tarvénia region to a freeman family of Tarvénan heritage, Tavíro Delvánor came into the world of the common seaman through a combination of circumstance and aptitude.
 
@@ -562,37 +561,37 @@ Merrick has always had a passion for the sea and has worked as a seaman since he
 
 Now at 26 years of age, Tavíro Delvánor has established himself as a known figure among the common seamans of Tarvénia. His reputation, for better or worse, precedes him in the circles where such things matter.
 
-### Psyche
+## Psyche
 
-#### Personality
+### Personality
 
 Can be too blunt, struggles with delicate tasks.
 
-#### Motivation
+### Motivation
 
 Tavíro is driven by the desire to master his craft and secure a stable future. The uncertainties of life in common seaman work keep him vigilant and adaptable.
 
-#### Strengths
+### Strengths
 
 Physically strong, skilled in manual labor, dependable.
 
-### Social
+## Social
 
 Tavíro is affiliated with None; works as a hired hand..
 
 As a Tarvénan common seaman, Tavíro occupies a recognized social niche within Tarvénia society.
 
-### Companions
+## Companions
 
-#### Patrons
+### Patrons
 
 Tavíro's primary patron is Ship captains and merchants seeking hardworking crew members.. This relationship provides both opportunity and obligation.
 
-#### Enemies
+### Enemies
 
 Few; generally respected, though some may see him as overly serious.
 
-### Plot Hooks
+## Plot Hooks
 
 1. **The Common Seaman's Dilemma** — Tavíro faces a professional crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Tarvénia.
 

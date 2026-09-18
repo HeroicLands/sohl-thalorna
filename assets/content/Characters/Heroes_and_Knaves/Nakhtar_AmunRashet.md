@@ -18,7 +18,6 @@ type: being
 data:
   banner: takheperubnr
   icon: sohl-none-icon-person
-  portrait: nkhtrmnrsht
   templatePriority: null
   archetypes: []
   occupation: Thatcher
@@ -593,43 +592,43 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Nakhtar Amun'Râshet](images/beings/characters/nkhtrmnrsht.webp){float: top-left}
-
 **Home:** [[place-wasetkara|Wasetkara]]
 
-## Appearance {#appearance}
+# Appearance {#appearance}
+
+![[nkhtrmnrsht|Nakhtar Amun'Râshet]]{float: top-left}
 
 Nakhtar stands 5'9" tall with a medium build. He has dark brown skin, white hair, and green-brown eyes. His features include a prominent nose, a tapered chin, well-shaped lips, dark brows.
 
-## Dossier {#dossier}
+# Dossier {#dossier}
 
-### Background
+## Background
 
-#### The Inheritance of Craft
+### The Inheritance of Craft
 
 Nakhtar Amun'Râshet was born into the reeds themselves. His family had been thatchers for generations, their knowledge passed down like sacred liturgy from father to son, uncle to nephew, weaving itself into the very bloodline of Clan Amun'Râshet. His childhood was spent not in schooling houses but in marshes and on rooftops, learning first to identify the different grades of reed by touch and sound, then to bind them with the proper tension, and finally to read the angle of water flow and understand how to create roofs that were as much sculpture as shelter. His father, **Tashat Amun'Râshet**, was renowned throughout the lower delta for his work on the great temples, and Nakhtar grew up in the shadow of that reputation, determined not to merely match it but to surpass it.
 
-#### Years of Mastery
+### Years of Mastery
 
 By his thirtieth year, Nakhtar had established himself as the premier thatcher of his region. His roofs did not merely shed water; they sang in the rain, their multiple layers creating harmonies that villagers claimed had medicinal properties. His methods, refined through his own innovations layered atop centuries of family knowledge, became the standard by which other thatchers were measured. He traveled among the villages and farms of the [[affiliation-empirtkhpr|Ta'Kheperian]] empire, his reputation preceding him, his fees among the highest but universally considered worth the investment. Temples commissioned him, nobles competed for his availability, and young craftsmen apprenticed themselves to him, hoping to capture a fraction of his mastery.
 
-#### The Long Afternoon
+### The Long Afternoon
 
 Now fifty-eight, Nakhtar has entered the final chapter of his professional life, though his skills have not diminished. Rather, the world has begun to shift around him. Younger thatchers, many of them his own students, have begun experimenting with hybrid techniques, incorporating newer materials available through expanded trade routes, and charging substantially less than Nakhtar's traditional fees. While Nakhtar maintains that these innovations sacrifice durability for economy, the difference is subtle enough that many property owners can no longer justify the premium they once paid without hesitation. Yet the finest buildings in the land, and those whose owners understand the true value of work that lasts generations rather than decades, still seek him out. He moves more slowly now, and refuses work involving the steepest pitches, yet the work he does accept remains flawless.
 
-### Psyche
+## Psyche
 
-#### Personality
+### Personality
 
 Nakhtar is a man of quiet dignity and thoughtful pauses. He speaks rarely but with precision, every word weighted with intention. His long decades of observation have made him philosophical, prone to seeing in the patterns of reed and water the deeper truths of existence—resilience, adaptation, the beauty of form serving function. He has developed a wry, subtle humor that manifests more in knowing looks than in laughter, and his students learn to recognize the gentle mockery in his silences when they suggest approaches he views as inferior.
 
 Despite his masterful skill, Nakhtar remains humble about his reputation, often deflecting praise by insisting that he is merely a steward of knowledge passed down through generations. However, beneath this modesty lies a deep confidence—he knows he is among the greatest craftsmen of his age, and this knowledge has freed him from the need to defend or prove himself. His only genuine passion these days is the transmission of knowledge to younger craftsmen, and he takes considerable personal investment in ensuring that his most promising students develop not merely technical skill but the philosophical understanding that transforms good work into transcendent craftsmanship.
 
-#### Motivation
+### Motivation
 
 Nakhtar's primary motivation is the preservation of craft excellence in an age increasingly driven by economy and speed. He is determined to ensure that the knowledge accumulated by his family and refined through his own decades of practice does not perish with him. He sees each apprentice he teaches, each young thatcher he mentors, as a vessel carrying forward the legacy of generations. Simultaneously, he wrestles with the question of legacy itself—will the innovations of his students ultimately prove superior to the traditions he has spent a lifetime perfecting? This question troubles him more than he would admit to most.
 
-#### Strengths
+### Strengths
 
 - **Unmatched Technical Mastery**: Nakhtar's thatch work represents the pinnacle of traditional technique. His roofs are engineered to last a century or more with only minimal maintenance, and the quality of his work is immediately apparent even to untrained eyes in the perfect slope and flawless finish.
 
@@ -641,7 +640,7 @@ Nakhtar's primary motivation is the preservation of craft excellence in an age i
 
 - **Physical Endurance**: Despite his age, Nakhtar maintains the strength and balance necessary for roof work. His movements, though slightly slower than in youth, remain efficient and safe, and he has never suffered a serious fall or injury during his professional career.
 
-#### Weaknesses
+### Weaknesses
 
 - **Resistance to Innovation**: Nakhtar's respect for tradition sometimes calcifies into an inability to accept that newer techniques might offer genuine advantages in certain contexts. This has caused some clients to seek younger thatchers for projects where speed or cost is a consideration.
 
@@ -653,9 +652,9 @@ Nakhtar's primary motivation is the preservation of craft excellence in an age i
 
 - **Perfectionism That Borders on Obsession**: Nakhtar cannot accept work from his students that he considers substandard, even after they have become accomplished craftsmen in their own right. This has created tensions with former apprentices who view his persistent criticism as undermining rather than educational.
 
-### Social
+## Social
 
-#### Patrons
+### Patrons
 
 - **The Temple of Íšét, High Priestess Seshat**: The great temple dedicated to the deity of fertility and renewal has commissioned Nakhtar for all major thatching work for the past three decades. **Seshat** views Nakhtar's work as a reflection of divine craftsmanship and insists that none other touch the temple's iconic roof.
 
@@ -663,15 +662,15 @@ Nakhtar's primary motivation is the preservation of craft excellence in an age i
 
 - **Lord Djehuty Menkheperre**: A noble administrator of considerable influence, Djehuty commissions Nakhtar for all his various holdings and has been known to delay important projects waiting for Nakhtar's availability, trusting no other with such significant investments.
 
-#### Enemies
+### Enemies
 
 - **Khosuef the Innovator**: A former student of Nakhtar's who broke away to establish his own practice using hybrid techniques combining traditional and modern methods. Khosuef's work is adequate and his prices significantly lower, earning him the contracts Nakhtar once would have assumed were his by right. Though no open conflict exists, Nakhtar views Khosuef's success as a betrayal of the principles he taught, and Khosuef himself feels stung by Nakhtar's public criticism of his methods.
 
-#### Affiliations
+### Affiliations
 
 - **The Craftsmasters' Consortium**: A society of the finest skilled craftspeople in the Empire, Nakhtar serves as one of the guild elders and sits on the council that arbitrates disputes and maintains standards of quality throughout the profession.
 
-### Plot Hooks
+## Plot Hooks
 
 1. **The Temple's Silent Roof**: Nakhtar is commissioned for what should be a routine maintenance project on the great Temple of Íšét, but he discovers subtle damage that suggests the structure has been subjected to forces far beyond normal settling or wear. Investigation reveals that someone has been deliberately weakening the roof from below, and discovering why—and for what purpose—becomes a matter of personal honor and concern for the hundreds of pilgrims who gather beneath that roof.
 

@@ -16,7 +16,6 @@ shortcode: brakshrlns
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: null
   templatePriority: null
   archetypes: []
   occupation: Man-at-Arms
@@ -529,11 +528,11 @@ sohl:
     defaultCombatGroup: null
 ---
 
-## Appearance {#appearance}
+# Appearance {#appearance}
 
 Brákôs is a compact man, standing just 5'4" with a wiry, scant frame that barely fills his borrowed armor. His fair skin burns easily in the Vylarian sun, and his close-cropped red hair marks him as an oddity among the dark-haired ranks of the Alyssa provincial garrison. His honey-brown eyes are sharp and restless, constantly scanning doorways and rooflines with the wariness of a man who learned early that trouble comes from unexpected directions. His face is narrow, with high cheekbones and a thin-lipped mouth that rarely smiles. A faded tattoo of a coiled serpent wraps around his left forearm — a youthful indiscretion he declines to explain. He wears his garrison-issue padded tunic and leather bracers with the casual disregard of a soldier who cares more about function than appearance.
 
-## Dossier {#dossier}
+# Dossier {#dossier}
 
 Born the third son of a minor Hârlânis family in declining Alyssa Province, Brákôs joined the garrison at sixteen as a junior courier—his only path to advancement when his elder brothers inherited the family's meager holdings. He was fast, eager to prove himself, and the garrison needed riders who could navigate the fractious provincial borders without getting killed. For nine years, he carried dispatches through bandit country and served in three minor skirmishes, each one reinforcing that he was expendable and that the Vylarian Empire had stopped believing in itself.
 
@@ -541,35 +540,35 @@ Three years ago, ambush shattered the courier route he knew. A coordinated assau
 
 Now Brákôs serves **Captain Rhúlis Mervian**, a grizzled professional who recognizes that the Empire is rotting from within and treats his soldiers as disposable tools. The work is lonely and dangerous. Brákôs has become expert at reading the small signs—disturbed earth, abandoned camps, the difference between a refugee's tracks and a raiders'. He has also become deeply disillusioned with his service. The Hârlânis family still expects him to send coins home and restore the family honor; his garrison pay barely covers his horse's feed.
 
-### Psyche
+## Psyche
 
-#### Personality
+### Personality
 
 Brákôs masks his disillusionment with sardonic wit and deliberate carefulness. In the field, he is methodical and observant, speaking little but noting everything. Among fellow soldiers, he allows himself dark humor—jokes about death and incompetence that draw bitter laughs. He is careful not to form close attachments, having learned early that comrades die and sentimentality dulls judgment.
 
-#### Motivation
+### Motivation
 
 Brákôs wants what every soldier in a declining empire wants: a path to stability and respect that doesn't end with him bleeding out in a ravine. He still sends money home because the Hârlânis name is the last thread connecting him to something larger than himself, though he no longer believes the family can be saved. His primary motivation is pure survival—making it to thirty years old with enough coin to walk away.
 
-#### Strengths
+### Strengths
 
 He reads terrain and danger signs with preternatural accuracy. His horse is better-trained than any in the garrison. He remains calm under immediate threat and has genuine tactical sense—his ambush response three years ago was not luck but sound judgment under pressure.
 
-### Social
+## Social
 
 Brákôs occupies an uncomfortable social position: too educated for common soldiers (he reads Vylarian philosophy poorly but persistently), too pragmatic for officers who expect ideological commitment. His connection to the declining Hârlânis family gives him nominal noble status but no actual advantage.
 
-### Companions
+## Companions
 
-#### Patrons
+### Patrons
 
 **Captain Rhúlis Mervian** — The garrison's senior irregular-war officer. Rhúlis values competence above all and has explicitly stated he will protect Brákôs from court-martial as long as Brákôs delivers accurate intelligence. Their relationship is transactional but genuine; Rhúlis is one of the few officers in Alyssa Province who sees the empire's decline clearly and treats it as fact rather than heresy.
 
-#### Enemies
+### Enemies
 
 **Prefect Gaerion Valdis** — A political appointee from the capital who arrived two years ago with orders to strengthen imperial authority in the province. Brákôs once submitted a report contradicting Valdis's claims about bandit activity (Brákôs had evidence; Valdis had speculation). Valdis has since quietly obstructed Brákôs's advancement and spreads rumors that he is "soft on dissidents." They have not spoken directly since, but Valdis watches for any excuse to dishonor him.
 
-### Plot Hooks
+## Plot Hooks
 
 1. **The Smuggler's Intelligence** — Brákôs discovers evidence during a patrol that the contraband moving through the high passes includes not just black-market goods but intercepted imperial dispatches. He realizes the smuggling network has a mole inside the garrison—someone high-ranking enough to know supply schedules and courier routes. Captain Mervian believes him but Prefect Valdis will use any leak to the investigation as proof of Brákôs's disloyalty. He must identify the mole without triggering Valdis's interference, knowing that failure will result in his arrest as an accomplice.
 

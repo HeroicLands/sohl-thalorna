@@ -16,7 +16,6 @@ shortcode: sgrthrhrfnsvld
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: null
   templatePriority: null
   archetypes: []
   occupation: Shipwright
@@ -557,11 +556,11 @@ sohl:
     defaultCombatGroup: null
 ---
 
-## Appearance {#appearance}
+# Appearance {#appearance}
 
 Sigríthr Hrafnsvald is a 35-year-old woman who stands 5'11" tall and is of moderate build. She has an oval face with defined cheekbones, a prominent forehead, and a strong jaw that leads to a cleft chin. Her deep-set gray eyes sit beneath prominent brows, lending her a watchful gaze. A broad nose and wide lips complete her features. She has light skin with a fair complexion. Her black hair is flowing past her shoulders.
 
-## Dossier {#dossier}
+# Dossier {#dossier}
 
 Born in the Nordheim region to a freeman family of Nordheimn heritage, Sigríthr Hrafnsvald came into the world of the shipwright through a combination of circumstance and aptitude.
 
@@ -569,37 +568,37 @@ Isla grew up in a family of fishermen, but she was more interested in building b
 
 Now at 35 years of age, Sigríthr Hrafnsvald has established herself as a known figure among the shipwrights of Nordheim. Her reputation, for better or worse, precedes her in the circles where such things matter.
 
-### Psyche
+## Psyche
 
-#### Personality
+### Personality
 
 Sometimes prioritizes new techniques over traditional methods, which can cause friction with more conservative clients.
 
-#### Motivation
+### Motivation
 
 Sigríthr is driven by the desire to master her craft and secure a stable future. The uncertainties of life in shipwright work keep her vigilant and adaptable.
 
-#### Strengths
+### Strengths
 
 Creative and skilled in innovative ship designs, attentive to detail.
 
-### Social
+## Social
 
 Sigríthr is affiliated with Coastal Shipwrights' Guild.
 
 As a Nordheimn shipwright, Sigríthr occupies a recognized social niche within Nordheim society.
 
-### Companions
+## Companions
 
-#### Patrons
+### Patrons
 
 Sigríthr's primary patron is Adventurers and traders who seek custom-built ships.. This relationship provides both opportunity and obligation.
 
-#### Enemies
+### Enemies
 
 Traditional shipwrights who disapprove of her unconventional designs.
 
-### Plot Hooks
+## Plot Hooks
 
 1. **The Shipwright's Dilemma** — Sigríthr faces a professional crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Nordheim.
 

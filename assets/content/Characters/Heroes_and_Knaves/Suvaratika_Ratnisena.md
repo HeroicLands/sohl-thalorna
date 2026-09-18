@@ -15,7 +15,6 @@ shortcode: suvrtkrtns
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: suvrtkrtns
   templatePriority: null
   archetypes: []
   occupation: Toymaker
@@ -595,76 +594,76 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Suvaratika Ratniseṇa](images/beings/characters/suvrtkrtns.webp){float: top-left}
+# Appearance {#appearance}
 
-## Appearance {#appearance}
+![[suvrtkrtns|Suvaratika Ratniseṇa]]{float: top-left}
 
 Suvaratika stands 5'6" tall with a light build. She has warm bronze skin, deep black hair, and black eyes. Her features include a full face, a prominent nose, a narrow chin, expressive brows, rounded cheeks. A distinguishing mark is a scar running down the right leg.
 
-## Dossier {#dossier}
+# Dossier {#dossier}
 
-### Background
+## Background
 
-#### The Child of the Craftsmith Quarter
+### The Child of the Craftsmith Quarter
 
 Suvaratika was born in the Craftsmith Quarter of Vedyara's largest city-state to parents both devoted to artisanship—her father a woodworker and her mother a textile artist. From earliest childhood, she was surrounded by the sounds and smells of creation: wood shavings, paint solvents, the crackle of dying fabric dyes. Rather than view this as constraint, she embraced it as the natural order of existence. By age six, she was sketching designs. By twelve, she was creating toys under her father's guidance.
 
-#### The Tragedy and Transformation
+### The Tragedy and Transformation
 
 At age thirty-one, a catastrophic workshop fire claimed her father and severely injured her leg. For months, she believed her working life was finished—the scar tissue and lingering pain seemed to have ended her career before its true beginning. Yet during her recovery, something crystallized. With her mobility limited, she was forced to focus entirely on the intellectual and creative aspects of toymaking—design, storytelling, the understanding of what makes a toy genuinely valuable to a child. This forced introspection became liberation. She realized that the finest toys were not those that demonstrated technical mastery but those that sparked imagination and wonder.
 
-#### The Established Master
+### The Established Master
 
 For the past eight years, Suvaratika has operated her own workshop in the Vedyara city-states, producing toys of extraordinary creativity and craftsmanship. Her work has become increasingly valued by families of means—not as mere playthings but as investments in children's development and imagination. She has built a reputation for understanding what children need at different ages, for incorporating educational elements into play, and for creating objects of genuine beauty that parents are happy to display in their homes.
 
 Yet her success remains modest by the standards of larger merchants, and she has resisted all offers to expand operations, licensing designs, or accepting capital investment from wealthy patrons. She views such expansion as a betrayal of the craft itself.
 
-### Psyche
+## Psyche
 
-#### Personality
+### Personality
 
 Suvaratika is a woman of few words and profound creative vision. She speaks only when she has something to communicate, and her thoughts tend toward the abstract and philosophical. She is fascinated by the psychology of play, the relationship between form and function, and the ways in which objects can encode meaning and wisdom for those perceptive enough to receive it. She has a gentle sense of humor, often making dry observations about the ironies of her work—how the most valuable toys are often the simplest, how children often prefer boxes to the elaborate toys within them.
 
 She is spiritual in a personal way, devoted to Meghanātha, the storm-goddess, viewing the chaotic power of storms as metaphor for the creative force that flows through her work. She views her toys not as commercial products but as offerings—small pieces of intentional beauty released into the world to inspire wonder in those who receive them.
 
-#### Motivation
+### Motivation
 
 Suvaratika is driven by a desire to create objects that matter—that shape children's development, kindle their imagination, and bring joy to their families. She seeks to prove that in a world increasingly driven by profit and efficiency, there remains value in careful work done with genuine intention. She also feels a profound responsibility to preserve her father's legacy, to honor his memory through the continuation and evolution of craft that defined their family bond.
 
 As she approaches forty, she is increasingly aware that her vision could die with her—that without transmission to others, her understanding of what makes toys genuinely valuable will be lost. Yet she remains resistant to taking on apprentices, fearing both the vulnerability of teaching and the responsibility such mentorship entails.
 
-#### Strengths
+### Strengths
 
 - **Extraordinary Creative Vision**: Suvaratika's ability to envision toys that engage children's imagination is unparalleled in the city-states. Her designs are innovative while remaining true to traditional forms, and she instinctively understands what children at different developmental stages need.
 - **Masterful Craftsmanship**: Her execution matches her vision. Every toy that leaves her workshop is technically flawless, structurally sound, and aesthetically elegant. Parents recognize that her toys become family heirlooms.
 - **Psychological Insight**: Her understanding of child development, play psychology, and educational philosophy is sophisticated. She can articulate precisely why a particular toy serves a developmental purpose.
 - **Resilience and Physical Adaptation**: Despite chronic pain from her leg injury, Suvaratika has adapted her techniques and continues producing work at high quality through modified methods and strategic rest.
 
-#### Weaknesses
+### Weaknesses
 
 - **Business Acumen Deficit**: Suvaratika struggles with marketing, pricing, and business expansion. She undersells her work consistently and fails to capitalize on opportunities for growth that would be obvious to merchants.
 - **Perfectionism and Productivity Tension**: Her drive for perfection sometimes outweighs her productivity. She will spend weeks refining a detail that most customers would never notice, limiting her output.
 - **Resistance to Collaboration**: Her insistence on maintaining absolute creative control and her reluctance to take on apprentices means her work remains limited by her own capacity. She refuses offers of partnership that could expand her reach.
 - **Chronic Pain and Physical Limitation**: The lingering effects of her injury limit her ability to work extended hours. Periods of intensive work sometimes trigger pain flares that force her to cease working for days.
 
-### Social
+## Social
 
-#### Patrons
+### Patrons
 
 - **Lady Amara Vaidyavallabha**: A wealthy merchant's wife and dedicated patron of Vedyara's craftspeople who has commissioned numerous toys for her children and grandchildren. She has become Suvaratika's de facto advocate, recommending her work to other noble families and occasionally commissioning custom pieces.
 - **The House of Childhood Wisdom**: A scholarly institution dedicated to understanding child development and education that has acquired several of Suvaratika's toys for study, viewing them as both functional objects and philosophical texts about learning and play.
 
-#### Enemies
+### Enemies
 
 - **The Merchant Collective of Mass Producers**: Large-scale toy manufacturers who view Suvaratika's insistence on handcrafted quality as an obstacle to progress and market efficiency. They have occasionally attempted to undercut her prices and capture her customers.
 - **Dharma Vyāvahārika**, a competitive toymaker: A merchant-craftsperson who produces trendy, fashionable toys in high volume. She views Suvaratika's philosophical approach as pretentious and her resistance to mass production as economically naive. The two have engaged in passive-aggressive competition for the same elite clientele.
 
-#### Affiliations
+### Affiliations
 
 - **The City Artisans' Guild of Vedyara**: Suvaratika holds full membership and is respected for her commitment to craft standards, though her resistance to guild efforts toward collective marketing and efficiency gains sometimes creates friction.
 - **The Order of Meghanātha's Children**: A spiritual organization devoted to the storm-goddess that Suvaratika maintains loose affiliation with, viewing her creative work as part of a larger spiritual practice of world-making.
 
-### Plot Hooks
+## Plot Hooks
 
 1. **The Impossible Commission**: A foreign nobleman of legendary wealth and eccentricity arrives in Vedyara seeking a bespoke toy of extraordinary specification—a mechanical marvel that will require Suvaratika to learn entirely new techniques, work with materials unfamiliar to her, and collaborate with specialized craftspeople. The commission offers enough wealth to transform her life, but accepting it would require abandoning her principles about what constitutes genuine craft and working on a scale she has always resisted.
 

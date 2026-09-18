@@ -16,7 +16,6 @@ shortcode: tamithjdrn
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: null
   templatePriority: null
   archetypes: []
   occupation: Mason
@@ -553,11 +552,11 @@ sohl:
     defaultCombatGroup: null
 ---
 
-## Appearance {#appearance}
+# Appearance {#appearance}
 
 Tamîtha Jâdurîon is a 28-year-old woman who stands 5'11" tall and is slender. She has a diamond face with wide-set cheekbones, a smooth forehead, and a strong jaw that leads to a firm chin. Her piercing hazel eyes sit beneath arched brows, lending her a penetrating gaze. A straight nose and curved lips complete her features. She has olive skin with a weathered complexion. Her brown hair is gathered in a practical bun. A notable feature is sun-darkened skin on the arms and face.
 
-## Dossier {#dossier}
+# Dossier {#dossier}
 
 Born in the Heliónis region to a freeman family of Helionite heritage, Tamîtha Jâdurîon came into the world of the mason through a combination of circumstance and aptitude.
 
@@ -565,37 +564,37 @@ Elysia is a skilled mason who learned the trade from her father, who was also a 
 
 Now at 28 years of age, Tamîtha Jâdurîon has established herself as a known figure among the masons of Heliónis. Her reputation, for better or worse, precedes her in the circles where such things matter.
 
-### Psyche
+## Psyche
 
-#### Personality
+### Personality
 
 Can be underestimated due to her gender, sometimes takes on too much work.
 
-#### Motivation
+### Motivation
 
 Tamîtha is driven by the desire to master her craft and secure a stable future. The uncertainties of life in mason work keep her vigilant and adaptable.
 
-#### Strengths
+### Strengths
 
 Excellent bricklayer, strong work ethic, detail-oriented.
 
-### Social
+## Social
 
 Tamîtha is affiliated with Local Masons' Guild.
 
 As a Helionite mason, Tamîtha occupies a recognized social niche within Heliónis society.
 
-### Companions
+## Companions
 
-#### Patrons
+### Patrons
 
 Tamîtha's primary patron is Local builders and community projects.. This relationship provides both opportunity and obligation.
 
-#### Enemies
+### Enemies
 
 Few; respected but occasionally faces skepticism from traditionalists.
 
-### Plot Hooks
+## Plot Hooks
 
 1. **The Mason's Dilemma** — Tamîtha faces a professional crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Heliónis.
 

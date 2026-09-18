@@ -16,7 +16,6 @@ shortcode: tirushnmrz
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: null
   templatePriority: null
   archetypes: []
   occupation: Glassworker
@@ -557,11 +556,11 @@ sohl:
     defaultCombatGroup: null
 ---
 
-## Appearance {#appearance}
+# Appearance {#appearance}
 
 Tirrûsh Namrûzî is a 38-year-old man who stands 6'0" tall and is of moderate build. He has a heart-shaped face with angular cheekbones, a broad forehead, and a sharp jaw that leads to a strong chin. His piercing amber eyes sit beneath straight brows, lending him a penetrating gaze. A strong nose and narrow lips complete his features. He has medium-toned skin with a sun-tanned complexion. His black hair is combed neatly to one side. A notable feature is calloused hands from years of hard work.
 
-## Dossier {#dossier}
+# Dossier {#dossier}
 
 Born in the Harad region to a freeman family of Haradian heritage, Tirrûsh Namrûzî came into the world of the glassworker through a combination of circumstance and aptitude.
 
@@ -569,37 +568,37 @@ Eamon has been working with glass since his youth, apprenticing under his father
 
 Now at 38 years of age, Tirrûsh Namrûzî has established himself as a known figure among the glassworkers of Harad. His reputation, for better or worse, precedes him in the circles where such things matter.
 
-### Psyche
+## Psyche
 
-#### Personality
+### Personality
 
 Prone to hand injuries, struggles with the business side of his craft.
 
-#### Motivation
+### Motivation
 
 Tirrûsh is driven by the desire to master his craft and secure a stable future. The uncertainties of life in glassworker work keep him vigilant and adaptable.
 
-#### Strengths
+### Strengths
 
 Skilled in glassblowing and sculpting, creative, meticulous.
 
-### Social
+## Social
 
 Tirrûsh is affiliated with Glassworkers' Guild.
 
 As a Haradian glassworker, Tirrûsh occupies a recognized social niche within Harad society.
 
-### Companions
+## Companions
 
-#### Patrons
+### Patrons
 
 Tirrûsh's primary patron is Local merchants and nobles who commission glass pieces.. This relationship provides both opportunity and obligation.
 
-#### Enemies
+### Enemies
 
 Rival glassworkers who compete for high-profile commissions.
 
-### Plot Hooks
+## Plot Hooks
 
 1. **The Glassworker's Dilemma** — Tirrûsh faces a professional crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Harad.
 

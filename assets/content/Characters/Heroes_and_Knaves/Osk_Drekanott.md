@@ -15,7 +15,6 @@ shortcode: oskdrekant
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: oskdrekant
   templatePriority: null
   archetypes: []
   occupation: Thatcher
@@ -590,31 +589,31 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Ósk Drekanótt](images/beings/characters/oskdrekant.webp){float: top-left}
+# Appearance {#appearance}
 
-## Appearance {#appearance}
+![[oskdrekant|Ósk Drekanótt]]{float: top-left}
 
 Ósk stands 5'7" tall with a light build. She has light fair skin, blonde hair, and brown eyes. Her features include an oval face, a small nose, a rounded chin, a wide mouth, light brows, rosy cheeks. A distinguishing mark is a scar running down the right leg.
 
 Despite the demands of her craft, Ósk carries herself with an easy grace and natural confidence, the bearing of someone completely comfortable in her own skin and sure of her competence.
 
-## Dossier {#dossier}
+# Dossier {#dossier}
 
-### Background
+## Background
 
-#### The Wild Child
+### The Wild Child
 
 Ósk Drekanótt was born into a family of thatchers in the northern reaches of the Kingdom of Malagna, where the climate is harsh, the winters are long, and every roof is a battleground between human ingenuity and the relentless forces of nature. Her father, **Hjalmar Drekanótt**, was a skilled thatcher of considerable reputation, and her mother, **Keira**, was the daughter of a timber merchant with a shrewd business sense. From her earliest years, Ósk showed an unusual combination of traits for her gender and station: she possessed her father's natural skill with materials and structural concepts, combined with her mother's instinct for innovation and practical economics.
 
 Rather than being confined to the domestic tasks expected of a girl, Ósk was permitted—and encouraged—by her father to work alongside him on roofs. By age twelve, she was already assisting on full contracts. By sixteen, she was working on significant projects largely independently, with her father supervising and providing guidance rather than doing the work himself. Her unusual path raised eyebrows in conservative communities, but her competence was undeniable, and in a trade where quality work was more valued than social convention, she gradually earned acceptance.
 
-#### The Accident and Its Aftermath
+### The Accident and Its Aftermath
 
 At nineteen, working on the roof of the King's hunting lodge, Ósk made a mistake. An unexpected shift in wind, combined with a split-second miscalculation of footing on wet thatch, sent her tumbling from the roofline. She fell twenty feet, striking the edge of a stone wall and a rain barrel, and coming to rest in mud that broke the final impact. The fall left her with a shattered right leg, torn flesh, and injuries that kept her bedridden for three months and in recovery for a full year.
 
 Everyone, including Ósk herself, assumed her career was finished. Her father grieved the loss of his successor and began training her younger brother instead. But during her long recovery, something shifted in Ósk's mind. The forced stillness allowed her to think deeply about the craft in ways her constant activity had never permitted. She studied the structural principles underlying good thatching, began sketching improvements to tools and techniques, and conceived of innovations that would make the work both faster and more aesthetically elegant. When she finally returned to full mobility, she returned as not merely a competent thatcher, but as a craftsperson with genuine vision.
 
-#### The Master Years
+### The Master Years
 
 From her early twenties onward, Ósk established herself as one of the finest thatchers in the Kingdom. Her reputation was built on three pillars: uncompromising quality, innovative design that pushed the boundaries of what thatching could achieve aesthetically, and a genuine commitment to her clients' needs and budgets. Unlike her father, who charged premium rates and refused to adapt his methods, Ósk was willing to work with clients across the economic spectrum, taking smaller jobs that allowed her to refine her skills and larger, more prestigious commissions that pushed her to expand her capabilities.
 
@@ -622,9 +621,9 @@ She never married, though she had several offers and at least two relationships 
 
 The scar on her leg never fully healed—she walks with a slight limp that is barely perceptible to most people but that she herself is constantly aware of. It serves as a permanent reminder of her vulnerability and the fragility of the career that defines her identity.
 
-### Psyche
+## Psyche
 
-#### Personality
+### Personality
 
 Ósk is direct, competent, and refreshingly unconcerned with the social conventions that constrain most people. She says what she thinks, acknowledges problems when they arise, and immediately begins working on solutions rather than dwelling on blame or complaint. This straightforward approach endears her to practical people and troubles those who expect more delicacy of social interaction.
 
@@ -632,13 +631,13 @@ She is ambitious in her own way—not for wealth or status, but for the opportun
 
 She is also restless, struggling to be idle and filling downtime with additional projects, refinements to her tools, or work on experimental techniques. This restlessness sometimes extends to her relationships and professional commitments—she has occasionally abandoned projects partway through when a more interesting opportunity arose, and she has broken off professional relationships when she felt they were limiting her growth.
 
-#### Motivation
+### Motivation
 
 Ósk's primary motivation is the mastery of her craft and the creation of works that represent the pinnacle of what thatching can achieve. She is driven by a need to prove that her unconventional path was justified, that the accident that nearly ended her career actually transformed her into something greater. Secondarily, she is motivated by a desire for independence—she has deliberately avoided marriage and family obligations specifically to maintain the freedom to accept or refuse work according to her own judgment, and to pursue projects of her own choosing.
 
 She is also motivated by the persistent fear that her leg injury will eventually become debilitating, that the scar tissue will worsen with age, that arthritis or some other age-related condition will slowly steal her ability to perform the physical work that defines her identity. This fear drives her to accept too much work, to push herself harder than is wise, and to avoid acknowledging any limitation that might suggest her career is not infinite.
 
-#### Strengths
+### Strengths
 
 - **Exceptional Technical Skill Combined with Innovation**: Ósk possesses genuine mastery of traditional thatching techniques, but unlike more conventional practitioners, she is willing to experiment, to try new approaches, and to incorporate innovations that improve the craft. Her roofs are both technically sound and aesthetically superior.
 
@@ -650,7 +649,7 @@ She is also motivated by the persistent fear that her leg injury will eventually
 
 - **Independent Judgment**: She does not accept work she believes is compromised in quality, even when clients pressure her to rush or cut corners. She maintains her standards even when it costs her financially.
 
-#### Weaknesses
+### Weaknesses
 
 - **Overcommitment**: Ósk's ambitious nature and her difficulty saying no to clients means she regularly takes on too much work, leading to exhaustion, mistakes, and stress on her working relationships. She sometimes accepts projects without adequate time for planning or execution.
 
@@ -662,9 +661,9 @@ She is also motivated by the persistent fear that her leg injury will eventually
 
 - **Relationship Avoidance**: Ósk's commitment to independence has left her without close personal connections or family ties. While this allows her professional freedom, it also leaves her isolated and without the social safety net that provides stability to most people.
 
-### Social
+## Social
 
-#### Patrons
+### Patrons
 
 - **The Thegn of Vallsey, Lord Erikson**: The regional lord has engaged Ósk for all his holdings' thatching work for the past decade, appreciating both her quality and her willingness to work within his budget constraints. **Lord Erikson** has become one of her most consistent and reliable clients.
 
@@ -672,15 +671,15 @@ She is also motivated by the persistent fear that her leg injury will eventually
 
 - **Bishop Rúnhildr of the Thórr Temple**: The religious institution dedicated to the storm deity commissions Ósk for specialized high-pitched roofing work designed to shed snow and endure particularly harsh weather. The bishop values her expertise and the quality of her work.
 
-#### Enemies
+### Enemies
 
 - **Aldwin the Conventional**: A neighboring thatcher of considerable age and conservative methods, Aldwin views Ósk's innovations as dangerous shortcuts that compromise quality. He has publicly criticized her work and attempted to persuade clients away from her, viewing her success as a threat to the traditional understanding of the craft. Their professional disagreement has become tinged with personal dislike.
 
-#### Affiliations
+### Affiliations
 
 - **The Craftspeople's Collective of Malagna**: While not formally affiliated with any official guild (which would require her to follow more conservative standards), Ósk maintains good relationships with the broader community of craftspeople and occasionally collaborates on large projects.
 
-### Plot Hooks
+## Plot Hooks
 
 1. **The Commission from Across the Realm**: An emissary from a distant region, hearing of Ósk's reputation for innovation, arrives with an unusual commission: to design and oversee the construction of a roof for a structure with architectural specifications completely outside her previous experience—perhaps a tower, a dome, or a structure designed for a climate dramatically different from her native region. The challenge excites her professionally, but accepting means leaving her established base and risking her reputation on unfamiliar ground.
 

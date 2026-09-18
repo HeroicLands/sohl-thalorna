@@ -17,7 +17,6 @@ shortcode: oswinhardn
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: null
   templatePriority: null
   archetypes: []
   occupation: Innkeeper
@@ -554,11 +553,11 @@ sohl:
     defaultCombatGroup: null
 ---
 
-## Appearance {#appearance}
+# Appearance {#appearance}
 
 Oswin Harden is a 50-year-old man who stands 6'2" tall and is broad and solidly built. He has a round face with defined cheekbones, a wide forehead, and a rounded jaw that leads to a pointed chin. His wide-set blue eyes sit beneath arched brows, lending him an open gaze. A slightly upturned nose and curved lips complete his features. He has fair skin with a lightly freckled complexion. His gray hair is kept practical and short.
 
-## Dossier {#dossier}
+# Dossier {#dossier}
 
 Born in the Aelwyth region to a guilded family of Aelwythan heritage, Oswin Harden came into the world of the innkeeper through a combination of circumstance and aptitude.
 
@@ -566,37 +565,37 @@ Harlan is a former blacksmith who decided to shift his focus to running the Forg
 
 Now at 50 years of age, Oswin Harden has established himself as a known figure among the innkeepers of Aelwyth. His reputation, for better or worse, precedes him in the circles where such things matter.
 
-### Psyche
+## Psyche
 
-#### Personality
+### Personality
 
 Can be too boisterous, struggles with the finer details of innkeeping.
 
-#### Motivation
+### Motivation
 
 Oswin is driven by the desire to master his craft and secure a stable future. The uncertainties of life in innkeeper work keep him vigilant and adaptable.
 
-#### Strengths
+### Strengths
 
 Great cook, skilled at managing the inn, excellent storyteller.
 
-### Social
+## Social
 
 Oswin is affiliated with Local Innkeepers' Association.
 
 As a Aelwythan innkeeper, Oswin occupies a recognized social niche within Aelwyth society.
 
-### Companions
+## Companions
 
-#### Patrons
+### Patrons
 
 Oswin's primary patron is Adventurers and traveling merchants.. This relationship provides both opportunity and obligation.
 
-#### Enemies
+### Enemies
 
 Few; generally well-liked.
 
-### Plot Hooks
+## Plot Hooks
 
 1. **The Innkeeper's Dilemma** — Oswin faces a professional crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Aelwyth.
 

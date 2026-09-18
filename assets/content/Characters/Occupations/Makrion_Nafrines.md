@@ -16,7 +16,6 @@ shortcode: makrinfrns
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: null
   templatePriority: null
   archetypes: []
   occupation: Astrologer
@@ -556,11 +555,11 @@ sohl:
     defaultCombatGroup: null
 ---
 
-## Appearance {#appearance}
+# Appearance {#appearance}
 
 Mákrion Nâfrinês is a 46-year-old man who stands 5'11" tall and is of moderate build. He has an oval face with sharp cheekbones, a smooth forehead, and a strong jaw that leads to a strong chin. His sharp hazel eyes sit beneath heavy brows, lending him an incisive gaze. An aquiline nose and full lips complete his features. He has warm-toned skin with a smooth complexion. His graying brown hair is falling in loose waves.
 
-## Dossier {#dossier}
+# Dossier {#dossier}
 
 Born in the Heliónis region to a freeman family of Helionite heritage, Mákrion Nâfrinês came into the world of the astrologer through a combination of circumstance and aptitude.
 
@@ -568,37 +567,37 @@ Eadric is a self-taught astrologer who began his practice by observing the stars
 
 Now at 46 years of age, Mákrion Nâfrinês has established himself as a known figure among the astrologers of Heliónis. His reputation, for better or worse, precedes him in the circles where such things matter.
 
-### Psyche
+## Psyche
 
-#### Personality
+### Personality
 
 Limited formal education, not well-versed in high courtly matters.
 
-#### Motivation
+### Motivation
 
 Mákrion is driven by the desire to master his craft and secure a stable future. The uncertainties of life in astrologer work keep him vigilant and adaptable.
 
-#### Strengths
+### Strengths
 
 Practical approach to astrology, good rapport with common folk.
 
-### Social
+## Social
 
 Mákrion is affiliated with Rural Astrologers' Circle.
 
 As a Helionite astrologer, Mákrion occupies a recognized social niche within Heliónis society.
 
-### Companions
+## Companions
 
-#### Patrons
+### Patrons
 
 Mákrion's primary patron is Local farmers and villagers.. This relationship provides both opportunity and obligation.
 
-#### Enemies
+### Enemies
 
 A few educated astrologers who view his methods as unsophisticated.
 
-### Plot Hooks
+## Plot Hooks
 
 1. **The Astrologer's Dilemma** — Mákrion faces a professional crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Heliónis.
 

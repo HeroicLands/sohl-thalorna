@@ -18,7 +18,6 @@ type: being
 data:
   banner: takheperubnr
   icon: sohl-none-icon-person
-  portrait: hersaisant
   templatePriority: null
   archetypes: []
   occupation: Nobility (Tenant-in-chief)
@@ -613,15 +612,15 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Her'sa'îs Sa'Anut](images/beings/characters/hersaisant.webp){float: top-left}
-
 **Home:** [[place-ankhsetun|Ankh-Setûn]]
 
-## Appearance {#appearance}
+# Appearance {#appearance}
+
+![[hersaisant|Her'sa'îs Sa'Anut]]{float: top-left}
 
 Her'sa'îs stands 6'2" tall with a heavy build. He has olive weathered skin, black hair, and dark amber eyes. His features include a high-cheekboned face, a straight narrow nose, a pointed chin, well-shaped lips, elegantly curved brows, angular cheeks.
 
-## Dossier {#dossier}
+# Dossier {#dossier}
 
 Hersaîs was born into the Sa'Anut family as the eldest son of a tenant-in-chief of the Empire of [[affiliation-empirtkhpr|Ta'Kheperu]], a position that carried with it both significant lands and significant responsibilities. From his earliest childhood, he was groomed for military leadership, trained in swordplay by masters of the craft and educated in the strategic thinking necessary to command warriors in actual combat. His father died when Hersaîs was eighteen, and he inherited both the family's lands and their obligation to provide soldiers for the Empire's armies.
 
@@ -629,9 +628,9 @@ The young Hersaîs threw himself into military service, earning a reputation for
 
 At forty-five, Hersaîs retired from active military command but retained his position as a tenant-in-chief and maintained an unofficial advisory role regarding military matters. He married late, at age thirty-eight, to Nebet Meshenet, a woman from a major merchant family whose union strengthened his political position significantly. The marriage has produced one son, now eight years old, whom Hersaîs is training with the same rigorous discipline with which he was trained. His wife is politically astute and has become an important advisor in her own right, though she remains secondary to Hersaîs's authority in all important matters.
 
-### Psyche
+## Psyche
 
-#### Personality
+### Personality
 
 Hersaîs is a man of few words, but those words carry weight because everyone understands that they come from a position of absolute confidence in his own judgment. He does not question himself, does not apologize, and does not explain his decisions unless he believes explanation will improve future compliance with his orders. He views the world through a military lens, seeing everything as a matter of hierarchy, chain of command, and the proper maintenance of order through discipline and respect for authority.
 
@@ -639,13 +638,13 @@ He is not cruel, but he is utterly indifferent to personal comfort or emotional 
 
 Hersaîs is incapable of understanding why people would prioritize personal feeling over duty, and he views such prioritization as a kind of moral failure. He is loyal to the Per-Aá above all other commitments, and he believes that the stability of the Empire depends on the maintenance of proper hierarchy and the unwavering adherence to established law. However, this loyalty is not sentimental; it is practical and conditional. He serves the Per-Aá because the Per-Aá represents the principle of ordered authority, and he would transfer his loyalty immediately should the Per-Aá prove incapable of maintaining that authority.
 
-#### Motivation
+### Motivation
 
 Hersaîs is motivated by a conviction, developed through a lifetime of military service, that order is the greatest good and that the price of maintaining order—including the individual sacrifices that order sometimes demands—is always justified. He seeks to preserve and strengthen the Empire through the maintenance of military readiness and through the establishment of strategic alliances that will prevent future wars. His secondary motivation is dynastic: he wishes to establish the Sa'Anut family as one of the Empire's permanent ruling houses, capable of exercising authority for generations to come.
 
 At a deeper level, Hersaîs fears chaos and loss of control, and he has organized his entire life as a defense against these fears. He desperately wants to believe that his system of discipline, hierarchy, and rigid adherence to protocol can prevent the arbitrary suffering that befell others he has known. This fear drives him to create increasingly elaborate structures of control, and he is incapable of recognizing that his attempts to prevent chaos sometimes create the conditions for it.
 
-#### Strengths
+### Strengths
 
 - **Military Genius**: Hersaîs possesses an intuitive understanding of strategy, tactics, and the practical application of force that is genuinely exceptional; he can analyze complex military situations and develop solutions that surprise even experienced commanders.
 
@@ -657,7 +656,7 @@ At a deeper level, Hersaîs fears chaos and loss of control, and he has organize
 
 - **Ritual Mastery**: As a devoted follower of Íšét and as a man of rank, Hersaîs has learned the rituals, protocols, and ceremonial forms necessary to navigate both military and religious contexts with perfect precision.
 
-#### Weaknesses
+### Weaknesses
 
 - **Emotional Distance**: Hersaîs's inability or unwillingness to connect emotionally with others has left his marriage somewhat cold and his relationship with his son focused more on the transmission of duty than on affection; these relationships are functional but lack warmth.
 
@@ -669,9 +668,9 @@ At a deeper level, Hersaîs fears chaos and loss of control, and he has organize
 
 - **Vulnerability to Moral Uncertainty**: In situations where right and wrong are not clear, where duty conflicts with compassion, or where established rules do not clearly apply, Hersaîs becomes indecisive and potentially unstable.
 
-### Social
+## Social
 
-#### Patrons
+### Patrons
 
 - **The Per-Aá**: Hersaîs serves the Per-Aá directly and is one of his most trusted military advisors; the Per-Aá has rewarded his service with lands, authority, and respect.
 
@@ -681,7 +680,7 @@ At a deeper level, Hersaîs fears chaos and loss of control, and he has organize
 
 - **The Temple of Íšét**: As a devoted follower, Hersaîs maintains strong relationships with the priesthood and is a major financial supporter of the temple, earning their support in his endeavors.
 
-#### Enemies
+### Enemies
 
 - **Iry'pat Amenhotep**: The Per-Aá's nephew, who views Hersaîs as an obstacle to his own political ambitions and who has begun cultivating alternative sources of military influence.
 
@@ -691,7 +690,7 @@ At a deeper level, Hersaîs fears chaos and loss of control, and he has organize
 
 - **The Reformist Faction**: A loose alliance of progressive voices that views Hersaîs as the symbol of imperial rigidity and militarism, arguing that his influence perpetuates unnecessary military spending.
 
-#### Affiliations
+### Affiliations
 
 - **The Imperial Military**: Hersaîs maintains deep connections throughout the military hierarchy and exercises influence far beyond his formal position.
 
@@ -701,7 +700,7 @@ At a deeper level, Hersaîs fears chaos and loss of control, and he has organize
 
 - **The Sa'Anut Family**: As the family's patriarch, he seeks to elevate the Sa'Anut to permanent prominence in the imperial hierarchy.
 
-### Plot Hooks
+## Plot Hooks
 
 1. **The Dishonorable Order**: The Per-Aá issues an order that Hersaîs knows is strategically unwise and potentially disastrous for the Empire's military security. The order comes directly from the throne and cannot be questioned without appearing to challenge divine authority. Hersaîs must decide whether to obey an order he knows to be wrong, finding some way to mitigate its worst consequences, or whether to openly question the Per-Aá's judgment—an action that would likely cost him his position and possibly his life. The complication: the order may have been issued based on bad intelligence provided by Hersaîs's rival, Semer Khentiri.
 

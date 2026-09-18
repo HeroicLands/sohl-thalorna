@@ -16,7 +16,6 @@ shortcode: zoriladmvr
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: null
   templatePriority: null
   archetypes: []
   occupation: Hunter
@@ -549,11 +548,11 @@ sohl:
     defaultCombatGroup: null
 ---
 
-## Appearance {#appearance}
+# Appearance {#appearance}
 
 Zórila Dómivar is a 29-year-old woman who stands 5'8" tall and is slender. She has a square face with prominent cheekbones, a wide forehead, and a square jaw that leads to a firm chin. Her large amber eyes sit beneath straight brows, lending her an expressive gaze. A prominent nose and firm lips complete her features. She has olive-tanned skin with a sun-tanned complexion. Her dark brown hair is plaited in a single thick braid. A notable feature is a thin scar across the left cheek.
 
-## Dossier {#dossier}
+# Dossier {#dossier}
 
 Born in the Tarvénia region to a freeman family of Tarvénan heritage, Zórila Dómivar came into the world of the huntsman through a combination of circumstance and aptitude.
 
@@ -561,37 +560,37 @@ Brynhild is the trusted huntswoman for Lord Varek of Thornhill Manor. Growing up
 
 Now at 29 years of age, Zórila Dómivar has established herself as a known figure among the huntsmans of Tarvénia. Her reputation, for better or worse, precedes her in the circles where such things matter.
 
-### Psyche
+## Psyche
 
-#### Personality
+### Personality
 
 Can be stubborn, often feels the need to prove herself in a male-dominated field.
 
-#### Motivation
+### Motivation
 
 Zórila is driven by the desire to master her craft and secure a stable future. The uncertainties of life in huntsman work keep her vigilant and adaptable.
 
-#### Strengths
+### Strengths
 
 Expert archer, agile, excellent at navigating woodland terrain.
 
-### Social
+## Social
 
 Zórila is affiliated with Lord Varek’s retinue.
 
 As a Tarvénan huntsman, Zórila occupies a recognized social niche within Tarvénia society.
 
-### Companions
+## Companions
 
-#### Patrons
+### Patrons
 
 Zórila's primary patron is Lord Varek and his family.. This relationship provides both opportunity and obligation.
 
-#### Enemies
+### Enemies
 
 Few; respected by her peers but sometimes viewed with skepticism by traditionalists.
 
-### Plot Hooks
+## Plot Hooks
 
 1. **The Huntsman's Dilemma** — Zórila faces a professional crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Tarvénia.
 

@@ -15,7 +15,6 @@ shortcode: thmdspphnts
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: thmdspphnts
   templatePriority: null
   archetypes: []
   occupation: Trapper
@@ -598,13 +597,13 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Theomídes Epiphaniôtês](images/beings/characters/thmdspphnts.webp){float: top-left}
+# Appearance {#appearance}
 
-## Appearance {#appearance}
+![[thmdspphnts|Theomídes Epiphaniôtês]]{float: top-left}
 
 Theomídes stands 6'0" tall with a medium build. He has tanned weathered skin, black hair, and brown eyes. His features include a narrow face, a hawkish nose, a strong jawline, full lips, strong brows, angular cheeks.
 
-## Dossier {#dossier}
+# Dossier {#dossier}
 
 Theomídes was born in the mountain villages of the Byzarian League, the fifth son of a merchant-turned-shepherd. While his older brothers pursued trade and politics, young Theomídes showed no interest in crowded markets or civic affairs. Instead, he spent his youth stalking the high passes and dense forests, learning the language of paw prints and scat, of wind direction and animal behavior. His father, initially disappointed, eventually recognized his son's singular gift and apprenticed him to **Master Iskandor the Gray**, a legendary trapper whose name was whispered with reverence in hunting lodges.
 
@@ -612,19 +611,19 @@ Under Iskandor's guidance, Theomídes mastered every aspect of the hunter's craf
 
 Since then, Theomídes has made his living as an independent trapper and hunter, supplying furs to merchants and solving problems for farmers plagued by predators. He maintains a modest lodge in the foothills, spending winters processing his catch and summers ranging far into remote territories. He has never married, never taken on an apprentice, and never shown interest in settling into civilization. His life is the forest, and the forest is his life.
 
-### Psyche
+## Psyche
 
-#### Personality
+### Personality
 
 Theomídes is a man of few words and fewer pretenses. He speaks when silence would suffice, and his silences are purposeful, not awkward. There is no malice in his taciturn nature—merely an honest assessment that most conversation wastes breath that could be better spent observing. With those who respect the wild as he does, he can be surprisingly warm, sharing stories of hunts and near-misses with the gentle humor of one who has made peace with danger.
 
 His values are straightforward: respect the animals you kill, waste nothing from their bodies, and leave the forest better than you found it. He has no patience for poachers or commercial hunters who strip landscapes bare, and he will speak bluntly—one of the few topics that can draw sharp words from his usually measured tongue—about the moral failings of those who desecrate the wild.
 
-#### Motivation
+### Motivation
 
 Theomídes is motivated by a desire to preserve the balance of the wild places he has come to love. The encroachment of civilization weighs on him, but rather than resist or flee entirely, he works to ensure that those who use the forest—hunters, farmers, merchants—do so responsibly. He also harbors a quiet determination to mentor a worthy successor to carry on Iskandor's legacy, though he has yet to find someone with the patience and humility required.
 
-#### Strengths
+### Strengths
 
 - **Master Tracker**: Theomídes can follow a trail through brush and stone that others would deem impossible. His understanding of animal behavior is encyclopedic, allowing him to predict movement and location with uncanny accuracy.
 - **Exceptional Awareness**: Years of reading subtle environmental clues have honed his senses to near-supernatural levels. He notices what others miss—the snap of a twig, the shift of wind, the displacement of undergrowth.
@@ -632,7 +631,7 @@ Theomídes is motivated by a desire to preserve the balance of the wild places h
 - **Survival Mastery**: Theomídes can sustain himself indefinitely in wilderness. He knows which plants nourish and which poison, how to find water, how to predict weather.
 - **Physical Endurance**: Decades of work have made him remarkably resilient, capable of forced marches and back-breaking labor without complaint.
 
-#### Weaknesses
+### Weaknesses
 
 - **Social Isolation**: Theomídes struggles in urban environments and with the elaborate courtesies of city society. He finds small talk exhausting and formal negotiations almost unbearable.
 - **Commercial Inexperience**: His lack of bargaining skill has cost him dearly. He often accepts the first price offered, unable to navigate the politics of trade.
@@ -640,26 +639,26 @@ Theomídes is motivated by a desire to preserve the balance of the wild places h
 - **Prejudice Against Change**: Theomídes resists innovations and prefers the methods he knows. He can be stubborn about adopting new techniques, even when they might prove useful.
 - **Vulnerability to Civilization**: While supreme in the wild, Theomídes is somewhat helpless in urban settings, making him uncomfortable and slightly suspicious in cities.
 
-### Social
+## Social
 
-#### Patrons
+### Patrons
 
 - **The Merchant House of Pelios**: A family of fur traders who have purchased Theomídes' pelts for two decades. **Kyros Pelios**, the patriarch, trusts his judgment implicitly and often seeks his advice on which furs will command premium prices.
 - **Farmer **Alexandros Thrasonis\*\*: A desperate man whose lands were plagued by a massive bear until Theomídes tracked and relocated it. Alexandros now sends urgent requests whenever predators menace his herds.
 - **Master Leatherworker **Dmitri Korikotis\*\*: Uses only the finest hides, prepared by Theomídes himself. He values the trapper's expertise and treats him as a partner rather than a supplier.
 
-#### Enemies
+### Enemies
 
 - **The Poacher Cartel led by **Grevin the Scarred\*\*: A network of commercial hunters who strip forests bare and sell inferior pelts under false names. Theomídes has actively worked against them, sometimes preventing their hunts and always warning villages of their approach.
 - **The Logging Consortium of the Byzarian League**: Merchants who push for ever-deeper cutting into forests Theomídes considers sacred. He has not acted against them openly but harbors deep resentment.
 
-#### Affiliations
+### Affiliations
 
 Theomídes operates entirely independently and mistrusts formal organizations, but he is loosely connected to:
 
 - **The Hunters' Fraternity**: An informal network of skilled hunters and trappers who share information and occasionally band together against threats to game populations.
 
-### Plot Hooks
+## Plot Hooks
 
 1. **The Disappearing Animals**: Over the past season, the normal migrations have ceased entirely. Herds that should pass through the foothills never arrive. Theomídes begins to suspect something far larger than poaching—perhaps a territorial shift among apex predators, or the influence of something unnatural. **Master Iskandor's** old journals contain fragmented references to a previous occurrence three centuries past, hinting at catastrophe. Investigating the cause would require venturing into territories Theomídes has never explored, following signs only he can read.
 

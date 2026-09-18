@@ -16,7 +16,6 @@ shortcode: hildbrwnng
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: null
   templatePriority: null
   archetypes: []
   occupation: Prostitute
@@ -547,11 +546,11 @@ sohl:
     defaultCombatGroup: null
 ---
 
-## Appearance {#appearance}
+# Appearance {#appearance}
 
 Hilda Browning is a 24-year-old woman who stands 5'6" tall and is of moderate build. She has a round face with soft cheekbones, a prominent forehead, and a strong jaw that leads to a delicate chin. Her narrow gray eyes sit beneath straight brows, lending her a keen gaze. A rounded nose and thin lips complete her features. She has fair skin with a ruddy complexion. Her blonde hair is loose and wavy.
 
-## Dossier {#dossier}
+# Dossier {#dossier}
 
 Born in the Aelwyth region to a freeman family of Aelwythan heritage, Hilda Browning came into the world of the prostitute through a combination of circumstance and aptitude.
 
@@ -559,37 +558,37 @@ Nyssa works at a bustling brothel but has strong ties to the Gray Tide. While sh
 
 Now at 24 years of age, Hilda Browning has established herself as a known figure among the prostitutes of Aelwyth. Her reputation, for better or worse, precedes her in the circles where such things matter.
 
-### Psyche
+## Psyche
 
-#### Personality
+### Personality
 
 Can be overly trusting of her Tide contacts, struggles with her dual life.
 
-#### Motivation
+### Motivation
 
 Hilda is driven by the desire to master her craft and secure a stable future. The uncertainties of life in prostitute work keep her vigilant and adaptable.
 
-#### Strengths
+### Strengths
 
 Skilled in persuasion, resourceful, good at gathering information.
 
-### Social
+## Social
 
 Hilda is affiliated with the Gray Tide, a maritime crime network operating in Aelwyth.
 
 As a Aelwythan prostitute, Hilda occupies a recognized social niche within Aelwyth society.
 
-### Companions
+## Companions
 
-#### Patrons
+### Patrons
 
 Hilda's primary patron is Wealthy clients seeking companionship and entertainment.. This relationship provides both opportunity and obligation.
 
-#### Enemies
+### Enemies
 
 Few; respected in her profession, but some rival guild members may see her as a threat.
 
-### Plot Hooks
+## Plot Hooks
 
 1. **The Prostitute's Dilemma** — Hilda faces a professional crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Aelwyth.
 

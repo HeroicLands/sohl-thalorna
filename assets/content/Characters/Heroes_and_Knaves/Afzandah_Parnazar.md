@@ -16,7 +16,6 @@ shortcode: afzndhprnzr
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: afzndhprnzr
   templatePriority: null
   archetypes: []
   occupation: Weaponcrafter (Armorer)
@@ -586,41 +585,41 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Afzandah Parnâzar](images/beings/characters/afzndhprnzr.webp){float: top-left}
+# Appearance {#appearance}
 
-## Appearance {#appearance}
+![[afzndhprnzr|Afzandah Parnâzar]]{float: top-left}
 
 Afzandah stands 5'8" tall with a medium build. She has golden olive skin, dark black hair, and green eyes. Her features include an oval face, a strong nose, a pointed chin, slightly pursed lips, arched brows, angular cheeks. A distinguishing mark is a scar on the left ankle.
 
-## Dossier {#dossier}
+# Dossier {#dossier}
 
-### Background
+## Background
 
-#### Early Years
+### Early Years
 
 Afzandah was born into the Parnâzar clan in the oasis city of Kethramír, where her family had long held a modest reputation as merchants trading in minerals and semi-precious stones. Her father, Rezân Parnâzar, encouraged her curiosity about gemstones and their properties, often taking her to the prospecting camps in the surrounding desert. Her mother, Isâira, was the daughter of a Khazryn weaponsmith, and it was through her mother's lineage that Afzandah gained early exposure to metalworking. While her brothers were groomed to continue the family's trading enterprise, Afzandah was quietly apprenticed at age twelve to the master armorer **Valdrin Corethûs**, a gruff but brilliant craftsman who recognized her exceptional dexterity and creative instinct.
 
-#### Mastery and Innovation
+### Mastery and Innovation
 
 Under Valdrin's tutelage for seven years, Afzandah absorbed not merely the technical skills of armor-smithing and weapon-crafting, but the deeper philosophy of her mentor's approach to form and function. Where traditional Khazryn craftsmanship prized durability and martial practicality, Afzandah became fascinated by the intersection of artistry and utility—how decorative metalwork could enhance rather than compromise a weapon's effectiveness. After achieving the rank of Guildmaster at age twenty-five, she established her own workshop in Kethramír's artisan district, earning the patronage of wealthy travelers, minor nobility, and adventurers seeking unique arms. Her signature style blends geometric Khazryn patterns with flowing arabesques influenced by her study of ancient texts and ritual metalwork. The devotion of the Voyager aspect of **Šírvádár** drew her deeper into understanding the spiritual significance of the tools that aid travelers in their journeys.
 
-#### Current Situation
+### Current Situation
 
 Now thirty-three, Afzandah operates her workshop independently, having secured standing within the local artisans' guild—though not without friction from more traditional smiths who view her work as impractical embellishment. Her reputation has grown among discerning clients, and she receives commissions from across the desert kingdoms. However, she struggles with the commercial reality that truly exceptional work commands prices that many adventurers cannot afford, while those who can afford her creations often seek her for purely decorative pieces rather than functional arms. This tension between artistic vision and market demand gnaws at her, and she has begun taking on more dangerous commissions simply to fund her experimental designs. A nagging suspicion that her talent is being wasted on wealthy collectors who will never use their weapons in true combat drives many of her recent decisions.
 
-### Psyche
+## Psyche
 
-#### Personality
+### Personality
 
 Afzandah possesses a restless creative energy that manifests as both brilliance and stubbornness. In her workshop, she is methodical and absorbed, capable of focusing for hours on minute details that others would dismiss. She speaks with quiet confidence about her craft, her reasoning sharp and her design choices articulate. Yet away from metalwork, she can be aloof and reserved, uncomfortable with small talk and dismissive of those she perceives as intellectually shallow. She is not cruel in this assessment—merely honest to the point of social friction. Her sense of humor, when it surfaces, tends toward dry observation and witty commentary about the foibles of her clients.
 
 Behind her composed exterior lies a deeper restlessness. Afzandah is fascinated by movement, travel, and exploration—interests rooted in her devotion to Šírvádár—and she envies the adventurers who commission her weapons and then vanish into the great wide world to use them. She wants her creations to be tested in the furnace of real experience, not left gathering dust in a noble's vault. This hunger for something beyond her current life occasionally surfaces as impatience and a willingness to take risks that pragmatism would counsel against.
 
-#### Motivation
+### Motivation
 
 Afzandah is driven by two competing desires that threaten to tear her life in opposite directions. She seeks artistic recognition and the freedom to pursue her creative vision without compromise—to create objects of genuine beauty and power that will be remembered and treasured. Yet she also craves the tangible satisfaction of seeing her work used in earnest, tested against real adversity, acknowledged by the world not as decorative luxury but as essential tools in stories worth telling. She would leave her comfortable workshop in an instant if she believed it would grant her the opportunity to watch her weapons change the course of events in the great world beyond the desert.
 
-#### Strengths
+### Strengths
 
 - **Masterful Metalcraft**: Afzandah's technical skill in metalworking is exceptional, allowing her to create weapons and armor of superior quality and unique design. Her weapons balance lethal function with artistic beauty in ways that few craftspeople can achieve.
 
@@ -632,7 +631,7 @@ Afzandah is driven by two competing desires that threaten to tear her life in op
 
 - **Dual Competence**: She is not merely an artisan—her combat-relevant skills (melee, throwing, archery, climbing) mean she is capable in the field, a rarity among workshop-bound craftspeople.
 
-#### Weaknesses
+### Weaknesses
 
 - **Artistic Stubbornness**: Afzandah's high creativity and strong reasoning often manifest as inflexibility. Once she has determined the "correct" way to execute a design, she resists client feedback and practical modifications, sometimes to the detriment of commissions.
 
@@ -644,9 +643,9 @@ Afzandah is driven by two competing desires that threaten to tear her life in op
 
 - **Physical Limitations in Combat**: While capable, her strength is modest (12). In prolonged martial engagement, she would be outmatched by dedicated warriors, limiting her ability to truly "test" her creations in the field.
 
-### Social
+## Social
 
-#### Patrons
+### Patrons
 
 - **Zephyr-Merchant Kaelûs**: A wealthy trader in exotic materials who regularly commissions Afzandah for unique decorative arms to gift to minor nobility. His consistent business sustains her workshop, though she finds his taste uninspired.
 
@@ -654,19 +653,19 @@ Afzandah is driven by two competing desires that threaten to tear her life in op
 
 - **High Artisan Valdrin Corethûs**: Her former master, now retired, who takes pride in Afzandah's accomplishments and occasionally directs difficult technical problems to her for consultation.
 
-#### Enemies
+### Enemies
 
 - **Master-Smith Thordûn Blackforge**: A traditional weaponsmith who views Afzandah's ornamental designs as frivolous and has actively discouraged clients from commissioning her work. He sees her as a threat to the reputation of "serious" arms-craft and spreads rumors about the durability of her weapons.
 
 - **The Ferric Brotherhood**: A loose association of traditionalist craftspeople who have formally protested her advancement within the artisans' guild, claiming her work violates the guild's standards for martial functionality. They have attempted, thus far unsuccessfully, to have her expelled.
 
-#### Affiliations
+### Affiliations
 
 - **Kethramír Artisans' Guild**: Afzandah holds full Guildmaster standing, though her relationship with the organization is fraught. She pays her dues and maintains the minimum necessary involvement, frustrated by their conservatism.
 
 - **The Devotees of Šírvádár**: She maintains loose affiliation with the temple of the Voyager in Kethramír, participating in seasonal rituals and seeking spiritual guidance regarding her wanderlust. The priests encourage her to see travel and adventure as forms of sacred service.
 
-### Plot Hooks
+## Plot Hooks
 
 1. **The Caravan Master's Commission**: A caravan master named **Hesûd al-Kethrim** arrives in Kethramír with an extraordinary offer. He has been hired by a distant noble to assemble a company of capable warriors and craftspeople for a dangerous expedition into the Shattered Peaks, where legendary mithral deposits are rumored to exist. He seeks Afzandah specifically, having heard that she can work with exotic materials under harsh conditions. The commission is substantial—enough to fund a year of experimental work—but it requires her personal involvement in the expedition's field operations. Hesûd is vague about the precise dangers, mentioning only "environmental hazards" and "territorial complications." Afzandah's expertise in mineralogy and material sourcing would be invaluable, but she would be away from her workshop for months. The real danger is that Hesûd's patron is actually the sorcerer-lord **Vex'thar**, who seeks mithral not for legitimate commerce but for a dark ritual. Afzandah and her party would discover this truth only after accepting the contract.
 

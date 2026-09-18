@@ -16,7 +16,6 @@ shortcode: alvrngrvth
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: null
   templatePriority: null
   archetypes: []
   occupation: Salter
@@ -552,11 +551,11 @@ sohl:
     defaultCombatGroup: null
 ---
 
-## Appearance {#appearance}
+# Appearance {#appearance}
 
 Alváren Gráveth is a 40-year-old man who stands 6'2" tall and is broad and solidly built. He has a diamond face with high cheekbones, a prominent forehead, and a strong jaw that leads to a firm chin. His hooded brown eyes sit beneath straight brows, lending him a guarded gaze. A prominent nose and wide lips complete his features. He has warm-toned skin with a bronzed complexion. His dark brown hair is cropped short.
 
-## Dossier {#dossier}
+# Dossier {#dossier}
 
 Born in the Tarvénia region to a freeman family of Tarvénan heritage, Alváren Gráveth came into the world of the salter through a combination of circumstance and aptitude.
 
@@ -564,37 +563,37 @@ Thaddeus is a seasoned salter who has spent decades perfecting his craft. He run
 
 Now at 40 years of age, Alváren Gráveth has established himself as a known figure among the salters of Tarvénia. His reputation, for better or worse, precedes him in the circles where such things matter.
 
-### Psyche
+## Psyche
 
-#### Personality
+### Personality
 
 Can be set in his ways, struggles with new technology.
 
-#### Motivation
+### Motivation
 
 Alváren is driven by the desire to master his craft and secure a stable future. The uncertainties of life in salter work keep him vigilant and adaptable.
 
-#### Strengths
+### Strengths
 
 Highly experienced, skilled in production techniques, good mentor.
 
-### Social
+## Social
 
 Alváren is affiliated with None; operates independently..
 
 As a Tarvénan salter, Alváren occupies a recognized social niche within Tarvénia society.
 
-### Companions
+## Companions
 
-#### Patrons
+### Patrons
 
 Alváren's primary patron is Merchants and local businesses seeking bulk supplies of salt.. This relationship provides both opportunity and obligation.
 
-#### Enemies
+### Enemies
 
 Few; generally well-respected but may have competitors in the industry.
 
-### Plot Hooks
+## Plot Hooks
 
 1. **The Salter's Dilemma** — Alváren faces a professional crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Tarvénia.
 

@@ -25,6 +25,12 @@ data:
   species: null
 ---
 
+# Appearance {#appearance}
+
+TBD
+
+# Dossier {#dossier}
+
 **Role.** A Senator of the [[affiliation-repblctrvn|Tarvennan Republic]].
 
 **Background.** Kidnapped and murdered in 717.

@@ -18,7 +18,6 @@ type: being
 data:
   banner: takheperubnr
   icon: sohl-none-icon-person
-  portrait: tamiyrajat
   templatePriority: null
   archetypes: []
   occupation: Courtesan
@@ -603,15 +602,15 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Ta'miyra Jâut](images/beings/characters/tamiyrajat.webp){float: top-left}
-
 **Home:** [[place-perankhet|Per-Ankhet]]
 
-## Appearance {#appearance}
+# Appearance {#appearance}
+
+![[tamiyrajat|Ta'miyra Jâut]]{float: top-left}
 
 Ta'miyra stands 5'3" tall with a light build. She has warm bronze skin, jet black hair, and black eyes. Her features include a diamond-shaped face, a tapered chin, fine brows. A distinguishing mark is a faint scar on the left side of the neck.
 
-## Dossier {#dossier}
+# Dossier {#dossier}
 
 Tamiyra was born into the house of a minor imperial scribe during the reign of prosperity in the Empire of [[affiliation-empirtkhpr|Ta'Kheperu]]. Her childhood was spent among ledgers and ceremonial robes, learning the unspoken language of power before she could read formal script. At fourteen, her family's fortunes shifted when her father's loyalty to a disgraced official was discovered. Rather than accept ruin, her mother positioned young Tamiyra in the household of a wealthy merchant lord, where she learned the arts of charm, conversation, and strategic influence. What was meant as temporary survived became permanent when Tamiyra discovered she possessed a talent far exceeding expectation—she could make men and women alike believe she understood their deepest desires.
 
@@ -619,19 +618,19 @@ By twenty-eight, Tamiyra had become the most sought-after courtesan in the imper
 
 Now, at thirty-six, she operates with the wariness of someone who knows how quickly fortune can collapse. She has expanded her network to include not just wealthy nobles but scholars, merchants, and those who move in shadow. The scar on her neck—a gift from an assassin she barely survived five years past—has become a symbol not of weakness but of resilience.
 
-### Psyche
+## Psyche
 
-#### Personality
+### Personality
 
 Tamiyra presents two distinct faces to the world. In public gatherings, she is the embodiment of grace: witty, charming, and seemingly open-hearted. She listens more than she speaks, a talent that makes others feel heard and valued. Yet behind those gray eyes runs a calculating mind that never stops assessing, evaluating, and planning. She is neither cruel nor purely mercenary; she possesses a genuine empathy that makes her understanding of people feel authentic rather than manufactured.
 
 In private, she is far more direct. Those who have earned her trust find her surprisingly candid, capable of philosophical discourse on the nature of power, love, and mortality. She maintains emotional distance as a form of self-preservation, having learned that vulnerability is a luxury only the powerful can afford. She values honor in a complex way—not the simple honor of knights and soldiers, but the honor of one's word, of maintaining one's obligations, and of treating those below you with respect.
 
-#### Motivation
+### Motivation
 
 Tamiyra's primary motivation is survival combined with the acquisition of security that cannot be stripped away by scandal or politics. She has constructed a network of patrons and allies specifically because she understands the fragility of beauty and favor. More subtly, she seeks to prove that a woman of her origins and profession can accumulate genuine influence—not the borrowed authority of her patrons' positions, but power that belongs entirely to her. She is driven by a quiet hunger to build something permanent in a world that has shown her nothing is certain.
 
-#### Strengths
+### Strengths
 
 - **Master of Social Navigation**: Her exceptional eloquence (16), charm (15), and discourse abilities (15) make her unsurpassed in reading rooms and adapting her presentation. She can negotiate, persuade, and charm her way through virtually any social scenario.
 
@@ -643,7 +642,7 @@ Tamiyra's primary motivation is survival combined with the acquisition of securi
 
 - **Strategic Intellect**: Despite not being a warrior, her reasoning (15) and intrigue skills (13) make her formidable in political machinations. She thinks several moves ahead.
 
-#### Weaknesses
+### Weaknesses
 
 - **Emotional Isolation**: Years of maintaining facades have made genuine vulnerability difficult. She struggles to form truly deep connections, always maintaining a protective distance that can make her seem cold to those who attempt intimacy.
 
@@ -655,9 +654,9 @@ Tamiyra's primary motivation is survival combined with the acquisition of securi
 
 - **Dependence on Patrons**: Despite her independence, she still requires the financial and political support of her network. This creates subtle but real constraints on her autonomy.
 
-### Social
+## Social
 
-#### Patrons
+### Patrons
 
 - **Lord Amenhotep Kajem**: A wealthy industrialist and collector of fine arts who values Tamiyra as both companion and intellectual equal. He provides her with significant financial support and protection from those who might exploit her former scandal. Their relationship is perhaps her most stable, built on mutual respect rather than mere attraction.
 
@@ -667,19 +666,19 @@ Tamiyra's primary motivation is survival combined with the acquisition of securi
 
 - **High Scribe Demetrios Callias**: A learned man of letters who employs her to transcribe rare texts and discuss philosophy. He is one of the few patrons with whom she shares genuine intellectual partnership rather than merely performing companionship.
 
-#### Enemies
+### Enemies
 
 - **Lord Commander Azaes Korvac**: The military officer involved in her scandal, now openly resentful of her continued elevation while his own career stalled following the incident. He harbors fantasies of somehow destroying her reputation thoroughly enough that she cannot recover. He spreads rumors about her whenever possible and has hired informants to discover new scandals he might weaponize.
 
 - **Merchant Rival Selena Moros**: A younger courtesan who rose to prominence in the years following Tamiyra's scandal, positioning herself as the fresh alternative to Tamiyra's potentially dangerous history. She actively poaches Tamiyra's patrons and spreads insinuations that Tamiyra is aging out of her prime appeal.
 
-#### Affiliations
+### Affiliations
 
 - **The Circle of the Veil**: An informal network of courtesans, companions, and women of influence throughout Ta'Kheperu who exchange information, provide mutual protection, and maintain standards for their profession. Tamiyra serves as an unofficial advisor to this network.
 
 - **The Scribal Consortium**: A loose association of scholars, historians, and learned individuals who commission her transcription work and include her in their intellectual circles, giving her access to knowledge and protected status as a patron of learning.
 
-### Plot Hooks
+## Plot Hooks
 
 1. **The Forged Seal**: Tamiyra discovers that the diplomatic correspondence that caused her scandal—which she always believed genuine—was actually a clever fabrication created by a third party to manipulate both her patrons and their enemies. The original architect of this scheme, whom she has never identified, is now making moves to blackmail her with proof of the forgery. She must uncover who orchestrated the original deception before this unknown enemy can leverage it against her entire network.
 

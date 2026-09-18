@@ -17,7 +17,6 @@ shortcode: eldgrmrflmhrt
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: null
   templatePriority: null
   archetypes: []
   occupation: Champion
@@ -520,47 +519,47 @@ sohl:
     defaultCombatGroup: null
 ---
 
-## Appearance {#appearance}
+# Appearance {#appearance}
 
 Eldgrimr stands 6'0" with a powerful, barrel-chested frame, weighing around 210 pounds. His tanned skin is deeply weathered and marked with faint burn scars that trace patterns across his forearms and hands. His brown hair is cropped short and singed at the edges, and his amber eyes burn with an unsettling intensity. His features are blunt and aggressive, with a broad, flat nose, a heavy jaw, thick brows, and a wide mouth set in a perpetual snarl or grin — it is often hard to tell which. His skin radiates an unnatural warmth that others can feel from paces away. Eldgrimr wears blackened leather armor reinforced with iron studs, scorched and pitted from proximity to flame. A heavy warhammer hangs from his belt, its head discolored from heat, and his cloak is made from the hide of some great beast, charred at the hems.
 
-## Dossier {#dossier}
+# Dossier {#dossier}
 
 Eldgrimr was born in the shadow of an active volcano, where his clan believed that Súrtr's flames shaped the land and their destiny. From a young age, he was fascinated by fire, often sneaking away to watch the molten lava flow and the sparks dance in the night sky. As he grew, Eldgrimr became a warrior of unmatched ferocity, known for his ability to withstand intense heat and his love for the chaos of battle. His heart, it was said, burned with the very fire of Súrtr, driving him to seek out ever greater challenges.
 
 The saga of Eldgrimr Flameheart tells of his battle against the Frost Giants, ancient enemies of Súrtr who sought to extinguish the flames of the world. When the Frost Giants descended upon his homeland, freezing rivers and shattering mountains, Eldgrimr knew that only the fire of Súrtr could stop them. He journeyed to the heart of the volcano that had shaped his life, praying to Súrtr for the strength to defeat these icy foes. In response, Súrtr blessed him with the power of the Eternal Flame, a burning aura that surrounded him in battle. With his newfound strength, Eldgrimr faced the Frost Giants alone, melting their icy weapons and turning their bodies to steam. His victory ensured the survival of his people and the continuation of Súrtr's fiery reign.
 
-### Psyche
+## Psyche
 
-#### Personality
+### Personality
 
 Eldgrimr is intense and volatile, a man whose emotions burn as hot as the flames he reveres. He laughs loudly, argues passionately, and fights with abandon. He has little patience for cowardice or hesitation and can be cruel in his dismissal of those he considers weak. Yet beneath the bluster, Eldgrimr possesses a fierce loyalty to those who have earned his respect, and he would walk through literal fire for his companions — something he has done on more than one occasion.
 
-#### Motivation
+### Motivation
 
 Eldgrimr seeks the glory of battle and the approval of Súrtr, whom he worships with fanatical devotion. He believes the world will end in fire and that only those who have proven themselves worthy through combat will be reborn in the flames. He secretly fears growing old and weak, and drives himself to increasingly dangerous feats to prove he still carries Súrtr's flame within him.
 
-#### Strengths
+### Strengths
 
 Eldgrimr's resistance to heat and fire borders on the supernatural, allowing him to fight in conditions that would incapacitate ordinary warriors. His ferocity in combat is legendary, and his war cry alone has been known to break enemy formations. He is an expert in fighting in volcanic and geothermal terrain, using the landscape itself as a weapon against his foes.
 
-### Social
+## Social
 
-### Companions
+## Companions
 
-#### Patrons
+### Patrons
 
 **The Flame Temple of Ashenmount** — The high priests of Súrtr's most sacred temple recognize Eldgrimr as blessed by the god and provide him with arms, provisions, and spiritual guidance.
 
 **Jarl Thorvald Embersteel** — A warlike jarl who keeps Eldgrimr close as both champion and bodyguard, knowing that the warrior's reputation alone deters many would-be challengers.
 
-#### Enemies
+### Enemies
 
 **The Frost Wardens** — Survivors of the Frost Giant clans who have sworn a blood oath against Eldgrimr for the destruction of their kin. They send assassins armed with enchanted ice weapons.
 
 **Brynhildr Ashenmaiden** — Though both serve Súrtr, their interpretations of the god's will differ sharply. Brynhildr sees Eldgrimr's reckless aggression as a perversion of Súrtr's purifying flame, and the tension between them has nearly erupted into open conflict.
 
-### Plot Hooks
+## Plot Hooks
 
 1. **The Frozen Heart** — A new Frost Giant warlord has emerged, bearing an artifact that can extinguish any flame. Eldgrimr must find and destroy this weapon before it can be used against Súrtr's sacred fires.
 

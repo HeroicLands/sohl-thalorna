@@ -25,6 +25,12 @@ data:
   species: null
 ---
 
+# Appearance {#appearance}
+
+TBD
+
+# Dossier {#dossier}
+
 **Role.** Provides medical care to the party.
 
 **Background.** Reckoned among the best physicians and healers in Dúnavarre.

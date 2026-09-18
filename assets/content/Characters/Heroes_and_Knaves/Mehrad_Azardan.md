@@ -16,7 +16,6 @@ shortcode: mehradzrdn
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: mehradzrdn
   templatePriority: null
   archetypes: []
   occupation: Pilot
@@ -604,39 +603,39 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Mehrâd Âzardan](images/beings/characters/mehradzrdn.webp){float: top-left}
+# Appearance {#appearance}
 
-## Appearance {#appearance}
+![[mehradzrdn|Mehrâd Âzardan]]{float: top-left}
 
 Mehrâd stands 5'7" tall with a light build. He has warm olive skin, dark black hair, and green eyes. His features include an oval face, a hawkish nose, a well-defined jawline, full lips, prominent brows, hollow cheeks. A distinguishing mark is a scar on the lower abdomen.
 
-## Dossier {#dossier}
+# Dossier {#dossier}
 
-### Background
+## Background
 
-#### The Child of the Storm
+### The Child of the Storm
 
 Mehrâd was born in the coastal settlements of the Sultanate of Amradad to a family of traders and minor pilots who navigated the treacherous waters between the sultanate and distant ports. His father, a respected merchant captain, intended that Mehrâd would follow the family tradition of commerce and cautious navigation. From his earliest childhood, however, Mehrâd displayed an unusual gift—an almost intuitive understanding of wind, water, and weather. He could sense approaching storms before they became visible, read the subtle changes in water color that indicated dangerous currents, and predict with startling accuracy the behavior of vessels in difficult conditions. His father recognized something rare: not merely competence, but genius in its purest form.
 
-#### The Pilot's Apprenticeship
+### The Pilot's Apprenticeship
 
 Rather than follow the merchant trade, Mehrâd insisted upon becoming a pilot—a profession that demanded the ability to guide vessels through impossible circumstances and dangerous passages. He apprenticed under an aging master navigator named Sayyid al-Jamrah, learning not only the practical techniques of piloting but also the deeper understanding of weather and water that separated masters from competent technicians. The apprenticeship was brutal; Sayyid tested Mehrâd constantly, often deliberately placing him in dangerous situations to see if his instinct would overcome his inexperience. By his early twenties, Mehrâd had become one of the most sought-after pilots in the sultanate, able to navigate passages that other captains considered impassable.
 
-#### The Present Zenith
+### The Present Zenith
 
 Now, at thirty-five, Mehrâd has achieved the status of legendary pilot while remaining dangerously young for such renown. He has earned significant wealth through piloting fees, contracts with merchant consortiums, and the patronage of those who seek his talents for increasingly dangerous and exotic voyages. Yet his success has come at personal cost—his recklessness in taking dangerous contracts has earned him a reputation as much for audacity as for competence, and several competitors have attempted to discredit him or recruit him away from independent work. He maintains membership in the Local Mariners' Guild but operates largely independently, selecting only contracts that interest him and refusing far more than he accepts. In recent years, he has begun to accept commissions from adventurers and explorers seeking to venture into uncharted waters, suggesting that his thirst for challenge and danger may be evolving toward something more ambitious than merely excellent sailing.
 
-### Psyche
+## Psyche
 
-#### Personality
+### Personality
 
 Mehrâd is a creature of controlled intensity with a predisposition toward action rather than contemplation. He is quick-witted and capable of remarkable charm when he chooses to employ it, though his charm often emerges as teasing or provocative rather than genuinely warm. He speaks with the directness of someone accustomed to barking orders aboard vessels where miscommunication means death, and he struggles with the niceties of formal conversation or diplomatic protocol. He is intensely competitive, capable of holding grudges with the intensity that others reserve for affection, and he measures his value by his accomplishments and the difficulty of the challenges he has overcome. Beneath his confidence lies a streak of genuine fear—fear that the waters will eventually prove more powerful than his instinct and skill, fear that age will diminish the reflexes and sensitivity that define him. He addresses this fear by progressively taking more dangerous contracts, as if proving again and again that he remains worthy of the reputation that precedes him.
 
-#### Motivation
+### Motivation
 
 Mehrâd is driven by a need to prove that the combination of instinct, skill, and courage can overcome any obstacle the natural world can present. He seeks to be remembered as the greatest pilot to have ever lived, a figure so legendary that his name becomes synonymous with impossible navigation and the triumph of human excellence over circumstance. He is also motivated by a desire for novelty and challenge—routine work bores him almost physically, and he will abandon profitable contracts if something more interesting emerges. There is also a darker motivation lurking beneath: a desperate belief that if he stops moving, stops challenging himself, he will confront truths about his isolation and the emptiness of a life devoted solely to accomplishment without connection.
 
-#### Strengths
+### Strengths
 
 - **Unmatched Piloting Skill**: Mehrâd's intuitive understanding of wind, water, and weather is genuinely exceptional; he can navigate circumstances that would prove fatal to ordinary pilots.
 - **Extraordinary Physical Reflexes**: His dexterity and agility are among his most notable attributes; he can move with precision and speed that borders on the supernatural.
@@ -644,7 +643,7 @@ Mehrâd is driven by a need to prove that the combination of instinct, skill, an
 - **Exceptional Melee Combat**: Though no trained warrior, his speed and reflexes make him a formidable fighter in close combat, particularly aboard vessels where space is limited.
 - **Climbing and Acrobatic Mastery**: His work aboard vessels has made him extraordinarily skilled at rapid movement through complex three-dimensional spaces, climbing rigging, and maintaining balance in difficult circumstances.
 
-#### Weaknesses
+### Weaknesses
 
 - **Recklessness Bordering on Self-Destruction**: Mehrâd consistently underestimates danger and overestimates his ability to overcome circumstances through pure skill and audacity.
 - **Difficulty with Authority**: He struggles genuinely with accepting direction from others, particularly in situations where he believes his judgment superior to that of whoever nominally commands.
@@ -652,25 +651,25 @@ Mehrâd is driven by a need to prove that the combination of instinct, skill, an
 - **Limited Combat Training**: While his physical reflexes make him dangerous in close quarters, he has received no formal martial training and can be overwhelmed by a truly skilled fighter.
 - **Inability to Surrender**: Mehrâd cannot accept defeat or failure gracefully; a single reversed decision or unsuccessful venture can push him into reckless overcompensation.
 
-### Social
+## Social
 
-#### Patrons
+### Patrons
 
 - **Merchant Consortium of the Eastern Trade**: A powerful merchant collective that has contracted Mehrâd's services repeatedly for particularly difficult voyages between sultanate ports and distant trading partners.
 - **Captain Sámir the Venerable**: An aging merchant captain and Mehrâd's closest friend, who continues to offer him navigation contracts and serves as one of the few people Mehrâd genuinely trusts.
 
-#### Enemies
+### Enemies
 
 - **Khalid al-Rash (The Cruel Tide)**: A rival pilot of similar age whose jealousy of Mehrâd's greater success has festered into genuine enmity. Khalid has begun spreading rumors regarding the safety of Mehrâd's methods and competing for contracts to deliberately undermine his reputation.
 - **The Corsairs of the Burning Coast**: A pirate collective that Mehrâd humiliated several years ago by piloting a merchant vessel directly through their territory without allowing them a chance at plunder. The corsairs have placed a substantial bounty on Mehrâd's head.
 
-#### Affiliations
+### Affiliations
 
 - **The Local Mariners' Guild**: Member in good standing, though frequently at odds with the guild's safety protocols and conservative approach to navigation.
 - **The Sultanate's Merchant Fleet**: Occasional contractor for government trade missions and strategic vessel movements.
 - **The Adventurers' Collective** (informal): An emerging association of explorers and risk-takers seeking to chart new waters and discover undocumented lands.
 
-### Plot Hooks
+## Plot Hooks
 
 1. **The Cursed Passage**: A wealthy merchant consortium approaches Mehrâd with an extraordinary contract: navigate a vessel through a narrow passage of ocean that charts suggest should be impossible, where at least a dozen vessels have been lost in the past five years. The pay is extraordinary, but so is the danger. As Mehrâd prepares the vessel and gathers crew, the party discovers through investigation that something actively malevolent inhabits the waters—not merely difficult conditions, but something that hunts vessels. The journey becomes a race against an unknown supernatural force, with Mehrâd's instinct for water and weather tested against something beyond natural law.
 

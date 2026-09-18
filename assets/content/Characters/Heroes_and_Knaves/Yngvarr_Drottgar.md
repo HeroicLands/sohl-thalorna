@@ -16,7 +16,6 @@ shortcode: yngvrdrtgr
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: yngvrdrtgr
   templatePriority: null
   archetypes: []
   occupation: Guard
@@ -578,41 +577,41 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Yngvarr Dróttgar](images/beings/characters/yngvrdrtgr.webp){float: top-left}
+# Appearance {#appearance}
 
-## Appearance {#appearance}
+![[yngvrdrtgr|Yngvarr Dróttgar]]{float: top-left}
 
 Yngvarr stands 5'11" tall with a medium build. He has light fair skin, red hair, and hazel eyes. His features include an angular face, a slightly upturned nose, a heavy jawline, a firm-set mouth, thick brows. A distinguishing mark is a scar on the left shoulder.
 
-## Dossier {#dossier}
+# Dossier {#dossier}
 
-### Background
+## Background
 
-#### The Boy from Nordheim
+### The Boy from Nordheim
 
 Yngvarr was born in the remote northern settlements of the Kingdom of Nordheim, where the winters are merciless and survival itself is victory. His father, **Bjorn Dróttgar**, was a militia captain; his mother, **Kára Ironhand**, kept their small homestead functioning through brutal seasons. At fourteen, following his clan's traditions, Yngvarr began his formal training with the city guard, apprenticed under the stern but capable **Commander Hastein**, learning not merely the mechanics of combat but the philosophy of protection—that the warrior's true purpose is to bear the burden of safety so others may live without fear.
 
-#### The Long Wars
+### The Long Wars
 
 In his early twenties, Yngvarr distinguished himself during the Frontier Conflicts, defending the northern passes against raiders from the Wastes. It was during these campaigns that he received the shoulder scar that nearly killed him—a wound that saw him bedridden for three months, learning the patience required for healing. Upon recovery, he had earned both a reputation for reliability and the recognition that he was no mere soldier but a leader of men. He rose steadily through the ranks of the Mercenaries' Guild, commanding caravan protection details and small garrison forces. His specialty became the escort of merchant caravans through treacherous terrain—a role that demanded not only martial prowess but intimate knowledge of geography, supply management, and the careful psychology of risk.
 
-#### The Current Path
+### The Current Path
 
 Now thirty-four, Yngvarr has stepped back from direct command, preferring the honest work of escort duties. He is respected in the guild, trusted by major trading houses, and regarded as unfailingly professional. Yet a subtle weariness has settled into his bones—a sense that while he has excelled at protection, he has never discovered what he is meant to protect towards. The endless cycle of caravan runs, the repetition of routes and dangers, the transient nature of merchant relationships—these have begun to feel hollow, despite the steady income and solid reputation.
 
-### Psyche
+## Psyche
 
-#### Personality
+### Personality
 
 Yngvarr is a man of few words and deliberate action. He speaks only when speech serves purpose, and his silence often communicates more than words ever could. This taciturnity is sometimes mistaken for dullness, but those who work with him quickly realize his quiet demeanor masks a sharp intelligence focused relentlessly on practical matters. He is fiercely loyal to those under his protection and maintains a strict code of honor that sometimes brings him into conflict with more pragmatic merchants willing to bend the rules.
 
 His seriousness can be exhausting to those seeking levity, and he struggles to understand humor as anything more than momentary distraction from the grave business of survival. Yet beneath his stern exterior lies a deep loyalty to the traditions of his people and a genuine care for those dependent upon his protection, expressed through reliability rather than warmth.
 
-#### Motivation
+### Motivation
 
 Yngvarr seeks meaningful work—a cause or purpose greater than the mere accumulation of wealth. His guiding compass is duty, and he searches for a noble purpose to which he might dedicate his considerable martial talents. The thought that he might pass his remaining years merely shepherding merchants through known dangers troubles him. He is haunted by a sense of untapped potential and driven to discover what truly worthy challenge might justify the gifts of strength and strategy the gods have granted him.
 
-#### Strengths
+### Strengths
 
 - **Martial Mastery** - Exceptional combat training in melee weapons, particularly the heavy mace, combined with strong fighting instincts and initiative make him formidable in direct engagement
 - **Tactical Expertise** - Superior command ability, strategic reasoning through weaponcraft and metallurgy knowledge, and decades of military experience enable him to outthink opponents
@@ -621,7 +620,7 @@ Yngvarr seeks meaningful work—a cause or purpose greater than the mere accumul
 - **Practical Craftsmanship** - Mastery of weaponcraft, metalcraft, masonry, and milling gives him ability to assess, repair, or create tools and structures crucial for survival
 - **Survival Expertise** - Deep knowledge of survival, herblore, and northern lands allows him to thrive in harsh wilderness conditions
 
-#### Weaknesses
+### Weaknesses
 
 - **Inflexibility** - His rigid adherence to practical matters and established protocols makes him struggle with improvisation or unconventional solutions
 - **Emotional Constraint** - His difficulty expressing emotion and forming genuine personal connections limits his ability to inspire loyalty beyond professional obligation
@@ -630,26 +629,26 @@ Yngvarr seeks meaningful work—a cause or purpose greater than the mere accumul
 - **Caravan Dependency** - His long specialization in escort work has made him somewhat dependent on the merchant networks; civilian life would challenge him
 - **The Warrior's Trap** - His entire identity is built upon martial competence; circumstances that render his combat skills irrelevant would destabilize his sense of self
 
-### Social
+## Social
 
-#### Patrons
+### Patrons
 
 - **The Nordheim Mercenaries' Guild** - His official employer and the organization that provides most of his contracts; the guild master, **Soren Strongfist**, values his reliability and occasionally consults him on strategic matters
 - **Merchant House Alderthor** - A prominent trading company that specifically requests Yngvarr for major caravans; their agent, **Lady Svenna**, has developed respect for his professional approach
 - **Commander Hastein** - His aging former mentor, now retired from active service, whom Yngvarr visits regularly and whose counsel he seeks on matters of honor and purpose
 
-#### Enemies
+### Enemies
 
 - **Jarl Leif Ravenshield** - A rival warrior within the guild who views Yngvarr's success as a personal affront and spreads rumors that his legendary status is exaggerated; they have not yet come to open conflict
 - **The Blackthorn Bandits** - An organized band of mountain raiders whose operations Yngvarr has disrupted multiple times, causing significant losses; they have sworn vengeance against the "Northern Ox"
 - **Merchant Lord Haldor the Greedy** - A crooked trader whose smuggling operations Yngvarr once refused to protect; Haldor now uses his considerable wealth to undermine Yngvarr's reputation
 
-#### Affiliations
+### Affiliations
 
 - **Nordheim Mercenaries' Guild** - His primary professional organization and source of contracts
 - **The Order of Fréyr's Guardians** - A loose spiritual fellowship of warriors devoted to protection and the sacred duty of strength in service of others
 
-### Plot Hooks
+## Plot Hooks
 
 1. **The Caravan That Changes Everything** - A prominent merchant approaches Yngvarr with an unusual commission: escort a caravan deep into uncharted territory to establish a new trading post. The route passes through lands where his guild has never ventured, where old maps are unreliable and the local powers are unknown. The promised payment is extraordinary, but the risks are unknown. Yngvarr must decide whether to break his patterns and venture into true danger, or maintain his safe reputation.
 

@@ -17,7 +17,6 @@ shortcode: jubensfths
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: null
   templatePriority: null
   archetypes: []
   occupation: Courtesan
@@ -552,11 +551,11 @@ sohl:
     defaultCombatGroup: null
 ---
 
-## Appearance {#appearance}
+# Appearance {#appearance}
 
 Júbênós Safîthês is a 32-year-old man who stands 5'7" tall and is of moderate build. He has a diamond face with wide-set cheekbones, a wide forehead, and an angular jaw that leads to a square chin. His hooded hazel eyes sit beneath straight brows, lending him a guarded gaze. A strong nose and curved lips complete his features. He has medium-toned skin with a bronzed complexion. His dark brown hair is cropped short.
 
-## Dossier {#dossier}
+# Dossier {#dossier}
 
 Born in the Heliónis region to a guilded family of Helionite heritage, Júbênós Safîthês came into the world of the courtesan through a combination of circumstance and aptitude.
 
@@ -564,37 +563,37 @@ Alaric began his career as an actor, but his good looks and silver tongue eventu
 
 Now at 32 years of age, Júbênós Safîthês has established himself as a known figure among the courtesans of Heliónis. His reputation, for better or worse, precedes him in the circles where such things matter.
 
-### Psyche
+## Psyche
 
-#### Personality
+### Personality
 
 Keeps emotional distance, can be overly self-indulgent.
 
-#### Motivation
+### Motivation
 
 Júbênós is driven by the desire to master his craft and secure a stable future. The uncertainties of life in courtesan work keep him vigilant and adaptable.
 
-#### Strengths
+### Strengths
 
 Charismatic, skilled in conversation, understands high society etiquette.
 
-### Social
+## Social
 
 Júbênós is affiliated with Formerly associated with a theater troupe..
 
 As a Helionite courtesan, Júbênós occupies a recognized social niche within Heliónis society.
 
-### Companions
+## Companions
 
-#### Patrons
+### Patrons
 
 Júbênós's primary patron is Nobles and wealthy socialites who seek his company.. This relationship provides both opportunity and obligation.
 
-#### Enemies
+### Enemies
 
 Jealous rivals in the entertainment and social scenes.
 
-### Plot Hooks
+## Plot Hooks
 
 1. **The Courtesan's Dilemma** — Júbênós faces a professional crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Heliónis.
 

@@ -17,7 +17,6 @@ type: being
 data:
   banner: takheperubnr
   icon: sohl-none-icon-person
-  portrait: banutjaut
   templatePriority: null
   archetypes: []
   occupation: Alchemist
@@ -604,45 +603,45 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Bânut Jâut](images/beings/characters/banutjaut.webp){float: top-left}
-
 **Home:** [[place-meruhotep|Meru-Hotep]]
 
-## Appearance {#appearance}
+# Appearance {#appearance}
+
+![[banutjaut|Bânut Jâut]]{float: top-left}
 
 Bânut stands 5'3" tall with a light build. She has golden brown skin, dark hair, and hazel eyes. Her features include a high-cheekboned face, a straight narrow nose, a narrow chin, full lips, golden brows, high cheeks. A distinguishing mark is a scar on the left ear.
 
-## Dossier {#dossier}
+# Dossier {#dossier}
 
-### Background
+## Background
 
-#### Early Life and Loss
+### Early Life and Loss
 
 Bânut was born to a family of herbalists and plant cultivators in [[affiliation-empirtkhpr|Ta'Kheperu]], where her parents worked for a minor noble house cultivating medicinal and ceremonial plants in carefully maintained garden terraces. From earliest childhood, she was immersed in the world of plants—learning to identify hundreds of species by sight and scent, to understand their properties, to cultivate them in sometimes brutal desert conditions. Her childhood was marked by genuine joy in this work and a close, loving family relationship. Her greatest love was her younger brother **Kephren**, to whom she was intensely devoted.
 
 When Bânut was twenty-eight and Kephren only sixteen, he was seriously injured in a fall from a cliff face—an accident during a botanical expedition to gather rare species. He developed a severe fever and infection, and despite her desperately creative use of every herb and remedy in her knowledge, he died after three months of suffering. The scar on her ear is not, in fact, from violence—it is a ritually inflicted mark of mourning, done in accordance with the traditions of Ta'Kheperu, a visible acknowledgment of her grief that she has never allowed to fade.
 
-#### Transformation and Independence
+### Transformation and Independence
 
 Kephren's death transformed Bânut's relationship to her craft. Rather than simple cultivation for a noble house, she became obsessed with the healing application of plant matter, viewing her work as a spiritual obligation to her brother's memory. She began studying alchemy in earnest, learning to concentrate plant essences into potent remedies, to create poultices and potions of genuine medicinal value. By thirty, she had built a sufficient reputation that she was able to establish herself independently, moving to a region where she maintained both a small herb garden and a workspace for alchemical work.
 
-#### Current Station
+### Current Station
 
 Now thirty-five, Bânut has achieved local recognition as an exceptionally skilled healer whose remedies produce genuine results. She has resisted all attempts to formalize her work or expand her practice into a larger commercial enterprise, preferring to work at intimate scale, treating individuals whose cases come to her attention. This decision has both strengths and vulnerabilities—she maintains independence and refuses to compromise her standards, but she remains perpetually poor and vulnerable to pressure. Her tendency to give her remedies to those who cannot pay and to undercharge those of limited means keeps her chronically underfunded.
 
-### Psyche
+## Psyche
 
-#### Personality
+### Personality
 
 Bânut is warm, generous, and genuinely concerned with the wellbeing of those who seek her help. She approaches her work with the intensity of someone for whom every healing success is a small victory against death itself, a way of honoring her brother's memory. She is quick to smile, prone to gentle humor, and surprisingly playful given the seriousness of her work. Yet beneath this warmth runs a current of profound melancholy—she carries the weight of Kephren's death as though it occurred yesterday, and every patient reminds her of all the suffering she cannot prevent or cure.
 
 Her greatest weakness is her tendency to see the best in people and to trust implicitly those who approach her with apparent need. She has been exploited repeatedly by those who use emotional manipulation to convince her to provide valuable remedies at little or no cost, and she seems incapable of hardening herself against this exploitation. Her empathy, while admirable, undermines her own sustainability.
 
-#### Motivation
+### Motivation
 
 Bânut is driven by the desire to heal suffering and to prove that her brother's death was not meaningless—that through her work, she can prevent other families from experiencing the loss that devastated hers. She believes her gifts are sacred, intended by the divine Ra for the benefit of the suffering, and that to charge excessive prices or deny treatment to those in need would be a betrayal of her purpose. She also harbors a secret desire for redemption—though Kephren's death was not her fault, she has never fully absolved herself of the belief that she could have done something more, something better. Her healing work is, in part, an attempt to achieve that impossible absolution through countless other successes.
 
-#### Strengths
+### Strengths
 
 - **Exceptional Herbal and Alchemical Knowledge**: Herblore (14) and Alchemy (12) combine to make her extraordinarily knowledgeable about plant-based remedies. She understands the properties of hundreds of herbs, knows how to cultivate rare species, and can create complex potions and poultices of genuine medicinal value.
 
@@ -656,7 +655,7 @@ Bânut is driven by the desire to heal suffering and to prove that her brother's
 
 - **Ritual and Spiritual Knowledge**: Ritual (14) and Spirit (13) connect her to the spiritual dimensions of her work, allowing her to understand and participate in the ceremonial aspects of healing that are important in Ta'Kheperu's culture.
 
-#### Weaknesses
+### Weaknesses
 
 - **Insufficient Strength**: Strength (8) is her lowest attribute, meaning she is physically weak. She cannot overpower anyone or perform tasks requiring brute force. This is primarily relevant only in combat or situations demanding physical strength.
 
@@ -670,9 +669,9 @@ Bânut is driven by the desire to heal suffering and to prove that her brother's
 
 - **Emotional Fragility Regarding Her Brother**: Any mention of loss, death, or family tragedy can trigger profound emotional responses that temporarily incapacitate her. She has not truly processed her grief, instead sublimating it into her work.
 
-### Social
+## Social
 
-#### Patrons
+### Patrons
 
 - **Master Herbalist Karesh**: An elderly herbalist who has become something of a mentor figure to Bânut. Karesh has quietly helped her acquire rare plant specimens and occasionally provides financial support when Bânut's circumstances become desperate, though without Bânut's explicit knowledge.
 
@@ -680,7 +679,7 @@ Bânut is driven by the desire to heal suffering and to prove that her brother's
 
 - **Noblewoman Kiya of House Theperu**: A wealthy patron who employs Bânut to create custom remedies. Though Kiya pays well, her actual motivation may be less pure than it appears—she may be cultivating Bânut for purposes Bânut does not yet understand.
 
-#### Enemies
+### Enemies
 
 - **Church Inquisitor Malachi the Censorious**: A zealous religious official who views Bânut's independent practice and her use of certain botanicals as potentially heretical. He has begun investigating her work, questioning whether she employs forbidden magical techniques, and warning others away from her services. His scrutiny is partially motivated by genuine religious concern, but also by his general hostility toward women working independently outside male supervision.
 
@@ -688,13 +687,13 @@ Bânut is driven by the desire to heal suffering and to prove that her brother's
 
 - **A Manipulative Former Patient**: A man who obtained multiple valuable remedies from Bânut by claiming to be terminally ill, then used them to poison a political rival. When the crime was discovered, Bânut's remedies were identified as the murder weapon, and though she was exonerated of wrongdoing, the scandal damaged her reputation and made her vulnerable to further accusations.
 
-#### Affiliations
+### Affiliations
 
 - **Independent Alchemists Alliance**: A loose collective of practitioners who maintain independence from large commercial organizations or the formal Guild. Bânut is loosely affiliated, though her participation is minimal and her commitment is primarily to her own practice rather than to collective action.
 
 - **The Society of Botanical Scholars**: An informal network of naturalists and herbalists who correspond and occasionally meet to discuss botanical discoveries. Bânut's knowledge is valued, though her limited literacy and confidence prevent her from fully participating in scholarly discourse.
 
-### Plot Hooks
+## Plot Hooks
 
 1. **The Poisoning Accusation**: A prominent figure dies under mysterious circumstances after seeking treatment from Bânut. Though the death was not caused by her remedies—indeed, her potions were the only thing temporarily alleviating the victim's suffering—Inquisitor Malachi seizes the opportunity to formally accuse her of poisoning. She must gather evidence of her innocence while discovering the true cause of death, all while her reputation is systematically destroyed and patients cease coming to her out of fear.
 

@@ -16,7 +16,6 @@ shortcode: chgnzrznds
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: null
   templatePriority: null
   archetypes: []
   occupation: Innkeeper
@@ -552,11 +551,11 @@ sohl:
     defaultCombatGroup: null
 ---
 
-## Appearance {#appearance}
+# Appearance {#appearance}
 
 Chéagan Zêrâzêndis is a 32-year-old woman who stands 5'7" tall and is slender. She has a long face with prominent cheekbones, a high forehead, and a sharp jaw that leads to a firm chin. Her narrow green eyes sit beneath heavy brows, lending her a keen gaze. A straight nose and full lips complete her features. She has olive skin with an olive-toned complexion. Her black hair is adorned with simple pins.
 
-## Dossier {#dossier}
+# Dossier {#dossier}
 
 Born in the Vylaría region to a freeman family of Vylarian heritage, Chéagan Zêrâzêndis came into the world of the innkeeper through a combination of circumstance and aptitude.
 
@@ -564,37 +563,37 @@ Branwen inherited the Hearthkeeper Inn from her parents and has worked hard to k
 
 Now at 32 years of age, Chéagan Zêrâzêndis has established herself as a known figure among the innkeepers of Vylaria. Her reputation, for better or worse, precedes her in the circles where such things matter.
 
-### Psyche
+## Psyche
 
-#### Personality
+### Personality
 
 Can be overwhelmed by stress, sometimes lacks confidence.
 
-#### Motivation
+### Motivation
 
 Chéagan is driven by the desire to master her craft and secure a stable future. The uncertainties of life in innkeeper work keep her vigilant and adaptable.
 
-#### Strengths
+### Strengths
 
 Great cook, personable, good at managing the inn.
 
-### Social
+## Social
 
 Chéagan is affiliated with Local Innkeepers' Association.
 
 As a Vylarian innkeeper, Chéagan occupies a recognized social niche within Vylaria society.
 
-### Companions
+## Companions
 
-#### Patrons
+### Patrons
 
 Chéagan's primary patron is Local farmers and traveling merchants.. This relationship provides both opportunity and obligation.
 
-#### Enemies
+### Enemies
 
 None; respected by the community.
 
-### Plot Hooks
+## Plot Hooks
 
 1. **The Innkeeper's Dilemma** — Chéagan faces a professional crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Vylaria.
 

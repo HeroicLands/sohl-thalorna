@@ -20,7 +20,6 @@ shortcode: lrdmlnvsbr
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: lrdmlnvsbr
   templatePriority: null
   archetypes: []
   occupation: Herald
@@ -583,13 +582,13 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Lord Aemilon Visbari](images/beings/characters/lrdmlnvsbr.webp){float: top-left}
+# Appearance {#appearance}
 
-## Appearance {#appearance}
+![[lrdmlnvsbr|Lord Aemilon Visbari]]{float: top-left}
 
 Lord Aemilon Visbari presents the image of a distinguished Vylarian elder statesman gone slightly to seed. He is tall and heavy-framed, with a full gray beard and mustache kept neatly trimmed in the old imperial fashion, and pale blue eyes that miss nothing despite their grandfatherly warmth. He walks with a pronounced limp — an old injury he never discusses — and leans on a blackthorn walking stick that has seen better days. He favors plain cloth robes and a fur-trimmed cloak that speak of comfortable wealth without ostentation, and carries a Vylarian-steel broadsword at his hip with the ease of a man who once knew how to use it well. His voice is unremarkable, but his words are chosen with extraordinary precision. He has the habit of pausing before answering any question, as though weighing exactly how much truth to dispense.
 
-## Dossier {#dossier}
+# Dossier {#dossier}
 
 The Visbari family has served the Vylarian imperial throne for generations, and Aemilon was groomed from boyhood for a life of quiet service. Officially, he trained at the Imperial College of Heralds in the capital, where he excelled in heraldry, genealogy, diplomacy, and the thousand small courtesies that oil the machinery of Vylarian noble society. Unofficially, his real education began afterward — years of travel across the empire's former provinces and the wider shores of the Vylarian Sea, during which he built and inherited a network of informants, agents, and assets woven through every level of society from Provènzia to Harad.
 
@@ -597,39 +596,39 @@ When his father died over twenty years ago, Aemilon inherited the full weight of
 
 Now in his fifties, Lord Aemilon faces a problem he cannot solve with information alone. He has no children, and the network must survive him — especially now, as the empire's power wanes and its enemies grow bolder. He has identified a candidate — a woman of uncommon ability — but training a successor requires time he may not have, and trust he finds difficult to extend. The limp that slows his step grows worse each year, a reminder that even spymasters grow old.
 
-### Psyche
+## Psyche
 
-#### Personality
+### Personality
 
 Lord Aemilon is courteous, measured, and deeply private. He has spent a lifetime cultivating the appearance of a benign, slightly tedious old herald — the sort of man people forget is in the room — and he plays this role with consummate skill. Beneath the surface, he is sharp, calculating, and occasionally ruthless, though he takes no pleasure in the harder aspects of his work. He has a genuine love of learning and can hold forth on Vylarian genealogy, the history of the empire's rise and decline, and the art of heraldic design with unfeigned enthusiasm. He treats servants and nobles with equal courtesy, which makes him popular and makes people want to talk to him — which is, of course, the point.
 
-#### Motivation
+### Motivation
 
 Aemilon serves the imperial throne out of deep family loyalty and a principled belief that the stability of what remains of the Vylarian Empire depends on good intelligence — perhaps now more than ever, as the empire contracts and its rivals circle. He fears what would happen if the network collapsed — the plots it would fail to uncover, the wars it would fail to prevent. Finding and training a worthy successor has become his consuming purpose. He also carries guilt for the agents he has had to sacrifice over the years, and for the few he ordered killed when they knew too much.
 
-#### Strengths
+### Strengths
 
 His reasoning and creativity are extraordinary, allowing him to see connections others miss and devise solutions to seemingly impossible problems. His empathy makes him an exceptional judge of character, and his iron will keeps him steady under pressures that would break lesser men. His command skill reflects decades of quietly directing people who don't always know they're being directed. He is also still a competent swordsman, though age and his limp have slowed him.
 
-#### Weaknesses
+### Weaknesses
 
 Lord Aemilon's greatest weakness is his isolation. He has sacrificed personal relationships for the work, leaving him childless and with few genuine friends. His secrecy is so ingrained that he struggles to fully trust even those closest to him. His limp limits his mobility, and his age means he can no longer personally handle the more physical demands of intelligence work. He also carries secrets that could destroy powerful Vylarian families and foreign agents alike, making him a target for assassination if his true role were ever exposed.
 
-### Social
+## Social
 
-#### Patrons
+### Patrons
 
 The Emperor himself, though their relationship is carefully concealed. Several senior Vylarian nobles who have benefited from Lord Aemilon's intelligence without knowing its true source.
 
-#### Enemies
+### Enemies
 
 Lord Aemilon has many enemies who don't know they are his enemies — Haradian merchant-spies whose operations he has disrupted, Provenzian conspirators whose plots he has quietly dismantled, and ambitious Vylarian senators who would seize power if they knew how fragile the empire's grip truly is. A few suspect what he truly is, and those are the most dangerous.
 
-#### Affiliations
+### Affiliations
 
 The Imperial College of Heralds (his public affiliation), the imperial intelligence network (his true affiliation), and the Visbari family's extensive web of informants among common clans throughout the Midhalion region who have prospered through the family's secret patronage.
 
-### Plot Hooks
+## Plot Hooks
 
 1. **The Discreet Errand** — An intermediary hires the party to shadow a certain individual through the streets of the Vylarian capital for three days and report their every movement. The pay is generous, the instructions precise, and no questions are to be asked. If the party succeeds without being detected, more lucrative work follows — drawing them deeper into Lord Aemilon's network without ever meeting the man himself.
 

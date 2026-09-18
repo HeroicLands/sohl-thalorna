@@ -17,7 +17,6 @@ shortcode: zdmrsmkthn
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: null
   templatePriority: null
   archetypes: []
   occupation: Cartographer/Artist
@@ -554,11 +553,11 @@ sohl:
     defaultCombatGroup: null
 ---
 
-## Appearance {#appearance}
+# Appearance {#appearance}
 
 Zádìmêros Mâkîthôn is a 45-year-old man who stands 5'6" tall and is of moderate build. He has a long face with broad cheekbones, a narrow forehead, and an angular jaw that leads to a prominent chin. His almond-shaped green eyes sit beneath prominent brows, lending him a measured gaze. A prominent nose and narrow lips complete his features. He has fair skin with a weathered complexion. His graying brown hair is tied in a low tail.
 
-## Dossier {#dossier}
+# Dossier {#dossier}
 
 Born in the Heliónis region to a guilded family of Helionite heritage, Zádìmêros Mâkîthôn came into the world of the cartographer/artist through a combination of circumstance and aptitude.
 
@@ -566,37 +565,37 @@ Edwyn is a skilled cartographer known for his detailed maps of the surrounding r
 
 Now at 45 years of age, Zádìmêros Mâkîthôn has established himself as a known figure among the cartographer/artists of Heliónis. His reputation, for better or worse, precedes him in the circles where such things matter.
 
-### Psyche
+## Psyche
 
-#### Personality
+### Personality
 
 Greed has led him to sell maps to less-than-reputable clients.
 
-#### Motivation
+### Motivation
 
 Zádìmêros is driven by the desire to master his craft and secure a stable future. The uncertainties of life in cartographer/artist work keep him vigilant and adaptable.
 
-#### Strengths
+### Strengths
 
 Highly skilled in drawing and mapmaking, excellent attention to detail.
 
-### Social
+## Social
 
 Zádìmêros is affiliated with Cartographers' Guild.
 
 As a Helionite cartographer/artist, Zádìmêros occupies a recognized social niche within Heliónis society.
 
-### Companions
+## Companions
 
-#### Patrons
+### Patrons
 
 Zádìmêros's primary patron is Nobles and wealthy merchants who commission his maps.. This relationship provides both opportunity and obligation.
 
-#### Enemies
+### Enemies
 
 Rival cartographers and the city guard, who suspect him of espionage.
 
-### Plot Hooks
+## Plot Hooks
 
 1. **The Cartographer/Artist's Dilemma** — Zádìmêros faces a professional crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Heliónis.
 

@@ -17,7 +17,6 @@ shortcode: edmndwlfrd
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: null
   templatePriority: null
   archetypes: []
   occupation: Clothier
@@ -556,11 +555,11 @@ sohl:
     defaultCombatGroup: null
 ---
 
-## Appearance {#appearance}
+# Appearance {#appearance}
 
 Edmund Wolford is a 44-year-old man who stands 5'8" tall and is of moderate build. He has an oval face with prominent cheekbones, a wide forehead, and a strong jaw that leads to a delicate chin. His sharp green eyes sit beneath straight brows, lending him an incisive gaze. A straight nose and full lips complete his features. He has light skin with a clear complexion. His graying brown hair is kept practical and short.
 
-## Dossier {#dossier}
+# Dossier {#dossier}
 
 Born in the Aelwyth region to a guilded family of Aelwythan heritage, Edmund Wolford came into the world of the clothier through a combination of circumstance and aptitude.
 
@@ -568,37 +567,37 @@ Elric has been a clothier for over twenty years, running a small but reputable s
 
 Now at 44 years of age, Edmund Wolford has established himself as a known figure among the clothiers of Aelwyth. His reputation, for better or worse, precedes him in the circles where such things matter.
 
-### Psyche
+## Psyche
 
-#### Personality
+### Personality
 
 Perfectionist tendencies can delay completion of garments.
 
-#### Motivation
+### Motivation
 
 Edmund is driven by the desire to master his craft and secure a stable future. The uncertainties of life in clothier work keep him vigilant and adaptable.
 
-#### Strengths
+### Strengths
 
 Highly skilled in tailoring, embroidery, and working with fine fabrics.
 
-### Social
+## Social
 
 Edmund is affiliated with City Tailors' Guild.
 
 As a Aelwythan clothier, Edmund occupies a recognized social niche within Aelwyth society.
 
-### Companions
+## Companions
 
-#### Patrons
+### Patrons
 
 Edmund's primary patron is Local nobility who commission special outfits for events.. This relationship provides both opportunity and obligation.
 
-#### Enemies
+### Enemies
 
 Competing clothiers who view his reputation as a threat.
 
-### Plot Hooks
+## Plot Hooks
 
 1. **The Clothier's Dilemma** — Edmund faces a professional crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Aelwyth.
 

@@ -17,7 +17,6 @@ shortcode: jethralydr
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: null
   templatePriority: null
   archetypes: []
   occupation: Astrologer
@@ -554,11 +553,11 @@ sohl:
     defaultCombatGroup: null
 ---
 
-## Appearance {#appearance}
+# Appearance {#appearance}
 
 Jéthra Llýdar is a 39-year-old woman who stands 5'6" tall and is slender. She has a diamond face with soft cheekbones, a wide forehead, and a sharp jaw that leads to a pointed chin. Her round green eyes sit beneath arched brows, lending her a candid gaze. A delicate nose and narrow lips complete her features. She has medium-toned skin with a smooth complexion. Her dark blonde hair is swept up and held with carved combs.
 
-## Dossier {#dossier}
+# Dossier {#dossier}
 
 Born in the Élavendre region to a guilded family of Élavendri heritage, Jéthra Llýdar came into the world of the astrologer through a combination of circumstance and aptitude.
 
@@ -566,37 +565,37 @@ Cerys grew up in a bustling port city, where she developed a fascination with th
 
 Now at 39 years of age, Jéthra Llýdar has established herself as a known figure among the astrologers of Élavendre. Her reputation, for better or worse, precedes her in the circles where such things matter.
 
-### Psyche
+## Psyche
 
-#### Personality
+### Personality
 
 Prone to seasickness, limiting her ability to travel far from land.
 
-#### Motivation
+### Motivation
 
 Jéthra is driven by the desire to master her craft and secure a stable future. The uncertainties of life in astrologer work keep her vigilant and adaptable.
 
-#### Strengths
+### Strengths
 
 Excellent at interpreting omens related to travel and trade.
 
-### Social
+## Social
 
 Jéthra is affiliated with Navigators' Guild.
 
 As a Élavendri astrologer, Jéthra occupies a recognized social niche within Élavendre society.
 
-### Companions
+## Companions
 
-#### Patrons
+### Patrons
 
 Jéthra's primary patron is Merchants and sailors who seek her advice.. This relationship provides both opportunity and obligation.
 
-#### Enemies
+### Enemies
 
 None; generally well-liked.
 
-### Plot Hooks
+## Plot Hooks
 
 1. **The Astrologer's Dilemma** — Jéthra faces a professional crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Élavendre.
 

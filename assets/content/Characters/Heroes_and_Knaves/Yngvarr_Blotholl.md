@@ -15,7 +15,6 @@ shortcode: yngvrblthl
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: yngvrblthl
   templatePriority: null
   archetypes: []
   occupation: Jester
@@ -585,41 +584,41 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Yngvarr Blóthöll](images/beings/characters/yngvrblthl.webp){float: top-left}
+# Appearance {#appearance}
 
-## Appearance {#appearance}
+![[yngvrblthl|Yngvarr Blóthöll]]{float: top-left}
 
 Yngvarr stands 5'7" tall with a light build. He has light fair skin, red hair, and blue eyes. His features include an oblong face, an aquiline nose, a square jawline, a small mouth, heavy brows.
 
-## Dossier {#dossier}
+# Dossier {#dossier}
 
-### Background
+## Background
 
-#### Early Life and the Jester's Gift
+### Early Life and the Jester's Gift
 
 Yngvarr was born during the tempestuous month of spring winds in a riverside town of Vithgard's eastern provinces. His mother, **Sigrid the Brewmaster**, kept an inn where merchants and wanderers gathered; his father, a traveling performer himself, remained only long enough to pass on his gift for performance before departing for other horizons. From his earliest years, Yngvarr learned to read faces as others read scrolls—understanding the hidden griefs, the secret joys, the careful calculations behind every expression. He apprenticed under **Master Kolbeinn**, a legendary jester whose wit was said to have averted wars through sheer cleverness, learning that the craft of laughter is perhaps the most dangerous art of all.
 
-#### The Court Years
+### The Court Years
 
 At twenty, Yngvarr secured patronage with the ducal household of Vithgard, where his talent for reading his audience evolved into a sophisticated practice of political theater. His jokes and performances became increasingly layered—entertaining the masses while conveying subtle messages to the nobility, always walking the razor's edge between wisdom and foolishness. He has witnessed the secret councils of power, the intimate moments of great houses, the hidden shame and pride of kings. His extensive knowledge of folklore and arcane history has proven invaluable in understanding the complex tapestries of power and prophecy that bind the realm.
 
-#### The Present Reckoning
+### The Present Reckoning
 
 Now in his thirtieth year, Yngvarr finds himself caught between the comfort of his established reputation and a gnawing uncertainty about the purpose his performance serves. He has begun taking commissions beyond the Duke's court, traveling to distant festivals and merchant gatherings, searching for something intangible—perhaps redemption, perhaps merely a new challenge that might satisfy his restless spirit.
 
-### Psyche
+## Psyche
 
-#### Personality
+### Personality
 
 Yngvarr possesses the chameleon's gift, adapting his persona to whatever audience surrounds him. He can evoke laughter from the hardest merchant, draw tears from the coldest nobleman, and inspire courage in the fearful through careful deployment of jest and truth. Yet beneath the perpetual performance lies a contemplative soul, deeply aware of the weight of words and their power to heal or wound. He carries the jester's burden—the knowledge that those who make others laugh often hide the deepest sorrows.
 
 His wit is legendary but double-edged; he has wounded as many feelings as he has charmed, though rarely without purpose. His self-awareness borders on obsessive, often leading him to overanalyze his own motivations and question the authenticity of his connections with others. He struggles with genuine vulnerability, fearing that any moment of true feeling might compromise his carefully constructed mask.
 
-#### Motivation
+### Motivation
 
 Yngvarr seeks to discover whether his talents for performance and persuasion might serve some greater purpose beyond mere entertainment and political maneuvering. He is driven by an undefined hunger—a sense that the universe speaks through stories and laughter, and that he might be a translator of some cosmic truth. The possibility that his gifts might avert tragedy, heal broken hearts, or illuminate hidden injustices drives him forward, even as he fears his own capacity for deception.
 
-#### Strengths
+### Strengths
 
 - **Master of Performance** - Exceptional singing, theatrics, and drawing skills allow him to captivate any audience and convey complex emotions through art
 - **Silver Tongue** - Legendary charm, eloquence, and persuasion enable him to negotiate, manipulate, or inspire through sheer force of personality
@@ -628,7 +627,7 @@ Yngvarr seeks to discover whether his talents for performance and persuasion mig
 - **Physical Grace** - Exceptional dexterity, acrobatics, dancing, and climbing abilities allow him to navigate both social and physical spaces with practiced ease
 - **Hidden Knowledge** - Deep folklore expertise and diverse skill application grant him unusual perspectives on ancient secrets and hidden connections
 
-#### Weaknesses
+### Weaknesses
 
 - **Chronic Self-Doubt** - His introspective nature often paralyzes him with second-guessing, undermining his confidence in moments requiring decisive action
 - **Performance Addiction** - His need for audience approval and admiration can override judgment, leading him to take unnecessary risks for dramatic effect
@@ -637,25 +636,25 @@ Yngvarr seeks to discover whether his talents for performance and persuasion mig
 - **Physical Fragility** - Despite his agility, his light frame and modest strength make him vulnerable in direct physical confrontation
 - **The Jester's Curse** - Few take him seriously when he speaks truth, a consequence of his reputation for clever deception
 
-### Social
+## Social
 
-#### Patrons
+### Patrons
 
 - **Duke Ragnarr of Vithgard** - The primary patron who employs Yngvarr's talents for court entertainment and subtle political messaging; their relationship is cordial but transactional
 - **Sigrid Blóthöll** - His mother, the innkeeper, who still provides refuge and honest counsel when he returns home worn by the demands of performance
 - **Master Kolbeinn** - His aging mentor and former teacher, now retired in the mountains, whom Yngvarr consults on matters of ethics and the deeper purposes of his craft
 
-#### Enemies
+### Enemies
 
 - **Jorvald the Red** - A rival jester whose less sophisticated humor once dominated the Vithgard court; he schemes constantly to discredit Yngvarr's wit and expose his methods
 - **The Whispered Syndicate** - A network of information brokers who view Yngvarr's access to noble secrets as either an asset to control or a threat to eliminate
 - **Alderman Grevik of the Guildhall** - A strict moralist who views jesters as dangerous corruptors of virtue and has publicly questioned the Duke's patronage of Yngvarr
 
-#### Affiliations
+### Affiliations
 
 - **The Wandering Minstrels' Collective** - An informal network of traveling performers who share stories, techniques, and intelligence gathered from their various courts and commissions
 
-### Plot Hooks
+## Plot Hooks
 
 1. **The Duke's Unspoken Confession** - During a late night performance, the Duke drinks heavily and begins to hint at a terrible secret—a past betrayal, an illegitimate child, or perhaps knowledge of a conspiracy at the highest levels of the realm. Yngvarr, sworn to secrecy by the bonds of his position, must decide whether this knowledge demands action or whether discretion truly serves his patron better. The truth could topple the duchy, but concealment gnaws at his conscience.
 

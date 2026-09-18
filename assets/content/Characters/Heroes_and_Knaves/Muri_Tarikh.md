@@ -15,7 +15,6 @@ shortcode: muritarikh
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: muritarikh
   templatePriority: null
   archetypes: []
   occupation: Caravan Guard
@@ -573,41 +572,41 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Muri Târikh](images/beings/characters/muritarikh.webp){float: top-left}
+# Appearance {#appearance}
 
-## Appearance {#appearance}
+![[muritarikh|Muri Târikh]]{float: top-left}
 
 Muri stands 6'2" tall with a heavy build. He has dark skin, black hair, and dark brown eyes. His features include an angular face, a sharp jawline, full lips, dark brows, angular cheeks. A distinguishing mark is a scar across the bridge of the nose.
 
-## Dossier {#dossier}
+# Dossier {#dossier}
 
-### Background
+## Background
 
-#### Early Years and Training
+### Early Years and Training
 
 Muri was born the seventh son of a minor merchant family in the frontier settlements of Kalihara, where the reach of civilization extends only so far as caravans can safely travel. His father, a cloth merchant of modest means, recognized early that his youngest would not inherit the family business. Instead, at twelve years old, Muri was apprenticed to **Rashîm al-Jahîm**, a legendary caravan guard whose reputation was matched only by his brutality in protecting his charges. Under Rashîm's exacting tutelage, Muri learned not merely the arts of sword and shield, but the deeper wisdom of the road—how to read weather patterns in the stars, to recognize the subtle signs that bandits were near, to manage horses and supplies with exacting precision, and to make the hard decisions that meant life or death for dozens of people.
 
-#### Service and Ascendance
+### Service and Ascendance
 
 For two decades, Muri served as a common guard, rising steadily through the ranks. His methodical approach to security and his uncanny ability to anticipate danger—born of instinct honed by a thousand miles of travel—eventually brought him to the attention of the greater merchant houses. By his thirties, he had become the preferred choice of wealthy traders and nobility alike, commanding premiums that reflected both his reputation and his results: in fifteen years of active service, no caravan under his protection had ever been successfully raided. This perfect record, whether born of genuine prescience or simple ruthless efficiency, became legend whispered in the caravanserais and trading halls of the Confederation.
 
-#### Present Circumstances
+### Present Circumstances
 
 Now forty, Muri has begun to face questions he never expected to confront. The roads grow faster with each passing season—new merchant routes bypass the dangerous passes where Muri established his legend. Younger guards, trained in the newer tactics of mounted archery and swift intervention rather than the patient, methodical security he pioneered, are undercutting his fees and winning contracts he once would have claimed without question. Yet the merchants still call upon him for their most valuable shipments and most perilous routes, and he remains the safest choice for those who know they cannot afford failure. Muri is at a crossroads: whether to adapt, to retire, or to stake his legacy upon the old ways of doing things, certain they are right even as the world shifts beneath his feet.
 
-### Psyche
+## Psyche
 
-#### Personality
+### Personality
 
 Muri is a man of few words, his years on the road having taught him that unnecessary speech attracts unnecessary attention. When he does speak, his voice carries the weight of certainty—not arrogance, but the confidence born of having made a thousand decisions correctly. He has little patience for pleasantries or political maneuvering, preferring to establish clear expectations and follow through with unwavering precision. Despite his stern exterior, those close to him recognize a dry humor that emerges only after weeks of travel together, and a fierce protectiveness toward those under his care that borders on obsession.
 
 His perfectionism is both his greatest strength and most significant flaw. He cannot accept failure or deviation from his plans, sometimes to the detriment of flexibility in truly unexpected circumstances. He second-guesses merchants who suggest deviations from his prescribed routes, even when those suggestions might prove superior, viewing any modification as a weakness in his original strategy. This rigidity, combined with his age, has begun to worry some of his regular employers, though none dare mention it to his face.
 
-#### Motivation
+### Motivation
 
 Muri's primary motivation is the pursuit of perfection in his craft—he views the safe passage of his charges as a sacred trust, and the idea that a single failure might tarnish his reputation drives him harder with each passing year. Beyond this, he harbors a deep concern about becoming obsolete, about being remembered as an old man clinging to outdated methods while younger competitors inherit the roads that have been his life. Internally, he wrestles with whether to prove himself relevant to the modern age or to retire with his legend intact, refusing to compromise the principles that made him great.
 
-#### Strengths
+### Strengths
 
 - **Uncompromising Dedication**: Muri's commitment to the safety of his charges is absolute. No caravan under his protection has ever been successfully ambushed in fifteen years of service—a record he defends with his reputation and his life.
 
@@ -619,7 +618,7 @@ Muri's primary motivation is the pursuit of perfection in his craft—he views t
 
 - **Practical Wisdom**: Beyond combat, Muri possesses deep knowledge of medicine (learned from field necessity), survival techniques, and the logistics of managing large groups over extended journeys.
 
-#### Weaknesses
+### Weaknesses
 
 - **Resistance to Change**: Muri has become doctrinaire about his methods, viewing newer tactics and strategies with suspicion. This resistance to evolution may prove fatal if circumstances demand adaptation he refuses to consider.
 
@@ -631,9 +630,9 @@ Muri's primary motivation is the pursuit of perfection in his craft—he views t
 
 - **Age and Physical Limitations**: While still formidable, Muri is beginning to feel the weight of his years. Long journeys tire him more than they once did, and his recovery from injury is slower than in his youth.
 
-### Social
+## Social
 
-#### Patrons
+### Patrons
 
 - **House Kalirrûn**: A major merchant family dealing in rare spices and silks, they have contracted Muri for their three most valuable annual shipments for over a decade. **Merchant-Prince Akrûm Kalirrûn** has personally requested Muri for shipments bound for the distant courts of the Dragon's Reach, trusting none other with goods worth a king's ransom.
 
@@ -641,17 +640,17 @@ Muri's primary motivation is the pursuit of perfection in his craft—he views t
 
 - **Lady Morwenna of House Dûravîn**: A noble widow of considerable means, she has employed Muri repeatedly for personal journeys between her holdings, relying on his discretion as much as his security expertise.
 
-#### Enemies
+### Enemies
 
 - **The Veiled Riders**: A band of organized bandits operating in the high passes of Kalihara. While they have never successfully ambushed one of Muri's caravans, repeated failed attempts have earned them a burning hatred of the old guard captain. They have placed a substantial bounty on his head and actively seek opportunities for revenge.
 
 - **Khûn the Scarlet**: A younger, more charismatic competitor who has been systematically undercutting Muri's fees and winning contracts with merchants who value speed and modernity over Muri's methodical approach. Their professional rivalry has begun to take on personal overtones, with each man viewing the other as a threat to his livelihood.
 
-#### Affiliations
+### Affiliations
 
 - **Mercenaries' Guild of the Kalihara Confederation**: Muri maintains his membership and serves occasionally on the guild's disciplinary council, lending his vast experience to matters of contract disputes and professional standards.
 
-### Plot Hooks
+## Plot Hooks
 
 1. **The Lost Crown Shipment**: Muri is hired by House Kalirrûn to escort what he believes to be a standard shipment of merchant goods through the Veil Mountains to a noble court across the border. Only partway through the journey does he discover that the shipment actually contains the regalia of a deposed royal line—and that multiple factions are now tracking the caravan with lethal intent. Muri must decide whether to continue with his original mission, knowing his "safety" record will be impossible to maintain, or to improvise new tactics he has always scorned.
 

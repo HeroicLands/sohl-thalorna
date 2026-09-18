@@ -17,7 +17,6 @@ shortcode: skldrblthlm
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: null
   templatePriority: null
   archetypes: []
   occupation: Toymaker
@@ -553,11 +552,11 @@ sohl:
     defaultCombatGroup: null
 ---
 
-## Appearance {#appearance}
+# Appearance {#appearance}
 
 Skaldár Balthhelm is a 51-year-old man who stands 5'10" tall and is of moderate build. He has a diamond face with defined cheekbones, a smooth forehead, and a heavy jaw that leads to a square chin. His narrow green eyes sit beneath heavy brows, lending him a keen gaze. A broad nose and curved lips complete his features. He has fair skin with a ruddy complexion. His dark brown hair is matted from years of outdoor work. A notable feature is laugh lines around the eyes.
 
-## Dossier {#dossier}
+# Dossier {#dossier}
 
 Born in the Vrystwald region to a guilded family of Varokhi heritage, Skaldár Balthhelm came into the world of the toymaker through a combination of circumstance and aptitude.
 
@@ -565,37 +564,37 @@ Thorne is a veteran toymaker whose shop has been a staple in the city for decade
 
 Now at 51 years of age, Skaldár Balthhelm has established himself as a known figure among the toymakers of Vrystwald. His reputation, for better or worse, precedes him in the circles where such things matter.
 
-### Psyche
+## Psyche
 
-#### Personality
+### Personality
 
 Reluctant to embrace modern trends, sometimes seen as old-fashioned.
 
-#### Motivation
+### Motivation
 
 Skaldár is driven by the desire to master his craft and secure a stable future. The uncertainties of life in toymaker work keep him vigilant and adaptable.
 
-#### Strengths
+### Strengths
 
 Skilled in clockwork mechanisms, experienced in woodworking, inventive.
 
-### Social
+## Social
 
 Skaldár is affiliated with Toymakers' Guild.
 
 As a Varokhi toymaker, Skaldár occupies a recognized social niche within Vrystwald society.
 
-### Companions
+## Companions
 
-#### Patrons
+### Patrons
 
 Skaldár's primary patron is Wealthy families and collectors who seek unique, handcrafted toys.. This relationship provides both opportunity and obligation.
 
-#### Enemies
+### Enemies
 
 Younger toymakers who believe his techniques are outdated.
 
-### Plot Hooks
+## Plot Hooks
 
 1. **The Toymaker's Dilemma** — Skaldár faces a professional crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Vrystwald.
 

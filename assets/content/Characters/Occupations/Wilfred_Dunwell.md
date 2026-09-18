@@ -16,7 +16,6 @@ shortcode: wilfrednwl
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: null
   templatePriority: null
   archetypes: []
   occupation: Herder
@@ -551,11 +550,11 @@ sohl:
     defaultCombatGroup: null
 ---
 
-## Appearance {#appearance}
+# Appearance {#appearance}
 
 Wilfred Dunwell is a 45-year-old man who stands 6'1" tall and is broad and solidly built. He has a long face with sharp cheekbones, a smooth forehead, and a strong jaw that leads to a firm chin. His piercing green eyes sit beneath arched brows, lending him a penetrating gaze. A rounded nose and curved lips complete his features. He has fair skin with a weathered complexion. His brown hair is short and swept back.
 
-## Dossier {#dossier}
+# Dossier {#dossier}
 
 Born in the Aelwyth region to a freeman family of Aelwythan heritage, Wilfred Dunwell came into the world of the herder through a combination of circumstance and aptitude.
 
@@ -563,37 +562,37 @@ Hrothgar comes from a family of herders and has spent his life tending to cattle
 
 Now at 45 years of age, Wilfred Dunwell has established himself as a known figure among the herders of Aelwyth. His reputation, for better or worse, precedes him in the circles where such things matter.
 
-### Psyche
+## Psyche
 
-#### Personality
+### Personality
 
 Stubborn about traditional methods, can be overly protective of his flock.
 
-#### Motivation
+### Motivation
 
 Wilfred is driven by the desire to master his craft and secure a stable future. The uncertainties of life in herder work keep him vigilant and adaptable.
 
-#### Strengths
+### Strengths
 
 Strong and resilient, knowledgeable about weather patterns, excellent problem solver.
 
-### Social
+## Social
 
 Wilfred is affiliated with None; works independently..
 
 As a Aelwythan herder, Wilfred occupies a recognized social niche within Aelwyth society.
 
-### Companions
+## Companions
 
-#### Patrons
+### Patrons
 
 Wilfred's primary patron is Local farmers who value his expertise in livestock care.. This relationship provides both opportunity and obligation.
 
-#### Enemies
+### Enemies
 
 None; respected in his community for his dedication.
 
-### Plot Hooks
+## Plot Hooks
 
 1. **The Herder's Dilemma** — Wilfred faces a professional crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Aelwyth.
 

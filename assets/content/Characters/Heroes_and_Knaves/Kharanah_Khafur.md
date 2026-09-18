@@ -16,7 +16,6 @@ shortcode: kharnhkhfr
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: kharnhkhfr
   templatePriority: null
   archetypes: []
   occupation: Perfumer
@@ -592,41 +591,41 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Khârânah Khafûr](images/beings/characters/kharnhkhfr.webp){float: top-left}
+# Appearance {#appearance}
 
-## Appearance {#appearance}
+![[kharnhkhfr|Khârânah Khafûr]]{float: top-left}
 
 Khârânah stands 5'10" tall with a medium build. She has light olive skin, dark black hair, and green eyes. Her features include a narrow face, a strong nose, a strong jawline, full lips, strong brows, high cheeks.
 
-## Dossier {#dossier}
+# Dossier {#dossier}
 
-### Background
+## Background
 
-#### Early Life
+### Early Life
 
 Khârânah was born into the merchant family of Khafûr, whose caravans once traced the major trade routes of the Khazryn Desert. Her father, Farûkh Khafûr, was a trader in spices and rare botanicals, while her mother, Salîra, possessed an innate gift for blending and distillation. From childhood, Khârânah spent her days in her mother's workshop, learning to identify hundreds of plant essences by scent alone—a skill that bordered on the mystical. When she came of age, her family expected her to marry into another merchant house to consolidate trade alliances, but Khârânah had other ambitions. She saw in her mother's craft something far greater than commerce: an art form worthy of mastery.
 
-#### Training and Discovery
+### Training and Discovery
 
 At seventeen, Khârânah apprenticed herself to **Master Vasûn the Sage**, an ancient perfumer whose shop in the city of Ashkarad had been renowned for three generations. Under his patient tutelage, she learned not merely to blend fragrances, but to understand the deeper science and spirituality behind them. Vasûn taught her that each scent carries within it the memory of its source—the soil that nourished it, the sun that ripened it, the hands that harvested it. She studied fermentation, the geometry of crystalline compounds, and the rituals of the Āsháian Pantheon that honored Āhúrdáén, god of order and harmony. For eleven years, she perfected her craft, and when Vasûn finally passed to the Eternal Gardens, he left her his shop and his private grimoire of formulas.
 
-#### Current Situation
+### Current Situation
 
 Now established as one of the finest perfumers in the Khazryn Desert, Khârânah operates her perfumery in a restored building of pale sandstone with gardens cascading down its southern face. She has earned the title "Master" by her thirty-second season of work, though she demurs from using it publicly, preferring the simpler designation of craftsperson. Her commitment to using only sustainably harvested materials and to preserving threatened plant species has made her something of a controversy among competitors who favor cheaper, synthetic alternatives. Yet her creations are sought after by nobility, merchants, and wise folk throughout the realms, and her reputation for integrity has only deepened her client base.
 
-### Psyche
+## Psyche
 
-#### Personality
+### Personality
 
 Khârânah possesses the quiet confidence of a true artisan—a woman who knows the value of her work without needing to trumpet it. She is thoughtful and deliberate in speech, choosing words with the same precision she applies to blending essences. In conversation, she listens far more than she speaks, a habit instilled by years of learning to hear the unspoken wisdom in scents and silences alike. There is a dreamer's quality to her, a tendency to lose herself in contemplation of a single bloom or drop of oil, seeing infinite possibility within finite materials. Yet this dreaming nature coexists with fierce practicality—she maintains meticulous records, manages her garden with military precision, and negotiates fiercely for her suppliers' welfare.
 
 Her warmth extends genuinely to those around her, but never at the cost of principle. She will offer friendship freely to customers and competitors alike, but cannot abide cruelty to the natural world or deception in matters of craft. She serves the deity Āhúrdáén not through rigid orthodoxy but through her dedication to creating order and harmony through her art, believing that a perfectly balanced fragrance speaks to something divine in the soul.
 
-#### Motivation
+### Motivation
 
 Khârânah is driven by a dual vision: to elevate the art of perfumery to its highest possible expression while preserving the wilderness from which it draws its soul. She believes that the world's plant life is sacred trust, and that her work as a perfumer carries the responsibility of a custodian. She envisions a future in which the beauty of rare botanicals is known and valued precisely because it is protected—not exploited. She is compelled to prove that sustainable craftsmanship need not yield to greed, and that artistry can flourish in harmony with nature rather than despite it. Additionally, she harbors a quiet ambition to establish her legacy as one of the great masters of her craft, creating formulas that will endure for centuries and perhaps inspire future perfumers to embrace her philosophy of conservation and responsibility.
 
-#### Strengths
+### Strengths
 
 - **Master of Botanicals**: Possesses encyclopedic knowledge of plants, minerals, and their properties. Can identify rare species by scent alone and understands their medicinal and alchemical applications with profound expertise.
 - **Artistic Genius**: Creativity at sixteen allows her to imagine and execute fragrance compositions of breathtaking complexity and emotional resonance. Her blends tell stories and evoke profound memories.
@@ -635,7 +634,7 @@ Khârânah is driven by a dual vision: to elevate the art of perfumery to its hi
 - **Perceptive Judgment**: Keen perception (14) lets her detect subtle shifts in a scent's composition and read people's emotional states through their reactions to fragrances.
 - **Charismatic Presence**: Natural comeliness and charm make her a magnetic presence in social situations, and people instinctively trust her judgment and integrity.
 
-#### Weaknesses
+### Weaknesses
 
 - **Perfectionism Under Pressure**: When faced with competition or tight deadlines, her perfectionist standards can lead to decision paralysis. She sometimes cannot settle on a formula, endlessly refining when "good enough" would serve a customer adequately.
 - **Business Acumen Gaps**: Though her craft is flawless, she struggles with the logistics of supply chain management, accounting, and inventory management. She has lost money on several occasions through poor negotiation or oversight.
@@ -643,28 +642,28 @@ Khârânah is driven by a dual vision: to elevate the art of perfumery to its hi
 - **Limited Physical Defense**: Her focus on craft has left her with minimal training in combat or physical hardship. She is not frail, but would be outmatched in any direct confrontation.
 - **Isolation Through Excellence**: Her renown sometimes isolates her from peers. Many see her as elevated above their level, making genuine friendship with other artisans difficult.
 
-### Social
+## Social
 
-#### Patrons
+### Patrons
 
 - **Lord Fâhir of House Kaza**: A wealthy merchant lord who has commissioned exclusive fragrances for his household for five years. He values her judgment and occasionally asks her counsel on matters of trade policy.
 - **The Temple of Āhúrdáén**: The priesthood regularly commissions liturgical scents and offerings. They view her as a keeper of sacred tradition and seek her perspective on matters of spiritual significance.
 - **Master Healers of Ashkarad**: The city's physicians and herbalists purchase rare essences from Khârânah and value her knowledge of plant properties for their own healing work.
 - **Merchant Caravans**: Various caravan masters rely on her to source specialty materials and preserve valuable goods through her scent-preservation techniques.
 
-#### Enemies
+### Enemies
 
 - **Mâkûth the Synthetic**: A rival perfumer who has embraced cheap synthetic alternatives and undercuts Khârânah's prices. He views her as a sanctimonious obstacle to progress and spreads rumors about her business practices.
 - **The Desert Consortium**: A loose association of merchants who exploit rare plant species for quick profit. They see Khârânah's conservation efforts as a direct threat to their profits and have attempted to undercut her suppliers.
 - **Rival Guild Masters**: A few jealous artisans within the Artisans' Guild view her rise as a stain on their own reputations and work subtly to exclude her from prestigious commissions.
 
-#### Affiliations
+### Affiliations
 
 - **Artisans' Guild of Ashkarad**: A full member and respected voice in matters concerning craft quality and ethical standards.
 - **The Green Covenant**: A loose informal network of craftspeople and merchants dedicated to sustainable practices in the Khazryn Desert.
 - **Temple of Āhúrdáén**: Regular contributor of liturgical scents and consulted as a crafts-keeper of sacred tradition.
 
-### Plot Hooks
+## Plot Hooks
 
 1. **The Lost Essence**: A legendary perfumer from the ancient age, **Saint Mîrvûn the Ascendant**, is said to have created a fragrance so perfectly balanced that merely smelling it could induce transcendent states of spiritual clarity. Fragments of his formula have surfaced in a crumbling monastery high in the **Kûrân Mountains**, and Khârânah learns that an unscrupulous collector, **Duke Savûk**, is assembling an expedition to find it. She must decide whether to let the formula remain lost (preserving mystery) or seek it first to ensure its proper use. The journey will take her far from her shop and into danger—mountains harbor both natural obstacles and those who would kill for such secrets.
 

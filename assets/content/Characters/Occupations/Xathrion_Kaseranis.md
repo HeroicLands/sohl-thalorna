@@ -16,7 +16,6 @@ shortcode: xthrnksrns
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: null
   templatePriority: null
   archetypes: []
   occupation: Physician
@@ -553,11 +552,11 @@ sohl:
     defaultCombatGroup: null
 ---
 
-## Appearance {#appearance}
+# Appearance {#appearance}
 
 Xâthrîon Kâserânis is a 48-year-old man who stands 5'9" tall and is of moderate build. He has an angular face with high cheekbones, a narrow forehead, and a sharp jaw that leads to a square chin. His sharp brown eyes sit beneath prominent brows, lending him an incisive gaze. An aquiline nose and wide lips complete his features. He has tanned skin with a weathered complexion. His chestnut hair is kept practical and short.
 
-## Dossier {#dossier}
+# Dossier {#dossier}
 
 Born in the Vylaría region to a noble family of Vylarian heritage, Xâthrîon Kâserânis came into the world of the physician through a combination of circumstance and aptitude.
 
@@ -565,37 +564,37 @@ Dr. Fenwick is a physician with a reputation for his innovative treatments and t
 
 Now at 48 years of age, Xâthrîon Kâserânis has established himself as a known figure among the physicians of Vylaria. His reputation, for better or worse, precedes him in the circles where such things matter.
 
-### Psyche
+## Psyche
 
-#### Personality
+### Personality
 
 Can be too focused on experimentation, struggles with interpersonal relationships.
 
-#### Motivation
+### Motivation
 
 Xâthrîon's driving force is the search that defines his life — a quest that shapes every decision he makes and every risk he takes.
 
-#### Strengths
+### Strengths
 
 Highly experienced, excellent researcher, skilled at complex diagnoses.
 
-### Social
+## Social
 
 Xâthrîon is affiliated with Local Physicians' Guild.
 
 As a Vylarian physician, Xâthrîon occupies a recognized social niche within Vylaria society.
 
-### Companions
+## Companions
 
-#### Patrons
+### Patrons
 
 Xâthrîon's primary patron is Local nobles and community members seeking advanced medical treatment.. This relationship provides both opportunity and obligation.
 
-#### Enemies
+### Enemies
 
 Few; generally well-respected but may face skepticism from traditionalists.
 
-### Plot Hooks
+## Plot Hooks
 
 1. **The Physician's Dilemma** — Xâthrîon faces a professional crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Vylaria.
 

@@ -18,7 +18,6 @@ description: >-
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: null
   templatePriority: null
   archetypes: []
   occupation: null
@@ -41,6 +40,12 @@ data:
     extra_features: []
 ---
 
+# Appearance {#appearance}
+
+TBD
+
+# Dossier {#dossier}
+
 **"Iron Spear Piercing the Clouds"**
 
 > **Draft.** This note exists so that the general the
@@ -54,7 +59,7 @@ won the campaign, which made it worse rather than better: a victory won by
 disobedience indicts the order, and the celestial administration cannot allow
 that to stand.
 
-## See Also
+# See Also
 
 - [[lore-ttjkvngyrt|Tëitjëk Vëngyürt]] — the rebellion as the Empire records it
 - [[affiliation-tanvurempr|Empire of Tānvür]] — the authority he broke with

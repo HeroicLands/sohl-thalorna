@@ -16,7 +16,6 @@ shortcode: namrshgzrm
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: null
   templatePriority: null
   archetypes: []
   occupation: Town Guard
@@ -528,11 +527,11 @@ sohl:
     defaultCombatGroup: null
 ---
 
-## Appearance {#appearance}
+# Appearance {#appearance}
 
 Namrûsh stands 5'11" with a medium build — rangy and loose-limbed, with the easy posture of a man comfortable in his own skin. His dark brown hair is thick and slightly curling, worn to his ears in the Haradian style, and his dark amber eyes are sharp and calculating beneath a left eyebrow bisected by a thin white scar — the only visible evidence of a dockside altercation three years past. His medium-toned skin is clear and unblemished, and his face is long and narrow, with a straight nose and a neatly trimmed beard that follows his jawline. He wears the warehouse district guard uniform: a light padded tunic, leather bracers, and soft-soled boots designed for quiet movement on wooden dock planking. He carries a short sword, but his hands — long-fingered and precise — seem better suited to counting coins than drawing steel.
 
-## Dossier {#dossier}
+# Dossier {#dossier}
 
 Namrûsh was born into a Haradian merchant family but chose military service over commercial life. At seventeen, he joined the port warehouse district guard, a position that monitors cargo movement, prevents theft, and enforces commercial regulations. The work was less prestigious than he might have hoped, but it proved more interesting than his family's expectations. He discovered a talent for understanding how wealth actually moves through the city—not the official channels that appear on manifests but the real, complex networks that merchants use to avoid taxes, hide profits, and facilitate trade that exists outside legal frameworks.
 
@@ -540,35 +539,35 @@ At thirty-two, he has spent fifteen years in warehouse district work and has bec
 
 The scar through his left eyebrow was earned during a confrontation with smugglers five years ago. He was investigating inconsistencies in a merchant's shipment documentation and encountered resistance that turned physical. He survived and pressed charges. The smugglers were prosecuted. The incident reinforced his understanding that the most dangerous criminals are the ones intelligent enough to hide their crimes in paperwork.
 
-### Psyche
+## Psyche
 
-#### Personality
+### Personality
 
 Namrûsh is methodical and precise, finding satisfaction in the detective work inherent in financial crime investigation. He is not particularly charismatic and does not form close friendships easily. He is genuinely intelligent about economic systems and will spend hours analyzing financial patterns that others find boring. He has a dry sense of humor about human nature and the creative methods people use to engage in fraud.
 
-#### Motivation
+### Motivation
 
 Namrûsh's primary motivation is understanding the true economic structure of his city—recognizing where wealth actually flows and how it moves. His secondary motivation is preventing the specific kind of crime that damages legitimate commerce through fraud. He is not motivated by ideology but by a genuine appreciation for the intellectual puzzle of financial investigation.
 
-#### Strengths
+### Strengths
 
 His understanding of commercial documentation and financial systems is exceptional. He can recognize inconsistencies in manifests and accounts that others miss. He is patient with tedious investigation. His knowledge of merchant networks and relationships is comprehensive.
 
-### Social
+## Social
 
 Namrûsh occupies an unusual role within the port warehouse district—respected by merchants who value his honesty and feared by merchants engaged in fraud. He is barely noticed by the broader city, content with his relative invisibility.
 
-### Companions
+## Companions
 
-#### Patrons
+### Patrons
 
 **Warehouse Master Tariq Sindros** — The administrator of the port warehouse district. Tariq has come to rely on Namrûsh absolutely for maintaining order and preventing theft. He pays Namrûsh substantially above standard guard wages and has ensured his position is secure and protected from reassignment.
 
-#### Enemies
+### Enemies
 
 **Merchant Prince Hallak al-Sarif** — A wealthy merchant whose operation Namrûsh has documented engaged in systematic smuggling and tax evasion. Hallak is intelligent and politically connected, and his operations are complex enough that legal prosecution has been difficult. Hallak recognizes Namrûsh as a threat and has begun working to undermine him through allegations of corruption and bias.
 
-### Plot Hooks
+## Plot Hooks
 
 1. **The Documentation Trap** — Namrûsh discovers evidence in shipping manifests that suggests a major merchant operation is engaged in human trafficking—moving people through the port disguised as legitimate cargo. The documentation is methodical and almost open; the perpetrators were confident nobody would recognize the pattern. Namrûsh assembles the evidence carefully. But when he reports it to Warehouse Master Tariq, he learns that the operation is being protected by senior government officials. Tariq warns him that pursuing the investigation will cost him his position and possibly his life. Namrûsh must choose between professional safety and exposing a serious crime.
 

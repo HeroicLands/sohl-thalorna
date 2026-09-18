@@ -16,7 +16,6 @@ shortcode: brthrslthr
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: null
   templatePriority: null
   archetypes: []
   occupation: Charcoaler
@@ -553,11 +552,11 @@ sohl:
     defaultCombatGroup: null
 ---
 
-## Appearance {#appearance}
+# Appearance {#appearance}
 
 Bréthar Sálthar is a 51-year-old man who stands 6'2" tall and is broad and solidly built. He has a long face with high cheekbones, a narrow forehead, and an angular jaw that leads to a delicate chin. His round blue eyes sit beneath straight brows, lending him a candid gaze. A slightly upturned nose and full lips complete his features. He has fair skin with a weathered complexion. His graying brown hair is combed neatly to one side.
 
-## Dossier {#dossier}
+# Dossier {#dossier}
 
 Born in the Élavendre region to a freeman family of Élavendri heritage, Bréthar Sálthar came into the world of the charcoaler through a combination of circumstance and aptitude.
 
@@ -565,37 +564,37 @@ Beran has worked as a charcoaler in the dense forests near his village for most 
 
 Now at 51 years of age, Bréthar Sálthar has established himself as a known figure among the charcoalers of Élavendre. His reputation, for better or worse, precedes him in the circles where such things matter.
 
-### Psyche
+## Psyche
 
-#### Personality
+### Personality
 
 Gruff and stubborn, reluctant to accept new methods or suggestions.
 
-#### Motivation
+### Motivation
 
 Bréthar is driven by the desire to master his craft and secure a stable future. The uncertainties of life in charcoaler work keep him vigilant and adaptable.
 
-#### Strengths
+### Strengths
 
 Physically strong and experienced in handling firewood and charcoal.
 
-### Social
+## Social
 
 Bréthar is affiliated with Woodworkers' Guild.
 
 As a Élavendri charcoaler, Bréthar occupies a recognized social niche within Élavendre society.
 
-### Companions
+## Companions
 
-#### Patrons
+### Patrons
 
 Bréthar's primary patron is Local blacksmiths and villagers who purchase his charcoal.. This relationship provides both opportunity and obligation.
 
-#### Enemies
+### Enemies
 
 Rival charcoalers who compete for territory.
 
-### Plot Hooks
+## Plot Hooks
 
 1. **The Charcoaler's Dilemma** — Bréthar faces a professional crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Élavendre.
 

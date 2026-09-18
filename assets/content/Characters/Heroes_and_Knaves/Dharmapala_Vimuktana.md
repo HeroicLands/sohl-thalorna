@@ -15,7 +15,6 @@ shortcode: dhrmplvmkt
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: dhrmplvmkt
   templatePriority: null
   archetypes: []
   occupation: Bodyguard
@@ -576,13 +575,13 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Dharmàpala Vimuktaṇa](images/beings/characters/dhrmplvmkt.webp){float: top-left}
+# Appearance {#appearance}
 
-## Appearance {#appearance}
+![[dhrmplvmkt|Dharmàpala Vimuktaṇa]]{float: top-left}
 
 Dharmàpala stands 6'1" tall with a medium build. He has warm golden brown skin, dark black hair, and dark brown eyes. His features include an oval face, a broad nose, a narrow chin, an expressive mouth, warm golden brows, high cheeks. A distinguishing mark is a tattoo of a flower on the ankle.
 
-## Dossier {#dossier}
+# Dossier {#dossier}
 
 Dharmàpala emerged from the lower castes of Vedyara's networked city-states, where survival and advancement required more than talent—it required ruthlessness, adaptability, and an ability to read human intention faster than others could act. His early years remain obscured by deliberate obscurity, though rumors suggest he was orphaned young and entered service to a merchant-prince known for employing street-born fighters. By his early twenties, Dharmàpala had distinguished himself as a bodyguard and protection specialist, accumulating a reputation for keeping his employers alive through situations that should have proven fatal.
 
@@ -590,19 +589,19 @@ The flower tattoo appeared around the time he entered the Mercenaries Guild prop
 
 Now he operates from the margins of Vedyaran society, available to those wealthy and discrete enough to seek him through proper channels. Though nominally affiliated with the Mercenaries Guild, Dharmàpala maintains fierce independence and careful separation from entanglements with other guild members or formal power structures.
 
-### Psyche
+## Psyche
 
-#### Personality
+### Personality
 
 Dharmàpala is economical with trust and conversation. Those who encounter him in professional capacities often mistake his silence for coldness or dim-wittedness—a misreading that has occasionally cost his would-be attackers their lives. In truth, he processes the world through constant evaluation and tactical analysis, a mental orientation that leaves little room for casual pleasantry. When he does speak, his words carry weight and precision; he has learned that brevity itself can be a form of power.
 
 Yet beneath this austere exterior exists an unexpected capacity for dark humor and moments of genuine warmth with those few individuals who have earned his regard. He maintains a stoic philosophy that borders on fatalism, viewing death as an inevitable eventuality that neither requires dwelling upon nor permits excessive caution. This paradoxically makes him simultaneously careful (avoiding unnecessary risks) and bold (willing to take calculated dangers that more fearful men would flee). He is driven by a code of honor that has nothing to do with conventional morality and everything to do with loyalty to those who have fairly hired him and respect for enemies who prove worthy.
 
-#### Motivation
+### Motivation
 
 Dharmàpala is motivated by the pursuit of mastery—the relentless refinement of his abilities toward an undefined perfection. He accepts commissions not merely for income but for the challenge they represent, seeking situations that will test his capabilities and force him to evolve. Beneath this lies a deeper motivation: a hunger for significance and permanence in a world that seems determined to render his existence transient and forgettable. Each successful protection of a client, each threat neutralized before it matures into danger, represents a small defiance against irrelevance. The flower tattoo suggests something else—perhaps a love lost, a vow unfulfilled, or a spiritual commitment—but Dharmàpala guards this motivation carefully, allowing it to surface only in unguarded moments.
 
-#### Strengths
+### Strengths
 
 - **Transcendent Agility**: His movement is poetry rendered into flesh—he can scale structures other warriors would consider impassable, contort through impossible spaces, and achieve acrobatic feats that seem to violate natural laws.
 - **Threat Perception**: His perception and awareness are honed to supernatural sensitivity, capable of detecting threats hidden in crowd sounds, micro-expressions, and environmental variations others would miss entirely.
@@ -610,7 +609,7 @@ Dharmàpala is motivated by the pursuit of mastery—the relentless refinement o
 - **Melee Perfection**: His dagger and short sword work demonstrates thousands of hours of drilling and refinement, resulting in a style that is minimalist, economical, and devastatingly effective.
 - **Psychological Resilience**: He maintains emotional equilibrium under stress that would shatter weaker minds, allowing him to function effectively in situations of extreme danger and uncertainty.
 
-#### Weaknesses
+### Weaknesses
 
 - **Emotional Isolation**: His distance from human connection leaves him vulnerable to manipulation by those who can offer genuine warmth or false kinship, and makes him unpredictable when emotions do surface.
 - **Analytical Paralysis**: His tendency toward exhaustive threat-analysis can result in inaction or overly conservative approaches when situations demand swift, bold action.
@@ -618,25 +617,25 @@ Dharmàpala is motivated by the pursuit of mastery—the relentless refinement o
 - **Mercenary Amorality**: His willingness to work for any sufficiently wealthy patron regardless of moral dimension has alienated potential allies and created dangerous enemies among the righteously inclined.
 - **Dangerous Unpredictability**: His stoic exterior masks internal pressure that occasionally erupts in disproportionate violence, particularly when encountering situations that evoke the unspoken trauma he carries.
 
-### Social
+## Social
 
-#### Patrons
+### Patrons
 
 - **Merchant-Princess Ashera of Vedyara's Eastern Quarter**: A widow and trader in luxury goods who regularly contracts Dharmàpala's services and has developed a genuine (though carefully unspoken) affection for him.
 - **Lord Kavindra the Banker**: An elderly financier who values Dharmàpala's discretion and tactical thinking as much as his combat abilities, and has kept him on quasi-retainer for sensitive commissions.
 - **Master Surgeon Devak**: A healer of some renown who once treated Dharmàpala for a near-fatal wound and has since become one of the few individuals he considers a friend.
 
-#### Enemies
+### Enemies
 
 - **Captain Rajesh of the City Guard**: A corrupt official who views Dharmàpala's independence from his authority as insult and has made his removal a personal crusade, generating false charges and attempting to cut off his legitimate work.
 - **The Crimson Syndicate**: A criminal organization that attempted to hire Dharmàpala for unforgivable purposes; when he refused and reported them to city authorities, they marked him for death and have pursued this vendetta with cold determination.
 - **Keshav the Knife**: A rival bodyguard and occasional guild-mate who views Dharmàpala as having stolen commissions that should have been his, and who harbors deep resentment over a past failure to protect a client where Dharmàpala succeeded.
 
-#### Affiliations
+### Affiliations
 
 - **The Mercenaries Guild of Vedyara**: Formally affiliated but deliberately maintaining distance from organizational involvement and factional disputes.
 
-### Plot Hooks
+## Plot Hooks
 
 1. **The Poisoned Patron**: A wealthy merchant-family that has retained Dharmàpala for three years suddenly begins to die in mysterious ways—servants first, then junior family members, then the family head himself. The poisons are sophisticated and leave no obvious trace, and the family's own paranoid response is making Dharmàpala's job of protection almost impossible. Worse, someone has begun spreading rumors that Dharmàpala himself is the poisoner, hired by a rival faction to eliminate the family from within. He must identify the true source of the poisoning, protect his increasingly desperate and irrational clients, and restore his shattered reputation before the entire family is eliminated and he is blamed.
 

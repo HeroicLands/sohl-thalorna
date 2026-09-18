@@ -16,7 +16,6 @@ shortcode: kjrvngjrln
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: kjrvngjrln
   templatePriority: null
   archetypes: []
   occupation: Ostler
@@ -588,41 +587,41 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Kjôrvan Gjârlen](images/beings/characters/kjrvngjrln.webp){float: top-left}
+# Appearance {#appearance}
 
-## Appearance {#appearance}
+![[kjrvngjrln|Kjôrvan Gjârlen]]{float: top-left}
 
 Kjôrvan stands 6'1" tall with a medium build. He has sun-tanned skin, dark brown hair, and brown eyes. His features include an oblong face, a straight nose, an angular jawline, full lips, dark brows, sculpted cheeks.
 
-## Dossier {#dossier}
+# Dossier {#dossier}
 
-### Background
+## Background
 
-#### Early Life
+### Early Life
 
 Kjôrvan was born in the borderlands between the Kingdom of Provènzia and the **Wildwood Territories**, the youngest of five children to a horse trader named **Jorn Gjârlen** and a former herbalist named **Mera**. His childhood was spent around stables and pasture, watching his father conduct business and his mother tend to injured and sick animals. Where his siblings learned to pursue profitable trades, Kjôrvan found his passion not in commerce but in the animals themselves. At age seven, he was given his first young foal to raise—a gift from his father intended as a lesson in responsibility. That foal became his inseparable companion, and in raising it, he discovered his true calling.
 
-#### Training and Path
+### Training and Path
 
 At twelve years old, Kjôrvan apprenticed himself to **Master Aelfen**, the head ostler of the renowned **Traveler's Rest Inn** located at the great crossroads where roads from Provènzia, the Merchant Cities, and the coastal provinces meet. For thirteen years, he studied the care of horses in all their complexity—not merely feeding and grooming, but understanding their temperaments, healing their ailments, training them gently but firmly, and reading the subtle signs of their health and mood. Master Aelfen was a stern but fair teacher who believed that a good ostler must possess the patience of stone and the heart of a priest. Kjôrvan proved to be an exceptional student, eventually becoming responsible for the care of the inn's entire complement of thirty to forty horses, with a rotating staff of junior ostlers beneath him.
 
-#### Current Situation
+### Current Situation
 
 Now established as the chief ostler at the **Traveler's Rest Inn**, Kjôrvan has become indispensable to the operation. His reputation has spread far enough that merchants and nobles specifically request to stable their horses with him, trusting that their animals will be returned to them in better condition than when they arrived. He lives in modest quarters above the stable, owns little, and spends nearly all his daylight hours among the horses. He has declined several offers to become head of larger stables elsewhere, preferring the deep relationships he's built with both the animals under his care and the inn's regular travelers.
 
-### Psyche
+## Psyche
 
-#### Personality
+### Personality
 
 Kjôrvan is a man of few words but genuine warmth. He communicates with equal fluency through speech and through action, and many travelers report that conversing with him is remarkably peaceful—he listens without judgment, asks thoughtful questions, and never hurries a conversation. He possesses an almost meditative quality, as if he's learned patience and acceptance from years of working with creatures that operate outside human logic. There is a gentleness to him that might be mistaken for softness by those who don't know him, but those who do understand that it masks an underlying strength and resolve. He is capable of great tenderness with suffering animals and uncertain travelers, yet firm and clear with those who would mistreat animals under his care.
 
 Kjôrvan struggles with conflict and direct confrontation, preferring always to seek peaceful resolution or simply to withdraw rather than engage in argument. This can appear as passivity, but it stems from a deeper philosophy: he believes that most conflict arises from people operating at cross-purposes when patient conversation could bridge the gap. He follows the god **Jánus** not through ritual but through his daily practice of balance—maintaining equilibrium between the needs of animals and the needs of travelers, between tradition and innovation, between solitude and community.
 
-#### Motivation
+### Motivation
 
 Kjôrvan is driven by a desire to provide genuine care and comfort to creatures that cannot ask for it, and to be a reliable, honest presence in a world often characterized by deception and hurried dealing. He harbors no ambition for wealth or status, but he is motivated by the knowledge that his work matters deeply—that a horse properly cared for will carry its rider safely, that a nervous traveler's anxiety can ease through conversation with someone trustworthy. On a deeper level, he seeks to create spaces of peace and refuge within the inn, islands of tranquility where both animals and humans can find respite from the demands of the road. He is quietly determined to preserve and pass on the knowledge and philosophy of animal care that Master Aelfen taught him, viewing it as a sacred trust.
 
-#### Strengths
+### Strengths
 
 - **Exceptional Animal Husbandry**: Mastery in animal care (base 12, multiplied 4 times) means he can diagnose and treat nearly any equine ailment, calm terrified horses, and understand their individual temperaments and needs with supernatural sensitivity.
 - **Practical Craftsmanship**: Strong in metalcraft, woodworking, and drawing allows him to repair tack, maintain stable facilities, and create tools perfectly suited to his purposes without needing to commission outside work.
@@ -631,7 +630,7 @@ Kjôrvan is driven by a desire to provide genuine care and comfort to creatures 
 - **Climbing and Physical Capability**: Dexterity and climbing skills allow him to handle horses in difficult terrain and retrieve animals from dangerous situations, as well as maintain high rooftops and sohl.
 - **Reliable Presence**: His reputation for absolute honesty, reliability, and kindness makes him one of the most trusted figures in the region. Merchants and nobles trust him with their most valuable animals and often confide in him.
 
-#### Weaknesses
+### Weaknesses
 
 - **Conflict Aversion**: His discomfort with confrontation can lead him to avoid necessary difficult conversations or to fail to stand up for himself when treated unfairly. He will absorb mistreatment rather than engage in argument.
 - **Limited Worldliness**: Years spent primarily with animals and at the inn have left him somewhat naive about broader politics, intrigue, and deception. He can be manipulated by those who appeal to his good nature.
@@ -639,27 +638,27 @@ Kjôrvan is driven by a desire to provide genuine care and comfort to creatures 
 - **Overthinking Simple Matters**: His tendency toward patient, meditative consideration sometimes causes him to over-complicate straightforward decisions or miss obvious solutions through over-analysis.
 - **Limited Ambition**: His lack of drive for advancement means he may miss opportunities for personal growth or fail to advocate for raises and better conditions when deserved.
 
-### Social
+## Social
 
-#### Patrons
+### Patrons
 
 - **Innkeeper Mârlith**: The proprietor of the **Traveler's Rest Inn**, who trusts Kjôrvan completely and relies on him to maintain the quality of the inn's services. She often consults him on matters beyond his stable work.
 - **Merchant Caravans of the Crossroads**: Regular merchants who pass through the inn give Kjôrvan gifts, bonuses, and special requests, viewing his care as worth premium payment.
 - **The Kingdom's **Ranger Corps\*\*: The royal rangers occasionally stable their horses with Kjôrvan and respect his knowledge of equine fitness and trail-readiness.
 - **Noble Houses of Provènzia**: Several regional nobles have favorite horses stabled permanently at the inn specifically to be under Kjôrvan's care.
 
-#### Enemies
+### Enemies
 
 - **The Slave Traders of the Shadowmarch**: Criminal organizations that occasionally pass through the crossroads. Kjôrvan refuses them service, and they view him as an obstacle to their operations.
 - **The Road Bandits of Thornwood**: A band of brigands led by the cruel **Captain Rogûn** who have attempted to steal valuable horses from the inn. Kjôrvan has helped facilitate the recovery of stolen animals.
 - **Rival Ostlers**: A few ostlers from competing stables view Kjôrvan's reputation as a threat to their business and have occasionally attempted to poach his clients or sabotage his reputation.
 
-#### Affiliations
+### Affiliations
 
 - **The Traveler's Rest Inn**: His primary workplace and community, where he holds significant influence and trust.
 - **Informal Network of Beast-Keepers**: Through his reputation, he maintains loose connections with other skilled animal handlers, herbalists, and healers throughout the region.
 
-### Plot Hooks
+## Plot Hooks
 
 1. **The Cursed Mare**: A noble's prized brood mare arrives at the inn bearing visible signs of a magical curse—her mane turns white overnight, her temperament becomes unpredictable, and she rejects all food and care. The nobleman, **Duke Therin of House Valorian**, desperate to break the curse before his breeding program collapses, turns to Kjôrvan for help. Though the ostler has never dealt with magical afflictions, his deep connection to animals may be key to understanding what ails her. The investigation leads Kjôrvan into contact with **Morrigan the Hedge Witch**, who reveals that a jealous rival bred another mare with stolen magical components specifically to curse this one.
 

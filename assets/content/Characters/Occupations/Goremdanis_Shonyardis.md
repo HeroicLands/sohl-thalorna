@@ -16,7 +16,6 @@ shortcode: grmdnshnyrds
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: null
   templatePriority: null
   archetypes: []
   occupation: Musician (Lyre)
@@ -551,11 +550,11 @@ sohl:
     defaultCombatGroup: null
 ---
 
-## Appearance {#appearance}
+# Appearance {#appearance}
 
 Goremdânis Shônyàrdîs is a 35-year-old man who stands 6'1" tall and is of moderate build. He has a long face with defined cheekbones, a broad forehead, and a strong jaw that leads to a firm chin. His almond-shaped dark brown eyes sit beneath arched brows, lending him a measured gaze. A hawkish nose and curved lips complete his features. He has medium-toned skin with a sun-tanned complexion. His dark brown hair is kept practical and short.
 
-## Dossier {#dossier}
+# Dossier {#dossier}
 
 Born in the Vylaría region to a freeman family of Vylarian heritage, Goremdânis Shônyàrdîs came into the world of the musician (lyre) through a combination of circumstance and aptitude.
 
@@ -563,37 +562,37 @@ Eirik was raised in a small village where music was a key part of life. He learn
 
 Now at 35 years of age, Goremdânis Shônyàrdîs has established himself as a known figure among the musician (lyre)s of Vylaria. His reputation, for better or worse, precedes him in the circles where such things matter.
 
-### Psyche
+## Psyche
 
-#### Personality
+### Personality
 
 Lacks refinement for performing in courts, struggles with urban life.
 
-#### Motivation
+### Motivation
 
 Goremdânis is driven by the desire to master his craft and secure a stable future. The uncertainties of life in musician (lyre) work keep him vigilant and adaptable.
 
-#### Strengths
+### Strengths
 
 Skilled in lyricism and composition, able to connect with rural audiences.
 
-### Social
+## Social
 
 Goremdânis is affiliated with Minstrels' Guild.
 
 As a Vylarian musician (lyre), Goremdânis occupies a recognized social niche within Vylaria society.
 
-### Companions
+## Companions
 
-#### Patrons
+### Patrons
 
 Goremdânis's primary patron is Village elders and travelers who enjoy his performances.. This relationship provides both opportunity and obligation.
 
-#### Enemies
+### Enemies
 
 None, though some court musicians see him as a rustic.
 
-### Plot Hooks
+## Plot Hooks
 
 1. **The Musician (Lyre)'s Dilemma** — Goremdânis faces a professional crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Vylaria.
 

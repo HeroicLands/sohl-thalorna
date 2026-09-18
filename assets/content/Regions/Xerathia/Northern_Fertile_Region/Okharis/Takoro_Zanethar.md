@@ -2,6 +2,7 @@
 tags:
   - character
   - administration
+  - draft
 name:
   full: Tákoro Zanethar
   title: ""
@@ -12,7 +13,6 @@ packFolder: northernfertileregionokharis
 shortcode: takorozanethar
 type: being
 data:
-  portrait: null
   templatePriority: null
   archetypes: []
   occupation: king
@@ -542,6 +542,12 @@ sohl:
         disabled: false
     defaultCombatGroup: null
 ---
+
+# Appearance {#appearance}
+
+TBD
+
+# Dossier {#dossier}
 
 The current Overlord of Okháris is **Tákoro Zanethar** (_The Keeper of the Three Flames_).
 

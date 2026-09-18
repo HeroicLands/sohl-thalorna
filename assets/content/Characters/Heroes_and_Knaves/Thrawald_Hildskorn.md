@@ -16,7 +16,6 @@ shortcode: thrwldhldskrn
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: thrwldhldskrn
   templatePriority: null
   archetypes: []
   occupation: Brigand
@@ -550,51 +549,51 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Thráwald Hildskorn](images/beings/characters/thrwldhldskrn.webp){float: top-left}
+# Appearance {#appearance}
 
-## Appearance {#appearance}
+![[thrwldhldskrn|Thráwald Hildskorn]]{float: top-left}
 
 Thráwald Hildskorn is the largest man in Dágulf's gang and looks every year of the hard life he has led. He is tall and thick-bodied, with slablike shoulders and a barrel chest gone slightly soft around the middle. His graying brown hair is cropped close to the skull, and his broad, weathered face has been rearranged by violence — his nose has been broken so many times it sits crooked and flat, and two fingers are missing from his left hand, lost to a Vylarian soldier's sword years ago. His brown eyes are dull and watchful, set deep beneath a heavy brow. He moves with a lumbering deliberateness that belies surprising quickness when the axe comes out. He wears a padded shirt under a scarred leather vest, rawhide cap, and heavy boots, and carries a battered battleaxe that he handles with grim familiarity.
 
-## Dossier {#dossier}
+# Dossier {#dossier}
 
 Thráwald was born into the Hildskorn clan, a minor Varokh family of shepherds and woodcutters in the deep pine country of Vrystwald. He was always big — big enough that the Vylarian garrison conscripted him at sixteen to serve as labor on a border fortification. He spent three years hauling stone and timber, learned to hate the empire with a pure and uncomplicated fury, and deserted the first winter the garrison was short-handed enough to let discipline slip.
 
 He drifted for years after that, hiring on as muscle for petty traders and cattle thieves. He killed his first man in a drunken brawl over a gambling debt and discovered he felt nothing about it. That emptiness defined his career. He joined Dágulf's band five years ago, when his previous gang was broken up by a Vylarian patrol — he was the only one who escaped, and only because he was relieving himself in the woods when the soldiers struck. He is now the longest-serving member of the Blackpine Wolves after Dágulf himself, and the closest thing the gang has to a second-in-command, though Dágulf trusts no one with real authority.
 
-## Skills and Abilities
+# Skills and Abilities
 
 Thráwald is a brutal close-quarters fighter whose main asset is raw strength and endurance. He swings a battleaxe with terrible force, and his high shock resistance means he can absorb punishment that would drop smaller men. He is a passable woodsman — he can track, forage, and build a fire — but he has no subtlety whatsoever. He cannot read, has no head for planning, and his attempts at stealth are hampered by his size.
 
-### Psyche
+## Psyche
 
-#### Personality
+### Personality
 
 Thráwald is quiet, incurious, and accepts the world as it is without complaint. He does not think about the future, harbors no ambitions beyond his next meal and his next drink, and follows Dágulf's orders because doing so requires less effort than making his own decisions. He is not cruel for cruelty's sake — he simply does not care. Violence is work, and he does the work. He occasionally shows a rough kindness to animals, particularly horses and dogs, which is the closest thing to tenderness anyone has observed in him.
 
-#### Motivation
+### Motivation
 
 Thráwald wants to be left alone. He has no grand desires, no grudges to settle, and no loyalties beyond the immediate practical value of the gang. If a better opportunity appeared — steadier food, warmer shelter, less risk — he would take it without a backward glance. He stays with Dágulf because the alternative is worse.
 
-#### Strengths
+### Strengths
 
 His strength and toughness are genuine assets in a fight. He is also remarkably calm under pressure — not brave, exactly, but too dull to panic. He can endure cold, hunger, and discomfort without complaint.
 
-### Social
+## Social
 
-### Companions
+## Companions
 
 Dágulf Véthar's gang, the Blackpine Wolves. He is nominally second-in-command by seniority and size, though Dágulf does not formally delegate authority.
 
-#### Patrons
+### Patrons
 
 None.
 
-#### Enemies
+### Enemies
 
 The Vylarian garrison he deserted from may still have his name on a list somewhere, though after twenty-five years it is unlikely anyone cares. A cattle merchant in a border town would very much like to see him hanged for a theft some years back.
 
-### Plot Hooks
+## Plot Hooks
 
 1. **The Slow Defection** — Thráwald is growing tired of Dágulf's increasingly erratic leadership. If approached carefully — perhaps with the promise of a warm bed and steady work — he might be persuaded to betray the gang's camp location. But his loyalty, such as it is, comes cheap, and whoever buys it should not expect it to last.
 

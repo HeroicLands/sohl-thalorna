@@ -16,7 +16,6 @@ shortcode: ghardsmrds
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: null
   templatePriority: null
   archetypes: []
   occupation: Longshoreman
@@ -549,11 +548,11 @@ sohl:
     defaultCombatGroup: null
 ---
 
-## Appearance {#appearance}
+# Appearance {#appearance}
 
 Ghârîdos Mûrâdês is a 30-year-old man who stands 6'3" tall and is broad and solidly built. He has an oval face with angular cheekbones, a lined forehead, and a square jaw that leads to a square chin. His narrow hazel eyes sit beneath prominent brows, lending him a keen gaze. A prominent nose and firm lips complete his features. He has medium-toned skin with a bronzed complexion. His brown hair is falling in loose waves.
 
-## Dossier {#dossier}
+# Dossier {#dossier}
 
 Born in the Heliónis region to a freeman family of Helionite heritage, Ghârîdos Mûrâdês came into the world of the longshoreman through a combination of circumstance and aptitude.
 
@@ -561,37 +560,37 @@ Marcus has spent the last decade working on the docks, where he has become a vit
 
 Now at 30 years of age, Ghârîdos Mûrâdês has established himself as a known figure among the longshoremans of Heliónis. His reputation, for better or worse, precedes him in the circles where such things matter.
 
-### Psyche
+## Psyche
 
-#### Personality
+### Personality
 
 Can be overly stubborn, struggles with more technical aspects of shipping.
 
-#### Motivation
+### Motivation
 
 Ghârîdos is driven by the desire to master his craft and secure a stable future. The uncertainties of life in longshoreman work keep him vigilant and adaptable.
 
-#### Strengths
+### Strengths
 
 Physically strong, dependable, good at teamwork.
 
-### Social
+## Social
 
 Ghârîdos is affiliated with Local Longshoremen's Union.
 
 As a Helionite longshoreman, Ghârîdos occupies a recognized social niche within Heliónis society.
 
-### Companions
+## Companions
 
-#### Patrons
+### Patrons
 
 Ghârîdos's primary patron is Ship captains and cargo merchants.. This relationship provides both opportunity and obligation.
 
-#### Enemies
+### Enemies
 
 Few; generally well-liked among peers.
 
-### Plot Hooks
+## Plot Hooks
 
 1. **The Longshoreman's Dilemma** — Ghârîdos faces a professional crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Heliónis.
 

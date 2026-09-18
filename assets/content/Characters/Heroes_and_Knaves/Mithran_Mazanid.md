@@ -15,7 +15,6 @@ shortcode: mithrnmznd
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: mithrnmznd
   templatePriority: null
   archetypes: []
   occupation: Herder
@@ -577,13 +576,13 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Mithran Mazânid](images/beings/characters/mithrnmznd.webp){float: top-left}
+# Appearance {#appearance}
 
-## Appearance {#appearance}
+![[mithrnmznd|Mithran Mazânid]]{float: top-left}
 
 Mithran stands 6'1" tall with a medium build. He has tanned weathered skin, dark brown hair, and brown eyes. His features include a narrow face, a hawkish nose, a sharp jawline, dark brows, a small scar on one cheeks.
 
-## Dossier {#dossier}
+# Dossier {#dossier}
 
 Mithran was born into the Mazânid clan, a family of herders whose flocks have grazed the steppes of Amradad for generations beyond counting. His childhood was spent in the company of sheep and goats, learning the language of animals before he fully mastered human speech. His father, a herder of some reputation, recognized early that Mithran possessed an unusual gift—an almost preternatural understanding of animal nature and the ability to manage large flocks with minimal violence or coercion.
 
@@ -591,19 +590,19 @@ At sixteen, Mithran began managing his own flock, gradually expanding it through
 
 Mithran works independently, beholden to no merchant syndicate or provincial governor, though he maintains cordial relationships with the farmers and larger landholders who purchase his products. He is known throughout the region as a man of his word—goods promised will be delivered exactly as specified, prices will be honored, and he will assist those in legitimate need. He is equally known as utterly inflexible in matters of principle.
 
-### Psyche
+## Psyche
 
-#### Personality
+### Personality
 
 Mithran is taciturn and uncomfortable in human company, speaking in short, direct phrases and avoiding unnecessary interaction. This is not shyness or social anxiety, but genuine indifference to the concerns of other people. He finds it easier to understand the emotional states of animals than those of humans, and he moves through human society with the careful caution of someone in an unfamiliar landscape. Yet beneath his quietness runs a current of dry humor and unexpected kindness—he will assist someone in genuine difficulty, though he will do so without sentimentality or expectation of gratitude.
 
 He is extraordinarily stubborn, rooted in the belief that the old ways—the traditional methods of herding, breeding, and production that his family has practiced for generations—are correct precisely because they have endured. Changes in procedure agitate him and must be justified by clear, practical advantage. He views innovation with suspicion and new theories with outright disdain. This stubbornness extends to his personal life; having chosen a certain way of living, he will not deviate from it, regardless of circumstance.
 
-#### Motivation
+### Motivation
 
 Mithran is motivated by a simple, profound desire: to steward his flocks well and to maintain the integrity of his craft across generations. He works because work is the natural expression of his being. He has no ambition to wealth beyond sufficiency, no desire for status or recognition. He is driven by a deep, almost religious conviction that the relationship between herder and herd is sacred, and that his duty is to honor that relationship perfectly. He serves Zúráthrä, god of fertility, not through grand gestures but through the daily practice of ensuring that his animals thrive.
 
-#### Strengths
+### Strengths
 
 - **Master of Animal Husbandry**: Mithran's understanding of animal behavior, health, and breeding is nearly preternatural. He can read an animal's condition at a glance and respond with precise, effective intervention.
 - **Wilderness Navigation**: The steppes are his home. He can navigate without landmarks, predict weather changes, find water in drought, and survive in conditions that would kill ordinary people.
@@ -611,7 +610,7 @@ Mithran is motivated by a simple, profound desire: to steward his flocks well an
 - **Exceptional Perception**: His senses are attuned to subtle changes in the environment. He notices tracks, scents, and sounds that others miss entirely.
 - **Reliability**: Mithran's word is absolute. If he commits to something, it will be accomplished exactly as promised, regardless of difficulty.
 
-#### Weaknesses
+### Weaknesses
 
 - **Social Inadequacy**: He is deeply uncomfortable in human social settings and struggles to understand complex interpersonal dynamics. He is easily manipulated through his lack of understanding of social nuance.
 - **Stubborn Resistance to Change**: His commitment to traditional methods can blind him to necessary innovation. He will defend failing practices simply because they are established.
@@ -619,24 +618,24 @@ Mithran is motivated by a simple, profound desire: to steward his flocks well an
 - **Emotional Distance**: His comfort with animals sometimes translates as coldness toward humans. He can seem callous or uncaring about human suffering.
 - **Isolation**: His choice of solitude means he has few allies and no deep relationships beyond his animals. He is vulnerable to betrayal because he has no network to protect him.
 
-### Social
+## Social
 
-#### Patrons
+### Patrons
 
 - **The Farming Communities of Amradad**: Various farmers and landholders purchase his wool and cheese regularly and value his reliability and quality.
 - **The Temple of Zúráthrä**: He donates a portion of his yield to the temple's fertility rituals and receives their blessing in return.
 
-#### Enemies
+### Enemies
 
 - **Haradan the Merchant**: A merchant trader who attempted to pressure Mithran into exclusive supply agreements. When Mithran refused, Haradan began spreading rumors about the quality of his products and has attempted to undercut his prices.
 - **The Kazir Herding Clan**: A rival herding family whose grazing lands border Mithran's territory. Several disputes over water rights and grazing boundaries have created lasting tension.
 
-#### Affiliations
+### Affiliations
 
 - **The Independent Herders of the Amradad Steppes**: An informal association of herders who share knowledge about weather, grazing, and market prices.
 - **The Temple of Zúráthrä**: A devotional order dedicated to the god of fertility and abundance.
 
-### Plot Hooks
+## Plot Hooks
 
 1. **The Plague Among the Flocks**: A mysterious sickness spreads through Mithran's herds, killing animals at an unprecedented rate. The symptoms are unlike anything he has encountered in his decades of experience—animals seem to waste away from within, their behavior becomes erratic, and death follows within days. The illness begins to spread to neighboring herds, threatening the entire regional economy. Mithran must identify the cause while preventing the complete loss of his flocks, knowing that the sickness might not be natural—it could be deliberate poisoning or worse.
 

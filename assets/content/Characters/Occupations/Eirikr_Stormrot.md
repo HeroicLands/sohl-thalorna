@@ -16,7 +16,6 @@ shortcode: erkrstrmrt
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: null
   templatePriority: null
   archetypes: []
   occupation: Fisher
@@ -553,11 +552,11 @@ sohl:
     defaultCombatGroup: null
 ---
 
-## Appearance {#appearance}
+# Appearance {#appearance}
 
 Eiríkr Stormrót is a 54-year-old man who stands 5'10" tall and is broad and solidly built. He has an oval face with defined cheekbones, a lined forehead, and a square jaw that leads to a square chin. His piercing gray eyes sit beneath straight brows, lending him a penetrating gaze. A broad nose and firm lips complete his features. He has light skin with a fair complexion. His red hair is thick and unkempt. A notable feature is crow's feet at the corners of sharp eyes.
 
-## Dossier {#dossier}
+# Dossier {#dossier}
 
 Born in the Nordheim region to a freeman family of Nordheimn heritage, Eiríkr Stormrót came into the world of the fisher through a combination of circumstance and aptitude.
 
@@ -565,37 +564,37 @@ Brynden has spent his entire life on the water, fishing the coastal seas. He is 
 
 Now at 54 years of age, Eiríkr Stormrót has established himself as a known figure among the fishers of Nordheim. His reputation, for better or worse, precedes him in the circles where such things matter.
 
-### Psyche
+## Psyche
 
-#### Personality
+### Personality
 
 Slower due to age, struggles with the physical demands of fishing.
 
-#### Motivation
+### Motivation
 
 Eiríkr is driven by the desire to master his craft and secure a stable future. The uncertainties of life in fisher work keep him vigilant and adaptable.
 
-#### Strengths
+### Strengths
 
 Experienced, resilient, skilled in sea navigation, good teacher.
 
-### Social
+## Social
 
 Eiríkr is affiliated with Coastal Fishers' Guild.
 
 As a Nordheimn fisher, Eiríkr occupies a recognized social niche within Nordheim society.
 
-### Companions
+## Companions
 
-#### Patrons
+### Patrons
 
 Eiríkr's primary patron is Local inns and fishmongers who value his consistent supply.. This relationship provides both opportunity and obligation.
 
-#### Enemies
+### Enemies
 
 None; respected in the community, though some younger fishers find him overly traditional.
 
-### Plot Hooks
+## Plot Hooks
 
 1. **The Fisher's Dilemma** — Eiríkr faces a professional crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Nordheim.
 

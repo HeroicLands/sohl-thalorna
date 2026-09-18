@@ -17,7 +17,6 @@ shortcode: belsharglm
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: null
   templatePriority: null
   archetypes: []
   occupation: Locksmith
@@ -553,11 +552,11 @@ sohl:
     defaultCombatGroup: null
 ---
 
-## Appearance {#appearance}
+# Appearance {#appearance}
 
 Belshar Gûlamû is a 40-year-old man who stands 5'8" tall and is of moderate build. He has a long face with wide-set cheekbones, a smooth forehead, and an angular jaw that leads to a pointed chin. His hooded hazel eyes sit beneath arched brows, lending him a guarded gaze. A prominent nose and curved lips complete his features. He has warm-toned skin with a sun-tanned complexion. His gray hair is kept practical and short.
 
-## Dossier {#dossier}
+# Dossier {#dossier}
 
 Born in the Harad region to a guilded family of Haradian heritage, Belshar Gûlamû came into the world of the locksmith through a combination of circumstance and aptitude.
 
@@ -565,37 +564,37 @@ Cedric is a skilled locksmith known for his meticulous craftsmanship and attenti
 
 Now at 40 years of age, Belshar Gûlamû has established himself as a known figure among the locksmiths of Harad. His reputation, for better or worse, precedes him in the circles where such things matter.
 
-### Psyche
+## Psyche
 
-#### Personality
+### Personality
 
 Can be overly serious, struggles with marketing his services.
 
-#### Motivation
+### Motivation
 
 Belshar is driven by the desire to master his craft and secure a stable future. The uncertainties of life in locksmith work keep him vigilant and adaptable.
 
-#### Strengths
+### Strengths
 
 Highly skilled craftsman, knowledgeable about security systems, trustworthy.
 
-### Social
+## Social
 
 Belshar is affiliated with Local Locksmiths' Guild.
 
 As a Haradian locksmith, Belshar occupies a recognized social niche within Harad society.
 
-### Companions
+## Companions
 
-#### Patrons
+### Patrons
 
 Belshar's primary patron is Nobles and local businesses seeking secure locking mechanisms.. This relationship provides both opportunity and obligation.
 
-#### Enemies
+### Enemies
 
 Few; well-respected in the community.
 
-### Plot Hooks
+## Plot Hooks
 
 1. **The Locksmith's Dilemma** — Belshar faces a professional crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Harad.
 

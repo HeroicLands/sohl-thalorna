@@ -15,7 +15,6 @@ shortcode: athngrsktkls
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: athngrsktkls
   templatePriority: null
   archetypes: []
   occupation: Yeoman Infantry
@@ -589,43 +588,43 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Athênagoras Katakálos](images/beings/characters/athngrsktkls.webp){float: top-left}
+# Appearance {#appearance}
 
-## Appearance {#appearance}
+![[athngrsktkls|Athênagoras Katakálos]]{float: top-left}
 
 Athênagoras stands 6'0" tall with a heavy build. He has light tanned skin, black hair, and brown eyes. His features include an oval face, a prominent nose, a sharp jawline, an expressive mouth, strong brows. A distinguishing mark is a tattoo of a rose vine on the leg.
 
-## Dossier {#dossier}
+# Dossier {#dossier}
 
-### Background
+## Background
 
-#### The Farmer's Son Drafted
+### The Farmer's Son Drafted
 
 Athênagoras was born in a rural agricultural district of the Byzarian League, third son of a moderately successful farmer. His childhood held the ordinary rhythms of rural life—planting seasons, harvest, seasonal festivals, and local religious observances dedicated to Flórania. This peaceful existence ended abruptly at eighteen when conscription officers came to his village seeking healthy young men for the League's expanding military campaigns. Unlike his two older brothers, who managed to negotiate exemptions through various means, Athênagoras found himself conscripted without alternative.
 
-#### The Long War
+### The Long War
 
 What was meant to be two years of service became a career. Athênagoras discovered that he had an unusual combination of physical strength, tactical awareness, and emotional resilience that made him an exceptional soldier. He advanced through the ranks, moving from common foot soldier to sergeant, and now holds the position of squad captain—a position of significant responsibility and some prestige. Over eighteen years, he fought in three major conflicts and countless border skirmishes. He has seen men die in every conceivable way. He has learned to make decisions that cost lives. He has become skilled at violence in ways his younger self could never have imagined.
 
-#### Present Circumstances
+### Present Circumstances
 
 Now a veteran soldier with a decade remaining until he can expect retirement, Athênagoras maintains his position with exemplary discipline and professionalism. He serves under **Lord Commander Vasilis of the Eastern March**, whom he respects greatly. He trains younger soldiers, many of whom remind him uncomfortably of his younger self. He participates in the endless cycle of training exercises, garrison duty, and occasional military campaigns. His service is respected but his personal life has become compressed into the margins—brief romantic encounters, strained relationships with his family who view military service as abandonment, friendships limited to other soldiers who understand the weight he carries.
 
-### Psyche
+## Psyche
 
-#### Personality
+### Personality
 
 Athênagoras has developed the professional detachment necessary for military command—the ability to make decisions affecting lives without allowing sentiment to cloud judgment. He speaks with quiet authority, neither warm nor cold, simply direct and clear in a way that has become habitual. His communication style, honed through years of military hierarchies and the necessity of being understood under stress, can seem brusque to civilians unfamiliar with military culture.
 
 Beneath this professional exterior lies genuine sensitivity, which he has had to suppress systematically to survive. He reads more than most soldiers, retains surprising knowledge of poetry and philosophy, and maintains unexpected gentleness with those he has permission to care about. His closest relationships know a different Athênagoras—one capable of humor, vulnerability, and surprising tenderness. Yet even in these moments, the soldier never fully disappears.
 
-#### Motivation
+### Motivation
 
 Athênagoras continues his military service not from patriotic fervor or ambitious desire for advancement, but from a combination of duty and inability to imagine alternative paths. He has become institutionalized in the truest sense—the military provides structure, purpose, and meaning that civilian life seems incapable of offering. More importantly, he feels a genuine responsibility for the younger soldiers under his command. He drives forward with the conviction that if he maintains his position, he can protect them, minimize unnecessary casualties, and provide mentorship that might help them survive not just their service but the aftermath.
 
 Deep down, Athênagoras fears civilian life and what it might require of him—the examination of conscience, the accounting of actions, the acceptance that some of the things he has done cannot be undone or justified. Military discipline allows him to defer these reckoning indefinitely.
 
-#### Strengths
+### Strengths
 
 - **Master of Melee Combat and Weapon Craft**: Athênagoras's expertise with sword and shield is forged through thousands of hours of training and actual combat. His understanding of footwork, distance, and timing is instinctive and nearly impossible to teach.
 - **Tactical Acumen in Small Unit Operations**: While not a grand strategist, Athênagoras excels at managing squad-level tactics, identifying advantageous positions, and coordinating small unit movements in complex terrain.
@@ -633,7 +632,7 @@ Deep down, Athênagoras fears civilian life and what it might require of him—t
 - **Authoritative Military Leadership**: Soldiers under his command respect him without question. His calm under pressure and clear judgment create confidence and cohesion in his units.
 - **Survival and Awareness**: His experiences have made him supremely aware of environmental dangers, potential threats, and the signs of impending disaster. Few can match his ability to predict when situations are about to deteriorate.
 
-#### Weaknesses
+### Weaknesses
 
 - **Emotional Toll of Combat**: The cumulative weight of eighteen years of warfare has left him carrying significant unprocessed trauma. He experiences nightmares, unexpected emotional reactions, and difficulty with trust.
 - **Limited Adaptability**: Athênagoras relies on proven methods and struggles to quickly adopt new tactics or strategies. Once he has learned a method, changing it feels almost impossible, even when circumstances demand it.
@@ -641,26 +640,26 @@ Deep down, Athênagoras fears civilian life and what it might require of him—t
 - **Social Isolation**: His military discipline and emotional suppression create distance from most people. He maintains few genuine friendships outside his immediate command structure.
 - **Declining Physical Peak**: At thirty-six, Athênagoras remains formidable, but younger soldiers are beginning to match his abilities. He recognizes this decline with growing anxiety and occasionally compensates with unnecessary aggression.
 
-### Social
+## Social
 
-#### Patrons
+### Patrons
 
 - **Lord Commander Vasilis of the Eastern March**: The military commander who has overseen Athênagoras's service for the past decade. Vasilis respects Athênagoras's judgment and frequently seeks his counsel on tactical matters.
 - **Lady Merchant Elestra Panos**: A wealthy merchant widow who provides supplies to the garrison and has developed a private relationship with Athênagoras. She offers both material support and emotional companionship.
 - **The Monastery of Saint Florantine**: A religious order that provides counseling and spiritual support to traumatized soldiers. Athênagoras attends irregularly but finds their non-judgmental approach helpful.
 
-#### Enemies
+### Enemies
 
 - **Captain Markos of the Rival Legion**: A competitor from a neighboring military unit whose unit was chosen for a prestigious campaign over Athênagoras's. Markos harbors deep resentment and seeks opportunities to undermine Athênagoras's reputation.
 - **The Bandit Lord Thessarios**: A criminal leader whose network Athênagoras's unit destroyed several years ago. Thessarios survived and harbors lethal grudges against Athênagoras personally.
 
-#### Affiliations
+### Affiliations
 
 - **The Byzarian League Military**: Serving as a commissioned captain in the League's Eastern March garrison.
 - **The Order of Flórania (Fertility Aspect)**: A nominal adherent who maintains the faith of his childhood, though his military service has complicated his relationship with the goddess of growth and creation.
 - **The Veterans' Society**: An informal association of long-service soldiers who support each other through the transitions away from active military life.
 
-### Plot Hooks
+## Plot Hooks
 
 1. **The Impossible Order**: Athênagoras receives orders from a superior officer to carry out an action that he recognizes as dishonorable—attacking a civilian settlement to facilitate border consolidation, or executing prisoners under the guise of military necessity. Refusing would end his career; compliance would shatter something fundamental in his character. He must navigate this impossible choice while determining whether the order is legitimate or originates from someone with darker motives.
 

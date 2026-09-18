@@ -15,7 +15,6 @@ shortcode: minakprkhn
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: minakprkhn
   templatePriority: null
   archetypes: []
   occupation: Cook
@@ -593,13 +592,13 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Minàka Parikṣhana](images/beings/characters/minakprkhn.webp){float: top-left}
+# Appearance {#appearance}
 
-## Appearance {#appearance}
+![[minakprkhn|Minàka Parikṣhana]]{float: top-left}
 
 Minàka stands 5'9" tall with a heavy build. She has warm honey skin, graying dark brown hair, and hazel eyes. Her features include an oval face, a narrow nose, a tapered chin, generous lips, graying dark brows. A distinguishing mark is a tattoo of a horse on the thigh.
 
-## Dossier {#dossier}
+# Dossier {#dossier}
 
 Minàka was born into the merchant family Parikṣhana, whose wealth derived from the spice trade flowing through the City-States of Vedyara. Her father anticipated she would marry into another merchant family and bear sons to continue the business. Instead, at the age of sixteen, Minàka expressed an all-consuming passion for the art of cookery. Her family, initially scandalized, eventually recognized that her gift was too profound to be denied. She was apprenticed to **Maharaj Vikram**, the legendary chef of the Council of Merchants, a position of honor if not of traditional wealth.
 
@@ -607,19 +606,19 @@ Under Maharaj Vikram's tutelage, Minàka learned not merely to cook but to under
 
 For the past two decades, Minàka has overseen the Devakara kitchen, training generations of cooking staff and earning a reputation throughout Vedyara as perhaps the finest culinary artist of her generation. Her dishes are served at the tables of the city-states' most powerful figures. Yet she has never been corrupted by her fame—she measures her success not by prestige but by the perfection of each meal she creates.
 
-### Psyche
+## Psyche
 
-#### Personality
+### Personality
 
 Minàka is a perfectionist whose standards extend beyond the kitchen to encompass every aspect of her craft and those who practice it. She is exacting, occasionally sharp-tongued when confronted with laziness or lack of care, yet never cruel. Those who work under her learn quickly that her severity arises from genuine respect for their potential—she demands excellence because she believes they are capable of it. She speaks with the authority of someone who has earned her position through demonstrated mastery, not through inheritance or politics.
 
 Beneath her demanding exterior runs a current of unexpected whimsy. She loves wordplay and subtle jokes. She will sometimes prepare meals with hidden meanings, embedding symbolism in her ingredient choices and presentation. She is an artist first and a servant second, which sometimes creates friction with those who view her merely as someone who prepares their food. She understands flavors the way a musician understands notes, and approaches each meal as a composition.
 
-#### Motivation
+### Motivation
 
 Minàka is driven by the pursuit of perfection in her craft and by a deep belief that food is more than nourishment—it is communication, art, and love made tangible. Every meal she creates is an expression of her mastery and her devotion to the families she serves. She is motivated as well by a desire to elevate the status of the culinary arts in Vedyaran society, to prove that a cook is no less a master of her field than any scholar or merchant. She takes satisfaction in the knowledge that her work nourishes not just bodies but spirits.
 
-#### Strengths
+### Strengths
 
 - **Unparalleled Culinary Mastery**: Minàka can create dishes of extraordinary complexity and perfection. Her understanding of flavor combination, ingredient interaction, and presentation technique is without peer in Vedyara.
 - **Kitchen Command**: She manages complex kitchen operations with the precision of a military general. She knows every process, every supply, every staff member's capabilities.
@@ -627,7 +626,7 @@ Minàka is driven by the pursuit of perfection in her craft and by a deep belief
 - **Creative Composition**: She understands how to create meals that tell stories, carry symbols, and communicate meaning through the language of taste and presentation.
 - **Staff Development**: Those trained under Minàka become excellent cooks. She has an gift for recognizing potential and developing talent systematically.
 
-#### Weaknesses
+### Weaknesses
 
 - **Perfectionism Paralysis**: When faced with an impossible standard, Minàka can become paralyzed, unable to commit to anything less than perfection. She has been known to remake a dish dozens of times.
 - **Limited Practical Combat Experience**: She has studied fighting forms for grace and posture, but has never trained for actual combat. She is vulnerable in direct physical confrontation.
@@ -635,26 +634,26 @@ Minàka is driven by the pursuit of perfection in her craft and by a deep belief
 - **Emotional Distance**: Her focus on craft sometimes manifests as emotional coldness. She can seem uncaring about personal matters beyond her kitchen's boundaries.
 - **Vulnerability to Pressure**: When pressured to compromise her standards, she becomes angry and inflexible. She cannot be forced into expedience.
 
-### Social
+## Social
 
-#### Patrons
+### Patrons
 
 - **The Devakara Merchant Family**: Her primary employers and supporters. The patriarch, **Merchant Lord Devakara**, values her contribution to the family's prestige and protects her autonomy fiercely.
 - **The Council of Merchants**: Several members of the city council regularly request private meals prepared by Minàka for diplomatic functions.
 - **The Temple of Mahájaya**: She donates portions of her finest work to temple festivals and maintains a private devotional practice to the god of order.
 
-#### Enemies
+### Enemies
 
 - **Chef Ranjeet of the Harbor District**: A brilliant but unstable cook who studied briefly under Minàka before being dismissed for temperament and unreliability. He now runs his own establishment and spreads rumors that Minàka stole his innovations.
 - **The Spice Merchant Syndicate**: Certain merchants in this organization feel threatened by her direct sourcing of spices and her refusal to deal through their networks. They have spread rumors about the quality of her ingredients.
 
-#### Affiliations
+### Affiliations
 
 - **The City Cooks' Guild of Vedyara**: A prestigious organization of master chefs and culinary craftspeople. Minàka holds rank among the highest members.
 - **The Devakara Household**: Her primary institution and the source of her authority and identity.
 - **The Temple of Mahájaya**: An order dedicated to the god of order and structure. She maintains private worship and contributes to temple feasts.
 
-### Plot Hooks
+## Plot Hooks
 
 1. **The Poison in the Sauce**: During an important diplomatic dinner hosted by the Devakara family, one of the guests falls ill—symptoms suggesting poisoning. Investigation reveals that the poison was administered through Minàka's food. Yet she is absolutely certain of her ingredients, her preparation, and her staff. Someone has sabotaged her kitchen or framed her deliberate. Minàka must find the true culprit before her reputation is destroyed, knowing that failure will result in her execution and the Devakara family's disgrace.
 

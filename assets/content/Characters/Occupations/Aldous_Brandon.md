@@ -16,7 +16,6 @@ shortcode: aldosbrndn
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: null
   templatePriority: null
   archetypes: []
   occupation: Charcoaler
@@ -547,11 +546,11 @@ sohl:
     defaultCombatGroup: null
 ---
 
-## Appearance {#appearance}
+# Appearance {#appearance}
 
 Aldous Brandon is a 37-year-old man who stands 6'1" tall and is of moderate build. He has a round face with broad cheekbones, a smooth forehead, and a strong jaw that leads to a delicate chin. His bright hazel eyes sit beneath straight brows, lending him a lively gaze. A slightly upturned nose and firm lips complete his features. He has fair skin with a fair complexion. His auburn hair is falling in loose waves. A notable feature is rough, work-worn hands.
 
-## Dossier {#dossier}
+# Dossier {#dossier}
 
 Born in the Aelwyth region to a freeman family of Aelwythan heritage, Aldous Brandon came into the world of the charcoaler through a combination of circumstance and aptitude.
 
@@ -559,37 +558,37 @@ Ansel grew up in a family of charcoalers and took over the business after his fa
 
 Now at 37 years of age, Aldous Brandon has established himself as a known figure among the charcoalers of Aelwyth. His reputation, for better or worse, precedes him in the circles where such things matter.
 
-### Psyche
+## Psyche
 
-#### Personality
+### Personality
 
 Overly cautious about quality, sometimes delays deliveries to ensure the best product.
 
-#### Motivation
+### Motivation
 
 Aldous is driven by the desire to master his craft and secure a stable future. The uncertainties of life in charcoaler work keep him vigilant and adaptable.
 
-#### Strengths
+### Strengths
 
 Skilled in kiln management and experimenting with different types of wood.
 
-### Social
+## Social
 
 Aldous is affiliated with Woodworkers' Guild.
 
 As a Aelwythan charcoaler, Aldous occupies a recognized social niche within Aelwyth society.
 
-### Companions
+## Companions
 
-#### Patrons
+### Patrons
 
 Aldous's primary patron is Blacksmiths who appreciate his attention to detail.. This relationship provides both opportunity and obligation.
 
-#### Enemies
+### Enemies
 
 None; generally well-regarded, though some rivals see him as a threat.
 
-### Plot Hooks
+## Plot Hooks
 
 1. **The Charcoaler's Dilemma** — Aldous faces a professional crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Aelwyth.
 

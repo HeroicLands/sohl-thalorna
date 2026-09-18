@@ -16,7 +16,6 @@ shortcode: malianardh
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: null
   templatePriority: null
   archetypes: []
   occupation: Herder
@@ -552,11 +551,11 @@ sohl:
     defaultCombatGroup: null
 ---
 
-## Appearance {#appearance}
+# Appearance {#appearance}
 
 Mália Náredh is a 32-year-old woman who stands 5'10" tall and is slender. She has an oval face with wide-set cheekbones, a high forehead, and a sharp jaw that leads to a firm chin. Her sharp brown eyes sit beneath arched brows, lending her an incisive gaze. A delicate nose and expressive lips complete her features. She has light skin with a smooth complexion. Her auburn hair is loose and wavy.
 
-## Dossier {#dossier}
+# Dossier {#dossier}
 
 Born in the Élavendre region to a freeman family of Élavendri heritage, Mália Náredh came into the world of the herder through a combination of circumstance and aptitude.
 
@@ -564,37 +563,37 @@ Elara grew up on a small farm, learning the art of herding from her father. She 
 
 Now at 32 years of age, Mália Náredh has established herself as a known figure among the herders of Élavendre. Her reputation, for better or worse, precedes her in the circles where such things matter.
 
-### Psyche
+## Psyche
 
-#### Personality
+### Personality
 
 Inexperienced in dealing with disputes over land, can be overly cautious.
 
-#### Motivation
+### Motivation
 
 Mália is driven by the desire to master her craft and secure a stable future. The uncertainties of life in herder work keep her vigilant and adaptable.
 
-#### Strengths
+### Strengths
 
 Empathetic towards animals, skilled in herding techniques, quick learner.
 
-### Social
+## Social
 
 Mália is affiliated with None; works independently..
 
 As a Élavendri herder, Mália occupies a recognized social niche within Élavendre society.
 
-### Companions
+## Companions
 
-#### Patrons
+### Patrons
 
 Mália's primary patron is Local families who purchase her wool and lambs.. This relationship provides both opportunity and obligation.
 
-#### Enemies
+### Enemies
 
 Few, though some neighboring farmers see her as inexperienced.
 
-### Plot Hooks
+## Plot Hooks
 
 1. **The Herder's Dilemma** — Mália faces a professional crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Élavendre.
 

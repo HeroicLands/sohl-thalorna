@@ -16,7 +16,6 @@ shortcode: tldrklmrth
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: null
   templatePriority: null
   archetypes: []
   occupation: Fisher
@@ -552,11 +551,11 @@ sohl:
     defaultCombatGroup: null
 ---
 
-## Appearance {#appearance}
+# Appearance {#appearance}
 
 Táldor Kálmereth is a 47-year-old man who stands 6'0" tall and is of moderate build. He has a diamond face with high cheekbones, a prominent forehead, and a rounded jaw that leads to a delicate chin. His almond-shaped gray eyes sit beneath expressive brows, lending him a measured gaze. A delicate nose and narrow lips complete his features. He has fair skin with a weathered complexion. His red hair is falling in loose waves.
 
-## Dossier {#dossier}
+# Dossier {#dossier}
 
 Born in the Élavendre region to a freeman family of Élavendri heritage, Táldor Kálmereth came into the world of the fisher through a combination of circumstance and aptitude.
 
@@ -564,37 +563,37 @@ Harlan has been fishing since he was a boy, learning the trade from his father a
 
 Now at 47 years of age, Táldor Kálmereth has established himself as a known figure among the fishers of Élavendre. His reputation, for better or worse, precedes him in the circles where such things matter.
 
-### Psyche
+## Psyche
 
-#### Personality
+### Personality
 
 Gruff demeanor, prefers solitude, struggles with arthritis.
 
-#### Motivation
+### Motivation
 
 Táldor is driven by the desire to master his craft and secure a stable future. The uncertainties of life in fisher work keep him vigilant and adaptable.
 
-#### Strengths
+### Strengths
 
 Skilled at navigating the sea, experienced fisherman, resilient.
 
-### Social
+## Social
 
 Táldor is affiliated with Coastal Fishers' Guild.
 
 As a Élavendri fisher, Táldor occupies a recognized social niche within Élavendre society.
 
-### Companions
+## Companions
 
-#### Patrons
+### Patrons
 
 Táldor's primary patron is Local markets and taverns that buy his fresh catch.. This relationship provides both opportunity and obligation.
 
-#### Enemies
+### Enemies
 
 Rival fishers who compete for the best fishing spots.
 
-### Plot Hooks
+## Plot Hooks
 
 1. **The Fisher's Dilemma** — Táldor faces a professional crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Élavendre.
 

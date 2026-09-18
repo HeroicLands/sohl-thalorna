@@ -16,7 +16,6 @@ shortcode: tshrnbrnsh
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: null
   templatePriority: null
   archetypes: []
   occupation: Swordmaster
@@ -554,11 +553,11 @@ sohl:
     defaultCombatGroup: null
 ---
 
-## Appearance {#appearance}
+# Appearance {#appearance}
 
 Teshûran Bûrnashî is a 50-year-old man who stands 6'0" tall and is broad and solidly built. He has a diamond face with soft cheekbones, a lined forehead, and a sharp jaw that leads to a pointed chin. His round dark brown eyes sit beneath prominent brows, lending him a candid gaze. A prominent nose and thin lips complete his features. He has medium-toned skin with a weathered complexion. His gray hair is tied in a low tail.
 
-## Dossier {#dossier}
+# Dossier {#dossier}
 
 Born in the Harad region to a freeman family of Haradian heritage, Teshûran Bûrnashî came into the world of the swordmaster through a combination of circumstance and aptitude.
 
@@ -566,37 +565,37 @@ Galen was a mercenary who spent most of his life fighting in various skirmishes 
 
 Now at 50 years of age, Teshûran Bûrnashî has established himself as a known figure among the swordmasters of Harad. His reputation, for better or worse, precedes him in the circles where such things matter.
 
-### Psyche
+## Psyche
 
-#### Personality
+### Personality
 
 Haunted by his past, struggles with the morality of his former life.
 
-#### Motivation
+### Motivation
 
 Teshûran's driving force is the search that defines his life — a quest that shapes every decision he makes and every risk he takes.
 
-#### Strengths
+### Strengths
 
 Combat experience, skilled in practical sword techniques, tough and resilient.
 
-### Social
+## Social
 
 Teshûran is affiliated with None; works independently in the village..
 
 As a Haradian swordmaster, Teshûran occupies a recognized social niche within Harad society.
 
-### Companions
+## Companions
 
-#### Patrons
+### Patrons
 
 Teshûran's primary patron is Local villagers who seek his instruction for defense.. This relationship provides both opportunity and obligation.
 
-#### Enemies
+### Enemies
 
 Former mercenary comrades who hold grudges from past conflicts.
 
-### Plot Hooks
+## Plot Hooks
 
 1. **The Swordmaster's Dilemma** — Teshûran faces a professional crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Harad.
 

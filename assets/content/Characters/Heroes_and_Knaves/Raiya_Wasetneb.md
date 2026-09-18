@@ -17,7 +17,6 @@ type: being
 data:
   banner: takheperubnr
   icon: sohl-none-icon-person
-  portrait: raiyawstnb
   templatePriority: null
   archetypes: []
   occupation: Nobility (Courtier)
@@ -597,15 +596,15 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Raiya Waset'neb](images/beings/characters/raiyawstnb.webp){float: top-left}
-
 **Home:** [[place-wasetkara|Wasetkara]]
 
-## Appearance {#appearance}
+# Appearance {#appearance}
+
+![[raiyawstnb|Raiya Waset'neb]]{float: top-left}
 
 Raiya stands 5'8" tall with a light build. She has dark skin, black hair, and dark brown eyes. Her features include a noble nose, a smooth jawline, dark brows, prominent cheeks.
 
-## Dossier {#dossier}
+# Dossier {#dossier}
 
 **A Daughter of Privilege**
 
@@ -619,19 +618,19 @@ Where many young nobles of her station view their position primarily as privileg
 
 Now at twenty-seven, **Raiya** serves on the Local Nobility Council, where she advocates for cultural funding and the protection of artisan guilds. She maintains a palatial residence that doubles as a venue for cultural events, and her guest lists are among the most coveted in the empire. She has thus far resisted pressure to marry, preferring to remain independent and focused on her works of cultural patronage. Her reputation for integrity is such that even those who might not appreciate her progressive values understand that her word is absolute and her loyalty unwavering.
 
-### Psyche
+## Psyche
 
-#### Personality
+### Personality
 
 **Raiya** is defined by an almost radical authenticity unusual in courtly circles—she genuinely does care about the people she meets, remembers their names and concerns, and follows up with meaningful support. This is not naïveté but rather a mature choice to live according to her values despite considerable pressure to view others as tools for advancement. She possesses a natural charisma that draws people into her orbit, yet she uses this magnetism not for personal aggrandizement but to elevate those around her.
 
 Yet for all her grace and warmth, **Raiya** is no mere pleasant decoration. Her mind is sharp, her perception keen, and her understanding of political currents is sophisticated. She simply chooses to deploy these talents in service of her idealistic vision rather than petty personal advancement. She has a gift for finding common ground between opposing factions and convincing people of the value of compromise—not through manipulation, but through helping each side see the humanity in their opponents. She is given to moments of genuine enthusiasm about ideas, art, and human potential that can seem almost naive to the more cynical, but which speak to a kind of wisdom that surpasses cynicism.
 
-#### Motivation
+### Motivation
 
 **Raiya Wasetneb** is driven by a vision of the Empire of Ta'Kheperu as a place where talent, merit, and creativity are recognized and nurtured regardless of birth status. She believes that the greatest cultural achievements of her society have emerged from the contributions of humble artisans, and she sees her patronage and advocacy as both a moral obligation and an investment in the empire's future. She is motivated equally by a personal hunger for beauty, learning, and authentic connection—she surrounds herself with talented and interesting people because she genuinely enjoys their company and intellectual exchange. Beyond personal satisfaction, **Raiya** seeks to prove that privilege, when wielded with conscience, becomes a tool for broader flourishing rather than mere personal accumulation.
 
-#### Strengths
+### Strengths
 
 - **Exceptional Charisma and Social Grace:** **Raiya's** presence immediately puts people at ease; her genuine interest in others makes even minor encounters feel meaningful. This translates to extraordinary influence in courtly and social contexts.
 - **Keen Perception and Political Acumen:** Beneath her warmth lies a sharp and analytical mind; she reads social situations with precision and understands the currents of power and loyalty that move through noble society.
@@ -640,7 +639,7 @@ Yet for all her grace and warmth, **Raiya** is no mere pleasant decoration. Her 
 - **Financial Resources and Access:** As a noble of significant independent wealth, **Raiya** can fund ventures, commission services, and open doors that would be closed to others of lesser station.
 - **Creative Problem-Solving:** Her exposure to artists' and creators' perspectives has given her unconventional ways of approaching difficult problems; she often sees solutions others overlook.
 
-#### Weaknesses
+### Weaknesses
 
 - **Idealism Outpacing Reality:** **Raiya's** fundamental belief in people's essential goodness and capacity for growth sometimes blinds her to malice or structural corruption; she can be taken advantage of by those who exploit her trust.
 - **Privileged Blind Spots:** For all her compassion, there are realities of struggle and desperation that her comfortable life has not made viscerally real to her; her proposed solutions sometimes lack the practical grounding that hardship provides.
@@ -649,27 +648,27 @@ Yet for all her grace and warmth, **Raiya** is no mere pleasant decoration. Her 
 - **Overextension Through Generosity:** Her tendency to commit resources to worthy causes without fully accounting for the cumulative impact can leave her financially strained or unable to deliver promised support.
 - **Inexperience with Genuine Hardship:** She has never truly suffered loss, failure, or deprivation, leaving her emotionally unprepared for the kinds of betrayals and cruelties that may come if her idealism is tested severely.
 
-### Social
+## Social
 
-#### Patrons
+### Patrons
 
 - **Lady Keket Amenhotep:** An elder noblewoman of legendary taste who has served as **Raiya's** mentor in artistic patronage and cultural politics. She provides counsel on navigating complex factional alliances.
 - **Master Architect Khenti:** A renowned designer and builder who has benefited tremendously from **Raiya's** commissions and patronage; he is devoted to her vision of elevating artisan crafts and serves as her advisor on architectural and infrastructure matters.
 - **The Temple Council of Íšét:** The priesthood of the fertility goddess that shares **Raiya's** values concerning growth and renewal. They provide her with spiritual counsel and, occasionally, practical support for her endeavors.
 
-#### Enemies
+### Enemies
 
 - **Lord Sehotep:** A calculating noble of middling talent and significant wealth who views **Raiya's** influence over the artistic community as a threat to his own status. He has spread insinuations that her patronage of common-born artisans is unseemly, and he quietly funds rival patrons to dilute her influence.
 - **The Merchant Consortium of the Docks:** An organization of wealthy traders who view **Raiya's** advocacy for artisan rights and protections as interference in market freedom; they resent her legislative efforts to establish price floors and working condition standards.
 - **Faction of Conservative Traditionalists:** A loose coalition of older nobles who view **Raiya's** progressive ideas about merit-based advancement and cultural democratization as threats to the proper order of society; they mock her behind her back as naïve and dangerous.
 
-#### Affiliations
+### Affiliations
 
 - **Local Nobility Council:** **Raiya** serves as an active member, though her reform-minded positions often put her at odds with the council's traditional conservative faction.
 - **Artisans' and Craftspeople's Alliance:** While not formally a member, **Raiya** works closely with this organization, serving as an advocate within noble circles for the alliance's interests.
 - **The Circle of Patrons:** An informal network of noble families and wealthy individuals committed to cultural patronage; **Raiya** is among the most active and influential members.
 
-### Plot Hooks
+## Plot Hooks
 
 1. **The Forged Masterpiece:**: A young artist whom **Raiya** has championed and funded produces a work of such staggering beauty that it causes a sensation throughout the city and attracts the attention of the empire's highest patrons. Yet an envious rival claims to have evidence that the work is not the artist's own—that it was actually created by a mysterious master who allowed the young protégé to take credit. **Raiya** must investigate the truth while protecting her protégé's reputation and determining whether her judgment in recognizing talent has been compromised by her desire to believe in people.
 

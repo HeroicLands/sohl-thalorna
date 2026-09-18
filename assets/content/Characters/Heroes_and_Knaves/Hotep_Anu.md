@@ -18,7 +18,6 @@ type: being
 data:
   banner: takheperubnr
   icon: sohl-none-icon-person
-  portrait: hotepanu
   templatePriority: null
   archetypes: []
   occupation: Priest
@@ -584,17 +583,17 @@ sohl:
     defaultCombatGroup: null
 ---
 
-![Hotep Anu](images/beings/characters/hotepanu.webp){float: top-left}
-
 **Home:** [[place-ankhsetun|Ankh-Setûn]]
 
-## Appearance {#appearance}
+# Appearance {#appearance}
+
+![[hotepanu|Hotep Anu]]{float: top-left}
 
 Hotep stands 5'9" tall with a heavy build — broad-shouldered and thick through the chest, the frame of a man who was never slight and who has spent three years walking the empire's roads. He has dark brown skin, a shaved head (maintained by habit long after the temple's purification codes ceased to bind him), and dark eyes set deep beneath a heavy brow. His features are blunt and serious: a prominent nose, a strong jaw, full lips that settle naturally into an expression of watchful gravity. The most striking marks on him are the ritual tattoos on both forearms — the feather-of-Má'át inked in ceremonial blue — scored through with deliberate cuts, the temple's mark of expulsion. He keeps his left palm turned inward when he can; the horizontal branding scar there is the mark they burned into him the day they cast him out.
 
 He dresses in a plain cloth tunic and worn leather sandals — indistinguishable from a hundred other travelers on the river roads, which is precisely the point. The only concession to his former station is a walking staff of blackwood, unadorned but well-made, and the way he carries himself: shoulders squared, head level, moving with the deliberate economy of a man who learned to command rooms before he learned to survive roads.
 
-## Dossier {#dossier}
+# Dossier {#dossier}
 
 Hotep was born in [[place-ankhsetun|Ankh-Setûn]], the second son of a minor scribe who managed grain inventories for the nome's central granary. The family was respectable but unremarkable — literate, employed, and utterly without social ambition. His father's highest aspiration for his sons was that they follow him into the scribal service. Hotep's older brother did exactly that. Hotep, at the age of nine, was accepted as a Wab into the Temple of Má'át at Ankh-Setûn — not through family connections but because the temple's recruiting priests identified a boy with an unusual capacity for concentration and an instinctive discomfort with dishonesty that bordered on the pathological.
 
@@ -632,9 +631,9 @@ He met Meret-Sebek Heka'amun in the hill country east of Zerula, roughly a year 
 
 What Hotep does not say, and what only those who watch him closely might suspect, is that he has not entirely given up on his faith. The temple expelled him. The priests who serve Má'át branded him a heretic. But Hotep's devotion was never to the temple as an institution — it was to the principle the temple claimed to serve. Truth does not stop being true because the people responsible for upholding it have failed. He still prays, alone and in silence, and he still carries a small set of consecrated ritual implements hidden in his pack: the bronze scales, the feather token, the chalk for inscribing the circle of judgment. He performs no public rites — he has no authority to do so, and the sentence of heresy means that any ritual he conducts is doctrinally void. But in the privacy of his own practice, between himself and the goddess he still believes in, Hotep Anu remains a priest.
 
-### Psyche
+## Psyche
 
-#### Personality
+### Personality
 
 Hotep is serious, methodical, and possessed of a moral certainty that most people find either admirable or exhausting, depending on how long they have spent in his company. He does not make small talk well. He does not laugh easily. He speaks with the deliberate precision of a man trained to weigh every word against the standard of truth, and this habit — useful in a courtroom, wearying at a campfire — gives his conversation a weight that can feel like judgment even when he intends none. He is aware of this effect and has largely stopped trying to correct it. People will think what they think; what matters is whether he has spoken truly.
 
@@ -642,7 +641,7 @@ Beneath the gravity, there is genuine warmth — but it is the warmth of a man w
 
 His exile has hardened him in some ways and softened him in others. The temple trained him to be certain; the road taught him that certainty has costs, and that the people who pay those costs are not always the ones who earned them. He is less rigid than he was — more willing to consider that a situation might have dimensions he hasn't seen, more patient with people who make choices he finds difficult to respect. But the core has not shifted. He believes that truth matters more than comfort, that justice is not a negotiation, and that the cosmic order he devoted his life to serving is real even if the institution that claimed to represent it has betrayed it. He will not compromise on these convictions, and he does not expect others to share them.
 
-#### Motivation
+### Motivation
 
 Hotep's primary drive is restoration — not of his personal reputation, though he would not refuse it, but of the truth. The corruption in the Temple of Má'át at Zerula is not merely an institutional scandal; it is a wound in the cosmic order, a place where the principle of truth has been deliberately broken by the people entrusted to uphold it. As long as Senusret's fabricated auguries stand unchallenged, the judgments based on them remain in force — land was redistributed, families were dispossessed, commercial disputes were settled on the basis of lies spoken in the goddess's name. Hotep cannot undo this alone, but he cannot stop believing it must be undone.
 
@@ -650,7 +649,7 @@ His attachment to Meret-Sebek's quest is genuine but entangled with this deeper 
 
 There is also a quieter motivation, one he would deny if asked directly: he wants to see Hathura again. Not for romance — their friendship was never that — but because she is the only person of genuine power who might believe him, and because her silence during his trial is a question he needs answered. Did she choose politics over principle, or did she genuinely doubt him? The answer matters to him far more than it should.
 
-#### Strengths
+### Strengths
 
 Hotep's foundational strength is his training in the judicial procedures of Má'át. He can evaluate evidence, identify inconsistencies in testimony, and construct arguments with a rigor that most people find impossible to match. When the group encounters conflicting accounts, hidden motives, or deliberate deception, Hotep is the one who sits quietly, asks precise questions, and assembles the truth from fragments that others overlooked. This is not intuition — it is method, drilled into him over decades, and it functions as reliably as any skill he possesses.
 
@@ -660,7 +659,7 @@ Physically, he is the most capable combatant in Meret-Sebek's company, though he
 
 His metalworking skill, learned from the temple's ritual artisans and refined during exile, provides both practical utility and a source of income. He can repair weapons, mend armor, and fabricate simple tools — capabilities that make the group significantly more self-sufficient on extended journeys.
 
-#### Weaknesses
+### Weaknesses
 
 Hotep's most dangerous weakness is his rigidity. He has spent his life in service to an absolute principle — truth is truth, regardless of consequences — and this commitment, which made him a superb temple judge, makes him a difficult companion and a predictable adversary. He struggles with situations that require compromise, strategic deception, or the kind of moral flexibility that the real world constantly demands. Meret-Sebek and the others have learned to work around this, but there are moments when Hotep's insistence on doing things the right way has cost the group time, opportunities, and goodwill.
 
@@ -670,9 +669,9 @@ He carries deep anger — not the hot, expressive kind, but the cold, settled ki
 
 Finally, his exile has left him without institutional support of any kind. He has no wealth, no patron, no temple authority, no legal standing. In a civilization where identity is bound to institutional affiliation — where a priest without a temple is barely a person — Hotep is functionally a nonentity. Any encounter with imperial authority is a risk; if his identity were discovered by the wrong people, the sentence of death that awaits him in Zerula's nome could be extended to other jurisdictions.
 
-### Social
+## Social
 
-#### Patrons
+### Patrons
 
 - **Meret-Sebek Heka'amun**: The astrologer is Hotep's closest companion and the nearest thing he has to a patron. Meret-Sebek provides the quest that gives Hotep's exile purpose, and in return Hotep provides the spiritual grounding and institutional knowledge that Meret-Sebek lacks. Their relationship is one of mutual respect between equals, though the outside world sees Hotep as the astrologer's bodyguard, which he tolerates without correcting.
 
@@ -680,7 +679,7 @@ Finally, his exile has left him without institutional support of any kind. He ha
 
 - **Nebet Hathura Ise'fré** (estranged): The Wer'Hekau of Má'át in the capital — Hotep's own superior in the temple hierarchy, and once his closest friend within the order. Her silence during his trial severed the relationship, but Hotep has not given up entirely on the possibility that she might be reached. She is the only person with both the institutional authority to reopen his case and the legal acumen to understand the evidence he compiled. As Wer'Hekau, she could demand a formal review of the Zerula proceedings, subpoena the sealed archives, and — if the evidence holds — strip Senusret of his office. Whether she would risk the stability of the entire Má'át order to vindicate one branded heretic, even one she once called a friend, is the question Hotep has not yet found the courage to test.
 
-#### Enemies
+### Enemies
 
 - **Wer'Hekau Senusret**: The high priest of Má'át at Zerula and the architect of Hotep's destruction. Senusret is a pragmatist who views the temple's judicial authority as a political instrument to be wielded strategically rather than a sacred trust to be guarded absolutely. He is not a monster — he believes the arrangements with Haty'a Nebmaatre serve the temple's long-term interests and that the fabricated auguries are a necessary accommodation to political reality. He regards Hotep not as a hero but as a naive zealot whose rigid principles nearly brought down an institution that has served the goddess for centuries. He would prefer that Hotep remain forgotten, but if the exile resurfaces with renewed accusations, Senusret will act decisively to silence him.
 
@@ -688,13 +687,13 @@ Finally, his exile has left him without institutional support of any kind. He ha
 
 - **Hem'Netjer Irenakht**: A senior priest at Zerula who was directly involved in fabricating the augury records and who served as the chief prosecutor during Hotep's heresy trial. Irenakht is Senusret's enforcer — intelligent, ruthless, and deeply invested in ensuring that the corruption remains buried. He is the one most likely to recognize Hotep if the exile returns to the region.
 
-#### Affiliations
+### Affiliations
 
 - **Meret-Sebek's Company**: Hotep travels with the astrologer Meret-Sebek Heka'amun, the scholar Neferet Imi-Ra, and the ranger Atenheru. The company is small, self-sufficient, and bound together by the shared purpose of the Convergence quest. Hotep functions as the group's spiritual guide, legal advisor, and — when necessary — its most capable fighter.
 
 - **The Faithful Remnant**: A handful of scattered priests and former Wab throughout the empire who either knew Hotep personally or who have heard enough about the circumstances of his exile to doubt the official story. They do not constitute an organized network — most do not know each other — but they represent a potential source of shelter, information, and moral support should Hotep ever attempt to rebuild his case. Kamenwati in Ankh-Setûn is the most active, but there are others: a retired Hem'Netjer in the delta who trained alongside Hotep, a Wab scholar who independently noticed discrepancies in the Zerula augury records before being transferred to a remote provincial temple.
 
-### Plot Hooks
+## Plot Hooks
 
 1. **The Sealed Archive**: Kamenwati sends word that the evidence Hotep compiled — the astronomical cross-references, the augury logs, the discrepancy analysis — was not destroyed as Senusret claimed. It was sealed in the restricted archives beneath the Zerula temple, classified as heretical material too dangerous to circulate but too thoroughly documented to simply burn. Retrieving it would vindicate Hotep, but it would require entering Zerula's nome (where the death sentence applies), penetrating the temple's archive security, and escaping before Irenakht's network closes around him. The question is whether any ally could be persuaded to help — and whether the evidence, even recovered, would matter against the combined weight of a Wer'Hekau and a nomarch.
 

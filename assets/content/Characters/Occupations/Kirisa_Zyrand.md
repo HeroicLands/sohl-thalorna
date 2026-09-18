@@ -16,7 +16,6 @@ shortcode: kiriszyrnd
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: null
   templatePriority: null
   archetypes: []
   occupation: Cook
@@ -551,11 +550,11 @@ sohl:
     defaultCombatGroup: null
 ---
 
-## Appearance {#appearance}
+# Appearance {#appearance}
 
 Kírisa Zýrand is a 41-year-old woman who stands 5'10" tall and is of moderate build. She has a heart-shaped face with sharp cheekbones, a smooth forehead, and a strong jaw that leads to a firm chin. Her wide-set brown eyes sit beneath thin brows, lending her an open gaze. A narrow nose and thin lips complete her features. She has olive skin with a sun-tanned complexion. Her graying brown hair is flowing past her shoulders.
 
-## Dossier {#dossier}
+# Dossier {#dossier}
 
 Born in the Provènzia region to a freeman family of Provenzian heritage, Kírisa Zýrand came into the world of the cook through a combination of circumstance and aptitude.
 
@@ -563,37 +562,37 @@ Isolde works in the kitchen of a bustling inn, where she has become known for he
 
 Now at 41 years of age, Kírisa Zýrand has established herself as a known figure among the cooks of Provènzia. Her reputation, for better or worse, precedes her in the circles where such things matter.
 
-### Psyche
+## Psyche
 
-#### Personality
+### Personality
 
 Can be dismissive of "fancy" cuisine, focusing instead on simple, hearty meals.
 
-#### Motivation
+### Motivation
 
 Kírisa is driven by the desire to master her craft and secure a stable future. The uncertainties of life in cook work keep her vigilant and adaptable.
 
-#### Strengths
+### Strengths
 
 Practical cooking skills, good at managing large quantities of food.
 
-### Social
+## Social
 
 Kírisa is affiliated with City Cooks' Guild.
 
 As a Provenzian cook, Kírisa occupies a recognized social niche within Provènzia society.
 
-### Companions
+## Companions
 
-#### Patrons
+### Patrons
 
 Kírisa's primary patron is Inn guests and locals who enjoy her cooking.. This relationship provides both opportunity and obligation.
 
-#### Enemies
+### Enemies
 
 A few chefs who look down on her simple style.
 
-### Plot Hooks
+## Plot Hooks
 
 1. **The Cook's Dilemma** — Kírisa faces a professional crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Provènzia.
 

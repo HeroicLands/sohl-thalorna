@@ -16,7 +16,6 @@ shortcode: delnshfrdn
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: null
   templatePriority: null
   archetypes: []
   occupation: Man-at-Arms
@@ -527,11 +526,11 @@ sohl:
     defaultCombatGroup: null
 ---
 
-## Appearance {#appearance}
+# Appearance {#appearance}
 
 Delânash is an imposing woman — 6'3" with a massive, powerfully built frame that carries 262 pounds with the settled weight of a veteran who has spent decades in harness. Her chestnut hair is thick and unruly, usually bound beneath a linen headwrap against the desert sun, and her honey-brown eyes are sharp and knowing beneath heavy brows. Her medium-toned skin is freckled across the nose and cheeks — unusual for a Dunhari woman and a source of mild self-consciousness. Her face is square-jawed and strong-featured, and her hands are broad and scarred from years of weapons drill. She wears a desert garrison's kit: a long padded coat over linen, leather bracers and greaves, and a curved scimitar on her hip that she maintains with the meticulous care of a woman who trusts her blade above all other sohl.
 
-## Dossier {#dossier}
+# Dossier {#dossier}
 
 Delânash comes from Dunhari desert tribes, though her freckled complexion is unusual enough to have marked her as an outsider even in her birth tribe. Her mother was a settlement-keeper whose family had mixed heritage; her father was a Dunhari warrior. The combination produced Delânash: a tall woman with distinctive freckled skin that the pure-blood tribes regarded as a sign of weakness or taint. She was neither fully Dunhari in their eyes nor fully able to pass in settled lands.
 
@@ -539,35 +538,35 @@ At nineteen, she presented herself to the desert fortress garrison as a voluntee
 
 Delânash's unusual coloring has become her identifying feature. Young soldiers call her "The Freckled Guard" with respect rather than derision. She has become a symbol of the garrison's meritocratic ideals—advancement through competence rather than heritage. This makes her politically significant in ways she neither sought nor particularly wants.
 
-### Psyche
+## Psyche
 
-#### Personality
+### Personality
 
 Delânash is matter-of-fact and practical, with little patience for ornamentation in language or action. She is genuinely kind to those who work competently and will support them with unwavering loyalty. She is harsh with those who approach their work with casual laziness, and her criticism is blunt enough to wound. She has a dry sense of humor and occasionally says things of surprising philosophical depth without apparent awareness that she has done so.
 
-#### Motivation
+### Motivation
 
 Delânash's primary motivation is the garrison itself—ensuring it functions effectively and that its soldiers survive their tours of duty. She has made peace with her status as tribal outsider by committing entirely to institutional loyalty. Her secondary motivation is proving that desert-born warriors can be professional soldiers, not merely tribal mercenaries. She wants the fortress to become a model that expands across Dunhara.
 
-#### Strengths
+### Strengths
 
 Her combat expertise is formidable, honed through decades of actual desert warfare and fortress defense. She is an inspired tactical commander who understands desert conditions with instinctive precision. Her physical strength is extraordinary and increases her authority with soldiers. She is politically intelligent despite appearing straightforward.
 
-### Social
+## Social
 
 Delânash occupies a unique social position: respected by the garrison, treated with suspicion by pure-blood Dunhari tribes, invisible to settled commercial classes. Her unusual coloring makes her instantly identifiable and contributes to her semi-mythical status as a garrison legend.
 
-### Companions
+## Companions
 
-#### Patrons
+### Patrons
 
 **Fortress Commander Khalef ibn Rashid** — The garrison's senior officer. Khalef respects Delânash completely and has made her his effective second-in-command. He is aging and increasingly aware that his time is ending. He has made quiet arrangements to recommend Delânash as his successor, which would be unprecedented—a woman and a tribal outsider commanding the entire fortress.
 
-#### Enemies
+### Enemies
 
 **Tribal Elder Saqqar ibn Malik** — A pure-blood Dunhari tribal leader who views the fortress's meritocratic advancement as a threat to traditional tribal hierarchy. He has begun spreading rumors that Delânash is an outsider unfit for command and is being used by foreign interests to weaken Dunhari warrior culture. His political campaign against her has gained traction with conservative tribal factions.
 
-### Plot Hooks
+## Plot Hooks
 
 1. **The Succession Battle** — When Fortress Commander Khalef dies, Delânash is officially recommended as his successor by the military hierarchy. The appointment touches off a political firestorm among Dunhari tribes who refuse to accept a woman and tribal outsider commanding the fortress. A rival candidate—a pure-blood Dunhari warrior of exceptional skill—is proposed, backed by Tribal Elder Saqqar. The fortress becomes a political battleground, and Delânash must navigate choosing between accepting a compromise that strips her of actual authority or refusing and accepting that tribal forces will move against the fortress openly.
 

@@ -17,7 +17,6 @@ shortcode: rowenstrtn
 type: being
 data:
   icon: sohl-none-icon-person
-  portrait: null
   templatePriority: null
   archetypes: []
   occupation: Animal Trainer
@@ -552,11 +551,11 @@ sohl:
     defaultCombatGroup: null
 ---
 
-## Appearance {#appearance}
+# Appearance {#appearance}
 
 Rowena Storton is a 28-year-old woman who stands 5'7" tall and is slender. She has a heart-shaped face with wide-set cheekbones, a lined forehead, and an angular jaw that leads to a rounded chin. Her bright green eyes sit beneath expressive brows, lending her a lively gaze. A narrow nose and curved lips complete her features. She has light skin with a pale complexion. Her red hair is adorned with simple pins.
 
-## Dossier {#dossier}
+# Dossier {#dossier}
 
 Born in the Aelwyth region to a guilded family of Aelwythan heritage, Rowena Storton came into the world of the animal trainer through a combination of circumstance and aptitude.
 
@@ -564,37 +563,37 @@ Edda trains exotic birds for a noble family. She is skilled at teaching them tri
 
 Now at 28 years of age, Rowena Storton has established herself as a known figure among the animal trainers of Aelwyth. Her reputation, for better or worse, precedes her in the circles where such things matter.
 
-### Psyche
+## Psyche
 
-#### Personality
+### Personality
 
 Easily distracted, nervous around large animals.
 
-#### Motivation
+### Motivation
 
 Rowena is driven by the desire to master her craft and secure a stable future. The uncertainties of life in animal trainer work keep her vigilant and adaptable.
 
-#### Strengths
+### Strengths
 
 Skilled with training small animals, particularly birds.
 
-### Social
+## Social
 
 Rowena is affiliated with Urban Animal Trainers' Guild.
 
 As a Aelwythan animal trainer, Rowena occupies a recognized social niche within Aelwyth society.
 
-### Companions
+## Companions
 
-#### Patrons
+### Patrons
 
 Rowena's primary patron is Noble family who owns exotic pets.. This relationship provides both opportunity and obligation.
 
-#### Enemies
+### Enemies
 
 Rowena has managed to avoid making serious enemies, though the nature of his work means this may not last.
 
-### Plot Hooks
+## Plot Hooks
 
 1. **The Animal Trainer's Dilemma** — Rowena faces a professional crisis that threatens her livelihood. A choice must be made between principle and survival, and the consequences will ripple through her community in Aelwyth.
 
