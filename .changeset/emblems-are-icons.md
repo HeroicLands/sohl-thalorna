@@ -1,5 +1,5 @@
 ---
-"sohl-thalorna": minor
+"thalorna": minor
 ---
 
 **Faiths and orders wear their own emblems.** An affiliation whose badge this

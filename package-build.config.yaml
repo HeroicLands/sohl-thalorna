@@ -150,7 +150,7 @@ site:
 
 packageBuild:
     assets:
-        - { from: src/sohl-thalorna.mjs, to: sohl-thalorna.mjs }
+        - { from: src/thalorna.mjs, to: thalorna.mjs }
         - { from: lang, to: lang }
         - { from: styles, to: styles }
         - { from: README.md, to: README.md }
@@ -182,10 +182,10 @@ packageBuild:
               name: English
               path: lang/en.json
         esmodules:
-            - sohl-thalorna.mjs
+            - thalorna.mjs
         styles:
-            - src: styles/sohl-thalorna.css
-              layer: sohl-thalorna
+            - src: styles/thalorna.css
+              layer: thalorna
         # Names every pack this package ships, so everything Thalorna adds
         # appears together in the compendium sidebar under one folder. It was
         # written when the build compiled two packs and described itself as

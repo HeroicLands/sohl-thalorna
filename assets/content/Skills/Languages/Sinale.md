@@ -23,7 +23,7 @@ sohl:
     initSkillMult: 0
 packFolder: language
 flags:
-  "sohl-thalorna":
+  "thalorna":
     lang_family: Elder
 ---
 

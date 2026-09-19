@@ -1,5 +1,5 @@
 ---
-"sohl-thalorna": patch
+"thalorna": patch
 ---
 
 **Every name can now be found by typing it**

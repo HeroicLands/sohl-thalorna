@@ -1,5 +1,5 @@
 ---
-"sohl-thalorna": patch
+"thalorna": patch
 ---
 
 **The emphatic k is written q, the way most romanisations write it**

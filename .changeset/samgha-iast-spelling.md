@@ -1,5 +1,5 @@
 ---
-"sohl-thalorna": patch
+"thalorna": patch
 ---
 
 **Saṃgha is spelled the way the transliteration standard spells it**

@@ -1,5 +1,5 @@
 ---
-"sohl-thalorna": patch
+"thalorna": patch
 ---
 
 **Compatible with SoHL 0.8.6.** The packs compile against that release, whose

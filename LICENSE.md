@@ -76,7 +76,7 @@ unmodified distribution of this project, to identify it. Nominative reference â€
 truthfully stating that your work is "based on," "compatible with," or "a fork
 of" Song of Heroic Lands â€” is permitted, provided it does not imply endorsement.
 Functional technical identifiers required for interoperability (the Foundry
-module id `sohl-thalorna`, the system id `sohl` it declares a relationship to,
+module id `thalorna`, the system id `sohl` it declares a relationship to,
 code namespaces, CSS class prefixes, and localization keys) are not restricted by
 this section.
 

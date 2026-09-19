@@ -1,5 +1,5 @@
 ---
-"sohl-thalorna": patch
+"thalorna": patch
 ---
 
 **The sturgeon totem's full description now appears in the PDF sourcebook**

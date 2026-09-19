@@ -1,5 +1,5 @@
 {
-    "name": "sohl-thalorna",
+    "name": "thalorna",
     "private": true,
     "productName": "Thalorna Setting",
     "description": "Items, Actors, Journals, Scenes, and other assets to enable play in the Thalorna setting for Song of Heroic Lands",
@@ -13,7 +13,7 @@
         "discord": "toasty#8538",
         "bluesky": "@toasty.heroiclands.org"
     },
-    "homepage": "https://www.heroicland.org",
+    "homepage": "https://www.heroiclands.org",
     "license": "GPL-3.0-or-later AND CC-BY-SA-4.0",
     "repository": {
         "type": "git",
