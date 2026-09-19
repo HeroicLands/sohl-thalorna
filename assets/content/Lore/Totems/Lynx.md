@@ -13,7 +13,7 @@ shortcode: lynxttm
 packFolder: loretotems
 data:
   banner: creaturebnr
-  icon: lynx
+  icon: lynxtotem
 ---
 
 Elusive and watchful, lynxes are solitary and nocturnal hunters that use their keen eyesight to silently stalk prey through dense forests.

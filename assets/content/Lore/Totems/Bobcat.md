@@ -13,7 +13,7 @@ shortcode: bobcatttm
 packFolder: loretotems
 data:
   banner: creaturebnr
-  icon: bobcat
+  icon: bobcattotem
 ---
 
 Secretive and cautious, bobcats are elusive hunters, using their stealth and patience to silently stalk and ambush their prey.

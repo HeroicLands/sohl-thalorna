@@ -13,7 +13,7 @@ shortcode: crowttm
 packFolder: loretotems
 data:
   banner: creaturebnr
-  icon: crow
+  icon: crowtotem
 ---
 
 Mischievous and vindictive, crows are highly intelligent birds that can hold grudges and are known to play tricks on both animals and humans.

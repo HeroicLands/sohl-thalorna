@@ -13,7 +13,7 @@ shortcode: rabbitttm
 packFolder: loretotems
 data:
   banner: creaturebnr
-  icon: rabbit
+  icon: rabbittotem
 ---
 
 Nervous and quick, rabbits are prey animals that rely on their agility and rapid breeding to survive in environments filled with predators.

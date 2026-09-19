@@ -13,7 +13,7 @@ shortcode: wolfttm
 packFolder: loretotems
 data:
   banner: creaturebnr
-  icon: wolf
+  icon: wolftotem
 ---
 
 Cooperative and strategic, wolves are pack animals that rely on teamwork and careful planning to hunt and protect their territory.
