@@ -9,7 +9,7 @@ description: "An intelligent aerial hunter of deep winter, migrating toward the 
 shortcode: frstwng
 type: being
 data:
-  icon: sohl-none-icon-person
+  icon: icon-person
   templatePriority: null
   archetypes: []
   occupation: null

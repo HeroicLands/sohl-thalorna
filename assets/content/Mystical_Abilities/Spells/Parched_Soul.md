@@ -9,7 +9,7 @@ shortcode: pchsoul
 type: mysticalability
 subType: arcaneincantation
 data:
-  icon: sohl-none-icon-firebdg
+  icon: icon-firebdg
   templatePriority: null
 sohl:
   system:

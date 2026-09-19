@@ -7,7 +7,7 @@ description: "Leaf-shaped slender thrusting spear with silk tassel; versatile re
 shortcode: qing
 type: weapongear
 data:
-  icon: sohl-none-icon-polearm
+  icon: icon-polearm
   templatePriority: null
 sohl:
   kbcat: polearm

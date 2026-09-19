@@ -14,7 +14,7 @@ packFolder: helladbyzaria
 shortcode: phlthnktrts
 type: being
 data:
-  icon: sohl-none-icon-person
+  icon: icon-person
   templatePriority: null
   archetypes: []
   occupation: Musician (Lute)

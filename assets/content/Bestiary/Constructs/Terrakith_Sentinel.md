@@ -9,7 +9,7 @@ description: "An eight-foot golem sculpted from magically infused clay, engineer
 shortcode: trrkthsn
 type: being
 data:
-  icon: sohl-none-icon-person
+  icon: icon-person
   templatePriority: null
   archetypes: []
   occupation: null

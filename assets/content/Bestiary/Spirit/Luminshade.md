@@ -9,7 +9,7 @@ description: "A paradoxical liminal spirit born where light and shadow meet, dwe
 shortcode: lmnshd
 type: being
 data:
-  icon: sohl-none-icon-person
+  icon: icon-person
   templatePriority: null
   archetypes: []
   occupation: null

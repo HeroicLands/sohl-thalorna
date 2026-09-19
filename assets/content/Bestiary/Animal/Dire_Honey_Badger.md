@@ -9,7 +9,7 @@ description: "A four-foot, four-hundred-pound honey badger scaled to lethal size
 shortcode: drhnybdg
 type: being
 data:
-  icon: sohl-none-icon-person
+  icon: icon-person
   templatePriority: null
   archetypes: []
   occupation: null

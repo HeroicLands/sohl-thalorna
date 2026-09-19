@@ -9,7 +9,7 @@ description: "A rare, intelligent draconic ambush predator of lightless depths t
 shortcode: abyssdrk
 type: being
 data:
-  icon: sohl-none-icon-person
+  icon: icon-person
   templatePriority: null
   archetypes: []
   occupation: null

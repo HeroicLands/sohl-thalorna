@@ -9,7 +9,7 @@ description: "A lithe nocturnal desert feline up to seven feet long, stalking du
 shortcode: sndstlkr
 type: being
 data:
-  icon: sohl-none-icon-person
+  icon: icon-person
   templatePriority: null
   archetypes: []
   occupation: null

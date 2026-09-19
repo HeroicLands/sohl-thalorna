@@ -12,7 +12,7 @@ subType: elixir
 hmk:
   name: Dreamwalk
 data:
-  icon: sohl-none-icon-potion
+  icon: icon-potion
   templatePriority: null
 sohl:
   system:

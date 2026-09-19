@@ -9,7 +9,7 @@ description: "A mount-sized mountain raptor with a twenty-foot wingspan and armo
 shortcode: gntegl
 type: being
 data:
-  icon: sohl-none-icon-person
+  icon: icon-person
   templatePriority: null
   archetypes: []
   occupation: null

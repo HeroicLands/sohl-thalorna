@@ -9,7 +9,7 @@ description: "A centuries-old herbivorous reptile and near-indestructible walkin
 shortcode: gnttrts
 type: being
 data:
-  icon: sohl-none-icon-person
+  icon: icon-person
   templatePriority: null
   archetypes: []
   occupation: null

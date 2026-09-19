@@ -7,7 +7,7 @@ description: "H-gripped forearm-blade for knuckle-punch; tavern brawler's forcin
 shortcode: katr
 type: weapongear
 data:
-  icon: sohl-none-icon-broaddagger
+  icon: icon-broaddagger
   templatePriority: null
 sohl:
   kbcat: knife

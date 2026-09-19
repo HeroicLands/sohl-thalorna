@@ -15,7 +15,7 @@ packFolder: aureldiaprovenzia
 shortcode: thavenfrwn
 type: being
 data:
-  icon: sohl-none-icon-person
+  icon: icon-person
   templatePriority: null
   archetypes: []
   occupation: Bosun

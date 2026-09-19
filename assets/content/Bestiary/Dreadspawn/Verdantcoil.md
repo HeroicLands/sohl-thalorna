@@ -9,7 +9,7 @@ description: "A colossal, patient snake of corrupted origin that lurks motionles
 shortcode: vrdntcl
 type: being
 data:
-  icon: sohl-none-icon-person
+  icon: icon-person
   templatePriority: null
   archetypes: []
   occupation: null

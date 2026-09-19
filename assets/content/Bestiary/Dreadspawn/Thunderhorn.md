@@ -9,7 +9,7 @@ description: "A massive, storm-infused beast of territorial fury that roams ligh
 shortcode: thndrhrn
 type: being
 data:
-  icon: sohl-none-icon-person
+  icon: icon-person
   templatePriority: null
   archetypes: []
   occupation: null

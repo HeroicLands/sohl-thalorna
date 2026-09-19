@@ -14,7 +14,7 @@ packFolder: ankarisvedyara
 shortcode: sntydhyrjvrdhn
 type: being
 data:
-  icon: sohl-none-icon-person
+  icon: icon-person
   templatePriority: null
   archetypes: []
   occupation: Courtesan

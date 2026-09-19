@@ -9,7 +9,7 @@ description: "A ten-foot armored arachnid ambusher that waits motionless for pre
 shortcode: gntscrpn
 type: being
 data:
-  icon: sohl-none-icon-person
+  icon: icon-person
   templatePriority: null
   archetypes: []
   occupation: null

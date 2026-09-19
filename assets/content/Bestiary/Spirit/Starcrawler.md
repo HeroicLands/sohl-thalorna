@@ -9,7 +9,7 @@ description: "A rare celestial being of stellar essence given flesh, appearing w
 shortcode: strcrwlr
 type: being
 data:
-  icon: sohl-none-icon-person
+  icon: icon-person
   templatePriority: null
   archetypes: []
   occupation: null

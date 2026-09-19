@@ -16,7 +16,7 @@ packFolder: helladbyzaria
 shortcode: angldsptrks
 type: being
 data:
-  icon: sohl-none-icon-person
+  icon: icon-person
   templatePriority: null
   archetypes: []
   occupation: Mage (Healing)

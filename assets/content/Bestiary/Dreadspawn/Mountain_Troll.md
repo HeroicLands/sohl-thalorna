@@ -9,7 +9,7 @@ description: "A primordial alpine guardian of immense weight and strength, roami
 shortcode: mntntrll
 type: being
 data:
-  icon: sohl-none-icon-person
+  icon: icon-person
   templatePriority: null
   archetypes: []
   occupation: null

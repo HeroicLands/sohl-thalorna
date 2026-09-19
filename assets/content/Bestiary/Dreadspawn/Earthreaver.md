@@ -9,7 +9,7 @@ description: "A venomous burrowing arthropod that rules underground ecosystems t
 shortcode: erthrvr
 type: being
 data:
-  icon: sohl-none-icon-person
+  icon: icon-person
   templatePriority: null
   archetypes: []
   occupation: null

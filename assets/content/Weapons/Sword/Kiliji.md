@@ -7,7 +7,7 @@ description: "Curved widening-tip single-edged saber; cavalry raider's efficienc
 shortcode: kiliji
 type: weapongear
 data:
-  icon: sohl-none-icon-sword
+  icon: icon-sword
   templatePriority: null
 sohl:
   kbcat: sword

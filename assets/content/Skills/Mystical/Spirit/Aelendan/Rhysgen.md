@@ -11,7 +11,7 @@ name:
   aliases:
     - Rhysgen, the Red Fox of the Lower Wood
 data:
-  icon: sohl-none-icon-psychicwaves
+  icon: icon-psychicwaves
   templatePriority: null
 sohl:
   system:

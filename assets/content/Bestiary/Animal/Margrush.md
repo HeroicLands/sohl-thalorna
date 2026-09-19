@@ -9,7 +9,7 @@ description: "A leathery-hided forest and swamp predator over 350 pounds, its fl
 shortcode: margrush
 type: being
 data:
-  icon: sohl-none-icon-person
+  icon: icon-person
   templatePriority: null
   archetypes: []
   occupation: null

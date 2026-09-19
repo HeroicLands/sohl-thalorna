@@ -7,7 +7,7 @@ description: "Curved single-edged blade gathering momentum through geometry."
 shortcode: dao
 type: weapongear
 data:
-  icon: sohl-none-icon-sword
+  icon: icon-sword
   templatePriority: null
 sohl:
   kbcat: sword

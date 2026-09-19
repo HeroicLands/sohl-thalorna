@@ -9,7 +9,7 @@ description: "An earth-elemental of animate stone and will that stands as an imp
 shortcode: bldrbck
 type: being
 data:
-  icon: sohl-none-icon-person
+  icon: icon-person
   templatePriority: null
   archetypes: []
   occupation: null

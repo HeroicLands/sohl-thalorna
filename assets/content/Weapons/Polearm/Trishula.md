@@ -7,7 +7,7 @@ description: "Sacred three-pronged polearm symbolizing cosmic order and battlefi
 shortcode: trsha
 type: weapongear
 data:
-  icon: sohl-none-icon-polearm
+  icon: icon-polearm
   templatePriority: null
 sohl:
   kbcat: polearm

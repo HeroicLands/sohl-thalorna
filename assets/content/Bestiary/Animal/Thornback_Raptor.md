@@ -9,7 +9,7 @@ description: "A five-to-six-foot bipedal reptilian pack hunter that coordinates 
 shortcode: thrnbckr
 type: being
 data:
-  icon: sohl-none-icon-person
+  icon: icon-person
   templatePriority: null
   archetypes: []
   occupation: null

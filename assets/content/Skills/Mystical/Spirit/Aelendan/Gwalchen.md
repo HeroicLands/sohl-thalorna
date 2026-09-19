@@ -11,7 +11,7 @@ name:
   aliases:
     - Gwalchen, the Hawk of the Spine
 data:
-  icon: sohl-none-icon-psychicwaves
+  icon: icon-psychicwaves
   templatePriority: null
 sohl:
   system:

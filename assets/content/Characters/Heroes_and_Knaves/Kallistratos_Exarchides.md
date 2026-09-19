@@ -15,7 +15,7 @@ packFolder: midhalionvylaria
 shortcode: klstrtsxrchds
 type: being
 data:
-  icon: sohl-none-icon-person
+  icon: icon-person
   templatePriority: null
   archetypes: []
   occupation: Mage (Fire)

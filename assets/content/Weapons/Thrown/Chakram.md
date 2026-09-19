@@ -7,7 +7,7 @@ description: "Sharpened steel disc thrown or hand-held; cavalry skirmisher's pre
 shortcode: chak
 type: weapongear
 data:
-  icon: sohl-none-icon-circle
+  icon: icon-circle
   templatePriority: null
 sohl:
   kbcat: knife

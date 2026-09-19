@@ -9,7 +9,7 @@ description: "A small, clever fire elemental serving as scout or messenger, harm
 shortcode: fireflit
 type: being
 data:
-  icon: sohl-none-icon-person
+  icon: icon-person
   templatePriority: null
   archetypes: []
   occupation: null

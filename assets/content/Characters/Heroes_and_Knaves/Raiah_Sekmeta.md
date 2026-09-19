@@ -17,7 +17,7 @@ shortcode: raiahsekmt
 type: being
 data:
   banner: takheperubnr
-  icon: sohl-none-icon-person
+  icon: icon-person
   templatePriority: null
   archetypes: []
   occupation: Weaponcrafter (Armorer)

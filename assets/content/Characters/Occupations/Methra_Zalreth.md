@@ -15,7 +15,7 @@ packFolder: aureldiaelavendre
 shortcode: methrzlrth
 type: being
 data:
-  icon: sohl-none-icon-person
+  icon: icon-person
   templatePriority: null
   archetypes: []
   occupation: Labourer (unskilled)

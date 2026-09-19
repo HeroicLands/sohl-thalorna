@@ -10,7 +10,7 @@ description: "An impossibly rare and elusive mythic beast of incorruptible purit
 shortcode: unicorn
 type: being
 data:
-  icon: sohl-none-icon-unicorn
+  icon: icon-unicorn
   templatePriority: null
   archetypes: []
   occupation: null

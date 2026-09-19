@@ -9,7 +9,7 @@ description: "A fey trickster of the shadow-touched borderlands who delights in 
 shortcode: glmsprt
 type: being
 data:
-  icon: sohl-none-icon-person
+  icon: icon-person
   templatePriority: null
   archetypes: []
   occupation: null

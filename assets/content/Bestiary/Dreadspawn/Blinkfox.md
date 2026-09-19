@@ -9,7 +9,7 @@ description: "A fae-touched predator that hunts enchanted forests by slipping th
 shortcode: blinkfox
 type: being
 data:
-  icon: sohl-none-icon-person
+  icon: icon-person
   templatePriority: null
   archetypes: []
   occupation: null

@@ -9,7 +9,7 @@ description: "A solitary, fiercely territorial deep-water cephalopod whose crush
 shortcode: gntoctps
 type: being
 data:
-  icon: sohl-none-icon-person
+  icon: icon-person
   templatePriority: null
   archetypes: []
   occupation: null

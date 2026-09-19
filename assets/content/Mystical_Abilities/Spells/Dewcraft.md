@@ -9,7 +9,7 @@ shortcode: dewcraft
 type: mysticalability
 subType: arcaneincantation
 data:
-  icon: sohl-none-icon-water
+  icon: icon-water
   templatePriority: null
 sohl:
   system:

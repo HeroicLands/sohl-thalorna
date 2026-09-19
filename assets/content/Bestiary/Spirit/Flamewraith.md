@@ -9,7 +9,7 @@ description: "A volatile fire-spirit born from pyromancers consumed by their own
 shortcode: flmwrth
 type: being
 data:
-  icon: sohl-none-icon-person
+  icon: icon-person
   templatePriority: null
   archetypes: []
   occupation: null

@@ -9,7 +9,7 @@ description: "A corrupted, colossal wild boar of suicidal ferocity that rules de
 shortcode: tskcrshr
 type: being
 data:
-  icon: sohl-none-icon-person
+  icon: icon-person
   templatePriority: null
   archetypes: []
   occupation: null

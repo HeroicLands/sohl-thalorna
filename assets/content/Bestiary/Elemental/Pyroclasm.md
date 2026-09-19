@@ -9,7 +9,7 @@ description: "A chaotic fire elemental of animate volcanic devastation, born fro
 shortcode: pyrclsm
 type: being
 data:
-  icon: sohl-none-icon-person
+  icon: icon-person
   templatePriority: null
   archetypes: []
   occupation: null

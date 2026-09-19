@@ -9,7 +9,7 @@ description: "A shadow-corrupted arachnid ambusher that fills whole chambers wit
 shortcode: spndlfnd
 type: being
 data:
-  icon: sohl-none-icon-person
+  icon: icon-person
   templatePriority: null
   archetypes: []
   occupation: null

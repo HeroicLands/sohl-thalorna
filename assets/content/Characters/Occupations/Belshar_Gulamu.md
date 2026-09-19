@@ -16,7 +16,7 @@ packFolder: midhalionharad
 shortcode: belsharglm
 type: being
 data:
-  icon: sohl-none-icon-person
+  icon: icon-person
   templatePriority: null
   archetypes: []
   occupation: Locksmith

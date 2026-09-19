@@ -15,7 +15,7 @@ packFolder: aureldiatarvenia
 shortcode: jolrenlvnr
 type: being
 data:
-  icon: sohl-none-icon-person
+  icon: icon-person
   templatePriority: null
   archetypes: []
   occupation: Mason

@@ -7,7 +7,7 @@ description: "Heavy spherical or flanged mace-head; champion's crushing blow."
 shortcode: gada
 type: weapongear
 data:
-  icon: sohl-none-icon-club
+  icon: icon-club
   templatePriority: null
 sohl:
   kbcat: club

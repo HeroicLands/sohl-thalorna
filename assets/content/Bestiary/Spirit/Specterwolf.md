@@ -9,7 +9,7 @@ description: "The spectral remnant of ancient beasts, hunting on both sides of t
 shortcode: spctrwlf
 type: being
 data:
-  icon: sohl-none-icon-person
+  icon: icon-person
   templatePriority: null
   archetypes: []
   occupation: null

@@ -14,7 +14,7 @@ packFolder: northernfertileregionbethua
 shortcode: juthrjmthn
 type: being
 data:
-  icon: sohl-none-icon-person
+  icon: icon-person
   templatePriority: null
   archetypes: []
   occupation: Scholar

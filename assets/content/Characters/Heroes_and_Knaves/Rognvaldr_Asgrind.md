@@ -14,7 +14,7 @@ packFolder: ankarisnordlands
 shortcode: rgnvldrsgrnd
 type: being
 data:
-  icon: sohl-none-icon-person
+  icon: icon-person
   templatePriority: null
   archetypes: []
   occupation: Jester

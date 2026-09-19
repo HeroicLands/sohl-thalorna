@@ -14,7 +14,7 @@ packFolder: helladbyzaria
 shortcode: damklsmpsn
 type: being
 data:
-  icon: sohl-none-icon-person
+  icon: icon-person
   templatePriority: null
   archetypes: []
   occupation: Cartographer/Artist

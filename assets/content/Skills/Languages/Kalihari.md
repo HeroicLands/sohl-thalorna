@@ -12,7 +12,7 @@ shortcode: kalihrlng
 type: skill
 subType: language
 data:
-  icon: sohl-none-icon-speaking
+  icon: icon-speaking
   templatePriority: null
 sohl:
   system:

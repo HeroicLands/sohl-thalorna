@@ -17,7 +17,7 @@ packFolder: ankarisvrystwald
 shortcode: astrdfrskn
 type: being
 data:
-  icon: sohl-none-icon-person
+  icon: icon-person
   templatePriority: null
   archetypes: []
   occupation: Wanderer and Warrior

@@ -15,7 +15,7 @@ packFolder: dunharatribes
 shortcode: delnshfrdn
 type: being
 data:
-  icon: sohl-none-icon-person
+  icon: icon-person
   templatePriority: null
   archetypes: []
   occupation: Man-at-Arms

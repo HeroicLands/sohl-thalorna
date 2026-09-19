@@ -17,7 +17,7 @@ shortcode: skhmtkskhn
 type: being
 data:
   banner: takheperubnr
-  icon: sohl-none-icon-person
+  icon: icon-person
   templatePriority: null
   archetypes: []
   occupation: Pilot
@@ -104,7 +104,7 @@ sohl:
     - name: Quiver (leather)
       type: miscgear
       data:
-        icon: sohl-none-icon-quiver
+        icon: icon-quiver
       system:
         shortcode: quiver
         weight: 1

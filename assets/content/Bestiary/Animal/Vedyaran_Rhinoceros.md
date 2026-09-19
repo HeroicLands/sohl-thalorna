@@ -10,7 +10,7 @@ description: "A massive semi-aquatic armored megaherbivore of the Vedyaran flood
 shortcode: vdyrnrhn
 type: being
 data:
-  icon: sohl-none-icon-person
+  icon: icon-person
   templatePriority: null
   archetypes: []
   occupation: null

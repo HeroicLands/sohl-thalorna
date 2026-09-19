@@ -11,7 +11,7 @@ name:
   aliases:
     - Awelon, the West Wind
 data:
-  icon: sohl-none-icon-psychicwaves
+  icon: icon-psychicwaves
   templatePriority: null
 sohl:
   system:

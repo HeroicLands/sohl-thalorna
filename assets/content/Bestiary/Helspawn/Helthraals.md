@@ -9,7 +9,7 @@ description: "The mindless shambling undead—zombies, skeletons, mummies, and g
 shortcode: hlthrls
 type: being
 data:
-  icon: sohl-none-icon-person
+  icon: icon-person
   templatePriority: null
   archetypes: []
   occupation: null

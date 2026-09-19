@@ -10,7 +10,7 @@ description: "A two-legged, dragon-like flier of mountain peaks and high plateau
 shortcode: wyvern
 type: being
 data:
-  icon: sohl-none-icon-wyvern
+  icon: icon-wyvern
   templatePriority: null
   archetypes: []
   occupation: null

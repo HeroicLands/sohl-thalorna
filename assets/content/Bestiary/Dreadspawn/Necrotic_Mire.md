@@ -9,7 +9,7 @@ description: "An animate ooze born of concentrated decay in deep stagnant swamps
 shortcode: ncrtcmr
 type: being
 data:
-  icon: sohl-none-icon-person
+  icon: icon-person
   templatePriority: null
   archetypes: []
   occupation: null

@@ -9,7 +9,7 @@ description: "A four-foot-bodied web-hunter spinning three-dimensional silken ma
 shortcode: gntspdr
 type: being
 data:
-  icon: sohl-none-icon-person
+  icon: icon-person
   templatePriority: null
   archetypes: []
   occupation: null

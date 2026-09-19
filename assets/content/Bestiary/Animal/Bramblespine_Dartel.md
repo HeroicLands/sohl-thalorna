@@ -9,7 +9,7 @@ description: "A small, heavily armored arid-land reptile, far less deadly than l
 shortcode: brmblspn
 type: being
 data:
-  icon: sohl-none-icon-person
+  icon: icon-person
   templatePriority: null
   archetypes: []
   occupation: null

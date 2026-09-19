@@ -9,7 +9,7 @@ description: "A silent nocturnal apex raptor with a twenty-five-foot wingspan an
 shortcode: giantowl
 type: being
 data:
-  icon: sohl-none-icon-person
+  icon: icon-person
   templatePriority: null
   archetypes: []
   occupation: null

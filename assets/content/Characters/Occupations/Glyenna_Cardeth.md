@@ -16,7 +16,7 @@ packFolder: aureldiaelavendre
 shortcode: glyencrdth
 type: being
 data:
-  icon: sohl-none-icon-person
+  icon: icon-person
   templatePriority: null
   archetypes: []
   occupation: Noblewoman / Head of House Cárdeth

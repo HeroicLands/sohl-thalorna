@@ -9,7 +9,7 @@ shortcode: conduit
 type: mysticalability
 subType: arcaneincantation
 data:
-  icon: sohl-none-icon-wind
+  icon: icon-wind
   templatePriority: null
 sohl:
   system:

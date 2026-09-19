@@ -12,7 +12,7 @@ subType: exotic
 hmk:
   name: "Potion, Aphrodisiac, Great"
 data:
-  icon: sohl-none-icon-potion
+  icon: icon-potion
   templatePriority: null
 sohl:
   system:

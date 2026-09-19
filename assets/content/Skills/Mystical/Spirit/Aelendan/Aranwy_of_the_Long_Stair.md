@@ -11,7 +11,7 @@ name:
   aliases:
     - Aranwy of the Long Stair
 data:
-  icon: sohl-none-icon-psychicwaves
+  icon: icon-psychicwaves
   templatePriority: null
 sohl:
   system:

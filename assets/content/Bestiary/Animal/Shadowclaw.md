@@ -9,7 +9,7 @@ description: "A highly intelligent pack-hunting reptile up to twelve feet long, 
 shortcode: shdwclw
 type: being
 data:
-  icon: sohl-none-icon-person
+  icon: icon-person
   templatePriority: null
   archetypes: []
   occupation: null

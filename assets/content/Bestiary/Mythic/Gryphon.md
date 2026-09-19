@@ -10,7 +10,7 @@ description: "A three-hundred-pound eagle-lion predator of legend, lean and supr
 shortcode: gryphon
 type: being
 data:
-  icon: sohl-none-icon-griffinsymbol
+  icon: icon-griffinsymbol
   templatePriority: null
   archetypes: []
   occupation: null

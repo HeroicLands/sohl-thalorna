@@ -9,7 +9,7 @@ description: "A conscious storm elemental of tremendous power haunting high peak
 shortcode: thndrtln
 type: being
 data:
-  icon: sohl-none-icon-person
+  icon: icon-person
   templatePriority: null
   archetypes: []
   occupation: null

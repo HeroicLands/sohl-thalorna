@@ -9,7 +9,7 @@ description: "A subterranean apex predator up to a hundred feet long, using trem
 shortcode: sandwurm
 type: being
 data:
-  icon: sohl-none-icon-person
+  icon: icon-person
   templatePriority: null
   archetypes: []
   occupation: null

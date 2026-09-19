@@ -15,7 +15,7 @@ packFolder: ankarisnordlands
 shortcode: vgbrndrstnblt
 type: being
 data:
-  icon: sohl-none-icon-person
+  icon: icon-person
   templatePriority: null
   archetypes: []
   occupation: Perfumer

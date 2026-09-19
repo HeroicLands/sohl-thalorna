@@ -9,7 +9,7 @@ description: "A frail, cunning Grukar schemer who survives by never seeming a th
 shortcode: grkrsh
 type: being
 data:
-  icon: sohl-none-icon-person
+  icon: icon-person
   templatePriority: null
   archetypes: []
   occupation: null

@@ -9,7 +9,7 @@ description: "A draconic cliffside ambush predator perfectly adapted to vertical
 shortcode: crgclmbr
 type: being
 data:
-  icon: sohl-none-icon-person
+  icon: icon-person
   templatePriority: null
   archetypes: []
   occupation: null

@@ -9,7 +9,7 @@ description: "A massive, highly intelligent tusked megafauna often domesticated 
 shortcode: tnvrnelp
 type: being
 data:
-  icon: sohl-none-icon-person
+  icon: icon-person
   templatePriority: null
   archetypes: []
   occupation: null

@@ -18,7 +18,7 @@ packFolder: ankarisnordlands
 shortcode: vrgskrflbld
 type: being
 data:
-  icon: sohl-none-icon-person
+  icon: icon-person
   templatePriority: null
   archetypes: []
   occupation: Helspawn Warlord

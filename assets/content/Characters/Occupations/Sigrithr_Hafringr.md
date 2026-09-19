@@ -15,7 +15,7 @@ packFolder: ankarisnordlands
 shortcode: sgrthrhfrngr
 type: being
 data:
-  icon: sohl-none-icon-person
+  icon: icon-person
   templatePriority: null
   archetypes: []
   occupation: Man-at-Arms

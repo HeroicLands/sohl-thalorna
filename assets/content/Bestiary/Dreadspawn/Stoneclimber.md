@@ -9,7 +9,7 @@ description: "A patient, cunning apex predator of rocky highlands, perfectly ada
 shortcode: stnclmbr
 type: being
 data:
-  icon: sohl-none-icon-person
+  icon: icon-person
   templatePriority: null
   archetypes: []
   occupation: null

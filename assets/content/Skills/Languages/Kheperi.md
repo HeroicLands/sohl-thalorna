@@ -10,7 +10,7 @@ type: skill
 subType: language
 data:
   banner: takheperubnr
-  icon: sohl-none-icon-speaking
+  icon: icon-speaking
   templatePriority: null
 sohl:
   system:

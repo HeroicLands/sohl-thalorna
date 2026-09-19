@@ -9,7 +9,7 @@ description: "A tyrannical, fiercely territorial drake of harsh high peaks that 
 shortcode: smmtdrk
 type: being
 data:
-  icon: sohl-none-icon-person
+  icon: icon-person
   templatePriority: null
   archetypes: []
   occupation: null

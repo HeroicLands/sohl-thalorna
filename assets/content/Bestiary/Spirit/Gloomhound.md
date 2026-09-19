@@ -9,7 +9,7 @@ description: "A semi-corporeal shadow-realm predator that hunts in coordinated p
 shortcode: glmhnd
 type: being
 data:
-  icon: sohl-none-icon-person
+  icon: icon-person
   templatePriority: null
   archetypes: []
   occupation: null

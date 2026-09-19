@@ -8,7 +8,7 @@ description: "Confederation gold coin of the Bayt al-Khazînah; slightly underwe
 shortcode: haurion
 type: miscgear
 data:
-  icon: sohl-none-icon-coinsbdg
+  icon: icon-coinsbdg
   templatePriority: 0
 sohl:
   craft:

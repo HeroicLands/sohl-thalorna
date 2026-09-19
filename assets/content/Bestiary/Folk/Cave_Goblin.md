@@ -9,7 +9,7 @@ description: "A highly intelligent, amoral subterranean goblin living as solitar
 shortcode: cvgbln
 type: being
 data:
-  icon: sohl-none-icon-person
+  icon: icon-person
   templatePriority: null
   archetypes: []
   occupation: null

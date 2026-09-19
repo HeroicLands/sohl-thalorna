@@ -10,7 +10,7 @@ description: "A five-hundred-pound eagle-and-horse hybrid prized for balance ove
 shortcode: hppgryph
 type: being
 data:
-  icon: sohl-none-icon-griffinsymbol
+  icon: icon-griffinsymbol
   templatePriority: null
   archetypes: []
   occupation: null

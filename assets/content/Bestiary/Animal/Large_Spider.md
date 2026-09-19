@@ -9,7 +9,7 @@ description: "A dark-chitined arachnid with an eighteen-to-thirty-inch leg span,
 shortcode: lrgspdr
 type: being
 data:
-  icon: sohl-none-icon-person
+  icon: icon-person
   templatePriority: null
   archetypes: []
   occupation: null

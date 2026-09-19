@@ -9,7 +9,7 @@ description: "A rare being of solidified darkness and void-energy, gathering nea
 shortcode: voidmoth
 type: being
 data:
-  icon: sohl-none-icon-person
+  icon: icon-person
   templatePriority: null
   archetypes: []
   occupation: null

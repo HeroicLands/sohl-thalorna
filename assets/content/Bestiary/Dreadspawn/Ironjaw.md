@@ -9,7 +9,7 @@ description: "A metal-fused pack predator corrupted by dark magic that hunts mou
 shortcode: ironjaw
 type: being
 data:
-  icon: sohl-none-icon-person
+  icon: icon-person
   templatePriority: null
   archetypes: []
   occupation: null

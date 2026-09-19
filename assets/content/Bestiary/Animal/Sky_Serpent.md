@@ -9,7 +9,7 @@ description: "A serpentine aerial predator up to thirty feet long that glides fr
 shortcode: skysrpnt
 type: being
 data:
-  icon: sohl-none-icon-person
+  icon: icon-person
   templatePriority: null
   archetypes: []
   occupation: null

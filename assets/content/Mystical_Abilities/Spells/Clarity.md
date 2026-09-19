@@ -9,7 +9,7 @@ shortcode: clarity
 type: mysticalability
 subType: arcaneincantation
 data:
-  icon: sohl-none-icon-divination
+  icon: icon-divination
   templatePriority: null
 sohl:
   system:

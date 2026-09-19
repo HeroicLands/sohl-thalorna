@@ -7,7 +7,7 @@ description: "Straight broad double-edged blade for hacking; ranked warrior's sy
 shortcode: knda
 type: weapongear
 data:
-  icon: sohl-none-icon-sword
+  icon: icon-sword
   templatePriority: null
 sohl:
   kbcat: sword

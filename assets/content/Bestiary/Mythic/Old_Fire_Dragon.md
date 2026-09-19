@@ -11,7 +11,7 @@ description: "A millennium-old fire-breathing wyrm of ash and calamity, sapient 
 shortcode: oldfrdrg
 type: being
 data:
-  icon: sohl-none-icon-dragonheadft
+  icon: icon-dragonheadft
   templatePriority: null
   archetypes: []
   occupation: null

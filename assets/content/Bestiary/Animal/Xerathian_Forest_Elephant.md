@@ -9,7 +9,7 @@ description: "A smaller, elusive tropical-forest elephant that avoids humans and
 shortcode: xrthnfrs
 type: being
 data:
-  icon: sohl-none-icon-person
+  icon: icon-person
   templatePriority: null
   archetypes: []
   occupation: null

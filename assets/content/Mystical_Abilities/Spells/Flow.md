@@ -9,7 +9,7 @@ shortcode: flow
 type: mysticalability
 subType: arcaneincantation
 data:
-  icon: sohl-none-icon-tree
+  icon: icon-tree
   templatePriority: null
 sohl:
   system:

@@ -8,7 +8,7 @@ shortcode: thyron
 type: mystery
 subType: birthsign
 data:
-  icon: sohl-none-icon-astrology
+  icon: icon-astrology
   templatePriority: 0
 sohl:
   kbcat: birthsign

@@ -9,7 +9,7 @@ description: "The animated spirit of ancient magic-steeped plants, haunting old 
 shortcode: wrthblm
 type: being
 data:
-  icon: sohl-none-icon-person
+  icon: icon-person
   templatePriority: null
   archetypes: []
   occupation: null

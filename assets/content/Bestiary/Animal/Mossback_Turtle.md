@@ -9,7 +9,7 @@ description: "A ton-heavy reptile disguised as a rocky outcrop, its enormous dom
 shortcode: mssbcktr
 type: being
 data:
-  icon: sohl-none-icon-person
+  icon: icon-person
   templatePriority: null
   archetypes: []
   occupation: null

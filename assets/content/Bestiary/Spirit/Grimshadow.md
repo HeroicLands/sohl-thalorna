@@ -9,7 +9,7 @@ description: "An ancient malevolent spirit born of concentrated terror, anchored
 shortcode: grmshdw
 type: being
 data:
-  icon: sohl-none-icon-person
+  icon: icon-person
   templatePriority: null
   archetypes: []
   occupation: null

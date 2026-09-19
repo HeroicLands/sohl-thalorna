@@ -9,7 +9,7 @@ shortcode: whrlpl
 type: mysticalability
 subType: arcaneincantation
 data:
-  icon: sohl-none-icon-circle
+  icon: icon-circle
   templatePriority: null
 sohl:
   system:

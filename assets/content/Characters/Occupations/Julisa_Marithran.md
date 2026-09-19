@@ -16,7 +16,7 @@ packFolder: aureldiatarvenia
 shortcode: julsmrthrn
 type: being
 data:
-  icon: sohl-none-icon-person
+  icon: icon-person
   templatePriority: null
   archetypes: []
   occupation: Innkeeper

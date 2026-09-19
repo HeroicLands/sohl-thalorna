@@ -15,7 +15,7 @@ packFolder: aureldiaprovenzia
 shortcode: chlbrhydyn
 type: being
 data:
-  icon: sohl-none-icon-person
+  icon: icon-person
   templatePriority: null
   archetypes: []
   occupation: Hunter / Scout

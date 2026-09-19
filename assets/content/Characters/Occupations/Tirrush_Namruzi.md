@@ -15,7 +15,7 @@ packFolder: midhalionharad
 shortcode: tirushnmrz
 type: being
 data:
-  icon: sohl-none-icon-person
+  icon: icon-person
   templatePriority: null
   archetypes: []
   occupation: Glassworker

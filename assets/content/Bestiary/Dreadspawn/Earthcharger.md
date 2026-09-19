@@ -9,7 +9,7 @@ description: "A heavily armored cavern arthropod and living battering ram that b
 shortcode: erthchrg
 type: being
 data:
-  icon: sohl-none-icon-person
+  icon: icon-person
   templatePriority: null
   archetypes: []
   occupation: null

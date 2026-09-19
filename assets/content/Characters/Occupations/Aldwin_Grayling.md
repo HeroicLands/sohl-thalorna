@@ -15,7 +15,7 @@ packFolder: aureldiaaelwyth
 shortcode: aldwngrylng
 type: being
 data:
-  icon: sohl-none-icon-person
+  icon: icon-person
   templatePriority: null
   archetypes: []
   occupation: Beggar

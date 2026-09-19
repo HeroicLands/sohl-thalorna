@@ -9,7 +9,7 @@ description: "A powerfully built mountain herbivore and exceptional climber that
 shortcode: stoneram
 type: being
 data:
-  icon: sohl-none-icon-person
+  icon: icon-person
   templatePriority: null
   archetypes: []
   occupation: null

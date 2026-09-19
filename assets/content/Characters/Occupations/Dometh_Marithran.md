@@ -16,7 +16,7 @@ packFolder: aureldiatarvenia
 shortcode: dmthmrthrn
 type: being
 data:
-  icon: sohl-none-icon-person
+  icon: icon-person
   templatePriority: null
   archetypes: []
   occupation: Thespian

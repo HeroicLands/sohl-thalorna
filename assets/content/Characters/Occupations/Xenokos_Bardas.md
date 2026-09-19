@@ -15,7 +15,7 @@ packFolder: midhalionvylaria
 shortcode: xenoksbrds
 type: being
 data:
-  icon: sohl-none-icon-person
+  icon: icon-person
   templatePriority: null
   archetypes: []
   occupation: Town Guard

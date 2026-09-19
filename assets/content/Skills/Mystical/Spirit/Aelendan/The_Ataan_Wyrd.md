@@ -11,7 +11,7 @@ name:
   aliases:
     - The At'aan Wyrd
 data:
-  icon: sohl-none-icon-psychicwaves
+  icon: icon-psychicwaves
   templatePriority: null
 sohl:
   system:

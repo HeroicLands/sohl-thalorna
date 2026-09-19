@@ -9,7 +9,7 @@ description: "A small, blindingly fast light-magic predator that hunts nearly in
 shortcode: glssfng
 type: being
 data:
-  icon: sohl-none-icon-person
+  icon: icon-person
   templatePriority: null
   archetypes: []
   occupation: null

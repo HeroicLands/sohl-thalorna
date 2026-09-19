@@ -8,7 +8,7 @@ description: "Temple-attested silver weight-piece of one kite; the wage and mark
 shortcode: skite
 type: miscgear
 data:
-  icon: sohl-none-icon-coinsbdg
+  icon: icon-coinsbdg
   templatePriority: 0
 sohl:
   craft:

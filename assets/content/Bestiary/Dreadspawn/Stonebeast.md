@@ -9,7 +9,7 @@ description: "An ancient earth-and-stone guardian that lies dormant in caverns u
 shortcode: stnbst
 type: being
 data:
-  icon: sohl-none-icon-person
+  icon: icon-person
   templatePriority: null
   archetypes: []
   occupation: null

@@ -8,7 +8,7 @@ description: "Sealed bronze piece at kite weight; the smallest Kheperi denominat
 shortcode: ckite
 type: miscgear
 data:
-  icon: sohl-none-icon-coinsbdg
+  icon: icon-coinsbdg
   templatePriority: 0
 sohl:
   craft:

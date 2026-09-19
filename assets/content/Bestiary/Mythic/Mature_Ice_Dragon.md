@@ -10,7 +10,7 @@ description: "A patient apex ice dragon spanning thirty-six feet with fifty-foot
 shortcode: mtricdrg
 type: being
 data:
-  icon: sohl-none-icon-dragonheadft
+  icon: icon-dragonheadft
   templatePriority: null
   archetypes: []
   occupation: null

@@ -15,7 +15,7 @@ packFolder: midhalionharad
 shortcode: elimuashim
 type: being
 data:
-  icon: sohl-none-icon-person
+  icon: icon-person
   templatePriority: null
   archetypes: []
   occupation: Teamster

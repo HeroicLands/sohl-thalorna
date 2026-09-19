@@ -9,7 +9,7 @@ description: "A cunning fire elemental in animal form, combining a predator's ta
 shortcode: embrhnd
 type: being
 data:
-  icon: sohl-none-icon-person
+  icon: icon-person
   templatePriority: null
   archetypes: []
   occupation: null

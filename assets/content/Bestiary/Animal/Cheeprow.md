@@ -9,7 +9,7 @@ description: "A ten-inch creature of disarming cuteness that lures travelers wit
 shortcode: cheeprow
 type: being
 data:
-  icon: sohl-none-icon-person
+  icon: icon-person
   templatePriority: null
   archetypes: []
   occupation: null

@@ -9,7 +9,7 @@ description: "A bulky, six-foot nocturnal forager armored in razor-sharp quills,
 shortcode: gnthdghg
 type: being
 data:
-  icon: sohl-none-icon-person
+  icon: icon-person
   templatePriority: null
   archetypes: []
   occupation: null

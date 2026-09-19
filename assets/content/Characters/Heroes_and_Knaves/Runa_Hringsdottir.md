@@ -16,7 +16,7 @@ packFolder: ankarisnordlands
 shortcode: rnhrngsdtr
 type: being
 data:
-  icon: sohl-none-icon-person
+  icon: icon-person
   templatePriority: null
   archetypes: []
   occupation: Huscarl
@@ -98,7 +98,7 @@ sohl:
     - name: Quiver (leather)
       type: miscgear
       data:
-        icon: sohl-none-icon-quiver
+        icon: icon-quiver
       system:
         shortcode: quiver
         weight: 1

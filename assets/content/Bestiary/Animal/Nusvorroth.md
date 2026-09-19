@@ -9,7 +9,7 @@ description: "A giant flightless carrion bird ruling barren rocky wastes, savage
 shortcode: nsvrroth
 type: being
 data:
-  icon: sohl-none-icon-person
+  icon: icon-person
   templatePriority: null
   archetypes: []
   occupation: null

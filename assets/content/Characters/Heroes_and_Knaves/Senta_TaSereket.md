@@ -17,7 +17,7 @@ shortcode: sentatsrkt
 type: being
 data:
   banner: takheperubnr
-  icon: sohl-none-icon-person
+  icon: icon-person
   templatePriority: null
   archetypes: []
   occupation: Caravan Guard
@@ -98,7 +98,7 @@ sohl:
     - name: Quiver (leather, reinforced)
       type: miscgear
       data:
-        icon: sohl-none-icon-quiver
+        icon: icon-quiver
       system:
         shortcode: quiver
         weight: 1

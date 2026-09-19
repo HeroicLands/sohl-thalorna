@@ -9,7 +9,7 @@ description: "A towering six-foot apex Grukar warrior, strongest of its kind, so
 shortcode: grkrh
 type: being
 data:
-  icon: sohl-none-icon-person
+  icon: icon-person
   templatePriority: null
   archetypes: []
   occupation: null

@@ -8,7 +8,7 @@ description: "Imperial silver coin; the standard unit of account for ordinary co
 shortcode: argo
 type: miscgear
 data:
-  icon: sohl-none-icon-coinsbdg
+  icon: icon-coinsbdg
   templatePriority: 0
 sohl:
   craft:

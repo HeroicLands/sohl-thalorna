@@ -9,7 +9,7 @@ description: "An acid-bodied ambush predator of warm jungles and humid caves, bu
 shortcode: vnmspttr
 type: being
 data:
-  icon: sohl-none-icon-person
+  icon: icon-person
   templatePriority: null
   archetypes: []
   occupation: null

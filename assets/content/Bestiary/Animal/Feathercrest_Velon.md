@@ -9,7 +9,7 @@ description: "A four-foot iridescent-plumed pack predator of dense forests and r
 shortcode: fthrcrst
 type: being
 data:
-  icon: sohl-none-icon-person
+  icon: icon-person
   templatePriority: null
   archetypes: []
   occupation: null

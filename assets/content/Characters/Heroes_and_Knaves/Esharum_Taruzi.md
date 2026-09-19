@@ -15,7 +15,7 @@ shortcode: esharumtrz
 type: being
 data:
   banner: tamzirbnr
-  icon: sohl-none-icon-person
+  icon: icon-person
   templatePriority: null
   archetypes: []
   occupation: Ship Captain

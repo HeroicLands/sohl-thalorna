@@ -10,7 +10,7 @@ description: "A calculating apex fire dragon of three or four centuries, cruel a
 shortcode: mtrfrdrg
 type: being
 data:
-  icon: sohl-none-icon-dragonheadft
+  icon: icon-dragonheadft
   templatePriority: null
   archetypes: []
   occupation: null

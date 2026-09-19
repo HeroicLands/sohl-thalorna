@@ -9,7 +9,7 @@ description: "A massive solitary mountain feline built for vertical terrain and 
 shortcode: clffstlk
 type: being
 data:
-  icon: sohl-none-icon-person
+  icon: icon-person
   templatePriority: null
   archetypes: []
   occupation: null

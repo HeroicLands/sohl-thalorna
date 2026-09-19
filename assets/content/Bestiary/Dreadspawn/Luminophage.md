@@ -9,7 +9,7 @@ description: "A parasitic ceiling-dwelling predator of lightless depths that wea
 shortcode: lmnphg
 type: being
 data:
-  icon: sohl-none-icon-person
+  icon: icon-person
   templatePriority: null
   archetypes: []
   occupation: null

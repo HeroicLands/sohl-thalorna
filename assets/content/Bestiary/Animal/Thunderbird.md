@@ -9,7 +9,7 @@ description: "An enormous apex aerial predator with a sixty-to-eighty-foot wings
 shortcode: thndrbrd
 type: being
 data:
-  icon: sohl-none-icon-person
+  icon: icon-person
   templatePriority: null
   archetypes: []
   occupation: null

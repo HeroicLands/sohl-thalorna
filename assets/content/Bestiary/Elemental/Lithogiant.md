@@ -9,7 +9,7 @@ description: "A titanic earth elemental that wanders mountain ranges by inscruta
 shortcode: lthgnt
 type: being
 data:
-  icon: sohl-none-icon-person
+  icon: icon-person
   templatePriority: null
   archetypes: []
   occupation: null

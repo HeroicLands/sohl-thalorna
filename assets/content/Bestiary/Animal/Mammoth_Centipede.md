@@ -9,7 +9,7 @@ description: "A glossy, dark-plated arthropod up to eight feet long, its many-le
 shortcode: mmmthcnt
 type: being
 data:
-  icon: sohl-none-icon-person
+  icon: icon-person
   templatePriority: null
   archetypes: []
   occupation: null

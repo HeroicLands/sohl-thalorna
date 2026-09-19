@@ -15,7 +15,7 @@ packFolder: helladhelionis
 shortcode: talirbshrn
 type: being
 data:
-  icon: sohl-none-icon-person
+  icon: icon-person
   templatePriority: null
   archetypes: []
   occupation: Alchemist

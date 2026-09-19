@@ -17,7 +17,7 @@ packFolder: ankarisnordlands
 shortcode: hlgyshdwlkr
 type: being
 data:
-  icon: sohl-none-icon-person
+  icon: icon-person
   templatePriority: null
   archetypes: []
   occupation: Thief and Spy

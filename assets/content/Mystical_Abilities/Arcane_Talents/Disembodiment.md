@@ -7,7 +7,7 @@ shortcode: dsbd
 type: mysticalability
 subType: arcanetalent
 data:
-  icon: sohl-none-icon-psionics
+  icon: icon-psionics
   templatePriority: null
 sohl:
   system:

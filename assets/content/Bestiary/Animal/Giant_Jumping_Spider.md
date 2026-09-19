@@ -9,7 +9,7 @@ description: "A foot-wide arachnid and active ambush hunter that stalks and poun
 shortcode: gntjmpng
 type: being
 data:
-  icon: sohl-none-icon-person
+  icon: icon-person
   templatePriority: null
   archetypes: []
   occupation: null

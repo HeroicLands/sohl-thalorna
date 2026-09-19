@@ -9,7 +9,7 @@ description: "A massive, supernaturally intelligent amphibian that ambushes prey
 shortcode: swmpstrd
 type: being
 data:
-  icon: sohl-none-icon-person
+  icon: icon-person
   templatePriority: null
   archetypes: []
   occupation: null

@@ -9,7 +9,7 @@ description: "A massive venomous desert arthropod that rules its dune-fields wit
 shortcode: duneclaw
 type: being
 data:
-  icon: sohl-none-icon-person
+  icon: icon-person
   templatePriority: null
   archetypes: []
   occupation: null

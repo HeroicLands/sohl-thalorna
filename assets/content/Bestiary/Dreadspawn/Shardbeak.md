@@ -9,7 +9,7 @@ description: "A crystalline arcane bird drawn to nodes of raw magical power, fee
 shortcode: shrdbk
 type: being
 data:
-  icon: sohl-none-icon-person
+  icon: icon-person
   templatePriority: null
   archetypes: []
   occupation: null
