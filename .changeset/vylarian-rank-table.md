@@ -1,5 +1,5 @@
 ---
-"thalorna": minor
+"thalorna": patch
 ---
 
 **The Vylarian rank ladder reads as a table.** The two-track command structure

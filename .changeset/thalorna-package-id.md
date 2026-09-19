@@ -1,5 +1,5 @@
 ---
-"thalorna": minor
+"thalorna": patch
 ---
 
 **Installing and running**
