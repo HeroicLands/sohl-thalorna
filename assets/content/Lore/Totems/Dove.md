@@ -13,7 +13,7 @@ shortcode: dovettm
 packFolder: loretotems
 data:
   banner: creaturebnr
-  icon: dove
+  icon: dovetotem
 ---
 
 Gentle and peaceful, instinctively seeking harmony and companionship, often displaying strong pair bonding and a calming presence in their surroundings.

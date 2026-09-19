@@ -13,7 +13,7 @@ shortcode: boarttm
 packFolder: loretotems
 data:
   banner: creaturebnr
-  icon: boar
+  icon: boartotem
 ---
 
 Willful and stubborn, boars are highly determined and will fight vigorously when provoked, relying on their strength and tenacity.

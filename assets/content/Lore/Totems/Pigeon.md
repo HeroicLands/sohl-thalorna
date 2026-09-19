@@ -13,7 +13,7 @@ shortcode: pigeonttm
 packFolder: loretotems
 data:
   banner: creaturebnr
-  icon: pigeon
+  icon: pigeontotem
 ---
 
 Loyal and routine-oriented, pigeons are known for their strong homing instincts, often returning to the same location repeatedly with remarkable accuracy.

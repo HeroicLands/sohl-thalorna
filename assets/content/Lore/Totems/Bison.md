@@ -13,7 +13,7 @@ shortcode: bisonttm
 packFolder: loretotems
 data:
   banner: creaturebnr
-  icon: bison
+  icon: bisontotem
 ---
 
 Stoic and protective, bison form strong herd bonds and will fiercely defend their young and territory from any threats.

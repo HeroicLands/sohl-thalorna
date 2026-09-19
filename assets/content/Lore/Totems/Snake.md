@@ -13,7 +13,7 @@ shortcode: snakettm
 packFolder: loretotems
 data:
   banner: creaturebnr
-  icon: snake
+  icon: snaketotem
 ---
 
 Silent and patient, snakes are stealthy hunters that rely on ambush tactics, waiting motionless for the perfect moment to strike their prey.
