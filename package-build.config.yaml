@@ -42,11 +42,10 @@ packs:
     - { name: actors, label: Actors, type: Actor }
 
 publish:
-    # `content`: this package publishes its homepage *and* every page its
-    # content tree compiles to. The other mode, `homepage`, fences the content
-    # surfaces off entirely — it is what `sohl-kethira-basic` and
-    # `harn-adventures` publish under, where shipping a content page would
-    # breach the terms the material is licensed on.
+    # `content`: the homepage *and* every page the content tree compiles to.
+    # `homepage` fences the content surfaces off, which is what a package whose
+    # licence forbids publishing its material needs. This setting is original
+    # work, so it publishes in full.
     site: content
     # Where the content tree mounts inside the package, read by both `manifest`
     # and the site build so the address a manifest publishes is the address a
