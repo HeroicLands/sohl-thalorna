@@ -1,0 +1,270 @@
+# thalorna
+
+## 0.0.2
+
+### Patch Changes
+
+- c350435: **Setting artwork loads on the website.** Every icon and portrait a note names
+  is now addressed by the package that ships it, so a page serves the picture
+  from the shared artwork host instead of asking for a file that is not there.
+  Weapons, beings, skills, mystical abilities and faiths all pick up their
+  artwork; the same names still resolve to the right files in Foundry and in the
+  sourcebook.
+
+  **Weapon pages print their strike modes.** A weapon's panel carries its heft
+  beside weight, price and durability, and lists each strike mode with its
+  attack modifier, impact and length. Beings' panels read from the same
+  renderer, so a creature's attributes, skills and mystical abilities sit
+  together in one box, and a system with nothing to say says so rather than
+  showing an empty panel.
+
+- 59f670e: **Beings**
+
+  - A being's portrait now sits in the page itself, at the head of the entry, on
+    every being whose likeness has been drawn. It carries the being's name as its
+    caption.
+  - Every being in the Characters collection is tagged `character` and every being
+    in the Bestiary is tagged `creature`, so the people and the beasts can be
+    browsed apart.
+
+- b46ce42: **Content Changes**
+
+  - Bestiary creatures no longer carry a stale template-priority flag alongside
+    the one that actually governs them. Creatures never offer themselves as a
+    starting-character template in the Foundry Create dialog; that was already
+    true, and now the notes say so consistently instead of contradicting
+    themselves.
+
+- b19d88f: **Content Changes**
+
+  - Aelwyth becomes a place with politics: Its four realms get real populations
+    and real societies, and the island gets twelve new regions and features, its
+    settlements written out.
+  - Grukar infest the uninhabited interior of Aelwyth.
+  - The Kingdom of Aelwyth was an Elder Races reconciliation, and the
+    _Battle of Three Sisters_ in 1984 BF is where it died with the Sinalë king.
+  - Numerous named places, people, and lore that existed only as prose now have
+    individual entries.
+  - The deep prehistory has been enhanced, including:
+    - **Khazártúrn** — the Khazári city also known as the _Valley of Seven Towers_.
+    - The **Varkhad**, whose attacks initiated the _Pelwar Migrations_ to both Aelwyth
+      and all across western Ankaris.
+  - Ta'Kheperu massively enhanced, including all new regions and polities,
+    characters, and lore notes regarding Ta'Kheperu society.
+  - Rewrite of many religions to update correct hierarchies and beliefs, including
+    10 new Itzáni gods and the First Gods, as well as spirit traditions for
+    the Nyáluba, the Old Way, and Okháris.
+  - Provènzia, Élavendre and other northwestern Ankaris places and institutions have
+    expanded notes.
+
+  **Asset Changes**
+
+  - Shipped new original portrait images and icons
+
+- 138cbf8: **Content tables are now written in SQL.**
+
+  All 65 tables across 34 notes move from Dataview's query language to **SQL, run
+  by DuckDB over the content index** — the language package-build is standardising
+  on. Nothing about how a table is authored changes: it is still a fenced block in
+  the note, answered at build time, rendered into the journal and the page.
+
+  Most tables emit exactly what they emitted before. Four publish better material,
+  because SQL refuses a field no note carries where Dataview quietly rendered an
+  em-dash:
+
+  | Table                                 | Before                             | After                                       |
+  | ------------------------------------- | ---------------------------------- | ------------------------------------------- |
+  | The six bestiary tables               | Weight and BodyScale were `—`      | the values the notes declare                |
+  | Hex Hodai incantations                | Level was `—`, rows sorted by name | the incantation's level, sorted by it       |
+  | Heroes and Knaves · Heroes of Asguard | Realm and Occupation were `—`      | Occupation; Realm dropped — no note has one |
+  | Pantheons, on _The World of Thalorna_ | 32 rows, 15 of them rituals        | the 17 actual pantheons                     |
+
+  The Pantheons table is the one place rows disappear. Dataview's `contains`
+  matches a substring, so a note tagged `celestial-pantheon` — every _Ritual:_
+  note — answered a query asking for `pantheon`. SQL matches the tag itself.
+
+  Row order is unchanged. SQL collates binary where the old evaluator folded
+  case, so a table sorted by a name asks for `COLLATE NOCASE` — which is what keeps
+  `The Order of the Ashen Vow` ahead of `The Order of Týr's Justice`.
+
+- 6e3bb20: **Content Changes**
+
+  - Money you can actually carry: the Kheperian gold, silver and copper deben and
+    kite, the Vylarian Aurion, Argentus and Octus, and the Haradian coins struck
+    against them are all items now, priced so a purse can be counted.
+  - The Kheperian gold and silver pieces are worth the metal in them, as
+    temple-attested weight-pieces should be. The copper pieces are worth what the
+    temple seal says instead — melting one down returns less than half its face,
+    which is what keeps small change in circulation and the Pér-Háti in business.
+  - The Haradian Aurion carries its seven per cent of missing gold, so it passes
+    at home and converts at a discount at the border.
+
+- 0123127: **Content Changes**
+
+  - Bestiary notes now state a being's default combat group in one place rather
+    than two. The compiled packs are unchanged.
+
+- e2bc89e: **Faiths and orders wear their own emblems.** An affiliation whose badge this
+  setting draws now carries it on the page and in Foundry, in place of the plain
+  mark its kind falls back to. The Asguardian, Aureldian and Hex Hodai traditions
+  all pick theirs up.
+- aff812c: **The emphatic k is written q, the way most romanisations write it**
+
+  Two language notes spelled the emphatic/uvular k as `ḳ` — k with a dot below —
+  once each, in the same list of emphatic consonants:
+
+  | Note    | Was                                                     | Now                                                     |
+  | ------- | ------------------------------------------------------- | ------------------------------------------------------- |
+  | Kheperi | `Emphatic (pharyngealized): ṭ, ḍ, ḳ`                    | `Emphatic (pharyngealized): ṭ, ḍ, q`                    |
+  | Bethuan | `**Emphatics** (ṭ, ḍ, ḳ) collapse into plain _t, d, k_` | `**Emphatics** (ṭ, ḍ, q) collapse into plain _t, d, k_` |
+
+  Semitic romanisation writes this sound either way, and `q` is both the commoner
+  choice and pure ASCII. It also agrees better with what the Kheperi note already
+  says about it — `q` _is_ the uvular stop, and the line describes the sound as
+  "marked acoustically by uvular constriction".
+
+  `ṭ` and `ḍ`, its companions in both lists, are unchanged: they are carried by
+  essentially every book face, and `ḳ` was carried by almost none. Of the
+  thirty-nine OFL text faces probed over the whole corpus, this letter and the
+  `ṁ` respelled alongside it were the only two characters standing between the
+  tree and a wide choice of faces — together they take the number of faces that
+  can set this corpus from **eleven to twenty-one**, adding Literata, Spectral,
+  Vollkorn, Source Serif 4, Crimson Pro, Piazzolla, Bitter, Petrona, Alegreya and
+  Cormorant Garamond.
+
+  The phonology says what it said before, and the tree now contains no `ḳ`.
+
+- c20adb0: **The romanisation rules stop breaking themselves**
+
+  The table setting out which letters Nordmal never writes listed those letters by
+  printing them, so the note stating that thorn, eth and ash have no place in the
+  content was the one place they still appeared — and any check enforcing the rule
+  would have failed on the rule. They are named now instead of shown, which also
+  reads better for anyone who has never met the word _thorn_ as a letter. The same
+  went for an o-ogonek used as an example in the lore note.
+
+  No name or word changes. The tree now holds none of these letters at all.
+
+- 49b92b3: **Saṃgha is spelled the way the transliteration standard spells it**
+
+  The city-state of Saṃgha was written with `ṁ` — m with a dot _above_ — in the
+  three places it appears. The IAST convention that the surrounding Vedyaran names
+  already follow (Dhanurvedakīrtirāja, Ādānaśreṇī) renders anusvāra as `ṃ`, m with
+  a dot _below_, so the name was the one word in its own neighbourhood using a
+  different system.
+
+  It also widens what the tree can be printed in. Of thirty-nine OFL text faces
+  probed over the whole corpus, the dot-above `ṁ` is carried by **three**; the
+  dot-below `ṃ` is carried by **every one of them**. Nine otherwise-complete book
+  faces — among them Literata, Spectral, Vollkorn and Source Serif 4 — were
+  disqualified by this one character and are now available. With `ḳ` respelled
+  alongside it, the number of faces that can set this corpus goes from **eleven to
+  twenty-one**.
+
+  No other note used the letter. The name reads and sorts as it did.
+
+- e63f648: **Every name can now be found by typing it**
+
+  Names in Thalorna carried letters that no search box can reach. A search that
+  folds accents normalises to NFD and drops combining marks, which quietly handles
+  _â_ — it is an _a_ wearing a circumflex, so typing `harn` finds Hârn with nobody
+  arranging it. Thorn, eth and ash are not accented letters. They are letters in
+  their own right with no plain letter inside them to reduce to, so typing `thorr`
+  could never reach a name spelled with a thorn, and position made it worse:
+  _Skjaldmær_ at least answered a `skjaldm` prefix, while _Þórr_ failed on the
+  first keystroke.
+
+  Those letters are now written out. Accents stay throughout, because they cost a
+  reader nothing:
+
+  | sound                         | now           | was |
+  | ----------------------------- | ------------- | --- |
+  | voiceless dental fricative    | `th`          | þ   |
+  | its merged voiced counterpart | `d`           | ð   |
+  | the low front vowel           | `ae`          | æ   |
+  | the rounded back vowel        | `ö`           | ǫ   |
+  | long vowels                   | `á é í ó ú ý` | —   |
+
+  So Óðinn is **Ódinn**, Þórr is **Thórr**, Skjaldmær is **Skjaldmaer**, and
+  _seiðr_ is _seidr_. O-ogonek folds correctly but is missing from two of the three
+  faces the system ships, so it becomes o-umlaut and stops falling back mid-word in
+  sheet headers.
+
+  The northern assembly is the one word that does not take `th`: spelled that way
+  it becomes _thing_, an ordinary English noun with some 2,800 uses already in the
+  tree, and the word would never be found again. It is the **ting**.
+
+  Two names contradicted the tree rather than the rule, and follow it now —
+  Asgarthul is **Asgardul**, since the element is `gard` in Asgard, Midgard,
+  Valgard and Isgard; and Blóth is **Blód**, since blood is `blod` in Blodtusc and
+  its own note calls it the Place of Blood-Sacrifice. Blóthöll keeps its `th`,
+  which is a seam between two words rather than one sound, and Vithgard keeps its
+  own — it was always plain ASCII and passes untouched.
+
+  Filenames were reduced by the same broken rule, which deleted what it could not
+  decompose: Óðinn sat on disk as `Oinn.md` and Æthería as `theria.md`, a file that
+  sorted under _t_ and began mid-word. They transliterate now, along with 27 paths
+  that had never been folded to ASCII at all.
+
+  Nothing that identifies a document moved. Shortcodes, addresses, pack folders and
+  `home:` references are unchanged, so saved data and cross-package links resolve
+  exactly as before. The rule itself is written down, in a **Romanising Nordmal**
+  section in the language note and a **Romanising Thalorna** section in the lore
+  note, so the next name gets it right without anyone re-deriving it.
+
+- 943f33c: **Content Changes**
+
+  - Pages no longer repeat their own title in the body. A note that opened with
+    a heading restating its name had that heading removed; the site already
+    renders the name once, as the page title.
+  - Creature and NPC dossier pages carry their section headings — **Appearance**,
+    **Dossier**, and everything beneath them — at their proper level below the
+    page title, instead of competing with it as a second title of their own.
+
+- 6415a61: **This package moves to `@heroiclands/package-build@^21.2.0`.**
+
+  Artwork is addressed by the package that ships it, so every icon and portrait a
+  note names reaches the website, the sourcebook and the compendium packs, and a
+  note can place a picture in its prose where the text calls for one. The
+  sourcebook carries its own typefaces rather than relying on what the reader's
+  machine happens to have.
+
+- 16a10a4: **Compatible with SoHL 0.8.6.** The packs compile against that release, whose
+  content index publishes an address for every icon and picture the system ships.
+  Skills, weapons, mystical abilities, affiliations and beings all reach the
+  artwork their notes name, and a being with no portrait of its own takes the
+  system's character head.
+- 5c507a7: **The module points at its own page.** Foundry's package browser links to
+  `https://www.heroiclands.org/thalorna/`, which says what the setting is and how
+  to install it, rather than to the source tree. Bug reports and updates address
+  the repository under its own name.
+- 9c51b89: **The World of Thalorna now builds as a PDF sourcebook**, alongside the
+  compendium packs and the website. `npm run build:book` produces it: a
+  selection of the setting, arranged as Lore, Places, Affiliations, Beings,
+  Skills, Mystical Abilities, Mysteries, Concoctions, Weapons, Scenarios and
+  Reference, each printed with a table of contents.
+- 935768e: **Installing and running**
+
+  - The module installs as **`thalorna`**. Its world folder, its compendium references and the paths to its artwork all carry that name.
+  - The setting stands on its own: install it under Song of Heroic Lands, HârnMaster or any other system and its journals, scenes and macros are readable.
+
+- 9cd2f89: **The sturgeon totem's full description now appears in the PDF sourcebook**
+
+  The sturgeon entry in the totem descriptions carried its animal ideal,
+  description, positive and negative traits, and major disorder as raw HTML
+  rather than plain text. The compendium packs and the website rendered it
+  fine, but the PDF sourcebook does not understand HTML, so a reader there saw
+  only the entry's name and minor trait — the rest of the totem was simply
+  missing from the page. The same content now renders everywhere.
+
+- 84f758b: **Artwork**
+
+  - Every icon the setting uses now ships inside the module, so spells, weapons, skills and beings show their art whatever system a world runs under.
+  - Each icon carries its artist, source and licence alongside it.
+
+- ad093ef: **The Vylarian rank ladder reads as a table.** The two-track command structure
+  was drawn with line characters sized for a wide screen, so in the sourcebook's
+  columns the rules ran past their labels and ranks broke across lines. It is now
+  a table: every rank in order of seniority with its gloss, which track it belongs
+  to, and the one post a soldier reaches from either track.
+- b5cefbc: **Fixed broken wikilinks.** Display text that wrapped across a line break in the source was never recognized as a wikilink, surviving verbatim into compiled journal text. Joined wrapped lines in three locations: the Gulf of Batáren, Nyáluba Tribal Nation, and Ordo Arcanis. Added a missing wikilink to Brunjár Skathhelm in The Blackpine Wolves so his reference matches the other members of the gang.
