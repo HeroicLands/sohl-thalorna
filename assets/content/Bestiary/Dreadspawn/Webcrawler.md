@@ -9,7 +9,7 @@ description: "A supremely cunning spider of dark caverns and ruins that spreads 
 shortcode: wbcrwlr
 type: being
 data:
-  icon: sohl-none-icon-person
+  icon: icon-person
   templatePriority: null
   archetypes: []
   occupation: null

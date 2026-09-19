@@ -7,7 +7,7 @@ description: "Needle-pointed dart punches mail and plate; duelist's finishing st
 shortcode: kel
 type: weapongear
 data:
-  icon: sohl-none-icon-broaddagger
+  icon: icon-broaddagger
   templatePriority: null
 sohl:
   kbcat: knife

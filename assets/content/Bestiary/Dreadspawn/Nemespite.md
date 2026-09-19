@@ -9,7 +9,7 @@ description: "An intelligent, venomous insectoid predator that hunts in coordina
 shortcode: nmspt
 type: being
 data:
-  icon: sohl-none-icon-person
+  icon: icon-person
   templatePriority: null
   archetypes: []
   occupation: null

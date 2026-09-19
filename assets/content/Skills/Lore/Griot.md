@@ -11,7 +11,7 @@ name:
     - Griot Tradition
     - Keeper of Memory
 data:
-  icon: sohl-none-icon-unicorn
+  icon: icon-unicorn
   templatePriority: null
 sohl:
   system:

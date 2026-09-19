@@ -9,7 +9,7 @@ description: "A corrupted rodent-thing that hunts deep caverns in hive-minded pa
 shortcode: glmfng
 type: being
 data:
-  icon: sohl-none-icon-person
+  icon: icon-person
   templatePriority: null
   archetypes: []
   occupation: null

@@ -9,7 +9,7 @@ description: "A titanic elemental of glacial destruction that lingers in frozen 
 shortcode: frostmaw
 type: being
 data:
-  icon: sohl-none-icon-person
+  icon: icon-person
   templatePriority: null
   archetypes: []
   occupation: null

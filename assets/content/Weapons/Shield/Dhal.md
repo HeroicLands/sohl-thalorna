@@ -7,7 +7,7 @@ description: "Brass-bossed circular shield; Damascus prestige and practical defl
 shortcode: dhal
 type: weapongear
 data:
-  icon: sohl-none-icon-roundshield
+  icon: icon-roundshield
   templatePriority: null
 sohl:
   kbcat: shield

@@ -15,7 +15,7 @@ packFolder: midhalionvylaria
 shortcode: mthrksgrznds
 type: being
 data:
-  icon: sohl-none-icon-person
+  icon: icon-person
   templatePriority: null
   archetypes: []
   occupation: Jester

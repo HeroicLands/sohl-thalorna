@@ -9,7 +9,7 @@ description: "A small, pack-coordinated cave predator with an eight-foot wingspa
 shortcode: scrchbt
 type: being
 data:
-  icon: sohl-none-icon-person
+  icon: icon-person
   templatePriority: null
   archetypes: []
   occupation: null

@@ -9,7 +9,7 @@ description: "The intelligent undead—vampires, dread-priests, and sorcerer-emp
 shortcode: nghtwght
 type: being
 data:
-  icon: sohl-none-icon-person
+  icon: icon-person
   templatePriority: null
   archetypes: []
   occupation: null

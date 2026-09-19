@@ -9,7 +9,7 @@ description: "The lonely, searching spirit of a creature that died far from home
 shortcode: phntmwng
 type: being
 data:
-  icon: sohl-none-icon-person
+  icon: icon-person
   templatePriority: null
   archetypes: []
   occupation: null

@@ -9,7 +9,7 @@ description: "A slow-witted but devastating cavern apex predator that hunts in a
 shortcode: cvtrll
 type: being
 data:
-  icon: sohl-none-icon-person
+  icon: icon-person
   templatePriority: null
   archetypes: []
   occupation: null

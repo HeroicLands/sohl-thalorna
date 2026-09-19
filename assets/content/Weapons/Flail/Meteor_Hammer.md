@@ -7,7 +7,7 @@ description: "Rope-weighted iron ball whirled; master's devastating entangling r
 shortcode: mtrhmr
 type: weapongear
 data:
-  icon: sohl-none-icon-bolas
+  icon: icon-bolas
   templatePriority: null
 sohl:
   kbcat: thrown

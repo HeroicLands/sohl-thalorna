@@ -16,7 +16,7 @@ packFolder: midhalionvylaria
 shortcode: phltsklfts
 type: being
 data:
-  icon: sohl-none-icon-person
+  icon: icon-person
   templatePriority: null
   archetypes: []
   occupation: Scholar

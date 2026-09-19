@@ -9,7 +9,7 @@ description: "A predatory ooze from toxic marshes and deep caverns that lurks ca
 shortcode: abysslsl
 type: being
 data:
-  icon: sohl-none-icon-person
+  icon: icon-person
   templatePriority: null
   archetypes: []
   occupation: null

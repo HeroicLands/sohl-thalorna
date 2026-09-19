@@ -9,7 +9,7 @@ description: "A predator of ice and deep cold given animal form, pursuing prey r
 shortcode: frostjaw
 type: being
 data:
-  icon: sohl-none-icon-person
+  icon: icon-person
   templatePriority: null
   archetypes: []
   occupation: null

@@ -9,7 +9,7 @@ description: "A lean, granite-scaled reptilian predator up to eight feet long, s
 shortcode: mntndrk
 type: being
 data:
-  icon: sohl-none-icon-person
+  icon: icon-person
   templatePriority: null
   archetypes: []
   occupation: null

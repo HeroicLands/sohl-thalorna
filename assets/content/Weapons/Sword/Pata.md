@@ -7,7 +7,7 @@ description: "Blade-fixed gauntlet for armored straight-arm thrust; duelist's sw
 shortcode: pata
 type: weapongear
 data:
-  icon: sohl-none-icon-sword
+  icon: icon-sword
   templatePriority: null
 sohl:
   kbcat: sword

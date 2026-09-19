@@ -9,7 +9,7 @@ description: "A mountain-nesting bird of prey with a hundred-foot wingspan and b
 shortcode: roc
 type: being
 data:
-  icon: sohl-none-icon-person
+  icon: icon-person
   templatePriority: null
   archetypes: []
   occupation: null

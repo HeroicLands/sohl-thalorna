@@ -16,7 +16,7 @@ packFolder: ankarisnordlands
 shortcode: sifhildsbn
 type: being
 data:
-  icon: sohl-none-icon-person
+  icon: icon-person
   templatePriority: null
   archetypes: []
   occupation: Sailor and Warrior

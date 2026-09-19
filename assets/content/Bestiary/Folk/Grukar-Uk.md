@@ -9,7 +9,7 @@ description: "A small, dull, lazy Grukar drone forming the teeming bulk of any t
 shortcode: grukaruk
 type: being
 data:
-  icon: sohl-none-icon-person
+  icon: icon-person
   templatePriority: null
   archetypes: []
   occupation: null

@@ -9,7 +9,7 @@ description: "An arrogant elemental of sky and lightning born from violent storm
 shortcode: strmsr
 type: being
 data:
-  icon: sohl-none-icon-person
+  icon: icon-person
   templatePriority: null
   archetypes: []
   occupation: null

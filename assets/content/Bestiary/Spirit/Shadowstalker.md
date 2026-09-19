@@ -9,7 +9,7 @@ description: "A tactical spirit-realm assassin born of murder, moving unseen and
 shortcode: shdwstlk
 type: being
 data:
-  icon: sohl-none-icon-person
+  icon: icon-person
   templatePriority: null
   archetypes: []
   occupation: null

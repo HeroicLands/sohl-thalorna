@@ -16,7 +16,7 @@ packFolder: northernfertileregionokharis
 shortcode: eshewamagr
 type: being
 data:
-  icon: sohl-none-icon-person
+  icon: icon-person
   templatePriority: null
   archetypes: []
   occupation: Swordmaster

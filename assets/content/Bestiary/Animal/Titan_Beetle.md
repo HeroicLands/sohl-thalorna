@@ -9,7 +9,7 @@ description: "A massive armored herbivorous beetle several feet long that fierce
 shortcode: ttnbtl
 type: being
 data:
-  icon: sohl-none-icon-person
+  icon: icon-person
   templatePriority: null
   archetypes: []
   occupation: null

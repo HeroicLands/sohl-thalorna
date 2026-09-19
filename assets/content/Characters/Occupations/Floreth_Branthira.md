@@ -15,7 +15,7 @@ packFolder: aureldiatarvenia
 shortcode: flrthbrnthr
 type: being
 data:
-  icon: sohl-none-icon-person
+  icon: icon-person
   templatePriority: null
   archetypes: []
   occupation: Labourer (semi-skilled)

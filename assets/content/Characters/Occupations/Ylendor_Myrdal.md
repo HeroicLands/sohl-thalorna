@@ -16,7 +16,7 @@ packFolder: aureldiaprovenzia
 shortcode: ylndrmyrdl
 type: being
 data:
-  icon: sohl-none-icon-person
+  icon: icon-person
   templatePriority: null
   archetypes: []
   occupation: Astrologer

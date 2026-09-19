@@ -8,7 +8,7 @@ description: "Temple-attested gold weight-piece of one kite, a tenth of a deben.
 shortcode: gkite
 type: miscgear
 data:
-  icon: sohl-none-icon-coinsbdg
+  icon: icon-coinsbdg
   templatePriority: 0
 sohl:
   craft:

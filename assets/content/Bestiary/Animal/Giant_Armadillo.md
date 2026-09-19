@@ -9,7 +9,7 @@ description: "A solitary armored mammal exceeding twelve feet, a living fortress
 shortcode: gntarmdl
 type: being
 data:
-  icon: sohl-none-icon-person
+  icon: icon-person
   templatePriority: null
   archetypes: []
   occupation: null

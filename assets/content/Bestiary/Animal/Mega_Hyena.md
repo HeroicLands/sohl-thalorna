@@ -9,7 +9,7 @@ description: "A colossal four-foot-tall hyena built for bone-crushing bite force
 shortcode: mghyn
 type: being
 data:
-  icon: sohl-none-icon-person
+  icon: icon-person
   templatePriority: null
   archetypes: []
   occupation: null

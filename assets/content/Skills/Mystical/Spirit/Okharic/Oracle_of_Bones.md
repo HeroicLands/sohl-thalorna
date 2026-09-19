@@ -11,7 +11,7 @@ name:
   aliases:
     - The Reader in the Yánda Maláika
 data:
-  icon: sohl-none-icon-psychicwaves
+  icon: icon-psychicwaves
   templatePriority: null
 sohl:
   system:

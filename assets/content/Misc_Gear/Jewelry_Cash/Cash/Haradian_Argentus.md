@@ -8,7 +8,7 @@ description: "Confederation silver coin struck to the full imperial standard; pa
 shortcode: hargo
 type: miscgear
 data:
-  icon: sohl-none-icon-coinsbdg
+  icon: icon-coinsbdg
   templatePriority: 0
 sohl:
   craft:

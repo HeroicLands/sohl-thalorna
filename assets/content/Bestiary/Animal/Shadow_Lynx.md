@@ -9,7 +9,7 @@ description: "A solitary nocturnal ambush cat of deep forests, built for stealth
 shortcode: shdwlynx
 type: being
 data:
-  icon: sohl-none-icon-person
+  icon: icon-person
   templatePriority: null
   archetypes: []
   occupation: null

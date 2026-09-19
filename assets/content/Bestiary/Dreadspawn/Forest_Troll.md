@@ -9,7 +9,7 @@ description: "A massive woodland apex predator born of primal earth-magic that m
 shortcode: frsttrll
 type: being
 data:
-  icon: sohl-none-icon-person
+  icon: icon-person
   templatePriority: null
   archetypes: []
   occupation: null

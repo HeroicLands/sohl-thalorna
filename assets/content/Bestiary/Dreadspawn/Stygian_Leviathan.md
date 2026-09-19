@@ -9,7 +9,7 @@ description: "An elder aquatic predator of lightless subterranean seas whose ind
 shortcode: stygnlvt
 type: being
 data:
-  icon: sohl-none-icon-person
+  icon: icon-person
   templatePriority: null
   archetypes: []
   occupation: null

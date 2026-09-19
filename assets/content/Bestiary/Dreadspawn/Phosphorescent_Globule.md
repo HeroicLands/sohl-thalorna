@@ -9,7 +9,7 @@ description: "A cunning predatory ooze of lightless caves that lures prey with d
 shortcode: phsphrsc
 type: being
 data:
-  icon: sohl-none-icon-person
+  icon: icon-person
   templatePriority: null
   archetypes: []
   occupation: null

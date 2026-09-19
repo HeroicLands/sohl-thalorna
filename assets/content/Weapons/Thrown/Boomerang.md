@@ -7,7 +7,7 @@ description: "Curved throwing-stick breaks fleeing game; war-variant non-returni
 shortcode: bmrg
 type: weapongear
 data:
-  icon: sohl-none-icon-boomerang
+  icon: icon-boomerang
   templatePriority: null
 sohl:
   kbcat: thrown

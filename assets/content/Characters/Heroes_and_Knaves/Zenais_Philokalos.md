@@ -14,7 +14,7 @@ packFolder: helladbyzaria
 shortcode: zensphlkls
 type: being
 data:
-  icon: sohl-none-icon-person
+  icon: icon-person
   templatePriority: null
   archetypes: []
   occupation: Animal Trainer

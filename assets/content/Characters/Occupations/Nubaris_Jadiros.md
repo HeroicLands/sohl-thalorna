@@ -15,7 +15,7 @@ packFolder: helladhelionis
 shortcode: nubarsjdrs
 type: being
 data:
-  icon: sohl-none-icon-person
+  icon: icon-person
   templatePriority: null
   archetypes: []
   occupation: Nobility (Courtier)

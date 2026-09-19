@@ -9,7 +9,7 @@ description: "A semi-aquatic ambush predator up to eight feet long plus tail, lu
 shortcode: rdgdskmm
 type: being
 data:
-  icon: sohl-none-icon-person
+  icon: icon-person
   templatePriority: null
   archetypes: []
   occupation: null

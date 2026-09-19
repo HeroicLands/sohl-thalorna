@@ -9,7 +9,7 @@ description: "A hyper-evolved insect soldier up to five feet long, defending its
 shortcode: giantant
 type: being
 data:
-  icon: sohl-none-icon-person
+  icon: icon-person
   templatePriority: null
   archetypes: []
   occupation: null

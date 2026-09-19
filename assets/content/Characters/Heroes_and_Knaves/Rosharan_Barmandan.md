@@ -15,7 +15,7 @@ packFolder: sultanateofamradad
 shortcode: rshrnbrmndn
 type: being
 data:
-  icon: sohl-none-icon-person
+  icon: icon-person
   templatePriority: null
   archetypes: []
   occupation: Shipwright

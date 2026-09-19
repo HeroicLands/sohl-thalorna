@@ -8,7 +8,7 @@ description: "Imperial gold coin of the Aerarium Imperii; the largest Vylarian d
 shortcode: aurion
 type: miscgear
 data:
-  icon: sohl-none-icon-coinsbdg
+  icon: icon-coinsbdg
   templatePriority: 0
 sohl:
   craft:

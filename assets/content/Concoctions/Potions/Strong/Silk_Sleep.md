@@ -12,7 +12,7 @@ subType: exotic
 hmk:
   name: "Potion, Soporific, Strong"
 data:
-  icon: sohl-none-icon-potion
+  icon: icon-potion
   templatePriority: null
 sohl:
   system:

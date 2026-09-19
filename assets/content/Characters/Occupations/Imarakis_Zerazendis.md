@@ -15,7 +15,7 @@ packFolder: midhalionvylaria
 shortcode: imrkszrznds
 type: being
 data:
-  icon: sohl-none-icon-person
+  icon: icon-person
   templatePriority: null
   archetypes: []
   occupation: Musician (Drums)

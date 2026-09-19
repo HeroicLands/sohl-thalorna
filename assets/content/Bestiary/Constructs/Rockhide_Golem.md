@@ -9,7 +9,7 @@ description: "A towering ten-foot guardian of fused stone, engineered for brute 
 shortcode: rckhdglm
 type: being
 data:
-  icon: sohl-none-icon-person
+  icon: icon-person
   templatePriority: null
   archetypes: []
   occupation: null

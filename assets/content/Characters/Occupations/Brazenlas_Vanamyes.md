@@ -15,7 +15,7 @@ packFolder: midhalionvylaria
 shortcode: brznlsvnmys
 type: being
 data:
-  icon: sohl-none-icon-person
+  icon: icon-person
   templatePriority: null
   archetypes: []
   occupation: Embalmer

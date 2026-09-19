@@ -9,7 +9,7 @@ description: "A dragonfly scaled to nightmare size, an agile aerial hunter of ri
 shortcode: drgnflyh
 type: being
 data:
-  icon: sohl-none-icon-person
+  icon: icon-person
   templatePriority: null
   archetypes: []
   occupation: null

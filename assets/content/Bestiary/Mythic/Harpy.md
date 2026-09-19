@@ -10,7 +10,7 @@ description: "A quasi-reptilian flying humanoid of high peaks and coastal cliffs
 shortcode: harpy
 type: being
 data:
-  icon: sohl-none-icon-harpy
+  icon: icon-harpy
   templatePriority: null
   archetypes: []
   occupation: null

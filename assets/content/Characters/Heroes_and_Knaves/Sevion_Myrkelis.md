@@ -16,7 +16,7 @@ packFolder: aureldiaelavendre
 shortcode: sevnmyrkls
 type: being
 data:
-  icon: sohl-none-icon-person
+  icon: icon-person
   templatePriority: null
   archetypes: []
   occupation: Alchemist

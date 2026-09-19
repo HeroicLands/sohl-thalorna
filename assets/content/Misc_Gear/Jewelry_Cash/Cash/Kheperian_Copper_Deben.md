@@ -8,7 +8,7 @@ description: "Sealed bronze piece at deben weight, passing at its attested face 
 shortcode: cdeb
 type: miscgear
 data:
-  icon: sohl-none-icon-coinsbdg
+  icon: icon-coinsbdg
   templatePriority: 0
 sohl:
   craft:

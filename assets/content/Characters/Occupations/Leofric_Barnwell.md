@@ -15,7 +15,7 @@ packFolder: aureldiaaelwyth
 shortcode: lefrcbrnwl
 type: being
 data:
-  icon: sohl-none-icon-person
+  icon: icon-person
   templatePriority: null
   archetypes: []
   occupation: Physician

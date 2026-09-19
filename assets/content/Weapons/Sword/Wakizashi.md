@@ -7,7 +7,7 @@ description: "Short curved single-edged blade; secondary steel marking standing 
 shortcode: waki
 type: weapongear
 data:
-  icon: sohl-none-icon-sword
+  icon: icon-sword
   templatePriority: null
 sohl:
   kbcat: sword

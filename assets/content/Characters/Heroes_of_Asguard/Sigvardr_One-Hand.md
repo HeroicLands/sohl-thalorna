@@ -17,7 +17,7 @@ packFolder: ankarisnordlands
 shortcode: sgvrdrnhnd
 type: being
 data:
-  icon: sohl-none-icon-person
+  icon: icon-person
   templatePriority: null
   archetypes: []
   occupation: Warrior and Judge

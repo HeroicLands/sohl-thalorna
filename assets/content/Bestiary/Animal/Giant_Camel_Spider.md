@@ -10,7 +10,7 @@ description: "A fox-sized desert solifugid, neither venomous nor web-spinning, t
 shortcode: gntcmlsp
 type: being
 data:
-  icon: sohl-none-icon-person
+  icon: icon-person
   templatePriority: null
   archetypes: []
   occupation: null

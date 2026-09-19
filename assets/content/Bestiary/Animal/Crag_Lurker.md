@@ -9,7 +9,7 @@ description: "A horse-sized ambush spider that scales sheer cliffs in ghostly si
 shortcode: crglrkr
 type: being
 data:
-  icon: sohl-none-icon-person
+  icon: icon-person
   templatePriority: null
   archetypes: []
   occupation: null

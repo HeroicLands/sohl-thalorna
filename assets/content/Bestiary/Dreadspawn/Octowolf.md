@@ -9,7 +9,7 @@ description: "An unnatural wolf-and-octopus fusion haunting coastal marshes, del
 shortcode: octowolf
 type: being
 data:
-  icon: sohl-none-icon-person
+  icon: icon-person
   templatePriority: null
   archetypes: []
   occupation: null

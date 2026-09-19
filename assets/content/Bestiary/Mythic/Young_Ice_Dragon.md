@@ -10,7 +10,7 @@ description: "A young apex ice-wyrm of high peaks and glaciers, methodical and c
 shortcode: yngicdrg
 type: being
 data:
-  icon: sohl-none-icon-dragonheadft
+  icon: icon-dragonheadft
   templatePriority: null
   archetypes: []
   occupation: null

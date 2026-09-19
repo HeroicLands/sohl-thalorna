@@ -7,7 +7,7 @@ description: "Rope-spiked dart for ranged pierce and entangle; cavalry raider's 
 shortcode: biao
 type: weapongear
 data:
-  icon: sohl-none-icon-flail
+  icon: icon-flail
   templatePriority: null
 sohl:
   kbcat: flail

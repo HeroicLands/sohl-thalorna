@@ -7,7 +7,7 @@ description: "Silent hollow tube for poison darts; hunter's covert strike."
 shortcode: bgun
 type: weapongear
 data:
-  icon: sohl-none-icon-blowgun
+  icon: icon-blowgun
   templatePriority: null
 sohl:
   kbcat: blown

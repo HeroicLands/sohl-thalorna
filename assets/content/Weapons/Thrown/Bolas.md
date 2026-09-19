@@ -7,7 +7,7 @@ description: "Weighted cord-balls entangle and trip; herder's disabled-cavalry t
 shortcode: bola
 type: weapongear
 data:
-  icon: sohl-none-icon-bolas
+  icon: icon-bolas
   templatePriority: null
 sohl:
   kbcat: thrown

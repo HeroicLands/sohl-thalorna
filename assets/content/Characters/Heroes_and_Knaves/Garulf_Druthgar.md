@@ -14,7 +14,7 @@ shortcode: grlfdrthgr
 type: being
 data:
   banner: tamzirbnr
-  icon: sohl-none-icon-person
+  icon: icon-person
   templatePriority: null
   archetypes: []
   occupation: Sellsword

@@ -8,7 +8,7 @@ description: "Confederation eighth-piece of silver; small change across the Vyla
 shortcode: hbit
 type: miscgear
 data:
-  icon: sohl-none-icon-coinsbdg
+  icon: icon-coinsbdg
   templatePriority: 0
 sohl:
   craft:

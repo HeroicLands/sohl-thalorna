@@ -8,7 +8,7 @@ description: "Temple-attested gold weight-piece of one deben; the largest Kheper
 shortcode: gdeb
 type: miscgear
 data:
-  icon: sohl-none-icon-coinsbdg
+  icon: icon-coinsbdg
   templatePriority: 0
 sohl:
   craft:

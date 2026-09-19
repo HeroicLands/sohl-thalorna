@@ -8,7 +8,7 @@ description: "Physical eighth of an Argentus; the everyday small-denomination im
 shortcode: bit
 type: miscgear
 data:
-  icon: sohl-none-icon-coinsbdg
+  icon: icon-coinsbdg
   templatePriority: 0
 sohl:
   craft:

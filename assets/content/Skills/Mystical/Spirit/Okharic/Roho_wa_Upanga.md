@@ -11,7 +11,7 @@ name:
   aliases:
     - The Spirit of the Blade
 data:
-  icon: sohl-none-icon-psychicwaves
+  icon: icon-psychicwaves
   templatePriority: null
 sohl:
   system:

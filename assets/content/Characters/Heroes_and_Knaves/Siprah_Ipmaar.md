@@ -18,7 +18,7 @@ shortcode: siprahipmr
 type: being
 data:
   banner: takheperubnr
-  icon: sohl-none-icon-person
+  icon: icon-person
   templatePriority: null
   archetypes: []
   occupation: Locksmith

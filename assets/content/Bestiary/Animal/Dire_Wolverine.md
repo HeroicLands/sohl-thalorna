@@ -9,7 +9,7 @@ description: "A solitary dire mustelid of cold forests and tundra, fearless and 
 shortcode: drwlvrn
 type: being
 data:
-  icon: sohl-none-icon-person
+  icon: icon-person
   templatePriority: null
   archetypes: []
   occupation: null

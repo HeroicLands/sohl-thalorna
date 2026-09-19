@@ -15,7 +15,7 @@ packFolder: ankariskhazryndesert
 shortcode: afzndhprnzr
 type: being
 data:
-  icon: sohl-none-icon-person
+  icon: icon-person
   templatePriority: null
   archetypes: []
   occupation: Weaponcrafter (Armorer)

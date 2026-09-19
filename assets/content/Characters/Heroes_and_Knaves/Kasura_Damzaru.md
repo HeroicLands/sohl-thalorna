@@ -14,7 +14,7 @@ shortcode: kasuradmzr
 type: being
 data:
   banner: tamzirbnr
-  icon: sohl-none-icon-person
+  icon: icon-person
   templatePriority: null
   archetypes: []
   occupation: Shipwright

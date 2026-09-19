@@ -9,7 +9,7 @@ description: "A sapient woodland goblin dwelling as a solitary hunter, driven by
 shortcode: frstgbln
 type: being
 data:
-  icon: sohl-none-icon-person
+  icon: icon-person
   templatePriority: null
   archetypes: []
   occupation: null

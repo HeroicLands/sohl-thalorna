@@ -7,7 +7,7 @@ description: "Curved iron claws for raking close brawl; street fighter's mercy-l
 shortcode: bghnkh
 type: weapongear
 data:
-  icon: sohl-none-icon-broaddagger
+  icon: icon-broaddagger
   templatePriority: null
 sohl:
   kbcat: knife

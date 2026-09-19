@@ -9,7 +9,7 @@ shortcode: bldbn
 type: mysticalability
 subType: arcaneincantation
 data:
-  icon: sohl-none-icon-anvilbdg
+  icon: icon-anvilbdg
   templatePriority: null
 sohl:
   system:

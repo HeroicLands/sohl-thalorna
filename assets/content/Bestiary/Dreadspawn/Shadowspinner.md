@@ -9,7 +9,7 @@ description: "An infernally intelligent apex arachnid that engineers light-drink
 shortcode: shdwspnn
 type: being
 data:
-  icon: sohl-none-icon-person
+  icon: icon-person
   templatePriority: null
   archetypes: []
   occupation: null

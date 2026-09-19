@@ -9,7 +9,7 @@ description: "A malevolent animate mass of mud, rot, and drowned bones, formed b
 shortcode: swmpglm
 type: being
 data:
-  icon: sohl-none-icon-person
+  icon: icon-person
   templatePriority: null
   archetypes: []
   occupation: null

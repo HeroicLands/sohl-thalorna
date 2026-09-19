@@ -9,7 +9,7 @@ description: "A vicious aerial carnivore with a devastating sting, forming aggre
 shortcode: gntwsp
 type: being
 data:
-  icon: sohl-none-icon-person
+  icon: icon-person
   templatePriority: null
   archetypes: []
   occupation: null

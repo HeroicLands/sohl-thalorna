@@ -9,7 +9,7 @@ description: "A massive pale desert scorpion up to nine feet long, an ambush pre
 shortcode: bnscrpn
 type: being
 data:
-  icon: sohl-none-icon-person
+  icon: icon-person
   templatePriority: null
   archetypes: []
   occupation: null

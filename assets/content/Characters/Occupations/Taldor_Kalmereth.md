@@ -15,7 +15,7 @@ packFolder: aureldiaelavendre
 shortcode: tldrklmrth
 type: being
 data:
-  icon: sohl-none-icon-person
+  icon: icon-person
   templatePriority: null
   archetypes: []
   occupation: Fisher

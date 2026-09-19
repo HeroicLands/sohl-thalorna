@@ -16,7 +16,7 @@ packFolder: ankarisvrystwald
 shortcode: asbjrnkhrt
 type: being
 data:
-  icon: sohl-none-icon-person
+  icon: icon-person
   templatePriority: null
   archetypes: []
   occupation: Woodsman and Guardian

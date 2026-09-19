@@ -9,7 +9,7 @@ description: "A corrupted cervid of predatory intelligence that infiltrates ordi
 shortcode: feraldew
 type: being
 data:
-  icon: sohl-none-icon-person
+  icon: icon-person
   templatePriority: null
   archetypes: []
   occupation: null

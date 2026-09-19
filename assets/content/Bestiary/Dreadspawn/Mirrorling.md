@@ -9,7 +9,7 @@ description: "A light-warping predator of paradox that dwells in mirror halls an
 shortcode: mrrrlng
 type: being
 data:
-  icon: sohl-none-icon-person
+  icon: icon-person
   templatePriority: null
   archetypes: []
   occupation: null

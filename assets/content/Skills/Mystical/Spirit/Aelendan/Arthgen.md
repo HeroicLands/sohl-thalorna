@@ -11,7 +11,7 @@ name:
   aliases:
     - Arthgen, the Bear of the High Corries
 data:
-  icon: sohl-none-icon-psychicwaves
+  icon: icon-psychicwaves
   templatePriority: null
 sohl:
   system:

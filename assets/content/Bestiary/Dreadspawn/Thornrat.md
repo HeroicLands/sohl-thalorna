@@ -9,7 +9,7 @@ description: "A small but deadly plague-bearing scavenger whose venomous spines 
 shortcode: thornrat
 type: being
 data:
-  icon: sohl-none-icon-person
+  icon: icon-person
   templatePriority: null
   archetypes: []
   occupation: null

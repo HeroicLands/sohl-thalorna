@@ -16,7 +16,7 @@ packFolder: ankarisvrystwald
 shortcode: ragnarfrgd
 type: being
 data:
-  icon: sohl-none-icon-person
+  icon: icon-person
   templatePriority: null
   archetypes: []
   occupation: Champion

@@ -10,7 +10,7 @@ description: "A dog-sized rodent born of magical contamination, infesting sewers
 shortcode: giantrat
 type: being
 data:
-  icon: sohl-none-icon-person
+  icon: icon-person
   templatePriority: null
   archetypes: []
   occupation: null

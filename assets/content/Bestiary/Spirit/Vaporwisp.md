@@ -9,7 +9,7 @@ description: "A boundary-dwelling spirit at home in neither realm, drawn to fog,
 shortcode: vprwsp
 type: being
 data:
-  icon: sohl-none-icon-person
+  icon: icon-person
   templatePriority: null
   archetypes: []
   occupation: null

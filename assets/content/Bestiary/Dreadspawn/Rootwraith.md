@@ -9,7 +9,7 @@ description: "A territorial mass of corrupted vegetation and ancient malice that
 shortcode: rtwrth
 type: being
 data:
-  icon: sohl-none-icon-person
+  icon: icon-person
   templatePriority: null
   archetypes: []
   occupation: null

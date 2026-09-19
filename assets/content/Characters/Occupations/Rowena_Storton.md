@@ -16,7 +16,7 @@ packFolder: aureldiaaelwyth
 shortcode: rowenstrtn
 type: being
 data:
-  icon: sohl-none-icon-person
+  icon: icon-person
   templatePriority: null
   archetypes: []
   occupation: Animal Trainer

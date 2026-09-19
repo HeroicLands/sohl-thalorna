@@ -10,7 +10,7 @@ description: "A monstrous four-hundred-pound wolf warped by fell magic into a ne
 shortcode: warg
 type: being
 data:
-  icon: sohl-none-icon-wolfhead
+  icon: icon-wolfhead
   templatePriority: null
   archetypes: []
   occupation: null

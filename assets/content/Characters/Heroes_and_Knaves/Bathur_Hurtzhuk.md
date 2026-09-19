@@ -17,7 +17,7 @@ description: >-
   gravest external threat the imperial frontier has faced in a generation.
 type: being
 data:
-  icon: sohl-none-icon-person
+  icon: icon-person
   templatePriority: null
   archetypes: []
   occupation: null

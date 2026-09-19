@@ -11,7 +11,7 @@ description: "A colossal, ancient ice-wyrm exceeding forty feet, embodying merci
 shortcode: oldicdrg
 type: being
 data:
-  icon: sohl-none-icon-dragonheadft
+  icon: icon-dragonheadft
   templatePriority: null
   archetypes: []
   occupation: null

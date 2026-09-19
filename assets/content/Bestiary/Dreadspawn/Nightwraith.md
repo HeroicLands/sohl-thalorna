@@ -9,7 +9,7 @@ description: "A corrupted giant bat twisted into a cunning nocturnal killer, hun
 shortcode: nghtwrth
 type: being
 data:
-  icon: sohl-none-icon-person
+  icon: icon-person
   templatePriority: null
   archetypes: []
   occupation: null

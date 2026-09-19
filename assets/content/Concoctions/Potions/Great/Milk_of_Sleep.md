@@ -12,7 +12,7 @@ subType: exotic
 hmk:
   name: "Potion, Narcotic, Great"
 data:
-  icon: sohl-none-icon-potion
+  icon: icon-potion
   templatePriority: null
 sohl:
   system:

@@ -9,7 +9,7 @@ description: "A quadrupedal herbivore over 800 pounds and twelve feet long, graz
 shortcode: rcksclan
 type: being
 data:
-  icon: sohl-none-icon-person
+  icon: icon-person
   templatePriority: null
   archetypes: []
   occupation: null

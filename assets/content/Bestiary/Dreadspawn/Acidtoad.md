@@ -9,7 +9,7 @@ description: "A corruption-twisted amphibian of swamps and toxic pools that ambu
 shortcode: acidtoad
 type: being
 data:
-  icon: sohl-none-icon-person
+  icon: icon-person
   templatePriority: null
   archetypes: []
   occupation: null

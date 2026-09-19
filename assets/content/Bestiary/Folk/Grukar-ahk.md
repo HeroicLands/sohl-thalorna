@@ -9,7 +9,7 @@ description: "A self-fertilizing Grukar spawner, one per tribe, uniquely able to
 shortcode: grkrahk
 type: being
 data:
-  icon: sohl-none-icon-orchead
+  icon: icon-orchead
   templatePriority: null
   archetypes: []
   occupation: null

@@ -9,7 +9,7 @@ description: "An enormous flightless desert bird up to ten feet tall, a social h
 shortcode: dnstrdr
 type: being
 data:
-  icon: sohl-none-icon-person
+  icon: icon-person
   templatePriority: null
   archetypes: []
   occupation: null

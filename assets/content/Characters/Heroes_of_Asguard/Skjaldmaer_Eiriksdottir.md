@@ -17,7 +17,7 @@ packFolder: ankarisnordlands
 shortcode: skjldmrrksdtr
 type: being
 data:
-  icon: sohl-none-icon-person
+  icon: icon-person
   templatePriority: null
   archetypes: []
   occupation: Shieldmaiden

@@ -9,7 +9,7 @@ description: "A solitary mountain apex bear standing ten feet tall and topped wi
 shortcode: rckbckbr
 type: being
 data:
-  icon: sohl-none-icon-person
+  icon: icon-person
   templatePriority: null
   archetypes: []
   occupation: null

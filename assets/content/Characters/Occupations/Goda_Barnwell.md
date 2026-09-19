@@ -15,7 +15,7 @@ packFolder: aureldiaaelwyth
 shortcode: godabarnwl
 type: being
 data:
-  icon: sohl-none-icon-person
+  icon: icon-person
   templatePriority: null
   archetypes: []
   occupation: Potter

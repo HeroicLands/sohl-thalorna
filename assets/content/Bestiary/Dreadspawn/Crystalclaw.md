@@ -9,7 +9,7 @@ description: "A crystalline apex predator of gem-rich caverns, a living weapon o
 shortcode: crystlcl
 type: being
 data:
-  icon: sohl-none-icon-person
+  icon: icon-person
   templatePriority: null
   archetypes: []
   occupation: null

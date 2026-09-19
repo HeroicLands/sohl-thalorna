@@ -9,7 +9,7 @@ description: "A powerful elemental of molten heat drawn to volcanic regions, fee
 shortcode: embermaw
 type: being
 data:
-  icon: sohl-none-icon-person
+  icon: icon-person
   templatePriority: null
   archetypes: []
   occupation: null

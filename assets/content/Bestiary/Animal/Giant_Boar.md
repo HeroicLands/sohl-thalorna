@@ -9,7 +9,7 @@ description: "A thousand-pound apex boar of northern forests, standing five feet
 shortcode: gntbr
 type: being
 data:
-  icon: sohl-none-icon-person
+  icon: icon-person
   templatePriority: null
   archetypes: []
   occupation: null

@@ -9,7 +9,7 @@ description: "A small, intelligent semi-arboreal drake ruling the forest canopy,
 shortcode: frstdrk
 type: being
 data:
-  icon: sohl-none-icon-person
+  icon: icon-person
   templatePriority: null
   archetypes: []
   occupation: null

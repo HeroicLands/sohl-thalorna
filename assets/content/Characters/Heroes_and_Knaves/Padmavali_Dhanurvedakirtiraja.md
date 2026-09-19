@@ -14,7 +14,7 @@ packFolder: ankarisvedyara
 shortcode: pdmvldhnrvdkrtrj
 type: being
 data:
-  icon: sohl-none-icon-person
+  icon: icon-person
   templatePriority: null
   archetypes: []
   occupation: Cartographer/Artist

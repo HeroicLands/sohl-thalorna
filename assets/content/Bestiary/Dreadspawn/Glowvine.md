@@ -9,7 +9,7 @@ description: "A dark-magic-corrupted predatory plant that lures unwary prey with
 shortcode: glowvine
 type: being
 data:
-  icon: sohl-none-icon-person
+  icon: icon-person
   templatePriority: null
   archetypes: []
   occupation: null

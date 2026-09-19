@@ -11,7 +11,7 @@ name:
   aliases:
     - The Begetter of the Earth
 data:
-  icon: sohl-none-icon-psychicwaves
+  icon: icon-psychicwaves
   templatePriority: null
 sohl:
   system:

@@ -9,7 +9,7 @@ description: "A shadow-corrupted serpent of malign intelligence that haunts the 
 shortcode: nghtshds
 type: being
 data:
-  icon: sohl-none-icon-person
+  icon: icon-person
   templatePriority: null
   archetypes: []
   occupation: null

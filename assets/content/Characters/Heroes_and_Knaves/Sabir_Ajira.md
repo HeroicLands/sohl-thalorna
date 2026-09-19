@@ -15,7 +15,7 @@ packFolder: heroesandknaveskalihara
 shortcode: sabirajira
 type: being
 data:
-  icon: sohl-none-icon-person
+  icon: icon-person
   templatePriority: null
   archetypes: []
   occupation: Charcoaler

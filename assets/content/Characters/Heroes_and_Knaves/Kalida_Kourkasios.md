@@ -14,7 +14,7 @@ packFolder: helladbyzaria
 shortcode: kalidkrkss
 type: being
 data:
-  icon: sohl-none-icon-person
+  icon: icon-person
   templatePriority: null
   archetypes: []
   occupation: Potter

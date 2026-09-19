@@ -9,7 +9,7 @@ description: "A corruption-born woodland apex predator that blends indistinguish
 shortcode: brmblfng
 type: being
 data:
-  icon: sohl-none-icon-person
+  icon: icon-person
   templatePriority: null
   archetypes: []
   occupation: null

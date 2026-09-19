@@ -9,7 +9,7 @@ description: "An eight-foot construct of interlocking iron plates, forged by arc
 shortcode: agrnsntn
 type: being
 data:
-  icon: sohl-none-icon-person
+  icon: icon-person
   templatePriority: null
   archetypes: []
   occupation: null

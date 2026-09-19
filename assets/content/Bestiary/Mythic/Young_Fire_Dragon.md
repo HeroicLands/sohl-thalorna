@@ -10,7 +10,7 @@ description: "A century-old fire dragon at its most volatile, killing with raw t
 shortcode: yngfrdrg
 type: being
 data:
-  icon: sohl-none-icon-dragonheadft
+  icon: icon-dragonheadft
   templatePriority: null
   archetypes: []
   occupation: null

@@ -9,7 +9,7 @@ description: "A ton-heavy reptilian predator up to eighteen feet long, its mottl
 shortcode: kmdbhmth
 type: being
 data:
-  icon: sohl-none-icon-person
+  icon: icon-person
   templatePriority: null
   archetypes: []
   occupation: null

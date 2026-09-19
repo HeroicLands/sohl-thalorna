@@ -9,7 +9,7 @@ shortcode: vdykshrscrpt
 type: skill
 subType: script
 data:
-  icon: sohl-none-icon-speaking
+  icon: icon-speaking
   templatePriority: null
 sohl:
   system:

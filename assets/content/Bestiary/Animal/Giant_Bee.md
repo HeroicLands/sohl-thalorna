@@ -9,7 +9,7 @@ description: "A wolf-sized insect and hive worker directed by pheromone signals,
 shortcode: giantbee
 type: being
 data:
-  icon: sohl-none-icon-person
+  icon: icon-person
   templatePriority: null
   archetypes: []
   occupation: null
