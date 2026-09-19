@@ -14,7 +14,7 @@ Every issue is classified on four axes — **type**, **priority**, **labels**, a
 body shape for the type you pick:
 
 - [Issue Reporting standard](.github/ISSUE_REPORTING.md)
-- [Open an issue](https://github.com/HeroicLands/sohl-thalorna/issues/new/choose)
+- [Open an issue](https://github.com/HeroicLands/thalorna/issues/new/choose)
 
 Exploitable weaknesses go to a **private advisory**, never a public issue — see
 [SECURITY.md](SECURITY.md).

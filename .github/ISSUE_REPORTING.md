@@ -1,7 +1,7 @@
-# Issue Reporting — sohl-thalorna
+# Issue Reporting — thalorna
 
 This document defines how issues are created and classified in the
-**`sohl-thalorna`** repository, which ships the Thalorna setting package and the
+**`thalorna`** repository, which ships the Thalorna setting package and the
 `/thalorna` site.
 
 **This repository is its own tracker.** File Thalorna work here, not in the system
@@ -332,7 +332,7 @@ tracker.
 | Repository                        | Tracks                                                                       |
 | --------------------------------- | ---------------------------------------------------------------------------- |
 | `Song-of-Heroic-Lands-FoundryVTT` | The Foundry system code, the `sohl` package's content, and the system build  |
-| `sohl-thalorna`                   | **This repository** — the `thalorna` package and the `/thalorna` site        |
+| `thalorna`                        | **This repository** — the `thalorna` package and the `/thalorna` site        |
 | `sohl-kethira-basic`              | The `kethira` package — unofficial Hârn fan material, Foundry packs only     |
 | `heroiclands-site`                | heroiclands.org — its content, Cloudflare Pages, the CDN                     |
 | `heroiclands-hugo-theme`          | The shared Hugo theme this site renders through — layouts, partials, styling |
