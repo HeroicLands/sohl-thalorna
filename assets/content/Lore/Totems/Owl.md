@@ -13,7 +13,7 @@ shortcode: owlttm
 packFolder: loretotems
 data:
   banner: creaturebnr
-  icon: owl
+  icon: owltotem
 ---
 
 Mysterious and patient, owls are nocturnal predators that silently observe their surroundings, waiting for the perfect moment to strike.

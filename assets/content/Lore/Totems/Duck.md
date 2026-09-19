@@ -13,7 +13,7 @@ shortcode: duckttm
 packFolder: loretotems
 data:
   banner: creaturebnr
-  icon: duck
+  icon: ducktotem
 ---
 
 Gregarious and adaptable, ducks are social birds that thrive in diverse environments, often forming strong bonds with their flock.

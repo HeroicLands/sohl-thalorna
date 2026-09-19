@@ -13,7 +13,7 @@ shortcode: falconttm
 packFolder: loretotems
 data:
   banner: creaturebnr
-  icon: falcon
+  icon: falcontotem
 ---
 
 Precise and relentless, falcons are master hunters that dive at incredible speeds to capture prey, showing unparalleled focus and determination.

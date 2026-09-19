@@ -13,7 +13,7 @@ shortcode: parrotttm
 packFolder: loretotems
 data:
   banner: creaturebnr
-  icon: parrot
+  icon: parrottotem
 ---
 
 Social and vocal, parrots are intelligent birds that thrive on interaction and are known for their ability to mimic sounds and engage with their environment.

@@ -13,7 +13,7 @@ shortcode: sturgeonttm
 packFolder: loretotems
 data:
   banner: creaturebnr
-  icon: sturgeon
+  icon: sturgeontotem
 ---
 
 Resilient and steadfast, sturgeons thrive in diverse environments, moving slowly but purposefully, and enduring through various challenges with their strength and persistence.
