@@ -1,5 +1,5 @@
 ---
-"thalorna": minor
+"thalorna": patch
 ---
 
 **Setting artwork loads on the website.** Every icon and portrait a note names

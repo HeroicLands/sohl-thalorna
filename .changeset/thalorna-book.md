@@ -1,5 +1,5 @@
 ---
-"thalorna": minor
+"thalorna": patch
 ---
 
 **The World of Thalorna now builds as a PDF sourcebook**, alongside the
