@@ -1,5 +1,5 @@
 ---
-"thalorna": minor
+"thalorna": patch
 ---
 
 **Faiths and orders wear their own emblems.** An affiliation whose badge this
