@@ -1,5 +1,5 @@
 ---
-"sohl-thalorna": patch
+"thalorna": patch
 ---
 
 **Content tables are now written in SQL.**

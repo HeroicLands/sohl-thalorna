@@ -22,7 +22,7 @@ sohl:
     initSkillMult: 0
 packFolder: script
 flags:
-  "sohl-thalorna":
+  "thalorna":
     script_family: Abjad
 ---
 

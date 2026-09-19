@@ -1,5 +1,5 @@
 ---
-"sohl-thalorna": patch
+"thalorna": patch
 ---
 
 **The romanisation rules stop breaking themselves**

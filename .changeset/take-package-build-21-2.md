@@ -1,5 +1,5 @@
 ---
-"sohl-thalorna": patch
+"thalorna": patch
 ---
 
 **This package moves to `@heroiclands/package-build@^21.2.0`.**

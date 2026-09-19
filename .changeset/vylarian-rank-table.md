@@ -1,5 +1,5 @@
 ---
-"sohl-thalorna": minor
+"thalorna": minor
 ---
 
 **The Vylarian rank ladder reads as a table.** The two-track command structure

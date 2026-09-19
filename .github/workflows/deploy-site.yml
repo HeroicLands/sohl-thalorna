@@ -118,6 +118,15 @@ jobs:
             #
             # Checked before creating rather than tolerating the create's failure,
             # so a genuine error (a bad token, a revoked scope) still fails the run.
+            #
+            # `sohl-thalorna` here is the Pages PROJECT name, which is account
+            # state and independent of the Foundry package id. The project
+            # carries the custom domain the router fetches
+            # (thalorna.pkg.heroiclands.org), and Cloudflare Pages has no
+            # in-place rename: changing this string makes the lookup 404 and
+            # creates a second, domainless project, leaving every reader served
+            # by the first one — which then never receives another deployment.
+            # Move the domain onto a new project before changing the name here.
             - name: Ensure the hosting project exists
               if: ${{ env.CLOUDFLARE_API_TOKEN != '' && env.CLOUDFLARE_ACCOUNT_ID != '' }}
               run: |

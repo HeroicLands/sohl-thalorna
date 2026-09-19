@@ -1,5 +1,5 @@
 ---
-"sohl-thalorna": minor
+"thalorna": minor
 ---
 
 **The World of Thalorna now builds as a PDF sourcebook**, alongside the
