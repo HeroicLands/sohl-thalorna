@@ -13,7 +13,7 @@ shortcode: cowttm
 packFolder: loretotems
 data:
   banner: creaturebnr
-  icon: cow
+  icon: cowtotem
 ---
 
 Docile and routine-oriented, cows are gentle creatures that thrive in familiar environments, following established patterns for feeding and resting.

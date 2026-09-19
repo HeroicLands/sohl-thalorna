@@ -13,7 +13,7 @@ shortcode: eaglettm
 packFolder: loretotems
 data:
   banner: creaturebnr
-  icon: eagle
+  icon: eagletotem
 ---
 
 Blunt, impatient, and merciless, eagles are apex predators that strike with precision, showing little tolerance for any hindrances in their pursuit of prey.

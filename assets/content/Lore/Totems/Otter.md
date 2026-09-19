@@ -13,7 +13,7 @@ shortcode: otterttm
 packFolder: loretotems
 data:
   banner: creaturebnr
-  icon: otter
+  icon: ottertotem
 ---
 
 Playful and curious, otters are highly social animals that enjoy engaging in group activities, often seen playing in water or using tools to crack open food.

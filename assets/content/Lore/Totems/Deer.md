@@ -13,7 +13,7 @@ shortcode: deerttm
 packFolder: loretotems
 data:
   banner: creaturebnr
-  icon: deer
+  icon: deertotem
 ---
 
 Alert and elusive, deer are constantly vigilant, using their keen senses to detect danger and flee at the first sign of a threat.

@@ -13,7 +13,7 @@ shortcode: troutttm
 packFolder: loretotems
 data:
   banner: creaturebnr
-  icon: trout
+  icon: trouttotem
 ---
 
 Swift and wary, trout are agile fish that remain constantly alert, using their speed and awareness to evade predators in freshwater streams.
